@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Reddit Trends</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f0f2f5;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #ff4500;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            padding: 12px;
+            text-align: right;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+        }
+        .trend-title {
+            font-weight: bold;
+            color: #0079d3;
+            direction: ltr; /* English titles */
+            text-align: left;
+        }
+        .category-tag {
+            background-color: #eee;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.9em;
+        }
+        .btn {
+            background-color: #ff4500;
+            color: white;
+            border: none;
+            padding: 8px 12px;
+            cursor: pointer;
+            border-radius: 4px;
+            font-size: 0.9em;
+        }
+        .btn:hover {
+            background-color: #e03d00;
+        }
+        .translation-box {
+            display: none;
+            background-color: #f9f9f9;
+            padding: 10px;
+            margin-top: 5px;
+            border-left: 3px solid #ff4500;
+            font-size: 0.95em;
+        }
+        a {
+            text-decoration: none;
+            color: #0079d3;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>🔥 הטרנדים החמים ברדיט</h1>
+    <p style="text-align: center;">מעודכן ליום: <span id="date"></span></p>
+
+    <table id="trendsTable">
+        <thead>
+            <tr>
+                <th>שם הטרנד (באנגלית)</th>
+                <th>תחום</th>
+                <th>תקציר</th>
+                <th>פעולות</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Rows will be injected here -->
+        </tbody>
+    </table>
+</div>
+
+<script src="data.js"></script>
+<script>
+    document.getElementById('date').innerText = new Date().toLocaleDateString('he-IL');
+
+    const tbody = document.querySelector('#trendsTable tbody');
+
+    if (window.dailyTrends) {
+        window.dailyTrends.forEach((trend, index) => {
+            const tr = document.createElement('tr');
+            
+            const titleTd = document.createElement('td');
+            titleTd.className = 'trend-title';
+            titleTd.innerText = trend.title;
+            
+            const catTd = document.createElement('td');
+            catTd.innerHTML = `<span class="category-tag">${trend.category_he}</span>`;
+            
+            const sumTd = document.createElement('td');
+            sumTd.innerText = trend.summary_he;
+            
+            const actionTd = document.createElement('td');
+            
+            const link = document.createElement('a');
+            link.href = trend.url;
+            link.target = '_blank';
+            link.innerText = '🔗 לינק';
+            link.style.display = 'block';
+            link.style.marginBottom = '5px';
+            
+            const transBtn = document.createElement('button');
+            transBtn.className = 'btn';
+            transBtn.innerText = 'תרגם הכל';
+            transBtn.onclick = () => toggleTranslation(index, trend.selftext, actionTd);
+            
+            const transBox = document.createElement('div');
+            transBox.className = 'translation-box';
+            transBox.id = `trans-${index}`;
+            
+            actionTd.appendChild(link);
+            actionTd.appendChild(transBtn);
+            actionTd.appendChild(transBox);
+            
+            tr.appendChild(titleTd);
+            tr.appendChild(catTd);
+            tr.appendChild(sumTd);
+            tr.appendChild(actionTd);
+            
+            tbody.appendChild(tr);
+        });
+    }
+
+    async function toggleTranslation(index, text, container) {
+        const box = document.getElementById(`trans-${index}`);
+        if (box.style.display === 'block') {
+            box.style.display = 'none';
+            return;
+        }
+        
+        if (box.innerText) {
+            box.style.display = 'block';
+            return;
+        }
+        
+        box.innerText = 'מתרגם...';
+        box.style.display = 'block';
+        
+        try {
+            const response = await fetch('/api/translate', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ text: text || "No text content" })
+            });
+            const data = await response.json();
+            box.innerText = data.translation;
+        } catch (e) {
+            box.innerText = 'שגיאה בתרגום';
+        }
+    }
+</script>
+
+</body>
+</html>
