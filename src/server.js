@@ -1,7 +1,7 @@
 const express = require('express');
 const { fetchTopTrends } = require('./scraper');
-const { summarizePost, categorizePost, translateContent } = require('./ai');
-const { initDB, saveTrends } = require('./db');
+const { summarizePost, categorizePost, summarizeComments } = require('./ai');
+const { initDB, saveTrend, trendExists } = require('./db');
 const cron = require('node-cron');
 const open = require('open');
 const path = require('path');
@@ -14,34 +14,73 @@ const PORT = process.env.PORT || 3000;
 app.use(express.static('public'));
 app.use(express.json());
 
+// Redirect root to template.html
+app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, '../public/template.html'));
+});
+
+console.log('App middleware initialized.');
+
 let latestTrends = [];
 
 // Main logic to fetch and process data
 async function runDailyJob() {
     console.log('Starting daily job...');
     try {
+        // 1. Fetch Candidates (already filtered by time and content emptiness)
         const rawTrends = await fetchTopTrends();
         const processedTrends = [];
+        const savedTrendsForReport = [];
+
+        console.log(`Fetched ${rawTrends.length} potential candidates.`);
 
         for (const trend of rawTrends) {
+            // 2. Deduplication Check
+            const exists = await trendExists(trend.id);
+            if (exists) {
+                console.log(`Skipping duplicate: ${trend.title} (${trend.id})`);
+                continue;
+            }
+
             console.log(`Processing: ${trend.title}`);
-            const summary = await summarizePost(trend.title, trend.selftext);
+
+            // 3. AI Categorization & Filtering
             const category = await categorizePost(trend.title);
 
-            processedTrends.push({
+            // If category is null (SKIP), ignore this post
+            if (!category) {
+                console.log(`Skipping non-finance post: ${trend.title}`);
+                continue;
+            }
+
+            // 4. Summarize Post
+            const summary = await summarizePost(trend.title, trend.selftext);
+
+            // 5. Summarize Comments
+            const commentsSummary = await summarizeComments(trend.top_comments);
+
+            const processedPost = {
                 ...trend,
                 summary_he: summary,
-                category_he: category
-            });
+                category_he: category,
+                comments_summary_he: commentsSummary
+            };
+
+            // 6. Save individual trend
+            await saveTrend(processedPost);
+
+            processedTrends.push(processedPost);
+            savedTrendsForReport.push(processedPost);
         }
 
-        latestTrends = processedTrends;
+        latestTrends = savedTrendsForReport;
 
-        // Save to DB
-        await saveTrends(processedTrends);
-
-        // Generate static HTML (optional, but requested "Output will be formatted HTML file")
-        generateHTMLReport(processedTrends);
+        // Generate static HTML for TODAY'S run
+        if (savedTrendsForReport.length > 0) {
+            generateHTMLReport(savedTrendsForReport);
+        } else {
+            console.log("No new trends found today.");
+        }
 
         console.log('Daily job completed.');
     } catch (error) {
@@ -54,36 +93,38 @@ function generateHTMLReport(trends) {
     const templatePath = path.join(__dirname, '../public/template.html');
     let htmlContent = fs.readFileSync(templatePath, 'utf8');
 
-    // Simple verification that template exists, if not create basic one (handled securely by creating file later)
-
-    // In a real app we might use a template engine, here we'll just inject JSON for client-side rendering
-    // or replace a placeholder. Let's use client-side rendering for simplicity.
-    // We will save a data.js file that the HTML loads.
-
     const dataJsContent = `window.dailyTrends = ${JSON.stringify(trends, null, 2)};`;
     fs.writeFileSync(path.join(__dirname, '../public/data.js'), dataJsContent);
     console.log('Report data generated at public/data.js');
 }
 
-// API to translate specific text
-app.post('/api/translate', async (req, res) => {
-    const { text } = req.body;
+
+
+// API to get historical trends
+app.get('/api/history', async (req, res) => {
     try {
-        const translation = await translateContent(text);
-        res.json({ translation });
+        const { getTrendsByDate } = require('./db');
+        const trends = await getTrendsByDate();
+        res.json(trends);
     } catch (error) {
-        res.status(500).json({ error: 'Translation failed' });
+        res.status(500).json({ error: 'Failed to fetch history' });
     }
 });
 
 // Start Server
 app.listen(PORT, async () => {
     console.log(`Server running at http://localhost:${PORT}`);
+
+    // Check Config
+    console.log('Checking Environment:');
+    console.log(`- APIFY_TOKEN: ${process.env.APIFY_TOKEN ? 'OK' : 'MISSING'}`);
+    console.log(`- GOOGLE_API_KEY: ${process.env.GOOGLE_API_KEY ? 'OK' : 'MISSING'}`);
+    console.log(`- FIREBASE_SERVICE_ACCOUNT: ${process.env.FIREBASE_SERVICE_ACCOUNT_PATH || process.env.SERVICE_ACCOUNT_PATH ? 'OK' : 'MISSING'}`);
+
     initDB();
 
     // Check if we have data, if not run job immediately (for first run)
     if (latestTrends.length === 0) {
-        // Optional: Check if file exists to load previous data?
         try {
             if (fs.existsSync(path.join(__dirname, '../public/data.js'))) {
                 console.log("Found existing data.js");

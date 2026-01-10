@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finance Trends History</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Outfit:wght@400;700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0b0e14;
+            --card-bg: rgba(22, 28, 36, 0.8);
+            --accent-cyan: #00f2ff;
+            --accent-pink: #ff007a;
+            --accent-orange: #ff4500;
+            --text-main: #e1e1e1;
+            --text-dim: #9aa0a6;
+            --glass-border: rgba(255, 255, 255, 0.05);
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            background-image: radial-gradient(circle at 10% 20%, rgba(255, 0, 122, 0.02) 0%, transparent 40%);
+            color: var(--text-main);
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 40px;
+            padding: 20px;
+            background: var(--card-bg);
+            backdrop-filter: blur(10px);
+            border-radius: 16px;
+            border: 1px solid var(--glass-border);
+        }
+
+        h1 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 24px;
+            margin: 0;
+        }
+
+        .btn {
+            background: linear-gradient(135deg, #333, #444);
+            color: white;
+            border: 1px solid var(--glass-border);
+            padding: 10px 20px;
+            border-radius: 10px;
+            cursor: pointer;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 14px;
+        }
+
+        .btn:hover {
+            border-color: var(--accent-cyan);
+            box-shadow: 0 0 15px rgba(0, 242, 255, 0.2);
+        }
+
+        .date-group {
+            margin-bottom: 50px;
+        }
+
+        .date-header {
+            font-family: 'Outfit', sans-serif;
+            font-size: 20px;
+            font-weight: 700;
+            color: var(--accent-cyan);
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .date-header::after {
+            content: '';
+            flex-grow: 1;
+            height: 1px;
+            background: linear-gradient(to left, var(--accent-cyan), transparent);
+            opacity: 0.3;
+        }
+
+        .trends-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+            gap: 20px;
+        }
+
+        .trend-card {
+            background: var(--card-bg);
+            border-radius: 16px;
+            border: 1px solid var(--glass-border);
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .card-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .category-tag {
+            font-size: 10px;
+            font-weight: 700;
+            padding: 3px 8px;
+            border-radius: 4px;
+            background: rgba(255, 0, 122, 0.1);
+            color: var(--accent-pink);
+            border: 1px solid rgba(255, 0, 122, 0.2);
+        }
+
+        .trend-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #fff;
+            text-align: left;
+            direction: ltr;
+            line-height: 1.4;
+            text-decoration: none;
+        }
+
+        .summary {
+            font-size: 14px;
+            line-height: 1.5;
+            color: var(--text-dim);
+        }
+
+        .discussion {
+            font-size: 13px;
+            background: rgba(0, 0, 0, 0.2);
+            padding: 10px;
+            border-radius: 8px;
+            color: var(--text-main);
+        }
+
+        .discussion ul {
+            margin: 5px 0 0 0;
+            padding-right: 15px;
+        }
+
+        .discussion li {
+            margin-bottom: 4px;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 100px;
+            color: var(--text-dim);
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <header class="header">
+            <h1>📅 היסטוריית טרנדים</h1>
+            <a href="/" class="btn">🏠 חזרה לדף הבית</a>
+        </header>
+
+        <div id="content">
+            <div class="loading">מתחבר למסד הנתונים...</div>
+        </div>
+    </div>
+
+    <script>
+        async function fetchHistory() {
+            try {
+                const response = await fetch('/api/history');
+                const trends = await response.json();
+                renderHistory(trends);
+            } catch (error) {
+                document.getElementById('content').innerHTML = '<div class="loading">שגיאה בטעינת הנתונים מהשרת.</div>';
+            }
+        }
+
+        function renderHistory(trends) {
+            const container = document.getElementById('content');
+            if (!trends || trends.length === 0) {
+                container.innerHTML = '<div class="loading">לא נמצאו נתונים היסטוריים.</div>';
+                return;
+            }
+
+            const groups = {};
+            trends.forEach(t => {
+                const date = t.dateString || 'תאריך לא ידוע';
+                if (!groups[date]) groups[date] = [];
+                groups[date].push(t);
+            });
+
+            const sortedDates = Object.keys(groups).sort().reverse();
+            let html = '';
+
+            sortedDates.forEach(date => {
+                const formattedDate = new Date(date).toLocaleDateString('he-IL', { day: 'numeric', month: 'long', year: 'numeric' });
+                html += `
+                    <div class="date-group">
+                        <div class="date-header">${formattedDate}</div>
+                        <div class="trends-grid">
+                `;
+
+                groups[date].forEach(t => {
+                    const discussionList = t.comments_summary_he ?
+                        t.comments_summary_he.split('\n').map(l => l.trim()).filter(l => l).map(l => `<li>${l.replace(/^[*-]\s*/, '')}</li>`).join('') :
+                        '<li>אין סיכום דיון.</li>';
+
+                    html += `
+                        <div class="trend-card">
+                            <div class="card-top">
+                                <span class="category-tag">${t.category_he || 'כלכלה'}</span>
+                                <span style="font-size: 12px; color: var(--accent-orange); font-weight: 700;">↑ ${t.score.toLocaleString()}</span>
+                            </div>
+                            <a href="${t.url}" target="_blank" class="trend-title">${t.title}</a>
+                            <div class="summary">${t.summary_he}</div>
+                            <div class="discussion">
+                                <strong>דיון בקהילה:</strong>
+                                <ul>${discussionList}</ul>
+                            </div>
+                        </div>
+                    `;
+                });
+
+                html += `</div></div>`;
+            });
+
+            container.innerHTML = html;
+        }
+
+        fetchHistory();
+    </script>
+
+</body>
+
+</html>

@@ -2,13 +2,13 @@ const { GoogleGenerativeAI } = require('@google/generative-ai');
 require('dotenv').config();
 
 const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY);
-const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+
+// Global model instance
+// available keys: gemini-3-flash-preview, gemini-2.0-flash
+const model = genAI.getGenerativeModel({ model: "gemini-3-flash-preview" });
 
 /**
  * Summarizes the post content into Hebrew.
- * @param {string} title 
- * @param {string} content 
- * @returns {Promise<string>} Hebrew summary
  */
 async function summarizePost(title, content) {
     const prompt = `
@@ -23,57 +23,76 @@ async function summarizePost(title, content) {
         const result = await model.generateContent(prompt);
         return result.response.text().trim();
     } catch (error) {
-        console.error("Error summarizing post:", error);
-        return "סיכום לא זמין.";
+        console.error(`Summarize Error (${error.message})`);
+        return "תקציר לא זמין (שגיאת AI)";
     }
 }
 
 /**
- * Categorizes the post into a general category.
+ * Categorizes the post and checks if it is Finance related.
+ * Returns the category name in Hebrew if relevant, or NULL/FALSE if not related.
  * @param {string} title 
- * @returns {Promise<string>} Category name (Hebrew/English mixed common terms is fine, user asked for 'Finance, Lifestyle etc')
+ * @returns {Promise<string|null>} Category name or null
  */
 async function categorizePost(title) {
     const prompt = `
-    Categorize this Reddit post title into one of the following categories: Finance, Lifestyle, Tech, News, Entertainment, Sports, Politics, Other.
-    Return ONLY the category name in Hebrew.
+    Analyze this Reddit post title and determine if it belongs to one of these categories:
+    1. Economy (כלכלה)
+    2. Finance (פיננסים)
+    3. Investing (השקעות)
+    4. Business (עסקים)
+    
+    If it belongs to one of these, return the Hebrew Category Name.
+    If it is NOT related to finance/economy (e.g. politics, sports, memes, general news), return "SKIP".
+    
     Title: ${title}
     
-    Category:
+    Response (Category Name or SKIP):
     `;
 
     try {
         const result = await model.generateContent(prompt);
-        return result.response.text().trim();
+        const text = result.response.text().trim();
+        if (text.includes("SKIP") || text.includes("לא רלוונטי")) return null;
+        return text;
     } catch (error) {
-        console.error("Error categorizing post:", error);
+        console.error(`Categorize Error (${error.message})`);
+        // Fallback
         return "כללי";
     }
 }
 
 /**
- * Translates the full content to Hebrew.
- * @param {string} text 
- * @returns {Promise<string>} Hebrew translation
+ * Summarizes the top comments into a concise Hebrew "Discussion Summary".
+ * Now deepened to capture up to 6 distinct opinions/points.
+ * @param {Array} comments 
+ * @returns {Promise<string>}
  */
-async function translateContent(text) {
-    if (!text) return "אין תוכן לתרגום.";
+async function summarizeComments(comments) {
+    if (!comments || comments.length === 0) return "אין תגובות משמעותיות למיזם זה.";
+
+    // Sort by score if available, or just take top 10 for analysis
+    const bestComments = comments.slice(0, 10);
+    const commentsText = bestComments.map((c, i) => `Comment ${i + 1}: ${c.body}`).join("\n");
 
     const prompt = `
-    Translate the following text to Hebrew. Maintain the tone and formatting.
-    Text:
-    ${text}
+    Analyze the following top comments from a Reddit thread.
+    Provide a comprehensive summary in Hebrew that captures at least 6 distinct opinions, points, or unique community sentiments expressed.
+    Use bullet points in Hebrew for the opinions.
     
-    Hebrew Translation:
+    Comments:
+    ${commentsText}
+    
+    Discussion Summary in Hebrew (with 6 bullet points):
     `;
 
     try {
         const result = await model.generateContent(prompt);
         return result.response.text().trim();
     } catch (error) {
-        console.error("Error translating content:", error);
-        return "שגיאה בתרגום.";
+        console.error(`Summarize Comments Error (${error.message})`);
+        return "סיכום תגובות לא זמין כרגע.";
     }
 }
 
-module.exports = { summarizePost, categorizePost, translateContent };
+module.exports = { summarizePost, categorizePost, summarizeComments };
