@@ -1,7 +1,7 @@
 const express = require('express');
 const { fetchTopTrends } = require('./scraper');
 const { summarizePost, categorizePost, summarizeComments } = require('./ai');
-const { initDB, saveTrend, trendExists } = require('./db');
+const { initDB, saveTrend, trendExists, getTrend, getTrendsByDate } = require('./db');
 const cron = require('node-cron');
 const open = require('open');
 const path = require('path');
@@ -25,29 +25,42 @@ let latestTrends = [];
 
 // Main logic to fetch and process data
 async function runDailyJob() {
-    console.log('Starting daily job...');
+    const jobStartTime = new Date();
+    console.log(`[${jobStartTime.toLocaleString()}] Starting daily job...`);
+
     try {
-        // 1. Fetch Candidates (already filtered by time and content emptiness)
+        // 1. Fetch Candidates (up to 48h old)
+        console.log('Step 1: Fetching trends from Reddit...');
         const rawTrends = await fetchTopTrends();
         const processedTrends = [];
-        const savedTrendsForReport = [];
 
-        console.log(`Fetched ${rawTrends.length} potential candidates.`);
+        console.log(`✓ Fetched ${rawTrends.length} potential candidates.`);
+
+        if (rawTrends.length === 0) {
+            console.warn('⚠ WARNING: No trends were fetched from Reddit!');
+            return;
+        }
 
         for (const trend of rawTrends) {
-            // 2. Deduplication Check
-            const exists = await trendExists(trend.id);
-            if (exists) {
-                console.log(`Skipping duplicate: ${trend.title} (${trend.id})`);
+            // 2. Check if we already have this post processed in DB
+            let existingTrend = null;
+            try {
+                existingTrend = await getTrend(trend.id);
+            } catch (err) {
+                console.error(`Error checking DB for ${trend.id}:`, err.message);
+            }
+
+            if (existingTrend) {
+                console.log(`Using existing data for: ${trend.title}`);
+                processedTrends.push(existingTrend);
                 continue;
             }
 
-            console.log(`Processing: ${trend.title}`);
+            console.log(`Processing NEW: ${trend.title}`);
 
             // 3. AI Categorization & Filtering
             const category = await categorizePost(trend.title);
 
-            // If category is null (SKIP), ignore this post
             if (!category) {
                 console.log(`Skipping non-finance post: ${trend.title}`);
                 continue;
@@ -66,25 +79,29 @@ async function runDailyJob() {
                 comments_summary_he: commentsSummary
             };
 
-            // 6. Save individual trend
+            // 6. Save new trend
             await saveTrend(processedPost);
-
             processedTrends.push(processedPost);
-            savedTrendsForReport.push(processedPost);
         }
 
-        latestTrends = savedTrendsForReport;
+        // Always update latestTrends and the HTML report with whatever is CURRENTLY hot
+        latestTrends = processedTrends;
 
-        // Generate static HTML for TODAY'S run
-        if (savedTrendsForReport.length > 0) {
-            generateHTMLReport(savedTrendsForReport);
+        if (latestTrends.length > 0) {
+            generateHTMLReport(latestTrends);
+            console.log(`✓ Updated report with ${latestTrends.length} trends.`);
         } else {
-            console.log("No new trends found today.");
+            console.log("⚠ No finance-related trends found in this run.");
         }
 
-        console.log('Daily job completed.');
+        const jobEndTime = new Date();
+        const duration = ((jobEndTime - jobStartTime) / 1000).toFixed(2);
+        console.log(`\n✓ Daily job completed successfully in ${duration} seconds`);
+        console.log(`  - Processed: ${processedTrends.length} trends`);
+        console.log(`  - Time: ${jobEndTime.toLocaleString()}\n`);
     } catch (error) {
-        console.error('Error in daily job:', error);
+        console.error('\n❌ ERROR in daily job:', error);
+        console.error('Stack trace:', error.stack);
     }
 }
 
@@ -135,9 +152,29 @@ app.listen(PORT, async () => {
         } catch (e) { console.log("Error checking data:", e) }
     }
 
-    // Schedule cron for 8:00 AM
+    // Schedule cron for 8:00 AM daily
     cron.schedule('0 8 * * *', () => {
-        console.log('Running scheduled task at 8:00 AM');
+        const now = new Date();
+        console.log(`\n${'='.repeat(60)}`);
+        console.log(`CRON JOB TRIGGERED at ${now.toLocaleString()}`);
+        console.log(`${'='.repeat(60)}\n`);
         runDailyJob();
+    }, {
+        scheduled: true,
+        timezone: "Asia/Jerusalem" // Set to your timezone
+    });
+
+    console.log('✓ Cron job scheduled for 8:00 AM daily (Asia/Jerusalem timezone)');
+
+    // Also add an API endpoint to manually trigger the job
+    app.post('/api/run-job', async (req, res) => {
+        console.log('\n[MANUAL TRIGGER] Daily job started via API');
+        try {
+            await runDailyJob();
+            res.json({ success: true, message: 'Daily job completed successfully' });
+        } catch (error) {
+            console.error('[MANUAL TRIGGER] Error:', error);
+            res.status(500).json({ success: false, error: error.message });
+        }
     });
 });

@@ -1,27 +1,36 @@
 const admin = require('firebase-admin');
+const path = require('path');
 require('dotenv').config();
 
 let db;
 
 function initDB() {
     try {
-        const serviceAccountPath = process.env.FIREBASE_SERVICE_ACCOUNT_PATH || process.env.SERVICE_ACCOUNT_PATH;
+        let serviceAccountPath = process.env.FIREBASE_SERVICE_ACCOUNT_PATH || process.env.SERVICE_ACCOUNT_PATH;
 
+        // Fallback: Look for serviceAccountKey.json in the project root (one level up from src)
         if (!serviceAccountPath) {
-            console.warn('FIREBASE_SERVICE_ACCOUNT_PATH (or SERVICE_ACCOUNT_PATH) not set. Skipping Firebase init.');
-            return;
+            const defaultPath = path.join(__dirname, '../serviceAccountKey.json');
+            // We won't check fs.existsSync here to avoid complex fs imports, 
+            // but we will try to resolve it.
+            serviceAccountPath = defaultPath;
+            console.log(`No env var found. Trying default path: ${serviceAccountPath}`);
         }
 
-        const serviceAccount = require(require('path').resolve(serviceAccountPath));
+        const resolvedPath = path.resolve(serviceAccountPath);
+        const serviceAccount = require(resolvedPath);
 
-        admin.initializeApp({
-            credential: admin.credential.cert(serviceAccount)
-        });
+        if (!admin.apps.length) {
+            admin.initializeApp({
+                credential: admin.credential.cert(serviceAccount)
+            });
+        }
 
         db = admin.firestore();
         console.log('Firebase initialized successfully.');
     } catch (error) {
-        console.warn('Error initializing Firebase (check credentials):', error.message);
+        console.error('CRITICAL: Error initializing Firebase:', error.message);
+        db = null; // Ensure db is null so we can check it later
     }
 }
 
@@ -31,13 +40,32 @@ function initDB() {
  * @returns {Promise<boolean>}
  */
 async function trendExists(id) {
-    if (!db) return false;
+    if (!db) {
+        console.error("DB Not initialized. Cannot check trend existence.");
+        throw new Error("DB_NOT_INITIALIZED");
+    }
     try {
         const doc = await db.collection('trends').doc(id).get();
         return doc.exists;
     } catch (error) {
         console.error('Error checking trend existence:', error);
-        return false;
+        throw error;
+    }
+}
+
+/**
+ * Gets a trend by its ID.
+ * @param {string} id 
+ * @returns {Promise<Object|null>}
+ */
+async function getTrend(id) {
+    if (!db) return null;
+    try {
+        const doc = await db.collection('trends').doc(id).get();
+        return doc.exists ? doc.data() : null;
+    } catch (error) {
+        console.error(`Error fetching trend ${id}:`, error);
+        return null;
     }
 }
 
@@ -82,4 +110,4 @@ async function getTrendsByDate() {
     }
 }
 
-module.exports = { initDB, trendExists, saveTrend, getTrendsByDate };
+module.exports = { initDB, trendExists, getTrend, saveTrend, getTrendsByDate };

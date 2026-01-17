@@ -25,7 +25,7 @@ async function fetchTopTrends() {
             }
         }
 
-        const ONE_DAY_MS = 24 * 60 * 60 * 1000;
+        const MAX_AGE_MS = 48 * 60 * 60 * 1000;
         const now = Date.now();
 
         // 1. Initial Filter
@@ -37,7 +37,9 @@ async function fetchTopTrends() {
                 if (!content || content.trim().length < 20) return false; // More strict on content length
 
                 const createdTime = item.created_utc * 1000;
-                if (now - createdTime > ONE_DAY_MS) return false;
+                if (now - createdTime > MAX_AGE_MS) {
+                    return false;
+                }
 
                 return true;
             })
