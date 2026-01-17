@@ -14,8 +14,21 @@ async function fetchTopTrends() {
 
         for (const sub of subreddits) {
             try {
+                // Add delay between requests to avoid rate limiting
+                if (allItems.length > 0) {
+                    await new Promise(resolve => setTimeout(resolve, 1000));
+                }
+
                 const response = await axios.get(`https://www.reddit.com/r/${sub}/hot/.json?limit=15`, {
-                    headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) RedditTrendsScraper/1.0' }
+                    headers: {
+                        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0',
+                        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+                        'Accept-Language': 'en-US,en;q=0.5',
+                        'Accept-Encoding': 'gzip, deflate, br',
+                        'DNT': '1',
+                        'Connection': 'keep-alive',
+                        'Upgrade-Insecure-Requests': '1'
+                    }
                 });
                 if (response.data && response.data.data && response.data.data.children) {
                     allItems = allItems.concat(response.data.data.children.map(c => c.data));
@@ -53,9 +66,16 @@ async function fetchTopTrends() {
         for (const item of candidates) {
             let topComments = [];
             try {
+                // Add delay between comment requests
+                await new Promise(resolve => setTimeout(resolve, 500));
+
                 // Reddit comments endpoint returns an array where [0] is the post and [1] is the comment listing
                 const commResponse = await axios.get(`https://www.reddit.com/comments/${item.id}.json?limit=15`, {
-                    headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) RedditTrendsScraper/1.0' }
+                    headers: {
+                        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0',
+                        'Accept': 'application/json',
+                        'Accept-Language': 'en-US,en;q=0.5'
+                    }
                 });
 
                 if (commResponse.data && commResponse.data[1] && commResponse.data[1].data.children) {
