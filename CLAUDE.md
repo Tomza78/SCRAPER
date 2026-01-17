@@ -138,11 +138,17 @@ run_daily_job.bat    # Windows Task Scheduler wrapper
 
 ## Scheduled Job Setup
 
-**Production (Recommended): GitHub Actions**
+**Production (Recommended): Railway.app + Cron-job.org** ⭐
+- Railway hosts the application 24/7 in the cloud
+- Cron-job.org triggers the daily scraper via API call
+- $5 free credit/month (sufficient for 2-3 months)
+- Not blocked by Reddit (unlike GitHub Actions)
+- See `RAILWAY_SETUP.md` for complete setup guide
+
+**Alternative: GitHub Actions** (Currently blocked by Reddit)
 - Automated daily execution at 8:00 AM (Israel time)
-- Runs in the cloud, independent of local machine
-- Automatically commits updated data to repository
 - Free tier provides 2,000 minutes/month
+- Currently experiences 403 errors from Reddit
 - See `GITHUB_ACTIONS_SETUP.md` for setup instructions
 - Workflow file: `.github/workflows/daily-scraper.yml`
 
