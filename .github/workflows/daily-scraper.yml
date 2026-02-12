@@ -14,6 +14,8 @@ jobs:
 
     permissions:
       contents: write
+      pages: write
+      id-token: write
 
     steps:
       - name: Checkout repository
@@ -54,11 +56,38 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "🤖 Auto-update: Daily Reddit trends data ($(date +'%Y-%m-%d %H:%M'))"
+            git commit -m "Auto-update: Daily Reddit trends data ($(date +'%Y-%m-%d %H:%M'))"
             git push
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+
+      - name: Send email notification
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "הדוח היומי מוכן - Reddit Finance Dashboard"
+          to: ${{ secrets.EMAIL_TO }}
+          from: Reddit Finance Bot
+          html_body: |
+            <div dir="rtl" style="font-family: Arial, sans-serif; padding: 20px;">
+              <h2>הדוח היומי מוכן!</h2>
+              <p>הנתונים עודכנו בהצלחה.</p>
+              <a href="https://tomza78.github.io/SCRAPER/"
+                 style="display: inline-block; padding: 15px 30px; background: #0079d3; color: white; text-decoration: none; border-radius: 8px; font-size: 18px; font-weight: bold;">
+                 פתח את הדשבורד
+              </a>
+              <p style="color: #666; margin-top: 20px; font-size: 12px;">נשלח אוטומטית כל בוקר ב-8:00</p>
+            </div>
 
       - name: Cleanup credentials
         if: always()
