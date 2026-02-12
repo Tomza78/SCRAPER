@@ -228,7 +228,12 @@ window.dailyTrends = [
     ],
     "summary_he": "הכותב תוהה האם כדאי לשדרג את המעקב אחר תיק ההשקעות שלו מגרפים פשוטים באקסל לוויזואליזציות מתקדמות ומורכבות יותר, כמו מפות חום או דאשבורדים. הוא מבקש להבין האם כלים אלו אכן תורמים לקבלת החלטות ולזיהוי מגמות, או שמדובר בשיפור אסתטי בלבד שיוצר עומס מיותר.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ותובנות שונות של חברי הקהילה בנוגע למעקב וניהול השקעות:\n\n*   **גרפיקה מורכבת עלולה להטעות:** קיימת דעה שגרפים תלת-ממדיים או עיצובים ויזואליים מפוארים אמנם נראים מרשימים, אך הם לעיתים קרובות מקשים על הבנת המתמטיקה והנתונים בפועל ומסבכים את התמונה שלא לצורך.\n*   **חשיבות ההשוואה למדד ייחוס (Benchmark):** הכלי הוויזואלי החשוב והיעיל ביותר הוא קו השוואה פשוט מול מדד מוביל (כמו ה-S&P 500). זאת כדי לבדוק באופן אובייקטיבי אם אסטרטגיית ההשקעה הנבחרת אכן מניבה ביצועים טובים יותר מאשר קרן סל פשוטה.\n*   **הערך של פשטות ועקביות לאורך זמן:** שימוש בכלים בסיסיים ונגישים כמו Excel יכול להספיק למעקב יעיל אחר הון עצמי וחיסכון, גם לטווחים ארוכים מאוד של עשרות שנים (למשל, מעל 30 שנה).\n*   **ניהול הקצאת נכסים (Asset Allocation):** נקודת מפתח בניהול התיק היא לא רק מעקב אחר הסכום הכולל, אלא חישוב מדויק של הקצאת הנכסים בפועל אל מול יעד ההקצאה המתוכנן, כדי לשמור על איזון התיק.\n*   **סכנת הניטור העודף:** ריבוי של לוחות בקרה (Dashboards), גרפים ומדדי ביצוע (KPIs) עלול להיות בעל השפעה הפוכה. עודף מידע עלול לגרום למשקיע לפעול בתזזיתיות ובאימפולסיביות (כמו \"הפרעת קשב וריכוז\" בשוק), מה שמוביל לעיתים קרובות להפסדים כספיים.\n*   **העדפת האסטרטגיה הפסיבית:** קיימת סנטימנט חזק בקהילה לפיו הגישה הטובה ביותר היא \"קנה, החזק ושכח\". לפעמים הדרך הבטוחה ביותר לרווח היא פשוט להפסיק לנתח את הנתונים ללא הרף ולאפשר להשקעה לצמוח בשקט."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ותובנות שונות של חברי הקהילה בנוגע למעקב וניהול השקעות:\n\n*   **גרפיקה מורכבת עלולה להטעות:** קיימת דעה שגרפים תלת-ממדיים או עיצובים ויזואליים מפוארים אמנם נראים מרשימים, אך הם לעיתים קרובות מקשים על הבנת המתמטיקה והנתונים בפועל ומסבכים את התמונה שלא לצורך.\n*   **חשיבות ההשוואה למדד ייחוס (Benchmark):** הכלי הוויזואלי החשוב והיעיל ביותר הוא קו השוואה פשוט מול מדד מוביל (כמו ה-S&P 500). זאת כדי לבדוק באופן אובייקטיבי אם אסטרטגיית ההשקעה הנבחרת אכן מניבה ביצועים טובים יותר מאשר קרן סל פשוטה.\n*   **הערך של פשטות ועקביות לאורך זמן:** שימוש בכלים בסיסיים ונגישים כמו Excel יכול להספיק למעקב יעיל אחר הון עצמי וחיסכון, גם לטווחים ארוכים מאוד של עשרות שנים (למשל, מעל 30 שנה).\n*   **ניהול הקצאת נכסים (Asset Allocation):** נקודת מפתח בניהול התיק היא לא רק מעקב אחר הסכום הכולל, אלא חישוב מדויק של הקצאת הנכסים בפועל אל מול יעד ההקצאה המתוכנן, כדי לשמור על איזון התיק.\n*   **סכנת הניטור העודף:** ריבוי של לוחות בקרה (Dashboards), גרפים ומדדי ביצוע (KPIs) עלול להיות בעל השפעה הפוכה. עודף מידע עלול לגרום למשקיע לפעול בתזזיתיות ובאימפולסיביות (כמו \"הפרעת קשב וריכוז\" בשוק), מה שמוביל לעיתים קרובות להפסדים כספיים.\n*   **העדפת האסטרטגיה הפסיבית:** קיימת סנטימנט חזק בקהילה לפיו הגישה הטובה ביותר היא \"קנה, החזק ושכח\". לפעמים הדרך הבטוחה ביותר לרווח היא פשוט להפסיק לנתח את הנתונים ללא הרף ולאפשר להשקעה לצמוח בשקט.",
+    "dateString": "2026-02-12",
+    "savedAt": {
+      "_seconds": 1770886835,
+      "_nanoseconds": 251000000
+    }
   },
   {
     "id": "1r2ncuu",
@@ -254,7 +259,12 @@ window.dailyTrends = [
     ],
     "summary_he": "כותב הפוסט שיתף כי החליט להפסיק להשקיע בשוק האמריקאי (S&P 500) ובמדדים עולמיים, ומחפש כעת חשיפה גיאוגרפית חלופית. הוא מחזיק כיום במדדים מאירופה, בריטניה, יפן ואסיה, ומבקש מהגולשים המלצות על סדרי עדיפויות והחזקות מגוונות מחוץ לארה\"ב.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והדעות העולות מתוך התגובות:\n\n*   **אסטרטגיית הליבה מבוססת מדדים:** קיימת הסכמה על שימוש בקרנות מדדים רחבות ומגוונות כבסיס המרכזי של תיק ההשקעות (כ-85% מהתיק), מה שמעיד על העדפה ליציבות ופיזור סיכונים.\n*   **איזון בין שוק מקומי לגלובלי:** משקיעים בוחרים לשלב בין חשיפה לשוק הביתי (כמו השוק האוסטרלי בשיעור של 30%) לבין חשיפה נרחבת לשאר העולם (70%), כדי ליהנות מצמיחה גלובלית לצד היכרות עם השוק המקומי.\n*   **חשיפה מוגברת לשווקים מתעוררים:** קיימת נטייה להקצות חלק קטן מהתיק (כ-15%) באופן ספציפי להודו ולשווקים אחרים באסיה, מתוך רצון להשיג חשיפה גבוהה יותר לפוטנציאל הצמיחה של אזורים אלו.\n*   **מיקוד טכנולוגי אסיאתי (ללא יפן):** ישנה העדפה מובחנת להשקעה בטכנולוגיה מאסיה תוך החרגה מכוונת של השוק היפני, מה שמעיד על רצון להתמקד בכלכלות צומחות ודינמיות יותר במזרח הרחוק.\n*   **השקעות אחראיות (ESG) למרות החסרונות:** משקיעים בוחרים בקרנות העומדות בתקני ESG (סביבה, חברה וממשל תאגידי) בשווקים מתעוררים, גם כאשר הם מודעים לכך שהן נוטות לעיתים להציג ביצועי חסר בהשוואה למדדים רגילים.\n*   **השקעה עקיפה בענקיות השבבים:** השימוש בקרנות סל בשווקים מתעוררים נתפס כדרך יעילה להחזיק בחברות טכנולוגיה מובילות כמו סמסונג (Samsung), TSMC ו-SK Hynix, המהוות את עמוד השדרה של תעשיית השבבים העולמית."
+    "comments_summary_he": "להלן סיכום הדיון והדעות העולות מתוך התגובות:\n\n*   **אסטרטגיית הליבה מבוססת מדדים:** קיימת הסכמה על שימוש בקרנות מדדים רחבות ומגוונות כבסיס המרכזי של תיק ההשקעות (כ-85% מהתיק), מה שמעיד על העדפה ליציבות ופיזור סיכונים.\n*   **איזון בין שוק מקומי לגלובלי:** משקיעים בוחרים לשלב בין חשיפה לשוק הביתי (כמו השוק האוסטרלי בשיעור של 30%) לבין חשיפה נרחבת לשאר העולם (70%), כדי ליהנות מצמיחה גלובלית לצד היכרות עם השוק המקומי.\n*   **חשיפה מוגברת לשווקים מתעוררים:** קיימת נטייה להקצות חלק קטן מהתיק (כ-15%) באופן ספציפי להודו ולשווקים אחרים באסיה, מתוך רצון להשיג חשיפה גבוהה יותר לפוטנציאל הצמיחה של אזורים אלו.\n*   **מיקוד טכנולוגי אסיאתי (ללא יפן):** ישנה העדפה מובחנת להשקעה בטכנולוגיה מאסיה תוך החרגה מכוונת של השוק היפני, מה שמעיד על רצון להתמקד בכלכלות צומחות ודינמיות יותר במזרח הרחוק.\n*   **השקעות אחראיות (ESG) למרות החסרונות:** משקיעים בוחרים בקרנות העומדות בתקני ESG (סביבה, חברה וממשל תאגידי) בשווקים מתעוררים, גם כאשר הם מודעים לכך שהן נוטות לעיתים להציג ביצועי חסר בהשוואה למדדים רגילים.\n*   **השקעה עקיפה בענקיות השבבים:** השימוש בקרנות סל בשווקים מתעוררים נתפס כדרך יעילה להחזיק בחברות טכנולוגיה מובילות כמו סמסונג (Samsung), TSMC ו-SK Hynix, המהוות את עמוד השדרה של תעשיית השבבים העולמית.",
+    "dateString": "2026-02-12",
+    "savedAt": {
+      "_seconds": 1770886852,
+      "_nanoseconds": 465000000
+    }
   },
   {
     "id": "1r2n7x0",
@@ -269,7 +279,12 @@ window.dailyTrends = [
     "top_comments": [],
     "summary_he": "בורסת CME נערכת להשקת חוזים עתידיים על מתכות נדירות (NdPr), זאת על רקע זינוק של 40% במחיריהן השנה. המהלך נועד לספק כלי גידור לבנקים לצורך מימון מכרות במערב, אך הוא עשוי להוביל לתנודתיות גבוהה במיוחד עם כניסתם של משקיעים פרטיים לשוק.",
     "category_he": "פיננסים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-02-12",
+    "savedAt": {
+      "_seconds": 1770886859,
+      "_nanoseconds": 309000000
+    }
   },
   {
     "id": "1r2n0v4",
@@ -309,32 +324,6 @@ window.dailyTrends = [
     "savedAt": {
       "_seconds": 1770881206,
       "_nanoseconds": 153000000
-    }
-  },
-  {
-    "id": "1r2jdfv",
-    "title": "HNW (accredited/QC/QP) Investor Groups for discussion of Alternative Investments",
-    "url": "https://www.reddit.com/r/investing/comments/1r2jdfv/hnw_accreditedqcqp_investor_groups_for_discussion/",
-    "author": "Vaperso",
-    "score": 1,
-    "selftext": "I tried posting a version of this on another subreddit and was met with universally negative reactions. \n\nBasically, as a HNWI, given current public market valuations, I have been diversifying my portfolio away from pure ETFs of public stocks (which still constitute a majority of my holdings).\n\nLonger term, Private equity has outperformed public markets. Even Vanguard thinks next ten years PE will outperform US equities ( [https://corporate.vanguard.com/content/dam/corp/research/pdf/vanguard\\_2025\\_midyear\\_private\\_equity\\_review\\_and\\_outlook.pdf](https://corporate.vanguard.com/content/dam/corp/research/pdf/vanguard_2025_midyear_private_equity_review_and_outlook.pdf) ).\n\nAdditionally,  private real estate income is tax advantaged. Given the real estate downturn since rise in interest rates, I think it's not a bad time to allocate more to commercial real estate. Distributions are offset by depreciation. You keep rolling to bigger syndications (in my case because I don't ever want to actively manage anything) with bigger distributions. [https://www.therealestatecrowdfundingreview.com/post/2018/02/12/how-to-invest-in-passive-real-estate-without-paying-a-penny-of-tax-legally-part-2-defer-d](https://www.therealestatecrowdfundingreview.com/post/2018/02/12/how-to-invest-in-passive-real-estate-without-paying-a-penny-of-tax-legally-part-2-defer-d)\n\nThe issue is with private markets there's information and access inefficiencies which have mostly disappeared with public markets. **To learn about alts and to get access to deal flow I have joined some groups but would appreciate if others have more suggestions.** Here's my opinion of the groups I have tried out:\n\n506 Investor Group ( [https://506investorgroup.com/](https://506investorgroup.com/) ): This in my opinion is the best of the bunch. They don't allow sponsors in. Investors discuss deal flow freely. It is free to join. They get discounts with several sponsors on fees. And they have an RIA ( [https://cornerstonealternatives.com/](https://cornerstonealternatives.com/) ) which only charges .25% fee for access to Private Equity, Private Credit etc.\n\nPrivate Investor Club ( [https://www.privateinvestorclub.com/](https://www.privateinvestorclub.com/) ): This group is also free. You learn a lot here as well from other members and see various deals. They do run some feeders but most of the discussions here are not about the feeders. Basically, mostly investors helping other investors with due Diligence.\n\nPassive Pockets ( [https://passivepockets.com/](https://passivepockets.com/) ): This one charges an annual fee. I have found the deal flow and discussions sub par so I didn't renew. Many of the sponsors who advertise with them are also subpar (they seem to have a higher miss rate than the other groups but obviously with real estate downturn there have been a lot more misses).\n\nBoulder Investor Group ( [https://boulderinvestmentgroup.com/](https://boulderinvestmentgroup.com/) ): This one has a small fee to join but is then free. They have around a deal or two a month often at preferred terms. I believe they get a fee from the sponsors who present to the group. Deals are not bad though but I have not yet invested.\n\nLongAngle ( [https://www.longangle.com/](https://www.longangle.com/) ) : This one is more lifestyle focused but they do have an offering or so a month. It is also free to join unless you want to pay extra for premier membership. They only allow discussion of their own feeders. They charge 1.27% for their feeders some of which are the same things you get from Cornerstone above for .25%. But the discussions are mostly not about the deals.\n\nAll of these groups have some sort of vetting. LongAngle vets for net worth, 506 and PIC to make sure you're not a sponsor, etc.\n\nI also jointed the LP-GP mailing list mostly to see more deals but frankly most of those deals have not been great.\n\nAnyway, **I appreciate if others suggestions for other groups to join.**",
-    "subreddit": "investing",
-    "created_utc": 1770868892,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Pretty solid breakdown of the different groups - I've been looking into similar stuff myself lately. The PE allocation makes a lot of sense right now especially with how frothy public markets still feel\n\n  \nI'm actually in a couple regional groups that might be worth checking out depending where you're located. There's usually some decent local commercial RE syndicates that don't advertise online much but have solid track records. Sometimes the best deals never make it to these bigger platforms because they get filled through local networks first\n\n  \nHave you looked into any of the family office networks? Some of them have investment committees that share deal flow among members. The vetting is usually pretty rigorous but the quality tends to be higher than what you see on the broader platforms. Also worth checking if your wealth manager has access to any private networks - a lot of the bigger RIAs have relationships that aren't publicly advertised\n\n  \nThe tax advantages on the RE side are definitely compelling right now, just make sure you're comfortable with the illiquidity especially if rates stay elevated longer than expected",
-        "score": 1,
-        "author": "Appropriate_Fox1238"
-      }
-    ],
-    "summary_he": "פוסט זה נכתב על ידי משקיע כשיר (HNWI) המבקש לגוון את תיק ההשקעות שלו באמצעות השקעות אלטרנטיביות, כגון קרנות פרייבט אקוויטי ונדל\"ן מסחרי, בשל פוטנציאל תשואה גבוה והטבות מס. הכותב סוקר ומדרג מספר קבוצות משקיעים המעניקות גישה למידע ולעסקאות בלעדיות, ומבקש מהגולשים המלצות על קבוצות איכותיות נוספות בתחום.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים מרכזיים שעלו בקהילה:\n\n*   **כדאיות ההשקעה ב-Private Equity:** קיימת הסכמה שהקצאת נכסים להשקעות פרטיות (PE) היא אסטרטגיה מוצקה כיום, במיוחד לאור התחושה שהשווקים הציבוריים \"מנופחים\" או יקרים מדי (Frothy).\n*   **חשיבותן של רשתות מקומיות בנדל\"ן:** המשתתפים מציינים כי עסקאות הנדל\"ן המסחרי הטובות ביותר לרוב אינן מפורסמות בפלטפורמות הגדולות, אלא נסגרות בתוך קבוצות השקעה אזוריות ורשתות קשרים מקומיות (\"מתחת לרדאר\").\n*   **הערך של Family Offices:** רשתות של משרדי ניהול עושר משפחתיים נתפסות כמקור איכותי מאוד להשקעות. היתרון שלהן טמון בוועדות השקעה המבצעות סינון קפדני (Vetting) ומשתפות זרם עסקאות (Deal flow) ברמה גבוהה יותר מהממוצע.\n*   **ניצול קשרים של מנהלי עושר (RIA):** מומלץ לבדוק האם למנהל העושר האישי יש גישה לרשתות פרטיות או לשותפויות שאינן נגישות לציבור הרחב, שכן גופים מוסדיים קטנים מחזיקים לעיתים בקשרים בלעדיים.\n*   **יתרונות מס בנדל\"ן:** קיים סנטימנט חיובי חזק כלפי השקעות נדל\"ן כרגע בשל הטבות המס המשמעותיות שהן מציעות, דבר המהווה תמריץ מרכזי למשקיעים.\n*   **זהירות מפני חוסר נזילות:** לצד האופטימיות, עולה אזהרה חשובה בנוגע להיעדר נזילות (Illiquidity) בהשקעות פרטיות ונדל\"ן. המשתמשים מדגישים שצריך להיות מוכנים ל\"נעילת\" הכסף לטווח ארוך, במיוחד אם הריבית תישאר גבוהה מהצפוי.",
-    "dateString": "2026-02-12",
-    "savedAt": {
-      "_seconds": 1770881229,
-      "_nanoseconds": 204000000
     }
   }
 ];
