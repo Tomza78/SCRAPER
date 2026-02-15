@@ -1,379 +1,421 @@
 window.dailyTrends = [
   {
-    "id": "1r2zoe1",
-    "title": "Trump’s tariffs cancel out what he claims is \"the largest tax cut in American history\": the average person will lose $300 even after refunds",
-    "url": "https://www.reddit.com/r/finance/comments/1r2zoe1/trumps_tariffs_cancel_out_what_he_claims_is_the/",
-    "author": "fortune",
-    "score": 1,
-    "selftext": "President Donald Trump has touted his tax cuts as a major step towards ending the affordability crisis, but a wider analysis of his economic policy reveals that the refunds will likely not offset the burden of tariffs on American households. \n\nThe Tax Foundation previously estimated that Trump’s tax cut would reduce individual taxes by $129 billion, and up to $100 billion of that could be headed toward refunds, increasing an average return of up to $1,000 compared to last year.\n\nA new report from the Tax Foundation, a nonpartisan think tank, found that the average tariff burden for U.S. households was $1,000 in 2025 and is expected to grow to $1,300 this year, effectively cancelling out any benefit from the tax cut and falling short of paying for them. \n\nTariffs will raise a net $1.9 trillion between 2025 and 2034, the Tax Foundation estimates, but the cuts will reduce revenue by $4.1 trillion.\n\nRead more: [https://fortune.com/2026/02/12/trumps-tariffs-cancel-tax-cut-refund-americans-lose-money/](https://fortune.com/2026/02/12/trumps-tariffs-cancel-tax-cut-refund-americans-lose-money/)",
-    "subreddit": "finance",
-    "created_utc": 1770917455,
+    "id": "1r3npsr",
+    "title": "S&P growth 1.4% this year. Asia 11%, and Latin America 20%. YTD!!",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1r3npsr/sp_growth_14_this_year_asia_11_and_latin_america/",
+    "author": "flyingdutchmnn",
+    "score": 654,
+    "selftext": "TOO MUCH WINNING.  AMERICA CAN'T TAKE IT ANYMORE.\n\nIs there still a bull case for America?  Unproven ai speculation?  A declining dollar?  Capital diversification away from the US?  A president proven to go to any means to prevent an election loss?\n\nThe world is rightfully positioning their economies away from the US, creating massive opportunities in emerging markets and reigniting deregulation innovation and growth in established ones.\n\nLast year saw massive gains in European markets (Spain, Austria, Ireland, Finland, etc +70% in dollar terms), and now there is momentum in Asia and Latin America.\n\nThese runs have fundamentals behind them and don't just simmer out.  I would bet my life savings that above markets and their corresponding ETF trackers will outperform the dodgy 'new' markets of America. \n\nThoughts?\n\nhttps://www.bloomberg.com/news/newsletters/2026-02-12/for-stock-investors-it-s-anywhere-but-the-usa-in-2026",
+    "subreddit": "StockMarket",
+    "created_utc": 1770985227,
     "thumbnail": "default",
     "top_comments": [
       {
-        "body": "Ahahahaha you block then unblock because your ALT was peeking. Hilarious.\n\nIf 2% is normal then when was the last time we were averaging 2% a year?\n\nUnder Trumps first administration.\n\nInflation started 2025 at 2.9%\n\nInflation went down to 2.7%\n\nWatch this.",
+        "body": "Trade wars, for now - wait until the actual wars. We already narrowly stepped from the brink with Greenland and pro-actively stirring shit up in Alberta, Canada. These violent delights have violent ends.",
         "score": 1,
-        "author": "jvdlakers"
+        "author": "big-papito"
       },
       {
-        "body": "LOL\n\nYeah I didn't think you wanted a economics discussion.   \n\nThanks for proving my point.",
+        "body": "I went all ex-US in 2025, mostly betting against the US for the first time in my life. Gold was a big part of that play. This has been the best investment year of my life. And yet, I am not happy about it. I'd rather DCA and chill and not deal with **this** shit, but I am using this opportunity to grow the account as fast as possible before the Orange Tzar makes this country flame out hard.",
         "score": 1,
-        "author": "jvdlakers"
+        "author": "big-papito"
       },
       {
-        "body": ">You didn't make any point at all.\n\nIncorrect. You are just admitting that you don't understand what I wrote. \n\nWhich is unsurprising because that is what you have displayed in addition to not knowing what a logical fallacy is.\n\nDue to your admitted lack of understanding I'm not reading anything else you write.\n\nFeel free to have the last word but it will go unread and unreplied to",
+        "body": "Thank you - may I have ANOTHER?",
         "score": 1,
-        "author": "Justame13"
+        "author": "big-papito"
       }
     ],
-    "summary_he": "ניתוח כלכלי של ה-\"Tax Foundation\" מראה כי המכסים שהטיל דונלד טראמפ מבטלים למעשה את הטבות המס עליהן הצהיר. על פי הדוח, למרות עלייה צפויה בהחזרי המס, הנטל הכלכלי של המכסים על משקי הבית גבוה יותר ויוביל להפסד נקי של כ-300 דולר לאדם הממוצע.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון בתגובות שפורטו, הכולל 6 נקודות מרכזיות המבטאות את הדעות והלכי הרוח של המשתתפים:\n\n*   **השוואה כלכלית-פוליטית:** אחד הדוברים טוען כי המדד האידיאלי של 2% אינפלציה נראה לאחרונה רק בתקופת כהונתו הראשונה של דונלד טראמפ, כביקורת על המצב הכלכלי הנוכחי.\n*   **ניתוח נתוני אינפלציה עדכניים:** בדיון מוצגת טענה כי האינפלציה במגמת ירידה, כאשר היא התחילה ברמה של 2.9% וירדה ל-2.7%, מה שמעיד על מעקב צמוד אחרי נתונים סטטיסטיים.\n*   **האשמות במניפולציות טכניות:** הדיון כולל האשמות על התנהלות פסולה ברשת, כמו חסימה ושחרור של משתמשים כדי לאפשר לחשבונות חלופיים (\"Alt accounts\") לעקוב אחר הדיון או להגיב בו.\n*   **זלזול בידע הכלכלי של הצד השני:** אחד המשתתפים טוען כי הצד השני אינו באמת מעוניין בדיון כלכלי ענייני, אלא רק בהתנצחות, ומפגין חוסר הבנה במושגי יסוד.\n*   **שימוש בכשלים לוגיים:** קיימת התייחסות ליכולת (או לחוסר היכולת) לזהות כשלים לוגיים בטיעונים, תוך הטחת האשמה שהצד השני כלל לא מבין מהו כשל לוגי.\n*   **ניתוק מגע והפגנת עליונות:** הדיון מסתיים בביטול מוחלט של דברי הצד השני; אחד המשתתפים מצהיר כי לא יקרא יותר את התגובות וכי הוא מאפשר ליריבו לומר את \"המילה האחרונה\" רק מתוך ידיעה שהיא תישאר ללא מענה.",
-    "dateString": "2026-02-13",
-    "savedAt": {
-      "_seconds": 1770966552,
-      "_nanoseconds": 908000000
-    }
+    "summary_he": "הפוסט מציין כי הצמיחה במדד ה-S&P 500 השנה נמוכה משמעותית בהשוואה לשווקים באסיה ובאמריקה הלטינית. הכותב טוען כי בשל אי-יציבות פוליטית וחשש מבועת בינה מלאכותית, הון גלובלי עובר מהשוק האמריקאי לשווקים מתעוררים ובינלאומיים המציגים כעת ביצועים וחוסן כלכלי עדיפים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שנכתבו, המציג 6 נקודות מבט ותחושות בולטות בקהילה:\n\n*   **חשש מהסלמה מעבר למלחמות סחר:** קיימת תחושה שמלחמות הסחר הנוכחיות הן רק הקדמה למלחמות ממשיות ואלימות. המגיבים מזהירים כי המתיחות הגיאופוליטית עלולה להוביל לסוף אלים (\"violent ends\").\n*   **ביקורת על התערבות פוליטית במדינות זרות:** המגיבים מצביעים על חיכוכים דיפלומטיים מול יעדים כמו גרינלנד ואלברטה (קנדה) כסימנים מעוררי דאגה להתנהלות דורסנית שעלולה להתלקח.\n*   **שינוי דרסטי באסטרטגיית ההשקעות (Ex-US):** ישנה מגמה של משקיעים שבוחרים להמר נגד הכלכלה האמריקאית לראשונה בחייהם, ולהעביר את כספם לשווקים מחוץ לארה\"ב בשל חוסר אמון ביציבותה.\n*   **הזהב כמקלט בטוח:** ההשקעה בזהב נתפסת כמרכיב מרכזי ומוצלח באסטרטגיית המגננה הכלכלית, כאשר משקיעים מדווחים על רווחים משמעותיים כתוצאה מהיחלשות הביטחון בשוק האמריקאי.\n*   **קונפליקט רגשי מול הצלחה פיננסית:** משקיעים חשים מועקה וחוסר שביעות רצון למרות שהם רושמים רווחים גבוהים. הם מציינים שהיו מעדיפים שוק יציב ומשעמם (אסטרטגיית DCA) על פני ניצול הזדמנויות שנובעות מכאוס פוליטי וכלכלי.\n*   **חרדה מהנהגת \"הצאר הכתום\":** קיים פחד עמוק שהמדיניות של דונלד טראמפ תוביל לקריסה חמורה (\"flame out\") של המדינה, מה שמניע את הדחף להגדיל את ההון במהירות לפני שהמצב יחמיר."
   },
   {
-    "id": "1r2sjon",
-    "title": "The momentum behind Reddit's core 2026 goals-global growth and strategic expansion-has been manifesting rapidly since January",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1r2sjon/the_momentum_behind_reddits_core_2026_goalsglobal/",
-    "author": "MasterpieceOk8986",
-    "score": 17,
-    "selftext": "Unprecedented Growth Driven by Political Volatility\n\nBolstered by the U.S.-led political issues that gripped the world in January 2026, Reddit’s Monthly Active Users (MAU) reportedly surpassed the 1.4 billion milestone. This represents a nearly 29% increase from the 1.1 billion active users recorded in January 2025. While this surge may be viewed as short-term, it paradoxically suggests that domestic and international political turmoil in the U.S. is effecting the platform as a significant tailwind for Reddit’s expansion.\n\nFurthermore, Reddit has solidified its position as the premier interest-based community hub in non-English speaking regions, particularly in Northern Europe. In Denmark, for instance, the platform’s localized influence has matured to the point where advertisements for regional restaurants have begun appearing on Reddit’s ad surfaces.\n\nThis isn't even working properly in the US.\n\nThe 2026 North American World Cup and the upcoming U.S. Midterm Elections are expected to further accelerate Reddit's steep growth trajectory.\n\nDuring the 2022 Qatar World Cup, Reddit recorded over 530 million views related to the tournament. Although it was a temporary spike, it served as a vital momentum builder for subsequent growth. Given that the 2026 event will be hosted across North America, Reddit is positioned to be one of the primary beneficiaries of the tournament's digital engagement.\n\nAdditionally, with the 2026 U.S. Midterm Elections projected to be the most expensive in history, Reddit is poised to capitalize on a dual opportunity: cementing its status as a critical social community while simultaneously maximizing its revenue as a leading ad-based platform.\n\nWhile Reddit's (RDDT) EPS soared by 244%, rising from $0.36 in Q4 2024 to $1.24 in Q4 2025, the stock price paradoxically dropped from $214 to $140. This shift caused its Run-rate PER to plummet by 5.2 times, falling from 148 to 28.\n\nDespite achieving a staggering 244% year-over-year EPS growth, Reddit's current valuation-reflected in its P/E ratio (PER)-suggests that the market is valuing the company on par with small-to-mid-cap tech stocks that exhibit only marginal growth.\n\nIn fact, a Korean weekend stock market show recently named Reddit the most undervalued US stock relative to its growth and stability. \n\nIt will be intriguing to see whether Reddit can truly define 2026 as its ultimate year of expansion",
+    "id": "1r3r36m",
+    "title": "Consumer prices rose 2.4% annually in January, less than expected🚨",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1r3r36m/consumer_prices_rose_24_annually_in_january_less/",
+    "author": "Front-Nectarine4951",
+    "score": 96,
+    "selftext": "https://www.cnbc.com/amp/2026/02/13/cpi-inflation-report-january-2026.html\n\nThe cost of goods and services rose at a slower annual rate than expected in January, providing hope that the nagging U.S. inflation problem could be starting to ease.\n\nThe consumer price index for January accelerated 2.4% from the same time a year ago, down 0.3 percentage point from the prior month, the Bureau of Labor Statistics reported Friday. That pulled the inflation rate down to where it was the month after President Donald Trump in April 2025 announced aggressive tariffs on U.S. imports.\n\nExcluding food and energy, the core CPI was up 2.5%. Economists surveyed by Dow Jones had been looking for an annual rate of 2.5% for both readings.\n\nOn a monthly basis, the all-items index was up a seasonally adjusted 0.2% while core gained 0.3%. The forecast had been 0.3% for both.\n\nThough the category accounted for much of the CPI gain, shelter costs rose just 0.2% for the month, bringing the annual increase down to 3%. Shelter makes up more than one-third of the CPI.\n\nElsewhere, food prices increased 0.2% as five of the six major grocery group categories posted gains. Energy fell 1.5% while vehicle prices also were muted, with new vehicles up just 0.1% and used cars and trucks falling 1.8%.",
     "subreddit": "StockMarket",
-    "created_utc": 1770900531,
+    "created_utc": 1770994092,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "MAUs +29%, EPS +244%  but the stock dropped and P/E is \\~28. Market’s pricing in a slowdown.\n\n2026 (World Cup + midterms) will show if growth is durable or just event-driven.",
-        "score": 2,
+        "body": "Which columns were left empty this time around?",
+        "score": 36,
+        "author": "mrroofuis"
+      },
+      {
+        "body": "Rough numbers. Everything people really need to live is up like crazy. Only fuel is down",
+        "score": 14,
+        "author": "VengenaceIsMyName"
+      },
+      {
+        "body": "Trump [fired the previous BLS chief](https://www.bbc.com/news/articles/cvg3xrrzdr0o) after BLS released numbers that Trump didn’t like. That kind of move makes the numbers coming out now a lot less credible.",
+        "score": 10,
+        "author": "Dangerous-Rice44"
+      }
+    ],
+    "summary_he": "מדד המחירים לצרכן בארה\"ב עלה בינואר ב-2.4% בחישוב שנתי, נתון נמוך מהתחזיות המוקדמות המצביע על האטה בקצב האינפלציה. הירידה נבעה בעיקר מהוזלה במחירי האנרגיה והתמתנות בעלויות הדיור, מה שמעורר תקווה שהלחצים האינפלציוניים במדינה מתחילים להשתחרר.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה:\n\n*   **ספקנות לגבי שלמות הנתונים:** קיימת תהייה בקרב המגיבים לגבי אילו נתונים או \"עמודות\" הושמטו או נותרו ריקות בדיווח הנוכחי, מה שמעיד על חוסר אמון בשיטות הדיווח.\n*   **פער בין הנתונים למציאות היומיומית:** עולה הטענה כי למרות המספרים הרשמיים, כל המוצרים והשירותים הבסיסיים שאנשים זקוקים להם כדי לחיות התייקרו בצורה קיצונית (\"Up like crazy\").\n*   **החרגה של מחירי האנרגיה:** המגיבים מציינים כי הירידה היחידה שנרשמה היא במחירי הדלק, אך היא אינה מפצה על ההתייקרויות בשאר תחומי החיים.\n*   **ביקורת על פוליטיזציה של מוסדות כלכליים:** מוזכרת העובדה שטראמפ פיטר בעבר את ראש הלשכה לסטטיסטיקה של תעסוקה (BLS) לאחר שפורסמו נתונים שלא מצאו חן בעיניו, מה שנתפס כהתערבות פוליטית פסולה.\n*   **אובדן האמינות של הדיווחים הממשלתיים:** כתוצאה ממהלכים פוליטיים בעבר, חלק מהקהילה רואה בנתונים הכלכליים המפורסמים כיום כפחות אמינים וחשודים בהטיה.\n*   **תסכול מהמצב הכלכלי הכללי:** מהתגובות עולה תחושת תסכול כללית מהמצב הכלכלי (\"Rough numbers\"), כאשר הציבור מרגיש שהמספרים היבשים לא משקפים את הקושי הכלכלי האמיתי בשטח."
+  },
+  {
+    "id": "1r3srsu",
+    "title": "USD Weakness: Liquidity Strain March Q1, Treasuries, Quantitative Easing, Market Plumbing",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1r3srsu/usd_weakness_liquidity_strain_march_q1_treasuries/",
+    "author": "ICameSawAbstained",
+    "score": 18,
+    "selftext": "The March strain.\n\nSpoke to a learned friend who gave me an interesting tip, and suggested I do a deeper look into the mechanics unfolding end of Q1. Here is the break down, some of which was part of our chat.\n\n**T-Bill auctions + S & C Corp tax deadlines + Near-empty RRP**\n\nThe March-April corporate tax cliff is nearing. Large sums of money have to be reconciled and shuffled off out of the private sector and into the Fed TGA (Treasury General Account).\n\nThis depletion of funds from the ledgers of private banking institutions increases pressure on the liquid funds available elsewhere.\n\n**The Reverse Repurchase Agreement (RRP) as the Liquidity Reserve**\n\nUnder normal circumstances Money Market Funds (MMFs) have trillions parked in the RRP as a safe haven and return. These funds are liquid and consistently made available by MMFs to Market Makers for arbitraging purposes, and market liquidity.\n\nSo what's the problem?\n\n**The T-Bill Siphon**\n\nWith escalating U.S. gov deficit the Treasury has mass sold T-bills, incentivising the purchase of the rampant bills by applying slightly higher yield than the Fed's RRP rate.\n\nNow an MMF can see the unrealised loss of holding funds in the RRP compared to bonds & bills, resulting in movement of money out of the RRP...\n\n**The Market Maker Gets Choked Out**\n\nAs the RRP empties, Market Makers will struggle to find cheap cash to arbitrage the difference between Treasury yields and Repo rates and provide market liquidity. This tends to leave private sector baking (& effectively themselves) as the go-to for liquidity sourcing, right at the same time banks also want to hold more cash on their balance sheets.\n\nAnd as foreign Treasury buyers thin out (China, Japan, etc) these same Market Makers are forced into buying unwanted Treasuries.\n\nVoila. No cash, all Bonds.\n\n**Current status?**\n\nThe RRP balance is down from 2.5T to \\~$3B\n\nSo:\n\n1. The RRP is empty.\n2. The Banks are hoarding.\n3. The Market Makers are full on bonds with low cash positions\n\n*This can lead to a suboptimal Treasuries Auction where yields spike. A significant yield spike is not good.*\n\n**Gov Management Strategies?**\n\nTo navigate this crunch without the RRP buffer, the government and the Fed have four primary levers.\n\n*1. QE via The Standing Repo Facility/SRF*\n\nFed prints cash, buys back unwanted Treasuries for cash, lower yields and saves the market & day. Massively inflationary.\n\n*2. Treasury Buybacks*\n\nThe U.S. Treasury recently launched a formal buyback program\n\nTGA account funds are used to buy back old and unwanted bonds, and then new bonds are issued. This lower yields and also gives Market Makers the liquidity to buy future bonds and stabilise Treasury auctions.\n\n*3. Regulatory Relief*\n\nRight now banks are capped on the amount of bonds vs cash they can hold on the books due to leverage ratio regulation. They are at their maximum bond-holding capacity relative to cash positions. If the regulation is eased or treasuries are exempt from the calculation, magically more bonds can be bought.\n\n*4. Long Haul Financial Repression*\n\nForcing institutions to hold government debt at artificially low rates.\n\nThe buyback is already in place as evidenced in the past quarter. The SRF is likely to also be moved into motion in the short term as a crisis aversion method. And financial repression is almost inevitable over the longer term\n\n**All these liquidity intervention strategies are inflationary and point to a structurally weaker USD over time.**\n\n**🍀**",
+    "subreddit": "StockMarket",
+    "created_utc": 1770997949,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "March drains liquidity (taxes  TGA up), and the Federal Reserve RRP is basically empty.\n\nThat removes a cushion, but it’s not a crisis. RRP fell because money moved into higher-yielding T-bills. Watch for:  \nWeak Treasury auctions, Repo spikes ,Emergency Fed balance sheet expansion  \nShort term stress = USD up.  \nLong term deficits = slow USD pressure.",
+        "score": 6,
         "author": "Every-Actuator-6996"
       },
       {
-        "body": "Reddit made a fuckton of money by selling all our text to AI companies, but are they still going to buy that data now that reddit is infested with AI written bots?",
-        "score": 1,
-        "author": "Pyyric"
-      },
-      {
-        "body": "Yeah, but if Reddit hits 1.5B active users, the reward is huge. Crunch the numbers; the risk/reward is there.",
+        "body": "Crunch the numbers on those T-bills, fo' sho'. Odds are, they're gonna hit the MMFs hard. Don't go all-in on USD, though. The house always wins... eventually.",
         "score": 1,
         "author": "Aware-Lantern141"
+      },
+      {
+        "body": "Short term may see a USD squeeze, I concur. Long term downward",
+        "score": 1,
+        "author": "ICameSawAbstained"
       }
     ],
-    "summary_he": "רדיט מציגה צמיחה מרשימה עם הגעה ל-1.4 מיליארד משתמשים פעילים בתחילת 2026, בזכות תהפוכות פוליטיות והתרחבות מוצלחת לשווקים בינלאומיים שאינם דוברי אנגלית. למרות זינוק של מאות אחוזים ברווח למניה, מחיר המניה ירד משמעותית, מה שמוביל להערכות כי החברה נסחרת בחסר לקראת אירועי שיא כמו המונדיאל ובחירות האמצע בארה\"ב.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום רדיט, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **פער בין ביצועים לתגובת השוק:** למרות נתונים מרשימים מאוד בדוחות הכספיים (עלייה של 29% במספר המשתמשים וזינוק של 244% ברווח למניה), מחיר המניה ירד. הדבר מעיד על כך שהמשקיעים חוששים שהצמיחה הנוכחית כבר הגיעה לשיאה והשוק מתמחר האטה עתידית.\n*   **מבחן העמידות של 2026:** עולה השאלה האם הצמיחה של רדיט היא בת-קיימא או שהיא \"תלוית אירועים\". שנת 2026, הכוללת אירועי ענק כמו המונדיאל ובחירות האמצע בארה\"ב, נתפסת כשנת המבחן שתקבע אם מדובר במגמה ארוכת טווח או בזינוק זמני בלבד.\n*   **רווחים ממכירת נתוני גולשים:** קיימת הכרה בכך שרדיט הפיקה רווחים משמעותיים מאוד (\"טונות של כסף\") ממכירת התכתובות והטקסטים של המשתמשים לחברות המפתחות בינה מלאכותית (AI).\n*   **חשש מ\"זיהום\" המידע על ידי בוטים:** עולה ספק מהותי לגבי העתיד של מודל מכירת הנתונים; המשתמשים תוהים האם חברות AI ימשיכו לרכוש את המידע מרדיט כאשר הפלטפורמה הופכת מוצפת בתוכן שנוצר על ידי בוטים (AI) ולא על ידי בני אדם, מה שפוגע באיכות הנתונים לאימון מודלים.\n*   **פוטנציאל התרחבות מאסיבי:** חלק מהקהילה ממוקד ביעד השאפתני של הגעה ל-1.5 מיליארד משתמשים פעילים. לפי גישה זו, אם רדיט תצליח להגיע לקנה מידה כזה, התגמול הכלכלי למשקיעים יהיה עצום ויצדיק את ההשקעה.\n*   **ניתוח יחס סיכון/סיכוי:** למרות חוסר הוודאות, ישנם קולות המאמינים כי בחינה מעמיקה של המספרים מראה שהסיכוי לרווח עולה על הסיכונים הכרוכים בהשקעה בחברה בנקודת הזמן הנוכחית."
+    "summary_he": "הפוסט מנתח חשש למשבר נזילות בשוק האמריקאי בסוף הרבעון הראשון, הנובע מהתרוקנות יתרות ה-RRP (הסכמי רכישה חוזרת הפוכים), עומס מהנפקות אג\"ח ותשלומי מיסי חברות. המחבר טוען כי צעדי המנע של הממשל והפד להזרמת נזילות לשוק יהיו אינפלציוניים באופיים, דבר שצפוי להוביל להיחלשות מבנית של הדולר בטווח הארוך.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על תגובות הגולשים, המציג 6 נקודות מבט ותובנות מרכזיות שעלו:\n\n*   **צפי למחסור בנזילות בטווח הקרוב:** חודש מרץ מזוהה כנקודת זמן שבה הנזילות בשוק צפויה לרדת (\"להתייבש\"), בעיקר בשל תשלומי מסים ועלייה ביתרת החשבון הכללי של האוצר האמריקאי (TGA).\n*   **התרוקנות \"כרית הביטחון\" של הפד:** המגיבים מציינים כי מתקן ה-RRP (Reverse Repo) של הפדרל ריזרב כמעט ריק. בעוד שזה מסיר רשת ביטחון מסוימת מהשוק, הדיעה הרווחת היא שלא מדובר במשבר מיידי אלא בשינוי מבני.\n*   **מעבר כספים לאג\"ח ממשלתי קצר (T-bills):** הירידה בנזילות ב-RRP מוסברת על ידי תנועת כספים לעבר אג\"ח ממשלתיות קצרות המציעות תשואות גבוהות יותר, מה שצפוי להשפיע באופן משמעותי על קרנות השוק הכספי (MMFs).\n*   **תחזית דואלית לדולר (USD):** קיימת הסכמה בקהילה לגבי פיצול במגמת הדולר – צפי לעלייה או \"סקוויז\" (Squeeze) בטווח הקצר בשל הלחץ בשווקים, אך תחזית לירידה והיחלשות בטווח הארוך כתוצאה מהגירעונות הממשלתיים.\n*   **נורות אזהרה למעקב:** הגולשים מציעים לעקוב אחר סימנים ספציפיים למצוקה פיננסית, כגון מכרזי אג\"ח חלשים של האוצר, זינוקים פתאומיים בריביות ה-Repo, והתרחבות לא מתוכננת של מאזן הפדרל ריזרב (צעדי חירום).\n*   **ספקנות וזהירות בניהול סיכונים:** עולה נימה של זהירות מפני הימור מוחלט (\"All-in\") על הדולר. אחד המגיבים מזכיר בנימה צינית כי \"הבית (המערכת) תמיד מנצח בסוף\", ולכן יש לבחון את הנתונים לעומק ולא לפעול בפזיזות."
   },
   {
-    "id": "1r2r67z",
-    "title": "FTSE 100 Smashes Through 10,500 as US Giant Snaps Up Schroders for £9.9bn",
-    "url": "https://www.reddit.com/r/finance/comments/1r2r67z/ftse_100_smashes_through_10500_as_us_giant_snaps/",
-    "author": "euromarketsguy",
-    "score": 1,
-    "selftext": "“The Footsie has scaled fresh heights, as demand for London-listed assets intensifies. The mega takeover of Schroders by US institutional investor Nuveen demonstrates how overseas players are sniffing out untapped value in UK companies.\n\nThe acquisition will create an asset management behemoth and, thanks to the decision to locate the merged company in London, adds shine to the City’s reputation as a leader in global asset and wealth management.\n\nHowever, with yet another big name turning private, it will be a blow to the London Stock Exchange. With global whales swallowing big fish in the UK pond, it limits the availability of listed assets for funds. This is partly why private market opportunities are increasingly attractive, given that opportunities to invest in listed companies are declining.\n\n# Join The European Business Briefing\n\nThe daily email on markets, technology, power and money across Europe. Join 10,000+ founders, investors and executives who read EBM every morning.\n\n[Subscribe](https://mailchi.mp/europeanbusinessmagazine/european-business-briefing)\n\nThis will go down as a week of huge upheaval for the UK asset management landscape, with this mega deal arriving just as valuations had taken a hit over worries about AI disruption. This takeover demonstrates the allure UK assets hold and has helped boost shares in other wealth managers and banks. There’s also been a fair amount of bargain hunting after yesterday’s dramatic falls.\n\nA reassuring update from RELX, which was hit by the sell-off on Tuesday, has helped sentiment. The global analytics provider saw operating profit rise 9% and said its integration of AI tools across its business would be a big driver going forward, shaking off worries about disruptors eating into its revenues.\n\nGiven its international focus, the Footsie’s performance appears increasingly divorced from the lacklustre record of the wider UK economy. Growth again disappointed, with GDP in December coming in at 0.1%, undershooting expectations of 0.2%.\n\nThis was not a late Christmas present Keir Starmer wanted to unwrap, especially given all his political troubles. This uninspiring reading of his government’s handling of the economy won’t help his efforts to cling on as Prime Minister.\n\nThere are glimmers of hope, given that the construction sector continues to be a drag and planning reforms are expected to revitalise activity. Plus, an uptick in consumer confidence should show up in higher spending patterns. But the government’s big push for growth so far has come across as a weak effort.”",
-    "subreddit": "finance",
-    "created_utc": 1770896298,
-    "thumbnail": "https://preview.redd.it/unuidtdtv1jg1.jpeg?width=140&height=78&auto=webp&s=e461a4a26ae8f9d9383d095f95458c68b448ba02",
+    "id": "1r3qlhn",
+    "title": "RERGX 5year return question",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1r3qlhn/rergx_5year_return_question/",
+    "author": "StudyInevitable4423",
+    "score": 5,
+    "selftext": "I have RERGX (Dodge & Cox American Funds EUPAC Fund Class R-6) offered in my company 403b and was wondering if I am missing something or just confused about the 5year return. Morningstar has a return of 34.77 while google has a return of -13.39.  These are wildly different returns and I wasn't sure what to make of it.  Also while on Morningstar I noticed next to the time period you can also select frequency from daily, weekly, and monthly and each one has a different rate of return, which confuses me.  Lastly why did they name it American Funds when all of its holdings are international?  Disclaimer: I am not investing in this fund based on past performance. I am just trying to learn and understand the difference in past returns. If i happen to be in the wrong community could some please direct me to a community better suited for my question.  I had problems linking photos on numerous financial communties.  Thank you for any and all help.  ",
+    "subreddit": "StockMarket",
+    "created_utc": 1770992912,
+    "thumbnail": "https://preview.redd.it/wkosqdl6v9jg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=5ff863c95ea7d2067cd010e9b3fb97d099f1e827",
     "top_comments": [
       {
-        "body": "Nothing more than deflation of true value Vs the currency measured.",
+        "body": "Dividend and capital gains reinvested for the Morningstar number. Google is just the NAV price.",
+        "score": 4,
+        "author": "Operation-FuturePuss"
+      },
+      {
+        "body": "American Funds is the company that created the funds. As the other commentor said, you need to account for dividends.\n\n\nIt's a pain to compare funds with dividends, in the past I've used tools like portfolio visualisers backtest to account for dividends.\n\n\nAmerican Funds are often expensive trash, but in some cases they also have high dividend returns which also leads I'll informed people to think they're trash ",
+        "score": 2,
+        "author": "finvest"
+      },
+      {
+        "body": "Thanks for the explanation and advice.  As with most company matching 403bs, 401ks, etc, the options are limited as far as investments go.  Luckily they do offer a few Vanguard index funds such as VEXAX, VFTAX, VINIX, and VTSNX.  So currently those are where my investments are instead of the default target date funds.",
         "score": 1,
-        "author": "MustGetALife"
+        "author": "StudyInevitable4423"
       }
     ],
-    "summary_he": "מדד ה-FTSE 100 הגיע לשיא היסטורי בעקבות רכישת ענק של בית ההשקעות הבריטי Schroders על ידי חברת Nuveen האמריקאית תמורת כ-9.9 מיליארד פאונד. המהלך מדגיש את כוח המשיכה של נכסים בריטיים עבור משקיעים זרים, אך במקביל מעורר חשש מהצטמצמות היצע החברות הציבוריות בלונדון, במיוחד על רקע נתוני צמיחה מאכזבים וטלטלה פוליטית בבריטניה.",
+    "summary_he": "הכותב מבקש להבין פערים משמעותיים בנתוני התשואה לחמש שנים של קרן RERGX בין פלטפורמות שונות (Morningstar לעומת Google) ותוהה מדוע שינוי תדירות הנתונים משנה את התוצאה המוצגת. בנוסף, הוא שואל על מקור השם \"American Funds\" עבור קרן המשקיעה בנכסים בינלאומיים בלבד. מטרת השאלות היא העמקת הידע והבנת הנתונים לצורך ניהול נכון של החיסכון הפנסיוני שלו.",
     "category_he": "השקעות",
-    "comments_summary_he": "על אף שהוצגה תגובה אחת בלבד, ניתן לזקק ממנה ומרוח הדברים מספר נקודות מבט וסנטימנטים קהילתיים שונים המשתמעים מהטיעון הכלכלי שהוצג:\n\n**סיכום הדיון (6 נקודות מרכזיות):**\n\n*   **שחיקת ערך המטבע כגורם מרכזי:** הטענה המרכזית היא שעליית מחירים אינה מעידה על עלייה בערך הנכסים, אלא על פיחות מתמשך בערך המטבע שבו הם נמדדים.\n*   **אשליית הצמיחה והרווח:** קיימת תחושה בקהילה שהרווחים הנראים לעין (על הנייר) הם \"אשליה אופטית\" שנובעת מאינפלציה מוניטרית, ולא מיצירת ערך אמיתית.\n*   **ביקורת על כלי המדידה (מטבע הפיאט):** המגיב מבטא חוסר אמון במטבעות מסורתיים ככלי אמין למדידת עושר, ומשווה את המצב לשימוש ב\"סרגל שמתכווץ\" למדידת מרחק קבוע.\n*   **הבחנה בין ערך נקוב לערך ריאלי:** עולה נקודה חשובה לגבי ההבדל שבין \"הערך האמיתי\" (True Value) של נכס לבין המחיר המספרי שלו, כאשר השני נתפס כמעוות על ידי המערכת הבנקאית.\n*   **סנטימנט של דפלציה בערך המטבע:** בניגוד לשימוש המקובל במונח \"אינפלציה\" לתיאור עליית מחירים, הקהילה מדגישה כאן את ה\"דפלציה\" של כוח הקנייה של המטבע עצמו אל מול נכסים מוחשיים.\n*   **ספקנות כלפי נתונים כלכליים רשמיים:** משתמע מהתגובה זלזול בדרך שבה מדדי שוק מסורתיים מציגים \"הצלחה\", בעוד שבפועל מדובר רק בפיחות של הכסף בכיסם של האזרחים.",
-    "dateString": "2026-02-13",
-    "savedAt": {
-      "_seconds": 1770966573,
-      "_nanoseconds": 786000000
-    }
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט ודעות שונות שעלו בו:\n\n*   **הבדלים בשיטות חישוב התשואה:** מוסבר כי הפער בין הנתונים באתר Morningstar לבין המחיר המוצג בגוגל נובע מכך ש-Morningstar משקלל השקעה חוזרת של דיבידנדים ורווחי הון, בעוד שגוגל מציג רק את ערך הנכס הנקי (NAV).\n*   **חשיבות הדיבידנדים בהשוואת קרנות:** המשתתפים מדגישים כי כדי לקבל תמונה אמיתית של ביצועי קרן, חובה להתחשב בדיבידנדים ולא רק בשינוי במחיר היחידה, שכן התעלמות מהם מעוותת את ההשוואה.\n*   **קושי טכני בניתוח ביצועים:** הושמעה דעה כי השוואה ידנית בין קרנות המחלקות דיבידנדים היא משימה מורכבת ומתסכלת (\"Pain\"), ולכן מומלץ להשתמש בכלים ייעודיים כמו \"Portfolio Visualizer\" כדי לבצע בדיקות לאחור (Backtesting).\n*   **הביקורת על חברת American Funds:** קיימת סנטימנט שלילי כלפי קרנות אלו, המתוארות לעיתים כ\"זבל יקר\" בשל דמי ניהול גבוהים, אם כי צוין כי התשואה הגבוהה מדיבידנדים שלהן גורמת לעיתים לאנשים לא מנוסים להעריך אותן בחסר או בטעות.\n*   **מגבלות בתוכניות פנסיה של מקום העבודה:** עלתה הטענה שבתוכניות מסוג 401k או 403b (המקבילות לקופות גמל ופנסיה בארה\"ב), אפשרויות ההשקעה הן לרוב מוגבלות מאוד ולא תמיד אופטימליות עבור החוסך.\n*   **העדפת קרנות מדד על פני קרנות \"תאריך יעד\":** משתמשים מציינים כי עדיף לעקוף את ברירת המחדל של \"קרנות תאריך יעד\" (Target Date Funds) ולבחור באופן אקטיבי בקרנות מדד זולות של Vanguard (כמו VINIX או VEXAX) במידה והן זמינות בתוכנית."
   },
   {
-    "id": "1r4b4s1",
-    "title": "What is the simplest way you analyze a company?",
-    "url": "https://www.reddit.com/r/investing/comments/1r4b4s1/what_is_the_simplest_way_you_analyze_a_company/",
+    "id": "1r56pia",
+    "title": "Invest in USD or local currency? ☺️",
+    "url": "https://www.reddit.com/r/investing/comments/1r56pia/invest_in_usd_or_local_currency/",
+    "author": "Icy_Bother_3112",
+    "score": 1,
+    "selftext": "In Egypt, most APYs on ETFs here are over 20%\n\nDue to high inflation rate, weak currency, etc\n\nShould I invest in USD even if it’s lower APY, or should I invest using my local currency and hoping that it’s not gonna take a big hit?\n\nTbh, with all the trump decisions, I feel safer in my local currency.\n\nEGP=>USD through the last year is like %4+ which is great!",
+    "subreddit": "investing",
+    "created_utc": 1771134173,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Are most of your expenses denominated in EGP? Do you have some insight or advantage the market isn't pricing in?",
+        "score": 1,
+        "author": "namewithoutspaces"
+      },
+      {
+        "body": "Diversification doesn’t hurt you can look into the Swiss Franc which historically will retain its value against the dollar. Could be worth looking into.",
+        "score": 1,
+        "author": "challengethatego"
+      }
+    ],
+    "summary_he": "הכותב מתלבט אם להשקיע בדולר אמריקאי או בלירה מצרית, המציעה תשואה של מעל 20% בשל האינפלציה הגבוהה במצרים. למרות הסיכון בפיחות, הוא נוטה להעדיף את המטבע המקומי בשל התחזקותו היחסית בשנה האחרונה ותחושת ביטחון גבוהה יותר מול התנודתיות בדולר.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, הכולל 6 נקודות מבט וסנטימנטים שונים שעלו:\n\n*   **בחינת מטבע ההוצאות המרכזי:** הועלתה השאלה האם מרבית ההוצאות של המשתמש משולמות בלירה מצרית (EGP), מתוך הבנה שיש להתאים את אסטרטגיית המטבע לצרכי המחיה בפועל.\n*   **ספקנות לגבי יתרון על פני השוק:** עלתה תהייה האם למשקיע יש מידע פנימי, תובנה ייחודית או יתרון כלשהו שהשוק עדיין לא תמחר, מה שמטיל ספק בכדאיות המהלך אם אין יתרון כזה.\n*   **חשיבותו של פיזור השקעות (Diversification):** הקהילה מדגישה שפיזור נכסים הוא אסטרטגיה חיובית שאינה מזיקה, ומומלץ לא להסתמך על מטבע אחד בלבד.\n*   **הפרנק השוויצרי כחלופה יציבה:** הצעה מפורשת לבחון השקעה בפרנק שוויצרי (CHF), שנחשב למטבע חזק המהווה חוף מבטחים.\n*   **שימור ערך מול הדולר:** מצוין כי מבחינה היסטורית, הפרנק השוויצרי נוטה לשמור על ערכו בצורה טובה אל מול הדולר האמריקאי, מה שהופך אותו לאופציה אטרקטיבית לטווח ארוך.\n*   **ניהול סיכונים מחוץ למטבעות הסטנדרטיים:** קיימת קריאה לבצע מחקר נוסף (\"worth looking into\") על מטבעות שאינם בהכרח הדולר או המטבע המקומי, כדי למקסם את ההגנה על ההון."
+  },
+  {
+    "id": "1r55avr",
+    "title": "AXT still a good buy after its insane year?",
+    "url": "https://www.reddit.com/r/investing/comments/1r55avr/axt_still_a_good_buy_after_its_insane_year/",
+    "author": "JestInTimeTees",
+    "score": 1,
+    "selftext": "They beat earnings last quarter and will have to see if they beat again this Feb 19 but I’m wondering if it’s still a good buy. It’s had an insane year going from like $1.13 to now $24. I know they have a huge role in AI and the chips it needs but is the pump over? The pe ratio does not look great but markets aren’t always rational and It seems AI sentiment has turned a bit of recent. I know I know it’s a bubble but who’s to say it’s at bursting point. Curious on folks opinions. ",
+    "subreddit": "investing",
+    "created_utc": 1771129532,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "If you’re a long term investor volatility is your friend. \n\nIf you’ve done the work on a stock and you want to invest, it should be for a 5-10 year period, minimum. \n\nThese downturns are buying opportunities for companies you believe.\n\nIf you are buying, or selling, a stock based on share price alone, you should probably just stick to mutual funds or etf’s.",
+        "score": 1,
+        "author": "Any_Possible3003"
+      },
+      {
+        "body": "No I know what they do but you are correct I’m not intimately aware of their financials. There’s still a semiconductor shortage and this company makes them. I’m just questionable after such a crazy year they’ve had. You’re right though it is volatile and would be a gamble. It’s just hard to discount the fact that it’s filling a void but the void could disappear or the AI bubble bursts.",
+        "score": 1,
+        "author": "JestInTimeTees"
+      },
+      {
+        "body": "It lost like 33% of its value in January.  Way too volatile to buy as an individual stock.  Maybe look for an ETF that contains it if you want to get it?\n\nStock losses are considerably more impactful on a portfolio than stock gains.\n\nIf you took a 33% loss and sold to cut your losses, it would take 4.2 years at 10% annual returns in a safe index to get back to the money that you started with.\n\nAnd that's just to get back to where you were.   If you had simply invested in the ETF with 10% returns, you'd have about +50% overall returns after 4.2 years, compared to +0% and breaking even.",
+        "score": 1,
+        "author": "Fuehnix"
+      }
+    ],
+    "summary_he": "הכותב תוהה האם מניית AXT עדיין מהווה הזדמנות קנייה טובה לאחר שזינקה בשנה האחרונה ממחיר של כ-1$ ל-24$. למרות מרכזיותה של החברה בתחום השבבים ל-AI, עולה חשש לגבי מכפיל הרווח הגבוה וסימני \"בועה\" בשוק, לקראת פרסום הדוחות הכספיים הקרובים ב-19 בפברואר.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וטיעונים מרכזיים:\n\n*   **תפיסת התנודתיות כהזדמנות:** עבור משקיעים לטווח ארוך (לפחות 5-10 שנים), תנודתיות בשוק אינה מהווה איום אלא נחשבת ל\"חברה\". ירידות מחירים נתפסות כהזדמנויות קנייה אטרקטיביות עבור חברות שהמשקיע מאמין בערכן הבסיסי.\n*   **העדפת מדדים וקרנות סל על פני מניות בודדות:** קיימת המלצה גורפת למשקיעים שאינם מבצעים מחקר מעמיק או שנוטים לפעול לפי שינויי מחיר רגעיים, להימנע ממניות בודדות ולהיצמד לקרנות סל (ETFs) או קרנות נאמנות, שהן פחות תנודתיות ומסוכנות.\n*   **המתמטיקה האכזרית של ההפסדים:** אחד המשתתפים מציין כי להפסדים יש השפעה פסיכולוגית וכלכלית קשה יותר מרווחים. לדוגמה, הפסד של 33% במניה בודדת דורש מעל 4 שנים של תשואה שנתית יציבה של 10% במדד בטוח רק כדי לחזור לנקודת ההתחלה (\"Breakeven\"), בעוד שהשקעה ישירה במדד הייתה מניבה רווח משמעותי באותו זמן.\n*   **חשש מבועת בינה מלאכותית (AI):** למרות המחסור העולמי בשבבים, קיימת ספקנות לגבי המשכיות המגמה. חלק מהקהילה חושש שהצמיחה המטאורית בשנה האחרונה היא חלק מבועת AI שעלולה להתפוצץ ברגע שהביקוש יתמלא או שההתלהבות תדעך.\n*   **הסיכון שבהיעדר ידע פיננסי מעמיק:** הדיון מדגיש שהשקעה במניה רק בגלל שהיא \"ממלאת חלל\" בשוק (כמו בתחום השבבים) מבלי להכיר לעומק את הנתונים הפיננסיים של החברה, נחשבת להימור ולא להשקעה מושכלת.\n*   **עלות ההזדמנות:** המגיבים מצביעים על כך שמעבר להפסד הכספי הישיר במניה תנודתית, קיים הפסד של \"תשואה אלטרנטיבית\" – הזמן והכסף שיכלו לצבור ריבית דריבית באפיק השקעה בטוח ויציב יותר בזמן שהמשקיע מנסה \"לכסות\" על הפסדיו."
+  },
+  {
+    "id": "1r5596r",
+    "title": "Why most stock apps make investing harder than it needs to be",
+    "url": "https://www.reddit.com/r/investing/comments/1r5596r/why_most_stock_apps_make_investing_harder_than_it/",
     "author": "picklikewarren",
     "score": 1,
-    "selftext": "I used to think better analysis meant more spreadsheets, more metrics, and more tabs open.\n\nMore metrics. More spreadsheets. More tabs open. Over time, that approach just slowed me down and made decisions harder.\n\nNow I try to keep things simple. A few core questions. A quick look at the business quality. A check on price versus value.\n\nI am not trying to predict the future perfectly. I just want to avoid obvious bad bets.\n\nI am curious how others approach this. What does your simplest workable analysis look like.\n\nWhat do you actually use, not what sounds impressive?\n\n",
+    "selftext": "I’ve been thinking about how most stock apps are designed, and I’m not sure they actually make long-term investing easier. In fact, many of them feel exhausting.\n\nI open them hoping to understand a company better. Instead, I get flooded with charts, indicators, alerts, and numbers I do not actually use. After ten minutes, I am more confused than when I started.\n\nAs a long term investor, I do not need fifty signals. I want to know a few basic things. Is this business solid. Is it profitable. Am I paying a fair price.\n\nSomewhere along the way, tools started optimizing for traders, not investors. Speed over clarity. Noise over understanding.\n\nMaybe complexity looks impressive. But for me, it creates bad decisions, not better ones.\n\nCurious if others feel the same. What do you actually use when analyzing a stock.\n\n",
     "subreddit": "investing",
-    "created_utc": 1771043389,
+    "created_utc": 1771129381,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Absolutely splendid, what hand do you use to flip?",
+        "body": "If you're a long term investor why are you looking at individual stocks?",
         "score": 1,
-        "author": "Stinklefresh"
+        "author": "humdinger44"
       },
       {
-        "body": "First thing is I only trade companies that I understand what they do and how they make the majority of their money. Next, I am a Fidelity customer so I use their resources and check what the analysts recommendations are. If they don’t align with my view I try to see what I am missing. I also use their screener to filter on the major variables that others have listed but am not strict on those unless some negative really stands out. I also read or listen to their earnings calls and have alerts set for any news on their tickers. \nI picked up AMAT a few months ago and had a good understanding of their business and have done really well with it, wish I had trusted myself enough to hold through earnings overnight. My other tickers that I have done well with here and there are V, GS, KO, MA, MSFT, COST. I try to avoid holding through earnings because I got burnt with Costco - was 100% right on fundamentals but earnings call comments killed it (“…something, something, something, expect tariff headwinds…”)",
+        "body": "All of that information is valuable to people who use the app. It might not all be useful for you specifically, but that just means you need to learn what metrics you should be paying attention to for your investment strategies.",
         "score": 1,
-        "author": "Keizman55"
+        "author": "SynapticMelody"
       },
       {
-        "body": "I’ve kind of gone the same direction over time. I start with a basic question: do I actually understand how they make money, and does it make sense to me? If I can’t explain the business in a few sentences, I usually pass.\n\nThen I look at revenue growth, margins, and debt. Nothing fancy. Just trying to see if the business is consistently improving or just riding hype.\n\nAfter that it’s really just valuation sanity check. If it’s a solid company but priced like perfection, I’m patient. Simple keeps me from overthinking it.",
+        "body": "This guy isn't asking for advice, he's trying to astroturf his app. All his posts are AI slop, that's why they read the same.",
         "score": 1,
-        "author": "u_spawnTrapd"
+        "author": "cdude"
       }
     ],
-    "summary_he": "כותב הפוסט משתף כיצד עבר משיטות ניתוח מסובכות ועמוסות בנתונים לגישה פשוטה הממוקדת באיכות העסק ובבדיקת מחיר מול ערך. מטרתו היא להימנע מהשקעות גרועות ולאו דווקא לחזות את העתיד בצורה מושלמת, והוא מבקש מהקהילה לחלוק שיטות עבודה פשוטות ופרקטיות לניתוח חברות.",
+    "summary_he": "הכותב טוען כי אפליקציות מסחר רבות מעמיסות על המשתמשים נתונים וגרפים המיועדים לסוחרים, מה שמקשה על משקיעים לטווח ארוך לקבל החלטות פשוטות ומושכלות. לדעתו, המורכבות המיותרת יוצרת \"רעש\" במקום בהירות ועלולה להוביל להחלטות שגויות, בעוד שמשקיעים זקוקים רק למידע בסיסי על יציבות העסק ורווחיותו.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט ועקרונות מרכזיים שעלו בקהילה:\n\n*   **הבנה מעמיקה של המודל העסקי:** קיימת הסכמה רחבה שיש להשקיע אך ורק בחברות שמבינים היטב מה הן עושות וכיצד הן מייצרות את מרבית הכסף שלהן. אם לא ניתן להסביר את העסק בכמה משפטים פשוטים, מוטב לוותר על ההשקעה.\n*   **שימוש מושכל בהמלצות אנליסטים:** המגיבים מציינים שימוש במשאבים של ברוקרים גדולים (כמו Fidelity) ובדיקת המלצות אנליסטים ככלי להשוואה. אם דעת האנליסטים שונה מהדעה האישית, זהו תמריץ לבדוק \"מה פספסתי\" ולאו דווקא לעקוב אחריהם באופן עיוור.\n*   **הימנעות מהחזקה בזמן פרסום דוחות (Earnings):** עלה חשש משמעותי מהתנודתיות סביב דוחות כספיים. גם אם היסודות הכלכליים של החברה מצוינים, הערות צדדיות בשיחת הוועידה (כמו תחזיות על מכסים או קשיים לוגיסטיים) עלולות להוביל לירידות חדות, ולכן חלק מהמשקיעים מעדיפים לא להחזיק במניה ברגעים אלו.\n*   **דגש על מדדים פיננסיים בסיסיים:** במקום ניתוחים מורכבים מדי, הקהילה מדגישה התמקדות במדדי ליבה: צמיחה בהכנסות, שולי רווח (margins) ורמת החוב. המטרה היא לזהות אם העסק משתפר באופן עקבי או רק רוכב על \"הייפ\" זמני.\n*   **בדיקת שפיות להערכת השווי (Valuation):** גם כאשר מדובר בחברה מצוינת, חשוב לוודא שהיא לא מתומחרת כ\"מושלמת\". הגישה המוצגת היא הפגנת סבלנות – אם המחיר גבוה מדי ביחס לערך הריאלי, עדיף להמתין להזדמנות כניסה נוחה יותר.\n*   **אקטיביות ומעקב שוטף:** המשקיעים מדגישים את החשיבות של האזנה לשיחות רווחים, הגדרת התראות לחדשות על טיקרים ספציפיים ושימוש במסננים (screeners) כדי לאתר חריגות או נתונים שליליים בולטים בזמן אמת."
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המובילות, המציג 6 נקודות מבט ורגשות קהילתיים שונים:\n\n*   **ספקנות לגבי בחירת מניות בודדות:** קיימת דעה המטילה ספק בנחיצות של מעקב אחר מניות ספציפיות עבור משקיעים לטווח ארוך, תוך רמיזה שאסטרטגיה כזו אולי אינה המתאימה ביותר לסוג זה של השקעה.\n*   **הגנה על ערך המידע באפליקציה:** נטען כי הנתונים והמדדים שהאפליקציה מציגה הם בעלי ערך רב למשתמשים, גם אם משתמש ספציפי אינו מוצא בכולם תועלת מידית.\n*   **חשיבות ההשכלה הפיננסית:** הקהילה מדגישה שעל המשקיע מוטלת האחריות ללמוד ולהבין אילו מדדים רלוונטיים לאסטרטגיית ההשקעה האישית שלו, במקום לצפות שכל המידע יהיה רלוונטי עבורו.\n*   **סובייקטיביות של נתונים:** קיימת הבנה ששימושיות של כלי מסוים תלויה באסטרטגיה של המשתמש; מה שנראה כמידע מיותר עבור אחד, עשוי להיות קריטי עבור אחר.\n*   **חשד לקידום עצמי מוסווה (Astroturfing):** חלק מהמגיבים חושדים שהפוסט אינו בקשת עצה כנה, אלא ניסיון מתוחכם של הכותב לקדם את האפליקציה שלו תחת מסווה של משתמש תמים.\n*   **זיהוי תוכן שנוצר על ידי בינה מלאכותית:** הקהילה מפגינה ערנות וביקורתיות כלפי סגנון הכתיבה, בטענה שהפוסטים נראים כ\"זבל של בינה מלאכותית\" (AI slop) בשל הניסוחים החוזרים על עצמם והיעדר האותנטיות."
   },
   {
-    "id": "1r49qzu",
-    "title": "Nokia, ciena and arista may be the most bullish Ai plays even if a lot of Ai goes bust.",
-    "url": "https://www.reddit.com/r/investing/comments/1r49qzu/nokia_ciena_and_arista_may_be_the_most_bullish_ai/",
-    "author": "Zonties",
+    "id": "1r53gkz",
+    "title": "VT and chill but what if I added a little somethin' somethin' ?",
+    "url": "https://www.reddit.com/r/investing/comments/1r53gkz/vt_and_chill_but_what_if_i_added_a_little/",
+    "author": "Rockatansky77",
     "score": 1,
-    "selftext": "$NOK $CIEN $ANET I think  the market may be telling us something. There's way too many Ai mods that do slightly different iterations of same thing. These companies are thriving because regardless Ai needs them (cien and nok are the most battle tested, nok superior valuation, CIEN battle tested ceo) nok has been thru so many has times for hundreds of years. And backing of Finnish gvt, anti us hedge. \n\nIf a lot of Ai models go best go bust, a company like Google will pick up the pieces very cheap. I think it's clear we realize we don't need so many Ai models by now. Ans then link all of this Ai into a much stronger algo or super - cluster \n$GOOG I think they are gonna be the binary winner... ",
+    "selftext": "Ive been heavily invested in technology for the past year and I'm looking to have better sleep at night. I began investing in a Roth a year ago with 8-10 years to retirement and a pension, so this is to give me more financial comfort. I wish I started in my 20s. I like VT all world markets, but what if I added 10% FTEC+10% VYM ? It gives me the \"barbell\" setup. If I contribute $8,600 a year with DRIP, the math works out to $142,693 at a 9% avg. return. Is anyone else using this method and what are your thoughts ?",
     "subreddit": "investing",
-    "created_utc": 1771039295,
+    "created_utc": 1771123809,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "ANET founded by Andy Bechtolsheim after Sun Microsystems. Stellar engineering culture. AI infrastructure, networking switches - sell to hyperscalers. Often buy advanced network chips from Broadcom AVGO. Compete with Cisco and hyperscaler in-house “white box” switches. CLS also makes and debug switches for hyperscalers. These are companies receiving the capex from hyperscalers.",
+        "body": "Still dominated by equity risk.  Not even close to a barbell",
         "score": 1,
-        "author": "nobodyllc"
+        "author": "Delicious-Plastic-44"
       },
       {
-        "body": "Also - Amd is kinda stuck with openai. Nvda to a small extent, msft biggest overall but strong buffer. Orcl less survivability if they go boom.\n\nBut imo the valuation of Nokia exceeds cien and anet. And stubb himself he's like repeatedly backed Nokia as crucial to Finland which seems a bit weird for a Finnish president usually they're focused more on international policy. Please correct any points ü think r wrong\n\nNokia has a kinda crap show past but it's not the past that's important it's where it is now and it's most likely path.\n..\n\nRegarding nvda investment - \nI don't know if nvda actually purchased the shares from Nokia or if Nokia issued them (created them) out of thin air. Does anyone know specifics here?\n\nNet cash - debt per share is €. 54 or 64¢\n\nThe book value per share that's tangible and not goodwill is €2.43 ($2.88) this is a very solid number. These are hard assets, not fugazzi numbers.",
+        "body": "If you want to add something to VT it should be a diversifier, not more beta.\n\nSo… bonds, gold, trend",
         "score": 1,
-        "author": "Zonties"
+        "author": "Delicious-Plastic-44"
       },
       {
-        "body": "Hi Redditor, it would seem you have strayed too far from WSB, there are emojis detected. Try making a comment with no emoji at all.  Have a great day! \n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/investing) if you have any questions or concerns.*",
+        "body": "With 8-10 years to retirement and a pension covering your base, you actually have more room to be a bit aggressive than most people in your situation. The pension is basically your bond allocation.\n\nThe barbell idea (VT core + FTEC + VYM) makes sense in theory but you're kind of double-dipping on tech since VT already has heavy tech weighting. You'd end up pretty overweight there.\n\nIf the goal is extra income by retirement, I'd lean more toward the VYM side. Dividend growth compounds nicely over 8-10 years and gives you something tangible to see each quarter. Could do 80/20 VT/VYM and keep it simple.\n\nThe $142k projection at 9% is reasonable but remember that's nominal. After inflation it's more like 6-7% real return, so maybe $115-125k in today's dollars. Still solid for a supplement to your pension.\n\nBiggest thing is just staying consistent with the $8,600/year contributions. The returns will do their thing if you don't panic sell during a downturn.",
         "score": 1,
-        "author": "AutoModerator"
+        "author": "steady_compounder"
       }
     ],
-    "summary_he": "הפוסט טוען כי חברות התשתית נוקיה, סיינה ואריסטה הן ההשקעות המבטיחות ביותר בתחום ה-AI, שכן הן חיוניות לתעשייה ללא קשר להצלחת מודל ספציפי זה או אחר. לדעת הכותב, רוב מודלי ה-AI הקיימים כיום ייכשלו, וגוגל תהיה המנצחת הגדולה שתאסוף את השברים ותאחד את הטכנולוגיה למערכות-על עוצמתיות.",
+    "summary_he": "המשתמש שואל לגבי שילוב של 10% FTEC ו-10% VYM בתיק השקעות המבוסס על מדד VT, במטרה ליצור \"אסטרטגיית משקולת\" לקראת פרישה בעוד כעשור. הוא מחפש דרך לאזן בין צמיחה טכנולוגית ליציבות מדיבידנדים כדי להבטיח ביטחון כלכלי ושינה שקטה יותר, ומבקש חוות דעת על כדאיות השיטה והתשואות הצפויות.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מרכזיות, דעות ותחושות בקהילה:\n\n*   **הדומיננטיות של Arista Networks (ANET) בתשתית ה-AI:** החברה נתפסת כבעלת תרבות הנדסית מעולה (\"Stellar engineering culture\"). היא מתמקדת באספקת מתגי רשת לענקיות הענן (Hyperscalers) עבור תשתיות בינה מלאכותית, תוך שהיא נשענת על שבבים מתקדמים של Broadcom (AVGO) ומתחרה מול סיסקו ופתרונות ייצור עצמיים (\"white box\").\n*   **חשיפה וסיכונים סביב OpenAI:** בקהילה קיימת תחושה שחברות מסוימות קשורות בטבורן להצלחת OpenAI. בעוד שמיקרוסופט נחשבת כבעלת \"באפר\" (הגנה) חזק, חברות כמו AMD נתפסות כקשורות מדי ל-OpenAI, ואורקל (Oracle) נחשבת לפגיעה במיוחד אם OpenAI תקרוס.\n*   **ניתוח פונדמנטלי חיובי לנוקיה:** למרות עבר בעייתי, יש הטוענים כי הערכת השווי של נוקיה כיום עולה על זו של מתחרותיה (כמו Ciena או Arista). הדובר מציין לטובה את \"הערך המוחשי למניה\" (Tangible book value) שעומד על כ-2.43 אירו, ומדגיש כי מדובר בנכסים ריאליים ולא בנתונים חשבונאיים פיקטיביים.\n*   **מעורבות פוליטית בפינלנד:** עולה תמיהה לגבי התמיכה החוזרת ונשנית של נשיא פינלנד, סטוּבּ, בנוקיה. הקהילה רואה בכך צעד חריג עבור נשיא פינלנדי, שלרוב מתמקד במדיניות חוץ, מה שמעיד על החשיבות האסטרטגית הקריטית של החברה למדינת הבית שלה.\n*   **חוסר בהירות לגבי עסקת NVIDIA ונוקיה:** קיימת סקרנות ואי-ודאות לגבי אופי רכישת המניות של NVIDIA בנוקיה – האם המניות נרכשו בשוק החופשי או שנוקיה \"הנפיקה אותן יש מאין\" עבור העסקה.\n*   **אכיפת נורמות קהילתיות:** תגובת הבוט מדגימה את ההבדלים בתרבות הדיון בין פורומים שונים (כמו r/investing לעומת WallStreetBets). הקהילה אוכפת סגנון דיון \"מקצועי\" יותר ומונעת שימוש באימוג'ים כדי לשמור על רצינות הדיון הכלכלי."
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ודעות מרכזיות שעלו מהתגובות:\n\n*   **ביקורת על הגדרת האסטרטגיה:** קיימת טענה שהתיק המוצע אינו באמת \"אסטרטגיית ברבל\" (Barbell Strategy). על פי דעה זו, התיק עדיין נשלט כמעט לחלוטין על ידי סיכוני שוק המניות, בעוד שאסטרטגיית ברבל אמיתית אמורה לשלב בין נכסים בסיכון גבוה מאוד לנכסים בסיכון נמוך מאוד.\n*   **הצורך בגיוון אמיתי ולא הוספת \"בטא\":** אחד המגיבים מדגיש שאם מוסיפים נכסים למדד עולמי (כמו VT), הם צריכים להיות מגוונים ולא רק להוסיף עוד חשיפה לאותו שוק (Beta). ההמלצה היא לשקול נכסים כמו אגרות חוב, זהב או אסטרטגיות עוקבות מגמה (Trend).\n*   **הפנסיה כרשת ביטחון המאפשרת אגרסיביות:** ישנה גישה הגורסת כי עבור אדם עם פנסיה מובטחת המכסה את הוצאות הבסיס, ניתן להיות אגרסיביים יותר בהשקעות בשוק ההון. במקרה זה, הפנסיה נתפסת כחלק הסולידי (רכיב האג\"ח) של התיק הכולל.\n*   **אזהרה מפני חשיפת יתר לטכנולוגיה:** המגיבים מצביעים על כך ששילוב של קרן טכנולוגיה (כמו FTEC) יחד עם מדד עולמי יוצר \"כפל אחזקות\" (Double-dipping). מכיוון שהמדד העולמי כבר מוטה בכבדות לטכנולוגיה, תוספת כזו יוצרת ריכוזיות יתר מסוכנת במגזר אחד.\n*   **חשיבות הדיבידנדים לקראת פרישה:** עבור טווח זמן של 8-10 שנים עד הפרישה, ישנה המלצה להתמקד בצמיחת דיבידנדים (כמו קרן VYM). הטיעון הוא שזה מאפשר צבירת הון יציבה יותר ומייצר תזרים מזומנים מוחשי ופסיכולוגי בכל רבעון.\n*   **תחזיות נומינליות מול ריאליות:** נקודה חשובה שהועלתה היא הצורך בתיאום ציפיות לגבי תשואות. בעוד שתחזית של 9% נראית סבירה על הנייר (נומינלית), בניכוי אינפלציה התשואה הריאלית תהיה קרובה יותר ל-6-7%, וזהו הסכום שצריך לקחת בחשבון בתכנון כוח הקנייה העתידי.\n*   **המשמעת העצמית כגורם מכריע:** מעבר לבחירת המניות, הקהילה מדגישה שהמרכיב הקריטי ביותר להצלחה הוא התמדה בהפקדות השנתיות והימנעות מ\"מכירת פאניקה\" בזמן ירידות בשוק."
   },
   {
-    "id": "1r46d5w",
-    "title": "Hedge funds turning bullish on yen despite strong US data + Arabica coffee at 6-month lows... Macro shifts worth watching in this volatility",
-    "url": "https://www.reddit.com/r/investing/comments/1r46d5w/hedge_funds_turning_bullish_on_yen_despite_strong/",
-    "author": "Aggressive-Virus4046",
+    "id": "1r52enz",
+    "title": "Is 10 million a good amount ?",
+    "url": "https://www.reddit.com/r/investing/comments/1r52enz/is_10_million_a_good_amount/",
+    "author": "Disastrous-Bed3957",
     "score": 1,
-    "selftext": "# \n\nWith market dumping, gold/commodities sliding, and broader risk-off vibes since early Feb, I've been scanning macro signals outside pure equities. Three things caught my eye this week that could signal bigger rotations – and they're interconnected via USD strength, Japan policy, and supply dynamics.\n\n1. **Hedge funds flipping bullish on yen (even after hot payrolls)** Bloomberg/CFTC data show leveraged funds reversing shorts and ramping longs on JPY. USD/JPY rallied 3 straight sessions mid-week despite solid US jobs (unemployment down, wages up), ignoring typical dollar strength. Why? \"Buy Japan\" trade gaining steam post-Takaichi's election mandate – fiscal clarity, potential BoJ hawkishness (up to 3 hikes in 2026 per some like Mizuho), and fading intervention fears. Hedge funds unwinding shorts pre-election now rebuilding longs. Non-USD crosses (AUD/JPY, CHF/JPY) seeing similar demand. Insight: This isn't just noise – it's a shift from \"yen carry trade unwind\" to \"yen as safe-haven alternative\" in vol.\n2. **Arabica coffee futures hitting 6-month lows (\\~296-300 cents/lb)** ICE March contract down \\~11% in recent sessions, below $3 for first time since Aug 2025. Trigger: Conab Brazil forecasting record 2026/27 crop (+17% YoY), favorable weather (heavy rains easing drought), stocks recovering. Short-term bearish supply outlook outweighing any weather risks. Practical angle: If you're diversified into softs/commodities, this could be a contrarian watch – short covering possible on squeeze, but long-term bears have the edge if Brazil delivers.\n3. **Trump admin pushing Venezuela oil reopening** Energy Sec Chris Wright visited Caracas this week (highest-level US visit in decades) – met interim Pres Delcy Rodríguez, toured Orinoco/Chevron sites. Goal: End state monopoly, open to US majors, target $5B+ short-term revenue via private investment. Post-Maduro shift could add supply, stabilize WTI long-term if flows ramp. Bigger picture: US gaining leverage on global energy, potentially capping oil upside.\n\nThat’s why I’m more focused on Bitget TradFi CFDs (forex/commodities ) these days.\n\n**Takeaway framework** :\n\n* Yen → Bias long JPY/short USD tactically (watch BoJ/Fed divergence).\n* Coffee → Bearish bias on supply glut, but monitor short squeeze.\n* Oil → Upside potential if Venezuela adds barrels fast.\n\nThese aren't \"sure things\" – macro vol high, news can flip fast (Fed CPI next, BoJ stance). But spotting hedge fund flips + supply surprises early can give edge in diversification.\n\nWhat are you watching in macro right now? Yen rally sustainable? Coffee bottom? Or sticking to equities amid this mess? Curious about your views.",
+    "selftext": "Lately I’ve been obsessed with this topic. I’m currently 40 and half way to that figure. Assuming I keep doing what I do, I should easily surpass that by retirement age of 60.\n\nUpon researching what most in North America would need to retire on to live a life of comfort and luxury, 10 million was a common figure.\n\nWhat are your thoughts ? Is it more , less ?",
     "subreddit": "investing",
-    "created_utc": 1771029826,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "הפוסט מנתח שלושה שינויי מאקרו משמעותיים: התחזקות הין היפני מול הדולר בשל שינויי מדיניות ביפן, ירידת מחירי הקפה לשפל של חצי שנה עקב צפי להיצע שיא בברזיל, ומהלכים של ממשל טראמפ להגדלת תפוקת הנפט בוונצואלה. הכותב מדגיש כי מגמות אלו בשוקי המט\"ח והסחורות עשויות להוות הזדמנות לגיוון תיק ההשקעות בתקופה של תנודתיות גבוהה בשוק המניות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1r45yys",
-    "title": "Relief rally or real recovery? riding coinbase’s volatility through stock futures",
-    "url": "https://www.reddit.com/r/investing/comments/1r45yys/relief_rally_or_real_recovery_riding_coinbases/",
-    "author": "Specialist_Hawk_5604",
-    "score": 1,
-    "selftext": "COIN just reminded the market how emotional earnings season can be.\n\nThe stock is trading around $164 after surging more than 15% in a single session, even though Q4 results were, on the surface, disappointing.\n\nAt first glance, the numbers weren’t great. The company posted a surprise net loss, revenue came in below expectations, and trading volumes dropped sharply as the broader crypto market cooled. Consumer transaction revenue fell heavily year over year, a direct reflection of weaker crypto prices and reduced retail activity.\n\nAnd that’s the key point.\n\nCoinbase is highly sensitive to market cycles. When crypto is booming, transaction revenue explodes. When sentiment dries up, so does volume. With Bitcoin starting 2026 in bear territory, pressure on trading-based platforms was inevitable.\n\n\n\nBut here’s where it gets interesting.\n\nAdjusted for crypto-related losses, Coinbase still generated positive earnings. Subscription and services revenue grew, showing that the company is slowly diversifying beyond pure spot trading. That matters. It suggests the business isn’t standing still during the downturn.\n\nSo why did the stock rally so aggressively on weak headline numbers?\n\nBecause markets price expectations, not just results.\n\nGoing into earnings, COIN had already fallen heavily year-to-date. A lot of fear was already baked into the price. When reality arrived and it wasn’t catastrophic, investors stepped in. That’s classic relief-rally behavior.\n\nPersonally, I’ve been catching this move through stock futures on Bitget. That’s one advantage of having access to tokenized or futures exposure to U.S. equities within a crypto-native platform, you can react to volatility without switching ecosystems.\n\nInstead of watching the bounce from the sidelines, I positioned around the earnings volatility and rode the momentum. Not blindly, but with clear risk management, because these moves can reverse just as fast.\n\nFrom a broader perspective, this rally says more about market psychology than fundamentals.\n\nWhen sentiment is extremely negative, it doesn’t take good news to trigger upside.\n\nIt just takes news that’s “less bad than feared.”\n\nAnalysts remain broadly constructive on Coinbase longer term, but risks remain:\n\n\\- Heavy dependence on crypto trading cycles\n\n\\- Regulatory uncertainty\n\n\\- Softer transaction revenue guidance\n\n\\- Ongoing volatility in digital assets\n\n\n\nManagement is pivoting toward diversification, subscription services, stablecoin infrastructure, onchain adoption, and broader exchange ambitions. Whether that strategy fully offsets trading cyclicality will depend largely on the next crypto cycle.\n\nFor short-term traders, volatility is opportunity.\n\nFor long-term investors, the real question is whether crypto adoption and liquidity recover sustainably over the next few years.\n\nRight now, Coinbase isn’t signaling a confirmed turnaround.\n\nBut it may be signaling something equally important: panic may have peaked.\n\nAnd in cyclical markets, especially crypto-linked equities, that shift in sentiment is often where trends quietly begin.",
-    "subreddit": "investing",
-    "created_utc": 1771028764,
+    "created_utc": 1771120697,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Lot of us holders are still down massively from how hard they crashed the stock since October.  Can only wait and see if bitcoin is allowed to rise back this year or not",
+        "body": "People with five million dollars in the tank don't post on reddit, and they certainly don't ask reddit for financial advice. You are a ghost.",
         "score": 1,
-        "author": "Erocdotusa"
+        "author": "BakerMikeRomeo"
+      },
+      {
+        "body": "Hmmmm starting to think my $00000005 won’t be enough also.",
+        "score": 1,
+        "author": "igottheshnitz"
+      },
+      {
+        "body": "Roses are red\n\nViolets are blue\n\n10 million is enough\n\nThis guy is a tool",
+        "score": 1,
+        "author": "gunslinger_006"
       }
     ],
-    "summary_he": "מניית קוינבייס (Coinbase) רשמה זינוק משמעותי למרות דוחות כספיים חלשים, מה שמעיד על \"ראלי של הקלה\" לאחר שהתוצאות היו פחות גרועות מהתחזיות הפסימיות של השוק. בעוד שהחברה מנסה לגוון את הכנסותיה באמצעות שירותי מנויים, היא נותרת תלויה מאוד במחזורי הקריפטו ובתנודתיות השוק, מה שמייצר הזדמנויות לסוחרים לטווח קצר אך דורש זהירות מצד משקיעים לטווח ארוך.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והתחושות שעלו מהתגובה, המוצג ב-6 נקודות שונות בעברית:\n\n*   **הפסדים כבדים בקרב המחזיקים:** קיים תסכול עמוק בקרב קהילת המשקיעים (\"Holders\"), שרבים מהם נמצאים כרגע בפוזיציות של הפסדים משמעותיים (\"Down massively\") בעקבות ירידת ערך המניה.\n*   **ייחוס הקריסה לאוקטובר:** הקהילה מסמנת את חודש אוקטובר כנקודת זמן קריטית שבה החלה הנפילה החדה במחיר המניה, מה שמהווה נקודת התייחסות כואבת למשקיעים.\n*   **תחושת מניפולציה מצד גורמים חיצוניים:** השימוש במילה \"הם\" (\"They\") בהקשר של ריסוק המניה מרמז על סנטימנט של חוסר אמון, לפיו גורמים חזקים בשוק או מוסדות פיננסיים הם האחראים לירידות ולא כוחות שוק טבעיים בלבד.\n*   **פסיביות וחוסר אונים:** המשקיעים חשים שאין להם יכולת להשפיע על המצב וכל שנותר להם לעשות הוא \"לחכות ולראות\" (Wait and see), מה שמעיד על אסטרטגיית הישרדות פסיבית.\n*   **תלות מוחלטת בביטקוין:** קיימת הבנה והסכמה בקרב הקהילה שהתאוששות המניה כרוכה באופן ישיר ובלעדי בעליית ערך הביטקוין במהלך השנה הקרובה.\n*   **ספקנות לגבי חופש השוק:** הביטוי \"אם יאפשרו לביטקוין לעלות\" (If allowed to rise) משקף דעה רווחת בקהילה שהשוק אינו חופשי לחלוטין, וכי הצמיחה של מטבעות קריפטוגרפיים תלויה באישור או \"בחסד\" של רגולטורים או גופים מניפולטיביים."
-  },
-  {
-    "id": "1r42440",
-    "title": "Help talk me down....worried about volatility",
-    "url": "https://www.reddit.com/r/investing/comments/1r42440/help_talk_me_downworried_about_volatility/",
-    "author": "Telemark_ID",
-    "score": 1,
-    "selftext": "I've been reading too much about AI. I have also personally seen how capable it's been getting in the last 6 months. I can't help but acknowledge that this is going to start leading to layoffs. What that will do the market, and my job as a physician, I am not quite sure. This in addition to some of the uncomfortable candor from both parties in DC just don't have me feeling good about the future.\n\nWhile I am hopeful that the movie Wall-E or Idiocracy doesn't come true...and that is the more salient fear. In the short run, I'm wondering about pulling out and getting into an incredibly boring portfolio. I'm normally about 25% real estate, 10% bond, 30% large cap, 15% small, 20% global. Most in index funds.\n\nWhile at my age I would have suggested that I'd work for another 20 years and therefore can take whatever insane volatility that I am scared may occur soon. The fact that many jobs may get disrupted has me curious if planning a more conservative strategy for the next two years could be prudent?\n\nI know that history shows that everything in the US market will continue to trend up. I've read the coffee house investor about 4 times and that's exactly what it says too. But AI was never a thing during any time in the past. And the interaction the US government has had with our allies also does not have any historical precedent. As such.....I'm looking for some sage words from likeminded individuals...thanks (and sorry to be a worry wart)",
-    "subreddit": "investing",
-    "created_utc": 1771019030,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "First of all your a doctor and ai is not going to take your job anytime soon or more than likely in your lifetime. It may augment it but not take your job. Secondly the market is propped up by liquidity from the fed so even if ai was a complete bust the market can’t really crash unless that liquidity stops",
-        "score": 1,
-        "author": "BIGTIDYLUVER"
-      },
-      {
-        "body": "Software company are already starting to rethink pricing models. Per user doesn't make sense anymore",
-        "score": 1,
-        "author": "Niku-Man"
-      },
-      {
-        "body": "If doctors sign up for it now, why wouldn't companies offering AI services be willing to? There's money to be made and the medical field has lots of data that can make AI highly effective, so it'll probably end up with fewer malpractice suits",
-        "score": 1,
-        "author": "Niku-Man"
-      }
-    ],
-    "summary_he": "כותב הפוסט, רופא במקצועו, מביע חשש מהשפעת הבינה המלאכותית וחוסר היציבות הפוליטית על שוק ההון ועל ביטחון תעסוקתי. למרות שיש לו אופק השקעה של כ-20 שנה, הוא שוקל לעבור לתיק השקעות שמרני יותר בטווח הקצר כדי להתמודד עם התנודתיות הצפויה. הוא תוהה האם האיומים הטכנולוגיים החדשים מייצגים תקדים היסטורי שמצדיק שינוי באסטרטגיית ההשקעה ארוכת הטווח שלו.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום של הנקודות המרכזיות והלך הרוח בקהילה כפי שעלה מהתגובות:\n\n* **ביטחון תעסוקתי לרופאים:** קיימת הערכה כי מקצוע הרפואה מוגן יחסית, והבינה המלאכותית לא צפויה להחליף את הרופאים בעתיד הקרוב או במהלך ימי חייהם.\n* **הבינה המלאכותית ככלי עזר (Augmentation):** התפיסה היא שהטכנולוגיה לא תחליף את הגורם האנושי, אלא תשמש ככלי לשיפור ושדרוג העבודה הקיימת של אנשי המקצוע.\n* **יציבות השוק והנזילות של הפד:** נטען כי מצב השוק הנוכחי אינו נשען רק על הציפיות מה-AI, אלא נתמך בעיקר על ידי הנזילות שמזרים הבנק המרכזי (הפד); לכן, קריסה בשוק תקרה רק אם הנזילות הזו תיעצר, ללא קשר להצלחת ה-AI.\n* **שינוי במודלים העסקיים של חברות תוכנה:** חברות תוכנה מתחילות לבחון מחדש את שיטות התמחור שלהן, כאשר המודל המסורתי של \"תשלום לפי משתמש\" הופך לפחות רלוונטי בעידן הבינה המלאכותית.\n* **הזדמנויות כלכליות בתחום הרפואי:** ישנו תמריץ כספי חזק לחברות AI להיכנס לתחום הרפואה, שכן מדובר במגזר עתיר נתונים שיכולים להפוך את המערכות ליעילות ומדויקות מאוד.\n* **צמצום חשיפה משפטית:** שימוש בבינה מלאכותית בתחום הרפואי עשוי להוביל לירידה במספר התביעות בגין רשלנות רפואית, הודות לשיפור הדיוק והתמיכה בקבלת ההחלטות."
-  },
-  {
-    "id": "1r41r2f",
-    "title": "Is Adobe's stock hype or powerful players are secretly manipulating market",
-    "url": "https://www.reddit.com/r/investing/comments/1r41r2f/is_adobes_stock_hype_or_powerful_players_are/",
-    "author": "Organic_Condition610",
-    "score": 1,
-    "selftext": "Just wanted to share some thoughts from my recent investing journey. Honestly, it’s wild out there – some investors are getting crushed, while others (supposedly) will make crazy gains. Why? A lot of it comes down to whether people are actually studying what they’re investing in, or just blindly following the crowd.\n\nTake Adobe as an example. The company has rock-solid fundamentals, steady cash flow growth, and honestly, it’s got features that are really hard to replicate. But despite all that, there’s been a huge sell-off in their stock lately.\n\nI’ve built a tool that tracks market prices for companies with a wide moat, and right now, I’m seeing some stocks trading more than 30% below their fair value! It makes you wonder: who’s really driving these big sell-offs? Is it the big institutions, or is it less experienced investors panicking and selling?\n\nWould love to hear your thoughts – who do you think is pulling the strings during these big drops? Let’s discuss!",
-    "subreddit": "investing",
-    "created_utc": 1771018178,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Agreed. They recently announced discontinuation of Adobe Animate; then had to backtrack after outcry. They have great products and monopoly now, but aren't going to last much longer in 1st place 5-10yrs from now",
-        "score": 1,
-        "author": "terrible-investor"
-      },
-      {
-        "body": "Can just roll your own image editing software with some vibe coding.",
-        "score": 1,
-        "author": "stinker_pinky"
-      },
-      {
-        "body": "Warren Buffet always said only invest in companies you know or believe in.  Therefore I believe the dead opposite as well, avoid the companies you hate.  ADBE has worked tirelessly to hurt its own users and squeeze them for profits. \n\n\nThen COVID and AI happened.  COVID showed us lower production value is more genuine and believable.   AI is making mid-level production value very affordable.  Uh oh!\n\n\nThey messed up.\n\n\n\nHigh production value will always be a thing, but ADBE is absolutely cooked unless they lower their price to $20 a month, are loaded with AI, and become very easy to use.\n\n\nGood bye. ",
-        "score": 1,
-        "author": "Crazy_Donkies"
-      }
-    ],
-    "summary_he": "הפוסט עוסק בפער שבין ביצועיה הכלכליים האיתנים של אדובי לבין הירידות האחרונות במחיר המניה שלה. הכותב תוהה האם המכירות המסיביות נובעות ממניפולציות של גופים פיננסיים גדולים או מפאניקה של משקיעים חסרי ניסיון, ומציין כי מניות רבות נסחרות כיום מתחת לערכן הריאלי.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מ-Reddit המציג את מגוון הדעות והתחושות בקהילה בנוגע לחברת אדובי (Adobe):\n\n*   **אובדן הדומיננטיות בשוק:** למרות שלאדובי יש כיום מונופול ומוצרים מצוינים, הקהילה חוזה כי היא לא תצליח לשמור על המקום הראשון לאורך זמן, וההיחלשות שלה תורגש בטווח של 5 עד 10 שנים.\n*   **חוסר עקביות וקבלת החלטות תחת לחץ:** החברה נתפסת כמי שמקבלת החלטות פזיזות, כפי שקרה עם ההודעה על הפסקת התוכנה Adobe Animate והנסיגה מהחלטה זו בעקבות זעם המשתמשים.\n*   **ירידת הצורך בכלים מורכבים:** בעקבות מגפת הקורונה, חל שינוי בתפיסה האסתטית – הציבור מעדיף כיום תוכן אותנטי ו\"אמיתי\" יותר, שאינו מחייב בהכרח ערכי הפקה גבוהים ומלוטשים כפי שמציעים הכלים של אדובי.\n*   **איום מצד טכנולוגיות חדשות (Vibe Coding):** קיימת הערכה כי פיתוח עצמאי של תוכנות עריכת תמונה הופך לנגיש יותר בזכות שיטות עבודה חדשות ובינה מלאכותית, מה שמפחית את התלות במוצרי המדף של אדובי.\n*   **ביקורת על יחס למשתמשים:** עולה תחושה חזקה של טינה כלפי אדובי, בטענה שהיא \"חולבת\" את לקוחותיה ופועלת ללא לאות כדי למקסם רווחים על חשבון המשתמשים, מה שמוביל להמלצה להימנע מהשקעה במניה שלה.\n*   **מהפכת ה-AI כסיכון עסקי:** הבינה המלאכותית הופכת את תהליך היצירה ברמה הבינונית לזול וזמין מאוד. כדי לשרוד, נטען כי על אדובי להוריד את מחיריה בצורה דרסטית (לאזור ה-20$ לחודש), להטמיע AI באופן מלא ולהפוך את מוצריה לקלים הרבה יותר לשימוש."
-  },
-  {
-    "id": "1r3y89n",
-    "title": "Am I invested into the correct funds for retirement?",
-    "url": "https://www.reddit.com/r/investing/comments/1r3y89n/am_i_invested_into_the_correct_funds_for/",
-    "author": "IllPresentation6939",
-    "score": 1,
-    "selftext": "Hey guys 20m here was looking over my retirement my funds and was curious your thoughts,I invest 8% into my Roth 401k through work with a 50 cents for every dollar match up to 8%.Then I invest another 7% into my personal Roth IRA which is split between 3 funds.VOO,QQQ,and SCHD.my 401k is a Target date retirement fund 2070.Thoughts on anything I should change?no intentions to touch any of this money until retirement",
-    "subreddit": "investing",
-    "created_utc": 1771010056,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "It's not an either/or situation. If I'm flipping a coin and heads wins 14-11 that doesn't mean I should only invest in heads. I'm investing in both.",
-        "score": 1,
-        "author": "AceTracer"
-      },
-      {
-        "body": "so u agree with me USA is best to invest in, we beat them 14-11",
-        "score": 1,
-        "author": "Life_Eye_5457"
-      },
-      {
-        "body": "Non-US stocks have beaten US stocks 11 of the last 25 years, and most notably in the last year (30% vs 18%).",
-        "score": 1,
-        "author": "AceTracer"
-      }
-    ],
-    "summary_he": "בן 20 מבקש חוות דעת על תיק ההשקעות שלו לפרישה, הכולל הפרשות לקרן 401k מבוססת תאריך יעד (2070) עם הטבת מעסיק. בנוסף, הוא משקיע בחשבון Roth IRA אישי המחולק בין המדדים VOO, QQQ ו-SCHD, מתוך כוונה שלא לגעת בכספים עד לגיל הפנסיה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט, דעות ותובנות שונות שעלו מהתגובות:\n\n* **השקעה אינה משחק סכום אפס:** לפי אחת הדעות המרכזיות, הבחירה בין מניות בארה\"ב למניות בשאר העולם אינה חייבת להיות הכרעה בין שתי אפשרויות בלעדיות (\"או זה או זה\"), אלא שילוב של השתיים.\n* **חשיבות הגיוון (Diversification):** הגישה השלטת בתגובה הראשונה היא שגם אם אפיק אחד מוביל בביצועיו, נכון להשקיע בשני האפיקים במקביל כדי לפזר סיכונים.\n* **השוואה להטלת מטבע:** הנתונים מראים שהיחס בין שנות הניצחון של ארה\"ב לשאר העולם (14 לעומת 11 ב-25 השנים האחרונות) הוא קרוב יחסית, מה שהופך את ההימור על צד אחד בלבד למסוכן כמעט כמו ניסיון לנחש תוצאה של הטלת מטבע.\n* **גישת \"המנצח לוקח הכל\":** חלק מהמשתמשים מחזיקים בדעה פשטנית יותר, לפיה אם השוק האמריקאי ניצח במספר רב יותר של שנים (14 לעומת 11), הרי שהוא באופן מוחלט האפיק הטוב ביותר להשקעה.\n* **הכרה בכוחן של מניות בינלאומיות:** למרות הדומיננטיות של ארה\"ב, מודגש כי ב-44% מהזמן ב-25 השנים האחרונות (11 שנים), דווקא המניות מחוץ לארה\"ב היו אלו שהניבו תשואה עודפת.\n* **ביצועים מרשימים בטווח הקצר:** ישנו דגש על כך שבשנה האחרונה השווקים הבינלאומיים עקפו משמעותית את השוק האמריקאי (30% תשואה לעומת 18%), נתון המערער את התפיסה שארה\"ב תמיד מובילה בביצועיה."
-  },
-  {
-    "id": "1r3xkvd",
-    "title": "Best investing tips for may grads",
-    "url": "https://www.reddit.com/r/investing/comments/1r3xkvd/best_investing_tips_for_may_grads/",
-    "author": "Restarted_Teen",
-    "score": 1,
-    "selftext": "Hi, i'm a 21 year old graduating college in may. I have set up an auto invest of $25 a week into VTI and VXUS ($20 and $5 respectively). I know it's not much right now but it's all I can safely afford working part time and in class. \n\nI of course have done a little speculation with some companies I think will boom. \n\n  \nObviously I'll increase the amount I invest weekly but should I focus more on the employer benefits (If they offer them) wherever I go. I'm probably going to go into property management if that adds any value to the ideas you all will give me. \n\n  \nLong term I want to have my own investment properties but I gotta start somewhere! I know this isn’t an extravagant plan or anything but what do you all think of this? Any and all input is helpful! ",
-    "subreddit": "investing",
-    "created_utc": 1771008602,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "[https://www.reddit.com/r/personalfinance/wiki/commontopics/](https://www.reddit.com/r/personalfinance/wiki/commontopics/)\n\n[https://www.reddit.com/r/personalfinance/wiki/investing/](https://www.reddit.com/r/personalfinance/wiki/investing/)",
-        "score": 1,
-        "author": "GaylrdFocker"
-      },
-      {
-        "body": "Index funds only, all stocks go to 0 ,all indexes only rise, bad stocks are tossed from indexes. I own 6 funds, Small, mid, large cap, BRKB, vgt -(NASDAQ,)\n\nThe original Dow 30 stocks no longer exist yet DIA does 11% a year.",
-        "score": 1,
-        "author": "Life_Eye_5457"
-      },
-      {
-        "body": "VTI + VXUS = VT. Just invest in VT, ignore stock picking and use the time to build a life you're happy to live in.",
-        "score": 1,
-        "author": "E2Hundo"
-      }
-    ],
-    "summary_he": "בוגר אוניברסיטה טרי בן 21, המשקיע כיום סכומים קטנים במדדי מניות (VTI ו-VXUS), מבקש עצות לגבי המשך דרכו הפיננסית עם כניסתו לשוק העבודה. הוא שואף להגיע להשקעות נדל\"ן בטווח הארוך ושואל האם כדאי להתמקד בניצול הטבות מהמעסיק ובאילו אסטרטגיות השקעה נוספות כדאי לנקוט.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות בשרשור:\n\n* **חשיבות הידע המקדים והלמידה העצמית:** הקהילה מדגישה כי לפני שמתחילים להשקיע, יש לעבור על מדריכים מובנים (Wiki) הכוללים נושאים כלליים בניהול פיננסי אישי ואסטרטגיות השקעה מבוססות.\n* **העדפה מוחלטת למדדים על פני מניות בודדות:** קיימת סנטימנט חזק נגד בחירת מניות ספציפיות (Stock Picking). הטיעון הוא שמניות בודדות עלולות לרדת לערך אפס, בעוד שמדדים נוטים לעלות לאורך זמן.\n* **מנגנון ה\"ניקוי העצמי\" של המדד:** אחד היתרונות המרכזיים שצוינו עבור קרנות מחקות מדד הוא העובדה שחברות כושלות נפלטות מהמדד באופן אוטומטי ומוחלפות בחברות חזקות יותר, מה ששומר על חיוניות ההשקעה.\n* **אסטרטגיית גיוון לפי שווי שוק וסקטורים:** גישה אחת מציעה פיזור רחב באמצעות החזקה של מספר קרנות המכסות חברות בגדלים שונים (Small, Mid, Large Cap) לצד חשיפה ממוקדת לטכנולוגיה (Nasdaq) או לחברות אחזקה יציבות (כמו ברקשייר היית'ווי).\n* **הוכחה היסטורית לחוסן המדדים:** צוין כי למרות שכל 30 החברות המקוריות שהרכיבו את מדד הדאו ג'ונס כבר אינן חלק ממנו, המדד עצמו (DIA) ממשיך להניב תשואה שנתית מרשימה (כ-11%), מה שמעיד על שרידות המדד על פני חברות בודדות.\n* **פשטות כערך ואיכות חיים:** עמדה בולטת נוספת דוגלת בפשטות מקסימלית – השקעה בקרן עולמית אחת (כמו VT) המכסה את כל השוק. המטרה היא לחסוך זמן ואנרגיה מנטלית כדי לאפשר למשקיע להתמקד בבניית חיים מאושרים מחוץ לעולם ההשקעות."
-  },
-  {
-    "id": "1r3wwn5",
-    "title": "What would make you sell?",
-    "url": "https://www.reddit.com/r/investing/comments/1r3wwn5/what_would_make_you_sell/",
-    "author": "a11yChief",
-    "score": 1,
-    "selftext": "Specifically directing this one at the folks who buy US passive funds on autopilot; what world event, what jaw dropping, calamitous, sun went out event would get you to sell the US market, or diversify to markets which are already outperforming the states but are still undervalued?\n\nAnd if the answer is nothing, then have you considered what that means?",
-    "subreddit": "investing",
-    "created_utc": 1771007096,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Uhhh. Yea. I’m foreign. lol. In my country they pay 13th and 14th extra month salaries as populist policy. \n\nI have German friends who plan when they will be “out of work” to coincide with their travel and they know they have benefits. \n\nSame with Spain. \n\nGood luck with hospitality service in Europe. Been often. Work life balance is a huge thing over there. And I’m good with that, it just doesn’t equate to innovation and profit. \n\nMaybe it changes in the future. I just doubt it. Anything is possible. \n\nAsia, they all lie to themselves to not “lose face”. Japan for noble reasons. China for authoritarian reasons. \n\nThere are certainly valid criticisms to American implementation of capitalism, but it is just the cleanest shirt in the hamper. Every other place is just worse.",
-        "score": 1,
-        "author": "Heyhayheigh"
-      },
-      {
-        "body": "Have you ever travelled to those countries? Because that is simply not true, but no amount of me saying that on the internet is going to convince anyone.",
-        "score": 1,
-        "author": "a11yChief"
-      },
-      {
-        "body": "Nice. What was the real yield on that if 10.7 was gross? There’s at least a handful of years in that period that experienced inflation beyond 10%, so I’m only really interested in returns above inflation for that timeframe.",
-        "score": 1,
-        "author": "a11yChief"
-      }
-    ],
-    "summary_he": "הפוסט פונה למשקיעים פסיביים במדדי ארה\"ב ושואל איזה אירוע עולמי קיצוני או קטסטרופלי יגרום להם למכור את החזקותיהם או לגוון לשווקים אחרים. הכותב מבקש מהגולשים לבחון האם קיים תרחיש שישנה את האסטרטגיה שלהם, ומעורר מחשבה על המשמעות של דבקות עיוורת בהשקעה בכל מחיר.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **עליונות הקפיטליזם האמריקאי כברירת מחדל:** אחת הדעות המרכזיות היא שעל אף הביקורת המוצדקת על אופן יישום הקפיטליזם בארה\"ב, הוא עדיין נחשב לשיטה הטובה ביותר הקיימת (\"החולצה הנקייה ביותר בסל הכביסה המלוכלכת\") בהשוואה למודלים במקומות אחרים בעולם.\n*   **המחיר הכלכלי של \"איזון עבודה-חיים\" באירופה:** מוצגת הטענה כי במדינות כמו גרמניה וספרד קיימת מערכת רווחה נדיבה ודגש רב על פנאי, אך הדבר פוגע באופן ישיר ביכולת של מדינות אלו להוביל בחדשנות ובייצור רווחים משמעותיים.\n*   **ביקורת על מדיניות רווחה פופוליסטית:** הועלתה טענה כי הטבות כמו משכורות חודש 13 ו-14 במדינות מסוימות הן צעדים פופוליסטיים, וכי ישנם עובדים המנצלים את מערכת הרווחה כדי לתזמן תקופות אבטלה עם תוכניות הטיולים שלהם.\n*   **תרבות העבודה באסיה כ\"העמדת פנים\":** קיימת סטיגמה כלפי תרבויות העבודה באסיה (יפן וסין), לפיה העובדים והמערכת משקרים לעצמם כדי \"לא לאבד פנים\" – בין אם מסיבות חברתיות-מסורתיות ובין אם בגלל משטרים סמכותניים.\n*   **ספקנות לגבי חוויות של מטיילים והכללות:** אחת התגובות מבטאת סלידה מהכללות לגבי מדינות זרות, וטוענת כי התיאורים השליליים על אירופה אינם נכונים במציאות ונובעים מחוסר הבנה או חוסר ניסיון אמיתי של הכותבים בנסיעות למדינות אלו.\n*   **התמקדות בתשואה ריאלית מול אינפלציה:** במישור הכלכלי הטכני, מובע הסנטימנט שנתוני צמיחה או תשואה ברוטו (כמו 10.7%) הם חסרי משמעות ללא שקלול האינפלציה. הקהילה מדגישה שרק \"תשואה ריאלית\" (מעבר לעליית המחירים) היא המדד האמיתי להצלחה כלכלית לאורך זמן."
-  },
-  {
-    "id": "1r3u6s4",
-    "title": "Yahoo Finance is misleading",
-    "url": "https://www.reddit.com/r/investing/comments/1r3u6s4/yahoo_finance_is_misleading/",
-    "author": "DaGreek1979",
-    "score": 1,
-    "selftext": "I can’t post images but look at a 5 year charts for Hitachi (HTHIY). One from iPhone finance app that’s powered by Yahoo finance and the other from Charles Schwab. Very misleading!! I assumed the sharp drop for the iPhone/Yahoo chart was from a stock split and they just didn’t adjust it, but I searched and could not find any proof of the split. So I assumed it sold off for some reason and is now coming back. Surprise!! I learned AFTER I bought it that it’s at its all time high. F yahoo and iPhone.",
-    "subreddit": "investing",
-    "created_utc": 1771001054,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "The Yahoo chart isn't adjusting for the 2:1 split on 2/19/2025.",
-        "score": 1,
-        "author": "DoinIt4DaShorteez"
-      },
-      {
-        "body": "That **is** weird.\n\nAll of 2024 looks wrong in the Yahoo chart.  No obvious explanation.\n\nIt is interesting that the \"bad\" data ends exactly a year ago and the price starts being right again the week ending 2/24/2025.  I wonder if you look at it again in a month whether that whole block of bad data will have shifted by a month.",
-        "score": 1,
-        "author": "DoinIt4DaShorteez"
-      },
-      {
-        "body": "I never use yahoo anymore, its trash imo. My broker advised against it, he was right info is old like pes p/b's etc, and charts never were consistent. Fidelity has better info.",
-        "score": 1,
-        "author": "Life_Eye_5457"
-      }
-    ],
-    "summary_he": "הכותב מזהיר כי הנתונים ב-Yahoo Finance ובאפליקציית המניות של ה-iPhone מטעים ואינם משקפים את המציאות. הוא משתף כי רכש את מניית Hitachi לאחר שהסתמך על גרף שהציג נפילה חדה במחיר, אך גילה בדיעבד שהמניה נמצאת למעשה בשיא כל הזמנים ושמדובר בטעות טכנית של המערכת.",
+    "summary_he": "בן 40 השואף לפרוש בגיל 60 עם הון של 10 מיליון דולר תוהה האם סכום זה מספיק למחיה נוחה ויוקרתית בצפון אמריקה. הוא מציין כי הוא נמצא כעת במחצית הדרך ליעד ומבקש לשמוע את דעת הגולשים בנוגע לרף הפרישה הראוי.",
     "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה:\n\n* **כשל בעדכון נתוני פיצול מניות:** קיימת ביקורת על כך שהגרפים של Yahoo Finance אינם מותאמים לפיצול מניות (Stock Split) של 2:1 שהתרחש ב-19 בפברואר 2025, מה שיוצר עיוות בנתונים המוצגים.\n* **אי-דיוקים נרחבים בנתונים היסטוריים:** משתמשים מציינים כי כל הנתונים של שנת 2024 בגרף של Yahoo נראים שגויים לחלוטין, ללא הסבר נראה לעין מצד הפלטפורמה.\n* **זיהוי דפוס חריג בתצוגת המידע:** נצפתה תופעה מוזרה שבה המידע הופך ל\"נכון\" ומדויק שוב בדיוק בטווח של שנה אחורה מהתאריך הנוכחי (סוף פברואר 2024 עד פברואר 2025), מה שמעלה תהיות לגבי אופן עיבוד הנתונים באתר.\n* **חשש מתקלה מתגלגלת:** קיימת השערה בקהילה שמדובר בבאג ב\"בלוק\" נתונים קבוע, וכי ייתכן שבחודש הבא אותה טעות פשוט תזוז חודש אחד קדימה על ציר הזמן.\n* **חוסר אמון גורף בפלטפורמה:** חלק מהמשתמשים מביעים זלזול עמוק ב-Yahoo Finance, מכנים את האתר \"זבל\" ומציינים כי הנתונים בו (כמו מכפילי רווח P/E או מכפילי הון P/B) מיושנים ואינם רלוונטיים למסחר בזמן אמת.\n* **המלצה על חלופות מקצועיות:** בקהילה נשמעת העדפה ברורה לשימוש בברוקרים מקצועיים או פלטפורמות אחרות (כמו Fidelity), שכן המידע שם נחשב לעקבי, אמין ומעודכן הרבה יותר בהשוואה ל-Yahoo."
+    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות, המציג 6 נקודות מבט ותחושות שונות של הקהילה:\n\n*   **ספקנות עמוקה לגבי אמינות הפוסט:** המגיבים מטילים ספק בכך שאדם המחזיק בהון של חמישה מיליון דולר באמת יגלוש ברדיט ויבקש שם ייעוץ פיננסי.\n*   **תיוג הכותב כמתחזה (Ghost):** קיימת תחושה חזקה שכותב הפוסט אינו אמיתי או שהוא \"ממציא\" דמות, כפי שנכתב ישירות: \"אתה רוח רפאים\".\n*   **שימוש בהומור עצמי וסרקזם:** חלק מהגולשים מגיבים בציניות על ידי השוואת חוסר המשאבים שלהם (למשל, יתרה של 5 דולרים בלבד) לסכום העתק שהוצג בפוסט, כדי להדגיש כמה השאלה נשמעת מנותקת.\n*   **ביקורת על אופיו של הכותב:** הקהילה מגיבה בעוינות מסוימת ורואה בכותב אדם מעצבן או \"כלי\" (Tool), בשל הצורך שלו להפגין את עושרו לכאורה בפלטפורמה ציבורית.\n*   **זלזול בצורך בייעוץ:** המגיבים טוענים בנחרצות שסכומים כאלו (ואף גבוהים יותר כמו 10 מיליון) הם בוודאות \"מספיקים\", ולכן עצם השאלה נתפסת כמיותרת או כניסיון להתרברב.\n*   **פער בין מעמדות:** התגובות משקפות תחושה של \"אנחנו מולו\" – הקהילה המקומית לא רואה בעשירים מופלגים חלק לגיטימי מהדיונים היומיומיים ברדיט, בטח לא כשמדובר בבקשת עזרה פיננסית."
+  },
+  {
+    "id": "1r510y4",
+    "title": "Selling your private shares in a company",
+    "url": "https://www.reddit.com/r/investing/comments/1r510y4/selling_your_private_shares_in_a_company/",
+    "author": "Old_Cantaloupe_7401",
+    "score": 1,
+    "selftext": "Ok, I have tried but had no luck in selling my privately owned shares of my past company I worked for 25 years ago. I have gone through all the typical secondary market companies and if your not SpaceX or OpenAI shares they don’t want to even list them. \n\n Does anyone have any idea on how I could go about selling a portion of my shares.  I own 300,000 shares and a few years ago they were looking to do a SPAC deal at 650 million valuation then the SPAC market fell apart and they felt they would be better just strengthening there position. They are a AR/VR AI company but I would like to sell some of the shares since I am getting close to retirement so, figured why not.  Anyone have suggestions on what I can do? ",
+    "subreddit": "investing",
+    "created_utc": 1771116612,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "First and most important question",
+        "score": 1,
+        "author": "ViniSamples"
+      },
+      {
+        "body": "Do you actually think they should be worth anything?",
+        "score": 1,
+        "author": "duuuh"
+      },
+      {
+        "body": "I used them 6 years ago. Happy with the service/offer.",
+        "score": 1,
+        "author": "drgath"
+      }
+    ],
+    "summary_he": "הכותב מחפש דרכים למכור 300,000 מניות פרטיות של חברה בתחומי ה-AR/VR והבינה המלאכותית שבה עבד בעבר, זאת במטרה לממש חלק מהנכסים לקראת פרישתו. הוא מציין כי נתקל בקשיים למכור אותן בשוק המשני, שנוטה להתמקד בחברות ענק בלבד, ומבקש הצעות חלופיות למכירה לאחר שעסקת SPAC מתוכננת של החברה בוטלה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מהתגובות:\n\n*   **דגש על שאלות מהותיות:** קיים צורך בקרב הקהילה להגדיר קודם כל את שאלת היסוד או הבעיה המרכזית לפני שצוללים לפרטים, כפי שמשתקף בחיפוש אחר ה\"שאלה הראשונה והחשובה ביותר\".\n*   **ספקנות לגבי ערך כלכלי:** עולה תהייה ביקורתית לגבי השווי הממשי של השירות או המוצר המדובר, תוך הטלת ספק אם יש לו ערך כלשהו בכלל.\n*   **ניסיון עבר חיובי:** קיימת עדות של משתמש שהשתמש בשירות לפני תקופה ארוכה (כ-6 שנים) והיה מרוצה מאוד מההצעה ומהשירות שקיבל.\n*   **פער בין שביעות רצון אישית לערך נתפס:** הדיון מציג ניגוד בין הניסיון המעשי החיובי של לקוחות לבין התפיסה התאורטית או הספקנית של חברי קהילה אחרים לגבי נחיצות השירות.\n*   **התייחסות להיסטוריה של השירות:** הדיון רומז על כך שמדובר בשירות שקיים בשוק כבר זמן רב, מה שמאפשר לבחון אותו בפרספקטיבה של שנים ולא רק כטרנד חולף.\n*   **קריאה לבחינה מחודשת של כדאיות:** התגובות מעודדות את הקורא לבחון באופן אקטיבי האם השירות אכן ראוי לתשלום או להערכה, במקום לקבל את נחיצותו כמובנת מאליה."
+  },
+  {
+    "id": "1r50v5m",
+    "title": "To all the investors: what are you actively looking for?",
+    "url": "https://www.reddit.com/r/investing/comments/1r50v5m/to_all_the_investors_what_are_you_actively/",
+    "author": "VividRevenue3654",
+    "score": 1,
+    "selftext": "Hi,\n\nI have a question to all investors, what are you looking for in 2026. What is the sector you are focusing on and what are your expectations from young companies. \n\nAnd what are you looking for nowadays?\n\nP.S: I would like to learn more about investors perspectives and expectations.",
+    "subreddit": "investing",
+    "created_utc": 1771116158,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I'm mostly loading up defensively.  VTV and the energy sector.",
+        "score": 1,
+        "author": "bb1180"
+      },
+      {
+        "body": "Age: 25 soon to be 26.\n\nAll in on the S&P 500 and definitely making tech/AI 50% of my portfolio at least. We’ve barely scratched the surface of what artificial intelligence can do, we’re in for a real nice climb into the next decade. Fuck DCA; if you can, lump sum the fuck outta a tech sector fund or just VTI/VXUS and ride the wave",
+        "score": 1,
+        "author": "KumingaCarnage"
+      },
+      {
+        "body": "Combinations of different materials at the nanoscale will unlock the next chapter in society past this silicon era we are living in currently. These are known as “Nanomaterials”. Nanomaterials are the future because tiny structures unlock massive gains in strength, conductivity, and efficiency using less material and energy.\n\nNanocomposites combine these into real products. \n\nThere are four main quadrants right now to understand. \n-Graphene and carbon nanotubes \n-Nanocatalysts \n-MXenes\n-Metal Oxides \nGraphene and carbon nanotubes are important for strength and conductivity, nanocatalysts for faster reactions (gold, silver and other precious metals are Nanocatalysts at the nanoscale, they are hungry for chemical reactions), MXenes (all the companies are private right now but could be good for energy and shielding), and metal oxides for sensing, coatings, and batteries. \n\nThey could be interchangeable for different purposes potentially but some have different niches and this outline gives a good idea. The applications are literally endless and they have the potential to make our technology better in multiple ways.",
+        "score": 1,
+        "author": "HS_Mentalistic"
+      }
+    ],
+    "summary_he": "הפוסט פונה למשקיעים ומבקש לדעת באילו תחומים הם מתמקדים כיום ומהן הציפיות שלהם מחברות צעירות לקראת שנת 2026. הכותב מעוניין להבין לעומק את נקודת המבט של המשקיעים ואת המגמות העתידיות שהם מחפשים בשוק.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, הכולל 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **נקיטת אסטרטגיה הגנתית:** חלק מהמשקיעים מעדיפים להתמקד כרגע במגזרים יציבים יותר כמו מגזר האנרגיה ומניות ערך (Value stocks), מתוך גישה שמרנית ומגננתית כלפי השוק.\n*   **אופטימיות חסרת פשרות לגבי AI:** קיימת תחושה חזקה שתחום הבינה המלאכותית נמצא רק בתחילת דרכו. הציפייה היא שהטכנולוגיה הזו תוביל את השוק לעליות משמעותיות לאורך העשור הקרוב, מה שמצדיק חשיפה גבוהה מאוד (אפילו 50% מהתיק) למגזר הטכנולוגיה.\n*   **העדפת השקעה בסכום חד-פעמי (Lump Sum):** בקרב משקיעים צעירים ישנה הסתייגות משיטת ה-DCA (השקעה במנות קצובות) והעדפה ברורה להזרמת סכומי כסף גדולים בבת אחת לתוך מדדים רחבים (כמו S&P 500) או קרנות טכנולוגיה, כדי \"לרכב על הגל\" של השוק.\n*   **המעבר מעידן הסיליקון לננו-חומרים:** עולה סברה שהשלב הבא בהתפתחות הטכנולוגית של החברה לא יהיה מבוסס על סיליקון, אלא על ננו-חומרים (Nanomaterials). חומרים אלו נתפסים כמפתח לשיפור דרמטי בחוזק, מוליכות ויעילות אנרגטית תוך שימוש בפחות משאבים.\n*   **זיהוי נישות טכנולוגיות עתידיות:** הדיון מדגיש תחומים ספציפיים בעלי פוטנציאל צמיחה עצום, כגון גרפן (Graphene), צינוריות פחמן וננו-קטליזטורים, שצפויים לחולל מהפכה בייצור סוללות, חיישנים וציפויים מתקדמים.\n*   **שילוב בין מדדים רחבים למגזרי צמיחה:** הסנטימנט בקהילה מצביע על שילוב בין השקעה סולידית במדדים עולמיים רחבים (כמו VTI או VXUS) לבין הימורים ממוקדים על \"סקטורים של העתיד\", כדרך לבנות תיק השקעות אגרסיבי אך מגוון."
+  },
+  {
+    "id": "1r50489",
+    "title": "Is this another DeepSeek moment?",
+    "url": "https://www.reddit.com/r/investing/comments/1r50489/is_this_another_deepseek_moment/",
+    "author": "curio_123",
+    "score": 1,
+    "selftext": "Bytedance’s Seedance 2.0 AI video generator was used to generate a hyper realistic clip of a fight scene between Brad Pitt and Tom Cruise set in dystopian LA.\n\nhttps://youtu.be/FhjJTZ9uIWY\n\nChinese AI labs catching up fast, without the billions in spending. How?\n\nhttps://www.cnbc.com/2026/02/14/new-china-ai-models-alibaba-bytedance-seedance-kuaishou-kling.html",
+    "subreddit": "investing",
+    "created_utc": 1771114092,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "https://www.reddit.com/r/singularity/comments/1r476vu/priorities",
+        "score": 1,
+        "author": "daniel-sousa-me"
+      },
+      {
+        "body": "The moat is going to be infrastructure.  It is why Google is spending $180 billion this year.",
+        "score": 1,
+        "author": "bartturner"
+      },
+      {
+        "body": "same could be said of computing and the internet broadly speaking",
+        "score": 1,
+        "author": "mr_herz"
+      }
+    ],
+    "summary_he": "הפוסט דן בשחרור מודל הווידאו Seedance 2.0 של חברת Bytedance הסינית, המציג יכולות ריאליסטיות מרשימות כפי שניתן לראות בסרטון המדמה קרב בין בראד פיט לטום קרוז. נראה כי מעבדות בינה מלאכותית בסין מצליחות לצמצם במהירות את הפער מול המערב, תוך הפגנת יעילות כלכלית גבוהה משמעותית בהשוואה למתחרותיהן.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מהתגובות בשרשור ב-Reddit (r/singularity), המתמקד בסדרי עדיפויות ובמצב התחרותי של תחום הבינה המלאכותית:\n\n*   **התשתית כיתרון תחרותי (\"Moat\"):** אחת הדעות המרכזיות היא שהמחסום המרכזי לכניסה לשוק הבינה המלאכותית הוא התשתית הפיזית. בניגוד לתוכנה רגילה, כאן נדרשים משאבים עצומים של כוח מחשוב ומרכזי נתונים כדי להישאר רלוונטיים.\n*   **היקפי השקעה חסרי תקדים:** הדיון מדגיש את הסכומים הבלתי נתפסים שמושקעים בתחום, כמו ההשקעה של גוגל בסך 180 מיליארד דולר בשנה. נתון זה מעיד על כך שהמשחק שייך כמעט אך ורק לענקיות הטכנולוגיה בעלות ה\"כיסים העמוקים\".\n*   **השוואה היסטורית למחשוב ולאינטרנט:** קיימת סברה שהמצב הנוכחי של ה-AI אינו ייחודי, אלא משחזר את הדינמיקה של מהפכת המחשוב והאינטרנט. בשני המקרים, התשתית הראשונית הייתה המכשול הגדול ביותר לפני שהטכנולוגיה הפכה לנפוצה.\n*   **שאלת סדרי העדיפויות (Priorities):** כותרת הפוסט וההקשר הכללי של הקהילה מרמזים על פער בתפיסה: בעוד שהפיתוח דורש תשתיות ענק והון, הקהילה בוחנת האם המאמצים מופנים למקומות הנכונים (למשל, פתרון בעיות גלובליות לעומת שימושים מסחריים או בידוריים).\n*   **ריכוזיות הכוח:** מהתגובות עולה תחושה של ריכוזיות – אם התשתית היא ה\"חפיר\" המגן על החברות, הרי שהכוח על עתיד הבינה המלאכותית נשאר בידי מספר מצומצם מאוד של תאגידי ענק שמסוגלים לממן את התשתיות הללו.\n*   **הבינה המלאכותית כשכבת יסוד טכנולוגית:** הדיון מתייחס ל-AI לא רק כאל אפליקציה או מוצר, אלא כאל תשתית חיונית ורחבה (broadly speaking), בדומה לאופן שבו אנו תופסים את רשת האינטרנט כיום – כבסיס לכל פעילות דיגיטלית אחרת."
+  },
+  {
+    "id": "1r4zwre",
+    "title": "MarketPlace idea of digital art that gives you assets",
+    "url": "https://www.reddit.com/r/investing/comments/1r4zwre/marketplace_idea_of_digital_art_that_gives_you/",
+    "author": "xfall_guys",
+    "score": 1,
+    "selftext": "Hi guys i’ve got an idea\nI want to make a marketplace where you can buy digital artwork that gives you assets for example buy a silver rubber ducky that gives you access to a group of investors for 200$\nAnd all of that and then people add their own artworks that gives assets they choose for the price they want \n\nWhat do you think of this i know it’s a crazy idea but I just wanted to know what you guys think.",
+    "subreddit": "investing",
+    "created_utc": 1771113554,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I'd say this is exactly the sort of use case that was advertised for NFTs. ",
+        "score": 1,
+        "author": "p3dal"
+      }
+    ],
+    "summary_he": "הכותב מציע רעיון להקמת זירת מסחר ליצירות אמנות דיגיטליות המעניקות לרוכשים גישה לנכסים או הטבות בלעדיות, כגון כניסה לקבוצות משקיעים. הפלטפורמה תאפשר למשתמשים להעלות יצירות משלהם, לקבוע להן מחיר ולצרף אליהן \"נכסים\" משלימים לבחירתם.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון והדעות העולות מהתגובות (על בסיס הניתוח והקשר הדברים שהוצגו):\n\n**סיכום הדיון:**\n\n* **מימוש החזון המקורי:** המגיבים מציינים כי המקרה המדובר מהווה דוגמה קלאסית ומדויקת לשימוש שלשמו נוצרה טכנולוגיית ה-NFT מלכתחילה, בניגוד לשימושים ספקולטיביים אחרים.\n* **דגש על שימושיות (Utility):** עולה תחושה של שביעות רצון מכך שהטכנולוגיה מיושמת לפתרון בעיות פרקטיות, דבר שמחזק את הטענה של-NFT יש ערך מעבר לאמנות דיגיטלית בלבד.\n* **הוכחת היתכנות טכנולוגית:** הקהילה רואה ביישום זה הוכחה לכך שההבטחות השיווקיות המוקדמות של עולם הבלוקצ'יין אכן יכולות להתממש במציאות.\n* **הבחנה בין \"הייפ\" למציאות:** קיימת דעה כי שימושים כאלו עוזרים להפריד בין בועת המחירים של נכסים דיגיטליים לבין התועלת הטכנולוגית האמיתית של בעלות דיגיטלית מאובטחת.\n* **תיקוף הערך של חוזים חכמים:** הדיון מרמז כי שימוש כזה מדגים את היכולת של NFTs לשמש כאישור בעלות אמין ובלתי ניתן לזיוף, כפי שפורסם בתחילת הדרך.\n* **שינוי בנרטיב הקהילתי:** ניכרת סנטימנט חיובי כלפי פרויקטים שמתמקדים ב\"מקרי בוחן\" (Use cases) מוצקים, מה שמעיד על התבגרות של השוק והעדפת פונקציונליות על פני הבטחות ריקות."
+  },
+  {
+    "id": "1r4x4po",
+    "title": "Trading the Answer Key: I mapped the Epstein/Mandelson texts against 2010 FX reactions",
+    "url": "https://www.reddit.com/r/investing/comments/1r4x4po/trading_the_answer_key_i_mapped_the/",
+    "author": "kawash125",
+    "score": 1,
+    "selftext": "Everyone says markets are efficient. then i mapped the epstein/mandelson text timestamps.  \n\n\npeople keep telling retail traders to just \"be disciplined\" and stop whining.\n\ni rebuilt the may 2010 windows minute by minute and yeah, that advice sounds fake in this case.\n\ni lined up the reported text timestamps with eur/usd and gbp/usd reactions.\n\njust timing vs price, no fancy theory.\n\n  \nwhat i found:\n\n\\- reported pre-announcement text:\n\n*\"Sd \\[should\\] be announced tonight\"*\n\n\\- reported political-timing text:\n\n*\"It's over\"*\n\n\\- once public confirmation hit, fx repriced hard in those windows  \n\n\nWhy it matters:\n\n\\- if you get this kind of timing early, your indicator stack barely matters\n\n\\- this is a different rulebook, not \"better trading\"\n\n\\- retail is playing probability while someone else might be playing certainty  \n\n\ni checked the payout framing in the report too.\n\nthe estimate points to multimillion-pound upside from one correctly timed move.\n\nthat is the real punchline.\n\nwe get told to optimize entries while connected people may be trading the answer key.\n\nif anyone has cleaner timestamp data for those exact minutes, post it.\n\ni'll rerun the numbers and share the table.",
+    "subreddit": "investing",
+    "created_utc": 1771106226,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "retail is playing probability while someone else might be playing certainty ",
+        "score": 1,
+        "author": "seniorsassycat"
+      },
+      {
+        "body": "\\> the theories persist because they are right more often than no\n\nYou only need a single counterexample to invalidate a theory. I'd argue they persist because they are easy to conceptualize & there's a lot of theory / economic topics built on top of them. They're really good estimates, but not an accurate reflection of reality tho. \n\nIE: Markets are discrete in practice -- yet many people model them as continuous. Continuous models are just really good approximations - but can never truly reflect the state of the market.",
+        "score": 1,
+        "author": "PaperHandsTheDip"
+      },
+      {
+        "body": "What do you think all Trump's unhinged tweets where he tanks the market every few months are? Someone is making billions on those announcements.",
+        "score": 1,
+        "author": "finglish_"
+      }
+    ],
+    "summary_he": "הכותב ניתח את הקשר בין תכתובות שהודלפו בין ג'פרי אפשטיין לפיטר מנדלסון לבין תנודות בשוק המט\"ח ב-2010, ומצא שהודעות אלו הקדימו הודעות פוליטיות רשמיות ואיפשרו רווחים של מיליונים. המסקנה היא שבעוד שסוחרים רגילים מסתמכים על הסתברויות וניתוח טכני, מקורבים נהנים מ\"מפתח תשובות\" המבוסס על ודאות ומידע מוקדם.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות ב-Reddit, הכולל 6 נקודות מבט ודעות שונות:\n\n*   **פערי מידע וכוח בין סוגי משקיעים:** קיים הבדל תהומי בין המשקיע הקטן (\"Retail\"), שנאלץ להסתמך על הערכות והסתברויות, לבין שחקנים חזקים יותר בשוק שפועלים על בסיס ודאות מוחלטת (ייתכן שמרמז על מידע פנים או שליטה בשוק).\n*   **הביקורת על תיאוריות כלכליות:** תיאוריות אינן נשארות רלוונטיות כי הן תמיד נכונות, אלא כי הן נוחות להבנה ומהוות בסיס קל לבניית מודלים כלכליים רחבים יותר, גם אם הן לא משקפות את המציאות במדויק.\n*   **הפער בין מודלים מתמטיים למציאות:** השוק מתנהג במציאות כמערכת \"בדידה\" (Discrete), אך משקיעים רבים משתמשים במודלים \"רציפים\" (Continuous). מודלים אלו הם רק קירובים טובים, אך לעולם לא יוכלו לשקף נאמנה את המצב האמיתי של השוק.\n*   **חובת ההפרכה המדעית:** כדי לפסול תיאוריה כלכלית לא צריך להוכיח שהיא תמיד טועה; מספיקה דוגמה נגדית אחת כדי לערער את התוקף שלה, למרות הנטייה של אנשים להמשיך להאמין בה.\n*   **השפעת הפוליטיקה על השוק כמניפולציה:** הצהרות וציוצים של מנהיגים פוליטיים (כמו דונלד טראמפ) נתפסים כגורמים מכוונים לזעזוע השוק. לפי גישה זו, תנודות אלו אינן מקריות אלא משרתות אינטרסים כלכליים.\n*   **רווחים מתוכננים מתנודתיות:** קיימת תחושה בקהילה שישנם גורמים שמרוויחים מיליארדי דולרים מהודעות פתאומיות ומטלטלות שוק, מה שמרמז על כך שמישהו תמיד יודע לנצל את ה\"כאוס\" לכאורה לטובתו הכלכלית."
   }
 ];
