@@ -1,101 +1,184 @@
 window.dailyTrends = [
   {
-    "id": "1r8xjp0",
-    "title": "Walmart posts strong holiday growth, but earnings outlook falls short of estimates",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1r8xjp0/walmart_posts_strong_holiday_growth_but_earnings/",
-    "author": "TACO_Orange_3098",
-    "score": 18,
-    "selftext": "*  Walmart topped fourth-quarter earnings and revenue estimates, but its current fiscal year earnings outlook fell short of Wall Street’s expectations.\n* Chief Financial Officer John David Rainey told CNBC the company again had strong gains in e-commerce and online pickup and delivery orders, particularly among higher-income consumers.\n* The earnings report is Walmart’s first since John Furner took over as CEO on Feb. 1.\n\n  \n[Walmart](https://www.cnbc.com/quotes/WMT/) said on Thursday that holiday-quarter sales rose nearly 6% and its quarterly earnings and revenue surpassed Wall Street’s expectations as gains in e-commerce, advertising and its third-party marketplace boosted its business.\n\nFor the full current fiscal year, Walmart said it expects net sales to increase by 3.5% to 4.5% and adjusted earnings per share to range from $2.75 to $2.85. That earnings outlook fell short of Wall Street’s expectations of $2.96 per share, according to LSEG. \n\nIn an interview with CNBC, Chief Financial Officer John David Rainey said speedy deliveries from stores are helping Walmart attract more shoppers, particularly [those with higher incomes.](https://www.cnbc.com/2025/02/19/walmart-earnings-wealthy-shoppers-boost-sales.html) \n\n“Our ability to serve customers at the scale that we have, combined with the speed that we now have, is really translating into continued market share gains,” he said. “Those market share gains are occurring across all income cohorts, but consistent with last quarter, the last few quarters, most notably in the upper-income segment.”\n\n  \n**If you listen very carefully you can almost hear the economy grinding to a halt !**",
+    "id": "1r9y7j8",
+    "title": "the Supreme Court has overturned Trump’s tariffs",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1r9y7j8/the_supreme_court_has_overturned_trumps_tariffs/",
+    "author": "Mindless_Designer519",
+    "score": 169,
+    "selftext": "now that the Supreme Court has overturned the tariffs imposed by Trump, what happens to the money that has already been paid over the past months?\n\nare importers or U.S. companies that paid those tariffs entitled to automatic refunds?\n\nbtw let’s go for some green candles now",
     "subreddit": "StockMarket",
-    "created_utc": 1771502937,
-    "thumbnail": "self",
+    "created_utc": 1771600992,
+    "thumbnail": "https://preview.redd.it/xbv65deb3okg1.jpeg?width=140&height=62&auto=webp&s=97a561366dd72bed88ee2cb16e05d8434f855157",
     "top_comments": [
       {
-        "body": "Not a “grinding to a halt” signal. Walmart just grew holiday sales \\~6%, beat earnings, and gained share, especially with higher-income shoppers.\n\nThe soft guidance = cautious outlook, not collapse.  \nThis looks more like consumer trade-down + margin pressure, not economic freefall.",
-        "score": 2,
-        "author": "Every-Actuator-6996"
+        "body": "About gd time. Everyone knew they were illegal. What a joke that it took this long to rule on.",
+        "score": 33,
+        "author": "Syndicate_Corp"
       },
       {
-        "body": "Strong quarter, but weak guidance is what the market will focus on. Walmart doing well usually means consumers are trading down and looking for value. Not panic mode, but definitely a “late cycle” vibe. I’d expect muted upside unless guidance improves.",
-        "score": 1,
-        "author": "JellyTundraX"
-      }
-    ],
-    "summary_he": "וולמארט עקפה את תחזיות הרווח וההכנסות לרבעון החגים בזכות צמיחה חזקה במסחר המקוון ובמשיכת לקוחות אמידים. עם זאת, תחזית הרווח השנתית של החברה הייתה נמוכה מציפיות האנליסטים, מה שעורר בקרב חלק מהגולשים חשש מפני האטה כלכלית קרבה.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit בתרגום לעברית, המציג 6 נקודות מבט ותובנות שונות שעלו מהתגובות:\n\n*   **היעדר סימנים לקריסה כלכלית:** הביצועים של וולמארט, הכוללים צמיחה של כ-6% במכירות החגים ומעבר של תחזיות הרווח, מעידים על כך שהכלכלה אינה נמצאת ב\"עצירה מוחלטת\" או בנפילה חופשית.\n*   **התרחבות לקהל אמיד יותר:** ניכר כי וולמארט מצליחה להגדיל את נתח השוק שלה לא רק בקרב הקהל המסורתי, אלא גם בקרב צרכנים בעלי הכנסה גבוהה יותר שמחפשים אלטרנטיבות זולות.\n*   **התמקדות השוק בתחזיות עתידיות:** למרות רבעון חזק בהווה, המשקיעים והשוק נוטים להתמקד ב\"תחזית החלשה\" (Soft guidance) שסיפקה החברה, דבר שנתפס כגישה זהירה של ההנהלה ולאו דווקא כסימן לקריסה קרבה.\n*   **תופעת ה-\"Trade-down\" (מעבר למוצרים זולים):** ההצלחה של וולמארט נתפסת כסימפטום של לחץ על הצרכן; העובדה שהיא מצליחה מעידה על כך שצרכנים מוותרים על מותגי יוקרה ועוברים לקמעונאית הדיסקאונט כדי למקסם את ערך הכסף שלהם.\n*   **אווירת \"סוף מחזור\" כלכלי:** בקרב הקהילה עולה התחושה כי הכלכלה נמצאת בשלב של \"סוף מחזור\" (Late cycle) – מצב שאינו מאופיין בפאניקה, אך משדר תחושה של האטה ומיצוי של אפשרויות הצמיחה המהירות.\n*   **צפי לרווחים מוגבלים בשוק המניות:** בשל התחזיות הזהירות והלחץ על שולי הרווח (Margin pressure), הקהילה מעריכה כי פוטנציאל העלייה של המניה יהיה מוגבל (Muted upside) כל עוד לא יחול שיפור משמעותי בתחזיות החברה."
-  },
-  {
-    "id": "1r8xw12",
-    "title": "Walmart beats estimates?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1r8xw12/walmart_beats_estimates/",
-    "author": "amanukyan",
-    "score": 15,
-    "selftext": "Walmart reported fourth quarter fiscal 2026 revenue of $190.7 billion, up 5.6% year-over-year, and adjusted EPS of $0.74, beating consensus estimates of $179.31 billion and $0.73, respectively. The company's operating income grew faster than revenue, rising 10.8% to $8.7 billion.  The guidance is not very optimistic though: Net sales growth of 3.5% to 4.5% The market's initial reaction seems negative; it's down almost 3% pre-market, which is justified, imo. I understand that this is a defensive stock, but how can a company with top-line growth of 5-6% have a 43 P/E and a 42 forward P/E? This is insane. Please share what you think about this? \n\nhttps://preview.redd.it/fj2a7k522gkg1.png?width=1290&format=png&auto=webp&s=9ebe842135016955af30571fa538b0c89a5be7cb\n\n",
-    "subreddit": "StockMarket",
-    "created_utc": 1771504004,
-    "thumbnail": "https://preview.redd.it/fj2a7k522gkg1.png?width=140&height=96&auto=webp&s=430cd297023a754c2b7bc27e6114782f7efd8973",
-    "top_comments": [
-      {
-        "body": "Don't forget the $30 BILLION stock buyback !!!\n\n  \nCant hire more workers, cant pay them more , but can buyback and retire $30 billion in shares for the Walton family !!",
-        "score": 10,
-        "author": "TACO_Orange_3098"
+        "body": "Now Lutnik collects on all the refunds.  His company was fronting the tariffs for companies with (a small fee) on the trade that if these are turned over his company gets to keep them.",
+        "score": 20,
+        "author": "spaceEngineeringDude"
       },
       {
-        "body": "I thought my sarcasm was obvious.",
-        "score": 3,
-        "author": "stonk_monk42069"
-      },
-      {
-        "body": "Definitely deserves a valuation higher than Nvidia...",
-        "score": 3,
-        "author": "stonk_monk42069"
+        "body": "How about the war he's gonna start, will the SCOTUS stand up to the orange turd and his warmongering ways?",
+        "score": 16,
+        "author": "retiredfromfire"
       }
     ],
-    "summary_he": "וולמארט עקפה את תחזיות האנליסטים לרבעון הרביעי עם צמיחה בהכנסות וברווח התפעולי, אך המניה הגיבה בירידות בשל תחזית צמיחה שמרנית לעתיד. הכותב מביע פליאה על התמחור הגבוה של המניה (מכפיל רווח 43), שלטענתו אינו מוצדק עבור חברה דפנסיבית עם קצב צמיחה חד-ספרתי.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **ביקורת על סדרי עדיפויות כלכליים:** קיימת תרעומת קשה על ההחלטה לבצע רכישה חוזרת של מניות (Stock Buyback) בהיקף של 30 מיליארד דולר, במקום להפנות את המשאבים הללו לטובת העובדים.\n*   **תסכול מהקפאת שכר וגיוס:** המגיבים מצביעים על חוסר העקביות של החברה, שטוענת כי אין ביכולתה להעלות שכר או לגייס עובדים נוספים, בעוד שהיא מוציאה סכומי עתק על מהלכים פיננסיים.\n*   **התמקדות בהתעשרות בעלי השליטה:** עולה טענה כי הרכישה החוזרת של המניות נועדה בעיקר כדי להטיב עם משפחת וולטון (בעלי השליטה) ולא כדי לחזק את החברה באופן מהותי או תפעולי.\n*   **ספקנות לגבי שווי השוק:** נעשית השוואה סרקסטית לחברת Nvidia, המרמזת על כך שהערכת השווי של החברה מופרזת ואינה תואמת את המציאות הכלכלית או את הביצועים שלה לעומת מובילות שוק בתחומים אחרים.\n*   **שימוש בסרקזם ככלי מחאה:** ניכר כי הקהילה משתמשת בטון אירוני וציני כדי לבטא את חוסר האמון שלה בהצהרות החברה ובמצבה הפיננסי המוצג.\n*   **סנטימנט נגד \"חזירות תאגידית\":** הדיון משקף תחושה קהילתית שהתאגיד מעדיף \"הנדסה פיננסית\" (צמצום כמות המניות בשוק כדי להעלות את ערכן) על פני השקעה בהון האנושי ובצמיחה אורגנית."
-  },
-  {
-    "id": "1r8y6o1",
-    "title": "Amazon takes the No. 1 spot on the Fortune 500, ending Walmart's 13-year run",
-    "url": "https://www.reddit.com/r/finance/comments/1r8y6o1/amazon_takes_the_no_1_spot_on_the_fortune_500/",
-    "author": "fortune",
-    "score": 1,
-    "selftext": "In a 1998 letter to [Amazon.com](http://Amazon.com) investors, founder Jeff Bezos wrote what became a mantra and a management leitmotif. “We intend to build the world’s most customer-centric company,” Bezos declared. The company’s famous “customer obsession” was part of a strategy that helped the scrappy e-commerce startup become a tech behemoth.\n\nIf the approach sounds familiar, it’s because it echoed a favorite saying of a precursor of Bezos: Sam Walton, Walmart’s founder, who is still the object of cult-like adoration among the company’s rank and file 33 years after his death. “There is only one boss: the customer,” Walton loved to say. “They can fire everyone in the company simply by spending their money elsewhere.”\n\nIt’s an ethos that propelled both Amazon and Walmart to the upper echelons of corporate America—but for the past 13 years, and 21 of the past 24, Walmart has been on top, in the No. 1 spot on the Fortune 500. Now, a changing of the guard is underway.\n\nRead more: [https://fortune.com/article/amazon-overtakes-walmart-fortune-500-doug-mcmilon-andy-jassy-retail-tech/](https://fortune.com/article/amazon-overtakes-walmart-fortune-500-doug-mcmilon-andy-jassy-retail-tech/)",
-    "subreddit": "finance",
-    "created_utc": 1771504893,
-    "thumbnail": "https://external-preview.redd.it/BAhlpgN7kaoy_P-RWtoxwNd0LA7JJ9N1rIPHy7G7gQo.jpeg?width=140&height=70&auto=webp&s=6ad4ad4dcb59e44b9ab07e2d5035e8c1449030ca",
-    "top_comments": [],
-    "summary_he": "אמזון כבשה את המקום הראשון ברשימת ה-Fortune 500, ובכך סיימה את שליטתה של וולמארט בפסגה שנמשכה 13 שנים רצופות. המהפך ההיסטורי התאפשר בזכות פילוסופיה עסקית דומה של שתי החברות הממוקדת ב\"אובססיה ללקוח\", מה שמסמן כעת חילופי משמרות משמעותיים בצמרת הכלכלה האמריקאית.",
-    "category_he": "עסקים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-02-20",
-    "savedAt": {
-      "_seconds": 1771571182,
-      "_nanoseconds": 773000000
-    }
-  },
-  {
-    "id": "1r9yu8b",
-    "title": "Supreme Court Tariff Decision Could Trigger Surface‑Level Volatility",
-    "url": "https://www.reddit.com/r/investing/comments/1r9yu8b/supreme_court_tariff_decision_could_trigger/",
-    "author": "BenjaminScott09",
-    "score": 2,
-    "selftext": "All eyes are on the Supreme Court this Friday as it reconvenes to weigh a high‑stakes case on the legality of Trump‑era tariffs an event analysts say could provoke an immediate market reaction. According to research from JPMorgan, any decision on the International Emergency Economic Powers Act (IEEPA) authority could spark a sharp move in the S&P 500, with swings from roughly −1% to +2% in the first moments of trading. Markets have priced in uncertainty for weeks, but the court’s ruling still lacks a clear consensus, making today a true binary event for traders.\n\nThis isn’t just another headline. If the court rules against the tariffs under IEEPA, importers and equity markets tied to global supply chains could benefit in the short term, while bonds might sell off initially. But strategists caution that these knee‑jerk moves may fade quickly as the underlying policy battle could continue even after the ruling possibly delaying any durable impact",
-    "subreddit": "investing",
-    "created_utc": 1771602391,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I had about $10k sitting in cash in my accounts. I immediately moved it into ETFs when that headline popped.\n\nTariffs are the reason the economy has been dragging, not AI.",
-        "score": 1,
-        "author": "workerbee223"
-      }
-    ],
-    "summary_he": "בית המשפט העליון בארה\"ב צפוי להכריע בנוגע לחוקיות המכסים מתקופת טראמפ, החלטה שעלולה לעורר תנודתיות חדה ומידית במדד ה-S&P 500. בעוד שביטול המכסים עשוי להיטיב עם יבואנים ושרשראות אספקה בטווח הקצר, מומחים מזהירים כי התגובה המיידית בשווקים עלולה להתפוגג במהירות בשל המשך המאבקים הפוליטיים בנושא.",
+    "summary_he": "הפוסט דן בהחלטת בית המשפט העליון לבטל את המכסים שהטיל טראמפ ושואל האם יבואנים וחברות ששילמו אותם זכאים לקבל החזר כספי אוטומטי. בנוסף, הכותב מביע אופטימיות ומקווה שהמהלך יוביל לעליות בשוק ההון (סימון של \"נרות ירוקים\").",
     "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון והדעות העולות מהתגובה, המציג 6 נקודות מבט וסנטימנטים שונים:\n\n*   **תגובה מיידית לאירועים חדשותיים:** הקהילה מציגה דפוס של \"תגובה מהירה\" (Snap reaction) לכותרות מאקרו-כלכליות, תוך ביצוע פעולות קנייה אגרסיביות ברגע שמתפרסמת בשורה חיובית.\n*   **המכסים כגורם מעכב מרכזי:** קיימת תפיסה נחרצת לפיה מדיניות המכסים היא ה\"משקולת\" האמיתית שגררה את הכלכלה מטה בשנים האחרונות, והסרתם נתפסת כזרז לצמיחה.\n*   **הטלת ספק בנרטיב הבינה המלאכותית (AI):** בניגוד לשיח המקובל בשוק, עולה הטענה שבינה מלאכותית אינה הכוח המניע העיקרי של הכלכלה (לטוב או לרע), וכי גורמים מסורתיים כמו מדיניות סחר משמעותיים בהרבה.\n*   **אסטרטגיית \"מזומן בצד\":** התגובה משקפת סנטימנט של משקיעים הממתינים על הגדר עם נזילות גבוהה (במקרה זה כ-10,000 דולר), במטרה להכניס את הכסף לשוק בנקודת פריצה פוליטית או כלכלית.\n*   **ביטחון בקרנות סל (ETFs):** ניכרת העדפה של משקיעים בקהילה להשקיע בקרנות סל רחבות כדרך להיחשף להתאוששות השוק, במקום לנסות לבחור מניות בודדות בתגובה לחדשות.\n*   **סנטימנט של אופטימיות זהירה/מתפרצת:** המעבר המהיר ממזומן להשקעה מלאה עם הופעת הכותרת מעיד על כך שחלק מהקהילה רק \"חיכה להזדמנות\" כדי לחזור לשוק בביטחון מלא."
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט ותחושות שונות מהקהילה:\n\n* **תסכול על העיכוב המשפטי:** קיימת תחושת כעס על הזמן הממושך שלקח למערכת המשפט להגיע להכרעה, כאשר הגולשים מתארים את ההמתנה הארוכה כ\"בדיחה\".\n* **קונצנזוס לגבי אי-חוקיות:** בקרב המגיבים שוררת הסכמה רחבה שהפעולות שננקטו היו בלתי חוקיות באופן מובהק מהרגע הראשון, וכי הפסיקה רק אישרה את מה שכולם כבר ידעו.\n* **חשיפת רווחים של בעלי הון:** עולה טענה כי דמויות ספציפיות, כמו הווארד לוטניק (Lutnick), צפויות לגרוף רווחי עתק כתוצאה מהחזרי המכסים הללו.\n* **ניצול מנגנונים פיננסיים:** הקהילה מצביעה על המנגנון העסקי שבו חברות פיננסיות \"מימנו\" מראש את תשלום המכסים עבור חברות אחרות תמורת עמלה, מתוך כוונה לשמור לעצמן את ההחזרים במידה והחוק יבוטל.\n* **חשש מפני הסלמה צבאית:** מובע פחד עמוק מפני מדיניות החוץ העתידית של דונלד טראמפ, כולל חשש מפני פתיחת מלחמות חדשות ו\"חרחור מלחמה\".\n* **ספקנות לגבי ריסון הרשות המבצעת:** עולה שאלה ביקורתית לגבי יכולתו או נכונותו של בית המשפט העליון (SCOTUS) לעמוד מול הנשיא ולשמש כבלם למדיניותו במקרה של עימותים עתידיים."
+  },
+  {
+    "id": "1ra0rtr",
+    "title": "U.S. Supreme Court Invalidates President Donald Trump’s Emergency Tariffs Policy",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1ra0rtr/us_supreme_court_invalidates_president_donald/",
+    "author": "vishesh_07_028",
+    "score": 112,
+    "selftext": "🚨Biggest Blow To Trump:  U.S. Supreme Court Invalidates President Donald Trump’s Emergency Tariffs Policy \n\nIn a 6–3 landmark ruling, the Supreme Court of the United States struck down President Donald Trump’s emergency tariffs, declaring them unconstitutional. The Court held that the President exceeded his authority under the International Emergency Economic Powers Act (IEEPA), emphasizing that tariff powers primarily rest with Congress.\n\nThe judgment nullifies the 34% reciprocal tariff on China, the 25% tariff on India (later reduced to 18%), and the 25% duties on Canada, China, and Mexico linked to the fentanyl crisis.\n\nThe ruling could compel the U.S. government to refund an estimated $175–179 billion in collected tariffs, according to academic assessments. It also removes a major trade pressure tool from the executive branch, requiring congressional approval for any future similar measures.\n\nThe decision is expected to ease trade tensions globally and provide potential relief to American consumers amid inflationary pressures.",
+    "subreddit": "StockMarket",
+    "created_utc": 1771606608,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "When you say original argument, are you referring to me saying \"not paying attention to Trump has helped my portfolio\"? Because then, I'm not saying Trump is good for the economy. I'm saying this is noise in terms of the grand scheme. I'm choosing to ignore that noise and stay the course. I'm choosing to believe that the US will still stay extremely relevant and on the forefront of innovation and the creation of wealth. In the long term. EVEN if Trump is causing a bunch of short term noise. I don't care about the dollar in the short term. I have 25 years to retire. I don't think short term",
+        "score": 1,
+        "author": "kinetic_honda"
+      },
+      {
+        "body": "Original argument hinges on the idea that trump = good for the economy. So diversified internationally, great. Your dollar still doesn't go as far and we've stopped adding jobs to the market",
+        "score": 1,
+        "author": "NatureStoof"
+      },
+      {
+        "body": "Maybe I do. Perhaps I'm also hoping to have an intelligent conversation instead of just holding a steadfast opinion because it's popular on reddit. Anyways, I'll go and listen to recordings of myself.",
+        "score": 1,
+        "author": "kinetic_honda"
+      }
+    ],
+    "summary_he": "בית המשפט העליון של ארה\"ב פסל את מדיניות מכסי החירום של דונלד טראמפ וקבע כי הנשיא חרג מסמכותו, שכן הכוח להטלת מכסים נתון לקונגרס. הפסיקה מבטלת מכסים משמעותיים על מדינות כמו סין ומקסיקו, ועשויה לחייב את הממשל להחזיר סכום עתק של כ-179 מיליארד דולר. המהלך צפוי להפחית את המתיחות הכלכלית העולמית ולהביא להקלה במחירי המוצרים עבור הצרכנים האמריקאים.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט ועמדות שונות שעלו בו:\n\n*   **אסטרטגיית \"התעלמות מרעשים\":** אחד המגיבים טוען כי התעלמות מהחדשות סביב טראמפ הועילה לתיק ההשקעות שלו. לשיטתו, הצהרות פוליטיות הן \"רעש\" בטווח הקצר שאין לתת לו להשפיע על אסטרטגיית ההשקעה ארוכת הטווח.\n*   **אמון בחוסן הכלכלי של ארה\"ב:** קיימת עמדה אופטימית הגורסת כי ארה\"ב תמשיך להוביל את החדשנות העולמית ויצירת העושר בטווח הארוך, ללא קשר לזהות הנשיא או לטלטלות פוליטיות זמניות.\n*   **חשיבותו של אופק השקעה רחוק:** מגיב מדגיש כי עבור מי שמתכנן לפרוש בעוד 25 שנה, לתנודות הנוכחיות בערך הדולר או להשפעות פוליטיות קצרות מועד אין משמעות אמיתית, ולכן יש \"להתמיד במסלול\" (Stay the course).\n*   **ביקורת על התפיסה ש\"טראמפ טוב לכלכלה\":** עולה טענה נגדית המפקפקת בהנחת היסוד שכהונת טראמפ הועילה למשק. המגיב מצביע על כך שכוח הקנייה של הדולר נשחק וכי קצב הוספת מקומות העבודה לשוק נעצר.\n*   **צורך בפיזור השקעות בינלאומי:** כחלק מהביקורת על המצב הכלכלי, עולה הנקודה שגם אם תיק ההשקעות מגוון ברמה בינלאומית, היחלשות המטבע המקומי עדיין פוגעת ביכולת הכלכלית של הפרט.\n*   **שאיפה לדיון ענייני מול \"תיבת תהודה\":** אחד המשתתפים מביע רצון לקיים שיחה אינטליגנטית ומעמיקה, תוך יציאה נגד המגמה הרווחת ברדיט לאמץ דעות רק משום שהן פופולריות בקהילה, ומבקר את הקושי בניהול דיון אובייקטיבי."
+  },
+  {
+    "id": "1ra00r7",
+    "title": "The Domestic Buildout Trade Just Got Cleaner!",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1ra00r7/the_domestic_buildout_trade_just_got_cleaner/",
+    "author": "CalebMitchell840",
+    "score": 41,
+    "selftext": "When  tariffs were active, they acted like friction across the entire domestic buildout economy. Equipment costs rose. Lead times shifted. Planning became uncertain.\n\n\n\nRemove that friction and something subtle happens: capital spending becomes easier to justify.\n\n\n\nSmall industrial and infrastructure-linked companies feel this first. They are more exposed to domestic capex cycles and less insulated by global diversification.\n\n\n\nIn energy-adjacent spaces, that includes distributed deployment names like NехtNRG, Inc., but it also includes adjacent niches.\n\nStorage manufacturing and deployment from Eos Energy Enterprises, Inc. benefits from reduced input uncertainty.\n\nOptimization platforms such as Stem, Inc. see indirect benefit when more projects clear return thresholds and go forward.\n\n\n\nBut zoom out even further.\n\n\n\nSmall industrial contractors, electrical equipment suppliers, and grid service providers inside the Russell 2000 ecosystem also stand to gain. When macro uncertainty drops, businesses invest. When businesses invest, domestic suppliers see orders.\n\n\n\nThis becomes less about one microcap and more about a domestic infrastructure cycle with fewer policy distortions.\n\n\n\nMy view: tariff removal does not automatically create growth. But the parking brake? Disengaged. \n\n\n\nAnd when you remove a brake in an economy already leaning toward electrification, AI expansion, and infrastructure modernization, small domestic cyclicals tend to respond faster than the mega caps.\n\n\n\nThat is the under-the-radar angle worth watching.",
+    "subreddit": "StockMarket",
+    "created_utc": 1771604954,
+    "thumbnail": "https://preview.redd.it/3pu1ynw1eokg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=d050503513152ef891b99d1f0fb95c0f1b7ceee5",
+    "top_comments": [
+      {
+        "body": "Yea fuck the domestic buildout. That shit sucks. What’s it for? So people can make more photorealistic drawings of rock hard cock Tony the Tiger? Seriously, who th fuck does the ai buildout help?",
+        "score": 1,
+        "author": "thisisanewaccts"
+      },
+      {
+        "body": "How is it \"under the radar\" when some random yobbo is posting about it on a public forum?",
+        "score": 1,
+        "author": "absolutiongap53"
+      }
+    ],
+    "summary_he": "הסרת המכסים מפחיתה את אי-הוודאות הכלכלית ומעודדת השקעות הון בתחומי התשתית והתעשייה המקומיים בארה\"ב. המהלך מיטיב במיוחד עם חברות קטנות (Small-cap) וסקטור האנרגיה, שצפויים לצמוח במהירות הודות להסרת חסמי העלויות בשילוב עם המגמות העולמיות של חשמול ופיתוח תשתיות לבינה מלאכותית.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות העולות מהתגובות בשרשור:\n\n*   **התנגדות חריפה לפיתוח תשתיות מקומיות:** אחד המגיבים מביע כעס וסלידה משמעותית מההשקעה בבניית תשתיות טכנולוגיות (ככל הנראה עבור בינה מלאכותית), ומטיל ספק בנחיצותן.\n*   **ספקנות לגבי התועלת ב-AI:** עולה שאלה נוקבת לגבי הערך הממשי של פיתוחי הבינה המלאכותית עבור האדם הממוצע, תוך תהייה מי באמת מפיק מכך תועלת.\n*   **זלזול בשימושי הטכנולוגיה הנוכחיים:** קיימת ביקורת על כך שהמשאבים העצומים הללו מופנים בסופו של דבר ליצירת תוכן ויזואלי חסר ערך, הזוי או בעל אופי מיני בוטה (כמו אזכור הדמות \"טוני הנמר\").\n*   **לעג לשימוש במושג \"מתחת לרדאר\":** אחד המשתמשים מבקר את הנטייה להציג נושאים כ\"סודיים\" או \"לא ידועים\", בזמן שהם נדונים בגלוי בפורומים ציבוריים.\n*   **ביטול הטענה לסודיות המידע:** נטען שאם אדם מן השורה (\"random yobbo\") יכול לכתוב על הנושא באינטרנט, הרי שהמידע גלוי לחלוטין ואינו מוסתר מהציבור.\n*   **ציניות כלפי איכות הדיון הציבורי:** התגובות משקפות תחושה של חוסר אמון הן בטכנולוגיה והן בדרך שבה היא מוצגת בתקשורת או ברשתות החברתיות, תוך שימוש בשפה בוטה וצינית."
+  },
+  {
+    "id": "1r9w44a",
+    "title": "Reassessing My Microsoft Position",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1r9w44a/reassessing_my_microsoft_position/",
+    "author": "rewardsandpenis",
+    "score": 28,
+    "selftext": "I bought Microsoft years ago because of its cloud dominance and strong recurring revenue. Satya’s leadership and disciplined execution gave me confidence, even as multiples stretched. It was a core part of my portfolio, and I rarely questioned it.\n\nRecently, I found myself re-running models and reviewing growth assumptions. Azure continues to grow, but margins are under pressure from heavy competition, and some segments are more cyclical than I realized. I haven’t sold yet I still trust the company but I’m more cautious, trimming positions and focusing on risk-adjusted exposure. The story is solid, but patience and selectivity are key.",
+    "subreddit": "StockMarket",
+    "created_utc": 1771596034,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I've decided the risk of short-term losses are outweighed by the long-term benefits and have been buying it on the way down. \n\nAs with all investments, consult a qualified financial advisor and don't invest money you can't afford to lose.  ",
+        "score": 15,
+        "author": "ResponsibleWater1697"
+      },
+      {
+        "body": "Msft is at a fantastic price right now. I bought a bunch last week, but ran out of extra cash since I was piling into Meta 2 months prior",
+        "score": 13,
+        "author": "kinetic_honda"
+      },
+      {
+        "body": "Thank you for your astute evaluation, u/rewardsandpenis.",
+        "score": 7,
+        "author": "KarmaliteNone"
+      }
+    ],
+    "summary_he": "הכותב בוחן מחדש את השקעתו ארוכת הטווח במייקרוסופט בעקבות חששות מלחצי תחרות על שולי הרווח של Azure ומחזוריות מסוימת בחלק ממגזרי הפעילות. למרות שהוא עדיין נותן אמון בחברה, הוא בחר לצמצם את החזקותיו ולאמץ גישה זהירה ומחושבת יותר לניהול סיכונים בפורטפוליו שלו.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המוצגות, הכולל 6 נקודות מבט וסנטימנטים שונים מהקהילה:\n\n*   **תעדוף הטווח הארוך על פני תנודתיות קצרת טווח:** קיימת הסכמה בקרב חלק מהמשתמשים שהיתרונות הפוטנציאליים של השקעה לטווח רחוק גוברים על הסיכון של הפסדים זמניים בתקופה הנוכחית.\n*   **אסטרטגיית \"קנייה בירידה\" (Buying the Dip):** משקיעים בקהילה מנצלים את ירידות המחירים כדי להגדיל את החזקותיהם, מתוך אמונה שהמחירים הנוכחיים אטרקטיביים ביחס לערך העתידי.\n*   **ניהול סיכונים וזהירות פיננסית:** המגיבים מדגישים את החשיבות של השקעת כספים שניתן להרשות לעצמכם להפסיד בלבד, לצד המלצה גורפת להתייעץ עם יועץ פיננסי מוסמך לפני קבלת החלטות.\n*   **אופטימיות ספציפית לגבי מניית מיקרוסופט (MSFT):** קיים סנטימנט חיובי מאוד כלפי מיקרוסופט, כאשר המניה נתפסת כנמצאת ב\"מחיר פנטסטי\" עבור קנייה בעת הזו.\n*   **אתגרי נזילות והזדמנויות חלופיות:** חלק מהמשקיעים מדווחים על קושי לנצל את מחירי השוק הנוכחיים בגלל מחסור במזומנים זמינים, לעיתים בשל השקעות כבדות קודמות במניות טכנולוגיה אחרות (כמו Meta).\n*   **הערכה לניתוח מעמיק לצד הומור קהילתי:** הקהילה מביעה הערכה לניתוחים \"פיקחיים\" ואיכותיים, אך לעיתים קרובות עושה זאת תוך שימוש בהומור המאפיין את רדיט (כמו התייחסות לשמות משתמש משעשעים או לא שגרתיים של כותבי הפוסטים)."
+  },
+  {
+    "id": "1r9sfvi",
+    "title": "Amazon Overtakes Walmart as the World’s Largest Company by Sales",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1r9sfvi/amazon_overtakes_walmart_as_the_worlds_largest/",
+    "author": "Express_Classic_1569",
+    "score": 26,
+    "selftext": "Revenue crown goes to Amazon.  \n6-month stock performance goes to Walmart.\n\nShort term momentum favours WMT, but long-term optionality probably favours AMZN given the diversified model. Am I right?\n\nCurious which one people would choose if they could only hold one for the next 10 years.",
+    "subreddit": "StockMarket",
+    "created_utc": 1771585378,
+    "thumbnail": "default",
+    "top_comments": [
+      {
+        "body": "Surely, a tired old cloud provider/AI&robotics player/online retailer can't compete with such an innovative industry of our time, as a retail grocery is.\n\n(I mean, I wanted to be sarcastic, but then I looked at 5y chart and P/E ... )",
+        "score": 2,
+        "author": "Consistent-Duck8062"
+      },
+      {
+        "body": "Damn they'll have to pay people even less to make up for it",
+        "score": 1,
+        "author": "Ownuyasha"
+      },
+      {
+        "body": "Amazon = more upside, more volatility (AWS + ads + AI optionality).  \nWalmart = steadier, defensive compounding.\n\n10 years? I’d lean AMZN for upside.  \nWant smoother ride? WMT.",
+        "score": 1,
+        "author": "Every-Actuator-6996"
+      }
+    ],
+    "summary_he": "אמזון עקפה את וולמארט והפכה לחברה הגדולה בעולם מבחינת הכנסות, למרות שוולמארט מציגה ביצועי מניה טובים יותר בטווח הקצר. הפוסט מדגיש את היתרון של אמזון לטווח הארוך בזכות המודל העסקי המגוון שלה, ושואל את הגולשים איזו מבין שתי המניות עדיף להחזיק ב-10 השנים הבאות.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה:\n\n*   **הערכה מחדש של הקמעונאות המסורתית:** למרות התדמית המיושנת כביכול של ענף המזון והקמעונאות, הנתונים הפיננסיים (כמו מכפיל הרווח וביצועי המניה ב-5 השנים האחרונות) מראים שחברות מסורתיות כמו וולמארט עדיין מהוות תחרות חזקה מאוד לענקיות הטכנולוגיה.\n*   **פוטנציאל הצמיחה של אמזון (Upside):** אמזון נתפסת כחברה עם פוטנציאל רווח גבוה יותר לטווח ארוך, בעיקר בזכות הגיוון העסקי שלה בתחומי מחשוב הענן (AWS), פרסום ובינה מלאכותית (AI).\n*   **וולמארט כהשקעה הגנתית:** הקהילה רואה בוולמארט \"עוגן\" יציב יותר – השקעה פחות תנודתית שמציעה צמיחה עקבית ובטוחה (Compounding), מה שמתאים למשקיעים שמחפשים \"נסיעה חלקה\" יותר בשוק ההון.\n*   **השפעה על שכר העובדים:** קיים סנטימנט ציני וביקורתי כלפי המודל העסקי של החברות, לפיו התחרות או הצורך בשיפור הרווחיות יגולגלו בסופו של דבר אל העובדים בדמות קיצוץ בשכר או פגיעה בתנאי העסקתם.\n*   **השוואה בין חדשנות למסורת:** הדיון מדגיש את המתח שבין חברות המוגדרות כ\"שחקניות AI ורובוטיקה\" (כמו אמזון) לבין תעשיות מסורתיות, תוך הכרה בכך שחדשנות טכנולוגית אינה מבטיחה בהכרח עליונות פיננסית על פני מודלים קמעונאיים מוכחים.\n*   **אופק השקעה לטווח ארוך (10 שנים):** בקרב המשקיעים קיימת הבחנה ברורה לפי טווח זמן; מי שמוכן לספוג תנודתיות בשביל סיכוי לרווח משמעותי יבחר באמזון, בעוד שמי שמתכנן עשור של יציבות יעדיף את וולמארט."
+  },
+  {
+    "id": "1r9rv16",
+    "title": "Applovin might provide ads to OpenAI -  an investment case?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1r9rv16/applovin_might_provide_ads_to_openai_an/",
+    "author": "amanukyan",
+    "score": 13,
+    "selftext": "I worked for many years at a gaming studio, and Applovin has a reputation as a really great company. It's the first choice if you want to buy high-quality traffic to our game (and, recently, also for your ads).  I never had their stock because it felt to me that they were too expensive, and recently, there's additional competition from Unity's new Vector product and Meta's re-entry into in-app bidding. But this can be really huge, if they provide ads to Chatgpt - also price went down significantly. Would you invest now? [Stocktwits - Applovin/OpenAI partnership rumors.](https://stocktwits.com/news-articles/markets/equity/applovin-stock-surges-after-hours-open-ai-tie-up-buzz-leaves-retail-wanting-more/cZRZvcGR4Dr) \\- Stocktwits.",
+    "subreddit": "StockMarket",
+    "created_utc": 1771583342,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Yea whole ad tech sector is shady as fuck. Advertising as a business is shady as fuck. But it prints and nothing will happen during this government administration. Don’t hate on the best player\n\nI posted about it a few days ago. I personally am buying anything below $500\n\nThis OpenAI rumor is very speculative and was tipped off by an X post, so I am very cautious and don’t bake it in.\n\n[AppLovin Post](https://www.reddit.com/r/stocks/s/o80ajvK9JJ)",
+        "score": 3,
+        "author": "PinPsychological82"
+      },
+      {
+        "body": "Applovin is a defendant in multiple ongoing fraud suits alleging they fake traffic and fabricate key financial metrics.",
+        "score": 2,
+        "author": "Yonderthepale"
+      },
+      {
+        "body": "I think the short reports are mostly factored out. Meta is the only thing that is causing investors to rethink.",
+        "score": 1,
+        "author": "One-Repeat5990"
+      }
+    ],
+    "summary_he": "הפוסט דן באפשרות להשקעה בחברת Applovin בעקבות שמועות על שיתוף פעולה עם OpenAI לאספקת פרסומות ב-ChatGPT. הכותב, המכיר את החברה מתעשיית הגיימינג, מציין כי למרות התחרות הגוברת, המוניטין החיובי של החברה בשילוב עם ירידת מחיר המניה הופכים אותה להזדמנות השקעה מעניינת כעת.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit הכולל 6 נקודות מבט וסנטימנטים מרכזיים שעלו מהתגובות:\n\n*   **אתיקה מול רווחיות בענף ה-Ad Tech:** קיים סנטימנט חזק שהמגזר כולו נתפס כ\"מפוקפק\" (shady) מבחינה אתית, אך באותה נשימה מודים המשתמשים שמדובר במכונת הדפסת כסף משומנת שאינה צפויה להיפגע מרגולציה תחת הממשל הנוכחי.\n*   **מעמדה של AppLovin בשוק:** למרות הביקורת על הענף, יש המעריכים את החברה כ\"שחקנית הטובה ביותר\" בתחומה ומזהירים מפני הימורים נגדה רק בשל סלידה מהתחום.\n*   **אסטרטגיות השקעה וניצול ירידות:** משקיעים בקהילה משתפים פעולה באופן אקטיבי עם המניה, כאשר ישנם כאלו שסימנו את רמת ה-500 דולר ומטה כנקודת כניסה אטרקטיבית לקנייה.\n*   **ספקנות כלפי שמועות ודיווחים ברשתות חברתיות:** עולה גישה זהירה מאוד בנוגע לשמועות על שיתוף פעולה עם OpenAI; המשתמשים מתייחסים לכך כאל ספקולציה שמקורה ב-X (טוויטר לשעבר) ולא כנתון מוצק שיש לבנות עליו.\n*   **חששות מהונאה ובעיות משפטיות:** קיימת התייחסות רצינית לתביעות משפטיות מתמשכות נגד AppLovin, הכוללות האשמות חמורות על זיוף נתוני תנועה (traffic) ומניפולציה של מדדים פיננסיים מרכזיים.\n*   **השפעת השוק הרחב (מטא כמדד):** נראה כי המשקיעים מאמינים שהשפעת הדוחות השליליים של האנליסטים (\"short reports\") כבר מגולמת במחיר המניה, וכי הגורם המרכזי שבאמת משפיע על שינוי גישת המשקיעים כרגע הוא הביצועים של חברת Meta (פייסבוק) כמנהיגת השוק."
   },
   {
     "id": "1ra11kk",
@@ -110,212 +193,170 @@ window.dailyTrends = [
     "top_comments": [],
     "summary_he": "בוועידת DELTA FEST שנערכה במיסיסיפי, התכנסו למעלה מ-250 מנהיגים וקובעי מדיניות כדי לדון בדרכים לחיזוק השגשוג הכלכלי בדרום ארצות הברית. המפגש התמקד בשיפור החוסן הפיננסי בקהילות מעוטות משאבים, בשיתוף פעולה בין המגזר העסקי לארגונים חברתיים.",
     "category_he": "כלכלה",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-02-21",
+    "savedAt": {
+      "_seconds": 1771656867,
+      "_nanoseconds": 298000000
+    }
   },
   {
-    "id": "1rak4ta",
-    "title": "Dubai Residential Real Estate: Income Asset or Cyclical Risk in a High-Rate World?",
-    "url": "https://www.reddit.com/r/investing/comments/1rak4ta/dubai_residential_real_estate_income_asset_or/",
-    "author": "Apprehensive-Bag5639",
-    "score": 1,
-    "selftext": "In the current environment where higher-for-longer interest rates are compressing real estate valuations globally, I’ve been looking at international property markets less for appreciation and more as potential **income-generating real assets** within a diversified portfolio.\n\nDubai’s residential market presents an interesting case when benchmarked against developed urban centres such as London, Toronto, or Singapore.\n\nA few structural differences stand out:\n\n**1. Currency Regime**\n\nThe UAE dirham’s peg to the USD reduces foreign exchange risk for USD-based investors relative to real estate investments in floating-currency emerging markets, where nominal price appreciation can be offset by local currency depreciation.\n\n**2. Yield Profile**\n\nReported gross rental yields in certain Dubai districts range between \\~5–8%, which appears materially higher than residential cap rates typically observed in cities like New York City or Vancouver, where yields are often compressed below 4%.\n\nThis raises the question of whether Dubai residential real estate behaves more like a **cash-flow-oriented asset** rather than a capital appreciation play.\n\n**3. Tax Treatment**\n\nFor individual investors, there is currently:\n\n* No recurring property tax\n* No capital gains tax on disposals\n* No tax on rental income\n\nThis materially impacts post-tax yield compared to OECD real estate markets and may alter long-term IRR assumptions.\n\n**4. Demand Drivers**\n\nPopulation growth in Dubai is primarily migration-driven, which may have more immediate effects on rental demand compared to birth-rate-driven demographic expansion in developed markets.\n\n# Discussion Point:\n\nFor those allocating globally across real estate markets:\n\nDo you view Dubai residential property as a viable income-producing real asset in the current macro environment, or do concerns around cyclicality, governance, and liquidity risk outweigh the apparent yield premium?\n\nInterested in how others are underwriting these risks relative to developed-market real estate exposure.",
-    "subreddit": "investing",
-    "created_utc": 1771656080,
+    "id": "1ra2tyb",
+    "title": "Fundamentals vs Trend Check (Mega Caps)",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1ra2tyb/fundamentals_vs_trend_check_mega_caps/",
+    "author": "Dry_Entertainer_6727",
+    "score": 2,
+    "selftext": "I screened for large/liquid US names with Buy/Strong Buy analyst consensus and reasonable valuation (P/E ≤ \\~35), then sanity-checked fundamentals (growth + margins + balance sheet) and trend (RSI, MACD, and where price sits vs 20/50/200-day moving averages). \n\nHere are 10 strong fundamental companies and their short term (few weeks)/long term (months) trend movement.\n\n\n\n# AAPL\n\n* **Why fundamentals look strong (quick hit):** Rev +6.4% YoY, profit +19.5% YoY; operating margin 32.4%\n* **Short-term trend:** Bull 55% / Bear 45%\n* **Long-term trend:** Bull 70% / Bear 30%\n\n# MSFT\n\n* **Why fundamentals look strong (quick hit):** Rev +14.9% YoY; operating margin 46.7%; debt/equity 0.10\n* **Short-term trend:** Bull 35% / Bear 65%\n* **Long-term trend:** Bull 45% / Bear 55%\n\n# GOOG\n\n* **Why fundamentals look strong (quick hit):** Rev +15.1% YoY, profit +32.0% YoY; current ratio 2.0\n* **Short-term trend:** Bull 40% / Bear 60%\n* **Long-term trend:** Bull 70% / Bear 30%\n\n# AMZN\n\n* **Why fundamentals look strong (quick hit):** Rev +12.4% YoY, profit +31.1% YoY; improving margins (op margin 11.2%)\n* **Short-term trend:** Bull 35% / Bear 65%\n* **Long-term trend:** Bull 55% / Bear 45%\n\n# JPM\n\n* **Why fundamentals look strong (quick hit):** Rev +15.4% YoY; profit margin 31.3%; ROE 15.7%\n* **Short-term trend:** Bull 55% / Bear 45%\n* **Long-term trend:** Bull 60% / Bear 40%\n\n# JNJ\n\n* **Why fundamentals look strong (quick hit):** Rev +6.0% YoY; operating margin 34.6%\n* **Short-term trend:** Bull 40% / Bear 60%\n* **Long-term trend:** Bull 80% / Bear 20%\n\n# HD\n\n* **Why fundamentals look strong (quick hit):** Rev +4.5% YoY; steady margins; cyclical but high quality\n* **Short-term trend:** Bull 55% / Bear 45%\n* **Long-term trend:** Bull 50% / Bear 50%\n\n# KO\n\n* **Why fundamentals look strong (quick hit):** Defensive cashflow profile; gross margin 61.4%\n* **Short-term trend:** Bull 60% / Bear 40%\n* **Long-term trend:** Bull 60% / Bear 40%\n\n# MRK\n\n* **Why fundamentals look strong (quick hit):** Rev +6.7% YoY; strong margins (gross 77.2%)\n* **Short-term trend:** Bull 55% / Bear 45%\n* **Long-term trend:** Bull 75% / Bear 25%\n\n# CRM\n\n* **Why fundamentals look strong (quick hit):** Rev +8.7% YoY; profit +49.8% YoY; debt/equity 0.14\n* **Short-term trend:** Bull 35% / Bear 65%\n* **Long-term trend:** Bull 45% / Bear 55%\n\n",
+    "subreddit": "StockMarket",
+    "created_utc": 1771611056,
     "thumbnail": "self",
     "top_comments": [],
-    "summary_he": "הפוסט מנתח את כדאיות ההשקעה בנדל\"ן למגורים בדובאי כנכס מניב בסביבת ריבית גבוהה, בהשוואה לערים מרכזיות בעולם. הכותב מציין לחיוב את התשואות הגבוהות (5-8%), הפטור ממס והצמדת המטבע לדולר, אך מעלה תהיות האם יתרונות אלו עולים על סיכוני המחזוריות, הנזילות והממשל בשוק זה.",
+    "summary_he": "הפוסט מנתח עשר חברות ענק אמריקאיות (Mega Caps) על בסיס שילוב בין נתונים פונדמנטליים חזקים, כמו צמיחה ורווחיות, לבין מדדי מגמה טכניים (כמו ממוצעים נעים ו-RSI). הניתוח מציג את הפערים בין החוסן הכלכלי של כל חברה לבין תחזיות המומנטום שלה בשוק בטווח הקצר והארוך.",
     "category_he": "השקעות",
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1rajdjt",
-    "title": "US Supreme court Ruling upends Trump’s Global Tariff Strategy",
-    "url": "https://www.reddit.com/r/investing/comments/1rajdjt/us_supreme_court_ruling_upends_trumps_global/",
-    "author": "xauusdanonymous",
-    "score": 1,
-    "selftext": "A Major decision by the Supreme court of the the United States has changed former President Donald Trump’s trade plans. \n\nSo what has Happened?\nDuring his presidency , Trump used the International Emergency Economic Powers Act ( IEEPA) To impose broad global tariffs.\nCritics argued he went beyond his authority.Because congress , not the president controls trade policy. \n\nOn February 20,2026,\nThe Supreme  Court rules that IEEPA  does not allow a president to impose wide, peacetime global tariffs. This decision cancels much or Trump’s earlier tariff framework and could lead to large refund claims from imposters. \n\nNow,\nTrump responded by announcing a temporary  10% global tariff under a different law ( Sec 122 of the Trade Act of 1974)\nWhich allows short term  tariffs for up to 150 days. \n\nOther tariffs, like national security tariffs on steel and aluminum, are not affected.  \n\nThis Matters because the ruling limits presidential power over trade and strengthen Congress's role. While some businesses may benefit from lower costs, and policy uncertainty remains.",
-    "subreddit": "investing",
-    "created_utc": 1771653576,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "This just adds another layer of uncertainty for businesses that already hate uncertainty. On one hand, limiting executive power over tariffs probably makes the rules of the game clearer long term. On the other, the back and forth between different legal authorities keeps everyone guessing.\n\nFrom an investing angle, it feels like one more reminder that trade policy risk is real and can shift fast depending on courts and politics. I’m more curious how companies guide around this than the headline itself.",
-        "score": 1,
-        "author": "u_spawnTrapd"
-      }
-    ],
-    "summary_he": "בית המשפט העליון בארה\"ב פסק כי לנשיא אין סמכות להטיל מכסים גלובליים נרחבים בעת שלום, החלטה המבטלת חלק ניכר ממדיניות הסחר של דונלד טראמפ ומחזקת את כוחו של הקונגרס. בתגובה, טראמפ הכריז על מכס זמני של 10% תחת חוק חלופי המוגבל ל-150 יום בלבד, בזמן שמכסי הפלדה והאלומיניום נותרו בעינם. פסיקה זו מצמצמת משמעותית את כוחו של הנשיא בקביעת מדיניות סחר ויוצרת אי-ודאות כלכלית חדשה.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים מרכזיים של הקהילה:\n\n*   **החרפת חוסר הוודאות העסקי:** קיים חשש כבד שהשינויים האחרונים מוסיפים רובד נוסף של אי-ודאות לסביבה העסקית, דבר שחברות וארגונים מתקשים להתמודד איתו ושונאים במיוחד.\n*   **בהירות לטווח ארוך דרך הגבלת כוח:** אחת הדעות גורסת כי הגבלת הסמכות של הרשות המבצעת בנוגע למכסים עשויה דווקא להועיל בטווח הרחוק, שכן היא עשויה ליצור \"חוקי משחק\" ברורים וקבועים יותר.\n*   **בלבול עקב סכסוכי סמכויות:** המאבק והמעבר של כוח בין רשויות משפטיות ומנהליות שונות יוצרים מצב שבו הגורמים בשוק נאלצים \"לנחש\" ללא הרף מה תהיה המדיניות הבאה.\n*   **סיכוני מדיניות סחר מוחשיים:** מהזווית של משקיעים, הדיון מדגיש כי הסיכון במדיניות סחר הוא ממשי לחלוטין ויכול להשתנות במהירות קיצונית בהתאם להחלטות בתי משפט או תהפוכות פוליטיות.\n*   **דגש על תגובת החברות ולא על הכותרות:** קיימת סקרנות רבה יותר לגבי האופן שבו חברות יבחרו לספק תחזיות (Guidance) ולפעול בפועל מול השינויים, מאשר לגבי תוכן הידיעה החדשותית עצמה.\n*   **סנטימנט של חוסר יציבות פוליטי-משפטי:** הקהילה מביעה תחושה ששוק ההון והמסחר הופכים לבני ערובה של מאבקים משפטיים ופוליטיים, מה שהופך את תכנון האסטרטגיה העסקית למשימה מאתגרת מאי פעם."
-  },
-  {
-    "id": "1raihxs",
-    "title": "Think I'm bearish on MSFT",
-    "url": "https://www.reddit.com/r/investing/comments/1raihxs/think_im_bearish_on_msft/",
-    "author": "Little_Magazine_1773",
-    "score": 1,
-    "selftext": "May not be a popular post but might just save you money..\n\nThere are a few things recently that have changed my mind on stock. I wanted to buy it 450 but didn't pull the trigger.. then 420.. now 398 but I think I may have gotten lucky.\n\nI was really interested in getting it because I loved the growth story of Azure.. but..\n\n\\#1. AI is supposed to replace white collar workers so SaaS total # of subscriptions will likely go down from existing subscribers.\n\n\\#2. In this economy where everything is getting more expensive.. for a family at home wanting home office software, or a student or even a new business.. are you really going to pay MSFT when you can get Google Docs for free? Thought about this long and hard and I couldn't find an alternative better than FREE.\n\n\\#3. The EU is making a concerted effort to move away from Microsoft products after the administration put sanctions on them. This isn't reported much here in the US but it's all over the EU.. like they shut down the email of the prosecutor at the Hague.. in effect a kill switch and they are ditching MS products like Zoom and Teams fast.\n\n\\#4. Sure its Open AI bet could pay off but that's hardly a sure bet.\n\n\\#5. People aren't fond of Xbox subscription price increases or Win 11 or Copilot.\n\nSo the only sure bet is Azure and is that really worth of a 30+ forward PE (or well 25 now)?? Not going to complain about CEO or bad decisions as I like the company but I think it may be a value trap and it's multiple has to come down a lot.. maybe 15-20 PE is fair.",
-    "subreddit": "investing",
-    "created_utc": 1771650733,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I get wanting to look at the bear case, but some of this feels a bit stretched. AI and automation could actually push companies deeper into their existing ecosystems, not away from them. And most businesses pay for integration and compliance, not just a free doc editor.\n\nIt’s not cheap, but calling it a value trap seems strong. For me it’s all about whether Azure and enterprise lock in keep compounding.",
-        "score": 1,
-        "author": "u_spawnTrapd"
-      },
-      {
-        "body": "Nothing to do with MSFT but honestly nothing pisses off company bosses/ CEOs more than employees who threaten to quit over decisions made by them.\n\nDon't be surprised if they are looking for replacements behind the scenes .",
-        "score": 1,
-        "author": "Little_Magazine_1773"
-      },
-      {
-        "body": "My company was recently bought out by a company that is primarily Apple and Google. They were trying to get the sales team to migrate to Google apps and people threatened to quit. Msft has nothing to worry about.",
-        "score": 1,
-        "author": "z960849"
-      }
-    ],
-    "summary_he": "הכותב מביע עמדה פסימית (\"דובית\") כלפי מניית מיקרוסופט וטוען שהיא עלולה להיות \"מלכודת ערך\" בשל הערכת שווי גבוהה מדי ביחס לסיכונים הצפויים. הסיבות המרכזיות לכך כוללות תחרות מצד חלופות חינמיות של גוגל, חשש מירידה במספר המנויים בעקבות אימוץ ה-AI, והתרחקות של האיחוד האירופי משימוש במוצרי החברה משיקולים פוליטיים ואבטחתיים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ותובנות שונות שעלו בו:\n\n*   **חשיבות האינטגרציה על פני כלים בודדים:** נטען כי עסקים אינם משלמים רק עבור עורך מסמכים כזה או אחר, אלא עבור המערכת האקולוגית הרחבה של מיקרוסופט, הכוללת אינטגרציה מלאה בין כלים, אבטחת מידע ותאימות לרגולציה (Compliance) – שירותים שמתחרים חינמיים לא מספקים באותה רמה.\n*   **הבינה המלאכותית כגורם מחזק:** בניגוד לטענות ש-AI עלול לשבש את השוק, קיימת סברה שדווקא האוטומציה והבינה המלאכותית יעמיקו את התלות של חברות בתשתיות הקיימות שלהן בתוך המערכת של מיקרוסופט, במקום לגרום להן לעזוב.\n*   **הערכת שווי השוק:** המונח \"מלכודת ערך\" (Value Trap) בהקשר של מיקרוסופט נתפס כמרחיק לכת. המגיבים סבורים כי המפתח להצלחת המניה טמון בהמשך הצמיחה של שירותי הענן (Azure) ובשימור המודל שבו ארגונים \"נעולים\" (Lock-in) על שירותי החברה.\n*   **התנגדות עובדים לשינוי טכנולוגי:** עלה מקרה בוחן מהשטח שבו חברה שנרכשה ניסתה להעביר את צוות המכירות שלה לשימוש ביישומי Google ו-Apple, אך העובדים איימו להתפטר. עובדה זו מעידה על הכוח העצום שיש להרגלי העבודה ולכלים של מיקרוסופט בקרב כוח האדם.\n*   **הדינמיקה הרעילה שבין עובדים להנהלה:** קיימת אזהרה מפני השימוש באיומי התפטרות ככלי מיקוח מול הנהלה. נטען כי מנהלים ומנכ\"לים נוטרים טינה לעובדים שמאיימים לעזוב בגלל החלטות מערכתיות, ועלולים לפעול להחלפתם בחשאי ברגע שהאיום מושמע.\n*   **חוסן עסקי מול \"תרחישי דוב\" (Bear Case):** למרות הניסיונות של אנליסטים או משקיעים למצוא נקודות תורפה במודל העסקי של מיקרוסופט, הסנטימנט בקהילה הוא שלחברה אין סיבה אמיתית לדאגה בזכות הדומיננטיות המוחלטת שלה בסביבת העבודה הארגונית."
-  },
-  {
-    "id": "1rah6ys",
-    "title": "Chase brokerage account not allowing me to sell/trade stocks",
-    "url": "https://www.reddit.com/r/investing/comments/1rah6ys/chase_brokerage_account_not_allowing_me_to/",
-    "author": "Baconlover540v1",
-    "score": 1,
-    "selftext": "I was given some stocks from a family member but some of the stocks havent done too good and I want to reinvest into something else. The chase app doesn't give me an option to do anything with my positions other than see them. Am I doing something wrong or do I need to go to a chase bank in person for this?",
-    "subreddit": "investing",
-    "created_utc": 1771646738,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Sounds like it's a managed account of sorts.\n\nYou need to contact Chase and instruct them to sell them so you can take the cash elsewhere.",
-        "score": 1,
-        "author": "CornerOne238"
-      },
-      {
-        "body": "Before transferring out, I'd first confirm what type of account it is. if its a custodial or managed account, that could explain why you don’t see trade options. A quick call to Chase should clarify whether it’s a restriction or just the account setup.",
-        "score": 1,
-        "author": "picklikewarren"
-      },
-      {
-        "body": "Go to Schwab or Fidelity with your latest account statement and instruct them to contact Chase and move the account to them.",
-        "score": 1,
-        "author": "Tuxcali1"
-      }
-    ],
-    "summary_he": "המשתמש מדווח כי אינו מצליח למכור או לסחור במניות שקיבל מחבר משפחה לחשבון ההשקעות שלו ב-Chase. למרות רצונו להשקיע מחדש את הכספים, האפליקציה מאפשרת רק לצפות בפוזיציות ללא אפשרות ביצוע פעולות, והוא תוהה האם עליו לפנות לסניף הבנק באופן פיזי כדי לפתור את הבעיה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג 6 נקודות מרכזיות ודעות שונות שעלו מהתגובות:\n\n*   **זיהוי סוג החשבון:** קיימת הערכה חזקה שמדובר ב\"חשבון מנוהל\" (Managed Account), מה שמסביר מדוע המשתמש אינו רואה אפשרויות לביצוע פעולות מסחר עצמאיות.\n*   **בדיקת סטטוס משפטי/ניהולי:** הצעה נוספת היא לבדוק האם מדובר בחשבון משמורת (Custodial Account), שכן סוג חשבון כזה מטיל מגבלות דומות על המשתמש.\n*   **הסבר להיעדר אפשרויות המסחר:** הקהילה סבורה שחוסר היכולת לסחור אינו תקלה טכנית, אלא תוצאה של הגדרות החשבון המקוריות או מגבלות מובנות בפורמט שבו הוא הוקם.\n*   **המלצה ליצירת קשר ישיר:** מומלץ לפנות טלפונית לבנק (Chase) באופן מיידי כדי לקבל הבהרה סופית האם המגבלה נובעת מהגדרת החשבון או מחסימה ספציפית.\n*   **אסטרטגיית הנזלה (Liquidation):** הוצע להורות לבנק למכור את הנכסים ולהמירם למזומן בתוך החשבון, כדי להקל על העברת הכספים למוסד פיננסי אחר בעתיד.\n*   **ייזום העברה חיצונית:** המלצה פרקטית היא לפנות לחברות השקעות מתחרות (כמו Schwab או Fidelity) עם דוח החשבון העדכני, ולבקש מהן \"למשוך\" את החשבון מ-Chase באופן יזום במקום לנסות להתנהל מולם ישירות."
-  },
-  {
-    "id": "1rafvbw",
-    "title": "What's a good thing to start investing on in 2026?",
-    "url": "https://www.reddit.com/r/investing/comments/1rafvbw/whats_a_good_thing_to_start_investing_on_in_2026/",
-    "author": "Colt1873",
-    "score": 1,
-    "selftext": "I want to try to start investing. It's first time trying this, but I want to try something that'll be equivalent to bitcoin.\n\n\nI recently today while at FedEx that I can invest into my 401k with FedEx to build up my money, but i want to see if there areany new things to potentially try that'll possibly boom like bitcoin.\n\n\nIs there any good places to look into?\n\n\nI was thinking of using the bloom app. Any advice?",
-    "subreddit": "investing",
-    "created_utc": 1771642815,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Bitcoin reached a record all-time high of approximately $126,272 on October 6, 2025\n\nCurrent Price (Feb 20, 2026) $67,718\n\nI guess SAAS stocks might be an equivalent, like ADBE, CRM, NOW...",
-        "score": 1,
-        "author": "Key_Lifeguard_8659"
-      },
-      {
-        "body": "VTI and VXUS\n\nUse Fidelity or Vanguard or Schwab to buy them",
-        "score": 1,
-        "author": "sirzoop"
-      },
-      {
-        "body": "Anytime a certain head of state tries to distract from his plunging popularity and criminal past deeds and starts military conflicts both near and afar, I do the logical thing and invest in Defense  ETFs...specifically  XAR and SHLD. Hold it until he TACOs or the targeted country surrenders in capitulation. I made $$$ during the Venezuelan debacle.",
-        "score": 1,
-        "author": "Key_Lifeguard_8659"
-      }
-    ],
-    "summary_he": "הכותב מעוניין להתחיל להשקיע בשנת 2026 ומחפש אפיקים בעלי פוטנציאל צמיחה גבוה, בדומה להצלחה של הביטקוין. הוא שוקל להשתמש בתוכנית הפנסיה של מעסיקו (401k) ובאפליקציית Bloom, ומבקש המלצות על הזדמנויות השקעה חדשות ופלטפורמות כדאיות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט ועמדות שונות של חברי הקהילה בנושאי השקעות ומצב השוק:\n\n*   **תנודתיות הביטקוין ומחירי שיא:** אחד המגיבים מציין (מנקודת מבט עתידית/בדיונית) שהביטקוין הגיע לשיא כל הזמנים של כ-126,272 דולר באוקטובר 2025, אך חווה ירידה משמעותית לכ-67,718 דולר עד פברואר 2026.\n*   **השוואה בין קריפטו למניות תוכנה (SAAS):** קיימת סברה בקהילה שמניות מתחום ה-\"תוכנה כשירות\" (כמו Adobe, Salesforce ו-ServiceNow) עשויות להוות תחליף או מקבילה לביטקוין מבחינת התנהגות השוק או פוטנציאל הצמיחה שלהן.\n*   **העדפת מדדים רחבים ופיזור גלובלי:** קיימת המלצה ברורה על השקעה פשוטה ורחבה דרך קרנות סל (ETFs) העוקבות אחר כלל שוק המניות האמריקאי (VTI) ושוק המניות הבינלאומי ללא ארה\"ב (VXUS).\n*   **חשיבות בחירת פלטפורמת המסחר:** המשתמשים מדגישים את הצורך בשימוש בברוקרים מוכרים וממסדיים כמו Fidelity, Vanguard או Schwab לצורך ביצוע רכישות של ניירות ערך.\n*   **השקעה אסטרטגית במגזר הביטחוני:** עולה עמדה התומכת בהשקעה ממוקדת בקרנות סל של תעשיות ביטחוניות (כמו XAR ו-SHLD) כמענה לאירועים גיאופוליטיים ועימותים צבאיים בעולם.\n*   **ניתוח ציני של פוליטיקה ושווקים:** אחד המגיבים מציע אסטרטגיה המבוססת על הסנטימנט שמנהיגים פוליטיים נוטים ליזום סכסוכים צבאיים כדי להסיח את הדעת מבעיות פנים, פלילים או ירידה בפופולריות, וטוען שניתן לייצר מכך רווחים כלכליים (כפי שקרה לטענתו במשבר בוונצואלה)."
-  },
-  {
-    "id": "1radt0m",
-    "title": "Opening new HYSA strickly for bonus",
-    "url": "https://www.reddit.com/r/investing/comments/1radt0m/opening_new_hysa_strickly_for_bonus/",
-    "author": "bhuff86",
-    "score": 1,
-    "selftext": "Is it a terrible idea to open a capital one HYSA strickly for the $1500 bonus? I already have funds in a newtek bank hysa at 4.2ish% so the rate isnt better, so I'd transfer it back to my newtek account after the 90day period. I've got exceptional credit, would it take a hit opening another account just for the bonus and then closing it?",
-    "subreddit": "investing",
-    "created_utc": 1771636998,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "You are not using that analogy correctly.",
-        "score": 1,
-        "author": "ForGreatDoge"
-      },
-      {
-        "body": "Advisors are the experts. Talk to several. Open a Fidelity account. Put it in SGOV (tbill etf, super safe) while you figure it out. \n\nAsk friends and family for referral. Trust is the most importantly thing. Trust is more important than competence honestly (if it is a large firm they have guardrails in place).\n\nTalk to the Fidelity advisors on the phone. That is a good place to start. \n\nInheritance is the hardest part. It is normally too much money to just learn as you go, and your mistakes will be more costly than a trusted advisors fees. \n\nKnow that like most jobs, most people are mediocre at their job, this is extra true for advisors. Most suck. Be aware of that, don’t be surprised if you have to change a couple of times for a good fit.",
-        "score": 1,
-        "author": "Heyhayheigh"
-      },
-      {
-        "body": "I’m literally doing the same exact thing as OP. One account is 4% hysa. And the other is the 3 months for 1500 bonus. But my 90 day period is up in a couple weeks. When I close that account what kind of expert pro should I look for? The only reason I did this is because my money came from a recent inheritance and I needed it to be gaining something while I research and decide where I’m going to invest it. I still don’t know what I’m going to do. I’ve met with a couple financial advisors but no one has given me solid numbers so I’m unsure. I’d like to know what kinda of experts I should be looking for ..?",
-        "score": 1,
-        "author": "Marchmellow-"
-      }
-    ],
-    "summary_he": "הכותב שוקל לפתוח חשבון חיסכון ב-Capital One רק כדי לקבל מענק הצטרפות בסך 1,500 דולר, מתוך כוונה להחזיר את הכסף לחשבונו המקורי לאחר 90 יום. הוא מבקש לדעת האם פתיחת החשבון וסגירתו זמן קצר לאחר מכן עלולה לפגוע בדירוג האשראי המצוין שלו.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מהתגובות בשרשור, מחולקים ל-6 נקודות עיקריות:\n\n*   **החשיבות של התייעצות עם מומחים:** המגיבים מדגישים כי יועצים פיננסיים הם אנשי המקצוע בתחום, ומומלץ לדבר עם מספר יועצים שונים כדי לקבל פרספקטיבה רחבה לפני שמקבלים החלטות הרות גורל.\n*   **אסטרטגיית \"חנייה\" זמנית לכסף:** מוצע להפקיד את כספי הירושה באפיקים בטוחים מאוד (כמו קרנות T-bill, מדד SGOV או חשבונות חיסכון בריבית גבוהה - HYSA) בזמן שמבצעים מחקר ומחליטים על אפיק השקעה ארוך טווח, וזאת כדי שהכסף יניב תשואה מסוימת ללא סיכון.\n*   **עדיפות לאמון על פני מקצועיות:** דעה מעניינת שעלתה היא שביחסי עבודה עם יועץ, אמון הוא המרכיב הקריטי ביותר, לפעמים אף יותר מרמת המיומנות (במיוחד בחברות גדולות שבהן יש מנגנוני הגנה מובנים). לכן, מומלץ לחפש המלצות מאנשים קרובים (חברים ומשפחה).\n*   **הסיכון בניהול עצמאי של ירושה:** נטען כי ניהול סכומי כסף גדולים שהתקבלו בירושה הוא משימה מורכבת מדי ללמידה עצמית תוך כדי תנועה. הטעויות שעלולות לקרות בניהול עצמי לא מנוסה עלולות לעלות הרבה יותר משכר הטרחה של יועץ מקצועי.\n*   **ביקורת על רמת היועצים בשוק:** קיימת אזהרה כי מרבית היועצים הפיננסיים הם בינוניים ומטה בעבודתם. המשתמשים מציעים להיות מוכנים לאפשרות של החלפת כמה יועצים עד שמוצאים את האדם שמתאים לצרכים שלכם באופן מדויק.\n*   **תסכול מחוסר במידע קונקרטי:** עולה תחושת בלבול מצד יורשים שמתקשים למצוא \"מספרים מוצקים\" או תוכניות פעולה ברורות מהיועצים איתם נפגשו, מה שמשאיר אותם במצב של חוסר ודאות לגבי הצעד הבא למרות הרצון לפעול."
-  },
-  {
-    "id": "1racalp",
-    "title": "Looking for ideas for passive income",
-    "url": "https://www.reddit.com/r/investing/comments/1racalp/looking_for_ideas_for_passive_income/",
-    "author": "Independent-Comb-840",
-    "score": 1,
-    "selftext": "Hey everyone,\n\nI currently have about $4,500 saved and I’m trying to figure out the best way to invest it to start building some passive income. I’m not expecting to get rich quickly, I’m more interested in something realistic that can grow over time and hopefully generate steady returns. I’ve been researching different options, but I’d really like to hear from people who have actually tried things themselves. If you had $4.5K to invest and your goal was passive income, where would you start?\n\nAny advice or personal experiences would be really appreciated.",
-    "subreddit": "investing",
-    "created_utc": 1771633000,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "You don't need passive income.\n\n\nYou also cannot realiably generate much efffective income with only 4.5k.\n\n\nYou need to earn money for work, pay your expenses with that, and invest the rest into a portfolio that has good expected total returns.",
-        "score": 1,
-        "author": "thetreece"
-      },
-      {
-        "body": "Must be friday All the anti dividend /Passive income people have spammed this post.  yes safe bonds and HYSA don't pay much in yields.  But there are dividend funds that pay much higher yields.  QQQI (A covered call fund) for example has a 13% yield.  Not the highest yield available from cover d call funds but It doesn't have any of the problems the higher yield funds have.  4.5 invested in this fund will produce $585 a year not much.  But is you deposit 500 a month for 10 years you will have 125K and the yearly dividend  of 16k a year.  A little over 1K a month.  And you pay less taxes on the dividends so it is a tax efficient fund.  The key to high dividend income is to consistently depositing money every month to build up a large portfolio.  \n\nNot covered call funds are not the only choices In addition to QQQI I have ARDC 9% yield, PBDC 9%, EMO 9%, CLOZ 8%, UTF 7%, UTG 6.4% and JAAA 5.5% I have these in my roth and they are currently pumping about 5K a month into my roth. I also have some in a taxable brokerage account so I can access the cash now.",
-        "score": 1,
-        "author": "Various_Couple_764"
-      },
-      {
-        "body": "Tbf if OP is only looking for like $12 per month he’s prob in good shape lol",
-        "score": 1,
-        "author": "SteevieJanowski"
-      }
-    ],
-    "summary_he": "כותב הפוסט מעוניין להשקיע סכום של 4,500 דולר במטרה לייצר הכנסה פסיבית ויציבה לטווח הארוך. הוא מחפש אפיקי השקעה ריאליים ולא \"נוסחאות להתעשרות מהירה\", ומבקש לקבל המלצות וחוויות אישיות מאנשים שהתנסו בכך כדי לדעת מאיפה כדאי להתחיל.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ודעות שונות:\n\n*   **ספקנות לגבי נחיצותה של הכנסה פסיבית:** אחת הדעות המרכזיות היא שהכנסה פסיבית אינה הכרחית עבור כל משקיע. הגישה המוצעת היא להתמקד בייצור הכנסה מעבודה, כיסוי הוצאות, והשקעת היתרה בתיק השקעות המכוון ל\"תשואה כוללת\" (צמיחת הון ודיבידנדים יחד) ולא רק להכנסה מיידית.\n*   **מגבלת הסכום ההתחלתי:** קיים קונצנזוס בקרב חלק מהמגיבים שסכום של 4,500 דולר הוא קטן מדי מכדי לייצר הכנסה פסיבית משמעותית או מהימנה בשלב זה, וכי הציפיות לגביו צריכות להיות ריאליות (כמו למשל רווח צפוי של כ-12 דולר בחודש).\n*   **תמיכה בהשקעות עתירות דיבידנדים:** בניגוד למתנגדי הדיבידנדים, יש מי שטוען שניתן למצוא מכשירים פיננסיים עם תשואות גבוהות במיוחד (כמו קרנות QQQI המבוססות על אסטרטגיית \"Covered Calls\"), שיכולות להניב תשואה של כ-13%, שהיא גבוהה בהרבה מפיקדונות בנקאיים רגילים.\n*   **חשיבות ההפקדה העקבית:** המפתח ליצירת הכנסה משמעותית מדיבידנדים אינו הסכום הראשוני בלבד, אלא התמדה והפקדה חודשית קבועה (לדוגמה, 500 דולר בחודש). לפי חישוב זה, לאורך עשור ניתן להפוך תיק קטן לתיק של 125 אלף דולר שיניב הכנסה חודשית של מעל 1,000 דולר.\n*   **שיקולי מס וגיוון בתיק ההשקעות:** הקהילה מציינת כי חלק מהקרנות המניבות נחשבות ליעילות מבחינת מס. בנוסף, מוצע לגוון את התיק באמצעות סוגים שונים של נכסים כמו אג\"ח בטוחות, קרנות תשתיות וקרנות מניבות אחרות כדי ליצור זרם הכנסה יציב (היכול להגיע לאלפי דולרים בחודש בתיקים מבוססים).\n*   **הקשר בין סוג החשבון לנגישות המזומן:** הועלתה נקודה לגבי אסטרטגיית ניהול החשבונות – שימוש בחשבונות פטורים ממס (כמו Roth IRA בארה\"ב) לצורך צבירה ארוכת טווח, לצד חשבון השקעות רגיל (\"Taxable Brokerage\") שמאפשר גישה מיידית למזומן המופק מהדיבידנדים לצרכים שוטפים."
-  },
-  {
-    "id": "1rac6lo",
-    "title": "Why hasn't C called their series N preferred?",
-    "url": "https://www.reddit.com/r/investing/comments/1rac6lo/why_hasnt_c_called_their_series_n_preferred/",
-    "author": "convertarb",
-    "score": 1,
-    "selftext": "CpN pays 6.37% plus 3 month SOFR plus .26% on $25 par. Current yield on $25 par is over 10%. Currently trading about $29.75 which means the market doesn't believe C will call it at $25. Its a trust preferred which has some benefits to C tax wise. The debt underlying the pfd is due in 2040. Citi debt due in 2040 yields 5.65%. Seems C could call it with proceeds from a debt offering and save over 3%. Any ideas?",
-    "subreddit": "investing",
-    "created_utc": 1771632719,
+    "id": "1r9szup",
+    "title": "Major Drilling Group (MDI.TO) Pick & Shovel Play + REE Tailwind",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1r9szup/major_drilling_group_mdito_pick_shovel_play_ree/",
+    "author": "Embarrassed_Role396",
+    "score": 2,
+    "selftext": "What they do:\n\nThe world’s largest specialized contract driller. They drill holes for miners worldwide: no commodity risk, pure pick-and-shovel. They get paid to drill regardless of what’s found.\n\nThe business today:\n\n•700+ drills, 5,400+ employees, active in 20+ countries\n\n•Record revenue Q2 FY2026: $244M (+29% YoY)\n\n•Clean balance sheet, strong cash position\n\n• Specializes in complex/remote projects: premium pricing, less competition\n\nThe Mega-Tailwind: REE is Coming Home:\n\nChina currently controls about 92% of global REE processing and has started using it as a geopolitical weapon. In April 2025 alone, Chinese magnet exports collapsed, auto manufacturers throttled production . The West woke up.\n\nThe response is now massive and accelerating:\n\n• July 2025: The US Department of Defense took a 15% equity stake in MP Materials, guaranteeing a minimum price of $110/kg for neodymium-praseodymium oxide double the market price at the time. This marks the first time the US government became a major shareholder in a critical minerals company. \n\n• December 2025: The DOE launched a $134M funding opportunity to boost domestic REE supply chains, targeting extraction from mine tailings, e-waste, and unconventional sources. \n\n• October 2025: The US signed an $8.5 billion rare earth deal with Australia. \n\n•Belgium’s Solvay has begun producing magnet-grade REE oxides in France, supplying US magnet makers Europe is building its own REE midstream. \n\n•Greenland: Critical Metals Corp. is drilling one of the world’s largest hard rock REE deposits (Tanbreez), reporting 132m intervals of high-grade rare earth mineralization in its 2025 campaign, with a 2026 follow-up planned. \n\n•Australia, Brazil, Wyoming, Texas, Saudi Arabia REE projects are being drilled and funded across the entire non-Chinese world simultaneously.\n\nWhy this directly feeds Major Drilling:\n\nEvery single one of these projects in Greenland, Australia, Wyoming, South America, Africa needs the same thing first: someone to drill. Before a single ounce of REE can be processed in the West, thousands of kilometers of drill holes need to happen. \n\nThat’s Major Drilling’s business. \n\nThey don’t care which project wins. \n\nThey just drill.\n\nBonus: Silver and Gold reached ATH. More deills for Silver and Gold. \n\nYou don’t know which Western REE project will win but every single one of them has to be drilled first. That’s Major Drilling.\n\nPT 64. NFA. ",
+    "subreddit": "StockMarket",
+    "created_utc": 1771587229,
     "thumbnail": "self",
     "top_comments": [],
-    "summary_he": "הפוסט דן בשאלה מדוע סיטיגרופ (Citi) אינה פודה את מניות הבכורה מסדרה N שלה, למרות שהן משלמות דיבידנד גבוה של מעל 10%. הכותב תוהה מדוע החברה לא מחליפה את המניות בחוב זול יותר שיחסוך לה בעלויות הריבית, ומציין כי מחיר השוק הגבוה מעיד על כך שהמשקיעים אינם צופים פדיון בקרוב, ייתכן בשל יתרונות מס או מבנה החוב של החברה.",
+    "summary_he": "חברת Major Drilling (MDI.TO) היא קבלנית הקידוחים הגדולה בעולם, המהווה השקעת \"אתים וטוריות\" (Pick & Shovel) שכן היא נהנית מהעלייה בהיקף הקידוחים הגלובלי ללא סיכון ישיר במחירי הסחורות. הצמיחה של החברה מונעת מהמאמץ המערבי המואץ למציאת חלופות ליסודות נדירים (REE) מחוץ לסין וממחירי השיא של הזהב והכסף, המחייבים קידוחים נרחבים בכל פרויקט חדש ללא קשר לתוצאותיו.",
     "category_he": "השקעות",
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1rbezw4",
+    "title": "Daily Dividend Report in USA",
+    "url": "https://www.reddit.com/r/investing/comments/1rbezw4/daily_dividend_report_in_usa/",
+    "author": "karkaju2002",
+    "score": 1,
+    "selftext": "**KO**\n\n**ROP**\n\n**ECL**\n\n**DD**\n\n**OMC**\n\n**AGO**  \n\n\nThe Board of Directors of Coca-Cola today announced the election of a new company officer and the approval of the company's 64th consecutive annual dividend increase. The company is raising the quarterly dividend approximately 4% from 51 cents to 53 cents per common share. The quarterly dividend is equivalent to an annual dividend of $2.12 per share, up from $2.04 per share in 2025. The first quarter dividend is payable April 1 to shareowners of record as of March 13.\n\n\n\nRoper Technologies announced that its Board of Directors has approved a dividend of $0.91 per share payable on April 22, 2026 to stockholders of record on April 6, 2026.\n\n\n\nThe board of directors of Ecolab today declared a regular quarterly cash dividend of $0.73 per common share, to be paid April 15, 2026, to shareholders of record at the close of business on March 17, 2026. Ecolab has paid cash dividends on its common stock for 89 consecutive years.\n\n\n\nDuPont today announced that its Board of Directors has declared a quarterly dividend of twenty cents per share on the outstanding Common Stock payable on March 16, 2026, to holders of record of said stock at the close of business on March 2, 2026.\n\n\n\nThe Board of Directors of Omnicom declared a quarterly dividend of 80 cents per outstanding share of the corporation's common stock. The dividend is payable on April 9, 2026 to Omnicom common shareholders of record at the close of business on March 11, 2026.\n\n\n\nAssured Guaranty today declared a quarterly dividend of $0.38 per common share, an increase of 12% from the quarterly dividend of $0.34 per common share that was declared on November 5, 2025. The dividend is payable on March 20, 2026 to shareholders of record at the close of business on March 6, 2026.",
+    "subreddit": "investing",
+    "created_utc": 1771743347,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "הדיווח מפרט את הכרזות הדיבידנדים של מספר חברות אמריקאיות מובילות, בראשן קוקה-קולה שהעלתה את הדיבידנד בפעם ה-64 ברציפות וחברת Assured Guaranty שהגדילה את התשלום ב-12%. שאר החברות המצוינות, ביניהן אקולב, דופונט ואומניקום, הכריזו על גובה הדיבידנד הרבעוני ומועדי התשלום הצפויים במהלך מרץ ואפריל 2026.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1rbemgy",
+    "title": "Best way to start investment account for adult son?",
+    "url": "https://www.reddit.com/r/investing/comments/1rbemgy/best_way_to_start_investment_account_for_adult_son/",
+    "author": "titsdown",
+    "score": 1,
+    "selftext": "I was too poor to be able to save up for my son's college, but now that I'm doing a little better  financially I want to try to help him.  He's a legal adult now and in college, using student loans.  I figure I can set aside some money each month and put it into some kind of investment account, then several years down the line after he graduates I can give it to him to pay off his student loans.\n\nWhat I'm wondering is if there's any special kind of account for this kind of thing?  Something that maybe has a tax advantage of some kind?  If not, I guess I'll just open a normal brokerage account and use that. But I thought I'd ask first.",
+    "subreddit": "investing",
+    "created_utc": 1771742042,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "It would probably be better to simply help pay off his loans now. Do a comparison to see whether the growth of the investment portfolio beats out the 8-9% interest rate. Likely not, especially given the principle of the loan will be higher than what you’re putting in the account",
+        "score": 1,
+        "author": "MarkofCalth"
+      }
+    ],
+    "summary_he": "הורה המעוניין לסייע לבנו הבוגר בהחזר הלוואות סטודנטים בעתיד מבקש לדעת מהי הדרך הטובה ביותר להתחיל להשקיע עבורו סכום חודשי קבוע. הוא מברר האם קיימים אפיקי השקעה עם יתרונות מס ייעודיים למטרה זו, או שעליו להשתמש בחשבון השקעות רגיל.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות העולות מהתגובה, המוצג ב-6 נקודות שונות בעברית:\n\n*   **תעדוף פירעון חובות מיידי:** קיימת המלצה ברורה שעדיף לסייע בתשלום ההלוואות כבר עכשיו, במקום להפנות את הכסף לחיסכון או השקעה עתידית.\n*   **השוואה כלכלית מתמטית:** יש לבצע השוואה קרה בין פוטנציאל הצמיחה של תיק ההשקעות לבין שיעור הריבית של ההלוואה כדי לקבל החלטה מושכלת.\n*   **ספק לגבי כדאיות השוק מול הריבית:** הכותב מציין כי סביר להניח שהשקעות לא יצליחו להניב תשואה גבוהה יותר מריבית של 8-9%, שהיא ריבית גבוהה יחסית.\n*   **השפעת גובה קרן ההלוואה:** נקודה חשובה היא שקרן ההלוואה (סכום החוב המקורי) כנראה גבוהה יותר מהסכום שיופקד בתיק ההשקעות, מה שמגדיל את נטל הריבית המצטבר לעומת הרווחים האפשריים.\n*   **עדיפות ל\"תשואה מובטחת\":** הגישה המוצגת רואה בחיסכון של תשלומי ריבית גבוהים סוג של \"תשואה בטוחה\" שעולה על הסיכון הכרוך בשוק ההון.\n*   **הסתכלות על מאזן הכוחות הפיננסי:** הדיון מדגיש שהשקעה בזמן שיש חוב בריבית גבוהה היא לרוב טעות כלכלית, שכן הריבית ה\"אוכלת\" את ההון מהירה יותר מהצמיחה של הכסף המושקע."
+  },
+  {
+    "id": "1rbdiqc",
+    "title": "Thoughts on RACE Stock - Ferrari?",
+    "url": "https://www.reddit.com/r/investing/comments/1rbdiqc/thoughts_on_race_stock_ferrari/",
+    "author": "Lost-Philosophy-9830",
+    "score": 1,
+    "selftext": "Race stock looks really great right now, and i am thinking of buying, but dont understand a lot about stocks like this. firstly, what would cause the stock to rise? could good performance in f1, or maybe a release of their new ev? and also, why has the stock been sooo hammered lately? \n\nto me, looks like a good company with a solid moat and can charge whatever they want, not to mention the scuderia (f1) are looking great at the moment..\n\nthanks for the help!",
+    "subreddit": "investing",
+    "created_utc": 1771738346,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Your first two sentences are quite the journey: 1) XYZ stock looks great! 2) I don't know anything about stock.\n\nThe stock may or may not be great, but I think you should recognize you're not in a very good position to judge that based on your inexperience. Index funds sound perfect for you (and I say that as someone with plenty of index funds myself).",
+        "score": 1,
+        "author": "colcrom"
+      },
+      {
+        "body": "ferrari is about to have another season of struggle in f1, idk what you're talking about ",
+        "score": 1,
+        "author": "Puzzleheaded-Oil5910"
+      },
+      {
+        "body": "If people and institutions like to buy a stock or need to buy it, the market price rises.\n\nWhy would people like a stock or need to buy it? That’s another question.",
+        "score": 1,
+        "author": "Fun-Sundae4060"
+      }
+    ],
+    "summary_he": "הכותב שוקל לקנות את מניית פרארי (RACE) בשל המותג החזק שלה (\"moat\") וההצלחה של קבוצת הפורמולה 1, אך מבקש להבין מהם מנועי הצמיחה של החברה. הוא תוהה האם השקת רכב חשמלי או ביצועים בספורט המוטורי ישפיעו על המניה, ומבקש הסבר לירידות האחרונות בערכה למרות נתוניה היציבים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום של הדיון ב-Reddit, המציג 6 נקודות מבט ודעות שונות שעלו מהתגובות:\n\n*   **זיהוי חוסר עקביות אצל המשקיע:** אחת התגובות מצביעה על האירוניה והסיכון בדברי הכותב, שטוען שמניה מסוימת נראית מצוין בעודו מודה באותה נשימה שאין לו שום ידע בשוק ההון.\n*   **המלצה על השקעה פסיבית למתחילים:** קיימת הסכמה בקהילה שקרנות מחקות מדד (Index Funds) הן הפתרון האידיאלי עבור אנשים שאינם מנוסים בבחירת מניות בודדות, כיוון שהן מפחיתות סיכון ומותאמות לחוסר מומחיות.\n*   **חשיבות הניסיון בהערכת שווי:** המגיבים מדגישים כי ללא רקע וניסיון מתאים, למשקיע אין באמת כלים ריאליים לשפוט אם מניה היא \"טובה\" או לא, ולכן עליו להכיר במגבלותיו.\n*   **ספקנות לגבי ביצועי חברת פרארי:** קיימת דעה ספציפית המבקרת את האופטימיות לגבי מניית פרארי, תוך קישור ישיר בין הקשיים המקצועיים של הקבוצה במירוצי הפורמולה 1 לבין מצב החברה.\n*   **הבנת מנגנוני השוק הבסיסיים:** הדיון נוגע בעקרון ההיצע והביקוש – מחירי מניות עולים פשוט כי אנשים ומוסדות בוחרים או נאלצים לקנות אותן, ללא קשר תמידי לערך ה\"אמיתי\" שלהן.\n*   **השאלה המהותית של \"למה\":** מעבר לתנודות המחיר, עלתה הנקודה שחשוב להבין את המניעים העמוקים יותר של השוק – מה גורם לאנשים לרצות או להזדקק למניה מסוימת מלכתחילה, שאלה שהיא מורכבת בהרבה מעצם הקנייה."
+  },
+  {
+    "id": "1rbaumu",
+    "title": "Rent house or take equity and invest?",
+    "url": "https://www.reddit.com/r/investing/comments/1rbaumu/rent_house_or_take_equity_and_invest/",
+    "author": "JT_Cooks",
+    "score": 1,
+    "selftext": "I’m torn right now. \n\nI bought my house in 2020 for $219k and it’s now worth around $300k. We owe about $190k currently. I could rent it for $2200-$2500 a month and I pay around $1450/month. It’s not much income monthly after expenses, but in 25 years, It’ll be paid off and I’d have another asset. I could sell and invest around $100k into the market and let it sit for 25 years. ",
+    "subreddit": "investing",
+    "created_utc": 1771730058,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Thank you! I absolutely hope the company I choose to manage it does a good job. That’s my biggest concern for sure.",
+        "score": 1,
+        "author": "JT_Cooks"
+      },
+      {
+        "body": "Sounds like a plan. The most important piece of all of this is tenant selection. You’re better off letting the place sit empty for a month or two to get the right person. A good mgr earns their pay with tenant selection. Thats honestly all that one of mine is great at. \n\nGood luck\n",
+        "score": 1,
+        "author": "Acrobatic-Song-3151"
+      },
+      {
+        "body": "I'm assuming you are currently living somewhere else?\n\n\nImho the market is a safer investment with a tremendous amount of liquidity.  I didnt even bother with the napkin math because landlord-ing is significantly more time intensive with more risk.  \n\n\n\n",
+        "score": 1,
+        "author": "CCWaterBug"
+      }
+    ],
+    "summary_he": "הכותב מתלבט אם להשכיר את ביתו, שערכו עלה משמעותית, או למכור אותו ולהשקיע את ההון שנוצר (כ-100 אלף דולר) בשוק ההון לטווח של 25 שנה. בעוד שהשכרת הנכס תניב רווח חודשי ותשאיר בידיו נכס בבעלות מלאה בעתיד, מכירתו תאפשר לו להשקיע סכום נכבד באופן מיידי ופסיבי.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג שש נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **חשיבות איכות הניהול:** קיימת דאגה מרכזית לגבי בחירת חברת הניהול הנכונה. הצלחת ההשקעה תלויה במידה רבה בכך שהחברה המנהלת תבצע את עבודתה על הצד הטוב ביותר.\n*   **קריטיות בחירת השוכרים:** בחירת השוכר הנכון נחשבת למרכיב החשוב ביותר בתהליך. זהו הגורם שיכול לקבוע אם ההשקעה תהיה רווחית או תהפוך לנטל.\n*   **עדיפות לנכס ריק על פני שוכר גרוע:** עדיף להשאיר את הדירה ריקה למשך חודש או חודשיים כדי למצוא את האדם המתאים, מאשר למהר ולהכניס שוכר שאינו מתאים רק כדי לאכלס את הנכס.\n*   **תפקיד מנהל הנכס כמסנן:** הערך המוסף האמיתי של מנהל נכסים טוב מתבטא ביכולת הסינון שלו. מנהל מקצועי מצדיק את שכרו בעיקר בזכות מיומנותו בבחירת שוכרים איכותיים.\n*   **נזילות ובטיחות בשוק ההון:** קיימת טענה ששוק ההון מהווה השקעה בטוחה יותר מנדל\"ן, בעיקר בשל רמת הנזילות הגבוהה שהוא מאפשר (היכולת למשוך את הכסף במהירות).\n*   **השקעת זמן וניהול סיכונים:** ניהול נכס (Landlording) נתפס כפעילות תובענית הדורשת זמן רב וכרוכה בסיכונים משמעותיים. לעיתים, בחישוב של עלות מול תועלת, המאמץ הנדרש בניהול נכס הופך את ההשקעה לפחות אטרקטיבית בהשוואה לאפיקים פסיביים יותר."
+  },
+  {
+    "id": "1rb8sbh",
+    "title": "Which AI do you use to help with DD or general CO info",
+    "url": "https://www.reddit.com/r/investing/comments/1rb8sbh/which_ai_do_you_use_to_help_with_dd_or_general_co/",
+    "author": "Ok-Sweet5200",
+    "score": 1,
+    "selftext": "I’ve tried Gemini, grok, chat gpt, for generally getting as much information as I can. I found it helpful because it mentions things and other links to help you investigate further.\n\nI found Gemini to be good for general stuff. Grok was better for investing information as well as ChatGPT.\n\nJust wondering if anyone knows of or uses investing AI chats or something more specific? New to all of this so looking for guidance thanks.",
+    "subreddit": "investing",
+    "created_utc": 1771724166,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Gemini has lastest info to the point it answers even delta values correctly. I have since stuck to Gemini as no one has lastest info than Google anyways. It even reviews my investments and gives interesting ideas.",
+        "score": 1,
+        "author": "phanikara"
+      },
+      {
+        "body": "Uh huh. Sure thing, buddy. 🤙🏼",
+        "score": 1,
+        "author": "Professional_Dr_77"
+      },
+      {
+        "body": "Paid anthropic subscription for Opus.",
+        "score": 1,
+        "author": "Lost_Grand3468"
+      }
+    ],
+    "summary_he": "הפוסט עוסק בחיפוש אחר כלי בינה מלאכותית ייעודיים לביצוע מחקר והערכת חברות (Due Diligence) לצורכי השקעה. הכותב משתף בחוויותיו עם כלים כמו ChatGPT, Grok ו-Gemini, ומבקש המלצות לכלים ממוקדים יותר בתחום הפיננסי עבור משקיעים מתחילים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה:\n\n*   **יתרון העדכניות של Gemini:** משתמשים מציינים לטובה את היכולת של Gemini לספק מידע עדכני ביותר בזמן אמת, עד לרמה של דיוק בנתונים טכניים ספציפיים (כמו ערכי דלתא).\n*   **הדומיננטיות של גוגל במידע:** קיימת תפיסה בקהילה שלגוגל יש יתרון מובנה על פני כל חברה אחרת בכל הנוגע לגישה למידע החדש ביותר הקיים ברשת.\n*   **שימוש ב-AI כיועץ פיננסי:** ישנם משתמשים המסתמכים על המודל לצרכים פרקטיים ומורכבים, כמו סקירת תיקי השקעות וקבלת רעיונות והצעות להשקעות חדשות.\n*   **ספקנות וזלזול:** לצד השבחים, ניכר סנטימנט של חוסר אמון או ציניות מצד חלק מהגולשים כלפי היכולות המיוחסות ל-Gemini, כפי שמתבטא בתגובות מזלזלות וספקטיות.\n*   **העדפת מתחרים (Anthropic):** למרות היתרונות של גוגל, ישנם משתמשים שבוחרים באופן אקטיבי להשקיע כסף במנויים למתחרים, כמו מודל ה-Opus של חברת Anthropic (Claude).\n*   **נאמנות למותג על בסיס ביצועים:** המעבר לשימוש קבוע ב-Gemini נובע עבור חלק מהמשתמשים מהוכחת יכולת בשטח, מה שגורם להם \"להיצמד\" לכלי של גוגל על פני אלטרנטיבות אחרות."
   }
 ];
