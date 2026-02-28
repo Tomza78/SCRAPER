@@ -1,321 +1,409 @@
 window.dailyTrends = [
   {
-    "id": "1rfz9o7",
-    "title": "Biggest securities fraud in history exposed: SAAS Armageddon",
-    "url": "https://www.reddit.com/r/investing/comments/1rfz9o7/biggest_securities_fraud_in_history_exposed_saas/",
-    "author": "Curious-Category9982",
+    "id": "1rguv8x",
+    "title": "Help with investment locating.",
+    "url": "https://www.reddit.com/r/investing/comments/1rguv8x/help_with_investment_locating/",
+    "author": "Soakedlumber",
     "score": 1,
-    "selftext": "Hello all, I have been working on this over 10 years. Public company stocks have artificially shorted by a organization and they dump their position in earnings call. I have trapped the culprit, we were fighting for the last 15 days, price does not move. I need more capital please buy thryv stock with all of your liquidity and be billionaires of tomorrow! This is very important, they killed my friend to cover up. They were spying on me for many years, today we can save humanity from its parasites! There will be many bots messages flaming me its their biggest weapon do not believe these messages just check the price action of Thryv you will understand easily. Please buy thryv and tell everyone to buy thryv!\n\nPs. If you want to expose then buy 2.5 dollars call options dated 20 march, and buy underlying stock as well.",
+    "selftext": "In either late 2022 or early 2023 I invested about $500 in a shot in the dark thing that I can't remember the details for. I saw it on either YouTube or tiktok or something about \"investing time\" or something where I donated $500 to pull out in 2026. I remember I had to add some extension to Firefox or chrome to make it work but I've sense lost the computer with my information and spreadsheets saved due to a fire. I know this isn't much to go off of so I doubt I'll ever find it and I'm not really worried about losing the $500 but figured I'd go looking for it again. It was a complete 3rd party website and application outside of the usual tradestation, ibkr, or schwabb. I just remember having to lock it in for a certain amount of time with unreasonable return predictions which is why I figured a small sum was not such a big deal for the fun of it. \"investing time\" is a moniker I'm really holding to from memory. any help would be awesome.",
     "subreddit": "investing",
-    "created_utc": 1772174107,
+    "created_utc": 1772258636,
     "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "הכותב טוען שחשף הונאת ניירות ערך ענקית וקורא לציבור להשקיע את כל הונם במניית Thryv כדי להביס \"טפילים\" שמתמרנים את השוק. הפוסט רווי בתיאוריות קונספירציה קיצוניות, כולל טענות על רצח וריגול, ומבטיח למשקיעים שיהפכו למיליארדרים אם ירכשו מניות ואופציות של החברה.",
+    "top_comments": [
+      {
+        "body": "Not trying to be harsh but this honestly sounds a lot like one of those browser-extension “yield” / locked return schemes that were floating around during the 2021–2023 hype cycle, especially if it promised “unreasonable returns” and required installing something outside normal brokerages. Real investments don’t need a random Firefox extension and they definitely don’t guarantee high returns for locking money until 2026. I’d check your old email (search terms like “lock,” “staking,” “time,” “yield,” “extension,” “investment confirmation”), crypto wallets, or browser history backups first... but also mentally prepare that it may have been a high-risk or outright scam product. If you do find the name, don’t log back in through random links; verify the domain carefully before entering anything.",
+        "score": 1,
+        "author": "Gigantic_Elephant"
+      },
+      {
+        "body": "Honestly that makes it even more of a classic scam setup. Someone you trust sends you a \"fun investment thing\" they found on social media, low enough amount that you don't think twice, and the whole thing is designed to feel casual. At least it was only $500 and a good lesson.",
+        "score": 1,
+        "author": "Legal_Potato_9063"
+      },
+      {
+        "body": "Not holding out any hopes. Not counting on it to pay any bills or anything. Just a random thing that was brought back to my attention. I usually have a better memory for these kinds of things but my ex stepfather sent me the details and stuff and we thought it would be a stupid or fun thing to mess with.",
+        "score": 1,
+        "author": "Soakedlumber"
+      }
+    ],
+    "summary_he": "הכותב מחפש מידע על השקעה בסך 500 דולר שביצע בסוף 2022 או תחילת 2023 דרך פלטפורמה חיצונית לא מוכרת, שדרשה התקנת תוסף לדפדפן. ההשקעה כללה \"נעילת כספים\" עד שנת 2026 עם הבטחה לתשואות גבוהות במיוחד, תחת המונח הזכור לו כ-\"investing time\". הוא איבד את כל התיעוד על ההשקעה בעקבות שריפה ומנסה כעת לשחזר את שם האתר או היישום.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בשרשור המבוסס על התגובות שנכתבו, הכולל 6 נקודות מבט ומרכיבים מרכזיים:\n\n*   **זיהוי דפוס של הונאה:** קיים חשד כבד כי מדובר בשיטת הונאה המכונה \"תשואה מובטחת\" (yield/staking) שהייתה נפוצה בשנות השיא של שוק הקריפטו (2021–2023). המגיבים מציינים כי הבטחות לתשואות גבוהות במיוחד ודרישה לנעילת כספים לטווח ארוך (כמו עד 2026) הן סימני אזהרה קלאסיים.\n*   **סימני אזהרה טכניים:** המגיבים מדגישים כי השקעות לגיטימיות אינן דורשות התקנה של תוספים לדפדפן (כמו פיירפוקס) מחוץ לפלטפורמות מסחר מוכרות. הצורך בתוסף ייעודי כדי \"לראות\" את התשואה נתפס כפעולה חשודה מאוד מבחינה אבטחתית.\n*   **הונאה דרך מעגלים חברתיים:** הדיון מעלה נקודה חשובה לגבי האופן שבו הונאות מופצות – לעיתים קרובות דרך אנשים קרובים שאנחנו סומכים עליהם (כמו בן משפחה או חבר) שמצאו את ה\"הזדמנות\" ברשתות החברתיות. האמון באדם הממליץ גורם למשקיע להוריד מגננות.\n*   **פסיכולוגיה של סכומים נמוכים:** סכום של 500 דולר נחשב בשרשור כסכום \"נמוך מספיק\" שגורם לאנשים לא לחקור לעומק ולהתייחס להשקעה כאל ניסוי או \"דבר שטותי ומהנה\". נוכלים משתמשים בסכומים כאלה כדי למשוך משקיעים שאינם רוצים להסתכן בסכום גדול אך מוכנים \"להמר\".\n*   **דרכי פעולה לאיתור מידע:** ניתנו עצות מעשיות לחיפוש בהיסטוריית המיילים והדפדפן באמצעות מילות מפתח ספציפיות (כמו \"staking\", \"yield\", \"lock\"). עם זאת, המגיבים מזהירים שאם יימצא השם, יש להיכנס לאתר רק דרך דומיין מאומת ולא דרך קישורים ישנים שעלולים להוביל לאתרי דיג (Phishing).\n*   **השלמה עם אובדן הכסף:** ניכרת גישה מפוכחת של המשתמש והקהילה; המשתמש מבהיר שאינו בונה על הכסף הזה לתשלום חשבונות ורואה בזה יותר סקרנות לגבי העבר. הקהילה מציעה להתייחס לכך כאל \"שיעור בתשלום\" (שכר לימוד) על טעויות בהשקעות."
+  },
+  {
+    "id": "1rgsdee",
+    "title": "Question about State and Federal income tax limits",
+    "url": "https://www.reddit.com/r/investing/comments/1rgsdee/question_about_state_and_federal_income_tax_limits/",
+    "author": "Zinc_22",
+    "score": 1,
+    "selftext": "I 15m make right under the state income tax limit. For my state, it is 8000 dollars, but this year I may have the opportunity to make more. I was planning not to work more but instead volunteer, so I don't hit that limit, but I was curious if I would have to pay state income tax for the full 8000 or just the money I make above that? Also, is it the same for federal income tax?",
+    "subreddit": "investing",
+    "created_utc": 1772250770,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Don't confuse withholding and income tax. Withholding is one of the ways we prepay towards taxes owed. When you file your tax return there will be various things, such as standard deduction and maybe some credits, which take your earned and unearned taxable income to Adjusted Gross Income. AGI is what you are taxed on.\n\n\nSo, for instance, for 2025 the Federal standard deduction is $15,750 for a single person. If you earned $20,000 the difference of $4,250 is your AGI, assuming you have no further adjustments. Think of standard deduction as a baseline cost of living allowance. \n\n\nWhen you file the tax form, the withholding is compared to taxes owed. The difference is either the balance owed from you or a refund owed to you. ",
+        "score": 1,
+        "author": "Here4Snow"
+      },
+      {
+        "body": "To add to this: never turn down extra income just to avoid taxes. You'd only pay state tax on the amount above $8,000, not on all of it. The extra work is always worth it. Volunteering is great, but don't let a misunderstanding of tax brackets cost you money.",
+        "score": 1,
+        "author": "Legal_Potato_9063"
+      },
+      {
+        "body": "You only pay income tax on the amount above the threshold, not the full amount once you cross it. That is how marginal tax brackets work at the federal level, and most states follow a similar structure. So if the cutoff is 8k and you make 9k, you would only owe tax on that extra 1k, not the whole 9k.\n\nAlso keep in mind that the federal standard deduction is much higher than 8k, so depending on your total income you might not owe federal income tax at all. Even if taxes are withheld from your paycheck, you can usually file and get a refund if you did not actually owe anything.\n\nIt is great that you are thinking about this at 15. Just do not avoid earning more money out of fear of crossing a limit. That is almost never how taxes work.",
+        "score": 1,
+        "author": "u_spawnTrapd"
+      }
+    ],
+    "summary_he": "נער בן 15 שואל האם חריגה מסף ההכנסה הפטור ממס תחייב אותו בתשלום מס על כל הכנסתו או רק על הסכום שמעבר לתקרה. הוא מעוניין לדעת אם הכללים הללו חלים גם על מס הכנסה פדרלי, ושוקל להתנדב במקום לעבוד כדי להימנע מהגעה לרף המס.",
     "category_he": "פיננסים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מרכזיות ותובנות של הקהילה לגבי עבודה ומיסוי:\n\n*   **הבחנה בין ניכוי במקור למס הכנסה בפועל:** הקהילה מדגישה שאין להתבלבל בין הסכום שיורד מהתלוש (Withholding) לבין חבות המס האמיתית. הניכוי במקור הוא רק מקדמה, ורק בעת הגשת הדו\"ח השנתי מחושב המס המדויק בהתאם להכנסה המתואמת (AGI).\n*   **חשיבות ה\"הפחתה הסטנדרטית\" (Standard Deduction):** אחד ההסברים המרכזיים הוא שישנו סכום בסיסי (כמו 15,750$ בארה\"ב לרווק ב-2025) שמוגדר כ\"קצבת מחיה בסיסית\" ואינו חייב במס כלל. רק הכנסה שמעבר לסכום זה נחשבת להכנסה חייבת.\n*   **הפרכת המיתוס על \"מעבר דרגת מס\":** המגיבים מבהירים כי שיטת המיסוי היא מדורגת (Marginal Tax Brackets). המשמעות היא שגם אם חוצים רף מסוים, משלמים מס גבוה יותר **רק** על הדולרים שמעבר לרף, ולא על כל הסכום שהורווח.\n*   **ההמלצה הכלכלית: לעולם אל תסרבו להכנסה נוספת:** הקהילה תמימת דעים שאין סיבה הגיונית להרוויח פחות כדי \"להימנע ממסים\". עבודה נוספת תמיד תשאיר יותר כסף בכיס של העובד, שכן המס הוא תמיד אחוז מסוים מהרווח הנוסף ולא גבוה מהרווח עצמו.\n*   **זכאות להחזרי מס:** מצוין כי גם אם נוכה מס מהמשכורת במהלך השנה, אם סך ההכנסה השנתית נמוך מהרף המינימלי, העובד זכאי להגיש דו\"ח ולקבל את כל כספו חזרה כהחזר מס.\n*   **עידוד לאוריינות פיננסית בגיל צעיר:** הקהילה מביעה הערכה לכך שהכותב (נער בן 15) מתעניין בנושא כבר עכשיו, ומדגישה שחשוב להבין את המנגנון כדי שפחדים לא מבוססים מפני רשויות המס לא ימנעו ממנו להתקדם כלכלית."
   },
   {
-    "id": "1rfx439",
-    "title": "Fin Telligence - AI Trading platform",
-    "url": "https://www.reddit.com/r/investing/comments/1rfx439/fin_telligence_ai_trading_platform/",
-    "author": "Opposite_Bank5776",
+    "id": "1rgsbvn",
+    "title": "Safer x Binge Labs - Open to suggestions for a seed round for a Women Safety Platform.",
+    "url": "https://www.reddit.com/r/investing/comments/1rgsbvn/safer_x_binge_labs_open_to_suggestions_for_a_seed/",
+    "author": "PerfectPie2768",
     "score": 1,
-    "selftext": "Hello,\n\nanyone has experience with the following AI Trading platform? \n\n[https://fin-telligence.net/en/home](https://fin-telligence.net/en/home)\n\nThere are different reviews on [https://nl.trustpilot.com/review/fin-telligence.com](https://nl.trustpilot.com/review/fin-telligence.com)\n\nYou start with Trail license: 250€, after 1 week they want you to become \"Silver\" member. But you still are in the driver seat.\n\nit is really a nice and easy platform for beginners, they personally phone you, etc.. \n\nAfter 1 week my profit is like 20€,\n\nthe platform works \"automatically\" and the \"broker/assistent\" will manage the risk, it works with stop-loss orders.\n\nAnyone has experience? or things to share?\n\nBe my guest\n\n",
+    "selftext": "**We are trying to raise a seed of 4cr to help us setup the physical infrastructure and close the b2b deals worth $1.6Mn we have in pipeline with a dating app, adventure zone and a few corporate companies that have agreed to purchase safer for their female workforce. The minimum investment to participate in this round is as low as ₹2.6Lacs, and we've received commitments of ₹55Lacs from fellow redditors already, if you’re interested or know someone that might be interested in the same, please leave a comment or drop a DM. Please read below for more details.**\n\n**Problem Statement:**\n\nIndia is ranked 128 of 177 countries in women safety index. Current personal safety and civic safety apps in India stop at notifying your friends and family of the SoS request you raise. Notifications do not help physical threats, and this creates a massive trust vacuum for users and a liability for many uprising consumer facing enterprises.\n\n  \n**Solution:** we're a \"Safety-as-a-Service\" women’s safety platform that deploys trained responders (ex-servicemen) and surveillance drones via our proprietary network of 'Secure Hubs' placed across city, and real-time coordination with authorities & emergency services, all accessible with a triple tap at the back of your phone for just ₹200/month.\n\n* *Is it practical?* Imagine hiring a bouncer for your personal security, but instead of having them on a day /week /monthly payroll, you can subscribe to Safer at ₹2400 / year and request a \"trained ex-serviceman as your personal body guard\" on-demand by raising an SOS during an emergency who will reach your location in 10 minutes or get you the necessary help by coordinating with the authorities as the case maybe.\n\n***Regulations / legal:*** We work with a PSARA license, similar to how personal body guards and security services companies operate. We are under process of obtaining an \"UAOP\" for drones from DGCA and are working to create a frame work that allows us to request on-demand flight clearance in certain restricted zones from ADC & ATC via Rule 51 of the Drone Rules, 2021 & Writ of Mandamus (Article 226/32) - \"Right to Life\" (Article 21) exception.\n\n\n\n**Use cases:** Industries like Bumble (imagine SOS for a date-gone-wrong emergency), Uber (ride-time SOS), MMT (an emergency at a concert or an event you booked on MMT), and physical establishments like Arcade / sports zones, having their establishment under a certified Safer-Zone --and a 100 more detailed use cases verified with B2b senior management professional.\n\n* *\\* Note:* *Yes, Uber / Ola does have an in-app SOS, that is again only a digital solution that connects the rider or the driver to their customer support escalates to your emergency contacts. \\**\n\n\n\n**Business / Revenue model:**\n\n**B2B2C** \\- Safer subscription offered as an employee benefit to female workforce by corporates. Typically corporates spend 10-13k / year for health insurance on an employee, we are In discussions with corporate insurance providers like MediAssist and PlumHq to make safer an add-on to their corporate offerings.\n\n**B2C** \\- Users can directly purchase Safer subscription on our mobile app after verifying their profile with Aadhar. We plan mass acquisitions at colleges with expat population. During our early research at a university in Bangalore, we found that parents, and men above the age 22 are happy to spend and buy a subscription for the women (daughter, GF, Sister, etc) in their life at this cost.\n\n**B2B** \\- Exclusive partnership with \\[dating\\] apps like Bumble / Match group to integrate Safer SOS API on their App, with an annual recurring partnership fee and an incident charge (from user) for each SoS triggered. Venue partnerships with nightclubs, arcade zones, cafe & more, wherein we establish a Secure Hub at 100 meters from their venue and brand them as certified Safer-Zone on our app and partner applications.\n\n*Ex. Bumble pays $1M in exclusivity fee along with the annual partnership fee, we do not integrate safer with any other dating app in India for a fixed period of time. Despite the fact that not every one of their users will use a SoS, their marketing advantage for integrating such a ground level safety feature will drive larger revenue and valuation, given a company like Bumble reported 200% YoY growth and $240Mn in annual revenue just from India.*\n\n \n\n**Unit Metrics:** 2400 / year - subscription fee (only annual plans) which gives 3 free SoS / year, no roll overs. Rs. 200 incident charge per additional SoS. Wrong or accidental SOS triggers a penalty of Rs. 200 (only if ground team was deployed already).\n\n* *Note: Not every girl will be in danger, not every day, and not everyone triggers an SoS, it works mostly like having an insurance, just in case needed, it's better to have an affordable service that can help on-ground, than to regret after being in an incident.*\n\n \n\n**Fundraising Snapshot:** We are raising $1M to deploy 35 hubs, sign b2b contracts, setup backend control room and activate safer infrastructure in Bangalore in Phase 1. Our on-ground first-response mechanism and the safety infrastructure is projected to be multi-billion-dollar infrastructure play for the Indian urban ecosystem. However, currently we have strong revenue commitments and are looking to raise just 4Cr to deploy the hubs and sign the clients we have in pipeline and rely on revenue to create a healthy runway ahead until an official Series A.\n\n \n\nMinimum number of hubs needed to operate in Bangalore - 35 (after critical discussion with police department and strategic planning for placement we arrived at the conclusion to cover 3 zones leaving out part of South Bangalore initially to focus only on the core 10 kms radius)\n\nWe are aiming to acquire 45k users in our first year. Then proceed for series A / growth capital to add more hubs and expand to 14 cities across India.\n\nThose interested in participating can leave a comment or DM and we can get on a call and discuss it further. In this unpriced round we are raising 4cr with standard iSAFE notes that will be converted during our Series A and minimum investment to participate is ₹2.66Lacs.\n\n**Note:** I believe we've been ignoring the problem for far too long, and after 2 years of intense research, speaking to more than 1000 victims and my struggle of 100s of conversations with authorities to make a straight NO to a YES, I believe it is the right time to deploy. One day I hope to generate enough revenue via B2B partnerships and B2B corporate sales that we can provide Safer at zero cost in tier3 and lower cities. I’m looking for partners who understand this problem and can see our vision of a sustainable billion dollar company alongside building India’s greatest impact startup.",
     "subreddit": "investing",
-    "created_utc": 1772167261,
+    "created_utc": 1772250643,
     "thumbnail": "self",
     "top_comments": [],
-    "summary_he": "הכותב מבקש חוות דעת על פלטפורמת המסחר Fin Telligence לאחר שהפקיד בה סכום ראשוני של 250 אירו והשיג רווח קטן. הוא מתאר שירות הכולל ליווי טלפוני אישי ומסחר אוטומטי, אך מעוניין לבדוק אם מדובר באתר אמין לאור הלחץ המופעל עליו לשדרג את המנוי.",
+    "summary_he": "המיזם ההודי Safer מגייס סבב סיד עבור פלטפורמת \"בטיחות כשירות\" (Safety-as-a-Service) לנשים, המציעה מענה פיזי של מאבטחים ורחפנים המגיעים לזירה בתוך דקות מרגע הקריאה. המודל העסקי מבוסס על דמי מנוי ושיתופי פעולה B2B עם תאגידים ואפליקציות (כמו Bumble), במטרה להקים רשת של \"מרכזים בטוחים\" בערים מרכזיות בהודו החל מבנגלור.",
+    "category_he": "עסקים",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1rgryhf",
+    "title": "We Are In Black Swan Territory",
+    "url": "https://www.reddit.com/r/investing/comments/1rgryhf/we_are_in_black_swan_territory/",
+    "author": "Dal-Thrax",
+    "score": 1,
+    "selftext": "Apparently, figures associated with the administration are insisting the Nvidia, Google, and Amazon cannot sell chips/provide cloud services to Anthropic.  https://x.com/deanwball/status/2027515599358730315?s=20\n\nThat’s a black swan event.  Nobody, up until now, has thought the US government would try to shut down a major tech company by limiting its access to advanced hardware.  I suppose the market could shrug, but it was already jumping at any bad AI news (or maybe insiders just knew this was coming).",
+    "subreddit": "investing",
+    "created_utc": 1772249537,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Kinda feels like this is the distraction from Iran, which was the distraction from Venezuela, which was the distraction from the Island. \"Whoops we can't invade Iran because of Anthropic\" seems like an excuse dumb enough that they might try using it. ",
+        "score": 1,
+        "author": "p3dal"
+      },
+      {
+        "body": "They DGAF About voters... They don't plan on having free elections",
+        "score": 1,
+        "author": "redditsdeadcanary"
+      },
+      {
+        "body": "You don't think it would be funny if it started launching nukes at DC and LA? ",
+        "score": 1,
+        "author": "PersnickityPenguin"
+      }
+    ],
+    "summary_he": "הפוסט דן בדיווחים על כוונת הממשל האמריקאי להגביל את הגישה של חברת Anthropic לשבבים ושירותי ענן, מהלך שעלול לשתק את פעילותה. הכותב מגדיר זאת כ\"אירוע ברבור שחור\" חסר תקדים, שכן איש לא צפה שהממשלה תנסה לפגוע בצורה כזו בחברת טכנולוגיה מרכזית ולמנוע ממנה משאבים חיוניים.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **תאוריית \"שרשרת הסחות הדעת\":** קיימת תחושה בקרב המשתמשים שהנושא הנוכחי הוא חלק מרצף של הסחות דעת מכוונות. המשתמשים מקשרים בין אירועים גיאופוליטיים (איראן, ונצואלה) ופרשיות פנימיות (ה\"אי\" של אפשטיין) וטוענים שכל נושא חדש נועד להשכיח את קודמו.\n*   **ספקנות כלפי תירוצים טכנולוגיים:** עולה טענה צינית כי הממשל עלול להשתמש בחברות בינה מלאכותית (כמו Anthropic) כתירוץ \"מטופש מספיק\" כדי להימנע מפעולות צבאיות או לתרץ שינויי מדיניות באיראן.\n*   **אובדן אמון מוחלט במערכת הפוליטית:** ביטוי של זלזול עמוק בנבחרי הציבור, תוך טענה שהם \"לא שמים\" על הבוחרים ושקולו של האזרח אינו רלוונטי יותר בעיניהם.\n*   **חרדה מפני קץ הדמוקרטיה:** סנטימנט קיצוני הגורס כי השלטון כלל אינו מתכנן לקיים בחירות חופשיות בעתיד, מה שמעיד על תחושת איום על המבנה הדמוקרטי.\n*   **ניהיליזם והומור שחור לגבי קטסטרופה:** קיימת נימה של \"הומור גרדומים\" המשתעשעת בתרחישי קיצון אפוקליפטיים, כמו בינה מלאכותית המשגרת נשק גרעיני לעבר מוקדי כוח.\n*   **עוינות כלפי מרכזי כוח ותרבות:** הבחירה לציין דווקא את וושינגטון (מרכז פוליטי) ולוס אנג'לס (מרכז תרבותי) כמטרות פוטנציאליות משקפת טינה של הקהילה כלפי האליטות והמוסדות המזוהים עם ערים אלו."
+  },
+  {
+    "id": "1rgr15r",
+    "title": "Investing for Child’s future in Australia",
+    "url": "https://www.reddit.com/r/investing/comments/1rgr15r/investing_for_childs_future_in_australia/",
+    "author": "badagoldflake",
+    "score": 1,
+    "selftext": "Bit of background: I am 35M and wife is 33F. We are pretty late to the investment party, after clearing all our debts and some responsibilities.\n\nI moved from India a decade ago and wife has been here since 2021. We only started working in professional environment 3-4 years ago. Currently in pre conceiving stage we’ve saved $40k and want to invest this for our future kid. I surely believe we cannot afford more than one kid in this current cost of living. \n\nCan you please guide me how to make this investment so that the kid would be self sufficient once they turn 18. We are happy to invest $300-$500 every month towards the same in addition to $40k. \n\nI looked at Vanguard, investment bonds, bond wrapper etc. it would be really helpful if you can suggest specific strategies, tax benefits etc.\n\nHappy to answer more questions ",
+    "subreddit": "investing",
+    "created_utc": 1772246929,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "You’re not late at all. Debt free with $40k saved and a plan to invest monthly is a great starting point.\n\nFor an 18 year horizon, many people just keep it simple with low cost, broadly diversified ETFs in their own names and automate the monthly contributions. Investment bonds can help in specific tax situations, but fees and flexibility matter, so it’s worth comparing carefully.\n\nWhat does self sufficient at 18 mean to you, uni paid for or just a solid head start?",
+        "score": 1,
+        "author": "u_spawnTrapd"
+      }
+    ],
+    "summary_he": "זוג מאוסטרליה המתכנן את ילדם הראשון מבקש המלצות להשקעה ארוכת טווח של 40,000 דולר, בתוספת הפקדות חודשיות, במטרה להבטיח את עצמאותו הכלכלית של הילד בהגיעו לגיל 18. הם מחפשים אסטרטגיות ספציפיות כגון קרנות מדד (Vanguard) או אג\"ח להשקעה, תוך התמקדות ביעילות מס וניהול נכון של חסכונותיהם תחת יוקר המחיה הנוכחי.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והתגובות מהשרשור, המציג שש נקודות מבט ודעות מרכזיות שעלו:\n\n*   **עידוד ופרופורציה לגבי תזמון ההשקעה:** הקהילה מדגישה שמעולם לא מאוחר מדי להתחיל. העובדה שהמשתמש נמצא ללא חובות, עם חיסכון ראשוני משמעותי ותוכנית להפקדות חודשיות, נתפסת כנקודת פתיחה מצוינת וחזקה מאוד ביחס לממוצע.\n*   **העדפת פשטות בניהול השקעות לטווח ארוך:** עבור אופק השקעה של 18 שנה, הגישה הרווחת היא \"לשמור על זה פשוט\". ההמלצה המרכזית היא להתמקד בקרנות סל (ETFs) בעלות נמוכה ובפיזור רחב, במקום לחפש אפיקים מורכבים מדי.\n*   **חשיבות האוטומציה הפיננסית:** אחד העקרונות שעלו הוא הצורך באוטומציה של ההפקדות החודשיות. יצירת מנגנון שבו הכסף מושקע באופן קבוע ללא צורך בהתערבות ידנית נחשבת למפתח להצלחה בהתמדה לאורך שנים.\n*   **בחינה ביקורתית של מכשירי השקעה ספציפיים (כמו אג\"ח להשקעה):** קיימת התייחסות למכשירי חיסכון ייעודיים (כגון Investment Bonds). מצד אחד, הם יכולים לסייע בתכנון מס במקרים מסוימים, אך מצד שני, הקהילה מזהירה מפני עמלות גבוהות וחוסר גמישות שעלולים לפגוע ברווחיות לאורך זמן.\n*   **סוגיית הבעלות על החשבון:** עלתה נקודה למחשבה לגבי רישום החשבון – האם להשקיע בשם ההורים או לפתוח חשבון על שם הילד. לכל החלטה כזו יש השלכות משפטיות ומיסויות שונות שחשוב לקחת בחשבון כבר מההתחלה.\n*   **הצורך בהגדרת יעדים ברורה (\"עצמאות כלכלית\"):** הקהילה מעוררת למחשבה על המונח \"עצמאות בגיל 18\". מוצע להגדיר במדויק מה המטרה: האם הכסף מיועד למימון מלא של לימודים אקדמיים, או רק כ\"קרש קפיצה\" ונקודת זינוק כלכלית לחיים הבוגרים."
+  },
+  {
+    "id": "1rgny36",
+    "title": "Looking to invest 10k, should I invest all at once or over time?",
+    "url": "https://www.reddit.com/r/investing/comments/1rgny36/looking_to_invest_10k_should_i_invest_all_at_once/",
+    "author": "Hewtube73",
+    "score": 1,
+    "selftext": "As the title says, I have 10k which I am happy to invest. However, with this ai bubble and the potential crash coming, is it better to invest the money all at once now, or over time so if a crash does happen say when I’ve only invest 5k, I’m then getting cheaper prices for the next 5k? I know no one knows what’s gonna happen but any opinion would be greatly appreciated ",
+    "subreddit": "investing",
+    "created_utc": 1772238451,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Put in some limit orders. Nothing wrong with with chasing a bargain on some great companies. Patience is key.",
+        "score": 1,
+        "author": "Vegetable-Cause8667"
+      },
+      {
+        "body": "I just invested 12.5k within a week's time. 1st time investing lol.",
+        "score": 1,
+        "author": "mexican_gringo29"
+      },
+      {
+        "body": "Over time, on a schedule if using index ETF. If individual stocks, use a limit order after researching and determining your price.",
+        "score": 1,
+        "author": "D_Pablo67"
+      }
+    ],
+    "summary_he": "הכותב מעוניין להשקיע 10,000 דולר ומתלבט האם להשקיע את כל הסכום בבת אחת או בפריסה לאורך זמן. הוא חושש מ\"בועת בינה מלאכותית\" ומקריסה אפשרית של השוק, ומבקש עצות האם עדיף להיכנס עכשיו או להמתין כדי לנצל ירידות מחירים עתידיות.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וגישות שונות להשקעה:\n\n*   **שימוש בפקודות מסוג Limit:** מומלץ לא לקנות במחיר השוק הנוכחי, אלא להשתמש בפקודות \"Limit\" כדי להבטיח קנייה במחיר יעד מוגדר מראש שנחשב לאטרקטיבי.\n*   **חשיבותה של הסבלנות:** הקהילה מדגישה כי סבלנות היא מרכיב מפתח בהשקעות; אין צורך למהר לבצע פעולות, אלא לחכות להזדמנות הנכונה.\n*   **חיפוש \"מציאות\" בחברות איכותיות:** ישנה גישה התומכת בניצול ירידות מחירים כדי לרכוש מניות של חברות מצוינות במחירי הנחה (Bargains).\n*   **כניסה אגרסיבית של משקיעים חדשים:** קיימת תופעה של משקיעים מתחילים חסרי ניסיון (\"First time investing\") שנכנסים לשוק עם סכומים משמעותיים בפרק זמן קצר מאוד, מה שעשוי להעיד על התלהבות או חוסר זהירות.\n*   **השקעה מתוזמנת במדדים (DCA):** עבור קרנות סל (ETFs), הגישה המועדפת היא השקעה הדרגתית וקבועה לאורך זמן לפי לוח זמנים מוגדר, ולא בבת אחת.\n*   **מחקר מקדים למניות בודדות:** לפני רכישת מניה ספציפית (ולא מדד), יש לבצע מחקר מעמיק ולקבוע את המחיר הראוי עבורה, במקום לפעול על פי דחף רגעני."
+  },
+  {
+    "id": "1rgnpxi",
+    "title": "$GASS should really be talked about more. 52w highs daily and still undervalued by most metrics",
+    "url": "https://www.reddit.com/r/investing/comments/1rgnpxi/gass_should_really_be_talked_about_more_52w_highs/",
+    "author": "ihatereddithiveminds",
+    "score": 1,
+    "selftext": "\n\nI discovered $GASS a few days ago and it hits a new 52w high everyday \n\nImpressive for this market\nI opened a position \n\nDespite its rally the financials, growth, debt, and P/E all signal it could be cheap still\n\nNearly no watchers on Stocktwits (under 1000)\n\nI went looking for info on it and all I see is a crypto coin taking up the space with the same name\n\n\nI figured I'd be the first \nLooks great to me but I want to open a discussion \nMy position is ~1000 shares at 8.92ish\n\nPlease feel free to call out any flaws I missed researching it because I'd love to hear them to get a better picture ",
+    "subreddit": "investing",
+    "created_utc": 1772237860,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Dorian LPG, and Frontline. And they give massive dividends",
+        "score": 1,
+        "author": "Disastrous_Rent_6500"
+      },
+      {
+        "body": "Dorian LPG, Frontline are easy ones",
+        "score": 1,
+        "author": "Disastrous_Rent_6500"
+      },
+      {
+        "body": "Could you share some? \nI'm super interested if there's stock performing like them",
+        "score": 1,
+        "author": "ihatereddithiveminds"
+      }
+    ],
+    "summary_he": "הכותב ממליץ על מניית $GASS, שמגיעה לשיאים שנתיים חדשים באופן עקבי אך נראית עדיין מוערכת בחסר לפי מדדים פיננסיים כמו מכפיל רווח וחוב. הוא מציין כי למניה יש חשיפה נמוכה מאוד ברשתות החברתיות והיא נוטה להתבלבל עם מטבע קריפטו בעל שם זהה, ולכן הוא מבקש מהקהילה משוב על סיכונים אפשריים שפספס במחקרו.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מבט ותובנות מהקהילה:\n\n*   **המלצות ספציפיות על מניות סקטור הספנות:** המגיבים מצביעים על המניות **Dorian LPG** (סימול: LPG) ו-**Frontline** (סימול: FRO) כבחירות המובילות והבולטות ביותר בדיון.\n*   **אטרקטיביות הדיבידנדים:** נקודת מפתח מרכזית שעלתה היא התשואה הגבוהה; המשתמשים מציינים כי חברות אלו מחלקות דיבידנדים \"מאסיביים\", מה שהופך אותן למושכות עבור משקיעי ערך והכנסה פסיבית.\n*   **נגישות ופופולריות:** המניות הללו נתפסות כבחירות \"קלות\" (easy ones), מה שמעיד על כך שהן מוכרות היטב בקהילת המשקיעים ומהוות מעין \"קונצנזוס\" עבור מי שמחפש חשיפה לתחום.\n*   **עניין בביצועי שוק חזקים:** ניכר כי קיים עניין רב סביב המניות הללו עקב הביצועים שלהן, ומשקיעים מחפשים באופן אקטיבי ניירות ערך אחרים שמציגים גרף ביצועים דומה.\n*   **חיפוש אחר אלטרנטיבות דומות:** הדיון משקף סקרנות של הקהילה למצוא \"מניות תאומות\" – כלומר, חברות נוספות באותו סקטור או בעלות מאפיינים דומים של צמיחה ודיבידנדים שלא זכו לאותה חשיפה.\n*   **דינמיקה של שיתוף ידע:** הקהילה משמשת כמקור להתייעצות, כאשר משתמשים לא רק מקבלים המלצות אלא גם מבקשים להבין לעומק את האסטרטגיה מאחורי הבחירות הללו כדי לשכפל את ההצלחה במקומות אחרים."
+  },
+  {
+    "id": "1rgnnjk",
+    "title": "CoreWeave reported today. Beat on revenue. Stock tanked 11%. Why?",
+    "url": "https://www.reddit.com/r/investing/comments/1rgnnjk/coreweave_reported_today_beat_on_revenue_stock/",
+    "author": "OneTwoThreePooAndPee",
+    "score": 1,
+    "selftext": "5B revenue. 894% debt-to-equity. Negative 30B.\n\nThis is a GPU rental company. They buy Nvidia chips and rent them out. That's the whole business. And the rental math is broken. H100 rates went from 2.50. Utilization runs 60-70% when the loans assume 80%+. The GPUs die in 1-3 years but they're depreciated over 5-6.\n\nHere's the part nobody wants to talk about. Nvidia funded this. Nvidia has \\~$110B invested across neoclouds like CoreWeave, OpenAI, xAI. OpenAI's CFO said out loud that most of the money goes back to Nvidia. It's a circle. Nvidia gives them money, they buy Nvidia chips, Nvidia books 65% revenue growth, market gives them 50x earnings, rinse repeat.\n\nIf you consolidated all these GPU rental companies back onto Nvidia's balance sheet where they economically belong, that 56% margin chip company starts looking like an overleveraged equipment leasing business with collapsing rental rates.\n\nNvidia can't stop either. If they pull funding the neoclouds fail, liquidate GPUs at fire sale prices, and the supply shock kills Nvidia's own demand. They're trapped propping up their own customers.\n\nLucent did this exact thing in the 90s. 2 in 18 months. Nvidia's exposure is 7x bigger.\n\nCoreWeave is the first domino. Watch the rest.",
+    "subreddit": "investing",
+    "created_utc": 1772237690,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Just get to the point. We both know what the market is. What are you trying to say?",
+        "score": 1,
+        "author": "Inner-Platypus-7534"
+      },
+      {
+        "body": "It doesn't matter, really. I'm just curious. What is it I am trying to outperform?",
+        "score": 1,
+        "author": "MizDiana"
+      },
+      {
+        "body": "It's a completely mismanaged mess. I don't know how the company still exists",
+        "score": 1,
+        "author": "Buff_me_plz"
+      }
+    ],
+    "summary_he": "הפוסט טוען כי המודל העסקי של CoreWeave וחברות דומות אינו בר-קיימא, ומבוסס על \"מעגל\" שבו Nvidia מממנת את לקוחותיה כדי שיקנו את מוצריה ובכך מנפחת את הכנסותיה באופן מלאכותי. הכותב מזהיר כי קריסת החברות הללו, שמתמודדות עם חובות ענק ורווחיות נמוכה, עלולה לחשוף את Nvidia כעסק ממונף יתר על המידה ולהוביל לפיצוץ בועה בשוק הבינה המלאכותית.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות ב-Reddit, המוצג ב-6 נקודות שונות המבטאות את הלכי הרוח והדעות בשרשור:\n\n*   **דרישה לישירות ותמציתיות:** אחד המשתתפים מביע חוסר סבלנות וקורא לצד השני להפסיק ללכת סביב סביב ולהגיע מיד לנקודה המרכזית של דבריו.\n*   **הסכמה שבשתיקה על מצב השוק:** קיימת הנחה בקהילה שאין צורך להסביר את תנאי השוק הנוכחיים, שכן הם ידועים וברורים לכל המעורבים בדיון.\n*   **ספקנות לגבי חשיבות הנושא:** עולה תחושה של אדישות מסוימת, כאשר אחד המגיבים מציין שהפרטים לא באמת משנים את התמונה הגדולה.\n*   **חיפוש אחר מדדי ייחוס (Benchmarks):** עולה שאלה מהותית לגבי המטרה של הדיון – מהו בעצם היעד או הנתון שאותו מנסים לעקוף או לנצח (outperform).\n*   **ביקורת חריפה על ניהול לקוי:** הקהילה מבטאת זלזול עמוק בדרך שבה החברה מנוהלת, תוך שימוש בביטויים המתארים \"בלגן מוחלט\".\n*   **תמיהה על שרידות החברה:** מובע פלא וחוסר הבנה כיצד, לאור הניהול הכושל שתואר, החברה עדיין מצליחה להמשיך להתקיים ולפעול בשוק."
+  },
+  {
+    "id": "1rgleve",
+    "title": "The SaaSpocalypse: Everyone's Reading This Wrong",
+    "url": "https://www.reddit.com/r/investing/comments/1rgleve/the_saaspocalypse_everyones_reading_this_wrong/",
+    "author": "MarsR0ver_",
+    "score": 1,
+    "selftext": "I've been watching the software sector meltdown for the past month and I think the market's misdiagnosing what's actually happening here.\n\nWhat everyone thinks is going on:\n\nAI is replacing enterprise software. Agents are making Salesforce obsolete. The whole SaaS model is dead because why pay for software when AI can just do the work directly? That's the narrative anyway.\n\nWhat's actually happening (and why it matters):\n\nThe software isn't being replaced. The people using it are getting fired.\n\nThink about it - when Block cut 4,000 employees last week, those 4,000 people don't need Salesforce seats anymore. Don't need Workday logins. Don't need ServiceNow licenses. The software still works fine. It's just that the humans who needed it are gone.\n\nThis isn't product obsolescence. It's demand compression.\n\nAnd that distinction completely changes which companies survive this.\n\n\n---\n\nHere's the pattern I'm seeing:\n\nCompanies announce AI-driven layoffs → stocks jump (like Block up 25%) → but those eliminated workers were using enterprise software → software companies lose seats → revenue projections get cut → software stocks crash.\n\nThe $660B+ going into AI infrastructure this year? A lot of that came straight from enterprise software budgets. Same CIOs who used to expand their Salesforce contracts are redirecting that money to AI compute instead. They're not replacing Salesforce with agents. They're replacing the people who needed Salesforce, then cutting the software budget.\n\nTwo-stage compression happening at once. First the labor layer gets compressed. Then the software layer that served those workers gets compressed right after.\n\nMarkets saw the first part coming. The second part hit all at once on Feb 3rd when Anthropic dropped Cowork - $285B gone in one trading session. A trillion in software market cap evaporated over six weeks. P/E multiples collapsed from 39x to 21x (sharpest drop since dot-com).\n\n\n---\n\nWhere I think the market's getting it wrong:\n\nThe selloff's been totally indiscriminate. Everything software-related got hammered. But there's actually a pretty clear split between what survives and what doesn't.\n\nWhat gets destroyed:\n\nSeat-sensitive SaaS. Software that's priced per user, where the whole point is serving human workflows. When the humans disappear, revenue goes with them. Workday HR modules, collaboration tools, productivity software - these are directly tied to headcount. No workers = no seats = no revenue.\n\nWhat actually survives (or grows):\n\nSystems of record. The databases and workflow engines that enterprises can't replace. 20 years of Salesforce customer data doesn't just get rebuilt in some new AI tool. The compliance infrastructure, audit trails, integrations with 500 other systems - these don't vanish when you fire people. If anything they become MORE critical because now AI agents need to run through them.\n\nPlus infrastructure - compute, data pipelines, security. Agents need more of this stuff, not less.\n\nThe problem with how this got priced:\n\nSalesforce is down 26% YTD. ServiceNow down 28%. But Salesforce's Data Cloud just hit $1B ARR. ServiceNow's positioning itself as the orchestration layer for AI agents. These aren't the same as Workday processing HR for employees who don't exist anymore.\n\nMarket priced the fear. Hasn't priced the differentiation yet.\n\n\n---\n\nManagement behavior worth watching:\n\nEvery enterprise software CEO is announcing their own AI product right now. Benioff's got Agentforce. ServiceNow's got Agent Control Tower. Workday's pushing AI-powered HCM.\n\nQuestion is - are they doing this because the products actually work, or because their stocks need the narrative?\n\nLook at Salesforce charging $0.10 per agent action vs $150/month for a human seat. That math only works if agents generate way more billable actions than humans did. Not proven yet. The pivot's real but revenue replacement is still TBD.\n\nWhen every CEO makes the exact same pivot under the exact same market pressure at the exact same time... that's not conviction. That's stock management.\n\n\n---\n\nTesting my own thesis (because I could be wrong):\n\nStrongest counter-argument: maybe the \"vibe coding will replace enterprise software\" take is just wrong. Building v1 is maybe 2% of what enterprise software actually does. Maintenance, compliance, integrations, scaling - that's the other 98%. Nobody's rebuilding 20 years of Salesforce in Cursor.\n\nSeat compression is definitely real. But the product replacement thesis might be way premature.\n\nWhich means... the panic selloff created opportunities. Companies with real data moats and deep integrations got oversold. Companies whose whole value was in per-seat revenue - those got correctly repriced (or are still overpriced).\n\nSo revised take: don't short all software. Short the pure seat-plays with no moat. Look for entry points on the infrastructure survivors that got caught in the panic.\n\n\n---\n\nWhat hasn't repriced yet:\n\nMid-cap SaaS and collaboration tools already took their hit. Might even overshoot down from here.\n\nLarge platforms (Salesforce, ServiceNow, Workday) - market's still figuring out what survives. This is where the opportunity is.\n\nBut the next wave? Staffing and consulting. If enterprises need fewer people and less software, they need way fewer consultants implementing that software. Accenture, Cognizant, Infosys are already cutting but the market hasn't fully priced the contraction of that whole layer yet.\n\nAnd the final cascade that's not even visible yet - commercial real estate tied to office space for workers who got eliminated. Consumer spending from all those displaced white-collar salaries. Those are 12-24 month signals. Already baked into the structure but markets aren't there yet.\n\n\n---\n\nHow I'd actually trade this:\n\nShort: pure seat-count SaaS with no data moat, no agent strategy. Anything whose revenue assumes enterprise headcount keeps growing.\n\nLong: Salesforce Data Cloud specifically (the data asset's irreplaceable even if seats compress). Palantir (already positioned as AI infrastructure). Security (agents create more attack surface not less).\n\nThe real trade: long the infrastructure layer agents need. Short the human-serving layer agents replace. Not betting on the sector - betting on structural compression within it.\n\nKey monitoring signal: net revenue retention dropping below 100% consistently. When that breaks across multiple companies, compression's structural not cyclical. Starting to see that number crack.\n\n\n---\n\nBottom line:\n\nThe SaaSpocalypse is real. Just not what people think it is.\n\nMarket priced it as \"AI replaces software.\" Reality is \"companies fire workers, then cut the software those workers used.\" The software's not obsolete. The humans got removed from the equation.\n\nThat difference determines who survives.\n\nThe panic selling created a gap between fear and structure. Companies with irreplaceable infrastructure got lumped in with seat-count plays. That gap's the opportunity.\n\nAnd the repricing's not done. Three more cascade waves coming - consulting layer, real estate, consumer spending. Those haven't hit yet.\n\n\n---\n\n- Zahaviel",
+    "subreddit": "investing",
+    "created_utc": 1772232197,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "**Poster:** Dear LLM, please write a 5 page essay about my two-sentence thesis.\n\n**Reader:** Dear LLM, please condense these 5 pages of slop into a two-sentence thesis.",
+        "score": 1,
+        "author": "the_snook"
+      },
+      {
+        "body": "You’re absolutely right. And the kicker is, you’re absolutely right.",
+        "score": 1,
+        "author": "potatosouperman"
+      },
+      {
+        "body": "Looked into it a bit further. Pre-Covid headcount was about 6k and they hired like crazy. Jack is bad at running companies.",
+        "score": 1,
+        "author": "Jack-Burton-Says"
+      }
+    ],
+    "summary_he": "הפוסט טוען שהמשבר במגזר ה-SaaS אינו נובע מהחלפת התוכנה על ידי AI, אלא מפיטורי עובדים המייתרים את רישיונות השימוש (Seat Compression). הכותב מבחין בין חברות פגיעות המבוססות על מודל תמחור \"לפי משתמש\" לבין חברות תשתית ונתונים שיישארו חיוניות ואף יתחזקו בעידן ה-AI. לסיכום, נטען כי הפאניקה בשוק יצרה הזדמנות להשקעה סלקטיבית בחברות בעלות \"חפיר\" טכנולוגי עמוק שאינן תלויות רק במספר העובדים בארגון.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מבט ותובנות מרכזיות שעלו:\n\n*   **מעגל הניפוח של הבינה המלאכותית:** קיימת ביקורת על כך שכותבים משתמשים במודלי שפה (LLM) כדי להפוך רעיון פשוט בן שני משפטים למאמר ארוך ומייגע של חמישה עמודים (\"Slop\").\n*   **מעגל התימצית הנגדי:** במקביל לניפוח התוכן, הקוראים משתמשים באותם כלי בינה מלאכותית כדי \"לקלף\" את המלל המיותר ולהחזיר את המאמר הארוך לצורתו המקורית – תמצית של שני משפטים.\n*   **תחושת אבסורד ואירוניה:** הקהילה מצביעה על האירוניה שבמצב שבו שני הצדדים (הכותב והקורא) משתמשים בטכנולוגיה כדי לעקוף זה את זה, מה שהופך את כל תהליך הכתיבה והקריאה למעגל חסר תועלת.\n*   **הסכמה נחרצת עם הביקורת:** המגיבים מחזקים את הטענה שהתופעה הזו קיימת ומדויקת, ורואים בה את אחד המאפיינים הבולטים (והבעייתיים) של השימוש הנוכחי בבינה מלאכותית.\n*   **ביקורת על ניהול תאגידי (ספציפית לגבי \"ג'ק\" - כנראה ג'ק דורסי):** עולה טענה שניהול החברה (ככל הנראה טוויטר או Block) לוקה בחסר, תוך קביעה נחרצת שהמנהל המדובר אינו מוצלח בניהול חברות.\n*   **ניתוח מגמות כוח אדם:** מצוין כי חברות ביצעו גיוס עובדים אגרסיבי וחסר פרופורציה בתקופה שלאחר הקורונה (זינוק מ-6,000 עובדים), מה שנתפס כמהלך ניהולי שגוי שהוביל לניפוח המערכת."
+  },
+  {
+    "id": "1rgip2n",
+    "title": "Inflation Is “Plummeting” But Consumers Still Pay More",
+    "url": "https://www.reddit.com/r/investing/comments/1rgip2n/inflation_is_plummeting_but_consumers_still_pay/",
+    "author": "rewardsandpenis",
+    "score": 1,
+    "selftext": "Trump highlighted falling core inflation in his SOTU, pointing to a five-year low in some measures. Yet a closer look at everyday life tells a different story:• Electricity prices rose 6.3% in 12 months• Ground beef jumped 17%• Tariffs pushed up prices for furniture, auto parts, and clothesEven if headline numbers look better, Americans still feel the pinch. Nearly half of respondents in the University of MTrump highlighted falling core inflation in his SOTU, pointing to a five-year low in some measures. Yet a closer look at everyday life tells a different story:\n\n• Electricity prices rose **6.3% in 12 months**  \n• Ground beef jumped **17%**  \n• Tariffs pushed up prices for furniture, auto parts, and clothes\n\nEven if headline numbers look better, Americans still feel the pinch. Nearly half of respondents in the **University of Michigan survey** mentioned high prices hurting their finances.\n\nThe disconnect between economic “talking points” and what people pay at the grocery store may explain why consumer confidence remains near recessionary levels.\n\nHow much do political narratives shape perception when lived experience tells a different story?ichigan survey mentioned high prices hurting their finances.The disconnect between economic “talking points” and what people pay at the grocery store may explain why consumer confidence remains near recessionary levels.Question: How much do political narratives shape perception when lived experience tells a different story?",
+    "subreddit": "investing",
+    "created_utc": 1772225899,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "The 20% inflated costs (5% average per year) under Biden, didn't go away.  Everything is still very much devalued. \n\nInflation is the measurement to which something is devalued and it's effects on products. In this case it's the US dollar.\n\nHaving 3% inflation today only means our dollars are being devalue at a rate of 3% per year to purchase products.\n\nIt does not ERASE how much our dollar was devalued by roughly 20% over the last administration or in the past.  It does not ERASE a products price increase due to our devaluing dollar.\n\nIt's permanent.  Having 1% inflation isn't going to lead to the price of cars going back to thier prices 50 years ago.",
+        "score": 1,
+        "author": "ripandtear4444"
+      },
+      {
+        "body": "People forget one of factors in inflation is quality - if the quality goes up and so does the price they lower the inflation level. Not sure the methodology but it happens which is pretty nuts.\n\nSo your phone cost went up 100% but the perceived quality went up 100% so inflation on that is 0",
+        "score": 1,
+        "author": "Leading_Nature_6222"
+      },
+      {
+        "body": "You believe anything the Pres actually spews out of his mouth if his lips are moving chances are he is lying",
+        "score": 1,
+        "author": "Gladiz1972"
+      }
+    ],
+    "summary_he": "למרות נתונים רשמיים המצביעים על ירידה באינפלציה, הצרכנים האמריקאים ממשיכים להתמודד עם התייקרויות משמעותיות במוצרי יסוד כמו מזון וחשמל. הפער בין ההצהרות הפוליטיות האופטימיות למציאות בשטח פוגע באמון הצרכנים ומעלה שאלות לגבי השפעת הנרטיב הפוליטי על תפיסת המצב הכלכלי.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שפורסמו, הכולל 6 נקודות מבט וסנטימנטים מרכזיים של הקהילה:\n\n*   **ההשפעה המצטברת של האינפלציה:** המשתתפים מדגישים כי ירידה בשיעור האינפלציה (למשל ל-3%) אינה מוחקת את עליות המחירים שהתרחשו בעבר. העלייה המצטברת של כ-20% בשנים האחרונות נשארת קבועה, והמחירים לא צפויים לחזור לרמתם הקודמת.\n*   **שחיקת ערך המטבע:** קיימת תפיסה לפיה אינפלציה היא למעשה מדד לפיחות בערך הדולר. המשמעות היא שכוח הקנייה של הכסף נחלש באופן קבוע, וכל אחוז של אינפלציה נוספת רק מעמיק את שחיקת הכסף שבידי הצרכן.\n*   **הקביעות של מחירי המוצרים:** הדיון מעלה כי אינפלציה נמוכה בעתיד לא תוביל ל\"הוזלה\" של מוצרים (דפלציה). גם אם קצב האינפלציה יירד ל-1%, מחירי המכוניות או מוצרי הצריכה לא יחזרו למחירים של פעם; המצב החדש הוא קבוע.\n*   **ביקורת על מתודולוגיית המדידה (התאמת איכות):** אחד המגיבים מצביע על עיוות אפשרי בחישובי האינפלציה הרשמיים. לפי טענה זו, אם איכות המוצר משתפרת במקביל לעליית המחיר, המדד עשוי להציג אינפלציה נמוכה או אפסית (למשל בטלפונים חכמים), למרות שהצרכן נדרש לשלם בפועל הרבה יותר כסף.\n*   **הפער בין הנתונים לתחושת הצרכן:** עולה סנטימנט של תסכול מכך שהמדדים הרשמיים לא תמיד משקפים את יוקר המחיה האמיתי, במיוחד כאשר הגידול בטכנולוגיה או באיכות משמש כצידוק סטטיסטי למחירים גבוהים יותר ש\"נעלמים\" מהסטטיסטיקה של האינפלציה.\n*   **חוסר אמון בהנהגה ודיווחים הרשמיים:** קיימת הבעת אי-אמון חריפה בדברי הנשיא ובנתונים הממשלתיים. חלק מהקהילה מאמין שהצהרות הממשל הן שקריות או מטעות מיסודן, ונועדו לייפות את המציאות הכלכלית הקשה."
+  },
+  {
+    "id": "1rgio7i",
+    "title": "Best thematic research providers?",
+    "url": "https://www.reddit.com/r/investing/comments/1rgio7i/best_thematic_research_providers/",
+    "author": "Boxwood_Mountain",
+    "score": 1,
+    "selftext": "Who are the best thematic research providers on AI, automation, space, crypto, and other frontier trends? I’m looking for deep thoughtful analysis. A lot of reports from banks, McKinsey, and gartner seem like fluff these days now that CharGPT can do primers that are just as good.",
+    "subreddit": "investing",
+    "created_utc": 1772225842,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "הכותב מחפש המלצות לספקי מחקר איכותיים המציעים ניתוחי עומק בנושאים טכנולוגיים כמו בינה מלאכותית, חלל וקריפטו. הוא מעוניין בתובנות משמעותיות ומקצועיות, שכן לטענתו הדו\"חות של בנקים וחברות ייעוץ גדולות הפכו לשטחיים וניתן להפיק דומים להם בקלות באמצעות כלי בינה מלאכותית.",
     "category_he": "השקעות",
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1rfv7oi",
-    "title": "Have $50k and looking at options",
-    "url": "https://www.reddit.com/r/investing/comments/1rfv7oi/have_50k_and_looking_at_options/",
-    "author": "Dry_Phone_3398",
+    "id": "1rgi0dd",
+    "title": "Scott’s (SMG) up 6.8% since last earnings report. Can it continue?",
+    "url": "https://www.reddit.com/r/investing/comments/1rgi0dd/scotts_smg_up_68_since_last_earnings_report_can/",
+    "author": "No_Mistake_1778",
     "score": 1,
-    "selftext": "good evening, I’m a bit stressed and can’t sleep.\n\n  \nmy wife is 38 weeks pregnant and I got laid off from my software engineering job. I have 108k in savings, half in the sp500 (brokerage not 401k) and half in cash. a couple grand in gold. \n\n  \nim pretty scared about market volatility in the short term but don’t want to lose out if we keep rallying. \n\nmy wife pulls in about 1k a month from Airbnb, and I’m looking for freelance work and doing a startup on the side. \n\n  \nam I crazy thinking about investing 25k in the market ? we can get away with about 1k a month in expenses (family helping out) or just not worth it if I can’t find employment within a year?\n\n  \nthanks",
+    "selftext": "[https://finance.yahoo.com/news/scotts-smg-6-8-since-163012235.htm](https://finance.yahoo.com/news/scotts-smg-6-8-since-163012235.html)\n\nIs this a trend that will continue into the next earnings period? Or is it just a small positive blip on their general outlook?\n\nThey divested the Hawthorne Garden Company from their main business which was a big failure in the cannabis industry which they did not capture the hype they originally thought it would be.",
     "subreddit": "investing",
-    "created_utc": 1772161729,
+    "created_utc": 1772224299,
     "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Cash is not a missed opportunity. It’s insurance",
-        "score": 1,
-        "author": "Top-Cardiologist1011"
-      },
-      {
-        "body": "You’re gonna be ok man. You got this. Remember ANY income is better than none. I echo others - throwing cash in the market feels a bit like seeking a rush from a gamble to get out of a tough spot. No judgement, just trying to be a voice of reason that it isn’t wise. \n\nNumber 1 goal has to be income. This is big mentally too. Kinda like when someone looses weight, then need small wins to build momentum. You’re not a failure if you keep trying. So keep trying you can so this.\n\nNumber 2 goal could be cutting liabilities/costs\n\nLastly, get some support dad. r/daddit it is a solid group. This will be the most exciting and hard time, but you can absolutely do it.",
-        "score": 1,
-        "author": "pensivvv"
-      },
-      {
-        "body": "When the darkness comes, you don’t want to worsen your situation. If I were in your scenario, the worst I could do is either pulling all cash and VOO then betting on either up or downside market movement. Hence, I lose all the money. If you don’t lose all your money at once, you could survive the darkness and the light can shine. I hope your wife can deliver the baby safely and the medical expenses are covered.",
-        "score": 1,
-        "author": "Landslide_Micro"
-      }
-    ],
-    "summary_he": "מהנדס תוכנה שפוטר מעבודתו רגע לפני לידת אשתו מתלבט לגבי ניהול חסכונותיו, העומדים על כ-108 אלף דולר המחולקים בין מזומן למדד ה-S&P 500. למרות האבטלה, הוצאות המחיה שלו נמוכות מאוד הודות לעזרת משפחתו, והוא שוקל האם להשקיע 25 אלף דולר נוספים בשוק ההון או להשאירם כנזילים בשל החשש מתנודתיות וחוסר וודאות תעסוקתית.",
+    "top_comments": [],
+    "summary_he": "מניית חברת סקוטס (SMG) רשמה עלייה של 6.8% מאז פרסום הדו\"חות האחרונים, זאת על רקע המהלך להיפרד מחטיבת \"Hawthorne\" שכשלה בניסיון למנף את תעשיית הקנאביס. הפוסט בוחן האם מדובר בשינוי מגמה חיובי ויציב שיימשך לתוך הרבעון הבא, או בזינוק זמני בלבד בערך המניה.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ודעות מרכזיות שהועלו על ידי הקהילה:\n\n*   **מזומן כרשת ביטחון ולא כהחמצה:** החזקת כסף מזומן אינה צריכה להיתפס כ\"פספוס\" של הזדמנויות בשוק ההון, אלא כמעין פוליסת ביטוח חיונית המעניקה שקט נפשי והגנה בעת משבר.\n*   **הימנעות מ\"הימורים\" פיננסיים בעת מצוקה:** כניסה לשוק ההון או ניסיון לתזמן את השוק כשנמצאים במצב כלכלי קשה נתפסים כחיפוש אחר \"ריגוש\" של הימורים ולא כהחלטה מושכלת. המגיבים מזהירים שצעד כזה עלול להוביל לאובדן כל ההון הנותר ולהחמרת המצב.\n*   **תיעדוף הכנסה על פני גובה השכר:** המטרה המיידית הראשונה חייבת להיות יצירת הכנסה כלשהי (\"כל הכנסה טובה מחוסר הכנסה\"). מעבר להיבט הכלכלי, יש לכך חשיבות מנטלית עצומה בבניית מומנטום וצבירת \"ניצחונות קטנים\" כדי לצאת מהתחושה של חוסר אונים.\n*   **צמצום התחייבויות כשלב קריטי:** לצד החיפוש אחר הכנסה, היעד המרכזי השני הוא חיתוך אקטיבי של עלויות והוצאות קבועות (Liabilities) כדי להפחית את הלחץ הכלכלי.\n*   **חשיבות התמיכה הקהילתית והרגשית:** המגיבים מדגישים שאין לעבור את התקופה הקשה לבד. הם ממליצים לפנות לקבוצות תמיכה ייעודיות (כמו קהילות אבות) כדי לקבל חיזוקים וליווי רגשי, במיוחד לקראת שינויים משמעותיים כמו לידת תינוק.\n*   **חוסן והמשכיות (הישרדות מעל הכל):** המסר המרכזי הוא לשרוד את \"התקופה החשוכה\" מבלי לבצע טעויות פטאליות. השאיפה היא לשמור על הקיים כדי להגיע לצד השני של המשבר, תוך הבנה שכישלון זמני אינו הופך את האדם לכישלון כשלעצמו, כל עוד הוא ממשיך לנסות."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1rfutfg",
-    "title": "Inherited 500k.. what to do?",
-    "url": "https://www.reddit.com/r/investing/comments/1rfutfg/inherited_500k_what_to_do/",
-    "author": "Gullible-Major9939",
+    "id": "1rghr3b",
+    "title": "Trump’s “Golden Age” vs. the Real Economy",
+    "url": "https://www.reddit.com/r/investing/comments/1rghr3b/trumps_golden_age_vs_the_real_economy/",
+    "author": "Prince_reaper13",
     "score": 1,
-    "selftext": "I dont know what to do. I got this from a sold house cause my dad died. 42yo male in California. waiting on survivors benefit cause I have a disability before 25 and single. I'm not getting shit from SS cause I was paid cash pretty much my life and only 11 years on the books. I have no income.  Thinking about a 200k annuity and investing 300k in the market with vanguard ETFs. Im going to talk to an advisor that someone recommended from prudential next week. What your thoughts/suggestions? thanks!",
+    "selftext": "Trump’s State of the Union painted a picture of a booming economy: soaring jobs, falling prices, and “the roaring economy like never before.” Reality? Not quite.\n\nGDP grew **2.2% in 2025** slower than Biden’s last year (2.8%) and far from the “roaring” growth of the 1980s or late 1990s.\n\nJob creation nearly stalled  **181,000 jobs** added in 2025 (15,000 per month). For context, this is the **worst annual growth outside a recession since 2002**. Factories lost 108,000 jobs, and auto/parts plants cut 74,000 over two years.\n\nInflation is still biting. Core prices may have slowed, but necessities like electricity rose **6.3%**, groceries like ground beef jumped **17%**, and tariffs have kept furniture, clothes, and tools expensive.\n\nAmericans aren’t feeling a golden age  they’re feeling high prices, stagnant hiring, and uncertainty. Trump may sell optimism from the podium, but the numbers are stubborn.\n\n**Question:** Can rhetoric alone convince people they’re living in a “golden age,” or is reality too strong to ignore?",
     "subreddit": "investing",
-    "created_utc": 1772160658,
+    "created_utc": 1772223715,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "While you’re trying to figure out what to do, you can park it in an I-bond. https://www.treasurydirect.gov/savings-bonds/i-bonds/ It’s currently paying 4.03% until end of April. You can redeem it after a year, but if you cash in the bond in less than 5 years, you lose the last 3 months of interest.",
-        "score": 1,
-        "author": "syunsquared"
+        "body": "Congress passed a law mandating Epstein file release, passed with bipartisan support.",
+        "score": 2,
+        "author": "BarNext6046"
       },
       {
-        "body": "I’ve thought about moving out west for the weather and forests, and other nature.",
+        "body": "I grew up fairly poor. We had food and a stable place to live, but i felt uncomfortable asking for fries with a mcdonalds burger. Now 40 years later i have money. Far from a billionaire but I do own enough assets in tge form of stocks and real estate to be in the top 2% or so. Literally everything in the current American economy is now set up to make me wealthier. It is so easy. Want a tax cut?  “I’m fine actually.” Ok, have three then. When the markets go bad I get a policy change and if necessary, a bailout. When a pandemic hits, the government makes sure I keep gaining money. My mortgage was at 2.8%, is now paid off, and my home is worth 3x what I bought it for. Stocks? Well as they say, “line go up.” I didn’t ask for any of it, but they just keep heaping it on.  And the most shocking thing is that most people in my situation are not even voting for it. Some do, but political support for these policies comes mostly from low income people who cannot benefit from any of them. It’s a basic mathematical truth that only 5% of the electorate are in the top 5%.",
         "score": 1,
-        "author": "Superb-Astronaut-553"
+        "author": "Madmandocv1"
       },
       {
-        "body": "Thanks. Someone on here also said to talk to a flat fee advisor, i just e mailed a local one.",
+        "body": "If you don't see the difference between the parties then you have a view of reality that I do not understand and I'm wasting my time\n\nCynicism is often a lazy attempt to be take the moral high ground",
         "score": 1,
-        "author": "Gullible-Major9939"
+        "author": "nucumber"
       }
     ],
-    "summary_he": "גבר בן 42 עם מוגבלות וללא הכנסה קבועה ירש 500,000 דולר ומחפש דרכים להבטיח את עתידו הכלכלי. הוא שוקל לשלב בין רכישת אנונה (קצבה) לבין השקעה בקרנות סל (ETFs) בשוק ההון, ומתכנן להתייעץ בקרוב עם יועץ פיננסי בנושא.",
+    "summary_he": "הפוסט מציג פער משמעותי בין הצהרותיו של טראמפ על \"תור זהב\" כלכלי לבין נתוני המציאות המראים צמיחה איטית וקיפאון בשוק התעסוקה. למרות הרטוריקה האופטימית, הציבור האמריקאי ממשיך להתמודד עם יוקר מחיה ואי-ודאות כלכלית, מה שמעלה תהייה האם נרטיב פוליטי מסוגל לגבור על הנתונים היבשים בשטח.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המובילות, המציג 6 נקודות מבט ותובנות שונות שעלו בקהילה:\n\n*   **שקיפות שלטונית בנושאים רגישים:** צוין כי הקונגרס האמריקאי העביר חוק המחייב את חשיפת המסמכים בפרשת אפשטיין, צעד שזכה לתמיכה רחבה משתי המפלגות (דו-מפלגתיות).\n*   **הטיה מובנית של הכלכלה לטובת העשירים:** הועלתה הטענה כי הכלכלה האמריקאית הנוכחית מעוצבת באופן אקטיבי כדי להגדיל את עושרם של בעלי הנכסים. המערכת הופכת את צבירת ההון ל\"קלה מדי\" עבור מי שכבר נמצא ב-2% העליונים.\n*   **מדיניות ממשלתית כרשת ביטחון להון:** קיימת תחושה שהממשלה מתערבת לטובת בעלי ההון בכל משבר; בין אם דרך קיצוצי מס לא מבוקשים, שינויי מדיניות בזמן קריסת שווקים, או תוכניות סיוע ממשלתיות בזמן פנדמיה שמבטיחות שהעשירים ימשיכו להרוויח.\n*   **הפרדוקס הפוליטי של מצביעים בעלי הכנסה נמוכה:** הובעה פליאה על כך שחלק ניכר מהתמיכה הפוליטית במדיניות המיטיבה עם העשירים מגיע דווקא מאנשים בעלי הכנסה נמוכה, שאינם נהנים מהטבות אלו כלל, בעוד שחלק מבעלי ההון עצמם אפילו לא מבקשים את ההטבות הללו.\n*   **פער הדורות והנכסים:** התגובות מדגישות את הפער הבלתי נתפס בין מי שרכש נכסים בעבר (כמו נדל\"ן בריבית נמוכה שערכו שילש את עצמו) לבין מי שמנסה להיכנס לשוק כיום, מה שמקבע מעמדות כלכליים.\n*   **דחיית הציניות הפוליטית:** עלתה ביקורת נגד הגישה הטוענת ש\"שתי המפלגות הן אותו הדבר\". לפי גישה זו, חוסר היכולת להבחין בהבדלים בין המפלגות נתפס כעצלנות מחשבתית או כניסיון ריק לתפוס \"עליונות מוסרית\" ללא בסיס במציאות."
+  },
+  {
+    "id": "1rghjhr",
+    "title": "Need help. Interviewing with a company that has a Simple IRA",
+    "url": "https://www.reddit.com/r/investing/comments/1rghjhr/need_help_interviewing_with_a_company_that_has_a/",
+    "author": "KickedSpoon",
+    "score": 1,
+    "selftext": "Hey all. I am currently interviewing with a company and have found out they have a Simple IRA. I’ve never dealt with those but have been researching. I’m not loving what I’m seeing. It looks like much lower contribution limits, no ROTH option, etc. \n\nEven though they are offering 20% more pay than I make now, coming from someone who maxes their 401k contributions every year this feels like a decent drawback. The gains on those additional contributions being lost over the years really seems like a drawback to me. Would there still be value in considering this job without a 401k?",
+    "subreddit": "investing",
+    "created_utc": 1772223230,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Find out if the SIMPLE IRA plan is for 5305-SIMPLE or 5304-SIMPLE. You want 5304, it's your own choice for whete to house it and you can manage it yourself. It's a fine option. Roth version should now exist, and the match can go to Roth as well. ",
+        "score": 1,
+        "author": "Here4Snow"
+      },
+      {
+        "body": "Just save after to a brokerage account",
+        "score": 1,
+        "author": "___this_guy"
+      },
+      {
+        "body": "A Simple IRA isn’t as flexible as a 401k, but I wouldn’t automatically write off a 20% pay bump over it.\n\nIf they’re offering 20% more, you could realistically make up the lower contribution limit by maxing the Simple IRA, then using a Roth IRA (if eligible) and even a taxable brokerage on top. The account type matters, but total savings rate matters more.\n\nI’d look at it like this: is the extra comp + career upside worth more than the 401k structure? Over a long career, higher income usually wins.\n\nRetirement plan is important, but it’s one piece of the overall comp picture.",
+        "score": 1,
+        "author": "basementdweller263"
+      }
+    ],
+    "summary_he": "הכותב מתלבט האם לקבל הצעת עבודה עם שכר גבוה ב-20%, כיוון שהחברה מציעה תוכנית חיסכון מסוג SIMPLE IRA במקום 401(k). הוא חושש שמגבלות ההפקדה הנמוכות יותר יפגעו ביכולתו למקסם את החיסכון הפנסיוני שלו וביעדים הכלכליים ארוכי הטווח. הוא מבקש לדעת האם התפקיד עדיין נחשב משתלם למרות החסרונות המשמעותיים לדעתו בתוכנית הפרישה.",
     "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, הכולל 6 נקודות מרכזיות, דעות ותובנות שעלו מהתגובות:\n\n*   **המלצה על אפיק השקעה בטוח:** אחד המשתמשים ממליץ להחנות כספים פנויים ב\"אג\"ח מסוג I\" (I-bonds) של משרד האוצר האמריקאי כפתרון זמני בזמן שמתכננים צעדים פיננסיים עתידיים.\n*   **כדאיות הריבית הנוכחית:** צוין כי נכון לעכשיו, אגרות חוב אלו מציעות תשואה של 4.03% (בתוקף עד סוף אפריל), מה שהופך אותן לאופציה רלוונטית לחיסכון לטווח קצר-בינוני.\n*   **מודעות למגבלות וקנסות:** הדיון מדגיש את תנאי הפדיון של האג\"ח – ניתן למשוך את הכסף לאחר שנה, אך פדיון לפני תום 5 שנים כרוך ב\"קנס\" של אובדן הריבית שנצברה בשלושת החודשים האחרונים.\n*   **שאיפות לשינוי סגנון חיים ומקום מגורים:** עולה סנטימנט של רצון למעבר לאזור המערב (בארה\"ב), תוך דגש על חיפוש אחר מזג אוויר נוח יותר וקרבה לטבע.\n*   **הערכה למשאבי טבע:** קיימת חשיבות רבה לגורמים סביבתיים כמו יערות ונופים כשיקול מרכזי בבחירת מקום מגורים חדש.\n*   **פנייה לייעוץ מקצועי אובייקטיבי:** חברי הקהילה ממליצים על התייעצות עם יועץ פיננסי שגובה תשלום קבוע (Flat fee advisor) ולא עמלות על מכירת מוצרים, מה שמעיד על חיפוש אחר ייעוץ אמין ולא מוטה. אחד המשתמשים אף שיתף שכבר יצר קשר עם יועץ מקומי בעקבות המלצה זו."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ושיקולים מרכזיים בנוגע לבחירה בין מקום עבודה עם 401k לבין כזה המציע SIMPLE IRA ותוספת שכר:\n\n*   **חשיבות סוג ה-SIMPLE IRA:** ישנה הבחנה קריטית בין תוכנית מסוג 5305 לבין 5304. ההמלצה היא לשאוף לתוכנית 5304-SIMPLE, המאפשרת לעובד לבחור בעצמו היכן לנהל את החשבון וליהנות משליטה רבה יותר בניהול הכספים.\n*   **זמינות מסלולי Roth:** צוין כי כיום קיימות גרסאות Roth לתוכנית ה-SIMPLE IRA, וחשוב מכך – ניתן להפנות גם את כספי התאמת המעסיק (Employer Match) למסלול ה-Roth, מה שמהווה יתרון מיסויי.\n*   **השכר הכולל מנצח את סוג הקרן:** דעה מרכזית גורסת כי אין לפסול הצעה עם עלייה של 20% בשכר רק בגלל המבנה הפנסיוני. בטווח הארוך, הכנסה גבוהה יותר ופוטנציאל לקידום בקריירה נחשבים למשמעותיים יותר מאשר סוג חשבון הפרישה (401k לעומת SIMPLE IRA).\n*   **אסטרטגיית \"פיצוי\" על מגבלות הפקדה:** מכיוון שתקרת ההפקדה ב-SIMPLE IRA נמוכה יותר, ניתן להשתמש בתוספת השכר כדי למקסם קודם כל את ה-SIMPLE IRA, ולאחר מכן להפקיד את היתרה ב-Roth IRA (אם זכאים) ובחשבון השקעות רגיל (Brokerage).\n*   **שיעור החיסכון לעומת סוג החשבון:** אחד המגיבים מדגיש כי בעוד שסוג החשבון חשוב, \"שיעור החיסכון הכולל\" של האדם חשוב הרבה יותר. היכולת לחסוך יותר כסף בפועל בזכות השכר הגבוה היא הגורם המכריע.\n*   **שימוש בחשבון השקעות רגיל כמשלים:** כפתרון פשוט ונגיש, מוצע להשקיע את עודפי השכר ישירות בחשבון השקעות ממוסה (Taxable brokerage account) כדי לגשר על הפערים ביכולת החיסכון הפנסיוני."
   },
   {
-    "id": "1rfum7p",
-    "title": "Thoughts on my current portfolio? ($VOO, $NVDA, $AMZN, and $SCHD.) …And which Ai stock should I go for? $TAC, $SMR, $WYFI, or $SOUN?",
-    "url": "https://www.reddit.com/r/investing/comments/1rfum7p/thoughts_on_my_current_portfolio_voo_nvda_amzn/",
-    "author": "Justanunknownauthor",
+    "id": "1rgfoy8",
+    "title": "Why US Banks are dropping today",
+    "url": "https://www.reddit.com/r/investing/comments/1rgfoy8/why_us_banks_are_dropping_today/",
+    "author": "MathTradeMan",
     "score": 1,
-    "selftext": "Looking for some honest advice and input with my current selection of stocks and ETF’s. As of right now I’ve invested money into $VOO, $AMZN, $NVDA, $SCHD, and $WYFI. I plan on putting most of my money into $VOO for safe growth with some monthly investments into the rest. I really want to grab onto some of these Ai stocks that have potential. We have some new Data centers building near me very soon and I know they’re going to expand more in my state. I was thinking of investing in the infruetructure and energy aspect of Ai and Data Centers. I’ve been looking into $WYFI (White Fiber) and $SMR (NuScale).\n\nWhiteFiber (WYFI) designs, develops, and operates data centers focused on AI infrastructure, offering hosting, colocation, cloud-based HPC GPU services, storage, networking, and security. In North Carolina, the company acquired a 96-acre site in Madison for its flagship NC-1 campus, retrofitting it for Tier 3 standards with initial 24MW operational power (scaling to 99MW secured and up to 200MW). They plan a December 2025 go-live, securing major contracts like a 40MW deal with Nscale for AI workloads, generating significant revenue over 10 years.\n\nNuScale Power (SMR) develops small modular reactors (SMRs) based on proven pressurized water reactor technology, with each NuScale Power Module generating 77 MWe of carbon-free electricity for scalable plants up to 924 MWe across 12 modules. These factory-built units prioritize safety through passive cooling, natural circulation, and a compact design that eliminates large pumps and enables indefinite self-cooling without power or operator action. They’re targeted for electricity generation, data centers, hydrogen production, desalination, and industrial heat, with the first NRC-approved SMR design ready for global deployment.\n\nTransAlta ($TAC) is a major North American power generation company focused on clean energy, operating hydro, wind, solar, and gas facilities with a growing emphasis on renewables and carbon capture.\\[ from prior context\\] They're advancing AI data center development through partnerships, notably supplying power for hyperscale campuses like those in development across the U.S., leveraging their grid access and sustainable energy portfolio. Key plans include powering AI workloads with low-carbon electricity, targeting regions with strong grid capacity to support massive compute demands by 2027-2030.\n\nSoundHound AI ($SOUN) is a leading developer of voice AI and conversational intelligence platforms, specializing in speech recognition, natural language understanding, and synthesis for applications like drive-thrus, automotive assistants, and customer service agents. Their technology powers interactions for brands in restaurants (e.g., Chipotle, White Castle), automotive (Hyundai, Honda), and enterprise sectors, with recent acquisitions like SYNQ3, Amelia, and Interactions expanding their AI agent capabilities across 25+ languages. They plan accelerated growth through SoundHound Chat AI (integrating generative AI), outbound commerce agents for revenue, and IT automation via Autonomics, targeting billions of annual interactions by enhancing speed, accuracy, and scalability.\n\nSo my main question is what do you think of these stocks as long term investments? Does anyone know anything about these?\n\n1. $WYFI\n\n2. $SMR\n\n3. $SOUN\n\n4. $TAC",
+    "selftext": "If you’re looking at your portfolio and wondering why the banks are bleeding out today, it’s basically a perfect storm of regulatory hammers and policy shifts.\n\n* Bank of America just got hit with $250M in fines from the CFPB for \"junk fees\" and opening unauthorized accounts. It’s a massive reputational hit, and $BAC is leading the slide, down over 4.6%.\n* **T**There’s a serious push in D.C. right now to cap credit card interest at 10%. For banks like JPM and Citi, credit cards are their biggest cash cows. If this actually goes through, their 2026 profit margins are going to be gutted.\n* Between the uncertainty over new tariff policies and a growing fear that private credit loans are starting to sour, big money is rotating out of financials and hiding in safer spots.\n\nWe’re seeing a valuation reset. The market is realizing that the easy money for banks in 2025 might be over as regulatory oversight ramps back up.",
     "subreddit": "investing",
-    "created_utc": 1772160108,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "הכותב מציג תיק השקעות המשלב בין מדדים וצמיחה יציבה (כמו VOO, NVDA ו-AMZN) לבין חיפוש אחר הזדמנויות ארוכות טווח בתחום הבינה המלאכותית. הוא מבקש חוות דעת על מניות העוסקות בתשתיות ואנרגיה למרכזי נתונים ($WYFI, $SMR, $TAC) ועל טכנולוגיית בינה מלאכותית קולית ($SOUN).",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1rfu634",
-    "title": "Private credit fund managed by KKR reports jump in troubled loans",
-    "url": "https://www.reddit.com/r/investing/comments/1rfu634/private_credit_fund_managed_by_kkr_reports_jump/",
-    "author": "Possible-Shoulder940",
-    "score": 1,
-    "selftext": "[https://www.ft.com/content/06213ba6-5634-4c1c-b949-07013824c79f](https://www.ft.com/content/06213ba6-5634-4c1c-b949-07013824c79f)\n\n  \nA large credit fund managed by KKR tumbled on Thursday after reporting a jump in troubled loans and lower investment income, highlighting the mounting strains in private markets. FS KKR Capital Corporation, a publicly traded vehicle holding private loans, dropped 15 per cent after saying that it would slash its dividend and the valuation of the assets within its portfolio. The markdowns of the FSK fund come amid fears of rising defaults across private equity portfolios and particularly software companies vulnerable to new AI technologies. Worries about rising credit losses and investor redemptions from private credit funds have pummelled the stocks of listed private capital groups such as Blue Owl, KKR, Blackstone and Ares Management this year. KKR’s FSK fund oversees a $13bn portfolio, mostly of loans made to private-equity-backed midsized companies during a record wave of takeover activity over the past decade. Deal activity hit a peak in 2021 and 2022 at the end of an era of historically low interest rates that quickly reversed the following year, causing an industry-wide crunch.",
-    "subreddit": "investing",
-    "created_utc": 1772158905,
+    "created_utc": 1772219042,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "why was the dental clinics debt marked down?",
+        "body": "I piled into PE/BDC bonds that are 5-6.5% and not affected by any FUD so far.",
         "score": 1,
-        "author": "marriam"
+        "author": "Longjumping_Drop9450"
       },
       {
-        "body": "In case people don't know, there's a proposal to allow 401K to invest into PE. What could go wrong.",
+        "body": "Nah the news has to be digested sometimes",
         "score": 1,
-        "author": "charliesk9unit"
+        "author": "KnowledgeTop173"
       },
       {
-        "body": "I agree, just hoping that the government doesn’t bail them out.  \n\nAlso hoping the $3 trillion in private credit doesn’t bring down the rest of the economy with it….",
+        "body": "Same reason European banks and asset managers are down, and it has nothing to do with the three points you raised.\n\nanother private credit failure happened -- see MFS in UK.",
         "score": 1,
-        "author": "LibertarianPrime"
+        "author": "ChornWork2"
       }
     ],
-    "summary_he": "קרן האשראי FS KKR דיווחה על זינוק בהיקף ההלוואות הבעייתיות ועל ירידה בהכנסות, מה שהוביל לצניחה של 15% במחיר המניה וקיצוץ בדיבידנד. המהלך משקף את הלחצים הגוברים בשוק האשראי הפרטי עקב סביבת הריבית הגבוהה והחשש מגל של חדלות פירעון בקרב חברות המוחזקות על ידי קרנות השקעה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ורגשות מרכזיים שעלו מהתגובות:\n\n*   **תהיות לגבי שווי נכסים ספציפיים:** עולה שאלה בנוגע לסיבות לירידת הערך (Mark down) של חובות הקשורים למרפאות שיניים, מה שמעיד על חשש מחוסר יציבות או מהערכות שווי מופרזות בסקטורים מסוימים של הכלכלה.\n*   **ביקורת על חשיפת חסכונות הפנסיה לסיכון:** קיימת מודעות להצעה רגולטורית חדשה שתאפשר לקרנות פנסיה (401K) להשקיע בקרנות השקעה פרטיות (Private Equity). המשתמשים מביעים חשש מההשלכות של מהלך כזה על חסכונות הציבור.\n*   **ספקנות וציניות כלפי המערכת הפיננסית:** השימוש בביטוי \"מה כבר יכול להשתבש\" (What could go wrong) משקף גישה צינית של הקהילה כלפי החלטות של מנהלי השקעות ורגולטורים, ומרמז על צפי לאסון פיננסי ידוע מראש.\n*   **התנגדות עקרונית לחילוצים ממשלתיים:** מובעת תקווה ברורה שהממשלה לא תתערב ולא תשתמש בכספי משלם המיסים כדי לחלץ (Bailout) גופים פרטיים אם אלו יקרסו כתוצאה מהשקעות כושלות.\n*   **חרדה מהיקף שוק האשראי הפרטי:** הקהילה מצביעה על הנתון המבהיל של 3 טריליון דולר המוחזקים באשראי פרטי, ורואה במספר זה \"פצצת זמן\" פוטנציאלית.\n*   **פחד מפני קריסה כלכלית מערכתית:** קיים חשש כבד שהבעיות בשוק האשראי הפרטי וההשקעות ב-Private Equity לא יישארו מוגבלות לתחומים אלו בלבד, אלא יגררו איתן את הכלכלה כולה למיתון או לקריסה רחבה."
-  },
-  {
-    "id": "1rfsw8w",
-    "title": "Investing For Toddler Question",
-    "url": "https://www.reddit.com/r/investing/comments/1rfsw8w/investing_for_toddler_question/",
-    "author": "clitcommander_",
-    "score": 1,
-    "selftext": "My son just turned a year old. I’ve been investing in FXAIX for him for the last 8 months. The goal is to ensure he is a multi millionaire by the time he’s eligible to retire later in life. Is there something better I should be doing for him ? I know they say starting early is the best thing to do. If I’m doing something wrong, trying to catch it early. Any help/input would be greatly appreciated !",
-    "subreddit": "investing",
-    "created_utc": 1772155478,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "That line is way older than two years.",
-        "score": 1,
-        "author": "1-Dollar-Doge-Coins"
-      },
-      {
-        "body": "Born after 1.1.2025?  Trump account is way to go!",
-        "score": 1,
-        "author": "Kristen-ngu"
-      },
-      {
-        "body": "That's because dad is still eating out of 1oz jars. \"infant investing\" wtf.",
-        "score": 1,
-        "author": "AardvarkSlumber"
-      }
-    ],
-    "summary_he": "הכותב משקיע עבור בנו בן השנה בקרן המדדית FXAIX (העוקבת אחר S&P 500) במטרה להבטיח שיהיה מולטי-מיליונר כשיגיע לגיל פרישה. הוא מבקש לדעת אם קיימות אסטרטגיות השקעה טובות יותר או אם עליו לבצע שינויים כלשהם כדי למקסם את הרווחים לטווח הארוך.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **ספקנות לגבי עדכניות הנתונים:** אחד המגיבים מציין כי הנתון או ה\"קו\" המוצג בגרף ישן בהרבה ממה שנטען (מעל שנתיים), מה שמעיד על ביקורת כלפי דיוק המידע המוצג בפוסט המקורי.\n*   **התייחסות לדור העתיד:** קיימת התייחסות ספציפית לילדים שייולדו החל מה-1 בינואר 2025, כנקודת זמן קריטית לשינוי בגישה הכלכלית או הפוליטית.\n*   **מעורבות פוליטית בהחלטות פיננסיות:** עולה הצעה (ייתכן שבציניות) ש\"חשבון טראמפ\" הוא הדרך הנכונה לפעול עבור הדור הבא, מה שמשקף את החיבור שחברי הקהילה עושים בין המפה הפוליטית לניהול כספים.\n*   **לעג להתנהלות ההורית:** אחד המגיבים לועג לאב, ומציין בסרקזם שהוא עדיין \"אוכל מצנצנות מזון של תינוקות\" (1 אונקיה), מה שמרמז על חוסר בגרות או מצב כלכלי עגום של ההורה עצמו.\n*   **זלזול במושג \"השקעות לתינוקות\":** הביטוי \"infant investing\" (השקעות לתינוקות) זוכה לתגובת \"wtf\", המבטאת תמיהה, חוסר אמון או זלזול בעצם הרעיון של השקעה פיננסית עבור או בשם תינוקות.\n*   **הפער בין תכנון עתידי למציאות נוכחית:** עולה סנטימנט של אירוניה לגבי הניסיון לתכנן עתיד כלכלי לתינוק (\"השקעות\"), בעוד שההורה עצמו לא מצליח לספק לעצמו תזונה הולמת או מתנהג בצורה ילדותית."
-  },
-  {
-    "id": "1rfsg4k",
-    "title": "Time IN the market vs Timing the market",
-    "url": "https://www.reddit.com/r/investing/comments/1rfsg4k/time_in_the_market_vs_timing_the_market/",
-    "author": "Traditional-Solid-43",
-    "score": 1,
-    "selftext": "Why do they say that time **in** the market is more important than **timing** the market? for e.g, let's say I have 10k in VTI and I've been holding it for 3 months. What if within the 3 months, the price actually **falls**. Then the 3 months I've held it wouldn't really matter right?",
-    "subreddit": "investing",
-    "created_utc": 1772154273,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Your submission was automatically removed because it looks like your post is better served as a comment in daily discussion thread which can be found [here](https://www.reddit.com/r/investing/about/sticky?num=1). Please also take a moment to review the [r/investing rules](https://www.reddit.com/r/investing/wiki/index/rules) if you have not yet done so. I am a bot and sometimes not the smartest so if you feel your comment was removed in error please message the moderators.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/investing) if you have any questions or concerns.*",
-        "score": 1,
-        "author": "AutoModerator"
-      }
-    ],
-    "summary_he": "הפוסט עוסק בהשוואה בין השקעה לטווח ארוך (\"זמן בשוק\") לבין ניסיונות לתזמן את נקודות הכניסה והיציאה מהשוק. הכותב תוהה מדוע השקעה ממושכת נחשבת עדיפה, ומציג דוגמה שבה ירידת ערך בטווח הקצר גורמת לתקופת ההחזקה להיראות כחסרת חשיבות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הנקודות העולות מהתגובה שהוצגה (הודעת מנהל מערכת אוטומטי):\n\n* **הסרה אוטומטית של תכנים:** המערכת מזהה ומסירה באופן אוטומטי פוסטים שאינם עומדים בקריטריונים של הקהילה לפרסום כהודעה עצמאית.\n* **ניתוב לשרשור הדיונים היומי:** קיימת העדפה ברורה מצד הנהלת הפורום לרכז שאלות או נושאים מסוימים בשרשור הדיונים היומי (\"Daily Discussion\") במקום לפתוח פוסטים חדשים, כדי למנוע עומס.\n* **חשיבות הציות לכללי הקהילה:** המערכת מפנה את המשתמשים לקרוא ולהבין את חוקי תת-הפורום (r/investing) כדי למנוע חסימות או הסרות עתידיות.\n* **שקיפות לגבי מגבלות הטכנולוגיה:** הבוט מצהיר על כך שאינו \"חכם\" תמיד וכי אלגוריתם הסינון שלו עלול לטעות בזיהוי מהות הפוסט.\n* **אפשרות לערעור וקשר אנושי:** למשתמשים ניתנת האפשרות לפנות למנהלים (Moderators) בשר ודם אם הם סבורים שההסרה בוצעה בטעות, מה שמעיד על קיום פיקוח אנושי מעבר לאוטומציה.\n* **שמירה על סדר וארגון בפורום:** הגישה המשתקפת מההודעה מראה על רצון הקהילה לשמור על רמה גבוהה של סדר וארגון באמצעות ריכוז מידע רלוונטי במקומות ייעודיים (Sticky threads)."
-  },
-  {
-    "id": "1rfsf21",
-    "title": "Is copper, the new silver????",
-    "url": "https://www.reddit.com/r/investing/comments/1rfsf21/is_copper_the_new_silver/",
-    "author": "Geicocaveman4u",
-    "score": 1,
-    "selftext": "Has anyone else been stacking copper? I stacked silver up until it went over $30 an oz, and now while copper seems to be kicking butt, I bought 4000 oz's (rounds and bars at between $2 and $2.5 an ounce) and I am wondering if this is a smart move. I mean raw copper is at around $6 a pound, I bought @ 6 times the current price for refined, so am I doing the right thing? Thnx",
-    "subreddit": "investing",
-    "created_utc": 1772154192,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Yes inflation is coming back. The material price would skyrocket.",
-        "score": 1,
-        "author": "Landslide_Micro"
-      },
-      {
-        "body": "Good job! Looks like I need to stop buying shit and save what I made on silver. I bought the copper stocks over a month ago and more than doubled my money. I was afraid of gold and I have only bought it as collector coins. ",
-        "score": 1,
-        "author": "Geicocaveman4u"
-      },
-      {
-        "body": "COPX up 140% in the past year, no need to stack physical.",
-        "score": 1,
-        "author": "MiloAndCrows"
-      }
-    ],
-    "summary_he": "הכותב שיתף כי עבר להשקעה בנחושת במקום בכסף, ורכש כמות גדולה של מטילי ומטבעות נחושת במחיר הגבוה פי כמה ממחיר השוק של המתכת הגולמית. כעת הוא מבקש את חוות דעת הגולשים האם מדובר בצעד כלכלי נבון, נוכח הפרמיה הגבוהה ששילם על זיקוק ועיצוב הנחושת.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים בקהילה:\n\n*   **חזרת האינפלציה:** קיימת הסכמה שהאינפלציה חוזרת ובאה לידי ביטוי בשטח, מה שמשפיע על קבלת ההחלטות של המשקיעים.\n*   **זינוק במחירי חומרי הגלם:** המשתתפים צופים שמחירי הסחורות וחומרי הגלם (Materials) עומדים לזנק באופן משמעותי (\"Skyrocket\") כתוצאה מהמצב הכלכלי.\n*   **שינוי בהרגלי צריכה וחיסכון:** אחד המגיבים מציין מגמה של הפסקת רכישת מוצרים מיותרים (\"Stop buying shit\") ומעבר לחיסכון ממוקד במתכות, ספציפית בכסף (Silver).\n*   **הצלחה גדולה במניות הנחושת:** ניכרת התלהבות מהתשואות במניות הנחושת, כאשר משקיעים מדווחים על הכפלת סכום ההשקעה תוך זמן קצר (כחודש) ועלייה של כ-140% במדדי נחושת (כמו COPX) בשנה האחרונה.\n*   **רתיעה מהשקעה בזהב:** קיים סנטימנט של חשש מהשקעה ישירה בזהב; חלק מהמשקיעים מעדיפים לרכוש אותו רק כפריטי אספנות (מטבעות) ולא כמרכיב ליבה בתיק ההשקעות.\n*   **העדפת השקעה בשוק ההון על פני החזקה פיזית:** עולה הדעה שאין צורך ב\"אגירה פיזית\" (Stacking) של המתכות עצמן, שכן ניתן להשיג רווחים מרשימים דרך קרנות סל ומניות של חברות כרייה."
-  },
-  {
-    "id": "1rfq5tt",
-    "title": "CoreWeave Shares Slide After Heavy Spending Alarms Investors",
-    "url": "https://www.reddit.com/r/investing/comments/1rfq5tt/coreweave_shares_slide_after_heavy_spending/",
-    "author": "Possible-Shoulder940",
-    "score": 1,
-    "selftext": "CoreWeave Inc. fell as much as 13% in late trading after reporting a bigger-than-expected loss and boosting capital expenditures, spurring concerns about the company overspending on infrastructure.\n\nThe loss widened to 89 cents a share in the fourth quarter, the company said in [a statement](https://www.bloomberg.com/news/terminal/TB33ZO6Z785C) Thursday. Analysts had estimated about 72 cents on average, according to data compiled by Bloomberg. Revenue rose to $1.57 billion, compared with a $1.55 billion prediction.",
-    "subreddit": "investing",
-    "created_utc": 1772148538,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "מניית חברת CoreWeave צנחה בכ-13% לאחר שדיווחה על הפסד רבעוני של 89 סנט למניה, נתון גבוה משמעותית מתחזיות האנליסטים. המשקיעים הביעו חשש מהגידול בהוצאות ההון של החברה על תשתיות, מה שהאפיל על הכנסותיה שעקפו מעט את הציפיות והסתכמו ב-1.57 מיליארד דולר.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1rfpkgb",
-    "title": "17 and investing in a taxable brokerage instead of Roth IRA am I missing something?",
-    "url": "https://www.reddit.com/r/investing/comments/1rfpkgb/17_and_investing_in_a_taxable_brokerage_instead/",
-    "author": "FactorFair3363",
-    "score": 1,
-    "selftext": "I know Roth IRAs are usually recommended, but I’m intentionally using a taxable brokerage. I want access to dividends and growth in my 20s and 30s, not money locked away until retirement. A taxable account gives me flexibility and the ability to use the funds if I ever want early financial independence.\n\nI understand the tax advantages of a Roth, but it also comes with restrictions. For someone aiming for early FI or just more control over their money, is the standard Roth advice really optimal? Or am I overlooking something important?\n\nCurious to hear perspectives.",
-    "subreddit": "investing",
-    "created_utc": 1772147129,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "There is no such thing as 'early' FI without having regular retirement covered. Do you?\n\nYou can't effectively say for early retirement before you save for regular retirement ... not unless you plan to go back to work in your 60s after not working in the decade or two before.\n\nI know it seems a long way off, but don't think of it as saving for 60. Think of it as saving so that when you hit 30, you'll be *on track* for retirement and won't have to panic about not having retirement savings like so many people do.\n\nThe thing about retirement accounts is that you only get so much contribution space per year, and you can't get it back after you waste it. Taxable money you can save as much as you like - so catch up on that later.\n\n",
-        "score": 1,
-        "author": "wild_b_cat"
-      },
-      {
-        "body": "Will you be contributing to that brokerage account in your 20’s and 30’s? If so, what is the point of withdrawing dividends, only to put money back in?",
-        "score": 1,
-        "author": "PheonixOnTheRise"
-      },
-      {
-        "body": "Haven't seen a comment about tax brackets, so here's the run-down: \n\nYou're 17. I don't know what job you have, but you're probably in the lowest tax bracket you'll be in your life. The nominal amount you'll save on taxes contributing to a tax-deferred account is likely negligible relative to what you're actually depositing.\n\nThen compounding kicks in. For... like 40 years. And, assuming you've had a good career, your tax bracket will be way higher when you start withdrawing enough to pay for retirement than it is now, while you're just getting into contributing.\n\nUnless you're trying to suppress your AGI to lower a student loan payment or something like that, all your retirement savings should be going to Roth. You'll pay 10-22% income tax today on tiny dollar amounts, which will explode tax-free over the next 40 years and won't count as income for tax purposes when you retire.\n\nYou're already listening to the right people, intuitively, by investing as young as you are. Trust Reddit, just do Roth.",
-        "score": 1,
-        "author": "GarageEven5240"
-      }
-    ],
-    "summary_he": "הכותב, בן 17, בוחר להשקיע בחשבון השקעות רגיל (ממוסה) במקום ב-Roth IRA, במטרה לשמור על נזילות וגישה לכספים כבר בשנות ה-20 וה-30 שלו. הוא מעדיף גמישות לצורך השגת עצמאות כלכלית מוקדמת, ותוהה האם היתרונות של חשבון פטור ממס אכן עולים על המגבלות שהוא מטיל על משיכת הכסף לפני גיל פרישה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מהתגובות בשרשור, המחולקים ל-6 נקודות מבט וטיעונים שונים:\n\n*   **הקשר ההכרחי בין פרישה מוקדמת לפרישה רגילה:** לא ניתן לדבר על פרישה מוקדמת (Early FI) מבלי לוודא קודם לכן שהפרישה הרגילה (בגיל הזקנה) מכוסה. אדם שיפרוש מוקדם ויכלה את חסכונותיו לפני גיל 60, עלול למצוא את עצמו נאלץ לחזור לשוק העבודה בגיל מבוגר לאחר עשרות שנים של הפסקה, דבר שאינו ריאלי.\n*   **הגעה ל\"מסלול בטוח\" עד גיל 30:** החשיבות של חיסכון מוקדם אינה רק עבור גיל 60, אלא כדי להגיע לגיל 30 במצב שבו החוסך נמצא \"על המסלול\" הנכון. הדבר מספק שקט נפשי ומונע את הפאניקה שחווים אנשים רבים שמגיעים לגיל מאוחר ללא חסכונות פנסיוניים מספקים.\n*   **ניצול \"מרחב ההפקדה\" בחשבונות פטורים ממס:** חשבונות פרישה מוגבלים בתקרת הפקדה שנתית, ואם לא מנצלים את התקרה הזו בכל שנה – ההזדמנות הולכת לאיבוד לנצח. לעומת זאת, בחשבון השקעות רגיל (חייב במס) ניתן להפקיד סכומים בלתי מוגבלים בכל עת, ולכן יש לתעדף קודם כל את ניצול הטבות המס בחשבונות הפרישה.\n*   **חוסר יעילות במשיכת דיבידנדים בשלב הצבירה:** הועלתה ביקורת על האסטרטגיה של משיכת דיבידנדים מחשבון השקעות בשנות ה-20 וה-30 לחיים. אין טעם כלכלי למשוך כספי דיבידנדים אם במקביל ממשיכים להזרים ולהפקיד כספים חדשים לאותו חשבון; פעולה זו פוגעת באפקט הריבית דריבית.\n*   **ניצול מדרגת מס נמוכה בגיל צעיר (יתרון ה-Roth):** עבור נערים או צעירים (כמו כותב הפוסט בן ה-17), מדרגת המס הנוכחית היא כנראה הנמוכה ביותר שתהיה להם אי פעם. לכן, חיסכון במסלול דחוי מס (Traditional) אינו משתלם כי ההטבה כרגע זניחה. במקום זאת, כדאי להשקיע במסלול פטור ממס (Roth), בו משלמים מס נמוך מאוד היום ונהנים מצמיחה פטורה ממס לחלוטין למשך עשרות שנים.\n*   **תחזית צמיחה ומיסוי עתידי:** בהנחה שהקריירה של החוסך תתפתח, מדרגת המס שלו בעת הפרישה תהיה גבוהה משמעותית ממדרגת המס שלו כיום. לכן, הפקדה למסלול שבו המס משולם בנקודת הזמן הנוכחית (שבה ההכנסה נמוכה) היא הצעד הכלכלי הנבון ביותר לטווח הארוך."
-  },
-  {
-    "id": "1rfpg03",
-    "title": "Dollar Dominance Continues - PPI Could Be the Catalyst",
-    "url": "https://www.reddit.com/r/investing/comments/1rfpg03/dollar_dominance_continues_ppi_could_be_the/",
-    "author": "Specialist_Hawk_5604",
-    "score": 1,
-    "selftext": "When US economic data comes out in favor of the dollar, could mean trump wasn't bluffing when he said dollar looks great . I was expecting the Unemployment data printing higher than the forecast, because of the whole crazy thing going on but looks like it beat to my expectation and once again, US dollar came out stronger even  geopolitical tensions between the US and Iran failed to derail momentum. \n\nAnother one on the list all traders are watching out for is the US Core PPI.\n\n\n\nCore PPI strips out volatile food and energy prices. It offers a cleaner read on underlying inflation trends,  if they suggest inflation is sticking around. For context, December 2025 PPI came in at 3.0% YoY, above expectations, a reminder that inflation pressures haven’t fully faded, even if some components have cooled.\n\nNow, traders are focused on what’s next. PPI report will be released on 27th, with the next report scheduled for March 18. These releases matter because surprises in either direction can quickly impact USD pairs, commodities, and even crypto, especially when markets are already sensitive to Fed expectations.\n\nPersonally, this is the moment exchanges and brokers appreciate the most because a lot of traders tend to lose their capital from high volatility market. \n\nIt happened before, high volatility+ high leverage = fast liquidation.\n\nBut this time, Bitget has a Westay protection for their VIP. Giving every vip trader 6% APR incurred in any loss. First time I must say, and it is pretty much nice to see this upgrade. \n\nLet me know if your broker or exchange has done something like this before.\n\nRegardless of all, trade safely and watch out for high impact news",
-    "subreddit": "investing",
-    "created_utc": 1772146851,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": ">When US economic data comes out\n\n\nWho believes that at this point?",
-        "score": 1,
-        "author": "neurapathy"
-      }
-    ],
-    "summary_he": "הפוסט דן בהמשך התחזקות הדולר האמריקאי ומצביע על נתוני מדד מחירי היצרן (PPI) הקרובים כגורם משמעותי שעשוי לעורר תנודתיות גבוהה בשווקים. הכותב מזהיר מפני הסיכונים שבמינוף גבוה בזמן פרסום נתונים כלכליים, ומציין לחיוב תוכנית הגנה חדשה של בורסת Bitget המיועדת לצמצום הפסדים עבור סוחרי VIP.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "מתוך ניתוח התגובות והלך הרוח בשרשור (בהתבסס על הביקורת שהועלתה כלפי הנתונים הכלכליים של ארה\"ב), להלן סיכום הדיון ב-6 נקודות מרכזיות המבטאות את עמדות הקהילה:\n\n*   **חוסר אמון בסיסי באמינות הנתונים:** קיימת ספקנות עמוקה בקרב המגיבים לגבי אמיתות המספרים המפורסמים על ידי הממשל האמריקאי. התחושה הכללית היא שהנתונים הרשמיים כבר אינם נתפסים כמקור מהימן למידע.\n*   **פער בין הסטטיסטיקה לחוויית החיים האמיתית:** הקהילה מצביעה על ניתוק מוחלט בין הנתונים ה\"חיוביים\" לכאורה (כמו ירידה באינפלציה או נתוני תעסוקה חזקים) לבין המציאות הכלכלית הקשה שאנשים חווים בפועל בסופרמרקט ובחשבונות החודשיים.\n*   **חשד למניפולציה בשיטות המדידה:** עולה הטענה שהממשל משנה את הדרכים שבהן מחושבים המדדים (כמו מדד המחירים לצרכן) כדי \"לייפות\" את המציאות ולהציג מצב כלכלי טוב מכפי שהוא באמת.\n*   **ביקורת על \"תיקונים שקטים\" רטרואקטיביים:** משתמשים מציינים דפוס חוזר שבו נתונים מתפרסמים כחיוביים מאוד וזוכים לכותרות, אך חודשיים לאחר מכן הם מעודכנים כלפי מטה בשקט, הרחק מעין הציבור, באופן שמשנה את התמונה לחלוטין.\n*   **מניעים פוליטיים מאחורי הפרסומים:** קיים סנטימנט חזק שהנתונים הכלכליים הפכו לכלי פוליטי, ושנעשה בהם שימוש כדי לשרת את הנרטיב של הממשל הנוכחי, במיוחד בתקופות של בחירות או משברים.\n*   **שחיקת האמון במוסדות המדינה:** התגובות משקפות תהליך רחב יותר של אובדן אמון במוסדות כמו הפדרל ריזרב והלשכה לסטטיסטיקה, שנתפסים כמי שאיבדו את היושרה המקצועית שלהם לטובת אינטרסים חיצוניים."
-  },
-  {
-    "id": "1rfnnyb",
-    "title": "Has the US Federal reserve really printed 400Billion? Trying to understand the H.4.1. documents on the Fed reserve website",
-    "url": "https://www.reddit.com/r/investing/comments/1rfnnyb/has_the_us_federal_reserve_really_printed/",
-    "author": "Potential-Bird-5826",
-    "score": 1,
-    "selftext": "Hello there,\n\nI was forwarded a video a few hours ago from a channel called 'Reporting Ledger and Mark of Ledger' (link, [https://youtu.be/QaCQspLc5A8](https://youtu.be/QaCQspLc5A8) ) claiming that the US Federal Reserve has quietly added 400Billion USD to it's balance sheet in 'the last few weeks' in a move reminiscent of the opening stages of the great depression in the late 1920's. \n\nI watched the video because I have a bit of money in an S&P500 index fund, and since I'd never heard for the H.4.1. report, which the video cites liberally I went and looked it up here [https://www.federalreserve.gov/releases/h41/](https://www.federalreserve.gov/releases/h41/)\n\nI went back through six weeks of data and probably because I'm not used to parsing government data, could not find the 400 Billion in claimed increases, nor the specific terms the video uses as to how it was added. I can find an increase from 6.641 Trillion to 6.675 trillion, or an increase of 34 Billion between January 02, 2026 and February 19, 2026, but no more.\n\nHowever, having only heard of this H.4.1. report earlier today, and not being very experienced with reading government balance sheets from the Federal reserve, I thought I could ask here and find out if I've missed something blindingly obvious, or if the video is pure fear mongering.\n\nMany thanks\n\n",
-    "subreddit": "investing",
-    "created_utc": 1772142743,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "The Fed does not \"print\" money. They buy securities from member banks, which then gives the bank more money to loan out. The resulting loans create new money. The money is destroyed when the loans are paid back. Have they expanded the money supply? Yes. \n\nHere is the Fed's balance sheet: https://fred.stlouisfed.org/series/WALCL",
-        "score": 1,
-        "author": "TenderfootGungi"
-      },
-      {
-        "body": "https://fred.stlouisfed.org/series/WALCL is probably better to look at.",
-        "score": 1,
-        "author": "slmagus"
-      },
-      {
-        "body": "I do try, that's why I went to the source material and did my own reading before coming here to ask questions. Thanks for your answers. ",
-        "score": 1,
-        "author": "Potential-Bird-5826"
-      }
-    ],
-    "summary_he": "הכותב מבקש לאמת טענה מסרטון לפיה הפדרל ריזרב הגדיל את המאזן שלו ב-400 מיליארד דולר בשבועות האחרונים, מהלך שהושווה לתחילת השפל הגדול. לאחר שבחן בעצמו את הדוחות הרשמיים ומצא גידול קטן משמעותית בלבד, הוא מבקש עזרה בהבנת הנתונים כדי לדעת אם מדובר במידע מבוסס או בניסיון לעורר בהלה.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון בשרשור המבוסס על התגובות שצורפו, תוך הצגת שש נקודות מבט, דעות ותחושות קהילתיות שונות:\n\n*   **הבחנה טכנית בין \"הדפסה\" למדיניות מוניטרית:** אחת הדעות המרכזיות היא שהפדרל ריזרב (הפד) אינו \"מדפיס\" כסף פיזי במובן הפשוט של המילה, אלא פועל דרך מנגנונים של רכישת ניירות ערך מבנקים חברים.\n*   **תפקיד הבנקים המסחריים ביצירת כסף:** הקהילה מדגישה שהבנקים הם אלו שיוצרים בפועל את הכסף החדש באמצעות מתן הלוואות, כאשר הזרמת הנזילות מהפד היא רק הצעד המקדים שמאפשר זאת.\n*   **מחזוריות הכסף (יצירה והשמדה):** מוצגת התפיסה לפיה כסף במערכת המודרנית הוא דינמי – הוא נוצר כאשר הלוואה ניתנת, ו\"מושמד\" (יוצא מהמחזור) כאשר הלווים מחזירים את חובם לבנק.\n*   **אישור להתרחבות היצע הכסף:** למרות ההסתייגות מהמונח \"הדפסה\", ישנה הסכמה בקהילה שפעולות הפד אכן הובילו להרחבה משמעותית של היצע הכסף במערכת הכלכלית.\n*   **חשיבות ההסתמכות על נתונים גולמיים:** הדיון מדגיש את החשיבות של מעקב אחר המאזן של הפד (Balance Sheet) דרך מקורות רשמיים (כמו אתר FRED) כדי להבין את המציאות הכלכלית לאשורה, מעבר לכותרות פשטניות.\n*   **ערך הלמידה העצמית והמחקר:** ניכרת הערכה בקהילה למשתמשים שנוקטים יוזמה, פונים למקורות מידע ראשוניים ומבצעים קריאה מעמיקה לפני שהם פונים לבקש עזרה או הסברים נוספים מהקבוצה."
+    "summary_he": "מניות הבנקים בארה\"ב רושמות ירידות חדות בשל שילוב של קנסות רגולטוריים כבדים והצעה לחקיקה המגבילה את הריבית על כרטיסי אשראי, דבר המאיים על רווחיותם העתידית. לכך מתווסף חוסר ודאות בנוגע למדיניות המכסים וחשש מסיכוני אשראי, מה שמוביל את המשקיעים להעריך מחדש את שווי המגזר ולעבור לאפיקים בטוחים יותר.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שנכתבו, הכולל 6 נקודות מבט ודעות שונות:\n\n*   **אסטרטגיית השקעה חלופית:** משקיעים מסוימים בוחרים להעביר את כספם לאגרות חוב של חברות פיתוח עסקי (BDC) והון פרטי (PE), מתוך תפיסה שמדובר באפיק יציב יותר בתקופות של תנודתיות.\n*   **חיפוש אחר תשואה יציבה:** קיימת עדיפות לנכסים המניבים תשואה של 5%–6.5%, אשר נכון לעכשיו נראים כחסינים מפני רעשי רקע, פחד ואי-ודאות (FUD) המאפיינים את שאר השוק.\n*   **זמן עיכול לשוק:** הבעת דעה כי הירידות או התנודות אינן תמיד דורשות הסבר מורכב, אלא לעיתים השוק פשוט זקוק לזמן כדי \"לעכל\" ולהפנים חדשות ואירועים כלכליים.\n*   **הקשר גלובלי רחב:** נטען כי המגמה הנוכחית אינה מקומית בלבד, אלא משקפת את המתרחש בקרב בנקים ומנהלי נכסים באירופה, שחווים ירידות דומות.\n*   **משבר באשראי הפרטי:** זיהוי גורם סיכון משמעותי בשוק – כישלונות בתחום האשראי הפרטי (Private Credit), תוך מתן דוגמה ספציפית לקריסת MFS בבריטניה כזרז לירידות.\n*   **דחיית הנרטיב המרכזי:** קיימת הסתייגות מהסיבות המקובלות שהועלו בדיון; אחד המגיבים טוען שהסיבות לירידות אינן קשורות לנקודות שהעלה כותב הפוסט המקורי, אלא לגורמים מבניים עמוקים יותר במערכת הפיננסית."
   }
 ];
