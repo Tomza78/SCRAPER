@@ -1,328 +1,96 @@
 window.dailyTrends = [
   {
-    "id": "1rox75c",
-    "title": "Saudi Aramco reducing output at two oilfields, two sources say according to Reuters",
-    "url": "https://www.reddit.com/r/investing/comments/1rox75c/saudi_aramco_reducing_output_at_two_oilfields_two/",
-    "author": "Possible-Shoulder940",
-    "score": 561,
-    "selftext": "Saudi oil giant Aramco has begun cutting output at two of ‌its oilfields, two sources said on Monday, after the vital Strait of Hormuz was choked by ⁠the [U.S.-Israeli war](https://www.reuters.com/world/middle-east/khameneis-hardline-son-mojtaba-appointed-irans-new-leader-pope-leo-warns-middle-2026-03-09/) on Iran and subsequent attacks on the waterway.\n\nIt was not immediately clear at which fields and by how much production was being curtailed. Aramco, which ‌has ⁠been rerouting some of its crude cargoes to the Red Sea port of Yanbu, ⁠did not immediately respond to an emailed request for comment.\n\n[https://www.reuters.com/business/energy/saudi-aramco-reducing-output-two-oilfields-two-sources-say-2026-03-09/](https://www.reuters.com/business/energy/saudi-aramco-reducing-output-two-oilfields-two-sources-say-2026-03-09/)",
+    "id": "1rpvzhf",
+    "title": "[Industry Insight] Why we dumped our excess wine onto the bulk market (and spent the cash on a massive solar array). A reality check on winery economics.",
+    "url": "https://www.reddit.com/r/investing/comments/1rpvzhf/industry_insight_why_we_dumped_our_excess_wine/",
+    "author": "Sea-Storm-6378",
+    "score": 156,
+    "selftext": "There’s a lot of talk on this sub about the current global wine glut, vine pull-outs, and struggling regions. As someone who recently took over the management of a heritage premium winery, I want to share what surviving this downturn actually looks like from the inside.\n\nIt’s not as romantic as holding onto your wine and waiting for the market to recover. Sometimes, you have to do the exact opposite of what traditional winemaking ego tells you to do.\n\nHere are two brutal decisions we made this year to keep the lights on and protect our core premium brand:\n\n1. The \"Ghost Asset\" Trap: Why we dumped our own wine\n\nWhen I stepped in, we were sitting on a massive volume of lower-tier, commercial-grade wine from previous vintages. The previous management kept it sitting in giant stainless steel tanks. In winery accounting, this liquid looks great on the Balance Sheet as \"Inventory.\" It makes the company look profitable on paper.\n\nBut here is the physical reality: wine isn't gold. Commercial-grade wine degrades. Worse, keeping tens of thousands of liters of wine stable requires constant glycol chilling. We were paying astronomical monthly electricity bills just to refrigerate wine that nobody was buying.\n\nThe Call: We bypassed the ego. We pumped that liquid out of our tanks and sold it onto the anonymous bulk market for pennies on the dollar to private labels. We took a massive, ugly financial hit on the P&L. But in one move, we freed up our tank space for the upcoming vintage and, most importantly, we stopped the cash bleed. We traded \"vanity inventory\" for \"sanity cash flow.\"\n\n2. Reinvesting in Defense (The 100kW Solar Array)\n\nSo, what did we do with that bulk wine cash? We didn't buy new French oak forests, and we didn't launch a fancy marketing campaign. We spent six figures on a massive 100kW commercial solar system for our winery roof.\n\nTo a lot of old-school owners, spending that kind of CAPEX during an industry crisis seems insane. But if you run a winery, you know that during Vintage (harvest/crush), your power meter spins so fast it could take off. The crushers, presses, and constantly running refrigeration units consume a terrifying amount of energy.\n\nBy taking the hit on the bulk wine and reinvesting that cash into solar, we effectively wiped out a huge chunk of our fixed operational overhead (OPEX) for the next \n\n15 years.\n\nThe Takeaway:\n\nIn this current global wine climate, premium wineries aren't going bankrupt because their top-tier flagship wines aren't good enough. They are going bankrupt because they are suffocating under the holding costs of their mediocre inventory.\n\nProtect your premium old-vine fruit, dump the commercial bulk to free up cash, and ruthlessly cut your fixed overheads.",
     "subreddit": "investing",
-    "created_utc": 1773054225,
+    "created_utc": 1773146855,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "The storage is almost full and if ships don’t come into the Persian gulf there’s no way to get it out.  Once storage is full you have to stop producing because what else will you do with it?",
-        "score": 82,
-        "author": "Blueopus2"
+        "body": "As a person that spent years winery touring and drinking a Great deal of wine and having started GLP-1 drugs of weight loss a year and a half ago-- and at that time had my last taste of wine-- I'll opine that there will be a massive demand destruction as more of the population uses GLP-1 for weight loss and AUD.  Hell, our consumption was always 10 to 15 bottles a week for the last decade.  People using GLP-1 drugs don't have any desire to drink alcohol.  Some may continue, but the enjoyment is greatly diminished.",
+        "score": 33,
+        "author": "ExplanationFuture422"
       },
       {
-        "body": "> Bessent said he was going to push down oil prices by shorting futures.\n\nHonestly that is impressively stupid.",
-        "score": 18,
-        "author": "LongQualityEquities"
+        "body": "Yeah, actually you can search a subreddit for dryzempic and see the comments there.  And there are a number of Alcohol addiction programs that are incorporating GLP-1. It's a real thing. ",
+        "score": 20,
+        "author": "ExplanationFuture422"
       },
       {
-        "body": "A whole lot of market manipulation going on. Bessent said he was going to push down oil prices by shorting futures. Seems risky, but they're going to do whatever they can to try to dampen oil prices so as not to lose their base. Probably won't work and will instead make things worse.",
-        "score": 18,
-        "author": "cafedude"
+        "body": "They’ve been busting since at least 2019, but it is accelerating. ",
+        "score": 13,
+        "author": "atlhart"
       }
     ],
-    "summary_he": "ענקית הנפט הסעודית \"ארמקו\" החלה לצמצם את תפוקת הנפט בשני שדות מרכזיים בעקבות חסימת מצר הורמוז על רקע העימות הצבאי בין ארה\"ב וישראל לאיראן. החברה פועלת לניתוב מחדש של חלק ממטעני הנפט שלה לכיוון הים האדום, וזאת בניסיון לעקוף את נתיבי השיט המותקפים.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המובילות, המציג שש נקודות ודעות מרכזיות:\n\n*   **מצוקת נפח אחסון:** קיימת טענה שמאגרי האחסון של הנפט כמעט מלאים לחלוטין, וכל עוד ספינות אינן נכנסות למפרץ הפרסי כדי להוביל את המלאי, אין דרך לשנע אותו החוצה.\n*   **הכרח להפסקת ייצור:** במידה ומתקני האחסון יתמלאו עד תום, היצרנים ייאלצו להפסיק את הפקת הנפט באופן מוחלט, שכן לא יישאר מקום פיזי לאגור את התוצרת החדשה.\n*   **ביקורת על אסטרטגיית בסנט (Bessent):** התוכנית של סקוט בסנט להוריד את מחירי הנפט באמצעות מכירה בחסר (Short) של חוזים עתידיים נתפסת בעיני חלק מהגולשים כ\"טיפשית באופן מרשים\".\n*   **חשש ממניפולציה בשוק:** בקהילה קיימת תחושה חזקה שמתבצעת מניפולציה בשוק הנפט כדי להשפיע על המחירים באופן מלאכותי.\n*   **מניעים פוליטיים:** הניסיונות להוריד את מחירי הנפט נתפסים כצעד פוליטי נואש שנועד לרצות את בסיס התמיכה של הממשל ולמנוע את עזיבת הבוחרים.\n*   **תחזית להחמרת המצב:** קיימת הערכה כי הניסיונות להתערב במחירים לא רק שייכשלו, אלא עלולים להתברר כמהלך מסוכן שיוביל לתוצאות הפוכות ויחמיר את המצב הכלכלי."
-  },
-  {
-    "id": "1rp2rsl",
-    "title": "Delta Airlines is different then every airline, I think it'll be the best recovery play",
-    "url": "https://www.reddit.com/r/investing/comments/1rp2rsl/delta_airlines_is_different_then_every_airline_i/",
-    "author": "MathTradeMan",
-    "score": 71,
-    "selftext": "Every time oil spikes people just say airlines are bad and move on. And yeah, for most of them that's right. Fuel is 20-25% of operating costs, Brent goes to $100, and the financials get ugly.\n\nBut Delta is a genuinely standout company in the best way and I don't see this discussed.\n\nThey own a refinery. A crude oil refinery in Pennsylvania. When jet fuel prices spike because crude spikes, Delta captures some of that refining margin directly instead of just eating it as a cost. Every other major airline is purely on the wrong side of that trade. Delta is partially on both sides simultaneously.\n\nAnd here's the thing, they did this on purpose after losing $4 billion on fuel derivatives over eight years. Management said hedging is a loser's game long-term and bought a refinery instead. That's a contrarian capital allocation decision that looks really smart right now.\n\nThe balance sheet situation also doesn't get enough attention. They just put up $5B in pre-tax profit in 2025, record free cash flow, and got leverage down to 2.4x. They're entering this oil shock in the best financial shape they've ever been in. That matters a lot when you're trying to figure out who survives a prolonged disruption vs. who just survives.\n\nNow the honest part, they're not immune. Their 2026 guidance was built on $2.28/gallon jet fuel and that number is skewed if Brent stays elevated. The refinery helps, it doesn't eliminate the problem.\n\nBut the recovery thesis isn't really about whether Delta suffers less in the short term. It's that when this eventually resolves, they come out the other side with their balance sheet intact, their competitors weakened, and a refinery asset that literally appreciated during the disruption. The gap between Delta and the rest of the sector widens during shocks like this, and that gap is what you're buying.",
-    "subreddit": "investing",
-    "created_utc": 1773068983,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Can't take an analysis seriously from someone who can't use \"than\" vs \"then\" properly.",
-        "score": 168,
-        "author": "MysticHLE"
-      },
-      {
-        "body": "That's a plus in the day of LLMs tbh",
-        "score": 87,
-        "author": "Jmc_da_boss"
-      },
-      {
-        "body": "That's a solid thesis and I respect the contrarian angle, but owning that refinery only hedges Delta so much. When crude spikes hard, yeah they capture some margin, but jet fuel still tracks crude pretty closely overall - the refining spread doesn't always move in their favor.\n\nThe bigger issue is demand destruction. When oil gets expensive, people fly less. that hits revenue way harder than fuel costs hit margins. Southwest and American know this too, which is why they all hedge differently. Delta's refinery is clever but it's not the moat people think it is once you zoom out to the macro picture.",
-        "score": 35,
-        "author": "Concept211"
-      }
-    ],
-    "summary_he": "דלתא איירליינס בולטת בשוק התעופה בזכות בעלותה הייחודית על בית זיקוק, המאפשר לה לצמצם הפסדים מעליית מחירי הדלק ולייצר יתרון תחרותי על פני מתחרותיה. השילוב בין יתרון מבני זה למאזן פיננסי חזק במיוחד מציב אותה כהשקעה המועדפת להתאוששות וצמיחה ארוכת טווח בענף.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המובילות בשרשור, המציג שש נקודות מבט ותובנות שונות שעלו מהקהילה:\n\n*   **ספקנות בשל רמת הכתיבה:** אחד המגיבים הביע חוסר אמון בניתוח הכלכלי המוצג, בטענה שקשה לקחת ברצינות אדם שלא מבדיל בין מונחי יסוד בדקדוק (כמו \"than\" לעומת \"then\"). מבחינתו, שגיאות כאלו פוגעות באמינות המקצועית של הכותב.\n*   **שגיאות כסימן לאותנטיות בעידן ה-AI:** מנגד, עלתה הטענה שדווקא טעויות דקדוק אנושיות מהוות כיום \"תו איכות\" מסוים. בעידן של מודלי שפה גדולים (LLMs) שמייצרים טקסטים מלוטשים, טעויות כאלו מוכיחות שהתוכן נכתב על ידי אדם אמיתי ולא על ידי בינה מלאכותית.\n*   **מגבלות הגידור של בתי הזיקוק:** למרות שהאסטרטגיה של דלתא (Delta) להחזיק בבית זיקוק משלה היא מעניינת, נטען כי מדובר בגידור מוגבל בלבד. כאשר מחירי הנפט הגולמי מזנקים, מחיר הדלק למטוסים נוטה לעלות בצורה מקבילה, והרווח מהזיקוק עצמו לא תמיד מצליח לפצות על העלייה בעלויות התפעול.\n*   **החשש מ\"השמדת ביקוש\" (Demand Destruction):** נקודה מרכזית בדיון היא שעליית מחירי הנפט פוגעת בחברות התעופה במישור רחב יותר מעלויות הדלק; מחירים גבוהים מובילים לירידה בכמות הנוסעים, מה שפוגע בהכנסות בצורה קשה יותר מאשר השחיקה ברווח הגולמי בגלל מחיר הדלק.\n*   **השוואה בין אסטרטגיות בתעשייה:** הדיון מציין שחברות שונות (כמו Southwest ו-American Airlines) בוחרות בשיטות גידור שונות להתמודדות עם תנודתיות מחירי האנרגיה, מה שמראה שאין קונצנזוס בתעשייה לגבי הדרך הנכונה ביותר לנהל את הסיכון הזה.\n*   **ערעור על \"החפיר הכלכלי\" (Economic Moat):** המגיבים טוענים שבעוד שהמהלך של דלתא נראה חכם במבט ראשון, בראייה מאקרו-כלכלית רחבה, בית הזיקוק אינו מהווה יתרון תחרותי חזק או בלתי חדיר (\"Moat\") כפי שחלק מהמשקיעים נוטים לחשוב."
-  },
-  {
-    "id": "1roziym",
-    "title": "Oil and gas",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1roziym/oil_and_gas/",
-    "author": "oranges1965",
-    "score": 23,
-    "selftext": "This could be a very naive comment,but from what I have read The USA is a net exporter of fossil fuels . The America's would be fairly self sufficient. Europe has transitioned from Russian fuels to a combination of American, Norwegian and North Sea oil.\nSurely all the exporters and importers have long term contracts .I can't seem to understand how a conflict not even two weeks old can cause so much mayhem.\nThe current conflict in Iran is holding up 20% of the worlds oil the majority which is heading east .Russian oil is looking for a home . Maybe someone can give me a simple explanation.",
-    "subreddit": "StockMarket",
-    "created_utc": 1773061176,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "basic supply and demand, if you reduce the supply and the demand stays the same the cost of what's left goes up for everyone.",
-        "score": 38,
-        "author": "Flimsy-Ad-8660"
-      },
-      {
-        "body": "The jump in oil price is a reaction to the situation, not an actual effect of it. The gas we are using right now was probably refined prior to this war.",
-        "score": 23,
-        "author": "bodhidharma132001"
-      },
-      {
-        "body": "The price of oil is set at a global level, so even if the US has plenty it is costing more.  If the US won't pay the global price the oil would be exported to someone who will absent any sort of export restrictions.  ",
-        "score": 18,
-        "author": "No_Hovercraft_821"
-      }
-    ],
-    "summary_he": "הפוסט מעלה תהייה מדוע קונפליקט קצר מועד גורם לשיבושים כה קשים בשוק הנפט העולמי, למרות שארה\"ב מספקת לעצמה את צרכיה ואירופה כבר מצאה חלופות לדלק הרוסי. הכותב מבקש הסבר לתנודתיות הרבה בשוק, במיוחד לאור קיומם של חוזים לטווח ארוך והעובדה שמרבית הנפט שמושפע מהמתיחות באזור איראן מיועד למזרח.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וטיעונים שונים בנוגע לעליית מחירי הנפט:\n\n*   **עקרון ההיצע והביקוש:** הטיעון הבסיסי ביותר הוא שוק חופשי – כאשר ההיצע מצטמצם אך הביקוש נותר ללא שינוי, המחיר של המשאבים שנותרו בשוק עולה בהכרח עבור כולם.\n*   **תגובה רגשית/פסיכולוגית של השוק:** העלייה במחיר הנפט נתפסת כתגובה מיידית של השוק למצב (ספקולציה), ולאו דווקא כתוצאה פיזית ישירה של מחסור בפועל ברגע נתון זה.\n*   **פער זמנים בייצור (Refining Lag):** מצוין כי הדלק שנמצא כעת בשימוש בתחנות זוקק ככל הנראה עוד לפני פרוץ המלחמה, מה שמחזק את הטענה שהמחיר הנוכחי אינו משקף עלויות ייצור עכשוויות אלא ציפיות עתידיות.\n*   **קביעת מחירים גלובלית:** מחירי הנפט נקבעים בבורסות העולמיות. בשל כך, גם מדינה שיש לה עתודות נפט עצמאיות גדולות (כמו ארה\"ב) תושפע מהתייקרות המחירים, שכן הנפט הוא סחורה גלובלית.\n*   **דינמיקת הייצוא:** ללא הגבלות ממשלתיות על ייצוא, חברות הנפט יעדיפו למכור את המשאבים שלהן למי שמוכן לשלם את המחיר העולמי הגבוה ביותר. אם השוק המקומי לא ישווה את המחיר למחיר הגלובלי, הנפט פשוט ייוצא למדינות אחרות.\n*   **השפעת המחסור על הכלל:** מודגש כי צמצום בהיצע אינו פוגע רק באזורי הקונפליקט, אלא מייקר את העלות עבור כלל הצרכנים בעולם בשל התחרות על המשאב המוגבל."
-  },
-  {
-    "id": "1rp1a0m",
-    "title": "Recent market impacts for new investors",
-    "url": "https://www.reddit.com/r/investing/comments/1rp1a0m/recent_market_impacts_for_new_investors/",
-    "author": "Beautiful_Gas_1214",
-    "score": 22,
-    "selftext": "Recent market impacts for new investors\n\n​Hey everyone, I’m a relatively new investor (about 3 years in) with most of my money in a Roth IRA and some CDs. My Roth is a 60/40 split of domestic and international total market funds, which seemed like a solid, boring plan until the recent world events started tanking everything.\n\n​I know this is probably just a temporary dip, but things are definitely starting to get to me. I feel like I put my most recent contributions in right at the top of the market and then immediately watched them go into the red. It's one thing to hear \"stay the course,\" but it's another thing entirely to see your total balance drop below what you actually put in.\n\n​I was just curious what most people in my shoes would do here. Is the consensus really just to keep the blinders on and keep contributing like nothing is happening, or is there a point where you actually start to worry about the allocation itself? Just trying to figure out if this \"buy and hold\" mental test is something everyone goes through or if I'm just exceptionally bad at timing my entries. \n\nDo I just uninstall my investment app and ignore?\n\nThanks in advance!",
-    "subreddit": "investing",
-    "created_utc": 1773065528,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Assuming you’re decades from retirement, just stop looking. If it’s causing you that much stress despite logically understanding how it isn’t actually an issue consider therapy (and I don’t mean that at all derisively) ",
-        "score": 26,
-        "author": "leaning_on_a_wheel"
-      },
-      {
-        "body": "Historically after every market crash, shortly after - New all time highs were reached. \n\nRight now, market volatility is largely driven by geopolitical tensions, which tend to ease over time. So while we may see dips, history suggests similar recoveries will follow.\n\nDuring COVID everyone’s portfolios were in the RED than shortly after markets rebounded. It’s a normal cycle. As long as you can keep your emotional composure level through-out the journey, and continue to buy-in - You’ll come out ahead in due time. ",
-        "score": 14,
-        "author": "kevdaonly_"
-      },
-      {
-        "body": "In my finance class in college they did an example of someone who only invested at the peaks before crashes and over 30 years they still made like 750,000. Or more I forget. You just have to trust the market and sit and watch. Or close your eyes (delete the apps)",
-        "score": 9,
-        "author": "LOGAN6000"
-      }
-    ],
-    "summary_he": "משקיע חדש יחסית משתף בחששותיו בעקבות ירידות השערים האחרונות בשוק, שגרמו לתיק ההשקעות שלו להציג הפסדים וערערו את ביטחונו באסטרטגיה שבחר. הוא מתלבט האם עליו להמשיך לדבוק בגישת \"קנה והחזק\" ולהתעלם מהתנודתיות, או שמא המצב הנוכחי מצריך בחינה מחדש של תמהיל הנכסים שלו.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות המובילות ב-Reddit, המציג שש נקודות מבט ודעות מרכזיות בקהילה:\n\n*   **פרספקטיבה של זמן:** עבור משקיעים שמועד הפרישה שלהם רחוק (עשרות שנים מהיום), התנודות הנוכחיות בשוק אינן רלוונטיות. ההמלצה החד-משמעית היא פשוט להפסיק להסתכל על מצב התיק בטווח הקצר.\n*   **התייחסות לבריאות הנפש:** אם הלחץ מהמצב הכלכלי גורם למצוקה רגשית משמעותית, למרות שהמשקיע מבין באופן לוגי שהשוק יתקן את עצמו, כדאי לשקול פנייה לטיפול רגשי (תרפיה) כדי להתמודד עם החרדה.\n*   **הסתמכות על ההיסטוריה:** השוק נע במחזורים. היסטורית, אחרי כל קריסה הגיעו שיאים חדשים. התגובות מזכירות את משבר הקורונה כדוגמה קרובה למצב שבו תיקי ההשקעות נצבעו באדום, אך השוק התאושש במהירות זמן קצר לאחר מכן.\n*   **גורמים זמניים לתנודתיות:** התנודתיות הנוכחית מיוחסת במידה רבה למתחים גיאופוליטיים. הטענה היא שמתחים כאלו נוטים להתפוגג עם הזמן, ולכן מדובר בירידות זמניות שהן חלק ממחזור טבעי ולא בהכרח בשינוי מגמה ארוך טווח.\n*   **מודל \"המשקיע הגרוע ביותר\":** מובאת דוגמה אקדמית המראה שגם אדם שהשקיע את כספו רק בנקודות השיא (ממש לפני קריסות) לאורך 30 שנה, עדיין יסיים עם רווחים משמעותיים מאוד. המסקנה היא שהתמדה בשוק חשובה יותר מתזמון השוק.\n*   **אסטרטגיית התנהגות מעשית:** כדי לשמור על קור רוח ולצאת מורווחים בטווח הארוך, מומלץ להמשיך להפקיד כספים (\"Buy-in\") גם כשהשוק יורד, ובמידת הצורך למחוק את האפליקציות של חברות ההשקעה מהטלפון כדי להימנע ממעקב אובססיבי ומפעולות מונעות פחד."
-  },
-  {
-    "id": "1rp91io",
-    "title": "VCX launch tomorrow - estimating value of VC vs retail investment at +13%",
-    "url": "https://www.reddit.com/r/investing/comments/1rp91io/vcx_launch_tomorrow_estimating_value_of_vc_vs/",
-    "author": "mayorofdunkins",
-    "score": 15,
-    "selftext": "Here’s why Fundrise VCX may trade at a significant premium: it lets you lock in exposure before another round or two of dilution plus IPO issuance hits the cap table. \n\nFundrise’s VCX page shows a $542.4 million NAV as of February 15, 2026, with top holdings including Anthropic (20.7%), Databricks (17.7%), OpenAI (9.9%), Anduril (6.9%), Ramp (5.1%), and SpaceX (5.0%).\n\nBut not all AI is created equal. VCX lets you buy a much earlier stake, which is inherently more valuable most of the time. \n\nVCX holders own today’s private-company slice; IPO-only investors usually show up after more dilution. Recent Carta data says median dilution on private rounds has fallen to roughly 16% overall, with Series B at 12.9% in 2025, while IPOs are typically primary offerings and companies also commonly enter IPOs with meaningful additional equity dilution from employee share pools.\n\nI wondered HOW MUCH more valuable early access is. My projection is +13.1% benefit to the investor. \n\nFundrise’s published portfolio weights and current fund NAV allow us to estimate the current dollar value of VCX’s stake in each holding. Then I apply a company-by-company dilution estimate for the period between now and a plausible IPO. Those dilution estimates are judgement calls executed by an AI-drive analysis. They’re anchored to market baselines, plus each company’s maturity and capital intensity. This is not a forecast of stock prices; it’s an ownership math exercise.\n\nIf VCX’s current Anthropic exposure is worth about $112.3M on a look-through basis today, and Anthropic goes through roughly 18% more dilution before / at IPO, an IPO-only buyer is effectively accessing a cap table where the equivalent slice has been watered down to about $92.1M of today’s ownership basis. VCX has already captured about $20.2M of pre-IPO ownership head-start on Anthropic alone.\n\nSumming it all up we see a 13.1% gap. \n\nIf private marks are too high then you can absolutely still lose money even if the dilution logic is directionally right. But as a framing device for why VCX could rationally trade well above NAV, I think this is one of the strongest ones.\n\nVCX is potentially a way to own pre-IPO cap-table equity that public investors will only get to access later, after more of it has been carved up.\n\nAnalogy: VCX is not just a bet on private tech. It may be a bet on getting to the buffet before the line forms and before somebody cuts every slice smaller.\n\nAm I missing something here, or is that actually a pretty decent reason for this thing to launch with a real premium?",
-    "subreddit": "investing",
-    "created_utc": 1773082360,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "It's unlocking the ability to punt on high demand private market shares through perceived NAV premium/discount. Anyone participating should probably treat this like a HODL / YOLO trade where the price doesn't really reflect underlying fundamentals.... ",
-        "score": 1,
-        "author": "Legitimate-Pickle752"
-      },
-      {
-        "body": "FYI - VCX IPO is postponed with a date to be announced:\n\n[https://www.nyse.com/trade/corporate-actions#:\\~:text=VCX,2026%2D04%2D07](https://www.nyse.com/trade/corporate-actions#:~:text=VCX,2026%2D04%2D07) ",
-        "score": 1,
-        "author": "StreetDrive5584"
-      },
-      {
-        "body": "Did you? Because I checked the top five comments other than this one and three of the five were accounts made within the last month.",
-        "score": 1,
-        "author": "Extras"
-      }
-    ],
-    "summary_he": "הפוסט מנתח את השקת קרן VCX של Fundrise, הכוללת אחזקות בחברות מובילות כמו OpenAI ו-Anthropic, ומסביר מדוע היא עשויה להיסחר בפרמיה משמעותית מעל שווי הנכסים שלה. הכותב מעריך כי השקעה בקרן מעניקה יתרון של כ-13% על פני המתנה להנפקה (IPO), כיוון שהיא מאפשרת למשקיעים לקבע את אחוז הבעלות שלהם לפני דילולים עתידיים. בשורה התחתונה, הקרן מוצגת כהזדמנות \"לתפוס מקום ליד השולחן\" לפני שהמניות ידוללו בסבבי גיוס נוספים ובהנפקה לציבור.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות בשרשור ה-Reddit, המציג 6 נקודות מבט ותחושות קהילתיות שונות:\n\n*   **גישה לשוק הפרטי:** המכשיר הפיננסי המדובר נתפס ככלי שפותח אפשרות עבור משקיעים רגילים להמר על מניות בשוק הפרטי שיש להן ביקוש גבוה, גישה שעד כה הייתה מוגבלת במידה רבה.\n*   **התנתקות מהערך היסודי:** קיימת אזהרה כי מחיר המניה אינו משקף בהכרח את הערך הכלכלי האמיתי של הנכסים (Fundamentals), אלא נשען על תפיסת השוק לגבי הפרמיה או הדיסקוונט ביחס לשווי הנכסי הנקי (NAV).\n*   **אופי השקעה ספקולטיבי (\"YOLO\"):** הקהילה מגדירה את ההשתתפות במיזם הזה כהימור בסיכון גבוה מאוד. הגישה הרווחת היא שיש להתייחס לכך כאל עסקת \"HODL\" (להחזיק לטווח ארוך למרות התנודתיות) או \"YOLO\", ולא כהשקעה סולידית.\n*   **עיכוב משמעותי בהנפקה:** הועבר מידע רשמי על כך שההנפקה (IPO) של VCX נדחתה. על פי הנתונים מאתר הבורסה של ניו יורק (NYSE), נראה כי תאריך היעד עודכן לאפריל 2026.\n*   **חשד למניפולציה בפורום:** עלה חשד כבד לגבי אמינות השיח בשרשור. אחד המגיבים ציין כי בדיקה של התגובות המובילות מעלה שרובן נכתבו על ידי חשבונות חדשים מאוד (בני פחות מחודש), מה שמרמז על ניסיון להטות את דעת הקהל באופן מלאכותי.\n*   **ספקנות וזהירות:** לצד ההתלהבות מהאפשרות להשקיע בנכסים פרטיים, קיימת נימה חזקה של ספקנות בקהילה, הן לגבי המבנה הפיננסי של הכלי והן לגבי ה\"הייפ\" שנוצר סביבו בפורומים."
-  },
-  {
-    "id": "1rovyvs",
-    "title": "Oil just spiked above $100 this weekend. That alone could move the entire market this week",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1rovyvs/oil_just_spiked_above_100_this_weekend_that_alone/",
-    "author": "PineapplePooDog",
-    "score": 7,
-    "selftext": "One of the biggest developments over the weekend was the surge in oil prices tied to the escalating conflict involving Iran.\n\nBrent crude jumped sharply and briefly traded above $105, while US crude moved above $100 per barrel. In some sessions prices even approached $119, the highest levels since 2022.\n\nThe key issue is the Strait of Hormuz. About 20 percent of the world's oil normally passes through that shipping route, and disruptions there can quickly reduce global supply.\n\nMarkets reacted almost immediately:\n\n* Japan's Nikkei dropped about 7 percent\n* South Korea fell more than 8 percent\n* Global stock futures turned lower\n\nThose moves were driven mainly by fears that higher oil prices will push inflation back up.\n\nHigher energy costs tend to affect several sectors:\n\nEnergy companies  \n\\- Often benefit from higher oil prices.\n\nAirlines and transportation  \n\\- Face higher fuel costs.\n\nConsumer stocks  \n\\- May suffer if households spend more on energy.\n\nTech stocks  \n\\- Often fall when inflation expectations push interest rates higher.\n\nThe interesting part is that markets are not reacting to the war itself as much as the **economic consequences of energy prices**.\n\nIf oil stabilizes near $100, markets might adjust. If it pushes toward $120 or higher, the inflation story could become much bigger.\n\nDo you think the oil spike is temporary, or could energy become the main driver of markets this month?\n\nNFA.",
-    "subreddit": "StockMarket",
-    "created_utc": 1773050023,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Dude, this energy situation is gonna be the pivot point for tech stocks for sure. Higher oil means inflation pressure, which tanks growth plays. Interesting how geopolitics directly translates to portfolio risk now.",
-        "score": 14,
-        "author": "Rude-Substance-3686"
-      },
-      {
-        "body": "We are fucked. Iran is prepared (and rightfully so) to make oil $200",
-        "score": 12,
-        "author": "wiidsmoker"
-      },
-      {
-        "body": "You are a small thinker.  Iran is outplaying trump right now and it’s not even close.  Iran, by closing the straight, can outlive trumps rapidly declining political capital.  There is a reason why nobody has attacked Iran from the West in recent memory.",
-        "score": 8,
-        "author": "subbyterp"
-      }
-    ],
-    "summary_he": "מחירי הנפט זינקו מעל 100 דולר לחבית בעקבות המתיחות הביטחונית עם איראן, מה שעורר חשש כבד לשיבושים באספקת האנרגיה העולמית דרך מצר הורמוז. הזינוק הוביל לירידות שערים חדות בשווקים הגלובליים בשל החשש מאינפלציה מחודשת, שעלולה להכביד על מגזרי הטכנולוגיה והתחבורה ולהשפיע על החלטות הריבית בקרוב.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ותחושות קהילה שונות כפי שעלו מהתגובות:\n\n* **ההשפעה על סקטור הטכנולוגיה:** קיים חשש שהמצב האנרגטי הנוכחי יהווה נקודת מפנה שלילית עבור מניות הטכנולוגיה, שכן עליית מחירי הנפט מייצרת לחצי אינפלציה שפוגעים במניות צמיחה.\n* **הקשר בין גיאופוליטיקה לתיק ההשקעות:** הקהילה מציינת כי אירועים גיאופוליטיים מתרגמים כיום באופן ישיר ומהיר לסיכונים ממשיים בתיקי ההשקעות האישיים, מה שהופך את השוק לתנודתי ומסוכן יותר.\n* **תחזיות פסימיות למחירי הנפט:** מושמעת טענה שאיראן ערוכה ומוכנה להביא את מחיר הנפט ל-200 דולר לחבית, תרחיש שנתפס כבעל השלכות הרסניות על הכלכלה העולמית.\n* **עליונות אסטרטגית איראנית:** קיימת דעה שאיראן מצליחה \"להערים\" על ממשל טראמפ במישור הטקטי והאסטרטגי, וכי היא מנהלת את העימות בצורה חכמה יותר מארה\"ב.\n* **חסימת מצרי הורמוז כקלף מיקוח:** המגיבים מדגישים את היכולת של איראן לחסום את נתיבי השיט במצרי הורמוז ככלי שיאפשר לה \"לשרוד\" פוליטית מעבר לכהונת טראמפ, תוך ניצול השחיקה בהון הפוליטי שלו.\n* **הכרה בכוח ההרתעה של איראן:** עולה התובנה כי ישנה סיבה אסטרטגית עמוקה לכך שהמערב נמנע מתקיפה צבאית ישירה נגד איראן בעבר הקרוב, מה שמעיד על הערכה (או חשש) מהחוסן והיכולות של המשטר האיראני."
-  },
-  {
-    "id": "1rp5tj8",
-    "title": "I compared the actual filings of two companies in the same industry and the difference in quality was wild",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1rp5tj8/i_compared_the_actual_filings_of_two_companies_in/",
-    "author": "Complex_Aardvark_661",
-    "score": 3,
-    "selftext": "Decided to do a head to head comparison between two companies that look almost identical on a screener. Same industry, similar market cap, similar revenue growth. On the surface you'd think it doesn't matter which one you pick.\n\nBut when I went into the 10-K filings the gap was massive. One company had gross margins expanding every year for the past 5 years while the other was flat or declining. One had customers locked in with multi-year contracts and high switching costs, the other was basically competing on price every quarter.\n\nThe management discussion sections were telling too. Company A talked about reinvesting in R&D and expanding their installed base. Company B spent most of the section explaining why margins contracted and blaming macro conditions. When management is making excuses in the filing, that tells you something.\n\nI think the biggest lesson for me was that sector ETFs and screener metrics hide these differences completely. Two companies can have the same P/E and the same revenue growth but completely different competitive positions. One is a compounder and the other is a value trap waiting to happen.\n\nDo you guys actually read filings when picking stocks or mostly rely on screeners and analyst ratings? genuinely curious because the filing is where I keep finding stuff that changes my mind",
-    "subreddit": "StockMarket",
-    "created_utc": 1773075639,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "A: Agilent technologies\nB: Barrick mining corporation\n\nThese aren’t even in the same sector. No wonder they are different. \n",
-        "score": 4,
-        "author": "MrUsername0"
-      },
-      {
-        "body": "Where did OP post the companies? I don't see a comment.",
-        "score": 1,
-        "author": "VoraciousChallenge"
-      },
-      {
-        "body": "Screeners are good for narrowing the field, but the filings are usually where the real differences show up.\n\nSimple example, two companies can have the same revenue growth and P/E, but when you read the filing you might see one expanding margins and the other barely holding them. That usually means one has some pricing power or a moat, while the other is fighting competition every quarter.\n\nI also look at the management discussion section for the same reason you mentioned. If leadership spends a lot of time explaining why things went wrong instead of how the business is improving, that can be a signal.\n\nReality check though, filings are still management’s version of the story, so you have to cross check the numbers and trends over multiple years. A single good or bad year can look very different once you zoom out.\n\nCurious, was the margin gap coming from operating leverage or just better gross margins from the start?",
-        "score": 1,
-        "author": "Intelligent-Mess71"
-      }
-    ],
-    "summary_he": "הפוסט מדגיש את החשיבות של קריאת דוחות כספיים (10-K) לעומת הסתמכות על מסנני מניות שטחיים, דרך השוואה בין שתי חברות שנראו זהות במדדיהן היבשים. הכותב גילה שאחת החברות נהנית מיתרון תחרותי וצמיחה בשולי הרווח, בעוד השנייה התגלתה כ\"מלכודת ערך\" עם הנהלה שמרבה בתירוצים על ביצועים חלשים. המסקנה היא שמדדים כמו מכפיל רווח או צמיחה בהכנסות עלולים להסתיר הבדלים תהומיים באיכות העסקית של חברות באותו ענף.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בשרשור המבוסס על התגובות שנכתבו, הכולל 6 נקודות מבט ודעות מרכזיות:\n\n*   **חוסר רלוונטיות בהשוואה בין סקטורים שונים:** אחת הטענות המרכזיות היא שאין טעם להשוות בין חברות הפועלות בענפים שונים לחלוטין (כמו טכנולוגיה מול כרייה), שכן המודלים העסקיים והמדדים הפיננסיים שלהן שונים מעצם טבעם.\n*   **מגבלות סורקי המניות (Screeners):** קהילת המגיבים מציינת שסורקי מניות הם כלי יעיל לצמצום רשימת חברות פוטנציאליות, אך הם מהווים רק את הצעד הראשון ואינם מספיקים לקבלת החלטת השקעה מושכלת.\n*   **החשיבות המכרעת של הדו\"חות הרשמיים (Filings):** המידע המהותי וההבדלים האמיתיים בין חברות נחשפים רק בקריאת הדו\"חות הכספיים המלאים, ולא בנתונים היבשים שמוצגים באתרי הפיננסים.\n*   **שולי רווח כאינדיקטור לחוסן תחרותי:** ניתן ללמוד רבות על עוצמת החברה דרך בחינת שולי הרווח שלה. התרחבות של שולי הרווח מעידה לרוב על \"חפיר כלכלי\" (Moat) או כוח תמחור מול לקוחות, בעוד שולי רווח דחוקים מעידים על מאבק יומיומי בתחרות קשה.\n*   **ניתוח איכות ההנהלה דרך שיח (MD&A):** קיים דגש על בחינת סעיף \"דיוני ההנהלה\" בדו\"חות. מגיבים מציינים שיש לשים לב אם ההנהלה נוטה להאשים גורמים חיצוניים בכישלונות או מתמקדת באסטרטגיות לשיפור וצמיחה – דבר המשמש כסימן (Signal) לאיכות הניהול.\n*   **הצורך בהצלבת נתונים רב-שנתית:** הקהילה מזהירה שדו\"חות הם הגרסה של ההנהלה למציאות. לכן, יש לבחון מגמות לאורך מספר שנים ולא להסתמך על שנה בודדת (טובה או רעה), כדי לקבל תמונה אמיתית ומדויקת של מצב העסק."
-  },
-  {
-    "id": "1rox6sq",
-    "title": "Travel stocks might be under pressure this week after oil jumped above $100",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1rox6sq/travel_stocks_might_be_under_pressure_this_week/",
-    "author": "IsabellaHughes527",
-    "score": 3,
-    "selftext": "One group of stocks that could feel pressure this week is the travel sector.\n\nAfter the escalation in the Middle East, oil prices surged and briefly approached $120 per barrel before settling near $100. Higher fuel prices directly impact airline and cruise company costs.\n\nWe already saw the first reaction in futures trading.\n\nSome travel stocks that moved lower include:\n\n* Alaska Air down about 4 percent\n* Carnival down about 3 percent\n* Major airlines like Delta, United, and American falling roughly 2.6 to 3.1 percent in early trading.\n\nFuel is one of the largest operating costs for airlines and cruise operators. When oil spikes quickly, profit margins can shrink unless companies raise prices.\n\nIf oil stays near $100 for several weeks, investors may continue rotating out of travel stocks and into sectors that benefit from higher energy prices.\n\nIt will be interesting to see whether this is a short term reaction or the start of a larger sector rotation.\n\nDo you think travel stocks bounce quickly after the initial shock, or could they stay under pressure if oil remains elevated?\n\nNFA.",
-    "subreddit": "StockMarket",
-    "created_utc": 1773054193,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Now… I booked the flight I was looking at Friday. Prices are going to go up with oil and gas prices going up",
-        "score": 3,
-        "author": "EmotionalBag777"
-      },
-      {
-        "body": "$TRIP – Why a Starboard win could quickly change the stock price \n\nOne underrated catalyst for Tripadvisor is the activist campaign of Starboard Value, which owns \\~9% of the company….and they are still buying more.\n\nIn most proxy battles, activists don’t need 50% of the company. Since many small investors and passive funds don’t vote or listen to ISS or Glass Lewis, \\~35–40% of the vote is often enough to win a board seat.\n\nThis makes the math interesting and one of the very interesting stories we’ll see unfold very soon…\n\nLarge passive holders like BlackRock, Vanguard, and State Street collectively own around 30%+ of the stock and often support management changes when results are weak. If Starboard secures the support of several active institutions in addition to its own \\~9% stake, reaching the required voting threshold is realistic.\n\nHere’s why a Starboard win is a very likely scenario:\n\n1. The company has been underperforming its peers for years\n\n2. The valuation discount is extreme\n\n3. Passive funds often side with activists in these situations.\n\n\n\nIf Starboard gains board influence, the market will likely quickly begin pricing in strategic alternatives: spinning off Viator, selling TheFork, or selling the company outright. All options will shake up TRIP’s price\n\nThe potential buyers are obvious given the industry dynamics BKNG, ABNB, EXPE…you name it!\n\nAll three are aggressively investing in tours and activities, and Viator is already one of the largest global experience marketplaces with tens of thousands of contracted experiences and partners.\n\nEven with very conservative assumptions, the valuation gap looks large:\n\nViator: \\~$200m EBITDA × 15×= \\~$3bn\n\nTheFork: \\~$65m EBITDA × 10×  =\\~$650m\n\nTripadvisor Core: \\~$250m EBITDA × 4×  =\\~$1bn\n\nThis implies a conservative SOTP of around $4.5–5bn.\n\nWith approximately \\~118 million shares outstanding, this translates to around $38–42 per share, compared to the current stock price of \\~$10–12. Given that the company is currently trading at a market cap of around $1.3 billion, the stock seems to factor in a lot of pessimism about the underlying business while giving Viator little credit.\n\n\n\n",
-        "score": 1,
-        "author": "nickdu2206"
-      },
-      {
-        "body": "Wouldn’t that make what’s happening in the market with airline stocks an overreaction?",
-        "score": 1,
-        "author": "InvestInTwinkies"
-      }
-    ],
-    "summary_he": "עליית מחירי הנפט בעקבות ההסלמה במזרח התיכון מעיקה על מניות מגזר הנסיעות והתעופה, בשל הזינוק בעלויות הדלק שפוגע ישירות ברווחיות החברות. מניות של חברות בולטות כמו דלתא וקרניבל כבר רשמו ירידות, וקיים חשש שאם מחירי הנפט יישארו גבוהים, המשקיעים יעבירו את כספם ממגזר זה לחברות אנרגיה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מתוך התגובות בשרשור:\n\n*   **ציפייה לעליית מחירי הטיסות:** קיימת הערכה בקרב משתמשים כי מחירי הטיסות צפויים לעלות בקרוב באופן משמעותי, זאת כתוצאה ישירה מהתייקרות מחירי הנפט והגז בעולם. דבר זה מוביל צרכנים להקדים את רכישת כרטיסי הטיסה שלהם.\n*   **הזדמנות באקטיביזם של מניית Tripadvisor ($TRIP):** קיימת סברה כי כניסתה של קרן האקטיביסטים Starboard Value (המחזיקה בכ-9% מהחברה) עשויה להוות קטליזטור משמעותי לשינוי במחיר המניה. האקטיביסטים שואפים להשיג מושב במועצת המנהלים כדי להוביל לשינויים אסטרטגיים.\n*   **תמיכה אפשרית של גופים מוסדיים בשינוי:** מחזיקי מניות גדולים ופאסיביים (כמו BlackRock ו-Vanguard) נוטים לעיתים קרובות לתמוך בשינויי הנהלה כאשר ביצועי החברה חלשים. לאור ביצועי החסר של טריפאדוויזור לעומת מתחרותיה, גוברת הסבירות ששינוי כזה יזכה לרוב הדרוש.\n*   **הערכת חסר קיצונית של נכסי החברה:** ניתוח מעמיק של חלקי החברה השונים (SOTP) מראה פער עצום בין שווי השוק הנוכחי לבין הפוטנציאל הכלכלי. בעוד המניה נסחרת סביב 10-12 דולר, שקלול השווי של Viator, TheFork וליבת העסק מעלה שווי מוערך של 38-42 דולר למניה.\n*   **פוטנציאל לפיצול או מכירה:** במידה ו-Starboard ישיגו השפעה, השוק עשוי לתמחר במהירות מהלכים אסטרטגיים כמו פיצול של פלטפורמת Viator, מכירת TheFork או מכירה של החברה כולה לענקיות כמו Booking.com, Airbnb או Expedia, שמחפשות להתרחב בתחום הסיורים והחוויות.\n*   **תהייה לגבי תגובת יתר של השוק:** בקהילה עולה השאלה האם הירידות והתנודתיות במניות חברות התעופה בתקופה האחרונה אינן מהוות \"תגובת יתר\" (overreaction) של המשקיעים לחדשות השליליות, מה שעשוי להצביע על הזדמנות או על חוסר הבנה של המצב בשוק."
-  },
-  {
-    "id": "1rpzg4u",
-    "title": "You don’t really know your risk tolerance until the market moves",
-    "url": "https://www.reddit.com/r/investing/comments/1rpzg4u/you_dont_really_know_your_risk_tolerance_until/",
-    "author": "eToroTeam",
-    "score": 2,
-    "selftext": "Risk tolerance feels easy when markets are steady... but it gets clearer when things start moving, either way up or down.\n\nA rally can show we are more concentrated than we thought, and a pullback can show we are less comfortable with risk than initially assumed. \n\nConsidering recent volatility, what have recent moves revealed about your own positioning or strategy?",
-    "subreddit": "investing",
-    "created_utc": 1773155227,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "It is a mistake, though a common one, to look at one's investment balances and stop there.\n\nIn the back of our minds we should always be doing two calculations.  \"How is this going to look at the next, deep bear market?\" (I use 40%, YMMV).  And \"what is this net of taxes?\"",
-        "score": 1,
-        "author": "D74248"
-      },
-      {
-        "body": "me at the market: \"That's it?! That's all you got?! Pfffft, gedouddahee\"",
-        "score": 1,
-        "author": "robot_ankles"
-      },
-      {
-        "body": "Uh, no. If the market tanks 50% tomorrow I’m not selling, that would be extremely stupid. Im 90% invested.",
-        "score": 1,
-        "author": "brute-forced"
-      }
-    ],
-    "summary_he": "הפוסט טוען כי רמת הסיכון האמיתית של משקיע נחשפת רק בזמן תנודתיות בשוק, שכן קל להעריך אותה בחסר כשהמצב יציב. בעוד שעליות חדות עשויות לחשוף חשיפת יתר לנכסים מסוימים, ירידות מגלות את רמת חוסר הנוחות הממשית שלנו עם הפסדים. לאור התנודתיות האחרונה, הכותב מזמין את הגולשים לבחון מחדש את האסטרטגיה והעמידות שלהם.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מהתגובות בשרשור, המוצגות ב-6 נקודות שונות:\n\n*   **המבט על היתרה הנוכחית הוא מטעה:** קיימת הסכמה שזהו משגה נפוץ להסתכל על שווי התיק בנקודת זמן נוכחית ולהניח שזהו הסכום הריאלי הזמין, שכן השוק תנודתי והמספרים על המסך אינם סופיים.\n*   **הצורך בסימולציית \"שוק דובי\" (Bear Market):** מומלץ למשקיעים לבצע חישוב מנטלי וכלכלי של \"מה יקרה אם השוק יירד ב-40%?\". הבנה מראש של הערך של התיק בזמן משבר עמוק עוזרת בניהול ציפיות ובחוסן מנטלי.\n*   **התחשבות במיסוי (Net of Taxes):** נקודה קריטית שהועלתה היא שחשוב לבחון את שווי התיק בניכוי מיסים. הערך \"ברוטו\" שרואים בחשבון ההשקעות אינו משקף את הסכום שיישאר בידי המשקיע לאחר מימוש.\n*   **הפגנת חוסן וזלזול בתנודתיות:** חלק מהקהילה מאמצת גישה של \"חוסר פחד\" או זלזול בירידות השוק. הלך הרוח הזה מתבטא בגישה הומוריסטית המקטינה את השפעת התנודות ומפגינה ביטחון עצמי אל מול הירידות.\n*   **התנגדות נחרצת למכירה בעת קריסה:** קיימת דעה מוצקה שמכירת נכסים בזמן שהשוק צונח (למשל ב-50%) היא טעות אסטרטגית חמורה (\"צעד טיפשי ביותר\"). המשקיעים מדגישים את חשיבות ההישארות בשוק גם בתנאים קשים.\n*   **ביטחון באסטרטגיית חשיפה גבוהה:** משקיעים הממוקמים בנכסי סיכון בשיעור גבוה (כמו 90% מהונם) מביעים מחויבות ארוכת טווח. הם נשענים על ההבנה שהשקעה כמעט מלאה מחייבת עצבי ברזל וסירוב למכור בנמוך, ללא קשר לחדשות בשוק."
-  },
-  {
-    "id": "1rpn2d7",
-    "title": "Hims & Hers jumps 40% after announcing Novo Nordisk partnership for Ozempic and Wegovy",
-    "url": "https://www.reddit.com/r/investing/comments/1rpn2d7/hims_hers_jumps_40_after_announcing_novo_nordisk/",
-    "author": "kabirsbhutani",
-    "score": 2,
-    "selftext": "Interesting development in the telehealth space.\n\nHims & Hers ($HIMS) surged roughly 40% in a single day after announcing a partnership with Novo Nordisk that will allow the company to offer Ozempic and Wegovy through its platform.\n\nThese GLP-1 drugs have quickly become some of the most in-demand pharmaceuticals globally, driven by their effectiveness for both diabetes and weight loss.\n\nFor Hims, the agreement potentially opens the door to a major new revenue stream tied to one of the fastest-growing areas in healthcare.\n\nAt the same time, the size of the market reaction highlights how quickly sentiment can shift around companies tied to the GLP-1 ecosystem.\n\nCurious how people here see this playing out for $HIMS and telehealth platforms over the next few years.\n\nSaw this being discussed on Blossom, which is what made me to dig into the news.\n\nSource: [https://www.cnbc.com/2026/03/09/novo-nordisk-ends-legal-proceedings-hims-hers-compounded-weight-loss-drugs.html](https://www.cnbc.com/2026/03/09/novo-nordisk-ends-legal-proceedings-hims-hers-compounded-weight-loss-drugs.html)",
-    "subreddit": "investing",
-    "created_utc": 1773116122,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Won’t make a difference long term.  The drug is what people want.  The middleman is a commodity.   Novo is trying to regain market share because Semaglutide is an older, less effective, drug that is now more than 1/2 way through patent loss in the US and will be generic in Canada later this year. \n\nHIMS offers nothing special that isn’t available via any other telhealth provider or your own PCP at this point. Next year we’ll be seeing people buying it from Canadian pharmacies even cheaper.  ",
-        "score": 1,
-        "author": "originalmember"
-      },
-      {
-        "body": "What is the difference with straight vs compounded?",
-        "score": 1,
-        "author": "Brap_Zanigan"
-      }
-    ],
-    "summary_he": "מניית חברת Hims & Hers זינקה בכ-40% בעקבות הכרזה על שיתוף פעולה עם נובו נורדיסק, שיאפשר לה להציע את תרופות ההרזיה הפופולריות אוזמפיק וויגובי דרך הפלטפורמה שלה. המהלך פותח עבור חברת הטלרפואה אפיק הכנסות משמעותי בשוק ה-GLP-1 הצומח, ומדגיש את ההשפעה הדרמטית של תחום זה על שווי השוק של חברות בריאות דיגיטלית.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים שונים מהקהילה:\n\n*   **חוסר חשיבות לטווח הארוך של ה\"מתווכים\":** קיימת ספקנות לגבי המודל העסקי של חברות כמו HIMS. הטענה היא שהלקוחות מעוניינים בתרופה עצמה ולא בפלטפורמה, ולכן המתווכים הם \"קומודיטי\" (מוצר צריכה בסיסי) שניתן להחלפה בקלות ולא יחזיקו מעמד כיתרון תחרותי לאורך זמן.\n*   **האסטרטגיה של נובו נורדיסק (Novo Nordisk):** המגיבים מפרשים את המהלכים של החברה כניסיון נואש להחזיר נתח שוק עבור תרופה (סמגלוטייד) שנתפסת כבר כ\"מיושנת\" ופחות יעילה בהשוואה לדור הבא של התרופות.\n*   **סיום תקופת הפטנטים כגורם מכריע:** הקהילה מצביעה על כך שהתרופה נמצאת כבר מעבר למחצית הדרך לפקיעת הפטנט בארה\"ב, ובקנדה היא צפויה להפוך לגנרית כבר השנה. עובדה זו נתפסת כסימן לשינוי דרמטי במפת הרווחים של החברות הגדולות.\n*   **היעדר ערך מוסף בשירותי טלרפואה ממותגים:** עולה הטענה שחברות כמו HIMS אינן מציעות שום דבר ייחודי שלא ניתן להשיג כבר עכשיו דרך כל ספק טלרפואה אחר או אפילו דרך רופא המשפחה הרגיל, מה שמחליש את המותג שלהן.\n*   **ציפייה לירידת מחירים דרך ייבוא מקנדה:** קיים סנטימנט בקהילה לפיו בשנה הבאה הצרכנים יוכלו לעקוף את המערכת המקומית ולרכוש את התרופה במחירים זולים משמעותית ישירות מבתי מרקחת קנדיים.\n*   **בלבול וחוסר ידע לגבי הרכב התרופה:** לצד הניתוחים הכלכליים, עולה צורך מהשטח להבין את ההבדלים הטכניים בין התרופה המקורית לבין גרסאות ה-compounded (הכנה רוקחית), מה שמעיד על כך שחלק מהצרכנים עדיין מנסים לנווט בין האפשרויות השונות ללא מידע ברור.",
-    "dateString": "2026-03-10",
-    "savedAt": {
-      "_seconds": 1773126045,
-      "_nanoseconds": 951000000
-    }
-  },
-  {
-    "id": "1rqmpq8",
-    "title": "Questions regarding marijuana in the industry",
-    "url": "https://www.reddit.com/r/finance/comments/1rqmpq8/questions_regarding_marijuana_in_the_industry/",
-    "author": "Fantastic_Credit9310",
-    "score": 1,
-    "selftext": "Hey everyone, I’m currently a student majoring in finance with an emphasis on financial planning. What are your experiences with marijuana usage in the finance industry as a whole, as well as financial planning specifically (if you have worked in that specialty)? \n\nAre drug tests common, random, only upon hiring, or relatively rare? If they are common/ random, do you see the industry moving towards not testing for marijuana in the future? \n\nAlso, I received an internship offer that I did not apply for, they reached out to me and a few other students directly. I sent in my resume as requested, however, I was not expecting the opportunity, so I had been smoking on a nightly basis for the last 6-8 months at least. I put smoking on pause last week in case they reach back out for an interview, but depending on when that is, I may not pass. \n\nDo interns typically get drug tested upon onboarding?  \n\nThanks in advance for any input!",
-    "subreddit": "finance",
-    "created_utc": 1773212412,
-    "thumbnail": "https://preview.redd.it/s927c9aw6dog1.jpeg?width=140&height=125&auto=webp&s=f9660eccd9fcd6fab3cb5b2b40c02b8a4425c495",
-    "top_comments": [],
-    "summary_he": "סטודנט לפיננסים מבקש מידע על שכיחותן של בדיקות סמים בתעשייה ועל המדיניות המקובלת כלפי מתמחים בתחום. הוא משתף כי קיבל הצעת התמחות מפתיעה לאחר תקופה שבה צרך קנאביס באופן קבוע, ומביע חשש שלא יעבור בדיקת סמים פוטנציאלית כחלק מתהליך הקבלה.",
+    "summary_he": "מנהל יקב פרימיום מסביר כיצד בחר למכור מלאי יין עודף ובינוני במחירי הפסד כדי לעצור את הוצאות הקירור והתחזוקה הכבדות המכבידות על המאזן. בכסף שהתפנה הוקמה מערכת סולארית רחבת היקף שתצמצם משמעותית את עלויות התפעול הקבועות של היקב לטווח הארוך. השורה התחתונה היא שבעת משבר בענף היין, הישרדות דורשת ויתור על \"מלאי וירטואלי\" לטובת נזילות מזומנים והתייעלות אנרגטית חסרת רחמים.",
     "category_he": "עסקים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ותובנות שונות לגבי השפעת תרופות ה-GLP-1 (כמו אוזמפיק) על צריכת אלכוהול:\n\n*   **תחזית לפגיעה מאסיבית בביקוש:** קיימת הערכה כי ככל שיעלה מספר המשתמשים בתרופות GLP-1 לירידה במשקל או לטיפול בהתמכרויות, תעשיית האלכוהול תתמודד עם \"הרס ביקוש\" (Demand Destruction) בקנה מידה רחב.\n*   **אובדן מוחלט של החשק לשתות:** משתמשים מעידים כי התרופה מבטלת לחלוטין את הרצון לצרוך אלכוהול. אחד המגיבים תיאר מעבר מצריכה כבדה של 10–15 בקבוקי יין בשבוע להימנעות מוחלטת מאז תחילת הטיפול.\n*   **ירידה משמעותית בהנאה מהאלכוהול:** גם עבור אלו שבוחרים להמשיך לשתות תחת השפעת התרופה, נראה כי חוויית ההנאה והסיפוק מהשתייה פוחתת באופן ניכר, מה שמוביל להפחתה טבעית בכמות.\n*   **אימוץ ע\"י תוכניות גמילה:** התופעה אינה רק תופעת לוואי מקרית; תוכניות לטיפול בהתמכרות לאלכוהול (AUD) כבר החלו לשלב תרופות GLP-1 כחלק מהפרוטוקול הטיפולי שלהן.\n*   **צמיחת קהילות ותתי-תרבות ברשת:** התופעה רחבה מספיק כדי לייצר מושגים וקהילות ייעודיות, כמו הסאב-רדיט \"dryzempic\", שבו משתמשים חולקים חוויות על חייהם נטולי האלכוהול בעקבות הטיפול.\n*   **האצת משבר קיים בתעשיית היין:** המגיבים מציינים כי תעשיית היין נמצאת במגמת ירידה (\"Busting\") כבר משנת 2019, אך כניסת התרופות הללו לשוק מאיצה את התהליך ודוחפת את התעשייה למשבר עמוק יותר."
+  },
+  {
+    "id": "1rpy89p",
+    "title": "The CSIS estimated Operation Epic Fury burned through $3.7 billion in munitions in its first 100 hours. What does that actually mean for defense investors?",
+    "url": "https://www.reddit.com/r/investing/comments/1rpy89p/the_csis_estimated_operation_epic_fury_burned/",
+    "author": "acceinvestments",
+    "score": 111,
+    "selftext": "I've been trying to think clearly about the Iran conflict and what it actually means for defense holdings, because most of the coverage I'm reading focuses on the macro drama and not the supply chain reality.\n\nThe Center for Strategic and International Studies published an estimate this week: the first 100 hours of Operation Epic Fury cost approximately $3.7 billion, with $3.5 billion of that unbudgeted. The biggest line item by far is munitions replacement, specifically Tomahawks, SM-6 interceptors, PAC-3 missiles, and precision guided munitions.\n\nRTX makes the Tomahawk and the PAC-3. LMT makes the LRASM and the Patriot upgrades. NOC makes the AARGM-ER. These aren't broad defense sector names. These are the specific companies whose products are physically being consumed right now in an active conflict.\n\nThe pattern from prior US conflicts: the initial spike prices in the headlines. The durable re-rating happens 6 to 18 months later, when the replenishment contracts come through and show up in revenue. That's the stage I think we're entering into now with this conflict.\n\nOne complication worth flagging: AeroVironment (AVAV) reports tonight, and it's a messier situation. The BlueHalo acquisition inflated the revenue comparison significantly (182% YoY growth expected), but AVAV has missed EPS in 3 of the last 4 quarters. There's also an unresolved contract question that the market is treating as binary.\n\nAnyone else watching the defense sector through this lens, or are most people just treating it as a short-term geopolitical trade?",
+    "subreddit": "investing",
+    "created_utc": 1773152443,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "You mean Operation *Epstein* Fury.",
+        "score": 127,
+        "author": "alloutofchewingum"
+      },
+      {
+        "body": "Lockheed Martin and Raytheon are not broad defense sector names? Northrop Grumman? These are literally the defense sector.",
+        "score": 56,
+        "author": "InfamousDatabase9710"
+      },
+      {
+        "body": "I hate to be the “its already priced in” but Raytheon already signed a contract in February that doubled tomahawk production, I don’t know that the DoD waits for stockpiles to be depleted to place orders, but I’m willing to bet if the war is prolonged or expanded and there needs to be a congressional supplementary funding bill that the DIBs get the call before Congress.",
+        "score": 24,
+        "author": "mattmentecky"
+      }
+    ],
+    "summary_he": "הפוסט מנתח את ההשלכות הכלכליות של מבצע \"Epic Fury\", שבו נאמדו עלויות החימוש בכ-3.7 מיליארד דולר בתוך 100 שעות בלבד, מה שיוצר ביקוש אדיר למוצרים של חברות כמו RTX, לוקהיד מרטין ונורת'רופ גרומן. הכותב טוען כי ההזדמנות האמיתית למשקיעים אינה בזינוק המיידי במניות הביטחוניות, אלא בחוזים ארוכי הטווח לחידוש המלאי שצפויים להשתקף בדוחות הכספיים בטווח של חצי שנה עד שנה וחצי מהיום.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המובילות, הכולל 6 נקודות מבט ותחושות קהילתיות שונות:\n\n*   **ספקנות וציניות כלפי הממשל:** השימוש בכינוי הלעגני \"מבצע זעם אפשטיין\" (Operation Epstein Fury) משקף הלך רוח ציני וחוסר אמון במניעים של המבצעים הצבאיים, תוך רמיזה לשחיתות או לאג'נדות נסתרות של האליטות.\n*   **זיהוי עמודי התווך של המגזר:** קיימת הסכמה בקהילה שחברות כמו לוקהיד מרטין (Lockheed Martin), ריית'און (Raytheon) ונורת'רופ גראמן (Northrop Grumman) אינן סתם חלק מהמגזר, אלא הן מייצגות את התעשייה הביטחונית עצמה באופן המובהק ביותר.\n*   **הנחת ה\"תמחור מראש\" (Priced In):** עולה טענה שוקיסטית קלאסית לפיה התפתחויות משמעותיות, כמו הכפלת ייצור טילי הטומהוק של ריית'און, כבר ידועות ומתומחרות במחירי המניות, ולכן לא בהכרח יובילו לשינוי מיידי בערך השוק.\n*   **אסטרטגיית רכש פרואקטיבית של משרד ההגנה:** הקהילה מציינת שמשרד ההגנה האמריקאי (DoD) אינו ממתין להתרוקנות המלאים כדי לבצע הזמנות חדשות, אלא חותם על חוזים ארוכי טווח מראש כדי להבטיח רציפות.\n*   **תלות בהסלמה ומימון מהקונגרס:** קיימת הערכה שאם המלחמה תתרחב או תתארך, הדבר יוביל בהכרח לצורך בחקיקת תקציבים משלימים בקונגרס, מה שיזרים הון נוסף לתעשיות הביטחוניות.\n*   **מרכזיותו של הבסיס התעשייתי הביטחוני (DIB):** מובעת הדעה כי התעשיות הביטחוניות הן הגורם הראשון שמקבל את \"הקריאה\" מהממשל בעת חירום, לעיתים אף לפני שהתהליכים הפוליטיים בקונגרס מושלמים, מה שמדגיש את כוחן והשפעתן."
+  },
+  {
+    "id": "1rpsbs1",
+    "title": "Where should I put my money?",
+    "url": "https://www.reddit.com/r/investing/comments/1rpsbs1/where_should_i_put_my_money/",
+    "author": "Moccabean70",
+    "score": 28,
+    "selftext": "I’m a very late bloomer when it comes to saving. Only began about 4 years ago. I am now 56. I have a 403b with about 52K (contribute about 12K a year) a Roth IRA with 18k (opened it late last year and plan to keep maxing it out).  a few brokerage accounts totaling about 35K, an Acorns account with 10,500K and I have a CD that will mature very soon that is now worth about 103K. My question is what should I do with the money from my CD? I’m a little worried with the current geopolitical situation and hesitate to put it into one of my brokerage accounts. Does it make sense to put it back into another CD? Should I invest half (brokerage account) and put the rest into a CD or HYSA to have as an emergency fund? Any help would be appreciated. ",
+    "subreddit": "investing",
+    "created_utc": 1773135065,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "You should do what you're comfortable doing.\n\nAlso remember, you don't need to cash out of the market day 1 of retirement. Some of that money has a 20 or 30 year window. Retiring in a decade isn't the end of making gains through investments. ",
+        "score": 21,
+        "author": "R101C"
+      },
+      {
+        "body": "Alot of us are late bloomers. Since they don't teach us about investing in schools we know nothing about how good it can be. If they showed and taught this kind of information in the classrooms alot more people would be less scared of investing their money. ",
+        "score": 7,
+        "author": "Prosperah"
+      },
+      {
+        "body": "1. IF you don't already have an emergency fund, then do that.\n\n  \n2. I would be investing as much as I could to get some kind of a retirement.",
+        "score": 6,
+        "author": "Bitter_Proof_9288"
+      }
+    ],
+    "summary_he": "הכותב, בן 56 שהחל לחסוך בשלב מאוחר בחייו, מבקש ייעוץ כיצד להשקיע כ-103 אלף דולרים מפיקדון (CD) שעומד לפקוע בקרוב. הוא חושש מהמצב הגיאופוליטי ומתלבט אם להפקיד את הכסף מחדש בפיקדון, להשקיעו בשוק ההון, או לשלב בין השקעות לקרן חירום נזילה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המובילות ב-Reddit, הכולל 6 נקודות מבט ודעות שונות שהועלו על ידי חברי הקהילה:\n\n*   **התאמה אישית ורמת נוחות:** על המשקיע לפעול בראש ובראשונה בהתאם למה שמרגיש לו בנוח באופן אישי. אין \"נוסחה אחת\" שמתאימה לכולם, והביטחון העצמי בביצוע הפעולה חשוב לא פחות מהפעולה עצמה.\n*   **השקעה היא לטווח ארוך, גם לאחר הפרישה:** יום הפרישה אינו \"קו הסיום\" שבו מושכים את כל הכספים מהשוק. למעשה, חלק גדול מהכסף עשוי להישאר מושקע למשך 20 או 30 שנים נוספות גם לאחר היציאה לגמלאות.\n*   **המשכיות בייצור רווחים:** פרישה בעוד עשור אינה מסמלת את סוף תקופת הרווחים. ניתן ואף רצוי להמשיך להשיא תשואה על ההשקעות גם לתוך תקופת הפנסיה כדי לשמור על ערך הכסף.\n*   **הצורך בחינוך פיננסי בבתי הספר:** קיימת תחושת החמצה בקהילה לגבי היעדר לימודי השקעות במערכת החינוך. חברי הקהילה מאמינים שאם היו מלמדים את הנושא בבתי הספר, אנשים היו פחות חוששים להשקיע את כספם.\n*   **הבנה מפיגה פחד:** קיים קשר ישיר בין ידע לבין ביטחון כלכלי. חוסר הידע הוא המקור העיקרי לפחד מהשקעות, וגישה למידע נכון בשלב מוקדם הייתה הופכת רבים למשקיעים בטוחים יותר.\n*   **סדר עדיפויות כלכלי (קרן חירום לפני הכל):** לפני שמתחילים להשקיע בשוק ההון, ישנה חשיבות עליונה להקמת \"קרן חירום\" (Emergency Fund). רק לאחר הבטחת כרית ביטחון למקרים דחופים, יש להשקיע את המקסימום האפשרי כדי להבטיח קיום בכבוד בפרישה."
   },
   {
     "id": "1rptoha",
@@ -348,78 +116,222 @@ window.dailyTrends = [
     ],
     "summary_he": "המיליארדר ביל אקמן הגיש בקשה להנפקה ראשונית לציבור (IPO) של חברת \"פרשינג סקוור\" במטרה לגייס כ-10 מיליארד דולר. המהלך יאפשר לקרן הגידור שלו להיסחר לראשונה בבורסה האמריקאית, לצד השקת קרן השקעות סגורה חדשה.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והפרטים העולים מהתגובות בנוגע להנפקת Pershing Square של ביל אקמן:\n\n*   **מבנה הנפקה ייחודי ומשולב:** ההנפקה המתוכננת אינה סטנדרטית; היא כוללת שילוב בין קרן סגורה חדשה בשם \"Pershing Square USA Ltd\" לבין החזקה בחברת ניהול קרנות הגידור של אקמן עצמו.\n*   **יעדי גיוס שאפתניים:** אקמן שואף לגייס סכום משמעותי שבין 5 ל-10 מיליארד דולר, כאשר מחיר המניה בהנפקה נקבע על 50 דולר ליחידה.\n*   **תמריצים למשקיעים:** כחלק מהעסקה, משקיעים שיקנו מניות בקרן הסגורה יקבלו הטבה בדמות מניות בחברת הניהול של קרן הגידור (ביחס של 20 מניות ניהול על כל 100 מניות קרן שנרכשו).\n*   **גיבוי מוסדי משמעותי:** למרות הספקנות ברשת, ההנפקה כבר הבטיחה התחייבויות בהיקף של 2.8 מיליארד דולר מצד משקיעים כשירים, כולל קרנות פנסיה, חברות ביטוח וניהול הון משפחתי (Family Offices).\n*   **העדפת משקיעים פרטיים מוקדמים:** קיימת הבחנה בין הציבור הרחב למשקיעים במיקום פרטי (Private Placement); אלו האחרונים יזכו להטבה מוגדלת של 30 מניות בחברת הניהול על כל 100 מניות קרן, לעומת 20 בלבד למשקיעים מהשורה.\n*   **סלידה וספקנות מצד הקהילה:** חלק מהגולשים הביעו עוינות גלויה כלפי ביל אקמן, כינו אותו \"יצור מעצבן\" ותהו האם ה\"קארמה\" תפעל נגדו ותוביל לכישלון המהלך, במיוחד בהתחשב בכך שמדובר בניסיון נוסף שלו להוציא לפועל את המהלך (\"Try #2\")."
+    "comments_summary_he": "להלן סיכום הדיון והפרטים העולים מהתגובות בנוגע להנפקת Pershing Square של ביל אקמן:\n\n*   **מבנה הנפקה ייחודי ומשולב:** ההנפקה המתוכננת אינה סטנדרטית; היא כוללת שילוב בין קרן סגורה חדשה בשם \"Pershing Square USA Ltd\" לבין החזקה בחברת ניהול קרנות הגידור של אקמן עצמו.\n*   **יעדי גיוס שאפתניים:** אקמן שואף לגייס סכום משמעותי שבין 5 ל-10 מיליארד דולר, כאשר מחיר המניה בהנפקה נקבע על 50 דולר ליחידה.\n*   **תמריצים למשקיעים:** כחלק מהעסקה, משקיעים שיקנו מניות בקרן הסגורה יקבלו הטבה בדמות מניות בחברת הניהול של קרן הגידור (ביחס של 20 מניות ניהול על כל 100 מניות קרן שנרכשו).\n*   **גיבוי מוסדי משמעותי:** למרות הספקנות ברשת, ההנפקה כבר הבטיחה התחייבויות בהיקף של 2.8 מיליארד דולר מצד משקיעים כשירים, כולל קרנות פנסיה, חברות ביטוח וניהול הון משפחתי (Family Offices).\n*   **העדפת משקיעים פרטיים מוקדמים:** קיימת הבחנה בין הציבור הרחב למשקיעים במיקום פרטי (Private Placement); אלו האחרונים יזכו להטבה מוגדלת של 30 מניות בחברת הניהול על כל 100 מניות קרן, לעומת 20 בלבד למשקיעים מהשורה.\n*   **סלידה וספקנות מצד הקהילה:** חלק מהגולשים הביעו עוינות גלויה כלפי ביל אקמן, כינו אותו \"יצור מעצבן\" ותהו האם ה\"קארמה\" תפעל נגדו ותוביל לכישלון המהלך, במיוחד בהתחשב בכך שמדובר בניסיון נוסף שלו להוציא לפועל את המהלך (\"Try #2\").",
+    "dateString": "2026-03-11",
+    "savedAt": {
+      "_seconds": 1773212814,
+      "_nanoseconds": 32000000
+    }
   },
   {
-    "id": "1rpol92",
-    "title": "What’s a money habit that improved your finances the most?",
-    "url": "https://www.reddit.com/r/finance/comments/1rpol92/whats_a_money_habit_that_improved_your_finances/",
-    "author": "Embarrassed_Bath_968",
-    "score": 1,
-    "selftext": "Small habits can have a big impact over time. Was there a specific habit like budgeting, tracking expenses, or investing regularly that helped improve your financial situation?",
-    "subreddit": "finance",
-    "created_utc": 1773121122,
-    "thumbnail": "https://preview.redd.it/vaval8hfn5og1.png?width=140&height=93&auto=webp&s=11d43c981a374ce6c4f884e559bcab63f2f4cf30",
+    "id": "1rq2pb7",
+    "title": "Inheriting Stocks of non publicly traded Company",
+    "url": "https://www.reddit.com/r/investing/comments/1rq2pb7/inheriting_stocks_of_non_publicly_traded_company/",
+    "author": "yodas_sidekick",
+    "score": 2,
+    "selftext": "I will be inheriting stock in a company from a family member who passed away.  How do I handle this? They will likely be going public later this year.  I have pretty much zero trading experience. Do I need an account of sorts E\\*trade etc. ? Where does it gets transferred, any resources for where I may learn how to handle this? Thanks.",
+    "subreddit": "investing",
+    "created_utc": 1773162427,
+    "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Make a conscious decision to do something fun each month \n\nEven if the fun budget is small, it helps me to stay on track because I don't feel deprived ",
-        "score": 1,
-        "author": "Pickpockets_warning"
+        "body": "Get a financial advisor, this is not a question for reddit",
+        "score": 7,
+        "author": "IllllIIlIllIllllIlll"
       },
       {
-        "body": "My local library has lots of online content too, through Kanopy and Hoopla \n",
-        "score": 1,
-        "author": "Pickpockets_warning"
+        "body": "It's also a great advice. If they are likely to go public, take your time before making decision. \n\nIf they or anyone pressures you into selling before, maybe you shouldn't :) ",
+        "score": 4,
+        "author": "UsnDoto"
       },
       {
-        "body": "Spend what I don't save, not save what I don't spend.",
-        "score": 1,
-        "author": "SDAztec74"
+        "body": "Luckily it was, another commenter was able to answer my questions. Thanks though!  ",
+        "score": 4,
+        "author": "yodas_sidekick"
       }
     ],
-    "summary_he": "הפוסט מזמין משתמשים לשתף הרגלים פיננסיים קטנים שהובילו לשיפור משמעותי במצבם הכלכלי לאורך זמן. בין הדוגמאות המוצעות לדיון נמצאים ניהול תקציב, מעקב אחר הוצאות והשקעה עקבית.",
+    "summary_he": "הכותב עומד לרשת מניות של חברה פרטית שצפויה להנפיק בבורסה בקרוב, ומציין כי אין לו כל ניסיון קודם במסחר. הוא מבקש הדרכה לגבי אופן ניהול התהליך, הצורך בפתיחת חשבון מסחר וקבלת משאבים ללמידת הנושא.",
     "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט ותובנות שונות לגבי ניהול כספים ואיכות חיים:\n\n*   **תכנון מודע של הנאה:** קיימת חשיבות רבה לקבלת החלטה מושכלת ויזומה לבצע פעילות מהנה אחת לפחות בכל חודש, ולא להשאיר את הפנאי ליד המקרה.\n*   **מניעת תחושת מחסור ככלי להתמדה:** הקצאת תקציב לבילויים, גם אם הוא קטן מאוד, חיונית כדי להיצמד לתוכנית כלכלית לאורך זמן. תחושת ה\"חופש\" הזו מונעת שחיקה ומרד בתוכנית החיסכון.\n*   **ניצול משאבים קהילתיים וציבוריים:** שימוש בספריות מקומיות מוצג כפתרון חכם לחיסכון, שכן הן מציעות הרבה מעבר לספרים מודפסים.\n*   **גישה לתוכן דיגיטלי בחינם:** הקהילה מציינת שירותים ספציפיים (כמו Kanopy ו-Hoopla) המאפשרים צריכת מדיה, סרטים ותוכן מקוון ללא עלות דרך המנוי לספריה הציבורית.\n*   **הפיכת סדרי העדיפויות הכלכליים:** אימוץ הגישה של \"להוציא את מה שנשאר אחרי החיסכון\" במקום \"לחסוך את מה שנשאר אחרי ההוצאות\". כלומר, החיסכון הוא היעד הראשון ולא השארית.\n*   **פסיכולוגיה של ניהול כספים:** הצלחה כלכלית נשענת על שינוי תפיסתי – התייחסות לחיסכון כאל התחייבות קשיחה ותקצוב הנאות כצורך הכרחי לשמירה על יציבות נפשית וכלכלית.",
-    "dateString": "2026-03-10",
+    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות בשרשור, הכולל 6 נקודות מבט וסנטימנטים שונים:\n\n*   **נחיצות של ייעוץ מקצועי:** קיימת עמדה נחרצת לפיה שאלות פיננסיות מורכבות אינן צריכות להיפתר בפורומים כמו רדיט, ויש לפנות לייעוץ מקצועי של מומחה פיננסי.\n*   **הערך של סבלנות והמתנה:** במידה וחברה נמצאת לפני הנפקה לציבור (IPO), ההמלצה היא לקחת את הזמן ולא למהר לקבל החלטות גורליות לפני שהתמונה מתבהרת.\n*   **זיהוי נורות אזהרה תחת לחץ:** הקהילה מזהירה מפני גורמים המפעילים לחץ למכור נכסים או מניות; לחץ כזה נתפס כסימן מחשיד לכך שהמכירה אולי אינה לטובת המשתמש.\n*   **יעילותה של חוכמת ההמונים:** למרות הספקנות כלפי ייעוץ ברשת, ישנם משתמשים שמעידים כי הצליחו לקבל תשובות מדויקות ומועילות מחברי הקהילה שפתרו להם את הבעיה.\n*   **זהירות ואחריות אישית:** הדיון משקף מתח בין הגישה ה\"רשמית\" (ללכת לייעוץ) לבין הגישה הקהילתית, אך מדגיש את הצורך בזהירות יתרה בניהול משאבים פיננסיים.\n*   **הכרת תודה ושיתופיות:** הדיון מסתיים בטון חיובי של הוקרה כלפי משתמשים אחרים שעזרו, מה שמחזק את תחושת הסולידריות בתוך הקהילה למרות רגישות הנושא."
+  },
+  {
+    "id": "1rqmpq8",
+    "title": "Questions regarding marijuana in the industry",
+    "url": "https://www.reddit.com/r/finance/comments/1rqmpq8/questions_regarding_marijuana_in_the_industry/",
+    "author": "Fantastic_Credit9310",
+    "score": 1,
+    "selftext": "Hey everyone, I’m currently a student majoring in finance with an emphasis on financial planning. What are your experiences with marijuana usage in the finance industry as a whole, as well as financial planning specifically (if you have worked in that specialty)? \n\nAre drug tests common, random, only upon hiring, or relatively rare? If they are common/ random, do you see the industry moving towards not testing for marijuana in the future? \n\nAlso, I received an internship offer that I did not apply for, they reached out to me and a few other students directly. I sent in my resume as requested, however, I was not expecting the opportunity, so I had been smoking on a nightly basis for the last 6-8 months at least. I put smoking on pause last week in case they reach back out for an interview, but depending on when that is, I may not pass. \n\nDo interns typically get drug tested upon onboarding?  \n\nThanks in advance for any input!",
+    "subreddit": "finance",
+    "created_utc": 1773212412,
+    "thumbnail": "https://preview.redd.it/s927c9aw6dog1.jpeg?width=140&height=125&auto=webp&s=f9660eccd9fcd6fab3cb5b2b40c02b8a4425c495",
+    "top_comments": [],
+    "summary_he": "סטודנט לפיננסים מבקש מידע על שכיחותן של בדיקות סמים בתעשייה ועל המדיניות המקובלת כלפי מתמחים בתחום. הוא משתף כי קיבל הצעת התמחות מפתיעה לאחר תקופה שבה צרך קנאביס באופן קבוע, ומביע חשש שלא יעבור בדיקת סמים פוטנציאלית כחלק מתהליך הקבלה.",
+    "category_he": "עסקים",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-03-11",
     "savedAt": {
-      "_seconds": 1773126061,
-      "_nanoseconds": 125000000
+      "_seconds": 1773212797,
+      "_nanoseconds": 840000000
     }
   },
   {
-    "id": "1rpfmh7",
-    "title": "The Iran conflict is delivering four commodity shocks at once",
-    "url": "https://www.reddit.com/r/finance/comments/1rpfmh7/the_iran_conflict_is_delivering_four_commodity/",
-    "author": "sayheykid24",
+    "id": "1rrgnec",
+    "title": "Check out PANW for gains after Iran hack",
+    "url": "https://www.reddit.com/r/investing/comments/1rrgnec/check_out_panw_for_gains_after_iran_hack/",
+    "author": "Awkward_Awareness_37",
     "score": 1,
-    "selftext": "Oil, natural gas, fertilizer and aluminum. Even if the war draws down and shipping restarts fully how long will it take for these snags to unwind?",
-    "subreddit": "finance",
-    "created_utc": 1773096818,
-    "thumbnail": "https://external-preview.redd.it/2Ym30ItbmV_oq2jxjSw4W-Jjsb94FuAYFB20UTA-c3Q.jpeg?width=140&height=78&auto=webp&s=aaddbd9e58b03018bfaeac7e575b7fa2f4e6ec37",
+    "selftext": "New Iran hikes highlight urgent need for more Palo Alto cybersecurity government contracts. In light of recent general software decline, and considering all the cybersecurity companies working under contract with the US, PANW appears poised to gain the most.\n\nhttps://apple.news/AmUqAovbOQYe\\_o\\_HnMT5WNg",
+    "subreddit": "investing",
+    "created_utc": 1773288377,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "הפוסט ממליץ לעקוב אחר מניית פאלו אלטו נטוורקס (PANW), שצפויה להרוויח מהצורך הגובר בפתרונות אבטחת מידע בעקבות מתקפות הסייבר מאיראן. לטענת הכותב, למרות המגמה השלילית במגזר התוכנה, החברה ממוצבת היטב לזכייה בחוזים ממשלתיים נוספים בארה\"ב בהשוואה למתחרותיה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1rrgl5c",
+    "title": "Why dont more people follow insider trading?",
+    "url": "https://www.reddit.com/r/investing/comments/1rrgl5c/why_dont_more_people_follow_insider_trading/",
+    "author": "Ok_Cranberry_9075",
+    "score": 1,
+    "selftext": "Im purely talking on a mathematical, practical level. Not a moral one.\n\n  \nIm 20f any literally put my first 100$ in investing.\n\nWith the help of reddit ( thank you ) I put this investing plan together:\n\n50% [Vanguard Total Stock Market ETF](https://investor.vanguard.com/investment-products/etfs/profile/vti) (VTI) \n\n25% [Invesco S&P 500® Momentum ETF](https://www.invesco.com/us/en/financial-products/etfs/invesco-sp-500-momentum-etf.html) (SPMO)\n\n25% [Vanguard Information Technology ETF](https://investor.vanguard.com/investment-products/etfs/profile/vgt)\n\n  \nThis is great but I remember hearing some meme or something like that\"just follow whatever x is doing\" And the women I was thinking of is  Nancy Pelosi. Why dont more people follow politicians that obviously are profiting off of insider trading?",
+    "subreddit": "investing",
+    "created_utc": 1773288195,
+    "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Will any of them change their vote?",
+        "body": "Insider trades have to be disclosed within 48 hours of the trade, legally. Either you can peruse the trades yourself on the SEC website (I find it time consuming) or you can pay someone to do it for you. \n\nIt also helps to have a strategy. Just someone buying a stock doesn’t make it a buy. I find insider buying to be an underrated strategy. It doesn’t always work. It didn’t work well during Covid. Also during the 08 financial crisis we saw a massive boost of insider buys in banks that went bust i.e. Wachovia. I bring that up as we are seeing similar activity in the AI lending space.\n",
         "score": 1,
-        "author": "133DK"
+        "author": "Revfunky"
       },
       {
-        "body": "I think you mean mercenaries. But missionaries might actually work in the context maybe?",
+        "body": "Of course not. I was simply stating an example of this investing \"philosophy\" in action.",
         "score": 1,
-        "author": "shamantr"
+        "author": "Financial-Swim-5884"
       },
       {
-        "body": "I still don't understand, there must be a think tank of GOP that's got a roadmap and a playbook for executing the roadmap. Trump must be just pulling those ideas and executing them, in which case shouldn't it all be well thought through already? Assuming it wasn't they could still feed it to a LLM and help make a basic strategy. No?\n",
+        "body": "This is it. By the time you learn about the trade and copy it, there’s a good chance you are the bag holder ",
         "score": 1,
-        "author": "krazineurons"
+        "author": "wolfishnickelsyr"
       }
     ],
-    "summary_he": "העימות עם איראן מחולל ארבעה זעזועים במקביל בשוקי הסחורות: בנפט, בגז הטבעי, בדשנים ובאלומיניום. הפוסט מעלה תהייה לגבי משך הזמן שיידרש לתיקון השיבושים הללו בשרשראות האספקה, גם במידה והמתיחות תרד והתנועה הימית תתחדש במלואה.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות, המציג שש נקודות מבט וסנטימנטים שונים של הקהילה:\n\n*   **ספקנות לגבי שינוי דפוסי הצבעה:** עולה השאלה האם המידע או האירועים הנידונים אכן מסוגלים להניע בוחרים לשנות את דעתם ולבחור במועמד אחר, או שמא העמדות הפוליטיות כבר מקובעות.\n*   **אפיון הפעילים - אינטרס מול אידיאולוגיה:** קיים דיון סמנטי המנסה להגדיר את אופי האנשים הפועלים בשטח – האם מדובר ב\"שכירי חרב\" (mercenaries) המונעים מאינטרס כלכלי, או ב\"מיסיונרים\" (missionaries) הפועלים מתוך תחושת שליחות דתית או אידיאולוגית.\n*   **קיומה של תוכנית על (Roadmap):** קיימת הנחה בקרב חלק מהגולשים שמאחורי הקלעים של המפלגה הרפובליקנית עומדים צוותי חשיבה (Think tanks) שגיבשו אסטרטגיה סדורה ומפורטת לביצוע.\n*   **תפיסת המנהיג כמבצע ולא כהוגה:** עולה הסברה כי טראמפ אינו בהכרח המקור לרעיונות, אלא הוא הגורם המוציא לפועל של תוכניות עבודה שהוכנו עבורו מראש על ידי גורמים מקצועיים במפלגה.\n*   **תהייה על איכות התכנון והביצוע:** המגיבים מביעים תמיהה – אם אכן קיימת תוכנית עבודה סדורה, מדוע הדברים לא תמיד נראים מחושבים היטב או מבוצעים בצורה חלקה ומקצועית.\n*   **שילוב בינה מלאכותית באסטרטגיה פוליטית:** מוצעת האפשרות להשתמש במודלי שפה גדולים (LLM) כדי לסייע בגיבוש אסטרטגיות בסיסיות או בשיפור התכנון הפוליטי, במידה והתכנון הקיים אינו מספק.",
-    "dateString": "2026-03-10",
-    "savedAt": {
-      "_seconds": 1773126075,
-      "_nanoseconds": 962000000
-    }
+    "summary_he": "כותבת הפוסט מציגה את תיק ההשקעות הראשון שלה המבוסס על מדדים מובילים (VTI, SPMO, VGT) ותוהה לגבי כדאיותן של אסטרטגיות אחרות. היא שואלת מדוע משקיעים נוספים אינם פועלים לפי עסקאות של פוליטיקאים, כמו ננסי פלוסי, שנראה כי הם מרוויחים משימוש במידע פנים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט וסנטימנטים שונים בקהילה בנוגע למעקב אחר עסקאות בעלי עניין (Insider Trading):\n\n*   **חובת דיווח ונגישות המידע:** על פי החוק, אנשי פנים מחויבים לדווח על עסקאותיהם תוך 48 שעות. המידע אמנם פתוח לציבור באתר ה-SEC, אך הניתוח העצמאי שלו נתפס כפעולה שגוזלת זמן רב מדי, מה שדוחף משקיעים להיעזר בשירותים בתשלום.\n*   **אסטרטגיה מוערכת בחסר אך מוגבלת:** קיימת תפיסה בקהילה שמעקב אחר רכישות של אנשי פנים היא אסטרטגיה טובה שרבים נוטים להתעלם ממנה, אך מודגש כי רכישה של איש פנים כשלעצמה אינה מהווה עילה מספקת לקניית המניה ללא אסטרטגיה רחבה יותר.\n*   **הסתמכות יתר על העבר וכישלונות היסטוריים:** המגיבים מציינים כי האסטרטגיה נכשלה ברגעים קריטיים, כמו במשבר הפיננסי של 2008 (עם בנקים כמו Wachovia) ובזמן הקורונה. זהו תמרור אזהרה לכך שאנשי פנים יכולים לטעות לגבי עתיד החברה שלהם.\n*   **חשש ספציפי בתחום ה-AI:** עולה נקודת מבט אקטואלית המזהה דפוסים של רכישות אנשי פנים בתחום הלוואות ה-AI (AI lending), אשר מזכירים את ההתנהלות הבעייתית של הבנקים לפני קריסתם ב-2008.\n*   **סיכון ה\"איחור בביצוע\" (Time Lag):** קיימת סקפטיות לגבי היכולת של משקיע קטן להרוויח ממידע זה. עד שהעסקה מדווחת ומתפרסמת, המחיר לרוב כבר משקף את המידע, מה שעלול להשאיר את המשקיע הקטן כ\"מחזיק תיקים\" (Bag holder) בעסקאות מפסידות.\n*   **ההבדל בין \"פילוסופיית השקעה\" למציאות:** הדיון מדגיש כי קיים פער בין התיאוריה של מעקב אחר אנשי פנים לבין היישום בפועל, כאשר דוגמאות היסטוריות משמשות להמחשת הסיכונים הטמונים בגישה זו ולאו דווקא כהמלצה גורפת."
+  },
+  {
+    "id": "1rrga63",
+    "title": "$30k to invest.. quality dividend etf?",
+    "url": "https://www.reddit.com/r/investing/comments/1rrga63/30k_to_invest_quality_dividend_etf/",
+    "author": "GMbadgirlxxx",
+    "score": 1,
+    "selftext": "I know someone that has a crypto account they’re debating on liquidating and moving to another investment that is more logical and “safer.”  I see a lot of talk about dividend investment and people are supposedly making big bucks monthly/quarterly by investing into the dividend plan of attack for growth. My question is, is $30k with dividend reinvesting a good route? Or is additional investing monthly needed to really maximize growth and “passive income?” If your goal is to create income of a decent % to potentially live off of in the future when one stops working, is there any truth in what is being said from the influencers? Asking for research purposes only lolz. Thanks in advance! ",
+    "subreddit": "investing",
+    "created_utc": 1773287311,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "https://www.bogleheads.org/wiki/Three-fund_portfolio\n\n\nIt doesnt change based on how much money you have",
+        "score": 1,
+        "author": "torrent7"
+      },
+      {
+        "body": "temper your expectations - what do you think big bucks is? because you should only expect 2% from dividends of good companies",
+        "score": 1,
+        "author": "someroastedbeef"
+      }
+    ],
+    "summary_he": "הכותב מתייעץ לגבי העברת 30 אלף דולר ממטבעות דיגיטליים להשקעה בקרנות סל (ETF) מניבות דיבידנדים לצורך יצירת הכנסה פסיבית עתידית. הוא שואל האם סכום זה מספיק לצמיחה משמעותית ללא הפקדות חודשיות נוספות, ומבקש לבדוק האם טענות של משפיענים ברשת לגבי היכולת לחיות מדיבידנדים הן אכן מציאותיות.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מהתגובות, המנתח את הגישות להשקעה וניהול ציפיות פיננסיות:\n\n*   **דבקות באסטרטגיית \"תיק שלושת הקרנות\" (Three-fund portfolio):** אחת ההמלצות המרכזיות היא אימוץ המודל של Bogleheads, המתמקד בפשטות ובפיזור רחב דרך שלוש קרנות סל בסיסיות.\n*   **עקביות ללא קשר לגובה ההון:** הועלתה הטענה כי אסטרטגיית השקעה נכונה אינה צריכה להשתנות בהתאם לסכום הכסף העומד לרשות המשקיע; העקרונות נותרים זהים בין אם מדובר בסכום קטן ובין אם בסכום גדול.\n*   **ניהול ציפיות ריאלי לגבי רווחים:** קיימת קריאה למשקיעים \"לרסן את הציפיות\" שלהם ולא לצפות לתשואות חריגות או מהירות מדי מהשוק.\n*   **מציאות תשואת הדיבידנדים:** הודגש כי מחברות איכותיות (\"חברות טובות\") יש לצפות לתשואת דיבידנד צנועה יחסית של כ-2% בלבד, וזהו נתון המפתח לתכנון הכנסה פסיבית.\n*   **בחינה מחודשת של המושג \"כסף גדול\":** הדיון מעלה שאלה לגבי ההגדרה של עושר או \"כסף גדול\"; מה שנתפס כסכום משמעותי עלול להניב הכנסה שנתית צנועה בלבד במונחים של תזרים מזומנים ריאלי.\n*   **התמקדות באיכות על פני תשואה גבוהה:** קיים דגש על בחירת חברות יציבות וטובות כבסיס לתיק ההשקעות, גם אם המשמעות היא אחוז תשואה נמוך יותר בהשוואה לאפיקים מסוכנים יותר."
+  },
+  {
+    "id": "1rreri7",
+    "title": "Invest like O’Neil for beginners",
+    "url": "https://www.reddit.com/r/investing/comments/1rreri7/invest_like_oneil_for_beginners/",
+    "author": "Kevin_gato",
+    "score": 1,
+    "selftext": "Has anyone made money using O’Neil’s method? Also, what tools did they use?\n\nSince I’m Japanese, I have invested Japanese stocks but lately considering the size of the market, I’m thinking about switching my focus to U.S. stocks.\n\nI’m mainly interested in growth investing, and I’ve been studying by reading books by William O’Neil and Mark Minervini. However, tools like DeepVue and IBD seem a bit expensive on a monthly basis, so I’m wondering if it’s possible to start with free tools, at least in the beginning.\n\nI’d really appreciate hearing about your investment experiences and any advice you might have.\n\nIf you’re using free tools, please let me know.",
+    "subreddit": "investing",
+    "created_utc": 1773283016,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "The biggest mistake beginners make is thinking better tools = better results. Wrong. O'Neil made millions with newspaper stock tables and hand-drawn charts. The edge is in the discipline, not the software.",
+        "score": 1,
+        "author": "Ancient-Tank-5330"
+      },
+      {
+        "body": "It does well in strong trending markets. However in choppy markets, well, one gets chopped up by fake breakouts and breakdowns.\n\nThere is an IBD50 etf. Look at its chart and you'll see you still need to pick the correct stock(s) in the 50 top dogs to do well. Buying all 50 of them doesn't work.",
+        "score": 1,
+        "author": "kenzi28"
+      },
+      {
+        "body": "I totally feel you on those expensive tools, paying 150 bucks a month just to screen for runners is rough. I came upon this app called trylattice recently and I like to use it to set up generative market alerts for stocks with 25 percent EPS growth and strong relative strength. You can even sync earnings calls to your calendar and check stock filings in seconds with simple natural language prompts. Its way better than those overpriced screeners. Just remember to stick to those strict stop losses while you transition your focus to the deep liquidity of the US market.",
+        "score": 1,
+        "author": "CarpenterThese5372"
+      }
+    ],
+    "summary_he": "הכותב מעוניין לעבור מהשוק היפני להשקעות צמיחה בשוק האמריקאי לפי שיטתם של ויליאם אוניל ומארק מינרוויני. הוא מבקש לשמוע מניסיונם של אחרים ומחפש המלצות לכלים חינמיים לניתוח מניות, כיוון ששירותים מקצועיים בתשלום (כמו IBD) יקרים מדי עבורו כמתחיל.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מרכזיות ותובנות של הקהילה:\n\n*   **המשמעת חשובה מהטכנולוגיה:** הטעות הגדולה ביותר של סוחרים מתחילים היא האמונה שכלים יקרים או תוכנות מתקדמות יובילו לתוצאות טובות יותר. היתרון האמיתי של סוחר נובע ממשמעת עצמית ולא מהתוכנה שבה הוא משתמש.\n*   **הצלחה באמצעים דלים:** כדוגמה לחשיבות האסטרטגיה על פני הכלי, מוזכר ויליאם אוניל (מייסד IBD) שהרוויח מיליונים באמצעות שימוש בטבלאות נתונים מעיתונים ושרטוט גרפים ידני, ללא צורך בטכנולוגיה מורכבת.\n*   **מגבלות האסטרטגיה בשוק תנודתי:** שיטות מסחר המבוססות על פריצות (כמו אלו של IBD) עובדות היטב בשווקים עם מגמה חזקה, אך עלולות להוביל להפסדים בשוק \"עצבני\" או תנודתי (Choppy market) בשל פריצות שווא.\n*   **הצורך בבחירה סלקטיבית של מניות:** לא מספיק לעקוב אחרי רשימות מוכנות כמו ה-IBD50 או לקנות את קרן הסל שלהן. כדי להצליח, הסוחר עדיין חייב לדעת לבחור את המניות הנכונות ביותר מתוך הרשימה ולא להסתמך על קנייה גורפת של כל ה-50.\n*   **ביקורת על עלויות הכלים המסורתיים:** קיימת תרעומת על המחיר הגבוה של סורקי מניות פופולריים (כ-150 דולר בחודש). כחלופה, הקהילה מציעה להשתמש באפליקציות חדשות מבוססות בינה מלאכותית (כמו trylattice) המאפשרות ניתוח דוחות וקבלת התראות באמצעות שפה טבעית בעלות נמוכה יותר.\n*   **חשיבות ניהול הסיכונים והנזילות:** ללא קשר לכלי שבו משתמשים, ישנה המלצה גורפת להיצמד לפקודות קטוע הפסד (Stop Loss) נוקשות ולהתמקד בשווקים בעלי נזילות עמוקה, כמו השוק האמריקאי, במיוחד בעת מעבר בין שיטות עבודה."
+  },
+  {
+    "id": "1rrektu",
+    "title": "Am I wrong for thinking the AI bubble won’t pop?",
+    "url": "https://www.reddit.com/r/investing/comments/1rrektu/am_i_wrong_for_thinking_the_ai_bubble_wont_pop/",
+    "author": "Fatloh",
+    "score": 1,
+    "selftext": "I’m pretty young and already am investing into AI companies. I see a lot of people saying it’s like the dot com pop from the 2000s. But I don’t understand that. I already see AI being used at fast food chains, and companies using them for simple task management.  These companies will likely save a lot by not having to hire workers to do these tasks. And the bigger companies who produce these AI models I would assume they would charge for their services. So how would there not be profit? ",
+    "subreddit": "investing",
+    "created_utc": 1773282515,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "The wealthy spend a lot less of their money though",
+        "score": 1,
+        "author": "Timbo1994"
+      },
+      {
+        "body": "A bubble implies \"pricing above fair valuation models\"\n\nThere is a pricing model that suggests NVDA is not particularly over-priced:\n\nPeter Lynch's PE = G\n\nBecause NVDA's earnings have a >30% growth rate, a PE ratio around 30 is about right. \n\nThe PE ratio is around 38, so NVDA is actually fairly reasonably valued.\n\nNow, the only question is: Is it reasonable to expect NVDA to continue growing? \n\nI would argue yes. \n\nIf you use [https://metr.org/](https://metr.org/) you can clearly see that AI growth rate is incredibly high in terms of capability. If you look at a recent tweet from Trump / The White House, you can see that Claude was used in their recent attacks against Iran. If you follow AI content creators, you'd see that China is building humanoid robots that can currently do Kung Fu, but will also soon be deployable as war-robots. \n\nGiven the wide-scale utility of AI, the future demand in the near future (5 year horizon) is quite obvious. \n\nNVDA itself is not too overvalued. Without a broader economic collapse that crushes its earnings, NVDA stock will stay high. The demand for compute and inference will remain.",
+        "score": 1,
+        "author": "RatherCynical"
+      },
+      {
+        "body": "The dot com bubble was different in that companies would get crazy evaluations just by having a random website. No customers, no use-cases, zero revenue, nothing more than a stupid website nobody other than shareholders visited",
+        "score": 1,
+        "author": "Sparaucchio"
+      }
+    ],
+    "summary_he": "כותב הפוסט סבור שבועת ה-AI לא תתפוצץ, בניגוד לבועת הדוט-קום, כיוון שהוא כבר רואה שימושים מעשיים בטכנולוגיה המייעלים עבודה וחוסכים בעלויות שכר. לטענתו, חברות ה-AI יניבו רווחים קבועים מגביית תשלום על שירותיהן, מה שמבטיח את יציבות השוק בטווח הרחוק.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות בשרשור ה-Reddit, המציג 6 נקודות מבט וטיעונים מרכזיים:\n\n*   **דפוסי צריכה של עשירים:** קיימת טענה כי אנשים עשירים נוטים להוציא אחוז קטן משמעותית מהונם בהשוואה לאנשים פחות מבוססים, מה שמשפיע על זרימת הכסף בכלכלה.\n*   **הגדרת \"בועה\" כלכלית:** בועה אינה סתם מחיר גבוה, אלא מצב שבו התמחור חורג ממודלים של הערכת שווי הוגנת. לפי גישה זו, אם המודל מצדיק את המחיר, לא מדובר בבועה.\n*   **ניתוח הערכת השווי של אנבידיה (NVDA):** בהתבסס על המודל של פיטר לינץ' (המשווה בין מכפיל רווח לקצב צמיחה - PEG), נטען כי אנבידיה אינה מתומחרת בצורה מופרזת. מאחר שקצב הצמיחה שלה עולה על 30% ומכפיל הרווח שלה הוא סביב 38, השווי שלה נחשב סביר ביחס לרווחיה.\n*   **תחזית צמיחה לבינה מלאכותית:** קיימת אופטימיות רבה לגבי העתיד הקרוב (טווח של 5 שנים), הנובעת מהקפיצה המהירה ביכולות הטכנולוגיות של ה-AI. הביקוש לכוח מחשוב ולעיבוד נתונים צפוי להישאר גבוה ויציב.\n*   **שימושים אסטרטגיים וצבאיים כזרזי צמיחה:** הדיון מצביע על כך ש-AI כבר אינו תיאורטי בלבד, אלא משמש בפועל בזירות גיאופוליטיות (כמו שימוש במודל Claude לצרכים ממשלתיים/צבאיים) ובפיתוח רובוטים דמויי-אדם לצרכי לחימה (למשל בסין), מה שמבטיח ביקוש מתמשך.\n*   **ההבדל בין בועת ה-AI לבועת הדוט-קום:** הדיון מדגיש הבחנה קריטית: בבועת הדוט-קום חברות קיבלו הערכות שווי אסטרונומיות ללא הכנסות, ללא לקוחות וללא מודל עסקי. בניגוד לכך, תעשיית ה-AI הנוכחית מציגה שימושים ממשיים, הכנסות ריאליות וערך תפעולי ברור."
+  },
+  {
+    "id": "1rrek8i",
+    "title": "Where do you find your best investment ideas?",
+    "url": "https://www.reddit.com/r/investing/comments/1rrek8i/where_do_you_find_your_best_investment_ideas/",
+    "author": "alphabee_9",
+    "score": 1,
+    "selftext": "I’ve been trying different ways to find the best investment ideas.\n\nFirst I tried forums. They were often misleading and full of pump and dump schemes involving small cap stocks.\n\nThen I tried paid chatroom services (MadazMoney, MyInvestingClub, Warrior Trading, etc.).\n\nWhat surprisingly worked best for me was X.\n\nI realised I could find the best traders with a proven public track record, follow them, and get their insights and trade ideas in real time.\n\nSo my workflow became something like this:\n\n* Follow trader accounts on X\n* Track their accounts over time (sometimes for years) to verify their track record\n* When they mention a trade idea, review it against my own logic to sense check it\n* Combine that with macroeconomic data to determine the best entry and exit points, and when market conditions are ideal\n\nThe hardest part is catching the best trade ideas early. The good ones get buried quickly in the feed.\n\nSo I ended up building a small tool for myself that monitors X and surfaces trade ideas when top accounts mention them.\n\nJust sharing what worked for me.\n\nCurious if anyone else here is using X to find trade ideas (or if it’s mostly Reddit), and what your workflow looks like.",
+    "subreddit": "investing",
+    "created_utc": 1773282473,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Building your own monitoring tool for X is a big brain move to filter out the noise. I have been taking a similar path by focusing on what high profile insiders and politicians are doing through trylattice. It has a specific feature for congressional disclosure tracking that lets me see what is actually happening behind the scenes in real time. I just cross reference those moves with their stock filings data to make sure the logic holds up. It is way more reliable than following random furus who might just be pumping a position.",
+        "score": 1,
+        "author": "CarpenterThese5372"
+      },
+      {
+        "body": "My 2 cents: Do not try to follow or copy others, esp live sites. Better read good investing books and find your own way, that works and long lasting.\n\nGood Luck.",
+        "score": 1,
+        "author": "Good_Ride_2508"
+      }
+    ],
+    "summary_he": "הכותב משתף כי לאחר ניסיונות כושלים בפורומים ובקבוצות בתשלום, הוא מצא שפלטפורמת X (טוויטר) היא המקור היעיל ביותר למציאת רעיונות השקעה איכותיים. שיטת העבודה שלו כוללת מעקב ארוך טווח אחר סוחרים בעלי רקע מוכח ושימוש בכלי טכנולוגי שפיתח לניטור ציוצים בזמן אמת כדי לזהות הזדמנויות במהירות.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט וגישות שונות שעלו בקהילה:\n\n*   **סינון \"רעשי רקע\" באמצעות כלים מותאמים אישית:** קיימת הערכה רבה לבניית כלי ניטור עצמאיים (למשל עבור פלטפורמת X/Twitter). המשתמשים רואים בכך צעד חכם המאפשר לסנן מידע לא רלוונטי ולהתמקד בנתונים בעלי ערך.\n*   **מעקב אחר \"כסף חכם\" ופוליטיקאים:** גישה אחת דוגלת בהתמקדות בפעולות של אנשי פנים (insiders) בעלי פרופיל גבוה ופוליטיקאים. השימוש בכלים למעקב אחר גילויי נאות של הקונגרס נתפס כדרך להבין מה קורה \"מאחורי הקלעים\" בזמן אמת.\n*   **חשיבות האימות והצלבת נתונים:** כדי להבטיח שהאסטרטגיה מבוססת על לוגיקה מוצקה, יש הממליצים להצליב את המידע הנאסף מרשתות חברתיות או כלי ניטור עם דיווחי המניות הרשמיים (stock filings).\n*   **ספקנות כלפי משפיעני שוק (Furus):** בקהילה קיימת הסתייגות ממעקב אחר \"גורואים\" של מסחר. החשש הוא שהם מנסים להריץ מניות (pumping) כדי לשרת את הפוזיציות שלהם, ולכן הסתמכות על נתונים קשיחים נחשבת לאמינה יותר.\n*   **התנגדות להעתקת אסטרטגיות בזמן אמת:** דעה נגדית בולטת גורסת כי אין לנסות להעתיק או לעקוב אחר פעולות של אחרים, במיוחד לא מאתרים שמשדרים פעילות \"חיה\". נטען כי זו אינה דרך בת-קיימא להשקעה.\n*   **העדפת למידה תיאורטית ופיתוח עצמאי:** גישה שמרנית יותר מציעה לחזור לבסיס – קריאת ספרי השקעות איכותיים. המטרה היא שכל משקיע ימצא את הדרך הייחודית שלו שתעבוד עבורו לאורך זמן, במקום להישען על טכנולוגיה או על פעולות של אחרים."
   }
 ];
