@@ -1,337 +1,400 @@
 window.dailyTrends = [
   {
-    "id": "1rpvzhf",
-    "title": "[Industry Insight] Why we dumped our excess wine onto the bulk market (and spent the cash on a massive solar array). A reality check on winery economics.",
-    "url": "https://www.reddit.com/r/investing/comments/1rpvzhf/industry_insight_why_we_dumped_our_excess_wine/",
-    "author": "Sea-Storm-6378",
-    "score": 156,
-    "selftext": "There’s a lot of talk on this sub about the current global wine glut, vine pull-outs, and struggling regions. As someone who recently took over the management of a heritage premium winery, I want to share what surviving this downturn actually looks like from the inside.\n\nIt’s not as romantic as holding onto your wine and waiting for the market to recover. Sometimes, you have to do the exact opposite of what traditional winemaking ego tells you to do.\n\nHere are two brutal decisions we made this year to keep the lights on and protect our core premium brand:\n\n1. The \"Ghost Asset\" Trap: Why we dumped our own wine\n\nWhen I stepped in, we were sitting on a massive volume of lower-tier, commercial-grade wine from previous vintages. The previous management kept it sitting in giant stainless steel tanks. In winery accounting, this liquid looks great on the Balance Sheet as \"Inventory.\" It makes the company look profitable on paper.\n\nBut here is the physical reality: wine isn't gold. Commercial-grade wine degrades. Worse, keeping tens of thousands of liters of wine stable requires constant glycol chilling. We were paying astronomical monthly electricity bills just to refrigerate wine that nobody was buying.\n\nThe Call: We bypassed the ego. We pumped that liquid out of our tanks and sold it onto the anonymous bulk market for pennies on the dollar to private labels. We took a massive, ugly financial hit on the P&L. But in one move, we freed up our tank space for the upcoming vintage and, most importantly, we stopped the cash bleed. We traded \"vanity inventory\" for \"sanity cash flow.\"\n\n2. Reinvesting in Defense (The 100kW Solar Array)\n\nSo, what did we do with that bulk wine cash? We didn't buy new French oak forests, and we didn't launch a fancy marketing campaign. We spent six figures on a massive 100kW commercial solar system for our winery roof.\n\nTo a lot of old-school owners, spending that kind of CAPEX during an industry crisis seems insane. But if you run a winery, you know that during Vintage (harvest/crush), your power meter spins so fast it could take off. The crushers, presses, and constantly running refrigeration units consume a terrifying amount of energy.\n\nBy taking the hit on the bulk wine and reinvesting that cash into solar, we effectively wiped out a huge chunk of our fixed operational overhead (OPEX) for the next \n\n15 years.\n\nThe Takeaway:\n\nIn this current global wine climate, premium wineries aren't going bankrupt because their top-tier flagship wines aren't good enough. They are going bankrupt because they are suffocating under the holding costs of their mediocre inventory.\n\nProtect your premium old-vine fruit, dump the commercial bulk to free up cash, and ruthlessly cut your fixed overheads.",
-    "subreddit": "investing",
-    "created_utc": 1773146855,
+    "id": "1rqsnn5",
+    "title": "Consumer prices rose 2.4% annually in February, as expected",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1rqsnn5/consumer_prices_rose_24_annually_in_february_as/",
+    "author": "Front-Nectarine4951",
+    "score": 80,
+    "selftext": "Consumer prices rose 2.4% annually in February, as expected ⁦  \n  \nHeadline CPI m/m: +0.3% (as expected)   \nCore CPI m/m: +0.2% (in line, slight cool)   \nCPI y/y: +2.4% (unchanged, still above Fed's 2% target) \n\nThe annual rates were unchanged from January, indicating that inflation was holding above the Federal Reserve’s 2% target but not getting worse.\n\nWhile the report showed inflation broadly stable, prices rose modestly for shelter and services while several goods categories, including used vehicles and auto insurance, saw declines.\n\nThis report was conducted before the Iran war.\n\n[CPI inflation report February 2026:](https://www.cnbc.com/2026/03/11/cpi-inflation-report-february-2026.html?__source=iosappshare%7Ccom.apple.UIKit.activity.PostToTwitter)",
+    "subreddit": "StockMarket",
+    "created_utc": 1773232848,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "As a person that spent years winery touring and drinking a Great deal of wine and having started GLP-1 drugs of weight loss a year and a half ago-- and at that time had my last taste of wine-- I'll opine that there will be a massive demand destruction as more of the population uses GLP-1 for weight loss and AUD.  Hell, our consumption was always 10 to 15 bottles a week for the last decade.  People using GLP-1 drugs don't have any desire to drink alcohol.  Some may continue, but the enjoyment is greatly diminished.",
-        "score": 33,
-        "author": "ExplanationFuture422"
+        "body": "For all the mouth breathers in the back - these are the cooked numbers....",
+        "score": 61,
+        "author": "Middle_Scratch4129"
       },
       {
-        "body": "Yeah, actually you can search a subreddit for dryzempic and see the comments there.  And there are a number of Alcohol addiction programs that are incorporating GLP-1. It's a real thing. ",
-        "score": 20,
-        "author": "ExplanationFuture422"
+        "body": "Which is funny, because the HVAC industry did our annual 10% price increase. And I know we weren't the only ones.",
+        "score": 14,
+        "author": "Anxious_Rock_3630"
       },
       {
-        "body": "They’ve been busting since at least 2019, but it is accelerating. ",
-        "score": 13,
-        "author": "atlhart"
+        "body": "Fuck off with your bot/AI shit. ",
+        "score": 10,
+        "author": "Atlas-Sphere"
       }
     ],
-    "summary_he": "מנהל יקב פרימיום מסביר כיצד בחר למכור מלאי יין עודף ובינוני במחירי הפסד כדי לעצור את הוצאות הקירור והתחזוקה הכבדות המכבידות על המאזן. בכסף שהתפנה הוקמה מערכת סולארית רחבת היקף שתצמצם משמעותית את עלויות התפעול הקבועות של היקב לטווח הארוך. השורה התחתונה היא שבעת משבר בענף היין, הישרדות דורשת ויתור על \"מלאי וירטואלי\" לטובת נזילות מזומנים והתייעלות אנרגטית חסרת רחמים.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ותובנות שונות לגבי השפעת תרופות ה-GLP-1 (כמו אוזמפיק) על צריכת אלכוהול:\n\n*   **תחזית לפגיעה מאסיבית בביקוש:** קיימת הערכה כי ככל שיעלה מספר המשתמשים בתרופות GLP-1 לירידה במשקל או לטיפול בהתמכרויות, תעשיית האלכוהול תתמודד עם \"הרס ביקוש\" (Demand Destruction) בקנה מידה רחב.\n*   **אובדן מוחלט של החשק לשתות:** משתמשים מעידים כי התרופה מבטלת לחלוטין את הרצון לצרוך אלכוהול. אחד המגיבים תיאר מעבר מצריכה כבדה של 10–15 בקבוקי יין בשבוע להימנעות מוחלטת מאז תחילת הטיפול.\n*   **ירידה משמעותית בהנאה מהאלכוהול:** גם עבור אלו שבוחרים להמשיך לשתות תחת השפעת התרופה, נראה כי חוויית ההנאה והסיפוק מהשתייה פוחתת באופן ניכר, מה שמוביל להפחתה טבעית בכמות.\n*   **אימוץ ע\"י תוכניות גמילה:** התופעה אינה רק תופעת לוואי מקרית; תוכניות לטיפול בהתמכרות לאלכוהול (AUD) כבר החלו לשלב תרופות GLP-1 כחלק מהפרוטוקול הטיפולי שלהן.\n*   **צמיחת קהילות ותתי-תרבות ברשת:** התופעה רחבה מספיק כדי לייצר מושגים וקהילות ייעודיות, כמו הסאב-רדיט \"dryzempic\", שבו משתמשים חולקים חוויות על חייהם נטולי האלכוהול בעקבות הטיפול.\n*   **האצת משבר קיים בתעשיית היין:** המגיבים מציינים כי תעשיית היין נמצאת במגמת ירידה (\"Busting\") כבר משנת 2019, אך כניסת התרופות הללו לשוק מאיצה את התהליך ודוחפת את התעשייה למשבר עמוק יותר."
+    "summary_he": "מדד המחירים לצרכן בארה\"ב עלה ב-2.4% בחישוב שנתי בפברואר, נתון התואם את התחזיות ומעיד על אינפלציה יציבה שנותרה מעל יעד ה-2% של הפדרל ריזרב. בעוד שמחירי הדיור והשירותים עלו באופן מתון, נרשמו ירידות במחירי מוצרים שונים כמו רכבים משומשים וביטוח רכב.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המובילות בשרשור, המחולק ל-6 נקודות מבט וסנטימנטים שונים:\n\n*   **חוסר אמון מוחלט בנתונים רשמיים:** קיימת טענה חריפה שהמספרים המוצגים (ככל הנראה נתוני אינפלציה או מדדים כלכליים) הם \"מבושלים\", כלומר מזויפים או מעובדים בצורה שנועדה להטעות את הציבור.\n*   **זלזול כלפי מי שמאמין לדיווחים:** חלק מהקהילה מביע זלזול מופגן (שימוש בכינויי גנאי כמו \"mouth breathers\") כלפי אנשים שמקבלים את הנתונים הרשמיים כפשוטם מבלי להטיל בהם ספק.\n*   **סתירה בין הנתונים למציאות בשטח:** משתמשים מצביעים על פער קיצוני בין הדיווחים הכלכליים לבין החוויה היומיומית שלהם, במיוחד בנוגע לעליות מחירים מתמשכות בתעשיות ספציפיות.\n*   **עדות לעליות מחירים אגרסיביות בסקטור השירותים:** מובאת דוגמה מתחום מיזוג האוויר (HVAC) על עליית מחירים שנתית קבועה של 10%, מה שסותר את הנרטיב של התמתנות האינפלציה.\n*   **תחושה של העלאות מחירים רוחביות במשק:** קיימת סברה שסקטור המיזוג אינו לבד, ושתעשיות רבות נוספות מעלות מחירים בצורה דומה, מה שיוצר תחושת נטל כלכלי כבד שאינו משתקף בסטטיסטיקה.\n*   **עוינות וחשדנות כלפי בינה מלאכותית (AI):** ניכר סנטימנט שלילי ותוקפני כלפי פוסטים או משתמשים שנחשדים כבוטים או כתוצרים של בינה מלאכותית, תוך דרישה לשיח אנושי \"אמיתי\" ולא ממוכן."
   },
   {
-    "id": "1rpy89p",
-    "title": "The CSIS estimated Operation Epic Fury burned through $3.7 billion in munitions in its first 100 hours. What does that actually mean for defense investors?",
-    "url": "https://www.reddit.com/r/investing/comments/1rpy89p/the_csis_estimated_operation_epic_fury_burned/",
-    "author": "acceinvestments",
-    "score": 111,
-    "selftext": "I've been trying to think clearly about the Iran conflict and what it actually means for defense holdings, because most of the coverage I'm reading focuses on the macro drama and not the supply chain reality.\n\nThe Center for Strategic and International Studies published an estimate this week: the first 100 hours of Operation Epic Fury cost approximately $3.7 billion, with $3.5 billion of that unbudgeted. The biggest line item by far is munitions replacement, specifically Tomahawks, SM-6 interceptors, PAC-3 missiles, and precision guided munitions.\n\nRTX makes the Tomahawk and the PAC-3. LMT makes the LRASM and the Patriot upgrades. NOC makes the AARGM-ER. These aren't broad defense sector names. These are the specific companies whose products are physically being consumed right now in an active conflict.\n\nThe pattern from prior US conflicts: the initial spike prices in the headlines. The durable re-rating happens 6 to 18 months later, when the replenishment contracts come through and show up in revenue. That's the stage I think we're entering into now with this conflict.\n\nOne complication worth flagging: AeroVironment (AVAV) reports tonight, and it's a messier situation. The BlueHalo acquisition inflated the revenue comparison significantly (182% YoY growth expected), but AVAV has missed EPS in 3 of the last 4 quarters. There's also an unresolved contract question that the market is treating as binary.\n\nAnyone else watching the defense sector through this lens, or are most people just treating it as a short-term geopolitical trade?",
-    "subreddit": "investing",
-    "created_utc": 1773152443,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "You mean Operation *Epstein* Fury.",
-        "score": 127,
-        "author": "alloutofchewingum"
-      },
-      {
-        "body": "Lockheed Martin and Raytheon are not broad defense sector names? Northrop Grumman? These are literally the defense sector.",
-        "score": 56,
-        "author": "InfamousDatabase9710"
-      },
-      {
-        "body": "I hate to be the “its already priced in” but Raytheon already signed a contract in February that doubled tomahawk production, I don’t know that the DoD waits for stockpiles to be depleted to place orders, but I’m willing to bet if the war is prolonged or expanded and there needs to be a congressional supplementary funding bill that the DIBs get the call before Congress.",
-        "score": 24,
-        "author": "mattmentecky"
-      }
-    ],
-    "summary_he": "הפוסט מנתח את ההשלכות הכלכליות של מבצע \"Epic Fury\", שבו נאמדו עלויות החימוש בכ-3.7 מיליארד דולר בתוך 100 שעות בלבד, מה שיוצר ביקוש אדיר למוצרים של חברות כמו RTX, לוקהיד מרטין ונורת'רופ גרומן. הכותב טוען כי ההזדמנות האמיתית למשקיעים אינה בזינוק המיידי במניות הביטחוניות, אלא בחוזים ארוכי הטווח לחידוש המלאי שצפויים להשתקף בדוחות הכספיים בטווח של חצי שנה עד שנה וחצי מהיום.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המובילות, הכולל 6 נקודות מבט ותחושות קהילתיות שונות:\n\n*   **ספקנות וציניות כלפי הממשל:** השימוש בכינוי הלעגני \"מבצע זעם אפשטיין\" (Operation Epstein Fury) משקף הלך רוח ציני וחוסר אמון במניעים של המבצעים הצבאיים, תוך רמיזה לשחיתות או לאג'נדות נסתרות של האליטות.\n*   **זיהוי עמודי התווך של המגזר:** קיימת הסכמה בקהילה שחברות כמו לוקהיד מרטין (Lockheed Martin), ריית'און (Raytheon) ונורת'רופ גראמן (Northrop Grumman) אינן סתם חלק מהמגזר, אלא הן מייצגות את התעשייה הביטחונית עצמה באופן המובהק ביותר.\n*   **הנחת ה\"תמחור מראש\" (Priced In):** עולה טענה שוקיסטית קלאסית לפיה התפתחויות משמעותיות, כמו הכפלת ייצור טילי הטומהוק של ריית'און, כבר ידועות ומתומחרות במחירי המניות, ולכן לא בהכרח יובילו לשינוי מיידי בערך השוק.\n*   **אסטרטגיית רכש פרואקטיבית של משרד ההגנה:** הקהילה מציינת שמשרד ההגנה האמריקאי (DoD) אינו ממתין להתרוקנות המלאים כדי לבצע הזמנות חדשות, אלא חותם על חוזים ארוכי טווח מראש כדי להבטיח רציפות.\n*   **תלות בהסלמה ומימון מהקונגרס:** קיימת הערכה שאם המלחמה תתרחב או תתארך, הדבר יוביל בהכרח לצורך בחקיקת תקציבים משלימים בקונגרס, מה שיזרים הון נוסף לתעשיות הביטחוניות.\n*   **מרכזיותו של הבסיס התעשייתי הביטחוני (DIB):** מובעת הדעה כי התעשיות הביטחוניות הן הגורם הראשון שמקבל את \"הקריאה\" מהממשל בעת חירום, לעיתים אף לפני שהתהליכים הפוליטיים בקונגרס מושלמים, מה שמדגיש את כוחן והשפעתן."
-  },
-  {
-    "id": "1rpsbs1",
-    "title": "Where should I put my money?",
-    "url": "https://www.reddit.com/r/investing/comments/1rpsbs1/where_should_i_put_my_money/",
-    "author": "Moccabean70",
-    "score": 28,
-    "selftext": "I’m a very late bloomer when it comes to saving. Only began about 4 years ago. I am now 56. I have a 403b with about 52K (contribute about 12K a year) a Roth IRA with 18k (opened it late last year and plan to keep maxing it out).  a few brokerage accounts totaling about 35K, an Acorns account with 10,500K and I have a CD that will mature very soon that is now worth about 103K. My question is what should I do with the money from my CD? I’m a little worried with the current geopolitical situation and hesitate to put it into one of my brokerage accounts. Does it make sense to put it back into another CD? Should I invest half (brokerage account) and put the rest into a CD or HYSA to have as an emergency fund? Any help would be appreciated. ",
-    "subreddit": "investing",
-    "created_utc": 1773135065,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "You should do what you're comfortable doing.\n\nAlso remember, you don't need to cash out of the market day 1 of retirement. Some of that money has a 20 or 30 year window. Retiring in a decade isn't the end of making gains through investments. ",
-        "score": 21,
-        "author": "R101C"
-      },
-      {
-        "body": "Alot of us are late bloomers. Since they don't teach us about investing in schools we know nothing about how good it can be. If they showed and taught this kind of information in the classrooms alot more people would be less scared of investing their money. ",
-        "score": 7,
-        "author": "Prosperah"
-      },
-      {
-        "body": "1. IF you don't already have an emergency fund, then do that.\n\n  \n2. I would be investing as much as I could to get some kind of a retirement.",
-        "score": 6,
-        "author": "Bitter_Proof_9288"
-      }
-    ],
-    "summary_he": "הכותב, בן 56 שהחל לחסוך בשלב מאוחר בחייו, מבקש ייעוץ כיצד להשקיע כ-103 אלף דולרים מפיקדון (CD) שעומד לפקוע בקרוב. הוא חושש מהמצב הגיאופוליטי ומתלבט אם להפקיד את הכסף מחדש בפיקדון, להשקיעו בשוק ההון, או לשלב בין השקעות לקרן חירום נזילה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המובילות ב-Reddit, הכולל 6 נקודות מבט ודעות שונות שהועלו על ידי חברי הקהילה:\n\n*   **התאמה אישית ורמת נוחות:** על המשקיע לפעול בראש ובראשונה בהתאם למה שמרגיש לו בנוח באופן אישי. אין \"נוסחה אחת\" שמתאימה לכולם, והביטחון העצמי בביצוע הפעולה חשוב לא פחות מהפעולה עצמה.\n*   **השקעה היא לטווח ארוך, גם לאחר הפרישה:** יום הפרישה אינו \"קו הסיום\" שבו מושכים את כל הכספים מהשוק. למעשה, חלק גדול מהכסף עשוי להישאר מושקע למשך 20 או 30 שנים נוספות גם לאחר היציאה לגמלאות.\n*   **המשכיות בייצור רווחים:** פרישה בעוד עשור אינה מסמלת את סוף תקופת הרווחים. ניתן ואף רצוי להמשיך להשיא תשואה על ההשקעות גם לתוך תקופת הפנסיה כדי לשמור על ערך הכסף.\n*   **הצורך בחינוך פיננסי בבתי הספר:** קיימת תחושת החמצה בקהילה לגבי היעדר לימודי השקעות במערכת החינוך. חברי הקהילה מאמינים שאם היו מלמדים את הנושא בבתי הספר, אנשים היו פחות חוששים להשקיע את כספם.\n*   **הבנה מפיגה פחד:** קיים קשר ישיר בין ידע לבין ביטחון כלכלי. חוסר הידע הוא המקור העיקרי לפחד מהשקעות, וגישה למידע נכון בשלב מוקדם הייתה הופכת רבים למשקיעים בטוחים יותר.\n*   **סדר עדיפויות כלכלי (קרן חירום לפני הכל):** לפני שמתחילים להשקיע בשוק ההון, ישנה חשיבות עליונה להקמת \"קרן חירום\" (Emergency Fund). רק לאחר הבטחת כרית ביטחון למקרים דחופים, יש להשקיע את המקסימום האפשרי כדי להבטיח קיום בכבוד בפרישה."
-  },
-  {
-    "id": "1rptoha",
-    "title": "Ackman Seeks $10 Billion in US IPO of Pershing Square and Fund",
-    "url": "https://www.reddit.com/r/finance/comments/1rptoha/ackman_seeks_10_billion_in_us_ipo_of_pershing/",
-    "author": "bloomberg",
-    "score": 1,
-    "selftext": "*Pershing Square Inc. files for an IPO, in a deal that would see billionaire Bill Ackman’s hedge fund make its debut on a US exchange alongside a new closed-end fund.*",
-    "subreddit": "finance",
-    "created_utc": 1773139855,
-    "thumbnail": "https://external-preview.redd.it/C9oVSvv3dEy9F64uUV010JzrMIQhGl6xUO69ddU44oo.jpeg?width=140&height=93&auto=webp&s=b358735cb64a377210506199cde4d93da7692c75",
-    "top_comments": [
-      {
-        "body": "Try #2. I wonder if karma is still working for this annoying creature.",
-        "score": 1,
-        "author": "Designer-String3569"
-      },
-      {
-        "body": "*Bailey Lipschultz for Bloomberg News*  \n  \nPershing Square Inc. filed for an initial public offering, in a deal that would see billionaire Bill Ackman’s hedge fund make its debut on a US exchange alongside a new closed-end fund.  \n  \nThe combined initial public offering includes a stake in Pershing Square USA Ltd., a closed-end fund, and Ackman’s Pershing Square Capital Management, the filings show. For every 100 shares of the closed-end fund IPO purchased by a buyer, that investor will receive 20 shares in the hedge fund, the filing shows.  \n  \nAckman is looking to raise between $5 billion and $10 billion for Pershing Square USA in the combined deal, with investors able to buy shares at $50 apiece. The offering has secured $2.8 billion in commitments from qualified investors including family offices, pension funds and insurances companies, the filing shows. The investors in the private placement will receive 30 shares in the hedge fund for every 100 closed-end fund shares purchased, the filing shows.  \n  \n[Read the full story here.](https://www.bloomberg.com/news/articles/2026-03-10/ackman-seeks-10-billion-in-us-ipo-of-pershing-square-and-fund)",
-        "score": 1,
-        "author": "bloomberg"
-      }
-    ],
-    "summary_he": "המיליארדר ביל אקמן הגיש בקשה להנפקה ראשונית לציבור (IPO) של חברת \"פרשינג סקוור\" במטרה לגייס כ-10 מיליארד דולר. המהלך יאפשר לקרן הגידור שלו להיסחר לראשונה בבורסה האמריקאית, לצד השקת קרן השקעות סגורה חדשה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והפרטים העולים מהתגובות בנוגע להנפקת Pershing Square של ביל אקמן:\n\n*   **מבנה הנפקה ייחודי ומשולב:** ההנפקה המתוכננת אינה סטנדרטית; היא כוללת שילוב בין קרן סגורה חדשה בשם \"Pershing Square USA Ltd\" לבין החזקה בחברת ניהול קרנות הגידור של אקמן עצמו.\n*   **יעדי גיוס שאפתניים:** אקמן שואף לגייס סכום משמעותי שבין 5 ל-10 מיליארד דולר, כאשר מחיר המניה בהנפקה נקבע על 50 דולר ליחידה.\n*   **תמריצים למשקיעים:** כחלק מהעסקה, משקיעים שיקנו מניות בקרן הסגורה יקבלו הטבה בדמות מניות בחברת הניהול של קרן הגידור (ביחס של 20 מניות ניהול על כל 100 מניות קרן שנרכשו).\n*   **גיבוי מוסדי משמעותי:** למרות הספקנות ברשת, ההנפקה כבר הבטיחה התחייבויות בהיקף של 2.8 מיליארד דולר מצד משקיעים כשירים, כולל קרנות פנסיה, חברות ביטוח וניהול הון משפחתי (Family Offices).\n*   **העדפת משקיעים פרטיים מוקדמים:** קיימת הבחנה בין הציבור הרחב למשקיעים במיקום פרטי (Private Placement); אלו האחרונים יזכו להטבה מוגדלת של 30 מניות בחברת הניהול על כל 100 מניות קרן, לעומת 20 בלבד למשקיעים מהשורה.\n*   **סלידה וספקנות מצד הקהילה:** חלק מהגולשים הביעו עוינות גלויה כלפי ביל אקמן, כינו אותו \"יצור מעצבן\" ותהו האם ה\"קארמה\" תפעל נגדו ותוביל לכישלון המהלך, במיוחד בהתחשב בכך שמדובר בניסיון נוסף שלו להוציא לפועל את המהלך (\"Try #2\").",
-    "dateString": "2026-03-11",
-    "savedAt": {
-      "_seconds": 1773212814,
-      "_nanoseconds": 32000000
-    }
-  },
-  {
-    "id": "1rq2pb7",
-    "title": "Inheriting Stocks of non publicly traded Company",
-    "url": "https://www.reddit.com/r/investing/comments/1rq2pb7/inheriting_stocks_of_non_publicly_traded_company/",
-    "author": "yodas_sidekick",
+    "id": "1rrrf6f",
+    "title": "Middle East Tensions: Investment Moves?",
+    "url": "https://www.reddit.com/r/investing/comments/1rrrf6f/middle_east_tensions_investment_moves/",
+    "author": "Possible_Cheek_4114",
     "score": 2,
-    "selftext": "I will be inheriting stock in a company from a family member who passed away.  How do I handle this? They will likely be going public later this year.  I have pretty much zero trading experience. Do I need an account of sorts E\\*trade etc. ? Where does it gets transferred, any resources for where I may learn how to handle this? Thanks.",
+    "selftext": "With rising tensions in the Middle East, markets could see sharp swings. Energy, defense, and commodity sectors may be most affected. How are you adjusting your portfolio amid the uncertainty, and which plays are you watching closely for potential moves?",
     "subreddit": "investing",
-    "created_utc": 1773162427,
+    "created_utc": 1773323762,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Get a financial advisor, this is not a question for reddit",
-        "score": 7,
-        "author": "IllllIIlIllIllllIlll"
+        "body": "the best move was to buy oil stocks about 18 months ago. \n\nbut that would mean ignoring AI hype but ha ha ha ha who does that amirite? tech tech tech tech tech is a guaranteed win",
+        "score": 1,
+        "author": "zeppo_shemp"
       },
       {
-        "body": "It's also a great advice. If they are likely to go public, take your time before making decision. \n\nIf they or anyone pressures you into selling before, maybe you shouldn't :) ",
-        "score": 4,
-        "author": "UsnDoto"
+        "body": "what kind of tensions?\n\nis everyone excited for a new movie?",
+        "score": 1,
+        "author": "zeppo_shemp"
       },
       {
-        "body": "Luckily it was, another commenter was able to answer my questions. Thanks though!  ",
-        "score": 4,
-        "author": "yodas_sidekick"
+        "body": "I've been adding the S&P 500 index daily, this strategy worked during other major vol spikes like Covid and the \"liberation day\" panic last year.",
+        "score": 1,
+        "author": "PoolOfLava"
       }
     ],
-    "summary_he": "הכותב עומד לרשת מניות של חברה פרטית שצפויה להנפיק בבורסה בקרוב, ומציין כי אין לו כל ניסיון קודם במסחר. הוא מבקש הדרכה לגבי אופן ניהול התהליך, הצורך בפתיחת חשבון מסחר וקבלת משאבים ללמידת הנושא.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות בשרשור, הכולל 6 נקודות מבט וסנטימנטים שונים:\n\n*   **נחיצות של ייעוץ מקצועי:** קיימת עמדה נחרצת לפיה שאלות פיננסיות מורכבות אינן צריכות להיפתר בפורומים כמו רדיט, ויש לפנות לייעוץ מקצועי של מומחה פיננסי.\n*   **הערך של סבלנות והמתנה:** במידה וחברה נמצאת לפני הנפקה לציבור (IPO), ההמלצה היא לקחת את הזמן ולא למהר לקבל החלטות גורליות לפני שהתמונה מתבהרת.\n*   **זיהוי נורות אזהרה תחת לחץ:** הקהילה מזהירה מפני גורמים המפעילים לחץ למכור נכסים או מניות; לחץ כזה נתפס כסימן מחשיד לכך שהמכירה אולי אינה לטובת המשתמש.\n*   **יעילותה של חוכמת ההמונים:** למרות הספקנות כלפי ייעוץ ברשת, ישנם משתמשים שמעידים כי הצליחו לקבל תשובות מדויקות ומועילות מחברי הקהילה שפתרו להם את הבעיה.\n*   **זהירות ואחריות אישית:** הדיון משקף מתח בין הגישה ה\"רשמית\" (ללכת לייעוץ) לבין הגישה הקהילתית, אך מדגיש את הצורך בזהירות יתרה בניהול משאבים פיננסיים.\n*   **הכרת תודה ושיתופיות:** הדיון מסתיים בטון חיובי של הוקרה כלפי משתמשים אחרים שעזרו, מה שמחזק את תחושת הסולידריות בתוך הקהילה למרות רגישות הנושא."
-  },
-  {
-    "id": "1rqmpq8",
-    "title": "Questions regarding marijuana in the industry",
-    "url": "https://www.reddit.com/r/finance/comments/1rqmpq8/questions_regarding_marijuana_in_the_industry/",
-    "author": "Fantastic_Credit9310",
-    "score": 1,
-    "selftext": "Hey everyone, I’m currently a student majoring in finance with an emphasis on financial planning. What are your experiences with marijuana usage in the finance industry as a whole, as well as financial planning specifically (if you have worked in that specialty)? \n\nAre drug tests common, random, only upon hiring, or relatively rare? If they are common/ random, do you see the industry moving towards not testing for marijuana in the future? \n\nAlso, I received an internship offer that I did not apply for, they reached out to me and a few other students directly. I sent in my resume as requested, however, I was not expecting the opportunity, so I had been smoking on a nightly basis for the last 6-8 months at least. I put smoking on pause last week in case they reach back out for an interview, but depending on when that is, I may not pass. \n\nDo interns typically get drug tested upon onboarding?  \n\nThanks in advance for any input!",
-    "subreddit": "finance",
-    "created_utc": 1773212412,
-    "thumbnail": "https://preview.redd.it/s927c9aw6dog1.jpeg?width=140&height=125&auto=webp&s=f9660eccd9fcd6fab3cb5b2b40c02b8a4425c495",
-    "top_comments": [],
-    "summary_he": "סטודנט לפיננסים מבקש מידע על שכיחותן של בדיקות סמים בתעשייה ועל המדיניות המקובלת כלפי מתמחים בתחום. הוא משתף כי קיבל הצעת התמחות מפתיעה לאחר תקופה שבה צרך קנאביס באופן קבוע, ומביע חשש שלא יעבור בדיקת סמים פוטנציאלית כחלק מתהליך הקבלה.",
-    "category_he": "עסקים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-03-11",
-    "savedAt": {
-      "_seconds": 1773212797,
-      "_nanoseconds": 840000000
-    }
-  },
-  {
-    "id": "1rrgnec",
-    "title": "Check out PANW for gains after Iran hack",
-    "url": "https://www.reddit.com/r/investing/comments/1rrgnec/check_out_panw_for_gains_after_iran_hack/",
-    "author": "Awkward_Awareness_37",
-    "score": 1,
-    "selftext": "New Iran hikes highlight urgent need for more Palo Alto cybersecurity government contracts. In light of recent general software decline, and considering all the cybersecurity companies working under contract with the US, PANW appears poised to gain the most.\n\nhttps://apple.news/AmUqAovbOQYe\\_o\\_HnMT5WNg",
-    "subreddit": "investing",
-    "created_utc": 1773288377,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "הפוסט ממליץ לעקוב אחר מניית פאלו אלטו נטוורקס (PANW), שצפויה להרוויח מהצורך הגובר בפתרונות אבטחת מידע בעקבות מתקפות הסייבר מאיראן. לטענת הכותב, למרות המגמה השלילית במגזר התוכנה, החברה ממוצבת היטב לזכייה בחוזים ממשלתיים נוספים בארה\"ב בהשוואה למתחרותיה.",
+    "summary_he": "הפוסט דן בהשפעת המתיחות הביטחונית במזרח התיכון על שוק ההון ובתנודתיות שעלולה להיווצר במגזרי האנרגיה, הביטחון והסחורות. הכותב מבקש מהגולשים לשתף כיצד הם מתאימים את תיקי ההשקעות שלהם למצב ובאילו מהלכים כדאי להתמקד לאור חוסר הוודאות.",
     "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות בשרשור, המציג 6 נקודות מבט וסנטימנטים שונים בקהילה:\n\n*   **החמצת הזדמנויות בסקטור האנרגיה:** קיימת תחושת חרטה או \"בדיעבד\" על כך שהשקעה במניות נפט לפני כ-18 חודשים הייתה מהלך כלכלי מנצח, אך רבים פספסו זאת.\n*   **ביקורת על ההייפ סביב הבינה המלאכותית (AI):** המשתמשים מצביעים על כך שההתלהבות המוגזמת מטכנולוגיית ה-AI גרמה למשקיעים להתעלם מאפיקי השקעה מסורתיים ורווחיים יותר באותה תקופה.\n*   **סרקזם כלפי הנהירה לטכנולוגיה:** קיימת נימה צינית כלפי התפיסה הרווחת בקרב משקיעים ש\"טכנולוגיה היא תמיד ניצחון מובטח\", תוך לעג לנטייה של העדר להיצמד למניות טק בכל מחיר.\n*   **זלזול או הומור כלפי מתיחות גיאופוליטית:** חלק מהגולשים בוחרים להגיב בציניות או בהתעלמות מכוונת מהמתיחות הביטחונית/פוליטית, תוך השוואת המצב ל\"ציפייה לסרט חדש\" כדרך להתמודד עם אי-הוודאות.\n*   **דבקות באסטרטגיית מיצוע השקעות (DCA):** ישנם משקיעים המאמינים ברכישה יומית עקבית של מדד ה-S&P 500, ללא קשר לתנודות השוק, כשיטה שהוכיחה את עצמה לאורך זמן.\n*   **הסתמכות על משברי עבר:** הקהילה שואבת ביטחון מהתנהלות השוק במשברים קודמים (כמו תקופת הקורונה או ימי פאניקה אחרים בשנה החולפת) כדי להצדיק המשך השקעה בזמנים של תנודתיות גבוהה (\"Vol spikes\")."
+  },
+  {
+    "id": "1rrzdh9",
+    "title": "I Built a Free AI Financial Modeling Pack",
+    "url": "https://www.reddit.com/r/finance/comments/1rrzdh9/i_built_a_free_ai_financial_modeling_pack/",
+    "author": "financialsinner",
+    "score": 1,
+    "selftext": "Dropped a short reel on AI × Financial Modeling.\n\nI went beyond the reel and put together a free practical pack that includes a professional Excel financial modeling template plus a complete PDF workflow guide to help with 3-statement modeling using AI.\n\nIf that’s genuinely useful to you, the Instagram link is here: https://www.instagram.com/reel/DVxnHVADQUQ/?\n\nComment GUIDE on the reel and I’ll send it to you there.\n\nMade it free because good AI + Finance material is still too scattered, and most people are still stuck with surface-level content instead of practical workflows.\n\nAlso, if you want more content around AI × Finance, Excel, investing, trading, and financial analysis, make sure to follow me there.\n\nFinance community of 11k+ investors and finance professionals who read my filtered free financial insights daily: https://chat.whatsapp.com/EkdTPGeEKFDHgFJvICLS9w?mode=gi\\_t",
+    "subreddit": "finance",
+    "created_utc": 1773341233,
+    "thumbnail": "https://external-preview.redd.it/MHRwdzMxdnZ0bm9nMYNz0JN7HRYpejqryk39wLgVHv3rBLm591vYb7vTZCJx.png?width=140&height=140&crop=1:1,smart&format=jpg&auto=webp&s=27ab37e6e3c35366a7d3c331ae57a493d13990a1",
+    "top_comments": [],
+    "summary_he": "הפוסט מציע ערכת כלים חינמית המשלבת בינה מלאכותית במידול פיננסי, הכוללת תבנית אקסל מקצועית ומדריך עבודה לניתוח דוחות כספיים. מטרת הערכה היא לספק ידע פרקטי ומסודר בתחום הפיננסים, וניתן להשיגה דרך חשבון האינסטגרם או קבוצת הווטסאפ של היוצר.",
+    "category_he": "פיננסים",
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1rrgl5c",
-    "title": "Why dont more people follow insider trading?",
-    "url": "https://www.reddit.com/r/investing/comments/1rrgl5c/why_dont_more_people_follow_insider_trading/",
-    "author": "Ok_Cranberry_9075",
+    "id": "1rsbzqe",
+    "title": "Nervous about divesting from real estate",
+    "url": "https://www.reddit.com/r/investing/comments/1rsbzqe/nervous_about_divesting_from_real_estate/",
+    "author": "peach__kitten",
     "score": 1,
-    "selftext": "Im purely talking on a mathematical, practical level. Not a moral one.\n\n  \nIm 20f any literally put my first 100$ in investing.\n\nWith the help of reddit ( thank you ) I put this investing plan together:\n\n50% [Vanguard Total Stock Market ETF](https://investor.vanguard.com/investment-products/etfs/profile/vti) (VTI) \n\n25% [Invesco S&P 500® Momentum ETF](https://www.invesco.com/us/en/financial-products/etfs/invesco-sp-500-momentum-etf.html) (SPMO)\n\n25% [Vanguard Information Technology ETF](https://investor.vanguard.com/investment-products/etfs/profile/vgt)\n\n  \nThis is great but I remember hearing some meme or something like that\"just follow whatever x is doing\" And the women I was thinking of is  Nancy Pelosi. Why dont more people follow politicians that obviously are profiting off of insider trading?",
+    "selftext": "I purchased a duplex in 2020 and was owner-occupying one side and the renting the other at the time. 3.5% mortgage, mostly paid by the tenants. At the end of last year I relocated for my partner's job to another state and rented my side as well. Net income after expenses (yard work, utilities) is $1400/month. Roughly $700k in equity.\n\nThe problem is, I don't think I'll be moving back. In fact, I'm hoping to retire early in the EU, in the next 5 years. I also know I need to sell within 3 years to take the primary residence exemption, but I don't plan to buy anywhere else for many years, until I know where I'm finally settling down.\n\nBeing divested from real estate for maybe 5-10 years makes me nervous, but I wonder if it's actually just an emotional response. I've built much of my net worth from buying my first house at 25, spending 11 years remodeling it with my dad, then selling at a significant gain (actually, no more than the $250k exemption over 11 years). Owning a home, then buying an investment property felt like I \"made it\" where many of my friends took much longer to buy their first home, if they managed to at all. Home ownership feels out of reach for so many and I have this feeling that I'm failing if I no longer own a home. \n\nIs any of this rooted in actual logic or am I putting some value on my RE investment that I shouldn't?",
     "subreddit": "investing",
-    "created_utc": 1773288195,
+    "created_utc": 1773371168,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Insider trades have to be disclosed within 48 hours of the trade, legally. Either you can peruse the trades yourself on the SEC website (I find it time consuming) or you can pay someone to do it for you. \n\nIt also helps to have a strategy. Just someone buying a stock doesn’t make it a buy. I find insider buying to be an underrated strategy. It doesn’t always work. It didn’t work well during Covid. Also during the 08 financial crisis we saw a massive boost of insider buys in banks that went bust i.e. Wachovia. I bring that up as we are seeing similar activity in the AI lending space.\n",
+        "body": "Why not an asset manager and forget it? You will lose some income to pay the manager but also it wont become burdensome to maintain for you (and you keep the equity)",
         "score": 1,
-        "author": "Revfunky"
+        "author": "Fit_Cupcake_5254"
       },
       {
-        "body": "Of course not. I was simply stating an example of this investing \"philosophy\" in action.",
-        "score": 1,
-        "author": "Financial-Swim-5884"
-      },
-      {
-        "body": "This is it. By the time you learn about the trade and copy it, there’s a good chance you are the bag holder ",
-        "score": 1,
-        "author": "wolfishnickelsyr"
-      }
-    ],
-    "summary_he": "כותבת הפוסט מציגה את תיק ההשקעות הראשון שלה המבוסס על מדדים מובילים (VTI, SPMO, VGT) ותוהה לגבי כדאיותן של אסטרטגיות אחרות. היא שואלת מדוע משקיעים נוספים אינם פועלים לפי עסקאות של פוליטיקאים, כמו ננסי פלוסי, שנראה כי הם מרוויחים משימוש במידע פנים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט וסנטימנטים שונים בקהילה בנוגע למעקב אחר עסקאות בעלי עניין (Insider Trading):\n\n*   **חובת דיווח ונגישות המידע:** על פי החוק, אנשי פנים מחויבים לדווח על עסקאותיהם תוך 48 שעות. המידע אמנם פתוח לציבור באתר ה-SEC, אך הניתוח העצמאי שלו נתפס כפעולה שגוזלת זמן רב מדי, מה שדוחף משקיעים להיעזר בשירותים בתשלום.\n*   **אסטרטגיה מוערכת בחסר אך מוגבלת:** קיימת תפיסה בקהילה שמעקב אחר רכישות של אנשי פנים היא אסטרטגיה טובה שרבים נוטים להתעלם ממנה, אך מודגש כי רכישה של איש פנים כשלעצמה אינה מהווה עילה מספקת לקניית המניה ללא אסטרטגיה רחבה יותר.\n*   **הסתמכות יתר על העבר וכישלונות היסטוריים:** המגיבים מציינים כי האסטרטגיה נכשלה ברגעים קריטיים, כמו במשבר הפיננסי של 2008 (עם בנקים כמו Wachovia) ובזמן הקורונה. זהו תמרור אזהרה לכך שאנשי פנים יכולים לטעות לגבי עתיד החברה שלהם.\n*   **חשש ספציפי בתחום ה-AI:** עולה נקודת מבט אקטואלית המזהה דפוסים של רכישות אנשי פנים בתחום הלוואות ה-AI (AI lending), אשר מזכירים את ההתנהלות הבעייתית של הבנקים לפני קריסתם ב-2008.\n*   **סיכון ה\"איחור בביצוע\" (Time Lag):** קיימת סקפטיות לגבי היכולת של משקיע קטן להרוויח ממידע זה. עד שהעסקה מדווחת ומתפרסמת, המחיר לרוב כבר משקף את המידע, מה שעלול להשאיר את המשקיע הקטן כ\"מחזיק תיקים\" (Bag holder) בעסקאות מפסידות.\n*   **ההבדל בין \"פילוסופיית השקעה\" למציאות:** הדיון מדגיש כי קיים פער בין התיאוריה של מעקב אחר אנשי פנים לבין היישום בפועל, כאשר דוגמאות היסטוריות משמשות להמחשת הסיכונים הטמונים בגישה זו ולאו דווקא כהמלצה גורפת."
-  },
-  {
-    "id": "1rrga63",
-    "title": "$30k to invest.. quality dividend etf?",
-    "url": "https://www.reddit.com/r/investing/comments/1rrga63/30k_to_invest_quality_dividend_etf/",
-    "author": "GMbadgirlxxx",
-    "score": 1,
-    "selftext": "I know someone that has a crypto account they’re debating on liquidating and moving to another investment that is more logical and “safer.”  I see a lot of talk about dividend investment and people are supposedly making big bucks monthly/quarterly by investing into the dividend plan of attack for growth. My question is, is $30k with dividend reinvesting a good route? Or is additional investing monthly needed to really maximize growth and “passive income?” If your goal is to create income of a decent % to potentially live off of in the future when one stops working, is there any truth in what is being said from the influencers? Asking for research purposes only lolz. Thanks in advance! ",
-    "subreddit": "investing",
-    "created_utc": 1773287311,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "https://www.bogleheads.org/wiki/Three-fund_portfolio\n\n\nIt doesnt change based on how much money you have",
-        "score": 1,
-        "author": "torrent7"
-      },
-      {
-        "body": "temper your expectations - what do you think big bucks is? because you should only expect 2% from dividends of good companies",
-        "score": 1,
-        "author": "someroastedbeef"
-      }
-    ],
-    "summary_he": "הכותב מתייעץ לגבי העברת 30 אלף דולר ממטבעות דיגיטליים להשקעה בקרנות סל (ETF) מניבות דיבידנדים לצורך יצירת הכנסה פסיבית עתידית. הוא שואל האם סכום זה מספיק לצמיחה משמעותית ללא הפקדות חודשיות נוספות, ומבקש לבדוק האם טענות של משפיענים ברשת לגבי היכולת לחיות מדיבידנדים הן אכן מציאותיות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מהתגובות, המנתח את הגישות להשקעה וניהול ציפיות פיננסיות:\n\n*   **דבקות באסטרטגיית \"תיק שלושת הקרנות\" (Three-fund portfolio):** אחת ההמלצות המרכזיות היא אימוץ המודל של Bogleheads, המתמקד בפשטות ובפיזור רחב דרך שלוש קרנות סל בסיסיות.\n*   **עקביות ללא קשר לגובה ההון:** הועלתה הטענה כי אסטרטגיית השקעה נכונה אינה צריכה להשתנות בהתאם לסכום הכסף העומד לרשות המשקיע; העקרונות נותרים זהים בין אם מדובר בסכום קטן ובין אם בסכום גדול.\n*   **ניהול ציפיות ריאלי לגבי רווחים:** קיימת קריאה למשקיעים \"לרסן את הציפיות\" שלהם ולא לצפות לתשואות חריגות או מהירות מדי מהשוק.\n*   **מציאות תשואת הדיבידנדים:** הודגש כי מחברות איכותיות (\"חברות טובות\") יש לצפות לתשואת דיבידנד צנועה יחסית של כ-2% בלבד, וזהו נתון המפתח לתכנון הכנסה פסיבית.\n*   **בחינה מחודשת של המושג \"כסף גדול\":** הדיון מעלה שאלה לגבי ההגדרה של עושר או \"כסף גדול\"; מה שנתפס כסכום משמעותי עלול להניב הכנסה שנתית צנועה בלבד במונחים של תזרים מזומנים ריאלי.\n*   **התמקדות באיכות על פני תשואה גבוהה:** קיים דגש על בחירת חברות יציבות וטובות כבסיס לתיק ההשקעות, גם אם המשמעות היא אחוז תשואה נמוך יותר בהשוואה לאפיקים מסוכנים יותר."
-  },
-  {
-    "id": "1rreri7",
-    "title": "Invest like O’Neil for beginners",
-    "url": "https://www.reddit.com/r/investing/comments/1rreri7/invest_like_oneil_for_beginners/",
-    "author": "Kevin_gato",
-    "score": 1,
-    "selftext": "Has anyone made money using O’Neil’s method? Also, what tools did they use?\n\nSince I’m Japanese, I have invested Japanese stocks but lately considering the size of the market, I’m thinking about switching my focus to U.S. stocks.\n\nI’m mainly interested in growth investing, and I’ve been studying by reading books by William O’Neil and Mark Minervini. However, tools like DeepVue and IBD seem a bit expensive on a monthly basis, so I’m wondering if it’s possible to start with free tools, at least in the beginning.\n\nI’d really appreciate hearing about your investment experiences and any advice you might have.\n\nIf you’re using free tools, please let me know.",
-    "subreddit": "investing",
-    "created_utc": 1773283016,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "The biggest mistake beginners make is thinking better tools = better results. Wrong. O'Neil made millions with newspaper stock tables and hand-drawn charts. The edge is in the discipline, not the software.",
-        "score": 1,
-        "author": "Ancient-Tank-5330"
-      },
-      {
-        "body": "It does well in strong trending markets. However in choppy markets, well, one gets chopped up by fake breakouts and breakdowns.\n\nThere is an IBD50 etf. Look at its chart and you'll see you still need to pick the correct stock(s) in the 50 top dogs to do well. Buying all 50 of them doesn't work.",
-        "score": 1,
-        "author": "kenzi28"
-      },
-      {
-        "body": "I totally feel you on those expensive tools, paying 150 bucks a month just to screen for runners is rough. I came upon this app called trylattice recently and I like to use it to set up generative market alerts for stocks with 25 percent EPS growth and strong relative strength. You can even sync earnings calls to your calendar and check stock filings in seconds with simple natural language prompts. Its way better than those overpriced screeners. Just remember to stick to those strict stop losses while you transition your focus to the deep liquidity of the US market.",
-        "score": 1,
-        "author": "CarpenterThese5372"
-      }
-    ],
-    "summary_he": "הכותב מעוניין לעבור מהשוק היפני להשקעות צמיחה בשוק האמריקאי לפי שיטתם של ויליאם אוניל ומארק מינרוויני. הוא מבקש לשמוע מניסיונם של אחרים ומחפש המלצות לכלים חינמיים לניתוח מניות, כיוון ששירותים מקצועיים בתשלום (כמו IBD) יקרים מדי עבורו כמתחיל.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מרכזיות ותובנות של הקהילה:\n\n*   **המשמעת חשובה מהטכנולוגיה:** הטעות הגדולה ביותר של סוחרים מתחילים היא האמונה שכלים יקרים או תוכנות מתקדמות יובילו לתוצאות טובות יותר. היתרון האמיתי של סוחר נובע ממשמעת עצמית ולא מהתוכנה שבה הוא משתמש.\n*   **הצלחה באמצעים דלים:** כדוגמה לחשיבות האסטרטגיה על פני הכלי, מוזכר ויליאם אוניל (מייסד IBD) שהרוויח מיליונים באמצעות שימוש בטבלאות נתונים מעיתונים ושרטוט גרפים ידני, ללא צורך בטכנולוגיה מורכבת.\n*   **מגבלות האסטרטגיה בשוק תנודתי:** שיטות מסחר המבוססות על פריצות (כמו אלו של IBD) עובדות היטב בשווקים עם מגמה חזקה, אך עלולות להוביל להפסדים בשוק \"עצבני\" או תנודתי (Choppy market) בשל פריצות שווא.\n*   **הצורך בבחירה סלקטיבית של מניות:** לא מספיק לעקוב אחרי רשימות מוכנות כמו ה-IBD50 או לקנות את קרן הסל שלהן. כדי להצליח, הסוחר עדיין חייב לדעת לבחור את המניות הנכונות ביותר מתוך הרשימה ולא להסתמך על קנייה גורפת של כל ה-50.\n*   **ביקורת על עלויות הכלים המסורתיים:** קיימת תרעומת על המחיר הגבוה של סורקי מניות פופולריים (כ-150 דולר בחודש). כחלופה, הקהילה מציעה להשתמש באפליקציות חדשות מבוססות בינה מלאכותית (כמו trylattice) המאפשרות ניתוח דוחות וקבלת התראות באמצעות שפה טבעית בעלות נמוכה יותר.\n*   **חשיבות ניהול הסיכונים והנזילות:** ללא קשר לכלי שבו משתמשים, ישנה המלצה גורפת להיצמד לפקודות קטוע הפסד (Stop Loss) נוקשות ולהתמקד בשווקים בעלי נזילות עמוקה, כמו השוק האמריקאי, במיוחד בעת מעבר בין שיטות עבודה."
-  },
-  {
-    "id": "1rrektu",
-    "title": "Am I wrong for thinking the AI bubble won’t pop?",
-    "url": "https://www.reddit.com/r/investing/comments/1rrektu/am_i_wrong_for_thinking_the_ai_bubble_wont_pop/",
-    "author": "Fatloh",
-    "score": 1,
-    "selftext": "I’m pretty young and already am investing into AI companies. I see a lot of people saying it’s like the dot com pop from the 2000s. But I don’t understand that. I already see AI being used at fast food chains, and companies using them for simple task management.  These companies will likely save a lot by not having to hire workers to do these tasks. And the bigger companies who produce these AI models I would assume they would charge for their services. So how would there not be profit? ",
-    "subreddit": "investing",
-    "created_utc": 1773282515,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "The wealthy spend a lot less of their money though",
-        "score": 1,
-        "author": "Timbo1994"
-      },
-      {
-        "body": "A bubble implies \"pricing above fair valuation models\"\n\nThere is a pricing model that suggests NVDA is not particularly over-priced:\n\nPeter Lynch's PE = G\n\nBecause NVDA's earnings have a >30% growth rate, a PE ratio around 30 is about right. \n\nThe PE ratio is around 38, so NVDA is actually fairly reasonably valued.\n\nNow, the only question is: Is it reasonable to expect NVDA to continue growing? \n\nI would argue yes. \n\nIf you use [https://metr.org/](https://metr.org/) you can clearly see that AI growth rate is incredibly high in terms of capability. If you look at a recent tweet from Trump / The White House, you can see that Claude was used in their recent attacks against Iran. If you follow AI content creators, you'd see that China is building humanoid robots that can currently do Kung Fu, but will also soon be deployable as war-robots. \n\nGiven the wide-scale utility of AI, the future demand in the near future (5 year horizon) is quite obvious. \n\nNVDA itself is not too overvalued. Without a broader economic collapse that crushes its earnings, NVDA stock will stay high. The demand for compute and inference will remain.",
-        "score": 1,
-        "author": "RatherCynical"
-      },
-      {
-        "body": "The dot com bubble was different in that companies would get crazy evaluations just by having a random website. No customers, no use-cases, zero revenue, nothing more than a stupid website nobody other than shareholders visited",
-        "score": 1,
-        "author": "Sparaucchio"
-      }
-    ],
-    "summary_he": "כותב הפוסט סבור שבועת ה-AI לא תתפוצץ, בניגוד לבועת הדוט-קום, כיוון שהוא כבר רואה שימושים מעשיים בטכנולוגיה המייעלים עבודה וחוסכים בעלויות שכר. לטענתו, חברות ה-AI יניבו רווחים קבועים מגביית תשלום על שירותיהן, מה שמבטיח את יציבות השוק בטווח הרחוק.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות בשרשור ה-Reddit, המציג 6 נקודות מבט וטיעונים מרכזיים:\n\n*   **דפוסי צריכה של עשירים:** קיימת טענה כי אנשים עשירים נוטים להוציא אחוז קטן משמעותית מהונם בהשוואה לאנשים פחות מבוססים, מה שמשפיע על זרימת הכסף בכלכלה.\n*   **הגדרת \"בועה\" כלכלית:** בועה אינה סתם מחיר גבוה, אלא מצב שבו התמחור חורג ממודלים של הערכת שווי הוגנת. לפי גישה זו, אם המודל מצדיק את המחיר, לא מדובר בבועה.\n*   **ניתוח הערכת השווי של אנבידיה (NVDA):** בהתבסס על המודל של פיטר לינץ' (המשווה בין מכפיל רווח לקצב צמיחה - PEG), נטען כי אנבידיה אינה מתומחרת בצורה מופרזת. מאחר שקצב הצמיחה שלה עולה על 30% ומכפיל הרווח שלה הוא סביב 38, השווי שלה נחשב סביר ביחס לרווחיה.\n*   **תחזית צמיחה לבינה מלאכותית:** קיימת אופטימיות רבה לגבי העתיד הקרוב (טווח של 5 שנים), הנובעת מהקפיצה המהירה ביכולות הטכנולוגיות של ה-AI. הביקוש לכוח מחשוב ולעיבוד נתונים צפוי להישאר גבוה ויציב.\n*   **שימושים אסטרטגיים וצבאיים כזרזי צמיחה:** הדיון מצביע על כך ש-AI כבר אינו תיאורטי בלבד, אלא משמש בפועל בזירות גיאופוליטיות (כמו שימוש במודל Claude לצרכים ממשלתיים/צבאיים) ובפיתוח רובוטים דמויי-אדם לצרכי לחימה (למשל בסין), מה שמבטיח ביקוש מתמשך.\n*   **ההבדל בין בועת ה-AI לבועת הדוט-קום:** הדיון מדגיש הבחנה קריטית: בבועת הדוט-קום חברות קיבלו הערכות שווי אסטרונומיות ללא הכנסות, ללא לקוחות וללא מודל עסקי. בניגוד לכך, תעשיית ה-AI הנוכחית מציגה שימושים ממשיים, הכנסות ריאליות וערך תפעולי ברור."
-  },
-  {
-    "id": "1rrek8i",
-    "title": "Where do you find your best investment ideas?",
-    "url": "https://www.reddit.com/r/investing/comments/1rrek8i/where_do_you_find_your_best_investment_ideas/",
-    "author": "alphabee_9",
-    "score": 1,
-    "selftext": "I’ve been trying different ways to find the best investment ideas.\n\nFirst I tried forums. They were often misleading and full of pump and dump schemes involving small cap stocks.\n\nThen I tried paid chatroom services (MadazMoney, MyInvestingClub, Warrior Trading, etc.).\n\nWhat surprisingly worked best for me was X.\n\nI realised I could find the best traders with a proven public track record, follow them, and get their insights and trade ideas in real time.\n\nSo my workflow became something like this:\n\n* Follow trader accounts on X\n* Track their accounts over time (sometimes for years) to verify their track record\n* When they mention a trade idea, review it against my own logic to sense check it\n* Combine that with macroeconomic data to determine the best entry and exit points, and when market conditions are ideal\n\nThe hardest part is catching the best trade ideas early. The good ones get buried quickly in the feed.\n\nSo I ended up building a small tool for myself that monitors X and surfaces trade ideas when top accounts mention them.\n\nJust sharing what worked for me.\n\nCurious if anyone else here is using X to find trade ideas (or if it’s mostly Reddit), and what your workflow looks like.",
-    "subreddit": "investing",
-    "created_utc": 1773282473,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Building your own monitoring tool for X is a big brain move to filter out the noise. I have been taking a similar path by focusing on what high profile insiders and politicians are doing through trylattice. It has a specific feature for congressional disclosure tracking that lets me see what is actually happening behind the scenes in real time. I just cross reference those moves with their stock filings data to make sure the logic holds up. It is way more reliable than following random furus who might just be pumping a position.",
-        "score": 1,
-        "author": "CarpenterThese5372"
-      },
-      {
-        "body": "My 2 cents: Do not try to follow or copy others, esp live sites. Better read good investing books and find your own way, that works and long lasting.\n\nGood Luck.",
+        "body": "I have More 10 years I was workig with real estate investment, in bay area, finally sold most of them and moving to stocks side.\n\nReal estate depends on location. If your home is in good location (with good schools) with wealth around (for example in bay area, near by google, apple or meta complex nearby, they are premium locations), you can hold long.\n\nYour home is rental attractive for two reasons: 1) Mortgage leverage and low rate (if 30 years) 3.5% and 2)  positive cash flow.\n\nAll you need is hire a good property manager and manage it. \n\nYou have lot of future unknowns: How long stay here, where you will settle finally etc - temporarily ignore it.\n\nIf you want to take 500k capital gain tax free, sell within eligible period. find out how much of 500k you are eligible and try to see which is beneficial, holding or selling. \n\nOtherwise, hold as long as possible and sell it when you leave this country. Appreciation is hidden value (it may fluctuate too).\n\nGood Luck.",
         "score": 1,
         "author": "Good_Ride_2508"
+      },
+      {
+        "body": "If it's cash flow positive I'd keep it personally, especially if it's in a decent area. ",
+        "score": 1,
+        "author": "fadetoblack1004"
       }
     ],
-    "summary_he": "הכותב משתף כי לאחר ניסיונות כושלים בפורומים ובקבוצות בתשלום, הוא מצא שפלטפורמת X (טוויטר) היא המקור היעיל ביותר למציאת רעיונות השקעה איכותיים. שיטת העבודה שלו כוללת מעקב ארוך טווח אחר סוחרים בעלי רקע מוכח ושימוש בכלי טכנולוגי שפיתח לניטור ציוצים בזמן אמת כדי לזהות הזדמנויות במהירות.",
+    "summary_he": "הכותב שוקל למכור נכס דופלקס שבו צבר הון עצמי משמעותי כדי לנצל פטור ממס לקראת פרישה מוקדמת באירופה. למרות ההיגיון הכלכלי, הוא חווה חשש רגשי מהיעדר בעלות על נדל\"ן, שנתפס בעיניו כסמל להצלחה וכמרכיב מרכזי בזהותו הפיננסית. הוא תוהה האם פחדיו מבוססים על שיקולים ענייניים או שמדובר במחסום פסיכולוגי בלבד.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט וגישות שונות שעלו בקהילה:\n\n*   **סינון \"רעשי רקע\" באמצעות כלים מותאמים אישית:** קיימת הערכה רבה לבניית כלי ניטור עצמאיים (למשל עבור פלטפורמת X/Twitter). המשתמשים רואים בכך צעד חכם המאפשר לסנן מידע לא רלוונטי ולהתמקד בנתונים בעלי ערך.\n*   **מעקב אחר \"כסף חכם\" ופוליטיקאים:** גישה אחת דוגלת בהתמקדות בפעולות של אנשי פנים (insiders) בעלי פרופיל גבוה ופוליטיקאים. השימוש בכלים למעקב אחר גילויי נאות של הקונגרס נתפס כדרך להבין מה קורה \"מאחורי הקלעים\" בזמן אמת.\n*   **חשיבות האימות והצלבת נתונים:** כדי להבטיח שהאסטרטגיה מבוססת על לוגיקה מוצקה, יש הממליצים להצליב את המידע הנאסף מרשתות חברתיות או כלי ניטור עם דיווחי המניות הרשמיים (stock filings).\n*   **ספקנות כלפי משפיעני שוק (Furus):** בקהילה קיימת הסתייגות ממעקב אחר \"גורואים\" של מסחר. החשש הוא שהם מנסים להריץ מניות (pumping) כדי לשרת את הפוזיציות שלהם, ולכן הסתמכות על נתונים קשיחים נחשבת לאמינה יותר.\n*   **התנגדות להעתקת אסטרטגיות בזמן אמת:** דעה נגדית בולטת גורסת כי אין לנסות להעתיק או לעקוב אחר פעולות של אחרים, במיוחד לא מאתרים שמשדרים פעילות \"חיה\". נטען כי זו אינה דרך בת-קיימא להשקעה.\n*   **העדפת למידה תיאורטית ופיתוח עצמאי:** גישה שמרנית יותר מציעה לחזור לבסיס – קריאת ספרי השקעות איכותיים. המטרה היא שכל משקיע ימצא את הדרך הייחודית שלו שתעבוד עבורו לאורך זמן, במקום להישען על טכנולוגיה או על פעולות של אחרים."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות בשרשור, הכולל 6 נקודות מבט ודעות שונות שהועלו על ידי חברי הקהילה:\n\n*   **האצלת סמכויות לניהול פסיבי:** אחת ההמלצות המרכזיות היא לשכור מנהל נכסים מקצועי. הטיעון הוא שגם אם הדבר כרוך בעמלה שתפחית מעט מההכנסה החודשית, זה הופך את ההשקעה לפסיבית, מונע את נטל התחזוקה ומאפשר לבעלים לשמור על ההון העצמי (Equity) ללא מאמץ.\n*   **חשיבות המיקום והסביבה:** הדיון מדגיש כי כדאיות ההחזקה בנכס תלויה מאוד במיקומו. נכסים באזורים יוקרתיים, הקרובים למרכזי תעסוקה גדולים (כמו ענקיות טכנולוגיה) ובקרבת בתי ספר איכותיים, נחשבים לנכסים ששווה להחזיק לטווח ארוך בשל הביקוש הגבוה.\n*   **תזרים מזומנים ומינוף:** קיימת הסכמה שאם הנכס מייצר תזרים מזומנים חיובי (Positive Cash Flow) ונהנה מריבית משכנתא נמוכה וקבועה (למשל 3.5%), הוא הופך לאטרקטיבי מאוד להשכרה ואין סיבה ממהרת למכור אותו.\n*   **שיקולי מס רווח הון:** הועלתה הצעה לבחון את נושא הפטור ממס על רווח הון (עד תקרה של 500 אלף דולר בארה\"ב). המגיבים מציעים לבדוק אם כדאי למכור את הנכס בתוך תקופת הזכאות כדי לנצל את הפטור, או שמא פוטנציאל עליית הערך העתידי משתלם יותר מתשלום המס בעתיד.\n*   **שינוי באסטרטגיית ההשקעה:** משקיע מנוסה שיתף כי לאחר עשור בנדל\"ן הוא בחר למכור את רוב נכסיו ולעבור להשקעה בשוק ההון (מניות). הדבר מצביע על גישה הגורסת כי בשלב מסוים, הפשטות והנזילות של מניות עשויות לעלות על היתרונות של ניהול נכסי נדל\"ן פיזיים.\n*   **התעלמות מאי-ודאות עתידית:** עצה נוספת שעלתה היא להתעלם כרגע משאלות של \"איפה אתיישב בעתיד\" או \"כמה זמן אשאר פה\", ולהתמקד בנתונים הכלכליים היבשים של הנכס. ההמלצה היא להחזיק בנכס ככל הניתן בשל \"הערך החבוי\" שבעליית הערך (Appreciation), ולשקול מכירה רק בעת עזיבה סופית של המדינה."
+  },
+  {
+    "id": "1rsav5v",
+    "title": "90% Mutual Fund Investors Make These 4 Mistakes",
+    "url": "https://www.reddit.com/r/investing/comments/1rsav5v/90_mutual_fund_investors_make_these_4_mistakes/",
+    "author": "Relative_Rooster6477",
+    "score": 1,
+    "selftext": "After working with many investors, these are the most common mistakes:\n\n1️⃣ Buying last year’s top performing fund\n\n2️⃣ Investing in 10+ mutual funds\n\n3️⃣ Stopping SIP when market falls\n\n4️⃣ No long-term goal planning\n\nMany people invest through apps like Groww and Zerodha, but strategy is still missing.\n\n• Portfolio review offers\n\n• Investor mistakes discussions\n\n• Case studies\n\nCurious to know:\n\nWhat was the biggest investing mistake you made?",
+    "subreddit": "investing",
+    "created_utc": 1773368074,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Haha, mood. My biggest mistake was panic selling during a dip after reading some doomer news. Now I just stick to my plan and try to ignore the noise.",
+        "score": 1,
+        "author": "marble410"
+      },
+      {
+        "body": "> What was the biggest investing mistake you made?\n\nLogging on to reddit.",
+        "score": 1,
+        "author": "ColorMonochrome"
+      },
+      {
+        "body": "hahha they'll never do it. Social media platforms need bots and slop accounts to pump up those active users numbers.",
+        "score": 1,
+        "author": "cdude"
+      }
+    ],
+    "summary_he": "הנה סיכום של הפוסט:\n\nהפוסט מונה ארבע טעויות נפוצות של משקיעים בקרנות נאמנות, ובהן מרדף אחר הקרנות שהצטיינו בשנה שעברה ופיזור יתר של תיק ההשקעות. המחבר מדגיש כי ללא אסטרטגיה, תכנון לטווח ארוך והתמדה בזמן ירידות בשוק, השימוש באפליקציות מסחר לבדו אינו מבטיח הצלחה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והתובנות המרכזיות שעלו מתוך התגובות בשרשור:\n\n* **הסכנה שבמכירה מתוך פאניקה:** אחת הטעויות הגדולות ביותר של משקיעים היא מכירת נכסים בזמן ירידות בשוק עקב תחושת בהלה, מה שמוביל למימוש הפסדים במקום המתנה להתאוששות.\n* **השפעתן השלילית של חדשות \"נבואות זעם\":** צריכת חדשות פסימיות וקיצוניות (\"doomer news\") משפיעה לרעה על שיקול הדעת של המשקיע ודוחפת אותו לקבלת החלטות אימפולסיביות המבוססות על פחד.\n* **חשיבות ההיצמדות לתוכנית עבודה:** כמשקל נגד לרעשי הרקע של השוק, קיימת הסכמה שהדרך הנכונה לפעול היא לדבוק באסטרטגיית השקעה ארוכת טווח ולהתעלם מתנודות זמניות.\n* **הביקורת על רשתות חברתיות ככלי עזר להשקעות:** קיים סנטימנט ציני (ומשעשע) הגורס כי עצם הכניסה לרשתות חברתיות כמו רדיט לצורך קבלת החלטות פיננסיות היא הטעות הגדולה ביותר שמשקיע יכול לעשות.\n* **האינטרס הכלכלי מאחורי תופעת הבוטים:** ישנה טענה כי הרשתות החברתיות לא באמת מעוניינות למגר את תופעת הבוטים והחשבונות המזויפים, מכיוון שהם עוזרים \"לנפח\" את נתוני המשתמשים הפעילים המוצגים למשקיעים ולמפרסמים.\n* **ירידה באיכות התוכן (Slop):** הקהילה מבחינה בעלייה בכמות התוכן הירוד והחשבונות שנועדו רק לייצר אינטראקציה מלאכותית, מה שמקשה על מציאת מידע איכותי ואמין בתוך \"הרעש\" הדיגיטלי."
+  },
+  {
+    "id": "1rs970g",
+    "title": "What would you do for your kids to start them off when they start working to help them out when they are older.",
+    "url": "https://www.reddit.com/r/investing/comments/1rs970g/what_would_you_do_for_your_kids_to_start_them_off/",
+    "author": "Limit54",
+    "score": 1,
+    "selftext": "I was thinking of doing something for my kids when they start working to help them save for the future. Like tell the to pay me like $20 or something each week and I Match it and invest it over time. I was thinking like 20+ years or more. So any good idea that guys have done for four/with your Kids? What’s a good long term\n\nInvestment like this",
+    "subreddit": "investing",
+    "created_utc": 1773363642,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Budget \n\nBudget\n\nHow credit costs you money\n\nBudget.\n\nIncentives \n\nMatch their savings.\n\nAs a tween I paid for my own tv,n64,dvd/vcr all with cash I saved. My first laptop my parents covered a 1/3 and of the other 2/3 that income had to come from outside of the family. So couldn't all bank it on birthday cash or mowing my grandmas lawn.\n\nOnce I had my first real job the generational advice was passed down \"work when you can because you don't know when you won't be able to\" took any and every OT I could.",
+        "score": 1,
+        "author": "thereelkrazykarl"
+      },
+      {
+        "body": "I helped them open a roth IRA and offered to match whatever they put into it.\nBut only after pulling up a compounding calculator together and playing around with numbers 🤓",
+        "score": 1,
+        "author": "Responsible-Health80"
+      },
+      {
+        "body": "Teach financial education and leave the rest up to them. Most learn from mistakes. Let them fail early.",
+        "score": 1,
+        "author": "Internal_Buddy7982"
+      }
+    ],
+    "summary_he": "הכותב מבקש עצות כיצד לסייע לילדיו לחסוך ולהשקיע לטווח ארוך ברגע שיתחילו לעבוד, כדי להבטיח את עתידם הכלכלי. הוא מציע מודל שבו הילדים יפרישו סכום שבועי קטן והוא יוסיף סכום זהה (\"Matching\") לצורך השקעה, ומחפש רעיונות נוספים או אפיקי השקעה מומלצים למטרה זו.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 7 נקודות מרכזיות וגישות שונות לחינוך פיננסי של ילדים ובני נוער:\n\n*   **הקניית יסודות הניהול הפיננסי:** המגיבים מדגישים את החשיבות הקריטית של לימוד בניית תקציב והבנת \"העלות של האשראי\" – כלומר, כיצד חובות וריביות גורמים להפסד כספי בטווח הארוך.\n*   **שימוש בתמריצים ו\"השוואת חסכונות\" (Matching):** שיטה פופולרית שהועלתה היא הצעה של ההורים להפקיד סכום כסף זהה לכל סכום שהילד בוחר לחסוך בעצמו (למשל, עבור כל שקל שהילד חוסך, ההורה מוסיף שקל משלו), כדי לעודד הרגלי חיסכון.\n*   **מימון עצמי של רכישות משמעותיות:** הוצע להטיל על הילדים את האחריות לממן בעצמם (או ברובם) מוצרי פנאי יקרים כמו טלוויזיות, קונסולות משחקים או מחשבים ניידים. הדבר מלמד אותם את הערך של רכישות גדולות ואת הצורך בתכנון מוקדם.\n*   **גיוון מקורות ההכנסה:** קיימת דעה כי חשוב שהחיסכון לא יתבסס רק על \"כסף מהמשפחה\" (דמי כיס או מתנות ימי הולדת), אלא ידרוש מהנער למצוא מקורות הכנסה חיצוניים (עבודה אצל אחרים), כדי לפתח עצמאות כלכלית אמתית.\n*   **המחשה ויזואלית של השקעות לטווח ארוך:** מגיב אחד ציין כי עזר לילדיו לפתוח חשבון חיסכון פנסיוני (IRA) והשתמש במחשבוני \"ריבית דריבית\" כדי להראות להם באופן מוחשי איך הכסף שלהם יכול לצמוח לאורך עשרות שנים.\n*   **למידה דרך טעויות וכישלונות:** גישה מרכזית נוספת היא לתת לילדים את החופש לנהל את כספם ולטעות. הטענה היא שמוטב שהילד \"ייכשל\" ויינזק כלכלית כשהסכומים קטנים וההשלכות מינוריות, מאשר שילמד את השיעור הזה בבגרותו עם סכומים גדולים.\n*   **הקניית מוסר עבודה וניצול הזדמנויות:** הועברה עצה בין-דורית שלפיה יש לעבוד בכל פעם שמתאפשר (כולל שעות נוספות), מתוך הבנה ששוק העבודה עשוי להשתנות ולא תמיד יהיו הזדמנויות להשתכרות גבוהה זמינות באותו האופן."
+  },
+  {
+    "id": "1rs8pcc",
+    "title": "Is EWY still a good investment?",
+    "url": "https://www.reddit.com/r/investing/comments/1rs8pcc/is_ewy_still_a_good_investment/",
+    "author": "Zinc_22",
+    "score": 1,
+    "selftext": "Since the war South Korea markets have been getting cooked and I want to hear others opinions if it was overvalued due to AI hype in the first place. Is it worth cutting my losses after putting money in recently and moving it into VT instead? I don’t mind risk but don’t want to have money in there doing nothing or going negative when I could put it somewhere else.",
+    "subreddit": "investing",
+    "created_utc": 1773362388,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "EWY is definitely a wild ride right now because of the geopolitical risk and currency stress hitting the Korean Won. It surged 126 percent over the past year thanks to the memory supercycle but it is essentially a high beta leveraged play on semiconductors. The recent dip is more about risk off sentiment from war fears than a drop in actual AI demand since Samsung and SK Hynix already sold out their 2026 production. You can use apps like trylattice to set generative market alerts so I can stay ahead of these currency fluctuations and institutional outflows in real-time.",
+        "score": 1,
+        "author": "CarpenterThese5372"
+      },
+      {
+        "body": "I got a little greedy yesterday and today and sold some CSPs on KORU. $350 and $300 strikes, April 17 expiration., $315 March 20 expiration. Insane premiums right now, but I might have jumped in too early.",
+        "score": 1,
+        "author": "RealHornblower"
+      },
+      {
+        "body": "No SK Hynix is the most undervalued company in the world imo and Samsung isn’t far behind. Once oil falls it will recover. I’m expecting another ATH by year end. I’ve been accumulating the past week. If it gets even lower I might buy some KORU (3x leverage Korea etf)",
+        "score": 1,
+        "author": "boraboca"
+      }
+    ],
+    "summary_he": "הכותב תוהה האם כדאי להמשיך להשקיע בשוק הדרום-קוריאני (EWY) לאור הירידות האחרונות, ומביע חשש כי השוק היה מוערך יתר על המידה בשל הייפ בתחום ה-AI. הוא שוקל למכור את החזקותיו בהפסד ולהעביר את הכסף למדד עולמי רחב (VT) כדי להימנע מתשואה שלילית או מ\"כסף עומד\".",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים מרכזיים של הקהילה לגבי השוק הדרום-קוריאני:\n\n*   **תנודתיות וסיכונים מאקרו-כלכליים:** קרן הסל EWY (דרום קוריאה) נתפסת כהשקעה תנודתית מאוד (\"רכבת הרים\") כרגע, בעיקר בשל שילוב של סיכונים גיאופוליטיים ולחצים משמעותיים על שער המטבע המקומי (הוון הקוריאני).\n*   **הביקוש לבינה מלאכותית (AI) נותר איתן:** למרות הירידות האחרונות בשוק, הקהילה סבורה כי הן נובעות מחששות ממלחמה וסנטימנט של \"בריחה מסיכון\" (Risk-off), ולא מירידה בביקוש האמיתי. עובדה המצוינת היא שחברות הענק סמסונג ו-SK Hynix כבר מכרו מראש את כל כושר הייצור שלהן עד שנת 2026.\n*   **דרום קוריאה כהימור על סקטור השבבים:** השוק הקוריאני נתפס כהימור ממונף (High Beta) על תחום המוליכים למחצה. העליות המשמעותיות בשנה האחרונה מיוחסות ל\"סופר-סייקל\" בתחום הזיכרונות.\n*   **הערכת חסר של ענקיות הטכנולוגיה:** קיים סנטימנט חזק שחברת SK Hynix היא אחת החברות הכי פחות מוערכות (Undervalued) בעולם כיום, וכי גם סמסונג נסחרת במחיר אטרקטיבי מאוד ביחס לערכן הריאלי.\n*   **אסטרטגיות מסחר אגרסיביות:** חלק מהמשקיעים מנצלים את הפרמיות הגבוהות בשוק כדי לבצע מהלכים מסוכנים וממונפים, כמו מכירת אופציות (Cash Secured Puts) על קרן הסל KORU (מינוף פי 3 על קוריאה), תוך תקווה לניצול התנודתיות למרות החשש מכניסה מוקדמת מדי לטרייד.\n*   **תחזית אופטימית לטווח הקצר-בינוני:** קיימת ציפייה שהשוק יחזור לשיא כל הזמנים (ATH) עד סוף השנה. המשקיעים קושרים את ההתאוששות של השוק הקוריאני לירידה עתידית במחירי הנפט, שתקל על הלחצים הכלכליים ותאפשר למניות הטכנולוגיה לזנק חזרה."
+  },
+  {
+    "id": "1rs7qyy",
+    "title": "Looking to Create an Investment Account for a Baby with Specific Parameters",
+    "url": "https://www.reddit.com/r/investing/comments/1rs7qyy/looking_to_create_an_investment_account_for_a/",
+    "author": "n0_use_for_a_name",
+    "score": 1,
+    "selftext": "Hullo!\n\nI'm looking to open some sort of investment account for a relative's baby. In a nutshell, I'd like to open the account with a small amount of money (in the realm of $100+ dollars). I will continue to contribute, and urge other family members to do the same (they are interested in and like this idea), in small increments throughout the child's early life (birthdays, et cetera). That way, when they reach 18, they will have a little something to do whatever fits their fancy with. The family that made me think of this idea isn't in the best financial situation at any given point in time, so this would be something that, when the time comes, will be at their disposal regardless of their parents' family finances.\n\nThere's a few things that are important to me for this account:\n\n1. The account should only be accessible (from a withdrawal perspective) by the person that it is for after they reach 18 years old, only them, and only at that point in time.\n\n2. I want to be able to continue to make contributions until they are 18.\n\n3. I want multiple other people to be able to contribute at any given point in time until they are 18.\n\n4. I want this account to be able to grow, safely. Lots of subjectivity built into that statement, I know. Open to hearing other people's thoughts and ideas of what that means to them. High-yield savings is safe (over 4% isn't that bad, and is available), but over most 18 year periods, the S&P average has been as well. What do you think would be best? I want this to be an investment for the kid's future on behalf of anyone who is kind enough to chip in, not a gamble.\n\n5. I'd like to be able to share with the parents that this exists. They might even chip in as well, a few bucks here and there, if and when they can. But I want them to have no ability whatsoever to access the funds.\n\nThat's about it. Maybe there's important things that I'm not thinking of that I should aware of. If so, please let me know.\n\nThe bottom line is that I'm looking to open an account for a baby, that anyone could contribute to, but would be protected from everyone but that child, once they're an adult. \n\nThanks for reading, and for any insight you have to offer :)",
+    "subreddit": "investing",
+    "created_utc": 1773359992,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Think there might be some benefit to having the account focused on education?  Otherwise you're just asking people to donate to a \"give this kid a big gift on their 18th birthday\" fund.",
+        "score": 1,
+        "author": "LarBrd33"
+      },
+      {
+        "body": "With an UTMA the kid gets full control at 18, nothing you can do about it. (Why I don't have one for my kids..).\nSounds like you're describing a trust. But I'm really not familiar those myself. ",
+        "score": 1,
+        "author": "obidamnkenobi"
+      },
+      {
+        "body": "That’s…not even talking about the same thing. You get taxed when you sell. the benefit of UTMA is you can sell a little each year and pay no taxes on capital gains as long as it’s under the kiddie tax amount. \n\nThe gift tax is something completely different. And there’s a lifetime of $10M tax free gift. So your $19k yearly isn’t even relevant ",
+        "score": 1,
+        "author": "Immediate-Run-7085"
+      }
+    ],
+    "summary_he": "הכותב מעוניין לפתוח חשבון השקעה עבור תינוק של קרובי משפחה, אליו יוכלו הוא ובני משפחה אחרים להפקיד כספים באופן שוטף עד הגיעו לגיל 18. הדרישה המרכזית היא שהחשבון יהיה מוגן מפני משיכה על ידי ההורים או כל אדם אחר, כך שהכספים ורווחי ההשקעה יהיו זמינים אך ורק לילד עצמו כשיבגר.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג שש נקודות מבט, דעות ותובנות קהילתיות שעלו מתוך התגובות:\n\n*   **עדיפות לחיסכון ייעודי למטרות חינוך:** קיימת דעה כי עדיף למקד את חשבון החיסכון למטרות חינוך והשכלה. ללא מיקוד כזה, החיסכון מצטייר פשוט כ\"מתנה גדולה\" שניתנת לילד בגיל 18 ללא הכוונה או מטרה מוגדרת.\n*   **החשש מאובדן שליטה בגיל 18:** אחת הביקורות המרכזיות על חשבונות מסוג UTMA היא שעם הגיעו של הילד לגיל 18, השליטה על הכסף עוברת לידיו באופן מלא. הורה אחד ציין כי בגלל סיבה זו הוא נמנע לחלוטין מפתיחת חשבון כזה לילדיו.\n*   **הצורך בחלופות משפטיות מורכבות יותר:** כחלופה לחשבונות UTMA שמעבירים שליטה אוטומטית, הועלתה האפשרות להשתמש בנאמנות (Trust). פתרון זה נתפס כדרך פוטנציאלית לשמור על פיקוח הדוק יותר, אם כי המגיבים ציינו כי מדובר במנגנון מורכב יותר שדורש הבנה מעמיקה.\n*   **אסטרטגיית מס במימוש רווחי הון:** הוסבר כי אחד היתרונות המשמעותיים של חשבון UTMA הוא האפשרות למכור נכסים בכמויות קטנות בכל שנה. כך ניתן לנצל את חוקי המס (\"Kiddie Tax\") ולשלם אפס מס על רווחי הון, כל עוד הסכום נמוך מסף מסוים.\n*   **הבחנה בין מס מתנות למס רווחי הון:** המגיבים הבהירו כי יש להפריד בין סוגי המסים. בעוד שמס רווחי הון משולם בעת המכירה, מס מתנות הוא נושא נפרד לחלוטין עם כללים אחרים.\n*   **הפחתת החשיבות של תקרת המתנה השנתית:** עלתה הטענה כי הדיון סביב תקרת המתנה השנתית (כ-19,000 דולר) הוא לעיתים משני, שכן קיים פטור ממס מתנות על סכום מצטבר לאורך החיים שמגיע למיליוני דולרים (מעל 10 מיליון דולר), מה שהופך את התקרה השנתית לפחות רלוונטית עבור רוב האנשים."
+  },
+  {
+    "id": "1rs6goy",
+    "title": "What investing tool or feature would make your life easier?",
+    "url": "https://www.reddit.com/r/investing/comments/1rs6goy/what_investing_tool_or_feature_would_make_your/",
+    "author": "Helpful-Staff9562",
+    "score": 1,
+    "selftext": "Hi everyone,\n\nI’m curious about something from a practical perspective.\n\nFor those actively investing, what’s one tool, app, or feature you wish existed (or was done better) that would make managing your investments easier?\n\nI’m not referring to general advice like picking stocks or market predictions, but actual tools, for example portfolio tracking, performance analysis, automation, tax insights, portfolio allocation visibility, or better data across multiple brokers.\n\nEven if something already exists, what do you feel is missing or poorly implemented in current investing tools?",
+    "subreddit": "investing",
+    "created_utc": 1773356934,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "If you found Tim Cook just bought Apple at $250 for $20M 2 days ago, and Apple trades at $248 now, at least you have calculated risk buying now and could be confident enough to buy",
+        "score": 1,
+        "author": "avant_insider_quant"
+      },
+      {
+        "body": "A time machine or at least a time window",
+        "score": 1,
+        "author": "bry0816"
+      },
+      {
+        "body": "The ability to tap the Fed bailout liquidity",
+        "score": 1,
+        "author": "SargeMaximus"
+      }
+    ],
+    "summary_he": "הפוסט פונה למשקיעים פעילים בבקשה להציע כלים, אפליקציות או פיצ'רים טכנולוגיים שיכולים להקל על ניהול השקעותיהם וייעולו. הכותב מתמקד בפתרונות פרקטיים כמו מעקב אחר ביצועים וסנכרון נתונים בין ברוקרים שונים, ולא בייעוץ פיננסי כללי או המלצות על מניות.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והשקפות הקהילה כפי שעלו מהתגובות בשרשור:\n\n*   **מעקב אחר פעולות של \"אנשי פנים\" (Insiders):** אחת הדעות המרכזיות היא שזיהוי רכישות משמעותיות של מנהלים בכירים (כמו טים קוק ב-Apple) מהווה אינדיקטור חזק לביטחון בחברה.\n*   **ניהול סיכונים מחושב:** השקעה במחיר נמוך מזה שבו רכש בכיר בחברה נתפסת כאסטרטגיה המפחיתה סיכונים, שכן היא מאפשרת למשקיע \"להישען\" על הערכת השווי של מי שמכיר את הארגון מבפנים.\n*   **הכמיהה לתזמון מושלם:** הציון של \"מכונת זמן\" משקף סנטימנט קהילתי לפיו היכולת לחזות את העתיד היא הכלי האולטימטיבי (והבלתי אפשרי) להצלחה בשוק ההון.\n*   **הערך של יתרון במידע או בזמן:** גם ללא מכונת זמן, הקהילה מצביעה על כך ש\"חלון זמן\" קצר של יתרון במידע יכול להוות את ההבדל בין רווח להפסד.\n*   **ביקורת על חוסר שוויון מוסדי:** הטענה לגבי גישה לנזילות של הפדרל ריזרב (Fed) מבטאת תסכול מכך שלגופים גדולים יש רשת ביטחון ממשלתית שאינה נגישה למשקיע הקטן.\n*   **נזילות ככלי הישרדות:** הדיון מדגיש כי היכולת לקבל \"חילוץ\" (Bailout) בעתות משבר היא יתרון לא הוגן שמאפשר לגופים מסוימים לקחת סיכונים גבוהים יותר ללא חשש מקריסה."
+  },
+  {
+    "id": "1rs5ere",
+    "title": "Where do you draw the line on investing in companies that are “bad” or by making moves based on events like war?",
+    "url": "https://www.reddit.com/r/investing/comments/1rs5ere/where_do_you_draw_the_line_on_investing_in/",
+    "author": "No_Mistake_1778",
+    "score": 1,
+    "selftext": "Me personally I have yet to find a line I won’t cross.\n\nMy biggest holdings include many defensive companies such as Lockheed Martin and Palantir and I am quick to react to negative news but I was wondering what you all do. I don’t find that there is anything particularly wrong with this style of investing as to me the main point of investing is to secure the most money possible in as little time as possible.\n\nMany people seem to be upset that people are choosing to invest heavily on defense and oil stocks as a result of this war but I’m failing to see the point of why someone shouldn’t do this.",
+    "subreddit": "investing",
+    "created_utc": 1773354432,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Salve labor is common for rare earth minerals and labor for clothing.  Different?",
+        "score": 1,
+        "author": "hoganc"
+      },
+      {
+        "body": "Every company has an underbelly then?",
+        "score": 1,
+        "author": "hoganc"
+      },
+      {
+        "body": "Bull's Blood is a type of beet.  You're not wrong.",
+        "score": 1,
+        "author": "hoganc"
+      }
+    ],
+    "summary_he": "כותב הפוסט תוהה היכן עובר הגבול המוסרי בהשקעות בחברות \"רעות\" או כאלו שמרוויחות ממלחמות, ומעיד על עצמו ששיקולו המרכזי הוא מקסום רווחים ללא קווים אדומים. הוא משקיע בחברות נפט וביטחון (כמו לוקהיד מרטין) וטוען שאין פסול בניצול הזדמנויות עסקיות הנובעות מעימותים, שכן מטרת ההשקעה היא כלכלית גרידא.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום של הדיון המשתקף מהתגובות בשרשור, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מן הגולשים:\n\n*   **נורמליזציה של עבודת כפייה:** אחד הגולשים מציין כי ניצול ועבודת כפייה הם תופעות נפוצות מאוד בתעשיות גלובליות מרכזיות, כגון כריית מינרלים נדירים וייצור טקסטיל, ותוהה האם המקרה הנוכחי אכן שונה מהם.\n*   **השוואה בין מגזרים:** עולה השאלה האם יש הבדל מוסרי בין ניצול בתעשיית האופנה לבין ניצול בתעשיות הטכנולוגיה והמחצבים, או שמדובר באותה בעיה מערכתית.\n*   **סקפטיות כלפי תאגידים:** קיימת תחושה צינית שכל חברה מסחרית מחזיקה ב\"בטן רכה\" או בצד אפל ולא מוסרי המסתתר מתחת לפני השטח.\n*   **השלמה עם חוסר מוסריות עסקי:** הדיון מרמז על סנטימנט של קהות חושים או השלמה עם העובדה ששחיתות או ניצול הם חלק בלתי נפרד מהעולם העסקי המודרני (\"לכל חברה יש צד כזה\").\n*   **דיוק עובדתי והקשר בוטני:** לצד הביקורת המוסרית, ישנו ניסיון להכניס סדר במינוחים; הגולשים מבהירים כי המושג \"Bull's Blood\" (דם השור) הוא למעשה סוג של סלק, ובכך נותנים תוקף לטענה עובדתית שהועלתה קודם לכן.\n*   **שילוב של ביקורת חברתית עם פרגמטיזם:** הדיון נע בין הוקעת עבודת כפייה לבין ניתוח יבש של המציאות בשטח, מה שמצביע על קהילה המודעת לבעיות אתיות אך חשה שהן טבועות עמוק במבנה הכלכלי."
+  },
+  {
+    "id": "1rs51sd",
+    "title": "Dealing with small inheritance",
+    "url": "https://www.reddit.com/r/investing/comments/1rs51sd/dealing_with_small_inheritance/",
+    "author": "Smelltheglove29",
+    "score": 1,
+    "selftext": "I’ll be receiving a small inheritance in the next few months from a relative in Canada. I’m living in the US now and was wondering if the fact that the inheritance is from outside the country if it will affect my tax situation. \n\nAlso, I’m planning on transferring it to my Vanguard accounts, am I better off setting up a direct transfer from a Canadian bank to Vanguard or depositing it in my Canadian bank account then transferring to my US account, then to Vanguard?",
+    "subreddit": "investing",
+    "created_utc": 1773353609,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "For US tax purposes, inheritances themselves usually aren’t taxable income. The main thing that can matter is reporting if the amount coming from a foreign source is large enough.\n\nIn many cases people just need to file an information form (for example Form 3520 if the inheritance from a foreign person exceeds certain thresholds), but the inheritance itself generally isn’t taxed as income.\n\nFor the transfer side, the simplest route is usually moving it to your US account first and then funding Vanguard from there. Direct international transfers to brokerages can sometimes be more complicated or involve extra checks.\n\nOnce the money is in Vanguard, a lot of people just start with broad index funds (like total market or S&P 500 ETFs) and then build from there depending on their long-term al",
+        "score": 1,
+        "author": "RiskBeforeReturn"
+      }
+    ],
+    "summary_he": "הכותב, תושב ארה\"ב, מבקש לדעת מהן השלכות המס של קבלת ירושה מקנדה והאם העובדה שמקור הכספים הוא מחוץ למדינה משפיעה על חבות המס שלו. בנוסף, הוא מתייעץ לגבי הדרך הטכנית היעילה והמשתלמת ביותר להעברת הכספים מחשבון בנק קנדי לחשבון ההשקעות שלו ב-Vanguard.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובה, המתמקדת בהיבטי מס והשקעות בארה\"ב עבור כספי ירושה:\n\n*   **מיסוי ירושות בארה\"ב:** ככלל, לצורכי מס פדרלי בארה\"ב, כספי ירושה כשלעצמם אינם נחשבים כהכנסה חייבת במס עבור היורש.\n*   **חובת דיווח על מקורות זרים:** הנקודה הקריטית ביותר היא הדיווח לרשויות המס. אם סכום הירושה מגיע ממקור זר ועולה על רף מסוים, ישנה חובה לדווח על כך לרשויות (גם אם אין חבות במס).\n*   **הגשת טפסי מידע (Form 3520):** במקרים של ירושה מאדם שאינו תושב ארה\"ב, ייתכן שיהיה צורך בהגשת טופס 3520. מדובר בטופס דיווחי בלבד שנועד ליידע את ה-IRS על העברת נכסים משמעותית מחו\"ל.\n*   **אסטרטגיית העברת כספים:** המסלול הפשוט והמומלץ ביותר להעברת הכסף הוא העברתו קודם כל לחשבון בנק אמריקאי רגיל, ורק לאחר מכן הפקדת הסכום בחשבון השקעות (כמו Vanguard).\n*   **מורכבות בהעברות ישירות:** העברות בינלאומיות ישירות מחשבון זר לחשבון ברוקראז' (בית השקעות) עלולות להיות מסובכות יותר, לדרוש בדיקות נוספות מצד המוסד הפיננסי ולעכב את התהליך.\n*   **המלצות השקעה ראשוניות:** לאחר שהכסף הופקד בחשבון ההשקעות, הגישה המקובלת היא להתחיל ברכישת קרנות סל (ETFs) רחבות העוקבות אחרי מדדים מובילים, כגון מדד ה-S&P 500 או מדד השוק הכללי, כבסיס לתיק לטווח ארוך."
+  },
+  {
+    "id": "1rs3x2w",
+    "title": "VTI vs AGTHX? What would you choose for Roth IRA",
+    "url": "https://www.reddit.com/r/investing/comments/1rs3x2w/vti_vs_agthx_what_would_you_choose_for_roth_ira/",
+    "author": "Significant_Test7510",
+    "score": 1,
+    "selftext": "Hi all, \n\nCurrently have around $65k in Roth IRA (all agthx)\n\nBeen doing some research lately and wondering if it makes more sense to go 70/30 into VTI/VXUS\n\nA lot of what I see tells me yes, mainly because of the agthx expense however I want real advice on what you would do if you planned on investing for another 30ish years. \n\nWould it make more sense to keep my Ira the way it is and just invest into VTI/VXUS in my brokerage account? Or just go all in on the Roth ",
+    "subreddit": "investing",
+    "created_utc": 1773351044,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Thanks! This was set up by an ‘an advisor’ for me when I was young. Wish I would have looked into it sooner!",
+        "score": 1,
+        "author": "Significant_Test7510"
+      },
+      {
+        "body": "absolutely VTI/VXUS\n\nAGTHX has high fees and is front loaded. Horrible idea",
+        "score": 1,
+        "author": "GaylrdFocker"
+      }
+    ],
+    "summary_he": "המשתמש מתלבט האם להחליף את השקעתו הקיימת בקרן AGTHX (בשווי 65 אלף דולר) בתוך חשבון ה-Roth IRA שלו לשילוב של מדדי VTI ו-VXUS בעלי דמי ניהול נמוכים. הוא שוקל זאת לאור אופק השקעה של 30 שנה ותוהה האם עדיף לבצע את השינוי בתוך חשבון הפרישה או להשאיר את המצב הקיים ולהשקיע במדדים רק בחשבון השקעות רגיל.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ותובנות שעלו מהתגובות:\n\n*   **חרטה על חוסר מעורבות מוקדמת:** המשתמש מביע חרטה על כך שלא בדק את הרכב תיק ההשקעות שלו בשלב מוקדם יותר, והסתמך באופן פסיבי על החלטות של אחרים.\n*   **ביקורת על יועצים פיננסיים:** עולה תחושה של חוסר שביעות רצון מהחלטות שקיבל \"יועץ\" בעבר, ככל הנראה בשל ניגוד עניינים או בחירה במוצרים שאינם לטובת הלקוח.\n*   **חוסר ניסיון כגורם סיכון:** מצוין כי ההשקעות הלא אופטימליות נעשו כאשר המשתמש היה צעיר, מה שמדגיש את הפגיעות של משקיעים חסרי ניסיון מול אנשי מקצוע.\n*   **העדפה גורפת למדדים רחבים:** בקהילה קיימת תמיכה נחרצת בשילוב של הקרנות VTI (שוק אמריקאי) ו-VXUS (שוק בינלאומי) כחלופה יעילה ופשוטה.\n*   **התנגדות לעמלות גבוהות:** הדיון מדגיש את הנזק הכלכלי שבקרנות כמו AGTHX, המתאפיינות בדמי ניהול גבוהים ובעמלות רכישה מראש (Front-loaded fees) שנוגסות ברווחים.\n*   **שלילת מוצרי השקעה מיושנים:** הקהילה מבטאת סלידה ממוצרים פיננסיים מסורתיים ויקרים, המוגדרים כ\"רעיון נורא\" בהשוואה לאפשרויות המודרניות והזולות שזמינות כיום למשקיע העצמאי."
+  },
+  {
+    "id": "1rs1w3a",
+    "title": "Local-first DCF valuation optional LLM-powered research/narratives using Aswath Damodarn methodology",
+    "url": "https://www.reddit.com/r/investing/comments/1rs1w3a/localfirst_dcf_valuation_optional_llmpowered/",
+    "author": "RegisterNext6296",
+    "score": 1,
+    "selftext": "I wanted a valuation tool I could actually audit. Every \"AI stock analysis\" product I tried either hid the math or hallucinated the inputs. So I built my own\n\nif you will/may only enjoy tho project if you believe in the Aswath Damodaran methodolog.\n\n[https://github.com/stockvaluation-io/stockvaluation\\_io](https://github.com/stockvaluation-io/stockvaluation_io)",
+    "subreddit": "investing",
+    "created_utc": 1773346653,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "omg this is so cool for someone like me who's trying to understand valuation beyond just following what others say. gonna check this out for my finance project next semester.",
+        "score": 1,
+        "author": "joe_stallard1"
+      },
+      {
+        "body": "Please let me know if this post is not appropriate for this I will remove it.\n\nI genuinely spent lot of time thinking and building, I thought it might help others to.\n\n\nOne thing I’ve always liked about Professor Aswath Damodaran’s valuation approach is how structured it is. The DCF math itself isn’t especially complicated, but I’ve always found the surrounding work surprisingly time-consuming.\n\nThings like:\n\npulling industry averages\nchecking risk-free rates\ncomparing margins against industry distributions\ndigging through earnings transcripts to justify assumptions\nAfter doing this manually for a while, I started experimenting with building a small local tool to streamline some of that process.\n\n\n",
+        "score": 1,
+        "author": "RegisterNext6296"
+      }
+    ],
+    "summary_he": "הכותב פיתח כלי קוד פתוח להערכת שווי מניות המבוסס על שיטת ה-DCF של פרופסור אסוות' דמודראן, המאפשר ביקורת מלאה על החישובים והנתונים. הכלי נועד לפתור את חוסר השקיפות וה\"הזיות\" הקיימות בכלי ניתוח מבוססי AI אחרים, והוא משלב יכולות מחקר באמצעות בינה מלאכותית (LLM) הפועלות באופן מקומי.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והתחושות שעלו מהתגובות בשרשור, מחולקים ל-6 נקודות מרכזיות בעברית:\n\n*   **כלי עזר ללמידה עצמאית:** קיימת הערכה רבה לכך שהכלי עוזר למשתמשים להבין את תחום הערכת השווי (Valuation) לעומק, במקום פשוט \"לעקוב אחרי מה שאחרים אומרים\" ללא הבנה של הבסיס.\n*   **יישום אקדמי ופרקטי:** משתמשים רואים בכלי פוטנציאל רב לשימוש בפרויקטים לימודיים בתחומי המימון, מה שמעיד על הערך המעשי שלו עבור סטודנטים.\n*   **אימוץ המתודולוגיה של דאמודראן:** הדיון מדגיש את הפופולריות והיעילות של שיטת הערכת השווי המובנית של פרופסור אשוות' דאמודראן (Aswath Damodaran) כבסיס עבודה מועדף.\n*   **הפער בין חישוב לאיסוף נתונים:** קיימת תמימות דעים שהמתמטיקה של מודל ה-DCF אינה מורכבת במיוחד, אך העבודה ה\"מסביב\" – איסוף והכנת הנתונים – היא החלק המאתגר והמעיק ביותר.\n*   **זיהוי \"צווארי בקבוק\" בתהליך הידני:** המגיבים מציינים פעולות ספציפיות שגוזלות זמן רב, כגון השוואת ממוצעים ענפיים, בדיקת ריביות חסרות סיכון וניתוח תמלולי שיחות רווח כדי להצדיק הנחות יסוד.\n*   **ייעול באמצעות אוטומציה:** עולה צורך ברור בכלים טכנולוגיים שיכולים להחליף את העבודה הידנית הסיזיפית, לייעל את התהליך (Streamlining) ולאפשר לאנליסטים להתמקד בקבלת החלטות במקום באיסוף נתונים טכני."
+  },
+  {
+    "id": "1rs08ap",
+    "title": "The Stock Market during an Aliem Invasion",
+    "url": "https://www.reddit.com/r/investing/comments/1rs08ap/the_stock_market_during_an_aliem_invasion/",
+    "author": "Ok_Ratio_4128",
+    "score": 1,
+    "selftext": "What if... there was an alien invasion. How would the stock market react? An absurd scenario? Well would even if there is the slightest chance for an alien invasion - and, trust me bro, there is - you need to be prepared. So I thought about it, and made a video for you:\n\nhttps://youtu.be/nPeqrLY2Sgo",
+    "subreddit": "investing",
+    "created_utc": 1773343056,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Do you think the aliems would double check spelling before posting?",
+        "score": 2,
+        "author": "cogy-2112"
+      },
+      {
+        "body": "Bullish \n\nBase on my conversation with Gemini \n\nDefense spending will reach the moon \n\nS&P will pivot and we be pumping along \n\nWall Street probably will have a derivatives for alien abduction or damage insurance \n\nDollar and GLD will be ATH from war demands and nations buying weapon in dollars🤌",
+        "score": 1,
+        "author": "trustfundkidotaku"
+      },
+      {
+        "body": "Your post has been removed because it is inappropriate for r/investing. We get too many of these topics every day and to prevent them from swamping the front page, we are removing main threads of this kind.\n\nThe rules and guidelines can be found here - [Rules and Guidelines](https://www.reddit.com/r/investing/wiki/index/rules)\n    \nIf you have any issue with this removal, please contact the moderators via modmail. Thank you.",
+        "score": 1,
+        "author": "investing-ModTeam"
+      }
+    ],
+    "summary_he": "הפוסט בוחן את ההשפעות האפשריות של פלישת חייזרים על שוק ההון ומדגיש את החשיבות של מוכנות גם לתרחישים קיצוניים ובלתי סבירים. הכותב מצרף סרטון וידאו שבו הוא מנתח כיצד הבורסה עשויה להגיב למאורע כזה וכיצד על המשקיעים לפעול.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והתחושות שעלו מהתגובות בשרשור, המחולקים ל-6 נקודות מרכזיות בעברית:\n\n*   **סקפטיות והומור כלפי אמינות התוכן:** חלק מהגולשים הגיבו בציניות ובזלזול כלפי עצם הנושא (ככל הנראה חוצנים), כשהם תוהים בהומור האם \"חוצנים\" לא היו מבצעים הגהה על שגיאות הכתיב שלהם לפני הפרסום. זה מעיד על חוסר אמון בבסיס הדיון.\n*   **הסתמכות על בינה מלאכותית לצורך תחזיות:** ניכר כי משתמשים עושים שימוש בכלים כמו Gemini (של גוגל) כדי לנתח תרחישי קיצון ולהסיק מהם מסקנות כלכליות, מה שמראה על מעורבות הולכת וגברה של AI בשיח ההשקעות.\n*   **צפי לזינוק בתקציבי הביטחון:** קיימת סברה שארועים חריגים או איומים חיצוניים יובילו להוצאות ביטחוניות חסרות תקדים (\"יגיעו לירח\"), דבר שעשוי להיתפס כהזדמנות השקעה במגזר הביטחוני.\n*   **חדשנות פיננסית \"אבסורדית\" בוול סטריט:** הועלתה השערה שמוסדות פיננסיים ינצלו כל מצב, הזוי ככל שיהיה, כדי ליצור מכשירים פיננסיים חדשים, כמו נגזרים או פוליסות ביטוח נגד חטיפת חוצנים או נזקי מלחמה.\n*   **מפלט לנכסים בטוחים (Safe Havens):** קיימת הערכה שבעקבות דרישות למלחמה ורכישת נשק, הדולר האמריקאי והזהב (GLD) יגיעו לשיא כל הזמנים (ATH), כתוצאה מעלייה בביקוש העולמי למטבע ולביטחון כלכלי.\n*   **ניהול קהילה קפדני וסינון תכנים:** התגובה מצד מנהלי הפורום (Moderators) מבהירה שהקהילה אינה סובלנית לפוסטים ספקולטיביים מדי או כאלו שאינם רלוונטיים ישירות להשקעות רציניות, וזאת כדי למנוע הצפה של הדף הראשי בתוכן שאינו הולם."
   }
 ];
