@@ -1,199 +1,65 @@
 window.dailyTrends = [
   {
-    "id": "1rsujhm",
-    "title": "The \"Stealth\" Cooling: 92,000 jobs lost in February.",
-    "url": "https://www.reddit.com/r/investing/comments/1rsujhm/the_stealth_cooling_92000_jobs_lost_in_february/",
-    "author": "astrheisenberg",
-    "score": 1,
-    "selftext": "While headline numbers often get smoothed out, the industry-level data shows a sharp divergence. Information/Tech is continuing its downward trend (-11k), and Health Care saw a rare drop due to labor actions. If Social Assistance hadn't added 9k jobs, the overall picture would look significantly more recessionary. Is the market pricing in this sector-by-sector bifurcation yet?\n\n[https://www.wfhalert.com/p/employment-change-by-industry](https://www.wfhalert.com/p/employment-change-by-industry)",
-    "subreddit": "investing",
-    "created_utc": 1773424541,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Interesting point about the sector-specific changes. I've been shifting more of my investments into renewable energy and sustainable agriculture lately, thinking those areas might be more resilient in the long run. Anyone else adjusting their portfolio based on these shifts?",
-        "score": 1,
-        "author": "marble410"
-      },
-      {
-        "body": "Interesting breakdown, this kind of sector-level divergence is exactly why exploring platforms like Fundrise for diversified exposure can be worth a closer look.",
-        "score": 1,
-        "author": "SkillNext3639"
-      },
-      {
-        "body": "Higher Ed jobs/staff are being gutted across the country.  Layoffs etc.\n\n",
-        "score": 1,
-        "author": "JobJazzlike"
-      }
-    ],
-    "summary_he": "הפוסט מצביע על \"התקררות שקטה\" בשוק העבודה עם אובדן של 92,000 משרות בפברואר, תוך דגש על ירידות משמעותיות בענפי הטכנולוגיה והבריאות. נטען כי הנתונים הכלליים מטעים וכי ללא הצמיחה במגזר הסיוע הסוציאלי, תמונת המצב הייתה נראית מיתונית הרבה יותר.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות בשרשור, הכולל 6 נקודות מבט ורעיונות מרכזיים שעלו:\n\n*   **התמקדות בשינויים מגזריים:** קיימת הבנה בקרב המגיבים כי השוק חווה שינויים משמעותיים ברמת המגזר (Sector-specific), מה שמחייב ניתוח מעמיק יותר מאשר הסתכלות כללית על השוק.\n*   **מעבר להשקעות בנות-קיימא:** ישנה מגמה של הסטת כספי השקעות לעבר אנרגיה מתחדשת וחקלאות בת-קיימא, מתוך תפיסה שמגזרים אלו יפגינו חוסן רב יותר בטווח הארוך.\n*   **התאמה אקטיבית של תיק ההשקעות:** חברי הקהילה דנים בנחיצות של עדכון והתאמת הרכב תיק ההשקעות האישי בתגובה לתמורות הכלכליות הנוכחיות.\n*   **חיפוש אחר גיוון באמצעות פלטפורמות חיצוניות:** עולה הצעה להשתמש בפלטפורמות השקעה (כדוגמת Fundrise) כדי להשיג חשיפה מגוונת יותר ולנהל סיכונים הנובעים מהפערים בין המגזרים השונים.\n*   **משבר בתעסוקה באקדמיה:** מצוינת תופעה מדאיגה של קיצוצים נרחבים בכוח אדם ופיטורים במוסדות להשכלה גבוהה ברחבי המדינה, מה שמעיד על חולשה ספציפית במגזר זה.\n*   **חשש מחוסר יציבות תעסוקתית:** מעבר לאקדמיה, עולה סנטימנט של דאגה בנוגע לביטחון התעסוקתי, כאשר הקיצוצים (\"Gutting\") נתפסים כמהלך רחב ועמוק המשפיע על צוותים רבים.",
-    "dateString": "2026-03-14",
-    "savedAt": {
-      "_seconds": 1773471629,
-      "_nanoseconds": 771000000
-    }
-  },
-  {
-    "id": "1rstji3",
-    "title": "Should the current market have me(35) rethinking investment strategy of all in on the S&P?",
-    "url": "https://www.reddit.com/r/investing/comments/1rstji3/should_the_current_market_have_me35_rethinking/",
-    "author": "mr_whit33",
-    "score": 124,
-    "selftext": "Title says it all. I'm 35 and my entire strategy so far has been completely limited to dumping everything in VOO and the S&P. \n\nMy entire 401k is VOO and I have another couple hundred thousand in stocks that is 80% VOO and the other 20% other singular tech stocks (Meta,PLTR,Apple, etc). \n\nI'm still in the mindset I am so young that don't touch anything and keep it moving as is. I am curious if others are hedging a bit with international stocks, bonds, gold, etc or staying consistent. \n\nI'm certainly not panicking as I have been doing this for the last 10 years and I have made more money than I thought possible by simply doing nothing and holding course but wanted additional perspectives.",
-    "subreddit": "investing",
-    "created_utc": 1773422450,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I yearn for the days when all I needed was Microsoft and Apple for a 50-80% yearly gain.\nDuring this war you should be in oil. My main oil is UCO.\nFertilizer, mine is CF. Drones, mine are UMAC and RCAT.\n",
-        "score": 1,
-        "author": "Glider549"
-      },
-      {
-        "body": "I would hedge in the short term <5% portfolio ",
-        "score": 1,
-        "author": "Edenwing"
-      },
-      {
-        "body": "Or just say S&P 500 minus Tesla ",
-        "score": 1,
-        "author": "ExpensiveToes4729"
-      }
-    ],
-    "summary_he": "הכותב בן ה-35, שהשקיע בעשור האחרון כמעט אך ורק במדד ה-S&P 500 ובמניות טכנולוגיה, תוהה האם עליו לשנות את האסטרטגיה שלו לאור המצב בשוק. למרות שהשיג רווחים משמעותיים עד כה, הוא מבקש לקבל נקודות מבט נוספות בשאלה האם כדאי להתחיל לגוון את התיק עם אג\"ח, זהב או מניות בינלאומיות כדי לגדר סיכונים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "הנה סיכום של הדיון ב-Reddit, המציג שש נקודות מבט ודעות שונות שעלו מהתגובות:\n\n*   **געגועים להשקעות ה\"פשוטות\" בעבר:** קיימת תחושת נוסטלגיה לתקופות שבהן השקעה במניות ענק טכנולוגיות כמו מיקרוסופט ואפל הספיקה כדי להניב תשואות שנתיות גבוהות מאוד (של 50-80%), ללא צורך באסטרטגיות מורכבות יותר.\n*   **השקעה במשאבי אנרגיה בזמן מלחמה:** עולה הטענה שבתקופות של סכסוכים מזוינים, על המשקיעים להתמקד במגזר הנפט, תוך ציון ספציפי של תעודת הסל UCO (העוקבת אחרי מחיר הנפט במינוף).\n*   **פוטנציאל במגזר החקלאות והדשנים:** אחד המשתמשים מזהה את תחום הדשנים כנקודת השקעה אסטרטגית כיום, וממליץ על חברת CF Industries (סימול: CF) כבחירה המועדפת עליו בתחום.\n*   **התמקדות בטכנולוגיית כטב\"מים ורחפנים:** כחלק מהתאמת תיק ההשקעות למציאות הביטחונית, מוצע להשקיע בחברות המפתחות כלי טיס בלתי מאוישים, תוך אזכור המניות UMAC ו-RCAT.\n*   **ניהול סיכונים באמצעות גידור:** קיימת המלצה לבצע גידור (Hedge) של תיק ההשקעות לטווח הקצר, אך במינון נמוך וזהיר שאינו עולה על 5% מכלל הפורטפוליו.\n*   **סנטימנט שלילי כלפי טסלה בתוך המדדים:** הצעה מעניינת שעלתה היא להשקיע במדד ה-S&P 500 אך בנטרול מניית טסלה (Tesla), מה שמעיד על חוסר אמון בביצועי המניה ביחס לשאר השוק."
-  },
-  {
-    "id": "1rsq5kw",
-    "title": "Trump once again pushes Powell to drop rates \"IMMEDIATELY,\" but a zero-cut year looks increasingly likely",
-    "url": "https://www.reddit.com/r/finance/comments/1rsq5kw/trump_once_again_pushes_powell_to_drop_rates/",
-    "author": "fortune",
-    "score": 1,
-    "selftext": "President Donald Trump may have his focus set on the conflict in the Middle East, but he’s still finding time to harass Fed chairman Jerome Powell.\n\nThe U.S. and Israel’s military action in Iran has led many on Wall Street to the conclusion that any rate cuts in 2026 are on increasingly thin ice, owing to high oil prices fuelling inflation.\n\nBut Trump seems undeterred in his pressure campaign against the central bank. Writing on Truth Social yesterday evening, the president said: “Where is the Federal Reserve Chairman, Jerome “Too Late” Powell, today? He should be dropping interest rates, IMMEDIATELY, not waiting for the next meeting!”\n\nTrump seems to be appealing to Powell for intervention as oil prices spiralled higher yesterday, once again hitting $100 a barrel. Inflation expectations are rising as a result, as consumers and businesses prepare for the rates to be passed through into their gas and energy prices.\n\nRead more: [https://fortune.com/2026/03/13/trump-powell-pressure-oil-no-cut-plausible/](https://fortune.com/2026/03/13/trump-powell-pressure-oil-no-cut-plausible/)",
-    "subreddit": "finance",
-    "created_utc": 1773415103,
-    "thumbnail": "https://external-preview.redd.it/4nuXSf6Vs1up9ombrOME9XvmjJRS7PzBHk0T0xBp6Sw.jpeg?width=140&height=70&auto=webp&s=f23559d7c19a4d17774d39a5aa1d700ba9396eac",
-    "top_comments": [
-      {
-        "body": "He’s not that smart to know what the 10yr yield is ",
-        "score": 1,
-        "author": "tombrady011235"
-      },
-      {
-        "body": "This sub is weak. The first rate hike was months after the 8% inflation and 4% unemployment.",
-        "score": 1,
-        "author": "jvdlakers"
-      },
-      {
-        "body": "Board members have different opinions on this but it looks like the new constellation will go heavy towards rate-cutting.\n\nExpecting no rate cuts this year is unrealistic.",
-        "score": 1,
-        "author": "Romanizer"
-      }
-    ],
-    "summary_he": "דונלד טראמפ לוחץ על יו\"ר הפדרל ריזרב, ג'רום פאוול, להוריד את הריבית באופן מיידי למרות עליית מחירי הנפט והחשש מאינפלציה. עם זאת, אנליסטים בוול סטריט מעריכים כי הסיכוי להורדת ריבית בשנת 2026 הולך ופוחת בשל המתיחות הביטחונית במזרח התיכון והשפעתה על יוקר המחיה.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **ספקנות לגבי היכולת המקצועית:** קיים זלזול בהבנה הכלכלית של מקבל ההחלטות (ככל הנראה יו\"ר הפד), כולל טענה שהוא אינו בקיא בנתונים בסיסיים כמו תשואות האג\"ח ל-10 שנים.\n*   **ביקורת על הקהילה:** ביקורת כלפי חברי הסאב-רדיט עצמם, הנתפסים כ\"חלשים\" או כמי שאינם מבינים את חומרת המצב ההיסטורי.\n*   **תסכול מהתגובה המאוחרת של המוסדות:** הבעת חוסר שביעות רצון מכך שהעלאת הריבית הראשונה התרחשה באיחור רב, חודשים ארוכים אחרי שהאינפלציה כבר זינקה ל-8%.\n*   **זיהוי חילוקי דעות פנימיים:** הכרה בכך שבין חברי מועצת הנגידים אין תמימות דעים, וקיימות דעות שונות ומנוגדות לגבי המשך המדיניות.\n*   **צפי לשינוי במגמה (Pivot):** הערכה שההרכב החדש של מקבלי ההחלטות יטה באופן מובהק לכיוון של הורדות ריבית אגרסיביות.\n*   **שלילת האפשרות להותרת הריבית על כנה:** קביעה נחרצת כי הציפייה שלא יהיו הורדות ריבית בכלל במהלך השנה הנוכחית אינה ריאלית ואינה תואמת את המציאות.",
-    "dateString": "2026-03-14",
-    "savedAt": {
-      "_seconds": 1773471507,
-      "_nanoseconds": 245000000
-    }
-  },
-  {
-    "id": "1rsq6hn",
-    "title": "Finally made all my Investment back after 7 years!!! Part 2",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1rsq6hn/finally_made_all_my_investment_back_after_7_years/",
-    "author": "No_Chef_1680",
-    "score": 102,
-    "selftext": "Previous post:\n\nhttps://www.reddit.com/r/StockMarket/s/GviZUJeGLl\n\nThis post is dedicated to all the people who have lost so much as I did throughout the years and keeps on fighting to climb back the ladder, don’t give up you’ve got this.\n\nDedicated to all the people on my past post who acknowledged even a breakeven status is a remarkable achievement. I appreciate you all.\n\nNow I’m up 59k all time, I have taken out 40k to payoff some car loans.\n\nThank you to everyone in my past post encouraging a positive perspective even when things were not perfect and never will. Trust me, your words will live in my head for a lifetime… much much appreciated.\n\nIf you have read this much far, take it as a signal to not give up, keep on fighting and be disciplined. Keep your faith and truly believe in your self.\n\nThere will always be ups and downs and that is completely normal for everyone, you’re not alone. Learn how to navigate through the darkness of storms in your life and you mind, sooner or later things will start working out. Be patient, your time will come.\n\nYes I have made so many mistakes as everyone has, it is all part of the process. Accept when things are going bad and know that good things will come if you keep on having faith, being disciplined and working hard. I am a Licensed Professional Civil Engineer in the state on Texas working full time while trying to improve my finances. Yes, it’s hard and takes a big toll in my head to do this things but it will all be worth it.\n\nThanks for reading my thoughts.\n\nNote: I didn’t start with 104k, I was depositing about 10k-20k per year (savings from my paycheck since I graduated)",
+    "id": "1rtrbix",
+    "title": "Trump claims he’s gonna get the Hormuz Strait open",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1rtrbix/trump_claims_hes_gonna_get_the_hormuz_strait_open/",
+    "author": "Affectionate-Safe295",
+    "score": 2673,
+    "selftext": "Knowing him I doubt he’ll end up doing any of this which would be no surprise but if he does could this be bullish for stocks and bearish for oil? Unless this were to lead to a bigger conflict which would be the most likely scenario.                        ",
     "subreddit": "StockMarket",
-    "created_utc": 1773415161,
-    "thumbnail": "https://preview.redd.it/1i4b8brrxtog1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=369c196bd81f16d0fd5a7e6a359df0d53484c295",
+    "created_utc": 1773513857,
+    "thumbnail": "https://preview.redd.it/7ke2byt832pg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=a0a1b8568f7eddbcfc9c29b6b203fde7bd3f86d6",
     "top_comments": [
       {
-        "body": "The long game finally paid off. Congrats!",
-        "score": 30,
-        "author": "Late_Curve1983"
+        "body": "This is giving real Hitler in the bunker, making grand moves with armies that don't exist vibes",
+        "score": 1,
+        "author": "Boxhead_31"
       },
       {
-        "body": "Breaking even after tough years is still a huge win. Respect for sticking with it.",
-        "score": 22,
+        "body": "Yes, what could go wrong if China sends their warships in to “help us”?",
+        "score": 1,
+        "author": "bobber18"
+      },
+      {
+        "body": "Not really, 90-98% of traffic is down in Iran. Insurances are canceling on any ship going through the Hormuz. Most of the Chinese ships are just dry goods rather than oil at the moment. I suppose Iran ghost fleet could be supplying China with oil tho",
+        "score": 1,
+        "author": "Icruz7567"
+      }
+    ],
+    "summary_he": "הפוסט דן בהצהרת טראמפ כי יפעל לפתיחת מצר הורמוז, תוך הבעת ספק לגבי מימוש ההבטחה בפועל. הכותב תוהה האם מהלך כזה ייטיב עם שוק המניות ויוריד את מחירי הנפט, אך מציין כי התרחיש הסביר ביותר הוא הובלה לעימות צבאי רחב יותר.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שנכתבו, המציג 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **תחושת ייאוש וניתוק מהמציאות:** אחד המגיבים משווה את המצב להתנהלותו של היטלר בבונקר בסוף ימיו – ניסיון לבצע מהלכים גרנדיוזיים עם \"צבאות רפאים\" שאינם קיימים באמת, מה שמעיד על תחושה של מנהיגות שאיבדה קשר עם המציאות בשטח.\n*   **ספקנות וחשדנות כלפי סין:** עולה סנטימנט ציני וסרקסטי לגבי האפשרות שסין תשלח ספינות מלחמה כדי \"לעזור\". המגיבים חוששים שהתערבות כזו תהיה הרסנית או תשרת אינטרסים זרים ולא את טובת האזור.\n*   **קריסה דרמטית בתעבורה הימית:** צוין כי קיימת צניחה חדה מאוד (בין 90% ל-98%) בהיקף התנועה הימית באזור איראן, מה שמעיד על שיתוק כמעט מוחלט של נתיבי הסחר באזור זה.\n*   **משבר ביטוחי בנתיבי שיט אסטרטגיים:** קיימת התייחסות לכך שחברות הביטוח מבטלות פוליסות לכל ספינה שעוברת במצר הורמוז, מה שהופך את השיט באזור לבלתי אפשרי כלכלית עבור רוב החברות.\n*   **אפיון הסחר הסיני הנוכחי:** נטען כי כרגע, רוב הספינות הסיניות מובילות סחורות יבשות (\"Dry goods\") ולא נפט, דבר המצביע על שינוי או מגבלה באופי הסחר הימי של סין באזור בעת הזו.\n*   **פעילות של \"צי רפאים\":** למרות הנתונים הרשמיים על ירידה בתנועה, עולה השערה כי איראן מפעילה \"צי רפאים\" הממשיך לספק נפט לסין בדרכים עקיפות או לא רשמיות כדי לעקוף את המגבלות והקשיים בנתיבי השיט הרגילים."
+  },
+  {
+    "id": "1rtdp33",
+    "title": "Most Gulf equities in red as Iran escalates regional attacks | Reuters",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1rtdp33/most_gulf_equities_in_red_as_iran_escalates/",
+    "author": "PixeledPathogen",
+    "score": 80,
+    "selftext": "Most stock markets in the Gulf ended lower on ​Thursday, with the Dubai index leading losses as Iran escalated attacks on oil and transport ‌infrastructure across the Middle East, fuelling concern over a potentially prolonged conflict.\nIran said the world should be ready for oil priced at $200 a barrel after its forces attacked merchant vessels on Wednesday. Meanwhile, the International Energy Agency called for large-scale release of ​strategic reserves to cushion what could become one of the worst oil shocks since the ​1970s.",
+    "subreddit": "StockMarket",
+    "created_utc": 1773475489,
+    "thumbnail": "https://external-preview.redd.it/0B35TAaizlbfh02v1Xm_k63SpFnguZsJkFdb5nRriBI.jpeg?width=140&height=73&auto=webp&s=1f622625232edbc79cbd4959554fd8f823fad585",
+    "top_comments": [
+      {
+        "body": "Green for a while.. but then surely be dragged down by the depression?",
+        "score": 4,
+        "author": "humanofstreatham"
+      },
+      {
+        "body": "If oil actually spikes toward $200 like Iran suggested, energy stocks could be the only green sector for a while.",
+        "score": 4,
         "author": "Pikachu_0019"
       },
       {
-        "body": "Why the extreme volatility in the last period?",
-        "score": 22,
-        "author": "_crisz"
+        "body": "It took one year for US to go from a security guarantor that has its allies compete for American favour and attention to a perfect example of the \"With allies like these, who needs enemies?\" saying.",
+        "score": 3,
+        "author": "MethylphenidateMan"
       }
     ],
-    "summary_he": "הכותב משתף כי לאחר שבע שנים של הפסדים, הוא הצליח להחזיר את השקעתו ואף להגיע לרווח של 59 אלף דולר, מתוכם משך סכום משמעותי לכיסוי הלוואות. הוא מעודד משקיעים אחרים שנמצאים בהפסדים לא להתייאש, להישאר ממושמעים ולהתמיד למרות הקשיים והטעויות שבדרך.",
+    "summary_he": "רוב בורסות המפרץ, ובראשן מדד דובאי, ננעלו בירידות שערים בעקבות הסלמה בתקיפות איראניות על תשתיות נפט ותובלה באזור. המשקיעים חוששים מעימות מתמשך ומשוק נפט עולמי לאחר שאיראן הזהירה כי המחירים עלולים לזנק ל-200 דולר לחבית, מה שהוביל לקריאות לשחרור עתודות נפט אסטרטגיות כדי למתן את המשבר.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ותחושות שונות שעלו בקהילה:\n\n*   **הערכה לאסטרטגיית הטווח הארוך:** חברי הקהילה מציינים כי ההמתנה והמשחק לטווח ארוך הוכיחו את עצמם כמשתלמים בסופו של דבר, ומברכים על הסבלנות שהשתלמה.\n*   **הגדרה מחדש של הצלחה:** קיימת תפיסה לפיה הגעה לנקודת איזון (\"Breaking even\") לאחר שנים קשות של הפסדים נחשבת לניצחון אדיר בפני עצמו, גם אם לא נוצר רווח נקי גדול.\n*   **כבוד להתמדה ונחישות:** עולה רגש של כבוד והערכה כלפי מי שלא נשבר והמשיך לדבוק בתוכנית שלו למרות תקופות מאתגרות וממושכות.\n*   **תמיהה על תנודתיות השוק:** לצד הברכות, עולה סימן שאלה וסקרנות לגבי הסיבות שהובילו לתנודתיות הקיצונית (\"extreme volatility\") שאפיינה את התקופה האחרונה.\n*   **הכרה בקושי של \"השנים הקשות\":** הקהילה מכירה בכך שהדרך לא הייתה קלה, ומבינה את המורכבות הפסיכולוגית של ההתמודדות עם הפסדים לאורך זמן.\n*   **אופטימיות זהירה וחגיגיות:** התגובות משדרות אווירה של הקלה ושמחה על כך שהמאמץ נשא פרי, תוך הדגשת החשיבות של \"להישאר במשחק\" גם כשקשה."
-  },
-  {
-    "id": "1rsqir8",
-    "title": "A D.C. energy expert's analysis when the Strait will re-open",
-    "url": "https://www.reddit.com/r/investing/comments/1rsqir8/a_dc_energy_experts_analysis_when_the_strait_will/",
-    "author": "gonzo-investments",
-    "score": 17,
-    "selftext": "Thought this was a great interview between an ex-Milennium PM and an MD of a major energy-specific investment research firm. Struggling to find anything better than MSNBC, CNN or tilted newspaper articles. Found it funny that the guy said the bars he takes politicians to in DC is considered a \"trade secret\".\n\n\n\n[https://youtu.be/cku1zwxJ4pE?si=fgAtDl19gGHzrOf1](https://youtu.be/cku1zwxJ4pE?si=fgAtDl19gGHzrOf1)",
-    "subreddit": "investing",
-    "created_utc": 1773415922,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "WIT crude to over $100 any second",
-        "score": 5,
-        "author": "thismarketisregarded"
-      },
-      {
-        "body": "Are those bars the bars listed on the Pentagon Pizza Index? ",
-        "score": 2,
-        "author": "AnonymousTimewaster"
-      },
-      {
-        "body": "great episode thanks for sharing!",
-        "score": 2,
-        "author": "Intelligent-Tea-8251"
-      }
-    ],
-    "summary_he": "הפוסט מציג ראיון בין מומחה אנרגיה למנהל השקעות בכיר המנתח מתי ייפתחו מחדש מצרי הים למעבר סחורות. הכותב מציין כי מדובר בניתוח מקצועי ואיכותי המהווה חלופה עדיפה על פני הדיווחים המוטים בכלי התקשורת המרכזיים.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שצורפו, הכולל 6 נקודות המייצגות דעות, רגשות וניתוחים של הקהילה:\n\n*   **ציפייה לזינוק במחירי הנפט:** אחד המשתתפים חוזה כי מחיר חבית נפט מסוג WTI יעבור את רף ה-100 דולרים \"בכל רגע\", מה שמעיד על הערכה לתנודתיות גבוהה ועלייה חדה בשוק האנרגיה.\n*   **שימוש ב\"מדד הפיצה של הפנטגון\":** עולה התייחסות למדד הלא-רשמי שבוחן הזמנות פיצה מוגברות לפנטגון כאינדיקטור לפעילות צבאית או ביטחונית חריגה העומדת להתרחש.\n*   **דריכות לאירוע גיאו-פוליטי משמעותי:** השילוב בין אזכור מחירי הנפט למדדי הפנטגון מרמז על כך שהקהילה חשה שאנו נמצאים בערבו של אירוע עולמי דרמטי, אולי צבאי.\n*   **הערכה לתוכן ששותף:** קיימת הבעת תודה על הפרק/הסרטון שפורסם (\"great episode\"), מה שמצביע על כך שהדיון מתקיים סביב ניתוח מעמיק או דיווח אקטואלי שזכה לתהודה חיובית.\n*   **חיפוש אחר רמזים לא קונבנציונליים:** הקהילה לא מסתמכת רק על נתונים יבשים, אלא מחפשת סימנים \"מתחת לרדאר\" (כמו נתוני ברים או מדדי צריכה) כדי להבין את תמונת המצב המלאה.\n*   **תחושת דחיפות ומידיות:** הניסוחים בתגובות (\"any second\") משדרים תחושה של אירועים המתפתחים במהירות רבה, הדורשים מעקב צמוד מצד הגולשים."
-  },
-  {
-    "id": "1rsnx15",
-    "title": "Defense Spending Is Quietly Becoming a Major Driver of Copper Demand",
-    "url": "https://www.reddit.com/r/investing/comments/1rsnx15/defense_spending_is_quietly_becoming_a_major/",
-    "author": "Keyboard_Ferret",
-    "score": 7,
-    "selftext": "Most conversations about copper focus on electric vehicles, renewable energy, and power grid expansion. Those are clearly major demand drivers. But another sector is quietly emerging as an important source of copper consumption: defense.\n\nGlobal military spending has been rising steadily and is projected to accelerate significantly over the next decade. According to recent projections, global defense spending could grow from about $2.1 trillion in 2010 to nearly $6 trillion by 2040. Much of that increase is expected to come from the United States, NATO allies, and Asia as governments expand military capabilities and modernize equipment.\n\nAs defense spending rises, copper demand is expected to increase alongside it.\n\nEstimates suggest copper consumption in the defense sector could rise from roughly 0.3 million metric tons today to nearly 1 million metric tons by 2040, representing roughly a threefold increase. While that is still a relatively small share of global copper consumption, the demand is considered highly strategic because defense systems rely heavily on electrical infrastructure and electronics.\n\nCopper plays a central role across modern military equipment. Infantry combat vehicles can contain up to 800 kilograms of copper, primarily in wiring, power systems, and electronic controls. Missile launch systems use approximately 270 kilograms of copper in guidance systems, propulsion controls, and electrical connections.\n\nNaval systems can contain even larger amounts. A single nuclear submarine may contain up to 90 metric tons of copper, largely due to propulsion systems, communications equipment, and extensive onboard electrical infrastructure. Copper’s resistance to corrosion also makes it particularly valuable for marine applications.\n\nBeyond individual platforms, modern warfare increasingly depends on networks and infrastructure. Radar systems, satellite communications, drone control networks, and command centers all require substantial electrical systems that rely on copper wiring and components.\n\nRecent conflicts have also demonstrated the growing role of drones and unmanned systems on the battlefield. While individual drones may contain relatively small amounts of copper, the infrastructure needed to operate them - control systems, communications networks, power supplies, and sensor arrays - can add significantly to overall demand.\n\nAs defense budgets shift toward advanced equipment and technological systems, the copper intensity of military spending is expected to increase. Currently, equipment and infrastructure account for roughly 30% of NATO defense spending, and that share is projected to rise as countries modernize their military capabilities.\n\nThis dynamic helps explain why defense-related copper demand is projected to continue growing over the next two decades.\n\nMeeting future demand for copper will depend not only on existing mines but also on the exploration pipeline that identifies new deposits. Established mining companies such as Fortuna Mining Corp. (NYSE: FSM) and Iamgold Corporation (NYSE: IAG) contribute to global metal production through large-scale mining operations.\n\nAt the earlier stages of the supply chain, exploration companies like NovaRed Mining Inc. (CSE: NRED / OTCQB: NREDF) are working to identify potential copper systems that could support future supply as global demand continues to grow. Additionally, explorer stage names move sharply on drill results, just a thought to sink in. \n\nWhile defense may represent only a portion of total copper consumption, it is one of the most strategic and difficult sectors to substitute away from the metal. As military technology becomes increasingly electronics-driven, copper’s role in the defense industry is likely to become even more important.",
-    "subreddit": "investing",
-    "created_utc": 1773409963,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Still feels tiny compared to EV + grid demand though. Defense going from 0.3 to 1m tons isn’t nothing but global copper demand is like 25m+",
-        "score": 2,
-        "author": "Gwynchild"
-      },
-      {
-        "body": "PBDC was mentioned below COPX is an option. \n\n* **PDBC:** Invests in liquid futures contracts across a broad spectrum of commodities, including energy (oil, gas), precious metals (gold, silver), industrial metals, and agriculture. It is actively managed to minimize the cost of rolling futures contracts (\"contango\").\n* **COPX:** Invests in a portfolio of stocks of companies involved in copper mining, smelting, and refining. It is a passive, index-tracking fund that behaves more like an equity ETF than a raw commodity fund. ",
-        "score": 1,
-        "author": "MiloAndCrows"
-      },
-      {
-        "body": "PDBC should be apart of every smart investor's portfolio. Mine is roughly 5%.",
-        "score": -1,
-        "author": "Parking_Reputation17"
-      }
-    ],
-    "summary_he": "הפוסט מציין כי לצד המעבר לאנרגיה ירוקה, ענף הביטחון הופך למניע מרכזי בביקוש העולמי לנחושת עקב המודרניזציה של מערכות לחימה ותשתיות אלקטרוניות. צריכת הנחושת במגזר הביטחוני צפויה לשלש את עצמה עד שנת 2040, שכן היא מהווה רכיב קריטי בייצור צוללות, טילים וכלי טיס בלתי מאוישים. מגמה זו מדגישה את חשיבותה האסטרטגית של המתכת ואת הצורך הגובר באיתור מקורות כרייה חדשים כדי לענות על דרישות השוק.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ודעות שונות שהועלו:\n\n*   **פרופורציות בביקוש העולמי לנחושת:** למרות העלייה המשמעותית בביקוש לנחושת מצד תעשיית הביטחון (מ-0.3 למיליון טון), הוא עדיין נחשב זניח (\"tiny\") לעומת הביקוש הכולל בשוק, שעומד על למעלה מ-25 מיליון טון.\n*   **המנועים המרכזיים של השוק:** המגיבים מדגישים כי הגורמים העיקריים שדוחפים את הביקוש לנחושת הם המעבר לרכבים חשמליים (EV) והצורך בתשתיות עבור רשתות חשמל, ולאו דווקא צרכים ביטחוניים.\n*   **אסטרטגיית השקעה באמצעות מניות (COPX):** מוצעת האפשרות להשקיע בנחושת דרך קרן הסל COPX. קרן זו אינה מחזיקה בסחורה עצמה, אלא במניות של חברות העוסקות בכרייה, זיקוק ועיבוד של נחושת, ולכן היא מתנהגת יותר כמו קרן מנייתית.\n*   **חשיפה רחבה לסחורות (PDBC):** כחלופה להשקעה ממוקדת בנחושת, מוצגת קרן PDBC המעניקה חשיפה לספקטרום רחב של סחורות כמו אנרגיה, מתכות יקרות וחקלאות, ובכך מאפשרת פיזור רחב יותר.\n*   **חשיבות הניהול האקטיבי בחוזים עתידיים:** מצוין יתרון טכני לקרן PDBC בניהול אקטיבי של חוזים עתידיים, במטרה לצמצם הפסדים הנובעים מעלויות גלגול החוזים (תופעה המכונה \"Contango\").\n*   **המלצה להרכב תיק ההשקעות:** בקרב הקהילה קיימת סנטימנט חיובי חזק כלפי שילוב סחורות בתיק; אחד המגיבים טוען כי \"כל משקיע חכם\" צריך להקצות כ-5% מהתיק שלו לקרן סחורות רחבה כמו PDBC."
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שפורטו, הכולל 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **ספקנות לגבי המשכיות העליות בשוק:** קיים חשש שהמגמה ה\"ירוקה\" (עליות) בשווקים היא זמנית בלבד, וכי בסופו של דבר המיתון או ה\"דיכאון\" הכלכלי יכריעו את השוק ויגרמו לירידות חדות.\n*   **צפי לזינוק במחירי האנרגיה:** עולה האפשרות שמחירי הנפט יזנקו לערכים קיצוניים של כ-200 דולר לחבית, בהתאם לאיומים או לתחזיות המגיעות מכיוון איראן.\n*   **מניות האנרגיה כמפלט אחרון:** במידה ומחירי הנפט אכן יזנקו, ישנה סברה שמגזר האנרגיה יהיה התחום היחיד בשוק ההון שיציג רווחים, בעוד שאר המגזרים יסבלו.\n*   **שחיקת המעמד הבינלאומי של ארה\"ב:** מובעת ביקורת חריפה על כך שתוך שנה אחת בלבד, ארה\"ב איבדה את מעמדה כערבה לביטחון עולמי שבעלות בריתה מתחרות על חסדיה.\n*   **אכזבה בקרב בעלות הברית:** קיים סנטימנט המצביע על שינוי בתפיסת בעלות הברית של ארה\"ב – ממדינות השואפות לקרבתה למדינות שרואות בה שותפה לא אמינה.\n*   **ציניות כלפי מדיניות החוץ האמריקאית:** השימוש בביטוי \"עם בעלי ברית כאלה, מי צריך אויבים?\" משקף תחושת בגידה או חוסר תועלת בקשרים הביטחוניים עם ארה\"ב בעת הנוכחית."
   },
   {
     "id": "1ru1gw4",
@@ -224,108 +90,245 @@ window.dailyTrends = [
     ],
     "summary_he": "SpaceX מתכננת הנפקה בבורסת הנאסד\"ק ומתנה זאת בשינוי כללי מדד הנאסד\"ק-100, כך שתוכל להיכנס אליו במסלול מהיר ובמשקל גבוה למרות שיעור מניות נמוך שיוצע לציבור. מהלך זה עלול לאלץ קרנות סל פסיביות לרכוש את המניה באופן מיידי ובמחיר גבוה, מה שיאפשר לבעלי מניות פרטיים למכור את אחזקותיהם ברווח על חשבון ציבור המשקיעים.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המוצגות, הכולל 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **פירוט תנאי הסף של מדד ה-CRSP:** אחת התגובות מתמקדת בהיבט הטכני של מדדי שוק, ומציינת את הקריטריונים הנוקשים שבהם נייר ערך צריך לעמוד כדי להיכנס מחדש למדד השוק הכולל של ארה\"ב (CRSP). תנאים אלו כוללים שווי שוק של לפחות 15 מיליון דולר, שיעור מניות צפות (Float) של 12.5% לפחות, ורמת סחירות מינימלית.\n*   **חשיבות ההמשכיות והעקביות:** הדיון מדגיש כי לא די בעמידה חד-פעמית בתנאים; נייר ערך שהוגדר בעבר כ\"לא ראוי להשקעה\" חייב לעבור את הבדיקות בארבעה סבבי דירוג רצופים לפני שיישקל מחדש להכללה במדד.\n*   **אזהרה מפני עיוות מדדים (חוק גודהארט):** באמצעות הפניה ל\"חוק גודהארט\", עולה בקהילה סנטימנט ביקורתי הגורס כי ברגע שמדד מסוים הופך למטרה (כלומר, כשחברות מנסות באופן אקטיבי לעמוד בקריטריונים רק כדי להיכנס למדד), הוא מאבד מערכו כמדד אמין ומייצג.\n*   **ספק לגבי מקוריות הטיעונים:** עולה ביקורת כלפי איכות הדיון או כלפי אחד המשתתפים, בטענה שהטיעונים המוצגים הם למעשה ניסוח מחדש שטחי של מקורות חיצוניים אחרים, ולא מחשבה מקורית.\n*   **הקשר בין ניסוח להבנה עמוקה:** חברי הקהילה מביעים דעה כי חוסר במקוריות ושימוש בטקסט \"משוכתב\" מעלים סימני שאלה לגבי מידת ההבנה האמיתית של הדובר. הטענה היא שאם אדם אינו מסוגל לנסח את הטיעון בעצמו, ייתכן שהוא אינו מבין את ההשלכות העמוקות של דבריו.\n*   **דגש על סדירות המסחר:** מעבר לנתונים כספיים יבשים, הקהילה מצביעה על כך שמדדים בוחנים מקרוב את פעילות המסחר היומיומית – למשל, האיסור על יותר מ-10 ימים רצופים ללא נפח מסחר – כדי להבטיח שהנכס אכן נזיל וראוי להשקעה מוסדית."
-  },
-  {
-    "id": "1rtkrsn",
-    "title": "Find out how QCPUs will impact finance -> a game that makes quantum computing supersimple and fun to discover for anyone who likes math",
-    "url": "https://www.reddit.com/r/finance/comments/1rtkrsn/find_out_how_qcpus_will_impact_finance_a_game/",
-    "author": "QuantumOdysseyGame",
-    "score": 1,
-    "selftext": "Dear all,\n\nI'd like to update you on what's the latest on my decade long project to make quantum computing & physics intuitive: [Quantum Odyssey](https://store.steampowered.com/app/2802710/Quantum_Odyssey/). We are now in the last phase of the Early Access - perfect time to share your opinions if you played it and let me know what features you'd like the game to have more as it matures towards a full release. Importantly, we are now preparing to port the game to various languages - still a lot of work ahead, the game has over 350p of written content (pre-gpt era..) that need to be translated to as many languages as possible. If you have played the game and are fluent in a language you'd like the game to be translated please pm me right away. If you know any physics influencers who would be interested in reviewing the game do let me know.\n\nI am the Indiedev behind it(AMA! I love taking qs). It started as my phd research project, the goal was to make a super immersive space for anyone to learn quantum computing through zachlike (open-ended) logic puzzles and compete on leaderboards and lots of community made content on finding the most optimal quantum algorithms. The game has a unique set of visuals capable to represent any sort of quantum dynamics for any number of qubits and this is pretty much what makes it now possible for anybody 12yo+ to actually learn quantum logic without having to worry at all about the mathematics behind.\n\nThis is a game super different than what you'd normally expect in a programming/ logic puzzle game, so try it with an open mind. My goal is we start tournaments for finding new quantum algorithms, so pretty much I am aiming to develop this further into a quantum algo optimization PVP game from a learning platform/game further.\n\n# What's inside\n\n300p+ Interactive encyclopedia that is a near-complete bible of quantum computing. All the terminology used in-game, shown in dialogue is linked to encyclopedia entries which makes it pretty much unnecessary to ever exit the game if you are not sure about a concept.\n\n**Boolean Logic**\n\nBits, operators (NAND, OR, XOR, AND…), and classical arithmetic (adders). Learn how these can combine to build anything classical. You will learn to port these to a quantum computer.\n\n**Quantum Logic**\n\nQubits, the math behind them (linear algebra, SU(2), complex numbers), all Turing-complete gates (beyond Clifford set), and make tensors to evolve systems. Freely combine or create your own gates to build anything you can imagine using polar or complex numbers\n\n**Quantum Phenomena**\n\nStoring and retrieving information in the X, Y, Z bases; superposition (pure and mixed states), interference, entanglement, the no-cloning rule, reversibility, and how the measurement basis changes what you see\n\n**Core Quantum Tricks**\n\nPhase kickback, amplitude amplification, storing information in phase and retrieving it through interference, build custom gates and tensors, and define any entanglement scenario. (Control logic is handled separately from other gates.)\n\n**Famous Quantum Algorithms** \n\nDeutsch–Jozsa, Grover’s search, quantum Fourier transforms, Bernstein–Vazirani\n\n**Sandbox mode**\n\nInstead of just writing/ reading equations, make & watch algorithms unfold step by step so they become clear, visual. If a gate model framework QCPU can do it, Quantum Odyssey's sandbox can display it.\n\n**Cool streams to check**\n\nKhan academy style tutorials on quantum mechanics & computing  [https://www.youtube.com/@MackAttackx](https://www.youtube.com/@MackAttackx)\n\nPhysics teacher with more than 400h in-game [https://www.twitch.tv/beardhero](https://www.twitch.tv/beardhero)",
-    "subreddit": "finance",
-    "created_utc": 1773498322,
-    "thumbnail": "https://preview.redd.it/f335nf61t0pg1.png?width=140&height=54&auto=webp&s=b3a3378add0ccdad07202cab8115791516ae9753",
-    "top_comments": [],
-    "summary_he": "המשחק \"Quantum Odyssey\" הוא פלטפורמה לימודית שהופכת את עולם המחשוב הקוונטי לנגיש ואינטואיטיבי דרך חידות לוגיות חזותיות, ללא צורך בידע מתמטי מוקדם. הפרויקט כולל אנציקלופדיה מקיפה, מצבי \"ארגז חול\" לתרגול אלגוריתמים ואפשרות לתחרות בין משתמשים, וכעת המפתח מחפש משוב מהקהילה ומתנדבים לתרגום התכנים לקראת השחרור המלא.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1rsx9ff",
-    "title": "Use of Calculus in Economics and Finance 101",
-    "url": "https://www.reddit.com/r/finance/comments/1rsx9ff/use_of_calculus_in_economics_and_finance_101/",
-    "author": "AryaBro7",
-    "score": 1,
-    "selftext": "Hey! To all trying to learn about Economics and the use of Calculus in finance / personal finance, I made a simple and understandable way of learning it and simple applications!\n\n[https://ecopowered.blogspot.com/2026/03/applied-economics-calculus-behind.html](https://ecopowered.blogspot.com/2026/03/applied-economics-calculus-behind.html)\n\nComprehensive guide and practical usage of Economic theory (with simulations and games)!",
-    "subreddit": "finance",
-    "created_utc": 1773430421,
-    "thumbnail": "https://preview.redd.it/bma2fmv47vog1.png?width=140&height=78&auto=webp&s=aa1ec8516e77322de6501d0a00a5c06b799c174b",
-    "top_comments": [],
-    "summary_he": "הפוסט מציע מדריך מקיף ופשוט להבנה על השימוש בחשבון דיפרנציאלי ואינטגרלי (Calculus) בתחומי הכלכלה והפיננסים. המשאב כולל יישומים מעשיים, סימולציות ומשחקים שנועדו להנגיש את התיאוריה הכלכלית ולהפוך אותה לקלה ללמידה.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-03-14",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המוצגות, הכולל 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **פירוט תנאי הסף של מדד ה-CRSP:** אחת התגובות מתמקדת בהיבט הטכני של מדדי שוק, ומציינת את הקריטריונים הנוקשים שבהם נייר ערך צריך לעמוד כדי להיכנס מחדש למדד השוק הכולל של ארה\"ב (CRSP). תנאים אלו כוללים שווי שוק של לפחות 15 מיליון דולר, שיעור מניות צפות (Float) של 12.5% לפחות, ורמת סחירות מינימלית.\n*   **חשיבות ההמשכיות והעקביות:** הדיון מדגיש כי לא די בעמידה חד-פעמית בתנאים; נייר ערך שהוגדר בעבר כ\"לא ראוי להשקעה\" חייב לעבור את הבדיקות בארבעה סבבי דירוג רצופים לפני שיישקל מחדש להכללה במדד.\n*   **אזהרה מפני עיוות מדדים (חוק גודהארט):** באמצעות הפניה ל\"חוק גודהארט\", עולה בקהילה סנטימנט ביקורתי הגורס כי ברגע שמדד מסוים הופך למטרה (כלומר, כשחברות מנסות באופן אקטיבי לעמוד בקריטריונים רק כדי להיכנס למדד), הוא מאבד מערכו כמדד אמין ומייצג.\n*   **ספק לגבי מקוריות הטיעונים:** עולה ביקורת כלפי איכות הדיון או כלפי אחד המשתתפים, בטענה שהטיעונים המוצגים הם למעשה ניסוח מחדש שטחי של מקורות חיצוניים אחרים, ולא מחשבה מקורית.\n*   **הקשר בין ניסוח להבנה עמוקה:** חברי הקהילה מביעים דעה כי חוסר במקוריות ושימוש בטקסט \"משוכתב\" מעלים סימני שאלה לגבי מידת ההבנה האמיתית של הדובר. הטענה היא שאם אדם אינו מסוגל לנסח את הטיעון בעצמו, ייתכן שהוא אינו מבין את ההשלכות העמוקות של דבריו.\n*   **דגש על סדירות המסחר:** מעבר לנתונים כספיים יבשים, הקהילה מצביעה על כך שמדדים בוחנים מקרוב את פעילות המסחר היומיומית – למשל, האיסור על יותר מ-10 ימים רצופים ללא נפח מסחר – כדי להבטיח שהנכס אכן נזיל וראוי להשקעה מוסדית.",
+    "dateString": "2026-03-15",
     "savedAt": {
-      "_seconds": 1773471494,
-      "_nanoseconds": 304000000
+      "_seconds": 1773558528,
+      "_nanoseconds": 969000000
     }
   },
   {
-    "id": "1ru6qov",
-    "title": "REITs vs Dividend Stocks vs Covered Call ETFs for Long-Term Monthly Cash Flow?",
-    "url": "https://www.reddit.com/r/investing/comments/1ru6qov/reits_vs_dividend_stocks_vs_covered_call_etfs_for/",
-    "author": "Rix_x_x_",
+    "id": "1rv1gl7",
+    "title": "Moronic Monday - March 16, 2026 - Your Weekly Questions Thread",
+    "url": "https://www.reddit.com/r/finance/comments/1rv1gl7/moronic_monday_march_16_2026_your_weekly/",
+    "author": "AutoModerator",
     "score": 1,
-    "selftext": "I’d appreciate some input from people who have experience building income-focused portfolios.\n\nHypothetical scenario: you receive **$200k** to invest and your goal is to generate **reliable monthly cash flow** over the **long term (20–30 years)** while still maintaining **reasonable capital growth**.\n\nI’m currently considering a few broad approaches:\n\n* **REITs** for relatively stable income and real estate exposure\n* **Dividend**\\-focused stocks or ETFs for a balance of income and growth\n* **Covered call ETFs** for higher monthly distributions\n\nThe main objective would be consistent income with relatively low risk, while still allowing the portfolio to grow over time rather than purely maximizing yield.\n\nHow would you structure an approach like this?\n\nWould you focus on one of these strategies, combine them, or take a different route entirely?\n\nCurious to hear how more experienced investors think about balancing income, risk, and long-term growth in a case like this.\n\nThanks in advance for any insights.",
-    "subreddit": "investing",
-    "created_utc": 1773555788,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "הפוסט מבקש המלצות לבניית תיק השקעות בסך 200,000 דולר במטרה לייצר תזרים מזומנים חודשי יציב לצד צמיחת הון לטווח ארוך (20–30 שנה). הכותב מתלבט בין השקעה בקרנות ריט (REITs), מניות דיבידנד או תעודות סל מסוג Covered Call, ומחפש את האיזון האופטימלי בין הכנסה עקבית לבין סיכון נמוך.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1ru6k4a",
-    "title": "Came across Leopold Aschenbrenner’s Situational Awareness stuff, thoughts on the power/compute thesis?",
-    "url": "https://www.reddit.com/r/investing/comments/1ru6k4a/came_across_leopold_aschenbrenners_situational/",
-    "author": "MeowNekoSenpaii",
-    "score": 1,
-    "selftext": "As the title says, I recently listened to the Limitless podcast episode with Leopold Aschenbrenner following the 13F release (the one where they dive into his fund’s growth from \\~$1B to $5.5B+ in a year by betting on AI’s real bottlenecks), and lowkey i agree cause it feels different from the usual hyped-up AI/semicon names (which feel priced in), and its also a pure thesis play on power/compute demand which seems logical.\n\nI’m definitely not well informed when it comes to investing (i j dca into some etfs), but i have strong conviction in AGI within the next 10 years minimum (can u tell i’m a data scientist hehehe), so this infra angle feels asymmetric to me. But i’m not sure if mimicking the portfolio exactly would be wisest way to jump in on this thesis.\n\nIn general, what do you think of his overall portfolio/thesis right now? is the infra/power bet actually still under-priced relative to semis, or am i naive to think that?",
-    "subreddit": "investing",
-    "created_utc": 1773555118,
+    "selftext": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n\nReplies are expected to be constructive and civil.\n\nAny questions about your *personal* finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.",
+    "subreddit": "finance",
+    "created_utc": 1773640862,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "for more context cause I can't add it in the OP:\n\nI’ve got \\~$20k from my bonus this year which i’m willing to dedicate as fun money. Therefore i’m happy to take volatility for upside, but I’d rather not see half vanish iykwim. I’m considering ways to get exposure: matching his key holdings, or maybe energy ETFs , or a mix.\n\nTherefore, i’m curious to see how you’d approach this if it were your fun money allocation:\n\nWould you go full direct stocks?  \nWould it be enough to lean into ETFs that still capture the thesis? or would that be unfaithful?  \nor maybe a mix of both?  \nOR would i be better off looking at something else entirely.. :\")",
+        "body": "Trying to get that motivation to get up and get to work after several days off … grrrhhhh",
         "score": 1,
-        "author": "MeowNekoSenpaii"
+        "author": "Outrageous-Cow2931"
       }
     ],
-    "summary_he": "הנה סיכום של הפוסט בעברית:\n\nהפוסט דן בתזה של לאופולד אשנברנר (\"Situational Awareness\"), המציעה להשקיע בתשתיות אנרגיה וכוח מחשוב כצווארי הבקבוק המרכזיים של מהפכת ה-AI, מעבר למניות השבבים המוכרות. הכותב, איש דאטה המאמין בהגעה לבינה מלאכותית כללית (AGI) בטווח הקרוב, תוהה האם אפיק זה עדיין מתומחר בחסר ומהווה הזדמנות השקעה אסטרטגית. הוא מבקש את חוות דעת הגולשים לגבי כדאיות אימוץ תיק ההשקעות הזה והאם ההתמקדות בתשתיות היא אכן הימור נבון כעת.",
+    "summary_he": "זהו שרשור שבועי המיועד לשאלות בכל תחומי הפיננסים, כולל ייעוץ בקריירה ועזרה בלימודים במרחב בטוח ומכבד. עם זאת, שאלות בנושא מימון אישי או ניהול תקציב פרטי יש להפנות לפורומים ייעודיים אחרים.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח של נקודות המפתח והלך הרוח העולה מהדיון (על בסיס דברי הכותב והאפשרויות שהוא מעלה):\n\n*   **הגדרת \"כסף למשחקים\" (Fun Money):** הכותב מקצה סכום ספציפי (20,000 דולר מבונוס) להשקעה בעלת פרופיל סיכון גבוה. הגישה כאן היא הפרדה מנטלית בין תיק ההשקעות המרכזי לבין כסף שנועד לניסיונות ותשואות גבוהות במיוחד.\n*   **סלידה מהפסד הון משמעותי:** למרות הנכונות לתנודתיות (Volatility) במטרה להשיג רווחים גבוהים, קיימת הצבת גבול ברורה – חוסר רצון לראות מחצית מהסכום \"מתאדה\". זה מעיד על חיפוש אחר אסטרטגיה שהיא אמנם אגרסיבית, אך לא הימורים חסרי רסן.\n*   **התלבטות בין בחירת מניות ישירה למדדים (ETFs):** עולה השאלה האם הדרך הנכונה היא \"Full Direct Stocks\" (קנייה ישירה של מניות) שמעניקה חשיפה מקסימלית לתזה, או שימוש בתעודות סל מגזריות (כמו אנרגיה) שמציעות פיזור מסוים בתוך התחום.\n*   **אסטרטגיית \"חיקוי\" משקיעים מובילים:** הכותב שוקל להצמיד את השקעותיו לאלו של משקיע ספציפי (ייתכן דמות מוכרת בשוק) על ידי רכישת המניות המרכזיות באותו תיק, מתוך אמונה בשיקול הדעת של אותו גורם.\n*   **נאמנות לתזה אל מול פרגמטיות:** קיימת התלבטות פילוסופית-כלכלית: האם מעבר ל-ETFs נחשב כ\"חוסר נאמנות\" לתזת ההשקעה המקורית, או שזו דרך לגיטימית ואחראית יותר לתפוס את המגמה המבוקשת.\n*   **פתיחות לאפיקים אלטרנטיביים:** הכותב מפגין סקרנות ופתיחות לשמוע על אפשרויות שונות לחלוטין מאלו שחשב עליהן, מה שמעיד על כך שהמטרה הסופית היא אופטימיזציה של הבונוס ולאו דווקא היצמדות לשיטה אחת קבועה מראש."
+    "comments_summary_he": "להלן סיכום הדיון (המבוסס על התחושות העולות מהתגובה ששותפה) בעברית, הכולל 6 נקודות המייצגות זוויות שונות של הסנטימנט הקהילתי:\n\n*   **הקושי המנטלי בחזרה לשגרה:** עולה תחושה חזקה של מחסום פסיכולוגי המופיע דווקא לאחר תקופת מנוחה. החופש מקשה על ה\"התנעה\" מחדש של מנוע העבודה.\n*   **היעדר מוטיבציה פנימית:** הדובר מבטא חוסר בדחף פנימי לקום ולפעול, מה שמעיד על כך שהחזרה לעבודה נתפסת ככורח חיצוני ולא כדבר שנעשה בחדווה.\n*   **התסכול הפיזי והמילולי:** השימוש בביטוי \"grrrhhhh\" ממחיש תסכול כמעט פיזי, סוג של אנחה או נהימה המבטאת את המאמץ הכרוך במעבר ממצב של מנוחה למצב של עשייה.\n*   **הקונפליקט שאחרי החופשה:** מודגש הפער בין ימי החופש (שכנראה היו נעימים) לבין הצורך להתייצב בעבודה, מה שיוצר תחושת \"דיסוננס\" של פוסט-חופשה.\n*   **המאבק המוקדם של הבוקר:** הניסוח \"לקום ולצאת לעבודה\" מרמז על כך שהרגע הקשה ביותר הוא המעבר מהמיטה או מהבית אל עבר המחויבויות המקצועיות.\n*   **הזדהות קהילתית עם השחיקה:** התגובה מייצגת סנטימנט אוניברסלי בקרב עובדים – התחושה שגם מנוחה קצרה לא תמיד מספיקה כדי להטעין את המצברים באמת, ולעיתים היא אף מדגישה את השחיקה הקיימת."
   },
   {
-    "id": "1ru0b63",
-    "title": "Rethinking Dividend vs Total Return Strategies in Your 20s and 30s",
-    "url": "https://www.reddit.com/r/investing/comments/1ru0b63/rethinking_dividend_vs_total_return_strategies_in/",
-    "author": "steadyyyield",
+    "id": "1rutoob",
+    "title": "how do y’all actually stop going over the budget you set every month? 😭",
+    "url": "https://www.reddit.com/r/finance/comments/1rutoob/how_do_yall_actually_stop_going_over_the_budget/",
+    "author": "bruhe69",
     "score": 1,
-    "selftext": "Im 28 and have been primarily investing in broad market ETFs like VTI for the past few years. Recently, Ive been reconsidering whether I should integrate dividend-focused stocks into my portfolio, partly inspired by my fathers philosophy.\n\nHere is what I’m thinking:\n\n\\- Dividends provide a tangible income stream, which can be psychologically satisfying.\n\n\\- For someone early in their career, most dividends are reinvested anyway, meaning total return is often higher with broad market ETFs.\n\n\\- Dividend stocks can reduce volatility slightly, but they also tend to lag growth stocks over long horizons.\n\nIm curious  how others in their 20s or 30s approach this. Do you prioritize dividend income early, or focus purely on total return until you’re closer to needing cash flow? How has your perspective evolved as your portfolio grew?\n\nWould love to hear examples from people who have experimented with both approaches over time.",
+    "selftext": "i swear setting the budget is the easy part. actually **staying under it** is the part i keep failing at 💀\n\ni made what i thought was a pretty reasonable budget for the month, but somehow i’m already at **$3,534 / $3,150** and my app is showing remaining: **-$389.4**. like bro i didn’t even think i was spending that crazy, but clearly the math says otherwise 😭\n\nthat’s the part messing with me — it never feels bad *while* i’m spending. it’s always little stuff that seems fine in the moment, then suddenly i look back and realize i blew past the number i literally set for myself.\n\nfor people who actually got better at this, what made the biggest difference?  \ndid you make your budget stricter? check it every day? leave more room for random spending? stop using cards?\n\ni’m trying to figure out how to stop treating my budget like a suggestion and actually make it something i stick to. because right now i keep setting the number... and then just casually walking right past it 💀",
+    "subreddit": "finance",
+    "created_utc": 1773618153,
+    "thumbnail": "https://preview.redd.it/hnim6lbcpapg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=58d9aad8783cb96e33bdb4b33c1792f925c57485",
+    "top_comments": [
+      {
+        "body": "Honestly the biggest thing for me was checking my spending almost daily. If I wait until the end of the month it’s already too late. Just seeing the numbers regularly keeps me from doing dumb impulse buys.",
+        "score": 1,
+        "author": "BarrapowerBF"
+      },
+      {
+        "body": "Sounds like it's force of habit and a bit of reinforcement. ",
+        "score": 1,
+        "author": "trickyvinny"
+      },
+      {
+        "body": "Oh sorry, read your post too fast. Maybe it's the tactile aspect. ",
+        "score": 1,
+        "author": "e39dinan"
+      }
+    ],
+    "summary_he": "הכותב משתף בתסכול על הקושי לעמוד ביעדי התקציב החודשיים שלו, שכן הוצאות קטנות מצטברות וגורמות לו לחרוג מהם שוב ושוב מבלי שישים לב. הוא מבקש מהגולשים עצות ושיטות מעשיות שיעזרו לו לפתח משמעת עצמית ולהפוך את התקציב למסגרת מחייבת במקום להמלצה בלבד.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט ותובנות שונות שעלו מן הקהילה:\n\n*   **חשיבות המעקב היומיומי:** אחד המשתתפים מדגיש כי המפתח לשליטה כלכלית הוא בדיקת ההוצאות בתדירות יומיומית כמעט, ולא פעם בתקופה ארוכה.\n*   **חוסר האפקטיביות של בדיקה רטרואקטיבית:** קיים חשש שמעקב שמתבצע רק בסוף החודש הוא בבחינת \"מעט מדי ומאוחר מדי\", שכן הנזק הכלכלי כבר נעשה ולא ניתן לתיקון באותו חודש.\n*   **בלימת דחפים באמצעות ויזואליזציה:** עצם הצפייה הקבועה במספרים ובנתונים הפיננסיים משמשת כגורם מרתיע פסיכולוגי שמונע \"קניות אימפולסיביות מטופשות\".\n*   **כוחו של הרגל:** הדיון מעלה כי ניהול תקציב מוצלח אינו רק עניין של חישובים, אלא תוצאה של כוח ההרגל (Force of habit) שהופך לטבע שני עבור המשתמש.\n*   **מנגנון של חיזוקים:** הוצע כי ההצלחה בהתמדה בניהול הכספים נובעת ממנגנון של חיזוק פסיכולוגי (Reinforcement), המסייע לאדם לדבוק במשימה לאורך זמן.\n*   **ההיבט המוחשי (טקטילי):** הועלתה השערה כי ייתכן וישנה חשיבות להיבט הפיזי או המוחשי של המעקב (כגון כתיבה או מגע), שעוזר להטמיע את המודעות הפיננסית בצורה טובה יותר מאשר מעקב פסיבי."
+  },
+  {
+    "id": "1ruyaj0",
+    "title": "Nobody cares about helium supply? It can be a real AI issue.",
+    "url": "https://www.reddit.com/r/investing/comments/1ruyaj0/nobody_cares_about_helium_supply_it_can_be_a_real/",
+    "author": "jhktwisted",
+    "score": 1,
+    "selftext": "As the Iran conflict drags on, helium supply might actually become an issue. And that’s something people aren’t really talking about.  \n  \nHelium is critical for chip manufacturing, and a big chunk of global supply comes from that region. If that gets disrupted, chip production could be affected pretty quickly. While Asian chipmakers might be able to offer around 3 months of buffer… what happens after that?  \n  \nThis might not just be about oil prices going up. It could turn into a real supply-side problem for semis, which basically sit at the core of the whole AI trade.  \n  \nThat’s why I’m starting to wonder if this is where things begin to shift a bit. Higher oil keeps inflation sticky, rates stay higher for longer, and at the same time you get pressure on chip supply.",
     "subreddit": "investing",
-    "created_utc": 1773536051,
+    "created_utc": 1773630688,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Dividends are good for supporting the american government because the companies pay corporate tax on the corporate income. Then, some of corporate income is distributed to shareholders in dividends which are taxed agian by the federal government as income tax.",
+        "body": "Helium is also highly important for certain medical imaging devices.  A global shortage could have a real serious impact on certain device makers and also result in potential backups for people to even get scans if they cant keep making or maintaining these machines. \n\nMRI machines is what im talking about.  Helium is used to cool the magnets.",
         "score": 1,
-        "author": "Landslide_Micro"
-      },
-      {
-        "body": "I have a dividend stock and a high-income equity ETF in  retirement accounts. I reinvest the proceeds. \n\nYou're absolutely correct about total return, which is both market growth and income. Market price is only as good as the most recent sale. Income is cash money.\n\n* Growth stocks/funds belong in taxable accounts so you can write off any losses through tax-loss harvesting. To incur less tax liability on gains, expect to hold those positions for at least a year.\n\n* Dividend stocks/funds or high-income ETFs belong in tax-advantaged accounts. Market price for the asset take second place to income potential, to a point. Whether I reinvest depends on how long I plan to hold the asset: If the asset is being held only on a provisional basis, maybe I'll just collect the income in cash and invest it somewhere else. (Right now, I'm reinvesting.)",
-        "score": 1,
-        "author": "KweenieQ"
-      },
-      {
-        "body": "Forget all this non-sequitur stuff.  \n\nMake investments that you think will make you money.  \n\n",
-        "score": 1,
-        "author": "SnS2500"
+        "author": "gunslinger_006"
       }
     ],
-    "summary_he": "הכותב בן ה-28 מתלבט אם לשלב מניות דיבידנד בתיק ההשקעות שלו במקום להתמקד רק במדדים רחבים (VTI), תוך בחינת היתרונות הפסיכולוגיים של הכנסה שוטפת מול פוטנציאל התשואה הכוללת הגבוה יותר של מניות צמיחה. הוא מבקש לשמוע מניסיונם של משקיעים צעירים אחרים האם כדאי לתעדף דיבידנדים כבר בשלב מוקדם או להתמקד בצמיחה מקסימלית עד לשלב המשיכה.",
+    "summary_he": "הפוסט מתריע כי הסכסוך עם איראן עלול להוביל למחסור עולמי בהליום, רכיב קריטי לייצור שבבים המשפיע ישירות על תעשיית הבינה המלאכותית. שיבוש כזה, בשילוב עם עליית מחירי הנפט, עלול ליצור לחצים על שרשרת האספקה ולהשאיר את האינפלציה והריבית ברמה גבוהה לאורך זמן.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מבט ודעות שונות שעלו בו:\n\n*   **תרומה למשק דרך מיסוי כפול:** דעה אחת גורסת כי חלוקת דיבידנדים היא חיובית לממשל האמריקאי, שכן היא מאפשרת \"מיסוי כפול\" – פעם אחת ברמת התאגיד (מס חברות על הרווחים) ופעם שנייה ברמת בעלי המניות (מס הכנסה על הדיבידנד שחולק).\n*   **ההבדל בין שווי שוק למזומן (Income vs. Growth):** ישנה הבחנה בין צמיחה של מחיר המניה לבין הכנסה מדיבידנדים. לפי גישה זו, מחיר השוק הוא נתון תנודתי שתלוי בעסקה האחרונה שבוצעה, בעוד שהכנסה מדיבידנד נתפסת כ\"כסף מזומן ביד\" המהווה מרכיב מוחשי בתשואה הכוללת.\n*   **אופטימיזציה של מיסוי לפי סוג חשבון:** קיימת המלצה אסטרטגית להפריד בין סוגי הנכסים: מניות צמיחה כדאי להחזיק בחשבונות חייבים במס (כדי לנצל קיזוז הפסדים), בעוד שמניות דיבידנד או קרנות סל המניבות הכנסה גבוהה עדיף להחזיק בחשבונות עם הטבות מס (כמו חשבונות פרישה) כדי למנוע שחיקת רווחים עקב מיסוי שוטף.\n*   **אסטרטגיית השקעה מחדש (DRIP):** ההחלטה אם להשקיע מחדש את הדיבידנדים או למשוך אותם תלויה באופק ההשקעה. אם הנכס מוחזק לטווח קצר או באופן זמני, עדיף לאסוף את המזומן ולהשקיע אותו באפיקים אחרים, במקום להגדיל את הפוזיציה הקיימת.\n*   **תעדוף פוטנציאל ההכנסה על פני מחיר המניה:** עבור משקיעי דיבידנדים מסוימים, הפוטנציאל להפקת הכנסה מהנכס חשוב יותר ממחיר השוק שלו. מחיר המניה הופך למשני כל עוד הנכס ממשיך לייצר תזרים מזומנים יציב בתוך חשבון המוגן ממס.\n*   **גישה פרגמטית ופשטנית:** גישה אחרת בקהילה קוראת לזנוח את הניתוחים המורכבים והוויכוחים התיאורטיים. לפי דעה זו, המטרה היחידה של השקעה היא פשוט \"לעשות כסף\", ועל המשקיע להתמקד בנכסים שהוא מאמין שיניבו רווח, ללא קשר למבנה הטכני של חלוקת הדיבידנדים."
+    "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובה, המוצגות בעברית:\n\n*   **חיוניות ההליום לעולם הרפואה:** ההליום מזוהה כמרכיב קריטי ובלתי נפרד עבור תפקודם של מכשירי דימות רפואי מתקדמים.\n*   **השלכות של מחסור עולמי:** קיים חשש ממשי כי מחסור גלובלי בהליום יוביל להשפעה חמורה ורחבת היקף על חברות המייצרות מכשור רפואי.\n*   **פגיעה ישירה במטופלים:** מחסור בגז עלול להוביל לעיכובים משמעותיים (Backups) בתורים לבדיקות, מה שיקשה על חולים לקבל סריקות נחוצות בזמן.\n*   **התמקדות במכשירי MRI:** הדיון מדגיש כי המושפע העיקרי מהמחסור הוא מכשיר ה-MRI, המהווה כלי אבחוני קריטי ברפואה המודרנית.\n*   **תפקיד טכנולוגי קריטי (קירור):** השימוש המרכזי בהליום במכשירי MRI הוא לצורך קירור המגנטים העוצמתיים שבתוך המכונה, פעולה שבלעדיה המכשיר אינו יכול לפעול.\n*   **סכנה לתחזוקה ולייצור:** ללא אספקה סדירה של הליום, לא רק שייצור מכונות חדשות ייעצר, אלא שגם לא ניתן יהיה לתחזק ולהחזיק במצב תקין את המכונות הקיימות שכבר פועלות בבתי החולים."
+  },
+  {
+    "id": "1rux20w",
+    "title": "Single mom looking to start investing",
+    "url": "https://www.reddit.com/r/investing/comments/1rux20w/single_mom_looking_to_start_investing/",
+    "author": "dancerdink19",
+    "score": 1,
+    "selftext": "I am 35 years old, and a single mom to a toddler. I really know nothing about investing or anything like that, but I want to make sure me and my daughter are secure in the future. I don’t make a lot of money, but housing is included in my career. A lot of my paycheck that comes out is taken for health insurance so I’m only taking home 30 something a year. I started a high-yield savings account for my daughter, but only have a couple hundred in it but I figured that would grow (through ally savings). Other than that, please tell me where I can start investing and just being secure financially. (Located in USA). ",
+    "subreddit": "investing",
+    "created_utc": 1773627180,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Your post has been removed because it is a common beginner topic. We get too many of these topics every day and to prevent them from swamping the front page, we are removing main threads of this kind.\n\nWe also remove such posts because they can attract spam and bad faith comments. If you receive DM's or un-solicitated offers, please be aware that there are a lot of financial scammers on social media. \n  \nYou are welcome to repost your question in the [daily discussion thread](https://www.reddit.com/r/investing/about/sticky?num=1). \n  \nIf you have any issue with this removal, please contact the moderators via modmail. Thank you.\n\n----\n\nIf you are new to investing, you can find curated resources in the r/investing wiki for [Getting Started here](https://www.reddit.com/r/investing/wiki/index/gettingstarted/). \n\nThe reading list in the wiki and FAQ has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - [Reading List](https://www.reddit.com/r/investing/wiki/readinglist)\n\nPodcasts and videos can be found in the wiki here - [Podcasts and videos](https://www.reddit.com/r/investing/wiki/medialist)\n\nIf you know nothing about the capital markets - the Getting Started section at the SEC educational site can be a good place to start - [investor.gov](https://investor.gov) \\- there are also short 30 second videos on basics. The SEC (Securities and Exchange Commission) is a US regulator with a focus to protect US investors through regulatory oversight of the securities markets.\n\nThe FINRA education site at [FINRA Education](https://www.finra.org/investors/learn-to-invest) also contains numerous free courses and educational materials. FINRA is a not-for-profit SRO (self regulatory organization) which is self-funded by it's members which are broker-dealers. It works under the supervision of the SEC with a mandate to protect the investing public against fraud and bad practice.\n\nFor formal educational materials, several colleges and universities make their course work available for free. \n\nIf want to learn about the financial markets - an older but reasonably relevant course is [Financial Markets (2011) - Yale University](https://www.youtube.com/playlist?list=PL8FB14A2200B87185) This is the introduction to financial markets course taught by Prof. Shiller from Yale. Prof Shiller won the Nobel prize in economics in 2013.\n\nAnother relavant course from MIT is a lecture series on Finance Theory taught by Prof Andrew Lo - [Financial Theory (2008) - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW).\n\nA more current course can be found at NYU Stern School of Business by Prof Aswath Damodaran - [Corporate Finance Spring 2019](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastcfspr19.htm). Prof Damodaran offers the latest materials and webcast lectures to this class here - https://pages.stern.nyu.edu/~adamodar/New_Home_Page/corpfin.html",
+        "score": 1,
+        "author": "investing-ModTeam"
+      },
+      {
+        "body": "Yes the max for an individual, but if your salary does not allow that, try to put some money into a Roth IRA. ",
+        "score": 1,
+        "author": "Rare-Boss4048"
+      },
+      {
+        "body": "Just curious since I’m also new, when people say max out your 401k are you talking up to your individually limited amount (I think it’s like 23500 or something), or just maxing the match. Like my employer matches 5% so I do 5%",
+        "score": 1,
+        "author": "BlackAsphaltRider"
+      }
+    ],
+    "summary_he": "אם חד-הורית בת 35 מארה\"ב, המשתכרת שכר נמוך אך נהנית ממגורים על חשבון המעסיק, מעוניינת להתחיל להשקיע כדי להבטיח את עתידה הכלכלי ואת עתיד בתה הפעוטה. כרגע היא מחזיקה רק בחשבון חיסכון עם ריבית גבוהה עבור בתה, והיא מחפשת הדרכה בסיסית וצעדים ראשונים לבניית ביטחון פיננסי ללא ידע קודם בתחום.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן ניתוח של התגובות המובילות מהשרשור, המציג שש נקודות מבט, דעות וסנטימנטים שונים שעלו בקהילה:\n\n*   **מדיניות ניהול קהילה קשיחה כלפי מתחילים:** הנהלת הפורום (Moderators) נוקטת ביד קשה נגד שאלות בסיסיות החוזרות על עצמן. הגישה היא ששאלות כאלו \"מציפות\" את העמוד הראשי ופוגעות באיכות הדיון, ולכן הן מוסרות באופן אוטומטי ומופנות לשרשור יומי ייעודי.\n*   **מודעות גבוהה לסיכוני אבטחה והונאות:** הקהילה מזהירה באופן מפורש שפוסטים של משקיעים מתחילים מהווים \"מגנט\" לנוכלים פיננסיים וספאמרים הפונים בהודעות פרטיות (DMs). קיים סנטימנט של הגנה על חברי הקהילה מפני ניצול של חוסר ניסיונם.\n*   **הכוונה ללמידה עצמית מבוססת מקורות אקדמיים ורגולטוריים:** הקהילה לא רק מוחקת שאלות, אלא מספקת חלופה לימודית מעמיקה. הדגש הוא על מקורות מהימנים כמו רשות ניירות הערך האמריקאית (SEC) וקורסים אקדמיים בחינם של אוניברסיטאות יוקרה (ייל, MIT, NYU), ולא על \"טיפים\" מזדמנים.\n*   **תעדוף אפיקי השקעה (401k מול Roth IRA):** עולה המלצה אופרטיבית – אם השכר של המשקיע אינו מאפשר להגיע לתקרת ההפקדה המקסימלית בקרן הפנסיה (401k), עדיף לשקול ניתוב חלק מהכסף לחשבון Roth IRA (חשבון פרישה עם הטבות מס ברווחים).\n*   **בלבול מושגי בקרב משקיעים חדשים:** קיימת אי-בהירות לגבי המושג \"מיקסום\" (Max out). משקיעים חדשים תוהים האם הכוונה היא להגיע לתקרה החוקית השנתית (סכום גבוה של עשרות אלפי דולרים) או רק להפקיד עד לגובה שבו המעסיק נותן \"התאמה\" (Matching).\n*   **אסטרטגיית ה\"מינימום ההכרחי\" להטבה:** מהתגובות עולה כי משקיעים רבים פועלים לפי הכלל של הפקדה בדיוק עד האחוז שהמעסיק משווה (למשל 5%), מתוך תפיסה שזהו הצעד היעיל ביותר כלכלית, מבלי לנסות להגיע לתקרת ההפקדה המקסימלית המותרת בחוק."
+  },
+  {
+    "id": "1rup23m",
+    "title": "What's better? All Weather or SP500?",
+    "url": "https://www.reddit.com/r/investing/comments/1rup23m/whats_better_all_weather_or_sp500/",
+    "author": "FunSheepherder2650",
+    "score": 1,
+    "selftext": "Hello, lately i was looking at this \"All waether\" portofolio and i compared it with SP500 (Gain and drawdown), i noticed that by its nature (Since it's built to prevent inflation and world events) it's more profitable and secure, so my question is: \n\nWhy people should go for SP500 and not All wather since the performance difference is often 1/2% less? Also it has less drawdown or at least the -20% compared to the -50% with SP500.\n\n",
+    "subreddit": "investing",
+    "created_utc": 1773607069,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "“By nature it’s more profitable and secure”\n\nYou didn’t notice anything, my son.",
+        "score": 1,
+        "author": "floatingostrichs"
+      }
+    ],
+    "summary_he": "הכותב משווה בין תיק ההשקעות \"All Weather\" למדד ה-S&P 500 ומציין כי התיק המאוזן מציע יציבות רבה יותר והפסדים נמוכים משמעותית בתקופות משבר. למרות פער קטן יחסית בתשואות, הוא תוהה מדוע משקיעים רבים עדיין מעדיפים את ה-S&P 500 על פני אפשרות שנראית בטוחה ורווחית יותר לאורך זמן.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שצוינו, המציג 6 נקודות מבט וסנטימנטים שונים שעולים מהן:\n\n*   **ביטחון ברווחיות מובנית:** קיימת עמדה הגורסת כי תחומים מסוימים הם רווחיים ובטוחים \"מטבעם\", כלומר שהיציבות והפוטנציאל הכלכלי שלהם הם חלק בלתי נפרד מהמהות שלהם ולא רק תוצאה של מזל.\n*   **הטלת ספק בערנות של הצד השני:** התגובה השנייה מבטאת סנטימנט של ספקנות עמוקה, וטוענת כי מי שמרגיש בטוח מדי פשוט \"לא שם לב\" לפרטים המהותיים או לסכנות האורבות מתחת לפני השטח.\n*   **פער בין תפיסה למציאות:** הדיון מדגיש את הפער שבין האופן שבו אדם תופס מצב מסוים (כבטוח ורווחי) לבין המציאות בפועל, שעלולה להיות שונה לחלוטין ואף מסוכנת.\n*   **טון פטרנליסטי ומזלזל:** השימוש בביטוי \"בני\" (my son) מעיד על דינמיקה של עליונות, שבה מגיב אחד רואה את עצמו כמנוסה או כחכם יותר, ומבטל את דעתו של האחר בטון כמעט אבהי אך עוקצני.\n*   **ביקורת על שאננות:** הדיאלוג מרמז על ביקורת כלפי אנשים שנוטים להאמין בהבטחות של \"רווח קל\" או \"ביטחון מוחלט\" מבלי לבחון לעומק את הנתונים או את המציאות בשטח.\n*   **תחושת \"הפתעה שטרם התגלתה\":** התגובה השנייה יוצרת מתח ורומזת שישנו מידע חסר או אירוע שהתרחש מתחת לאפו של המגיב הראשון, מה שהופך את כל תחושת הביטחון שלו ללא רלוונטית."
+  },
+  {
+    "id": "1ruolbe",
+    "title": "Expanded distribution for REZENOPY™ naloxone nasal spray to 5,000+ U.S. healthcare institutions.",
+    "url": "https://www.reddit.com/r/investing/comments/1ruolbe/expanded_distribution_for_rezenopy_naloxone_nasal/",
+    "author": "Salt_Scarcity_9027",
+    "score": 1,
+    "selftext": "addition to the REZENOPY expansion, Scienture is also advancing the launch of ARBLI, a liquid formulation of the widely used blood-pressure medication losartan. ARBLI is designed to address a specific need in the market for patients who have difficulty swallowing traditional tablets, which includes pediatric, geriatric, and certain medical populations. By offering an alternative delivery method for a commonly prescribed medication, the company is positioning itself in a niche but potentially valuable segment of the cardiovascular drug market.\n\nThe stock is currently trading around the mid-$0.50 range and has been attempting to hold above the 50-day moving average near $0.48, which many short-term traders view as an important level for confirming momentum. Holding above this area could indicate that buyers are beginning to step back into the stock after previous selling pressure.\n\nIdk thou ",
+    "subreddit": "investing",
+    "created_utc": 1773606025,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Thank you for this zero value post",
+        "score": 1,
+        "author": "arcademachin3"
+      }
+    ],
+    "summary_he": "חברת Scienture מרחיבה את הפצת תרסיס הנלוקסון REZENOPY ליותר מ-5,000 מוסדות בריאות בארה\"ב, ובמקביל משיקה את ARBLI, גרסה נוזלית לתרופה ללחץ דם המיועדת למטופלים המתקשים בבליעה. מבחינה פיננסית, המניה נסחרת סביב 0.50$ ושומרת על יציבות מעל הממוצע הנע של 50 ימים, מה שעשוי להעיד על מומנטום חיובי בקרב המשקיעים.",
+    "category_he": "עסקים",
+    "comments_summary_he": "מכיוון שסופקה רק תגובה אחת (\"Thank you for this zero value post\"), הניתוח להלן מפרק את המשמעויות, הניואנסים והסנטימנטים העולים מתוך תגובה זו ומהקשר הקהילתי שלה ב-Reddit:\n\n**סיכום הדיון (מבוסס על הסנטימנט המוצג):**\n\n*   **ביקורת חריפה על איכות התוכן:** התגובה מבטאת חוסר שביעות רצון מובהק מהפוסט המקורי, תוך קביעה נחרצת שאין בו שום תועלת או עניין לקוראים.\n*   **שימוש בסרקזם ככלי לניגוח:** הבחירה לפתוח במילה \"תודה\" (Thank you) כשהכוונה היא הפוכה לחלוטין, נועדה להדגיש את הזלזול של המגיב בכותב הפוסט.\n*   **תסכול מ\"פוסטים דלים\" (Low-effort posts):** הסנטימנט משקף תופעה נפוצה ב-Reddit שבה חברי קהילה חשים תסכול מפרסומים שאינם מוסיפים מידע חדש, תובנות או ערך בידורי.\n*   **תפקיד ה\"מבקר\" או \"שומר הסף\":** המגיב רואה בעצמו כמי שמציב מראה מול כותב הפוסט, במטרה להבהיר שסטנדרט כזה של כתיבה אינו מקובל בקהילה הספציפית הזו.\n*   **הגדרת הפוסט כבזבוז זמן:** במונח \"Zero value\" (אפס ערך), המגיב טוען למעשה שהזמן שהושקע בקריאת הפוסט היה מבוזבז לחלוטין.\n*   **הבעת עמדה קרה ומרוחקת:** בניגוד לביקורת בונה, התגובה קצרה ותמציתית, מה שמעיד על כך שהמגיב מאמין שהפוסט אפילו לא ראוי להסבר מפורט למה הוא גרוע."
+  },
+  {
+    "id": "1ruokhy",
+    "title": "Is Anyone Using Sharetracker (https://sharetracker.ai/)?",
+    "url": "https://www.reddit.com/r/investing/comments/1ruokhy/is_anyone_using_sharetracker_httpssharetrackerai/",
+    "author": "Aware_Bathroom_8399",
+    "score": 1,
+    "selftext": "Is anyone using Sharetracker (https://sharetracker.ai/) to track, analyze, benchmark, and/or chart your portfolio? What is your opinion of it? Specifically, is there a way to bulk load transactions into it, either directly from a brokerage website or via a brokerage download in CSV or JSON? The live demo appears only to allow manual entry of transactions one by one. This is a deal killer for me.",
+    "subreddit": "investing",
+    "created_utc": 1773605974,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Are you responding to my post???? I'm not advertising anything. WTF",
+        "score": 1,
+        "author": "Aware_Bathroom_8399"
+      },
+      {
+        "body": "Your tool sucks and you shouldn't advertise it here\n\n\n>Thanks for your report\n\n\n>Thanks again for your report and for looking out for yourself and your fellow redditors. Your reporting helps make Reddit a better, safer, and more welcoming place for everyone; and it means a lot to us.",
+        "score": 1,
+        "author": "lab-gone-wrong"
+      }
+    ],
+    "summary_he": "הפוסט מבקש חוות דעת על הכלי Sharetracker.ai לניהול וניתוח תיקי השקעות. המשתמש מעוניין לדעת האם קיימת אפשרות לייבוא המוני של נתונים (bulk load) מהברוקר או באמצעות קבצים, שכן הצורך בהזנה ידנית של עסקאות הופך את השירות ללא רלוונטי עבורו.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט ותחושות שונות בקהילה:\n\n*   **האשמה בפרסום סמוי:** אחד המשתמשים מביע התנגדות נחרצת למה שהוא מפרש כניסיון שיווקי, וטוען שאין מקום לפרסומות בפורום הזה.\n*   **התגוננות והכחשה:** המשתמש שהואשם מגיב בתדהמה ובבלבול (WTF), ומבהיר שאין לו כל כוונה פרסומית ושאלתו או הפוסט שלו אינם מהווים מודעה.\n*   **ביקורת בוטה על איכות המוצר:** מעבר לעצם הפרסום, מועברת ביקורת ישירה ושלילית על הכלי עצמו (\"Your tool sucks\"), המצביעה על חוסר שביעות רצון מהערך המקצועי שלו.\n*   **אכיפה קהילתית ודיווחים:** הדיון מדגיש את המנגנון של \"דיווח על תוכן\" (Reporting), שבו הגולשים לוקחים חלק פעיל בניטור התכנים כדי לשמור על מרחב נקי מתוכן שיווקי.\n*   **הערכה למערכת הניטור:** הטקסט המצוטט מהדיווחים משקף את התפיסה שדיווחים של משתמשים הופכים את רדיט למקום \"בטוח ומזמין יותר\", ונותן תחושת ערך למדווחים.\n*   **חשדנות וחוסר אמון:** הדינמיקה בין המגיבים משקפת אווירה של חשדנות בקהילה, שבה פוסטים תמימים לכאורה נחשדים מיד כקידום מכירות לא רצוי."
+  },
+  {
+    "id": "1ruoavg",
+    "title": "Investing in SP500 when new additions come in",
+    "url": "https://www.reddit.com/r/investing/comments/1ruoavg/investing_in_sp500_when_new_additions_come_in/",
+    "author": "Bossanova12345",
+    "score": 1,
+    "selftext": "So I do invest in SP500 though I like talking about individual stocks. \n\nBut I look at the news and I see that SpaceX, OpenAI, Anthropic and other companies are expected to join soon. \n\nMy worry is they will have PE more in line with Tesla or Palantir, and be very overvalued.\n\nSo what are you planning on doing? Continue investing in SP500 and let them sort it out, or change your portfolio to equal weight or midcaps or something else?",
+    "subreddit": "investing",
+    "created_utc": 1773605382,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "SpaceX, OpenAI, and Anthropic are all eyeing 2026 IPOs with combined valuations that could inject nearly $3T into the markets. While they will likely carry sky high P/E ratios similar to Tesla, the real concern is the mechanical rebalancing where passive funds might be forced to sell current anchors like Microsoft to make room. I used trylattice for checking stock filings and using interactive charts to decide if a move to equal weight or mid caps like MDY makes sense for hedging against this potential volatility.",
+        "score": 1,
+        "author": "Ocampo-Mark"
+      },
+      {
+        "body": "this is literally why dimensional and avantis exists. just buy DFAC.",
+        "score": 1,
+        "author": "Parking_Reputation17"
+      },
+      {
+        "body": "So many good compounders out there. No reason not to do both. ",
+        "score": 1,
+        "author": "Bossanova12345"
+      }
+    ],
+    "summary_he": "הכותב מביע חשש כי הצטרפותן הצפויה של חברות טכנולוגיה חדשות (כמו SpaceX ו-OpenAI) למדד ה-S&P 500 תוביל להערכת יתר של המדד בשל מכפילי רווח גבוהים במיוחד. הוא תוהה האם כדאי להמשיך להשקיע במדד כרגיל או שמא עדיף לעבור לאסטרטגיות חלופיות, כגון מדד שווה-משקל או השקעה בחברות בעלות שווי שוק בינוני (Mid-caps).",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בשרשור על בסיס התגובות המובילות, המציג 6 נקודות מבט ודעות שונות:\n\n*   **ציפייה להנפקות ענק ב-2026:** קיימת הערכה כי חברות הטכנולוגיה והחלל המובילות – SpaceX, OpenAI ו-Anthropic – יצאו להנפקה ראשונה לציבור (IPO) במהלך שנת 2026. המהלך עשוי להזרים קרוב ל-3 טריליון דולר לשווקים.\n*   **הערכות שווי ומכפילי רווח גבוהים:** ישנה סברה כי המניות הללו ייסחרו במכפילי רווח (P/E ratios) גבוהים מאוד, בדומה למודל התמחור של חברת טסלה, בשל פוטנציאל הצמיחה והייחודיות שלהן.\n*   **חשש מ\"איזון מחדש\" מכני של מדדים:** אחת הדאגות המרכזיות היא שקרנות פסיביות (כמו אלו העוקבות אחרי ה-S&P 500) ייאלצו למכור מניות \"עוגן\" נוכחיות כמו מיקרוסופט כדי לפנות מקום למצטרפות החדשות למדד, מה שעלול ליצור תנודתיות משמעותית.\n*   **אסטרטגיות גידור באמצעות מדדי משקל שווה או חברות בינוניות:** כמענה לתנודתיות הפוטנציאלית, יש המציעים לבחון מעבר למדדי \"משקל שווה\" (Equal Weight) או למניות של חברות בינוניות (Mid-caps כמו MDY) כדי להפחית את התלות בריכוזיות של ענקיות הטכנולוגיה.\n*   **העדפת השקעות מבוססות גורמים (Factor Investing):** חלק מהקהילה סבור כי הפתרון לסיכונים אלו טמון בשימוש בקרנות סל מנוהלות של גופים כמו Dimensional או Avantis (לדוגמה סימול DFAC), המתמקדות בגורמים ספציפיים ולא רק במדד שווי שוק פשוט.\n*   **גישת ה\"גם וגם\":** קיימת עמדה אופטימית הגורסת כי השוק רווי בחברות איכותיות המשיאות תשואה לאורך זמן (Compounders), ואין סיבה לבחור בין החזקה בחברות הותיקות לבין השקעה בהנפקות החדשות – ניתן ורצוי לשלב את שתיהן בתיק ההשקעות."
+  },
+  {
+    "id": "1runodp",
+    "title": "The Year of IPOs. A Deep Dive.",
+    "url": "https://www.reddit.com/r/investing/comments/1runodp/the_year_of_ipos_a_deep_dive/",
+    "author": "Roadtochessmaster",
+    "score": 1,
+    "selftext": "Hey Guys :)  \nWith multiple record breaking IPOs happening this year, I thought I would take a few hours to publish a piece about IPOs. In the end, it took me dozens of hours to research, write and edit.  \nI would greatly appreciate if you guys read and give thoughts, sorry about the lack of pictures and graphs, and a bunch of footnotes are missing as it is originally written for Substack. Think it has some valuable content about whether this years IPOs are a good potential investment!  \nThank you in advance for reading and would love to hear thoughts.\n\n**The Year of IPOs.**\n\n2026 will likely see four of the five largest IPOs in history. SpaceX and xAI’s combined merger may likely become the largest IPO ever as they are currently valued at $1.75 trillion. Next come the LLM giants, both OpenAI and Anthropic are currently planning to go public this year with a combined value of $1.2 trillion dollars between them. Finally come Stripe and DataBricks, both valued at well over $100 billion dollars which would put them comfortably among the top seven public listings in history. Overall, there will likely be over $3,000,000,000,000 added into the stock market through these five companies. Do IPO’s outperform the market historically? Are these companies good investments? What is the historic precedent for massive IPOs? All these are important questions that we will go over in this article.\n\nThis piece took me dozens of hours to research, edit and publish. If you do enjoy it, please consider subscribing. Thank you :)\n\n*What is an IPO?*\n\nAn Initial Public Offering or an IPO for short is when a company goes public on the stock market after a period of private funding. This allows those who have invested early into the company to monetize and potentially sell out of their investment and at the same time allowing new investors to invest in companies that were previously unreachable to them. Investing after a company goes public is both risky and can potentially give massive returns. Some companies go public relatively early, like Apple who went public only four years after the company was founded while others take much longer, like Goldman Sachs which was founded in 1869 and only went public in 1999.\n\n*The Companies:*\n\nBefore we begin to look at whether investing into these companies is a good idea, it’s important to do a brief explanation about the companies.\n\nSpaceX was founded in 2002 by Elon Musk and it is an investment into space future. They design, manufacture and launch advanced rockets that go to the atmosphere and to Mars. In addition, its Starlink system which provides high speed internet using satellites is its main revenue stream, reporting over $10 billion in revenue in 2025. Recently, SpaceX merged with xAI which has changed them from only a space play to a AI/Space/Data conglomerate. With SpaceX you get to invest in the future while also having a tangible revenue stream today. Next, are OpenAI and Anthropic, two large language models (LLM) founded in 2015 and 2021 respectively. OpenAI is the company that runs ChatGPT, the LLM that changed the way we live today while Anthropic is a newer competitor which currently is leading the AI space in many aspects including coding. DataBricks, founded in 2013 is a cloud based platform that enables companies to process data, build models and more efficiently run their businesses. Lastly Stripe, built in 2010 is a leading fintech company that allows businesses to accept online payments. They are used by businesses in order to accept different payment methods such as Apple Pay or Google Pay.\n\n\n\n*Spray and Pray:*\n\nIs mass investing in IPOs a good strategy? In order to test the strategy lets take a look at one of the most successful years of IPOs - 1980. 1980 was a very successful year for IPOs and 234 companies went public. Many are names that you wouldn’t recognize today, Magnuson Computer, Denelcor and many more all went bankrupt within five years or less. But a couple of the companies that went public in 1980 did well. Really well. Apple went public in 1980 at a valuation of $1.78 billion. Another company that you have probably heard of also went public - Nike. Nike went public at a $400 million valuation. A dollar invested into Apple in 1980 would now be worth approximately $3,450. That same dollar invested into Nike would now be worth around $1400. A few other companies who went public in 1980 have also done very well. A dollar invested in Genentech would now be worth $45 and if you invested in Arrow Financials it would be worth $34. Overall, if you invested $234 into the 234 companies that went public in 1980 would have ended with around $7580- around 32 times your initial investment. While these seem like incredible returns, that same $234 would actually be worth $37,440 with dividends reinvested, an increase of 160 times. So investing in the S&P would have given you significantly better returns, despite the fact that you managed to pick a year where two of the most successful companies ever went public.\n\n\n\nA picture of Steve Jobs, John Sculley and Steve Wozniak at an event in San Francisco in 1984. Steve Jobs is holding the new Apple IIc - the c standing for compact despite needing a monitor to use.\n\nBut a fair critic may say that this isn’t fair. Currently, people considering investing in IPOs are mostly considering investing in the biggest companies. The reason why the S&P’s returns have beaten the 1980’s IPO market is because a majority of those companies went bankrupt. But what if you invested in only the five biggest IPO listings of that year?\n\n*The Big Five:*\n\nWell, the five biggest IPOs in 1980 did well. Really well. They included Apple, Nike, Genentech, GCA Corporation and Tellabs. If you invested $100 into all five of those companies, it would currently be worth around $300,000, a 1000x return. 98% of these returns are fueled by two companies, Nike and Apple. The investments into Genentech, GCA Corporation and Tellabs would be worth a total of $19600 - or 196x your investment, slightly edging out the S&P who returned 160x in the same time period. As such, $500 invested in the S&P instead would be worth a total of $80,000. Overall, due to Nike and Apple you would have greatly outperformed the S&P. There is an important caveat here. Apple’s stock from 1980 to 2003, increased by only 3x. Almost all of Apple’s growth has come in the last 23 years since 2004. Would you have had the conviction to hold through 23 years of losing to the S&P? Perhaps, it would require massive conviction in Apple. Definitely something to keep in mind when investing in single stocks.\n\nOk, but 1980 was an incredible year for IPOs. What about years that don’t have an Apple?\n\n1981: In 1981, none of the five biggest IPOs stood out and you would have around $20,000 from your initial $500 investment. Interestingly, one company that did go public in 1981, Home Depot has actually shockingly way outperformed the market and even outperformed Apple. $100 invested into Home Depot would be worth $1.2 million today. But unfortunately, it wasn’t part of the five biggest IPOs of 1981 meaning you would have missed out on it.\n\n1982: Again, all five companies would have given very small returns. Your $500 investment in 1982 would now only be worth around $6,500 today. You still would have made a very good investment in comparison to holding cash, but you would have massively underperformed the S&P.\n\n1983: Another year of subpar returns continues. Your $500 in 1983 would now be worth $5700. Again, your money would have multiplied by a factor of 10 but for a 43 year long investment you would have massively underperformed the market, especially as the S&P returned over 14x the amount.\n\n1984: More of the same, subpar returns. You once again severely underperform the S&P. A positive take away is that any money invested would have returned significantly more than any money not invested. Still, this year was truly a disaster with you only walking away with a little over $2000.\n\nOverall, in the first year of the 1980’s you would have overperformed the S&P while in the following four you would have underperformed. Overall, your $2500 invested would be worth approximately $340,000 instead of $400,000 invested in the S&P. You would have very slightly underperformed the S&P despite successfully investing in both Apple and Nike.\n\n\n\n*The Rest of the 1980’s.*\n\nWhile I won’t continue about every year since 1985, some notable companies that were in the top five of the second half of the 1980s are: Costco, Autodesk and Best Buy in 1985, Microsoft, Oracle and Adobe in 1986. Interestingly, $100 into Costco, Best Buy, Microsoft, Autodesk, Oracle and Adobe all would have outperformed a $500 investment into the stock market in their respective years by themselves. In total, six of the twenty five companies today would have beaten the S&P in the same year with one - Microsoft massively outperforming the S&P. Amazingly, a $100 investment into Microsoft would be worth today $460,000, outperforming the entire S&P for a five year stretch and an initial investment of $2500. What’s important to note is that I didn’t pick the five most successful IPOs of each year, rather the five companies with the highest initial valuations when they went public. So while there definitely is no guarantee that you will beat the S&P if you invest in IPOs and it most definitely is a gamble, sometimes the gamble would pay off. Personally, after doing research into the history of the companies going public in the 1980’s, I am seriously considering investing myself $100 into the top five companies that have gone public in 2025 and onwards. It’s not an amount that will make or break my bank account, but if it could potentially be a massive hit down the line. The key is, not selling no matter what, as mentioned before, Apple made the vast majority of its gains over twenty years after the stock initially went public. Someone who sold after twenty years of holding would have massively underperformed the S&P from 1980-1984.\n\n*The Valuations:*\n\nWhile many of the companies listed above were very big when they went public, none of them were anywhere close to SpaceX in terms of valuation, even adjusted to today’s modern economy. SpaceX today would instantly become somewhere between the seventh and eleventh most valuable company in the world. OpenAI would also immediately be around the 15th biggest company in the world and Anthropic would also be in the top 303. All of these companies are already massive and it’s hard to imagine no matter how successful SpaceX is that its valuation can jump the same amount (2500 times) as Apple’s did. If it did, SpaceX would have a valuation of $4,375 trillion or $4.375 quadrillion, an unimaginably large number. While this seems crazy while writing, interestingly enough, in 1980, the stock market crossed $1 trillion in valuation for the first time and today Nvidia is worth $4.5 trillion, roughly four and a half times as valuable as the entire stock market was in 1980.\n\nAnyways, that’s enough abstract valuations for now, what’s important to note is that it is hard to imagine companies with a starting valuation that is so high growing at such a fast rate. What is incredible about investing in the S&P is that even if SpaceX grows to a valuation of $250 trillion dollars in the next 45 years they will still have underperformed the S&P. $100 in the S&P would be worth 16,000 while the SpaceX investment would be worth roughly $14,250. These would be considered incredible returns and a huge success for SpaceX, returning over 100x the original investment to their investor and yet they would still be in a league with the S&P. This shows how incredible of an investment the S&P500 really is, fully passive. The other companies obviously have more room to grow as they are smaller but it is important to note that they also all carry valuations that are well over $100 billion.\n\n\n\n*The IPOs of 2020 and 2021.*\n\nIt’s also important to note that the 1980’s were 40 years ago. While this information may be relevant for conservative young investors who are debating investing and letting their money compound for decades, what about more recent data, how have those companies fared?\n\nIf you initially invested in the five biggest IPOs of 2020 by valuation, you would have invested in: Airbnb, Snowflake, DoorDash, Lufax and Palantir. You invested in four stocks that are down and one big winner, Palantir. If you invested $100 into each of these four stocks you would have $88 from AirBNB, $71 from Snowflake, $81 from DoorDash, $4.50 from Lufax, and $1510 with Palantir. Your overall investment of $500 would have been worth $1754. Assuming you invested $500 instead into the S&P, your current investment would have been worth around $1000. With the help of Palantir, you managed to beat the S&P by a significant amount. Again it is important to note that for the first three years after Palantir went public the stock was flat. It is important when considering investing in IPOs, will you have had the patience to hold? If not you might invest in Apple or Palantir, but you probably will also sell them before making any money.\n\nWe will look at one more year, 2021. This is now a five year time horizon. 2021 saw a number of large companies go public. Assuming you invested $100 again into each of them, you would have invested in: Didi Global - worth $24 today, Rivian - worth $15, Coupang - worth $37, Nubank - worth $112 today and Coinbase - worth $58. A total investment of $500 would have returned you $246. Meanwhile, the S&P in the last five years has returned 70%, so an initial investment of $500 would today be worth around $850. Interestingly enough, $1000 invested in 2020 and 2021 into IPOs would be worth $2000, worth slightly more than the $1850 invested into the S&P. What will be ahead in ten or twenty years? Only time will tell.\n\n*The Five Biggest IPOs ever.*\n\nBefore finishing, I want to look at some of the biggest IPOs ever to see how they have fared. Saudi Aramco has the highest valuation ever, initially going public at $1.7 trillion in 2019. Today, despite a good year so far, they are worth 12% less than what they were worth in 2019. Alibaba is the second largest IPO ever going public in 2014. Today, they are worth 44% more, significantly underperforming the market that has gone up over three times in that same time period. Meta, the third largest company ever to go public in 2012 has had incredible returns. If you bought the $38 stock in 2012, it would now be worth $613, a staggering 1500% return in only 14 years. Next in 2006 came at the time the world’s largest ever IPO, ICBC - or the Industrial And Commercial Bank Of China. That investment has gone up 123% all time, dwarfed by the over 500% returns you would have gotten from the S&P during those same years. Finally, the Agricultural Bank of China which went public in 2010 would have returned 800% on your investment, narrowly beating out the S&P which returned 600% in the same time. Overall, you would have invested in two winners and three losers when compared to the market. Note, that almost no matter when you invested in the S&P 500 you would have made money assuming you held for over 10 years, likely in a much more convincing manner and with a lower likelihood of selling.\n\n\n\n*An interesting study:*\n\nLucky for me, I wasn’t the only one interested in investing in IPOs in 2003, Professor Jeremy Siegal looked at 9000 companies that went public between the years of 1968-2001. He found that four out of the five stocks lagged the small cap market meaning you had a 80% chance of not beating the market. He found that in 29 out of the 33 years investing in the broader market would have outperformed investing in IPOs. In his book published in 2005 “The Future for Investors”, he concluded that “**IPOs generally underperform the broad stock market in the long run**.” This is largely due to overpricing at IPOs. A company will go public when the most hype and traction is behind it resulting in the best result for the company rather than investors. This causes high pricing from investment banks leading to overvaluation. He also did find that 10% of companies that go public can become massive winners as we saw in this article.\n\n*The Lock Up Nuance:*\n\nThere is an important caveat that can hit retail investors who invest early into IPOs. While you personally are able to sell the stocks you bought whenever you want, often early investors are not. Early investors often have a “lock up” period between 90-180 days where they have to hold on to their shares for a certain amount of time. For example, Rivian, the EV company that went public in 2021 had a 180 day lock up period. The day after the lock up period ended, the stock fell around 20%. For early investors who saw the stock drop to half the value that it had IPOed at, they will often want to sell their stake before the stock potentially continues downwards. This drop is caused because the stock is suddenly flooded with supply, as early investors and employees of a company can finally sell their shares. Even if the stock is doing well, an investor may want to diversify his portfolio or even want to cash out and finally buy that new house he was looking at. Either way, the unlucky retail buyer will be the last to know. A potential workaround is to split your entry, i.e. to buy $50 at IPO and $50 after the lock up period is over. You often will be able to buy more shares with the same $50 then you were half a year prior.\n\n*The Debate:*  \nIf you managed to get to the end of this article, well done. I didn’t expect it to be this long and take almost a week to research but I am happy it did. My overall conclusion is that investing in IPOs is a risky business and even though you might pick some winners, many people would likely sell before those winners return the gains they would have wanted to see. There were likely people who bought Apple in 1980 and after 20 years and tripling their money, felt content to sell and move their money into the S&P. Warren Buffett once said that it’s not his brains that put him ahead of other investments rather his temperament. If you invest in IPOs, be ready for a lot of them to fail and be patient with the ones who do. The problem is not finding the next Apple, it is holding it for 40 years. If you are patient, who knows, one of them could rebound and be the next Palantir. If you don’t want to deal with the headache, invest in the market and hold, you should be able to successfully compound your money over time. Either way, make sure to invest, my biggest takeaway from all this research was how much money invested compounded, no matter when it was invested. $100 invested the night before Covid shocked the stock market would still be worth $200 today, less than five years later. Invest, and if you want to, maybe look at IPOs, either way, this should be an interesting year in the stock market.\n\n***Disclaimer:*** *For those of you reading this, remember I’m sharing my personal journey and opinions, not professional investment picks.*",
+    "subreddit": "investing",
+    "created_utc": 1773603954,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "The paragraph about 2021 sums up my thoughts about buying any of these things as a retail investor. The hype around ABNB was crazy. I ended up getting a hard lesson- the IPO is when the private markets cash in, NOT when retail investors get their chance to build wealth. You're better off throwing the money into an index since you'll be getting a piece of the worthwhile ones anyways. ",
+        "score": 1,
+        "author": "Green-Survey9189"
+      },
+      {
+        "body": "Thanks for the compliment! Definitely an eye opening article for me to write :) ",
+        "score": 1,
+        "author": "Roadtochessmaster"
+      },
+      {
+        "body": "I thought that was a great read about IPOs. I mostly just invest in the broad market but I keep some play money that I'll drop in IPOs or specific stocks that I think might do good. When I first got into investing I was more a trader and bought some IPO that went up and I sold for a small gain. But the next one I bought burned me pretty good. I learned that an IPO could easily go either way. ",
+        "score": 1,
+        "author": "Illustrious_ar15"
+      }
+    ],
+    "summary_he": "הפוסט מנתח את גל ההנפקות (IPO) המשמעותי הצפוי ב-2026, הכולל חברות ענק כמו SpaceX, OpenAI ו-Stripe, ובוחן האם השקעה בהן משתלמת בהשוואה למדדי השוק. מסקנת הכותב, המבוססת על נתונים היסטוריים, היא שמרבית ההנפקות מציגות ביצועי חסר לעומת ה-S&P 500, וכי הצלחה דורשת סבלנות יוצאת דופן ויכולת להחזיק במניות למשך עשורים למרות תנודתיות גבוהה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ותובנות שונות שעלו מתוך התגובות:\n\n*   **הייפ מוגזם כסימן אזהרה:** הדיון מדגיש כי תקופות של התלהבות יתרה בשוק (כפי שקרה ב-2021 סביב הנפקת ABNB) עלולות להוביל להחלטות השקעה שגויות מצד משקיעים קטנים, שנסחפים אחרי הזרם.\n*   **הנפקה כנקודת יציאה למקצוענים:** קיימת תובנה מפכחת שהנפקה לציבור (IPO) היא לעיתים קרובות הרגע שבו המשקיעים הפרטיים והמוסדיים המוקדמים \"פודים\" את רווחיהם (Cash out), ולא בהכרח הזדמנות פז למשקיע הקטן לבנות עושר.\n*   **עדיפות למדדים רחבים:** משקיעים רבים הגיעו למסקנה שעדיף להשקיע את הכסף בקרנות סל (Index Funds). בדרך זו, המשקיע מקבל חשיפה לחברות המצליחות ממילא, ללא הסיכון הכרוך בבחירת מניה בודדת ביום הנפקתה.\n*   **אסטרטגיית \"כספי משחק\":** חלק מהמשקיעים מאמצים גישה מאוזנת – רוב התיק מושקע בשוק הרחב והיציב, בעוד שחלק קטן מהכסף מוגדר כ\"כסף למשחק\" המיועד להשקעות ספקולטיביות כמו הנפקות חדשות.\n*   **סכנת ה\"מזל של מתחילים\":** הדיון מעלה כי רווח קטן בהנפקה הראשונה עלול להטעות משקיעים ולגרום להם להרגיש בטוחים מדי, מה שמוביל לעיתים להפסדים כבדים בהשקעות הבאות כתוצאה מהערכת חסר של הסיכון.\n*   **חוסר וודאות קיצוני:** קיימת הסכמה שהנפקות הן \"הימור\" שיכול ללכת לכל כיוון. הניסיון מלמד שגם אם חברה נראית מבטיחה, מחיר המניה ביום ההנפקה תנודתי מאוד ואינו משקף תמיד את ערכה האמיתי לטווח הארוך."
   }
 ];
