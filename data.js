@@ -1,326 +1,297 @@
 window.dailyTrends = [
   {
-    "id": "1s70vaa",
-    "title": "The Dow!!!",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1s70vaa/the_dow/",
-    "author": "thedarkhalf47",
-    "score": 8892,
-    "selftext": "Thinking I should hold on to this template. Probably gonna go lower.\n\nI'm not really sure why I need to include 250 characters in a meme post, but I understand the guidelines. Maybe someone can fix the issue where if you label something as a meme, it doesn't need 250 characters. there. Thats 250!",
+    "id": "1s7xv0u",
+    "title": "What’s up with the AI infrastructure stocks today?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1s7xv0u/whats_up_with_the_ai_infrastructure_stocks_today/",
+    "author": "roberson1992",
+    "score": 491,
+    "selftext": "Looks like the AI infrastructure stocks are taking a bigger hit today, anyone know what’s up? I haven’t jumped into this sector too much yet and wondering if now is a decent time to jump in or if there is something big going on that missed. I’ve considered diversifying into a few of them with all the AI spend going on. ",
     "subreddit": "StockMarket",
-    "created_utc": 1774804435,
-    "thumbnail": "https://preview.redd.it/yjfx7r4fo0sg1.jpeg?width=140&height=93&auto=webp&s=01f9d269a19f4a1b25af4c4027da4f2d4c7283e1",
+    "created_utc": 1774893010,
+    "thumbnail": "https://preview.redd.it/mudjs5e608sg1.jpeg?width=140&height=123&auto=webp&s=5277ba7aa2ffbe7b07a922d1aa4d83150b81fcf7",
     "top_comments": [
       {
-        "body": "Y’all know the reason why this was so funny was she said the Dow was at 50,000 DOLLARS, right?",
+        "body": "Fission is the solution for the next few decades. Fusion power would be great, but there are still significant hurdles to building a reliable power producing fusion plant.\n\nThe only fusion power we'll be getting in this half of the century is from the great big thermonuclear fireball in the sky via panels and wind turbines.",
         "score": 1,
-        "author": "Wooden_Try1120"
+        "author": "Icyknightmare"
       },
       {
-        "body": "You're gonna need a smaller font . ",
+        "body": "Some of those are just bitcoin miners. ",
         "score": 1,
-        "author": "ViralTrendsToday"
+        "author": "Former_Island_4730"
       },
       {
-        "body": "Thanks for story. Youre the goat.. see what i did there?",
+        "body": "A bird pooped on the windows of a CEO's penthouse office and the market astrologers declared it a divine sign of recession and bankruptcy",
         "score": 1,
-        "author": "ICatchx22I"
+        "author": "Weird-King6449"
       }
     ],
-    "summary_he": "כותב הפוסט מעריך שמדד הדאו ג'ונס ימשיך לרדת ושומר לעצמו תבנית של \"מם\" (meme) מוכנה לשימוש לקראת הנפילות הבאות. שאר הטקסט בפוסט הוא תוכן סתמי שנכתב רק כדי לעמוד בדרישת המינימום של מספר התווים בפורום.",
+    "summary_he": "כותב הפוסט מבקש לברר מדוע מניות תשתיות הבינה המלאכותית (AI) חוות ירידות משמעותיות היום. הוא תוהה האם זו הזדמנות כניסה טובה להשקעה במגזר או שמא ישנו אירוע מהותי שפספס, וזאת מתוך רצון לגוון את תיק ההשקעות שלו לאור הצמיחה בתחום.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שנכתבו, הכולל 6 נקודות מבט ורגשות שעלו מהקהילה:\n\n*   **זיהוי מקור ההומור בטעות עובדתית:** אחד המגיבים מדגיש שהחלק המצחיק ביותר בסיטואציה היה הבלבול בין \"נקודות מדד\" ל\"דולרים\" בכל הנוגע למדד הדאו ג'ונס, מה שמעיד על הנאה של הקהילה מחוסר הבנה כלכלי משעשע.\n*   **דקדקנות וניתוח הניואנסים:** הקהילה לא רק צוחקת מהסיטואציה הכללית, אלא נהנית לפרק לגורמים את האמירה הספציפית שהפכה את האירוע למגוחך (ההתייחסות ל-50,000 דולר).\n*   **ביקורת סרקסטית על פורמט ותצוגה:** התגובה לגבי הצורך ב\"גופן קטן יותר\" מרמזת על הומור ציני בנוגע לאופן הצגת הדברים, אולי בשל כמות טקסט גדולה או עומס ויזואלי.\n*   **הערכה עמוקה למספר הסיפור:** השימוש במונח \"GOAT\" (הגדול בכל הזמנים) מעיד על רגש של הערצה ותודה כלפי כותב הפוסט או יוצר התוכן על הסיפור ששיתף.\n*   **שימוש במשחקי מילים ככלי חברתי:** המגיב השלישי משתמש בכפל משמעות (הן ככינוי הערכה והן כהתייחסות לתוכן הסיפור, כנראה על עזים) כדי ליצור אינטראקציה קלילה עם הקהילה.\n*   **שביעות רצון מהתוכן הבידורי:** ניכר מהתגובות שהקהילה חווה סיפוק מהסיפור (\"תודה על הסיפור\"), ושהתכנים מצליחים לעורר מעורבות רגשית חיובית ושעשוע בקרב הקוראים."
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שנבחרו, המציג 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n* **ביקוע גרעיני כפתרון מיידי:** קיימת דעה כי אנרגיית ביקוע גרעיני (Fission) היא הפתרון הריאלי והנחוץ ביותר למשבר האנרגיה בעשורים הקרובים, בעוד טכנולוגיות אחרות עדיין אינן בשלות.\n* **ספקנות לגבי היתוך גרעיני:** למרות הפוטנציאל הגדול, קיימת הבנה כי היתוך גרעיני (Fusion) ניצב בפני מכשולים טכנולוגיים עצומים, וסביר להניח שלא נראה תחנות כוח מסוג זה פועלות באופן מסחרי בחצי המאה הקרובה.\n* **הסתמכות על אנרגיה מתחדשת:** נטען כי הדרך היחידה שבה ננצל את \"כוח ההיתוך\" בטווח הנראה לעין היא באופן עקיף, דרך השמש (שהיא כור היתוך טבעי) באמצעות פאנלים סולאריים וטורבינות רוח.\n* **חשדנות כלפי פרויקטי תשתית:** עולה סנטימנט ציני המצביע על כך שחלק מהמיזמים הטכנולוגיים או צרכני האנרגיה הגדולים אינם אלא \"מסווה\" לפעילות של כריית ביטקוין.\n* **ביקורת על \"אסטרולוגיית שוק\":** ישנו לעג כלפי אנליסטים ומומחים כלכליים המנסים לחזות מיתון או פשיטת רגל על בסיס אירועים אקראיים וחסרי משמעות, תוך השוואת הניתוח הכלכלי לאסטרולוגיה או לניחוש בקפה.\n* **זלזול בתרבות ה-CEO והתאגידים:** התגובות מבטאות תחושה של ניתוק וחוסר רציונליות בעולם העסקי, שבו סימנים שוליים (כמו לשלשת ציפורים על חלון משרדו של מנכ\"ל) יכולים להשפיע על הכרזות הכלכליות הגדולות והשוק העולמי."
   },
   {
-    "id": "1s6ymtn",
-    "title": "Monopoly Round-Up: Manipulating the Stock Market Is Trump's War Strategy",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1s6ymtn/monopoly_roundup_manipulating_the_stock_market_is/",
-    "author": "Puzzled49",
-    "score": 22,
-    "selftext": "Stoller's thesis is that stock markets are becoming immune to Trump's communications on the war in Iran, and that new announcements are having less and less impact. He suggests that announcements since the war began have been timed to drive up stock levels, and gives several examples which he suggests are illustrative of that. If his suggestion is true we might see fewer sharp movements on administration announcements, and more concentration on confirming information, and verifiable economic numbers. ",
+    "id": "1s7vh1t",
+    "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1s7vh1t/powell_sees_inflation_outlook_in_check_no_need_to/",
+    "author": "Front-Nectarine4951",
+    "score": 138,
+    "selftext": "Federal Reserve Chair Jerome Powell, in a wide-ranging talk at Harvard University, said Monday that he sees inflation expectations as grounded despite rising energy prices so the central bank doesn’t need to respond with higher interest rates.\n\nIn the near term, he said the proper move is to look beyond the short-term gyrations of the energy market and focus on the Fed’s goals of stable prices and low unemployment.\n\n“Inflation expectations do appear to be well anchored beyond the short term, but nonetheless, it’s something we will eventually maybe face the question of what to do here,” he said during a question-and-answer question with a moderator and students. “We’re not really facing it yet, because we don’t know what the economic effects will be, but we’ll certainly be mindful of that broader context when we make that decision.”\n\nAs he has in the past, Powell said he believes the current rate target, in a range between 3.5%-3.75%, is “a good place” for the Fed to sit as it observes events currently playing out, including the Iran war and the impact tariffs are having on prices.\n\nPowell said raising rates now could have negative effects on the economy later. He noted that Fed rate moves have a lagged impact on the economy, so tightening here wouldn’t help the inflationary impact of the Iran war.\n\nThe central bank leader said that the current shake-up in the private credit space doesn’t seem to have the makings of a broader systemic event.\n\nPowell sees inflation outlook in check, no need to hike rates because of oil shock https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html?\\_\\_source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
     "subreddit": "StockMarket",
-    "created_utc": 1774799328,
-    "thumbnail": "https://external-preview.redd.it/APYgJnedYWoObKf-WMeUaeI1KTwuhu3gqM0RqfhSdg4.jpeg?width=140&height=78&auto=webp&s=b07d4d4acab05035706f5bdc5855c60fa04c8be3",
+    "created_utc": 1774888067,
+    "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Do not link a paywalled blog. \n\nIf posting a link, we ask that you provide some commentary behind the link unless the title is self-explanatory and significant. Any text post that is just a copy and paste of the article content will also be considered low-effort. A post that is just an image without any quality comment or explanation will also be considered low-effort. Posting your positions, or P&L gain(loss), without market or risk commentary will be considered low-effort. Any post that contains large amounts of Gen AI text is considered low-effort.\n\nFor simple questions, or when asking things such as \"Thoughts on this stock? Do I buy? Do I sell?\" please use the [Daily Discussion Thread](https://reddit.com/r/stockmarket/about/sticky?num=2) instead.\n\nLink to the rules: https://www.reddit.com/r/StockMarket/wiki/rules",
+        "body": "It’s the right call because the inflationary pressures from energy (oil) are exogenous.  Hiking won’t bring the price of oil down.  ",
+        "score": 43,
+        "author": "BigFuckingGainz"
+      },
+      {
+        "body": "It’s the right call. Especially with Japan hiking rates soon  and also possibly EU and UK as well. ",
+        "score": 41,
+        "author": "Jbball9269"
+      },
+      {
+        "body": "Exactly. Rate hikes won't open the straight.",
+        "score": 28,
+        "author": "zABros23"
+      }
+    ],
+    "summary_he": "יו\"ר הפדרל ריזרב, ג'רום פאוול, הצהיר כי אין צורך בהעלאת ריבית כרגע למרות העלייה במחירי האנרגיה, שכן ציפיות האינפלציה נותרות יציבות ומעוגנות. פאוול ציין כי רמת הריבית הנוכחית מתאימה להמשך מעקב אחר ההתפתחויות הכלכליות, והזהיר כי הידוק מוניטרי חפוז עלול לפגוע בצמיחה בטווח הארוך.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **תמיכה גורפת בהחלטה:** קיים קונצנזוס בין המגיבים כי ההחלטה (ככל הנראה לא להעלות ריבית) היא הצעד הנכון והמושכל במצב הנוכחי.\n*   **מקור האינפלציה הוא חיצוני (אקסוגני):** המגיבים מציינים כי הלחצים האינפלציוניים נובעים ממחירי האנרגיה והנפט, שהם גורמים חיצוניים שאינם מושפעים ישירות מהמדיניות המוניטרית המקומית.\n*   **מגבלות הכוח של העלאת הריבית:** עולה הטענה שהעלאת ריבית היא כלי לא יעיל במקרה זה, שכן היא אינה מסוגלת להוריד את מחירי הנפט העולמיים.\n*   **הקשר גלובלי והשוואה למדינות אחרות:** המגיבים רואים חשיבות בתיאום או בהתאמה למתרחש בעולם, במיוחד לאור הציפיות להעלאות ריבית ביפן, באיחוד האירופי ובבריטניה.\n*   **חוסר השפעה על צווארי בקבוק לוגיסטיים:** הקהילה מדגישה כי העלאת ריבית לא תפתור בעיות פיזיות או גיאופוליטיות, כמו חסימות בנתיבי שיט (\"המיצרים\"), שמשפיעות על שרשרת האספקה.\n*   **מיקוד בצד ההיצע לעומת צד הביקוש:** הסנטימנט הכללי הוא שהבעיה הנוכחית נעוצה בבעיות היצע ולוגיסטיקה, ולכן ניסיון לרסן את הביקוש באמצעות ריבית לא יפתור את שורש הבעיה."
+  },
+  {
+    "id": "1s7r9x9",
+    "title": "Sysco - strikes $29 billion deal for catering supplier Restaurant Depot",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1s7r9x9/sysco_strikes_29_billion_deal_for_catering/",
+    "author": "SadOnion2110",
+    "score": 86,
+    "selftext": "https://www.reuters.com/business/sysco-acquire-restaurant-depot-29-billion-deal-wsj-reports-2026-03-30/\n\nSysco (SYY.N), opens new tab said on Monday ‌it would buy catering supplier Jetro Restaurant Depot in a $29 billion deal, including debt, expanding the top U.S. food distributor's reach among price-conscious independent restaurants.\n\nShares of Sysco, which has a market capitalization of $39.2 billion, fell about 8% in premarket trading after the ​company said it would finance the acquisition with $21 billion in new and hybrid debt, along with $1 billion ​in cash and equity on hand.\n\nThe deal would help Sysco enter the higher-margin \"cash-and-carry\" business, where Restaurant Depot has about 166 warehouse locations across 35 U.S. ​states.\n\n\"Sysco and Jetro Restaurant Depot will enhance value for small independent restaurants and the consumers they serve by ​expanding access to more affordable, fresh food products and delivering more choice and convenience,\" Sysco CEO Kevin Hourican said in ‌a ⁠statement, highlighting how the combination would help lower prices for more customers.\n\nLast year, US Foods (USFD.N), opens new tab ended merger talks with Performance Food (PFGC.N), opens new tab, which would have tied together the nation’s No. 2 and ​No. 3 food‑service distributors in an ​effort to challenge industry ⁠leader Sysco and reduce costs.",
+    "subreddit": "StockMarket",
+    "created_utc": 1774878929,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "The most hated company in the US and the reason why every restaurant food look the same just gotten bigger.\n\nWho would’ve thought ",
+        "score": 96,
+        "author": "Front-Nectarine4951"
+      },
+      {
+        "body": "In case those that don't know, this is why your food all tastes the same across the entire US. ",
+        "score": 33,
+        "author": "BarbequedYeti"
+      },
+      {
+        "body": "It sounds to me like Sysco is tired of actually distributing product to med/small customers and wants to just warehouse it for simplicity and better margins, having \"won\" the food service supplier game.  Enshittification as a result of destroying/acquiring competition.\n\nAnything less than a full truck?  Cash and carry, not worth the fuel.",
+        "score": 22,
+        "author": "SidewaysFancyPrance"
+      }
+    ],
+    "summary_he": "חברת Sysco, מפיצת המזון הגדולה בארה\"ב, הודיעה על רכישת ספקית הקייטרינג Jetro Restaurant Depot בעסקת ענק בשווי 29 מיליארד דולר. המהלך נועד להרחיב את פעילות החברה בשוק ה-\"Cash & Carry\" ולהוזיל עלויות עבור מסעדות עצמאיות, אם כי מניית החברה ירדה בתגובה בשל היקף החוב המשמעותי הנדרש למימון הרכישה.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים בולטים בקהילה:\n\n* **שנאה עמוקה כלפי התאגיד:** החברה (Sysco) נתפסת כאחת החברות השנואות ביותר בארצות הברית, והגולשים מביעים ציניות כלפי המשך הצמיחה וההתרחבות שלה למרות המוניטין השלילי.\n* **הומוגניות ויזואלית של המזון:** קיימת טענה שהשליטה של החברה בשוק היא הסיבה המרכזית לכך שהאוכל בכל המסעדות בארה\"ב נראה בדיוק אותו דבר, מה שפוגע במגוון הקולינרי.\n* **אחידות בטעם:** מעבר למראה, הגולשים מציינים כי הריכוזיות של הספק גורמת לכך שלאטרקציות קולינריות שונות ברחבי המדינה יש טעם זהה וחסר ייחוד.\n* **תהליך ה-\"Enshittification\" (התדרדרות איכות השירות):** הקהילה מצביעה על כך שלאחר שהחברה \"ניצחה\" בתחרות על ידי השמדת או רכישת מתחרים, היא מרשה לעצמה להוריד את איכות השירות ולהעלות רווחים על חשבון הלקוח.\n* **נטישת לקוחות קטנים ובינוניים:** נראה שהחברה עוברת למודל של מחסנים (Warehousing) בלבד כדי לפשט תהליכים ולהגדיל רווחים, תוך שהיא מוותרת על המאמץ הכרוך בהפצה ללקוחות שאינם גדולים מספיק.\n* **שינוי במדיניות הלוגיסטית:** הועלתה ביקורת על כך שהחברה מעדיפה משלוחים של \"משאיות מלאות\" בלבד. לקוחות שמזמינים פחות מכך נאלצים להגיע לאסוף את הסחורה בעצמם (\"Cash and Carry\"), מכיוון שהחברה לא רואה לנכון להשקיע בדלק עבור הזמנות קטנות."
+  },
+  {
+    "id": "1s7s1hv",
+    "title": "Oil Inflection Point",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1s7s1hv/oil_inflection_point/",
+    "author": "PrestigiousPen-2468",
+    "score": 35,
+    "selftext": "I made a strategy to take advantage of the current world events, increasing oil prices, strait of Hormuz situation, etc.  Only a few stocks and weighed by beta values to get the most out of the market swings, but I'm keeping it pretty tight.  \n\nI'm going to start dumping some money in, but I thought it was really interesting to see the inflection point with the S&P 500.  You can see the start of the run as tensions escalated and then the S&P drop when the full aggression started.\n\n  \nI'm thinking this will be a good run for at least the next month or two considering the current administration doesn't seem to know what they're doing.\n\n  \nAny thoughts or recommendations?  What strategies are you guys focussed on right now with all the geopolitical tension?",
+    "subreddit": "StockMarket",
+    "created_utc": 1774880668,
+    "thumbnail": "https://preview.redd.it/zutaf9ffy6sg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=4a2efb0e3091b87be6b88f57fd6bcb4f39f3fbab",
+    "top_comments": [
+      {
+        "body": "COVID tanked demand, though. When demand tanks, price goes down ; not up.",
+        "score": 21,
+        "author": "Creative_Squash_1083"
+      },
+      {
+        "body": "Investing in USO has softened the punches",
+        "score": 21,
+        "author": "RandoDude124"
+      },
+      {
+        "body": "The current prices are still too low thanks to US manipulating the prices down. This gives everyone time and second chance to jump onto the train. Some countries are already running out of oil and there are long lines at the petrol station, and that's assuming they are at the stations which still has the petrol and not sold out. Google and see the long lines of queues and the emergency of oil shortage in those countries... And we are only 1 month into the conflict. This can go on for another few months or more.",
+        "score": 12,
+        "author": "ToddlerPeePee"
+      }
+    ],
+    "summary_he": "הכותב מציג אסטרטגיית השקעה במניות נפט המנצלת את המתיחות הגיאופוליטית העולמית וצופה עליית מחירים משמעותית בחודשיים הקרובים. הוא מציין את הקשר ההפוך שזיהה בין העלייה במחירי הנפט לירידות במדד ה-S&P 500, ומבקש מהקהילה המלצות לאסטרטגיות נוספות להתמודדות עם חוסר היציבות בשוק.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שנכתבו, הכולל 6 נקודות מבט ודעות שונות שהועלו על ידי חברי הקהילה:\n\n*   **השפעת הקורונה על הביקוש:** אחד המגיבים טוען כי מגפת הקורונה ריסקה את הביקוש לנפט, ועל פי כללים כלכליים בסיסיים, כאשר הביקוש צונח – המחיר אמור לרדת ולא לעלות.\n*   **אסטרטגיית גידור באמצעות השקעות:** הועלה כי השקעה בקרן USO (קרן סל העוקבת אחר מחירי הנפט) עזרה למשקיעים מסוימים לרכך את הפגיעה הכלכלית שנוצרה כתוצאה מהתנודות בשוק האנרגיה.\n*   **טענה למניפולציה מצד ארה\"ב:** קיימת סברה בקהילה שמחירי הנפט הנוכחיים נמוכים מדי באופן מלאכותי בשל התערבות ומניפולציה של הממשל האמריקאי שמנסה להוריד את המחירים.\n*   **חלון הזדמנויות להשקעה:** המחירים הנוכחיים (הנתפסים כנמוכים) נחשבים בעיני חלק מהגולשים כ\"הזדמנות שנייה\" עבור אלו שפספסו את העלייה הקודמת \"לעלות על הרכבת\" ולהשקיע בנפט לפני שהמחירים יזנקו.\n*   **עדות למחסור עולמי ממשי:** מגיב מציין כי במדינות מסוימות כבר מורגש מחסור חמור בנפט, המתבטא בתורים ארוכים בתחנות הדלק ובמלאי שאוזל, מה שמעיד על דחיפות המשבר מעבר לגרפים של המניות.\n*   **תחזית להמשכות הקונפליקט:** ישנה הערכה כי מכיוון שאנו נמצאים רק חודש אחד בתוך העימות, המשבר צפוי להימשך חודשים רבים נוספים, מה שמרמז על כך שהשפעותיו על שוק האנרגיה רחוקות מלהסתיים."
+  },
+  {
+    "id": "1s7u92c",
+    "title": "Will there come a point in time where the war continues, but the markets do not care?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1s7u92c/will_there_come_a_point_in_time_where_the_war/",
+    "author": "Turbulent_Cricket497",
+    "score": 32,
+    "selftext": "If the war persists for several more months, will there come a point in time that the markets stop caring about it? I mean there have be many long conflicts that the US has been involved with in the past century and at some point, the markets seem to stop caring and just return to trading like it did before the conflict began. I am not a market historian, but would assume wars always cause economic concern in the markets, but markets once the initial shock wears off, they tend to make a comeback and stop trading on daily news from the front. Granted there may also be some underlying economic concerns that are not war related, but considering just the war aspect.\n\nHere is what I found online regarding this topic:\n\nYes, history shows that financial markets can, and often do, stop \"caring\" about an ongoing war, particularly if the conflict remains geographically contained and does not severely disrupt global energy supplies or corporate earnings. \n\nWhile initial news of a conflict causes immediate volatility, markets often rebound quickly as investors \"price in\" the uncertainty and shift focus back to economic fundamentals. \n\n**Why Markets Stop Caring About Ongoing Wars:**\n\n* **Geopolitical Disconnect:** Historically, many regional wars, including conflicts in the Middle East, have had minimal lasting impact on U.S. stocks.\n* **\"Priced In\" Uncertainty:** Markets tend to drop in anticipation of conflict but often peak when fighting actually begins, as the uncertainty ends and is replaced by concrete data.\n* **Absorbing Economic Shocks:** Even if a war causes oil spikes initially, markets can recover if the shock to the global industrial base remains limited.\n* **Precedent of Prolonged Conflicts:** Long-running conflicts (e.g., Iran-Iraq war in the 1980s or recent regional conflicts) often have little impact on long-term bull markets if they don't threaten major energy bottlenecks. ",
+    "subreddit": "StockMarket",
+    "created_utc": 1774885521,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "the oil only stopped flowing from iraq. not 7 different countries. ",
+        "score": 11,
+        "author": "floridabeach9"
+      },
+      {
+        "body": "Go take a look at oil in 2008 and see what happened. This time it will be more severe ",
+        "score": 4,
+        "author": "mischag107"
+      },
+      {
+        "body": "Do you think the market is still reacting to anything that happens these days in the 4-year-old Russia-Ukraine war? Nope.",
+        "score": 1,
+        "author": "Other-Importance-214"
+      }
+    ],
+    "summary_he": "השווקים הפיננסיים נוטים להפסיק להגיב למלחמות מתמשכות לאחר שההלם הראשוני חולף וחוסר הוודאות כבר מגולם במחירים (\"Priced in\"). היסטורית, כל עוד הסכסוך נותר מוגבל גיאוגרפית ואינו משבש מהותית את אספקת האנרגיה העולמית, המשקיעים נוטים לחזור ולהתמקד בנתונים הכלכליים הבסיסיים ובביצועי החברות.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, הכולל 6 נקודות מבט ודעות שונות שעלו מהתגובות:\n\n*   **היקף ההפרעה מוגבל:** ישנה טענה כי הפסקת זרימת הנפט ממוקדת בעיראק בלבד, ולכן אין מדובר באירוע רב-לאומי רחב היקף כפי שחלק מהמשתמשים עשויים לחשוש.\n*   **השוואה היסטורית למשבר 2008:** עולה נקודת מבט המפנה את תשומת הלב להתנהגות שוק הנפט בשנת 2008, תוך שימוש בעבר ככלי לחיזוי העתיד.\n*   **תחזית לחומרה יוצאת דופן:** קיימת סנטימנט פסימי הגורס כי המשבר הנוכחי בשוק הנפט יהיה חריף וקשה יותר מהמשברים הכלכליים הקודמים שחווינו.\n*   **חסינות השוק למלחמה באוקראינה:** נטען כי השוק הפיננסי הפסיק להגיב לאירועים הקשורים למלחמת רוסיה-אוקראינה, שכן מדובר בעימות מתמשך שכבר \"תומחר\" או הפך לשגרה.\n*   **שחיקת ההשפעה הגיאופוליטית:** הקהילה מבטאת תחושה שחדשות גיאופוליטיות שהיו מרעידות את השוק בעבר, מאבדות מחשיבותן ומעוצמתן ככל שהזמן עובר.\n*   **ערעור על הנרטיב הכללי:** ניכר ניסיון להכניס פרופורציות לדיון על ידי הדגשה שמקור הבעיה הוא בודד (עיראק) ולא מערכתי (7 מדינות שונות), מה שמרמז על התנגדות לניסיונות ליצור פאניקה מיותרת."
+  },
+  {
+    "id": "1s7ukdy",
+    "title": "Where can I track BofA / JPM / GS index targets (S&P 500, Gold) in one place?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1s7ukdy/where_can_i_track_bofa_jpm_gs_index_targets_sp/",
+    "author": "bloggerklik",
+    "score": 5,
+    "selftext": "Hi everyone,\n\nI’m looking for a platform or tool that aggregates **major financial institutions’ forecasts (like BofA, JPMorgan, Goldman, etc.) in a single, regularly updated table**, specifically for **macro/index-level targets**  not individual stocks.\n\nFor example, something like:\n\nS&P 500  \nBofA | 7,000  \nJPMorgan | 7,100\n\nGold  \nBofA | 6,000  \nJPMorgan | 6,100\n\nIdeally:\n\n* Covers indices (S&P 500, Nasdaq, etc.), commodities (Gold), maybe rates/FX\n* Shows individual bank targets (not just consensus)\n* Updated frequently (monthly or better)\n\nI know Bloomberg / FactSet / Refinitiv have some of this, but I’m wondering if there’s:\n\n1. A public (or cheaper) alternative\n2. A website/dashboard that already structures it like this\n3. Or how people here track this efficiently\n\nWould really appreciate any suggestions or workflows people are using.\n\nThanks!",
+    "subreddit": "StockMarket",
+    "created_utc": 1774886193,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Any posts or comments asking for a review or critique of their portfolio should be posted in the quarterly portfolio thread stickied at the top of /r/StockMarket.\n\n[Please click here for the most recent quarterly portfolio thread](http://www.reddit.com/r/stockmarket/about/sticky)\n\nIf this post removal was in error, please send a modmail to /r/StockMarket, thanks!",
         "score": 1,
         "author": "StockMarket-ModTeam"
+      },
+      {
+        "body": "why? they all cudnt be any more wrong year after year ",
+        "score": 1,
+        "author": "Smarven15"
       }
     ],
-    "summary_he": "הפוסט מציג את טענתו של מאט סטולר לפיה ממשל טראמפ השתמש בהצהרות על המלחמה באיראן כדי לתמרן את הבורסה ולהעלות את ערך המניות. עם זאת, נראה כי השוק מפתח חסינות להכרזות אלו, מה שעשוי להוביל את המשקיעים להתמקד יותר בנתונים כלכליים קשיחים ובמידע מאומת ופחות בהצהרות הממשל.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הכללים והלך הרוח הקהילתי כפי שעולה מהתגובה בשרשור:\n\n* **איסור על חומות תשלום (Paywalls):** קיימת התנגדות נחרצת לקישור למאמרים או בלוגים הדורשים תשלום כדי לקרוא את תוכנם, מתוך שאיפה לשמור על נגישות המידע לכלל חברי הקהילה.\n* **דרישה לערך מוסף בקישורים:** הקהילה מצפה ממי שמשתף קישור להוסיף פרשנות או הסבר אישי. פרסום קישור ללא הקשר (אלא אם הכותרת מסבירה הכל) נחשב לתוכן ב\"מאמץ נמוך\".\n* **מלחמה בהעתקה והדבקה (Low-effort):** העתקה ישירה של תוכן מאמרים ללא תוספת ניתוח אישי אינה מקובלת, שכן היא אינה תורמת לדיון מקורי או מעמיק בפורום.\n* **שקיפות וניתוח בביצועי מסחר:** פרסום של רווחים, הפסדים או פוזיציות פתוחות ללא ניתוח של סיכוני השוק נחשב לראוותנות חסרת תוכן. חברי הקהילה מצפים להבין את הלוגיקה שמאחורי המהלכים.\n* **הסתייגות מתוכן מבוסס בינה מלאכותית (AI):** ניכרת מדיניות המגבילה שימוש נרחב בטקסטים שנוצרו על ידי AI, מתוך רצון לשמור על קול אנושי, אותנטי ומבוסס ניסיון אישי בשיח.\n* **תיעול שאלות בסיסיות לשרשורים ייעודיים:** שאלות פשוטות של \"לקנות או למכור?\" או \"מה דעתכם על מניה X?\" אינן מורשות כפוסטים עצמאיים. הקהילה דורשת לשמור על סדר ולרכז שאלות כאלו בשרשור הדיון היומי כדי למנוע הצפה של הפורום הראשי."
+    "summary_he": "המשתמש מחפש פלטפורמה או כלי המרכז במקום אחד את תחזיות היעד של בנקי השקעות גדולים (כמו גולדמן זאקס ו-JPMorgan) עבור מדדים וסחורות מרכזיים. הוא מתמקד בנתוני מאקרו, כגון מדד ה-S&P 500 ומחירי הזהב, ומבקש למצוא חלופות נגישות או זולות יותר למערכות מידע יקרות כמו בלומברג.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן ניתוח של התגובות והלך הרוח בקהילה כפי שעולה מהטקסט שסיפקת, מסוכם ל-6 נקודות מרכזיות בעברית:\n\n*   **אכיפת סדר וארגון בפורום:** קיימת מדיניות ברורה לניהול התוכן, המחייבת משתמשים לרכז בקשות לביקורת על תיקי השקעות (\"Portfolio reviews\") בשרשור ייעודי ונעוץ, במקום להציף את העמוד הראשי.\n*   **הכוונה ונגישות למידע:** הנהלת הפורום מקפידה לספק קישורים ישירים וזמינים לשרשורים הרלוונטיים (כמו השרשור הרבעוני), כדי להקל על המשתמשים למצוא את המקום הנכון לפרסום תוכן ספציפי.\n*   **שקיפות ומנגנוני ערעור:** המערכת מאפשרת למשתמשים ליצור קשר עם המנהלים (דרך Modmail) במקרה של טעות בהסרת פוסט, מה שמעיד על רצון לשמור על הוגנות ודיאלוג עם חברי הקהילה.\n*   **ספקנות עמוקה כלפי \"מומחים\":** עולה תחושה של חוסר אמון מצד חלק מהמשתמשים כלפי אנליסטים ותחזיות שוק. הטענה המרכזית היא שהתחזיות הללו מתבררות כשגויות באופן עקבי שנה אחר שנה.\n*   **זלזול בערך המוסף של ייעוץ ממוסד:** הלך רוח בקהילה גורס כי אין טעם לעקוב אחר המלצות או ביקורות רשמיות, שכן הדיוק שלהן מוטל בספק רב לאורך זמן, מה שיוצר תחושת תסכול בקרב המשקיעים.\n*   **התנגשות בין פרוצדורה למהות:** קיים פער בין הניסיון של מנהלי הפורום לייצר מבנה מסודר לבין התסכול של המשתמשים מהתוכן עצמו; המשתמשים תוהים מדוע עליהם להיצמד לנהלים כאשר הם סבורים שהעצות הניתנות במסגרתם אינן מועילות."
   },
   {
-    "id": "1s6t89b",
-    "title": "Where the 4% Rule Breaks Down",
-    "url": "https://www.reddit.com/r/finance/comments/1s6t89b/where_the_4_rule_breaks_down/",
-    "author": "Southern-Still-666",
+    "id": "1s8nsy2",
+    "title": "Why the Real Oil Crisis Hasn’t Started Yet",
+    "url": "https://www.reddit.com/r/finance/comments/1s8nsy2/why_the_real_oil_crisis_hasnt_started_yet/",
+    "author": "TryWhistlin",
     "score": 1,
-    "selftext": ">**Under fat-tailed returns**\n\n>Bengen's analysis used historical returns, which inherently include the crashes that actually happened. But it does not model the crashes that could have happened but did not. A fat-tailed Monte Carlo simulation generates scenarios with more extreme downturns than history has shown so far.\n\n>Under these conditions, the safe withdrawal rate for a fixed strategy drops to 3.2-3.5%, depending on tail thickness. The \"4% is safe\" conclusion evaporates.\n\n>**With sequence risk in early years**\n\n>The 4% rule's worst-case scenario (1966) barely survived. A slightly worse sequence of returns in the first 5 years would have broken it. The historical record gives us one data point per starting year. Monte Carlo gives us thousands of possible sequences for each starting year, and plenty of them fail at 4%.\n\n>**With lower expected future returns**\n\n>Many investment firms now project lower returns for the coming decades than the historical average. If U.S. equities deliver 5-6% nominal instead of the historical 10%, and bonds deliver 3-4% instead of 5-6%, the 4% rule fails in a significant percentage of scenarios.\n\n>You do not need to believe any specific forecast. You just need to acknowledge that using the best 70-year stretch of the best-performing market in history as your baseline is not conservative planning.",
+    "selftext": "\"The depletion of global oil reserves and the ongoing blockage of the Strait of Hormuz could lead to severe shortages and price spikes, potentially reaching $200 per barrel. This situation threatens to disrupt economies worldwide, with Asia and Africa already experiencing shortages and the United States potentially facing similar challenges soon.\"",
     "subreddit": "finance",
-    "created_utc": 1774785671,
-    "thumbnail": "https://external-preview.redd.it/UGnw07W77NspAcRsKpw952YtDWYY7l5yNCmwJnn_q04.png?width=140&height=73&auto=webp&s=433dc495f990906d4b28e6e496c138b24fbec640",
+    "created_utc": 1774964588,
+    "thumbnail": "https://external-preview.redd.it/jaR5Y841-KCAbGnjy4jG1RzlU9kHsIyljPYjZ0aKO0Q.png?width=140&height=76&auto=webp&s=ba668e3c5057a9223497e587aed91ce3ecddb3f2",
     "top_comments": [
       {
-        "body": "In the initial crash sure they will absolutely not get out unscathed. Saying ‘just as exposed’ is a little bit of a stretch. Back in 2008 sure they were. But not nearly as much debt and banking systems are tied into the US economy as they once were",
+        "body": "The potential for a massive oil crisis today, stems from a perfect storm of supply chain instability and dwindling natural resources. With the Strait of Hormuz currently facing a blockade, a critical artery for global energy is essentially choked off, threatening to push crude prices toward the $200 per barrel mark. While regions in Asia and Africa are already feeling the brunt of these shortages, the ripple effects are expected to hit the United States and Europe soon, likely leading to significant inflation and industrial slowdowns. However it will not be like the 70s, since at that time oil supply was more concentrated on few producers and even at that time the crisis unfolded in several weeks. To offset the looming crisis the IEA releases strategic reserves, as well as countries have done, however when those reserves will end, then the crisis will start to bite also western economies, if not solved on time.",
         "score": 1,
-        "author": "RespectmanNappa"
-      },
-      {
-        "body": "International markets are just as exposed to the US debt crisis as the US is.",
-        "score": 1,
-        "author": "User-NetOfInter"
-      },
-      {
-        "body": "That's the biggest X factor, your spending. That's what you have the most control over. Don't go into retirement with a bunch of debt, live within your means and you'll be fine.",
-        "score": 1,
-        "author": "whatthewhat_007"
+        "author": "BotBuilderVenture"
       }
     ],
-    "summary_he": "הפוסט טוען ש\"כלל ה-4%\" למשיכת כספים בפרישה עלול להיכשל מכיוון שהוא מתבסס על נתונים היסטוריים שאינם משקפים תרחישי קיצון (\"זנב שמן\") או סיכוני רצף תשואות שלילי בתחילת הדרך. בנוסף, תחזיות לתשואות עתידיות נמוכות מהממוצע ההיסטורי הופכות את ההסתמכות על העבר לאסטרטגיה שאינה שמרנית מספיק לתכנון פרישה בטוח.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט ודעות שונות שעלו:\n\n*   **חשיפה גלובלית למשבר החוב:** קיימת טענה כי השווקים הבינלאומיים חשופים למשבר החוב של ארה\"ב באותה מידה שבה ארה\"ב עצמה חשופה אליו, וכי קריסה אמריקאית תשפיע באופן ישיר על העולם כולו.\n*   **השוואה למשבר 2008:** חלק מהמגיבים סבורים כי הקשר בין המערכות הבנקאיות בעולם לכלכלת ארה\"ב נחלש מאז 2008. לטענתם, רמת החוב והתלות ההדדית פחתו, ולכן השווקים העולמיים לא ייפגעו באותה עוצמה כפי שהיה בעבר.\n*   **פגיעה ראשונית בלתי נמנעת:** למרות הניסיון להפחית בחומרת התלות, ישנה הסכמה שבמקרה של קריסה כלכלית בארה\"ב, השווקים הגלובליים בהחלט לא ייצאו \"ללא פגע\" וייחוו זעזוע משמעותי לפחות בטווח המיידי.\n*   **הוצאות אישיות כגורם מכריע:** במישור האישי, השליטה בהוצאות נתפסת כ\"גורם ה-X\" (המשתנה החשוב ביותר) ליציבות כלכלית. זהו האלמנט המרכזי שבו לאדם יש את מירב השליטה אל מול תנודות השוק.\n*   **ניהול חוב לקראת פרישה:** קיימת המלצה קהילתית ברורה להימנע בכל מחיר מכניסה לגיל פרישה עם חובות משמעותיים. צמצום החובות נתפס ככלי קריטי להישרדות כלכלית ארוכת טווח.\n*   **חוסן דרך צניעות כלכלית:** התפיסה השלטת היא שחיים במסגרת האמצעים הכלכליים (living within your means) הם המפתח לביטחון אישי; מי שנוהג כך יהיה \"בסדר\" גם אם המערכת המאקרו-כלכלית תעבור טלטלה.",
-    "dateString": "2026-03-30",
-    "savedAt": {
-      "_seconds": 1774857296,
-      "_nanoseconds": 541000000
-    }
+    "summary_he": "התרוקנות מאגרי הנפט העולמיים וחסימת מצר הורמוז עלולים להוביל למחסור חמור ולזינוק במחירים עד ל-200 דולר לחבית. מצב זה מאיים לערער את הכלכלה העולמית, כאשר אסיה ואפריקה כבר חוות מחסור וארה\"ב עלולה להתמודד עם השלכות דומות בקרוב.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובה, המנתחת את משבר הנפט הנוכחי:\n\n* **היווצרות \"סערה מושלמת\" למשבר אנרגיה:** שילוב של חוסר יציבות בשרשראות האספקה יחד עם הידלדלות הדרגתית של משאבי טבע יוצר פוטנציאל למשבר נפט מסיבי בקנה מידה עולמי.\n* **חניקת עורק האנרגיה במצר הורמוז:** המצור המוטל על מצר הורמוז נתפס כגורם קריטי שחוסם נתיב אספקה חיוני, דבר שעלול להזניק את מחירי הנפט הגולמי לרף של 200 דולר לחבית.\n* **פערי השפעה גיאוגרפיים:** בעוד שאזורים באסיה ובאפריקה כבר חווים את המחסור באופן ישיר, ההערכה היא שהשפעות השרשרת יגיעו בקרוב לארה\"ב ולאירופה ויתבטאו באינפלציה דורסנית ובהאטה תעשייתית.\n* **השוואה היסטורית למשבר שנות ה-70:** מצוין כי המשבר הנוכחי שונה מהמשבר ההיסטורי של שנות ה-70; כיום אספקת הנפט פחות ריכוזית בידי יצרנים בודדים, וקצב התפתחות האירועים שונה ממה שהיה אז.\n* **הסתמכות זמנית על עתודות אסטרטגיות:** סוכנות האנרגיה הבינלאומית (IEA) ומדינות המערב משחררות עתודות נפט כדי למתן את המכה, אך זהו פתרון זמני בלבד שנועד \"לקנות זמן\".\n* **אזהרה מפני \"נקודת השבירה\" של המערב:** קיימת דאגה עמוקה שברגע שעתודות הנפט האסטרטגיות יתרוקנו, הכלכלות המערביות יתחילו להרגיש את עוצמת המשבר במלוא הכוח, אלא אם יימצא פתרון יסודי לבעיית האספקה לפני כן."
   },
   {
-    "id": "1s7gxmr",
-    "title": "Asian markets tumble as oil rally, Middle East tensions shake markets- Moneycontrol.com",
-    "url": "https://www.reddit.com/r/investing/comments/1s7gxmr/asian_markets_tumble_as_oil_rally_middle_east/",
-    "author": "Moneycontrol",
-    "score": 2,
-    "selftext": "Asian equity markets fell sharply on Monday, tracking losses on Wall Street, as a [spike in crude oil prices ](https://www.moneycontrol.com/news/business/oil-price-surges-past-115-as-houthis-enter-west-asia-conflict-widening-war-stokes-supply-fears-13873922.html)and escalating tensions in the ongoing conflict involving the U.S., Israel and Iran dampened investor sentiment.\n\nJapan’s benchmark Nikkei 225 dropped more than 4.5% in early trade, while South Korea’s Kospi slid over 3%. Hong Kong’s Hang Seng Index declined around 1.7%, and China’s Shanghai Composite edged lower by about 0.7%. Australia’s S&P/ASX 200 also traded in the red, reflecting broad-based weakness across the region.\n\nThe sell-off followed a bruising session in the U.S., where the S&P 500 fell 1.7%, capping its fifth consecutive weekly loss, the longest losing streak in nearly four years. The Dow Jones Industrial Average dropped 793 points, while the Nasdaq Composite declined 2.1%, dragged down by heavyweight technology stocks including Amazon and Nvidia.\n\nInvestor anxiety has been fuelled by surging energy prices, with Brent crude climbing to around $115–$116 a barrel and West Texas Intermediate rising above $100. The sharp increase, from roughly $70 per barrel before the conflict, has intensified concerns about inflation and the potential drag on global growth.\n\nMarket participants are particularly worried about disruptions to the Strait of Hormuz, a critical artery for global energy supplies that has been severely impacted by the conflict. Shipping constraints and attacks on energy infrastructure have tightened supply, amplifying volatility in oil markets.\n\n“Although we do not expect the conflict to be protracted, we anticipate heightened volatility in the near term,” said Xavier Lee, senior equity analyst at Morningstar Research, as cited in by *AP*.\n\nAnalysts warn that sustained high oil prices could trigger broader economic stress. “The market is now reacting to higher crude pricing and the fallout in economic consequences,” said Chris Weston of Pepperstone, pointing to rising inflation expectations and supply concerns.\n\nAdding to the unease are fears of further military escalation. Comments by [U.S. President Donald Trump ](https://www.moneycontrol.com/world/maybe-we-take-kharg-island-trump-signals-possible-us-move-on-iranian-crude-article-13873900.html)about likely action targeting Iran’s energy infrastructure, along with reports of increased US military deployments, have heightened the risk of a prolonged conflict.\n\nExperts say the crisis is evolving into a broader economic threat. “There are three brewing crises in the financial world right now… The largest energy disruption in human history, with no off ramp in sight,” said [Ajay Bagga](https://www.moneycontrol.com/world/oil-gas-fertilisers-ajay-bagga-on-why-the-iran-conflict-may-be-working-in-russia-s-favour-article-13873957.html).\n\nThe United Nations has also flagged the global fallout, with Secretary-General Antonio Guterres announcing a task force to address disruptions to maritime traffic. Continued instability in key shipping routes, officials warned, could impact not only energy markets but also global food supply chains.\n\nWith the conflict entering its second month and no clear de-escalation in sight, investors are bracing for continued volatility across financial markets.",
+    "id": "1s9aw67",
+    "title": "Considering opening a Goldman Sachs 3.65% online savings account and curious in how it works",
+    "url": "https://www.reddit.com/r/investing/comments/1s9aw67/considering_opening_a_goldman_sachs_365_online/",
+    "author": "HurryPuzzleheaded364",
+    "score": 1,
+    "selftext": "Im 22 an have been able to save almost 15,000 dollars and a friend had mentioned that I can grow it with one of these accounts. They told me that it adds to my savings each month and and adds more the next month on top of those savings. For example in one month its 15,547 then in the second it will be 16,114 so at that rate at after a full year I’d have 23,055 is that correct? This is just letting it sit there and I gain ",
     "subreddit": "investing",
-    "created_utc": 1774845501,
+    "created_utc": 1775019131,
     "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "שווקי המניות באסיה רשמו ירידות חדות בהשפעת המגמה השלילית בוול סטריט, זאת על רקע החרפת המתיחות הביטחונית במזרח התיכון והזינוק במחירי הנפט אל מעל ל-115 דולר לחבית. המשקיעים חוששים כי המשך ההסלמה ושיבושים בנתיבי הסחר הימיים יובילו לאינפלציה גוברת, פגיעה בתשתיות אנרגיה והאטה בצמיחה הכלכלית העולמית.",
+    "top_comments": [
+      {
+        "body": "i have one they're lit it was offered through the apple card they put my 3% cc rewards automatically into the savings + i do 350/week additional contributions & they pay interest out once a month. (saving for a triplex)",
+        "score": 1,
+        "author": "EdgeInformal8264"
+      },
+      {
+        "body": "I have quite a bit over at the Vanguard MM fund it's not insured do you think anyone loses sleep over that ? ",
+        "score": 1,
+        "author": "Gladiz1972"
+      },
+      {
+        "body": "APY/12 = monthly interest %\n\nAccount balance x monthly interest % = monthly interest payment\n\nMonthly interest payment + Account balance = What you have after not touching money for one month. \n\nThis is a great holding place for your money! If you start building an emergency fund or want to save up to start investing, this is a good place to do it. When you open an investment account, you may (with risk involved and no guarantee) get better returns with some ETFs (market avg 10% annual return, adjusted to 7% after inflation). Just know that interest can be taxed at income (i think after it exceeds $1,000). Just something to check with a tax guy.",
+        "score": 1,
+        "author": "myrrhsea"
+      }
+    ],
+    "summary_he": "כותב הפוסט, צעיר בן 22 עם חיסכון של 15,000 דולר, שוקל לפתוח חשבון חיסכון מקוון בגולדמן זאקס בריבית שנתית של 3.65%. הוא מבקש להבין כיצד פועל מנגנון הריבית, אך מציג חישוב שגוי המצפה לתשואה גבוהה באופן לא ריאלי בתוך שנה אחת בלבד.",
     "category_he": "פיננסים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-03-30",
-    "savedAt": {
-      "_seconds": 1774857266,
-      "_nanoseconds": 742000000
-    }
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג נקודות מבט שונות ותובנות מהקהילה:\n\n*   **חוויית משתמש חיובית ואוטומציה:** המשתמשים מציינים בסיפוק רב את היעילות של חשבון החיסכון (של אפל), במיוחד את היכולת להעביר באופן אוטומטי את החזרי המזומן מהקניות (3% CC rewards) ישירות לחיסכון, מה שהופך את צבירת הכסף לפשוטה וללא מאמץ.\n*   **כלי להשגת מטרות ארוכות טווח:** החשבון נתפס ככלי אפקטיבי לחיסכון עבור מטרות משמעותיות (כגון רכישת נדל\"ן). שילוב של הפקדות שבועיות קבועות יחד עם הריבית החודשית מאפשר צמיחה עקבית של ההון.\n*   **סוגיית הביטוח והביטחון הפיננסי:** קיימת השוואה בין חשבונות חיסכון מבוטחים לבין חלופות כמו קרנות שוק כסף (Vanguard Money Market). עולה הטענה כי למרות שחלק מהחלופות הללו אינן מבוטחות, משקיעים רבים חשים איתן בנוח ואינם חוששים לאבד את כספם בשל המוניטין של המוסד הפיננסי.\n*   **חינוך פיננסי והבנת הריבית:** חלק מהדיון מתמקד בהסבר טכני על אופן חישוב הרווחים. המשתמשים מדגישים את החשיבות של הבנת הנוסחה (חילוק הריבית השנתית ב-12) כדי לעקוב בדיוק אחרי הצמיחה החודשית של היתרה.\n*   **אסטרטגיית ניהול מזומנים:** חשבון החיסכון נתפס כ\"תחנת המתנה\" מצוינת (Holding place). הוא אידיאלי לבניית קרן חירום או לצבירת הון ראשוני לפני שבוחרים להשקיע באפיקים מסוכנים יותר כמו מדדי מניות (ETFs), שעשויים להניב תשואה גבוהה יותר אך ללא ערבויות.\n*   **מודעות למיסוי וייעוץ מקצועי:** ישנה התייחסות לכך שרווחים מריבית אינם \"כסף חופשי\" לחלוטין, שכן הם עשויים להיות מחויבים במס הכנסה (במיוחד לאחר חציית סף מסוים). הקהילה ממליצה לבדוק את הנושא מול איש מקצוע כדי להימנע מהפתעות בעונת המס."
   },
   {
-    "id": "1s7hcjg",
-    "title": "Moronic Monday - March 30, 2026 - Your Weekly Questions Thread",
-    "url": "https://www.reddit.com/r/finance/comments/1s7hcjg/moronic_monday_march_30_2026_your_weekly/",
-    "author": "AutoModerator",
+    "id": "1s9arpc",
+    "title": "Current 401k Allocations - Any Thoughts?",
+    "url": "https://www.reddit.com/r/investing/comments/1s9arpc/current_401k_allocations_any_thoughts/",
+    "author": "Dapper_Towel_5785",
     "score": 1,
-    "selftext": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n\nReplies are expected to be constructive and civil.\n\nAny questions about your *personal* finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.",
-    "subreddit": "finance",
-    "created_utc": 1774846867,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "זהו שרשור שאלות שבועי המוקדש לנושאי קריירה פיננסית, עזרה בשיעורי בית ומימון כללי, שבו כל שאלה בתחום מתקבלת בברכה. הקהילה מעודדת מענה מכבד ובונה, ומדגישה כי שאלות הנוגעות לפיננסים אישיים יש להפנות לפורומים ייעודיים אחרים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1s76sz1",
-    "title": "How close is the EU to break free from Visa and Mastercard's grip?",
-    "url": "https://www.reddit.com/r/finance/comments/1s76sz1/how_close_is_the_eu_to_break_free_from_visa_and/",
-    "author": "CopiousCool",
-    "score": 1,
-    "selftext": "With the rise of systems like BRICS, PAPPS and now P-by-Bank the rest of the world is progressively moving away from the dominance of the American Dollar, and with it does not only the ability to sanction but also the demand and subsequent strength that the Dollar also once enjoyed",
-    "subreddit": "finance",
-    "created_utc": 1774817941,
-    "thumbnail": "default",
-    "top_comments": [],
-    "summary_he": "הפוסט דן במאמצי האיחוד האירופי להשתחרר מהתלות בענקיות התשלומים האמריקאיות ויזה ומאסטרקארד. המחבר מציין כי עלייתן של מערכות תשלום חלופיות בעולם מחלישה את הדומיננטיות של הדולר ואת יכולת האכיפה הכלכלית של ארצות הברית.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-03-30",
-    "savedAt": {
-      "_seconds": 1774857280,
-      "_nanoseconds": 71000000
-    }
-  },
-  {
-    "id": "1s8fwnr",
-    "title": "Advice: HSBC FTSE 250 Index",
-    "url": "https://www.reddit.com/r/investing/comments/1s8fwnr/advice_hsbc_ftse_250_index/",
-    "author": "fuk_ur_mum_m8",
-    "score": 1,
-    "selftext": "Hi all. I have recently \"got into\" investing after talking to some colleagues at work. I decided to put £1300 into the FTSE 250. At first, everything looked swell - it was up to £1375 at one point. \n\nAs if today, it is down to £1217. Should I keep it in there, or take it out and re-invest somewhere else?",
+    "selftext": "60% - Vanguard 500 Index Inv (VFINX)\n\n10% - Vanguard Developed Mkts Index Inv (VDVIX)\n\n3% - Vanguard Emerging Mkts Stock Idx Inv (VEIEX)\n\n12% - Vanguard Growth Index Inv (VIGRX)\n\n8% - Vanguard Mid-Cap Index Inv (VIMSX)\n\n7% - Vanguard Small-Cap Index Inv\n\n  \n25 Years old. ",
     "subreddit": "investing",
-    "created_utc": 1774939364,
+    "created_utc": 1775018732,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Why FTSE 250 though? Global equity tracker is the standard for most index investors",
+        "body": "Why don't you have any Bonds or Debt allocations there ?",
         "score": 1,
-        "author": "Extra_Spray_5019"
+        "author": "misterkhanna"
       },
       {
-        "body": "No. Index investing is for the long term. ",
+        "body": "Great start at 25.\n\nOnly tweak:\n\n* Too much overlap (S&P 500 + Growth)\n* International is a bit low\n\nSimple fix:  \nShift a little from growth → international.\n\nFocus on consistency. That’s what really builds wealth.",
         "score": 1,
-        "author": "timfinn1972"
+        "author": "Terrible-Repair-9421"
+      },
+      {
+        "body": "read jim cramers book - how to make money in any market. people make fun of cramer but i know people that have made money off his calls.",
+        "score": 1,
+        "author": "FreeTexan1337"
       }
     ],
-    "summary_he": "כותב הפוסט השקיע לאחרונה 1,300 ליש\"ט במדד FTSE 250, אך לאחר עלייה קצרה ערך ההשקעה ירד אל מתחת לסכום המקורי. כעת הוא מבקש להתייעץ עם הגולשים האם כדאי להמשיך להחזיק בנכס או למשוך את הכסף ולהשקיע אותו באפיק אחר.",
+    "summary_he": "הפוסט מציג תמהיל השקעות בקרן פנסיה (401k) עבור משקיע בן 25, המורכב מ-100% קרנות מנייתיות של חברת ונגארד. התיק מתמקד ברובו בשוק האמריקאי (כ-72% במניות גדולות וצמיחה), עם חשיפה משלימה לשווקים בינלאומיים ולמניות של חברות קטנות ובינוניות, במטרה לקבל משוב על האסטרטגיה לטווח ארוך.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מהקהילה:\n\n*   **העדפת פיזור גלובלי:** המגיבים מטילים ספק בבחירה במדד ספציפי כמו ה-FTSE 250 (המתמקד בחברות בריטיות) ומציינים כי מעקב אחר מניות כלל-עולמיות הוא הסטנדרט המקובל בקרב משקיעי מדדים.\n*   **ביקורת על התמקדות בשוק מקומי:** עולה סנטימנט המסתייג מהתמחות יתר בשוק ה-UK, מתוך הנחה שמשקיע מדדים אמור לשאוף לחשיפה רחבה ככל הניתן ולא להגביל את עצמו למדד אזורי מסוים.\n*   **הגדרת \"נורמות\" השקעה:** התגובות משקפות תפיסה בקהילה לפיה ישנה דרך \"נכונה\" או \"סטנדרטית\" להשקיע במדדים (Global equity tracker), וכל סטייה ממנה דורשת הסבר או הצדקה.\n*   **חשיבות אופק ההשקעה:** מודגש כי השקעה במדדים אינה כלי לרווח מהיר, אלא אסטרטגיה שנועדה לטווח ארוך בלבד.\n*   **שלילה נחרצת של גישות שגויות:** התגובה הקצרה (\"No\") מבטאת חוסר סובלנות בקהילה כלפי אסטרטגיות שנתפסות ככאלו שאינן עולות בקנה אחד עם עקרונות היסוד של השקעות פסיביות.\n*   **הצורך במשמעת ואסטרטגיה:** הדיון מדגיש את הסנטימנט לפיו השקעה במדדים מחייבת דבקות בעקרונות בסיסיים (כמו פיזור וזמן) על פני ניסיונות \"להתחכם\" עם בחירת מדדים ספציפיים או תזמון שוק."
+    "comments_summary_he": "להלן ניתוח התגובות מהדיון ב-Reddit, המסוכם ל-6 נקודות מרכזיות המציגות דעות ותובנות שונות של הקהילה:\n\n*   **הצורך בגיוון באמצעות אפיקי חוב:** אחת הביקורות המרכזיות הופנתה כלפי היעדרם של אג\"ח (איגרות חוב) או הקצאות חוב אחרות בתיק. המגיב תוהה מדוע התיק מורכב כולו ממניות ללא \"כרית ביטחון\" של נכסים בעלי סיכון נמוך יותר.\n*   **עידוד על התחלה מוקדמת:** הקהילה מציינת לחיוב את העובדה שהמשקיע התחיל את דרכו כבר בגיל 25. הגיל נתפס כיתרון משמעותי המאפשר צמיחה ארוכת טווח.\n*   **בעיית הכפילויות (Overlap):** קיימת אזהרה מפני חשיפת יתר לאותם נכסים. המגיבים מציינים ששילוב של מדד ה-S&P 500 יחד עם קרנות צמיחה (Growth) יוצר כפילות מיותרת, שכן רבות מהמניות נמצאות בשני האפיקים במקביל.\n*   **חשיבות החשיפה הבינלאומית:** עלתה טענה כי המרכיב הבינלאומי בתיק נמוך מדי. ההמלצה היא להעביר חלק מההשקעות מאפיקי הצמיחה המקומיים (ארה\"ב) לשווקים גלובליים כדי ליצור פיזור גיאוגרפי טוב יותר.\n*   **עקביות כגורם המכריע בבניית עושר:** מעבר לבחירת המניות הספציפיות, הקהילה מדגישה שמה שבאמת בונה הון לאורך זמן הוא ה\"התמדה\". היצמדות לתוכנית והשקעה עקבית נתפסות כחשובות יותר מביצוע שינויים תכופים.\n*   **פתיחות למקורות מידע שנויים במחלוקת:** למרות הביקורת הציבורית המושמעת לעיתים קרובות נגד דמויות כמו ג'ים קריימר (Jim Cramer), ישנם חברי קהילה הממליצים על ספריו וטוענים כי ניתן להפיק רווחים מהאסטרטגיות שלו, תוך הכרה בכך שאין לפסול מקורות מידע רק בגלל המוניטין שלהם ברשת."
   },
   {
-    "id": "1s8dnfm",
-    "title": "US Defense Secretary Hegseth's broker looked to buy defense fund before Iran attack",
-    "url": "https://www.reddit.com/r/investing/comments/1s8dnfm/us_defense_secretary_hegseths_broker_looked_to/",
-    "author": "vulcan_on_earth",
+    "id": "1s96ivc",
+    "title": "Anyone going big into SpaceX IPO?",
+    "url": "https://www.reddit.com/r/investing/comments/1s96ivc/anyone_going_big_into_spacex_ipo/",
+    "author": "mutant-dermoid",
     "score": 1,
-    "selftext": "March 30 (Reuters) - A broker for U.S. Defense Secretary Pete Hegseth attempted to make a ​big investment in major defense companies in the weeks ‌leading up to the U.S.-Israeli attack on Iran, the Financial Times reported on Monday, citing three people familiar with the matter. \n\nhttps://www.reuters.com/business/finance/us-defense-secretary-hegseths-broker-looked-buy-defense-fund-before-iran-attack-2026-03-30/",
+    "selftext": "Anyone going big dollars into SpaceX IPO?\n\nOr small.\n\nWhy?\n\nAnd what are the factors leading to your decision?\n\nIs this the new story of the guy that put his $800k inheritance into Intel?\n\nThanks all for your input, I appreciate it. \n\nThe business model seems strong, market saturation is deep. Not sure about competition moat. \n\nIs the technology sound enough to dominate?",
     "subreddit": "investing",
-    "created_utc": 1774931821,
+    "created_utc": 1775006867,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "If you're going to going to value a 60 year old plane by it's replacement cost, you have to discount for the fact they were already being phased out and slated for replacement. \n\n\nThat's like hiring someone to replace your roof but before they get started, a hail storm comes and destroys it, then telling your insurance company the storm did 20k in damage. ",
+        "body": "Reddit is VERY bearish on it. So I'm going to allocate 5 percent on it and if the position loses, it loses. ",
         "score": 1,
-        "author": "greyduk"
+        "author": "Rockon97"
       },
       {
-        "body": "For one, I agree that Apple is probably pissed that the price of energy has doubled, so far, and energy is continuing to go up in price with no end in sight. All the tech companies probably are.\n\nBut honestly, I don’t know what that has to do with the MIC? The MIC succeeds when the US government spends  more on military hardware than the “enemy” does. That’s my point. \n\nI am not sure what Apple and their, obviously well known, ability to bribe is? That the tech industry is able to bribe and grift as well as the MIC does? I’m sure they can. ",
+        "body": "I can hold 2 thoughts in my head at once.  It’s a skill not many Redditors possess.  \n\nAlso I can’t remember who said it but “you never short a cult”.",
         "score": 1,
-        "author": "Ok-Blood4340"
+        "author": "Latter-Possibility"
       },
       {
-        "body": "This is less about politics and more about how markets actually move.\n\nIf true, it just reinforces a simple point: by the time geopolitical events hit headlines, positioning is already happening.\n\nDefense and energy have been pricing elevated risk for weeks now, this didn’t start yesterday.\n\nThe real question for investors isn’t “who knew first”, but: \"how do you position when information is asymmetric and repricing is already underway?\"\n\nIn these environments, second-order effects matter more:\n\n– supply chain stress (energy, semis)\n\n– sustained higher input costs\n\n– government spending reallocation (defense vs everything else)\n\nThat’s usually where the longer-term winners/losers are decided.",
+        "body": "Summary: shit’s about to explode in a big way. To the people selling their shares and shorting the stock, thank you. Thank you for lowering my future entry point.",
         "score": 1,
-        "author": "signalHunter89"
+        "author": "ZealousidealBig2023"
       }
     ],
-    "summary_he": "ברוקר של שר ההגנה האמריקאי, פיט הגסת', ניסה לבצע השקעה גדולה בחברות ביטחוניות שבועות ספורים לפני המתקפה האמריקנית-ישראלית על איראן. הדיווח מעורר חששות כבדים בנוגע לניגוד עניינים פוטנציאלי ושימוש במידע פנים מצד סביבתו הקרובה של השר.",
+    "summary_he": "הפוסט שואל את דעת הגולשים לגבי השקעה משמעותית בהנפקה (IPO) פוטנציאלית של חברת SpaceX. הכותב מבקש להבין מהם הגורמים המשפיעים על החלטת ההשקעה ותוהה לגבי חוזק המודל העסקי והיתרון הטכנולוגי של החברה מול המתחרים.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות, הכולל 6 נקודות מבט ודעות שונות שהובאו לידי ביטוי:\n\n*   **ביקורת על הערכת שווי ציוד צבאי:** קיימת טענה כי הערכת שווי של מטוסים ישנים (בני 60 שנה) לפי עלות ההחלפה שלהם היא מטעה. אם הציוד כבר היה בתהליך של הוצאה מהשירות, חישוב הנזק או הערך לפי מחיר דגם חדש אינו משקף את המציאות הכלכלית.\n*   **השפעת מחירי האנרגיה על ענקיות הטכנולוגיה:** ישנה תפיסה שחברות טכנולוגיה גדולות, כמו אפל, מושפעות לרעה ומרגישות \"תסכול\" מהכפלת מחירי האנרגיה. העלייה המתמשכת במחירים אלו נתפסת כאיום ללא סוף נראה לעין.\n*   **מודל ההצלחה של הקומפלקס הצבאי-תעשייתי (MIC):** הצלחתו של המנגנון הצבאי-תעשייתי תלויה ביכולתה של הממשלה להוציא תקציבי עתק על חומרה צבאית, במטרה לעלות על היקף ההוצאות של \"האויב\".\n*   **השוואה בין שחיתות טכנולוגית לביטחונית:** עולה הסברה כי תעשיית הטכנולוגיה אימצה שיטות פעולה הדומות לאלו של התעשייה הביטחונית, הכוללות שימוש בכוח פוליטי, מתן שוחד וגריפת רווחים על חשבון הציבור (\"grift\").\n*   **הקדמת השווקים לחדשות:** בשוק ההון, אירועים גיאופוליטיים מתומחרים בסקטורים של ביטחון ואנרגיה שבועות לפני שהם מגיעים לכותרות. השוק מגיב לסיכונים הרבה לפני שהמידע הופך לנחלת הכלל.\n*   **חשיבותן של השפעות מסדר שני למשקיעים:** הניצחון הכלכלי לטווח ארוך לא נקבע לפי מי ידע ראשון על אירוע, אלא לפי הבנת ההשפעות המשניות: שינויים בשרשראות האספקה (במיוחד בשבבים ואנרגיה), עלויות ייצור גבוהות ושינוי סדרי עדיפויות בתקציבי ממשלה (ביטחון מול תחומים אחרים)."
-  },
-  {
-    "id": "1s8cmou",
-    "title": "Is it worth getting into religious investing?",
-    "url": "https://www.reddit.com/r/investing/comments/1s8cmou/is_it_worth_getting_into_religious_investing/",
-    "author": "ProtocolEnthusiast",
-    "score": 1,
-    "selftext": "A piece a property recently became available near me and it seems like a place where a profitable church could be located. It seems like there’s a lot of potential to be made if a developer could strike a deal with the church to receive a certain share of all the weekly offerings. It seems like it could be a major headache and I can’t imagine seeing myself in this line of investing. ",
-    "subreddit": "investing",
-    "created_utc": 1774928704,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "21 “Not everyone who says to Me, ‘Lord, Lord,’ shall enter the kingdom of heaven, but he whodoes the will of My Father in heaven. 22 Many will say to Me in that day, ‘Lord, Lord, have we not prophesied in Your name, cast out demons in Your name, and done many wonders in Your name?’ 23 And then I will declare to them, ‘I never knew you; depart from Me, you who practice lawlessness!’\n\nI get the feeling trying to use him as a get out of Hell free card would be exactly what he was talking about here. \n",
-        "score": 1,
-        "author": "The_Greyscale"
-      },
-      {
-        "body": "You don't have to look at much of OPs posting history to realize their brain is pickled. ",
-        "score": 1,
-        "author": "domalu4U"
-      },
-      {
-        "body": "Not worth it, Church is going to 0",
-        "score": 1,
-        "author": "WarpDriveMH370"
-      }
-    ],
-    "summary_he": "הפוסט בוחן את הכדאיות של השקעה בנדל\"ן המיועד להקמת כנסייה, תוך שאיפה לקבל נתח מהתרומות השבועיות של המאמינים כמודל עסקי. למרות הפוטנציאל הכלכלי, הכותב מביע ספקות רב בשל המורכבות והקשיים הנלווים לסוג כזה של השקעה, ומציין כי הוא אינו רואה את עצמו נכנס לתחום.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, הכולל 6 נקודות מבט ורגשות קהילתיים שונים:\n\n*   **ביקורת על צביעות דתית:** אחת התגובות המרכזיות מדגישה כי אמונה אינה נמדדת רק בהצהרות מילוליות (\"אדוני, אדוני\"), אלא בביצוע בפועל של רצון האל. הציטוט מהברית החדשה משמש כדי להבהיר שדיבורים ללא מעשים אינם מספיקים לגאולה.\n*   **התנגדות לניצול הדת כ\"קיצור דרך\":** עולה הטענה שניסיון להשתמש באמונה כ\"כרטיס יציאה חופשי מהגיהנום\" (get out of Hell free card) הוא בדיוק סוג ההתנהגות שהטקסטים הדתיים מזהירים מפניה – ניסיון להתחמק מעונש ללא חזרה אמיתית בתשובה.\n*   **דחיית מעשים דתיים ריקניים:** המגיב הראשון מציין שגם פעולות מרשימות לכאורה, כמו נבואה או גירוש שדים בשם האל, חסרות ערך אם האדם שמבצע אותן פועל בדרך של \"פריקת עול\" (lawlessness).\n*   **תקיפה אישית של כותב הפוסט (Ad Hominem):** קיימת נימה של זלזול אישי כלפי כותב הפוסט המקורי (OP). אחד המגיבים טוען כי עיון בהיסטוריית הפרסומים שלו מעיד על כך שמוחו \"מטוגן\" או \"מקולקל\" (pickled), ככל הנראה מרמיזה לשימוש בחומרים או למצב נפשי מעורער.\n*   **סקפטיות כלכלית/מוסדית:** אחת התגובות מביעה פסימיות מוחלטת לגבי גוף או נכס בשם \"Church\" (ייתכן ומדובר במטבע קריפטו או מניה ספציפית בעלת שם זה), וטוענת שערכו ירד לאפס (\"going to 0\") ולכן לא כדאי להשקיע בו מאמץ או כסף.\n*   **אווירה של ציניות וזלזול:** הדיון משקף קיטוב בין הטפה מוסרית-דתית כבדת משקל לבין תגובות קצרות, בוטות וציניות, המאפיינות קהילות מקוונות שבהן המשתמשים מפקפקים באמינות ובשפיות של זה של זה."
-  },
-  {
-    "id": "1s8c94w",
-    "title": "Built a suite of investment skills that actually work. Should I open-source the methodology here?",
-    "url": "https://www.reddit.com/r/investing/comments/1s8c94w/built_a_suite_of_investment_skills_that_actually/",
-    "author": "CapitalSwim1049",
-    "score": 1,
-    "selftext": "I built a collection of 6 AI-powered skills to automate the tedious parts of buy-side research. It's not a \"get rich quick\" bot, but a toolset for fundamental and quantitative analysis：  \n  \nsector-radar、stock-screener、business-quality、competitor-analysis、valuation-matrix、portfolio-monitor。  \n  \nHonestly, after using this, my 10+ years of investing experience feels humbling ",
-    "subreddit": "investing",
-    "created_utc": 1774927615,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I'm worried that posts with links might get deleted. here it is:  \n[https://github.com/zwaydot/alpha-skills](https://github.com/zwaydot/alpha-skills)",
-        "score": 1,
-        "author": "CapitalSwim1049"
-      },
-      {
-        "body": "...and what shall you call this world changing technology that no else has ?",
-        "score": 1,
-        "author": "dewhit6959"
-      },
-      {
-        "body": "sure, dont see why not. I am curious to explore",
-        "score": 1,
-        "author": "how_memable"
-      }
-    ],
-    "summary_he": "משתמש פיתח ערכה של שישה כלי בינה מלאכותית לאוטומציה של מחקרי השקעות יסודיים וכמותיים, אשר מייעלים משמעותית את תהליכי הניתוח והערכת המניות. לאחר שהכלים הוכחו כיעילים במיוחד עבורו, הוא שואל את חברי הקהילה האם כדאי לו לשתף את המתודולוגיה כקוד פתוח.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **חשש מצנזורה או מחיקת תוכן:** אחד המשתמשים הביע דאגה מכך שקישורים חיצוניים עלולים להוביל למחיקת הפוסט על ידי מנהלי הפורום, מה שמעיד על היכרות עם חוקי הקהילה הנוקשים.\n*   **שיתוף משאבים פתוחים:** קיימת נכונות לחלוק ידע וקוד, כפי שניתן לראות מהקישור למאגר ה-GitHub של הפרויקט \"alpha-skills\", המיועד ככל הנראה לשימוש הכלל.\n*   **ספקנות וציניות כלפי הצהרות גדולות:** אחד המגיבים הפגין נימה סרקסטית ביחס ליומרה של הטכנולוגיה המוצגת, כשהוא מכנה אותה בציניות \"טכנולוגיה משנה עולם\".\n*   **ערעור על ייחודיות הפיתוח:** עלתה שאלה ביקורתית לגבי החידוש האמיתי במוצר, תוך תהייה האם באמת מדובר במשהו שאין לאף אחד אחר בשוק כפי שנטען.\n*   **פתיחות וגמישות מחשבתית:** מנגד לביקורת, ישנם חברי קהילה המגלים גישה חיובית ומוכנים לתת הזדמנות לרעיונות חדשים ללא התנגדות מוקדמת (\"לא רואה סיבה למה לא\").\n*   **סקרנות ורצון לחקור:** ניכר עניין של משתמשים להעמיק בפרטים ולבחון את הטכנולוגיה מקרוב כדי להבין את הפוטנציאל הטמון בה, מעבר להצהרות השיווקיות."
-  },
-  {
-    "id": "1s8afni",
-    "title": "Index funds, how do they work?",
-    "url": "https://www.reddit.com/r/investing/comments/1s8afni/index_funds_how_do_they_work/",
-    "author": "Particular_Egg_2219",
-    "score": 1,
-    "selftext": "I have been learning more about investing. I have a mutual fund and a CD but that’s my extent of investing. \n\nI want to invest in an index fund but am confused on how to choose an index and what I’ll decide to buy shares in.. it sounds like I can choose an asset type and company sizes??? \n\nAlso, is an index fund something I can add whatever amount to it whenever I want? Or do I need to have a set amount of each of my paychecks going into it. Similarly, do I buy new shares of different companies every time I invest into it??\n\nAny basic explanation in your own words on how these work is great. I’ve been reading all the things on nerdwallet but your own words might make it click for me. Thanks!! Hope my questions make sense 😅",
-    "subreddit": "investing",
-    "created_utc": 1774922589,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Instead of placing one bet and picking one number and one color on a roulette wheel , an index allows you to bet on all the numbers and colors with one bet.  Place the bet on a regular basis and concentrate on your job and making more money and sticking to a budget, You will make a lot  of  money over your lifetime and be secure when you retire.  \n\nSet it on small , medium, large and international indexes and forget it and fund it weekly and go away and work.",
-        "score": 1,
-        "author": "dewhit6959"
-      },
-      {
-        "body": "Exchange Traded Funds were developed after mutual funds. Index funds are ETFs based on an index. S&P 500 ETFs are VOO, SPY and IVV. NASDAQ 100 ETF is QQQ. S&P 600 ETF (profitable small caps) is IJR. Russell 2000 ETF (small caps) is IWM.",
-        "score": 1,
-        "author": "D_Pablo67"
-      },
-      {
-        "body": "Look this up on Investopedia.  That's how I cut through the BS and got started learning the basics.  ",
-        "score": 1,
-        "author": "TheXandyrZone"
-      }
-    ],
-    "summary_he": "הכותב הוא משקיע מתחיל המבקש הסבר פשוט על אופן הפעולה של קרנות מדד (index funds) וכיצד לבחור את המדד הנכון להשקעה. הוא שואל לגבי גמישות ההפקדות בקרן והאם עליו לבחור מניות של חברות ספציפיות באופן ידני בכל פעם שהוא משקיע בה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מרכזיות ודעות שעלו בקהילה:\n\n*   **השקעה במדדים ככלי לפיזור סיכונים:** הקהילה משווה השקעה במדד להימור על כל המספרים והצבעים בגלגל רולטה בבת אחת. במקום לנסות \"לקלוע\" למניה אחת מנצחת, המדד מאפשר חשיפה רחבה שמקטינה את הסיכון ומגדילה את סיכויי ההצלחה לאורך זמן.\n*   **התמקדות בקריירה ובחיסכון כבסיס לעושר:** אחת הדעות המרכזיות היא שהשקעה בשוק ההון צריכה להיות פסיבית, כך שהמשקיע יוכל לרכז את מרב המאמצים שלו בעבודה, הגדלת ההכנסה ושמירה על תקציב הדוק. שילוב זה הוא המפתח לביטחון כלכלי בפרישה.\n*   **אסטרטגיית \"שגר ושכח\" (Set and Forget):** מומלץ להפוך את ההשקעה לאוטומטית (למשל ברמה שבועית) ולהתמיד בה לאורך שנים מבלי לנסות לתזמן את השוק. הגישה המוצעת היא פיזור בין מדדים של חברות גדולות, בינוניות, קטנות ומדדים בינלאומיים.\n*   **הבחנה טכנית בין סוגי קרנות:** הדיון מדגיש כי קרנות סל (ETFs) הן פיתוח מודרני יותר של קרנות נאמנות, וכי קרנות מחקות מדד רבות נסחרות כיום כ-ETFs. הבנת המבנה הזה קריטית למשקיע המתחיל.\n*   **היכרות עם מדדי ייחוס וסימולים ספציפיים:** הקהילה מציינת קרנות ספציפיות כנקודת מוצא למחקר, כגון VOO ו-SPY (למעקב אחר ה-S&P 500), QQQ (לנאסד\"ק 100), וקרנות הממוקדות בחברות קטנות כמו IJR ו-IWM.\n*   **חשיבות הלמידה העצמית ממקורות מהימנים:** כדי \"לחתוך\" דרך המידע המטעה ברשת (BS), ישנה המלצה חמה להיעזר באתרים מקצועיים כמו Investopedia כדי ללמוד את מושגי היסוד לפני שמתחילים להשקיע בפועל."
-  },
-  {
-    "id": "1s891b2",
-    "title": "Break GIC (CD in the US) early to invest?",
-    "url": "https://www.reddit.com/r/investing/comments/1s891b2/break_gic_cd_in_the_us_early_to_invest/",
-    "author": "Temporary-Frosting62",
-    "score": 1,
-    "selftext": "My girlfriend (20) has about $9,500 CAD in a GIC (basically like a CD in the US) earning \\~2.15%, maturing in September.\n\n\\- She’s made \\~$100 so far  \n\n\\- Would make \\~$200 total if she keeps it  \n\n→ so she’d give up about $100 by exiting now  \n\nI’m trying to convince her to invest instead (VOO / QQQ / VXUS + some big tech + a few stocks she likes).\n\nMy thinking:\n\n\\- She has a long time horizon  \n\n\\- Giving up \\~$100 seems small vs potential market gains  \n\n\\- Starting earlier > waiting  \n\nHer concern:\n\n\\- Losing guaranteed returns  \n\n\\- Entering and seeing a drop right away  \n\nWhat would you do?\n\n1) Keep GIC  \n\n2) Break now and invest  \n\n3) Break + DCA  \n\nCurious what you guys think.",
-    "subreddit": "investing",
-    "created_utc": 1774918837,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "So you're saying you're jealous and want to control your gf's finances...",
-        "score": 1,
-        "author": "DasKleineFerkel25"
-      },
-      {
-        "body": "Give her a copy of The Wealthy Barber, and let her come to investment decisions on your own. You can't force someone to be okay with market volatility. ",
-        "score": 1,
-        "author": "Asyncrosaurus"
-      },
-      {
-        "body": "Relationship tips: unless your partner is actively seeking advice from you, do not offer it. If you do offer it, make sure you are being clear about the risks and time horizons she would need to accept. Finally, let the decision be hers. It’s not your money and if you are responsible for losing it, goodbye relationship. \n\nAnd in any event she should just put money into a HYSA as it earns 1% more and more liquid. She clearly values a conservative investment strategy and $10k is not a lot of money suggesting she probably doesn’t have a ton and does not want to risk it in the market\n",
-        "score": 1,
-        "author": "BumbleSlob"
-      }
-    ],
-    "summary_he": "הכותב מתלבט אם כדאי לחברתו לפרוע פיקדון בנקאי (GIC) המניב תשואה נמוכה לפני מועד הפירעון, כדי להשקיע את הכסף בשוק ההון לטווח ארוך. בעוד הוא מדגיש את פוטנציאל הרווח הגבוה בבורסה, היא חוששת מהפסד הריבית המובטחת ומתנודתיות השוק. המחבר מבקש את עצת הגולשים האם להמתין לפירעון הפיקדון, להשקיע את כל הסכום כעת או להיכנס לשוק בהדרגה (DCA).",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג 6 נקודות מבט ודעות מרכזיות שעלו מהתגובות:\n\n* **ביקורת על שליטה וקנאה:** חלק מהמגיבים פירשו את הניסיון להתערב בניהול הכספים של בת הזוג כביטוי של קנאה או רצון לשלוט בנכסיה האישיים, והזהירו מפני התנהלות כזו.\n* **מתן כלים במקום הוראות:** הוצע לספק לבת הזוג משאבים לימודיים (כמו ספר השקעות מוכר) כדי שתוכל ללמוד ולקבל החלטות מושכלות בעצמה, במקום להכתיב לה מה לעשות.\n* **אי אפשר לכפות סובלנות לסיכון:** אחת הטענות המרכזיות היא שכל אדם ניחן ברמת סיכון שונה, ואי אפשר להכריח מישהו להרגיש בנוח עם התנודתיות של שוק ההון אם הוא מטבעו שמרן יותר.\n* **גבולות במערכת יחסים:** הועלתה עצה חברתית חשובה – אין להציע עצות פיננסיות אלא אם כן בת הזוג ביקשה זאת במפורש. התערבות לא רצויה עלולה ליצור מתחים מיותרים.\n* **האחריות על הפסדים:** קיים חשש כבד שאם בת הזוג תפעל לפי עצת השותף ותפסיד כסף בשל ירידות בשוק, הדבר יוביל למשבר אמון עמוק ואולי אף לסיום מערכת היחסים.\n* **הצדקת האסטרטגיה השמרנית:** המגיבים ציינו כי סכום של 10,000 דולר אינו נחשב להון עתק, ולכן הגיוני שבת הזוג תעדיף \"לשחק על בטוח\" עם חשבון חיסכון בריבית גבוהה (HYSA) המציע נזילות וביטחון, במקום להמר עליו בשוק ההון."
+    "comments_summary_he": "להלן סיכום הדיון בפורום רדיט, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **אסטרטגיית \"הפוך על הפוך\" (Contrarian):** חלק מהמשתמשים רואים בסנטימנט השלילי של קהילת רדיט (\"Bearish\") אינדיקטור לקנייה. הגישה היא שאם הרוב המוחלט בפורום נגד המניה, זה עשוי להיות הזמן הנכון להשקיע בה.\n*   **ניהול סיכונים מחושב:** קיימת נכונות להשקיע בנכס ספקולטיבי, אך תוך הגבלת החשיפה (למשל, הקצאה של 5% מהתיק בלבד) וקבלה מראש של האפשרות שהפוזיציה תרד לטמיון.\n*   **הימנעות מהימור נגד \"מניות כת\":** הועלתה אזהרה המבוססת על הכלל \"לעולם אל תעשה שורט על כת\". הכוונה היא למניות עם בסיס מעריצים פנאטי, שבהן המחיר עלול לזנק בניגוד לכל היגיון כלכלי, מה שהופך הימור נגדן למסוכן מאוד.\n*   **ביקורת על רדיד הדיון ברשת:** נמתחה ביקורת על חוסר היכולת של גולשים רבים להכיל מורכבות או להחזיק בשתי מחשבות סותרות בו-זמנית. המגיב רומז שהדיון בקהילה נוטה להיות שטוח וחד-ממדי מדי.\n*   **תחזית לצמיחה נפיצה:** ישנו סנטימנט של אופטימיות קיצונית, המנבא שהמניה עומדת \"להתפוצץ\" כלפי מעלה בטווח הקרוב ולהניב רווחים משמעותיים.\n*   **ניצול הזדמנויות בירידות (Buy the Dip):** חלק מהמשקיעים מודים לאלו שמוכרים או מבצעים \"שורט\" על המניה. מבחינתם, הלחץ כלפי מטה על המחיר הוא הזדמנות פז המאפשרת להם נקודת כניסה זולה ונוחה יותר בעתיד."
   }
 ];
