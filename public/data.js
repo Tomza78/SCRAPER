@@ -1,281 +1,347 @@
 window.dailyTrends = [
   {
-    "id": "1sfwrbj",
-    "title": "CNBC Breaking: Oil ships’ passage via Hormuz halted after Lebanon strikes, Iranian media reports",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1sfwrbj/cnbc_breaking_oil_ships_passage_via_hormuz_halted/",
-    "author": "Plane-Try-6522",
-    "score": 266,
-    "selftext": "# Oil ships’ passage via Hormuz halted after Lebanon strikes, Iranian media reports\n\nSource: [https://www.cnbc.com/video/2026/04/08/oil-ships-passage-via-hormuz-halted-after-lebanon-strikes-iranian-media-reports.html](https://www.cnbc.com/video/2026/04/08/oil-ships-passage-via-hormuz-halted-after-lebanon-strikes-iranian-media-reports.html)\n\n# Fragile ceasefire in the balance as Iran says it is halting Strait of Hormuz traffic\n\nSource: [https://edition.cnn.com/2026/04/08/world/live-news/iran-war-trump-us-ceasefire](https://edition.cnn.com/2026/04/08/world/live-news/iran-war-trump-us-ceasefire)  \nDoes anyone has any further information? CNBC has already picked up on this.",
+    "id": "1shygjg",
+    "title": "Stock Market Recap for Friday, April 10, 2026",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1shygjg/stock_market_recap_for_friday_april_10_2026/",
+    "author": "TorukMaktoM",
+    "score": 1,
+    "selftext": "The major U.S. stock indexes ended **mixed** today, **April 10, 2026**, as the U.S.-Iran ceasefire continued to hold with both sides honoring the two-week truce.\n\nThe **S&P 500** slipped **0.11%** (-7.77) to close at **6,816.89**, the **Dow Jones Industrial Average** fell **0.56%** (-269.23) to close at **47,916.57**, the **Nasdaq Composite** rose **0.35%** (+80.48) to close at **22,902.89**, and the **Russell 2000** declined **0.22%** (-5.72) to close at **2,630.59**. The **VIX** eased to **19.31**.\n\nCrude oil fell **2.05%** to **$95.86** per barrel. In dollar terms, the broader market shed a modest **$40–60 billion** in value.",
     "subreddit": "StockMarket",
-    "created_utc": 1775663454,
+    "created_utc": 1775853447,
+    "thumbnail": "https://preview.redd.it/8pjyd2pdbfug1.png?width=140&height=78&auto=webp&s=1417378f7c413d9ae78059f63973622bd3c9c976",
+    "top_comments": [
+      {
+        "body": "CRWV new partnership with Anthropic lifted all neo clouds ",
+        "score": 1,
+        "author": "gamjatang111"
+      },
+      {
+        "body": "tsla had a decent swing was down 1% at one point. My guess is the netherland approving FSD testing ",
+        "score": 1,
+        "author": "gamjatang111"
+      },
+      {
+        "body": "No idea, he might just walk away and return to domestic policies trying to save what little chance he has to win the midterms ",
+        "score": 1,
+        "author": "gamjatang111"
+      }
+    ],
+    "summary_he": "מדדי המניות המרכזיים בארה\"ב ננעלו במגמה מעורבת ב-10 באפריל 2026, על רקע המשך השמירה על הפסקת האש בין ארה\"ב לאיראן. בעוד שמדד הנאסד\"ק רשם עליות קלות, מדדי הדאו ג'ונס וה-S&P 500 ירדו ומחירי הנפט צנחו בכ-2%. בסיכום יומי, שווי השוק הכולל הצטמצם בכ-40 עד 60 מיליארד דולר.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן ניתוח של התגובות מהדיון, הכולל 6 נקודות מרכזיות, דעות ותחושות בקהילה:\n\n*   **השפעת השותפות בין CRWV ל-Anthropic:** אחד המגיבים מציין כי שותפות חדשה בין חברת CoreWeave (CRWV) לבין חברת הבינה המלאכותית Anthropic הובילה לעלייה בערכן של כל חברות ה\"ענן החדשות\" (neo clouds).\n*   **תנודתיות במניית טסלה (TSLA):** קיימת התייחסות למסחר במניית טסלה, שחוותה תנודה משמעותית (\"swing\") והצליחה להתאושש לאחר שירדה באחוז אחד בנקודה מסוימת במהלך היום.\n*   **ספקולציה לגבי נהיגה אוטונומית בהולנד:** עולה השערה בקהילה כי הגורם להתחזקות של טסלה הוא אישור אפשרי של הרשויות בהולנד לביצוע בדיקות של מערכת הנהיגה האוטונומית המלאה (FSD) במדינה.\n*   **שינוי בסדר עדיפויות פוליטי:** מוצגת דעה לפיה דמות פוליטית מסוימת עשויה לזנוח את עיסוקיה הנוכחיים (ככל הנראה בזירה הבינלאומית) ולחזור להתמקד במדיניות פנים.\n*   **ניסיון הצלה לקראת בחירות האמצע:** הקהילה דנה באסטרטגיה פוליטית של \"ניסיון אחרון\" להציל את הסיכויים הקלושים לניצחון בבחירות האמצע (midterms) באמצעות שינוי המוקד הפוליטי.\n*   **תחושת חוסר ודאות וספקנות:** מהתגובות עולה נימה של חוסר ודאות (\"No idea\") וספקנות לגבי סיכויי ההצלחה הפוליטיים של אותו גורם, לצד ניסיון לקשור בין אירועים רגולטוריים ושותפויות עסקיות לתנודות בשוק ההון."
+  },
+  {
+    "id": "1sht5rh",
+    "title": "SNAP - snip snap snip snap back and forth Specs price action",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1sht5rh/snap_snip_snap_snip_snap_back_and_forth_specs/",
+    "author": "lies_are_comforting",
+    "score": 1,
+    "selftext": "About a week ago SNAP soared 15 % on news that Irenic activist group encouraged SNAP leadership to completely shelf Specs AR glasses. \n\nToday, SNAP leadership directly opposed that idea as they announced a multi year partnership with Qualcomm for their upcoming Specs AR glasses. Initially, the stock actually went up by 5 % but it very quickly turned red and is currently trading 3 % in the red for the day. \n\nWhat do you think about these Specs AR glasses? Are they finally going to be a profitable product or is it a bad idea that Spiegel keeps committing to them? ",
+    "subreddit": "StockMarket",
+    "created_utc": 1775841983,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "God Israel is such a blight on this planet",
-        "score": 82,
-        "author": "physicsdeity1"
-      },
-      {
-        "body": "Market could not care less, this shit is crazy ",
-        "score": 76,
-        "author": "BuyingHighSellingLo"
-      },
-      {
-        "body": "White House backs Israel and says that Lebanon is not part of the ceasefire deal",
-        "score": 73,
-        "author": "Tiaan"
+        "body": "SNAP and Reddit are some of the worst investments you can make.",
+        "score": 1,
+        "author": "ECHuSTLe"
       }
     ],
-    "summary_he": "דיווחים בתקשורת האיראנית מצביעים על עצירת תנועת מכליות הנפט במצרי הורמוז בתגובה לתקיפות בלבנון. המהלך מעמיד בסכנה את הפסקת האש השברירית באזור ומעורר דאגה משמעותית בשווקים הבינלאומיים, כפי שדווח ברשתות CNBC ו-CNN.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן ניתוח של התגובות מהדיון ב-Reddit, המסוכם ל-6 נקודות מבט וסנטימנטים שונים שעלו מתוך דברי הגולשים:\n\n*   **עוינות וביקורת חריפה כלפי ישראל:** אחת התגובות מבטאת סלידה עמוקה וסנטימנט שלילי קיצוני כלפי מדינת ישראל, תוך הצגתה כגורם המזיק לעולם כולו.\n*   **פער בין המציאות הגיאו-פוליטית לשווקים הכלכליים:** עולה תחושת תדהמה מכך שהבורסות והשווקים הפיננסיים מפגינים אדישות מוחלטת לאירועים הדרמטיים, מה שנתפס בעיני המגיבים כסיטואציה \"משוגעת\" ולא הגיונית.\n*   **תמיכה אמריקאית בלתי מתפשרת:** הדיון מדגיש את העובדה שהבית הלבן ממשיך להעניק גיבוי מדיני לישראל, גם בתוך המורכבות המבצעית והמדינית.\n*   **החרגת לבנון מהסכמי הפסקת אש:** מצוינת נקודה פוליטית מוגדרת לפיה הממשל האמריקאי מבהיר שלבנון אינה חלק מהסדר הפסקת האש שעל הפרק, מה שמעיד על הבחנה בין זירות הלחימה השונות.\n*   **תחושת כאוס וחוסר אונים:** השימוש במילים כמו \"crazy\" וביטויים של תדהמה מצביע על סנטימנט קהילתי של בלבול וחוסר יכולת לעכל את קצב האירועים או את התגובות אליהם.\n*   **מיקוד בדינמיקה המדינית מול הצבאית:** התגובות משקפות עיסוק רב בהצהרות רשמיות של מעצמות (כמו ארה\"ב) וכיצד הן מעצבות את גבולות הגזרה של הסכסוך, במיוחד בנוגע להסכמים עתידיים."
+    "summary_he": "חברת סנאפ הודיעה על שיתוף פעולה עם קוואלקום לפיתוח משקפי ה-AR שלה, וזאת בניגוד לדרישת קבוצת משקיעים אקטיביסטית שקראה לבטל את הפרויקט. למרות עליות ראשוניות, מניית החברה עברה לירידות, והפוסט מעלה לדיון האם ההשקעה במוצר תהפוך בסופו של דבר לרווחית או שמדובר בטעות אסטרטגית.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן ניתוח של הדיון (על בסיס התגובה שפורטה), המציג 6 נקודות מבט ורגשות מרכזיים שעולים מהקהילה בנוגע להשקעות ב-SNAP וב-Reddit:\n\n*   **ספקנות עמוקה כלפי מניות המדיה החברתית:** קיימת תחושה חזקה בקהילה שחברות כמו SNAP ו-Reddit אינן מהוות נכסים יציבים או רווחיים למשקיעים בטווח הארוך.\n*   **השוואה שלילית בין פלטפורמות:** המגיבים כורכים יחד את SNAP ו-Reddit כבעלות מאפיינים דומים של \"השקעות גרועות\", מה שמעיד על תפיסה ששתיהן סובלות מבעיות מבניות דומות במודל העסקי שלהן.\n*   **אזהרה מפני הפסדים כספיים:** ניכר סנטימנט של \"אזהרת מסע\" פיננסית, לפיו כניסה להשקעה בחברות אלו נתפסת כאחת הטעויות הקשות ביותר שמשקיע יכול לבצע כיום.\n*   **הבחנה בין פופולריות לערך פיננסי:** הדיון מרמז על כך שגם אם פלטפורמה היא פופולרית בקרב משתמשים (כמו Reddit), אין זה אומר שהיא מתורגמת להשקעה מוצלחת בשוק ההון.\n*   **גישה פסימית לנפקות טכנולוגיה חדשות (IPOs):** הכללת Reddit (שהונפקה לאחרונה יחסית) לצד SNAP הוותיקה יותר מבטאת חוסר אמון כללי ביכולת של רשתות חברתיות לייצר ערך למחזיקי המניות לאחר ההנפקה.\n*   **נחרצות ודחייה מוחלטת:** השימוש במילים קיצוניות כמו \"ההשקעות הגרועות ביותר\" מעיד על רגש של זלזול או אכזבה עמוקה מהביצועים של מניות אלו, ללא מקום לאופטימיות או \"קנייה במחיר נמוך\" (Buy the dip)."
   },
   {
-    "id": "1sg0krz",
-    "title": "Nobody is talking about what the SpaceX IPO does to the rest of the market",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1sg0krz/nobody_is_talking_about_what_the_spacex_ipo_does/",
+    "id": "1shrysj",
+    "title": "Major Drilling (MDI.TO) – The Pick & Shovel Play on Western Critical Minerals 🪨⛏️",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1shrysj/major_drilling_mdito_the_pick_shovel_play_on/",
+    "author": "Embarrassed_Role396",
+    "score": 1,
+    "selftext": "The West is scrambling. China banned exports of rare earths, germanium and gallium. \n\nWestern governments are throwing billions at domestic critical mineral supply chains. Someone has to drill for all of it. That someone is Major Drilling.\n\nWhy MDI?\n\nMDI is the world’s largest specialized drilling contractor. They don’t own the mines, they drill the holes. Pure pick & shovel. No commodity price risk, no mine development risk. They just get paid per meter drilled, whoever wins the resource race.\n\nThe setup is perfect right now!\n\nTSX mining companies raised $16B in 2025, up 53% YoY. Gold at all-time highs. Copper near records. Western governments mandating domestic critical mineral sourcing. Every single one of these trends means more drill programs. More drill programs means more revenue for MDI.\n\nThe numbers back it up.\n\n$870M annualized revenue, growing 15-20% YoY. Net cash of $40M. Zero dependency on debt. Share buybacks running. Last cycle peak was 20+ CAD, on far less revenue than today. \n\nCurrent price: 18.15 CAD.\n\nQ3 looked weak, that’s the opportunity!\n\nMDI deliberately sacrificed Q3 margins to hire crews, service rigs and stock supplies ahead of what management calls “a much busier 2026.” \n\nJanuary already ramped faster than last year. \n\nThe pain is priced in. The gain isn’t.\n\nTLDR: Western critical mineral rush is just starting. MDI drills the holes. 27 CAD price target in the bull case.​​​​​​​​​​​​​​​​ NFA. ",
+    "subreddit": "StockMarket",
+    "created_utc": 1775839472,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "חברת Major Drilling (MDI.TO) מוצגת כהזדמנות השקעה אסטרטגית במודל \"מכוש וטורייה\", כקבלנית הקידוחים הגדולה בעולם הנהנית מהמירוץ המערבי לעצמאות בתחום המינרלים הקריטיים. למרות חולשה זמנית ברווחי הרבעון האחרון בשל היערכות לצמיחה, החברה נהנית ממאזן חזק ללא חובות ומגידול משמעותי בתקציבי הכרייה בעולם, עם יעד מחיר אופטימי של 27 דולר קנדי.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1shoajw",
+    "title": "Are Lockheed and Boeing about to get crushed by SpaceX?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1shoajw/are_lockheed_and_boeing_about_to_get_crushed_by/",
     "author": "1stplacelastrunnerup",
-    "score": 66,
-    "selftext": "Not trying to hype the IPO itself. Honestly the $2T number is probably aggressive. But what I don't see people talking about is what a $75B offering does to everything around it.\n\nFund managers don't just conjure new cash. They're going to have to sell something to make room for this. That's a lot of selling pressure hitting large-cap tech and defense right before pricing.\n\nThe defense piece is what I keep thinking about. LMT and BA have been getting their lunch eaten on launch contracts for years already. SpaceX going public gives them a war chest and a stock they can use for acquisitions. The legacy guys are in trouble and I don't think it's priced in yet.\n\nStarlink is also just quietly printing money at this point. That's the actual business. The rockets are the story, the satellite internet is the cash flow.\n\nHere is a writeup that lays it out pretty well: [bigmarketreport.com/analysis/spacex-ipo-2-trillion-rocket-2026-market](https://bigmarketreport.com/analysis/spacex-ipo-2-trillion-rocket-2026-market)\n\nIs anyone actually positioning around this or just watching?",
+    "score": 1,
+    "selftext": "LMT is down 35% and I think its going to get worse.The bull case I keep hearing is \"defense spending is up, geopolitical risk is elevated, LMT is cheap on P/E.\" All true. But that ignores the real problem. They're losing the actual launch business. Phase 3 NSSL handed SpaceX 60% of national security launches. ULA is cooked. And that was before SpaceX had a public stock and an acquisition war chest.\n\nBoeing defense is somehow worse. Still running negative operating margins on fixed-price contracts they should never have signed. NASA just cut them from the Artemis lunar role.\n\nI get that Lockheed has F-35 and missile defense and that's not going away. But the valuation still feels like it's pricing in a world where they have no serious competition for government space contracts. That world ended a few years years ago.\n\nCurious if anyone here is long LMT right now and what the thesis is. Are you not worried about them losing contracts? \n\nAnalysis that lays out the full competitive picture pretty well: bigmarketreport.com/analysis/boeing-lockheed-after-spacex)",
     "subreddit": "StockMarket",
-    "created_utc": 1775671524,
+    "created_utc": 1775831647,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "But SpaceX do not give money to Starlink, Starlink take money from real consumer.",
+        "body": "No way. Spacex cannt do jack shit yet. Similarly did tesla make a dent in auto industry? Hell no. ",
         "score": 1,
-        "author": "Safe_Manner_1879"
+        "author": "fake212121"
       },
       {
-        "body": "Mr Musk loves the \"X\" brand so much, apparently x.com was one of the entities that became paypal and when Musk got kicked out he took the domain name with him.\n\nNow he's merging x.com + xai + spacex to make, basically the X conglomerate.\n\nThe trick here is that by fudging the valuations of the components, he will have 50% of the stake in the conglomerate. Could be a tab more through stock options. Thus the \"offering\" is a minority stake in a monolith that one man completely controls. In other words, wishful thinking, smoke and mirrors, or one may say belief in the person rather than the business... a cult of personality!\n\nCan day traders make money off it? Sure both when it goes down or up. Does it make sense for long-term investors. Oh no, it does not. Some kinda-like-bribery arrangement? Sure, by all means.",
+        "body": "still a cash flow machine compared to boeing. you're right about nssl, but lmt isn't just a space company. i check vcx sometimes to see if the smart money is moving toward the more nimble contractors, but until spacex actually goes public, lmt is still the safe play for defense exposure. it’s a slow transition, not a sudden crush.",
         "score": 1,
-        "author": "Jormun-gander"
+        "author": "BeginningFriendly338"
       },
       {
-        "body": "[https://hughhowey.com/before-we-go/?fbclid=IwdGRleARFJ2tleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEerToab8VfvLeK6VoueppCvZGGzg8qNJFM8RsqZqpuByj4VOmCgP8P_FoQf2k_aem_HmSFPBmMy-dAjzLrxadMkQ](https://hughhowey.com/before-we-go/?fbclid=IwdGRleARFJ2tleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEerToab8VfvLeK6VoueppCvZGGzg8qNJFM8RsqZqpuByj4VOmCgP8P_FoQf2k_aem_HmSFPBmMy-dAjzLrxadMkQ)",
+        "body": "Space X is entirely dependent on the government for all its revenue. Starlink essentially has a monopoly over the satellite internet space, and a good share of their funding (like 1/3) comes from government contracts. Maybe they \"make the best rockets,\" but I don't think that's the best way to look at its value as a company. All it takes is a change in administration to see Space X enter a tailspin. ",
         "score": 1,
-        "author": "International-Top-98"
+        "author": "kennyminot"
       }
     ],
-    "summary_he": "הפוסט דן בהשפעות הרוחב של הנפקת SpaceX על השוק, וטוען כי מנהלי קרנות ייאלצו למכור מניות טכנולוגיה וביטחון קיימות כדי לפנות מקום להשקעה בה. הכותב מדגיש כי המהלך יהווה איום משמעותי על חברות ותיקות (כמו בואינג ולוקהיד מרטין) שאינן ערוכות לתחרות, במיוחד לאור תזרים המזומנים החזק של שירות Starlink.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח של דעות ונקודות מרכזיות שעלו מהתגובות בשרשור:\n\n* **מקור ההכנסות של סטארלינק (Starlink):** הודגש כי בניגוד לתפיסה ש-SpaceX מממנת את סטארלינק, המציאות היא שסטארלינק פועלת כישות עסקית המייצרת הכנסות ישירות מצרכנים בשוק החופשי.\n* **האובססיה ההיסטורית למותג \"X\":** צוין כי הקשר של אילון מאסק למותג \"X\" הוא ארוך שנים (עוד מימי x.com ופייפאל), וכי הוא שמר על הדומיין הזה במשך עשורים מתוך כוונה להפוך אותו למרכז פעילותו.\n* **יצירת תאגיד \"X\" מאוחד:** קיימת הערכה בקהילה שמאסק פועל למיזוג של SpaceX, xAI ו-x.com לישות עסקית אחת גדולה (קונגלומרט), שתאחד את כל המיזמים הטכנולוגיים שלו תחת קורת גג אחת.\n* **חשש ממניפולציה בשווי השוק לצורך שליטה:** הועלתה טענה כי המבנה העסקי המתוכנן נועד \"לנפח\" או לתמרן הערכות שווי, כך שמאסק יוכל להחזיק ביותר מ-50% מהמניות בתאגיד החדש, ובכך להבטיח שליטה מוחלטת של אדם אחד על אימפריית ענק.\n* **פולחן אישיות מול ניתוח עסקי:** חלק מהמגיבים רואים בהשקעה במיזמים אלו \"אמונה באדם\" ולא \"אמונה בעסק\". הביקורת גורסת שמדובר ב\"מראות ועשן\" ובפולחן אישיות סביב מאסק, ולא בהכרח במודל עסקי יציב או הגיוני לטווח הארוך.\n* **אבחנה בין סחר יום להשקעה לטווח ארוך:** קיימת תמימות דעים כי בעוד שסוחרי יום יכולים להרוויח מהתנודתיות של נכסי מאסק, עבור משקיעים מסורתיים לטווח ארוך מדובר בסיכון גבוה מדי שאינו נשען על יסודות כלכליים מוצקים.\n* **שיתוף מקורות חיצוניים ביקורתיים:** הקהילה מפנה למאמרי דעה חיצוניים (כמו הקישור שצורף) המבטאים ספקנות או נקודות מבט פילוסופיות על עתיד המיזמים הללו, מה שמעיד על שיח ביקורתי בתוך השרשור."
+    "summary_he": "הפוסט דן בשקיעתן האפשרית של ענקיות הביטחון לוקהיד מרטין ובואינג אל מול התחרות הגוברת מצד SpaceX, שמשתלטת על נתח משמעותי מחוזי השיגור והחלל הממשלתיים. הכותב טוען כי למרות חוזקן בתחומי ההגנה והטילים, אובדן הבלעדיות בשוק החלל והקשיים התפעוליים של בואינג מעמידים בסימן שאלה את שווי החברות בעתיד.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון המנתח את דעות הקהילה כפי שעלו מהתגובות:\n\n*   **ספקנות כלפי היכולות של SpaceX וטסלה:** יש המביעים זלזול מופגן ביכולות הנוכחיות של SpaceX, תוך השוואה לטסלה וטענה ששתיהן טרם הצליחו לחולל שינוי אמיתי או משמעותי בתעשיות הרכב והחלל.\n*   **העדפת חברות ביטחוניות מסורתיות כהשקעה בטוחה:** לוקהיד מרטין (LMT) נתפסת כ\"מכונת מזומנים\" יציבה וחזקה יותר בהשוואה לבואינג. כל עוד SpaceX היא חברה פרטית ולא ציבורית, לוקהיד מרטין נחשבת לאפשרות הבטוחה והמועדפת עבור משקיעים המחפשים חשיפה לתחום הביטחון.\n*   **גיוון עסקי כיתרון אסטרטגי:** קיימת הערכה כלפי חברות כמו לוקהיד מרטין בזכות העובדה שהן אינן \"חברות חלל\" בלבד, אלא תאגידי ביטחון רחבים, מה שמעניק להן חוסן כלכלי שאין לחברות המתמחות בנישה אחת בלבד.\n*   **תלות מסוכנת בחוזים ממשלתיים:** עולה הטענה ש-SpaceX תלויה לחלוטין בתקציבי ממשלה לצורך הכנסותיה (לדוגמה, כשליש מהמימון של Starlink מגיע מחוזים ממשלתיים). תלות זו הופכת את המודל העסקי שלה לפגיע במיוחד.\n*   **רגישות לשינויים פוליטיים:** קיים חשש כבד ששינוי בממשל האמריקאי עלול להוביל להפסקת תקציבים ולגרום ל-SpaceX להיכנס ל\"סחרור\" כלכלי, מה שמעיד על כך שערך החברה אינו מבוסס רק על טכנולוגיה אלא על קשרים פוליטיים.\n*   **מונופול בתחום האינטרנט הלווייני:** המגיבים מציינים כי ל-Starlink ישנו מונופול דה-פקטו בתחום האינטרנט הלווייני, אך מדגישים כי בניית \"הטילים הטובים ביותר\" אינה בהכרח המדד הנכון להערכת שוויה או יציבותה של חברה בטווח הארוך.\n*   **אופי המעבר בתעשייה:** המעבר של \"כסף חכם\" מקבלנים וותיקים לקבלנים חדשים וזריזים יותר נתפס כתהליך איטי והדרגתי מאוד, ולא כשינוי פתאומי שימוטט את השחקנים הגדולים בזמן הקרוב."
   },
   {
-    "id": "1sfmx96",
-    "title": "Warren Buffett's 22 biggest investments since 1970, charted by duration and outcome [OC]",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1sfmx96/warren_buffetts_22_biggest_investments_since_1970/",
-    "author": "Mastbubbles",
-    "score": 23,
-    "selftext": "Was looking at 55 years of Buffett's positions and ended up making this. Each bar is one investment from purchase to sale (or 2025 if still held).\n\nA few things that stood out:\n\n\\- See's Candies has been in the portfolio since 1972. Fifty-three years. \\~80x return.\n\n\\- His best return wasn't a tech stock, it was Moody's, \\~50x.\n\n\\- The 2020 panic-sell of all four major airlines was the biggest single short-term loss in his recent history.\n\n\\- His 2025 first-ever Alphabet purchase happened the same year he announced he's stepping down. Took 25 years to admit Google was a buy.\n\nBerkshire is sitting on $370 billion in cash right now, more than any company in history.\n\n🟡 Gold = still holding (See's Candies 53 years, GEICO 49 years, Coca-Cola 37 years, Apple, BNSF, etc.)\n\n🟢 Forest green = sold for profit (Washington Post +11,500%, Gillette, Wells Fargo, BYD +2,900%, etc.)\n\n🔴 Red = sold for loss (IBM, Airlines panic-sell 2020, Tesco, Paramount, Kraft Heinz)\n\n[Interactive version with all 84 years of returns](https://sheets.works/data-viz/buffett)\n\nSource: SEC 13F filings, Berkshire annual letters",
+    "id": "1shlya9",
+    "title": "Being right early feels exactly the same as being wrong  until it doesn’t",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1shlya9/being_right_early_feels_exactly_the_same_as_being/",
+    "author": "CalebMitchell840",
+    "score": 1,
+    "selftext": "One of the most frustrating experiences in trading is being early on a good idea.\n\nYou see the setup, you enter, and nothing happens. Or worse  it moves against you before it moves in your direction.\n\nDuring that waiting period, you start doubting everything. Was I wrong? Did I miss something? Should I cut it?\n\nThen weeks later, the move finally plays out… without you, if you exited.\n\nThat gap between “correct idea” and “visible validation” is where most people break.\n\nThe market doesn’t reward insight immediately. It rewards whoever can survive the waiting period.",
     "subreddit": "StockMarket",
-    "created_utc": 1775636776,
-    "thumbnail": "https://preview.redd.it/w0y93pkhfxtg1.png?width=140&height=78&auto=webp&s=71d3b2b9714f77ccd42372d6c010be30cd65d2b1",
+    "created_utc": 1775826207,
+    "thumbnail": "self",
     "top_comments": [
       {
-        "body": "why not use the same metric in return so it's easy to compare? we've got %, X, B, B/yr, just add more at this point to make it even harder to read",
-        "score": 22,
-        "author": "Normal_Toe1212"
+        "body": "Yep.. in my case I would’ve made money every time had I held 3-5 years. I sold commodities this way, PLTR, CVNA, etc. all within 0.5-2 years since buying",
+        "score": 1,
+        "author": "hawkeye224"
       },
       {
-        "body": "Seems like this guy doesn’t know what he’s doing. ",
-        "score": 6,
-        "author": "XXX_n00bslayer_XXX"
+        "body": "That's why conviction is important. If you based your conviction on a set of assumptions and those assumptions are still correct you stay put. ",
+        "score": 1,
+        "author": "thorn960"
       },
       {
-        "body": "There are millions of ways to invest, and the speed of today's growth is unprecedented. Traders today have more ways to find returns than Buffett did.",
-        "score": 5,
-        "author": "gizamo"
+        "body": "The \"game\" is the important part.  Technical analysis of fundamentals will lose to informed game theory every time.",
+        "score": 1,
+        "author": "SidewaysFancyPrance"
       }
     ],
-    "summary_he": "הנה סיכום של הפוסט:\n\nניתוח של 55 שנות השקעה של וורן באפט מציג הצלחות ענק ארוכות טווח כמו See's Candies ו-Moody's, לצד הפסדים בולטים כמו מכירת חברות התעופה בשיא משבר הקורונה. נכון להיום, ברקשייר האת'וויי מחזיקה בסכום שיא של 370 מיליארד דולר במזומן, ובאפט ביצע השקעה היסטורית ראשונה באלפאבית (גוגל) במקביל להודעתו על פרישה מהתפקיד.",
+    "summary_he": "להיות צודק מוקדם מדי במסחר מרגיש בדיוק כמו לטעות, מה שיוצר ספקות ומוביל לעיתים קרובות ליציאה מהפוזיציה רגע לפני שהתחזית מתממשת. הפוסט מדגיש כי השוק אינו מתגמל רק תובנות נכונות, אלא בעיקר את היכולת לשרוד ולהמתין בסבלנות בתקופת ההמתנה שבין הרעיון לבין המימוש שלו בפועל.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה:\n\n*   **דרישה לאחידות במדדים:** קיימת תרעומת על השימוש ביחידות מידה שונות ומבלבלות (אחוזים, מכפילים, סכומי עתק וכו') להצגת נתונים. הקהילה קוראת לסטנדרטיזציה כדי שניתן יהיה להשוות בין ביצועים בקלות רבה יותר.\n*   **ביקורת על מורכבות יתר:** נשמעת טענה צינית כי הוספת עוד ועוד מדדים וצורות חישוב רק הופכת את המידע לבלתי קריא וקשה להבנה, במקום להנגיש אותו.\n*   **ספקנות כלפי המומחה:** חלק מהגולשים הביעו זלזול ישיר במקצועיות של הדמות המדוברת, עד כדי קביעה נחרצת כי נראה שהוא \"לא יודע מה הוא עושה\".\n*   **התפתחות עולם ההשקעות:** קיימת הכרה בכך שכיום קיימות אינספור דרכים ואפיקי השקעה מגוונים שלא היו זמינים בעבר, מה שמשנה את כללי המשחק עבור המשקיע המודרני.\n*   **קצב צמיחה חסר תקדים:** עולה התחושה שמהירות הצמיחה בשווקים כיום היא חריגה וגבוהה בהרבה מכל מה שהיה נהוג בעבר בהיסטוריה הכלכלית.\n*   **יתרון טכנולוגי והזדמנותי על פני העבר:** הועלתה הטענה כי לסוחרים כיום ישנם כלים ואפשרויות לאיתור תשואות שעולים על אלו שעמדו לרשותם של ענקי השקעות כמו וורן באפט בתחילת דרכם, בשל הנגישות למידע והטכנולוגיה המודרנית."
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג 6 נקודות מבט ותובנות מרכזיות שעלו מהתגובות:\n\n*   **חשיבותו של אופק השקעה ארוך טווח:** קיימת תובנה כי החזקה של נכסים (כמו מניות טכנולוגיה או סחורות) למשך 3-5 שנים היא קריטית למימוש רווחים, בעוד שפרק זמן קצר יותר עשוי להוביל להפסדים או להחמצת הזדמנויות.\n*   **החרטה על מכירה מוקדמת מדי:** משקיעים משתפים כי מכירת מניות בטווח של חצי שנה עד שנתיים מרגע הקנייה התבררה כטעות אסטרטגית שמנעה מהם להרוויח מעליות משמעותיות שהגיעו מאוחר יותר.\n*   **מרכזיותו של ה\"שכנוע הפנימי\" (Conviction):** כדי להצליח בהשקעה, על המשקיע לגבש אמונה חזקה בנכס. ללא שכנוע עמוק, קשה לעמוד בלחצי השוק ולא למכור בטרם עת.\n*   **דבקות בהנחות היסוד:** הדיון מדגיש כי אם הסיבות והנחות היסוד שהובילו לקניית המניה עדיין תקפות, על המשקיע להישאר בפוזיציה (\"Stay put\") ולא להיכנע לתנודות זמניות במחיר.\n*   **השוק כמשחק של \"תורת המשחקים\":** ישנה גישה הגורסת כי הבנת השוק כזירה אסטרטגית (\"Game theory\") חשובה יותר מניתוח נתונים גרידא, שכן היא לוקחת בחשבון את המניעים והפעולות של שחקנים אחרים.\n*   **מוגבלות הניתוח הטכני והפונדמנטלי:** עולה הטענה כי ניתוח טכני של נתונים יבשים עשוי להיכשל במקום שבו הבנה מעמיקה של הדינמיקה והאסטרטגיה בשוק תנצח."
   },
   {
-    "id": "1sfnklg",
-    "title": "How do you actually read market context before taking options trades?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1sfnklg/how_do_you_actually_read_market_context_before/",
-    "author": "thippesh7",
-    "score": 7,
-    "selftext": "How do you actually read market context before taking options trades?\n\nTrying to understand how people here actually approach the market before entering trades.\n\nThere’s so much data around:\n\n\\- Option chain (OI, PCR, strikes)\n\n \\-FII/DII activity\n\n,-Volatility / VIX\n\n\\- Price action\n\nBut in real-time, it still feels messy to interpret.\n\nCurious how you guys do it:\n\n Do you rely mostly on price action?\n\n Do you actually use OI / PCR meaningfully?\n\n Does tracking institutional activity help in decisions?\n\nFor me, sometimes everything gives mixed signals and it's hard to get a clear bias.\n\nWhat’s your actual workflow before taking a trade?",
+    "id": "1shkq94",
+    "title": "April 10: $ES & Indices",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1shkq94/april_10_es_indices/",
+    "author": "Honest-Capital-4472",
+    "score": 1,
+    "selftext": "Holding above and staying above 6800 to 6850 suggests retesting 6900+ as a function of blending the medium and short term trend\n\nBuyers now likely want to hold 6800 to 6830 if it starts printing back below 6850 at the opening hour\n\nSellers are still fairly active but seeing suboptimal conditions to press for lower prices. This can be further ensured by holding above 6825/6830 which further discounts measured moves and inch towards a slow grind higher if not outright momentum\n\nVIX continuing its hold at the very early 20’s suggests hedging is softer heading into the weekend. So, it’s not exercising too much reflexivity for risk management and keeping it relatively straight-forward\n\nAdditional reference points with same thesis: $QQQ 610+, $YM 48000+, $RTY 2600-2630+",
     "subreddit": "StockMarket",
-    "created_utc": 1775639168,
+    "created_utc": 1775823078,
     "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "With options you need a big move. What is the catalyst that is going to make the stock move, would be my first question. Usually there is some type of news or hype coming up. ",
-        "score": 6,
-        "author": "im-buster"
-      },
-      {
-        "body": "I used to overthink all the data too, and it just made things worse, and Now I keep it simple with the price action first, because I mark key levels, figure out the trend, and build my bias from that, Stuff like OI, PCR, or even Volatility Index is just extra context for me, not a signal.  \n",
-        "score": 3,
-        "author": "Pitiful_Bumblebee_82"
-      },
-      {
-        "body": "Almost same here, this is exactly what I’ve been noticing too\n\nUsing data as context makes more sense than treating it as a signal\n\nOtherwise it just creates confusion",
-        "score": 1,
-        "author": "thippesh7"
-      }
-    ],
-    "summary_he": "הכותב מבקש ללמוד כיצד סוחרים מנתחים את \"הקשר השוק\" (Market Context) לפני פתיחת עסקאות באופציות, לנוכח ריבוי הנתונים והאותות הסותרים בזמן אמת. הוא תוהה באילו כלים אחרים מתמקדים — כגון תנועת מחיר, נתוני פקיעה (OI) או מדד התנודתיות (VIX) — כדי לגבש החלטה ברורה ולייצר תהליך עבודה מסודר לפני ביצוע עסקה.",
+    "top_comments": [],
+    "summary_he": "הניתוח מצביע על מגמה חיובית במדדים, כאשר שמירה על רמות התמיכה שבין 6800 ל-6850 ב-$ES עשויה להוביל לבחינה מחודשת של רמת ה-6900 ומעלה. המוכרים מתקשים כרגע לדחוף למחירים נמוכים יותר, ומדד ה-VIX היציב מעיד על ירידה בגידור ועל סביבת שוק רגועה יחסית לקראת סוף השבוע.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מבט ותובנות מרכזיות מהקהילה:\n\n*   **הצורך בתנודה משמעותית באופציות:** במסחר באופציות, בשונה ממסחר רגיל במניות, נדרשת תנועת מחיר חזקה וחדה (\"Big Move\") כדי שהעסקה תהיה רווחית.\n*   **זיהוי קטליזטור כתנאי מקדים:** לפני פתיחת פוזיציה, חשוב לזהות מהו ה\"זרז\" (חדשות, הייפ או אירוע מתקרב) שיגרום למחיר המניה לזוז בצורה משמעותית.\n*   **הימנעות מניתוח יתר (Overthinking):** סוחרים מעידים כי התעמקות יתרה בנתונים מורכבים עלולה להזיק לביצועים ולייצר בלבול מיותר בתהליך קבלת ההחלטות.\n*   **תעדוף פעולת המחיר (Price Action):** קיימת העדפה לגישה פשוטה המתמקדת קודם כל במחיר עצמו – סימון רמות מפתח, זיהוי מגמות ובניית הטיה (Bias) על בסיס הגרף בלבד.\n*   **נתונים כהקשר ולא כאיתות:** אינדיקטורים כמו עניין פתוח (OI), יחס פוט-קול (PCR) או מדד התנודתיות (VIX) צריכים לשמש כ\"רקע\" או הקשר נוסף לעסקה, ולא להוות את האיתות המרכזי לכניסה או יציאה.\n*   **קונצנזוס קהילתי על פשטות:** הדיון משקף הסכמה רחבה בין המשתתפים ששימוש בנתונים יבשים כאיתותים ישירים מוביל לבלבול, וכי הדרך היעילה ביותר היא להשתמש בהם רק כדי לתקף את מה שפעולת המחיר כבר מראה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1shezvq",
-    "title": "Oil is up ~4% right after dropping nearly 20%… and people are already calling this a “reversal”",
-    "url": "https://www.reddit.com/r/investing/comments/1shezvq/oil_is_up_4_right_after_dropping_nearly_20_and/",
-    "author": "ChartNavigator",
+    "id": "1shcilj",
+    "title": "The Iran Conflict Market Cycle",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1shcilj/the_iran_conflict_market_cycle/",
+    "author": "TorukMaktoM",
     "score": 1,
-    "selftext": "Honestly, this looks more like panic pricing than anything structural.\n\nNothing materially changed. We had ceasefire optimism → price drops. Then headlines get messy again → price spikes. Same asset, same situation, completely different pricing.\n\nYes, the Strait of Hormuz is constrained and traffic is low, but that didn’t suddenly happen overnight. The only thing that changed is sentiment.\n\nTo me, this feels like a market reacting to headlines faster than actual supply/demand.\n\nIf anything, this kind of volatility usually traps both sides.\n\nCurious if people actually see a real trend forming here, or if this is just another geopolitical fake move.",
-    "subreddit": "investing",
-    "created_utc": 1775803928,
-    "thumbnail": "self",
+    "selftext": "**Phase 0 - Pre-ceasefire escalation** Conflict intensifies, uncertainty peaks. Market sells off or becomes highly volatile. Short interest builds as traders expect more downside.\n\n**Phase 1 - Rumors / anticipation of ceasefire** Leaks or diplomatic signals emerge. Smart money begins covering shorts quietly. Early buyers position for a potential relief rally.\n\n**Phase 2 - Ceasefire announced** Headline hits. Optimistic buying spikes, but larger players may short into the strength, knowing the deal is fragile.\n\n**Phase 3 - Ceasefire breaks / violence resumes** News confirms breakdown. Market drops sharply. Shorts from Phase 2 profit. Late longs get trapped.\n\n**Phase 4 - Short covering begins** Profit-taking on shorts + bargain hunting. Price stabilizes, then starts to rise. Volume may increase.\n\n**Phase 5 - Ignore bad news** Despite ongoing violence or truce confusion, market trends upward. New investors chase momentum, believing the worst is over.\n\n**Phase 6 - Overextended / complacent** Price reaches resistance, sentiment too bullish. Shorts begin to rebuild positions quietly.\n\n**Phase 7 - Repeat** Next catalyst (or lack of one) triggers the next leg down. Cycle resets.",
+    "subreddit": "StockMarket",
+    "created_utc": 1775795612,
+    "thumbnail": "https://preview.redd.it/ng0uszu0kaug1.png?width=140&height=87&auto=webp&s=b8d672eab30c634c0e72b800c66da50fa5dac0de",
     "top_comments": [
       {
-        "body": "I know future contracts are prospective but is it normal for there to be a huge gap between current settlement price and the nearest futures contract ",
+        "body": "When I made it, I wasn't thinking in matter of days but rather the different stages of the cycle. A phase could be couple of days or weeks. It depends on the news coming out. ",
         "score": 1,
-        "author": "montecarlo1"
+        "author": "TorukMaktoM"
       },
       {
-        "body": "Nothing structural? Like no takers passing is nothing structural?",
+        "body": "Don't do it. You have to be bank insider to get the loan. Insiders come in different shapes and forms you see... ",
         "score": 1,
-        "author": "QFGTrialByFire"
+        "author": "TorukMaktoM"
       },
       {
-        "body": "I don’t even get it, do you think oil should be lower or higher? ",
+        "body": "I forgot to mention that. Ill try again tomorrow. ",
         "score": 1,
-        "author": "rhdkcnrj"
+        "author": "Tacocats_wrath"
       }
     ],
-    "summary_he": "הכותב טוען כי העלייה האחרונה במחירי הנפט אינה \"היפוך מגמה\" אמיתי, אלא תנודתיות המונעת מסנטימנט ומכותרות גיאופוליטיות משתנות ולא משינוי מבני בהיצע וביקוש. לדעתו, השוק מגיב בקיצוניות לכותרות על הפסקת אש או מתיחות ביטחונית, מה שעלול להוות מלכודת לסוחרים במקום להצביע על מגמה חדשה ויציבה.",
+    "summary_he": "הפוסט מנתח את המחזוריות של שוק ההון בתגובה לשלבי הסכסוך עם איראן, החל משלבי ההסלמה והירידות ועד להתאוששות המלווה בשמועות על הפסקת אש. המחבר מתאר דפוס חוזר שבו השוק מגיב בחדות לאירועים ביטחוניים, אך נוטה בסופו של דבר להפגין שאננות ולהתעלם מהחדשות הרעות עד שהסבב מתחיל מחדש.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח של חילופי הדברים מהשרשור, המסוכם ל-6 נקודות המציגות דעות, שאלות ותחושות בקהילה:\n\n*   **תהייה לגבי פערי מחירים חריגים:** קיים בלבול בקרב המשתמשים בנוגע לפער הגדול שנוצר בין מחיר הסגירה הנוכחי (Spot) לבין המחיר של החוזים העתידיים הקרובים ביותר, תוך שאלה האם מדובר במצב נורמלי בשוק.\n*   **הבנה מוגבלת של מכניקת השוק:** ניכרת הכרה בכך שחוזים עתידיים הם \"צופי פני עתיד\" מטבעם, אך עדיין קיימת תחושת אי-נוחות מהפער המשמעותי בין ההווה לעתיד הקרוב.\n*   **חשש מכשלים מבניים:** עולה טענה כי המצב בשוק אינו רק תנודתיות רגילה, אלא מעיד על בעיות מבניות עמוקות, במיוחד כאשר אין \"קופצים\" (Takers) על עסקאות או סחורה.\n*   **ספקנות לגבי יציבות השוק:** קיימת נימה של ביקורת כלפי הגישה ש\"הכל תקין\", תוך הדגשה שהיעדר קונים הוא אירוע משמעותי שמעיד על חוסר איזון במערכת.\n*   **בלבול לגבי כיוון המחירים:** חלק מהגולשים מביעים תסכול מכך שלא ברור מהן הציפיות של משתתפי הדיון האחרים – האם לדעתם מחיר הנפט אמור לעלות או לרדת לאור הנתונים.\n*   **חוסר בהירות בניתוח המגמות:** קיימת תחושה של חוסר הבנה בסיסי בדיון לגבי המשמעות של האירועים – האם המצב הנוכחי נתפס כסימן \"דובי\" (שלילי) או \"שורי\" (חיובי) עבור שוק הנפט."
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט ודעות שונות שעלו בו:\n\n*   **התמקדות בשלבי מחזור ולא בלוח זמנים קשיח:** אחד המשתתפים מדגיש כי בתכנון או בניתוח שלו, המחשבה אינה מוגדרת לפי מספר ימים ספציפי, אלא לפי המעבר בין שלבים שונים של \"מחזור\" (cycle).\n*   **גמישות בזמנים כתלות בנסיבות:** קיימת הבנה שכל שלב בתהליך יכול להימשך זמן משתנה – החל מימים בודדים ועד לשבועות – ואין ודאות לגבי משך הזמן מראש.\n*   **השפעת גורמים חיצוניים (חדשות):** נקבע כי קצב ההתקדמות והמעבר בין השלבים תלוי באופן ישיר במידע ובחדשות המתפרסמים בזמן אמת.\n*   **אזהרה והרתעה מביצוע פעולה:** מושמעת קריאה נחרצת (\"אל תעשה זאת\") נגד צעד מסוים, ככל הנראה בנוגע לנטילת הלוואה או התנהלות מול בנקים בתנאים מסוימים.\n*   **תחושת חוסר נגישות ו\"מקורבות\":** עולה טענה כי כדי להצליח לקבל תנאים מסוימים (כמו הלוואה), יש צורך להיות \"מקורב\" (insider) למערכת הבנקאית, כאשר אותם מקורבים מופיעים בדרכים ובצורות שונות ולא תמיד צפויות.\n*   **הכרה בטעות ונחישות להמשיך:** משתתף אחר מודה ששכח לציין פרט כלשהו, אך מביע מחויבות להמשיך לנסות ולפעול שוב ביום למחרת."
   },
   {
-    "id": "1she3e5",
-    "title": "MSFT Mixed feedback / feelings",
-    "url": "https://www.reddit.com/r/investing/comments/1she3e5/msft_mixed_feedback_feelings/",
-    "author": "Green-Instruction957",
+    "id": "1sh1gew",
+    "title": "Stock Market Recap for Thursday, April 9, 2026",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1sh1gew/stock_market_recap_for_thursday_april_9_2026/",
+    "author": "TorukMaktoM",
     "score": 1,
-    "selftext": "I see a lot of mixed opinions on Microsoft, I had been purchasing and am now wondering if I messed up, I know it’s down, and to me it doesn’t seem that big of a deal on the Capex side, I see the AI benefits daily and am confident the spending will pay off, my concern with the stock is, was it really just down from the Capex? Is there something else I am missing?\n\nYes, I know copilot is shit. This is not financial advice, I am simply looking for peoples thoughts, long term is there still value in the company?",
-    "subreddit": "investing",
-    "created_utc": 1775800827,
-    "thumbnail": "self",
+    "selftext": "The major U.S. stock indexes continued to climb today, **April 9, 2026**, as the U.S.-Iran ceasefire agreement held and both sides signaled commitment to the two-week truce and working on the reopening of the Strait of Hormuz. The **S&P 500** rose **0.62%** (+41.85 points) to close at **6,824.66**, the **Dow Jones Industrial Average** gained **0.58%** (+275.88 points) to close at **48,185.80**, and the **Nasdaq Composite** advanced **0.83%** (+187.42 points) to close at **22,822.42**. The **VIX** fell another **6.98%** to **19.57**. Despite the positive market tone, oil prices rebounded sharply, with **WTI crude** rising **4.80%** to **$98.94** per barrel. In dollar terms, the broader market (approximated by the S&P 500's roughly $58–60 trillion cap) added an estimated **$360–390 billion** in value.",
+    "subreddit": "StockMarket",
+    "created_utc": 1775766781,
+    "thumbnail": "https://preview.redd.it/hfcnueii58ug1.png?width=140&height=78&auto=webp&s=3dcd65627cfc7f88b2f667646a7fd20f4edc5b47",
     "top_comments": [
       {
-        "body": "you didnt mess up. its more about timing huge spending now, unclear short term payoff. long term still looks solid if ai actually deliver.",
+        "body": "Im not sure we are out of the woods as digest impact. Generally tend to see retests at a minimum.",
         "score": 1,
-        "author": "Humor-Hippo"
+        "author": "reddbooks"
       },
       {
-        "body": "I might buy a few shares so expect this shit to fall off a cliff ",
+        "body": "Serious question: \n\nHow do you feel knowing all the market's liquidity providers are beholden to blowing smoke up Trump's ass with this kind of price action?",
         "score": 1,
-        "author": "Virtual_Rest6107"
+        "author": "optimaleverage"
       },
       {
-        "body": "Long term value?  Very likely, yes. \n\nEnough to beat the market average?  Who knows?",
+        "body": "ATH for me today as well.  Grats.",
         "score": 1,
-        "author": "Brettanomyces78"
+        "author": "Wide_Air_4702"
       }
     ],
-    "summary_he": "הכותב מביע התלבטות לגבי השקעתו במניית מיקרוסופט ותוהה האם הירידות האחרונות נובעות רק מהוצאות ההון הגבוהות (Capex) או מסיבות נוספות שנסתרות מעיניו. למרות ביקורת על איכות ה-Copilot כיום, הוא עדיין מאמין בפוטנציאל של תחום הבינה המלאכותית ומחפש חוות דעת על ערך החברה לטווח הארוך.",
+    "summary_he": "ב-9 באפריל 2026, המדדים המרכזיים בוול סטריט רשמו עליות של עד 0.83% על רקע התקדמות בהפסקת האש בין ארה\"ב לאיראן והתחייבות לפתיחה מחודשת של מצר הורמוז. למרות האופטימיות בשווקים והירידה במדד התנודתיות (VIX), מחירי הנפט זינקו בחדות בכ-4.8% לרמה של כ-99 דולר לחבית.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **אישור והרגעה למשקיע:** אחד הסנטימנטים המרכזיים הוא שמשקיע שנכנס לפוזיציה לא בהכרח \"פישל\". התנודתיות נתפסת כחלק מדינמיקה של שוק ולאו דווקא כטעות בשיקול הדעת.\n*   **אי-ודאות לגבי השקעות העתק:** קיים חשש מהוצאות הענק של החברה כרגע. בעוד שההשקעה בתשתית מסיבית, התשואה (payoff) בטווח הקצר נותרת לא ברורה, מה שיוצר לחץ על המניה.\n*   **תלות בהוכחת יכולות ה-AI:** הסנטימנט הקהילתי הוא שהעתיד לטווח ארוך נראה מבטיח, אך הוא מותנה באופן מוחלט בשאלה האם טכנולוגיית הבינה המלאכותית אכן \"תספק את הסחורה\" ותצדיק את הציפיות.\n*   **הומור עצמי ופסימיות של סוחרים:** מובע סנטימנט המוכר בקהילות מסחר (\"חוק מרפי\"), לפיו ברגע שמשקיע קטן מחליט לרכוש מניות, ערך הנכס צפוי \"ליפול מצוק\". זוהי דרך הומוריסטית לבטא את התנודתיות הגבוהה ואת חוסר המזל הנתפס של האינדיבידואל.\n*   **הסכמה על ערך לטווח ארוך:** קיימת תמימות דעים יחסית בין המגיבים שהערך של החברה לטווח הארוך הוא \"סולידי\" וסביר מאוד שיתממש, גם אם המצב הנוכחי נראה תנודתי.\n*   **הספק לגבי \"הכאת השוק\":** גם אם המניה תעלה בטווח הארוך, עולה השאלה האם היא תצליח להניב תשואה גבוהה יותר מממוצע השוק (כמו מדד ה-S&P 500). הנקודה הזו מדגישה שעלייה בערך המניה כשלעצמה אינה מספיקה אם היא לא מנצחת את המדדים המובילים."
+    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות, המחולק ל-6 נקודות מבט וסנטימנטים שונים:\n\n*   **זהירות וחשש מ\"מלכודת\":** ישנו סנטימנט של חוסר ודאות לגבי המשך העליות. אחד המגיבים סבור שהשוק עדיין לא \"יצא מהבוץ\" ושמוקדם מדי לחגוג סיום של מגמה שלילית.\n*   **ציפייה ל\"בדיקה מחדש\" (Retest) של רמות מחיר:** מבחינה טכנית, עולה הדעה שהשוק נוטה לחזור ולבחון רמות מחיר נמוכות יותר לפני פריצה אמיתית, ולכן אין להסתמך על הקפיצה הנוכחית כסימן מוחלט לעלייה רציפה.\n*   **ביקורת על הקשר בין הון לשלטון:** עולה טענה צינית כלפי \"ספקי הנזילות\" בשוק (Liquidity Providers), לפיה הם פועלים באופן שנועד \"להחניף\" או לשרת את האינטרסים של דונלד טראמפ, מה שמעלה שאלות לגבי האמינות של תנועת המחירים.\n*   **סלידה מהשפעות פוליטיות על המסחר:** קיים סנטימנט של תסכול מכך שהשוק נראה כפוף למניפולציות פוליטיות או לנרטיבים שקשורים לדמויות פוליטיות ספציפיות, במקום להתבסס על נתונים כלכליים טהורים.\n*   **חגיגת שיאים אישיים (ATH):** לצד הספקנות, ישנם משקיעים שחווים הצלחה משמעותית ומדווחים על הגעה לשיא כל הזמנים (All-Time High) בתיק ההשקעות האישי שלהם ביום המסחר הנוכחי.\n*   **פרגון ואופטימיות בקהילה:** למרות חילוקי הדעות על המקרו-כלכלה, קיימת אווירה של אחווה בין הסוחרים, שבאה לידי ביטוי בברכות הדדיות על רווחים והצלחות בתוך הקהילה."
   },
   {
-    "id": "1shcpud",
-    "title": "Rolling over previous employer Roth 401k rollover to Roth IRA",
-    "url": "https://www.reddit.com/r/investing/comments/1shcpud/rolling_over_previous_employer_roth_401k_rollover/",
-    "author": "EvinKay7",
+    "id": "1shzb3e",
+    "title": "Who Said Resident physicians Can’t Build Businesses? Think Again.",
+    "url": "https://www.reddit.com/r/business/comments/1shzb3e/who_said_resident_physicians_cant_build/",
+    "author": "OkHotel9937",
     "score": 1,
-    "selftext": "I changed jobs 6 years ago and rolled over my old Roth 401k to my new Roth 401k at my new employer. I was speaking to a representative at Fidelity today and they said that I could rollover that previous rollover into my current Roth IRA. \n\nI'm 53, I won't need to withdraw this money before 59 1/2, and future backdoor Roth contributions are not a consideration. My current 401k investment options are okay but I would have much more flexibility if these funds were in my Roth IRA.",
-    "subreddit": "investing",
-    "created_utc": 1775796256,
+    "selftext": "As a resident physician, I understand the demands of a traditional career path. Alongside that, I’ve built a side income stream that creates flexibility and additional income opportunities.\n\nI now serve as a business mentor and coach, guiding individuals who are ready to think beyond a single source of income.\n\nMedicine is my profession\n\nbusiness is my passion.",
+    "subreddit": "business",
+    "created_utc": 1775855345,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "פוסט זה נכתב על ידי רופא מתמחה שבנה עסק צדדי מצליח במקביל לקריירה הרפואית התובענית שלו כדי לייצר גמישות כלכלית. כיום הוא משמש כמאמן עסקי המנחה אחרים כיצד לפתח מקורות הכנסה נוספים, מתוך תפיסה שהרפואה היא המקצוע שלו אך עולם העסקים הוא התשוקה האמיתית שלו.",
+    "category_he": "עסקים",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1shz49f",
+    "title": "got an LLC?",
+    "url": "https://www.reddit.com/r/business/comments/1shz49f/got_an_llc/",
+    "author": "laksh009",
+    "score": 1,
+    "selftext": "If you own an LLC, I want to partner with you.",
+    "subreddit": "business",
+    "created_utc": 1775854914,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "No brainer, do it, take control, avoid fees in employer sponsored plans.",
+        "body": "I will take that as a compliment✊🏻",
         "score": 1,
-        "author": "D_Pablo67"
+        "author": "laksh009"
       },
       {
-        "body": "So... One thing that might be worth considering\n\n401ks (Traditional and Roth) are protected from creditors under the BAPCPA Consumer Protection Act of 2025\n\nIRAs up to $1.5million are federally protected from bankruptcy\n\nMoney rolled over into an IRA from an employer sponsored retirement plan are protected from bankruptcy with no limit..\n\nOutside of bankruptcy, there is no other protection from other creditors (for example, if you get sued).  \n  \nSome state laws offer full protection  \n  \nSome states offer very little protection, where the worst are (Georgia, Nebraska, Mississippi, Maine, and California, in no particular order)  \n  \n \n\n",
+        "body": "Your snoo avatar literally looks like the hacker character in my annual mandatory online corporate security courses",
         "score": 1,
-        "author": "mx5plus2cones"
+        "author": "Leviathant"
       },
       {
-        "body": "Funds that were rolled over are usually allowed",
+        "body": "Great pitch\n\n\nI'm in\n\n\nLet's go",
         "score": 1,
-        "author": "DueLeague4668"
+        "author": "Leviathant"
       }
     ],
-    "summary_he": "הכותב שוקל להעביר כספי Roth 401k ממעסיק קודם, המוחזקים כיום בתוכנית של מעסיקו הנוכחי, לחשבון Roth IRA אישי. המטרה היא להשיג גמישות רבה יותר באפשרויות ההשקעה, תוך ניצול העובדה שהוא אינו זקוק למשיכת הכספים לפני גיל 59.5.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון המנתח את דעות הקהילה והנקודות המרכזיות שעלו בנוגע להעברת כספי פנסיה (401k) לחשבון IRA אישי:\n\n**סיכום הדיון והדעות בקהילה:**\n\n*   **שליטה וחיסכון בעלויות:** קיימת דעה נחרצת כי המהלך הוא \"מובן מאליו\" (No brainer). המשתמשים מדגישים כי העברת הכספים מאפשרת למחזיק החשבון לקחת שליטה מלאה על ניהול הכסף ולהימנע מהעמלות הגבוהות המאפיינות לעיתים קרובות תוכניות פנסיה בחסות המעסיק.\n*   **הבדלים בהגנה פדרלית מפני נושים:** אחת הנקודות המרכזיות שעלו היא נושא ההגנה המשפטית. בעוד שתוכניות 401k (מסורתי ורוט) מוגנות באופן מלא מפני נושים תחת חוק הגנת הצרכן (BAPCPA), לחשבונות IRA רגילים ישנה תקרה של הגנה פדרלית עד לסכום של 1.5 מיליון דולר בלבד במקרה של פשיטת רגל.\n*   **היתרון הייחודי של כספי \"Rollover\":** הדיון מבהיר כי כספים שהועברו מתוכנית מעסיק ל-IRA (בניגוד להפקדות ישירות ל-IRA) זוכים למעמד מיוחד – הם מוגנים מפני פשיטת רגל ללא הגבלת סכום, מה שמסיר את החשש מהמגבלה של 1.5 מיליון דולר.\n*   **חשיפה לתביעות משפטיות:** הודגש כי מחוץ למקרי פשיטת רגל (למשל, במקרה של תביעה אזרחית), הכספים ב-IRA אינם מוגנים ברמה הפדרלית, וההגנה עליהם תלויה אך ורק בחוקי המדינה שבה מתגורר החוסך.\n*   **שונות גאוגרפית ברמת הסיכון:** חברי הקהילה מציינים כי קיימת שונות משמעותית בין מדינות בארה\"ב; ישנן מדינות המעניקות הגנה מלאה, לעומת מדינות כמו קליפורניה, ג'ורג'יה, נברסקה, מיסיסיפי ומיין, שנחשבות למדינות שבהן ההגנה על כספי IRA היא חלשה יחסית.\n*   **זמינות וישימות המהלך:** הדיון מסכם כי מבחינה טכנית ופרוצדורלית, העברת כספים שבוצעה כהלכה (Rollover) היא מהלך מקובל וזמין ברוב התוכניות, והוא מאפשר מעבר חלק של הנכסים תוך שמירה על זכויות מסוימות."
+    "summary_he": "הכותב פונה לבעלי חברות מסוג LLC ומציע להם הזדמנות לשיתוף פעולה עסקי. מטרת הפוסט היא למצוא שותפים פוטנציאליים המחזיקים בישות עסקית כזו לצורך מיזם משותף.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן ניתוח של התגובות המובילות מהשרשור, המסוכם ל-6 נקודות המציגות דעות, תחושות ודינמיקות בקהילה:\n\n*   **אימוץ ביקורת כמחמאה:** אחד המשתמשים מדגים גישה חיובית ובטוחה בעצמו בכך שהוא בוחר לפרש הערה (שייתכן שהייתה עוקצנית במקור) כמחמאה, תוך שימוש באימוג'י של אגרוף מורם לאות סולידריות או נחישות.\n*   **זיהוי סטריאוטיפים ויזואליים:** קיימת התייחסות הומוריסטית למראה הדיגיטלי של המשתמשים (האווטאר של Reddit). המשתמשים מוצאים דמיון בין דמויות האווטאר לבין ייצוגים קלישאתיים של \"האקרים\" בתרבות הפופולרית.\n*   **הזדהות עם חוויות תאגידיות משותפות:** התגובה לגבי \"קורסי אבטחת מידע שנתיים בארגונים\" מעידה על הווי משותף של עובדים בעולם התאגידי, המזהים מיד את הדמויות הגנריות והמשעממות המופיעות בלומדות החובה המשרדיות.\n*   **הערכה לכושר שכנוע (Pitch):** הקהילה מגיבה בחיוב לאופן שבו רעיון או הצעה הוצגו. הביטוי \"Great pitch\" מעיד על כך שהתוכן המקורי היה ממוקד, משכנע ומקצועי מספיק כדי לעורר עניין.\n*   **נכונות מיידית למעורבות:** קיימת אווירה של רצון לפעולה (\"I'm in\"). המשתמשים מביעים נכונות לקחת חלק ביוזמה שהוצעה מבלי להסס, מה שמעיד על אמון בכותב הפוסט או ברעיון עצמו.\n*   **דחיפה קדימה ומומנטום קבוצתי:** השימוש בביטוי \"Let's go\" משקף התלהבות ורצון לראות את הדברים יוצאים לפועל באופן מיידי. זהו ביטוי של אנרגיה חיובית ותמיכה קהילתית אקטיבית."
   },
   {
-    "id": "1shbqhl",
-    "title": "Why I’ve been increasing my international allocation in 2026",
-    "url": "https://www.reddit.com/r/investing/comments/1shbqhl/why_ive_been_increasing_my_international/",
-    "author": "VelixaNtra",
+    "id": "1shlrhp",
+    "title": "How have some of you gotten your first few clients?",
+    "url": "https://www.reddit.com/r/business/comments/1shlrhp/how_have_some_of_you_gotten_your_first_few_clients/",
+    "author": "JS_157",
     "score": 1,
-    "selftext": "Hey, for a long time I was heavily overweight US stocks (**mostly S&P 500 and Nasdaq**) However, over the past year I’ve been gradually increasing my international exposure, bringing it up to around **25-30%** of my equity portfolio. Reasons are pretty straightforward:\n\n* US valuations remain significantly higher than most developed and emerging markets\n* Dollar strength appears to be peaking\n* Better growth outlook in certain international sectors (especially Europe and parts of Asia)\n\nIt’s not about abandoning the US market, but about rebalancing risk when one region becomes too dominant and expensive.  \nCurious if any experienced investors here have been doing the same or if you’re still keeping heavy US bias",
-    "subreddit": "investing",
-    "created_utc": 1775793207,
+    "selftext": "I’ve often been referred to as the “budget guy” or “spreadsheet guy” but it’s a bit tongue-in-cheek because they’ll tell you it’s not a bad characteristic.\n\nThat being said they say that you should start a business in something people ask you about often. That’d be this.\n\nMy idea is to just do a side thing where I get on a call and help people set up a budget that works for them. I’m not giving financial advice, I’m simply showing them how they can use a Google sheet to meet goals and see how they spend/save. Then I’d do a follow-up 2-3 months later.\n\n**Problem:** I don’t know how I’d get my first client. I can try friends but they probably won’t be comfortable sharing info with me (always easier with strangers IMO). If anyone can advise on initial clients please do. After that I can run ads, I’ve done that before.",
+    "subreddit": "business",
+    "created_utc": 1775825754,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "S&P500 is mostly multinationals but it's relatively overpriced. It's not about diversification as much as it is about value.",
+        "body": "Ngl, tbh, easiest first clients come from people who already trust you—even if it’s just a “lite” version so they’re not sharing everything.\n\nAlso try posting one simple budget template or breakdown somewhere and offer a free setup call. That usually pulls in a few real people pretty fast.",
         "score": 1,
-        "author": "kers2000"
+        "author": "Few_Firefighter_5530"
       },
       {
-        "body": "Also went 50/50 however have been 65/35 already for yrs",
+        "body": "Ngl, tbh, this is actually a great starting point 👀. People already associate you with this, which is half the battle.\n\nFor first clients, don’t overthink it—friends or mutual connections are still the easiest entry. Even if they don’t want to share full details, you can do a “light” version just to get testimonials.\n\nAlso ngl, posting simple budget tips or before/after examples on Reddit or TikTok can pull in strangers pretty fast. People love practical money advice.\n\nCurious though, have you thought about offering the first few sessions free or super cheap just to get case studies and referrals?",
         "score": 1,
-        "author": "blinkOneEightyBewb"
+        "author": "Few_Firefighter_5530"
       },
       {
-        "body": "Been doing the same since late 2024. The US has been such a dominant performer that it's easy to forget mean reversion is a thing. European equities are trading at roughly half the P/E of the S&P right now, and currency diversification matters more than people realize when you zoom out to 10-20 year windows. I went from 15% to about 30% ex-US - mostly through VXUS and some targeted EM exposure.",
+        "body": "honestly first few clients usualy come from people allready around you even if it feels awkward\n\nwhat worked for me was framing it super low pressure like just helping someone set things up once instead of pitching it like a full service.\n\nyou can also hang around places where people already talk about money struggles and just be helpfull without tryin to sell anything people notice that.\n\nanother thing is offering it free or cheap for the first couple people just to get feedback and something you can point to later.\n\nit feels slow at the start but once one person trusts you it kind of snowballs from there.",
         "score": 1,
-        "author": "laurenthu"
+        "author": "Adorable-Hat-3559"
       }
     ],
-    "summary_he": "כותב הפוסט משתף כי הוא מגדיל את החשיפה למניות בינלאומיות (מחוץ לארה\"ב) לכ-25-30% מתיק ההשקעות שלו, לאחר תקופה ארוכה של התמקדות בשוק האמריקאי. המעבר נובע מהערכות שווי גבוהות בארה\"ב, היחלשות צפויה של הדולר וחיפוש אחר הזדמנויות צמיחה טובות יותר באירופה ובאסיה. מטרת המהלך היא ניהול סיכונים ואיזון התיק, ולא נטישה מוחלטת של השוק האמריקאי.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג שש נקודות מבט ותובנות מרכזיות שעלו מתוך התגובות:\n\n*   **תמחור יתר של השוק האמריקאי:** המגיבים מציינים כי מדד ה-S&P 500 נתפס כיום כמתומחר ביתר (overpriced). נטען כי ההחלטה לגוון את תיק ההשקעות מחוץ לארה\"ב אינה נובעת רק מרצון בפיזור גיאוגרפי, אלא בעיקר מחיפוש אחר \"ערך\" (Value) במקומות שבהם המחירים נוחים יותר.\n*   **הסתמכות מוגבלת על חברות רב-לאומיות:** על אף שמדד ה-S&P 500 מורכב מחברות רב-לאומיות הפועלות בכל העולם, ישנה דעה כי אין בכך די כדי להוות תחליף להשקעה ישירה בשווקים בינלאומיים, במיוחד כאשר המכפילים בשוק האמריקאי גבוהים כל כך.\n*   **חשש מ\"חזרה לממוצע\" (Mean Reversion):** קיימת תחושה שהדומיננטיות של השוק האמריקאי בשנים האחרונות הייתה חריגה. המגיבים מזכירים שביצועי יתר נוטים להסתיים בסופו של דבר בחזרה לממוצע ההיסטורי, מה שעלול להוביל לתקופה של ביצועי חסר בארה\"ב לעומת שאר העולם.\n*   **אטרקטיביות של מניות אירופאיות:** מצוין כי המניות באירופה נסחרות כיום במכפילי רווח (P/E) נמוכים משמעותית – כמחצית מהמכפיל של מדד ה-S&P 500 – מה שהופך אותן ליעד אטרקטיבי עבור משקיעים המחפשים אלטרנטיבות זולות.\n*   **חשיבות הפיזור המטבעי:** הדיון מדגיש כי פיזור מטבעי הוא גורם קריטי שמשקיעים נוטים להמעיט בערכו. בטווחי זמן ארוכים של 10–20 שנה, לתנודות בשערי החליפין יש השפעה מכרעת על התשואה הכוללת של התיק.\n*   **שינוי אסטרטגי בהקצאת נכסים:** ניכרת מגמה של משקיעים המגדילים באופן פעיל את החשיפה שלהם לשווקים מחוץ לארה\"ב (ex-US) ולשווקים מתעוררים (Emerging Markets). חלק מהמשקיעים דיווחו על הכפלת החשיפה הבינלאומית שלהם (מ-15% ל-30%) או על מעבר לחלוקה מאוזנת יותר בין ארה\"ב לשאר העולם."
+    "summary_he": "כותב הפוסט מעוניין להקים עסק צדדי המבוסס על מומחיותו בבניית גליונות אלקטרוניים לניהול תקציב ומעקב אחר הוצאות עבור אחרים. הוא מחפש עצות כיצד להשיג את לקוחותיו הראשונים, תוך העדפה לעבודה עם זרים על פני חברים שעשויים להרגיש אי-נוחות בחשיפת מידע פיננסי אישי בפניו.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות בשרשור, הכולל 6 נקודות מרכזיות ותובנות של הקהילה לגבי גיוס לקוחות ראשונים:\n\n*   **מינוף מעגלי אמון קיימים:** הדרך הקלה והמהירה ביותר להשיג לקוחות ראשונים היא לפנות לאנשים שכבר מכירים וסומכים עליך, כמו חברים או קשרים משותפים. האמון הקיים מקצר את תהליך המכירה באופן משמעותי, גם אם הפנייה הראשונית מרגישה מעט מביכה.\n*   **הצעת שירות בגרסת \"לייט\" (Lite):** כדי להתגבר על מחסום הפרטיות (במיוחד בתחום הפיננסי), מומלץ להציע גרסה מצומצמת של השירות. כך הלקוח לא נדרש לחשוף את כל המידע האישי שלו מיד על ההתחלה, מה שמקל עליו להסכים לניסיון ראשוני.\n*   **בניית סמכות באמצעות תוכן פרקטי:** פרסום של כלים פשוטים ושימושיים, כגון תבניות תקציב, דוגמאות של \"לפני ואחרי\" או טיפים מעשיים לניהול כסף ברשתות חברתיות (כמו טיקטוק או רדיט), מושך לקוחות פוטנציאליים שמחפשים פתרונות מיידיים.\n*   **אסטרטגיית \"חינם או בזול\" לצורך הוכחה חברתית:** כדאי להציע את השירותים הראשונים בחינם או במחיר סמלי מאוד. המטרה אינה רווח כספי מיידי, אלא צבירת חוות דעת (Testimonials), מקרי בוחן (Case Studies) והפניות שישמשו בסיס לשיווק העסק בהמשך.\n*   **גישת שיווק בלחץ נמוך:** מומלץ למסגר את ההצעה כעזרה נקודתית (למשל: \"שיחת הקמה בחינם\" או \"סיוע חד-פעמי בסידור התקציב\") ולא כהתחייבות לשירות מלא ומורכב. גישה זו מפחיתה את ההתנגדות של הלקוח ומקלה עליו לומר \"כן\".\n*   **נוכחות מסייעת בקהילות רלוונטיות:** אסטרטגיה יעילה היא לשהות במקומות שבהם אנשים מדברים על הקשיים הכלכליים שלהם ולהציע עזרה אמיתית ללא ניסיון מכירה אגרסיבי. עזרה ללא אינטרס גלוי גורמת לאנשים להבחין בך ולרצות לעבוד איתך בצורה אורגנית."
   },
   {
-    "id": "1sh4f6r",
-    "title": "Inflation adjusted Retirement contributions",
-    "url": "https://www.reddit.com/r/investing/comments/1sh4f6r/inflation_adjusted_retirement_contributions/",
-    "author": "4me-2no2",
+    "id": "1shllmk",
+    "title": "PeopleLinx CEO Patrick Baynes",
+    "url": "https://www.reddit.com/r/business/comments/1shllmk/peoplelinx_ceo_patrick_baynes/",
+    "author": "Krandall_Carrie",
     "score": 1,
-    "selftext": "I like to use real return rates (6%) for projecting potential retirement balances. Since I use real rate, I use a flat investment amount (20% of current pay) for projections. Based on these, I hit my retirement number at 55. \n\nNow I am looking to increase my lifestyle spending. My thought is to take my current investment amount and only increase it by the rate of inflation every year moving forward, increasing lifestyle spending as I receive pay increases. \n\nUsing this logic, will my projections still hold up? ",
-    "subreddit": "investing",
-    "created_utc": 1775773647,
+    "selftext": "Is he single? Anyone know??",
+    "subreddit": "business",
+    "created_utc": 1775825352,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "הפוסט עוסק בפטריק ביינס, מנכ\"ל חברת PeopleLinx. הכותב מבקש לברר פרטים על מצבו המשפחתי ושואל האם הוא רווק.",
+    "category_he": "עסקים",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1shiqs6",
+    "title": "How to measure audience interest?",
+    "url": "https://www.reddit.com/r/business/comments/1shiqs6/how_to_measure_audience_interest/",
+    "author": "Bulky_Wolf9866",
+    "score": 1,
+    "selftext": "Working on an online school project and I want to measure my target audience’s interest before spending a penny. \n\nI can reach them through Reddit communities but I wanted to hear from the experienced on what worked with them best.\n\nAll recommendations are appreciated ",
+    "subreddit": "business",
+    "created_utc": 1775817111,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "increasing your investment amount with inflation helps keep your lifestyle steady overtime",
+        "body": "Ngl, tbh, you’re already on the right track using Reddit 👀.\n\nEasiest way to measure real interest isn’t just asking, it’s seeing if people *take action*. Like posting about the problem and then linking to a simple waitlist or form—if people sign up, that’s real signal.\n\nYou can also test with a super basic landing page explaining the idea and track clicks/signups. Even better, ask people to commit something small (email, feedback call, early access).\n\nCurious though, what kind of online school is it? The validation approach can change a bit depending on the niche.",
         "score": 1,
-        "author": "Express_Charge_1491"
+        "author": "Few_Firefighter_5530"
       },
       {
-        "body": "imo this is it. people chase the cap and forget the allocation.. if ur mix is off, hitting the limit doesn’t really help lol. time horizon > ceiling.",
+        "body": "This is such a broad request. What's the idea? What's the intended audience? Simply saying \"it's Reddit\" isn't enough, Reddit isn't just a hiding place for a set demographic, is now a huge community of the internet. ",
         "score": 1,
-        "author": "trumpuppy"
-      },
-      {
-        "body": "Best way to think about this is contribution rate first, limit second. If your savings rate is stable and income is rising, the inflation adjustment on the cap matters less than whether your actual allocation still matches your time horizon and tax situation. A lot of people optimize the ceiling and ignore the mix.",
-        "score": 1,
-        "author": "Fresh_Wait_4163"
+        "author": "NoImplement4985"
       }
     ],
-    "summary_he": "הכותב בוחן את היתכנות תוכנית הפרישה שלו במידה ויגדיל את הפקדותיו השנתיות רק בהתאם לקצב האינפלציה, תוך שימוש בשיעור תשואה ריאלי (6%) לצורך התחזיות. הוא מעוניין להפנות עליות שכר עתידיות לשיפור רמת החיים ושואל האם המודל שלו, המבוסס על ערכים ריאליים קבועים, יישאר תקף. בבסיסו, המודל עקבי מבחינה מתמטית שכן הוא שומר על כוח הקנייה של ההפקדות אל מול תשואה המותאמת לאינפלציה.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט ותובנות מרכזיות מהקהילה:\n\n*   **התאמה לאינפלציה ככלי ליציבות:** אחד הטיעונים המרכזיים הוא שיש להגדיל את סכומי ההשקעה בהתאם לעליית האינפלציה. פעולה זו נתפסת כחיונית לשמירה על רמת חיים קבועה ויציבה לאורך זמן.\n*   **תעדוף שיעור החיסכון על פני התקרה:** הקהילה מציעה לשנות את סדר העדיפויות – קודם כל להתמקד בשיעור ההפקדה (כאחוז מההכנסה) ורק אחר כך בבחינת תקרת ההפקדה המקסימלית המותרת.\n*   **חשיבות תמהיל הנכסים (Asset Allocation):** קיימת ביקורת על משקיעים ש\"רודפים\" אחרי הגעה לתקרת ההפקדה אך מזניחים את הרכב תיק ההשקעות שלהם. לפי גישה זו, אם התמהיל אינו נכון, הגעה למקסימום ההפקדה לא תועיל משמעותית.\n*   **אופק זמן מול תקרת הפקדה:** המגיבים מדגישים כי אופק הזמן של ההשקעה הוא גורם קריטי ומשמעותי יותר להצלחה מאשר השאלה אם המשקיע הצליח לנצל את מלוא תקרת ההפקדה השנתית.\n*   **התאמה למצב המיסוי וההכנסה:** כאשר ההכנסה עולה, הדיון עובר מהתמקדות טכנית במגבלות ההפקדה לבחינה מהותית יותר של המצב המיסוי וכיצד הוא משתלב עם אסטרטגיית ההקצאה הכוללת.\n*   **ביקורת על אופטימיזציה שגויה:** עולה סנטימנט קהילתי המזהה טעות נפוצה: משקיעים רבים משקיעים אנרגיה רבה מדי ב\"אופטימיזציה של התקרה\" (ceiling optimization) ושוכחים לבדוק אם האסטרטגיה שלהם עדיין מתאימה למטרותיהם ארוכות הטווח."
+    "summary_he": "כותב הפוסט מבקש עצות כיצד למדוד את מידת העניין של קהל היעד בפרויקט להקמת בית ספר מקוון, וזאת בטרם השקעת משאבים כספיים. הוא מתכנן לפנות לקהילות רלוונטיות ברדיט ומחפש המלצות מבעלי ניסיון על שיטות פעולה יעילות שהוכיחו את עצמן.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מרכזיות וסנטימנטים מהקהילה:\n\n*   **שימוש ברדיט כנקודת התחלה:** עצם העובדה שהיזם משתמש ברדיט כדי להתייעץ נתפסת כצעד נכון. הפלטפורמה נחשבת לכלי יעיל לתיקוף רעיונות ראשוניים.\n*   **פעולה חשובה יותר ממילים:** המדד האמיתי לעניין במוצר אינו רק \"לשאול\" אנשים לדעתם, אלא לבדוק אם הם מוכנים לבצע פעולה אקטיבית (כמו הרשמה). זהו \"סימנור\" (Signal) חזק בהרבה להצלחה פוטנציאלית.\n*   **שימוש בדפי נחיתה ורשימות המתנה:** דרך פרקטית לתיקוף היא יצירת דף נחיתה פשוט המסביר את הרעיון ומעקב אחר כמות הקליקים או ההרשמות. הצבת לינק לרשימת המתנה בתוך פוסט שעוסק בבעיה היא שיטה מומלצת.\n*   **דרישה ל\"מחויבות קטנה\":** כדי לוודא שיש ביקוש אמיתי, מומלץ לבקש מהמשתמשים להשקיע משהו קטן מעצמם – בין אם זה כתובת אימייל, הסכמה לשיחת משוב או הרשמה לגישה מוקדמת.\n*   **ביקורת על חוסר במידע ספציפי:** קיימת תחושה שהבקשה המקורית כללית מדי. כדי לקבל עזרה ממשית, על היזם להגדיר בבירור מהו הרעיון, מהי הנישה של בית הספר ומי קהל היעד, שכן אסטרטגיית התיקוף משתנה בהתאם לתחום.\n*   **הבנת המורכבות של רדיט:** הודגש כי רדיט אינה \"קבוצה דמוגרפית\" אחת אחידה, אלא קהילה עצומה ומגוונת המייצגת את האינטרנט כולו. לכן, לא ניתן להסתפק באמירה הכללית \"זה ברדיט\", אלא יש להבין את הדינמיקה הספציפית של תתי-הקהילות הרלוונטיות."
+  },
+  {
+    "id": "1shfk7l",
+    "title": "would you stick with the same startup for 10+ years before it works?",
+    "url": "https://www.reddit.com/r/business/comments/1shfk7l/would_you_stick_with_the_same_startup_for_10/",
+    "author": "YogurtIll4336",
+    "score": 1,
+    "selftext": "Came across this recently, Reebok took around 11 years of trying before it really cracked the US market, which made me think. today, most founders pivot, shut down, or switch ideas within a couple of years if things don’t work but what if the real breakout just takes longer than expected?\n\nso curious, if you genuinely believed in what you were building, would you stick with it for a decade before seeing real success?",
+    "subreddit": "business",
+    "created_utc": 1775805877,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Startups shouldn't be 10 years lol. 10years is an established position in the market.",
+        "score": 1,
+        "author": "Leopatto"
+      }
+    ],
+    "summary_he": "הפוסט דן בשאלה האם כדאי להתמיד בסטארט-אפ במשך עשור ויותר עד להצלחה, כפי שקרה עם חברת \"ריבוק\", במקום לוותר או לשנות כיוון תוך זמן קצר. הכותב תוהה האם פריצות דרך משמעותיות פשוט דורשות זמן רב יותר מהמצופה, ושואל את הגולשים אם היו מוכנים להשקיע עשר שנים במיזם לו היו מאמינים בו באמת.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובות, המנתחות את סוגיית הגדרת ה\"סטארט-אפ\" אל מול ותק החברה:\n\n* **מגבלת זמן להגדרת סטארט-אפ:** קיימת הסכמה שחברה לא יכולה להיחשב כ\"סטארט-אפ\" לנצח. פרק זמן של 10 שנים נתפס כגבול עליון שמעבר לו התואר כבר אינו רלוונטי.\n* **מעבר לסטטוס של חברה מבוססת:** לאחר עשור של פעילות, הציפייה היא שהחברה כבר תבסס את מעמדה בשוק. היא אינה נחשבת עוד למיזם ניסיוני אלא לשחקנית מוכרת ויציבה.\n* **ביקורת על \"מיתוג יתר\" כסטארט-אפ:** השימוש במונח \"סטארט-אפ\" עבור חברות ותיקות נתפס לעיתים כניסיון מלאכותי לשמר תדמית חדשנית או \"צעירה\", דבר שמעורר גיחוך בקרב הקהילה.\n* **הבשלה של המודל העסקי:** הטענה היא שאחרי 10 שנים, השלב של חיפוש מודל עסקי (שמאפיין סטארט-אפים) היה אמור להסתיים, והחברה צריכה לפעול על בסיס כלכלי איתן ומוכח.\n* **הבחנה בין צמיחה לבשלות:** בעוד שסטארט-אפ מזוהה עם צמיחה מהירה וחוסר ודאות, עשור של פעילות מסמל מעבר לשלב של בגרות תפעולית שבו הדינמיקה הארגונית משתנה.\n* **שינוי בציפיות השוק:** הקהילה מצביעה על כך שהסטנדרטים שבהם נמדדת חברה בת 10 שונים מהותית מאלו של חברה בראשית דרכה; לא ניתן להשתמש בתירוצים של \"שלבי הקמה\" לאחר תקופה כה ארוכה."
   }
 ];
