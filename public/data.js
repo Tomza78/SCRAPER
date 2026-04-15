@@ -1,61 +1,5 @@
 window.dailyTrends = [
   {
-    "id": "1sjapll",
-    "title": "NBIS reached ATH",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1sjapll/nbis_reached_ath/",
-    "author": "MrSimpsonES",
-    "score": 16,
-    "selftext": "[$NBIS](https://x.com/search?q=%24NBIS&src=cashtag_click) had a monster week. Here’s the full picture heading into Monday\n\nPrice action:  \nNBIS hit a daily high of $149.80 on Friday (new 52-week high), closed at $145.19, and is up 21.1% for the week. After-hours landed at $145.39. Market cap now sits around $36.5B.\n\nKey catalysts driving the move:  \n**1. AI21 Labs acquisition talks**: The Information reported Thursday that Nebius is in discussions to acquire AI21 Labs, an Israeli startup specializing in AI systems for enterprises.\n\nThis would be a vertical integration play moving beyond pure infra into the model/application layer.\n\n**2. Finland AI factory expansion**: Nebius announced a new AI factory in Lappeenranta, Finland, with up to 310 MW of capacity, following the expansion of its Mäntsälä site to 75 MW, reinforcing its goal of more than 3 GW of contracted power by end of 2026.\n\n**3.Meta deal momentum:** The $27B AI infrastructure deal with Meta continues driving sentiment, with \\~$12B in dedicated capacity earmarked for execution starting 2027 using NVIDIA’s Vera Rubin platform.\n\n4.Cramer endorsement (exposure only): Jim Cramer called Nebius “the data center company of tomorrow,” boosting retail interest.\n\nAnalyst landscape:  \nNorthland trimmed PT from $232 to $215 (Outperform) due to convertible debt dilution. BofA initiated at Buy with $150 PT. BWS Financial raised PT to $200 from $130.\n\n**Consensus 12-month target around $164.**\n\nBear case to watch:  \nShort interest has jumped to 20%, with bears pointing to massive capex requirements and competition from CoreWeave, Riot, MARA, and others. At 360x P/E and approaching $150, any macro shock (like Trump escalating Iran again tonight) could trigger a sharp pullback.\n\nFor Monday specifically: No NBIS earnings this week, but the broader risk-on/risk-off tone from bank earnings (Goldman Monday, JPM Tuesday) and Iran headlines will set the direction.\n\nNBIS just printed new 52-week highs, so it’s in price discovery territory **could gap up or see profit-taking depending on Sunday night futures.**",
-    "subreddit": "StockMarket",
-    "created_utc": 1775989002,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "so what you’re saying is that on monday, it could either go up OR it could go down? ",
-        "score": 7,
-        "author": "FairMongoose5583"
-      },
-      {
-        "body": "Monday will be deep red- EOY 200 though ",
-        "score": 3,
-        "author": "makybo91"
-      },
-      {
-        "body": "So sell and buy back cheaper ha!",
-        "score": 2,
-        "author": "AnnaSmiled2"
-      }
-    ],
-    "summary_he": "מניית NBIS הגיעה לשיא של 52 שבועות לאחר זינוק שבועי של כ-21%, המונע ממגעים לרכישת הסטארט-אפ הישראלי AI21 Labs, הרחבת תשתיות בפינלנד ושיתוף פעולה אסטרטגי עם Meta. למרות תחזיות אנליסטים חיוביות למחיר יעד ממוצע של 164 דולר, קיימים סיכונים בשל מכפיל רווח גבוה, עניין גובר של שורטיסטים ותנודתיות גיאופוליטית. המשקיעים עוקבים בדריכות לקראת יום המסחר הקרוב כדי לראות אם המניה תמשיך בפריצה או שתחווה מימוש רווחים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום מקיף של הדיון ב-Reddit, הכולל 6 נקודות מבט, דעות ותחושות קהילתיות כפי שעלו מהתגובות:\n\n*   **ספקנות וציניות כלפי תחזיות שוק:** אחת התגובות מבטאת לעג כלפי הנטייה לנסות לנבא את כיוון השוק. המשתמש מציין בסרקזם שהתחזית מסתכמת בכך שהשוק \"או יעלה או ירד\", מה שמעיד על תחושה בקהילה שהרבה מהניתוחים הפיננסיים הם מובנים מאליהם או חסרי ערך ממשי.\n*   **פסימיות לטווח הקצר מאוד (\"יום שני האדום\"):** קיימת הסכמה או ציפייה בקרב חלק מהמשתמשים שפתיחת שבוע המסחר הקרוב תתאפיין בירידות שערים חדות (מכונה בסלנג הפיננסי \"Deep Red\").\n*   **אופטימיות ארוכת טווח ויעד מחיר ספציפי:** למרות הצפי לירידות בטווח הקצר, ישנו ביטחון שהנכס יתאושש משמעותית. הוצגה תחזית שורית (Bullish) שהמחיר יגיע ל-200 עד סוף השנה (EOY - End of Year).\n*   **אסטרטגיית \"תזמון השוק\" (Market Timing):** הדיון מעלה גישה אקטיבית למסחר – במקום להחזיק בנכס לאורך הירידות, המשתמשים מציעים למכור כעת כדי להימנע מההפסד המיידי ולקנות מחדש במחיר נמוך יותר (\"Buy back cheaper\").\n*   **חיפוש הזדמנויות בתוך התנודתיות:** הקהילה לא נראית מבוהלת מהצפי לירידות; במקום זאת, התגובות משקפות הלך רוח של ניצול מצבים (אופורטוניזם), שבו ירידה נתפסת כהזדמנות לשיפור עמדות כלכליות.\n*   **השלמה עם חוסר הוודאות:** הדיאלוג הקצר משקף את הדינמיקה הטיפוסית בקהילות מסחר באינטרנט, המשלבת בין ניתוח טכני יבש, ניחושים פרועים והומור עצמי על כך שאיש אינו יודע באמת מה יקרה ביום שני.",
-    "dateString": "2026-04-14",
-    "savedAt": {
-      "_seconds": 1776149437,
-      "_nanoseconds": 296000000
-    }
-  },
-  {
-    "id": "1skd6kl",
-    "title": "$WFC 85M investor settlement: claim deadline is tomorrow, April 14.",
-    "url": "https://www.reddit.com/r/finance/comments/1skd6kl/wfc_85m_investor_settlement_claim_deadline_is/",
-    "author": "EducationalMango1320",
-    "score": 1,
-    "selftext": "**Quick heads up for anyone who held $WFC during 2021–2022 — there's a** [claims deadline](https://11th.com/cases/wellsfargo-investor-settlement) **tomorrow, April 14.**\n\n**What happened:**\n\nWells Fargo publicly promoted its **Diverse Search Requirement policy**, claiming it was meaningfully improving diversity in hiring.\n\nIn May 2022, the **New York Times revealed that some employees were interviewing diverse candidates for roles that had already been filled**, raising questions about whether the policy was real or cosmetic.\n\n**Federal authorities issued a criminal subpoena shortly after**. $WFC dropped more than **10%** over two days when investigations became public.\n\n**The settlement:**\n\n* **$85,000,000** cash settlement\n* Estimated **\\~$0.056 per share**\n* Class period: **Feb 24, 2021 – Jun 9, 2022**\n\n**Deadline: April 14, 2026 — tomorrow.**\n\nFiling is free and you don't need a lawyer. Worth checking if you held shares during that window.",
-    "subreddit": "finance",
-    "created_utc": 1776092006,
-    "thumbnail": "https://preview.redd.it/xxsmp8kc1zug1.jpeg?width=140&height=78&auto=webp&s=14440bacd5fdcbb284175ce9e59986e778025af3",
-    "top_comments": [],
-    "summary_he": "חברת וולס פארגו ($WFC) הגיעה להסדר פשרה בסך 85 מיליון דולר בעקבות טענות שהטעתה משקיעים בנוגע לאמינות מדיניות הגיוון התעסוקתי שלה בשנים 2021–2022. משקיעים שהחזיקו במניות החברה בין פברואר 2021 ליוני 2022 יכולים להגיש בקשה לפיצוי עד המועד האחרון שחל מחר, ה-14 באפריל.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-04-14",
-    "savedAt": {
-      "_seconds": 1776149449,
-      "_nanoseconds": 524000000
-    }
-  },
-  {
     "id": "1skd65d",
     "title": "Investors are writing off any move from the Fed this month—collapsing talks in Iran have sealed the deal",
     "url": "https://www.reddit.com/r/finance/comments/1skd65d/investors_are_writing_off_any_move_from_the_fed/",
@@ -92,322 +36,362 @@ window.dailyTrends = [
     }
   },
   {
-    "id": "1sk16mo",
-    "title": "Moronic Monday - April 13, 2026 - Your Weekly Questions Thread",
-    "url": "https://www.reddit.com/r/finance/comments/1sk16mo/moronic_monday_april_13_2026_your_weekly/",
-    "author": "AutoModerator",
+    "id": "1ska17s",
+    "title": "Did anyone else harvest some gains last week and keep it in cash?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1ska17s/did_anyone_else_harvest_some_gains_last_week_and/",
+    "author": "Careless_Llama_3382",
+    "score": 86,
+    "selftext": "Last week my portfolio recovered everything since the start of this dumbass war with Iran. I had absolutely 0%  chance that the cease fire talks would be successful, and 100% chance Trump would go on a tirade.\n\nI took the opportunity to start the yearly rebalance of my portfolio, sold some shares in various ETFs, and have set aside all little money in cash to see where the next few weeks takes us.\n\nI’m generally just dollar cost averaging kind of guy ride the markets up and down  and just do monthly investing. But last week I knew everything was just a facade.\n\nAnyone else do that too?",
+    "subreddit": "StockMarket",
+    "created_utc": 1776085007,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Cash out of most holding rolling 3 month t bills and happy as shit w it. ",
+        "score": 1,
+        "author": "Dry_Personality8792"
+      },
+      {
+        "body": "Hell no. Been waiting forever for a 10+% correction. I bought the dip. I’m up 14.6% in 2 weeks.",
+        "score": 1,
+        "author": "Salty-Ganache3068"
+      },
+      {
+        "body": "DCA with about 95% of my investments/retirements. The other 5% I trade to satisfy the itch/dumb idea that I can get a few % better. For about a decade I was +/-2% but the past 3 years have been lucky/good which I realized the gains.",
+        "score": 1,
+        "author": "suiteddx2"
+      }
+    ],
+    "summary_he": "כותב הפוסט שיתף כי החליט למכור חלק מהחזקותיו ולעבור למזומן לאחר שהתיק שלו התאושש, מתוך חשש שהעליות האחרונות בשוק הן זמניות בלבד. למרות שהוא דוגל בדרך כלל בהשקעה קבועה לטווח ארוך, הוא בחר הפעם להמתין בצד בשל צפי לתנודתיות על רקע המצב הביטחוני והפוליטי.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות המובילות בשרשור ה-Reddit, המציג 6 נקודות מבט ותחושות שונות בקהילה:\n\n*   **בריחה לאפיקים בטוחים:** ישנם משקיעים שבחרו לממש את מרבית החזקותיהם במניות ולעבור להשקעה סולידית באג\"ח ממשלתי קצר מועד (T-bills ל-3 חודשים). משקיעים אלו מדווחים על תחושת סיפוק ושלווה רבה מהמהלך לאור המצב בשוק.\n*   **ניצול הזדמנויות בתיקון השוק:** חלק מהקהילה המתין זמן רב לתיקון משמעותי (של 10% ומעלה) ורואה בירידות הזדמנות קנייה אידיאלית (\"Buy the dip\"), בניגוד למגמת הפחד.\n*   **רווחים מהירים מתזמון השוק:** משקיעים שפעלו בצורה אגרסיבית בזמן הירידות מדווחים על הצלחה ניכרת, עם תשואות דו-ספרתיות גבוהות (כ-14.6%) תוך פרק זמן קצר של שבועיים בלבד.\n*   **היצמדות לאסטרטגיית DCA:** קיימת גישה של השקעה עקבית וקבועה (Dollar Cost Averaging) עבור הרוב המוחלט של התיק (כ-95%), במיוחד כשמדובר בחסכונות לטווח ארוך ולפרישה, כדי להימנע מניסיונות מסוכנים לתזמן את השוק.\n*   **הקצאת \"כסף למשחקים\":** משקיעים נוהגים להפריש אחוז קטן מהתיק (כ-5%) למסחר פעיל וספקולטיבי. המטרה היא \"להשקיט את היצר\" לנסות ולהכות את השוק או לבחון רעיונות השקעה נועזים, מבלי לסכן את הליבה הפיננסית.\n*   **הכרה בין מזל למיומנות:** קיימת מודעות בקרב המשקיעים לכך שביצועים עודפים בשנים האחרונות עשויים לנבוע ממזל ולא רק מאסטרטגיה, ולכן ישנה חשיבות למימוש רווחים כאשר התנאים מאפשרים זאת לאחר תקופת גאות."
+  },
+  {
+    "id": "1skblf5",
+    "title": "How is the market not crashing?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1skblf5/how_is_the_market_not_crashing/",
+    "author": "AirP12",
+    "score": 66,
+    "selftext": "\\- Brent Crude oil is 40% higher compared to pre-war levels.\n\n\\- Closed strait of Hormuz with no outlook on reopening anytime soon.\n\n\\- Negotiations between US and Iran in Pakistan failed during the weekend. No outlook on reaching agreement anytime soon.\n\n\\- Real risk of US invading Iran and escalating the situation much more.\n\n\\- Inflation is higher already as a consequence of the high oil prices.\n\nDespite all of this, the markets are almost at an ATH today. After the weekend’s development, the market will open only about 0.3% lower.\n\nCan anyone actually explain what’s going on with the market? Why is it literally ignoring all the news and basically growing every day?",
+    "subreddit": "StockMarket",
+    "created_utc": 1776088601,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "That's the stock market, no one knows what it will do.",
+        "score": 1,
+        "author": "vguy604"
+      },
+      {
+        "body": "Demographically this makes sense. ",
+        "score": 1,
+        "author": "RhiannonNana"
+      },
+      {
+        "body": "Because, post 2008 markets aren't allowed to go down. The Fed balance sheet is growing again. The treasury is buying yen to stabilize it. All the levers of US institutional financial engineering are being pulled to support the war effort.",
+        "score": 1,
+        "author": "No_Body_8195"
+      }
+    ],
+    "summary_he": "הכותב תוהה מדוע שוקי המניות נותרים קרובים לשיא ומתעלמים מגורמי סיכון משמעותיים, כמו זינוק במחירי הנפט, המתיחות הביטחונית מול איראן והאינפלציה הגוברת. הוא מבקש להבין את הפער בין המצב הגיאופוליטי המעורער לבין הצמיחה היומיומית של השוק, שנראה כחסין בפני החדשות השליליות.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **חוסר ודאות אינהרנטי בשוק:** קיימת תפיסה ששוק המניות הוא מטבעו בלתי צפוי, וכי לאף גורם אין באמת יכולת לדעת או לחזות בביטחון את הכיוון שאליו הוא יפנה.\n*   **הסבר דמוגרפי למגמות השוק:** חלק מהמשתמשים סבורים שהמצב הנוכחי בשוק אינו מקרי, אלא נובע משינויים ומגמות דמוגרפיות שהופכות את המצב להגיוני וצפוי מראש.\n*   **שינוי הכללים לאחר משבר 2008:** קיים סנטימנט בקהילה לפיו מאז המשבר הכלכלי של 2008, המדיניות השתנתה וכעת המערכת המוסדית \"אינה מאפשרת\" לשווקים לרדת כפי שקרה בעבר.\n*   **צמיחת מאזן הפדרל ריזרב (ה-Fed):** מצוין כי המאזן של הבנק המרכזי האמריקאי נמצא שוב במגמת צמיחה, צעד שנתפס ככלי להזרמת נזילות ותמיכה מלאכותית בשווקים.\n*   **התערבות ממשלתית בשוק המט\"ח:** עולה נקודה לגבי פעולות אקטיביות של משרד האוצר האמריקאי, כמו רכישת ין יפני, במטרה לייצב מטבעות זרים ולמנוע זעזועים במערכת הפיננסית הגלובלית.\n*   **הנדסה פיננסית בשירות מטרות גיאופוליטיות:** קיימת טענה שכל \"הכלים\" של ההנדסה הפיננסית המוסדית בארה\"ב מופעלים כעת לא רק מסיבות כלכליות גרידא, אלא כדי לתמוך במאמצי מלחמה ובאינטרסים לאומיים רחבים יותר."
+  },
+  {
+    "id": "1sloqjz",
+    "title": "How does the stock market keep going up with everything happening?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1sloqjz/how_does_the_stock_market_keep_going_up_with/",
+    "author": "BigBlueEyes87",
+    "score": 2,
+    "selftext": "There are multiple signs to believe that we're in an economic crisis that's only going to get worse in America.\n\n1) The president is openly corrupt & a blatant pathological liar\n\n2) Most American allies don't trust America anymore\n\n3) The job market is essentially frozen\n\n4) GDP growth is down\n\n5) The cost of fuel has dramatically increased\n\n6) Approximately 30% of oil producing infrastructure has been destroyed across the Persian Gulf\n\n7) There's a huge AI bubble\n\n8) We have a national debt approaching $40 trillion\n\n9) Inflation is outpacing wage increases for most Americans",
+    "subreddit": "StockMarket",
+    "created_utc": 1776208191,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Yes we do. War drives an economy. Why else do you think we have them?",
+        "score": 1,
+        "author": "Boniouk84"
+      },
+      {
+        "body": "Inflation rate - 3.3%\n\nWage growth - 4.1%",
+        "score": 1,
+        "author": "404LeadsNotFound"
+      },
+      {
+        "body": "But it always comes back. For this reason most passive investors continue to invest or if they are retired never sell. More active investors buy more stocks when the market tanks.",
+        "score": 1,
+        "author": "Time_Many6155"
+      }
+    ],
+    "summary_he": "הפוסט תוהה כיצד שוק ההון ממשיך לעלות למרות שורה של סימנים המעידים על משבר כלכלי ופוליטי מחריף בארה\"ב. הכותב מפרט גורמים כמו חוב לאומי עצום, אינפלציה, חוסר יציבות גיאופוליטית ובועת בינה מלאכותית כסיבות לכך שהמצב הכלכלי אמור היה להיות גרוע בהרבה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שנכתבו, הכולל 6 נקודות מבט ודעות שונות שעלו בו:\n\n*   **המלחמה כמנוע כלכלי:** קיימת טענה כי מלחמות אינן מתרחשות במקרה, אלא הן כלי המניע את הכלכלה ומתדלק צמיחה בתעשיות מסוימות.\n*   **האינטרס הכלכלי שמאחורי עימותים:** עולה התפיסה שהסיבה המרכזית לקיומן של מלחמות בעולם היא הצורך לתחזק ולעורר את המערכת הכלכלית.\n*   **שיפור בכוח הקנייה הריאלי:** על פי הנתונים שהוצגו, קצב צמיחת השכר (4.1%) עוקף את קצב האינפלציה (3.3%), מה שמעיד על עלייה ברמת החיים וביכולת ההשתכרות ביחס ליוקר המחיה.\n*   **חוסנו ההיסטורי של שוק ההון:** קיימת אמונה חזקה בשוק המניות כגוף שנוטה להתאושש תמיד; גם לאחר נפילות, המגמה הכללית היא חזרה לעליות בטווח הארוך.\n*   **אסטרטגיית השקעה פסיבית:** משקיעים פסיביים פועלים מתוך ביטחון בשוק, ולכן הם נוטים להמשיך להשקיע או להימנע ממכירת נכסים גם כאשר השוק נמצא בירידה, במיוחד אם הם כבר בשלב הפרישה.\n*   **ניצול הזדמנויות על ידי משקיעים אקטיביים:** עבור משקיעים פעילים, \"צלילה\" של השוק (Market Tank) אינה נתפסת כאיום אלא כהזדמנות קנייה, שבה הם מגדילים את תיק ההשקעות שלהם במחירים נמוכים."
+  },
+  {
+    "id": "1skc92t",
+    "title": "Three straight months of above-consensus CPI and the June rate cut is dead. Here's what that actually means for the market.",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1skc92t/three_straight_months_of_aboveconsensus_cpi_and/",
+    "author": "1stplacelastrunnerup",
+    "score": 2,
+    "selftext": "Three straight months of above-consensus CPI and the June rate cut is dead. Here's what that actually means for your portfolio.\n\nThe pivot trade is structurally broken. If you spent 2025 loading up on rate-sensitive assets expecting cuts by mid-year, the March print just changed the math.\n\nWhat makes this one different from the previous two misses is the pattern. One bad print is noise. Two is a trend. Three is the Fed admitting, without saying it out loud, that the last mile to 2% is not a mile. It might be a decade.\n\nThe real question now is whether the Fed holds the line and risks breaking the labor market to hit a number that was invented in the 1990s, or quietly lets 3% become the new floor and never officially announces it. Here is [a full breakdown of what both paths actually look like for investors](https://bigmarketreport.com/analysis/cpi-aftermath-feds-2-percent-inflation-target-20th-century-relic) if you want the longer take.\n\nCurious what everyone else is doing with their positioning right now. Rotating into free cash flow names? Sitting in cash? Staying put?",
+    "subreddit": "StockMarket",
+    "created_utc": 1776090014,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "For me currently the markets is on emotions rather than fundamentals or any rational valuation. Im keeping an eye on the how narratives are evolving, especially fear related narratives (eg looking at [https://narrative-investing.pages.dev/](https://narrative-investing.pages.dev/) ). When fear stays subdued im going risk on, when i see it moving up im going risk off.  \n  \nNext to that im trying to look past the US - Iran situation, eveyone is so hung up on that, that other markets are getting somewhat mispriced imo ",
+        "score": 1,
+        "author": "thewatcher_v2"
+      },
+      {
+        "body": "When 2% was the inflation floor we had interest rates near zero. With 3% floor we have them stuck at what 3.5? I'm not sure inflation needs to correlate to interest rate. Many other factors could push or pull the rate",
+        "score": 1,
+        "author": "dankerton"
+      },
+      {
+        "body": "I don't know if this was written by an LLM, but it is written just like LLMs write ",
+        "score": 1,
+        "author": "VicenteOlisipo"
+      }
+    ],
+    "summary_he": "שלושה חודשים רצופים של נתוני אינפלציה גבוהים מהצפוי ביטלו את הסיכוי להורדת ריבית ביוני, מה שמערער את אסטרטגיות ההשקעה שהסתמכו על כך. כעת, הפדרל ריזרב ניצב בפני דילמה בין פגיעה בשוק העבודה לבין השלמה עם אינפלציה גבוהה יותר מהיעד המקורי של 2%. הפוסט קורא למשקיעים לבחון מחדש את הרכב התיק שלהם ולשקול מעבר לנכסים בטוחים יותר לאור שינוי המגמה.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מהתגובות בשרשור:\n\n* **השוק מונע מרגשות ולא מנתונים:** קיימת תחושה חזקה שהשווקים כיום פועלים על בסיס אמוציות ונרטיבים משתנים, ולא על פי ניתוחים כלכליים יסודיים (פונדמנטליים) או הערכות שווי רציונליות.\n* **אסטרטגיית השקעה מבוססת נרטיב ופחד:** אחד המגיבים משתף בשיטת עבודה שבה הוא עוקב אחר רמת ה\"פחד\" בשוק; כאשר הפחד נמוך הוא נוטה לקחת סיכונים (Risk on), וכאשר הוא עולה הוא מצמצם חשיפה (Risk off).\n* **תמחור שגוי עקב התמקדות בעימות ארה\"ב-איראן:** נטען כי המשקיעים מרוכזים יתר על המידה במתיחות הביטחונית בין ארה\"ב לאיראן, מה שגורם להזנחה ותמחור לא מדויק של שווקים וזדמנויות אחרות בעולם.\n* **ספקנות לגבי הקשר בין אינפלציה לריבית:** עולה הטענה שאין בהכרח מתאם ישיר או קבוע בין רמת האינפלציה לגובה הריבית, וכי קיימים גורמים רבים אחרים (מלבד יעד האינפלציה) שמושכים את הריבית למעלה או למטה.\n* **השוואה היסטורית של סביבת הריבית:** צוין כי בעבר אינפלציה של 2% לוותה בריבית קרובה לאפס, בעוד שכיום, עם אינפלציה של 3%, הריבית תקועה ברמה גבוהה בהרבה (סביב 3.5%), מה שמעיד על שינוי בדינמיקה המוניטרית.\n* **חשדנות כלפי תכנים שנוצרו על ידי בינה מלאכותית (AI):** חבר קהילה הביע ספק לגבי האותנטיות של הטקסט המקורי, בטענה שסגנון הכתיבה מזכיר מאוד פלט של מודלי שפה גדולים (LLM), מה שמעיד על מודעות וחשדנות של הגולשים כלפי תוכן גנרטיבי."
+  },
+  {
+    "id": "1slcnsb",
+    "title": "The Case for Qualitative Research in Emerging Market Equities",
+    "url": "https://www.reddit.com/r/finance/comments/1slcnsb/the_case_for_qualitative_research_in_emerging/",
+    "author": "Gypsy_tantrum",
     "score": 1,
-    "selftext": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n\nReplies are expected to be constructive and civil.\n\nAny questions about your *personal* finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.",
+    "selftext": "Quantitative data has become a commodity, but in Emerging Markets, the *context* of that data is where the alpha remains.\n\nI got thinking about this whilst listening to the above.  Physical site visits and local sentiment are becoming the only way to front-run the data lag in frontier economies. If you’re an analyst or PM looking for a perspective on the \"boots on the ground\" reality of current EM investing, you might find this useful.\n\nI've visiting Vietnam myself a couple of years back and had some of these exact thoughts myself (less eloquently put). ",
     "subreddit": "finance",
-    "created_utc": 1776056470,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "What’s a simple way to memorize the Free cash flow calculation so that I can cashflow for commercial lending deals. It’s not as simple as EBIDA to debt service coverage.  \n\nI’ve also heard FCF can be calculated in a few different ways. ",
-        "score": 1,
-        "author": "Simple-Policy-3261"
-      },
-      {
-        "body": "This is a great initiative having a space for open questions really helps make learning and discussion more accessible for everyone.",
-        "score": 1,
-        "author": "Ayush976"
-      },
-      {
-        "body": "I’m interested in going into the finance field but haven’t narrowed myself down to a specific sub-section. I want to balance a strong salary with a decent work life balance. I’m just looking for others personal experiences and recommendations for specific sections. ",
-        "score": 1,
-        "author": "PropertyLoud1934"
-      }
-    ],
-    "summary_he": "זהו שרשור שבועי המיועד לשאלות בכל תחומי הפיננסים, כולל ייעוץ בקריירה ועזרה בפתרון בעיות אקדמיות. הדיון בפורום מתמקד במתן מענה מקצועי ומכבד, בעוד ששאלות בנושא פיננסים אישיים מופנות לקהילות ייעודיות אחרות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ודעות שונות שעלו מהתגובות:\n\n*   **צורך בפישוט חישובים פיננסיים מורכבים:** אחד המשתתפים מחפש שיטה פשוטה או \"נוסחת זיכרון\" לחישוב תזרים מזומנים חופשי (Free Cash Flow) עבור הלוואות מסחריות, מה שמעיד על הצורך בכלים פרקטיים לשימוש יומיומי בעבודה.\n*   **הכרה במורכבות הניתוח הפיננסי:** קיימת הבנה בקהילה שחישוב תזרים מזומנים אינו מסתכם רק ביחס הפשוט שבין ה-EBITDA לכושר החזר החוב, אלא דורש העמקה מעבר למדדים הבסיסיים.\n*   **ריבוי מתודולוגיות עבודה:** המשתמשים מציינים כי קיימות מספר דרכים שונות לחישוב FCF, דבר המצביע על היעדר סטנדרט אחיד אחד ועל הצורך להבין את ההקשר הספציפי של כל עסקה.\n*   **הערכה ללמידה שיתופית:** הובעה תמיכה רבה ביוזמות המאפשרות מרחב לשאלות פתוחות. חברי הקהילה רואים בכך צעד חשוב שהופך את הידע והדיון המקצועי לנגישים יותר לכולם.\n*   **חיפוש אחר איזון בין קריירה לחיים אישיים:** עולה רצון מצד אנשים בתחילת דרכם למצוא נישות בתחום הפיננסים המאפשרות שכר גבוה לצד \"Work-Life Balance\" סביר, ולא רק רדיפה אחר משכורות עתק במחיר של שעות עבודה מוגזמות.\n*   **חוסר ודאות לגבי התמחות מקצועית:** ניכר כי קיימים מחפשי עבודה או סטודנטים המעוניינים להיכנס לעולם הפיננסים באופן כללי, אך חשים מבולבלים מהמגוון הרחב של תתי-התחומים ומחפשים המלצות המבוססות על ניסיון אישי של אחרים.",
-    "dateString": "2026-04-14",
-    "savedAt": {
-      "_seconds": 1776149484,
-      "_nanoseconds": 476000000
-    }
-  },
-  {
-    "id": "1sl12u9",
-    "title": "What is the VOO ETF equivalent for the UK FTSE 100?",
-    "url": "https://www.reddit.com/r/investing/comments/1sl12u9/what_is_the_voo_etf_equivalent_for_the_uk_ftse_100/",
-    "author": "No-Insurance8183",
-    "score": 1,
-    "selftext": "I want to invest in a similar ETF index for the FTSE 100 that is also weighted by market cap and doesn’t reinvest the dividends automatically.\n\nAlso, if you know of another ETF that maybe reinvests the dividends automatically but has a lower fee or another Fund that offers it, like iShares.\n\nWhat is the difference say if I pick iShares instead of a Vanguard ETF or another Firm?\n\nMind you I am not from the UK.",
-    "subreddit": "investing",
-    "created_utc": 1776149760,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Isf and vuke are distributing ftse 100 etfs. ",
-        "score": 1,
-        "author": "RetiredEarly2018"
-      }
-    ],
-    "summary_he": "הכותב מחפש המלצה לתעודת סל (ETF) על מדד ה-FTSE 100 הבריטי שמחלקת דיבידנדים, בדומה ל-VOO האמריקאי. בנוסף, הוא מתעניין בחלופות שמשקיעות את הדיבידנדים מחדש עם דמי ניהול נמוכים, ושואל מהם ההבדלים בין מנהלי קרנות שונים כמו Vanguard ו-iShares.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח של נקודות המפתח וסנטימנט הקהילה כפי שעולה מהדיון (על בסיס המידע שסופק):\n\n**סיכום הדיון בנקודות:**\n\n* **זיהוי מוצרי השקעה ספציפיים:** הקהילה מצביעה על ISF (של iShares) ו-VUKE (של Vanguard) כשתי קרנות הסל (ETF) המרכזיות למעקב אחר מדד ה-FTSE 100.\n* **מדיניות חלוקת דיבידנדים:** נקודה מרכזית בדיון היא ששתי הקרנות הללו הן \"מחלקות\" (Distributing), כלומר הן מעבירות את רווחי הדיבידנד ישירות לחשבון המזומן של המשקיע ולא משקיעות אותם מחדש באופן אוטומטי.\n* **חשיפה לשוק הבריטי:** השימוש בקרנות אלו מעיד על עניין של המשקיעים בחשיפה ל-100 החברות הגדולות ביותר הנסחרות בבורסה של לונדון.\n* **השוואה בין מנהלי קרנות:** עצם ציון שתי הקרנות יחד מרמז על השוואה מתמדת בקהילה בין Vanguard לבין BlackRock (iShares) מבחינת דמי ניהול ויעילות עקיבה.\n* **העדפה לאסטרטגיית הכנסה:** הבחירה בקרנות מסוג \"Distributing\" משקפת סנטימנט של משקיעים המעדיפים תזרים מזומנים שוטף על פני צבירה פנימית של תשואה (Accumulating).\n* **דיוק טכני בפורטפוליו:** הקהילה מדגישה את החשיבות של הבנת המבנה הפנימי של הקרן (אופן הטיפול בדיבידנדים) כחלק קריטי בבחירת נייר הערך המתאים לאסטרטגיית המס של המשקיע."
-  },
-  {
-    "id": "1sl044d",
-    "title": "How do you stick to a budget when small daily expenses keep adding up?",
-    "url": "https://www.reddit.com/r/investing/comments/1sl044d/how_do_you_stick_to_a_budget_when_small_daily/",
-    "author": "Tanuja_Aggarwal",
-    "score": 1,
-    "selftext": "Every morning I start with the intention to spend less, but then the day happens. I grab a coffee because I’m tired, stop by the store for a few things, or take a ride because it’s more convenient. Each time it feels like a small, harmless expense.\n\nBut by the end of the month, I realize those small decisions added up way more than I expected, and I’ve gone over budget again. I’m not making big purchases, just repeating daily habits. How did you actually get control over this without feeling too restricted?",
-    "subreddit": "investing",
-    "created_utc": 1776146434,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Planning and organization.\n\nMake coffee at home. Buy a good travel mug.\n\nGrocery shop once a week. Meal plan to cook cost effective meals. Buy cheaper produce that has longer shelf life.\n\nMeal prep on the weekends. to avoid eating out during the week.\n\nTake transit when possible.\n\nCost saving can be easy, it just takes prior planning.",
-        "score": 1,
-        "author": "ThisIsFineImFine89"
-      },
-      {
-        "body": "Have you tried not doing those things?",
-        "score": 1,
-        "author": "phayhay"
-      },
-      {
-        "body": "This is an investing sub. You would be better off posting this in a personal finance sub if you were real.  ",
-        "score": 1,
-        "author": "MaddRamm"
-      }
-    ],
-    "summary_he": "הכותב מתאר קושי לעמוד ביעדי התקציב בשל הוצאות יומיומיות קטנות ומצטברות, כמו קפה או נסיעות, שנראות זניחות ברגע הקנייה אך מובילות לחריגה משמעותית בסוף החודש. הוא מבקש עצות כיצד להשיג שליטה על הרגלי הצריכה הללו מבלי להרגיש תחושת הגבלה מחמירה מדי.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות בשרשור:\n\n* **חשיבות התכנון המוקדם:** אחת הדעות המרכזיות היא שחיסכון בעלויות אינו בהכרח קשה, אך הוא דורש ארגון, תכנון מראש ומשמעת עצמית כדי להימנע מהוצאות מיותרות.\n* **אימוץ הרגלי צריכה ביתיים:** הצעות פרקטיות לחיסכון יומיומי, כגון הכנת קפה בבית ושימוש בכוס רב-פעמית במקום רכישת קפה בחוץ, נתפסות כשיטה יעילה לצמצום הוצאות.\n* **ייעול קניות המזון והכנת ארוחות (Meal Prep):** המלצה לבצע קניות מרוכזות פעם בשבוע, לבחור מוצרים בעלי חיי מדף ארוכים ולהכין ארוחות מראש לסוף השבוע כדי למנוע התפתות לאכילה במסעדות במהלך שבוע העבודה.\n* **שימוש בתחבורה ציבורית:** הצפת האפשרות לוותר על הרכב הפרטי לטובת תחבורה ציבורית כאמצעי נוסף ומשמעותי לחיסכון כספי.\n* **ספקנות וציניות כלפי עצות \"מובנות מאליהן\":** חלק מהקהילה מגיב בסרקזם (כפי שניתן לראות בתגובה 2), ותוהה האם הפתרון הוא פשוט \"להפסיק לבזבז\", מה שמעיד על תחושה שהעצות הללו פשטניות מדי עבור חלק מהגולשים.\n* **הבחנה בין חסכון אישי לבין השקעות:** קיימת דעה המבקרת את רלוונטיות התוכן לפורום הספציפי; נטען כי עצות לחיסכון והתנהלות כלכלית בסיסית שייכות לפורום \"כלכלה אישית\" (Personal Finance) ולא לפורום המיועד לדיוני השקעות (Investing).\n* **חשדנות כלפי אמינות הכותב:** בקהילה עלה ספק בנוגע לאותנטיות של הפוסט המקורי, תוך תהייה האם מדובר במשתמש אמיתי או בתוכן שאינו תואם את רמת הדיון המצופה בפורום.",
-    "dateString": "2026-04-14",
-    "savedAt": {
-      "_seconds": 1776149500,
-      "_nanoseconds": 79000000
-    }
-  },
-  {
-    "id": "1skzv8l",
-    "title": "Thesis: Converging Spot and Futures Prices",
-    "url": "https://www.reddit.com/r/investing/comments/1skzv8l/thesis_converging_spot_and_futures_prices/",
-    "author": "Protagonist0012",
-    "score": 1,
-    "selftext": "So I’ve been seeing a lot of speculation and confusion about why oil futures have remained so low despite the historic supply disruption, and why the spread between futures and physical prices is so big. I have a bit of a background in oil, so I’ll try to explain it based on my understanding. Just to be clear, this is something that’s baffled a lot of commodity experts, so I’m not claiming this is the 100% accurate assessment, it’s just my personal thesis at the end of the day.\n\nBefore we jump into the conflict and the situation with Hormuz, we need to first understand what was going on with oil markets leading up to the war:\n\n1. The Cash and Carry Trade\n\nBefore the onset of the war, a lot of traders were engaged in what is called the “cash and carry trade.” In a healthy, stable oil market, the futures price curve is in “contango.” This means that future prices are higher than spot prices. Why? Given stable supply and ample storage, the future price of a barrel of oil is typically higher than it is in the present due to cost of storing oil (storage, interest, insurance).\n\nHow it works: In a cash and carry trade, traders take advantage of this contango situation by buying cheap physical oil in the spot market and simultaneously short selling a futures contract for delivery several months out. They store the oil, sell the futures contract then profit the difference. In normal situations this is a stable, low risk profit.\n\nThis is the “carry.” Sounds too good to be true right? Well 99% of the time it’s actually pretty safe. But sometimes you end up with our current disastrous situation, and you might just be fucked.\n\n2. Supply Disruption and Backwardation\n\nIn extreme circumstances when there is a great supply or demand shock, the futures curve reverses and we enter a situation called “backwardation.” In backwardation the cost of spot oil is GREATER than the cost of futures, because buyers want oil NOW NOW NOW. This spikes the price of immediate physical oil, making it higher the cost of futures because the market expects the shock to subside with time and for future demand to settle.\n\nWe are currently in this situation. The closure of the Strait of Hormuz is easily the largest physical supply disruption we’ve ever seen, period. Nothing else compares. There is a massive shortage of oil and buyers are desperate for any barrel they can get. They want it now.\n\nThis backwardation scenario is a nightmare for cash and carry traders. Why? Because if you were already running this trade before the war started, assuming continued contango, you are now trapped in this backwardation. When the war hit, the front month contract (which they were short), exploded in price. These traders are now facing huge, open ended losses. Every dollar that oil rises in the front-month, the bigger their loss.\n\nUnder this circumstance, the ideal scenario for these traders would of course be for the war to resolve and for prices to return to normal. As the war drags on and the supply disruption deepens, however, this obviously seems more and more unlikely. Failing this then, the next best thing would be to have the futures curve suppressed for as long as possible, long enough for them to reposition and find ways to exit their trade while minimising losses.\n\n3. March futures and the Hope Trade\n\nAs I’m sure you’ve all noticed, the futures prices remained relatively low despite soaring spot prices.\n\nIn March, there was still significant hope for a ceasefire and a resumption to the flow of oil. There were also several supply buffers still in place to cushion the blow. Most significant were: the presence of “free” WTI (available oil) in Cushing, Okalahoma that could still be used to settle futures contracts, global SPDR releases and the presence of floating storage (tankers at sea that hold oil, waiting to be sold.)\n\nThe Russian and Iranian oil sanction releases in my opinion made little to no difference; that oil was being sold anyway.\n\nGiven all these factors, when futures contracts expired in March, the system could still absorb oil deliveries as there was enough oil in circulation for arbitrageurs to execute their trades in light of severe backwardation. This allowed, despite the volatility of oil futures, a more gentle convergence as contracts expired. The big dreaded spike to 150+ did not come.\n\nAdditionally, due to the cash and carry trade, there was a massive vested interest in having futures prices under control long enough for a tangible resolution to materialise and for oil flow to resume, thus bringing the price of oil down. And this interest does not stop with these institutional traders; governments and banks around the world are all aligned in their hope of keeping oil futures under control in time for a resolution.\n\nThe futures curve is therefore priced based on this intrinsic hope that things will resolve quickly; there has to be a resolution lest the people in these positions suffer massive, unmitigated losses. It is also why oil markets were so eager to react positively to Trump’s rhetoric. They were literally primed to do so.\n\n4. April: The end of hope and the convergence\n\nYou’re probably thinking then, can they keep doing this? Could they in theory just prolong this hopium indefinitely until we get a resolution?\n\nWell, my answer is….no.\n\n“Yesterday’s oil,” that is the oil available for arbitrage in Cushing and floating storage waiting to be sold around the world, are gone. You might see if you look this up that Cushing actually still has around 21 million barrels in storage. This oil however is already committed. This is what is known as the “tank bottom,” the operational minimum committed to refineries to maintain operation. These cannot be used by traders.\n\nWhat about the SPDR? These reserves are allocated to specific refiners to alleviate the price spike. It will not be available to traders either.\n\nJP Morgan put out a pretty good write up on this detailing the specific math of it all. But to put it shortly, there’s no more oil left to deliver against oil futures. When these buyers fail to secure supply to fulfill their contract, they will then be forced to buy back their contracts to fulfill their position. This rush of buying will trigger a short squeeze. This is when the paper oil prices spike violently into the stratosphere.\n\nCan’t they just roll their contract then? Well with the available oil buffer gone, there won’t be liquidity on the paper markets. They either have to hold it to expiration or deliver. But there’s nothing to deliver.\n\nApril 21 is when many of these contracts expire, and these buyers will then be forced to find physical oil for delivery. This is when things will be really interesting. I will say though, so far the spread between paper and spot has been so absurd, I would not be surprised if there were more shenanigans that kept paper prices low. I do not however, see a practical reality where they simply diverge indefinitely. By the end of April or at the latest mid-May\\\\\\*, something has to go.",
-    "subreddit": "investing",
-    "created_utc": 1776145616,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Wow this is super informative and interesting. Thanks OP.",
-        "score": 1,
-        "author": "ixikei"
-      },
-      {
-        "body": "Yeah and it got removed by the mods on the first subreddit I posted on. Isn’t it ridiculous ",
-        "score": 1,
-        "author": "Protagonist0012"
-      },
-      {
-        "body": "WHAT THE HELL!\n\nA long post with no apparent IA abuse (at least removing the \"Not this - but this!\")? Touching on the subjects contango and backwardation? \n\nAbsolutely underrated post. And thank you for the context, I was wondering about this especially since hearing about the \"physical barrel being $150 on the spot\" while the futures are at a massive discount in comparasion. ",
-        "score": 1,
-        "author": "User4f52"
-      }
-    ],
-    "summary_he": "הפוסט מסביר את הפער בין מחירי הנפט העתידיים הנמוכים למחירי השוק (Spot) הגבוהים, ומייחס זאת לתקוות השוק לפתרון מהיר למשבר האספקה במצר הורמוז ולניסיונות של סוחרים לצמצם הפסדים. הכותב טוען כי מאחר שמאגרי הנפט הפיזיים התרוקנו, צפוי בקרוב \"שורט סקוויז\" שיגרום לזינוק אלים במחירי החוזים העתידיים עד שיתמזגו עם מחירי השוק הריאליים.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון בשרשור המבוסס על התגובות שצורפו, הכולל 6 נקודות מבט ותובנות מרכזיות מהקהילה:\n\n*   **הערכה גבוהה לאיכות התוכן:** המגיבים מביעים הערכה רבה לכותב הפוסט (OP), ומציינים כי המידע שהוצג הוא \"מעניין ומלמד מאוד\". ניכר כי הקהילה צמאה לתוכן מעמיק ואיכותי.\n*   **תסכול מניהול קהילות (Moderation):** עולה ביקורת כלפי מנהלי פורומים אחרים (Subreddits). כותב הפוסט מציין באכזבה שהתוכן הוסר מקהילה אחרת שבה פורסם במקור, והמגיבים מסכימים כי מדובר בצעד \"מגוחך\" לאור איכות הפוסט.\n*   **התפעלות מניתוח נושאים כלכליים מורכבים:** הקהילה מציינת לטובה את העיסוק במושגים מקצועיים מתחום המסחר בקומודיטיס, ספציפית המושגים **Contango** (מצב בו מחיר החוזה העתידי גבוה מהמחיר המיידי) ו-**Backwardation** (מצב הפוך).\n*   **היעדר \"רעשי רקע\" ותוכן דל:** אחד המגיבים מציין בהפתעה לטובה כי הפוסט ארוך ומפורט אך נקי משימוש לרעה במידע או מתבניות כתיבה רדודות (\"Not this - but this!\"), מה שהופך אותו לחריג בנוף הפוסטים הממוצעים.\n*   **מתן הקשר למחירי הנפט בשטח:** הפוסט סיפק למשתמשים הסבר נחוץ לגבי הפער הקיצוני שהיה קיים בין מחיר \"חבית פיזית\" בשוק המיידי (Spot), שעמד על כ-150 דולר, לבין מחירי החוזים העתידיים שנסחרו בהנחה משמעותית.\n*   **תחושה של \"פוסט מוערך בחסר\":** קיימת הסכמה בקרב המגיבים שמדובר בתוכן ברמה גבוהה מאוד שראוי ליותר חשיפה והכרה (\"Underrated post\"), במיוחד לאור הערך המוסף שהוא נותן לקוראים המנסים להבין את תנודות השוק.",
-    "dateString": "2026-04-14",
-    "savedAt": {
-      "_seconds": 1776149516,
-      "_nanoseconds": 266000000
-    }
-  },
-  {
-    "id": "1skygce",
-    "title": "Decided NOT to move forward with the business buy-in, shifting toward real estate instead",
-    "url": "https://www.reddit.com/r/investing/comments/1skygce/decided_not_to_move_forward_with_the_business/",
-    "author": "ezekiel17",
-    "score": 1,
-    "selftext": "Hi everyone,\n\nI wanted to follow up and thank everyone again for all the feedback on my previous post it really helped me think things through more clearly.\n\nAfter giving it serious consideration, I’ve decided not to move forward with the business buy-in opportunity.\n\nThe main reason is simple: It would require me to borrow a significant amount from friends, and I’m personally not comfortable with that level of risk especially if I can’t realistically pay them back quickly.\n\nFor me, anything beyond a short timeframe (ideally within a month) starts to feel like too much pressure, and I don’t want to put myself or my relationships in that position.\n\nAlso, as some of you pointed out, it would be putting too many eggs in one basket. I may revisit this opportunity in the future once I’m more diversified, since I do plan on staying with the company long-term.\n\nInstead, I’m shifting my focus to something I’ve been considering for a while:\n\nA small mixed-use property\n\nThis aligns more with my long-term goal of building in real estate, even though I know it comes with its own risks and learning curve.\n\nProperty Details\n\n* Purchase price: $225,000\n* Down payment: $45,000 (20%)\n* Loan: \\~20-year commercial loan at 7%\n* Gross income: $42,000/year\n* Estimated NOI: $29,000 (this doesn't includes $3.5k annual reserves: $2.5k repairs + $1k additional buffer)\n* Mortgage: $21,000/year\n\nEstimated cash flow: $8,000/year to 11,500/year  \n(Potential upside: adding a vending machine or other small income streams)\n\nLocation context:\n\n* Small town in Pennsylvania\n* Near a college, airport, many highways, and suburban area\n* Existing tenants:\n   * Commercial tenant 7 years (8-year lease)\n   * Residential tenants 12 years and 2 years\n* Initially self-manage to maximize cash flow and learn operations\n* Transition to professional management later (5% / $2,100 annually)\n\nFunding Plan\n\n* $25k from personal savings \n* $20k interest-free from parents\n\nWhy I Feel Better About This\n\n* More aligned with my long-term strategy (real estate)\n* Greater control over the asset\n* Avoids putting pressure on personal relationships\n* Opportunity to learn and scale over time\n\nWhere I’d Appreciate Input\n\n* For those with mixed-use experience:\n   * What are the biggest risks I should be aware of?\n   * Anything you wish you knew before your first deal?\n* Does this seem like a reasonable first step into small commercial / mixed-use?\n\nThere’s still room to negotiate on price, and I’m continuing to evaluate the deal carefully. I am working with a commercial real estate agent but I need other input still. \n\nReally appreciate all the help so far this community helped me avoid a decision that didn’t feel right and move toward something that better fits my goals.\n\nThanks again\n\n",
-    "subreddit": "investing",
-    "created_utc": 1776141113,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Dang, you did well; great right up, and I think that you are going places!",
-        "score": 1,
-        "author": "Fritzkreig"
-      }
-    ],
-    "summary_he": "הכותב החליט לוותר על רכישת שותפות בעסק בשל הסיכון והלחץ הכרוכים בהלוואת כספים מחברים, ובחר במקום זאת להשקיע בנכס נדל\"ן מעורב (מסחרי ומגורים). הוא מרגיש שמהלך זה תואם יותר את מטרותיו ארוכות הטווח, מעניק לו שליטה רבה יותר בנכס ומונע פגיעה מיותרת במערכות יחסים אישיות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "על אף שסופקה תגובה אחת בלבד, ניתן לזקק ממנה ומסגנונה מספר נקודות מרכזיות המייצגות את הלך הרוח והתגובות בשרשור:\n\n**סיכום הדיון בנקודות:**\n\n*   **הערכה לאיכות התוכן:** קיים קונצנזוס שהכותב ביצע עבודה מצוינת, תוך דגש על איכות הכתיבה והגשת הדברים (התייחסות ל-\"write up\").\n*   **חיזוק חיובי ופרגון:** הקהילה מפגינה רוח תומכת מאוד, עם שימוש במילים חמות כדי להביע שביעות רצון מהתוצאה הסופית.\n*   **חיזוי הצלחה עתידית:** המגיב מביע ביטחון רב בפוטנציאל של הכותב וצופה לו עתיד מזהיר והתקדמות משמעותית בתחומו (\"you are going places\").\n*   **התלהבות וסגנון בלתי פורמלי:** השימוש במילות קריאה (כמו \"Dang\") מעיד על התלהבות כנה ובלתי אמצעית מהתוכן שפורסם.\n*   **הכרה במאמץ:** התגובה משקפת הכרה בכך שהושקעה עבודה רבה ומחשבה בפוסט, וכי המאמץ השתלם (\"you did well\").\n*   **תחושת השראה קהילתית:** הסנטימנט הכללי העולה הוא של עידוד למצוינות, כאשר התגובה משמשת כרוח גבית להמשך יצירה ושיתוף של תכנים דומים.",
-    "dateString": "2026-04-14",
-    "savedAt": {
-      "_seconds": 1776149531,
-      "_nanoseconds": 849000000
-    }
-  },
-  {
-    "id": "1skwk63",
-    "title": "CD will expire soon need to invest but can't trust trump",
-    "url": "https://www.reddit.com/r/investing/comments/1skwk63/cd_will_expire_soon_need_to_invest_but_cant_trust/",
-    "author": "Worried-Share7679",
-    "score": 1,
-    "selftext": "There’s a lot of noise in the market right now, and it feels like short term price action is being driven more by headlines than fundamentals.\n\nGeopolitical tensions specially involving Iran and the Strait of Hormuz r creating constant volatility. 1 day there are reports of escalation or disruption, the next day those same narratives get walked back or reframed. Markets react hard in both directions.\n\nAt the same time, political messaging particularly from Trump and people around hi. seems to have a noticeable impact on sentiment. Statements about negotiations, conflict, or policy direction can move markets quickly, even when the follow-through or accuracy is unclear.\n\nYou’ll c markets drop on negative developments, then rebound just as fast on renewed “optimism” headlines, only for those to be contradicted later. It creates a cycle where narratives shift faster than underlying conditions\n\nOverall, the environment feels highly reactive and headline-driven, which makes it harder to distinguish real trends from short-term sentiment swings",
-    "subreddit": "investing",
-    "created_utc": 1776135648,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "DCAs win when you can't predict the news, just set it and forget it while you sleep through whatever the headline is.",
-        "score": 1,
-        "author": "Aware-Excitement8215"
-      },
-      {
-        "body": "EMXC is iShares emerging markets ex China.",
-        "score": 1,
-        "author": "D_Pablo67"
-      },
-      {
-        "body": "Haha Warren Buffet, a week ago, when asked about what he thinks about the current state, said \"this is nothing\". Point being, either just index fund and always be buying, or pick companies you have true strong (educated) belief in the fundamnetals.\n\nMarkets have persevered through literal nuclear war concerns, young men being dragged to die in a jungle, presidents getting impeached and shot. Humans will always innovate and grow. \n\n\"But Japan's stock market...\" then just buy the global index?\n\n",
-        "score": 1,
-        "author": "Educational_Ant9635"
-      }
-    ],
-    "summary_he": "כותב הפוסט מביע חשש מהתנודתיות הגבוהה בשוק ההון, שמונעת להשקפתו מכותרות גיאופוליטיות והצהרות פוליטיות (בעיקר של טראמפ) במקום מנתונים כלכליים יציבים. לטענתו, השינויים המהירים בנרטיבים והתגובות המוגזמות של השוק מקשים על המשקיעים להבחין בין מגמות אמיתיות לבין תנודות זמניות המונעות מרעשי רקע.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום של הדיון ב-Reddit, המציג 6 נקודות מבט ודעות מרכזיות שעלו מתוך התגובות:\n\n*   **יתרון שיטת ה-DCA (מיצוע עלויות):** הדיון מדגיש כי השקעה קבועה במנות (Dollar Cost Averaging) היא האסטרטגיה המנצחת כאשר לא ניתן לחזות את החדשות. הגישה המוצעת היא \"שגר ושכח\", המאפשרת למשקיע לישון בשקט מבלי להגיב רגשית לכותרות היום.\n*   **התאמת חשיפה גיאופוליטית (ללא סין):** עלה צורך ספציפי בפיזור השקעות בשווקים מתעוררים תוך הימנעות מהשוק הסיני, כפי שמשתקף באזכור של קרן הסל EMXC (iShares Emerging Markets ex China).\n*   **פרספקטיבה היסטורית על משברים:** בהשראת וורן באפט, נטען כי המצב הנוכחי בשווקים הוא \"כלום\" (nothing) לעומת העבר. השווקים שרדו בעבר איומים בלוחמה גרעינית, מלחמות קשות, התנקשויות פוליטיות והדחות נשיאים, ולכן אין סיבה להילחץ מהתנודתיות העכשווית.\n*   **הבחירה בין מדדים למניות ספציפיות:** הקהילה מציעה שתי דרכי פעולה עיקריות למשקיע: הראשונה היא רכישה מתמדת של קרנות סל מחקות מדד, והשנייה היא בחירה סלקטיבית של חברות רק על בסיס אמונה חזקה ומושכלת בנתונים הפיננסיים (Fundamentals) שלהן.\n*   **אופטימיות לגבי החדשנות האנושית:** קיימת סנטימנט חזק של אמון ביכולת של המין האנושי להמשיך לחדש ולצמוח למרות כל מכשול פוליטי או חברתי, מה שמבטיח את צמיחת השוק בטווח הארוך מאוד.\n*   **פיזור גלובלי כפתרון לסיכון מדינתי:** כמענה לטיעון הנגד הנפוץ על קריסת השוק היפני (שלא התאושש עשרות שנים), הקהילה מציעה פתרון פשוט: רכישת מדד עולמי רחב. בדרך זו, המשקיע אינו תלוי בהצלחה של כלכלה של מדינה אחת בלבד.",
-    "dateString": "2026-04-14",
-    "savedAt": {
-      "_seconds": 1776149548,
-      "_nanoseconds": 940000000
-    }
-  },
-  {
-    "id": "1skw1ql",
-    "title": "Let's talk about SAFX guys!",
-    "url": "https://www.reddit.com/r/investing/comments/1skw1ql/lets_talk_about_safx_guys/",
-    "author": "happy123z",
-    "score": 1,
-    "selftext": "  In June production doubles to 38 million.  The big dogs jump in when the money goes up. In two years another plant will open.  This is a rare confluence of a small company on the verge of \n\n1: A big, integrating merger. \n\n2: Geopolitics destroying supply.\n\n \n\n3: Countries mandating near future increases of SAF. \n\n4: Soon finished upgrades doubling capacity.\n\n  Am I missing something?  The company's size means it can quickly increase multiples.  Future production and need means it can increase for a long time.  Hold or hold some and swing some.  Six weeks to June, everybody.  ",
-    "subreddit": "investing",
-    "created_utc": 1776134254,
-    "thumbnail": "self",
+    "created_utc": 1776181921,
+    "thumbnail": "https://external-preview.redd.it/LQKV59jg6rTvZc8Ilmr32Wk9TV_IiBeZUHZsms_DYP4.jpeg?width=140&height=140&auto=webp&s=04b58fe6585d5b07cf02c182b08aba1746ce92f1",
     "top_comments": [],
-    "summary_he": "הפוסט סוקר את חברת SAFX ומציין כי ייצור הדלק שלה צפוי להכפיל את עצמו ביוני הקרוב, לצד פתיחת מפעל נוסף בעוד שנתיים. הכותב מדגיש כי שילוב של רגולציה ממשלתית תומכת, שיבושים עולמיים באספקה ומיזוגים קרבים הופכים את החברה להזדמנות צמיחה משמעותית. לאור זאת, המלצתו היא להחזיק במניה לטווח ארוך או לנצל את התנודתיות לקראת הזינוק הצפוי בקיבולת הייצור.",
+    "summary_he": "הכותב טוען שבשווקים מתעוררים, היתרון היחסי (Alpha) מגיע מהבנת ההקשר האיכותני של הנתונים ולא רק מניתוח כמותי סטנדרטי. הוא מדגיש שביקורים פיזיים בשטח והיכרות עם הסנטימנט המקומי הם הדרכים הטובות ביותר להקדים את השוק ולקבל תמונה מהימנה של המציאות הכלכלית.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1sker5x",
+    "title": "Sooo did anyone else wake up today with a free Yahoo Gold subscription?",
+    "url": "https://www.reddit.com/r/finance/comments/1sker5x/sooo_did_anyone_else_wake_up_today_with_a_free/",
+    "author": "BroadMinute",
+    "score": 1,
+    "selftext": "Says I’m subscribed. Getting live quotes which is kind of nice, no ads etc. Looks like it’s a $50/mo normally mine says $0.00 ",
+    "subreddit": "finance",
+    "created_utc": 1776095204,
+    "thumbnail": "https://preview.redd.it/rz5wuwzwazug1.jpeg?width=140&height=105&auto=webp&s=971e15aabd3c439ae9469d7fa422f7b546d966e0",
+    "top_comments": [],
+    "summary_he": "משתמש ברדיט דיווח כי גילה שחשבונו שודרג למנוי \"Yahoo Gold\" בחינם, למרות שמחירו הרגיל עומד על כ-50 דולר בחודש. המשתמש ציין כי הוא נהנה כעת מנתוני מסחר בזמן אמת ומחוויה ללא פרסומות, ותהה אם גולשים נוספים קיבלו את ההטבה המפתיעה.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1skd6kl",
+    "title": "$WFC 85M investor settlement: claim deadline is tomorrow, April 14.",
+    "url": "https://www.reddit.com/r/finance/comments/1skd6kl/wfc_85m_investor_settlement_claim_deadline_is/",
+    "author": "EducationalMango1320",
+    "score": 1,
+    "selftext": "**Quick heads up for anyone who held $WFC during 2021–2022 — there's a** [claims deadline](https://11th.com/cases/wellsfargo-investor-settlement) **tomorrow, April 14.**\n\n**What happened:**\n\nWells Fargo publicly promoted its **Diverse Search Requirement policy**, claiming it was meaningfully improving diversity in hiring.\n\nIn May 2022, the **New York Times revealed that some employees were interviewing diverse candidates for roles that had already been filled**, raising questions about whether the policy was real or cosmetic.\n\n**Federal authorities issued a criminal subpoena shortly after**. $WFC dropped more than **10%** over two days when investigations became public.\n\n**The settlement:**\n\n* **$85,000,000** cash settlement\n* Estimated **\\~$0.056 per share**\n* Class period: **Feb 24, 2021 – Jun 9, 2022**\n\n**Deadline: April 14, 2026 — tomorrow.**\n\nFiling is free and you don't need a lawyer. Worth checking if you held shares during that window.",
+    "subreddit": "finance",
+    "created_utc": 1776092006,
+    "thumbnail": "https://preview.redd.it/xxsmp8kc1zug1.jpeg?width=140&height=78&auto=webp&s=14440bacd5fdcbb284175ce9e59986e778025af3",
+    "top_comments": [],
+    "summary_he": "חברת וולס פארגו ($WFC) הגיעה להסדר פשרה בסך 85 מיליון דולר בעקבות טענות שהטעתה משקיעים בנוגע לאמינות מדיניות הגיוון התעסוקתי שלה בשנים 2021–2022. משקיעים שהחזיקו במניות החברה בין פברואר 2021 ליוני 2022 יכולים להגיש בקשה לפיצוי עד המועד האחרון שחל מחר, ה-14 באפריל.",
     "category_he": "השקעות",
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
     "dateString": "2026-04-14",
     "savedAt": {
-      "_seconds": 1776149556,
-      "_nanoseconds": 896000000
+      "_seconds": 1776149449,
+      "_nanoseconds": 524000000
     }
   },
   {
-    "id": "1sktd6x",
-    "title": "Leveraged ETFs and trading policies",
-    "url": "https://www.reddit.com/r/investing/comments/1sktd6x/leveraged_etfs_and_trading_policies/",
-    "author": "Savings_Computer_693",
+    "id": "1slwaei",
+    "title": "Tesla is the perfect example of how the market can be irrational",
+    "url": "https://www.reddit.com/r/investing/comments/1slwaei/tesla_is_the_perfect_example_of_how_the_market/",
+    "author": "Same-Copy-9513",
     "score": 1,
-    "selftext": "Hi all,\n\nI recently started a position that is subject to a trading policy, whatever is bought must be held for 30 days. \n\nI forgot about this policy entirely and precleared purchase for a 3x leverage ETF. I’m curious if anyone else has bought a leveraged or higher risk security under a hold policy and if it worked out/were you allowed to sell out of it ? ",
+    "selftext": "Today I watched a podcast where the guest was Cathie Wood from ARK. In the middle of the interview, she said that Tesla is going to be a $10 trillion company. I’ve seen and heard this claim from Elon Musk and his fans before, but from a “professional” investor? That honestly shocked me.\n\nI came to the conclusion that Tesla is the perfect example of how the market can be irrational.\n\nI decided to look at the basic numbers of the car manufacturing industry.\n\nTop 3 car manufacturers by EBITDA:\n\nToyota (2025): $46.0B\n\nVolkswagen (2025): $52.0B\n\nHyundai-Kia (2025): $19.0B\n\nCombined EBITDA: $117.0B\n\nCombined market cap: \\~$515B\n\nTesla (2025):\n\nEBITDA: $10.0B\n\nMarket cap: $1.1 trillion (up 20% in 2026)\n\nFor comparison;\n\nBerkshire Hathaway (2025):\n\nEBITDA: $150.0B\n\nMarket cap = $ 1 T\n\nPS: Tesla is a car manufacturing company. Only when they make more than 10% its revenue from robots will I consider calling it something else.\n\nMake it make sense.",
     "subreddit": "investing",
-    "created_utc": 1776127209,
+    "created_utc": 1776228850,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Hi Redditor, it would seem you have strayed too far from WSB, there are emojis detected. Try making a comment with no emoji at all.  Have a great day! \n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/investing) if you have any questions or concerns.*",
+        "body": "Your submission was automatically removed because it looks like your post is better served as a comment in daily discussion thread which can be found [here](https://www.reddit.com/r/investing/about/sticky?num=1). Please also take a moment to review the [r/investing rules](https://www.reddit.com/r/investing/wiki/index/rules) if you have not yet done so. I am a bot and sometimes not the smartest so if you feel your comment was removed in error please message the moderators.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/investing) if you have any questions or concerns.*",
         "score": 1,
         "author": "AutoModerator"
       },
       {
-        "body": ">cash injections from selling options + job and have added 1.4m since Jan/24. my results aren't spectacular. long term they might be.\n\nMust be nice",
+        "body": "Are we going to discuss the elephant in the room which is Chinese EV and Battery industry ?\n\n",
         "score": 1,
-        "author": "InvisibleEar"
+        "author": "rixxxy100"
       },
       {
-        "body": "Read this person work, really holding 5 million level with risk protection\n\n[https://www.reddit.com/r/TQQQ/comments/1skrbih/numerousfloor\\_tqqq\\_war\\_chest\\_apr\\_13\\_2026/](https://www.reddit.com/r/TQQQ/comments/1skrbih/numerousfloor_tqqq_war_chest_apr_13_2026/)",
+        "body": "\nRight, you’re not wrong. And the worst part is you can’t even short these companies properly, because there’s always some idiot willing to pay even more for them. The market is so crazy right now that basic, elementary math just doesn’t seem to matter.",
         "score": 1,
-        "author": "Good_Ride_2508"
+        "author": "Same-Copy-9513"
       }
     ],
-    "summary_he": "כותב הפוסט החל לעבוד במקום עם מדיניות מסחר המחייבת החזקת ניירות ערך למשך 30 יום לפחות. הוא רכש בטעות תעודת סל ממונפת (פי 3) ושואל כעת האם אחרים נתקלו במגבלות דומות והאם התאפשר להם למכור נכסים בסיכון גבוה לפני תום תקופת ההמתנה.",
+    "summary_he": "הפוסט טוען כי שווי השוק של טסלה הוא דוגמה מובהקת לחוסר רציונליות של השוק, במיוחד לאור תחזיות אופטימיות קיצוניות של משקיעים כמו קתי ווד. הכותב משווה את נתוני ה-EBITDA של טסלה ליצרניות רכב מסורתיות ולחברת ברקשייר האת'ווי, ומסיק כי שוויה של טסלה מנופח ללא הצדקה כלכלית כל עוד היא מתפקדת בעיקר כחברת רכב.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח וסיכום של הדיון כפי שעולה מהתגובות שצורפו, המציג 6 נקודות מבט ותובנות שונות מהקהילה:\n\n*   **הבחנה תרבותית בין קהילות השקעה:** מהתגובה הראשונה עולה כי קיימת הפרדה ברורה ב-Reddit בין קהילות השקעה \"רציניות\" (כמו r/investing) לבין קהילות כמו WallStreetBets (WSB). המערכת אוכפת נורמות של שיח ענייני ללא שימוש באימוג'ים כדי לשמור על האופי המקצועי של הפורום.\n*   **צבירת הון מואצת:** אחד המשתתפים מדווח על הזרמת הון עצומה של כ-1.4 מיליון דולר לתיק ההשקעות שלו בפרק זמן קצר מאוד (מינואר 2024), מה שמעיד על נוכחותם של משקיעים בעלי הון גבוה מאוד (High Net Worth) המשתפים את תוצאותיהם.\n*   **מקורות הכנסה משולבים:** הדיון מדגיש את השילוב בין הכנסה מעבודה לבין \"מכירת אופציות\" (Selling Options) כאמצעי לייצור מזומנים (Cash Injections) לצורך הגדלת תיק ההשקעות, ולא רק הסתמכות על עליית ערך הנכסים.\n*   **פערים כלכליים ותחושת הקהילה:** התגובה \"Must be nice\" (חייב להיות נחמד) משקפת סנטימנט של ציניות מהולה בקנאה או הערכה כלפי משקיעים שמסוגלים להזרים סכומי עתק לתיק שלהם, ומדגישה את פערי המעמדות הכלכליים בתוך הקהילה.\n*   **התמחות באסטרטגיות ממונפות (TQQQ):** הקהילה מפנה למדריכים ואסטרטגיות ספציפיות סביב קרן TQQQ (נאסד\"ק פי 3). ניכר שיש עניין רב בניהול \"ארגז מלחמה\" (War Chest) – אסטרטגיה ארוכת טווח בנכסים בעלי סיכון ומינוף גבוה.\n*   **חשיבות ההגנה על הסיכון:** למרות השימוש בנכסים מסוכנים, הדיון מדגיש כי משקיעים בסדרי גודל של 5 מיליון דולר ומעלה שמים דגש קריטי על \"Risk Protection\" (הגנה מפני סיכונים) כדי לא למחוק את הונם בתנודות השוק.",
-    "dateString": "2026-04-14",
-    "savedAt": {
-      "_seconds": 1776149572,
-      "_nanoseconds": 752000000
-    }
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שפורסמו, הכולל 6 נקודות מבט וסנטימנטים שונים שעלו מהקהילה:\n\n*   **התמקדות בתעשיית הרכבים החשמליים והסוללות בסין:** קיימת תחושה בקהילה שתעשיית ה-EV (רכב חשמלי) והסוללות הסינית היא נושא קריטי שחובה לדון בו, והוא מהווה גורם משמעותי בשוק כרגע.\n*   **התעלמות מנושאים מהותיים (\"הפיל שבחדר\"):** אחד המשתמשים מצביע על כך שישנם נושאים כלכליים כבדי משקל (כמו התעשייה הסינית) שזוכים להתעלמות או שלא דנים בהם מספיק, למרות השפעתם הפוטנציאלית.\n*   **תסכול מחוסר היגיון בשוק:** עולה סנטימנט של ייאוש מהמצב הנוכחי בשוק, שבו נראה כי המתמטיקה הבסיסית והנתונים היבשים אינם משחקים תפקיד בקביעת שווי החברות.\n*   **הקושי והסיכון בביצוע עסקאות \"שורט\" (Short):** משקיעים חשים שבלתי אפשרי להמר נגד חברות מסוימות (בשורט), מכיוון שתמיד יימצאו קונים שימשיכו להעלות את המחיר ללא קשר לערך הריאלי של החברה.\n*   **ביקורת על התנהלות המשקיעים:** קיימת ביקורת כלפי משקיעים שנתפסים כ\"חסרי הבנה\" או פועלים בצורה לא רציונלית, ובכך יוצרים עיוותים בשוק ומקשים על משקיעים הפועלים לפי ניתוח פונדמנטלי.\n*   **אכיפת סדר וניהול קהילה:** התגובה הראשונה מעידה על מדיניות מחמירה של ניהול הפורום, הכוללת שימוש בבוטים להסרת פוסטים שאינם עומדים בכללים והפניית המשתמשים לשרשורי דיון יומיים כדי לשמור על סדר בקהילה."
   },
   {
-    "id": "1sksvse",
-    "title": "Google could make 100 Billion on the SpaceX IPO",
-    "url": "https://www.reddit.com/r/investing/comments/1sksvse/google_could_make_100_billion_on_the_spacex_ipo/",
-    "author": "Fickle-Hovercraft-84",
+    "id": "1slvfhm",
+    "title": "In these volatile times, what are you doing to protect against drawdown in short term ?",
+    "url": "https://www.reddit.com/r/investing/comments/1slvfhm/in_these_volatile_times_what_are_you_doing_to/",
+    "author": "cat_named_zola",
     "score": 1,
-    "selftext": "Google owns around 5% of Spacex and if the IPO goes for 2 Trillion then that means 100 Billion in profit for them. \n\n  \n[https://oortcloudreport.github.io/news/space\\_article/google.html](https://oortcloudreport.github.io/news/space_article/google.html)\n\n",
+    "selftext": "Hiya. \n\nHere is how I am investing: \n\n401k - not maxing out. But still putting a decent sum to optimise for pretax\n\nThe rest of my investment is in brokerage. Every month, I put money in these 4.\n\nvoo - 50%\n\nvxus - 20%\n\nmtum - 20% (momentum index)\n\nagg - 10% (ishares bond etf)\n\nI currently have more than 90% exposure to equities. And since there is a high correlation between my 401k, voo and mtum, I feel like I am not diversified enough. \n\nHow do I hedge against the drawdown of the US market, which I fear is eminent, should I increase the percentage in vxus and agg, and maybe invest in gold as well? Is gold a good diversification strategy? ",
     "subreddit": "investing",
-    "created_utc": 1776125932,
+    "created_utc": 1776226219,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "So I was correct. \n\n\nThank you. ",
-        "score": 1,
-        "author": "greyduk"
+        "body": "You said yourself pretax would be better - if you are in a high tax bracket maxing your 401k is a no brainer (regardless of what you invest in). Why would you adjust the percentage based on your company match? The maximum contribution is unrelated to the match. ",
+        "score": 2,
+        "author": "MoFeaux"
       },
       {
-        "body": "Public info. They invested about a billion, so is it is nearly all profit. Sure, they can’t sell all immediately, but post-IPO it is at least semi-liquid and will hold an official value on their books ",
+        "body": "If you are worried about the short term that much you should not have been in the market to begin with.",
         "score": 1,
-        "author": "Available-Mine3957"
+        "author": "Worried-Opening-6229"
       },
       {
-        "body": "You’re getting downvoted but you’re not wrong… it’s ridiculous that they’re getting that valuation ",
+        "body": "you are overexposed to U.S. stocks, so add international funds, bonds, and 5 to 10% gold to hedge. been using runable ai it lets you quickly test how those changes impact your risk",
         "score": 1,
-        "author": "Duke_skellington_8"
+        "author": "a_shampeddddd"
       }
     ],
-    "summary_he": "גוגל מחזיקה בכ-5% ממניות חברת SpaceX ועשויה להפיק רווח עצום של כ-100 מיליארד דולר במקרה של הנפקה. זאת תחת ההנחה ששוויה של SpaceX בבורסה יגיע ל-2 טריליון דולר.",
+    "summary_he": "הכותב מביע חשש מכך שתיק ההשקעות שלו חשוף בשיעור של למעלה מ-90% למניות בארה\"ב, ומחפש דרכים להתגונן מפני ירידות שערים בטווח הקצר. הוא שוקל להגדיל את רכיב האג\"ח והמניות הבינלאומיות בתיק, ושואל האם השקעה בזהב מהווה אסטרטגיית גידור וגיוון יעילה במצב הנוכחי.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח של התגובות מהשרשור, המציג 6 נקודות מבט, דעות ותחושות בקהילה:\n\n*   **אישור וצדקת הדרך:** אחד המגיבים מביע סיפוק ומציין כי טענותיו המוקדמות הוכחו כנכונות, דבר המעיד על ויכוח או תחזית קודמת שהתממשה.\n*   **ניתוח רווחיות מרשים:** מצוין כי ההשקעה המקורית עמדה על כמיליארד דולר, ולכן שווי השוק הנוכחי משקף רווח כמעט נקי עבור המשקיעים.\n*   **נזילות לאחר הנפקה (IPO):** קיימת הבנה כי למרות שלא ניתן למכור את כל המניות בבת אחת, המעמד שלאחר ההנפקה הופך את הנכס ל\"נזיל למחצה\" ומעניק לו ערך רשמי בספרים החשבונאיים.\n*   **ספקנות לגבי הערכת השווי:** בקהילה נשמעת ביקורת חריפה על גובה הערכת השווי של החברה, כאשר חלק מהמשתמשים מגדירים אותה כ\"מגוחכת\" (Ridiculous).\n*   **דינמיקת הצבעות בקהילה:** עולה טענה כי משתמשים לעיתים מקבלים \"הצבעות נגד\" (downvoted) על אף שדבריהם נכונים מבחינה עובדתית, מה שמעיד על פער בין הפופולריות של דעה לבין נכונותה בפורום.\n*   **שקיפות מידע:** המגיבים מדגישים כי הנתונים הפיננסיים המדוברים הם בגדר \"מידע ציבורי\" (Public info), מה שמאפשר ניתוח אובייקטיבי של המצב הכלכלי מעבר לשמועות.",
-    "dateString": "2026-04-14",
-    "savedAt": {
-      "_seconds": 1776149587,
-      "_nanoseconds": 124000000
-    }
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, הכולל 7 נקודות מרכזיות ותובנות של חברי הקהילה:\n\n*   **תעדוף הפקדות לפני מס:** עבור משקיעים הנמצאים במדרגת מס גבוהה, הפקדה לקרן פנסיה (401k) במסלול של \"לפני מס\" (Pre-tax) נתפסת כהחלטה כלכלית מתבקשת ומשתלמת ביותר.\n*   **מיקסום הפרשות ללא קשר לאפיק ההשקעה:** קיימת דעה כי כדאי למקסם את תקרת ההפקדות לקרן הפנסיה ללא קשר לסוג הניירות הערך הספציפיים שבוחרים להשקיע בהם בתוך הקרן.\n*   **הפרדה בין הפקדת העובד להטבת המעסיק:** אין להגביל את אחוז ההפקדה רק לפי גובה ה-Match (השתתפות המעסיק). תקרת ההפקדה המקסימלית המותרת על פי חוק אינה קשורה לסכום שהמעסיק מוכן להוסיף.\n*   **פסיכולוגיית השקעות וטווח קצר:** קיימת ביקורת כלפי משקיעים המודאגים מתנודות בטווח הקצר; לפי גישה זו, מי שאינו מסוגל לשאת את התנודתיות הזו, מוטב שלא היה נכנס לשוק ההון מלכתחילה.\n*   **חשיפת יתר לשוק האמריקאי:** הועלתה טענה כי תיקי השקעות רבים סובלים מחשיפת יתר למניות מארה\"ב, ויש צורך לאזן זאת באמצעות השקעה בקרנות בינלאומיות ובאג\"ח.\n*   **גידור באמצעות זהב:** כחלק מאסטרטגיית ניהול סיכונים, הוצע להקצות 5% עד 10% מהתיק לזהב כדי שישמש ככלי הגנה (Hedge) מפני זעזועים.\n*   **שימוש בבינה מלאכותית לניתוח סיכונים:** הקהילה מצביעה על כלי עזר טכנולוגיים (כמו Runable AI) המאפשרים לבחון במהירות כיצד שינויים בתמהיל הנכסים משפיעים על רמת הסיכון הכוללת של התיק."
   },
   {
-    "id": "1skstoy",
-    "title": "Thoughts on Schwab Intelligent Portfolios?",
-    "url": "https://www.reddit.com/r/investing/comments/1skstoy/thoughts_on_schwab_intelligent_portfolios/",
-    "author": "OCKingsFan",
+    "id": "1sluhnj",
+    "title": "Blackstone Private Credit - Myth vs Fact",
+    "url": "https://www.reddit.com/r/investing/comments/1sluhnj/blackstone_private_credit_myth_vs_fact/",
+    "author": "curio_123",
     "score": 1,
-    "selftext": "I have about $150k cash to invest, and in the previous 20 years of my adult working life, most of my stock investments have been either stagnant or losing. So clearly I’m not a DIY guy. The fee structure seemed attractive vs a managed portfolio. But still apprehensive about a “robo managed” approach and the relatively high skew toward cash holdings, which suppresses returns of course. \n\nThanks in advance for any insights or past experiences! ",
+    "selftext": "https://www.blackstone.com/insights/article/private-credit-myth-vs-fact/\n\nBlackstone defends private credit:\n\n1/ BDCs borrow 40cts per dollar of loan vs banks leverage at 25-40x\n\n2/ BDCs are not opaque; They report a lot of loan details and are marked down when needed\n\n3/ Credit quality is strong, with 10% average EBITDA growth and 2.1x interest coverage\n\n4/ Historically, private credit significantly outperformed S&P 500 & leveraged loans during downturns\n\n5/ SaaS-pocalypse is overblown; Average exposure to SaaS has 60% equity buffer before lenders get hit\n\nAll valid points. But as Howard Marks said:\n\n“The things that affect the investment world so profoundly are the things that were not foreseen. If they could be foreseen or anticipated…they wouldn’t have that cataclysmic effect.”\n\nWhat problems in PC are not anticipated today?\n\nI’ll start with a few counterpoints to Blackstone, then I’ll list some unanticipated problems that might be concerning. \n\n1/ Unlike banks that lend mostly to good borrowers, the PC industry lends exclusively to junk borrowers (unrated or rated below BB-)\n\n2/ PC funds work with credit valuers who are highly dependent on PCs for income. So valuers who are lenient and/or are easily pressured by PC managers will get more work. In the GFC post-mortem, all three rating agencies (Moody’s, S&P & Fitch) were found to have inflated ratings in order to win business from MBS/CDO issuers.\n\n3/ A 2.1x interest coverage ratio is clearly below investment grade (prob BB or at best BBB-). Not sure why this is cited as a positive.\n\n\\*\\*Where might unanticipated problems arise?\\*\\*\n\nA/ PC AUM shrinkage\n\nThe PC industry has grown by >10x since GFC. While 85%+ of funds have 6-8 year lock-ups, funds do mature eventually. If investors re-allocate the money to other investments, industry AUM will shrink and PC borrowers could have trouble with refinancing even if their credit profile is stable and unchanged.\n\nB/ The private equity and VC industries remain stuck so portfolio companies are taking longer to exit (get acquired or IPO). This means they need the PC industry to extend lending for longer.\n\nC/ Banks provide most of the 40cts per dollar in PC fund leverage. If they tighten credit due to economic conditions (or just to squeeze PC funds so they stop encroaching on the banks’ own lending activities), they could compound the pressure on PC borrowers just as they see a pressure from a slowing economy.\n\nIn short, a slowing economy could create a perfect storm: As IPO & M&A activity slows down, PE/VC portfolio companies need to extend or refinance their PC borrowing just as they get hit by the slowing economy. PC AUMs could swing from net inflows to net outflows (due to funds maturation and investor re-allocation to high grade credit in a downturn) and this is also met with banks pulling back lending to PC funds. Net-net, perfectly viable borrowers get pushed into a liquidity crunch, forcing loan markdowns, thereby accelerating net outflows (instead of rollovers) when PC funds mature. This in turn forces banks to further tighten lending to PC funds even more and the whole PC industry goes into a tailspin.",
     "subreddit": "investing",
-    "created_utc": 1776125776,
+    "created_utc": 1776223510,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "I am surprisingly happy with it. I invested about $24K for myself and a separate account for DH sometime around the end of September. I actually added to DH’s earlier this year (his was originally a lower amount). I put it on a very aggressive setting. It is a Roth so the tax loss harvesting is not there but honestly I am not sure I would want that. My goal is usually NOT to have losses to harvest (I realize that is simplistic and not the point).\n\nThis is not investment advice or a recommendation, do your own research\n\nIt has done really well, much better than most of my other investments in the time period. My 24K account with gains and dividends on paper is worth over $26000 in a relatively short period. Even two weeks ago, my account was still up (DH’s at one point was down about $300-400, I forget exactly, but his has been there for a shorter duration). Not something I could not say about some of the stocks I picked. I will put some of this year’s Roth in it as well although I like to control when I add to it which is why I did not put the money in there directly",
+        "body": "Ya well put, although none of those are leverage metrics which begs what point they were trying to make. Because clearly they aren’t discussing PCs debt to equity or something like external funding to EBITDA (which doesn’t seem like it would be all that impressive a number at 2.1x interest coverage in a “good” time). It seems to suggest the term out is an issue and liquidity could get tighter. ",
         "score": 1,
-        "author": "Clueless5001"
+        "author": "arkansaslax"
       },
       {
-        "body": "How much do you need to have access to I assume a Certified Financial Planner? Have about $25K in there and no one has approached me about anything",
+        "body": "The way the banking sector funds its loans is just so fundamentally different than the PC funds.\n\nBanks (collectively) hold all the money in the economy at all times. If you take your money out of Chase to pay someone (for groceries, stock purchase, or anything) who banks with Citi, the money stays in the banking system. This is key. And the banks lend each other on overnight repos for liquidity. And the Fed can always step in as the lender of last resort to a bank. Still, banks direct >90% of lending to good borrowers. And this is why banks can operate with higher leverage. In fact, the better metric might be loan to deposit ratios which are about 70% today (vs 100% pre-GFC) i.e. banks lend out 70cts per dollar of deposit vs PCs lend out one dollar per 60cts of investor money. The bank deposits can move from bank to bank but in the aggregate, they never leave the banking system. The 60cts of PC investor money could leave when the funds mature (and up to 5% could leave each quarter in the case of BDCs). \n\nPC funds don’t enjoy any of the banking system safeguards. They need investors to keep their money in the funds e.g. rollover to a new fund when the old fund matures. So they’re vulnerable to investor runs.\n\n",
         "score": 1,
-        "author": "Clueless5001"
+        "author": "curio_123"
       },
       {
-        "body": "It's not that you are not a DIY guy. It's just that stock picking is not for you. You can still be a good DIY investor.  \n  \nThere is nothing magical any \"intelligent\" portfolio can get you, nor is a robo advisor going to do that for you. Stop looking for those. Pick a few good stock index ETFs for long-term accumulation and capture various segments of the stock market.  \n  \nA well-diversified stock portfolio holds half in growth and half in value, generally large cap growth and small cap value. You can do something like a 35/35/15/15 split across these ETFs: VUG, AVUV, IDMO, AVDV. The first two are US large growth and US small value and the last two are international developed large growth and small value. Keep them rebalanced every year or two years, or by investing into the underperformer with new $ regularly.",
+        "body": "I think you bring up good points. I thought the same with 2.1x interest coverage, lol that’s not the flex they apparently think it is. \n\n1. I think they are comparing apples to oranges in the way they’re comparing banks leverage vs funds borrowing per $ of lending. PC is using investors funds and borrowings whereas banks are using deposits to fund asset purchases. It’s just not the same numerator and denominator if I’m following the source correctly.\n\nAlso in point one they say it’s nothing like 2008 where assets have high LTV and obscured risk characteristics but that’s exactly what people are criticizing now. If the underlying collateral is undervalued, propped up by not arms length transactions and ratings from agencies that still rubber stamp inflated grades based on the same perverse incentive structure that existed in 2008, and thus risk characteristics are obscured through limited private reporting requirements and insufficiently risk adjusted tranche structures in securitized assets of private credit pools… then ya that does sound a lot like exactly the issues identified in 2008. \n\n2. “They report a lot of details” ah I see. Well then that’s sorted, good enough for me. \n\n3. We’ve covered\n\n4. Something something past performance indicative of future results. Also worth noting private credit performance has been reverting to mean recently so I don’t think the point even stands and that argument to begin with.\n\n5. Surely the best point they have but I don’t think the current concern is really all SaaS driven as they seem to imply. ",
         "score": 1,
-        "author": "WaterReflection0521"
+        "author": "arkansaslax"
       }
     ],
-    "summary_he": "כותב הפוסט מעוניין להשקיע 150 אלף דולר ומחפש חלופה לניהול עצמי, לאחר שנים של חוסר הצלחה בבחירת מניות באופן עצמאי. הוא שוקל להשתמש ביועץ הרובוטי של Schwab (Intelligent Portfolios) בשל מבנה העמלות האטרקטיבי, אך חושש מהמודל הממוחשב ומשיעור המזומן הגבוה בתיק שעלול לפגוע בתשואות.",
+    "summary_he": "הנה סיכום של הפוסט:\n\nהפוסט מנתח את טיעוני בלקסטון בזכות יציבות תחום האשראי הפרטי (PC) אל מול סיכונים מהותיים שעלולים להפתיע את השוק, כמו ניגודי עניינים בהערכות השווי ודירוג אשראי נמוך של הלווים. הכותב מזהיר כי שילוב של האטה כלכלית, קשיי נזילות בקרנות והידוק אשראי מצד הבנקים עלולים ליצור \"סערה מושלמת\" שתערער את יציבות הענף כולו.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מבט ותובנות מרכזיות שעלו מהקהילה:\n\n*   **שביעות רצון מהביצועים האוטומטיים מול בחירה ידנית:** אחד המשתמשים מציין כי הוא מופתע לטובה מביצועי תיק ההשקעות המנוהל (Robo-advisor). הוא מדגיש כי התיק, שהוגדר על רמת סיכון \"אגרסיבית\", הניב תשואה טובה משמעותית מאשר המניות שהוא בחר בעצמו באותה תקופה, מה שמעיד על יעילות הניהול האוטומטי עבורו.\n*   **ספקנות לגבי שירותים נלווים וייעוץ אישי:** עולה שאלה לגבי הנגישות למתכננים פיננסיים מוסמכים (CFP). משתמש בעל תיק של כ-25,000 דולר מציין כי אף גורם מקצועי לא פנה אליו, מה שמרמז על תחושה בקהילה שסכומים כאלו אינם מספיקים כדי לזכות בשירות לקוחות אישי או ייעוץ אנושי צמוד.\n*   **הבחנה בין \"השקעה עצמאית\" לבין \"בחירת מניות\":** אחת הדעות המרכזיות בדיון היא שכישלון בבחירת מניות בודדות לא אומר שהמשקיע אינו יכול לנהל את תיקו בעצמו (DIY). נטען כי ניתן להיות משקיע עצמאי מצוין על ידי שימוש במדדים, מבלי ליפול למלכודת הניסיון \"לנצח את השוק\" דרך מניות ספציפיות.\n*   **ביקורת על ה\"קסם\" של ניהול תיקים חכם:** ישנה גישה הגורסת כי אין שום דבר \"קסום\" בתיקי השקעות מתוחכמים או ברובו-אדוויזרים. לפי עמדה זו, אסטרטגיה פשוטה של רכישת קרנות סל (ETFs) העוקבות אחר מדדים רחבים יכולה להשיג תוצאות דומות או טובות יותר ללא צורך במנגנונים אוטומטיים מורכבים.\n*   **המלצה על אסטרטגיית גיוון מובנית (Growth vs. Value):** משתמש מציע מודל עבודה ספציפי למשקיע העצמאי: חלוקת התיק באופן שווה בין מניות \"צמיחה\" (Growth) למניות \"ערך\" (Value), תוך שילוב של חברות גדולות מארה\"ב לצד חברות קטנות ושוק הבינלאומי. הוא מציע פיצול באחוזים קבועים (למשל 35/35/15/15) בין קרנות סל ספציפיות כדי לייצר איזון אופטימלי.\n*   **חשיבות האיזון מחדש (Rebalancing):** נקודה חשובה שעולה היא הצורך בתחזוקה תקופתית של התיק. בין אם מדובר באיזון מחדש כל שנה-שנתיים ובין אם על ידי הפקדת כספים חדשים דווקא לנכסים שביצועיהם היו פחות טובים באותה תקופה, המטרה היא לשמור על תמהיל הנכסים המקורי ולא לתת לשוק להכתיב את רמת הסיכון.",
-    "dateString": "2026-04-14",
-    "savedAt": {
-      "_seconds": 1776149604,
-      "_nanoseconds": 202000000
-    }
+    "comments_summary_he": "להלן ניתוח של התגובות המובילות מהדיון, המרכז שש נקודות מבט וסנטימנטים מרכזיים שעלו בקהילה בנוגע לאשראי פרטי (Private Credit) מול מערכת הבנקאות:\n\n*   **הבדלים מבניים בנזילות:** המגיבים מדגישים כי קיים הבדל תהומי בין האופן שבו בנקים מממנים הלוואות לבין קרנות אשראי פרטי. בעוד שהכסף במערכת הבנקאית נשאר בתוכה (עובר מבנק לבנק אך לא יוצא מהמערכת), קרנות אשראי פרטי תלויות בהון של משקיעים שעלול לצאת מהקרן ברגע שהיא מגיעה לפדיון, מה שיוצר סיכון ממשי של \"ריצה אל הבנק\" (Investor Run).\n*   **היעדר רשתות ביטחון לקרנות ה-PC:** בניגוד לבנקים, שנהנים מגישה ל\"מלווה של מוצא אחרון\" (הפדרל ריזרב) ומשוק הריפו הבין-בנקאי לנזילות מיידית, קרנות אשראי פרטי אינן נהנות מהגנות אלו. מצב זה הופך אותן לפגיעות הרבה יותר בתקופות של משבר פיננסי או התכווצות בנזילות.\n*   **ספקנות לגבי חוסן הלווים (יחס כיסוי ריבית):** המגיבים מבטלים בביטול את הנתון של \"יחס כיסוי ריבית של 2.1x\" שהוצג כנתון חיובי. לטענתם, זהו נתון חלש למדי שאינו מעיד על חוסן יוצא דופן, במיוחד בתקופות של גאות כלכלית, ובוודאי שאינו \"מפגן כוח\" כפי שמנסים להציגו.\n*   **השוואת \"תפוחים לתפוזים\" במטריקות המינוף:** קיימת ביקורת על הניסיון להשוות בין רמת המינוף של בנקים לזו של קרנות אשראי פרטי. המגיבים טוענים כי המכנה והמונה בחישובים אלו שונים לחלוטין (פיקדונות בנקים מול הון משקיעים והלוואות), ולכן ההשוואה מטעה ואינה משקפת את רמת הסיכון האמיתית.\n*   **דמיון מדאיג למשבר של 2008:** אחד הסנטימנטים החזקים בדיון הוא החשש שההיסטוריה חוזרת על עצמה. המגיבים טוענים כי למרות הטענות שהמצב שונה מ-2008, בפועל ישנם סימנים דומים מאוד: נכסי בסיס שמוערכים בחסר, עסקאות שאינן בתנאי שוק חופשי (\"not arms length\"), ודירוגי אשראי מנופחים שניתנים על ידי סוכנויות עם תמריצים מעוותים.\n*   **ביקורת על שקיפות וביצועי עבר:** הקהילה מביעה ספקנות לגבי הדיווחים ה\"מפורטים\" של הקרנות, ברומזם כי חובת הדיווח המוגבלת בשוק הפרטי מסתירה סיכונים. בנוסף, מצוין כי הביצועים של האשראי הפרטי החלו לחזור לממוצע (Mean reversion), ולכן הטיעון שביצועי העבר מבטיחים יציבות בעתיד אינו תקף יותר."
+  },
+  {
+    "id": "1slug4r",
+    "title": "Bad Experience with Interactive Brokers - Please Save Yourself the Headache & Avoid Them!",
+    "url": "https://www.reddit.com/r/investing/comments/1slug4r/bad_experience_with_interactive_brokers_please/",
+    "author": "luforyou",
+    "score": 1,
+    "selftext": "Just wanted to put this out there for anyone considering Interactive Brokers, especially newer or retail traders.\n\nI’ve been using IB for a while now and honestly, the \\*\\*customer service alone is reason enough to stay away\\*\\*.\n\n\\*\\*Customer support is practically nonexistent\\*\\*\n\n\\* Phone support is a joke. You can’t actually get a human when you need one.\n\n\\* When you \\*do\\* get through, you’re told to submit tickets instead and call back with the ticket# even though this phone tree option isn't available.\n\n\\* Email/ticket responses are slow and often unhelpful.\n\nIf something goes wrong with your account or a trade, good luck getting timely help.\n\n\\*\\*Fees aren’t as “low” as advertised\\*\\*\n\n\\* Between commissions, market data subscriptions, and random platform fees, costs add up fast.\n\n\\* Many fees aren’t obvious until after you’re already committed.\n\n\\* For what you’re paying, the support and UX are unacceptable.\n\n\\*\\*Overly complicated interface & terrible reporting\\*\\*\n\n\\* The platform feels like it was designed for institutions, not individuals.\n\n\\* Simple tasks take way more clicks and configuration than they should.\n\n\\* Reporting is confusing, unintuitive, and hard to reconcile for taxes or performance tracking.\n\n\\* You constantly feel like you’re fighting the software instead of focusing on trading/investing.\n\nI get that Interactive Brokers markets itself toward “advanced” users, but complexity shouldn’t mean \\*\\*hostile UX and zero support\\*\\*.\n\nIf you’re someone who values:\n\nBeing able to talk to a real person\n\nClear fee structures\n\nClean reporting\n\nA platform that doesn’t feel like a 1998 enterprise system\n\n…you may want to seriously reconsider.\n\nPosting this so others can make an informed decision before going through the same frustration.",
+    "subreddit": "investing",
+    "created_utc": 1776223399,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "In Europe, it’s the best broker by far. In the US I think you have more options",
+        "score": 1,
+        "author": "Spins13"
+      },
+      {
+        "body": "yeah, they suck and I can subscribe to most points OP laid out\n\nyet you can trade literally all markets, fees are OK, GUI can be used to\n\nAPI is a pain in the ass, but again with a proper library it works. Most of the time.",
+        "score": 1,
+        "author": "nemozny"
+      },
+      {
+        "body": "I think the best reason to use ibkr is for the extended hours SPX options trading. Otherwise Schwab has the same fees and ToS is great.",
+        "score": 1,
+        "author": "crodensis"
+      }
+    ],
+    "summary_he": "הכותב ממליץ להימנע משימוש ב-Interactive Brokers בשל שירות לקוחות גרוע, קושי להשיג מענה אנושי ועמלות נסתרות שהופכות את השירות ליקר מהמצופה. בנוסף, הוא מבקר את ממשק המערכת כמסורבל, מיושן ולא ידידותי למשתמשים פרטיים, מה שיוצר חוויית מסחר מתסכלת ולא אינטואיטיבית.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit לגבי Interactive Brokers (IBKR), המציג שש נקודות מבט ותובנות מרכזיות מהקהילה:\n\n*   **דומיננטיות באירופה מול ארה\"ב:** המגיבים מציינים כי עבור משקיעים באירופה, IBKR הוא הברוקר הטוב ביותר בפער ניכר. לעומת זאת, בשוק האמריקאי התחרות גדולה יותר וישנן חלופות רבות וטובות אחרות.\n*   **גישה גלובלית חסרת תקדים:** אחד היתרונות המשמעותיים ביותר שצוינו הוא היכולת לסחור כמעט בכל שוק אפשרי בעולם דרך פלטפורמה אחת, דבר המהווה יתרון תחרותי משמעותי.\n*   **ביקורת על חוויית המשתמש והשירות:** חלק מהמשתמשים מסכימים עם ביקורות שליליות על הפלטפורמה וטוענים שהיא אינה חסינה מבעיות (\"They suck\"), אך הם עדיין משתמשים בה בגלל היתרונות הפונקציונליים.\n*   **מורכבות טכנית (API):** ממשק התכנות (API) של הברוקר מתואר כמסורבל וקשה מאוד לעבודה (\"Pain in the ass\"), אם כי מצוין שבעזרת שימוש בספריות קוד מתאימות הוא מתפקד בצורה סבירה ברוב הזמן.\n*   **עמלות וממשק משתמש:** העמלות ב-IBKR נתפסות כהוגנות וסבירות (\"OK\"). לגבי ממשק המשתמש הגרפי (GUI), הדעות חלוקות אך יש מי שסבור שהוא בהחלט שמיש וניתן לעבוד איתו.\n*   **יתרון ספציפי למסחר באופציות:** צוין כי הסיבה הטובה ביותר להשתמש ב-IBKR היא האפשרות למסחר באופציות על מדד ה-SPX בשעות פעילות מורחבות (Extended hours). בהקשר זה, עלתה השוואה לברוקר Schwab, שמציע עמלות דומות וממשק (ToS) שנחשב למצוין."
+  },
+  {
+    "id": "1slt4o1",
+    "title": "Regretting not having cash during the dip, but hate selling my winners.",
+    "url": "https://www.reddit.com/r/investing/comments/1slt4o1/regretting_not_having_cash_during_the_dip_but/",
+    "author": "Andy_parker",
+    "score": 1,
+    "selftext": "I’ve been investing in tech company for a long time and luckily, I’ve seen some pretty solid gains. \n\nRight now, I keep a few months' worth of salary in my savings account as an emergency fund, but everything else is fully invested in the market.\n\nThe problem is, whenever we hit a downturn like the tariff issues or Iran war this year, I never have any cash left to buy the dip.\n\nOn the other hand, now that the market has recovered, I find myself hesitating. \n\nDo you actively take profits to maintain a cash position, or is your strategy to stay fully invested regardless of market swings?",
+    "subreddit": "investing",
+    "created_utc": 1776219798,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I had to buy pull out some dry powder to buy a new vehicle right before this dip. Sad but there will always be more opportunities.",
+        "score": 1,
+        "author": "alwayslookingout"
+      },
+      {
+        "body": "Yes, actively taking profit when a position is setting an all-time record high is a very solid move.  We are close to record highs on the major indexes. I plan to take some profit soon.",
+        "score": 1,
+        "author": "Longjumping-Bid-9523"
+      },
+      {
+        "body": "No one says you have to sell your winners, just trip a little bit take profits, and use those profits to bold off the side as dry powder",
+        "score": 1,
+        "author": "Minute_Plastic_350"
+      }
+    ],
+    "summary_he": "הכותב מביע חרטה על כך שהוא מושקע במלואו בשוק ההון, מה שמונע ממנו לנצל ירידות מחירים כדי לרכוש מניות נוספות (\"buy the dip\"). הוא מתלבט אם כדאי לממש רווחים כדי לשמור על עמדת מזומן להזדמנויות עתידיות, או להישאר מושקע תמיד ללא קשר לתנודות השוק.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בשרשור המבוסס על התגובות שנכתבו, הכולל 6 נקודות מבט וסנטימנטים מרכזיים מהקהילה:\n\n*   **אילוצים אישיים מול תזמון שוק:** אחד המשתתפים שיתף שנאלץ למשוך מזומנים (\"אבקה יבשה\") לטובת רכישת רכב רגע לפני ירידת שוק (dip), מה שמדגיש את הקונפליקט שבין צרכים אישיים מיידיים לבין הרצון לנצל הזדמנויות השקעה.\n*   **חוסן ואופטימיות ארוכת טווח:** למרות תחושת ההחמצה על בזבוז המזומנים רגע לפני ירידת מחירים, קיימת תפיסה מעודדת לפיה השוק תמיד יספק הזדמנויות חדשות בעתיד, ולכן אין לשקוע בצער על עסקאות שהתפספסו.\n*   **החשיבות של מימוש רווחים בשיא:** קיימת הסכמה בקהילה שמימוש רווחים אקטיבי בנקודות שבהן הנכס מגיע לשיא כל הזמנים (ATH) הוא צעד אסטרטגי נכון וחכם, במיוחד כשהמדדים המרכזיים קרובים לשיאים היסטוריים.\n*   **תכנון מקדים של יציאה מהשוק:** משקיעים מעידים על תכנון מודע למכור חלק מהאחזקות בקרוב (\"plan to take some profit soon\") כתוצאה מהערכת מצב השוק הנוכחי, ולא כתגובה רגשית רגעית.\n*   **אסטרטגיית \"קיצוץ\" במקום מכירה מלאה:** מוצגת גישה מאוזנת לפיה לא חייבים למכור את כל הפוזיציה המנצחת; במקום זאת, מומלץ \"לקצץ\" (trim) רק חלק קטן מהאחזקה כדי להבטיח רווחים מבלי לוותר על הפוטנציאל העתידי.\n*   **מינוף רווחים ליצירת נזילות:** המטרה העיקרית של מימוש רווחים חלקי, לפי הדיון, היא לבנות מחדש עתודות מזומנים (\"dry powder\"). מזומן זה נשמר בצד במטרה לשמש כדלק להשקעות חדשות כאשר השוק יציע מחירים אטרקטיביים יותר."
+  },
+  {
+    "id": "1slr8ti",
+    "title": "Tips for researching startups?",
+    "url": "https://www.reddit.com/r/investing/comments/1slr8ti/tips_for_researching_startups/",
+    "author": "Unheroic_",
+    "score": 1,
+    "selftext": "This is an absolutely \"hear me out\" post and yes, the majority of my account is in SPY and various sector ETFs managed by the likes of Fidelity/Blackrock. But if you buy early-stage companies with big contracts, potential to be useful in multiple sectors or regions, or final clinical studies before FDA approval, surely you'd hit paydirt eventually?\n\nSo far, this strategy led me to get 11 shares of AMPX for 180.62, 2 shares of IONQ for $62, 9 of ONDS for $92 (this one stings), 1 RVMD for $136.18, and SWMR for $42.32.\n\nSo, anyways, my auntie is an immunologist, so I can consult her on whether a biotech startup's clinical study results look meaningful. Yeah, I did ask her about Revolution before buying. My dad is in IT and I often consult him on whether a startup's business idea looks sane. \n\nBut I'd like to expand beyond that and listening to the morning brew podcast omw to work and listening to Brew Markets/The Journal podcast at the gym in the evenings. Although that setup did give me the idea to buy 1 of EWY while it was $126.71 (and that's been a 15% gain in like 2 weeks).",
+    "subreddit": "investing",
+    "created_utc": 1776214709,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "הכותב מחפש שיטות נוספות למחקר על חברות סטארט-אפ בשלבים מוקדמים כדי לשלבן בתיק השקעות המבוסס בעיקר על מדדים (ETFs). כיום הוא מסתמך על ייעוץ מקרובי משפחה מומחים בתחומי הטכנולוגיה והביוטכנולוגיה ועל פודקאסטים פיננסיים, ושואף להרחיב את מקורות המידע שלו כדי לזהות הזדמנויות רווחיות.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1slr1eq",
+    "title": "Quantum Computing themes are up today",
+    "url": "https://www.reddit.com/r/investing/comments/1slr1eq/quantum_computing_themes_are_up_today/",
+    "author": "Sudden-Duty312",
+    "score": 1,
+    "selftext": "today is world quantum day (april 14, tied to planck's constant 4.14×10⁻¹⁵ eV·s, yes really) and the market is treating it like a genuine catalyst.\n\nthe quantum computing theme is the top gainer on bullsmeet's trending themes today at +8.48%. \n\nwhat's moving: QBTS is up close to 11%, pushing above $16 after a steady march from the mid-$12s since late march. mizuho trimmed its price target from $40 to $31 but kept an outperform rating, still seeing massive upside from here. 13 analysts with a unanimous strong buy, average target around $38. that's a lot of conviction on a stock trading at 200x sales.\n\nIONQ is also running. IonQ recently hit 99.99% fidelity on an industry accuracy test ,a world record ,and is targeting a 256-qubit system this year. pure-play exposure with cloud access through AWS, Azure, and Google Cloud.\n\nRGTI just debuted a 108-qubit system today which added fuel to the fire.\n\nmy read: the pure play names (QBTS, IONQ, RGTI) are trading on story + momentum right now. fundamentals are basically nonexistent at this stage, QBTS has $24.6M in revenue at a multi billion dollar valuation. you're not buying earnings, you're buying a long duration bet on the technology becoming real commercial infrastructure.\n\nif you want diversified exposure without single stock risk, QTUM (Defiance Quantum ETF) mixes the pure-plays with larger semis and software names.\n\ni track quantum computing + other trending themes daily on bullsmeet if you want to see what else is moving.\n\nnot financial advice. do your own research.",
+    "subreddit": "investing",
+    "created_utc": 1776214166,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "לרגל יום הקוונטום העולמי, מניות המחשוב הקוונטי (כמו QBTS, IONQ ו-RGTI) רושמות עליות חדות בזכות הישגים טכנולוגיים חדשים ומומנטום חיובי בשוק. הכותב מדגיש כי מדובר בהשקעה המבוססת על פוטנציאל טכנולוגי עתידי ולא על רווחים נוכחיים, ומציע את קרן הסל QTUM כחלופה מגוונת יותר לצמצום הסיכון הכרוך במניות בודדות.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   }
 ];
