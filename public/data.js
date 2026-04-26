@@ -1,162 +1,132 @@
 window.dailyTrends = [
   {
-    "id": "1str4cf",
-    "title": "Tim Cook vs Steve Jobs",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1str4cf/tim_cook_vs_steve_jobs/",
-    "author": "RussFaigen",
-    "score": 582,
-    "selftext": "Both Tim Cook and Steve Jobs spent 3,500+ days as Apple CEO and Apple's stock rose more than $1,000% under both.\n\nOne CEO built the product, the other built the ecosystem and distribution to scale it...\n\nSteve Jobs (1997 - 2011)  \n→ Market Cap: +347.2B  \n→ Stock Price: +5,500%\n\nTim Cook (2011 - 2016)  \n→ Market Cap: +3.62T  \n→ Stock Price: +2,277%\n\nSo.. which do you think was better? ",
-    "subreddit": "StockMarket",
-    "created_utc": 1776968846,
-    "thumbnail": "https://preview.redd.it/etxulox0gzwg1.png?width=140&height=140&auto=webp&s=ebc5d9b6f4bcd7e1975f5bac2c93b9274006e54f",
-    "top_comments": [
-      {
-        "body": "No, he was brought back to save them from bankruptcy. He was kicked out of Apple in 1985. He was working on Pixar and Next Computer during this time. Apple purchased Next to bring him back.",
-        "score": 1,
-        "author": "T00_pac"
-      },
-      {
-        "body": "Without Steve jobs, tim cook wouldnt exist. \n\nSo, chicken, then egg. ",
-        "score": 1,
-        "author": "Commercial_Rule_7823"
-      },
-      {
-        "body": "Was he also not the reason for the bankruptcy lol",
-        "score": 1,
-        "author": "rpj6587"
-      }
-    ],
-    "summary_he": "הפוסט משווה בין תקופות הכהונה של סטיב ג'ובס וטים קוק כמנכ\"לי אפל, ומציין ששניהם הובילו לצמיחה של אלפי אחוזים במניית החברה. בעוד שג'ובס מזוהה עם פיתוח המוצרים החדשניים וזינוק חד יותר באחוזים, קוק התמקד בבניית המערכת (ecosystem) ובהפצה שהובילו לגידול חסר תקדים בשווי השוק של החברה במונחי דולרים.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן ניתוח וסיכום הדיון מתוך התגובות ב-Reddit, המציג נקודות מבט שונות על תפקידו של סטיב ג'ובס באפל:\n\n*   **המטרה של חזרתו:** ג'ובס לא חזר לאפל כלאחר יד, אלא הובא במיוחד כדי להציל את החברה ממצב של פשיטת רגל קרובה.\n*   **ההיסטוריה של ההדחה:** התגובות מזכירות את העובדה שג'ובס הועזב (או \"נזרק\") מהחברה שהוא עצמו הקים בשנת 1985, מה שמדגיש את היחסים המורכבים שלו עם הדירקטוריון.\n*   **פעילותו מחוץ לאפל:** בתקופת \"הגלות\" שלו מאפל, ג'ובס לא קפא על שמריו אלא עסק בפרויקטים משמעותיים אחרים כמו הקמת חברת המחשבים NeXT ופיתוח אולפני Pixar.\n*   **המנגנון הטכני של החזרה:** חזרתו של ג'ובס לאפל התאפשרה בזכות מהלך עסקי אסטרטגי – רכישת חברת NeXT על ידי אפל, מה שהחזיר את המייסד לתוך הארגון.\n*   **השפעתו על דור העתיד:** קיימת סברה בקהילה שבלעדי סטיב ג'ובס, דמויות מפתח נוכחיות כמו טים קוק לא היו קיימות (מקצועית) או מצליחות להגיע למעמדן באפל; ג'ובס נתפס כ\"תרנגולת\" שהטילה את \"ביצת\" ההצלחה המודרנית.\n*   **ביקורת וספקנות:** לצד ההערצה, עולה גם תהייה ביקורתית/צינית האם ג'ובס עצמו לא היה למעשה אחד הגורמים (בהתנהלותו המוקדמת) שהובילו את החברה למשבר הכלכלי שממנו הוא נדרש להציל אותה מאוחר יותר."
-  },
-  {
-    "id": "1stojqf",
-    "title": "Will markets forever go up from now?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1stojqf/will_markets_forever_go_up_from_now/",
-    "author": "chatman77",
-    "score": 167,
-    "selftext": "Sorry for the stupid title but looking at the performance of the markets and their (non-)reaction to global events, I am thinking that the stock market, as a mirror of (global) economics, no longer works.\n\nYes, there are downturns (as seen lately) but the recovery time gets faster each time and given the economic situation the current all time highs just don't add up. And arguing against my post - of course markets always go up in the long term but I hope you get my point.\n\nSo back to my theory: I think the gap between the poor and the rich has widened since Corona even more and there is simply so much money floating around that needs to be invested in order to make the rich richer.\n\nSo we might have created kind of a financial perpetuum mobile.\n\nThe question is: where will this lead to and is there a chance that we'll see \"normal\" markets again?",
-    "subreddit": "StockMarket",
-    "created_utc": 1776963489,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Some people talk of the asset meltdown hypothesis as boomers die and deplete their assets and move more into bonds/cash. It’s a theory ",
-        "score": 1,
-        "author": "Witty_Badger7938"
-      },
-      {
-        "body": "I bet it will work until it doesn’t, then it won’t work at all for a while.",
-        "score": 1,
-        "author": "TheSpinningGroove"
-      },
-      {
-        "body": "Do people not understand that as markets go up, it's because us bottom feeders are paying for it?  Like c'mon people, wisen up.  Oh I forgot... Americans.",
-        "score": 1,
-        "author": "caseaday"
-      }
-    ],
-    "summary_he": "הכותב תוהה האם שוק ההון הפסיק לשקף את המציאות הכלכלית הריאלית, לאור העובדה שהוא מתאושש במהירות שיא וקובע שיאים חדשים למרות חוסר יציבות גלובלית. לטענתו, פערי העושר המתרחבים יצרו עודף הון אדיר אצל עשירי העולם שחייב להיות מושקע, מה שיוצר מעין \"מנוע נצחי\" של עליות ומעלה את השאלה האם נחזור אי פעם להתנהלות שוק \"נורמלית\".",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח של התגובות המובילות מהשרשור ב-Reddit, המציגות מגוון דעות וסנטימנטים בקהילה לגבי מצב השוק:\n\n*   **היפותזת \"קריסת הנכסים\" (Asset Meltdown):** קיימת סברה שדעיכת דור הבייבי-בום תוביל למכירה המונית של נכסים. ככל שדור זה מזדקן, הוא צפוי לממש את השקעותיו כדי לממן את המחיה בפרישה, מה שעלול להוביל לירידת ערך משמעותית בשוק המניות.\n*   **שינוי במבנה תיק ההשקעות:** מעבר לתיאוריית הקריסה, מצוין כי משקיעים ותיקים נוטים להעביר את הונם ממניות (נכסים בסיכון) לאפיקים סולידיים יותר כמו אג\"ח ומזומן, מה שמשנה את זרימת הכספים בשוק.\n*   **ספקנות לגבי יציבות המגמה:** אחד הסנטימנטים הבולטים הוא שהמצב הנוכחי \"עובד עד שהוא יפסיק לעבוד\". זוהי גישה צינית הגורסת כי הצלחת השוק היא שברירית וזמנית, וברגע שתגיע נקודת המפנה, השוק יפסיק לתפקד כליל לתקופה מסוימת.\n*   **ניצול המשקיעים הקטנים:** הועלתה טענה שהרווחים בשוק אינם מגיעים \"משום מקום\", אלא ממומנים בפועל על ידי \"דגי הרקע\" (Bottom feeders) – המשקיעים הקטנים והפשוטים שמשלמים את המחיר ומאפשרים למחירים לעלות עבור האחרים.\n*   **קריאה להתפכחות פיננסית:** קיימת תחושת תסכול כלפי הציבור הרחב, בטענה שאנשים אינם מבינים את המכניקה האמיתית של השוק. המגיבים קוראים למשקיעים \"להתעורר\" ולהבין מי באמת מרוויח מהמערכת.\n*   **ביקורת על התרבות הכלכלית האמריקאית:** ניכרת נימה ביקורתית (ואף מזלזלת) כלפי הצרכן/המשקיע האמריקאי, שנתפס כמי שנופל למלכודות השוק בקלות רבה יותר מאחרים או כמי שמתעלם מהמציאות הכלכלית המשתנה."
-  },
-  {
-    "id": "1stpw5x",
-    "title": "Trump’s tariffs were supposed to close the trade deficit. The AI boom had other plans",
-    "url": "https://www.reddit.com/r/finance/comments/1stpw5x/trumps_tariffs_were_supposed_to_close_the_trade/",
-    "author": "fortune",
+    "id": "1sujclx",
+    "title": "Jane Street Snatches Wall Street Crown With Record $39.6 Billion Trading Haul.",
+    "url": "https://www.reddit.com/r/finance/comments/1sujclx/jane_street_snatches_wall_street_crown_with/",
+    "author": "coinfanking",
     "score": 1,
-    "selftext": "When President Donald Trump returned to office last year, he framed his tariff policy as a bid to bring manufacturing of strategic materials and equipment back to the U.S. \n\nMore than a year later, his sweeping trade agenda has indeed forced a crackdown on imports, so much so that a single technological force has grown into the primary engine of the country’s trade economy. \n\nThe AI boom has been the undisputed hotspot of the U.S. economy during the past year. While the technology itself has yet to translate into significant productivity or employment gains, investment in the infrastructure and computing power that has enabled AI’s rollout has been massive. AI-related private investment in the U.S. last year hit $286 billion, according to Stanford University’s AI Index report, about the same as the lifetime cost of the entire Apollo program in today’s dollars.\n\nInfrastructure and research costs accounted for more than $140 billion of that sum, with a large chunk earmarked to build the massive data centers that have been powering the AI boom. That splurge has required enormous amounts of raw construction materials, not all of which can be cheaply sourced in the U.S. The AI boom, in fact, is one of the only factors keeping U.S. import growth in positive territory.\n\nRead more: [https://fortune.com/2026/04/22/ai-related-imports-add-200-billion-to-us-trade-deficit/](https://fortune.com/2026/04/22/ai-related-imports-add-200-billion-to-us-trade-deficit/)",
+    "selftext": "Jane Street Group reeled in a Wall Street record $39.6 billion of trading revenue last year, capping a stunning ascent to the peak of the industry.\n\nThe firm flew past global investment banks after reaping $15.5 billion in the year’s final quarter, according to people with knowledge of the results, who asked not to be named discussing confidential figures. With only 3,500 employees, it beat nearest rival JPMorgan Chase & Co. by 11% during the year.",
     "subreddit": "finance",
-    "created_utc": 1776966283,
-    "thumbnail": "https://external-preview.redd.it/cXAnEek8ST4Sqv0OoseSdFLMaoOGyMMXVmsD5eUoR6s.jpeg?width=140&height=70&auto=webp&s=e1c309ced00589b32adbeee97205c08fdf297434",
+    "created_utc": 1777045324,
+    "thumbnail": "https://external-preview.redd.it/Hv9ZP9O2yYwgJNZLCrK_tr8_D4MWBrZjDnWNzHQT-xA.jpeg?width=140&height=93&auto=webp&s=ac6b6d0fcdc8822f12c61e5b53396e0703da0433",
     "top_comments": [
       {
-        "body": "Short term.  Long term the bubble pops and everything crashes, it succeeds and they do mass layoffs, or something in between.  I’m leaning towards the first but a little in between.",
+        "body": "They were picking up all the $ dropped on the floor by retail investors blindly throwing money at ETFs.",
         "score": 1,
-        "author": "ShadowTacoTuesday"
+        "author": "MerryWalrus"
       },
       {
-        "body": "Noooo... a few tech bro billionaires, such as Elon Musk, who have developed their empires on scamming the working class and sucking up tax funding totally assured us that AI is *definitely* going to improve our lives and make us have to work less. Our taxes are going to these *selfless* billion dollar tech companies so they can heroically improve our lives, not hurt us. They wouldn't lie to us like that!!!",
+        "body": "They’re just serving as market maker for etf entities like spy and Voo, every time you buy a share of the etf the entity needs to allocate a number of shares proportional to the etf ",
         "score": 1,
-        "author": "ForbodingWinds"
+        "author": "BODYBUTCHER"
       },
       {
-        "body": "Trump administration hasn’t implemented any tariff policy for the purpose of reducing trade deficits. \n\nThe only tariffs that were implemented and stuck were tariffs on goods directly related to war time production",
+        "body": "Buy-side and sell-side are fundamentally different businesses.\n\nIt's like comparing a Michelin starred restaurant to a supermarket.",
         "score": 1,
-        "author": "EVOSexyBeast"
+        "author": "MerryWalrus"
       }
     ],
-    "summary_he": "מדיניות המכסים של טראמפ נועדה לצמצם את הגירעון המסחרי של ארה\"ב, אך תנופת הבינה המלאכותית שינתה את התמונה בשל הצורך העצום בייבוא תשתיות וציוד. ההשקעות האדירות בהקמת מרכזי נתונים דורשות חומרי גלם וטכנולוגיה מחוץ למדינה, מה שהופך את תחום ה-AI לגורם המרכזי ששומר על צמיחת הייבוא ומקשה על השגת יעדי הממשל.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, הכולל 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **חשש מ\"בועה\" כלכלית:** קיימת דעה לפיה ההתלהבות הנוכחית היא קצרת טווח, ובטווח הארוך הבועה צפויה להתפוצץ ולהוביל לקריסה כלכלית רחבה.\n*   **איום הפיטורים ההמוניים:** גם בתרחיש שבו הטכנולוגיה (AI) מצליחה, עולה חשש כבד שהדבר יוביל לגל פיטורים המוניים שיפגע במועסקים רבים.\n*   **חוסר אמון במיליארדרי הטכנולוגיה:** קיים סנטימנט חזק של זלזול וציניות כלפי דמויות כמו אילון מאסק. הקהילה מבטאת חוסר אמון בהבטחות שלהם שהטכנולוגיה נועדה לשפר את חיי האזרחים.\n*   **ביקורת על סבסוד ממשלתי:** הועלתה טענה נגד השימוש בכספי מיסים למימון חברות טכנולוגיה ענקיות, תוך תחושה שהדבר נעשה על חשבון מעמד הפועלים ותוך \"ניצול\" המערכת.\n*   **ספקנות לגבי הבטחות לרווחה חברתית:** ישנה דחייה של הנרטיב לפיו הבינה המלאכותית תגרום לאנשים לעבוד פחות או תשפר את איכות חייהם; הדבר נתפס כהונאה שנועדה לשרת אינטרסים של בעלי הון.\n*   **ניתוח מדיניות המכסים:** נקודת מבט נוספת מתמקדת בהקשר הפוליטי-כלכלי, וטוענת כי מדיניות המכסים של ממשל טראמפ לא נועדה לצמצם גירעון מסחרי, אלא התמקדה באופן ספציפי במוצרים הקשורים לייצור בזמן מלחמה.",
-    "dateString": "2026-04-24",
+    "summary_he": "חברת ג'יין סטריט (Jane Street) קבעה שיא חדש בוול סטריט עם הכנסות ממסחר בסך 39.6 מיליארד דולר בשנה האחרונה. למרות שהיא מעסיקה 3,500 עובדים בלבד, החברה הצליחה לעקוף בנקי השקעות ענקיים כמו ג'יי.פי מורגן צ'ייס ולהפוך למובילה בתחומה.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ותובנות שונות שעלו מהתגובות:\n\n* **ניצול טעויות של משקיעים קטנים:** אחת הדעות המרכזיות היא שהמוסדות הפיננסיים הגדולים מרוויחים מהכסף שמשקיעים פרטיים (Retail) \"משאירים על הרצפה\" בשל השקעות עיוורות ובלתי מחושבות בקרנות סל (ETFs).\n* **ביקורת על התנהלות הציבור:** קיימת סנטימנט בקהילה לפיו משקיעים קטנים פשוט \"זורקים כסף\" על תעודות סל ללא הבנה מעמיקה או אסטרטגיה, מה שיוצר הזדמנויות רווח לגופים מתוחכמים יותר.\n* **תפקיד \"עושה השוק\" (Market Maker):** מוסבר כי הגופים הללו פועלים כספקי נזילות עבור קרנות ענק כמו SPY ו-VOO. הם אינם בהכרח מהמרים נגד השוק, אלא מאפשרים את קיום המסחר השוטף בקרנות אלו.\n* **המנגנון הטכני של קרנות הסל:** התגובות מדגישות כי בכל פעם שמשקיע קונה יחידה בקרן סל, הישות המנהלת חייבת להקצות מניות באופן פרופורציונלי להרכב הקרן, תהליך שמייצר עבודה ורווח עבור עושי השוק.\n* **הפרדה מבנית בעולם הפיננסי:** קיימת הבחנה חדה ומהותית בין צד הקנייה (Buy-side) לבין צד המכירה (Sell-side). אלו נתפסים כשני מודלים עסקיים שונים לחלוטין שאין לערבב ביניהם.\n* **אנלוגיית \"הסופרמרקט מול מסעדת המישלן\":** השימוש בדימוי זה ממחיש את ההבדל בין הגופים – בעוד שצד אחד מתמקד בבחירה קפדנית ואיכותית של השקעות (כמו מסעדה), הצד השני (עושי השוק) פועל כסופרמרקט שמטרתו לספק מלאי רחב וזמין לציבור הרחב ביעילות.",
+    "dateString": "2026-04-25",
     "savedAt": {
-      "_seconds": 1777018524,
-      "_nanoseconds": 202000000
+      "_seconds": 1777102811,
+      "_nanoseconds": 837000000
     }
   },
   {
-    "id": "1stknvu",
-    "title": "Stock market today: Dow, S&P 500, and Nasdaq slide as oil rises",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1stknvu/stock_market_today_dow_sp_500_and_nasdaq_slide_as/",
-    "author": "Every-Actuator-6996",
-    "score": 37,
-    "selftext": "[https://finance.yahoo.com/markets/stocks/live/stock-market-today-dow-sp-500-and-nasdaq-slide-as-oil-rises-amid-hormuz-standoff-233045628.html](https://finance.yahoo.com/markets/stocks/live/stock-market-today-dow-sp-500-and-nasdaq-slide-as-oil-rises-amid-hormuz-standoff-233045628.html)  \n  \nUS stocks pulled back on Thursday as investors assessed Tesla’s ([TSLA](https://finance.yahoo.com/quote/TSLA/)) results amid a fresh rush of earnings.\n\nThe S&P 500 ([\\^GSPC](https://finance.yahoo.com/quote/%5EGSPC/)) slid 0.2%, coming off another [record-setting session](https://finance.yahoo.com/markets/stocks/live/stock-market-today-wednesday-april-22-dow-sp-500-nasdaq-trump-us-iran-ceasefire-230429476.html) for the broad benchmark. Meanwhile, the Dow Jones Industrial Average ([\\^DJI](https://finance.yahoo.com/quote/%5EDJI/)) and tech-heavy Nasdaq Composite ([\\^IXIC](https://finance.yahoo.com/quote/%5EIXIC/)) dropped 0.4% and 0.3%, respectively.  Investors are looking to [earnings reports](https://finance.yahoo.com/markets/live/earnings-live-updates-tesla-stock-jumps-on-earnings-beat-elon-musk-says-optimus-robots-will-be-biggest-product-ever-104416733.html) to provide uplift. Tesla stock initially climbed after its [earnings beat](https://finance.yahoo.com/markets/stocks/article/tesla-q1-earnings-sales-top-forecasts-as-company-sees-tailwinds-boosting-auto-business-135049841.html) but turned lower at the opening bell on Thursday, slipping almost 3% after CEO Elon Musk signaled a massive capital expenditure push that will drag on cash flow.\n\nElsewhere, ServiceNow ([NOW](https://finance.yahoo.com/quote/NOW/)) stock sank over 15% after the opening bell despite an upbeat earnings report, while [IBM](https://finance.yahoo.com/sectors/technology/articles/ibm-tops-quarterly-estimates-hybrid-201122400.html) ([IBM](https://finance.yahoo.com/quote/IBM/)) shed 11% as slowing revenue growth fed worries that Anthropic’s AI tools will disrupt its business.",
+    "id": "1sukxwa",
+    "title": "Another reason to never listen to stock advice online",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1sukxwa/another_reason_to_never_listen_to_stock_advice/",
+    "author": "div_investor_forever",
+    "score": 292,
+    "selftext": "At the end of March, everyone and their mother was panicking and saying this was a terrible time to get in, I completely ignored them and just kept buying and bought more when the fear index was at 9. \n\nI’m very happy today. \n\nI hope others took advantage of the opportunity. \n\nNever listen to Financial Wannabes online, especially Twitter and YouTube, they are always fear mongering, and don’t know what they’re talking about with their crazy technical analysis and charts and stats, etc. \n\nI unsubscribed and unfollowed all of them. Good luck out there investors! ",
     "subreddit": "StockMarket",
-    "created_utc": 1776955141,
+    "created_utc": 1777048725,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Market is going green as we speak. Pointless AI post.",
-        "score": 18,
-        "author": "pain474"
+        "body": "fear sells, you're right. march was pure panic porn and here we are. what helped me stop reacting to the noise was tracking my own buys and sells instead. boring but works. I used Kreo. here's the link if you're curious: https://kreo.app/@dork123\n\ngood on you for buying when everyone else was crying.",
+        "score": 1,
+        "author": "Mozzobeak"
       },
       {
-        "body": "I never understand why these posts are made.\n\nMarket is down 0.5% then finishes the day up 0.01%\n\n",
-        "score": 9,
-        "author": "LonghornInNebraska"
+        "body": "Warren Buffett and his buddies are the only people I take stock market advice from",
+        "score": 1,
+        "author": "m0bscene-"
       },
       {
-        "body": "That's not a correction. It's a shift in sentiment. Happens about half a hundred times in any given week.",
-        "score": 2,
-        "author": "netcoder"
+        "body": "I've been saying it constantly for 15+ years. Just buy.",
+        "score": 1,
+        "author": "Jasonrj"
       }
     ],
-    "summary_he": "מדדי המניות המרכזיים בוול סטריט רשמו ירידות שערים ביום חמישי, בהובלת מניות הטכנולוגיה ועל רקע דוחות כספיים מעורבים של חברות הענק. מניית טסלה ירדה בעקבות תחזיות להוצאות הון גבוהות שיכבידו על תזרים המזומנים, בעוד מניות IBM ו-ServiceNow צנחו בחדות בשל חששות מהאטה בצמיחה ומתחרות בתחום הבינה המלאכותית.",
+    "summary_he": "הכותב משתף כיצד התעלמות מהפאניקה ברשתות החברתיות ורכישת מניות דווקא כשהשוק היה בשפל התבררה כהחלטה משתלמת במיוחד. הוא ממליץ למשקיעים להפסיק להקשיב ל\"מומחים\" מטעם עצמם ביוטיוב ובטוויטר, המשתמשים בנתונים טכניים ובהפחדות כדי להטעות את הציבור.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, הכולל 6 נקודות מבט וסנטימנטים שעלו מהתגובות:\n\n* **חוסר רלוונטיות בזמן אמת:** המגיבים מציינים שהפוסט המקורי אינו רלוונטי, שכן בזמן כתיבת התגובות השוק כבר \"נצבע בירוק\" ועובר למגמת עלייה.\n* **ביקורת על איכות התוכן:** קיים זלזול בערך של הפוסט המקורי, כשאחד המשתמשים מגדיר אותו כ\"חסר טעם\" (Pointless).\n* **חשד לשימוש בבינה מלאכותית:** הועלתה טענה שהפוסט נראה כמו תוכן שנוצר באופן אוטומטי על ידי AI, ללא מגע יד אדם או הבנה של הקשר השוק הנוכחי.\n* **חוסר משמעות לתנודות קטנות:** המגיבים טוענים כי ירידות קלות (כמו 0.5%) הן זניחות, במיוחד כאשר השוק נוטה להתאושש ולסיים את היום בעלייה קלה, ולכן אין טעם להקדיש להן פוסט.\n* **דחיית טרמינולוגיה מוגזמת:** אחד המגיבים מסתייג מהגדרת המצב כ\"תיקון\" (Correction) של השוק, וטוען שמדובר במושג שגוי לתיאור האירוע.\n* **שגרתיות של תנודות בשוק:** הקהילה מדגישה כי שינויים כאלה ב\"סנטימנט\" של המשקיעים הם עניין שבשגרה המתרחש עשרות פעמים בכל שבוע, ואינם מהווים אירוע חריג הדורש דיון מיוחד."
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות בשרשור:\n\n* **התקשורת מנצלת פחד:** קיימת תחושה שהתקשורת והחדשות משתמשות ב\"פורנו של פאניקה\" (Panic Porn) כדי למשוך קהל, שכן פחד הוא גורם שיווקי חזק שמוכר היטב אך עלול להטעות משקיעים.\n* **התמקדות בנתונים אישיים מול רעשי רקע:** כדי להימנע מתגובות רגשיות לתנודות השוק, מומלץ להתמקד במעקב אישי אחר פעולות הקנייה והמכירה של המשקיע עצמו במקום להקשיב לרעש החיצוני.\n* **שימוש בכלים טכנולוגיים לניהול השקעות:** ישנה המלצה על שימוש באפליקציות ייעודיות (כמו Kreo) כדי להפוך את תהליך ההשקעה למסודר, עקבי ו\"משעמם\" – דבר שנתפס כחיובי להצלחה ארוכת טווח.\n* **הזדמנות בקנייה בזמן משבר:** קנייה בשיא הפאניקה (כמו בתקופת מרץ, למשל) נתפסת כאסטרטגיה חכמה; כדאי לקנות דווקא כשכולם מסביב לחוצים או \"בוכים\".\n* **הסתמכות על סמכות מקצועית מוכחת:** חלק מהמשקיעים מאמצים גישה סקפטית כלפי עצות כלליות ובוחרים להקשיב אך ורק לאנשי מקצוע בעלי שם עולמי ורקורד מוכח, דוגמת וורן באפט.\n* **אסטרטגיית \"פשוט לקנות\" (Buy and Hold):** דעה דומיננטית הגורסת כי הדרך הטובה ביותר לפעול בשוק לאורך שנים רבות (15+) היא פשוט להמשיך לקנות בעקביות, ללא ניסיונות לתזמן את השוק או להגיב לשינויים זמניים."
   },
   {
-    "id": "1stjs89",
-    "title": "OKLO and NVIDIA Collaborate to Advance Nuclear Fuel Validation at Los Alamos in Support of Nuclear-Powered AI Factories",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1stjs89/oklo_and_nvidia_collaborate_to_advance_nuclear/",
-    "author": "C130J_Darkstar",
-    "score": 14,
-    "selftext": "The partnership aims to advance critical nuclear infrastructure, artificial intelligence (AI)-enabled research, and nuclear fuel R&D to accelerate the deployment of nuclear energy and support \"nuclear-powered AI factories.\"\n\n**Key Goals and Capabilities**\n\nThe collaboration brings together Oklo's advanced sodium-fast-reactor platform, NVIDIA's AI infrastructure and high-performance computing, and LANL's world-leading expertise in materials science and nuclear fuels.\n\nAccording to Oklo CEO Jacob DeWitte, this partnership will specifically help advance Oklo's plutonium-bearing fuel work on its \"Pluto\" reactor (which is part of the Department of Energy's Reactor Pilot Program) and lay the groundwork for high-assurance, resilient power to support the federal government’s Genesis Mission.\n\n**Initial Focus Areas**\n\nThe collaboration will initially concentrate on three main projects:\n\n1. **AI for Fuel Validation**: Developing physics- and chemistry-based AI inference models to support research, development, and validation for plutonium-bearing nuclear fuels.\n\n2. **Materials Science**: Conducting R&D around the fabrication of plutonium-bearing fuels.\n\n3. **Nuclear-Powered AI Factories**: Studying power generation, grid reliability, redundancy, and stabilization to support the deployment of nuclear-powered AI data centers and factories at LANL.\n\nUltimately, the agreement intends to combine advanced nuclear power, AI, digital twins, modeling, and simulation to drive critical infrastructure development for the next generation of mission-critical energy.",
-    "subreddit": "StockMarket",
-    "created_utc": 1776953209,
-    "thumbnail": "https://external-preview.redd.it/Owb0vlzm01uxEgiNzrs7qBrbY8JtDUZOSNdDLo3eRX0.jpeg?width=140&height=78&auto=webp&s=da0e1de3102712c6d0860c42d169fb9aabe2ff8b",
-    "top_comments": [],
-    "summary_he": "חברות Oklo ו-NVIDIA משתפות פעולה עם המעבדה הלאומית לוס אלמוס (LANL) כדי לקדם פיתוח דלק גרעיני ותשתיות אנרגיה מתקדמות. השותפות תשלב בינה מלאכותית וסימולציות לשיפור תהליכי אימות הדלק, במטרה להקים \"מפעלי AI\" המונעים באנרגיה גרעינית ומספקים כוח יציב ורציף למרכזי נתונים ולפרויקטים ממשלתיים.",
-    "category_he": "עסקים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1stp8tg",
-    "title": "Applied Digital Announces New U.S. Based High Investment-Grade Hyperscaler Tenant at Delta Forge 1, a 430 MW AI Factory Campus",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1stp8tg/applied_digital_announces_new_us_based_high/",
-    "author": "Sad-Opportunity-911",
-    "score": 3,
-    "selftext": "**New 15-Year Lease Expands Total Contracted Revenue to Over $23 Billion**\n\nDALLAS, April 23, 2026 (GLOBE NEWSWIRE) -- Applied Digital (NASDAQ: APLD), a designer, builder, and operator of high-performance, sustainably engineered data centers and colocation services for artificial intelligence, cloud, networking, and blockchain workloads, today announced it has entered into a lease agreement with a new U.S. based high investment-grade hyperscaler at its 430 MW AI Factory campus, Delta Forge 1.\n\nThis lease represents approximately $7.5 billion in total contracted value over an estimated 15-year lease term and covers 300 megawatts (MW) of critical IT load, purpose-built to support the hyperscaler’s artificial intelligence (AI) and high-performance compute (HPC) infrastructure.\n\nWith this agreement, the tenant becomes Applied Digital’s second U.S. based investment-grade hyperscaler across three AI Factory campuses. This addition expands total contracted lease revenue to over $23 billion and further diversifies the company’s customer base with a third hyperscale tenant. More than 50% of total contracted revenue is now backed by investment-grade customers.\n\n\"We remain focused on delivering operational AI capacity at scale,” said Wes Cummins, Chairman and Chief Executive Officer of Applied Digital. “With this agreement, we now have two U.S. based investment-grade hyperscalers across our portfolio, marking an important step in the continued diversification of our customer base and strengthening the overall quality and visibility of our contracted revenue. Our priority remains execution –– bringing capacity online on schedule and operating it with discipline over the long term.”\n\nDelta Forge 1 is Applied Digital’s newest AI Factory campus, spanning more than 500 acres and designed from the ground up to support large-scale AI workloads. The campus integrates high-density power delivery, advanced cooling architecture, and disciplined operational design to enable consistent performance at scale.\n\nBuilt on Applied Digital’s repeatable AI Factory model, Delta Forge 1 is engineered to support both training and inference workloads in high-density environments. Initial operations at Delta Forge 1 are anticipated to commence in mid-2027. \n\nIn other development-related activity, Applied Digital expects to enter into an up to $300 million senior secured bridge facility to fund continued development of the 150 MW Building 3 data center located on its Polaris Forge 1 campus, and an up to $300 million senior secured revolving credit facility to fund pre-lease and post-lease development activities across Applied Digital’s platform, as well as general working capital needs and transaction expenses. These credit facilities are expected to be on customary market terms for facilities of this type, to close promptly, and be provided by a syndicate of bank lenders.",
-    "subreddit": "StockMarket",
-    "created_utc": 1776964928,
+    "id": "1suq42v",
+    "title": "Tell us about alternative physical investments people can stack, or would like to. Let's get weird",
+    "url": "https://www.reddit.com/r/investing/comments/1suq42v/tell_us_about_alternative_physical_investments/",
+    "author": "Old_Ad_3655",
+    "score": 49,
+    "selftext": "Post title says it all.  I'm looking at ways to diversify my physical assets beyond precious metals and USD.\n\nThere are many reasons to horde tangible assets. Maybe you're concerned about inflationary spirals? a zombie apocalypse? a quantum AI  crypto-catastrophe? Or, maybe you're like me and just want to leave a complex and irritating inheritance when you die? Some of you are stacking (or thinking about stacking) really cool stuff, and I'd love to hear about it!\n\nWhat's in your hypothetical dragons horde? \n\nHere are some examples to get you started: *1.**N**atural turquoise is almost completely mined out, its value will increase exponentially* \n\n*2.**Swiss francs have a quarter of the expected inflation of the USD and they make girls think I'm Jason Bourne*,\n\n*3.**Be**anie babies are making a HUGE comeback ANY DAY NOW*\n\nA tangible physical asset is anything that you can touch, and expect a future financial benefit from. In this case I'd appreciate narrowing it down to stuff you can physically move, transport, and store,  so traditional real estate won't work. (but livestock would)\n\nThank you in advance for your creative and well thought out responses!  ",
+    "subreddit": "investing",
+    "created_utc": 1777059990,
     "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "חברת Applied Digital הודיעה על חתימת הסכם שכירות ל-15 שנה עם ענקית מחשוב (Hyperscaler) אמריקאית בהיקף של כ-7.5 מיליארד דולר עבור קמפוס הבינה המלאכותית החדש שלה. העסקה מגדילה את סך ההכנסות המובטחות של החברה ליותר מ-23 מיליארד דולר ומחזקת את מעמדה כספקית תשתיות קריטיות לעיבודי AI ומחשוב עתיר ביצועים. המתקן, שצפוי להתחיל לפעול באמצע שנת 2027, יספק עוצמה של 300 מגה-וואט ויתמוך באסטרטגיית הצמיחה ארוכת הטווח של החברה.",
-    "category_he": "עסקים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "top_comments": [
+      {
+        "body": "Blu Rays and DVDs degrade relatively fast (20-40 years before they are unreadable).\n\nOn the other hand, I have a friend who will pay a healthy amount for an old CRT TV and has a few already.",
+        "score": 2,
+        "author": "rkoloeg"
+      },
+      {
+        "body": "That's a bold contrarian take. I will respectfully agree to disagree. Thank you for keeping the discussion civil! ",
+        "score": 1,
+        "author": "Old_Ad_3655"
+      },
+      {
+        "body": "i understand the history. i just think we have globalized floating currencies now as well as a fully globalized trade infrastructure and the gold standard of old really means nothing. gold is old and too slow. if the world really collapses people are not going to need gold and the value will plummet. the value is really only propped up right now by global financial systems. same as housing prices. those would plummet in a global collapse, because they are inflated by financial activity. if there is no more debt or debts are paid in blood it would just all be a very different reality.",
+        "score": 1,
+        "author": "illicitli"
+      }
+    ],
+    "summary_he": "כותב הפוסט מחפש רעיונות יצירתיים להשקעות בנכסים פיזיים מוחשיים וניידים שאינם נדל\"ן, מזומן או מתכות יקרות. המטרה היא לגוון את תיק הנכסים באמצעות פריטים יוצאי דופן כמו אבני חן, פריטי אספנות או בעלי חיים, שישמרו על ערכם במקרי קיצון או כחלק מירושה ייחודית.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מבט וסנטימנטים מרכזיים שעלו:\n\n* **התיישנות של מדיה פיזית:** קיימת טענה כי תקליטורי Blu-Ray ו-DVD אינם עמידים לטווח ארוך כפי שנהוג לחשוב; הם נוטים להתקלקל ולהפוך לבלתי קריאים תוך 20 עד 40 שנה.\n* **ערך נוסטלגי וטכנולוגיית רטרו:** למרות ההתקדמות הטכנולוגית, ישנו שוק פעיל ואנשים שמוכנים לשלם סכומי כסף נכבדים עבור מכשירים ישנים, כמו מסכי CRT (טלוויזיות קופסה), בשל ערכם הייחודי.\n* **תרבות הדיון בקהילה:** ניכר סנטימנט של כבוד הדדי גם בהינתן מחלוקות עמוקות. המשתמשים מעריכים שיח תרבותי (\"מסכים שלא להסכים\") גם כשמוצגות דעות חריגות או שנויות במחלוקת.\n* **חוסר הרלוונטיות של תקן הזהב:** עולה הטענה כי בעולם של כלכלה גלובלית, סחר מפותח ומטבעות צפים, הזהב הפך למיושן ואיטי מדי, ואינו מהווה עוד עוגן כלכלי ממשי.\n* **ניפוח ערך הנכסים על ידי המערכת הפיננסית:** קיימת סברה שערכם הנוכחי של הזהב והנדל\"ן אינו ריאלי, אלא מוחזק באופן מלאכותי על ידי פעילות פיננסית גלובלית, ולכן ערכם יקרוס במקרה של משבר כלל-עולמי.\n* **שינוי תפיסת המציאות במצב של קריסה טוטאלית:** במקרה של קריסת המערכות העולמיות, התפיסה היא שהכסף והזהב יאבדו כל ערך. במציאות כזו, חובות לא יימדדו באמצעים כספיים אלא במונחים של הישרדות (\"חובות שישולמו בדם\")."
+  },
+  {
+    "id": "1subk4u",
+    "title": "Why nuclear energy is catching a massive bid NOW",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1subk4u/why_nuclear_energy_is_catching_a_massive_bid_now/",
+    "author": "Original_Design_3343",
+    "score": 49,
+    "selftext": "Nuclear energy is acting really weird lately. Over the last three months, **OKLO** is down about 20%. At the same time, **CEG** is completely dominating the market conversation thanks to the Three Mile Island restart story. **VST** is also getting treated like a sector leader because of potential power contracts with **Meta**.\n\nThe market reaction is totally split. The reason is actually pretty simple. Wall Street is finally waking up. They are done treating nuclear like some outdated power source. They are actively repricing it as the single most scarce asset in the AI era: 24/7 low-carbon baseload power.\n\n\n\nHyperscalers are hunting for massive multi-gigawatt contracts to feed their data centers. That turns nuclear into a highly coveted clean energy asset. Data center power demand is projected to absolutely skyrocket by 2030. Some estimates show a 160% jump. Building brand new nuclear plants takes way too long due to red tape. Because of that, the market is entirely focused on extending the life of existing plants, increasing their output, and restarting dormant reactors. It is vastly cheaper per megawatt. Plus, these assets are already plugged into the grid. Time is literally money right now.\n\nThe entire business model is shifting. These companies are transforming from slow, highly regulated utilities into premium infrastructure plays locking in direct long-term contracts with massive power consumers.\n\n\n\nStrip away the noise and the nuclear thesis comes down to three moving parts right now.\n\nBig Tech PPAs are the holy grail. Locking in 20-year guaranteed cash flows changes the valuation math completely. The **CEG** Three Mile Island restart is the ultimate test, alongside whatever **Meta, VST**, and **OKLO** actually deliver. The only real threat is regulators like FERC or PJM stepping in to block colocation or rewrite grid rules. If that happens, this trade hits a brick wall.\n\nFor near-term upside, it is all about squeezing extra juice out of existing assets. Building new plants is a nightmare, so life extensions and uprates are the only reliable growth path. Watch **NRC** license renewal speeds and make sure capex from guys like CEG is actually boosting capacity without safety upgrades blowing up their budgets.\n\nLong-term, we need to see if next-gen SMRs actually break ground. Wall Street has massive PTSD from decades of nuclear cost overruns. Soft MOUs from startups like **OKLO** mean absolutely nothing until they convert into binding contracts. Until there are literal shovels in the dirt, the SMR space is just a bunch of speculative lotto tickets.\n\n\n\n\n\nNow, the playbook from here. **CEG** is your leading indicator for the whole sector. They have a massive fleet of existing reactors. If they successfully turn Big Tech demand into long-term cash flow, everyone else follows.\n\n**VST** is a direct beneficiary of the current power squeeze. They have the actual scale to supply hundreds of megawatts quickly. That gives them massive leverage when negotiating with hyperscalers.\n\n**CCJ** is a great way to play the supply chain. If restarts and uprates happen, the market needs more uranium fuel. It is a perfect thermometer for the industry.\n\nThen you have **OKLO**. This is a pure bet on Nuclear 2.0. The volatility is going to be insane. But if they pull it off, the stock will move faster than anything else on this list.\n\n\n\nI completely understand why **OKLO** has bled 20% over the last few months. They are a pre-revenue company pushing next-gen tech. The market absolutely hates the combination of high expectations and timeline uncertainty. Fast reactors have a history of cost shocks. People are rightfully questioning if they can hit the 99% reliability that data centers demand.\n\nI just think the market is severely mispricing their actual business model. **OKLO** has a very real moat. It is not just about their reactor design. It is their specific focus on microgrids tailored for AI workloads, their fuel recycling narrative, and their strategy of locking in customers before building. Look at their 1.2GW Ohio campus plans with Meta, their partnership with NVIDIA, and their DOE pathways. This is not just fluff PR.\n\nThe catalysts for a rebound are right in front of us. We need to see actual progress on licensing. We need absolute clarity on their offtake agreements and upfront payments. Most importantly, we need technical validation that actually lowers their cost of capital. The moment any of these hit the tape with real numbers, this current dip becomes a massive entry opportunity. The fundamental story is fully intact.",
+    "subreddit": "StockMarket",
+    "created_utc": 1777025629,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Don't sleep on European nuclear energy btw ",
+        "score": 6,
+        "author": "Royal_Battle1913"
+      },
+      {
+        "body": "I have had CEG since day 1.  I think I got it at $36/share.  VST came later but also sitting at a nice profit.  ",
+        "score": 3,
+        "author": "UGetnMadIGetnRich"
+      },
+      {
+        "body": "I have a strong position on Denison Mines (DNN). Happy so far",
+        "score": 3,
+        "author": "DCervan"
+      }
+    ],
+    "summary_he": "השוק מתמחר מחדש את האנרגיה הגרעינית כנכס קריטי לעידן ה-AI, בשל הצורך הגובר של מרכזי נתונים באספקת חשמל יציבה ונקיָה מסביב לשעון. המיקוד הנוכחי עובר להארכת חיי כורים קיימים ולחתימת חוזים ארוכי טווח מול ענקיות הטכנולוגיה (כמו CEG ו-VST), בעוד שחברות המפתחות טכנולוגיות דור-חדש (כמו OKLO) נחשבות כרגע להשקעה ספקולטיבית עם פוטנציאל צמיחה גבוה לצד סיכונים רגולטוריים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שהועלו בתגובות, המציגים את סנטימנט הקהילה בנוגע להשקעות באנרגיה גרעינית:\n\n* **פוטנציאל בשוק האירופי:** קיימת המלצה שלא להתעלם מהזדמנויות ההשקעה באנרגיה גרעינית באירופה (\"Don't sleep on European nuclear\"), מה שמעיד על הערכה כי השוק האירופי עשוי להציע תשואה גבוהה בדומה לשוק האמריקאי.\n* **הצלחה בהחזקה לטווח ארוך:** אחד המגיבים מדגיש את הרווחיות של החזקת מניות לאורך זמן, בייחוד כשנכנסים להשקעה בשלבים מוקדמים (כמו רכישת מניית CEG במחיר של 36 דולר).\n* **אמון בחברת Constellation Energy (CEG):** ישנו סנטימנט חיובי חזק כלפי מניית CEG, הנחשבת לאחת ההשקעות המרכזיות והרווחיות ביותר עבור המגיבים בשרשור.\n* **רווחיות במניית Vistra (VST):** בנוסף ל-CEG, צוינה לטובה גם מניית VST כהשקעה שהצטרפה מאוחר יותר לתיק אך עדיין מניבה רווחים יפים למשקיעים.\n* **התמקדות בכריית אורניום (Denison Mines):** הדיון חורג מעבר לחברות האנרגיה עצמן ומצביע על עניין ב\"חומרי הגלם\" של התעשייה; משקיעים מחזיקים בפוזיציות חזקות בחברות כרייה כמו DNN ומביעים שביעות רצון מהביצועים שלהן.\n* **אופטימיות כללית במגזר:** ניכר סנטימנט חיובי וביטחון גבוה בקרב הקהילה לגבי תחום האנרגיה הגרעינית בכללותו, כאשר הדוברים מתארים רווחים משמעותיים ושביעות רצון מהחלטות ההשקעה שלהם בתחום זה."
   },
   {
     "id": "1subs46",
@@ -187,22 +157,43 @@ window.dailyTrends = [
     ],
     "summary_he": "הפוסט מנתח את הצמיחה המרשימה ברווחי חברת רדיט (Reddit) וצופה זינוק נוסף של כ-488% בדוח הכספי הקרוב. על בסיס הערכות שמרניות לצמיחה בהכנסות ובמספר המשתמשים, הכותב מעריך כי מחיר המניה עשוי להגיע ל-420 דולר עד אפריל הקרוב מבלי להיחשב להערכת יתר.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בתגובות המנתח את הדעות והלכי הרוח השונים בקהילה:\n\n**סיכום הדיון בעברית:**\n\n*   **צמיחה עקבית בנתוני המשתמשים:** אחד המגיבים מציין כי רדיט מציגה צמיחה יומית של מעל 20% במספר המשתמשים הפעילים מזה מספר שנים, מה שמעיד על חוזקה תפעולית.\n*   **מתודולוגיית תחזית שמרנית:** קיימת טענה שהתחזיות הכלכליות מבוססות על נתונים היסטוריים ודוחות תעבורה, תוך נקיטת גישה זהירה שמפחיתה בהדרגה את אחוזי הצמיחה הצפויים (מ-17% ל-10%) כדי לא להפריז בהערכות.\n*   **פוטנציאל להפוך למניית ענק:** קיימת סברה אופטימית שאם רדיט תמשיך לצבור תאוצה, היא עשויה להפוך לחברה מובילה בשוק (בדומה לקבוצת \"שבע המופלאות\" – Magnificent Seven).\n*   **ספקנות לגבי היתכנות המספרים:** חלק מהמשתמשים מביעים ספקנות בנוגע לבסיס שעליו נשענות התחזיות הגבוהות, ותוהים האם מספרים כאלו בכלל אפשריים במציאות.\n*   **ביקורת על אמינות המפרסם:** עלה חשד לגבי המניעים של כותב הפוסט המקורי, בטענה שהפרופיל שלו נוצר אך ורק כדי לקדם את רדיט ושהנתונים שהוא מציג הם \"מספרי פנטזיה\" חסרי אחיזה במציאות.\n*   **תפיסת רדיט כהשקעה גרועה:** קיימת דעה נחרצת שרדיט היא השקעה לא כדאית, שכן היא עדיין מוערכת ביתר (Overvalued) בזמן שחברות טכנולוגיה טובות אחרות כבר הספיקו להתאושש ולתקן את ערכן בשוק."
+    "comments_summary_he": "להלן סיכום הדיון בתגובות המנתח את הדעות והלכי הרוח השונים בקהילה:\n\n**סיכום הדיון בעברית:**\n\n*   **צמיחה עקבית בנתוני המשתמשים:** אחד המגיבים מציין כי רדיט מציגה צמיחה יומית של מעל 20% במספר המשתמשים הפעילים מזה מספר שנים, מה שמעיד על חוזקה תפעולית.\n*   **מתודולוגיית תחזית שמרנית:** קיימת טענה שהתחזיות הכלכליות מבוססות על נתונים היסטוריים ודוחות תעבורה, תוך נקיטת גישה זהירה שמפחיתה בהדרגה את אחוזי הצמיחה הצפויים (מ-17% ל-10%) כדי לא להפריז בהערכות.\n*   **פוטנציאל להפוך למניית ענק:** קיימת סברה אופטימית שאם רדיט תמשיך לצבור תאוצה, היא עשויה להפוך לחברה מובילה בשוק (בדומה לקבוצת \"שבע המופלאות\" – Magnificent Seven).\n*   **ספקנות לגבי היתכנות המספרים:** חלק מהמשתמשים מביעים ספקנות בנוגע לבסיס שעליו נשענות התחזיות הגבוהות, ותוהים האם מספרים כאלו בכלל אפשריים במציאות.\n*   **ביקורת על אמינות המפרסם:** עלה חשד לגבי המניעים של כותב הפוסט המקורי, בטענה שהפרופיל שלו נוצר אך ורק כדי לקדם את רדיט ושהנתונים שהוא מציג הם \"מספרי פנטזיה\" חסרי אחיזה במציאות.\n*   **תפיסת רדיט כהשקעה גרועה:** קיימת דעה נחרצת שרדיט היא השקעה לא כדאית, שכן היא עדיין מוערכת ביתר (Overvalued) בזמן שחברות טכנולוגיה טובות אחרות כבר הספיקו להתאושש ולתקן את ערכן בשוק.",
+    "dateString": "2026-04-25",
+    "savedAt": {
+      "_seconds": 1777102779,
+      "_nanoseconds": 492000000
+    }
   },
   {
-    "id": "1stfbex",
-    "title": "Industrial Model Picks & Portfolio Chart",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1stfbex/industrial_model_picks_portfolio_chart/",
-    "author": "AdministrativeBug554",
-    "score": 2,
-    "selftext": "On Tuesday, the model made 14 picks.  \nYesterday, the model made another 13 picks.  \n  \nTuesday's picks : +4.86% (revised higher from yesterday's 0.69%)  \nYesterday's picks : +4.39%  \n  \nIndustrial ETF (VIS) :  \n2-day return : -1.41%  \n1-day return: -0.16%  \n  \n  \nThese are a combination of 5 days models. So, on Tuesday, you would have put money to work, then added on Wednesday, holding Tuesday's picks.  \n  \nIn the past 2 days I have gotten \\~27% longer but also trimmed some old trades. This model has done a good job of refreshing the portfolio but continuing to put 10-15% to work everyday.  \n  \nToday I'll:  \n\\- Add the picks for today  \n\\- Clean old trades past their target date (it only takes a few clicks)  \n\\- Maybe make some small modifications to the portfolio.  \n\\- Pre-emptively take profits or some stocks may hit their profit taking price  \n  \nEasy day.  \n  \nPictured Below :  \n  \nTuesday's Picks  \nWednesdays Picks  \n14 day Portfolio Metric Chart (1% positions/trade for the equity curve)  \n  \n",
-    "subreddit": "StockMarket",
-    "created_utc": 1776941623,
-    "thumbnail": "https://preview.redd.it/petf3hs17xwg1.png?width=140&height=121&auto=webp&s=154d6967bd66cdda4d89ea15ec9ba965ed171533",
-    "top_comments": [],
-    "summary_he": "הפוסט מציג את ביצועיו המרשימים של מודל מסחר במניות תעשייה, שהניב תשואות של למעלה מ-4% ביומיים האחרונים והכה משמעותית את מדד הייחוס (VIS) שירד בתקופה זו. הכותב מתאר אסטרטגיה של רענון יומי של תיק ההשקעות, הכוללת הוספת בחירות חדשות וסגירת עסקאות ישנות בהתאם למודל של חמישה ימים לצורך מיקסום רווחים.",
+    "id": "1sv8njk",
+    "title": "should I add SPMO or VOO to round out my portfolio?",
+    "url": "https://www.reddit.com/r/investing/comments/1sv8njk/should_i_add_spmo_or_voo_to_round_out_my_portfolio/",
+    "author": "SnooBooks3187",
+    "score": 3,
+    "selftext": "So I’ve been investing since I was 18 and I’m still pretty early in building everything out. My current holdings are NVDA, PLTR, SCHD, and SCHG.\n\nI want to add one more and I keep going back and forth between SPMO and VOO. Honestly I’m leaning SPMO just because the returns have been better and at my age I feel like I can afford to take that kind of risk. Yeah the expense ratio is higher but if it’s outperforming by that much does it really matter that much?\n\nI know everyone defaults to VOO and I get it, it’s reliable. But I feel like with 40+ years ahead of me I don’t need to play it that safe yet.\n\nMaybe my portfolio is already risky enough idk. That’s kinda why I’m asking here since you guys have way more experience than me. What would you honestly do at 19?",
+    "subreddit": "investing",
+    "created_utc": 1777113348,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I think PLTR relies too heavily on government contracts. It's also publicly unpopular so a future government/administration might pull back from it.",
+        "score": 1,
+        "author": "Informal-Lime6396"
+      },
+      {
+        "body": "The tax drag really dampens potential",
+        "score": 1,
+        "author": "Informal-Lime6396"
+      },
+      {
+        "body": "If an equity has been having high returns, it is the best indicator that it will have lower returns in the future. I always recommend the book, An Average Walk Down Wall Street, Malkiel.",
+        "score": 1,
+        "author": "Premium_Lover"
+      }
+    ],
+    "summary_he": "משקיע בן 19 מתלבט האם להוסיף לתיק ההשקעות שלו את קרן המומנטום (SPMO) או את מדד ה-S&P 500 הסטנדרטי (VOO). הוא נוטה לבחור ב-SPMO בשל פוטנציאל התשואה הגבוה והאופק המושקע הארוך העומד לרשותו, וזאת למרות הסיכון המוגבר ודמי הניהול הגבוהים יותר ביחס למדד הרחב.",
     "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים בקהילה בנוגע למניית Palantir (PLTR):\n\n*   **תלות יתר במגזר הממשלתי:** קיימת דאגה בקרב המגיבים מכך שהמודל העסקי של החברה נשען בצורה משמעותית מדי על חוזים עם גופים ממשלתיים, מה שנתפס כחוסר גיוון במקורות ההכנסה.\n*   **סיכון פוליטי ושינויי ממשל:** הועלה חשש כי ממשלים עתידיים עלולים לסגת מההתקשרות עם החברה או לצמצם אותה, במיוחד לאור שינויים בסדרי עדיפויות פוליטיים.\n*   **חוסר פופולריות ציבורית:** חלק מהקהילה מציין כי המוניטין של החברה בקרב הציבור הרחב אינו חיובי, וסנטימנט שלילי זה עלול להפעיל לחץ על מקבלי החלטות להפסיק לעבוד איתה.\n*   **השפעת \"גרר המס\" (Tax Drag):** עלתה טענה כי חשיפה למסים מסוימים הכרוכים באחזקה או במבנה החברה עלולה להעיב על פוטנציאל הרווח הסופי של המשקיעים ולפגוע בתשואה הריאלית.\n*   **ספקנות לגבי המשכיות של תשואות גבוהות:** הובעה דעה הגורסת כי ביצועי עבר מרשימים הם דווקא האינדיקטור הטוב ביותר לכך שהתשואות בעתיד יהיו נמוכות יותר, בשל תיקון בשווי המניה.\n*   **הסתמכות על תיאוריית \"השוק היעיל\":** בקהילה ממליצים על גישה זהירה המבוססת על ספרות כלכלית קלאסית (כמו הספר \"הליכה אקראית בוול סטריט\"), המטילה ספק ביכולת של מניה שזינקה להמשיך להניב רווחים עודפים לאורך זמן."
   },
   {
     "id": "1sur83u",
@@ -228,83 +219,197 @@ window.dailyTrends = [
     ],
     "summary_he": "המשתמש פיתח אתר אינטרנט חינמי המציע מגוון כלי עזר וחישוב בתחום הפיננסים. הוא מזמין את הגולשים להתנסות באתר ומבקש לקבל מהם משוב כדי לשפרו.",
     "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות בשרשור:\n\n*   **ספקנות לגבי ערך השיתוף:** קיימת תחושה בקהילה שלא כל פרויקט שנוצר בשיטת \"Vibe Coding\" (תכנות מבוסס הנחיות כלליות ובינה מלאכותית) הוא מספיק ייחודי או בעל ערך כדי להצדיק שיתוף עם הכלל.\n*   **ביקורת על פשטות התוצר:** המגיבים מציינים כי התוצאה הנוכחית נראית בסיסית מאוד וחסרה עומק טכני או פונקציונליות מורכבת.\n*   **ליקויים בחוויית המשתמש (UI/UX):** הועלתה ביקורת ספציפית על פרטים טכניים בממשק, כמו הופעת \"אפסים מובילים\" (leading zeros) בעת הזנת מספרים, דבר המעיד על חוסר ליטוש במוצר.\n*   **צורך בשקיפות והסברים:** משתמשים מצפים להסברים מעמיקים יותר על הלוגיקה שמאחורי התוכנה ועל האופן שבו מתבצעים החישובים, ולא רק לתוצאה סופית \"קסומה\".\n*   **עליית רף האיכות בעידן ה-AI:** קיימת הבנה שטכנולוגיות ה-\"Vibe Coding\" יביאו לעלייה אקספוננציאלית בהגדרת \"תוכנה איכותית\". מכיוון שקל יותר לבנות דברים בסיסיים, הרף להרשים את הקהילה הופך לגבוה בהרבה.\n*   **הדגשת החשיבות של מחשבה מעמיקה:** נטען כי בעתיד, כדי להתבלט, מפתחים יצטרכו להשקיע הרבה יותר מחשבה בתכנון ובעומק של מה שהם בונים, ולא להסתמך רק על היכולת לייצר קוד מהיר ושטחי."
-  },
-  {
-    "id": "1sujclx",
-    "title": "Jane Street Snatches Wall Street Crown With Record $39.6 Billion Trading Haul.",
-    "url": "https://www.reddit.com/r/finance/comments/1sujclx/jane_street_snatches_wall_street_crown_with/",
-    "author": "coinfanking",
-    "score": 1,
-    "selftext": "Jane Street Group reeled in a Wall Street record $39.6 billion of trading revenue last year, capping a stunning ascent to the peak of the industry.\n\nThe firm flew past global investment banks after reaping $15.5 billion in the year’s final quarter, according to people with knowledge of the results, who asked not to be named discussing confidential figures. With only 3,500 employees, it beat nearest rival JPMorgan Chase & Co. by 11% during the year.",
-    "subreddit": "finance",
-    "created_utc": 1777045324,
-    "thumbnail": "https://external-preview.redd.it/Hv9ZP9O2yYwgJNZLCrK_tr8_D4MWBrZjDnWNzHQT-xA.jpeg?width=140&height=93&auto=webp&s=ac6b6d0fcdc8822f12c61e5b53396e0703da0433",
-    "top_comments": [
-      {
-        "body": "They were picking up all the $ dropped on the floor by retail investors blindly throwing money at ETFs.",
-        "score": 1,
-        "author": "MerryWalrus"
-      },
-      {
-        "body": "They’re just serving as market maker for etf entities like spy and Voo, every time you buy a share of the etf the entity needs to allocate a number of shares proportional to the etf ",
-        "score": 1,
-        "author": "BODYBUTCHER"
-      },
-      {
-        "body": "Buy-side and sell-side are fundamentally different businesses.\n\nIt's like comparing a Michelin starred restaurant to a supermarket.",
-        "score": 1,
-        "author": "MerryWalrus"
-      }
-    ],
-    "summary_he": "חברת ג'יין סטריט (Jane Street) קבעה שיא חדש בוול סטריט עם הכנסות ממסחר בסך 39.6 מיליארד דולר בשנה האחרונה. למרות שהיא מעסיקה 3,500 עובדים בלבד, החברה הצליחה לעקוף בנקי השקעות ענקיים כמו ג'יי.פי מורגן צ'ייס ולהפוך למובילה בתחומה.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ותובנות שונות שעלו מהתגובות:\n\n* **ניצול טעויות של משקיעים קטנים:** אחת הדעות המרכזיות היא שהמוסדות הפיננסיים הגדולים מרוויחים מהכסף שמשקיעים פרטיים (Retail) \"משאירים על הרצפה\" בשל השקעות עיוורות ובלתי מחושבות בקרנות סל (ETFs).\n* **ביקורת על התנהלות הציבור:** קיימת סנטימנט בקהילה לפיו משקיעים קטנים פשוט \"זורקים כסף\" על תעודות סל ללא הבנה מעמיקה או אסטרטגיה, מה שיוצר הזדמנויות רווח לגופים מתוחכמים יותר.\n* **תפקיד \"עושה השוק\" (Market Maker):** מוסבר כי הגופים הללו פועלים כספקי נזילות עבור קרנות ענק כמו SPY ו-VOO. הם אינם בהכרח מהמרים נגד השוק, אלא מאפשרים את קיום המסחר השוטף בקרנות אלו.\n* **המנגנון הטכני של קרנות הסל:** התגובות מדגישות כי בכל פעם שמשקיע קונה יחידה בקרן סל, הישות המנהלת חייבת להקצות מניות באופן פרופורציונלי להרכב הקרן, תהליך שמייצר עבודה ורווח עבור עושי השוק.\n* **הפרדה מבנית בעולם הפיננסי:** קיימת הבחנה חדה ומהותית בין צד הקנייה (Buy-side) לבין צד המכירה (Sell-side). אלו נתפסים כשני מודלים עסקיים שונים לחלוטין שאין לערבב ביניהם.\n* **אנלוגיית \"הסופרמרקט מול מסעדת המישלן\":** השימוש בדימוי זה ממחיש את ההבדל בין הגופים – בעוד שצד אחד מתמקד בבחירה קפדנית ואיכותית של השקעות (כמו מסעדה), הצד השני (עושי השוק) פועל כסופרמרקט שמטרתו לספק מלאי רחב וזמין לציבור הרחב ביעילות."
-  },
-  {
-    "id": "1su8j3q",
-    "title": "Oracle’s Deluge of AI Debt Pushes Wall Street to the Limit",
-    "url": "https://www.reddit.com/r/finance/comments/1su8j3q/oracles_deluge_of_ai_debt_pushes_wall_street_to/",
-    "author": "CommercialMassive751",
-    "score": 1,
-    "selftext": "The artificial-intelligence boom has hit a funding snag, compounding power constraints and growing public backlash against data centers",
-    "subreddit": "finance",
-    "created_utc": 1777014957,
-    "thumbnail": "https://external-preview.redd.it/PUtFFZU_L4dSts9EiQJDpMHSBiA4N717fc6j9652OU0.jpeg?width=140&height=70&auto=webp&s=31c64ec8e6351cb479342caaf2a3b19798b1730b",
-    "top_comments": [
-      {
-        "body": "Watching Larry Ellison crash and burn would almost make up for the suffering he'll inflict by crashing the AI bubble, and with it the whole economy.",
-        "score": 1,
-        "author": "kenlubin"
-      },
-      {
-        "body": "On the technical basis, ORCL has do far been rejected at the 50MMA $190. I am certain that it’s getting g more short attention now. ",
-        "score": 1,
-        "author": "CommercialMassive751"
-      }
-    ],
-    "summary_he": "החובות הכבדים שצברה ענקית הטכנולוגיה \"אורקל\" עבור פיתוח תשתיות בינה מלאכותית מעוררים דאגה בוול סטריט ומותחים את גבולות המימון בשוק. תנופת ה-AI כולה ניצבת בפני מכשולים משמעותיים, הכוללים קשיי תקציב, מגבלות באספקת חשמל והתנגדות ציבורית גוברת להקמת מרכזי נתונים.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון בשרשור המבוסס על התגובות, המציג 6 נקודות מבט ורגשות קהילתיים שונים:\n\n*   **טינה אישית כלפי לארי אליסון:** מהתגובות עולה רגש שלילי עז כלפי מייסד אורקל, עד כדי הבעת סיפוק (\"שמחה לאיד\") מהאפשרות שיחווה כישלון מקצועי או כלכלי צורב.\n*   **חשש מבועת בינה מלאכותית (AI):** קיימת תחושה בקרב המשתמשים כי תחום ה-AI נמצא כרגע במצב של \"בועה\" שעתידה להתפוצץ, וכי לארי אליסון ואורקל משחקים תפקיד מרכזי בניפוחה.\n*   **תחזית לקריסה כלכלית רחבה:** מעבר להשפעה על חברה ספציפית, מובע חשש שפיצוץ בועת ה-AI יוביל לשרשרת תגובות שתפגע בכלכלה העולמית כולה.\n*   **הכרה במחיר האנושי:** המגיבים מציינים כי קריסה כזו תגרום ל\"סבל\" רב לציבור, מה שמצביע על תפיסה שהתנהלותם של אילי הון משפיעה ישירות על חייהם של אנשים מן השורה.\n*   **ניתוח טכני פסימי למניית אורקל (ORCL):** מבחינה פיננסית, צוין כי המניה נתקלה בהתנגדות טכנית משמעותית (ממוצע נע 50 חודשים סביב רמת ה-190$), מה שמעיד על קושי של המניה להמשיך לעלות בטווח הקרוב.\n*   **עלייה בעניין מצד \"שורטיסטים\":** קיימת הערכה בקהילה כי המנייה מושכת כעת יותר תשומת לב מצד משקיעים המהמרים על ירידת ערכה (Short sellers), ככל הנראה בשל השילוב בין הנתונים הטכניים לסנטימנט השלילי.",
-    "dateString": "2026-04-24",
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות בשרשור:\n\n*   **ספקנות לגבי ערך השיתוף:** קיימת תחושה בקהילה שלא כל פרויקט שנוצר בשיטת \"Vibe Coding\" (תכנות מבוסס הנחיות כלליות ובינה מלאכותית) הוא מספיק ייחודי או בעל ערך כדי להצדיק שיתוף עם הכלל.\n*   **ביקורת על פשטות התוצר:** המגיבים מציינים כי התוצאה הנוכחית נראית בסיסית מאוד וחסרה עומק טכני או פונקציונליות מורכבת.\n*   **ליקויים בחוויית המשתמש (UI/UX):** הועלתה ביקורת ספציפית על פרטים טכניים בממשק, כמו הופעת \"אפסים מובילים\" (leading zeros) בעת הזנת מספרים, דבר המעיד על חוסר ליטוש במוצר.\n*   **צורך בשקיפות והסברים:** משתמשים מצפים להסברים מעמיקים יותר על הלוגיקה שמאחורי התוכנה ועל האופן שבו מתבצעים החישובים, ולא רק לתוצאה סופית \"קסומה\".\n*   **עליית רף האיכות בעידן ה-AI:** קיימת הבנה שטכנולוגיות ה-\"Vibe Coding\" יביאו לעלייה אקספוננציאלית בהגדרת \"תוכנה איכותית\". מכיוון שקל יותר לבנות דברים בסיסיים, הרף להרשים את הקהילה הופך לגבוה בהרבה.\n*   **הדגשת החשיבות של מחשבה מעמיקה:** נטען כי בעתיד, כדי להתבלט, מפתחים יצטרכו להשקיע הרבה יותר מחשבה בתכנון ובעומק של מה שהם בונים, ולא להסתמך רק על היכולת לייצר קוד מהיר ושטחי.",
+    "dateString": "2026-04-25",
     "savedAt": {
-      "_seconds": 1777018503,
-      "_nanoseconds": 738000000
+      "_seconds": 1777102797,
+      "_nanoseconds": 514000000
     }
   },
   {
-    "id": "1sv4mfd",
-    "title": "What is the beta of your portfolio?",
-    "url": "https://www.reddit.com/r/investing/comments/1sv4mfd/what_is_the_beta_of_your_portfolio/",
-    "author": "nuvariLuna",
+    "id": "1sw0ixs",
+    "title": "42Macro and KISS strategy looking for subscriber feedback?",
+    "url": "https://www.reddit.com/r/investing/comments/1sw0ixs/42macro_and_kiss_strategy_looking_for_subscriber/",
+    "author": "NeatLight7251",
     "score": 1,
-    "selftext": "I am trying to increase diversification by having assets of different beta value. At the moment I am mostly have equites, gold, and government bonds in my portfolio. \n\nI am curios to see how your portfolio looks like and how you diversify based on beta.",
+    "selftext": "I have followed 42 Macro for a while and it seems interesting. I wonder if anyone here is a subscriber who could provide their impressions of the service--quality and if the strategy actually works in practice. I am not asking for any info that would be behind the paywall. I have always been a buy and hold person so not sure it is for me.",
     "subreddit": "investing",
-    "created_utc": 1777099287,
+    "created_utc": 1777187383,
     "thumbnail": "self",
     "top_comments": [],
-    "summary_he": "הכותב מבקש לדעת מהו מדד הבטא (Beta) של תיקי ההשקעות של גולשים אחרים כדי ללמוד כיצד לגוון את התיק שלו בצורה יעילה יותר. כיום התיק שלו מורכב ממניות, זהב ואיגרות חוב ממשלתיות, והוא מתעניין באסטרטגיות של אחרים לשילוב נכסים בעלי רמות סיכון שונות.",
+    "summary_he": "כותב הפוסט מבקש חוות דעת ממנויים של שירות 42Macro לגבי איכות השירות והיעילות המעשית של אסטרטגיית ה-KISS. מאחר שהוא רגיל לשיטת השקעה של \"קנה והחזק\", הוא מתלבט האם השירות אכן מתאים לסגנון ההשקעה שלו.",
     "category_he": "השקעות",
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1svywhv",
+    "title": "If bonds are the “safe play,” why do they underperform after big inflows?",
+    "url": "https://www.reddit.com/r/investing/comments/1svywhv/if_bonds_are_the_safe_play_why_do_they/",
+    "author": "ChartNavigator",
+    "score": 1,
+    "selftext": "I came across this take on bonds that made me pause a bit. Lately, a lot of people have been moving into bonds again, treating them as the safer option, especially with everything going on. But at the same time, bond funds have seen something like **10 straight months of inflows**, and historically that kind of trend hasn’t always ended well. There’s data suggesting that when too much money flows into these funds, future returns tend to be weaker. It’s not because bonds suddenly become “bad,” but more because strong performance attracts more money, that money pushes prices a bit further, and eventually things get stretched and start to reverse.\n\nSo instead of inflows confirming strength, they can actually signal that a move is getting crowded. Right now, with bonds seeing more consistent demand than equities, it raises the question of whether they might actually underperform from here, even if stocks aren’t exactly in a strong position either. It doesn’t completely change the broader outlook, but it does make the “bonds = safe” narrative feel a bit less straightforward. What do you guys thnk?",
+    "subreddit": "investing",
+    "created_utc": 1777182084,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "It’s about safety, not performance. Everyone is looking to preserve their capital rather than risk it in a 30% stock market downturn or prolonged bear market. ",
+        "score": 1,
+        "author": "MaddRamm"
+      },
+      {
+        "body": "This is just AI slop from a fake influencer account. They can barely write a full english sentence without AI. They definitely do not understand or care about bonds, might as well be talking about falafels.",
+        "score": 1,
+        "author": "cdude"
+      },
+      {
+        "body": "Are you worried about lower yields due to higher demand/prices? The risk is pretty transparently priced though since the yields are updated as the prices rise. Plus the price increase should help to offset the lower yields in the short term, and you can always sell out as prices rise. I believe the bigger risks with bonds is typically interest rates shifts more then investor demand ",
+        "score": 1,
+        "author": "AntiqueProfessor5134"
+      }
+    ],
+    "summary_he": "הפוסט דן בסתירה שבין התפיסה של איגרות חוב כ\"חוף מבטחים\" לבין הנתונים המראים כי הזרמות כספים מאסיביות וממושכות לקרנות אג\"ח מובילות לעיתים קרובות לתשואות חסר. הכותב טוען כי כאשר השוק הופך ל\"צפוף\" מדי, המחירים נמתחים מעבר לערכם הריאלי, מה שמעמיד בסימן שאלה את ההנחה שאג\"ח הן תמיד הבחירה הבטוחה ביותר.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בשרשור המבוסס על התגובות המובילות, המציג 6 נקודות מבט וסנטימנטים שונים בקהילה:\n\n*   **עדיפות לשימור הון על פני תשואה:** אחד הסנטימנטים המרכזיים הוא שהמניע העיקרי של משקיעים כיום הוא בטיחות. המטרה היא להגן על הכסף הקיים מפני הפסדים, גם אם זה בא על חשבון ביצועים גבוהים או רווחים משמעותיים.\n*   **חשש ממשבר עמוק בשוק המניות:** הקהילה מביעה חשש ריאלי מפני קריסה של כ-30% במדדי המניות או כניסה ל\"שוק דובי\" (מגמת ירידה) ממושכת, מה שדוחף את המשקיעים לחפש מקלט באגרות חוב.\n*   **ספקנות כלפי \"משפיענים\" ותוכן בינה מלאכותית:** קיימת ביקורת נוקבת על אמינות המקורות ברשת. חלק מהגולשים מזהירים מפני חשבונות מזויפים המפיצים תוכן דל שנוצר על ידי AI, וטוענים שיוצרי התוכן הללו אינם מבינים באמת את המכניקה של שוק האג\"ח.\n*   **שקיפות בתמחור הסיכונים:** ישנה טענה שהסיכונים באגרות חוב מתומחרים באופן שקוף וברור. ככל שהביקוש עולה והמחירים עולים, התשואות מתעדכנות בהתאם, כך שהמשקיע יודע בדיוק מהו הסיכון שהוא לוקח בכל רגע נתון.\n*   **קיזוז תשואות באמצעות רווחי הון:** נקודת מבט אופטימית מציינת כי עליית מחירי האג\"ח (עקב ביקוש גבוה) יכולה לפצות על תשואות נמוכות יותר בטווח הקצר. הדבר מאפשר למשקיעים גמישות לצאת מהפוזיציה ברווח כאשר המחירים עולים.\n*   **זיהוי גורם הסיכון המרכזי:** בקרב המשקיעים המנוסים יותר, קיימת הסכמה שהסיכון האמיתי באג\"ח נובע משינויים בשערי הריבית במשק, ולאו דווקא מתנודות בביקוש של משקיעים אחרים בשוק."
+  },
+  {
+    "id": "1svylid",
+    "title": "Who are your go-to experts and news sources for stocks?",
+    "url": "https://www.reddit.com/r/investing/comments/1svylid/who_are_your_goto_experts_and_news_sources_for/",
+    "author": "TheReborner",
+    "score": 1,
+    "selftext": "​Hey everyone,\n\n​I want to follow more \"high-signal\" experts and reliable news sources.\n\n​Aside from Reddit, where do you guys get your daily dose of stock news? \n\nSpecifically:\n\n​Twitter (X): Any must-follow accounts that provide informations on stock market\n\n​YouTube: Which creators focus on fundamentals or technical analysis without the clickbait?\n\n​LinkedIn/Newsletters: Are there any specific analysts or newsletters that you find indispensable?\n\n​I’d love to hear who your favorite \"experts\" are and why you trust their insight. Thanks!",
+    "subreddit": "investing",
+    "created_utc": 1777181103,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Obviously Jim Cramer, you just have to do the opposite of what he says.",
+        "score": 1,
+        "author": "CKingDDS"
+      },
+      {
+        "body": "used to follow a lot of people and ended up overthinking everything…now I just filter it down and only focus on the strongest setups",
+        "score": 1,
+        "author": "TradeFocusApp"
+      }
+    ],
+    "summary_he": "הכותב מבקש המלצות למקורות מידע ומומחים אמינים בשוק ההון (\"high-signal\") מעבר לפלטפורמת רדדיט. הוא מחפש המלצות ספציפיות לחשבונות ב-X (טוויטר), ערוצי יוטיוב מקצועיים וניוזלטרים המתמקדים בניתוח פונדמנטלי וטכני איכותי ללא תוכן מטעה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו:\n\n*   **אסטרטגיית \"הפוך על הפוך\":** קיימת תחושת זלזול מופגנת כלפי דמויות תקשורתיות כמו ג'ים קריימר, עד כדי כך שחלק מהמשתמשים מאמינים שהדרך הטובה ביותר להצליח היא פשוט לפעול בניגוד מוחלט להמלצותיהם.\n*   **סכנת הניתוח המוגזם (Overthinking):** מעקב אחרי מספר רב של מומחים או מקורות מידע עלול להוביל לעומס קוגניטיבי, מה שגורם למשקיע לחשוב יותר מדי ולפספס הזדמנויות או לטעות בשיקול הדעת.\n*   **תהליך הלמידה וההתבגרות כסוחר:** ניכרת אבולוציה בגישה – מעבר משלב של \"רדיפה\" אחרי המלצות של אחרים לשלב של פיתוח סינון עצמאי וממוקד.\n*   **איכות על פני כמות:** הקהילה מדגישה את החשיבות של התמקדות אך ורק ב\"סטאפים\" (setups) החזקים והמובהקים ביותר, במקום לנסות לסחור בכל הזדמנות שצצה.\n*   **הצורך בסינון רעשים:** כדי להצליח בשוק, יש צורך אקטיבי לצמצם את כמות האנשים שעוקבים אחריהם ולזקק רק את המידע הרלוונטי ביותר שיכול להוביל לפעולה.\n*   **חוסר אמון בממסד הפיננסי:** התגובות משקפות סנטימנט קהילתי חזק של חוסר אמון ב\"מומחים\" מטעם עצמם או בדמויות טלוויזיוניות, והעדפה לניתוח טכני או אסטרטגי אישי ופשוט."
+  },
+  {
+    "id": "1svy9uc",
+    "title": "Overlapping ETFs as a good investment strategy?",
+    "url": "https://www.reddit.com/r/investing/comments/1svy9uc/overlapping_etfs_as_a_good_investment_strategy/",
+    "author": "Infnits",
+    "score": 1,
+    "selftext": "&#x200B;\n\nI see SCHD + VYM and VOO + VTI recommended constantly as \"diversified portfolios\" and it's just not true. 86% of SCHD's holdings are also in VYM, and their correlation is 0.95, meaning they move in lockstep. VOO and VTI is even worse, 0.99 correlation, because VTI is literally VOO plus a thin 15% layer of small and mid caps. You're not diversifying, you're paying two expense ratios to own the same 30 mega-caps twice. Real diversification means uncorrelated assets, like adding VXUS for international, BND for bonds, AVUV for small caps, or VNQ for REITs. Not another flavor of large-cap US dividend stocks. Most people who hold both didn't diversify on purpose, they just couldn't pick one and hedged by buying both, which is indecision dressed up as strategy. Pick one as your core and add something genuinely different around it.\n\nWhat do y'all think?",
+    "subreddit": "investing",
+    "created_utc": 1777180084,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Glad you liked it! It’s rarely discussed because most investors focus on 'Returns' while ignoring 'Redundancy.'\nOnce you start looking at 'Active Share' and 'Factor Overlap,' you realize that most 5-6 ETF portfolios are just a messy version of a single Total Market Index. Cutting the noise is the first step toward a pro-level strategy.",
+        "score": 1,
+        "author": "Fun_Pay_992"
+      },
+      {
+        "body": "Yeah the overweighting angle is fair, VTI + QQQ for a tech tilt is a real strategy as long as you know that's what you're doing. On the expense ratio thing you're right, it's basically a wash if both funds are 0.03 to 0.06%. The real cost isn't the fee, it's opportunity cost. If your intent was to diversify and you ended up with two funds that move together, you spent that allocation on something that didn't do the job. That same money in VXUS or BND or AVUV would've actually reduced your correlation to the US large-cap bet. So the downside isn't what you paid, it's what you didn't get. The portfolio looks diversified on paper but behaves like one position when the market moves.",
+        "score": 1,
+        "author": "Infnits"
+      },
+      {
+        "body": "Thank you! That's one of the things I don't hear a lot of investment tips address",
+        "score": 1,
+        "author": "Infnits"
+      }
+    ],
+    "summary_he": "הפוסט מבקר את האסטרטגיה של החזקת תעודות סל חופפות (כמו VOO ו-VTI), וטוען כי בשל המתאם הגבוה ביניהן מדובר בכפל נכסים ולא בפיזור השקעות אמיתי. הכותב ממליץ לבחור קרן מרכזית אחת ולגוון את התיק באמצעות נכסים שאינם מתואמים ישירות, כגון אג\"ח, מניות קטנות או שווקים בינלאומיים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ותובנות מרכזיות של הקהילה:\n\n*   **התמקדות ביתירות (Redundancy) מול תשואות:** משקיעים רבים נוטים להתרכז בחיזוי תשואות ושוכחים לבדוק יתירות בתיק ההשקעות שלהם. ההבנה של מושגים כמו \"Active Share\" (נתח פעיל) וחפיפה בין גורמים (Factor Overlap) חיונית כדי להבין אם התיק באמת מגוון.\n*   **מורכבות מיותרת של התיק:** לעיתים קרובות, בנייה של תיק המורכב מ-5 או 6 קרנות סל (ETFs) שונות היא בסך הכל גרסה \"מבולגנת\" ומסורבלת של מדד שוק כללי אחד (Total Market Index). צמצום \"רעשי הרקע\" הללו נתפס כצעד לעבר אסטרטגיית השקעה מקצועית יותר.\n*   **הטיה מכוונת לעומת טעות:** יצירת משקל יתר למגזר מסוים (כמו שילוב של VTI עם QQQ לצורך הטיה טכנולוגית) היא אסטרטגיה לגיטימית, אך ורק אם המשקיע מודע לכך שזה מה שהוא עושה ולא מצפה לגיוון רחב יותר.\n*   **זניחות דמי הניהול בטווחים נמוכים:** כאשר קרנות סל מציעות דמי ניהול נמוכים מאוד (בין 0.03% ל-0.06%), ההבדל ביניהן כמעט חסר משמעות. העלות האמיתית למשקיע אינה העמלה, אלא \"עלות ההזדמנות\".\n*   **כישלון הפיזור ועלות ההזדמנות:** הבעיה המרכזית בחפיפה בין קרנות היא שמשאבים מוקצים לנכסים שנעים יחד במתאם גבוה (Correlation). במקום זאת, ניתן היה להשתמש באותו כסף כדי לקנות נכסים עם מתאם נמוך באמת (כמו אג\"ח, מניות בינלאומיות או מניות ערך קטנות), מה שבאמת היה מפחית את הסיכון בתיק.\n*   **גיוון \"על הנייר\" מול המציאות:** קיימת הבחנה בין תיק שנראה מגוון מבחינה ויזואלית (כי יש בו הרבה קרנות) לבין התנהגות התיק בפועל בזמן תנודות בשוק. משקיעים רבים מחזיקים בתיקים שמתנהגים כפוזיציה אחת בודדת ברגע שהשוק מתחיל לנוע, למרות שהם מאמינים שהם מוגנים באמצעות פיזור."
+  },
+  {
+    "id": "1svy5y0",
+    "title": "What do you guys think about REKR???",
+    "url": "https://www.reddit.com/r/investing/comments/1svy5y0/what_do_you_guys_think_about_rekr/",
+    "author": "Grouchy_Youth_7607",
+    "score": 1,
+    "selftext": "I have been following this company and I feel like there is potential for growth and seems to be at the lowest price right now. \n\nI have been slowly buying shares and plan to add more. \n\nIs anyone here investing on it and what are your thoughts on this one?",
+    "subreddit": "investing",
+    "created_utc": 1777179747,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "tbh I don’t try to catch the bottom anymore\nif it’s good it’ll give a clean setup on the way up\nthat’s where I’m more comfortable entering",
+        "score": 1,
+        "author": "TradeFocusApp"
+      }
+    ],
+    "summary_he": "הכותב מבקש לקבל חוות דעת על מניית REKR, מתוך אמונה שיש לה פוטנציאל צמיחה ושהיא נסחרת כרגע במחיר שפל. הוא מציין כי הוא רוכש מניות בהדרגה ומתכנן להגדיל את אחזקותיו, ושואל האם משקיעים נוספים בקהילה מושקעים בה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן ניתוח של תובנות וסנטימנטים העולים מהתגובה בשרשור (בהתבסס על התוכן שסיפקת):\n\n**סיכום הדיון בנקודות:**\n\n*   **ויתור על הניסיון \"לתפוס את התחתית\" (Catching the Bottom):** הכותב מבטא סנטימנט של שינוי בגישה, לפיו הוא הפסיק לנסות לנחש מתי המחיר הגיע לנקודה הנמוכה ביותר שלו. זוהי הכרה בכך שחיזוי התחתית הוא פעולה קשה ולעיתים קרובות מובילה להפסדים.\n*   **העדפת אישור מגמה על פני מחיר מינימלי:** עולה נקודה אסטרטגית חשובה – עדיף להיכנס לעסקה כשהמחיר כבר נמצא במגמת עלייה ויוצר \"מבנה נקי\" (Clean Setup), גם אם זה אומר לקנות במחיר מעט גבוה יותר.\n*   **חשיבות הנוחות הפסיכולוגית במסחר:** המגיב מציין שהוא מרגיש \"בנוח יותר\" (More comfortable) בשיטת העבודה הנוכחית. נקודה זו מדגישה שניהול רגשות וביטחון בתוכנית העבודה חשובים לעיתים יותר מאשר ניסיון למקסם כל אחוז של רווח פוטנציאלי.\n*   **אמונה באיכות הנכס לטווח ארוך:** קיימת תפיסה שאם מדובר בנכס או פרויקט \"טוב\", הוא יספק הזדמנויות כניסה ברורות ובטוחות גם לאחר שהחל לעלות, ולכן אין צורך בלחץ של כניסה מוקדמת מדי.\n*   **למידה מניסיון עבר:** השימוש במילה \"anymore\" (כבר לא) מעיד על תהליך של התבגרות מקצועית. נראה שהכותב פעל בעבר בשיטה של ניסיון לתפוס תחתיות, הפיק לקחים, ושינה את האסטרטגיה שלו לגישה שמרנית ומחושבת יותר.\n*   **הימנעות מניחושים והסתמכות על עובדות:** הגישה המוצגת מעדיפה להסתמך על מה שקורה בפועל בגרף (העלייה והמבנה הנוצר) במקום על ניסיון לחזות מה יקרה בעתיד בנקודות השפל. זוהי עמדה של סוחר המעדיף ודאות יחסית על פני הימור."
+  },
+  {
+    "id": "1svqcev",
+    "title": "Big week of earnings coming up!!",
+    "url": "https://www.reddit.com/r/investing/comments/1svqcev/big_week_of_earnings_coming_up/",
+    "author": "reddituserxxxxxxx7",
+    "score": 1,
+    "selftext": "Wednesday: Meta, Microsoft, Amazon, Google\n\nThursday: Apple\n\nThe market is going to respond VERY strongly, either good or bad.\n\nKey things to look for: \n\n\\-CAPEX spend (on track from previous earnings reports, increasing, decreasing?) will be big on the AI narrative.\n\n\\-Obviously earnings beats or misses\n\n\\-Forward guidance \n\n\\-Whether or not AI is increasing revenue, for Amazon and Microsoft: their cloud platforms. For Meta: their advertising revenue increases.\n\nEither way, going to be extremely insightful and either bearish or bullish for the market as a whole. \n\nGrab your popcorn, I know if we dip, i’m ready to deploy cash. \n\nHappy investing! Would love to hear yalls thoughts!",
+    "subreddit": "investing",
+    "created_utc": 1777157142,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "RDDT: $250 after earnings, $500 end of year.",
+        "score": 2,
+        "author": "tomato232"
+      },
+      {
+        "body": "It’s all gonna be good in my opinion .. we will see ",
+        "score": 2,
+        "author": "Confident-Cell-2549"
+      },
+      {
+        "body": "Looking forward to buying the hyperscaler dips",
+        "score": 1,
+        "author": "TibbersGoneWild"
+      }
+    ],
+    "summary_he": "השבוע צפויים להתפרסם דוחות כספיים של ענקיות הטכנולוגיה (מטא, מיקרוסופט, אמזון, גוגל ואפל), דוחות שצפויים לעורר תנודתיות רבה ולהשפיע על כיוון השוק כולו. המיקוד העיקרי יהיה בהשפעת הבינה המלאכותית על ההכנסות, בהוצאות ההוניות (CAPEX) ובתחזיות החברות לעתיד, שיכריעו אם המגמה תהיה חיובית או שלילית.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות העולות מתוך התגובות בשרשור:\n\n* **תחזית שורית קיצונית למניית Reddit (RDDT):** אחד המשתמשים מציג יעד מחיר שאפתני מאוד של 250$ למניה מיד לאחר פרסום הדוחות הכספיים (Earnings).\n* **אופטימיות לטווח ארוך:** קיימת ציפייה בקהילה שהמומנטום החיובי יימשך לאורך השנה, עם יעד מחיר של 500$ למניית RDDT עד סוף השנה הקלנדרית.\n* **סנטימנט חיובי כללי:** חלק מהמגיבים מביעים אמון כללי בכך שהמצב יהיה טוב (\"It’s all gonna be good\"), מה שמעיד על אווירה אופטימית בקרב המשקיעים בשרשור.\n* **גישת \"נחכה ונראה\":** לצד האופטימיות, קיימת הכרה באי-הודאות של השוק, תוך המתנה לראות כיצד הדברים יתפתחו בפועל לפני קבלת החלטות סופיות.\n* **אסטרטגיית \"קנייה בירידות\" (Buy the Dip):** משקיעים בקהילה מחכים באופן פעיל לירידות שערים זמניות כדי לנצל אותן להגדלת פוזיציות במחירים נוחים יותר.\n* **התמקדות במגזר ה-Hyperscalers:** קיים עניין ספציפי בחברות הענן והטכנולוגיה הגדולות (Hyperscalers), והמשקיעים עוקבים אחר הזדמנויות כניסה למניות אלו בזמן תיקונים בשוק."
+  },
+  {
+    "id": "1svq85o",
+    "title": "When investing in ETFs, do you ever consider how the fund managers vote with the stocks?",
+    "url": "https://www.reddit.com/r/investing/comments/1svq85o/when_investing_in_etfs_do_you_ever_consider_how/",
+    "author": "Pure_Cantaloupe_341",
+    "score": 1,
+    "selftext": "Hi all,\n\nThe passive ETFs are being marketed as a convenience tool where you’re “just investing in companies in an index”. The “passive” bit implies that the role of the fund manager is just to purchase those stocks, package them into their shares and then sell those packages to you. They just helpfully do it for you for a small fee, so that you wouldn’t need to buy 500 or more stocks individually.\n\nHowever, by investing into an ETF, you increase the share owned by the fund in the companies included in the fund, which gives the fund manager more voting rights within those companies - and they sure do use those rights quite actively for a “passive” fund. But this aspect is quite rarely discussed - most of the information presented by the fund managers focuses on the fund composition and performance, not on the voting rights, and the fact that every penny you invest with them gives them more power, and how they use this power is conveniently omitted…\n\nSo what do you think about it? Do you research voting strategies of passive fund managers and consider them when making investment decisions? Do you think there should be more focus and transparency about it for investors buying the fund shares? Do you see any risks with a handful of funds getting significant influence in the largest companies across all industries by presenting themselves as “default” investment choices?\n\nThank you!",
+    "subreddit": "investing",
+    "created_utc": 1777156834,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Short answer no. Long answer noooooo.",
+        "score": 1,
+        "author": "AntiqueProfessor5134"
+      },
+      {
+        "body": "Definitely, where do you think the ESG score bullcrap comes from?",
+        "score": 1,
+        "author": "Scriptum_"
+      },
+      {
+        "body": "Sure, every individual investor isn’t going to have huge power anyway. However, Vanguard and other similar funds already have significant shares in the companies they invest in, enabled by individual investors, and they do use those shares to vote as the fund managers see fit.\n\nIn my opinion, I think that the fact that your investment into Vanguard funds gives is it more power, and how they will use this power should be made more obvious. By default I would expect them to abstain - they are supposed to the “passive” after all.\n\nI guess you wouldn’t be happy if your broker votes with your shares without asking you, would you? The “passive” fund managers basically position themselves as brokers, rather than decision makers in the companies they invest in with your money, so I would expect them to behave similarly.",
+        "score": 1,
+        "author": "Pure_Cantaloupe_341"
+      }
+    ],
+    "summary_he": "הפוסט דן בהשפעה הסמויה של מנהלי קרנות סל \"פסיביות\", המקבלים זכויות הצבעה משמעותיות בחברות שבהן הם משקיעים עבור לקוחותיהם. הכותב מעלה שאלות בנוגע לחוסר השקיפות באופן השימוש בכוח זה, ותוהה האם על המשקיעים לבחון את אסטרטגיות ההצבעה של המנהלים כחלק משיקולי ההשקעה שלהם.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ועמדות שונות שעלו מתוך התגובות:\n\n*   **שלילה מוחלטת וחד-משמעית:** חלק מהמגיבים דוחים את עצם הרעיון או השאלה באופן נחרץ, בטענה שאין לכך בסיס או הצדקה.\n*   **הקשר לקידום אג'נדות (ESG):** קיימת טענה שהקרנות הגדולות הן המקור לקידום מדדי ה-ESG (סביבה, חברה וממשל תאגידי), הנחשבים בעיני חלק מהקהילה ככלי ריק מתוכן או כניסיון להפעלת כוח פוליטי-חברתי על חברות.\n*   **צבירת כוח באמצעות ריכוז השקעות:** אף על פי שלמשקיע הקטן אין כוח השפעה ממשי כשלעצמו, השקעות מצטברות בקרנות ענק (כמו ונגארד) מעניקות למנהלי הקרנות הללו כוח הצבעה אדיר בחברות שבהן הם מושקעים.\n*   **שימוש של מנהלי קרנות בכספי הציבור לקידום דעתם האישית:** עלתה ביקורת על כך שמנהלי קרנות משתמשים במניות שנרכשו בכספי המשקיעים כדי להצביע בנושאים שונים לפי שיקול דעתם האישי, ולאו דווקא לפי רצון המשקיעים.\n*   **חוסר שקיפות וצורך במודעות:** קיים רגש בקהילה שיש להפוך את נושא זכויות ההצבעה והשפעת הקרנות להרבה יותר ברור ושקוף למשקיע הקצה, כדי שיבין שהכסף שלו משמש ככלי להשגת כוח פוליטי וניהולי.\n*   **ציפייה ל\"פסיביות\" אמיתית:** ישנה דעה שקרנות המוגדרות כ\"פסיביות\" צריכות להתנהג כשמן – להימנע מהצבעות (Abstain) ולא להתערב בקבלת החלטות בחברות, בדומה לברוקרים שאינם מקבלים החלטות עבור לקוחותיהם ללא רשות מפורשת."
   }
 ];
