@@ -1,189 +1,249 @@
 window.dailyTrends = [
   {
-    "id": "1sxafgn",
-    "title": "How is the Predictive Market legal?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1sxafgn/how_is_the_predictive_market_legal/",
-    "author": "dankantspelle",
-    "score": 62,
-    "selftext": "This seems extremely easy to exploit for those with the power. \n\nI’m still confused about how predictive markets are actually legal and not super easy to exploit. If people are basically betting on outcomes, what keeps it from just being gambling or getting manipulated by someone with money or insider info? And who’s regulating this stuff?",
+    "id": "1sy90v8",
+    "title": "SpaceX IPO at 100x revenue multiple - $1.75-2 trillion. How is the Maths working?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1sy90v8/spacex_ipo_at_100x_revenue_multiple_1752_trillion/",
+    "author": "nitul88",
+    "score": 353,
+    "selftext": "So... I've been reading up on the latest SpaceX valuation buzz, and numbers like $1.75 trillion are actually being thrown around??? It feels like the market is completely split right now. Are we pricing in solid, recurring revenue from Starlink, or are we just buying into the sheer scale of Elon Musk's imagination? Honestly, pricing a space company like a massive tech mega-cap is wild. What's the general consensus here... is this a realistic trajectory or just a massive speculative bubble? Would love to hear your thoughts!\n\nhttps://www.reuters.com/commentary/breakingviews/spacexs-175-trln-hope-rests-musk-imagination-2026-04-21/",
     "subreddit": "StockMarket",
-    "created_utc": 1777310760,
-    "thumbnail": "https://preview.redd.it/wfg812ydprxg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=aea62370e400fad4b7d1d26f457c02707471f52e",
+    "created_utc": 1777399144,
+    "thumbnail": "self",
     "top_comments": [
       {
-        "body": "It literally is gambling. Im not SUUUPER knowledgeable, but i do know the US eased up on their gambling restrictions and now we have this monstrosity upon us",
+        "body": "Brother what planet are you living on?",
+        "score": 1,
+        "author": "Conscious_Answer_571"
+      },
+      {
+        "body": "10+ years of near 0% interest is a hell of a drug.",
+        "score": 1,
+        "author": "Conscious_Answer_571"
+      },
+      {
+        "body": "I'm wondering too because, while you can kind of squint your eyes and se the bull case for Tesla -- like if everyone buys a few humanoid robots and the self driving taxi business takes over.  But - a space company seems rather limited in its ability to generate profitable revenue.  Starlink is a niche market serving places without traditional internet.  The launch market is limited to what people need to get into space and trips to Mars and the moon are only worth as much as the government will pay for them.  As much as Musk talks about his Mars colony, it's very unlikely any great number of people would put up any amount of money to be permanently shipped to an uninhabitable planet.  ",
+        "score": 1,
+        "author": "MathW"
+      }
+    ],
+    "summary_he": "הפוסט דן בשיח סביב הערכת השווי העצומה של SpaceX, שעשויה להגיע ל-1.75 עד 2 טריליון דולר לקראת הנפקה עתידית. הכותב תוהה האם תמחור זה מבוסס על הכנסות ריאליות משירות הלוויינים Starlink, או שמדובר בבועה ספקולטיבית המונעת בעיקר מהחזון והמוניטין של אילון מאסק.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **ספקנות ותדהמה מהנחות היסוד:** חלק מהמגיבים הביעו זלזול מוחלט בגישה שהוצגה בפוסט המקורי, תוך תהייה האם הכותב מחובר למציאות (\"באיזה כוכב לכת אתה חי?\").\n*   **השפעת הסביבה הכלכלית (ריבית אפסית):** קיימת טענה כי הערכות השווי המופרזות והאופטימיות הבלתי זהירה הן תוצאה של תקופה ארוכה (מעל עשור) של ריבית כמעט אפסית, אשר \"סיממה\" את השוק וגרמה למשקיעים להתרגל לכסף זול ולהערכות לא ריאליות.\n*   **השוואה בין טסלה לחברות חלל:** בעוד שלגבי טסלה ניתן עוד \"לכווץ עיניים\" ולראות תרחיש חיובי (Bull case) המבוסס על רובוטים אנושיים ומוניות אוטונומיות, הרי שחברות חלל נתפסות כבעלות פוטנציאל רווחיות מוגבל הרבה יותר.\n*   **סטארלינק (Starlink) כמוצר נישה:** בניגוד לתפיסה של שירות אינטרנט עולמי מהפכני, הקהילה מציינת כי מדובר בשוק נישה המשרת רק מקומות שבהם אין תשתית אינטרנט מסורתית, מה שמגביל את יכולת הצמיחה והרווח שלו.\n*   **מגבלות שוק השיגורים והתלות בממשלות:** נטען כי שוק שיגור הלוויינים מוגבל לצרכים המעשיים הקיימים בלבד, וכי פרויקטים שאפתניים כמו טיסות לירח ולמאדים שווים רק את הסכום שהממשלה תהיה מוכנה לשלם עליהם, ללא מודל עסקי עצמאי ורווחי.\n*   **ספקנות לגבי יישוב מאדים:** קיים סנטימנט חזק של חוסר אמון בחזון של מאסק לגבי מושבה במאדים; המגיבים טוענים כי לא סביר שאנשים ישלמו סכומי עתק כדי לעבור לצמיתות לכוכב לכת שאינו ראוי למחיית אדם.",
+    "dateString": "2026-04-30",
+    "savedAt": {
+      "_seconds": 1777528858,
+      "_nanoseconds": 658000000
+    }
+  },
+  {
+    "id": "1sy4rga",
+    "title": "UAE ditching OPEC at the beginning of May",
+    "url": "https://www.reddit.com/r/investing/comments/1sy4rga/uae_ditching_opec_at_the_beginning_of_may/",
+    "author": "Elitist_Daily",
+    "score": 253,
+    "selftext": "https://www.cnbc.com/2026/04/28/uae-opec-oil-iran.html\n\nWild move on relatively short notice; seeing whether the rest of the cartel remains stable is a big thing to watch for, along with where exactly long-term oil prices settle after what will almost assuredly be an extended period of high volatility. \n\nWe tend to see a range of like $55-90/bbl but only because the Gulf states deliberately hold back crude so it doesn't crash to their f&d floor of like below $30/bbl, but generally that comes with the agreement that they will release oil when prices start to seriously spike so that we don't get $100/bbl for long periods of time. If that coordination is gone (OPEC eventually dissolves) we could see a much wider range of oil prices going all the way down to near production cost, but with not much spare capacity, that means in true short supply conditions, it wouldn't be surprising to see $150+/bbl.\n\nThe big thing is that the UAE absolutely does not make a move like this without us knowing, and approving. If you see other states leaving OPEC in the next 6 months, it could very well be that they just form a new cartel without Iran, since this move is nothing if not a huge signal that at least the UAE is turning their back on them.",
+    "subreddit": "investing",
+    "created_utc": 1777390238,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "That's to be seen. And if you really had that vision ability, you'd be on Forbes and BigAss Stock Wiz magazine covers every other quarter.",
+        "score": 1,
+        "author": "SuckMyRedditorD"
+      },
+      {
+        "body": "Geopolitics is often predictable. How stocks will respond varies wildly. Just because someone has a good grasp of geopolitics does not mean they will find the right trades",
+        "score": 1,
+        "author": "Nya7"
+      },
+      {
+        "body": "There are a few different factors you need to consider. You pointed out the consumer angle - we'd save money at the pump. \n\nFrom a geopolitical perspective, sub-$50 oil would also bleed Russia. They need oil above $50/barrel in order for it to be profitable. Their economy is slowly dying and we should want to bleed it faster. \n\nBut from the oil industry perspective, it's bad because their profit margins are shrunk and many of our wells won't be profitable. \n\nOf course, it's dumb to consider the oil industry here but politics, lobbying, and bribery exist. Higher energy prices are a drag on the economy and raise the prices of virtually everything. Anything to the contrary is just an extension of the Broken Window Fallacy - economic growth is caused by productivity increases. Spending more on energy means less used on growing a company or on your own personal desires, needs, or wealth. Monetary flow is an economic lubricant and a useful tool for measuring the growth.",
+        "score": 1,
+        "author": "droans"
+      }
+    ],
+    "summary_he": "איחוד האמירויות פורשת מארגון OPEC, צעד שצפוי לעורר תנודתיות קיצונית במחירי הנפט העולמיים ואף להוביל להתפרקות הקרטל. המהלך, שנעשה ככל הנראה בתיאום עם ארה\"ב, מסמן התרחקות אסטרטגית מאיראן וניסיון אפשרי להקמת ברית נפט חדשה במזרח התיכון.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות ב-Reddit, המציג נקודות מבט שונות על הקשר שבין מחירי הנפט, גיאופוליטיקה וכלכלה:\n\n*   **סקפטיות כלפי \"נביאי שוק\":** קיים זלזול כלפי אנשים הטוענים שיש להם \"חזון\" או יכולת חיזוי מדויקת של השוק. הטענה היא שאם למישהו הייתה יכולת כזו באמת, הוא כבר היה מופיע על שערי המגזינים הכלכליים הגדולים ביותר (כמו פורבס) כמי שהתעשר מכך.\n*   **הפער בין גיאופוליטיקה למסחר:** קיימת הבחנה בין הבנת תהליכים גיאופוליטיים לבין היכולת להרוויח מהם בבורסה. בעוד שאירועים עולמיים עשויים להיות צפויים, התגובה של שוק המניות אליהם היא תנודתית וקשה לחיזוי, ולכן מומחיות פוליטית לא תמיד מתרגמת להצלחה פיננסית.\n*   **הטבה ישירה לצרכן:** ירידה במחירי הנפט נתפסת כחיובית עבור האדם הפשוט, שכן היא מובילה לחיסכון ישיר בהוצאות הדלק היומיומיות.\n*   **הנפט ככלי ללוחמה כלכלית (רוסיה):** מחיר נפט נמוך (מתחת ל-50 דולר לחבית) מזוהה כאסטרטגיה להחלשת רוסיה. מכיוון שהכלכלה הרוסית זקוקה למחירים גבוהים כדי להישאר רווחית, ירידת מחירים נתפסת כדרך \"להקיז את דמה\" הכלכלי.\n*   **ההשפעה השלילית על תעשיית הנפט המקומית:** למרות היתרונות לצרכן, מחירי נפט נמוכים מדי פוגעים בשולי הרווח של חברות האנרגיה המקומיות והופכים קידוחים ובארות נפט מסוימים ללא כדאיים כלכלית.\n*   **פוליטיקה ולוביזם מול טובת הכלכלה:** ישנה טענה שמחירי אנרגיה גבוהים הם \"משקולת\" על הכלכלה ומעלים את יוקר המחיה באופן רוחבי. עם זאת, אינטרסים פוליטיים, לוביזם ותשלומי שוחד מצד תעשיית הנפט פועלים לעיתים כדי לשמר מחירים גבוהים למרות הנזק הכלכלי הכללי.\n*   **אנרגיה כ\"חומר סיכה\" כלכלי:** הדיון מדגיש שצמיחה כלכלית אמיתית מגיעה מהתייעלות ופריון. כסף שנחסך על אנרגיה יכול להיות מופנה לצמיחת חברות או לצרכים אישיים, מה שמניע את הגלגלים הכלכליים טוב יותר מאשר הוצאות אנרגיה גבוהות.",
+    "dateString": "2026-04-30",
+    "savedAt": {
+      "_seconds": 1777528877,
+      "_nanoseconds": 57000000
+    }
+  },
+  {
+    "id": "1sy4nit",
+    "title": "The S&P 500 is hitting record highs, but most stocks are not participating:",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1sy4nit/the_sp_500_is_hitting_record_highs_but_most/",
+    "author": "-----Marcel-----",
+    "score": 239,
+    "selftext": "The 3-day return spread between the S&P 500 and the equal-weight S&P 500 has fallen to one of the widest negative readings on record.\n\nThis means the S&P 500 index is surging while the average stock is being left behind.\n\nFor instance, last Friday's all-time high was driven almost entirely by Nvidia, Microsoft, and Amazon, with ONLY 36% of S&P 500 stocks closing higher on the day.\n\nAs a reminder, the equal-weight S&P 500 strips out the dominance of mega-cap stocks and gives every company the same weight, making it a cleaner measure of how the average stock is actually performing.\n\nWhen the gap between the two is this wide, it signals that the rally is being driven by a handful of giants rather than broad market strength, a warning sign historically.\n\nThis is not a healthy market.",
+    "subreddit": "StockMarket",
+    "created_utc": 1777390012,
+    "thumbnail": "https://preview.redd.it/zn9reeg19yxg1.jpeg?width=140&height=77&auto=webp&s=8cb26b07e0a82ea00244afddaa9b36899a4df665",
+    "top_comments": [
+      {
+        "body": "Historically this isn’t unusual ",
+        "score": 56,
+        "author": "Shoddy_Ad7511"
+      },
+      {
+        "body": "No, the op is telling you that there is not a market wide rally, but rather a few behemoths are doing well. \n\nTo the casual observer, they smile and nod because things look like they're going well. But if you go deeper, that's not necessarily true.",
         "score": 34,
-        "author": "AlanWakeLover"
+        "author": "DDS-PBS"
       },
       {
-        "body": "It shouldn’t be… i’d assume it’ll be on the chopping block next presidency.",
-        "score": 26,
-        "author": "xxirish83x"
-      },
-      {
-        "body": "It's the absolute worst kind of gambling: betting on an event/outcome that a single third party controls absolutely.  The odds are unknowable to most people and known to some.  Just the dumbest thing ever.",
-        "score": 15,
-        "author": "SidewaysFancyPrance"
+        "body": "Wait, you’re telling me the largest companies have the largest impact? Color me surprised. ",
+        "score": 34,
+        "author": "1-Dollar-Doge-Coins"
       }
     ],
-    "summary_he": "הכותב תוהה כיצד שווקי חיזוי נחשבים לחוקיים ואינם מוגדרים כהימורים לכל דבר. הוא מביע חשש שהם חשופים למניפולציות מצד בעלי הון או אנשים עם מידע פנים, ושואל מי הגוף שאמור לפקח על התחום.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט ותחושות שונות בקהילה:\n\n*   **הגדרה חד-משמעית כהימורים:** קיימת הסכמה נחרצת כי הפעילות המדוברת היא \"הימורים לכל דבר ועניין\", גם אם היא מנסה להתחפש למשהו אחר.\n*   **הקשר לשינויי חקיקה בארה\"ב:** הגולשים מצביעים על כך שהמצב הנוכחי הוא תוצאה ישירה של הקלה במגבלות הרגולטוריות על הימורים בארצות הברית, מה שאפשר את צמיחתה של תופעה המכונה \"מפלצתית\".\n*   **ציפייה להתערבות ממשלתית עתידית:** עולה הסברה כי הפעילות הזו נמצאת על \"על הכוונת\" וצפויה להגבלות או לביטול מצד הממשל הבא שייבחר.\n*   **ביקורת על חוסר הוגנות ושליטת צד שלישי:** נטען כי מדובר בסוג הגרוע ביותר של הימורים, מכיוון שהתוצאה נשלטת באופן מוחלט על ידי גורם שלישי, מה שמעקר את מושג ה\"סיכוי\" ההוגן.\n*   **אסימטריה במידע:** קיימת תחושת חוסר נוחות מכך שסיכויי הזכייה אינם ידועים לציבור הרחב, בעוד שגורמים מסוימים ומקורבים מחזיקים במידע עודף, מה שהופך את ההימור ללא רציונלי עבור המשתמש הפשוט.\n*   **סלידה מוסרית ואינטלקטואלית:** התופעה נתפסת כדבר \"מטופש\" מיסודו שאינו אמור להתקיים, כאשר הגולשים מביעים זלזול בעצם הרעיון שמאחורי סוג זה של הימור."
-  },
-  {
-    "id": "1sx6o6e",
-    "title": "Shorting American Airlines - Oil Shocks Ahead",
-    "url": "https://www.reddit.com/r/investing/comments/1sx6o6e/shorting_american_airlines_oil_shocks_ahead/",
-    "author": "MarsTellus13",
-    "score": 59,
-    "selftext": "I wrote [this ](https://www.reddit.com/r/investing/comments/1slcqyj/this_is_fine_paper_markets_vs_physical_reality/)back on April 14th. Got some (well-deserved) grief for its wordiness, so I’ll try to keep this a bit more succinct. Scroll to the end for positions.\n\nI’m continuing my efforts to understand this mess of an Iran situation and its impact - or inexplicable lack thereof, so far - on the global economy. And I’d like to make some money if I can to at least try and protect myself from what I fear is coming. The short version: I remain convinced that the whole house of cards starts to come crashing down on Q2 or Q3 earnings as the effects of sky-high physical energy and global shortage begin to hit companies in a tangible way the algos stop brushing past.\n\nA Redditor recommended an energy expert by the name of [Mr. Global](https://www.youtube.com/@MrGlobalYouTube) and I spent some time looking into his background and a few recent videos. [This one](https://www.youtube.com/watch?v=QYFS3XdXhgg&pp=0gcJCdQKAYcqIYzv) where he opines on the likelihood that fuel exports increase tremendously sent me down a rabbithole of domestic airline earnings seasons. Jet fuel shortages are already hitting most of the world. And now the realities of a global market mean an armada of VLCCs appears to be en route to the US to stock up on diesel and jet fuel. To be fair, I can't precisely say what this swarm of boats is picking up…but with April jet fuel exports to Europe reportedly [6x higher](https://www.pbs.org/newshour/economy/what-lagging-jet-fuel-supplies-could-mean-for-airlines-and-travelers) than average through mid-month it doesn't seem like a big leap in logic. And so I decided that SPY and energy may not be the only vehicles for my bearishness through the end of 2026.\n\nI landed on the Big 3: Delta, United, and American Airlines, then spent some time looking into recent earnings and guidance. Guidance and the projected impact of fuel costs or shortages were the main goals, and I was originally going to run through Delta and United in this post…but the short version is that they both land on an expected fuel cost of $4.30 per gallon through Q2. I suspect that is going to turn out to be wildly low, but they’re in agreement and their reasoning is pretty easy to digest - their 8-K’s detail the curves they used, and even if paper futures are broken you can trace yourself where their math is coming from. Adding for some context - they’re all going to hurt a bit in Q2, but American Airlines has set itself up for the biggest miss.\n\nAAL, the last to report on April 23, comes in estimating [$4.00 per gallon](https://www.sec.gov/Archives/edgar/data/6201/000000620126000031/a8kerexhibit991q1-26.htm) for Q2; according to the transcript they set their fuel curve for guidance on [April 20](https://www.fool.com/earnings/call-transcripts/2026/04/23/aal-q1-2026-earnings-transcript/) when physical spot price was “just” $3.87.\n\nDoesn’t seem like much…except [AAL’s own filings](https://americanairlines.gcs-web.com/static-files/b5c20aba-ca15-4516-8720-acc80a961c3d) report that for every $0.01 that fuel prices go up, expenses increase by $50 million annually. (So $12.5 million quarterly) Domestic American airlines are [not financially hedged](https://www.reuters.com/business/energy/us-airlines-no-longer-hedge-fuel-costs-that-could-hurt-margins-if-iran-conflict-2026-03-06/) \\- so market forces dictate what they pay for fuel and contracts. Given that the [average spot price so far](https://www.airlines.org/dataset/argus-us-jet-fuel-index/) in April has been $4.26 / gallon…they’re not likely off to a great start. To check that Argus prices roughly line up with AAL’s expenses I also compared April through December 2025 (the only months available from Argus on that website) to what AAL reported as their full-year average fuel cost for 2025 on their [10-k](https://www.sec.gov/Archives/edgar/data/6201/000000620126000014/aal-20251231.htm). While spot prices according to Argus largely hovered in the $2.20s, AAL reportedly paid roughly $2.39, consistent with market rates plus taxes and fees etc.\n\nTheir 10-K does not reference fuel prepurchases and indeed names fuel price volatility as a significant risk to performance. Napkin math, at time of writing this would come out to $325 million in additional fuel expense if the average holds for Q2 alone ($12.5m per quarter x 26 cents = $325 million). \n\nTalk of impending jet fuel shortages and route cuts are finally hitting [the mainstream](https://www.nytimes.com/2026/04/24/travel/flight-cancellations-europe-summer-vacation.html), and like I said at the beginning…I am confident this gets much worse. But even if prices plateau from here AAL is teed up for a very bad few quarters. The company’s guidance for the quarter and the year is built around an impossible fuel price. For simplicity, let’s just assume that additional $325 million loss in Q2. At 670 million shares, we come out to an additional loss of ($0.49) per share in Q2. AAL guided Q2 at a range of ($0.20) to $.20. \n\nThat they’re going to miss seems all but certain, and we’re less than a month into the quarter with fuel prices continuing to rise. The one saving grace if fuel costs do continue to skyrocket might be demand destruction…but I’m pretty sure selling markedly fewer tickets is still generally a bad thing for revenue. See also: 2008. The only remaining question is how badly do they bleed, and how much are they forced to slash full-year guidance.\n\nThe kicker here is AAL enjoyed a nice little low-volume bump after earnings and some analyst accolades that ignore fuel entirely as a factor. They focus instead on improvements to the business in a ‘normal’ operating environment and assume fuel normalization within the next few months. In a bit of odd timing, United’s CEO put out a public statement acknowledging that American Airlines had [slammed the door](https://www.cnbc.com/2026/04/27/united-airlines-merger-with-american-airlines-ceo-airline-confirms.html) on a merger conversation just before I went to hit publish.\n\nCould write a fuller post about the many reasons fuel normalization isn’t happening within the next few months, but that would push me squarely into “Too long, didn’t read” territory.\n\nPositions: 1. Lottery-esque but cheap $5 January 2027 puts to catch a ‘recession + high gas prices’ scenario (2008). AAL has $[34.7 billion](https://www.sec.gov/Archives/edgar/data/0000006201/000000620126000031/a8kerexhibit991q1-26.htm) in debt to service. \n\n2. Safer, still reasonably priced $10 January 2027 puts because AAL's guidance is setting up a big surprise to the downside even if demand stays robust.",
-    "subreddit": "investing",
-    "created_utc": 1777302903,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Calls on sandisk and micron because no way a human is writing an article of this length in this style with this many embedded hyperlinks",
-        "score": 83,
-        "author": "mulletstation"
-      },
-      {
-        "body": "Nah that's me. I'm anal af and I don't like making unsourced claims. I do use Claude to track primary sources but that's it. Also it's not that hard if you're using a mouse and keyboard...",
-        "score": 35,
-        "author": "MarsTellus13"
-      },
-      {
-        "body": "Not everyone on reddit is a moron and some folks here actually know how to create a post. \n\nWhat's challenging for you isn't challenging for everyone.",
-        "score": 32,
-        "author": "earthsworld"
-      }
-    ],
-    "summary_he": "הפוסט ממליץ על פתיחת פוזיציית שורט (הימור נגד המניה) של חברת אמריקן איירליינס (AAL) בשל צפי לזינוק במחירי הדלק הסילוני ומחסור באנרגיה עולמית. הכותב טוען כי תחזיות הרווח של החברה מבוססות על מחירי דלק נמוכים ולא ריאליים, ובהיעדר גידור פיננסי, היא צפויה לספוג הפסדים כבדים ופספוס משמעותי בדוחות הכספיים הקרובים. לאור זאת, הוא רכש אופציות פוט (Put) לטווח ארוך מתוך הערכה שהמניה תתרסק ככל שהשוק יפנים את משבר האנרגיה.",
+    "summary_he": "מדד ה-S&P 500 רושם שיאים חדשים, אך העליות מרוכזות במספר מצומצם של מניות ענק (כמו אנבידיה ומיקרוסופט) בעוד שמרבית המניות בשוק אינן משתתפות במגמה. הפער החריג בין ביצועי המדד לביצועי המניה הממוצעת נחשב לסימן אזהרה היסטורי המעיד על שוק לא בריא ונטול בסיס רחב.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בשרשור ה-Reddit, הכולל 6 נקודות מבט ועמדות שונות שעלו מתוך התגובות:\n\n*   **חשד לאוטומציה ובינה מלאכותית:** אחד המגיבים הביע ספק רב בכך שבן אנוש כתב את הפוסט, בשל אורכו החריג, סגנון הכתיבה והכמות הגדולה של קישורים מוטמעים, הנראים לו כמאפיינים של בוט או כלי טכנולוגי.\n*   **הקפדה יתרה על מקורות (פרסונליזציה):** כותב הפוסט הגן על עצמו וטען כי הפירוט והסימוכין הרבים נובעים מאופיו האישי כ\"חולק שליטה\" (anal) וכמי שסולד מהעלאת טענות ללא גיבוי של מקורות מוסמכים.\n*   **שימוש מובחן בבינה מלאכותית ככלי עזר בלבד:** המחבר הבהיר שהוא אכן נעזר ב-Claude (מודל בינה מלאכותית), אך ורק לצורך מעקב וארגון של מקורות ראשוניים, ולא לצורך כתיבת התוכן עצמו.\n*   **פשטות טכנית מול תפיסת קושי:** הכותב ציין כי יצירת פוסט מושקע כזה אינה משימה כה מורכבת עבור מי שמשתמש במקלדת ועכבר (בניגוד אולי למשתמשי מובייל), וכי המיומנות הטכנית הופכת את התהליך לנגיש.\n*   **הגנה על איכות הקהילה:** עלתה טענה מצד גולשים אחרים שלא כל משתמשי Reddit הם \"טיפשים\", ושיש בקהילה אנשים בעלי יכולת כתיבה גבוהה וידע מקצועי ביצירת תכנים איכותיים.\n*   **ביקורת על השלכה עצמית:** אחד המגיבים תקף את הספקנות של המגיב הראשון, וטען שמה שנראה מאתגר או בלתי אפשרי עבור אדם אחד, יכול להיות פשוט ושגרתי עבור אדם אחר בעל מיומנות או סטנדרטים גבוהים יותר."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו:\n\n*   **הקשר היסטורי:** יש הטוענים כי המצב הנוכחי בשוק אינו חריג או יוצא דופן; מבחינה היסטורית, כבר היו תקופות דומות שבהן השוק התנהג בצורה כזו.\n*   **היעדר \"ראלי\" רוחבי:** קיימת הבחנה שהעליות בשוק אינן משקפות צמיחה של כלל החברות, אלא מדובר בתופעה ממוקדת שאינה מעידה על בריאותו של השוק כולו.\n*   **דומיננטיות של חברות הענק:** הסנטימנט בקרב חלק מהמגיבים הוא שרק מספר קטן של חברות ענק (Behemoths) הן אלו שדוחפות את המדדים למעלה, בעוד ששאר השוק נותר מאחור.\n*   **פער בין מראית עין למציאות:** הדיון מדגיש כי עבור הצופה המזדמן השוק נראה במצב מצוין, אך בחינה מעמיקה יותר מגלה תמונה מורכבת ופחות אופטימית.\n*   **ספקנות וציניות:** חלק מהגולשים מפגינים זלזול ברעיון שמדובר ב\"חדשות\", וטוענים בלעג שזהו דבר מובן מאליו שלחברות הגדולות ביותר יש את ההשפעה הגדולה ביותר על השוק.\n*   **ביקורת על אופן ניתוח השוק:** עולה טענה שמי שמסתכל רק על פני השטח עלול להטעות את עצמו לגבי מצב הכלכלה, שכן העליות הנוכחיות \"מזייפות\" תחושת ביטחון שאינה מבוססת על בסיס רחב.",
+    "dateString": "2026-04-30",
+    "savedAt": {
+      "_seconds": 1777528909,
+      "_nanoseconds": 88000000
+    }
   },
   {
-    "id": "1sx6fy5",
-    "title": "Financial Apps with the best UI/UX",
-    "url": "https://www.reddit.com/r/investing/comments/1sx6fy5/financial_apps_with_the_best_uiux/",
-    "author": "According_Ice6515",
-    "score": 6,
-    "selftext": "Hey everyone. I was wondering what are all the financial related apps out there with the best UI / UX that makes it fun to use. For trading and investing, I find that Robinhood is the best one I’ve tried so far. I was wondering if there are any other good FinTech apps out there also I don’t know yet",
+    "id": "1syd2ro",
+    "title": "VTI averaging 20% per year; am I looking at this correctly?",
+    "url": "https://www.reddit.com/r/investing/comments/1syd2ro/vti_averaging_20_per_year_am_i_looking_at_this/",
+    "author": "Neurodelic88",
+    "score": 98,
+    "selftext": "Since it's inception 25 years ago, the value of VTI has increased 510%. That comes out to an average annual gain of 20.4%, which seems unrealistic. What I've heard is to expect an average annual gain of 8-10% over a 20 to 30-year time period. Is there something I'm analyzing incorrectly here?",
     "subreddit": "investing",
-    "created_utc": 1777302432,
+    "created_utc": 1777407729,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Sofi has a really clean and simple  ui",
+        "body": "Using rule of 72 on a 6.1x gets you 7.51  cagr .  Of by what 10 bps? \n\nPretty cool shortcut. ",
         "score": 1,
-        "author": "No-Opinion-7240"
+        "author": "jbb9s"
       },
       {
-        "body": "Their web UI is nice. The app UI is acceptable I suppose.",
+        "body": "Sure. I was being generous above.",
         "score": 1,
-        "author": "Fiveby21"
+        "author": "GameSharkPro"
       },
       {
-        "body": "Robinhood and Webull are definitely up there for UI. If you're using multiple brokerages, [VYSTA](http://vysta.tech) is worth checking out. It connects all your accounts into one dashboard and the design is a similar vibe to the two mentioned. Full disclosure, I'm the developer. Happy to answer any questions if you're curious!",
+        "body": "That’s really cool. I don’t know that. How do you account for inflation and reinvesting dividends? Does it matter?",
         "score": 1,
-        "author": "VYSTAKevin"
+        "author": "Designer-Fix-2861"
       }
     ],
-    "summary_he": "הכותב מחפש המלצות לאפליקציות פיננסיות בעלות חוויית משתמש וממשק (UI/UX) יוצאי דופן שהופכים את השימוש בהן למהנה. הוא מציין את Robinhood כדוגמה מובילה בתחום ההשקעות, ומבקש לגלות אפליקציות פינטק איכותיות נוספות שטרם הכיר.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו בתגובות לגבי ממשקי משתמש (UI) של אפליקציות השקעות:\n\n*   **הפשטות של Sofi:** משתמש אחד מדגיש כי ממשק המשתמש של Sofi מתאפיין בניקיון ופשטות, מה שהופך אותו לנוח לשימוש.\n*   **הבדלים בין פלטפורמות (Web vs. App):** קיימת הבחנה באיכות של Sofi בין הממשקים השונים – בעוד שממשק האינטרנט (Web) נחשב לטוב מאוד (\"Nice\"), ממשק האפליקציה לנייד נתפס כבינוני או \"סביר\" בלבד.\n*   **מובילות השוק בעיצוב:** האפליקציות Robinhood ו-Webull מצוינות כסטנדרט הגבוה ביותר וכנקודות ייחוס לאיכות בכל הנוגע לחוויית משתמש ועיצוב.\n*   **הצורך בריכוז נתונים:** עבור משקיעים המשתמשים במספר ברוקרים במקביל, עולה הצורך בפתרון שמאחד את כל החשבונות תחת קורת גג אחת (Dashboard).\n*   **המלצה על כלי אגרגציה (VYSTA):** הוצג פתרון בשם VYSTA, המאפשר לחבר חשבונות שונים לממשק אחד המעוצב בסגנון דומה לאפליקציות המודרניות והאהובות (כמו Robinhood).\n*   **מעורבות ושקיפות של מפתחים:** הדיון משקף דינמיקה קהילתית שבה מפתחים מציגים את הכלים שיצרו בשקיפות מלאה (\"Full disclosure\"), תוך נכונות לענות על שאלות המשתמשים ולספק תמיכה."
-  },
-  {
-    "id": "1sx91w7",
-    "title": "investing options similar to hysa or fidelity cash but delayed income.",
-    "url": "https://www.reddit.com/r/investing/comments/1sx91w7/investing_options_similar_to_hysa_or_fidelity/",
-    "author": "painfulletdown",
-    "score": 5,
-    "selftext": "Hi, i have money saved in hysa and get interest income each month that is taxable.  i am looking for investment options that are similarly liquid, make around the same yield/interest rate and are just as safe, but the profit is delayed until i redeem.  spaxx seems like it pays out each month and the only other things i can think of are cd's or savings bonds, but would prefer electronic option that i could manage from my brokerage account.  do you know of any??",
-    "subreddit": "investing",
-    "created_utc": 1777307919,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "BOXX.  Buys short term box spreads which act like treasuries of the same duration, typically pays no distributions but can occasionally have a small one, usually around high market volatility.",
-        "score": 5,
-        "author": "ducatista9"
-      },
-      {
-        "body": "You’re kind of describing something that behaves like a HYSA but with tax deferral, which is tough to replicate perfectly. Most liquid options pay out regularly by design, so you get taxed along the way.\n\nTreasury-based ETFs or funds might get you part of the way there since they’re pretty liquid and track short-term rates, but they still distribute income periodically. Same with money market funds.\n\nIf you specifically want to defer until you sell, things like zero-coupon bonds or certain bond ETFs that lean more toward price appreciation rather than distributions could be closer, but you’ll still run into some payouts depending on the structure.\n\nThere isn’t really a clean “HYSA equivalent with full deferral,” so it usually ends up being a tradeoff between liquidity, tax timing, and simplicity.",
-        "score": 2,
-        "author": "PSKA-2026"
-      },
-      {
-        "body": "What you’re looking for isn’t really a different asset, but a different *tax structure*.\n\nHYSA and money market funds pay you as income, so you get taxed along the way. If you want to defer taxes, you usually need something where returns come from price appreciation instead.\n\nThat’s where short-term Treasury ETFs (like SGOV or BIL) come in — they behave similarly to cash, but instead of paying everything out monthly, part of the return is reflected in the price.\n\nSame idea with short-duration bond ETFs — still relatively low risk, but more of the return is deferred until you sell.\n\nThe tradeoff is important though:  \nyou’re giving up some stability and predictability of income for tax deferral.\n\nSo it’s less about finding a “better HYSA,” and more about choosing between income now vs. control over when you realize it.",
-        "score": 2,
-        "author": "icnews10"
-      }
-    ],
-    "summary_he": "הכותב מחפש אפיקי השקעה בטוחים ונזילים הדומים לחשבונות חיסכון בריבית גבוהה (HYSA), אך כאלו שבהם הרווחים נצברים ומוססים רק בעת המימוש (דחיית מס) במקום לקבל ריבית חודשית חייבת במס. הוא מעוניין באפשרויות בעלות תשואה דומה שניתן לנהל באופן דיגיטלי ישירות מחשבון הברוקראז' שלו.",
+    "summary_he": "הכותב תוהה האם מדד VTI אכן הניב תשואה שנתית ממוצעת של כ-20%, לאחר שחישב זאת לפי עלייה של 510% ב-25 שנים. הוא מבקש להבין האם החישוב שלו שגוי, שכן הנתון שקיבל גבוה משמעותית מהתשואה ההיסטורית המקובלת בשוק (8-10%).",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ודעות שונות לגבי חלופות לחשבון חיסכון בריבית גבוהה (HYSA) עם דגש על דחיית מס:\n\n*   **שימוש בקרן ה-ETF מסוג BOXX:** אחד המגיבים ממליץ על BOXX כחלופה לאג\"ח ממשלתי לטווח קצר. הקרן משתמשת באסטרטגיית \"Box Spreads\" שנועדה להניב תשואה הדומה לריבית חסרת סיכון, אך ללא חלוקת דיבידנדים שוטפת (למעט במקרים של תנודתיות קיצונית), מה שמאפשר דחיית מס עד למכירה.\n*   **הקושי במציאת תחליף מושלם:** קיימת הסכמה בקהילה שקשה מאוד למצוא מוצר פיננסי שמתנהג בדיוק כמו חשבון חיסכון (נזילות גבוהה וסיכון אפסי) ובו בזמן מאפשר דחיית מס מלאה. רוב האפיקים הנזילים ביותר בנויים לחלק רווחים באופן קבוע, מה שגורר חבות מס מיידית.\n*   **מיקוד בעליית ערך במקום בהכנסה:** כדי לדחות מס, מומלץ לעבור מנכסים שמניבים \"הכנסה\" (Income) לנכסים שמבוססים על \"עליית ערך\" (Price Appreciation). קרנות אג\"ח מסוימות או אג\"ח מסוג \"זירו קופון\" (Zero-coupon bonds) יכולות להתאים לכך, שכן הרווח נצבר בתוך מחיר הנייר ומתממש רק בעת המכירה.\n*   **קרנות אג\"ח ממשלתיות קצרות (SGOV/BIL):** מוצע להשתמש בקרנות מחקות של אג\"ח ממשלתי לטווח קצר מאוד. למרות שהן דומות למזומן, חלק מהתשואה עשוי להשתקף במחיר הקרן, מה שנותן למשקיע מעט יותר שליטה על עיתוי מימוש הרווחים לעומת חשבון חיסכון בנקאי.\n*   **החלפה בין יציבות לשליטה במס:** המגיבים מציינים כי קיים \"טרייד-אוף\" (Trade-off) מובנה: כשעוברים מחשבון חיסכון לניירות ערך במטרה לדחות מס, מוותרים על רמה מסוימת של יציבות וצפיות של התשואה לטובת שליטה גדולה יותר על מועד תשלום המס.\n*   **שינוי תפיסתי – מבנה המס ולא סוג הנכס:** אחת הדעות המרכזיות היא שהחיפוש אינו אחר \"נכס טוב יותר\", אלא אחר \"מבנה מס שונה\". הדיון מדגיש שהבחירה היא בין קבלת מזומן ביד עכשיו (ותשלום מס שוטף) לבין דחיית המימוש למועד עתידי שבו למשקיע יהיה נוח יותר לשלם את המס."
+    "comments_summary_he": "להלן סיכום הדיון בשרשור המנתח את התגובות שהוצגו, תוך התמקדות בנקודות מרכזיות, דעות ותחושות בקהילה:\n\n*   **יישומיות של \"כלל 72\":** הדיון מדגים את השימוש בקיצור הדרך המתמטי \"כלל 72\" כדי לחשב במהירות את שיעור הצמיחה השנתי המורכב (CAGR). במקרה זה, המשתמש הראה כיצד מכפיל של 6.1 מתרגם לתשואה של כ-7.51%.\n*   **רמת הדיוק של קיצורי דרך:** קיימת הערכה בקהילה לרמת הדיוק של הכלל; המגיב מציין שהסטייה מהחישוב המדויק היא מזערית (כ-10 נקודות בסיס בלבד), מה שהופך את הכלי לאמין לחישובים מהירים \"על גב המעטפה\".\n*   **הערכה לכלים פיננסיים פשוטים:** ניכרת התלהבות מהפשטות של הכלל. הביטוי \"Pretty cool shortcut\" מעיד על כך שהקהילה מעריכה טכניקות שמפשטות מושגים פיננסיים מורכבים.\n*   **גמישות ושמרנות בהערכות:** אחד המשתמשים מציין שהוא בחר להיות \"נדיב\" בחישובים קודמים, מה שמרמז על כך שבדיונים כאלה יש מקום לפרשנות אישית ולגישות שונות (שמרניות לעומת אופטימיות) לגבי ביצועי השקעות.\n*   **למידה ושיתוף ידע:** השרשור חושף פער בידע לצד סקרנות; משתמשים מודים שלא הכירו את הכלל קודם לכן, מה שמדגיש את הערך המוסף של הקהילה כפלטפורמה ללימוד הדדי של אוריינות פיננסית.\n*   **תהיות לגבי משתנים מורכבים במציאות:** עולה סוגיה ביקורתית לגבי המגבלות של נוסחאות פשוטות. המשתמשים תוהים כיצד גורמים משמעותיים כמו אינפלציה והשקעה מחדש של דיבידנדים משפיעים על התוצאה הסופית והאם הנוסחה הפשוטה עדיין רלוונטית תחת השפעתם."
   },
   {
-    "id": "1sx55bi",
-    "title": "Should I transfer cash from one brokerage to another?",
-    "url": "https://www.reddit.com/r/investing/comments/1sx55bi/should_i_transfer_cash_from_one_brokerage_to/",
-    "author": "skcuf2",
-    "score": 5,
-    "selftext": "I have an account in E-Trade and one in Fidelity. The fidelity account was opened with an employer for stock grants. I sold some of the stock recently and wanted to reinvest some of the cash.\n\nMy original plan was to transfer the cash to E-Trade and add it to my mutual fund account. Should I stick with this plan or just invest within Fidelity itself? I'm only coming here because I was trying to make the transfer and when I clicked the \"Transfer terms and conditions\" on E-Trade it was a broken link. I can't read the damn ToS for the transaction...\n\nI was originally thinking one location for everything would be easier, but the transfer seems to make that less so. Should I keep my brokerages diversified as well?",
-    "subreddit": "investing",
-    "created_utc": 1777299680,
+    "id": "1sy5xp6",
+    "title": "The Perfect Storm: Bond Crisis into the mix of Private Credit Default and Oil Supply Shock",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1sy5xp6/the_perfect_storm_bond_crisis_into_the_mix_of/",
+    "author": "Plane-Try-6522",
+    "score": 69,
+    "selftext": ">**Jamie Dimon warns of ‘some kind of bond crisis’ ahead as global debt risks build**\n\n>Jamie Dimon warned a bond crisis is likely, saying rising global government debt, including in the U.S., could lead to “some kind of bond crisis” if policymakers don’t act proactively.  \nRisks are building across multiple fronts. Dimon pointed to geopolitics, oil prices and widening deficits as a potentially dangerous mix that could trigger market stress.  \n  \n“The level of things that are adding to the risk column are high, like geopolitics, oil, government deficits,” Dimon said. “They may go away, but they may not, and we don’t know what confluence of events causes the problem.”  \nA bond crisis would likely mean a sudden jump in yields and a breakdown in market liquidity, where investors rush to sell and buyers recede, typically forcing central banks to step in as buyers of last resort.   \n  \nA recent example is the 2022 [UK gilt crisis](https://www.cnbc.com/2022/10/10/bank-of-england-announces-liquidity-measures-to-help-ease-pension-fund-issues.html), when yields surged and the Bank of England had to step in to stabilize the market.\n\nSource: [https://www.cnbc.com/2026/04/28/jamie-dimon-bond-crisis-global-debt-risks.html](https://www.cnbc.com/2026/04/28/jamie-dimon-bond-crisis-global-debt-risks.html)",
+    "subreddit": "StockMarket",
+    "created_utc": 1777392723,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Just move cash to your bank and then deposit to etrade. Done. ",
-        "score": 4,
-        "author": "CornerOne238"
+        "body": "I’m praying for tidal waves, I wanna watch it all go down. Mom please flush it all away. Mother Earth will put it back to the way it oughta be.",
+        "score": 22,
+        "author": "bsfurr"
       },
       {
-        "body": "If they are ordinary brokerage accounts (not IRA etc.), then it is simple to transfer cash back and forth; no different from bank accounts. For cash that you choose to keep as cash, give it to whoever pays the best rate (Fidelity). ",
-        "score": 3,
-        "author": "WiseElder"
+        "body": "Jamie Dimon turned into the new Michael Burry ",
+        "score": 20,
+        "author": "LavishnessLess4356"
       },
       {
-        "body": "Certainly easier to have stuff in one platform.   E*trade will provide bank routing numbers for your account and you can use that to transfer.   Each platform has its own advantages and some differing product offerings so it really depends on what you want to invest in.  I have 3 brokerages which can be a beast to manage.  I like E*trades platform and banking products however their sweep account is horrible.  You can use something like SGOV for the sweep but it’s inconvenient.   Vanguard offers the lowest fees especially if you ever want to have a portion of your portfolio managed. Fidelity is fine platform but I don’t find it a standout choice to the others.",
-        "score": 1,
-        "author": "No_Alternative_6206"
+        "body": "He's not wrong though.  If private credit has to refinance at 4+ percent it's gonna be bad.",
+        "score": 9,
+        "author": "Cybermeld"
       }
     ],
-    "summary_he": "הכותב מתלבט האם להעביר מזומן ממכירת מניות בחשבון Fidelity לחשבון ה-E-Trade שלו כדי לרכז את השקעותיו, או פשוט להשקיע את הכסף ישירות דרך Fidelity. התלבטותו נובעת מתקלה טכנית באתר שמנעה ממנו לקרוא את תנאי ההעברה, ומהשאלה העקרונית האם עדיף לרכז את כל הנכסים במקום אחד או לגוון בין ברוקרים שונים.",
+    "summary_he": "ג'יימי דיימון מזהיר מפני \"משבר אג\"ח\" פוטנציאלי הנובע מהצטברות חובות ממשלתיים עולמיים וגירעונות הולכים וגדלים. הוא מציין כי שילוב של מתחים גאופוליטיים וזעזועים במחירי הנפט עלול להוביל לעלייה חדה בתשואות ולמשבר נזילות שיחייב התערבות חירום של הבנקים המרכזיים.",
     "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון בשרשור המבוסס על התגובות שפורסמו, הכולל 6 נקודות מבט ודעות שונות:\n\n*   **פשטות בהעברת כספים:** העברת מזומנים בין חשבונות ברוקראז' רגילים (שאינם חשבונות פנסיוניים כמו IRA) נתפסת כפעולה פשוטה ונוחה, הדומה באופיה להעברה בין חשבונות בנק רגילים. ניתן לבצע זאת ישירות או דרך חשבון בנק מתווך.\n*   **ריכוז מול פיזור חשבונות:** קיים יתרון משמעותי לניהול כל הנכסים תחת פלטפורמה אחת לצורך נוחות הניהול. החזקה של מספר חשבונות ברוקראז' שונים תוארה כ\"מפלצת\" שקשה ומסורבל לנהל לאורך זמן.\n*   **ביקורת על מנגנון ה-\"Sweep\" ב-E*Trade:** למרות ש-E*Trade מציעה ממשק נוח ומוצרי בנקאות טובים, המנגנון האוטומטי להפקדת מזומנים פנויים (Sweep account) נחשב לגרוע מאוד. כפתרון עוקף, משתמשים נאלצים לקנות ידנית קרנות כמו SGOV כדי לקבל תשואה על המזומן, אף שזה פחות נוח.\n*   **אופטימיזציה של ריבית על מזומן:** הקהילה ממליצה להחזיק את יתרות המזומן בברוקראז' שמציע את הריבית הגבוהה ביותר. בהקשר זה, Fidelity צוינה לחיוב כמי שמספקת שיעורי ריבית טובים על מזומן.\n*   **היתרון היחסי של Vanguard:** פלטפורמת Vanguard מומלצת בעיקר למי שמחפש את העמלות הנמוכות ביותר בשוק, במיוחד עבור משקיעים המעוניינים בניהול מקצועי של חלק מתיק ההשקעות שלהם.\n*   **השוואת פלטפורמות וצרכי המשקיע:** הבחירה בין הברוקרים השונים (E*Trade, Fidelity, Vanguard) תלויה במוצרים הספציפיים שבהם רוצים להשקיע. בעוד שכל פלטפורמה מציעה יתרונות שונים, Fidelity נתפסת כאופציה טובה ויציבה, אך לא בהכרח כזו שמתעלה באופן מובהק על מתחרותיה בכל הפרמטרים."
+    "comments_summary_he": "להלן ניתוח של תגובות הגולשים מהשרשור, המסוכם ל-6 נקודות מרכזיות המבטאות דעות ותחושות שונות בקהילה:\n\n*   **תחושת ניהיליזם ורצון ב\"אתחול\" כללי:** אחד הגולשים מבטא גישה קיצונית של רצון לראות את המערכת כולה קורסת. הוא משתמש בדימויים של כוחות טבע (גלי צונאמי) כדי להביע תקווה ל\"ניקוי\" של המצב הקיים, מתוך אמונה שהחברה האנושית זקוקה לחורבן כדי לחזור למצב תקין.\n*   **אמונה בתיקון דרך הטבע:** עולה התפיסה לפיה \"אמא אדמה\" היא הכוח היחיד שיכול להחזיר את הסדר על כנו. המגיב רואה במערכת הנוכחית דבר מעוות שיש \"לשטוף\" כדי לאפשר לטבע להשיב את האיזון הראוי.\n*   **השוואת ג'יימי דיימון למייקל ברי:** הקהילה מזהה שינוי בדמותו הציבורית של מנכ\"ל ג'יי פי מורגן. השוואתו למייקל ברי (המשקיע שחזה את משבר 2008) מרמזת כי דיימון הפך ל\"נביא זעם\" שמתריע על קריסה כלכלית מתקרבת, בניגוד לתפקידו המסורתי כמייצב המערכת.\n*   **חשש מפני משבר ריביות באשראי הפרטי:** קיימת הבנה טכנית שהסיכון הכלכלי הממשי טמון בצורך למחזר חובות. הגולשים מצביעים על כך שגופים המסתמכים על אשראי פרטי יתקשו מאוד לשרוד אם יצטרכו לגייס מימון מחדש בריביות של 4% ומעלה.\n*   **תיקוף האזהרות הפסימיות:** למרות הנימה הפסימית, ישנה הסכמה בקרב המגיבים שהאזהרות המושמעות אינן מופרכות. הציבור בשרשור נוטה לקבל את התחזיות הקודרות כניתוח ריאלי של המציאות הכלכלית הנוכחית.\n*   **ציפייה למשבר מערכתי:** השילוב בין התחושות האפוקליפטיות לבין הניתוח הפיננסי הקר מעיד על הלך רוח של המתנה למשבר. המגיבים לא רק צופים את הקושי, אלא חלקם אף מייחלים לשינוי הדרסטי שיבוא בעקבותיו, בין אם מדובר בתיקון כלכלי או חברתי.",
+    "dateString": "2026-04-30",
+    "savedAt": {
+      "_seconds": 1777528927,
+      "_nanoseconds": 56000000
+    }
   },
   {
-    "id": "1sy1jft",
-    "title": "China is mass producing sodium-ion batteries and I think it changes the entire investing thesis on mining stocks",
-    "url": "https://www.reddit.com/r/investing/comments/1sy1jft/china_is_mass_producing_sodiumion_batteries_and_i/",
-    "author": "devreme",
-    "score": 3,
-    "selftext": "CATL launched sodium-ion batteries at scale and BYD is building massive production facilities for them. Sodium is 500 times more abundant than lithium and can be extracted from seawater. CATL already cut its lithium mining targets. Think about what that means for every lithium miner people have been piling into.\n\nWhat's interesting to me is what stays the same regardless of who wins the battery chemistry war. Copper is still needed for all the infrastructure, wiring, charging stations, grid upgrades. Aluminium actually wins if sodium-ion takes over because these batteries use aluminium instead of copper for the electrodes. Graphite is needed in the anode of both lithium and sodium-ion batteries. And rare earths are needed for every motor in every EV and every robot regardless of what powers them.\n\nSpeaking of robots thats the next wave. Tesla is converting a factory for Optimus, Hyundai's Boston Dynamics won best robot at CES, XPeng is planning mass production household robots by end of this year. Every single one of these needs rare earth magnets, copper wiring, aluminium frames, graphite batteries. China filed almost 4x more humanoid robotics patents than the US in the last 5 years and controls 70% of the component supply chain.\n\nI've been reasearching companies that supply the raw materials all of this is built from rather than trying to pick which robot or battery company wins. Copper miners, aluminium producers, rare earth companies, graphite. The demand is coming regardless of which technology or which country ends up on top.\n\nAnyone else looking at this from the supply chain angle or am I overthinking it?",
-    "subreddit": "investing",
-    "created_utc": 1777383062,
+    "id": "1syb2n1",
+    "title": "Locked, stocked, and losing budget: AI vendor lock-in bites",
+    "url": "https://www.reddit.com/r/business/comments/1syb2n1/locked_stocked_and_losing_budget_ai_vendor_lockin/",
+    "author": "CackleRooster",
+    "score": 19,
+    "selftext": "# Execs in the C-suite thought they could swap models in a week. The LLMs weren't hallucinating; it was the executives. ",
+    "subreddit": "business",
+    "created_utc": 1777403435,
+    "thumbnail": "default",
+    "top_comments": [],
+    "summary_he": "הפוסט מבקר את האשליה של מנהלים בכירים שחשבו כי ניתן להחליף מודלי בינה מלאכותית (LLM) בקלות ובמהירות. בפועל, חברות רבות חוות \"נעילת ספק\" (vendor lock-in) ומגלות שהמעבר בין מודלים מורכב ויקר בהרבה מכפי שהוערך בתחילה.",
+    "category_he": "עסקים",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1sy4u8h",
+    "title": "I scored 3,152 US companies on financial health. only 4 hit the maximum score.",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1sy4u8h/i_scored_3152_us_companies_on_financial_health/",
+    "author": "xtarsy",
+    "score": 18,
+    "selftext": "Hey r/stockmarket \n\nFor fun i do quite a bit of data analysis on the side and decided to do a piotroski F-score analysis on US companies. \n\nThe way Piotroski works is that it scales companies from 0 to 9 across 9 criterias including: profitability, leverage, liquidity and operational efficiency. \n\nPrice and sentiment gets left out.   \n  \nI ran it on every US public company above $1B market cap using SEC data. only 4 out of 3,152 score a perfect 9/9:  \n  \n  \n\\- AWI (Armstrong World Industries)  ROIC 33%, $8B  \n\\- VMC (Vulcan Materials)  ROIC 13%, $38B  \n\\- NDAQ (Nasdaq Inc)  ROIC 11%, $51B (the exchange operator)  \n\\- BSY (Bentley Systems)  ROIC 15%, $10B  \n  \n  \nall four are industrials or financial infrastructure. not one AI, semiconductor, or consumer tech company in the top tier. AAPL comes in at 8/9. NVDA is at 3/9. \n\nI'm not naive to think this is the best way to pick a stock but i thought it would be interesting to see which ones rank high.  If anyone has done similar or other analysis feel free to share what worked. ",
+    "subreddit": "StockMarket",
+    "created_utc": 1777390399,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "I was just curious what ppl think about it I can see sodium batteries r the innovation here but was wondering what else is going to change since this will be rolled out",
-        "score": 1,
-        "author": "devreme"
+        "body": "Sentiment getting left out in this day and age is a no no\n\nStocks move on feelings and vibes now my friend. Fundamentals? Sure. Just not as strong a factor anymore ",
+        "score": 7,
+        "author": "chicu111"
       },
       {
-        "body": "Had a mining guy working on some new mines in Nevada mention copper as a big need last year. The producers appear to be ramping up and electrification is going to drive demand.",
-        "score": 1,
-        "author": "mtcwby"
+        "body": "turns out you can have pristine balance sheet and good financials but still be a nightmare to deal with as a customer. ",
+        "score": 6,
+        "author": "xtarsy"
       },
       {
-        "body": "Focus on the raw materials that are essential for all these technologies is a smart approach. Those supply chains will be crucial as demand grows no matter the end product. ",
-        "score": 1,
-        "author": "yabadabbingirlfriend"
+        "body": "Bentley fucking sucks to work with. The worst company I’ve ever dealt with as a customer on behalf of the Government. ",
+        "score": 6,
+        "author": "xXDarthTreborXx"
       }
     ],
-    "summary_he": "המעבר של סין לייצור המוני של סוללות נתרן משנה את פני ההשקעות בכריית ליתיום, אך מחזק את חשיבותם של חומרי גלם אחרים כמו נחושת, אלומיניום וגרפיט. הכותב ממליץ להתמקד בהשקעה בספקיות חומרי הגלם הללו, שכן הם נותרים חיוניים הן לתשתיות האנרגיה והן לתעשיית הרובוטיקה הצומחת, ללא קשר לטכנולוגיה הספציפית שתשלוט בשוק.",
+    "summary_he": "ניתוח פיננסי של מעל 3,000 חברות אמריקאיות באמצעות מדד Piotroski העלה כי רק ארבע חברות, כולן מתחומי התעשייה והתשתיות הפיננסיות, זכו לציון בריאות פיננסית מושלם. הממצאים מדגישים כי ענקיות טכנולוגיה ובינה מלאכותית פופולריות, דוגמת אנבידיה, קיבלו ציונים נמוכים משמעותית במדד זה המתמקד בנתונים פונדמנטליים יבשים בלבד.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח של נקודות המבט והלכי הרוח שעלו מהתגובות בשרשור, כפי שבוקש:\n\n*   **סוללות נתרן כחדשנות מרכזית:** קיימת הכרה בכך שסוללות נתרן מהוות את פריצת הדרך הטכנולוגית והחדשנות העיקרית בדיון הנוכחי.\n*   **ציפייה לשינויים מערכתיים:** מעבר לטכנולוגיה עצמה, עולה סקרנות לגבי ההשפעות הנרחבות והשינויים הנוספים שיתרחשו בשוק ובתעשייה בעקבות הטמעת פתרונות האנרגיה החדשים.\n*   **הביקוש לנחושת כתוצאה מחשמול:** ישנו דגש על כך שתהליכי החשמול (electrification) מובילים לעלייה חדה בביקוש לנחושת, הנחשבת למשאב חיוני ביותר.\n*   **הגברת פעילות הייצור והכרייה:** מצוין כי יצרנים וחברות כרייה (לדוגמה בנבדה) כבר נמצאים בתהליכי האצה (ramping up) כדי לתת מענה לצרכים הגוברים של השוק.\n*   **אסטרטגיית התמקדות בחומרי גלם:** הקהילה מביעה תמיכה בגישה לפיה התמקדות בחומרי הגלם הבסיסיים היא צעד חכם ומושכל יותר מאשר התמקדות במוצר קצה ספציפי.\n*   **קריטיות שרשראות האספקה:** עולה התובנה ששרשראות האספקה יהיו הגורם המכריע ביותר בעתיד; הביקוש לחומרים אלו יישאר גבוה ללא קשר לטכנולוגיה הסופית שתנצח בשוק, שכן כולם נסמכים על אותם משאבי בסיס."
+    "comments_summary_he": "להלן סיכום הדיון והתחושות שעלו מן התגובות ב-Reddit, המוצג באמצעות 6 נקודות שונות:\n\n*   **השפעת הרגש על השוק:** קיימת תחושה חזקה שבזמן הזה, סנטימנט ו\"וייב\" (vibes) הם המנועים העיקריים של תנועת מניות, ולא רק נתונים יבשים.\n*   **ירידה בחשיבות הניתוח הפונדמנטלי:** בעוד שהיסודות הכלכליים (Fundamentals) של חברה עדיין רלוונטיים, הם כבר לא מהווים את הפקטור המכריע כפי שהיו בעבר.\n*   **הפער בין דוחות למציאות:** חברה יכולה להציג מאזן כספי \"בתולי\" ונתונים פיננסיים מצוינים, אך עדיין להיכשל לחלוטין בממשק מול הלקוחות שלה.\n*   **חוויית לקוח כגורם קריטי:** הדיון מדגיש שחברה יכולה להיות רווחית מאוד אך בו בזמן להוות \"סיוט\" עבור אלו שנאלצים לעבוד מולה או להשתמש בשירותיה.\n*   **ביקורת ספציפית על חברת Bentley:** עולה תלונה חריפה במיוחד כלפי חברת בנטלי (Bentley), שמתוארת כחברה שקשה מאוד לעבוד איתה ברמה המקצועית והשירותית.\n*   **כישלון במגזר הממשלתי/מוסדי:** מצוין כי הקשיים מול החברה מורגשים היטב גם בעבודה מול גופים ממשלתיים, שם השירות של החברה נתפס כגרוע ביותר מבין כל הספקים.",
+    "dateString": "2026-04-30",
+    "savedAt": {
+      "_seconds": 1777528957,
+      "_nanoseconds": 520000000
+    }
+  },
+  {
+    "id": "1sy0pan",
+    "title": "New Sector Model : Energy Top 100 Large Cap",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1sy0pan/new_sector_model_energy_top_100_large_cap/",
+    "author": "AdministrativeBug554",
+    "score": 8,
+    "selftext": "Looking for long positions in Large Cap Energy. I think XLE is pretty stable in the mid/low 50's. This is a 5-day model focusing on simple features; Moving Averages & Stock/Sector Momentum & a few valuation features. \n\nFirst Image : Back-test   \nSecond Image : April 27th picks & 1-D Returns  \nThird Image : April 28th Picks \n\n",
+    "subreddit": "StockMarket",
+    "created_utc": 1777381117,
+    "thumbnail": "https://preview.redd.it/8ysb3r1hixxg1.png?width=140&height=114&auto=webp&s=f617e5c97e2b22a61fac5b189841753784eae9e9",
+    "top_comments": [],
+    "summary_he": "הפוסט מציג מודל מסחר לטווח קצר (5 ימים) המיועד לאיתור הזדמנויות קנייה במניות אנרגיה גדולות (Large Cap), בהתבסס על ממוצעים נעים, מומנטום ונתוני הערכת שווי. הכותב מעריך כי מגזר האנרגיה יציב ומצרף למודל תוצאות של בדיקות לאחור (Back-test) לצד רשימות של מניות נבחרות.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-04-30",
+    "savedAt": {
+      "_seconds": 1777528963,
+      "_nanoseconds": 954000000
+    }
   },
   {
     "id": "1sy2ydi",
@@ -198,140 +258,171 @@ window.dailyTrends = [
     "top_comments": [],
     "summary_he": "הפוסט דן בהשפעות של סגירת מצר הורמוז על אספקת דשנים ועל הביטחון התזונתי העולמי, תוך דגש על הפגיעה הקשה במדינות אפריקה התלויות בייבוא. המחסור בתשומות חקלאיות ועליית המחירים משבשים את לוחות הזמנים של השתילה ומעמידים אוכלוסיות חלשות בסכנת רעב ממשית, מה שמעלה תהיות לגבי תגובת הקהילה הבינלאומית למשבר המסתמן.",
     "category_he": "כלכלה",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1sxph1z",
-    "title": "Joby Stock Climbs 6% as NYC Air Taxi Flights Fuel Rally",
-    "url": "https://www.reddit.com/r/finance/comments/1sxph1z/joby_stock_climbs_6_as_nyc_air_taxi_flights_fuel/",
-    "author": "ConferenceLow8960",
-    "score": 1,
-    "selftext": "Joby stock jumped after Joby Aviation completed electric air taxi demonstration flights in New York City, giving investors a fresh reason to reprice one of the market’s most closely watched eVTOL stocks. The rally reflected more than enthusiasm for a futuristic aircraft. It showed that traders are increasingly focused on whether Joby can turn test flights, airport routes and regulatory coordination into an early commercial air mobility business. \n\nRead here for more: [https://www.ebc.com/forex/joby-stock-climbs-6-as-nyc-air-taxi-flights-fuel-rally](https://www.ebc.com/forex/joby-stock-climbs-6-as-nyc-air-taxi-flights-fuel-rally)",
-    "subreddit": "finance",
-    "created_utc": 1777345948,
-    "thumbnail": "https://preview.redd.it/43ifrp8gluxg1.png?width=140&height=93&auto=webp&s=96c3f4331f17bd7d766f33809715f98c9f8b6419",
-    "top_comments": [
-      {
-        "body": "Well here's the thing....the ultra wealthy have a lot of money to waste. Investing in ultra wealthy infrastructure bs might not be a bad play. ",
-        "score": 1,
-        "author": "pewpewbangbangcrash"
-      },
-      {
-        "body": "I just cant see this as anything other than another toy for the ultra wealthy. ",
-        "score": 1,
-        "author": "Salt_Data3707"
-      }
-    ],
-    "summary_he": "מניית חברת Joby Aviation רשמה עלייה של 6% בעקבות טיסות ראווה מוצלחות של מוניות אוויר חשמליות שביצעה בעיר ניו יורק. הזינוק משקף את האופטימיות של המשקיעים לגבי יכולתה של החברה להפוך את טיסות המבחן והתיאום הרגולטורי לעסק מסחרי פעיל ורווחי בתחום הניידות האווירית העירונית.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח של הלך הרוח והדעות המרכזיות שעלו מהתגובות בשרשור, כפי שסיכמת:\n\n*   **העושר המופרז כהזדמנות כלכלית:** קיימת תפיסה שלעשירים מאוד יש כמות כה גדולה של כסף פנוי ל\"בזבוזים\", עד שהם מהווים יעד אטרקטיבי להזרמת הון.\n*   **השקעה אסטרטגית בתשתיות יוקרה:** אחת הדעות גורסת כי השקעה בפרויקטים המיועדים לאלפיון העליון היא מהלך עסקי חכם, ללא קשר לערך הממשי של הפרויקט.\n*   **ספקנות לגבי נחיצות הפרויקט:** המגיבים רואים ביוזמה המדוברת \"צעצוע\" נוסף לעשירים בלבד, ולא כלי שימושי או נחוץ לציבור הרחב.\n*   **פרגמטיזם ציני:** ישנה הסכמה מסוימת שגם אם הפרויקט נתפס כ\"שטויות\" (BS), הניצול של עודפי הכסף של העשירים לטובת בניית תשתיות הוא מהלך שלא כדאי לפסול.\n*   **תחושת ניכור כלפי יוזמות לעשירים:** הקהילה מבטאת ניכור מסוים כלפי פרויקטים שאינם משרתים את הכלל, ומסווגת אותם כראוותנות ריקה מתוכן.\n*   **הגדרת הפרויקט כבידור ולא כתשתית:** השימוש במילה \"צעצוע\" מעיד על כך שהקהילה לא לוקחת את הפרויקט כיוזמה רצינית בעלת ערך מוסף לחברה, אלא כגחמה של בעלי הון.",
-    "dateString": "2026-04-28",
-    "savedAt": {
-      "_seconds": 1777357996,
-      "_nanoseconds": 281000000
-    }
-  },
-  {
-    "id": "1sxl0qu",
-    "title": "US Treasury Yields Rise: What a Flattening Yield Curve Means for Markets",
-    "url": "https://www.reddit.com/r/finance/comments/1sxl0qu/us_treasury_yields_rise_what_a_flattening_yield/",
-    "author": "coinfanking",
-    "score": 1,
-    "selftext": "Fears about “inflation” the war-driven rise in prices of certain commodities and their knock-on effects have bounced Treasury yields a bit. The 10-2 yield curve has flattened under this pressure as the market weighs whether or not this will manifest in a more hawkish Fed.",
-    "subreddit": "finance",
-    "created_utc": 1777334150,
-    "thumbnail": "default",
-    "top_comments": [],
-    "summary_he": "עליית מחירי הסחורות והחשש מאינפלציה בעקבות המלחמה הובילו לעלייה בתשואות האג\"ח הממשלתיות בארה\"ב. כתוצאה מכך, עקומת התשואות משתטחת בעוד השוק מעריך האם הפדרל ריזרב יאמץ מדיניות מוניטרית נוקשה יותר (\"נצית\") בתגובה למצב.",
-    "category_he": "פיננסים",
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-04-28",
+    "dateString": "2026-04-29",
     "savedAt": {
-      "_seconds": 1777358004,
-      "_nanoseconds": 360000000
+      "_seconds": 1777451354,
+      "_nanoseconds": 762000000
     }
   },
   {
-    "id": "1sys7n2",
-    "title": "Gold pulled back this week, slipping around 1.2% as key support gave way ahead of the Fed’s rate decision",
-    "url": "https://www.reddit.com/r/investing/comments/1sys7n2/gold_pulled_back_this_week_slipping_around_12_as/",
-    "author": "ChartNavigator",
-    "score": 1,
-    "selftext": "On the surface, it looks like a simple move, but the drivers behind it are more layered. Rising oil prices are keeping inflation expectations elevated, which in turn pushes yields higher. And when yields rise, assets like gold, which don’t generate income, naturally become less attractive. At the same time, markets are already positioning for a potential rate hold, reinforcing that same dynamic where investors lean toward yield-bearing assets over traditional safe havens.\n\nWhat makes this moment interesting is that gold is being pulled in two directions. On one side, ongoing geopolitical tension continues to support its role as a defensive asset. On the other, macro forces like higher yields and a stronger dollar are putting pressure on it. Until one of these forces clearly takes the lead, the result is likely to be continued volatility rather than a clean trend. How are you positioning around gold in this environment, leaning into the macro pressure, or still seeing value in its defensive role?",
-    "subreddit": "investing",
-    "created_utc": 1777449310,
-    "thumbnail": "self",
+    "id": "1sy3a47",
+    "title": "Herbal Dispatch ($HERB.CN / $LUFFF) Launches First In-House Edibles Brand Chomp – Vertical Integration Play for Higher Margins",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1sy3a47/herbal_dispatch_herbcn_lufff_launches_first/",
+    "author": "mc_snails",
+    "score": 6,
+    "selftext": "Herbal Dispatch just dropped news on the launch of Chomp Edibles, their first dedicated in house brand. It's a straight-up strategic move into the edibles segment, which already makes up about 26% of packaged cannabis units sold nationally and is one of the fastest-growing categories in Canada. Rather then prioritize third party product through their e-commerce and distribution platform, they're now owning the brands. That means better control over quality, pricing, and most importantly higher margins. They’re leveraging their existing customer base, medical/veteran platforms, and wholesale channels to scale this aggressively without starting from scratch.\n\nWith more of their own brands selling this coming quarter we should seeing higher margins then the current 22.7%. Edibles own a good portion of the market so this was a vital step to pushing margins higher.\n\nDosing is clean: 10 mg singles, 5 mg 2-packs, and bigger master packs (10x or 20x 10 mg) that line up with recent regulatory changes for better value and basket size. I’ve tried the Chomp edibles myself they’re actually tasty. Solid flavor, consistent dosing, no weird texture or aftertaste that you sometimes get with cheaper stuff. CEO Philip Campbell called it a key pillar for growth, and it lines up with their recent momentum (Q4 sales more than doubled year-over-year and they hit positive adjusted EBITDA). At these levels this feels like a low-key way for them to improve profitability in a real growth category.",
+    "subreddit": "StockMarket",
+    "created_utc": 1777387065,
+    "thumbnail": "https://preview.redd.it/5dx9fmk80yxg1.jpg?width=140&height=81&auto=webp&s=8baffa17c9d35562240121110355415311e1af15",
     "top_comments": [
       {
-        "body": "AI slop.  This sub is useless now.",
-        "score": 1,
-        "author": "CityForAnts"
+        "body": "big moves, watch them start white labeling gummies for other co's now aswell ",
+        "score": 2,
+        "author": "ComprehensiveArmy451"
       }
     ],
-    "summary_he": "מחיר הזהב ירד השבוע בכ-1.2% בעקבות עליית התשואות על האג\"ח והציפיות להחלטת הריבית של הפד, שהפכו את הזהב לפחות אטרקטיבי בהשוואה לנכסים מניבי תשואה. השוק נמצא כעת במתח בין גורמים גאופוליטיים התומכים בזהב כנכס מקלט לבין לחצי מאקרו המכבידים עליו, מה שיוצר תנודתיות גבוהה ללא מגמה ברורה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והתחושות שעלו מהתגובה בשרשור (בהתבסס על המידע שסופק):\n\n**סיכום הדיון:**\n\n*   **סלידה מתוכן שנוצר על ידי בינה מלאכותית:** קיימת ביקורת חריפה כלפי פוסטים המבוססים על AI, המכונים בפי המשתמשים כ\"רפש\" (Slop) חסר ערך.\n*   **תחושת ירידה באיכות:** המגיבים חשים שהרמה הכללית של התכנים בקהילה (Subreddit) התדרדרה משמעותית בעקבות הצפת התכנים הממוחשבים.\n*   **אובדן התועלת של הקהילה:** הבעת עמדה נחרצת לפיה הקהילה איבדה את הרלוונטיות שלה והפכה ל\"חסרת תועלת\" עבור המשתמשים.\n*   **חוסר שביעות רצון מהפיקוח על התוכן:** ניכר תסכול מכך שתוכן דל ולא אותנטי מצליח להשתלט על המרחב הציבורי בשרשור.\n*   **נוסטלגיה לעבר:** המילים \"עכשיו היא חסרת תועלת\" מרמזות על כך שבעבר הקהילה נתפסה כבעלת ערך ואיכות גבוהים יותר, לפני כניסת ה-AI.\n*   **נטישת משתמשים פוטנציאלית:** הנימה המיואשת מצביעה על תחושת מיאוס שעשויה להוביל משתמשים להפסיק לעקוב אחרי הקהילה או לקחת בה חלק פעיל."
+    "summary_he": "חברת Herbal Dispatch השיקה את Chomp, מותג הבית הראשון שלה למוצרי קנאביס אכילים, כמהלך אסטרטגי של אינטגרציה אנכית להגדלת שולי הרווח בשוק הקנדי הצומח. החברה שואפת לנצל את תשתית ההפצה הקיימת שלה כדי לשפר את הרווחיות, זאת בהמשך לצמיחה משמעותית במכירות ולמעבר ל-EBITDA חיובי ברבעונים האחרונים.",
+    "category_he": "עסקים",
+    "comments_summary_he": "על אף שהוצגה תגובה אחת בלבד, ניתן להפיק ממנה מספר תובנות, פרשנויות וסנטימנטים שונים בנוגע למהלך העסקי המדובר. להלן סיכום הדיון ב-6 נקודות:\n\n* **הכרה בחשיבות האסטרטגית:** התגובה \"big moves\" מעידה על כך שהקהילה רואה בצעד הנוכחי של החברה מהלך משמעותי ובעל השפעה רבה על עתידה, ולא רק שינוי מינורי.\n* **ציפייה למעבר למודל \"White Labeling\":** קיימת הערכה שהחברה תתחיל לייצר מוצרים עבור מותגים אחרים (מותג לבן), מה שיאפשר לה להפוך לספקית תשתית וייצור ולא רק למכור תחת המותג של עצמה.\n* **התמקדות בקטגוריית סוכריות הגומי (Gummies):** המגיב מזהה את תחום סוכריות הגומי כמרכיב המרכזי באסטרטגיית הייצור וההתרחבות של החברה.\n* **פוטנציאל להגדלת נתח שוק B2B:** הנקודה מצביעה על כך שהחברה עשויה להפסיק להתמקד רק בצרכן הקצה (B2C) ולהתחיל לפעול בצורה אינטנסיבית מול חברות אחרות (B2B), מה שמגדיל את פוטנציאל הרווח.\n* **תחזית לצמיחה ושינוי מבני:** השימוש במילים \"watch them start\" (צפו בהם מתחילים) מעיד על סנטימנט של ציפייה ואמון ביכולת של החברה להשתנות ולהתרחב במהירות לתחומים חדשים.\n* **ניצול יתרון לגודל:** המעבר לייצור עבור חברות אחרות מרמז על כך שלחברה יש כעת יכולות ייצור עודפות או טכנולוגיה ייחודית שהיא יכולה למסחר כדי להפיק רווחים נוספים מצדדים שלישיים.",
+    "dateString": "2026-04-30",
+    "savedAt": {
+      "_seconds": 1777528978,
+      "_nanoseconds": 144000000
+    }
   },
   {
-    "id": "1syrmw0",
-    "title": "Help with Index Fund and Buying Property",
-    "url": "https://www.reddit.com/r/investing/comments/1syrmw0/help_with_index_fund_and_buying_property/",
-    "author": "Adria8732",
-    "score": 1,
-    "selftext": "Hello, \n\nI'm having some trouble figuring out what to do with my index fund. I started a 100% stock index fund when I was 23, I'm 28 now, I put all my savings into it. With my miserable european salary I have managed to save up around 30,000 euro (after investing about 20,000) and so has my gf. We're going to buy a house in the next 2-4 years. How would you guys modify the stock/bond ratio? ",
+    "id": "1sy35kq",
+    "title": "SOXQ vs SMH Trend in 2026",
+    "url": "https://www.reddit.com/r/investing/comments/1sy35kq/soxq_vs_smh_trend_in_2026/",
+    "author": "GenXDrummer",
+    "score": 4,
+    "selftext": "I hold both ETF's in my portfolio (DCA issues over time) and I have noticed that SOXQ has beaten SMH across most metrics so far over the past year. Using Stock Analysis...\n\n1 Year: SOXQ = 138.75%, SMH = 133.06%\n\n6 Months: SOXQ = 40.99%, SMH = 37.25%\n\n3 Months: SOXQ = 23.66%, SMH = 20.52%\n\n1 Month: SOXQ = 35.10%, SMH = 31.59%\n\n  \nI'm guessing this phenomenon is because SMH is more heavily weighted toward NVDA, while SOXQ is more heavily weighted toward MU, which has been on an absolute tear this past year.",
     "subreddit": "investing",
-    "created_utc": 1777447330,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "משקיע בן 28, שצבר יחד עם בת זוגו הון בקרנות מחקות מדד, מתכנן לרכוש נכס בטווח של שנתיים עד ארבע שנים. הוא מבקש להתייעץ כיצד לשנות את תמהיל התיק (המושקע כיום ב-100% מניות) ולהתאימו לשילוב של אג\"ח כדי להגן על הכסף לקראת הרכישה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1syq10d",
-    "title": "100x stocks are not rare. Holding them is",
-    "url": "https://www.reddit.com/r/investing/comments/1syq10d/100x_stocks_are_not_rare_holding_them_is/",
-    "author": "jsr_nitin",
-    "score": 1,
-    "selftext": "In US , there were 365 companies which gave 100 times returns from 1962 to 1992.  \n   \nI study multibaggers in Indian market . This data is derived from public sources available on internet so the numbers are indicative.   \nBelow is the summary of multi baggers in India from 2004-2024. Out of 5K listed companies in India-  \n  \nMore than 300 companies gave 50 times returns  \nMore than 140 companies gave 100 times returns  \nMore than 20 companies gave 500 times returns  \nAnd more than 10 companies gave 1000 times returns  \n   \nNote : these are not returns in percentages ,returns are in terms of number of times. So 100 times means 10k Rs invested becomes 10 lakhs. 1000 times means 10k Rs becomes 1Cr. Do the math accordingly.  \n   \nBelow are 7 such companies with 1000 times returns in last 20 years:  \n  Birlasoft Ltd  \n  Borosil Renew.  \n  Jyoti Resins  \n  P I Industries  \n  Safari Inds.  \n  Saraswati Commer  \n  Symphony  \n    \n   \nAre you riding any of these?",
-    "subreddit": "investing",
-    "created_utc": 1777442009,
+    "created_utc": 1777386785,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Correction. There are not rare, holding them is also not rare. Anyone who holds an allworld fund for long enough would have held at least one 100x stock. Picking 100x stocks individually and consistently with a high success rate is the actual rarity. And usually impossible to achieve without industry expertise or deep insider knowledge. (Or an extreme amount of luck of course).",
+        "body": "The PSI, FXTL and CHPS semiconductor ETFs have beaten both those the past twelve months.  They all have their merits.  If you are buying now, you just have to pick what you think will be best going forward.  If you already hold one in an investment account with large gains, there is no good reason to switch from one to another and eat some taxes.",
         "score": 1,
-        "author": "fgd12350"
-      }
-    ],
-    "summary_he": "הפוסט מציין שמניות המניבות תשואה של פי 100 (ואף פי 1,000) אינן נדירות כפי שנדמה, ומציג נתונים מהשוק האמריקאי וההודי המראים כי מאות חברות הגיעו להישגים אלו בעשורים האחרונים. המסר המרכזי הוא שהאתגר האמיתי עבור משקיעים אינו מציאת המניות הללו, אלא היכולת להחזיק בהן לאורך זמן כדי לממש את פוטנציאל הרווח האדיר שלהן.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והדעות השונות העולות מהתגובות, כפי שהתבקש:\n\n*   **שכיחותן של מניות \"פי 100\" (100x):** נטען כי מניות המשיגות תשואה של פי 100 אינן תופעה נדירה כפי שנוטים לחשוב, וגם ההחזקה בהן על ידי משקיעים אינה אירוע יוצא דופן כשלעצמו.\n*   **היתרון של השקעה פסיבית במדדים:** השקעה בקרנות סל עולמיות רחבות (All-world funds) לטווח ארוך מבטיחה כמעט בוודאות שהמשקיע יחזיק לפחות במניה אחת כזו לאורך הדרך, כחלק מהסל הכולל.\n*   **הקושי בבחירה פרטנית (Stock Picking):** האתגר האמיתי והנדיר אינו עצם קיומן של המניות הללו, אלא היכולת לזהות ולבחור אותן באופן פרטני, עקבי ובאחוזי הצלחה גבוהים.\n*   **הצורך במומחיות בתעשייה:** כדי להצליח לבחור מניות \"מנצחות\" כאלו ללא הסתמכות על המדד הכללי, נדרשת לרוב מומחיות מעמיקה והבנה מקצועית בתחום העיסוק הספציפי של החברה.\n*   **חשיבותו של מידע פנים:** לעיתים קרובות, זיהוי מוקדם של מניה שתצמח פי 100 כמעט בלתי אפשרי עבור המשקיע הממוצע ללא גישה לידע פנימי עמוק או מידע שאינו נגיש לכלל הציבור.\n*   **גורם המזל:** מעבר לידע ומומחיות, הדיון מדגיש כי לא ניתן להתעלם מהעובדה שמזל יוצא דופן משחק תפקיד מכריע ביכולת \"לקלוע\" למניה ספציפית שמניבה תשואות קיצוניות כאלו."
-  },
-  {
-    "id": "1sypkok",
-    "title": "How can StashAway improve their platform",
-    "url": "https://www.reddit.com/r/investing/comments/1sypkok/how_can_stashaway_improve_their_platform/",
-    "author": "TurbulentSimple5831",
-    "score": 1,
-    "selftext": "I’ve been looking into StashAway recently and I know it’s a robo-advisor that’s quite popular here. For those who’ve used it, what do you think they’re doing well, and where do you feel the platform could improve?\n\nI’m especially curious about how it compares to other investment platforms (like DIY brokerages or other robo-advisors) in terms of fees, user experience, portfolio performance, and features.\n\nDo you think StashAway is still competitive, or are there areas where other platforms are clearly doing better?\n\nWould appreciate any honest insights or experiences.",
-    "subreddit": "investing",
-    "created_utc": 1777440553,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "This feels like an astroturfing ad. ",
-        "score": 1,
-        "author": "Mr_Big_Garnet_Bear"
+        "author": "SnS2500"
       },
       {
-        "body": "For a product that's \"quite popular here\" I've never heard of it. \n¯\\\\\\_(ツ)_/¯ ",
-        "score": 1,
-        "author": "Nervous-Chemist-6305"
+        "body": "You’ll probably get more answers if you provide some details on these tickers so people don’t have to look them up.",
+        "score": 0,
+        "author": "ClaudedJudgment"
       }
     ],
-    "summary_he": "הפוסט מבקש לקבל משוב ממשתמשים על פלטפורמת הייעוץ הרובוטי StashAway, תוך התמקדות בנקודות לשיפור וביתרונותיה מול המתחרים. הכותב מעוניין להבין כיצד היא משתווה לאפשרויות השקעה אחרות מבחינת עמלות, ביצועים וחווית משתמש, והאם היא עדיין נחשבת לתחרותית בשוק כיום.",
+    "summary_he": "הפוסט משווה בין שתי קרנות סל בתחום השבבים, SOXQ ו-SMH, ומציג נתונים המראים כי SOXQ הניבה תשואות גבוהות יותר בכל טווחי הזמן בשנה האחרונה. הכותב מעריך כי ההצלחה של SOXQ נובעת מחשיפה גבוהה למניית MU (מיקרון) שרשמה עליות חדות, לעומת SMH שמתמקדת יותר ב-NVDA.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח של תגובות הגולשים מהשרשור, המסכם את הלכי הרוח והדעות המרכזיות בקהילה:\n\n**סיכום הדיון:**\n\n*   **חשד לשיווק סמוי (Astroturfing):** קיימת תחושה חזקה בקרב הגולשים שהפוסט אינו אותנטי, אלא מהווה ניסיון של חברה להציג פרסומת במסווה של המלצה תמימה מצד משתמש רגיל.\n*   **הטלת ספק במידת הפופולריות:** הגולשים מעלים ספקות לגבי הטענה שהמוצר \"פופולרי מאוד\" בקהילה זו, שכן משתמשים פעילים מעידים שמעולם לא נתקלו בו בעבר.\n*   **חוסר היכרות עם המותג:** למרות הניסיון להציג את המוצר כדבר מוכר וידוע, התגובות מצביעות על אנונימיות מוחלטת של המותג בעיני חברי הקהילה.\n*   **ביקורת על אמינות התוכן:** הניגוד בין הצהרת הכותב על הצלחת המוצר לבין המציאות בשטח (כפי שחווים אותה המגיבים) יוצר משבר אמון כלפי כל הנאמר בפוסט.\n*   **גישה צינית וספקנית:** ניכרת נימה של זלזול ואירוניה כלפי הניסיון \"לדחוף\" מוצר באופן מלאכותי, כפי שמתבטא בשימוש באימוג'י של משיכת כתפיים (¯\\\\\\_(ツ)_/¯).\n*   **תחושת זרות של המסר:** הקהילה מזהה שהתוכן אינו צומח באופן אורגני מתוך השיח המקומי, אלא מרגיש כמו \"נטע זר\" שמנסה לחקות התלהבות של צרכנים."
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit בתרגום לעברית, המציג 6 נקודות ודעות מרכזיות שעלו מהתגובות:\n\n*   **ביצועי עבר של קרנות ספציפיות:** צוין כי קרנות הסל (ETFs) בתחום המוליכים למחצה – **PSI, FXTL ו-CHPS** – הניבו ביצועים טובים יותר מאשר החלופות הנפוצות האחרות במהלך 12 החודשים האחרונים.\n*   **לכל קרן יתרונות משלה:** הקהילה מציינת שלכל אחת מהקרנות הללו יש \"מרקם\" ויתרונות ייחודיים, ואין בהכרח קרן אחת שהיא \"הנכונה\" באופן מוחלט לכולם.\n*   **הסתכלות קדימה למשקיעים חדשים:** עבור מי ששוקל קנייה כעת, העיקרון המנחה צריך להיות ניסיון לחזות איזו קרן תפגין את הביצועים הטובים ביותר בעתיד, ולא רק להסתמך על מה שהיה בעבר.\n*   **שיקולי מס במעבר בין קרנות:** ניתנה אזהרה למשקיעים שכבר מחזיקים בקרן מסוימת עם רווחים גבוהים: אין סיבה טובה מספיק \"לספוג\" חבות מס (תשלום מס על רווחי הון) רק כדי להחליף בין קרנות דומות באותו הסקטור.\n*   **המשכיות ההשקעה:** הועלתה הסברה שאם אתה כבר מושקע בקרן סל איכותית בתחום השבבים, עדיף להישאר איתה מאשר לבצע שינויים טקטיים קטנים שעלותם (בעיקר מיסוי) עשויה לעלות על התועלת.\n*   **חשיבות הנגשת המידע בקהילה:** עלתה הצעה פרקטית לכותבי פוסטים – מומלץ לצרף פרטים ונתונים על הטיקרים (סימולי המניות) שהם מציגים, כדי שחברי הקהילה יוכלו לענות בקלות מבלי שיצטרכו לבזבז זמן על חיפוש המידע בעצמם.",
+    "dateString": "2026-04-30",
+    "savedAt": {
+      "_seconds": 1777528994,
+      "_nanoseconds": 518000000
+    }
+  },
+  {
+    "id": "1sy9ppy",
+    "title": "Arch Capital (ACGL), a $34B specialty insurer I've been researching. Here's my analysis.",
+    "url": "https://www.reddit.com/r/investing/comments/1sy9ppy/arch_capital_acgl_a_34b_specialty_insurer_ive/",
+    "author": "solacelabx",
+    "score": 2,
+    "selftext": "been working through Arch Capital for the past few weeks and wanted to get my notes down somewhere. posting here because I'd genuinely like to hear what I'm getting wrong.\n\nshort version of why I bothered. it's a specialty property and casualty insurer, plus reinsurance, plus mortgage insurance. roughly $34B market cap. trades around $97 today. tangible book is $61.71 a share, so 1.56x book. they've grown book value per share at over 15% a year for 23 years. that's the kind of compounding that usually doesn't sit at 1.5x book for very long.\n\nthe way insurers actually make money is they collect premiums today, pay claims later, and get to invest the gap in between. that gap is called float. Arch sits on $24B of it. their five-year average combined ratio is 88%, which means after they pay all the claims and expenses, they keep 12 cents on every premium dollar. so the float isn't just free, they're being paid to hold it. that float backs a $47B investment portfolio that threw off $1.62B of investment income last year on top of the underwriting profit.\n\nhere is what the picture looks like, just the lines that matter to me:\n\n|  |  |\n|---|---|\n| price | $97 |\n| tangible book per share | $61.71 |\n| 5yr avg ROE | 20.1% |\n| 5yr avg combined ratio | 88% |\n| float | $24.0B |\n| TTM buybacks | $1.89B (5.6% of shares) |\n| new buyback authorization (Apr 2026) | $3.0B |\n\nwhat made me actually pay attention. property catastrophe pricing softened 10-20% in Q4 2025. most insurers respond to soft pricing by writing more business to keep the top line up. Arch shrank net premiums written by 4% instead. management has been clear they would rather write less at the right price than more at the wrong one. you only see that behavior at insurers that compound long-term, and it's also the behavior the market punishes in the short run.\n\nat the same time the board authorized another $3B in buybacks on top of what they were already doing. so a 19.5% ROE business is buying its own stock at roughly 8.4x earnings while shrinking premium volume on purpose. those are two pretty bullish signals doing the opposite of what a deteriorating insurer would do.\n\nwhat I'm not as sure about. regulatory capital requirements are the real risk in my view. if global regulators decide insurers need to hold more capital per dollar of premium, ROE comes down by math, not by anything management can offset. I think this is the actual reason the multiple is suppressed, and it's not nothing.\n\ncatastrophes are the other one. management's own model says a 1-in-250-year peak zone event is about $1.9B, or 8.2% of tangible equity. survivable, but those events have been showing up more often than the modeling implied for a while now.\n\nI'm less worried about insurtech. specialty casualty reinsurance treaties don't get bound through a phone app, and that's where Arch plays.\n\nwhere I land. you're paying 1.5x book for a 20% ROE compounder with disciplined management actively buying back stock at single-digit earnings multiples. the math suggests fair value somewhere around $120-125, current price is $97, and book should keep compounding at mid-teens while you wait.\n\nI could be wrong about how regulatory capital plays out, and one genuinely bad cat year could eat 12-18 months of earnings. but I don't see anything that says the underlying business is structurally broken.\n\nhappy to be argued with on any of this. holding a position.",
+    "subreddit": "investing",
+    "created_utc": 1777400577,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Looks like it’s trading at a fair value and is a well managed company. I didn’t see any red flags going through the macro trends data. Honestly, I’d rather take a safer bet at 10% and buy spy than take a shot at an insurance company. That being said, if you think they’ll continue to grow revenues and stock price will compound at more than 10% a year it’s probably a decent buy.",
+        "score": 4,
+        "author": "ActuatorDisastrous29"
+      },
+      {
+        "body": "Didnt see the same quality /discount on Chubb",
+        "score": 2,
+        "author": "solacelabx"
+      },
+      {
+        "body": "thank you I appreciate the comment, what did you buy recently\n\n",
+        "score": 2,
+        "author": "solacelabx"
+      }
+    ],
+    "summary_he": "הפוסט מנתח את חברת הביטוח Arch Capital (ACGL), המציגה צמיחה עקבית בערך המאזני ותשואה גבוהה על ההון (כ-20%) לצד משמעת ניהולית יוצאת דופן בתמחור סיכונים. הכותב מדגיש כי החברה מנצלת תקופות של תמחור נמוך בשוק לצמצום פעילות וביצוע רכישה עצמית אגרסיבית של מניותיה, ומעריך כי היא נסחרת בחסר משמעותי לעומת שוויה ההוגן. למרות סיכונים רגולטוריים ופוטנציאל לאסונות טבע, הניתוח מסכם כי מדובר בעסק רווחי וחסין המהווה הזדמנות השקעה אטרקטיבית לטווח הארוך.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בשרשור המבוסס על התגובות שצורפו, הכולל 6 נקודות מבט וסנטימנטים שונים של חברי הקהילה:\n\n*   **הערכת שווי וניהול:** קיימת הסכמה כי החברה נסחרת בשווי הוגן (Fair Value) וכי מדובר בחברה המנוהלת היטב, ללא סימני אזהרה (\"נורות אדומות\") בנתוני המגמות המקרו-כלכליות.\n*   **העדפת מדדים על פני מניות ספציפיות:** אחד המשתמשים מביע העדפה ברורה להשקעה \"בטוחה\" יותר במדד ה-S&P 500 (SPY) עם צפי לתשואה של 10%, על פני לקיחת סיכון בהשקעה בחברת ביטוח ספציפית.\n*   **תנאים לכדאיות רכישה:** רכישת המניה נתפסת כהשקעה סבירה רק במידה והמשקיע מאמין שהחברה תמשיך להגדיל את הכנסותיה ושהמניה תניב תשואה שנתית מורכבת (Compounding) של למעלה מ-10%.\n*   **ביקורת על חברת Chubb:** עולה סנטימנט פחות חיובי כלפי חברת הביטוח Chubb, כאשר משתמש מציין כי לא זיהה בה את אותה רמת איכות או הנחה במחיר (Discount) שנמצאה במקומות אחרים.\n*   **ניתוח מקרו-כלכלי:** ניתוח הנתונים הכלליים של השוק לא העלה חששות משמעותיים לגבי יציבות החברה או הסביבה העסקית שבה היא פועלת.\n*   **סקרנות ושיתוף קהילתי:** הדיון משקף סביבה של שיתוף פעולה, שבה המשתמשים לא רק מנתחים נתונים אלא גם מגלים עניין אישי בפורטפוליו של אחרים ושואלים על רכישות אחרונות כדי לקבל רעיונות להשקעה."
+  },
+  {
+    "id": "1szauvx",
+    "title": "Ramp launched AI procurement agents for finance teams",
+    "url": "https://www.reddit.com/r/finance/comments/1szauvx/ramp_launched_ai_procurement_agents_for_finance/",
+    "author": "Dependent-Signal-741",
+    "score": 1,
+    "selftext": "I saw this earlier and thought it could help someone. Finance teams are running procurement on the side because a good percentage of companies do not have a procurement function and the AI agents in this launch seems to give finance the controls without the headcount. Could be a good read for any CFO or Controller who has had a vendor contract missed through approvals",
+    "subreddit": "finance",
+    "created_utc": 1777494969,
+    "thumbnail": "default",
+    "top_comments": [
+      {
+        "body": "Apparently 98% of companies have no procurement team that means finance absorbs it. Automating the eval and intake would be the only fix that scales without a new hire. ",
+        "score": 1,
+        "author": "Practical_Cut8263"
+      },
+      {
+        "body": "Inefficient procurement is usually invisible until one bad renewal or one vendor that should have been flagged. This software seems to automate the checkpoints that usually get skipped because nobody has time to run them manually. ",
+        "score": 1,
+        "author": "MundaneSession4173"
+      },
+      {
+        "body": "Well thats the gap that the software is closing from my understanding, all in one view and and no need for reconstructing the story manually and start just showing the numbers. ",
+        "score": 1,
+        "author": "VisibleHair932"
+      }
+    ],
+    "summary_he": "חברת Ramp השיקה סוכני בינה מלאכותית לניהול תהליכי רכש, המיועדים לצוותי כספים בחברות ללא מחלקת רכש ייעודית. הכלי מאפשר שליטה ובקרה על חוזי ספקים ללא צורך בגיוס כוח אדם נוסף, ובכך מסייע למנהלי כספים למנוע טעויות או פספוסים באישור חוזים.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן ניתוח התגובות מהדיון ב-Reddit, המסוכם ל-6 נקודות מרכזיות המבטאות את דעות הקהילה והתובנות מהשרשור:\n\n*   **היעדר צוותי רכש ייעודיים:** מרבית החברות (כ-98% לפי אחת הטענות) פועלות ללא מחלקת רכש רשמית, מה שיוצר עומס על מחלקות אחרות.\n*   **נטל על מחלקת הכספים:** בשל המחסור בצוותי רכש, האחריות על ניהול הרכש נופלת לרוב על צוות הפיננסים (Finance), שנאלץ \"לספוג\" את המשימות הללו בנוסף לתפקידו.\n*   **אוטומציה כפתרון לצמיחה (Scalability):** הדרך היחידה שבה חברה יכולה להרחיב את פעילות הרכש שלה מבלי לגייס כוח אדם נוסף היא באמצעות אוטומציה של תהליכי הערכת ספקים וקליטת נתונים (Intake).\n*   **בעיית ה\"חוסר יעילות השקוף\":** חוסר יעילות בתהליכי רכש הוא לרוב בעיה סמויה מן העין, שצפה ועולה רק כשמתרחש משבר, כמו חידוש חוזה בתנאים גרועים או ספק בעייתי שלא עבר סינון כראוי.\n*   **מניעת דילוג על שלבי בקרה:** התוכנה המדוברת מאפשרת לבצע באופן אוטומטי נקודות בקרה (Checkpoints) שבדרך כלל מדלגים עליהן בניהול ידני בשל מחסור בזמן או עומס עבודה.\n*   **ריכוז נתונים ותצוגה אחודה:** אחד היתרונות המרכזיים שזוהו הוא היכולת של הטכנולוגיה לסגור פערים על ידי הצגת כל המידע בתצוגה אחת (Single View), מה שחוסך את הצורך בשחזור ידני של נתונים ומאפשר להתמקד ישירות בשורה התחתונה ובמספרים.",
+    "dateString": "2026-04-30",
+    "savedAt": {
+      "_seconds": 1777529007,
+      "_nanoseconds": 694000000
+    }
+  },
+  {
+    "id": "1sz7anw",
+    "title": "Why did the Big Names skyrocket the past couple of years?",
+    "url": "https://www.reddit.com/r/finance/comments/1sz7anw/why_did_the_big_names_skyrocket_the_past_couple/",
+    "author": "FoggyFoggyFoggy",
+    "score": 1,
+    "selftext": "No matter the sector, what the heck is going on?\n\nIs retail going to get the rug pulled out from under them soon?",
+    "subreddit": "finance",
+    "created_utc": 1777487359,
+    "thumbnail": "https://preview.redd.it/sw3ggqxha6yg1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=1ae619990bd486fa3d1c9b206bfd85ab0a95af68",
+    "top_comments": [
+      {
+        "body": "This is it. We printed so much money from 2008 and banks bought trillions in treasuries that won't mature for another decade. \n\n\n\n",
+        "score": 1,
+        "author": "Catch_ME"
+      },
+      {
+        "body": "I mean Rolls Royce literally came back from near bankruptcy. They’re one of the three primary commercial aviation engine makers and they introduced their XWB just as engine demand started outpacing supply.",
+        "score": 1,
+        "author": "Khornatejester"
+      },
+      {
+        "body": "Cheap money and investors completely disconnected from market fundamentals. ",
+        "score": 1,
+        "author": "2Hanks"
+      }
+    ],
+    "summary_he": "הפוסט עוסק בעלייה הדרמטית בשווי המניות של החברות הגדולות בשנים האחרונות בכלל המגזרים. הכותב מביע חשש לגבי יציבות השוק ותוהה האם המשקיעים הקטנים עומדים לחוות קריסה פתאומית בקרוב.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המוצגות, המפרט 6 נקודות מבט ודעות שונות שעלו בקהילה:\n\n*   **השלכות הדפסת הכסף המסיבית:** קיים חשש מההשפעות ארוכות הטווח של הדפסת כסף אינטנסיבית שהחלה עוד בשנת 2008, דבר ששינה את פני הכלכלה.\n*   **החשיפה הבנקאית לאגרות חוב ממשלתיות:** הבנקים מחזיקים בטריליוני דולרים של אגרות חוב (Treasuries) לטווח ארוך שלא יבשילו בעשור הקרוב, מה שיוצר תלות וסיכון במאזנים שלהם.\n*   **חוסנה של רולס-רויס כדוגמה להתאוששות:** צוין המקרה של חברת רולס-רויס, שהצליחה לחזור ממעמד של כמעט פשיטת רגל להצלחה מחודשת.\n*   **חשיבותה של דומיננטיות בשוק:** רולס-רויס נתפסת כעמוד תווך בתעשייה בזכות היותה אחת משלוש יצרניות מנועי התעופה המסחריים הגדולות בעולם, מה שמקנה לה יתרון תחרותי מובנה.\n*   **תזמון אסטרטגי של ביקוש והיצע:** הצלחתה של רולס-רויס מיוחסת להשקת מנוע ה-XWB בדיוק ברגע שבו הביקוש בשוק התעופה החל לעלות על ההיצע הקיים.\n*   **הניתוק של המשקיעים מהמציאות הכלכלית:** נשמעה ביקורת על כך שעידן \"הכסף הזול\" גרם למשקיעים לאבד קשר עם יסודות השוק (Fundamentals) ולפעול בצורה מנותקת מהנתונים הכלכליים הבסיסיים.",
+    "dateString": "2026-04-30",
+    "savedAt": {
+      "_seconds": 1777529021,
+      "_nanoseconds": 316000000
+    }
   }
 ];
