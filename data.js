@@ -1,344 +1,374 @@
 window.dailyTrends = [
   {
-    "id": "1szr1m6",
-    "title": "China found more than 200 new oil and 13 gas fields (gas fields more than global import)",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1szr1m6/china_found_more_than_200_new_oil_and_13_gas/",
-    "author": "Plane-Try-6522",
-    "score": 484,
-    "selftext": ">With energy supplies strained, China says it found more than 200 new oil and gas fields.  \nChina has found 225 new oil and gas fields within its borders over the past five years, Beijing officials said Thursday, a potential boost as the world is battered by energy shortages and cost increases.\n\n>Among the newly discovered sites are 13 oil fields holding more than 100 million tons and **26 gas fields with reserves exceeding 100 billion cubic meters**, the Natural Resources Ministry said.\n\n>Though it didn’t specify how much of that fossil-fuel bounty is currently available, it said the country’s natural gas production could increase year by year and oil production was holding steady at 200 million tons per year, “thanks to the significant increase in the newly discovered energy reserves.”\n\n>Officials vowed to “resolutely safeguard our energy security,” and push ahead with oil and gas exploration.\n\n>The ministry said it has invested over 450 billion yuan ($66 billion) to almost double China’s known crude oil and natural gas reserves, compared with a decade ago.\n\n>The move comes as the effective closure of the Strait of Hormuz, a critical chokepoint in the transit much of the world’s oil, has led to a global energy shortage.\n\n>China is the world’s biggest energy importer. It imports around 10% of its oil from Iran and so isn’t insulated from the shocks. But it is so far faring better than most major economies due to a [long-running energy self-reliance drive](https://www.cnn.com/2026/04/20/china/china-energy-security-global-oil-crisis-iran-intl-hnk).\n\nSource: [https://edition.cnn.com/2026/04/30/world/live-news/iran-war-news](https://edition.cnn.com/2026/04/30/world/live-news/iran-war-news)\n\nAustralia is the number 1 country (data from 2024) from which China import natural gas. I have zero doubt that Australia is in trouble in the next few years given its economy being low on innovation with a complete reliance on commodity exports.  \n  \nUsing information from WITS: in that year, the amount of natural gas imported is 26,181,900,000 (kg).\n\nRunning the math using some information from back in University: At 100 Billion cubic meters at standard condition (13-15 degree celsius and 101 kpa), this is the equivalent to 71,700,000,000 (kg) which is far greater than what it imports from Australia.\n\nIn fact, using information from WITS: the amount of natural gas imported globally is 76,572,100,000 (kg).\n\nIndeed, 71,700,000,000 (kg) > 76,572,100,000 (kg).\n\nIf China fully utilises these 13 gas fields, it does seem as though China might achieve close to 100% energy independence which what they have been moving towards for the past 2 decades to play the long game of being completely independent from the US global system in areas of finance, semiconductor, energy, manufacturing and critical minerals.\n\n",
-    "subreddit": "StockMarket",
-    "created_utc": 1777541054,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "You can find hydrocarbons anywhere. The meaningful point is whether they are economically recoverable, and that depends on the price. You can find hydrocarbons in one market that will get unfound in another. Not because they went somewhere but because the economic recoverability changed. ",
-        "score": 83,
-        "author": "UnreliableInsect"
-      },
-      {
-        "body": "Coincidence? Maybe read the article. It says over the past 5 years.",
-        "score": 37,
-        "author": "quatroquatro0"
-      },
-      {
-        "body": "I feel like this story came out on CNN to suppress oil prices again. All the talks about negotiations and peace agreements was no longer effective. They needed a new narrative!",
-        "score": 33,
-        "author": "ToddlerPeePee"
-      }
-    ],
-    "summary_he": "סין דיווחה על גילוי של למעלה מ-200 שדות נפט וגז חדשים בשטחה, מהלך שמגדיל משמעותית את עתודות האנרגיה שלה ומקדם אותה לעבר עצמאות אנרגטית מלאה. הגילויים הללו צפויים לצמצם דרמטית את התלות הסינית בייבוא, מה שעלול להוות איום כלכלי על מדינות המסתמכות על ייצוא משאבים לסין, דוגמת אוסטרליה.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ורגשות שונים שעלו מתוך התגובות:\n\n*   **ההבחנה בין הימצאות פיזית לכדאיות כלכלית:** אחת הטענות המרכזיות היא שפחמימנים (נפט וגז) קיימים במקומות רבים, אך השאלה החשובה באמת היא האם הפקתם משתלמת כלכלית. \"גילוי\" של משאב תלוי בראש ובראשונה במחיר השוק שלו.\n*   **דינמיות של משאבי טבע:** מובעת דעה כי מאגרי אנרגיה יכולים \"להיעלם\" או \"להימצא מחדש\" בשוק לא בגלל שינוי פיזי במיקומם, אלא כתוצאה מתנודות במחירים שהופכות את הפקתם ללא רווחית או להפך.\n*   **חשיבות ההקשר הכרונולוגי:** בתגובה לטענות על \"צירוף מקרים\", מצוין כי הכתבה מדברת על תהליך שנמשך לאורך חמש השנים האחרונות, ולכן אין מדובר באירוע רגע הנדסי או פתאומי.\n*   **ספקנות כלפי המניעים של כלי התקשורת:** עולה טענה שגופי תקשורת גדולים (כמו CNN) מפרסמים סיפורים כאלו במטרה אסטרטגית לדכא את מחירי הנפט העולמיים, ולא רק כדי לדווח על חדשות.\n*   **תסכול מנרטיבים משתנים:** קיימת תחושה בקהילה שהתקשורת והממשלים עוברים מנרטיב אחד למשנהו (כמו מעבר מדיבורים על הסכמי שלום לדיווחים על תגליות נפט) ברגע שהנרטיב הקודם מפסיק להשפיע על השוק.\n*   **צריכת מידע ביקורתית:** מובעת ביקורת כלפי מגיבים שאינם קוראים את הכתבות לעומק, תוך הדגשה שקריאת הפרטים הקטנים (כמו טווח הזמן של הגילויים) חיונית להבנת המציאות ומניעת הסקת מסקנות שגויה."
-  },
-  {
-    "id": "1szwqsv",
-    "title": "META and MSFT are trading at 21 and 25 PE respectively while having at least 15%+ revenue and earnings growth. Time to buy?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1szwqsv/meta_and_msft_are_trading_at_21_and_25_pe/",
-    "author": "Criticall16",
-    "score": 205,
-    "selftext": "META and MSFT are trading at 21 and 25 PE respectively while having at least 15%+ revenue and earnings growth. Time to buy? \n\nMeta just reported and for the 3rd time in a row its down after earnings. The company reported 33% overall y/y revenue growth the company is expected to do 125+ billion in revenue this year. Q1 2026 was $10.44 EPS, assuming earnings growth slows in the year at $30 yearly EPS the stock is trading around 20-21 times. Paying this much for a company that owns products used by 3.5 billion people seems reasonable to me.\n\nMSFT on the other hand is expected to do 325 billion in revenue and had an EPS of $4.27 at $16 EPS for the year the stock is trading at roughly 25 times. Expensive than META but  I find it hard to believe that Microsoft office is getting replaced anytime soon. Even if it does, Azure growth is still there and Azure cloud will benefit from increased AI used. \n\nIn fact, I would like to argue that MSFT software is even more valuable now than before due to security issues. Linux being open source has way more vulnerabilities than Microsoft Windows same will be true for other open source or Microsoft office substitute softwares. Lastly, substitutes in fact very good substitutes of Microsoft office in the form of LibreOffice have existed for a long time now but companies haven’t switched to them indicating the moat remains. \n\nRisk reward to me is in favour of buying these two. Critique welcomed. ",
-    "subreddit": "StockMarket",
-    "created_utc": 1777557201,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Same, my average os $380\n\nAs much as I think this AI craze will make people lose jobs, it will still bring insane cashflows for Big Tech.",
-        "score": 3,
-        "author": "PM_ME_ROMAN_NUDES"
-      },
-      {
-        "body": "If you're swing trading, yeah. The outlook is for MSFT is for some 1+ year. So it's still a good buy.",
-        "score": 3,
-        "author": "PM_ME_ROMAN_NUDES"
-      },
-      {
-        "body": "Yeah I mean realistically they have had a pretty good ad algorithm way before AI came along people already claimed they were listening to you to serve accurate ads. I'm sure it's gotten better, but like how much, surely it's not worth the capex.",
-        "score": 3,
-        "author": "dank_summers"
-      }
-    ],
-    "summary_he": "הכותב ממליץ על רכישת מניות מטה ומיקרוסופט בשל שילוב של צמיחה חזקה בהכנסות (מעל 15%) ומכפילי רווח נוחים יחסית של 21 ו-25. לטענתו, בסיס המשתמשים העצום של מטה והדומיננטיות הבלתי מעורערת של מיקרוסופט בתחומי התוכנה, הענן והבינה המלאכותית יוצרים יחס סיכון-סיכוי אטרקטיבי להשקעה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **אופטימיות פיננסית מול חשש חברתי:** קיים סנטימנט מעורב לגבי השפעת ה-AI; מצד אחד, ישנה הכרה בכך שהטכנולוגיה עלולה להוביל לאובדן מקומות עבודה, אך מצד שני, היא נתפסת כמנוע צמיחה אדיר שיניב תזרימי מזומנים חריגים לחברות הטכנולוגיה הגדולות (Big Tech).\n*   **השקעה לטווח ארוך מול מסחר מהיר:** המגיבים מבחינים בין אסטרטגיות השקעה. בעוד שעבור \"סווינג טריידינג\" (מסחר בטווח קצר) המצב עשוי להיות שונה, התחזית עבור מניית מיקרוסופט (MSFT) לטווח של שנה ומעלה נותרת חיובית, והיא נחשבת לקנייה טובה (\"Good buy\").\n*   **אמון במחיר הכניסה:** משקיעים בקהילה משתפים את מחיר הקנייה הממוצע שלהם (לדוגמה $380), מה שמעיד על ביטחון בערך המניה גם ברמות מחיר גבוהות יחסית.\n*   **ספקנות לגבי כדאיות ההשקעה (CapEx):** עולה השאלה האם השיפור שמביא ה-AI אכן מצדיק את ההוצאות ההוניות העצומות (Capex) של החברות. יש התוהים האם התועלת השולית מהטכנולוגיה החדשה שווה את ההשקעה הכספית המסיבית הנדרשת לפיתוחה.\n*   **השוואה ליכולות העבר:** קיימת טענה שאלגוריתמי הפרסום היו מתוחכמים ומדויקים מאוד עוד לפני גל ה-AI הנוכחי. המגיבים מציינים שגם בעבר המערכות היו כה יעילות עד שאנשים נטו להאמין ש\"מצותתים\" להם כדי להגיש פרסומות מותאמות.\n*   **המשכיות מול פריצת דרך:** חלק מהקהילה רואה ב-AI שיפור הדרגתי של יכולות קיימות (כמו אלגוריתמים של מודעות) ולאו דווקא מהפכה מוחלטת, מה שמעלה ספקות לגבי עוצמת ה\"באזז\" הנוכחי סביב התחום."
-  },
-  {
-    "id": "1t04btp",
-    "title": "Every Time the President Moved Markets with Social Media.",
-    "url": "https://www.reddit.com/r/investing/comments/1t04btp/every_time_the_president_moved_markets_with/",
-    "author": "InfoLib_",
-    "score": 145,
-    "selftext": "Intel did not last into market open. This post was really cut down due to rules, but the meat of it is still there.\n\nTl;dr: you should probably, sadly, be watching what this dude is saying. 18 instances using social media alone.\n\n**3/23/2018 SPY: -2.10%**\n\nEarly that morning, The President refused to sign the $1.5 trillion Omnibus Spending [Bill.In](http://bill.in/) the wake of the tariff spat that he had also triggered the day before with China, markets remained down for the duration of the day, until, rather unexpectedly, he signed the bill that SAME day, Markets bounced slightly before close on the good news and boomed the following Monday (3/23 was a Friday) after news came out that China and the U.S. were going into negotiations.\n\n**4/2/2018 SPY: -2.23%**\n\nBefore the market opened, The President made a post criticizing Amazon for taking advantage of the USPS. Amazon closed -5.2% for the day, markets were down substantially as well, thanks in part to China issuing more tariffs.\n\n**12/4/2018 SPY: -3.24%**\n\nA slightlytricky day, not much was going on aside from 3Y and 5Y yield curve inversion, it didn’t help that he suggested that a “real” deal with China was still uncertain.\n\n**12/21/2018 SPY: -2.06%**\n\nTwo days after a rate hike (which greatly displeased him), the President made matters worse by actively threatening to keep the government shut down. Government shutdowns are typically very unwelcome to markets.\n\n**12/24/2018 SPY: -2.71%**\n\nOn Christmas Day, the worst on record, The President took his first shot at removing Jerome Powell. Markets immediately dipped after his post: *“The only problem our economy has is the Fed……”* Reports that same day began circulating that he had been looking into removing Powell from office.\n\n**5/13/2019 SPY: -2.41%**\n\nAnother post about failed negotiations with China and things only bounced later in the day after the President remained hesitant about slapping an additional $325 billion in tariffs.\n\n**8/23/2019 SPY: -2.59%**\n\nThis post ordered US companies to look to alternatives to China. Not that the President has the powers to enforce such a thing, but hope was now diminishing that a trade deal would ever be made, and markets were spooked.\n\n**4/2/2020 SPY: +4.22%**\n\nWith oil near record lows, a simple post suggesting a deal with Russia and Saudi Arabia was made. WTI Crude Oil spiked 26% off of the post alone. Markets also boomed.\n\n**4/22/2020 SPY: +2.29%**\n\nAnother simple post that led to a peak spike of 32% and a close of 19% for WTI Crude. All he did was suggest the aggressive use of the Navy. The general market also climbed, though it's harder to say the post was entirely responsible for that.\n\n**3/2/2025**\n\nCan't use the word on this sub but those tech projects went up a lot.\n\n**4/9/2025 SPY: +9.52%**\n\nAll he had to do here was announce a 90 day pause in tariffs to send markets flying.\n\n**4/21/2025 SPY: -2.36%**\n\nThe President took another stab at an attempt to remove Powell from office “reigniting” worries of an over-reach of power and an active attempt to meddle with the independent bank.\n\n**5/21/2025**\n\nFreddie Mac and Fannie Mae stocks both exploded well over 30% in value after it was suggested the two companies could go public.\n\n**5/23/2025 SPY: -0.67%**\n\nA 50% tariff on the EU was threated that day.\n\nShares of U.S. Steel, however, exploded that day, thanks to explicit approval of Nippon Steel’s takeover of said company: \n\nApple also fell -3% that day, after heexplicitly threatened a 25% tariff on iPhones not built in the United States. \n\n**10/10/2025 SPY: -2.71%**\n\nA struggle over China's monopoly on rare earth minerals reignited the trade war and sent shares of MP Materials, USA Rare Earth, and NioCorp saw significant movement that day as well.\n\n**4/8/2026 SPY: +2.51%**\n\nAfter threatening continued conflict, markets roared back the following day when a ceasefire was unexpectedly declared.\n\nHere are all the sources since Reddit really does not like posting either of them: [https://pastebin.com/WWUvfCmk](https://pastebin.com/WWUvfCmk) ",
+    "id": "1t0p4aw",
+    "title": "Is the 401(k) actually worth contributing to beyond the employer match, or should I just put everything into a taxable brokerage?",
+    "url": "https://www.reddit.com/r/investing/comments/1t0p4aw/is_the_401k_actually_worth_contributing_to_beyond/",
+    "author": "SnooBooks3187",
+    "score": 311,
+    "selftext": "So I’ve been wondering if the 401(k) past the employer match is actually worth it compared to just going straight to a taxable brokerage. My plan is match → max Roth → then I’m not sure. I know the tax-deferred growth is the main argument but between the limited fund options and higher expense ratios I’m not convinced it beats the flexibility of just investing in a taxable account. No HSA option for me either so it’s basically Roth vs 401(k) vs taxable after the match. What do you guys actually do?",
     "subreddit": "investing",
-    "created_utc": 1777572940,
+    "created_utc": 1777629915,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "4-10-26 “Palantir (PLTR) has proven to have great war fighting capabilities. Thank you for your attention!” - President “Two Pumps, One Dump” DJT ",
-        "score": 59,
-        "author": "Ok-Blood4340"
+        "body": "My company contributes nothing to our 401(k) plan so I personally do a roth and taxable brokerage since they also don’t cover the fees. I also plan to retire early hopefully so I would rather have my money in a taxable.",
+        "score": 1,
+        "author": "starry_thing_"
       },
       {
-        "body": "No prior POTUS used Twitter to post official state message that \"coincidentally\" happen immediately after large trades in the future/equities markets are taken.",
-        "score": 47,
-        "author": "ImmodestPolitician"
+        "body": "Don't put all your eggs in one basket holds true here. You should have a balance of taxable, pre tax, Roth. ",
+        "score": 1,
+        "author": "metromoto88"
       },
       {
-        "body": "Of course you should watch what he's saying. He's the president, everything he says and does is intrinsically important because of the office he's in. ",
-        "score": 21,
-        "author": "captain_ahabb"
+        "body": "If elible for an HSA, that comes before maxing out the Roth. If you can afford to pay out of pocket now, you can effectively use it as a never-taxed retirement account.",
+        "score": 1,
+        "author": "ra__account"
       }
     ],
-    "summary_he": "להלן סיכום של הפוסט:\n\nהפוסט מנתח 18 מקרים שבהם התבטאויות של הנשיא ברשתות החברתיות הובילו לתנודות חדות ומיידיות בשוק ההון, בין היתר בנושאי מלחמות הסחר עם סין, מחירי הנפט ותפקוד הבנק המרכזי (הפד). הכותב מציג דוגמאות להשפעה ישירה על מדד ה-S&P 500 ועל מניות ספציפיות כמו אמזון ואפל, ומסיק כי על משקיעים לעקוב מקרוב אחרי פרסומים אלו בשל השפעתם המכריעה על השוק.",
+    "summary_he": "הכותב מתלבט האם כדאי להמשיך להשקיע ב-401(k) מעבר לסכום שהמעסיק משווה, או שעדיף להפנות את הכספים לחשבון השקעות רגיל (Taxable). הוא חושש שדמי הניהול הגבוהים ואפשרויות ההשקעה המוגבלות בתוכנית הפנסיונית אינם מצדיקים את אובדן הגמישות שמציע חשבון רגיל, ומבקש לשמוע כיצד אחרים פועלים במצב זה.",
     "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט ורגשות קהילתיים שונים:\n\n*   **יכולות צבאיות של פלנטיר (PLTR):** קיימת הכרה ביכולות של חברת פלנטיר ככלי משמעותי ואפקטיבי בשדה הקרב המודרני, תוך ציון לשבח של ביצועיה בתחום הלחימה.\n*   **תחזית פוליטית סאטירית:** התגובות משקפות מבט הומוריסטי או ספקולטיבי על העתיד (שנת 2026), הכולל את חזרתו של דונלד טראמפ לנשיאות ואת סגנון ההתבטאות המזוהה איתו.\n*   **חשד למניפולציה בשוק ההון:** עולה ביקורת חריפה על הקשר שבין הצהרות נשיאותיות ברשתות החברתיות לבין תנודות חריגות בשוק המניות, תוך רמיזה לניצול כוח פוליטי להשפעה על עסקאות פיננסיות.\n*   **ביקורת על השימוש במדיה חברתית:** ישנה הסתייגות מהשימוש של נשיא ארה\"ב ברשתות חברתיות להעברת מסרים רשמיים, במיוחד כאשר אלו נראים כמתואמים עם תזמוני מסחר בשוק הנגזרים והמניות.\n*   **חשיבותו המובנית של מוסד הנשיאות:** קיימת הסכמה כי כל מילה או פעולה של נשיא היא בעלת חשיבות עליונה, ללא קשר לזהות האדם, פשוט בשל העוצמה והסמכות הכרוכים בתפקיד עצמו.\n*   **חובת המעקב והערנות:** הקהילה מבטאת את הצורך לעקוב בדריכות אחר דברי הנשיא, שכן להצהרותיו יש השלכות ישירות ומשמעותיות על הכלכלה ועל המדינה, מה שהופך את דבריו למידע קריטי עבור הציבור והמשקיעים."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מבט וגישות שונות בנוגע לתכנון פרישה וניהול חשבונות השקעה:\n\n*   **היעדר תמריצי מעסיק כשיקול למעבר לחלופות:** כאשר המעסיק אינו מציע \"הפקדות תואמות\" (Matching) ואף אינו מכסה את דמי הניהול בתוכנית הפנסיה (401k), העדפת המשקיעים עוברת לחשבונות עצמאיים כמו Roth IRA או חשבונות מסחר ממוסים, שבהם השליטה בעלויות גבוהה יותר.\n*   **התאמת אפיק ההשקעה ליעד הפרישה:** עבור משקיעים השואפים לפרישה מוקדמת, ישנה עדיפות מובהקת לחשבון השקעות רגיל (Taxable Brokerage). זאת כיוון שהוא מאפשר נזילות וגישה לכספים בכל שלב, ללא הקנסות והמגבלות הקיימים במשיכת כספים מחשבונות פנסיוניים לפני גיל הפרישה הרשמי.\n*   **חשיבות הפיזור המיסויי (Tax Diversification):** הגישה השלטת היא שאין \"לשים את כל הביצים בסל אחד\". מומלץ ליצור איזון בפורטפוליו בין שלושה סוגי חשבונות: חשבונות ממוסים (Taxable), חשבונות לפני מס (Pre-tax) וחשבונות פטורים ממס (Roth), כדי למקסם גמישות מול רשויות המס בעתיד.\n*   **תיעדוף חשבון חיסכון לבריאות (HSA):** קיימת הסכמה כי במידה וקיימת זכאות לחשבון HSA, יש לתעדף את ההפקדה אליו אפילו לפני שממקסמים את ה-Roth IRA, בשל הטבות המס המשולשות שהוא מציע (הפקדה, צמיחה ומשיכה פטורות ממס).\n*   **אסטרטגיית ה-HSA כחשבון פנסיה \"חסין מס\":** משקיעים מנוסים מציעים לשלם על הוצאות רפואיות שוטפות מתוך ההכנסה הפנויה ולא לגעת בכספי ה-HSA. בדרך זו, החשבון משמש למעשה כחשבון פרישה עוצמתי שבו הכסף צומח ויוצא ללא מס לעולם (בכפוף להצגת קבלות על הוצאות רפואיות מהעבר).\n*   **רגישות לעלויות ודמי ניהול:** הדיון מדגיש כי דמי ניהול גבוהים בתוכניות פנסיה מקומיות הם גורם מרתיע משמעותי. משקיעים מוכנים לוותר על הטבות מס מסוימות בתוכנית המעסיק אם העלויות המצטברות בה גבוהות מדי לעומת ניהול עצמאי של הכספים.",
+    "dateString": "2026-05-03",
+    "savedAt": {
+      "_seconds": 1777788068,
+      "_nanoseconds": 644000000
+    }
   },
   {
-    "id": "1t03x3u",
-    "title": "Every Time the President Moved Markets with Social Media.",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1t03x3u/every_time_the_president_moved_markets_with/",
-    "author": "InfoLib_",
-    "score": 52,
-    "selftext": "Intel did not last into market open. This post was really cut down due to rules, but the meat of it is still there.   \n  \nTl;dr: you should probably, sadly, be watching what this dude is saying. 18 instances using social media alone.\n\n\n\n**3/23/2018 SPY: -2.10%**\n\nEarly that morning, The President refused to sign the $1.5 trillion Omnibus Spending [Bill.In](http://Bill.In) the wake of the tariff spat that he had also triggered the day before with China, markets remained down for the duration of the day, until, rather unexpectedly, he signed the bill that SAME day, Markets bounced slightly before close on the good news and boomed the following Monday (3/23 was a Friday) after news came out that China and the U.S. were going into negotiations.\n\n**4/2/2018 SPY: -2.23%**\n\nBefore the market opened, The President made a post criticizing Amazon for taking advantage of the USPS. Amazon closed -5.2% for the day, markets were down substantially as well, thanks in part to China issuing more tariffs.\n\n**12/4/2018 SPY: -3.24%**\n\nA slightlytricky day, not much was going on aside from 3Y and 5Y yield curve inversion, it didn’t help that he suggested that a “real” deal with China was still uncertain.\n\n**12/21/2018 SPY: -2.06%**\n\nTwo days after a rate hike (which greatly displeased him), the President made matters worse by actively threatening to keep the government shut down.  Government shutdowns are typically very unwelcome to markets.\n\n**12/24/2018 SPY: -2.71%**\n\nOn Christmas Day, the worst on record, The President took his first shot at removing Jerome Powell. Markets immediately dipped after his post: *“The only problem our economy has is the Fed……”* Reports that same day began circulating that he had been looking into removing Powell from office.\n\n**5/13/2019 SPY: -2.41%**\n\nAnother post about failed negotiations with China and things only bounced later in the day after the President remained hesitant about slapping an additional $325 billion in tariffs.\n\n**8/23/2019 SPY: -2.59%**\n\nThis post ordered US companies to look to alternatives to China. Not that the President has the powers to enforce such a thing, but hope was now diminishing that a trade deal would ever be made, and markets were spooked.\n\n**4/2/2020 SPY: +4.22%**\n\nWith oil near record lows, a simple post suggesting a deal with Russia and Saudi Arabia was made. WTI Crude Oil spiked 26% off of the post alone. Markets also boomed.\n\n**4/22/2020 SPY: +2.29%**\n\nAnother simple post that led to a peak spike of 32% and a close of 19% for WTI Crude. All he did was suggest the aggressive use of the Navy. The general market also climbed, though it's harder to say the post was entirely responsible for that.\n\n**3/2/2025**\n\nCan't use the word on this sub but those tech projects went up a lot. \n\n**4/9/2025 SPY: +9.52%**\n\nAll he had to do here was announce a 90 day pause in tariffs to send markets flying. \n\n**4/21/2025 SPY: -2.36%**\n\nThe President took another stab at an attempt to remove Powell from office “reigniting” worries of an over-reach of power and an active attempt to meddle with the independent bank. \n\n**5/21/2025**\n\nFreddie Mac and Fannie Mae stocks both exploded well over 30% in value after it was suggested the two companies could go public. \n\n**5/23/2025 SPY: -0.67%**\n\nA 50% tariff on the EU was threated that day. \n\nShares of U.S. Steel, however, exploded that day, thanks to explicit approval of Nippon Steel’s takeover of said company: \n\nApple also fell -3% that day, after heexplicitly threatened a 25% tariff on iPhones not built in the United States. \n\n**10/10/2025 SPY: -2.71%**\n\nA struggle over China's monopoly on rare earth minerals reignited the trade war and sent shares of MP Materials, USA Rare Earth, and NioCorp saw significant movement that day as well.\n\n**4/8/2026 SPY: +2.51%**\n\nAfter threatening continued conflict, markets roared back the following day when a ceasefire was unexpectedly declared. \n\nHere are all the sources since Reddit really does not like posting either of them: [https://pastebin.com/WWUvfCmk](https://pastebin.com/WWUvfCmk) ",
+    "id": "1t14ddp",
+    "title": "Nasdaq closed above 25,000 for the first time ever.",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1t14ddp/nasdaq_closed_above_25000_for_the_first_time_ever/",
+    "author": "vjectsport",
+    "score": 154,
+    "selftext": "The S&P 500 gained more than 10% in April. We've completed the first of May and both of them closed at all-time highs. It seems that the results of Magnificent Seven companies have been positive affected. At least, there are no problem so far. By the way, Trump announced that will be increasing tariffs on EU for cars trucks. \n\nWe hope that the rally continues. We don't want to see that \"Sell in May and go away\" effect 😀\n\n❓ Note: Many people have asked where screenshots come from in my previous posts. I'm using Stock+ on iPhone and iPad. You can find it on the App Store. If you're using Android, I'm now sure if it's available, but you can try searching \"Stock Map\" or \"Heat Map\".",
     "subreddit": "StockMarket",
-    "created_utc": 1777572074,
+    "created_utc": 1777665970,
+    "thumbnail": "https://preview.redd.it/lric48wl1lyg1.jpeg?width=140&height=108&auto=webp&s=519a0b0515785c6d2e67a26a59222b2ef2d802af",
+    "top_comments": [
+      {
+        "body": "It will reverberate all through the second half of the year.",
+        "score": 1,
+        "author": "not_my_monkeys_"
+      },
+      {
+        "body": "Middle class is squeezed hard. Low paying jobs are fine, therefore the unemployment number looks good. Inflation formula is outdated and they continue to change it to show low numbers. This is late stage capitalism, baby. ",
+        "score": 1,
+        "author": "rozmarymarlo"
+      },
+      {
+        "body": "The largest companies are reporting record profits. Inflation is tame and not worsening. Unemployment is tame and not worsening. Perhaps you think the economy is in worse shape than it really is? ",
+        "score": 1,
+        "author": "UsernameIWontRegret"
+      }
+    ],
+    "summary_he": "מדד הנאסד\"ק חצה לראשונה את רף ה-25,000 נקודות, כשגם מדד ה-S&P 500 רשם שיא חדש על רקע דוחות חיוביים של חברות הטכנולוגיה הגדולות. למרות האופטימיות, הכרזתו של טראמפ על העלאת מכסים על רכבים מהאיחוד האירופי מעוררת עניין, לצד התקווה שהעליות בשווקים יימשכו לאורך חודש מאי.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג נקודות מבט שונות על מצב הכלכלה:\n\n* **המשכיות והשפעה ארוכת טווח:** קיימת הערכה כי ההשלכות הכלכליות הנוכחיות אינן זמניות, אלא ימשיכו להדהד ולהשפיע על השוק לאורך כל המחצית השנייה של השנה.\n* **שחיקת מעמד הביניים:** אחת התחושות המרכזיות היא שמעמד הביניים נמצא תחת לחץ כלכלי כבד (\"נלחץ חזק\"), בעוד שהפערים הכלכליים הולכים וגדלים.\n* **ביקורת על נתוני האבטלה:** נטען כי נתוני האבטלה הנמוכים (והחיוביים לכאורה) מטעים, כיוון שהם מתבססים על שפע של משרות בשכר נמוך שאינן מאפשרות קיום בכבוד, ולא על משרות איכותיות.\n* **ספקנות כלפי מדדי האינפלציה:** קיימת טענה כי נוסחת חישוב האינפלציה מיושנת ועוברת שינויים מכוונים על ידי הממסד כדי להציג נתונים נמוכים מהמציאות בשטח.\n* **שיא ברווחי התאגידים:** מנגד, מצוינת העובדה כי החברות הגדולות ביותר מדווחות על רווחי שיא, מה שמעיד על חוסן כלכלי ברמת המאקרו או לפחות בקרב השכבה העליונה של הכלכלה.\n* **פער בין תפיסה למציאות:** קיימת מחלוקת האם המצב באמת גרוע כפי שרבים חשים, או שמא המדדים היבשים (אינפלציה ואבטלה יציבות) מעידים על כך שהכלכלה במצב טוב יותר ממה שנדמה לציבור.\n* **ביקורת סיסטמית (קפיטליזם מאוחר):** חלק מהתגובות מבטאות ייאוש מערכתי, ומתארות את המצב הנוכחי כסימפטום של \"קפיטליזם בשלב מאוחר\", שבו המערכת פועלת לטובת התאגידים על חשבון האזרח הקטן."
+  },
+  {
+    "id": "1t0ymud",
+    "title": "Paying off mortgage or investing",
+    "url": "https://www.reddit.com/r/investing/comments/1t0ymud/paying_off_mortgage_or_investing/",
+    "author": "Far_Reply5660",
+    "score": 112,
+    "selftext": "I have this \"great problem\". I managed to save around 160k towards my 290k mortgage last year. I have a 2.8 interest rate. Then I decided to invest the 160k instead. So I bought around 90k in s&p, qqq, some mag7 individual stocks and also bought around 30k SCHD, 20k QQQI, 10K SPYI, 10K JEPI. The portafolio has grown to 230k by now and is paying me around $750 in monthly dividends. My monthly mortgage payment is 2k. I will continue to contribute to this portafolio $750 monthly (not sure what holdings) plus all dividends will be DRIP. According to dividend tracker app my investment should generate 24k yearly dividends in 8 years if I DRIP everything. I want to retire in 8 years which fits perfectly to reach retirement with a way to cover my mortgage plus the portafolio will grow to around 490k. My wife would like to payoff the mortgage ASAP but I have a different way of thinking. She says use the entire portafolio towards the mortgage as well as our savings and we can be \"debt free tomorrow\" then we can save more and build up another portafolio but we'll be debt free. I love the idea of being debt free but the investing numbers don't let me do it. I lean more towards building up a machine that generated enough monthly income to pay off the monthly mortgage plus I keep the portafolio and adds liquidity. By the way, we are not fighting and understand each others point, but each of us lean more towards opposing directions. What would you do?",
+    "subreddit": "investing",
+    "created_utc": 1777653560,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Guys a shit bag robbing working Americans ",
-        "score": 22,
-        "author": "DoughnutPotential776"
+        "body": "Pretty much every single person online is gonna tell you not to pay off the house. It’s the suboptimal decision especially with your rate. However it’s not their life. That mortgage free life is definitely great and you may even feel more empowered to invest even more aggressively by reducing your monthly expenses so significantly. \n\nI’m not advocating for paying off the mortgage. I’m not against it either. My stance is that on the spectrum of things you can do with your money, both are really good options, one is better but both are great. Do what is right for you guys, you will be just fine either way.  ",
+        "score": 1,
+        "author": "FreshDiamond"
       },
       {
-        "body": "Were these done over social media? That was really the only thing I was filtering for. ",
+        "body": "If you pay $5k and you save 2.8% annual interest OR pay minimum payments and put the rest in the Vanguard settlement fund interest rate return of 3.58 percent currently. The money you don’t pay grows faster (from investment interest) than the money you don’t pay (from mortgage interest).\n\nEveryone needs to set their own risk tolerance line where they pay off debts (I personally think mine is 5% which is a little conservative), but there is no-one that should do it at 2.8%.",
         "score": 1,
-        "author": "InfoLib_"
+        "author": "Pure-Tip4300"
       },
       {
-        "body": "What about the recent manipulations related to the Iran War? \n\n3/26/26: Trump announces very good discussion with Iran (lie). Oil dropped over 10% and the market went up 1.4%\n\n4/7/26: Trump announces a two week ceasefire. Oil dropped by 15%. Israel attacked Lebanon later that same day (no cease fire).\n\n",
+        "body": "Models on historical data demonstrate investing wins out most of the time with long time horizons. If tax incentives exist for longer term/retirement savings this is juiced.",
         "score": 1,
-        "author": "Justaguy98989"
+        "author": "MDInvesting"
       }
     ],
-    "summary_he": "הנה סיכום של הפוסט בערך בשני משפטים:\n\nהפוסט סוקר שורה של מקרים שבהם התבטאויות של הנשיא ברשתות החברתיות הובילו לתנודות חדות ומיידיות בשוק ההון ובמחירי מניות של חברות ספציפיות. המחבר מפרט כיצד הצהרות בנושאי מלחמות סחר, מכסים וביקורת על הבנק המרכזי השפיעו ישירות על המדדים, ומסיק כי על המשקיעים לעקוב מקרוב אחר פרסומים אלו בשל השפעתם המוכחת על השוק.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות בשרשור, המציג 6 נקודות מבט ורגשות מרכזיים של הקהילה:\n\n*   **ביקורת מוסרית חריפה:** אחד המגיבים מביע זלזול עמוק בדמות המדוברת (ככל הנראה טראמפ, על פי ההקשר), ומתאר אותו כאדם מושחת ש\"שודד\" את מעמד הפועלים האמריקאי.\n*   **בחינת ערוצי התקשורת:** עולה עניין בשאלה האם המניפולציות המדוברות בוצעו ישירות דרך הרשתות החברתיות, מה שמעיד על ניסיון של הקהילה לסנן ולהבין את המקורות להשפעה על השוק.\n*   **האשמות במניפולציה של שוק ההון:** קיימת טענה שהצהרות פוליטיות משמשות ככלי מכוון להנדסת המדדים, במיוחד בכל הקשור למחירי הנפט ולעליות בבורסה.\n*   **חוסר אמון בהצהרות רשמיות:** הקהילה מתייחסת להודעות על התקדמות מדינית (כמו שיחות עם איראן) כאל \"שקרים\" שנועדו לשרת אינטרסים כלכליים קצרי טווח ולא כמציאות דיפלומטית.\n*   **ניתוח ההשפעה של אירועים גיאופוליטיים:** המגיבים מצביעים על קשר ישיר וחד בין הצהרות מדיניות לבין תנודות קיצוניות בשוק – למשל, ירידה של 10% עד 15% במחירי הנפט בעקבות הכרזות על רגיעה או הפסקת אש.\n*   **פער בין רטוריקה למציאות בשטח:** מודגש הניגוד החריף בין הכרזות על \"הפסקת אש\" לבין המשך הלחימה בפועל (כמו התקיפה בלבנון באותו היום), מה שמתפרש כהטעיה מכוונת של הציבור והמשקיעים."
+    "summary_he": "הכותב מתלבט אם להשתמש בתיק השקעות שצמח ל-230 אלף דולר כדי לפרוע משכנתא בריבית נמוכה (2.8%), או להמשיך להשקיע כדי לייצר הכנסה פסיבית שתכסה את התשלומים לקראת פרישה בעוד 8 שנים. בעוד שאשתו מעדיפה את השקט הנפשי שבסגירת החוב באופן מיידי, הוא מאמין שהתשואה מהשקעות וצמיחת הדיבידנדים משתלמות יותר מבחינה כלכלית ומעניקות נזילות גבוהה יותר.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ודעות שונות בנוגע להחלטה האם לפרוע משכנתא בריבית נמוכה (2.8%) או להשקיע את הכסף:\n\n*   **הכדאיות המתמטית מול העדפה אישית:** רוב המייעצים ברשת ימליצו שלא לפרוע את המשכנתא כיוון שמדובר בהחלטה כלכלית \"סוב-אופטימלית\" בריבית כזו. עם זאת, התגובות מדגישות כי זו החלטה אישית – שני המסלולים (השקעה או פירעון) הם \"אופציות מצוינות\" במכלול של ניהול כספים, וכל בחירה תוביל לתוצאה טובה.\n*   **הערך הפסיכולוגי של חופש מחובות:** קיימת דעה כי לחיים ללא משכנתא יש ערך רגשי רב. תחושת ה\"חופש\" והפחתת ההוצאות החודשיות הקבועות עשויות להעניק ביטחון עצמי ואומץ להשקיע בעתיד בצורה אגרסיבית יותר, לאחר שהנטל הקבוע הוסר.\n*   **פערי ריביות ותשואות:** ניתוח מספרי פשוט מראה שכל עוד ניתן לקבל תשואה גבוהה יותר על הכסף (למשל 3.58% בקרנות כספיות או השקעות סולידיות) מאשר הריבית שנחסכת בפירעון המשכנתא (2.8%), הכסף \"צומח מהר יותר\" כשהוא מושקע מאשר כשהוא משמש לסגירת החוב.\n*   **רף הסבילות לסיכון:** לכל משקיע יש \"קו אדום\" של ריבית שמעליה הוא יעדיף לפרוע חובות. בעוד שחלק מהמגיבים רואים בריבית של 5% כגבול שבו כדאי להתחיל לפרוע חוב, קיימת הסכמה רחבה שבריבית נמוכה של 2.8% אין הצדקה כלכלית למהר ולסגור את המשכנתא.\n*   **הסתמכות על נתונים היסטוריים:** מודלים המבוססים על נתוני עבר מראים שהשקעה בשוק ההון לאורך טווח זמן ארוך מנצחת כמעט תמיד את האופציה של פירעון מוקדם של חובות בריבית נמוכה.\n*   **השפעת תמריצי המס:** נקודת מבט נוספת מציינת שהטבות מס (כגון זיכויי מס על חסכונות פנסיוניים או השקעות מוגנות) הופכות את ההשקעה לאטרקטיבית עוד יותר, ומשנות את המשוואה לטובת השקעה על פני סגירת המשכנתא.",
+    "dateString": "2026-05-03",
+    "savedAt": {
+      "_seconds": 1777788085,
+      "_nanoseconds": 307000000
+    }
   },
   {
-    "id": "1t01b8c",
-    "title": "\"We're doing the work required to win back fans across Windows and Xbox\": Microsoft CEO Satya Nadella says the company is making foundational changes to fix Windows 11 and Xbox",
-    "url": "https://www.reddit.com/r/business/comments/1t01b8c/were_doing_the_work_required_to_win_back_fans/",
-    "author": "ControlCAD",
-    "score": 13,
-    "selftext": "\\>Satya Nadella has commented on recent announcements around Windows and Xbox that are working to rebuild trust and positive sentiment around its consumer offerings.",
-    "subreddit": "business",
-    "created_utc": 1777566497,
-    "thumbnail": "default",
+    "id": "1t10d8c",
+    "title": "Any else find it difficult to invest in a stock that is on a tear?",
+    "url": "https://www.reddit.com/r/investing/comments/1t10d8c/any_else_find_it_difficult_to_invest_in_a_stock/",
+    "author": "bluefootedpig",
+    "score": 62,
+    "selftext": "I was hunting for some companies, found some that looked solid, nothing hype, nothing magical. Rather boring companies, like I got an IoT company that was looking solid. Since buying, it is up 30% in the last 3 months. It feels unreal, 50% in 6 months, and 100% in year. So it looks really good, it keeps going up, but like I don't understand why it is a slow, steady constant growth at such a rate. I would think if they post good numbers, people flock to it, money moves, investors buy up, etc. But then it just keeps going. \n\nNow I need to decide to buy another stock that is 50% more expensive than most of what I bought at. \n\nAnyone else have that same difficulty? Like buying AMD today for 200/share, when it was 66/share like a year and half ago. ",
+    "subreddit": "investing",
+    "created_utc": 1777657268,
+    "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Somehow, I suspect *they* think adding more AI slop to Windows is \"the work required to win back fans\" instead of, you know, fixing all (or any) of the things Windows users actually complain about.",
-        "score": 9,
-        "author": "e_t_"
+        "body": "The best performing stocks continuously hit all time highs. You have to get in at some point.",
+        "score": 88,
+        "author": "wontonforevuh"
       },
       {
-        "body": "I'm seeing a lot of companies trying to roll back their enshittification efforts. It'll be interesting to see how they justify it to shareholders.",
+        "body": "The past matters little.  Just look at forward prospects.",
+        "score": 29,
+        "author": "SnS2500"
+      },
+      {
+        "body": "This seems to be the case with almost everything worth buying right now. It's difficult to feel \"clever\" or ahead of the curve buying anything right now.  ",
+        "score": 7,
+        "author": "MysteriousKitchen469"
+      }
+    ],
+    "summary_he": "כותב הפוסט משתף בקושי הפסיכולוגי לרכוש מניות שנמצאות בשיא לאחר עליות חדות, ותוהה אם נכון להשקיע בחברות שמחירן זינק בפרק זמן קצר. הוא מציג כדוגמה מניה שהכפילה את ערכה בשנה האחרונה ומציין את ההתלבטות האם לקנות מניות נוספות במחיר גבוה משמעותית ממחיר הרכישה המקורי.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט ותחושות שונות בקהילה:\n\n* **המשכיות של שיאים:** מניות בעלות ביצועים חזקים נוטות לשבור שיאים חדשים (All-Time Highs) באופן עקבי, ולכן מחיר גבוה אינו בהכרח סימן לעצירה אלא לעוצמה.\n* **הכרח הכניסה לשוק:** אי אפשר להמתין לנצח לתיקון; כדי להרוויח, משקיע חייב \"להיכנס\" לתוך הפוזיציה בנקודת זמן כלשהי, גם אם היא נראית יקרה.\n* **חוסר רלוונטיות של העבר:** נתוני העבר וההיסטוריה של מחיר המניה פחות חשובים מהמצב הנוכחי; מה שקרה אתמול לא קובע את מה שיקרה מחר.\n* **התמקדות בתחזיות עתידיות:** השיקול המרכזי בהשקעה צריך להיות הפוטנציאל העתידי והתחזיות קדימה של החברה, ולא המחיר שבו היא נסחרה בעבר.\n* **תחושת יוקר כללית בשוק:** המצב שבו נכסים נראים יקרים אינו ייחודי למניה אחת, אלא מאפיין כמעט כל נכס איכותי ששווה קנייה בשוק הנוכחי.\n* **אובדן \"יתרון המשקיע\":** קיימת תחושה בקהילה שקשה מאוד להרגיש \"חכם\" או \"מקדים את השוק\" כיום, כיוון שאין כמעט הזדמנויות שנראות זולות או נסתרות מהעין.",
+    "dateString": "2026-05-03",
+    "savedAt": {
+      "_seconds": 1777788111,
+      "_nanoseconds": 475000000
+    }
+  },
+  {
+    "id": "1t0vjkt",
+    "title": "Shorting American Airlines - Update",
+    "url": "https://www.reddit.com/r/investing/comments/1t0vjkt/shorting_american_airlines_update/",
+    "author": "MarsTellus13",
+    "score": 48,
+    "selftext": "Just providing a short update since my [Monday post](https://www.reddit.com/r/investing/comments/1sx6o6e/shorting_american_airlines_oil_shocks_ahead/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). Skip to the timeline for the super condensed version.  \n  \nAAL dipped and rebounded alongside JETS and other North American airline stocks. New liquidity has emerged on the options chain - I added a few new strikes to my positions this week (at the bottom). Probably not adding anything else today because maybe this latest proposal from Iran is for reals the one that ends the war. It almost certainly won't be, and even if it is it's going to take a very long time for energy markets to normalize...but if everything soars on the news anyway there will be other opportunities to profit.\n\nI’m not quite doubling down, but I may continue adding cheap puts on new information. To be clear, this is a thesis built around the idea that American Airlines' recent earnings set themselves up for an especially sharp guidance miss and that they are likely to be punished harder than their peers when Q2 drops.\n\nAAL announced closure of a $[1.14 billion](https://www.reuters.com/business/american-airlines-raise-114-billion-through-aircraft-backed-securities-2026-04-27/) round of funding the same day I published.\n\nAir Canada announced [Q1 results](https://content.presspage.com/uploads/3167/40612b9f-3263-42eb-9200-26c243fc50e5/q12026aircanadanewsrelease-english.pdf?10000) on April 30. They suspended full-year 2026 guidance because of the unpredictability of fuel prices.This is notable: They are the only airline with financial hedges on fuel and theoretically the most insulated (aside from Delta’s Monroe refinery advantages) to elevated prices but still suspended full-year guidance. The TLDR, and feel free to check my numbers: Air Canada’s Q2 estimate for fuel is $4.16 per gallon if you remove their hedge, and they cannot provide guidance beyond Q2 because of fuel price uncertainties.\n\nI missed this, but Southwest Airlines [reported Q1](https://www.southwestairlinesinvestorrelations.com/news-events/press-releases/detail/1923/southwest-airlines-reports-first-quarter-results-business-transformation-initiatives-deliver-meaningful-margin-expansion) on April 22, the day before AAL. Their unhedged fuel estimate: $4.10 to $4.15 per gallon. Notably, Southwest declined to reaffirm full-year guidance, stating: “Given the ongoing macroeconomic uncertainty, updating the Company's full-year adjusted EPS guidance of $4.00 would not be productive at this time. Achieving this outcome would require lower fuel prices and/or stronger revenue performance to offset higher fuel expense.”\n\nSo here’s the current timeline of events:\n\nApril 8 - Delta reports Q1. Guides **$4.30 / gallon Q2** including $300 million from their Monroe refinery. Cites fuel uncertainties but makes no change to full-year guidance.\n\nApril 22 - United reports Q1. Guides **$4.30 / gallon** with zero hedging, same structure as AAL. Cuts full-year EPS from $12-14 to $7-11.  \n  \nApril 22 - Southwest reports Q1. Guides **$4.10 - $4.15 / gallon** with zero hedging, declines to reaffirm full-year guidance, implies it’s a longshot at best.\n\nApril 23 - American Airlines reports Q1. Guides **$4 / gallon** with zero hedging, notes that full-year guidance will be “flat” relative to 2025 “despite $4 billion in increased fuel costs.” Again, that $4 billion is enormously optimistic and they’re the only ones attempting to project fuel costs through EOY 2026.\n\nApril 24 - American Airlines closes a $1.14 billion round of funding a day after the sunniest Q1 in the industry.\n\nApril 30 - Air Canada reports Q1. Hedges fuel, so somewhat insulated. Unhedged fuel estimate for Q2: at **$4.16 / gallon**, pulls full-year guidance completely because of fuel unpredictability.\n\nMay 1 - [Average spot price](https://www.airlines.org/dataset/argus-us-jet-fuel-index/) for jet fuel in April: $4.29. (AAL’s actual reported average fuel cost for 2025 comes pretty close to this website; no guarantees, but this is a useful placeholder)\n\nPositions:\n\n1. (New) $11 puts, 8/21/2026\n2. $5 lottery ticket puts, 1/15/2027\n3. (New) $8 puts, 1/15/2027\n4. $10 puts, 1/15/2027",
+    "subreddit": "investing",
+    "created_utc": 1777646908,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Oh nice, I have the same strike and expiry as your earliest put - just that I bought calls instead\n\nI hope your trade completely fails 👍",
+        "score": 62,
+        "author": "kwijibokwijibo"
+      },
+      {
+        "body": "Chose it because it's one of the most exposed airlines to fuel prices\n\nBasically betting on energy costs to normalise in the next couple of months\n\nWe have the same thought process and are tracking the same events - just each hoping for the coin to land differently",
+        "score": 19,
+        "author": "kwijibokwijibo"
+      },
+      {
+        "body": "You think energy costs will meaningfully return to a pre-Feb 28th level in the next 90 days?",
+        "score": 12,
+        "author": "YouKnown999"
+      }
+    ],
+    "summary_he": "הנה סיכום של הפוסט:\n\nהכותב מעדכן לגבי פוזיציית שורט על מניית אמריקן איירליינס (AAL), המבוססת על ההערכה שתחזיות הרווח של החברה אופטימיות מדי בנוגע למחירי הדלק בהשוואה למתחרותיה. בעוד שחברות תעופה אחרות כבר הנמיכו או ביטלו תחזיות בשל אי-ודאות בשוק האנרגיה, הכותב מאמין ש-AAL צפויה לספוג פגיעה קשה במיוחד במחיר המניה כשתחטיא את יעדיה בדוחות הרבעון השני.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן ניתוח של הדיון בשרשור המצורף, הכולל 6 נקודות מבט וסנטימנטים בולטים בקהילה:\n\n*   **אסטרטגיות הפוכות על נכס זהה:** קיימת תופעה שבה סוחרים משתמשים באותם נתונים טכניים (מחיר מימוש ותאריך פקיעה) אך נוקטים עמדות הפוכות לחלוטין (אופציות רכש - Calls לעומת אופציות מכר - Puts), מה שמדגיש את חילוקי הדעות לגבי כיוון השוק.\n*   **סנטימנט תחרותי ו\"משחק סכום אפס\":** הדיון משקף הומור קהילתי אופייני שבו סוחרים מייחלים בגלוי לכישלון של הצד השני (\"מקווה שהטרייד שלך ייכשל לחלוטין\"), מתוך הבנה שרווח של אחד מגיע לרוב על חשבון האחר.\n*   **רגישות מחירי הדלק כקריטריון לבחירת מניות:** הקהילה מזהה את ענף התעופה כחשוף ביותר לתנודות במחירי האנרגיה, ולכן בחירת חברת תעופה ספציפית נעשית על פי מידת הפגיעות שלה לעלויות הדלק.\n*   **ניתוח זהה, מסקנה שונה:** קיימת הסכמה על האירועים המניעים את השוק (מחירי האנרגיה), אך ישנה הבנה שההימור הסופי הוא כמעט \"הטלת מטבע\" – שני סוחרים יכולים לעקוב אחרי אותם נתונים ולהגיע לתוצאה הפוכה.\n*   **ספקנות לגבי מהירות התיקון בשוק:** עולה תהייה משמעותית לגבי היתכנות של חזרת מחירי האנרגיה לרמות נורמליות בטווח זמן קצר של 90 יום, מה שמעיד על פסימיות לגבי התאוששות מהירה.\n*   **הקשר גיאופוליטי כנקודת ייחוס:** הדיון קושר באופן ישיר את הצלחת הטרייד למצב שהיה לפני ה-28 בפברואר (תחילת המלחמה באוקראינה), מה שמראה כי הסוחרים רואים באירועים פוליטיים גלובליים את הגורם המכריע ביותר לתיקון המחירים.",
+    "dateString": "2026-05-03",
+    "savedAt": {
+      "_seconds": 1777788127,
+      "_nanoseconds": 905000000
+    }
+  },
+  {
+    "id": "1t1414k",
+    "title": "We analyzed 151,422 dividend ex-date events across 2,344 securities going back 17 years. Here is what the recovery data actually shows.",
+    "url": "https://www.reddit.com/r/investing/comments/1t1414k/we_analyzed_151422_dividend_exdate_events_across/",
+    "author": "Recent_Button_1",
+    "score": 19,
+    "selftext": "Been building a dividend intelligence tool and ended up with a database of 151,422 ex-date events across CEFs, ETFs, REITs, BDCs, and dividend stocks going back 17 years. Figured the data was worth sharing since most discussion around ex-date dips is based on gut feel.\n\n**Recovery by security type:**\n\nDividend Stocks: 6.7 days average recovery, 71.5% recover within 5 trading days REITs: 7.7 days average recovery, 66.3% recover within 5 days ETFs: 8.1 days average recovery, 62.2% recover within 5 days CEFs: 8.9 days average recovery, 56.2% recover within 5 days BDCs: 12.4 days average recovery, only 45.1% recover within 5 days\n\nOverall median across all 151,422 events: 3 days\n\n**The yield effect is real:**\n\nUnder 3% yield: 6.9 days average recovery 3 to 5%: 7.0 days 5 to 8%: 7.9 days 8 to 12%: 8.3 days Over 12%: 10.1 days\n\nHigher yield means a bigger hole to climb out of. That is consistent across 17 years of data.\n\n**The BDC finding surprised me most:**\n\nBDCs have the largest average drop at 2.08% AND the slowest recovery at 12.4 days. Only 45% recover within 5 trading days. If you are buying BDC dips expecting a quick bounce the historical data says be patient.\n\n**Individual variance is where it gets interesting:**\n\nStocks recover fastest on average but individual variance within each category is massive. Among CEFs with 20 or more cycles in the dataset the fastest recovering funds average under 5 days while the slowest take 3 or more weeks. Both show up as CEFs on any screener. The historical pattern data separates them.\n\n**The z-score frame:**\n\nA security trading 2.5 or more standard deviations below its 252 day mean at ex-date is a statistically unusual event, not a routine dip. Those setups show stronger mean reversion tendencies than ex-dates occurring near the historical price average.\n\nHappy to answer questions about methodology or specific tickers.",
+    "subreddit": "investing",
+    "created_utc": 1777665221,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Both points are exactly right and the rate environment question is one we can actually start answering now. We have VIX history going back to 1990 in the dataset so regime analysis by volatility environment is already on the build list. High VIX versus low VIX recovery times is a cut we can run.\n\nThe rate environment split is more interesting and harder. We have the data range that covers multiple rate cycles, the zero rate era, the hiking cycle starting 2022, and the cuts after that. Splitting recovery times by prevailing Fed funds rate at the time of each ex-date event is doable once the fundamentals license is in place.\n\nYour structural versus weak business distinction is the most valuable framing though. A REIT that recovers slowly because of its size and liquidity is very different from one recovering slowly because the market is pricing in a distribution cut. That separation is exactly what the regression needs to produce to be actually useful for screening.",
+        "score": 1,
+        "author": "Recent_Button_1"
+      },
+      {
+        "body": "Three things changed for me personally after building this.\n\nFirst I stopped buying on yield alone. The data made it obvious that high yield and slow recovery are correlated. A 14% yielder that takes 10 days to recover is a very different risk profile than a 6% yielder that bounces in 2 days. I now look at the recovery pattern before I look at the yield number.\n\nSecond I started timing additions differently. When a security I already own and trust hits its ex-date I treat it as a planned entry opportunity rather than something to ignore. The median 3 day recovery means I am usually whole quickly and I bought at a discount.\n\nThird I got much more selective about BDCs. The data showed 12.4 day average recovery and only 45% back within 5 days. I still hold some but I size them smaller and I am more patient after the ex-date than I used to be.\n\nThe biggest behavioral shift was moving from gut feel to pattern recognition. Same securities, same dividends, completely different decision framework.",
+        "score": 1,
+        "author": "Recent_Button_1"
+      },
+      {
+        "body": "After analyzing the data, what were your takeaways? Have you changed or reinforced any behaviors?",
+        "score": 1,
+        "author": "Junglebook3"
+      }
+    ],
+    "summary_he": "ניתוח מקיף של מעל 150 אלף אירועי חלוקת דיבידנד לאורך 17 שנים מראה כי חציון זמן התאוששות מחיר הנייר לאחר יום האקס (ex-date) עומד על 3 ימי מסחר בלבד. המחקר מצא כי מניות רגילות מתאוששות הכי מהר, בעוד שקרנות BDC ותשואות דיבידנד גבוהות במיוחד מאריכות משמעותית את זמן החזרה למחיר המקורי. הממצאים מדגישים כי קיימת שונות גבוהה בין סוגי נכסים וכי שימוש בנתונים סטטיסטיים יכול לסייע בזיהוי הזדמנויות קנייה חריגות לעומת ירידות שגרתיות.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום מקיף של הדיון ב-Reddit, המציג שש נקודות מבט ותובנות מרכזיות שעלו מתוך דברי הקהילה:\n\n*   **חשיבות מדד התנודתיות (VIX) בניתוח ביצועים:** המשתתפים מדגישים כי ניתוח היסטורי של זמני התאוששות של מניות חייב לקחת בחשבון את רמת התנודתיות בשוק. קיים הבדל משמעותי במשך הזמן שנדרש למניה לחזור לערכה המקורי בסביבת VIX גבוהה לעומת סביבת VIX נמוכה.\n*   **השפעת סביבת הריבית:** ניתוח הנתונים מצביע על כך שסביבת הריבית (ריבית אפס, מחזורי העלאת ריבית או הורדת ריבית של הפד) היא גורם קריטי. המגיבים מציינים כי קשה אך הכרחי להפריד את נתוני ההתאוששות לפי הריבית ששררה במועד ה-Ex-dividend כדי לקבל תמונה אמינה.\n*   **הבחנה בין כשל מבני לחולשה עסקית:** אחת התובנות החשובות ביותר היא הצורך להבדיל בין מניה שמתאוששת לאט בגלל סיבות מבניות (כמו נזילות נמוכה או גודל שוק) לבין מניה שמתאוששת לאט כי השוק מתמחר \"קיצוץ בדיבידנד\" עקב ביצועים עסקיים חלשים.\n*   **הקשר השלילי בין תשואה גבוהה למהירות התאוששות:** הנתונים הראו מתאם ברור: תשואת דיבידנד גבוהה מאוד (למשל 14%) מתואמת לרוב עם התאוששות איטית יותר של מחיר המניה. בעקבות זאת, הגישה בקהילה עברה מבחינת אחוז התשואה בלבד לבחינת \"דפוס ההתאוששות\" כקריטריון מרכזי לפני הקנייה.\n*   **ניצול יום ה-Ex-dividend כהזדמנות כניסה:** במקום להתעלם מיום חלוקת הדיבידנד, משקיעים מנוסים בקהילה החלו להתייחס אליו כאל \"חלון כניסה מתוכנן\". אם למניה יש היסטוריה של התאוששות מהירה (למשל חזרה לערכה המקורי תוך 3 ימים), יום ה-Ex-dividend מאפשר רכישה במעין \"הנחה\" טכנית.\n*   **זהירות ספציפית לגבי חברות BDC:** הנתונים בשרשור חשפו כי חברות פיתוח עסקי (BDCs) מציגות זמני התאוששות ארוכים משמעותית (ממוצע של 12.4 ימים) ורק פחות ממחציתן חוזרות לערכן תוך 5 ימים. תובנה זו הובילה למסקנה שיש לצמצם את גודל הפוזיציות בסקטור זה ולגלות סבלנות רבה יותר.\n*   **מעבר מתחושת בטן לזיהוי דפוסים:** לסיכום, השינוי המהותי ביותר בקרב חברי הקהילה הוא המעבר מקבלת החלטות המבוססת על אינטואיציה (\"Gut feel\") למערכת החלטות המבוססת על זיהוי דפוסים סטטיסטיים בנתונים, מה שמשנה לחלוטין את ניהול הסיכונים בתיק ההשקעות."
+  },
+  {
+    "id": "1t0zp6u",
+    "title": "Any Good investing podcasts?",
+    "url": "https://www.reddit.com/r/investing/comments/1t0zp6u/any_good_investing_podcasts/",
+    "author": "callmesteeb33",
+    "score": 11,
+    "selftext": "I’m looking for a good podcast that will teach me about investing. I currently have a Roth IRA and would say I essentially know not very much about what to invest in. So looking for suggestions I drive a decent amount for work so podcast or audio books are on a lot. I’ve started listening to the motley fool on a friends suggestion. Also general finance type podcasts I would be interested in as well. Thanks for any help",
+    "subreddit": "investing",
+    "created_utc": 1777655846,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Definitely Josh Brown and co. at The Compound.\n\n[https://www.youtube.com/@TheCompoundNews](https://www.youtube.com/@TheCompoundNews)",
         "score": 6,
-        "author": "NuncProFunc"
+        "author": "Infamous_Ad8730"
       },
       {
-        "body": "They literally said the opposite when this statement was made. This is an old headline that for some reason keeps getting recycled through websites. ",
+        "body": "It’s not investing specific but NPR’s Planet Money is great ",
         "score": 5,
-        "author": "hclpfan"
-      }
-    ],
-    "summary_he": "מנכ\"ל מיקרוסופט, סאטיה נאדלה, הצהיר כי החברה מבצעת שינויים יסודיים ב-Windows 11 ובמותג Xbox במטרה לזכות מחדש באמון המשתמשים. לדבריו, צעדים אלו נועדו לשפר את חוויית הצרכן ולבנות מחדש תדמית חיובית סביב מוצרי הדגל של החברה.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן ניתוח של תגובות הגולשים מהדיון ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **ביקורת על העדפת בינה מלאכותית על פני חווית משתמש:** קיים סנטימנט שלילי חזק כלפי השילוב המאולץ של כלי AI ב-Windows. המשתמשים מכנים זאת \"זבל של AI\" (AI slop) וטוענים שזהו ניסיון מוטעה של החברה לזכות מחדש באמון הקהל, במקום להשקיע בשיפור הליקויים הממשיים.\n*   **פער בתיעדוף בין החברה למשתמשים:** עולה טענה על נתק מוחלט בין הנהלת מיקרוסופט לבין קהל הלקוחות שלה. בעוד שהחברה מאמינה שחדשנות טכנולוגית (AI) היא הדרך \"לנצח\", המשתמשים פשוט רוצים שהחברה תתקן את הבעיות והתקלות הישנות שהם מתלוננים עליהן כבר זמן רב.\n*   **זיהוי מגמת נסיגה מ\"Enshittification\":** אחד המגיבים מצביע על תופעה רחבה יותר בשוק שבה חברות מנסות לבטל מהלכים שהובילו להידרדרות איכות המוצר (תהליך המכונה ברשת \"enshittification\"), מתוך הבנה שהם פגעו בערך המותג בטווח הארוך.\n*   **הקונפליקט מול בעלי המניות:** עולה תהייה לגבי האופן שבו חברות טכנולוגיה יצליחו להצדיק בפני בעלי המניות שלהן את הנסיגה מצעדים שהיו אמורים להגדיל רווחים אך פגעו במשתמשים. קיים ספק אם המודל העסקי הממוקד בשורת הרווח מאפשר בכלל \"תיקון\" אמיתי של המוצר.\n*   **ספקנות לגבי אמינות המידע והתקשורת:** קיימת ביקורת על מיחזור כותרות ישנות באתרי חדשות. נטען כי מדובר בציטוטים ישנים שצצים מחדש ללא הקשר עדכני, מה שיוצר מצג שווא של התפתחויות חדשות בשטח.\n*   **סתירה בין הצהרות למציאות:** חלק מהקהילה מצביע על כך שהצהרות החברה המצוטטות כעת הן לעיתים הפוכות לחלוטין ממה שנאמר בזמן אמת, מה שמעיד על חוסר עקביות של התאגיד או על פרשנות שגויה של כלי התקשורת את דברי המנהלים."
-  },
-  {
-    "id": "1t02jmi",
-    "title": "Duration matters more than peak price and the market is starting to price that in",
-    "url": "https://www.reddit.com/r/investing/comments/1t02jmi/duration_matters_more_than_peak_price_and_the/",
-    "author": "Shrekonomicon",
-    "score": 9,
-    "selftext": "There’s a big difference between oil briefly touching $120 and averaging close to it over a quarter or more. The recent tone from Reuters and The Wall Street Journal suggests the market is starting to think in terms of duration, not just peaks.\n\n\n\nIf Brent averages even $100–110 over multiple quarters, that likely keeps retail fuel in the $4.30–4.60 range. For NXXT, that translates into annual revenue somewhere around $120–130M, compared to $80M baseline levels.\n\n\n\nBut if disruption persists longer and pushes averages closer to $115–120, then you’re looking at retail closer to $4.60–4.80, which pushes revenue toward $130M+ territory.\n\n\n\nSo the difference between scenarios isn’t small. It’s tens of millions in revenue depending on how long pricing stays elevated.\n\n\n\nThat’s why the “Hormuz duration” narrative matters so much. It’s not about the spike, it’s about how long the system stays under stress.\n\n\n\nNot Advice",
-    "subreddit": "investing",
-    "created_utc": 1777569164,
-    "thumbnail": "self",
-    "top_comments": [
+        "author": "leaning_on_a_wheel"
+      },
       {
-        "body": "Humans do tend to have a recency bias psychologically. It takes time to adapt but after a certain point the peak ain't a peak anymore. ",
+        "body": "Ben Felix is great for actually understanding investing. \n\nMoney guy show for basics. \n\nPlain bagel and Patrick Boyle are interesting.",
         "score": 2,
-        "author": "JohnBrownsErection"
-      },
-      {
-        "body": "Time in the market > timing the market.  ",
-        "score": 1,
-        "author": "gunslinger_006"
-      },
-      {
-        "body": "Thought this was a novel post about bond duration and pricing during a commodity supply crunch.....\n\nDisappointed",
-        "score": 1,
-        "author": "Jeff__Skilling"
+        "author": "throwawayfinancebro1"
       }
     ],
-    "summary_he": "הפוסט טוען כי משך הזמן שבו מחירי הנפט נשארים גבוהים קריטי יותר משיא המחיר הרגעי, שכן מחיר ממוצע גבוה לאורך זמן הוא שקובע את היקף ההכנסות של חברת NXXT. שמירה על רמות מחיר של מעל 100 דולר לחבית עשויה להגדיל את הכנסות החברה בעשרות מיליוני דולרים, ולכן השוק מתמקד כעת בתרחישים של שיבושים מתמשכים באספקה ולא רק בזינוקי מחיר קצרים.",
+    "summary_he": "הכותב מחפש המלצות לפודקאסטים או ספרי שמע בנושאי השקעות ופיננסים עבור מתחילים, במטרה להבין טוב יותר כיצד לנהל את חסכונות הפרישה שלו. מכיוון שהוא מבלה זמן רב בדרכים לצורכי עבודה, הוא מעוניין בתכנים לימודיים שיוכל להאזין להם בזמן הנהיגה.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **הטיית האחרונות (Recency Bias):** המגיבים מציינים כי לבני אדם יש נטייה פסיכולוגית לתת משקל יתר לאירועים שהתרחשו לאחרונה, דבר שמשפיע על קבלת ההחלטות שלהם בשוק.\n*   **הסתגלות פסיכולוגית לשינויים:** קיימת טענה כי לאורך זמן אנשים מסתגלים למצבים חדשים; מה שנראה בעבר כ\"שיא\" חריג הופך עם הזמן לנקודת ייחוס רגילה ואינו נתפס עוד כקיצוני.\n*   **חשיבות ההתמדה בשוק:** אחד המגיבים מדגיש את חוק האצבע הידוע בהשקעות: \"הזמן בשוק חשוב יותר מתזמון השוק\" (Time in the market > timing the market), כלומר עדיף להישאר מושקעים לטווח ארוך מאשר לנסות לנחש מתי לקנות או למכור.\n*   **אכזבה מרמת המורכבות של הפוסט:** חלק מהקהילה הביע אכזבה מכך שהדיון לא היה מקצועי או מעמיק מספיק כפי שקיוו, מה שמעיד על ציפייה לתוכן ברמה גבוהה יותר.\n*   **ציפייה לניתוח מאקרו-כלכלי ספציפי:** עלה רצון לראות ניתוח טכני ומורכב יותר העוסק בקשר שבין משך חיים של אגרות חוב (Bond duration) לבין תמחורן בזמן משבר היצע בסחורות.\n*   **הפער בין כותרת הפוסט לתוכנו:** ניכר סנטימנט של תסכול מכך שהנושא נראה במבט ראשון כניתוח פיננסי חדשני ומעמיק, אך התברר כפחות מתוחכם ממה שחלק מהמשתמשים ציפו לו."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט והמלצות שונות של הקהילה בנוגע לתוכן פיננסי והשקעות:\n\n*   **התמקדות בחדשות ופרשנות שוק:** קיימת המלצה מובהקת על ג'וש בראון וצוות \"The Compound\" כמשאב מרכזי להתעדכנות בחדשות וניתוחים פיננסיים אקטואליים.\n*   **חשיבות ההקשר הכלכלי הרחב:** הקהילה מעריכה תכנים שאינם עוסקים רק בטקטיקות השקעה ספציפיות, כמו הפודקאסט \"Planet Money\" של NPR, המספק הבנה מעמיקה יותר של תהליכים כלכליים בעולם.\n*   **חתירה להבנה תיאורטית ומעמיקה:** עבור מי שמעוניין לרדת לשורשם של עקרונות ההשקעה ולהבין את ה\"למה\" מאחורי האסטרטגיות, בן פליקס (Ben Felix) נחשב למקור הסמכותי והמומלץ ביותר.\n*   **צורך במדריכים למתחילים:** קיים קונצנזוס לגבי ערוץ \"The Money Guy Show\" כנקודת פתיחה מצוינת עבור אלו הזקוקים ללימוד היסודות והבסיס של ניהול כספים אישי והשקעות.\n*   **הערכה לתוכן נגיש ומעניין:** הערוץ \"The Plain Bagel\" מוזכר ככזה שמצליח להעביר מידע פיננסי בצורה מעניינת וברורה, מה שמעיד על חיפוש הקהילה אחר הסברים פשוטים ואינטואיטיביים.\n*   **עניין בפרשנות מקצועית וייחודית:** פטריק בויל (Patrick Boyle) מסומן כיוצר תוכן המציע נקודת מבט מעניינת וייחודית, ככל הנראה בשל הגישה המקצועית או ההומוריסטית שלו לניתוח שווקים.",
+    "dateString": "2026-05-03",
+    "savedAt": {
+      "_seconds": 1777788139,
+      "_nanoseconds": 539000000
+    }
   },
   {
-    "id": "1szyrc6",
-    "title": "Fed's favored inflation gauge shows rising prices as war heated up",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1szyrc6/feds_favored_inflation_gauge_shows_rising_prices/",
-    "author": "Every-Actuator-6996",
-    "score": 9,
-    "selftext": "[https://finance.yahoo.com/economy/policy/article/feds-favored-inflation-gauge-shows-rising-prices-as-war-heated-up-131007113.html](https://finance.yahoo.com/economy/policy/article/feds-favored-inflation-gauge-shows-rising-prices-as-war-heated-up-131007113.html)  \n  \nA new reading on the Federal Reserve’s favored inflation gauge shows energy prices boosted overall inflation, while inflation excluding energy price increases also rose, locking in the central bank’s stance holding interest rates steady. The Personal Consumption Expenditures index rose 3.5% in March on a headline basis, in line with expectations. That’s up from 2.8% in February before the war. On a “core” basis, which excludes volatile energy and food prices, inflation rose 3.2%, also in line with expectations, and up from 3% in February. The reading shows that inflation was already sticky rising from the month prior and is now over a full percentage point above the Fed’s 2% target. With warming inflation in the background, Wednesday’s policy meeting revealed deep division within the Fed over its current “easing bias.” Three voting members objected to including language in the policy statement that continues to telegraph that the central bank is eventually looking to cut rates again.",
+    "id": "1t0sjdc",
+    "title": "WDC Premarket Rally Followed by After Hours 6% Drop: Rational Pullback After Priced In Expectations",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1t0sjdc/wdc_premarket_rally_followed_by_after_hours_6/",
+    "author": "PlentyPeanu",
+    "score": 7,
+    "selftext": "Western Digital Corporation shows a classic example of pricedin market expectations ahead of earnings  \nThe stock climbed sharply during the two trading days before its earnings release. It rose 5.57% on April 29, and gained another 5.27% during regular trading hours on April 30. The price climbed from $412.76 dollars to a closing price of $434.52 dollars, marking a total increase of more than 11% in just two days.  \nNevertheless, WDC dropped roughly 6% in after-hours trading once its quarterly earnings report was released. Many investors feel confused about this movement. The company delivered stronger than expected results, with gross margin breaking above 50%, yet the stock still faced a clear pullback.  \nThe core reason lies in fully advanced expectation pricing.  \nThe sharp rally ahead of earnings reflected overly optimistic market sentiment. All positive fundamental outlooks and earnings improvements were already priced into the stock price in advance. Even though the official earnings data exceeded official guidance, it failed to surpass the extremely high expectations built up by the early rally.  \nThis is a typical case of buying the rumor and selling the news. Institutional and retail traders who opened positions early chose to lock in profits once actual earnings were confirmed. This kind of price action is extremely common in mature markets. Strong earnings reports do not guarantee continued upside. The key factor is whether new results can beat the expectations that have already been reflected in current pricing.  \nWDC fundamental performance remains solid, but the short term pullback is simply a reasonable correction to digest the previous overextended rally.  \nThis post is for market discussion only, and does not constitute any financial or trading advice. Feel free to share your thoughts on storage sector rotation and WDC forward trends.",
     "subreddit": "StockMarket",
-    "created_utc": 1777561661,
+    "created_utc": 1777639840,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "The Fed's favored inflation gauge is the **Core PCE** index, which excludes food and energy.  \n\nCore PCE came in at 3.0.",
-        "score": 2,
-        "author": "Infurium"
-      }
-    ],
-    "summary_he": "מדד האינפלציה המועדף על הפדרל ריזרב (PCE) עלה במרץ ל-3.5%, נתון הגבוה משמעותית מיעד ה-2% של הבנק המרכזי ומעיד על אינפלציה \"דביקה\". מגמה זו מחזקת את ההחלטה להותיר את הריבית ללא שינוי ומעוררת מחלוקת עמוקה בקרב חברי הפד בנוגע לנכונות להצהיר על כוונות להורדת ריבית בעתיד.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון והתחושות שעלו מהתגובה (ובהתבסס על השיח הקהילתי המקובל ב-Reddit סביב נתון זה) בנוגע למדד ה-Core PCE:\n\n**סיכום הדיון בנקודות:**\n\n* **מרכזיות מדד ה-Core PCE:** המשתמשים מדגישים כי זהו המדד המועדף על הפדרל ריזרב (הפד) לבחינת אינפלציה, מה שהופך אותו לקריטי יותר עבור השווקים מאשר מדד המחירים לצרכן (CPI) הרגיל.\n* **הספקנות סביב החרגת מוצרי יסוד:** קיימת ביקורת מרומזת או גלויה על כך שהמדד מוציא מהחישוב מזון ואנרגיה. עבור המשתמש הממוצע, אלו ההוצאות המשמעותיות ביותר, ולכן הם חשים שהמדד אינו משקף את \"החיים האמיתיים\".\n* **המרחק מיעד ה-2%:** נתון של 3.0% נתפס כסימן לאינפלציה \"דביקה\". בעוד שמדובר בירידה משיאים קודמים, הקהילה מציינת שזה עדיין רחוק מהיעד הרשמי של הפד (2%), מה שמעלה חשש מפני השארת ריבית גבוהה לאורך זמן.\n* **השפעה על הריבית (Higher for Longer):** הלך הרוח בקהילה מציע שנתון כזה מקטין את הסיכוי להורדת ריבית מיידית, שכן הפד ירצה לראות הוכחות נוספות לכך שהאינפלציה אכן בדרך למטה.\n* **השוואה למדדים אחרים:** עולה נקודה לגבי הפער בין ה-PCE ל-CPI; ה-PCE נוטה להיות נמוך יותר בגלל שיטות חישוב שונות, מה שגורם לחלק מהמשתמשים להרגיש שהנתונים עוברים \"מניפולציה\" כדי להיראות טוב יותר.\n* **תחושת חוסר ודאות בשוק:** הנתון של 3.0% מייצר תחושה מעורבת – מצד אחד הוא אינו גבוה באופן קטסטרופלי, אך מצד שני הוא לא נמוך מספיק כדי לעורר אופטימיות בשווקים, מה שמוביל לציפייה לתנודתיות (Volatility)."
-  },
-  {
-    "id": "1t06a24",
-    "title": "Backdoor Roth Account Mechanics",
-    "url": "https://www.reddit.com/r/investing/comments/1t06a24/backdoor_roth_account_mechanics/",
-    "author": "Mordot11",
-    "score": 6,
-    "selftext": "Hi. Hopefully a simple question, but not one that I’ve been able to find an answer to so easily. If I want to make a backdoor Roth contribution, do I need to open both a traditional and Roth IRA, or does a single account work for both? It’s my first time being able to look at these strategies, so appreciate any guidance or direction, even if to another subreddit. Thank you.",
-    "subreddit": "investing",
-    "created_utc": 1777577157,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Yea.  Open both - deposit into traditional - wait for money to settle - move to roth",
+        "body": "Ok. But look at it now. It has more than closed the gap",
         "score": 3,
-        "author": "TheCoinMann"
+        "author": "Mundane-Gold-4971"
       },
       {
-        "body": "No. Not both. A 529 plan can work as a backdoor roth in some states.\n\nIf you open a roth and regular, you can only max out one account. Not both\n",
-        "score": 1,
-        "author": "HoneyBadger552"
+        "body": "Low quality karma farm market post slop",
+        "score": 2,
+        "author": "jennysonson"
       },
       {
-        "body": "You are correct, it doesn't.  It isn't intended to. I just like to keep funds from intermingling. I shouldn't have presumed op dosn't have any other accounts.",
+        "body": "Well-reasoned arguments and disagreements are welcomed.\n\nHarassment and personal attacks are not. We have a zero tolerance policy for this rule. Harassment includes but is not limited to ad-hominem attacks, racism, discrimination, sexual harassment, hateful/violent language, slurs, and in general just being an asshole. If you are being harassed, report it to us or Reddit admins. If you are harassing someone, you will be permanently and immediately banned and reported to Reddit admins.\n\nLink to the rules: https://www.reddit.com/r/StockMarket/wiki/rules",
         "score": 1,
-        "author": "WiseAct446"
+        "author": "StockMarket-ModTeam"
       }
     ],
-    "summary_he": "הכותב מבקש להבין את המנגנון הטכני לביצוע הפקדת \"Backdoor Roth\" ושואל האם עליו לפתוח שני חשבונות נפרדים (IRA מסורתי ו-Roth IRA) או שניתן להסתפק בחשבון אחד. זוהי הפעם הראשונה שהוא בוחן את האסטרטגיה הזו, והוא מחפש הכוונה בסיסית בנושא.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן ניתוח של חילופי הדברים מהשרשור ב-Reddit, המציג 6 נקודות מבט, דעות ותובנות קהילתיות שונות בנוגע לאסטרטגיות חיסכון פנסיוני (בדגש על Backdoor Roth):\n\n*   **שלבי הביצוע של \"Backdoor Roth\":** אחד המגיבים מפרט את הפרוטוקול הסטנדרטי לביצוע המהלך: פתיחת חשבון IRA מסורתי וחשבון Roth IRA במקביל, הפקדת כספים לחשבון המסורתי, המתנה עד שהכספים ייקלטו במערכת (\"settle\"), ורק אז העברתם לחשבון ה-Roth.\n*   **הבהרה לגבי תקרת ההפקדה:** קיימת הדגשה חשובה כי פתיחת שני סוגי החשבונות (מסורתי ו-Roth) אינה מאפשרת להכפיל את סכום ההפקדה השנתי. תקרת המקסימום היא שנתית ומשותפת לכל חשבונות ה-IRA של הפרט, כך שניתן למצות את התקרה רק פעם אחת.\n*   **שימוש בתוכנית 529 כחלופה:** מועלית האפשרות להשתמש בתוכנית חיסכון ללימודים (529 plan) כמעין מסלול עוקף נוסף ל-Roth בחלק מהמדינות (בארה\"ב), מה שמצביע על גיוון באסטרטגיות המיסוי מעבר ל-IRA הסטנדרטי.\n*   **חשיבות ההפרדה בין כספים (Anti-Intermingling):** אחד המשתתפים מציין את ההעדפה האישית שלו לשמור על חשבונות נפרדים כדי למנוע \"ערבוב\" של כספים ממקורות שונים. למרות שזה לא תמיד נדרש מבחינה חוקית, זה נתפס כפרקטיקה של סדר וארגון פיננסי.\n*   **אלמנט ההמתנה והתזמון:** המגיבים מדגישים כי התהליך אינו מיידי; יש להמתין שהכסף \"ינוח\" בחשבון המסורתי לפני ביצוע ההמרה ל-Roth, שלב קריטי למניעת תקלות טכניות או חשבונאיות.\n*   **התחשבות במצב החשבונות הקיים:** הדיון נוגע בכך שהאסטרטגיה המומלצת עשויה להשתנות בהתאם לחשבונות קודמים שיש למשתמש. הקהילה מדגישה שאין פתרון אחד שמתאים לכולם, וכי קיום חשבונות IRA קודמים עשוי להשפיע על הכדאיות או על אופן ביצוע ה-Backdoor."
-  },
-  {
-    "id": "1t02jbj",
-    "title": "Appointment setting app or website",
-    "url": "https://www.reddit.com/r/business/comments/1t02jbj/appointment_setting_app_or_website/",
-    "author": "AlexMcdavid97",
-    "score": 5,
-    "selftext": "I operate a small mobile car detailing business and I am looking to use either an app or a website to book appointments. Every option I look at offers paid subscriptions. Even google calendar. What is the best website or app that is free that I can use so people can easily book appointments with me, specifying the package they want or any other add-ons. ",
-    "subreddit": "business",
-    "created_utc": 1777569146,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "You can use [Poyst](http://poyst.com) for free listings and booking management ",
-        "score": 1,
-        "author": "lightwalk-king"
-      },
-      {
-        "body": "I've used Calendly before for appointments. Not sure about cost but don't think there are any free ones.",
-        "score": 1,
-        "author": "Informativo-Business"
-      },
-      {
-        "body": "What about using Facebook for booking? You can create events for each detailing package and let your clients book through Messenger. It’s free and pretty convenient!",
-        "score": 1,
-        "author": "Square_Turnip5243"
-      }
-    ],
-    "summary_he": "בעל עסק קטן לדיטיילינג רכבים מחפש אפליקציה או אתר חינמיים לניהול וקביעת תורים. הוא מעוניין בכלי שיאפשר ללקוחות לבחור בקלות חבילות שירות ותוספות שונות, ללא צורך בתשלום דמי מנוי חודשיים.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו בתגובות:\n\n*   **המלצה על Poyst כפתרון מקיף:** אחד המגיבים מציע להשתמש באתר Poyst, המאפשר גם פרסום של השירות (Listing) וגם ניהול של מערך ההזמנות במקום אחד.\n*   **זמינות של כלים חינמיים:** קיימת התייחסות לכך ש-Poyst מציעה את שירותיה בחינם, מה שמהווה יתרון משמעותי לבעלי עסקים קטנים.\n*   **ניסיון קודם עם Calendly:** מגיב אחר משתף בניסיונו עם Calendly ככלי ייעודי לקביעת תורים ופגישות, ומציין אותו כאופציה מוכרת.\n*   **ספק לגבי עלויות בשוק:** הועלה ספק בנוגע לקיומן של אפליקציות חינמיות לחלוטין בתחום זה; המגיב ציין כי אינו בטוח לגבי המחיר של Calendly אך מעריך שרוב הכלים מסוגו דורשים תשלום.\n*   **שימוש יצירתי ברשתות חברתיות:** הצעה חלופית היא להשתמש בפייסבוק (Facebook Events) כדי ליצור אירוע עבור כל חבילת שירות (כמו חבילות דיטיילינג לרכב), ובכך להפוך את הפלטפורמה לכלי מכירה.\n*   **תקשורת ישירה ונוחות:** המגיבים מציינים כי שימוש ב-Messenger לתיאום הזמנות הוא פתרון חינמי, נגיש ונוח מאוד הן ללקוח והן לבעל העסק, ללא צורך במערכות חיצוניות מורכבות."
-  },
-  {
-    "id": "1t05y2q",
-    "title": "Today I’ve decided to stop being a B2B contractor and risk all into agency",
-    "url": "https://www.reddit.com/r/business/comments/1t05y2q/today_ive_decided_to_stop_being_a_b2b_contractor/",
-    "author": "Live-Ad6766",
-    "score": 4,
-    "selftext": "I’ve spoken with a CEO of the company I had a B2B contract as a lead AI engineer. I told him I decided to start building my own AI agency. He said it’s a good idea and told me I should start selling a lot to get used to it.\n\nEven though, I’m not afraid of cold calls or meetings I’m not sure what’s the most efficient way to show myself to the market. All I can say is, I know how to build agentic AI pipelines and workflows, how and when to build and train custom models, and how to optimize instead of spending tons of money on burning tokens.\n\nAny of more experienced fellows here would like to give some advices? You can also ask me about any tech stuff about AI and ML. Happy to share my knowledge.\n\nCheers  ",
-    "subreddit": "business",
-    "created_utc": 1777576429,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "sounds like you're on the right track. building a niche and focusing on what you know works can really set you apart. baby love growth handles content optimization and SEO stuff pretty well imo",
-        "score": 1,
-        "author": "ThoughtConnectt"
-      },
-      {
-        "body": "Let me ask Claude to make my rambling of an answer poetic:\n\n“Here’s a rewrite that keeps the rhythm and the message:\n\nBusiness is simple in principle. Brutally complex in execution.\n\nSimple, because at its core you just need someone, moved by fear or excitement, to put money in your hand for something they want.\n\nComplex, because there are a thousand ways to get there.\n\nAnd you’re a builder, not a seller. Your mind goes straight to the systems, the funnels, the ads, the automations. All thousand of them.\n\nBut here’s the thing. You don’t have an agency. You may not have a website. No employees. No logo.\n\nWhat you have is the ability to walk into any room, hear a problem, and know exactly what to build. RAG for the semantic mess. A handful of cheap prompts for the summarization headache. The right tool for the right pain.\n\nThat’s your edge.\n\nYour clients don’t know any of this. Not because they’re not smart. Because nobody has sat down and explained it to them.\n\nAnd when you do? They buy. Not from a brochure. Not from a funnel. From a conversation where you asked what they needed and told them what to do about it.\n\nSimple.\n\nSo the only real problem is starting those conversations.\n\nAnd that part is simpler than you think. You talk to the people around you. You sit at lunches and bring it up. You show up to conferences and say what you do. And then, one day, someone who knows someone reaches out about a $15k project.\n\nThat’s it.\n\nHorribly simple. Horribly complex. Both at once. Always.”\n",
-        "score": 1,
-        "author": "Roberto_Nunez"
-      },
-      {
-        "body": "No worries, I’m more than happy hearing that criticism from you. About your questions: the company asked me to help with introducing AI into the organization, lead R&D team, and build SaaS product based on AI. However, I’ve been paid hourly because requirements were changing quite often. I used to work for fixed price projects, or built SaaS for my own but to be honest, primary income has always been on B2B contract looking more as perm contract instead of typical B2B relations.\n\nThat’s why I decided to change that. I’m aware of that’s a completely whole new game and I need to learn more soft skills for sure.\n\nI’m thankful for your time. If you need any tech advice related to AI/ML - ask me anything  ",
-        "score": 1,
-        "author": "Live-Ad6766"
-      }
-    ],
-    "summary_he": "כותב הפוסט, מהנדס AI בכיר, משתף על החלטתו לעזוב את עבודתו כקבלן ולהקים סוכנות עצמאית בתחום הבינה המלאכותית. למרות ביטחונו הרב ביכולותיו הטכניות, הוא מבקש מהקהילה עצות לגבי הדרכים היעילות ביותר לשווק את עצמו ולגייס לקוחות חדשים.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות בשרשור, המציג שש נקודות מבט ותובנות מרכזיות:\n\n*   **התמקדות בנישה כבסיס להצלחה:** אחת הדעות המרכזיות היא שבניית עסק סביב נישה ספציפית והתמקדות בתחומים שהיזם מכיר היטב הם המפתחות לבידול בשוק. בנוסף, שימוש בכלים ייעודיים לאופטימיזציית תוכן ו-SEO יכול לתמוך בצמיחה הזו בצורה יעילה.\n*   **הפשטות מול המורכבות שבעסקים:** העיקרון העסקי הוא פשוט מיסודו – מישהו משלם כסף כדי לפתור בעיה או למלא צורך. עם זאת, הביצוע הופך למורכב בגלל ריבוי הדרכים להגיע ליעד זה, מה שגורם ליזמים רבים ללכת לאיבוד בפרטים הטכניים.\n*   **מלכודת ה\"בונה\" (Builder):** קיימת הבחנה בין \"בונים\" ל\"מוכרים\". אנשי טכנולוגיה נוטים להשקיע יתר על המידה במערכות, אוטומציות ומשפכי מכירה מורכבים, בעוד שלעיתים קרובות אין להם צורך באתר מפואר או בלוגו כדי להצליח, אלא ביכולת פתרון בעיות ישירה.\n*   **היתרון היחסי הוא תרגום טכנולוגי:** היתרון האמיתי של מומחה AI הוא היכולת להקשיב לבעיה עסקית ולהתאים לה את הכלי הטכנולוגי הנכון (כמו RAG או פרומפטים פשוטים). לקוחות קונים כשהם מרגישים שמישהו מבין את הכאב שלהם ומסביר להם בפשטות איך לפתור אותו, ולא דרך ברושורים או פרסומות.\n*   **חשיבותן של שיחות ונטוורקינג:** פרויקטים משמעותיים (כמו פרויקטים של 15 אלף דולר) מגיעים לעיתים קרובות דרך אינטראקציות אנושיות פשוטות – ארוחות צהריים, כנסים ושיחות אישיות. יצירת שיחות סביב הבעיות של אנשים היא הדרך הישירה והיעילה ביותר להשיג לקוחות.\n*   **המעבר משכיר לעצמאי דורש \"מיומנויות רכות\":** המעבר ממודל של עבודה לפי שעה או חוזים דמויי העסקה קבועה (Perm) לעבר מודל עסקי של סוכנות או מוצר (SaaS), דורש למידה של כללי משחק חדשים ודגש רב יותר על מיומנויות רכות (Soft Skills) ולא רק על יכולות טכניות ב-AI/ML."
-  },
-  {
-    "id": "1t0152v",
-    "title": "DOCS -- a $4.3B healthcare platform I've been researching. Here's my analysis.",
-    "url": "https://www.reddit.com/r/investing/comments/1t0152v/docs_a_43b_healthcare_platform_ive_been/",
-    "author": "solacelabx",
-    "score": 2,
-    "selftext": "\\*\\*TL;DR:\\*\\* Doximity (DOCS) is a digital platform used by 80% of U.S. physicians for collaboration, telehealth, and medical news. They make money by charging pharma companies for targeted marketing access. The stock sold off because pharma clients delayed ad budgets due to regulatory uncertainty around drug pricing (MFN deals). Wall Street panicked, but the fundamentals remain pristine: 89.75% gross margins, 23.59% ROIC, $724M in net cash, and management just authorized a $500M buyback program. Trading at $24 vs. intrinsic value of $28.44 (15.6% margin of safety). I think the market is overreacting to temporary headwinds.\n\n## the business\n\nDOCS built the digital town square for American doctors. 80% of all U.S. physicians use it to collaborate with colleagues, manage telehealth visits, read medical research, and handle their on-call schedules. The doctors don't pay anything. Instead, Doximity charges pharmaceutical companies and health systems for targeted digital marketing and workflow tools.\n\nWhat caught my attention is the recurring revenue model. 95% of their revenue is subscription-based, and once a pharma client integrates Doximity into their annual budget, they tend to stay and spend more. Net Revenue Retention is 112%, which jumps to 117% for their top 20 customers.\n\n## the numbers\n\n| | |\n|---|---|\n| Operating Cash Flow | $315.42M |\n| Stock-Based Compensation | -$102.95M |\n| Working Capital Change | $31.51M |\n| Maintenance CapEx (5yr avg) | -$9.12M |\n| WC Reinvest | -$3.48M |\n| \\*\\*Owner Earnings\\*\\* | \\*\\*$231.38M\\*\\* |\n| Shares Outstanding (Diluted) | 188.88M |\n| \\*\\*Owner Earnings Per Share\\*\\* | \\*\\*$1.23\\*\\* |\n\nI use a 5-year smoothed CapEx figure because their maintenance spending is lumpy year to year. Over the last five years, CapEx averaged 1.43% of revenue. This is an incredibly asset-light business.\n\n\\*\\*Quality metrics:\\*\\*\n- ROIC: 23.59%\n- 5-year Owner Earnings CAGR: 54.40%\n- Gross Margin: 89.75%\n- Operating Margin: 38.46%\n- Recurring Revenue: \\~95%\n\n## the balance sheet\n\nThey have $735.13M in liquid assets and only $10.69M in debt. Net cash sits at $724.44M, or $3.84 per share. The enterprise value is $3.55B, which gives you an EV-to-Owner-Earnings multiple of 15.3x.\n\n## why it's cheap\n\nThe market sold off hard because revenue guidance dropped from 20% growth to roughly 10%. The reason: 16 of their top 20 pharma clients delayed their annual ad budgets late in the year while waiting for the White House to finalize Most Favored Nation drug pricing deals. Wall Street hates uncertainty, so the stock tanked.\n\nAdding to the noise, CFO Anna Bryson resigned in mid-April 2026 while on medical leave. Truist and Evercore downgraded the stock citing \"reduced visibility\" in pharma ad spending.\n\n## why I think the market is wrong\n\nJanuary 2026 pharma bookings hit record highs. Management said on the Q3 call this is a timing issue, not a structural loss of clients. They expect to exit the calendar year as a double-digit grower once the frozen budgets thaw.\n\nMore importantly, if the moat was eroding, you'd see margins compress. Instead, gross margins are 89.75% (up from the 5-year average of 88.02%), and operating margins are 38.46% (up from 33.05% in 2022). ROIC is 23.59%, above the historical average of 18.91%.\n\nManagement's response tells you what they think the business is worth. They authorized a $500M open-ended buyback program and repurchased $367.9M in stock over the trailing twelve months. That's an 8.62% buyback yield. They're cannibalizing the float at cheap prices instead of chasing acquisitions.\n\n## valuation\n\n| | |\n|---|---|\n| Owner Earnings Per Share | $1.23 |\n| Multiple | 20x |\n| Business Value | $24.60 |\n| Net Cash Per Share | $3.84 |\n| \\*\\*Intrinsic Value\\*\\* | \\*\\*$28.44\\*\\* |\n| Current Price | $24.00 |\n| \\*\\*Margin of Safety\\*\\* | \\*\\*15.6%\\*\\* |\n\nI'm using 20x because this is a mature, high-ROIC franchise with a dominant network effect moat, not a hyper-growth SaaS startup. The user acquisition phase is behind them (you can't grow past 80% market penetration). Future growth comes from increasing revenue per user, which grew 22% last year.\n\n## what worries me\n\nA few things keep me honest here:\n\nMarket saturation is the real structural risk. They already have 80% of U.S. physicians on the platform. The total addressable market for user growth is capped. If revenue per user stops growing, or if pharma clients permanently shift budgets away from digital channels, the thesis breaks.\n\nThe AI competition narrative feels overblown to me. Startups like OpenEvidence are trying to build a \"ChatGPT for doctors,\" but Doximity already rolled out their AI suite (DocsGPT) to 100 top health systems covering 180,000 prescribers in a single quarter. They have the distribution, the HIPAA infrastructure, and a \"Peer Check\" program with 10,000 medical experts verifying AI outputs. That's hard to displace.\n\n## where I come out\n\nI think this is a high-quality business trading at a discount because of temporary regulatory noise. The fundamentals remain strong. A business doesn't post 89.75% gross margins and 23.59% ROIC if its moat is broken.\n\nThat said, it's a mid-cap with lumpy pharma budgets and a market saturation ceiling baked into the valuation. I hold a position.\n\n\\*Disclosure: I hold a position in DOCS. Hard data from filings, own valuation model, AI-assisted writing, personal review and position. This is not financial advice.\\*",
-    "subreddit": "investing",
-    "created_utc": 1777566137,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "חברת Doximity (DOCS) מפעילה פלטפורמה דיגיטלית המשמשת כ-80% מהרופאים בארה\"ב, עם מודל עסקי רווחי המבוסס על פרסום של חברות פארמה ונתונים פיננסיים חזקים במיוחד. למרות ירידה במחיר המניה עקב עיכובים זמניים בתקציבי הפרסום של הלקוחות, הניתוח קובע כי היסודות הכלכליים נותרו איתנים, שולי הרווח גבוהים והחברה מבצעת רכישה עצמית משמעותית של מניותיה. הכותב מעריך שהשוק הגיב בקיצוניות יתרה לאי-ודאות רגולטורית, וכי המניה נסחרת כיום בהנחה של כ-15.6% מתחת לערכה הכלכלי האמיתי.",
+    "summary_he": "הפוסט מנתח את הירידה של מניית וסטרן דיגיטל (WDC) בכ-6% לאחר פרסום הדוחות, למרות תוצאות חיוביות מהצפוי. הכותב מסביר כי העלייה החדה של מעל 11% ביומיים שקדמו לפרסום כבר תמחרה את הציפיות האופטימיות בשוק (\"Priced in\"), מה שהוביל למימוש רווחים קלאסי של \"קנה בשמועה, מכור בידיעה\". לסיכום, הירידה נתפסת כתיקון רציונלי לאחר שהשוק כבר גילם את החדשות הטובות במחיר המניה לפני הדיווח הרשמי.",
     "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "להלן ניתוח וסיכום של התגובות המובילות מהשרשור, המציגות את מגוון הדעות והלכי הרוח בקהילה:\n\n* **ניתוח ביצועי שוק וסגירת פערים:** אחת התגובות מצביעה על כך שהנכס המדובר הצליח \"לסגור את הפער\" (Gap) ואף מעבר לכך, מה שמעיד על התאוששות או תנועה משמעותית במחיר המניה שחשוב לשים לב אליה כעת.\n* **גישה אופטימית ומפוכחת:** קיימת נטייה להסתכל על המצב הנוכחי של השוק כתיקון חיובי למה שהיה בעבר, תוך הדגשה שהמצב השתפר משמעותית מהנקודה שבה היה קודם לכן.\n* **ביקורת על איכות התוכן (Low Quality):** חלק מהמשתמשים הביעו סלידה מהפוסט המקורי, כשהם מכנים אותו \"זבל\" (Slop) וטוענים שמדובר בתוכן ירוד שנועד רק כדי לצבור לייקים (\"Karma farm\") ללא ערך מוסף אמיתי.\n* **סלידה מפוסטים \"ספאמיים\":** הקהילה מפגינה חוסר סבלנות כלפי פוסטים שנתפסים כחסרי עומק או כאלו שמנסים לנצל את הפלטפורמה למטרות שטחיות, מה שמעיד על רצון בתוכן איכותי ומקצועי יותר בפורום פיננסי.\n* **חשיבותו של דיון מנומק:** קיימת דרישה (מצד המנהלים והקהילה) לקיים דיונים המבוססים על טיעונים הגיוניים ומנומקים, גם כאשר ישנן מחלוקות עמוקות בין המשתמשים.\n* **אכיפה נוקשה של כללי התנהגות:** התגובה הרשמית של המנהלים מדגישה מדיניות של \"אפס סובלנות\" כלפי הטרדות, התקפות אישיות, גזענות או שפה פוגענית, עם איום מפורש בחסימה מיידית לצמיתות למי שיפר כללים אלו.",
+    "dateString": "2026-05-03",
+    "savedAt": {
+      "_seconds": 1777788157,
+      "_nanoseconds": 872000000
+    }
   },
   {
-    "id": "1t00yvm",
-    "title": "Moving brokerages with a pledged asset line balance",
-    "url": "https://www.reddit.com/r/investing/comments/1t00yvm/moving_brokerages_with_a_pledged_asset_line/",
-    "author": "pupuonu",
-    "score": 2,
-    "selftext": "I have a drawn pledged asset line worth \\\\\\~20% of my assets held at a brokerage. The drawn amount is roughly 38% of my PAL capacity. I am looking to transfer that brokerage to IBKR to get cheaper leverage via margin and box spreads.\n\nHas anyone navigated this before without completely unwinding their PAL position / selling down stock? I’m relatively illiquid outside of this brokerage account. Trying to avoid cap gains.",
-    "subreddit": "investing",
-    "created_utc": 1777565769,
+    "id": "1t104jg",
+    "title": "I want to start a serious business but I dont know what I am doing? I want to learn.",
+    "url": "https://www.reddit.com/r/business/comments/1t104jg/i_want_to_start_a_serious_business_but_i_dont/",
+    "author": "northwoods_animals",
+    "score": 6,
+    "selftext": "I have read a couple of books about businesses. Other peoples money etc.\n\nI realize really,  I am 24 years old with no experience in this stuff.\n\nI wanna start something serious at some point, but I wanna really know what I am doing first. I cannot justify spending two years on my first business which will likely fail, while it could instead focus some energy for 2 years in education. And then use that knowledge as a point to make one to be successful.\n\nI am thinking about getting a business associates degree....\n\nThoughts on what i should plan at all?",
+    "subreddit": "business",
+    "created_utc": 1777656758,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Is your current brokerage blocking moving *all* of your assets? If not, you can move as much as possible to IBKR, then borrow from IBKR, use that money to pay down the PAL, then move the rest.\n\nOtherwise you're probably SOL. You'd have to get an 'advance' from IBKR, which I'm pretty sure they won't do. Or find a different brokerage that did have such a thing but I don't think they exist.\n\nDepending on the amount, you could also look for some other kind of short-term funding. Is a personal loan an option? They have terrible interest rates but you'd only need the money for a few weeks so it wouldn't matter.\n\n",
+        "body": "Dont study just work and give yourself the chance to fail. You wont be a better entrepenour just by going to a expensive business school. Thats my experience, at least.",
         "score": 1,
-        "author": "wild_b_cat"
+        "author": "Careless_Surround583"
       },
       {
-        "body": "bro moving a PAL balance without selling requires a refinance where you transfer assets in stages to IBKR and use their margin to pay down the old loan.",
+        "body": "Start working in a company and you will discover problems you can fix. You will gain experience and probably easier access to clients",
         "score": 1,
-        "author": "EarlyUnhappiness"
+        "author": "Careless_Surround583"
+      },
+      {
+        "body": "If you’re starting from absolute zero, the best thing you can do is get your thoughts out of your head and into a structured format.\n\nMy advice: stop guessing what the ‘next step’ is. The early days should be entirely focused on talking to potential users. Everything else, business plans, financial projections, incorporation, is just noise until you know people want what you’re building.\n\nWhen you are ready for that stuff, don’t try to learn it all from scratch. \n\nThere are AI tools out there now (I’m actually working on one called Encubatorr) that can generate your business docs and guide you through the setup process so you don’t have to stitch together a dozen different templates. \n\nFocus your energy on the product and the customer; let software handle the boilerplate business admin.",
+        "score": 1,
+        "author": "PensionFinancial4866"
       }
     ],
-    "summary_he": "הכותב מעוניין להעביר את תיק ההשקעות שלו לברוקר IBKR כדי להוזיל את עלויות הריבית על המינוף שלו, זאת למרות שקיימת בתיק הלוואה פעילה (PAL) כנגד הנכסים. הוא מחפש דרך לבצע את המעבר מבלי למכור מניות ולשלם מס רווחי הון, כיוון שאין לו מקורות נזילות חיצוניים לסגירת ההלוואה לפני המעבר.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע להעברת נכסים המשועבדים להלוואת PAL (Pledged Asset Line) לברוקר אינטראקטיב ברוקרס (IBKR), הכולל 6 נקודות מרכזיות:\n\n*   **אסטרטגיית העברה בשלבים:** הפתרון המרכזי המוצע הוא העברה הדרגתית של נכסים שאינם משועבדים ל-IBKR. ברגע שנכסים אלו עוברים, ניתן להשתמש בהם כבטוחה כדי ללוות כסף מ-IBKR ולפרוע באמצעותו את יתרת ה-PAL בברוקר המקורי.\n*   **הגדרת המהלך כ\"מיחזור הלוואה\" (Refinance):** המשתמשים מציינים כי העברת יתרת הלוואה ללא מכירת ניירות הערך מחייבת תהליך של מימון מחדש, שבו משתמשים במינוף (Margin) של הברוקר החדש כדי לסגור את החוב הישן.\n*   **היעדר \"מקדמות\" מצד ברוקרים:** הועלתה הסברה ש-IBKR, או כל ברוקר אחר, לא יעניקו \"מקדמה\" כספית כדי לכסות חובות לפני שהנכסים הועברו אליהם בפועל, מה שמקשה על מי שמחזיק בכל נכסיו תחת שיעבוד מלא.\n*   **סיכון לחסימה מוחלטת:** קיימת אזהרה שאם הברוקר הנוכחי חוסם את האפשרות להעביר ולו חלק מהנכסים כל עוד קיימת הלוואה, המשתמש עלול למצוא את עצמו ללא פתרון פשוט בתוך מערכת הברוקראז' (\"SOL\").\n*   **חלופת הלוואת הגישור החיצונית:** כפתרון יצירתי, הוצע לקחת הלוואה אישית לטווח קצר מגורם חיצוני כדי לפרוע את ה-PAL, לשחרר את כל הנכסים להעברה, ואז להחזיר את ההלוואה באמצעות מינוף ב-IBKR.\n*   **שיקולי עלות מול זמן:** המגיבים טוענים כי במידה ונדרש מימון חיצוני זמני, הריבית הגבוהה שלו פחות משמעותית, שכן הכסף נדרש רק לשבועות בודדים עד להשלמת המעבר, ולכן העלות הכוללת תהיה זניחה ביחס למטרת המעבר."
+    "summary_he": "כותב הפוסט בן ה-24 מעוניין להקים עסק רציני, אך מרגיש שחסר לו הידע והניסיון הנדרשים כדי להצליח. במקום ללמוד מתוך כישלונות בשטח, הוא שוקל להקדיש שנתיים ללימודי תואר במנהל עסקים כדי לבנות בסיס מקצועי, ומבקש עצות לגבי תוכנית הפעולה הנכונה עבורו.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מתוך התגובות בשרשור:\n\n* **ניסיון מעשי עדיף על השכלה פורמלית:** אחת הדעות המרכזיות היא שאין צורך בלימודים בבית ספר יוקרתי למנהל עסקים כדי להצליח כיזם. הדרך הטובה ביותר ללמוד היא פשוט להתחיל לעבוד ולתת לעצמך את ההזדמנות להיכשל בשטח.\n* **זיהוי צרכים מתוך עבודה כשכיר:** מומלץ להתחיל לעבוד בחברה קיימת כדי להיחשף לבעיות אמיתיות שדורשות פתרון. ניסיון זה מאפשר ליזם לזהות פערים בשוק ולזכות בגישה קלה יותר ללקוחות עתידיים.\n* **תיקוף שוק לפני תכנון עסקי:** במקום לנחש מה השלב הבא, יש להתמקד בשיחות עם משתמשים פוטנציאליים. תוכניות עסקיות ותחזיות פיננסיות נחשבות ל\"רעש\" מיותר עד שלא מוודאים שאנשים באמת רוצים את המוצר שמפתחים.\n* **מבנה מחשבתי כצעד ראשון:** עבור מי שמתחיל מאפס, הפעולה החשובה ביותר היא להוציא את המחשבות מהראש ולהעביר אותן לפורמט מובנה ומסודר.\n* **שימוש בכלי בינה מלאכותית (AI) לאוטומציה:** אין טעם ללמוד את כל ההיבטים האדמיניסטרטיביים מאפס. מומלץ להיעזר בכלי AI ליצירת מסמכים עסקיים וליווי בתהליכי ההקמה, כדי לחסוך זמן על ביורוקרטיה ותבניות.\n* **מיקוד בעיקר ולא בטפל:** היזם צריך להשקיע את מרב האנרגיה שלו במוצר ובלקוח, ולהשאיר את המטלות המנהלתיות וה\"עבודה השחורה\" של ניהול העסק לתוכנות ומערכות ייעודיות.",
+    "dateString": "2026-05-03",
+    "savedAt": {
+      "_seconds": 1777788172,
+      "_nanoseconds": 716000000
+    }
+  },
+  {
+    "id": "1t0o2r0",
+    "title": "I'm looking at the Energy Metal thesis for second half of 2026",
+    "url": "https://www.reddit.com/r/investing/comments/1t0o2r0/im_looking_at_the_energy_metal_thesis_for_second/",
+    "author": "StatementCalm3260",
+    "score": 2,
+    "selftext": "Nobody seems to be talking about the fact that aluminum is solidified electricity. If you look more closely at the historical data from second oil crisis (1979-1980), energy costs went parabolic, aluminum prices increased 107% in 6 months bc smelters in Europe just couldn't keep the lights on. Now between Middle East instability and the world bank projecting 24% jump in average energy prices for 2026, the most floor for aluminum is moving quite fast. Also, China has been disciplined about 45 million-ton production cap. Most people are focused on EV demand but I think the real one here is the supply-side deficit. China Hongqiao is one of the few names with their own power grid and upstream bauxite, their Q1 net profit was up nearly 38% YoY. When LME prices catch up to the physical tightness, the guys with the lowest cost-per-ton are going to have huge margin expansion. ",
+    "subreddit": "investing",
+    "created_utc": 1777626326,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Here's the problem. The energy play is obvious. What also is obvious, when it comes to commodities, is \"they\" have the ability to manipulate price via the paper markets. \n\nSo it's not enough to know various commodities will be in play, you also have to know to what extent will they be manipulated. \n\nSilver went to $120, then got smashed down to $70.\n\nOil went to $120, then got smashed down to $90.\n\nGold went to $5600, then got smashed down to $4500. \n\nYou have to factor price manipulation into your thesis, otherwise you could get burned.",
+        "score": 1,
+        "author": "luv2block"
+      }
+    ],
+    "summary_he": "הפוסט מנתח את הפוטנציאל לעליית מחירי האלומיניום לקראת שנת 2026, זאת בשל התלות הגבוהה של ייצור המתכת במחירי האנרגיה שצפויים לזנק. הכותב מדגיש כי המחסור בצד ההיצע ומגבלות הייצור בסין הם הגורמים המכריעים לשינוי, ולא רק הביקוש מצד שוק הרכבים החשמליים. לסיכום, מוצע כי חברות בעלות עלויות ייצור נמוכות ומקורות אנרגיה עצמאיים ייהנו מהתרחבות משמעותית בשולי הרווח עם עליית המחירים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות העולות מהתגובה, המוצגות בנקודות:\n\n*   **ההשקעה באנרגיה כדבר מובן מאליו:** הכותב מציין כי ההזדמנות להשקעה בתחום האנרגיה והסחורות נראית ברורה מאליה כרגע (\"The energy play is obvious\"), אך מזהיר שדווקא הפשטות הזו עלולה להטעות.\n*   **מניפולציה באמצעות \"שווקי נייר\":** קיימת טענה מרכזית לפיה לגופים חזקים (\"הם\") יש יכולת לעוות את מחירי הסחורות הפיזיים באמצעות מסחר בנגזרים וחוזים (Paper markets), מה שמנתק את המחיר מהערך הריאלי.\n*   **הצורך בחיזוי היקף המניפולציה:** לא מספיק לדעת אילו סחורות יהיו מבוקשות; משקיע מצליח חייב לנסות להעריך עד כמה המחיר \"ירוסק\" באופן מלאכותי כדי לא להפסיד.\n*   **תנודתיות קיצונית ומכוונת:** הכותב מציג דוגמאות לירידות מחירים חדות ופתאומיות בזהב, כסף ונפט לאחר שהגיעו לשיאים, וטוען כי מדובר בדפוס של \"ריסוק\" מחירים (smashed down) ולא בירידה טבעית.\n*   **שילוב המניפולציה בתוכנית ההשקעה:** מוצגת הדעה כי מניפולציית מחירים היא \"פקטור\" הכרחי שיש להכניס למודל ההשקעות (Thesis). מי שמתעלם מכך בונה תוכנית לא מציאותית.\n*   **אזהרה מפני הפסדים כבדים:** המסר הסופי הוא רגש של זהירות קהילתית; ללא הבנת המנגנונים המניפולטיביים הללו, המשקיע עלול \"להישרף\" (get burned) למרות שזיהה נכון את המגמה הכללית של הסחורה.",
+    "dateString": "2026-05-03",
+    "savedAt": {
+      "_seconds": 1777788189,
+      "_nanoseconds": 450000000
+    }
+  },
+  {
+    "id": "1t135ma",
+    "title": "How can I understand and manage any business effectively?",
+    "url": "https://www.reddit.com/r/business/comments/1t135ma/how_can_i_understand_and_manage_any_business/",
+    "author": "redditor2005vocas",
+    "score": 2,
+    "selftext": "I am a student at the University, the college it's not my first priority, i seek to be a business man, but how?! ",
+    "subreddit": "business",
+    "created_utc": 1777663280,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "First, get some real education about business, and then apply it to build a successful business. You will learn to manage a business effectively when you do it. It's a continuous learning curve.",
+        "score": 1,
+        "author": "AIUser26"
+      },
+      {
+        "body": "That’s not true where I live but perhaps it is where you are. You could try to start a business but it sounds like you don’t have an idea or industry to go into yet, so I’d probably focus on your studies",
+        "score": 1,
+        "author": "bluehat9"
+      },
+      {
+        "body": "The problem is \"I am still a student\"  so working as employee is not legal. That's right? ",
+        "score": 1,
+        "author": "redditor2005vocas"
+      }
+    ],
+    "summary_he": "הכותב הוא סטודנט השואף להפוך לאיש עסקים ומציב מטרה זו מעל ללימודיו האקדמיים. הוא מבקש לקבל עצות וכלים פרקטיים שיסייעו לו להבין כיצד ניתן לנהל ולהפעיל עסקים שונים בצורה יעילה.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ודעות שונות שעלו מהתגובות:\n\n* **חשיבות ההשכלה העסקית הפורמלית:** אחת הדעות המרכזיות היא שקודם כל יש לרכוש השכלה ממשית ורלוונטית בתחום העסקים, ורק לאחר מכן ליישם את הידע הזה בשטח כדי לבנות עסק מצליח.\n* **למידה מתוך התנסות מעשית (Learning by doing):** הודגש כי היכולת לנהל עסק ביעילות היא מיומנות שנרכשת תוך כדי תנועה; הניהול עצמו הוא הכלי הלימודי הטוב ביותר עבור היזם.\n* **עקומת למידה מתמשכת:** הקהילה מציינת שעולם העסקים אינו סטטי, אלא דורש למידה מתמדת לאורך כל הדרך ושיפור עצמי בלתי פוסק ככל שהעסק מתפתח.\n* **הקשר גיאוגרפי ותלוי מיקום:** עלתה הטענה שהתנאים והאפשרויות משתנים בהתאם למקום המגורים של השואל; מה שנכון או חוקי במדינה אחת, עשוי להיות שונה לחלוטין במדינה אחרת.\n* **תעדוף לימודים בהעדר רעיון מגובש:** קיימת המלצה להתמקד כרגע בלימודים האקדמיים אם השואל עדיין לא גיבש רעיון עסקי קונקרטי או לא בחר ענף ספציפי שבו הוא מעוניין לפעול.\n* **סוגיית החוקיות והסטטוס כסטודנט:** הועלה חשש או שאלה לגבי המגבלות החוקיות של עבודה כשכיר בזמן לימודים. ייתכן שבשל המעמד כסטודנט, עבודה רגילה אינה חוקית, מה שמשפיע על היכולת לצבור ניסיון כשכיר לפני שיוצאים לדרך עצמאית."
   },
   {
     "id": "1t1bakf",
@@ -359,37 +389,11 @@ window.dailyTrends = [
     ],
     "summary_he": "הפוסט טוען כי בנקים מציגים \"תיאטרון בטיחות\" שבו הם מטיפים לציות לנהלים, אך בפועל מתגמלים עובדים שנוטלים סיכונים ומכופפים כללים כדי לעמוד ביעדים. המערכת מעודדת הצלחה מהירה על חשבון רגולציה, וכאשר מתרחשים מחדלים, ההנהלה נוטה להאשים את העובד הבודד במקום לתקן את מבנה התמריצים הפגום.",
     "category_he": "פיננסים",
-    "comments_summary_he": "להלן ניתוח של נקודות המבט המרכזיות שעלו מהתגובה לכתבה, המסכמות את הלך הרוח בקהילה בנוגע לאחריות ארגונית ותרבות של \"שערוריות\":\n\n*   **הטלת אחריות שגויה על הפרט:** קיים תסכול מכך שכשמתפרצת שערוריה, האשמה מוטלת לרוב על העובד הבודד. לטענת הכותב, היחיד בסך הכל פעל בהתאם למערכת שבה הוא נמצא ולמטרות שלשמן \"הומצא\" תפקידו.\n*   **הנהגה המתנערת מאחריות באופן מובנה:** המנהיגות בארגונים אינה רק טועה, אלא פועלת מתוך תמריץ מערכתי לדחות אחריות. המנהלים מעדיפים להאשים את ה\"תפוח הרקוב\" מאשר להודות שמבנה התמריצים שהם יצרו הוא זה שעודד את ההתנהגות הפסולה.\n*   **הפיכת ה\"ציות\" (Compliance) לכלי ביטוחי:** תחום הציות בארגונים איבד את תפקידו המוסרי. במקום לתמוך בקבלת החלטות אתיות, הוא הפך לסוג של \"חוזה ביטוח\" משפטי שנועד להעביר את האחריות מהארגון הלאה במקרה של כשל מערכתי.\n*   **מבנה תמריצים המעודד הפרת כללים:** המערכת הארגונית מעודדת באופן אקטיבי התנהגות בעייתית. הכתבה והתגובה מדגישות כי השערוריות אינן מקריות, אלא תוצאה ישירה של מבנה שמתגמל תוצאות על חשבון מוסר.\n*   **מנגנון השימור העצמי של המערכת:** המערכת משמרת את עצמה על ידי יצירת מבנה שבו קל להקריב את הפרט כדי לא לשנות את השיטה כולה. כך, המבנה הקיים נותר ללא פגע גם לאחר חשיפת שחיתויות.\n*   **הפער בין \"שכל ישר\" למציאות:** למרות שנראה כי מדובר בתובנות מובנות מאליהן (Common Sense), המציאות בשטח הפוכה. אם זה היה באמת שכל ישר, המערכות היו משתנות מזמן ולא ממשיכות למחזר את אותם דפוסי האשמה."
-  },
-  {
-    "id": "1t1gd2i",
-    "title": "Where should I park emergency saving HYSA or SGOV",
-    "url": "https://www.reddit.com/r/investing/comments/1t1gd2i/where_should_i_park_emergency_saving_hysa_or_sgov/",
-    "author": "outstanding_gent",
-    "score": 1,
-    "selftext": "Hello,\n\nIm im wondering where should I park my emergency savings ? \n\nI was looking into HYSA, but I would need to create an account with a bank that offers HYSA ( mine doesn't offer ).\n\nThe other option is SGOV ( my state doesn't have income tax) , this  way, i dont not need to create an account. Everything will stay in one brokerage account. \n\nLooking for your oppions. ",
-    "subreddit": "investing",
-    "created_utc": 1777697922,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Yeah it’s exempt for state tax that’s usually where I sit my cash when I’m not deploying it anytime soon for something only downside is it take a few days to clear when you need the money ",
-        "score": 2,
-        "author": "BIGTIDYLUVER"
-      },
-      {
-        "body": "HYSA is correct because it’s simple, stable, and fully insured so the value doesn’t move, tho SGOV is fine if you want to keep everything in your brokerage and still stay very low risk, but it can slightly fluctuate in price even though it’s basically cash-equivalent. If you still havent picked anything I suggest you go through tryLattice for recommendations.",
-        "score": 1,
-        "author": "Alarming_Tonight_552"
-      },
-      {
-        "body": "I have a small cash reserve 5k . Majority of the emergency fund I want atleast best inflation. \n\nEverything elese is getting DCA in to index funds. ",
-        "score": 1,
-        "author": "outstanding_gent"
-      }
-    ],
-    "summary_he": "הכותב מתלבט היכן להפקיד את כספי קרן החירום שלו, ובוחן שתי אפשרויות: חשבון חיסכון בריבית גבוהה (HYSA) או קרן סל של אג\"ח ממשלתי קצר מועד (SGOV). הוא נוטה לבחור ב-SGOV כדי להימנע מפתיחת חשבון בנק חדש ולרכז את ניהול הכספים בחשבון ההשקעות הקיים שלו, ומבקש את חוות דעת הגולשים בנושא.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון בשרשור, המציג 6 נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **יתרונות מס (State Tax):** אחד השיקולים המרכזיים בבחירת אפיק להחניית מזומן (כמו SGOV או אג\"ח ממשלתי) הוא הפטור ממס מדינתי (בארה\"ב). זהו יתרון משמעותי עבור מי שמחפש למקסם את התשואה נטו על כסף שאינו מיועד לשימוש מיידי.\n*   **סוגיית הנזילות וזמן המשיכה:** למרות היתרונות של כלים דמויי מזומן בבורסה, קיים חיסרון תפעולי – לוקח מספר ימי עסקים מרגע המכירה ועד שהכסף זמין למשיכה ושימוש (Clearing), בניגוד למזומן בעובר ושב.\n*   **העדפת חשבון חיסכון בריבית גבוהה (HYSA):** קיימת תמיכה משמעותית בשימוש ב-HYSA בזכות הפשטות והביטחון שהוא מעניק. היתרונות המודגשים הם יציבות המחיר (הקרן לא משתנה) והעובדה שהכסף מבוטח במלואו, מה שהופך אותו לפתרון ה\"סטנדרטי\" והבטוח ביותר.\n*   **חלופות בתוך חשבון ההשקעות (SGOV):** עבור משתמשים המעדיפים לנהל את כל נכסיהם תחת קורת גג אחת בתיק ההשקעות, קרנות כספיות או קרנות אג\"ח קצרות מועד (כמו SGOV) נחשבות לחלופה מצוינת. עם זאת, מצוין כי בניגוד למזומן, מחירן יכול לסבול מתנודתיות קלה מאוד.\n*   **אסטרטגיית \"שכבות\" לקרן חירום:** קיימת גישה המציעה לפצל את המזומן: החזקת סכום קטן ונזיל מאוד (למשל 5,000 דולר) לצרכים מיידיים, בעוד ששאר קרן החירום מושקעת באפיקים שנועדו בראש ובראשונה \"לנצח את האינפלציה\" ולא רק לשמור על הערך הנומינלי.\n*   **השקעה עקבית במדדים (DCA):** מעבר לקרן החירום והמזומן המיידי, הקונצנזוס בקהילה הוא שכל שאר הכסף הפנוי צריך להיות מושקע באופן עקבי (שיטת המיצוע – DCA) בקרנות סל מחקות מדד (Index Funds) לצורך צמיחה ארוכת טווח."
+    "comments_summary_he": "להלן ניתוח של נקודות המבט המרכזיות שעלו מהתגובה לכתבה, המסכמות את הלך הרוח בקהילה בנוגע לאחריות ארגונית ותרבות של \"שערוריות\":\n\n*   **הטלת אחריות שגויה על הפרט:** קיים תסכול מכך שכשמתפרצת שערוריה, האשמה מוטלת לרוב על העובד הבודד. לטענת הכותב, היחיד בסך הכל פעל בהתאם למערכת שבה הוא נמצא ולמטרות שלשמן \"הומצא\" תפקידו.\n*   **הנהגה המתנערת מאחריות באופן מובנה:** המנהיגות בארגונים אינה רק טועה, אלא פועלת מתוך תמריץ מערכתי לדחות אחריות. המנהלים מעדיפים להאשים את ה\"תפוח הרקוב\" מאשר להודות שמבנה התמריצים שהם יצרו הוא זה שעודד את ההתנהגות הפסולה.\n*   **הפיכת ה\"ציות\" (Compliance) לכלי ביטוחי:** תחום הציות בארגונים איבד את תפקידו המוסרי. במקום לתמוך בקבלת החלטות אתיות, הוא הפך לסוג של \"חוזה ביטוח\" משפטי שנועד להעביר את האחריות מהארגון הלאה במקרה של כשל מערכתי.\n*   **מבנה תמריצים המעודד הפרת כללים:** המערכת הארגונית מעודדת באופן אקטיבי התנהגות בעייתית. הכתבה והתגובה מדגישות כי השערוריות אינן מקריות, אלא תוצאה ישירה של מבנה שמתגמל תוצאות על חשבון מוסר.\n*   **מנגנון השימור העצמי של המערכת:** המערכת משמרת את עצמה על ידי יצירת מבנה שבו קל להקריב את הפרט כדי לא לשנות את השיטה כולה. כך, המבנה הקיים נותר ללא פגע גם לאחר חשיפת שחיתויות.\n*   **הפער בין \"שכל ישר\" למציאות:** למרות שנראה כי מדובר בתובנות מובנות מאליהן (Common Sense), המציאות בשטח הפוכה. אם זה היה באמת שכל ישר, המערכות היו משתנות מזמן ולא ממשיכות למחזר את אותם דפוסי האשמה.",
+    "dateString": "2026-05-02",
+    "savedAt": {
+      "_seconds": 1777708560,
+      "_nanoseconds": 733000000
+    }
   }
 ];
