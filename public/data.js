@@ -1,132 +1,96 @@
 window.dailyTrends = [
   {
-    "id": "1t6jyq3",
-    "title": "Ouch, Planet Fitness ain't doin' so great now...",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1t6jyq3/ouch_planet_fitness_aint_doin_so_great_now/",
-    "author": "KSHMisc",
-    "score": 456,
-    "selftext": "https://ts2.tech/en/planet-fitness-stock-plunges-after-weak-sign-ups-trigger-2026-guidance-cut/\n\nTheir net joins have been down this quarter and as a result, put a hold on their Black Card price hike and their reviews of what the consumer wants.\n\nIn the meantime, PF will continue their expansion efforts and try to see if they improve next quarter. Since they had a huge bump last year at its peak price being $114.47 a share, will it bounce back?",
+    "id": "1t7a9q1",
+    "title": "Why isn't the stock market concerned about this?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1t7a9q1/why_isnt_the_stock_market_concerned_about_this/",
+    "author": "yellowjackethokie",
+    "score": 398,
+    "selftext": "While the initial payroll reports throughout 2025 appeared to show steady labor market growth, the cumulative revisions reveal that employment growth was materially weaker than originally reported.\n\nEven after the stronger March 2026 revision, the broader trend still suggests a slowing labor market, which could signal weaker consumer demand, softer economic growth, and increased concern about the underlying strength of the economy.\n\nApril 2026 payroll report has not been included because it has not yet had any revisions made to it and the table of information is designed to reflect revisions to initial reports.",
     "subreddit": "StockMarket",
-    "created_utc": 1778180386,
-    "thumbnail": "https://preview.redd.it/a3oxaze8jrzg1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=0083fac551d84b50ba2ad1d5f453bab169e3991f",
+    "created_utc": 1778251974,
+    "thumbnail": "https://preview.redd.it/0wa1y90ifxzg1.png?width=140&height=99&auto=webp&s=bfb8ba93a355b9ffd70254a91bd6f495581e14c4",
     "top_comments": [
       {
-        "body": "Some old guy in a white suit in a room full of CRTs just exposition dumped that this idea was taken to its logically stupid conclusion and they don’t know how to back off from this.",
-        "score": 2,
-        "author": "Winnipesaukee"
+        "body": "Is this simply like this because the U.S. president and his folks know that revisions are followed as closely as the initial report?",
+        "score": 1,
+        "author": "AirpipelineCellPhone"
       },
       {
-        "body": "Holy shit! That episode makes so much more sense now. ",
+        "body": "Why would the stock market care about this when the biggest companies keep earning more money? Are you buying stocks for payroll numbers or buying them to make more money?",
         "score": 1,
-        "author": "11010001100101101"
+        "author": "Strange-Term-4168"
       },
       {
-        "body": "Don’t forget the 50 dollar yearly fee as well ",
+        "body": "I feel like I have a very large appetite for risk. I wouldn't touch either side of Tesla with 100-ft pole. ",
         "score": 1,
-        "author": "76ersPhan11"
+        "author": "Bindle-"
       }
     ],
-    "summary_he": "מניית פלאנט פיטנס (Planet Fitness) צנחה בעקבות ירידה במספר המצטרפים החדשים, מה שהוביל להורדת תחזיות הצמיחה של החברה לשנת 2026. בתגובה למצב, הרשת הקפיאה את העלאת מחירי המנויים ובוחנת מחדש את צרכי הלקוחות, אך היא מתכננת להמשיך בהתרחבות בתקווה להתאוששות ברבעונים הבאים.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן ניתוח של הדיון בשרשור המבוסס על התגובות שפורסמו, מסוכם ל-6 נקודות מרכזיות בעברית:\n\n*   **השוואה קולנועית למציאות דיסטופית:** המגיבים משווים את המצב הנוכחי לסצנה המפורסמת של ה\"ארכיטקט\" מסרטי המטריקס (אדם מבוגר בחליפה לבנה בחדר מלא מסכים). ההשוואה מרמזת על כך שהמציאות הפכה למורכבת ואבסורדית באופן שדורש \"מונולוג הסבר\" מייגע.\n*   **הקצנה לוגית של רעיונות גרועים:** עולה טענה שהמצב הנוכחי הוא תוצאה של רעיון שנלקח עד לקצה הלוגי הכי \"מטופש\" שלו. הקהילה מרגישה שהמערכת פועלת לפי היגיון פנימי מעוות שאיבד קשר עם המציאות.\n*   **חוסר יכולת נסיגה (נקודת האל-חזור):** קיימת תחושה של ייאוש מכך שהגורמים האחראים (חברות או מתכננים) לא יודעים איך לחזור בהם מהחלטותיהם, גם כשהן מתבררות כשגויות, והם פשוט ממשיכים קדימה עם הטעות.\n*   **הבנה רטרואקטיבית של סאטירה:** אחד המשתמשים מציין שבעקבות המצב, פרק מסוים (ככל הנראה מסדרה כמו \"מראה שחורה\" או \"סאות' פארק\") נראה כעת הגיוני ומציאותי הרבה יותר, מה שמעיד על כך שהמציאות הפכה לסאטירה של עצמה.\n*   **נטל כלכלי נוסף (תשלום שנתי):** לצד הביקורת המושגית, המגיבים מדגישים את השורה התחתונה המכעיסה – הדרישה לתשלום שנתי נוסף בסך 50 דולר, מה שנתפס כחמדנות תאגידית טיפוסית שמתווספת לסיבוכיות המערכת.\n*   **תחושת ניכור מול המערכת:** הסנטימנט הכללי בקהילה הוא של ניכור וציניות; המשתמשים מרגישים שהם כלי בתוך \"ניסוי\" לוגי כושל שבו הם נאלצים גם לשלם וגם להתמודד עם הסברים מסורבלים למצבים פשוטים."
+    "summary_he": "הפוסט מציין כי עדכונים לנתוני התעסוקה בשנים 2025-2026 חושפים צמיחה חלשה משמעותית מכפי שדווח בתחילה, מה שמעיד על האטה פוטנציאלית במשק. הכותב תוהה מדוע שוק ההון אינו מראה סימני דאגה מהמגמה הזו, שעלולה להוביל לירידה בביקוש הצרכני ובצמיחה הכלכלית.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ורגשות שונים שעלו מתוך התגובות:\n\n*   **ספקנות כלפי הממשל:** עולה תהייה האם הממשל האמריקאי מפרסם נתונים כלכליים ראשוניים בצורה מסוימת מתוך ידיעה שהציבור והתקשורת אינם עוקבים באותה רמת עניין אחרי התיקונים המאוחרים (והמדויקים יותר) של הדוחות.\n*   **חשיבות הנתונים הראשוניים מול התיקונים:** קיימת הבחנה בכך שהדיווח הראשוני של נתונים כלכליים מייצר את האימפקט המשמעותי ביותר על דעת הקהל, מה שמעלה חשש למניפולציה של התפיסה הציבורית.\n*   **ניתוק בין נתוני מאקרו לרווחיות חברות:** עולה השאלה מדוע שוק המניות מגיב לנתוני תעסוקה (payroll), כאשר בפועל החברות הגדולות ממשיכות להציג רווחים צומחים, שהם המנוע האמיתי להשקעה.\n*   **פילוסופיית השקעה ממוקדת רווח:** מוצגת גישה הגורסת כי המטרה המרכזית של משקיע היא \"לעשות כסף\" דרך ביצועי החברות, ולכן התמקדות יתר בנתוני מאקרו יבשים עשויה להיות פחות רלוונטית למשקיע הפרטני.\n*   **הרתעה מהשקעה בטסלה:** למרות הפופולריות של המניה, קיימת סלידה עמוקה מהימור על טסלה. משקיעים חשים שחוסר הוודאות לגביה כה גדול עד שלא כדאי לגעת בה, לא בעמדת קנייה (Long) ולא בעמדת מכירה בחסר (Short).\n*   **גבולות התיאבון לסיכון:** גם משקיעים המעידים על עצמם כבעלי סובלנות גבוהה מאוד לסיכון, מציינים כי ישנם נכסים (כמו טסלה) שהם מעבר לגבול היכולת שלהם לנהל סיכונים בצורה מושכלת."
   },
   {
-    "id": "1t6x8lg",
-    "title": "The Market Has Become Addicted to “Buy the Dip” And That’s Exactly What Scares Me",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1t6x8lg/the_market_has_become_addicted_to_buy_the_dip_and/",
-    "author": "brendow772",
-    "score": 25,
-    "selftext": "Every dip gets bought instantly now.  \nBad CPI? Bought.  \nWar headlines? Bought.  \nTech layoffs? Bought.  \nOvervaluation concerns? Bought.  \nAt some point, people stop asking whether stocks are cheap and start assuming prices are physically incapable of going down.  \nThat’s when markets get dangerous.  \nWhat’s interesting is that this isn’t even irrational anymore because for years, buying the dip has genuinely worked. Entire generations of investors have basically been trained like Pavlov’s dogs to react the same way:  \nRed candle = free money.  \nAnd honestly? The strategy keeps reinforcing itself because everyone believes everyone else will do it too.  \nBut historically, the scariest market moments happen when:  \nvolatility feels “dead”  \nretail feels invincible  \nrisk stops feeling like risk  \nand people start mocking anyone holding cash  \nI’m not saying a crash is tomorrow.  \nI’m saying the psychology right now feels very different from normal healthy price discovery. The market feels conditioned.  \nThat usually ends in one of two ways:  \na violent correction  \nor a long slow bleed that exhausts everyone emotionally  \nCurious if anyone else feels this shift, or if I’m just becoming too cautious.",
+    "id": "1t7cpa9",
+    "title": "Nintendo stock is oversold",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1t7cpa9/nintendo_stock_is_oversold/",
+    "author": "lies_are_comforting",
+    "score": 77,
+    "selftext": "Nintendo stock is down 35 % year to date and 50 % in the past year. Hardware cycle transitions and macroeconomic headwinds have made short term fears way too impactful on the stock price. \n\nAs soon as they announce a Zelda game this stock is going to skyrocket. They have more monthly active users on Nintendo Switch Online than ever before. The Mario movies are a major success. \n\nThey have a massive cash pile. 75 % of Nintendo’s sales come from outside Japan so don’t worry about currency fluctuations. \n\nHonestly, this is Nintendo. Do you think AI is going to make people not want to play video games? Nintendo IS video gaming. Sony and Microsoft never ever had the same talent for making legendary games. Mario is a bigger icon than Mickey Mouse. And unlike Mickey, Marion is a fully protected copyright. ",
     "subreddit": "StockMarket",
-    "created_utc": 1778213814,
+    "created_utc": 1778257171,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "yeah it doesn't have to be a conspiracy, the reality is when big sell offs happen your brokers wont even be able to place your stop loss orders at your set price",
-        "score": 2,
-        "author": "angelstbeatrixxx"
+        "body": "Ehhhhh, components are getting much more expensive due to the affect AI is having on logistics and consumers and becoming less and less willing to spend proportionally higher prices for games and consoles. \n\nThe game industry is in for some grief in my opinion as time goes on. Increasing costs are coming up against diminishing returns in technical improvement, and past products begin to have greater longevity. \n\nNintendo will weather the storm better than most due to their IP’s and being less reliant on top of the line hardware to push their games, but I don’t see them skyrocketing from here.",
+        "score": 57,
+        "author": "AppropriateAd8937"
       },
       {
-        "body": "in idiocracy everyone makes their living from brawndo stock",
-        "score": 2,
-        "author": "Unlikely-Answer"
+        "body": "Because memory demand smashed previous demand expectations. \n\nThe Nitentdo stock is inversely correlated with memory stocks. The further they go up, the further Nintendo goes down because the shortage is gonna last longer than expected ",
+        "score": 8,
+        "author": "TechTuna1200"
       },
       {
-        "body": "His profile is really interesting. Looks like someone is testing some AI agent or something.",
-        "score": 1,
-        "author": "linear_123"
+        "body": "Because the memory price issue is gonna last for a while. You can’t just only look at the chart",
+        "score": 8,
+        "author": "TechTuna1200"
       }
     ],
-    "summary_he": "הכותב מזהיר מפני ה\"התמכרות\" של השוק לאסטרטגיית קנייה בכל ירידה (Buy the dip), מצב שיצר אצל המשקיעים תחושת חסינות מטעה וניתוק מהסיכונים הריאליים. לטענתו, הפסיכולוגיה הזו, שבה כל נסיגה נתפסת כהזדמנות ל\"כסף בחינם\", עלולה לבשר על תיקון אלים או על תקופת ירידות ממושכת שתשחוק את אמון הציבור.",
+    "summary_he": "הכותב טוען כי מניית נינטנדו נמצאת במצב של \"מכירת יתר\" וצפויה לזנק משמעותית עם הכרזה על כותרים חדשים כמו \"זלדה\". למרות הירידות האחרונות, החברה נהנית מקופת מזומנים גדולה, הצלחה קולנועית וממותגים חזקים ועל-זמניים, מה שהופך אותה להשקעה אטרקטיבית לטווח הארוך.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בתגובות מ-Reddit, הכולל 6 נקודות מבט וסנטימנטים שונים שעלו מהגולשים:\n\n*   **הסברים טכניים מול תיאוריות קשר:** אחד הגולשים טוען כי אין צורך לחפש קונספירציות מאחורי כשלים בשוק; המציאות הפשוטה היא שבזמן קריסות או מכירות המוניות, המערכות הטכניות של הברוקרים פשוט לא עומדות בעומס.\n*   **חוסר היעילות של פקודות הגנה (Stop Loss):** עולה נקודה ביקורתית לגבי המסחר, לפיה בזמני תנודתיות קיצונית, פקודות ה\"סטופ לוס\" שהגדירו המשקיעים עלולות לא להתבצע במחיר המבוקש, מה שמותיר את המשקיע חשוף להפסדים גדולים מהצפוי.\n*   **השוואה סאטירית למציאות דיסטופית:** השימוש בהתייחסות לסרט \"אידיוקרטיה\" (Idiocracy) מבטא סנטימנט של זלזול במצב השוק הנוכחי, שבו נראה כי הכלכלה כולה נשענת על נכסים חסרי ערך ממשי או על \"מניות הייפ\".\n*   **ביקורת על הסתמכות יתר על מניה בודדת:** דרך האזכור של מניית \"Brawndo\" מהסרט, מובעת דעה המבקרת חברה שבה כולם מנסים להתפרנס מאותו אפיק השקעה צר ומוזר, דבר שנתפס כסימן להתדרדרות כלכלית או אינטלקטואלית.\n*   **חשדנות כלפי נוכחות בינה מלאכותית:** גולש מציין כי פרופיל המשתמש שנבדק נראה כמו ניסוי של \"סוכן AI\" (AI Agent), מה שמעיד על מודעות גבוהה וחשדנות של הקהילה כלפי בוטים ותוכן ממוחשב שמתחזה לאנושי.\n*   **ניתוח פרופילים ככלי לאימות אמינות:** ניכר כי חברי הקהילה אינם מסתפקים בתוכן הפוסט בלבד, אלא בוחנים לעומק את היסטוריית המשתמש (\"הפרופיל שלו ממש מעניין\") כדי לנסות ולהבין את המניעים מאחורי הפרסום ולזהות דפוסי פעולה חריגים.",
-    "dateString": "2026-05-08",
-    "savedAt": {
-      "_seconds": 1778226640,
-      "_nanoseconds": 270000000
-    }
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המנתח את מצבה של נינטנדו ותעשיית הגיימינג, בחלוקה לנקודות מרכזיות:\n\n*   **השפעת הבינה המלאכותית על עלויות הייצור:** קיימת טענה כי הפריצה של תחום ה-AI משפיעה לרעה על הלוגיסטיקה וגורמת להתייקרות משמעותית של רכיבים אלקטרוניים, מה שמכביד על יצרניות הקונסולות.\n*   **התנגדות צרכנים לעליית מחירים:** המשתמשים מצביעים על שחיקה בנכונות של הצרכנים לשלם מחירים גבוהים יותר עבור משחקים וחומרה, במיוחד כאשר השיפור הטכנולוגי נתפס כמשני לעומת העלות.\n*   **בעיית \"התשואה הפוחתת\" בטכנולוגיה:** קיים חשש שהתעשייה נמצאת בנקודה שבה השיפורים הגרפיים והטכנולוגיים כבר אינם מצדיקים את הזינוק בעלויות הפיתוח והייצור, בעוד שמוצרים ישנים נותרים רלוונטיים לאורך זמן רב יותר.\n*   **החוסן הייחודי של נינטנדו:** למרות הקשיים בשוק, הקהילה סבורה שנינטנדו תצלח את המשבר טוב יותר ממתחריה (כמו סוני או מיקרוסופט), בזכות הקניין הרוחני (IP) החזק שלה והעובדה שמשחקיה אינם נשענים על החומרה המתקדמת והיקרה ביותר בשוק.\n*   **מתאם הפוך למחירי הזיכרון:** הסבר מעניין שעלה הוא הקשר השלילי בין מניית נינטנדו למחירי שבבי הזיכרון. ככל שהביקוש והמחירים של רכיבי זיכרון עולים (בשל תעשיית ה-AI), כך גדל הלחץ על שולי הרווח של נינטנדו והמניה שלה יורדת.\n*   **תחזית למחסור מתמשך:** קיימת הסכמה שהמחסור ברכיבים ובעיות המחירים בתחום הזיכרון אינם זמניים, אלא צפויים להימשך זמן רב יותר מהתחזיות המוקדמות, מה שמעיב על פוטנציאל הצמיחה המיידי של החברה."
   },
   {
-    "id": "1t6degr",
-    "title": "anyone else notice health care getting wrecked today? COR and MCK RSI under 17",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1t6degr/anyone_else_notice_health_care_getting_wrecked/",
+    "id": "1t7bxvm",
+    "title": "health care still oversold but starting to stabilize. semis overbought for days now",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1t7bxvm/health_care_still_oversold_but_starting_to/",
     "author": "StockScannerApp",
-    "score": 17,
-    "selftext": "ok so i run a scan on the S&P every day and today health care just stood out like crazy\n\nCOR and MCK both have RSI under 17. like that's insane for companies that size. pretty sure it's sector pressure not something wrong with the companies themselves since they both dropped together\n\nLDOS is showing up for the third day in a row around 134, starting to think it might be finding a floor\n\nsemis are still stupid overbought. AMD at 81, STX at 87 rsi. been like this for days now\n\nnot buying anything yet just watching\n\nanyone else see what happened to health care today?\n\nbeen a weird day overall tbh\n\nnot financial advice\n\nhttps://preview.redd.it/l9w4yit4eqzg1.png?width=754&format=png&auto=webp&s=a0b889638fbfc9cc078234d73cc2c489c55b98e3\n\n  \n",
+    "score": 28,
+    "selftext": "ok so ran the daily S&P scan and health care is still showing up but different today\n\nMCK RSI moved from 16 to 22, looks like its starting to recover. LDOS still there around 131, HII too. whole defensive sector still beaten up but stabilizing\n\nnew name today is EPAM at RSI 20, IT consulting getting hit hard\n\nsemis still overbought for days now. AMD at 76, STX at 81, MCHP at 79. starting to look like distribution at these levels\n\nalso interesting INVH showing up on overbought side, single family residential REITs at RSI 73. not something you see every day\n\nnot buying anything yet just watching the health care situation\n\nnot financial advice.\n\nhttps://preview.redd.it/xqx9y1nnqxzg1.png?width=756&format=png&auto=webp&s=512d62efb95f8960f76dfa14577e9915a967b07d\n\n  \n",
     "subreddit": "StockMarket",
-    "created_utc": 1778166672,
-    "thumbnail": "https://preview.redd.it/l9w4yit4eqzg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=ddd441a9eedb13248404a9e9e70e0a5f30d64f44",
+    "created_utc": 1778255533,
+    "thumbnail": "https://preview.redd.it/xqx9y1nnqxzg1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=00b5af769197f6c322d0008e0dc8a1b8107c8b34",
     "top_comments": [
       {
-        "body": "Healthcare RSI under 20 and semis still screaming higher… market really said rotation with a straight face",
-        "score": 5,
-        "author": "mahend72"
-      },
-      {
-        "body": "Cencoras earnings miss yesterday, mckessons earnings today after market close. I like mckesson.",
-        "score": 4,
-        "author": "suspicious_caulk"
-      },
-      {
-        "body": "Yeah, healthcare looks oversold here while semis keep running.",
-        "score": 2,
+        "body": "exactly, that's why i trimmed AMD today. RSI at 76 and ADX above 50 for days, when you see that combination it usually means the smart money is already out and retail is holding the bag",
+        "score": 7,
         "author": "StockScannerApp"
-      }
-    ],
-    "summary_he": "כותב הפוסט מצביע על ירידות חדות במגזר הבריאות, בדגש על מניות COR ו-MCK שהגיעו למצב של מכירת יתר קיצונית (RSI מתחת ל-17) עקב לחץ סקטוריאלי. במקביל, הוא מציין כי תחום השבבים עדיין מאופיין בקניית יתר (Overbought) ומניית LDOS מראה סימני התייצבות, אך בשלב זה הוא בוחר להמתין ולא לבצע רכישות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והתחושות העולות מתוך התגובות ב-Reddit, המוצג ב-6 נקודות מרכזיות:\n\n* **מצב של \"מכירת יתר\" במגזר הבריאות:** מהתגובות עולה כי מגזר הבריאות נמצא בשפל טכני, כאשר מדד ה-RSI (מדד העוצמה היחסית) ירד מתחת ל-20, מה שמעיד על ירידות חדות וקיצוניות.\n* **המשך הזינוק במגזר השבבים (Semis):** בניגוד למגזר הבריאות המדמם, המשתמשים מציינים כי מניות השבבים ממשיכות לזנק (\"Screaming higher\"), מה שמדגיש את הפער העצום בביצועים בין הסקטורים.\n* **ספקנות לגבי \"רוטציית מגזרים\":** קיימת נימה צינית לגבי הטענה שהשוק מבצע \"רוטציה\" (מעבר כספים ממגזר למגזר). המשתמשים חשים שהמונח הזה לא משקף נאמנה את המציאות שבה מגזר אחד נסק בעוד השני קורס.\n* **התמקדות בדו\"חות כספיים ספציפיים:** הקהילה עוקבת מקרוב אחרי חברות הפצה בתחום הבריאות, תוך ציון האכזבה מהדו\"חות של חברת Cencora שפורסמו לאחרונה.\n* **ציפייה ואופטימיות זהירה לגבי McKesson:** למרות הסנטימנט השלילי הכללי במגזר, ישנה הבעת עניין ואופטימיות לגבי חברת McKesson לקראת פרסום הדו\"חות הכספיים שלה לאחר סגירת המסחר.\n* **זיהוי הזדמנות פוטנציאלית:** קיימת הסכמה בין המשתמשים שמגזר הבריאות נראה כעת כנכס \"זול מדי\" או \"חבוט\" (Oversold), מה שעשוי לרמוז על כך שהם רואים בו הזדמנות קנייה אל מול הריצה הבלתי פוסקת של השבבים.",
-    "dateString": "2026-05-09",
-    "savedAt": {
-      "_seconds": 1778308084,
-      "_nanoseconds": 597000000
-    }
-  },
-  {
-    "id": "1t6axnp",
-    "title": "I didn’t expect a small copper story to start feeling this “structured” this early",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1t6axnp/i_didnt_expect_a_small_copper_story_to_start/",
-    "author": "JamesBakerNight5720",
-    "score": 2,
-    "selftext": "I’ve been watching a lot of junior copper names recently and most of them fall into the same pattern: early exploration updates, occasional land news, then long quiet periods.\n\nBut this one has been slowly shifting in tone.\n\nThe latest advisory board appointment added a senior figure with 30+ years in natural resources, capital markets, and global project development. The experience spans multiple regions and includes involvement in larger financial transactions, which already sets a different tone compared to typical early exploration updates.\n\nWhat makes it more interesting is how the role is described.\n\nIt’s focused on things like:  \nhelping define development pathways,  \nsupporting strategic partnerships,  \nand contributing to capital markets strategy.\n\nThat kind of language usually appears when a company is not just thinking about drilling results, but also about what happens if the project actually advances meaningfully over time.\n\nIt doesn’t change the geology, and it doesn’t guarantee anything. But it does change how the story is being structured around the asset.\n\nAnd that matters more than people think in this space.\n\nBecause in early mining cycles, the market often starts reacting to structure before it reacts to results.\n\nCopper also adds another layer here. Demand themes are strengthening globally, while supply expansion remains slow and capital intensive.\n\nThat mismatch tends to make well-positioned early explorers more visible over time.\n\nFeels like this is still early, but the setup is becoming more organized than most similar names I’ve followed.",
-    "subreddit": "StockMarket",
-    "created_utc": 1778161332,
-    "thumbnail": "self",
-    "top_comments": [
+      },
       {
-        "body": "It’s NovaRed Mining, NRED / NREDF. The post is based on their latest advisory board appointment with Gregory Fedun and the direction it suggests for how they might approach development and partnerships going forward.",
-        "score": 1,
-        "author": "JamesBakerNight5720"
+        "body": "Watching the semis chasing is amusing. This market is one fad after another. Dram, ddog et c. Pros sell to retail speculators never ready for the drop, same as always. Sharp concentrated rallies aren't healthy. ",
+        "score": 6,
+        "author": "MirthandMystery"
+      },
+      {
+        "body": "It's crazy. I bought dram slightly over a wk ago, and it's up more than 30%. I knew I was way late too, as the etf is recent but its holdings have skyrocketed in the past yr. But i couldn't help it and put in a play money amount to fund the next vacation hopefully ",
+        "score": 5,
+        "author": "photowanderer"
       }
     ],
-    "summary_he": "להלן סיכום הפוסט:\n\nהכותב מזהה מגמה חיובית בחברת חיפושי נחושת צעירה שמתחילה להתנהל בצורה אסטרטגית ומאורגנת מהרגיל, תוך גיוס כוח אדם מנוסה והתמקדות בשיתופי פעולה ובשוק ההון. לפי הפוסט, בניית תשתית עסקית וניהולית כזו בשלב מוקדם היא קריטית להצלחה בשוק הנחושת הנוכחי, שבו הביקוש העולמי גובר וההיצע נותר מוגבל.",
+    "summary_he": "הפוסט מציין כי מגזר הבריאות ומניות ייעוץ ה-IT (כמו EPAM) עדיין במצב של מכירת יתר (\"oversold\") אך מתחילים להראות סימני התייצבות והתאוששות. מנגד, מגזר השבבים ומניות נדל\"ן מסוימות נמצאים במצב של קניית יתר (\"overbought\") ממושכת, מה שעשוי להעיד על תחילת מימושים. הכותב עוקב מקרוב אחר המגמות, במיוחד בסקטור הבריאות, אך נמנע מביצוע רכישות בשלב זה.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח וסיכום הדיון (על בסיס התגובה שפורסה) בנוגע לחברת NovaRed Mining בנקודות:\n\n*   **זיהוי ברור של נייר הערך:** התגובה מזהה באופן חד-משמעי את החברה המדוברת כ-NovaRed Mining, תוך ציון סימולי המסחר שלה (NRED / NREDF), מה שמעיד על עניין של משקיעים העוקבים אחר המניה.\n*   **חשיבות מינויים בדרג המייעץ:** הדיון מתמקד במינויו של גרגורי פדון (Gregory Fedun) למועצה המייעצת של החברה, כגורם מפתח שמשפיע על אמון הקהילה.\n*   **אינדיקטור לכיוון אסטרטגי:** בקהילה רואים במינוי הספציפי הזה לא רק צעד פרסונלי, אלא הצהרת כוונות לגבי הכיוון שאליו החברה צועדת מבחינה עסקית ומקצועית.\n*   **ציפייה לשינוי במתודולוגיית הפיתוח:** קיימת סברה כי הצטרפותו של פדון תשפיע באופן ישיר על הדרך שבה החברה תיגש לפיתוח המכרות והפרויקטים שלה בעתיד.\n*   **דגש על שותפויות עתידיות:** אחד מהסנטימנטים המרכזיים הוא שהמינוי רומז על היערכות של החברה ליצירת שיתופי פעולה אסטרטגיים ושותפויות חדשות בתעשייה.\n*   **ניתוח אופטימי של פוטנציאל הצמיחה:** התגובה משקפת תחושה בקרב הקהילה שצעדים ניהוליים כאלה הם קריטיים להבנת הערך העתידי של החברה, מעבר לנתונים הפיננסיים היבשים.",
-    "dateString": "2026-05-09",
-    "savedAt": {
-      "_seconds": 1778308108,
-      "_nanoseconds": 361000000
-    }
+    "comments_summary_he": "להלן ניתוח של הלך הרוח והדעות המרכזיות שעלו מהתגובות בשרשור, כפי שביקשת:\n\n**סיכום הדיון ב-Reddit:**\n\n*   **שימוש במדדים טכניים לזיהוי \"קניית יתר\":** חלק מהמשקיעים מבססים את החלטות המכירה שלהם על אינדיקטורים טכניים (כמו RSI מעל 76 ו-ADX גבוה), המעידים לדעתם על כך שהמניה מתוחה מדי ושהגיע הזמן לצמצם פוזיציות (למשל במניית AMD).\n*   **הפער בין \"הכסף החכם\" לציבור הרחב:** קיימת סנטימנט לפיו המשקיעים המקצועיים כבר הספיקו לצאת מהשוק עם הרווחים, בעוד שהמשקיעים הקטנים (Retail) הם אלו שנותרו \"להחזיק את השקית\" רגע לפני שהמחירים יורדים.\n*   **ביקורת על \"רדיפה\" אחרי מגזר השבבים:** ישנו לעג מסוים כלפי משקיעים שרודפים אחרי מניות השבבים (Semis) בשיא העליות, תוך הגדרת המצב כסדרה של טרנדים חולפים (Fads) ולא כצמיחה אורגנית יציבה.\n*   **חוסר יציבות בעליות חדות:** הקהילה מביעה חשש שראלי מרוכז וחד מדי במגזרים ספציפיים אינו סימן לבריאות של השוק, אלא עדות לתנודתיות מסוכנת שעלולה להסתיים בנפילה כואבת.\n*   **מודעות עצמית לכניסה מאוחרת (FOMO):** משקיעים מודים שהם נכנסים לעסקאות למרות שהם מבינים שהם \"איחרו את המועד\" ושהמחירים כבר זינקו בחדות בשנה האחרונה, בעיקר בשל הפחד להחמיץ רווחים נוספים.\n*   **השקעה כ\"כספי משחק\" למטרות פנאי:** חלק מהמשקיעים מתייחסים להשקעות במניות תנודתיות כאל סוג של הימור מושכל, תוך שימוש בסכומי כסף קטנים המיועדים למטרות ספציפיות כמו מימון חופשה, במקום כחלק מאסטרטגיית השקעה לטווח ארוך."
   },
   {
     "id": "1t7aamc",
@@ -165,161 +129,168 @@ window.dailyTrends = [
     }
   },
   {
-    "id": "1t6zwtl",
-    "title": "Silver Reorganizes Positioning Ahead of NFP as Yields, US Dollar Structure Shape",
-    "url": "https://www.reddit.com/r/finance/comments/1t6zwtl/silver_reorganizes_positioning_ahead_of_nfp_as/",
-    "author": "LMtrades",
-    "score": 1,
-    "selftext": "Key Takeaways\n\n* Silver trades inside a high-engagement rotational structure centered around the 79.20 pivot\n* Real yields and USD positioning remain the dominant transmission channel ahead of Friday’s payrolls release\n* The current Renko structure reflects active market involvement with directional energy rebuilding across the upper range\n* NFP expectations will determine whether silver transitions toward expansion or extends the current rotational phase",
-    "subreddit": "finance",
-    "created_utc": 1778222402,
-    "thumbnail": "default",
-    "top_comments": [],
-    "summary_he": "מחיר הכסף נסחר כעת בטווח יציב סביב נקודת ציר מרכזית, תחת השפעה ישירה של תשואות האג\"ח והדולר האמריקאי. השוק ממתין לפרסום דוח התעסוקה (NFP) ביום שישי, שצפוי לקבוע האם המתכת תפרוץ למגמה חדשה או תמשיך בדפוס המסחר הנוכחי.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-05-08",
-    "savedAt": {
-      "_seconds": 1778226709,
-      "_nanoseconds": 65000000
-    }
-  },
-  {
-    "id": "1t7w2u5",
-    "title": "Do people use taxable brokerage to fund 401(k), HSA and IRA? Like tax arbitrage?",
-    "url": "https://www.reddit.com/r/investing/comments/1t7w2u5/do_people_use_taxable_brokerage_to_fund_401k_hsa/",
-    "author": "iloveu3thousand",
-    "score": 1,
-    "selftext": "Hypothetically let's say you had a brokerage account with $100k that probably has some substantial gains.\n\nYou earn $100k per year but your expenses are also $100k, meaning you're not contributing to 401(k), HSA, or IRA.\n\nWould it be wise to max all 3 and sell from the brokerage account to fund everyday expenses until it was depleted?\n\nBasically tax arbitraging your brokerage to tax deferred or tax sheltered accounts.\n\nDoes anyone do this? ",
+    "id": "1t7fv0e",
+    "title": "Crude Long-Short Strat betting on US Export Restrictions",
+    "url": "https://www.reddit.com/r/investing/comments/1t7fv0e/crude_longshort_strat_betting_on_us_export/",
+    "author": "ben13215",
+    "score": 24,
+    "selftext": "Without US export restrictions, oil could well go into the 150-200 range by June/July if there is no ceasefire.\n\nTrump cannot afford the political loss of US gas prices going above $5 a gallon, but he also cannot afford the political loss of agreeing to Iranian demands.\n\nWhats his only way out? Export restrictions on US oil when shit really hits the fan.\n\nWTI falls, Brent skyrockets.\n\nThe WTI-Brent spread usually trades around $5-7. This could raise that spread to over $50.\n\nStrat: short WTI, long Brent.\n\nHedges out resolution/escalation risk, and sure some losses are likely if the thesis doesn't pan out, but overall looking at maybe 5-10% loss if the gap closes?\n\nThe only real risk I can see to material losses is if somehow wti becomes more expensive than Brent.\n\nAnything I've missed?\n\nP.S. I'm aware the thesis is by no means likely and incredibly speculative, just wondering whether the mechanics would be the right way to trade it.",
     "subreddit": "investing",
-    "created_utc": 1778305301,
+    "created_utc": 1778263775,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "How will you pay for your living expenses next year when your taxable account is zero?",
-        "score": 1,
-        "author": "alwayslookingout"
+        "body": "Trump's allies in the oil industry would shit their grits if he implemented export restrictions during what might be the last great oil boom.",
+        "score": 18,
+        "author": "captain_ahabb"
       },
       {
-        "body": "It's tax-free growth. Even if you have to pay significant taxes on the brokerage transactions, it can be worth it if the alternative is foregoing the tax-advantaged contributions.\n\n* You have 5000 in VTI in an IRA\n* Sell it and pay tax on $2000 of gains, say $300 @ 15% LTCG.\n* Invest $4700 to tIRA, convert to Roth, buy VTI \n* After 5 years @ 7% you have $6592 tax-free\n\nvs.\n\n* You have 5000 in VTI in an IRA\n* Do nothing\n* After 5 years @ 7% you have $7013, but $4013 of that is gains, so you have 7013 - 602 = $6411.\n\nObviously it doesn't always play out this way.",
-        "score": 1,
-        "author": "farsightxr20"
+        "body": "Those lobbyists are going to be red hot.  Also the only way this happens, which is possible, that oil is nationalised.  If not is the USA going to blockade it's own ports?",
+        "score": 6,
+        "author": "NightFire45"
       },
       {
-        "body": "Sure. You can arbitrage that if you don’t mind the taxes.  Makes sense if you trying to move into tax-advantaged accounts but income is insufficient to do so.  Really has to be math’d out with current vs future taxes to see how much.  ",
-        "score": 1,
-        "author": "Bad_DNA"
+        "body": "Fiduciary duty to the world? This subreddit gets dumber and dumber every day.",
+        "score": 2,
+        "author": "donutsoft"
       }
     ],
-    "summary_he": "הכותב שואל האם כדאי למכור נכסים מחשבון השקעות חייב במס כדי לממן הוצאות מחיה, ובכך לאפשר הפרשה מקסימלית של השכר לחסכונות פנסיוניים עם הטבות מס (כמו 401k ו-IRA). מטרת האסטרטגיה היא לבצע \"ארביטראז' מס\" ולהעביר הון קיים מחשבון ממוסה לסביבת השקעה מוגנת או דחויית מס.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המנתח את האסטרטגיה של מכירת נכסים מחשבון השקעות חייב במס כדי לממן הפקדות לחשבונות פטורים ממס (כמו Roth IRA):\n\n*   **שאלת הנזילות והוצאות המחיה:** הועלה חשש פרקטי לגבי היכולת של המשקיע לממן את הוצאות המחיה שלו בשנה הקרובה אם ירוקן לחלוטין את החשבון הנזיל (Taxable Account) לטובת חשבונות פנסיוניים סגורים.\n*   **היתרון שבצמיחה פטורה ממס:** אחד המגיבים טוען כי היתרון של צמיחה פטורה ממס בטווח הארוך עשוי לעלות על העלות של תשלום מס רווחי הון בהווה, שכן החיסכון במס על הרווחים העתידיים משמעותי יותר.\n*   **ניתוח מתמטי השוואתי:** הוצגה דוגמה מספרית המראה כי גם לאחר תשלום מס רווחי הון של 15% על המכירה כעת, העברת הכסף לחשבון פטור ממס (Roth) עשויה להניב סכום סופי גבוה יותר לאחר מספר שנים בהשוואה להשארת הכסף בחשבון חייב במס.\n*   **אסטרטגיית \"ארביטראז' מס\":** הדיון מתאר את המהלך כמעין \"ארביטראז'\" שנועד להעביר נכסים למסלולים מוגני מס במצבים שבהם ההכנסה השוטפת של המשקיע אינה מספיקה כדי למקסם את תקרת ההפקדות השנתית המותרת בחוק.\n*   **השוואת שיעורי מס בהווה מול עתיד:** הודגש כי כדאיות המהלך אינה מובנת מאליה ותלויה בחישוב מדויק של שיעורי המס הנוכחיים לעומת שיעורי המס הצפויים בעתיד; מדובר בהחלטה שחייבת להישען על מספרים (\"Math'd out\").\n*   **הימנעות מוויתור על הטבות:** קיימת תפיסה בקהילה שעדיף \"לספוג\" אירוע מס כעת מאשר לוותר כליל על האפשרות לנצל את הטבות המס השנתיות (Tax-advantaged contributions), שכן אלו הטבות שהולכות לאיבוד אם לא מנצלים אותן בכל שנה קלנדרית.",
-    "dateString": "2026-05-09",
-    "savedAt": {
-      "_seconds": 1778308143,
-      "_nanoseconds": 596000000
-    }
+    "summary_he": "הפוסט מציע אסטרטגיית מסחר ספקולטיבית המבוססת על התרחיש שבו ארה\"ב תטיל הגבלות ייצוא על נפט כדי להוזיל את מחירי הדלק המקומיים. האסטרטגיה כוללת פתיחת פוזיציית לונג על נפט מסוג Brent ושורט על WTI, מתוך ציפייה להתרחבות דרמטית בפער המחירים (spread) ביניהם. מדובר בניסיון לנצל לחצים פוליטיים וגיאופוליטיים כדי להפיק רווח מהפרשי המחיר שייווצרו בין הנפט האמריקאי לנפט העולמי.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות ב-Reddit, הכולל את מגוון הדעות והסנטימנטים שהובעו:\n\n*   **התנגדות מצד בעלי ברית פוליטיים:** קיים חשש שהטלת מגבלות על ייצוא נפט תוביל לעימות חזיתי בין טראמפ לבין תעשיית הנפט, שנחשבת לאחת מבעלות בריתו המרכזיות. המגיבים מעריכים כי התעשייה תגיב בזעם רב למהלך כזה.\n*   **עיתוי כלכלי קריטי:** המגיבים מציינים כי תעשיית הנפט נמצאת כעת במה שעשוי להיות \"תור הזהב\" האחרון שלה (Oil Boom). לפיכך, הגבלת הייצוא בעיתוי כזה נתפסת כפגיעה אנושה ברווחים הפוטנציאליים של התעשייה.\n*   **פעילות לוביסטית אינטנסיבית:** הדיון מדגיש כי הלוביסטים של תעשיית האנרגיה יפעלו בכל כוחם (\"יהיו רותחים\") נגד המדיניות, וצפוי לחץ פוליטי כבד למנוע את המהלך.\n*   **ספקות לגבי היתכנות היישום:** עלתה הסברה כי הדרך היחידה שבה ארה\"ב תוכל לאכוף מגבלות ייצוא כאלו היא באמצעות הלאמה של תעשיית הנפט, מהלך שנחשב לקיצוני ולא סביר פוליטית.\n*   **אבסורד לוגיסטי וביטחוני:** המגיבים מלגלגים על הרעיון הפרקטי של חסימת הייצוא, ושואלים בציניות האם ארה\"ב מתכוונת להטיל מצור ימי (Blockade) על הנמלים שלה עצמה כדי למנוע את יציאת הנפט.\n*   **דחיית האחריות הגלובלית:** קיימת דעה נחרצת השוללת את התפיסה שלארה\"ב יש \"חובה מוסרית או נאמנותית\" (Fiduciary duty) כלפי שאר העולם בכל הנוגע למשאבי האנרגיה שלה. המגיב רואה ברעיון הזה הוכחה לירידה ברמת הדיון.\n*   **סנטימנט של תסכול מהקהילה:** ניכרת ביקורת פנימית על רמת הדיון בתת-הפורום (Subreddit), כאשר חלק מהמשתמשים חשים שהטיעונים המועלים בו הופכים למנותקים מהמציאות או \"טיפשיים\" מרגע לרגע."
   },
   {
-    "id": "1t7vnqn",
-    "title": "Help me UNWIND this direct index nightmare. Fidelity SMA Total Market Index",
-    "url": "https://www.reddit.com/r/investing/comments/1t7vnqn/help_me_unwind_this_direct_index_nightmare/",
-    "author": "Wolverine-91826",
-    "score": 1,
-    "selftext": "Help me UNWIND this direct index nightmare. Fidelity SMA Total Market Index\n\nI am paying 0.40 bps\n\n350 positions (Total Index)\n\nOption 1: Get much lower fee 0.12bps but hold 2500 positions in a similar product. (Total Index)\n\n  \nOption 2: Get a fee of 0.22 bps but hold 1000 positions.  (Russell 1000 index)\n\n  \nI dont plan on selling this, just give it to the kids who can dispose of it. \n\nI am getting a lot of noise from many people that unwinding 2500 positions will be way worst than 1000 ..  i dont know if I agree. Cant a robot do this in the future?\n\nHelp me choose and tell me why? \n\n",
-    "subreddit": "investing",
-    "created_utc": 1778303968,
+    "id": "1t77fmb",
+    "title": "Private equity health impact",
+    "url": "https://www.reddit.com/r/business/comments/1t77fmb/private_equity_health_impact/",
+    "author": "Lhm1733",
+    "score": 7,
+    "selftext": "In what ways can impact of private equity ownership on employee health be calculated? Is there data like pre-and post private equity ownership? How many health conditions, or ultimately death, stem from the severe stress caused by private equity management? I have seen so many people decline substantially over the last four years under org’s PE situation. It’s coming to a head from many people in org— hospitalizations, strokes, heart attacks, clots from hours seated at desk, cancers, suicides. Could it all be connected to the chronic stress?",
+    "subreddit": "business",
+    "created_utc": 1778245647,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "SPTM  .03% expense  \\~1500 holdings but a small set of filters ",
+        "body": "I can't imagine there's data that really tracks this. But I think it's a fair assumption that any environment with increased chronic stress will lead to poor health outcomes. ",
         "score": 1,
-        "author": "wander9077"
+        "author": "JackGierlich"
+      },
+      {
+        "body": "Interesting. I’ll check that out!",
+        "score": 1,
+        "author": "Lhm1733"
+      },
+      {
+        "body": "No data but I started reading a book called Bad Company with individual stories about PE ownership that might have some",
+        "score": 1,
+        "author": "Plenty_Lawyer5407"
       }
     ],
-    "summary_he": "הכותב מעוניין להחליף תיק השקעות בניהול ישיר (SMA) בעל עמלות גבוהות בחלופה זולה יותר, ומתלבט בין מסלולים הכוללים 1,000 או 2,500 ניירות ערך שונים. הוא מתכנן להוריש את התיק לילדיו ותוהה האם ריבוי הפוזיציות יסבך את מימוש הנכסים בעתיד, או שניתן יהיה לנהל את המכירה בקלות באמצעות אוטומציה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "בהתבסס על התגובה שפורסמה בנוגע לקרן הסל **SPTM** (SPDR Portfolio S&P 1500 Composite Stock Market ETF), להלן סיכום הדיון והתובנות העולות ממנה ב-6 נקודות שונות:\n\n*   **עלויות ניהול אפסיות:** המגיב מדגיש את יחס ההוצאות (Expense Ratio) הנמוך במיוחד של הקרן, העומד על 0.03% בלבד. זהו נתון מרכזי שהופך את הקרן לאטרקטיבית מאוד עבור משקיעים המעוניינים למקסם רווחים לאורך זמן על ידי צמצום עמלות.\n*   **פיזור רחב של נכסים:** צוין כי הקרן מחזיקה בכ-1,500 ניירות ערך שונים. היקף כזה מעניק למשקיע חשיפה רחבה מאוד לשוק המניות האמריקאי, מעבר לחברות הענק בלבד.\n*   **מנגנון סינון איכותי (Filters):** בניגוד לקרנות \"שוק כולל\" (Total Market) פשוטות, ה-SPTM מתבססת על מדד ה-S&P 1500. המגיב מציין כי הקרן משתמשת בסט של פילטרים (כגון דרישות רווחיות של S&P), מה שמבטיח שרק חברות שעומדות בקריטריונים מסוימים נכנסות לסל.\n*   **איזון בין כמות לאיכות:** למרות שישנן קרנות עם מספר החזקות גבוה יותר (כמו VTI עם כ-4,000 מניות), הגישה המוצגת כאן מעדיפה \"סט קטן של פילטרים\" על פני הכללה עיוורת של כל חברה בשוק, מתוך הנחה שסינון בסיסי עדיף על חשיפה מלאה לחברות כושלות.\n*   **חשיפה רב-שכבתית (Multi-Cap):** השימוש במדד ה-S&P 1500 משמעותו חשיפה משולבת לשלושה מגזרים: חברות גדולות (S&P 500), חברות בינוניות (Mid-Cap 400) וחברות קטנות (Small-Cap 600), מה שנתפס כפתרון \"הכל באחד\" יעיל.\n*   **יעילות מבנית:** הסנטימנט הכללי מצביע על כך ש-SPTM נתפסת כאופציה \"חכמה\" וזולה למשקיעים פסיביים שרוצים את היציבות של חברות ה-S&P, אך עם נגיעה של חברות קטנות ובינוניות שעברו סינון איכות ראשוני.",
-    "dateString": "2026-05-09",
-    "savedAt": {
-      "_seconds": 1778308160,
-      "_nanoseconds": 645000000
-    }
-  },
-  {
-    "id": "1t7uaok",
-    "title": "5 dollars for singing up with my code once you link a bank via plaid it will give you instant cash back from all previous purchases that qualify",
-    "url": "https://www.reddit.com/r/investing/comments/1t7uaok/5_dollars_for_singing_up_with_my_code_once_you/",
-    "author": "Jaycee__999",
-    "score": 1,
-    "selftext": "I received $32.26 instantly after linking my PayPal\n\nThe app that helps you save time and money across more than 7,500 brands.\n\n👉 Download Joko for free here: https://hellojoko.app.link/tyX38HoTyP\n\nAnd don't forget to enter my code svjiog when you sign up to get a $5 reward 💚",
-    "subreddit": "investing",
-    "created_utc": 1778299783,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "הפוסט מציג את אפליקציית Joko, המציעה החזרי מזומן וחיסכון בלמעלה מ-7,500 מותגים. משתמשים חדשים שיזינו קוד הפניה ויחברו את חשבון הבנק שלהם יקבלו בונוס של 5 דולר ואפשרות לקבל החזר כספי מיידי על רכישות קודמות שביצעו.",
+    "summary_he": "הפוסט בוחן את הקשר בין ניהול של קרנות השקעה פרטיות (Private Equity) לבין הידרדרות בבריאות הפיזית והנפשית של העובדים כתוצאה מלחץ כרוני. הכותב מבקש לדעת אם קיימים נתונים המשווים את מצב הבריאות לפני ואחרי כניסת הבעלות הפרטית, ומשתף בתצפיות מדאיגות על עלייה במקרי תחלואה קשים ותמותה בארגונו תחת סגנון ניהול זה.",
     "category_he": "פיננסים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-05-09",
-    "savedAt": {
-      "_seconds": 1778308167,
-      "_nanoseconds": 361000000
-    }
+    "comments_summary_he": "להלן ניתוח של הדיון והדעות שעלו מהתגובות, מסוכמים לעברית ב-6 נקודות מרכזיות:\n\n*   **ספקנות לגבי קיומם של נתונים רשמיים:** קיימת הערכה בקהילה שקשה למצוא נתונים סטטיסטיים מדויקים או מחקרים שעוקבים באופן ישיר ומסודר אחר הנושא המדובר.\n*   **הקשר הישיר בין לחץ לבריאות:** עולה ההנחה הלוגית שכל סביבה המייצרת לחץ כרוני מוגבר תוביל בהכרח להידרדרות במצב הבריאותי של הנמצאים בה, גם ללא הוכחה אמפירית חותכת.\n*   **השפעת קרנות הון פרטיות (Private Equity):** הדיון מפנה אצבע מאשימה כלפי מודל הבעלות של קרנות פרטיות כגורם פוטנציאלי ליצירת סביבות עבודה בעייתיות.\n*   **הסתמכות על עדויות וסיפורים אישיים:** בהיעדר נתונים כמותיים, הקהילה פונה לסיפורים פרטניים ועדויות אישיות (כפי שמופיעים בספרים) כדי להבין את עומק התופעה.\n*   **המלצה על מקורות מידע חיצוניים:** המשתמשים משתפים משאבים כגון הספר \"Bad Company\" כדי לספק הקשר ודוגמאות למקרים שבהם בעלות תאגידית השפיעה לרעה על חברות.\n*   **נכונות להעמקה ולמידה:** ניכרת סקרנות ופתיחות מצד חברי הקהילה לבדוק מקורות חדשים ולהעמיק בנושא, למרות המחסור בנתונים יבשים."
   },
   {
-    "id": "1t7u534",
-    "title": "Profit edge I found: Polymarket pricing lags behind traditional markets",
-    "url": "https://www.reddit.com/r/investing/comments/1t7u534/profit_edge_i_found_polymarket_pricing_lags/",
-    "author": "bjxxjj",
-    "score": 1,
-    "selftext": "Over the last 2 months I’ve started noticing how often Polymarket pricing reacts slower than the broader market during macro events.\n\nI tracked at least 30 situations recently where the news flow and traditional markets repriced faster than the prediction markets did. Here's 2 examples:\n\n* Early April after inflation and Middle East headlines pushed oil and Treasury yields sharply higher. Fed futures started moving almost immediately, but one of the 2026 rate-cut related contracts on Polymarket was still sitting around 63% for nearly half an hour before falling into the low 50s later that day.\n* During the Iran and Hormuz escalation headlines. Energy markets reacted fast and the dollar strengthened quickly, but a recession-related Polymarket contract barely moved at first. There was the chance to enter around 38% and exit near 49% once broader macro sentiment finally started showing up in the pricing.\n\nAfter analyzing these events, I realized the edge was catching opportunities where traditional markets had repriced but Polymarket hadn’t yet moved.\n\nI built a trading agent that tracks all real-time news via the TradingNews API, connects it to stock market prices and Polymarket contracts. When a major news event hits, the agent first checks related stock movements for volatility and direction. Once a clear move is detected, it finds related Polymarket markets and buys before the prediction market fully adjusts. Using this method, the win rate is close to 90%.\n\nFor example, on April 29, TradingNews pushed an update of the Fed held rates, then treasury yields, the dollar, and Fed futures, and all of them were already starting to reprice higher. However, the contract on Polymarket I was watching barely reacted and stayed around 41%! It was lagging behind!\n\nThat disconnect was the trade.\n\nI started scaling in around 41-43% while the broader market kept repricing through the afternoon. After Powell’s comments and the continued move in yields, the contract finally caught up later in the evening and moved into the high 50s. I exited most of the position around 57%.\n\nThe edge was recognizing that the market had already started repricing the future rate path before the prediction market fully adjusted.\n\nSince then I’ve been relying way more on real-time news flow and cross-market reactions instead of just watching Polymarket odds by themselves.\n\nCurious if anyone else here trades prediction markets more off macro reactions than pure probabilities.",
-    "subreddit": "investing",
-    "created_utc": 1778299323,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "כותב הפוסט מציג אסטרטגיית מסחר המבוססת על העיכוב בתגובת המחירים ב-Polymarket לאירועי מאקרו וחדשות בהשוואה לשווקים הפיננסיים המסורתיים. באמצעות סוכן מסחר אוטומטי המנטר חדשות ומדדים בזמן אמת, הוא מנצל את פערי הזמנים הללו כדי להיכנס לפוזיציות רווחיות לפני ששוק הניבוי מספיק להתעדכן.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-05-09",
-    "savedAt": {
-      "_seconds": 1778308175,
-      "_nanoseconds": 254000000
-    }
-  },
-  {
-    "id": "1t7tkzu",
-    "title": "HSA account reached to $100k today",
-    "url": "https://www.reddit.com/r/investing/comments/1t7tkzu/hsa_account_reached_to_100k_today/",
-    "author": "MoistImprovement6768",
-    "score": 1,
-    "selftext": "My previous companies were having HSA option and I contributed max and kept investing. Now it has grown to $100K.\n\nMy current company don't have option for HSA which I felt it is bad initially but since the market going higher and so is my HSA account, I feel it is over allocated now. \n\nMy question is, in the future, can we pay health insurance premium through HSA ? I am trying to find way how can I use it before 65\n\n",
-    "subreddit": "investing",
-    "created_utc": 1778297704,
+    "id": "1t771av",
+    "title": "How do you stop being the 'bottleneck' in your own company?",
+    "url": "https://www.reddit.com/r/business/comments/1t771av/how_do_you_stop_being_the_bottleneck_in_your_own/",
+    "author": "Ok_Reaction_9854",
+    "score": 7,
+    "selftext": "I’m starting to think the entrepreneurial dream is a lie.  \nA close friend finally started his business, but now he’s a ghost. We finally grabbed coffee, and he couldn’t put his phone down for five minutes. He’s constantly \"updating the backend,\" \"chasing leads,\" or \"handling tech setups\" manually.  \nHe’s so buried in the repetitive day-to-day noise that he has zero life left. It feels like he didn’t gain freedom; he just became a 24/7 administrator for his own company.  \nFor those who actually scaled: How do you stop doing the \"manual heavy lifting\" so you can be human again? Is it even possible to grow without doing every single boring task yourself?",
+    "subreddit": "business",
+    "created_utc": 1778244717,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Roll it over to Fidelity or Lively once a year?",
-        "score": 1,
-        "author": "smookydabear"
+        "body": "You make enough money to hire someone else to do it. \n\nLike most things in business money solves it. ",
+        "score": 23,
+        "author": "Corben11"
       },
       {
-        "body": "I think you and I have very different ideas of what constitutes healthcare. I won't get into it on an investment forum, but you would likely consider me overdue and I would likely consider you to be wasting money. Just different backgrounds likely. ",
-        "score": 1,
-        "author": "iloveu3thousand"
+        "body": "This is a micromanager’s response. You learn how to delegate. It is a skill. ",
+        "score": 12,
+        "author": "j____b____"
       },
       {
-        "body": "Ouch you don't have flexibility to invest in whatever you want in your HSA?",
-        "score": 1,
-        "author": "imadogg"
+        "body": "Exactly. My first manager at a start up sent me this classic article “give away your Legos”\n\nhttps://review.firstround.com/give-away-your-legos-and-other-commandments-for-scaling-startups/",
+        "score": 3,
+        "author": "WeeBabySeamus"
       }
     ],
-    "summary_he": "הכותב שיתף כי הצליח לצבור 100,000 דולר בחשבון ה-HSA שלו הודות להפקדות מקסימליות והשקעה נבונה של הכספים לאורך השנים. כעת, כשהמעסיק הנוכחי שלו אינו מציע תוכנית כזו, הוא חושש מהקצאת יתר ושואל האם ניתן להשתמש בכספים לתשלום פרמיות של ביטוח בריאות עוד לפני גיל 65.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות בשרשור:\n\n*   **אסטרטגיית ניוד כספים (Rollover):** קיימת המלצה פרקטית להעביר את כספי ה-HSA (חשבון חיסכון לבריאות) פעם בשנה לגופים פיננסיים חיצוניים כמו Fidelity או Lively, ככל הנראה כדי ליהנות מתנאים טובים יותר או אפשרויות השקעה רחבות יותר.\n*   **חשיבות התדירות:** המגיבים מציינים כי את פעולת הניוד כדאי לבצע באופן עקבי וקבוע, בלוח זמנים של פעם בשנה.\n*   **הגדרות שונות למושג \"בריאות\":** עולה נקודה פילוסופית לפיה לאנשים שונים יש תפיסות עולם מנוגדות לחלוטין לגבי מה נחשב לטיפול רפואי הכרחי ומהו \"שירותי בריאות\".\n*   **מחלוקת על יעילות כלכלית בבריאות:** ישנו פער בין אלו שרואים בהוצאות רפואיות מסוימות כהכרחיות (ואף מעכבות), לבין אלו שרואים בהן בזבוז כסף ופגיעה בפוטנציאל ההשקעה.\n*   **הגבלות על חופש ההשקעה:** מובעת פליאה ואכזבה מכך שחלק מחשבונות ה-HSA כובלים את המשתמשים ואינם מאפשרים להם להשקיע את הכספים בכל אפיק שבו הם חפצים.\n*   **השפעת הרקע האישי:** הדיון מדגיש כי ההחלטות הפיננסיות והרפואיות של המשתמשים מושפעות מאוד מהרקע האישי ומהחוויות הקודמות שלהם, מה שיוצר סדרי עדיפויות שונים בניהול החשבון.",
-    "dateString": "2026-05-09",
-    "savedAt": {
-      "_seconds": 1778308189,
-      "_nanoseconds": 271000000
-    }
+    "summary_he": "הפוסט מתאר את התסכול של יזמים שהופכים ל\"צוואר בקבוק\" בעסק שלהם כשהם שוקעים במשימות תפעוליות וטכניות שגוזלות את כל זמנם הפנוי. הכותב שואל כיצד ניתן להשתחרר מהעבודה השחורה והיומיומית כדי לאפשר לעסק לצמוח ולחזור לחיות חיים מאוזנים וחופשיים.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **כסף כפתרון לבעיות תפעוליות:** אחת הגישות המרכזיות היא שבשלב מסוים בעסק, כסף הוא הכלי היעיל ביותר לפתרון בעיות. אם יש מספיק רווחים, הפתרון הנכון הוא פשוט לשכור מישהו אחר שיבצע את המשימה.\n*   **האצלת סמכויות כמיומנות נרכשת:** הדיון מדגיש שהיכולת להעביר משימות לאחרים (Delegation) אינה פעולה טכנית בלבד, אלא מיומנות ניהולית קריטית שצריך ללמוד ולפתח באופן אקטיבי.\n*   **ביקורת על מיקרו-ניהול:** הקהילה מזהה את הקושי לשחרר משימות כסימפטום של \"מיקרו-ניהול\". נטען כי מנהל שאינו יודע להאציל סמכויות פוגע ביכולת של העסק לצמוח ומתמקד בפרטים הקטנים במקום בתמונה הגדולה.\n*   **מטאפורת ה\"לגו\" (Give away your Legos):** עולה נקודה מעניינת לגבי הצורך \"לוותר על חלקי הלגו שלך\". הכוונה היא לשחרור משימות או פרויקטים שבנית בעצמך ואולי אף נהנית מהם, כדי לאפשר לארגון להתרחב.\n*   **אתגר הצמיחה בסטארט-אפים:** הדיון מדגיש כי האתגר של שחרור שליטה רלוונטי במיוחד בסביבת סטארט-אפ, שבה המייסדים או המנהלים הראשונים רגילים לעשות הכל בעצמם ומתקשים לשנות גישה בזמן הגדילה (Scaling).\n*   **שינוי תודעתי הנדרש מהמנהל:** מעבר לפתרון הכספי, מודגש כי נדרש שינוי פנימי אצל המנהל – להבין שצמיחה אינה תלויה בעבודה קשה יותר של היחיד, אלא בבניית מערכת שבה אחרים לוקחים אחריות."
+  },
+  {
+    "id": "1t8xf4u",
+    "title": "We're several months into the Iran war - why aren't we seeing very dramatic economic impact?",
+    "url": "https://www.reddit.com/r/investing/comments/1t8xf4u/were_several_months_into_the_iran_war_why_arent/",
+    "author": "Emberkahn",
+    "score": 3,
+    "selftext": "Obviously there has been a disruption - fuel prices have increased fairly significantly, and major secondary products (like Urea for fertiliser) have also risen significantly.\n\nBut we aren't really seeing actual shortages. Things like aviation fuel, which were posited to be something that we would quickly burn through excess capacity of, remain widely available. \n\nFinancial markets also seem relatively unaffected - obviously there is a lot of noise there (earnings and the fact that a lot of large companies don't have as much direct exposure to oil as they once did) - which seems surprising.\n\nWhat gives? Is there just a lot of excess capacity in the system and the media is overhauling the impact? Does fuel just represent quite a small proportion of operating expenses for most companies so it's only really manifested as a small profit decrease?",
+    "subreddit": "investing",
+    "created_utc": 1778389272,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Spirit was bankrupt before the war. The fuel prices just brought its closer up by a few months. ",
+        "score": 1,
+        "author": "Either_Leg_1786"
+      },
+      {
+        "body": "The statement I was targeting is “Inflation is up to due to oil prices…” No. \n\nInflation is a monetary concern. Inflation only comes from meddling with the money. Prices can go up with or without inflation. \n\nA problem I am attempting to address is precision of thought and speech so that my fellow citizens may call for higher standards from our elected officials and the various people pulling their strings. \n\nThe governing do not want to be challenged by the governed, so they are disinclined to be transparent. The media want your attention so they can sell ads, so they won’t bore you with the details. And our educational institutions are the weakest and least discerning they’ve ever been, which is reflected in statements such as “Inflation is up due to rising oil prices…”",
+        "score": 1,
+        "author": "BeardedZorro"
+      },
+      {
+        "body": "There is impact in inflation.\nBut it's not uncontrolled hyperinflation so it actually is boosting markets people are getting poorer though.\n",
+        "score": 1,
+        "author": "pigsterben"
+      }
+    ],
+    "summary_he": "הפוסט תוהה מדוע למלחמה עם איראן אין השפעה כלכלית דרמטית יותר, למרות עלייה מסוימת במחירי הדלק והדשנים. הכותב מציין כי לא נרשמו מחסורים משמעותיים והשווקים נותרו יציבים, ושואל האם הדבר נובע מעודפי ייצור במערכת או מכך שעלויות הדלק מהוות נתח קטן יחסית מהוצאות התפעול של חברות.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שנכתבו, המציג 6 נקודות מבט ודעות שונות שעלו בשרשור:\n\n* **קריסת חברת ספיריט (Spirit) הייתה ידועה מראש:** נטען כי החברה הייתה במצב של פשיטת רגל עוד לפני פרוץ המלחמה, ולכן הבעיות הכלכליות שלה הן שורשיות ולאו דווקא תוצאה ישירה של המצב הביטחוני.\n* **מחירי הדלק כזרז ולא כגורם:** עליית מחירי הדלק לא נתפסת כסיבה לקריסה הכלכלית של חברות, אלא רק כגורם שהאיץ את הקץ בכמה חודשים עבור חברות שהיו כבר בקשיים.\n* **הפרדה בין אינפלציה לעליית מחירים:** מוצגת הגישה לפיה אינפלציה היא תופעה מוניטרית בלבד הנובעת מ\"התעסקות\" בכסף (הדפסת כסף או מדיניות מוניטרית), וכי מחירים יכולים לעלות גם ללא קשר לאינפלציה.\n* **ביקורת על חוסר דיוק בשיח הציבורי:** קיימת קריאה לדיוק מחשבתי ומילולי במונחים כלכליים. נטען כי הציבור, התקשורת והפוליטיקאים משתמשים במונח \"אינפלציה\" באופן שגוי כדי להסביר את עליית מחירי הנפט, ובכך מטעים את האזרחים.\n* **אחריות המוסדות לבורות כלכלית:** הדוברים מבטאים סנטימנט של חוסר אמון בממשלה (שמעדיפה חוסר שקיפות), בתקשורת (שמחפשת רייטינג על פני פרטים) ובמוסדות החינוך (שנחלשו ברמתם), מה שמוביל לכך שהאזרחים אינם דורשים סטנדרטים גבוהים מנבחרי הציבור.\n* **ההשפעה הדואלית של האינפלציה הנוכחית:** נטען כי כל עוד האינפלציה אינה הופכת להיפר-אינפלציה חסרת שליטה, היא עשויה דווקא לתמרץ את השווקים ולגרום לעלייתם, אך בו בזמן היא פוגעת בכוח הקנייה של האדם הפשוט והופכת את הציבור לעני יותר."
+  },
+  {
+    "id": "1t7bfp2",
+    "title": "whoever is struggling with growing their business, i hope my story can motivate you.",
+    "url": "https://www.reddit.com/r/business/comments/1t7bfp2/whoever_is_struggling_with_growing_their_business/",
+    "author": "Any_Table3459",
+    "score": 2,
+    "selftext": "My family owns a bar + diner mix thingy in kansas city. We haven't been able to get good amount of customers since lockdown.\n\nOur business was about to shut down and i was so desperate to help everyone. What i realised was meta marketing was complicated for all restaurant owners.\n\nI simply coded a simple thing, helped my dad do marketing and we got 112 customers in a day.\n\nPLEASE NEVER EVER QUIT, KEEP GOING. I thought it was over for my and my family, but you WILL ALWAYS FIND A WAY",
+    "subreddit": "business",
+    "created_utc": 1778254451,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "הכותב משתף כיצד העסק המשפחתי שלו (בר ומסעדה) עמד בפני סגירה עקב מחסור בלקוחות מאז תקופת הקורונה. בזכות כלי תכנותי פשוט שפיתח כדי לייעל את השיווק במערכות מטא, העסק הצליח לגייס 112 לקוחות ביום אחד ולהשתקם. הסיפור נועד לעורר השראה בקרב בעלי עסקים אחרים ולהדגיש את החשיבות של התמדה ומציאת פתרונות יצירתיים גם ברגעי משבר.",
+    "category_he": "עסקים",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1t90ouj",
+    "title": "Bitcoin Investing: A Financial Harakiri Without Precedent",
+    "url": "https://www.reddit.com/r/investing/comments/1t90ouj/bitcoin_investing_a_financial_harakiri_without/",
+    "author": "BinaryLyric",
+    "score": 1,
+    "selftext": "When Bitcoin was introduced as a method for storing data in a decentralized way that prevents tampering or loss, it was claimed that the data it stored was financial in nature. Terms such as \"electronic money\" were used, and references were made to financial institutions. It was even claimed that Bitcoin solved the problem of trust that causes crises in financial institutions.\n\nYet financial data is fundamentally about obligations and corresponding claims, which do not exist in Bitcoin. Although some decentralized systems that emerged after Bitcoin, such as Tether or PayPalUSD, do contain financial data because they represent claims on issuers who must redeem them for bank or PayPal balances, this still does not solve the problem of trust. Users must still trust that the issuers will be capable of honoring those claims. Financial crises arise precisely because claims are not honored due to defaults on obligations, issuer insolvency, and similar failures.\n\nNo financial crisis has occurred because central securities depositories, banks, or electronic money issuers tampered with client data. Crises occurred because companies issuing stocks went bankrupt, banks issued too many bad loans, or e-money issuers became insolvent. Centralized data storage or bad recordkeeping was never the problem.\n\nSo even if Bitcoin stored financial data, it still could not solve anything related to financial crises. In reality, Bitcoin stores computational performance data. Computers operated by so-called Bitcoin miners solve cryptographic puzzles, and the more puzzles they solve, the larger their score becomes. It is that score that the Bitcoin system stores and transfers. When you pay to have 1 BTC transferred to your address, you are effectively buying proof that some computer in the past expended energy and solved a puzzle. This obviously has nothing to do with finance.\n\nYet, a global audience accepted the financial narrative surrounding Bitcoin. Driven by the false belief that decentralization is a revolutionary solution to financial problems, investors began pouring capital into the network, unwittingly committing a form of financial harakiri. They are trading away claims and goods that provide future utility for a mere receipt of past computational performance.\n\nThis self-destruction is most evident when we examine the logic of scaling. If a person buys 1 BTC, they pay, say, $100,000. If another person buys 10 BTC, they pay ten times more, or one million dollars. Generally, we pay ten times more for an asset because we expect ten times more future utility. Consider a few examples.\n\nStock shares represent a claim on future cash flows. When you pay ten times more to acquire 10 shares instead of 1, you gain the ability to receive ten times larger dividends or liquidation proceeds.\n\nFiat currency represents a claim on bank borrowers. When, for instance, you work ten times longer to obtain ten times more currency units, you gain a tenfold larger claim. Because currency units are issued through loans and tied to borrowers’ collateral, borrowers must work more for you, or provide more products and services, if you hold more of those units. If they default, banks themselves must honor the claim, and the more units you hold, the more seized collateral you can receive through bank auctions.\n\nOutside the financial world, the same logic applies. If you pay ten times more to obtain ten times more wheat, gold, or audio files, you receive ten times more future utility in the form of nutrition, rust-free material, or entertainment.\n\nBitcoin reverses this logic. People pay ten times more not for ten times the future utility, but for a record that computers in the past solved ten times more puzzles. People are massively throwing away future utility for a record of past work. This is not merely a tragedy of logic; it is a mathematical countdown to an inevitable systemic failure.\n\nBitcoin operates as a pure negative-sum game. Every \"profit\" realized by an early adopter is a direct loss for a later participant, compounded by the constant drainage of real-world wealth required to pay the network’s astronomical electricity bills.\n\nThe system acts as a capital \"sink,\" where money is permanently destroyed to maintain a ledger of historical puzzles. This reality is masked only by the constant influx of new participants sacrificing their claims on the real economy to feed the network's energy hunger. The moment this flow slows, whether due to regulation, energy costs, or the simple realization that a receipt for past work is not a store of future value, the structure will face a terminal liquidity crisis.\n\nIn the end, holders will be left with nothing but a perfect, decentralized record of the wealth they set on fire.\n\n",
+    "subreddit": "investing",
+    "created_utc": 1778399937,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Go to bed grandma, you skipped your meds",
+        "score": 1,
+        "author": "Exclave4Ever"
+      },
+      {
+        "body": "TL DR another r/investing post that’s anti Bitcoin and uses lots of buzzwords",
+        "score": 1,
+        "author": "HipOut"
+      }
+    ],
+    "summary_he": "הפוסט טוען כי השקעה בביטקוין היא \"חראקירי פיננסי\", שכן המטבע אינו מייצג נכס עם תועלת עתידית (כמו מניות או מטבעות פיאט) אלא רק תיעוד של עבודה חישובית וצריכת אנרגיה שבוצעו בעבר. לטענת הכותב, מדובר במערכת של \"סכום שלילי\" שבה משקיעים מוותרים על הון ריאלי לטובת רישום חסר ערך, דבר שיוביל בהכרח לקריסה מערכתית ולאובדן מוחלט של העושר שהושקע.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות, המציג 6 נקודות וסנטימנטים שונים שעלו בקהילה:\n\n*   **זלזול בכותב על בסיס גיל ורלוונטיות:** אחת התגובות משתמשת בכינוי \"סבתא\" כדי להציג את כותב הפוסט המקורי כאדם מיושן שדעותיו אינן רלוונטיות לעולם המודרני או לדיון הטכנולוגי הנוכחי.\n*   **הטלת ספק בצלילות ובמודעות:** הרמיזה על כך שהכותב \"שכח לקחת תרופות\" מבטאת סנטימנט קהילתי חריף שלפיו הטיעונים שהוצגו בפוסט הם כה מנותקים מהמציאות שהם נתפסים כחוסר צלילות.\n*   **תחושת מיאוס מחזרתיות (נרטיב צפוי):** המגיבים מביעים עייפות מכך שהפוסט נתפס כ\"עוד מאותו הדבר\". השימוש במונח \"TL;DR\" (ארוך מדי; לא קראתי) מעיד על כך שהקהילה מזהה את התבנית של הפוסט עוד לפני הקריאה לעומק.\n*   **זיהוי הטיה מובנית נגד קריפטו:** קיימת הבנה בקרב המגיבים שפורומים מסוימים (כמו r/investing) מתאפיינים בעמדה עקבית ושלילית כלפי ביטקוין, והם רואים בפוסט ביטוי נוסף לאותה הטיה שמרנית.\n*   **ביקורת על שפה \"מפוצצת\" אך ריקה מתוכן:** המגיבים מבקרים את השימוש ב-\"Buzzwords\" (מילות באז/מושגים אופנתיים), ורומזים שהכותב מנסה להישמע מקצועי או אינטלקטואלי באמצעות מילים גבוהות כדי להסתיר טיעונים חלשים.\n*   **דחיית הניסיון לדיון רציני:** התגובות הקצרות והתוקפניות מדגימות סנטימנט של חוסר רצון להתעמת עם הטיעונים לגופם; הקהילה מעדיפה לבטל את הפוסט בביטול (Dismissiveness) מאשר לנהל דיון ענייני בנקודות שהועלו בו."
   }
 ];
