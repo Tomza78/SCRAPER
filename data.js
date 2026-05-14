@@ -1,400 +1,379 @@
 window.dailyTrends = [
   {
-    "id": "1ta85i6",
-    "title": "The bubble will last much longer than the Dot.com Internet bubble did",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1ta85i6/the_bubble_will_last_much_longer_than_the_dotcom/",
-    "author": "MBlaizze",
-    "score": 469,
-    "selftext": "I started trading in early 2000 and lost $10k in my 20's, which really sucked, but it gave me some insight into what bubbles look like, and how the populace acts during one. First of all, back then, the internet was seen as dorky and only for losers by a huge number of people. Yes, the potential factor was there, but there were a ton of people that would rather be caught dead than be seen using the internet. This is what the nerds in their bubbles didn't see. I straddled the nerd world and the cool world in those days. One time in 2000 my friend got made fun of by the group because he said he found the bar that he chose in Manhattan \"oN tHe iNtErNeT\" and everyone laughed. Now with AI, everyone's mind is blown. It's like magic. And with robots coming out, the average Dick and Jane's are seeing it, and this is the next leg of the investors. There were late-bloomers to the [dot.com](http://dot.com) bubble, but this one has a much, much longer tail. It's inescapable you see AI everywhere now. The robots will be the next big leg of this super bubble. Everyone has been shocked by ai and current robot tech, unlike the heralding of the internet, where it was like \"eye-roll\" by a huge portion of the population that the nerds and Silicon Valley elites never saw. And the source is the chips. I think chips go hard from here, even though they are up. This pisses on the internet bubble. ",
+    "id": "1tb9l51",
+    "title": "Hit $100K… But It Came With More Risk Than I’d Recommend",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1tb9l51/hit_100k_but_it_came_with_more_risk_than_id/",
+    "author": "mahend72",
+    "score": 4,
+    "selftext": "Just crossed the $100,000 mark in my account today.\n\nA big part of the gains came from taking aggressive positions in quantum-related stocks. It worked out well, but honestly, the volatility and emotional swings were much bigger than I expected.\n\nOne thing this journey taught me:    \nhigh growth feels exciting on green days, but concentration risk becomes very real when the market turns.\n\nI am grateful the trades worked, but going forward I will probably shift part of the portfolio into something more stable like VOO instead of keeping everything tied to high-beta momentum names.\n\nThe goal now feels less about chasing huge moves… and more about protecting what took years to build.\n\nI am looking how others handle this phase:    \nAfter a big portfolio run-up, do you keep pushing aggressively or slowly rotate into safer investments?",
     "subreddit": "StockMarket",
-    "created_utc": 1778516381,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Yep, SPECULATION. ding ding ding",
-        "score": 1,
-        "author": "AsparagusDirect9"
-      },
-      {
-        "body": "Meh not worried of a crash. This “AI bubble” is backed by hyperscalers and so much more.",
-        "score": 1,
-        "author": "Sad_Estimate_6342"
-      },
-      {
-        "body": "ahh yes a man who can predict the future",
-        "score": 1,
-        "author": "mallibu"
-      }
-    ],
-    "summary_he": "כותב הפוסט טוען כי בועת ה-AI הנוכחית תאריך ימים יותר מבועת הדוט-קום, כיוון שבניגוד לאינטרנט שבתחילת דרכו נתפס כדבר \"חנוני\" על ידי הציבור, הבינה המלאכותית והרובוטיקה נתפסות כיום כמעשי קסם המרשימים את כולם. לדעתו, הפופולריות הנרחבת של הטכנולוגיה והביקוש הגובר לשבבים ימשיכו להניע את הבועה הזו למרחקים ארוכים הרבה יותר מבעבר.",
+    "created_utc": 1778609136,
+    "thumbnail": "https://preview.redd.it/dqp6oug4yq0h1.jpeg?width=140&height=65&auto=webp&s=db7f7ca2d3af4f7e312a7ca147556dd63a6b9ce0",
+    "top_comments": [],
+    "summary_he": "הכותב משתף שהגיע ליעד של 100 אלף דולר בתיק ההשקעות בזכות פוזיציות אגרסיביות ומסוכנות, אך מזהיר מפני התנודתיות והלחץ הנפשי שנלוו לכך. בעקבות הניסיון, הוא מתכנן להעביר חלק מהתיק למדדים יציבים יותר (כמו VOO) כדי להגן על הרווחים שצבר במקום להמשיך לרדוף אחרי תשואות גבוהות. כעת הוא מתייעץ עם הקהילה האם נכון להמשיך בקו אגרסיבי או לעבור לאסטרטגיה סולידית יותר לאחר השגת רווח משמעותי.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על תגובות הגולשים, המציג 6 נקודות מבט וסנטימנטים שונים שעלו:\n\n*   **דגש על ספקולציות:** חלק מהגולשים סבורים כי המצב הנוכחי בשוק אינו מבוסס על נתונים פונדמנטליים מוצקים, אלא על ספקולציות והשערות בלבד (Speculation).\n*   **היעדר חשש מקריסה:** קיימת עמדה הגורסת כי אין סיבה אמיתית לדאגה מפני קריסת שוק קרובה, וכי הנבואות על \"פיצוץ הבועה\" הן מוגזמות.\n*   **ביטחון בגיבוי של חברות הענק:** הדיון מעלה את הטענה ש\"בועת ה-AI\" שונה מבועות עבר מכיוון שהיא נתמכת על ידי \"Hyperscalers\" (חברות ענק כמו מיקרוסופט, גוגל ואמזון) ועל ידי תשתיות טכנולוגיות ממשיות.\n*   **ספקנות כלפי \"נביאי זעם\":** הגולשים מביעים זלזול וציניות כלפי אנשים המתיימרים לחזות את העתיד הכלכלי בוודאות, תוך רמיזה שאיש אינו באמת יודע לאן השוק הולך.\n*   **הבחנה בין ערך לבין הייפ:** מהתגובות עולה כי הקהילה מנסה להבחין בין התלהבות יתרה (Bubble) לבין צמיחה המגובה בהשקעות עתק ובערך עסקי ארוך טווח.\n*   **סנטימנט של \"שמענו את זה כבר\":** ניכרת נימה של אדישות מסוימת כלפי כותרות דרמטיות, מתוך הבנה שהשוק תמיד מלווה ברעשי רקע של ספקולציות מול ביטחון של משקיעים גדולים."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1tafcrx",
-    "title": "The S&P 500 closed above 7,400.",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1tafcrx/the_sp_500_closed_above_7400/",
-    "author": "vjectsport",
-    "score": 105,
-    "selftext": "Trump rejected Iran's peace proposal, but S&P 500 and Nasdaq still closed at record highs. The stock market seems to be looking past Iran issue for today. Many banks have target prices between 7,300 and 7,400. Jerome Powell's term will end on May 15. Could this have a negative impact on the markets?",
+    "id": "1tb32py",
+    "title": "Galaxy Digital $GLXY Helios AI Infrastructure DD",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1tb32py/galaxy_digital_glxy_helios_ai_infrastructure_dd/",
+    "author": "j1022",
+    "score": 3,
+    "selftext": "Galaxy Digital (GLXY) is still primarily valued by the market as a financial services company, with earnings tied to trading activity, Bitcoin cycles, and broader digital asset volatility. That framework is increasingly outdated because it does not reflect the scale or structure of the AI infrastructure business being built through Helios, a hyperscale data center campus in West Texas designed for large scale artificial intelligence compute workloads.\n\nHelios is positioned around one of the most constrained inputs in the AI economy, which is power availability at industrial scale. The campus is being developed in phases and is designed to scale into the multi-gigawatt range over time, supported by secured grid capacity in ERCOT. This is not a traditional data center buildout aimed at speculative colocation demand. It is purpose-built infrastructure aligned with long-duration AI compute requirements where power, land, and speed-to-deployment are the bottlenecks.\n\nA major catalyst that materially de-risks the early phases of this buildout is the structured agreement with CoreWeave, an AI cloud infrastructure provider scaling aggressively alongside demand for GPU compute. CoreWeave As part of this partnership, CoreWeave has committed approximately $1.4 billion in project financing tied directly to the Helios buildout, helping fund infrastructure expansion while also anchoring long-term compute demand. This structure is important because it effectively aligns capital deployment with contracted usage rather than speculative capacity expansion.\n\nBased on disclosed expectations around this agreement, Helios is projected to generate roughly $1 billion in annual revenue for Galaxy once the relevant phases are fully operational and utilization ramps. This figure reflects infrastructure-level economics rather than pure operating profit, meaning it is tied to capacity deployment, power usage, and long-term contracted compute demand rather than volatile trading activity. In practical terms, this shifts a meaningful portion of Galaxy’s future earnings base into recurring, infrastructure linked cash flow rather than market sensitive revenue streams.\n\nThe importance of this structure is that Helios transitions from being a development stage asset into a partially de-risked, contract backed AI infrastructure platform. Instead of building capacity first and searching for demand later, Galaxy is scaling infrastructure alongside anchored demand and financing support. The $1.4 billion in project financing from CoreWeave functions not only as capital support but also as a signal of committed utilization for early build phases, reducing uncertainty around ramp timing and adoption.\n\nAs Helios expands beyond initial phases, the revenue profile of Galaxy begins to materially shift. The company moves from being primarily dependent on market conditions toward a hybrid structure where a growing portion of EBITDA is driven by contracted AI infrastructure cash flows. This creates a dual engine model where operations remain cyclical upside exposure, while Helios becomes a more stable, long-duration revenue base tied to physical compute demand.\n\nThe market inefficiency today is that GLXY is still being valued predominantly through a financial services lens rather than an infrastructure or AI compute framework. If Helios executes according to its current buildout plan, and if the projected $1 billion annual revenue contribution materializes at scale, the business profile evolves into something structurally different. At that point, Galaxy is no longer just a native financial company with an AI initiative. It becomes a power-constrained AI infrastructure operator with an embedded financial business layered on top.\n\nIn traditional market re-rating cycles, businesses that transition from volatile financial earnings models into contracted infrastructure cash flow models typically see valuation frameworks expand significantly due to improved visibility, duration, and scarcity of underlying assets. Helios represents that type of transition mechanism within Galaxy, with CoreWeave acting as the anchor tenant and financing partner that helps initiate the shift from speculative development to contracted AI infrastructure scale.\n\nMy position is 1154 shares at 31.88.\n\nThis is not financial advice.\n\nEdit: \n\nTLDR: Galaxy Digital is still being valued like a financial company, but Helios is shifting it into an AI infrastructure business. The CoreWeave deal includes about $1.4B in project financing and anchors early demand, with expectations of around $1B in annual revenue once buildout phases are online. This turns Helios into a contracted AI compute campus rather than a speculative data center, meaning a large portion of GLXY’s future earnings could come from stable infrastructure cash flows, which is why the market may eventually re-rate the stock significantly if execution continues.",
     "subreddit": "StockMarket",
-    "created_utc": 1778531145,
-    "thumbnail": "https://preview.redd.it/y8zu6mt7ik0h1.jpeg?width=140&height=108&auto=webp&s=0d653dc17edff24b5348898c51782d5b31090d2f",
+    "created_utc": 1778595616,
+    "thumbnail": "https://preview.redd.it/kgsyh9bxtp0h1.jpeg?width=140&height=58&auto=webp&s=e152dff6947506dcc36dffc8ae97a793f09089c5",
     "top_comments": [
       {
-        "body": "The market now disregards the Iran war as a factor because the rhetoric reverses basically every single day.",
-        "score": 10,
-        "author": "Bruh_Yo_Dude"
-      },
-      {
-        "body": "One day gravity pull us into the sky instead of toward the earth. You can't count as inevitable, something that has never happened. Especially just based on intuition. You can pretty much guarantee that it will go up and down, sometimes with bigger swings, but there's no guarantee that it will eventually crumble.",
-        "score": 8,
-        "author": "archimedesrex"
-      },
-      {
-        "body": "You can’t lose over the past 100 years… one day the S&P will take a rashy shit. We just haven’t seen it yet.",
-        "score": 8,
-        "author": "A_Novelty-Account"
-      }
-    ],
-    "summary_he": "מדדי ה-S&P 500 והנאסד\"ק רשמו שיאים חדשים, כאשר ה-S&P 500 חצה את רף ה-7,400 למרות המתיחות מול איראן. השוק נראה כמתעלם מהאירועים הגיאופוליטיים כרגע, אך עולה שאלה לגבי השפעת סיום כהונתו של ג'רום פאואל במאי על יציבות המדדים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, הכולל 6 נקודות מבט ותובנות מרכזיות העולות מן התגובות:\n\n*   **חסינות השוק לאיומים גיאופוליטיים:** קיים סנטימנט שהשוק הפסיק להתרגש מהאיום למלחמה עם איראן. המשקיעים מתעלמים מהרטוריקה המלחמתית כיוון שהיא משתנה באופן קיצוני מדי יום, מה שיוצר סוג של \"אדישות\" לחדשות הללו.\n*   **הטלת ספק בנבואות זעם:** אחת הדעות המרכזיות היא שאין להתייחס לקריסה מוחלטת של השוק כאל אירוע בלתי נמנע. נטען כי אי אפשר להסתמך על אינטואיציה בלבד כדי לחזות קטסטרופה שמעולם לא קרתה בעבר.\n*   **תנודתיות מול התפרקות:** ישנה הבחנה ברורה בין תנודות חריפות בשוק (עליות וירידות חזקות), שהן דבר מובטח וצפוי, לבין קריסה סופית של המערכת, שאין לה שום ערובה או הוכחה היסטורית.\n*   **ביטחון בנתונים היסטוריים:** קיימת התייחסות לעובדה שבמהלך 100 השנים האחרונות, מדד ה-S&P 500 הוכיח את עצמו כמסלול שבו לא ניתן להפסיד לאורך זמן, מה שמחזק את האמון בחוסן של השוק בטווח הארוך.\n*   **הציפייה ל\"ברבור שחור\":** לצד האופטימיות, עולה החשש (או הציניות) שיום אחד השוק יחווה נפילה אנושה וחסרת תקדים (\"rashy shit\") שטרם נראתה כמותה, למרות ההיסטוריה החיובית שלו.\n*   **ביקורת על הסקת מסקנות אינטואיטיבית:** הקהילה מבטאת סלידה מההנחה שהשוק חייב \"להתפרק\" רק כי הוא עלה יותר מדי; הטענה היא שחוקי הפיזיקה (כמו כוח המשיכה) אינם חלים על הכלכלה באותו אופן פשטני שאנשים נוטים לחשוב.",
-    "dateString": "2026-05-12",
-    "savedAt": {
-      "_seconds": 1778575744,
-      "_nanoseconds": 146000000
-    }
-  },
-  {
-    "id": "1ta10w0",
-    "title": "Does the stock performance of Micron (MU) destroy the efficient market hypnosis?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1ta10w0/does_the_stock_performance_of_micron_mu_destroy/",
-    "author": "ramhusk",
-    "score": 273,
-    "selftext": "With major blue cap stocks like Micron $MU up 840% (so far) from a year ago, do you still believe in the efficient market hypothesis? \n\nAI buzz has been around for years at this point but companies are still popping off to levels that baffle even the bulls. This stock is not unique either. Look at Intel $INTC recently, as well as others in the sector like $AMD or $QCOM.\n\nWith the future success being bought out many years in advance, what situations can you imagine that could complicate the future earnings growth of these companies that would result in collapse of the stock price ?",
-    "subreddit": "StockMarket",
-    "created_utc": 1778500450,
-    "thumbnail": "https://preview.redd.it/wtne7lzxyh0h1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=bc39f5caac97fbee9a096ac3068a0cffc7e7463d",
-    "top_comments": [
-      {
-        "body": "It think that’s what they tell people to discourage them from buying stocks so they stay poor",
+        "body": "Really solid DD. The biggest point here is the market still seems to price GLXY like a crypto trading business, while Helios is starting to look more like scarce AI infrastructure with contracted demand behind it. If they execute, the multiple the market applies to those cash flows could look very different in a few years.",
         "score": 2,
-        "author": "Capable_Wait09"
+        "author": "mahend72"
       },
       {
-        "body": "emh holds if you cannot outperf the market\n\nemh does not hold if you can\n\nemh’s truthiness cannot be established objectively because it depends on the investor in question",
-        "score": 2,
-        "author": "moniker89"
+        "body": "Are they still looking for tenants? Or at capacity? Are they breaking ground on any new DCs do we know at this time?\n\nI’ve made a few plays on Glxy and done ok. I just sat out a while and am interested to see if it’s worth coming back in and seeing any short to mid term catalysts ",
+        "score": 1,
+        "author": "ajwill0"
       },
       {
-        "body": "I wouod generally not advise shorting parabolic moves at all time highs, nonsensical though they may be.",
-        "score": 2,
-        "author": "jcpopm"
+        "body": "The loss was due to crypto markets being down this past quarter. They’re not in too many pots? Lol they had a btc mining facility that they’re converting to a data center with a 15 year lease with coreweave. So id say thats a positive addition to their business. The company is a data center/ai play long term with crypto finance interest as well but still too associated with crypto and not enough as a data center yet but once revenue starts rolling in from that data center then sentiment would change along with repricing. They’re still undervalued at this time with most analyst rating it $38-$60 range. I think they could potentially partner up with other companies once the data center is up and running. Their contract with coreweave does not prevent them from taking on new clients. ",
+        "score": 1,
+        "author": "j1022"
       }
     ],
-    "summary_he": "הפוסט מטיל ספק בתיאוריית השוק היעיל לנוכח הזינוק המטאורי במניית מיקרון (MU) ובמניות שבבים נוספות, שלטענת הכותב חורג מכל תחזית הגיונית למרות שהמידע על תחום ה-AI ידוע כבר זמן רב. הכותב תוהה האם מחירי המניות הנוכחיים מגלמים אופטימיות מוגזמת לגבי רווחי העתיד, ושואל אילו תרחישים או סיכונים עלולים לעצור את הצמיחה ולהוביל לקריסת המחירים.",
+    "summary_he": "חברת Galaxy Digital עוברת מהפך מחברה פיננסית התלויה בתנודתיות שוק הקריפטו לספקית תשתיות בינה מלאכותית (AI) באמצעות פרויקט Helios, שצפוי להניב הכנסות שנתיות של כמיליארד דולר. שיתוף פעולה אסטרטגי עם CoreWeave מבטיח מימון של 1.4 מיליארד דולר וביקוש קשיח, מה שיוצר לחברה בסיס רווחים יציב וארוך טווח. הפוסט טוען כי השוק עדיין מתמחר את החברה בחסר לפי המודל הישן, ומתעלם מהערך המשמעותי של נכסי התשתית והמחשוב שברשותה.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח של התגובות מהדיון ב-Reddit, המסוכמות ל-6 נקודות מבט וסנטימנטים מרכזיים בעברית:\n\n*   **חוסר אמון בממסד ובייעוץ פיננסי קונבנציונלי:** אחד המגיבים מביע גישה צינית וטוען כי עצות השקעה מסוימות (ככל הנראה כאלו המעודדות זהירות או הימנעות ממניות) הן למעשה מניפולציה שנועדה להשאיר את הציבור הרחב עני ולמנוע ממנו לצבור הון.\n*   **היחסיות של \"תיאוריית השוק היעיל\" (EMH):** עולה הטענה שתיאוריית השוק היעיל אינה חוק טבע מוחלט. היא \"נכונה\" רק עבור מי שאין לו את הכישורים להשיג תשואה עודפת על השוק, אך היא מפסיקה להיות רלוונטית עבור משקיעים שמצליחים לנצח את המדדים.\n*   **סובייקטיביות של אמיתות כלכליות:** הדיון מדגיש שהאמת לגבי יעילות השוק אינה ניתנת לקביעה אובייקטיבית. היא תלויה בזהות המשקיע, ביכולותיו ובתוצאותיו בשטח, ולא בנוסחה קבועה מראש.\n*   **אזהרה מפני הימור נגד מגמות חזקות (\"שורט\"):** קיים סנטימנט של זהירות פרקטית המייעץ לא לנסות להמר נגד מניות שנמצאות בשיא כל הזמנים ובמגמת עלייה חדה (עלייה פרבולית), גם אם העלייה נראית לא הגיונית.\n*   **הפרדה בין היגיון להתנהגות השוק:** הקהילה מכירה בכך שהשוק יכול להתנהג בצורה \"חסרת היגיון\" (nonsensical). עם זאת, המסקנה היא שגם כשמשהו נראה לא הגיוני, זה עדיין מסוכן מאוד לנסות להילחם במגמה הזו מבחינה פיננסית.\n*   **פרגמטיזם מול תיאוריה:** ניכר כי בקהילה ישנה העדפה לניסיון מעשי וניהול סיכונים על פני היצמדות נוקשה למודלים אקדמיים. היכולת האישית של המשקיע והמציאות בשטח חשובות יותר מהגדרות תיאורטיות של \"מה אמור לקרות\"."
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע למניית GLXY (Galaxy Digital), המציג 6 נקודות מרכזיות ודעות שונות שעלו מצד הגולשים:\n\n*   **שינוי תדמיתי ותמחור שוק:** השוק עדיין מתמחר את GLXY כחברה העוסקת במסחר בקריפטו בלבד, אך הגולשים מציינים כי מתקן \"הליוס\" הופך לתשתית בינה מלאכותית (AI) קריטית. אם החברה תצליח ליישם את המעבר הזה, המכפיל שהשוק נותן לתזרים המזומנים שלה עשוי לעלות משמעותית בשנים הקרובות.\n*   **הסבת מתקני כרייה למרכזי נתונים:** אחד היתרונות המרכזיים שצוינו הוא הפיכת מתקן לכריית ביטקוין למרכז נתונים המיועד ל-AI. המהלך כולל חוזה חכירה משמעותי ל-15 שנה עם חברת CoreWeave, מה שנתפס כתוספת חיובית ויציבה מאוד לעסק.\n*   **חוסר הלימה בין סנטימנט להכנסות:** קיימת הערכה שהסנטימנט בשוק ישתנה רק ברגע שההכנסות ממרכז הנתונים יתחילו לזרום בפועל. נכון לעכשיו, החברה עדיין מזוהה מדי עם תנודתיות שוק הקריפטו (מה שהוביל להפסדים ברבעון האחרון), ופחות מדי כחברת תשתית AI.\n*   **הערכת שווי ופוטנציאל רווח:** בקרב הקהילה ישנה תחושה שהחברה מוערכת בחסר (Undervalued). צוין כי רוב האנליסטים מעניקים למניה דירוג המציב את מחיר היעד בטווח של 38–60 דולר, מה שמעיד על פוטנציאל עלייה משמעותי.\n*   **חיפוש אחר \"טריגרים\" (Catalysts) לטווח קצר:** חלק מהמשקיעים שיושבים כעת \"על הגדר\" מחפשים סימנים קונקרטיים לחזרה להשקעה, כגון מידע על בניית מרכזי נתונים חדשים או סטטוס התפוסה של המתקנים הקיימים, כדי להבין אם יש פוטנציאל לרווח בטווח הקצר והבינוני.\n*   **גמישות עסקית ושותפויות עתידיות:** הודגש כי החוזה עם CoreWeave אינו בלעדי ואינו מונע מהחברה לקחת לקוחות נוספים. הגולשים מאמינים שברגע שמרכז הנתונים יהיה פעיל במלואו, ייווצרו הזדמנויות לשותפויות עם חברות טכנולוגיה נוספות, מעבר לענף הקריפטו."
   },
   {
-    "id": "1ta5led",
-    "title": "Week Ahead: Markets Brace for CPI, PPI and Retail Sales Reports",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1ta5led/week_ahead_markets_brace_for_cpi_ppi_and_retail/",
-    "author": "LMtrades",
-    "score": 29,
-    "selftext": "Executive Snapshot\n\nThe upcoming week centers on US inflation and consumer demand, with CPI, PPI, and Retail Sales defining the core macro narrative.\n\nMarkets will focus on whether inflation pressures continue stabilizing or begin rebuilding through consumption and pricing activity. The sequence between inflation data and retail demand will shape expectations around rates, USD direction, and commodities pricing.\n\nThe key dynamic remains the transmission from inflation expectations into currencies, real yields, and cross-asset positioning.",
-    "subreddit": "StockMarket",
-    "created_utc": 1778511055,
-    "thumbnail": "https://external-preview.redd.it/z0n12xEf86sfeeGlbeCJjkBonjEUaufQsZbyNFocmNE.jpeg?width=140&height=91&auto=webp&s=206b73bb290c354018b5679b03481516bda039df",
-    "top_comments": [
-      {
-        "body": "That’s a huge serving of word salad to say “markets go up or down idk”  \nWall Street likes to complicate things by making it sound more complex than it really is.",
-        "score": 1,
-        "author": "mwfguxckdyou"
-      },
-      {
-        "body": "Markets can stay momentum-driven longer than many traders expect, especially when liquidity and positioning remain supportive.  \nAt the same time, macro repricing still matters because shifts in yields, inflation expectations and policy outlook eventually feed through the entire system.  \nThat transmission process is usually gradual until volatility suddenly accelerates around a catalyst.",
-        "score": 1,
-        "author": "LMtrades"
-      },
-      {
-        "body": "Bro I have a degree in finance I know ",
-        "score": 1,
-        "author": "alemorg"
-      }
-    ],
-    "summary_he": "השבוע הקרוב בשווקים יתמקד בנתוני האינפלציה והביקוש הצרכני בארה\"ב, בדגש על מדדי המחירים (CPI ו-PPI) ונתוני המכירות הקמעונאיות. דוחות אלו יכריעו אם לחצי האינפלציה מתייצבים ויעצבו את הציפיות בשוק לגבי גובה הריבית, כיוון הדולר ותמחור נכסים וסחורות.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג שש נקודות מבט ורחשי קהילה שונים כפי שעלו מהתגובות:\n\n*   **ביקורת על הז'רגון הפיננסי (\"סלט מילים\"):** קיימת תחושת ציניות כלפי ניתוחים כלכליים מורכבים. אחד המגיבים טוען שמומחים בוול סטריט משתמשים בשפה מסובכת בכוונה כדי להסתיר את העובדה הפשוטה שהם פשוט לא יודעים אם השוק יעלה או ירד.\n*   **כוחו של המומנטום והנזילות:** צוין כי שווקים יכולים להמשיך לנוע בכיוון מסוים מכוח המומנטום הרבה מעבר למה שסוחרים מצפים, במיוחד כאשר ישנה נזילות גבוהה ופוזיציות תומכות בשוק.\n*   **חשיבותם של גורמי המאקרו בטווח הארוך:** למרות המומנטום קצר הטווח, ישנה הסכמה שלנתוני המאקרו (כמו ציפיות לאינפלציה, תשואות אג\"ח ומדיניות מוניטרית) יש השפעה מכרעת שמחלחלת בסופו של דבר לכל המערכת הפיננסית.\n*   **המעבר ההדרגתי לעומת התפרצות התנודתיות:** התהליכים הכלכליים בשוק מתוארים לרוב כאיטיים והדרגתיים, אך הדיון מדגיש שהשקט הזה מטעה – התנודתיות נוטה להתפרץ בחדות ובפתאומיות ברגע שמופיע \"זרז\" (Catalyst) מסוים.\n*   **פער בין תיאוריה אקדמית למציאות:** התגובה הקצרה על התואר בפיננסים מייצגת את הדינמיקה בקהילות מקוונות, שבהן לעיתים יש התנצחות (או לעג) סביב סמכות מקצועית והשכלה פורמלית אל מול הבנת ה\"שטח\" של השוק.\n*   **פישוט מול מורכבות:** הדיון משקף את הקונפליקט המובנה בקהילת המשקיעים: מצד אחד, אלו המנסים לנתח כל תנודה באמצעות מודלים מורכבים, ומצד שני, אלו המאמינים שהשוק פשוט ובלתי צפוי ושכל הניתוחים הם רק \"רעש\" מיותר."
-  },
-  {
-    "id": "1ta3a4x",
-    "title": "Looking for first business ideas",
-    "url": "https://www.reddit.com/r/business/comments/1ta3a4x/looking_for_first_business_ideas/",
-    "author": "PickleSilver2478",
-    "score": 19,
-    "selftext": "I live in Germany(berlin), and one of my goals this year is to put 200€ on a business no matter what the outcome is , I really just want to gain experience, one idea that I have is buy/resell clothes but I m open for new / better ideas",
-    "subreddit": "business",
-    "created_utc": 1778506000,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Starting with €200 just to gain experience is actually a good mindset. At that budget, I wouldn’t try to build something complicated. I’d focus on something where you can learn buying, selling, pricing, customers, and basic marketing without risking too much. Clothes flipping can work for that, especially in a city like Berlin where there’s a lot of style, thrift culture, and local demand.\n\nThe main thing is to treat the €200 like a learning budget, not a “this must become a huge business” budget. Buy small, test what moves, track what you paid, what sold, how long it took, and what profit you actually made after fees/time. You could also test simple service ideas, digital services, local reselling, event-based selling, or niche products, but flipping is a decent first business lesson because you get feedback fast.\n\nWhat interests you more, fashion/clothes, online selling, local services, or something digital? And are you trying to make quick cash or mainly learn how business works? Someone I know has helped close to 4,000 people over the last 17 years, and one thing he’s really good at here is **clarity** — helping people choose a simple first move that teaches them business without overcomplicating it.",
-        "score": 1,
-        "author": "Forward-Strike6381"
-      },
-      {
-        "body": "Whatever you’re passionate about. Trying stuff you don’t love is a very hard approach. ",
-        "score": 1,
-        "author": "vibe_with_bear"
-      },
-      {
-        "body": "Washing and folding laundry is surprisingly lucrative.",
-        "score": 1,
-        "author": "Careful-Confection84"
-      }
-    ],
-    "summary_he": "תושב ברלין מעוניין להקים את העסק הראשון שלו בתקציב של 200 אירו, במטרה העיקרית לצבור ניסיון ללא קשר לתוצאה הכספית. הוא שוקל להתמקד בקנייה ומכירה של בגדים (Resell), אך פתוח לקבל רעיונות חדשים וטובים יותר המתאימים לתקציב זה.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט וגישות שונות בנוגע להקמת עסק בתקציב נמוך (כ-200 אירו):\n\n*   **אימוץ \"תקציב למידה\":** הגישה המרכזית היא להתייחס לסכום התחלתי קטן לא כהשקעה שאמורה להפוך מיד לעסק ענק, אלא כ\"שכר לימוד\". המטרה היא לצבור ניסיון מעשי בקנייה, מכירה, תמחור ושיווק מבלי להסתכן כלכלית באופן משמעותי.\n*   **התמקדות בפשטות וביסודות:** מומלץ להימנע ממיזמים מורכבים מדי בתחילת הדרך. במקום זאת, כדאי להתמקד במודלים עסקיים פשוטים שמעניקים משוב מהיר מהשוק, מה שמאפשר ללמוד איך עסקים עובדים בפועל \"דרך הרגליים\".\n*   **פוטנציאל במכירת יד שנייה (Flipping):** מכירת בגדי יד שנייה נתפסת כשיעור ראשון מצוין בעסקים. זהו תחום שמאפשר לזהות ביקוש מקומי (למשל, תרבות הווינטג' בברלין), לבחון מה נמכר מהר ולפתח הבנה בניהול מלאי וטעם של לקוחות.\n*   **חשיבות המעקב והנתונים:** כדי להצליח, יש לנהל רישום קפדני של נתונים: מחיר קנייה מול מכירה, זמן עבודה, עמלות ורווח נקי. משמעת זו קריטית להבנת הכדאיות הכלכלית של העסק כבר מהשלבים הראשונים.\n*   **תשוקה כדלק להצלחה:** אחת הדעות המרכזיות היא שחובה לעסוק בתחום שאוהבים. הניסיון להקים עסק בתחום שאין אליו חיבור רגשי או עניין אישי נתפס כגישה קשה מאוד ליישום ולשימור לאורך זמן.\n*   **זיהוי הזדמנויות בשירותים בסיסיים:** הדיון מעלה שגם שירותים יומיומיים ופשוטים לכאורה, כגון כביסה וקיפול בגדים, יכולים להיות רווחיים להפליא. לעיתים הרווח הגדול נמצא במתן פתרונות לצרכים בסיסיים של אנשים ולאו דווקא ברעיונות מתוחכמים."
-  },
-  {
-    "id": "1ta61uq",
-    "title": "9 oversold alerts in S&P today. AMD up 82% vs market in 20 days",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1ta61uq/9_oversold_alerts_in_sp_today_amd_up_82_vs_market/",
-    "author": "StockScannerApp",
-    "score": 7,
-    "selftext": "ok so ran the daily S&P scan and today was interesting\n\nhealth care is still showing up oversold but now we have more names. MCK still there at RSI 19, EPAM at 17, MDT back again, ABT and FE new today. whole defensive sector keeps getting hit. starting to wonder if this is sector rotation or something bigger\n\nnew name today is MSI at RSI 21, communications equipment. not something you see in oversold territory very often\n\nsemis still stupid overbought. AMD at 80, STX at 82, MCHP at 72. been like this for weeks now. AMD up 82% vs the market in 20 days. that's not normal\n\nalso interesting WST showing up on overbought side, health care supplies at RSI 77. so we have health care distributors getting crushed while health care supplies are overbought. weird divergence within the same sector\n\nnot buying anything yet. waiting to see if health care finds a floor\n\nnot financial advice\n\nhttps://preview.redd.it/ihppptt7xi0h1.png?width=739&format=png&auto=webp&s=59f11cb561aa4862d81b022d1828991760f21599\n\n  \n",
-    "subreddit": "StockMarket",
-    "created_utc": 1778511996,
-    "thumbnail": "https://preview.redd.it/ihppptt7xi0h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=ec5dc5433ff8df8886d6fff2fff3f6744d069783",
-    "top_comments": [
-      {
-        "body": "Yeah it's stretched but when the whole sector is hot, stretched can last longer than you'd expect. I've trimmed AMD 3 times already and it keeps going up — the real question is whether it has its own catalyst or it's just riding NVDA's coattails.",
-        "score": 1,
-        "author": "StockScannerApp"
-      },
-      {
-        "body": "The healthcare divergence is pretty interesting honestly. Feels more like selective rotation than outright sector weakness.\n\nAnd yeah, AMD staying this overextended for weeks is impressive, but moves that strong can reverse fast once momentum cools.",
-        "score": 1,
-        "author": "Different_General933"
-      },
-      {
-        "body": "AMD will go to $1000 one day next year, just like Nvidia did in the span of a year. Yes it's FOMO, hype, and because they are the #2 in an industry that seems to have limitless potential. Do I think it's too expensive, yes. But did I buy NVDA at 880 in 2024 and sold before they hit 1K, Aren't they now at 221 which before the split equaled $2,210. ",
-        "score": 1,
-        "author": "Then_Neat_4282"
-      }
-    ],
-    "summary_he": "הפוסט סוקר איתותי \"מכירת יתר\" במדד ה-S&P 500, בדגש על חולשה במגזרי הבריאות וההגנה לצד סטייה פנימית חריגה בתוך תחום הבריאות עצמו. מנגד, מניות השבבים (כמו AMD) נמצאות בסטטוס \"קניית יתר\" קיצונית לאחר זינוק חריג, והכותב ממתין לראות אם מדובר ברוטציה בין סקטורים לפני שיבצע פעולה כלשהי.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בשרשור הכולל 6 נקודות מבט ורגשות מרכזיים שעלו מהקהילה:\n\n* **מתיחת יתר מול מומנטום מתמשך:** קיימת הסכמה שמניית AMD נמצאת במצב של \"מתיחת יתר\" (overstretched) מבחינת הערכת שווי, אך המשתמשים מציינים שבמגזר טכנולוגי לוהט, מצב כזה יכול להימשך הרבה מעבר למצופה לפני שיגיע תיקון.\n* **התלות באנבידיה (NVDA):** עולה השאלה האם העליות של AMD נובעות מזרזים (catalysts) פנימיים של החברה עצמה, או שהיא פשוט נהנית מהרוח הגבית של אנבידיה ורוכבת על הצלחתה של מובילת השוק.\n* **רוטציה סלקטיבית במגזר הבריאות:** המשתמשים מבחינים בחוסר אחידות במגזר הבריאות, מה שמתפרש לא כחולשה כללית של המגזר, אלא כמעבר סלקטיבי של משקיעים בין מניות שונות בתוך התחום (Selective Rotation).\n* **סכנת היפוך המגמה:** לצד ההתלהבות מהמומנטום החזק של AMD, קיים חשש שמהלכים חדים ומהירים כל כך עלולים להסתיים בנסיגה מהירה באותה מידה ברגע שהמומנטום יתקרר.\n* **אופטימיות קיצונית ופוטנציאל השוק:** חלק מהמשקיעים מאמינים ש-AMD עשויה להגיע למחירים דמיוניים (כמו 1,000 דולר), בשל היותה השחקנית השנייה בחשיבותה בתעשייה עם פוטנציאל צמיחה בלתי מוגבל, בדומה למסלול שעשתה אנבידיה.\n* **פסיכולוגיית משקיעים (FOMO וחרטה):** הדיון משקף שילוב של פחד מהחמצה (FOMO) והייפ, המונעים מניסיון העבר – משקיעים שחוו \"טראומה\" ממכירה מוקדמת מדי של מניות טכנולוגיה (כמו אנבידיה לפני הפיצול) נוטים להחזיק במניות למרות הערכות שווי גבוהות כדי לא לפספס רווחים עתידיים."
-  },
-  {
-    "id": "1ta89zh",
-    "title": "What do you find most challenging when implementing a startup idea?",
-    "url": "https://www.reddit.com/r/business/comments/1ta89zh/what_do_you_find_most_challenging_when/",
-    "author": "Rude-Collection-6351",
-    "score": 5,
-    "selftext": "  In this question I'm referring to problems that hinder the implementation of an idea (excluding laziness and lack of motivation).\n\nFor example, not knowing where to start, the inability to find a co-founder, or fear of something.\n\n\n\nTell us your story and experience.",
-    "subreddit": "business",
-    "created_utc": 1778516647,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "fear of embarrassment is bigger than people admit.. not necessarily fear of failure itself but fear of publicly trying something, talking about it and having it quietly go nowhere while everyone watches.",
-        "score": 1,
-        "author": "mukeshitt"
-      },
-      {
-        "body": "Probably figuring out whether the problem is actually painful enough for people to pay for a solution. Building something is hard, but validating demand before wasting months is even harder.",
-        "score": 1,
-        "author": "Puzzleheaded_Zone436"
-      },
-      {
-        "body": "I've been thinking about this since a founder I work with hit a wall last month. She lost a big client in April, fixed the pipeline issue within a week, objectively handled it well. But three weeks later she's still making hesitant calls on stuff she'd normally decide in five minutes. Kept saying she needed more data, more time, wanted to \"sleep on it.\" She didn't have a strategy problem, she just hadn't recovered emotionally from the last thing.\n\n  \nThere's a concept called mood recovery latency, basically how fast you return to baseline after something bad happens. I match people into high-pressure roles and I swear this is the single biggest differentiator I see. Not talent, not work ethic. Someone with a two-day recovery window can eat four setbacks in a month and keep moving. Someone with a two-week window hits the second setback while still dragging from the first, and now everything compounds. That's when you get the \"I'm just not cut out for this\" posts, which is almost never true. They're just trying to make decisions at 60% capacity because they never finished processing something from weeks ago.",
-        "score": 1,
-        "author": "Historical_Let5438"
-      }
-    ],
-    "summary_he": "הפוסט דן במכשולים המרכזיים המעכבים מימוש של רעיונות לסטארט-אפ, מלבד חוסר מוטיבציה, כגון חוסר ידע מאיפה להתחיל, קושי במציאת שותפים או פחדים שונים. הכותב מזמין את הגולשים לשתף מניסיונם האישי ולספר על האתגרים הספציפיים שעמדו בפניהם בתהליך היישום.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות, המציג נקודות מבט שונות על האתגרים בבניית מיזמים וניהול משברים:\n\n*   **הפחד ממבוכה חברתית גובר על הפחד מכישלון:** המחסום העיקרי אינו רק הכישלון המקצועי, אלא הבושה הנלווית לניסיון פומבי שדועך לעיני כל. החשש ש\"כולם מסתכלים\" בזמן שמשהו שניסית לקדם לא מצליח, מרתיע אנשים יותר ממה שהם מוכנים להודות.\n*   **אתגר התיקוף (Validation) מול אתגר הבנייה:** לבנות מוצר זה קשה, אך קשה מכך הוא השלב המקדים – להבין האם הבעיה שפותרים מספיק \"כואבת\" עבור הלקוחות כדי שהם יסכימו לשלם עליה. חוסר היכולת לתקף ביקוש לפני השקעת חודשי עבודה הוא מכשול מרכזי.\n*   **זמן התאוששות רגשית כגורם מפתח להצלחה:** היכולת לחזור ל\"קו בסיס\" רגשי אחרי מכה או כישלון (Mood Recovery Latency) היא המבדל הגדול ביותר בין אנשים בתפקידי לחץ. זהו מדד משמעותי יותר מאשר כישרון גולמי או מוסר עבודה.\n*   **הסכנה שבהצטברות כישלונות:** כאשר זמן ההתאוששות ארוך מדי, נוצר \"אפקט מצטבר\". אדם שעדיין גורר משקעים מהכישלון הראשון יחטוף את המכה השנייה כשהוא עדיין פגיע, מה שמוביל לתחושת שווא של \"אני לא בנוי לזה\" ולתשישות נפשית.\n*   **קבלת החלטות בקיבולת מופחתת:** מנהלים ויזמים שלא סיימו לעבד רגשית משבר קודם נוטים לקבל החלטות ב-60% מהיכולת שלהם. הם עשויים להפגין הססנות, לבקש עוד ועוד נתונים או \"לישון על זה\", לא בגלל בעיה אסטרטגית, אלא בגלל שחיקה רגשית.\n*   **האבחנה בין יכולת אובייקטיבית למצב מנטלי:** תחושת חוסר המסוגלות היא לרוב לא אמיתית אובייקטיבית; היא נובעת מחוסר יכולת לקבל החלטות נכונות בזמן שהמערכת המנטלית עדיין מעבדת אירועים קודמים. מי שיכול \"לאכול\" מספר כישלונות בחודש ולהמשיך הלאה הוא זה שישרוד לאורך זמן."
-  },
-  {
-    "id": "1tb8xiu",
-    "title": "Investing in Gold - What are your strategies?",
-    "url": "https://www.reddit.com/r/investing/comments/1tb8xiu/investing_in_gold_what_are_your_strategies/",
-    "author": "37GreaterThan4547",
-    "score": 2,
-    "selftext": "I'm curious what ways people invest in gold and why.  I've never done it, but it's something I've been curious about.  Also how safe are digital gold assets in the event of a catastrophic economy crash?  For instance, when you have cash in savings at a bank and all the banks start failing, to the point where the government can't insure your funds?\n\n(not financial advice, but interest in market mechanics)",
-    "subreddit": "investing",
-    "created_utc": 1778607810,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Guess what you can easily exchange for foreign currency",
-        "score": 1,
-        "author": "SuperJogi"
-      },
-      {
-        "body": "IAUM & nothing is ever truly safe from government ",
-        "score": 1,
-        "author": "flapinux"
-      },
-      {
-        "body": "GLDM will be my strategy when I retire.",
-        "score": 1,
-        "author": "StatisticianNo4044"
-      }
-    ],
-    "summary_he": "הכותב מבקש ללמוד על דרכים ואסטרטגיות שונות להשקעה בזהב ועל הסיבות לבחירה בהן. בנוסף, הוא תוהה לגבי רמת הבטיחות של נכסי זהב דיגיטליים במקרה של קריסה כלכלית קיצונית ומצב שבו הבנקים והממשלה אינם יכולים להבטיח את כספי החוסכים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **נזילות בינלאומית גבוהה:** אחד המגיבים מדגיש את היתרון של הזהב (או הנכס המדובר) ככלי שניתן להמיר בקלות ובמהירות למטבע חוץ, מה שהופך אותו לנכס אטרקטיבי בעתות משבר או במעבר בין מדינות.\n*   **העדפת קרנות סל ספציפיות (IAUM):** קיימת המלצה על שימוש בקרן הסל IAUM (iShares Gold Trust Micro), המוכרת בדרך כלל בזכות דמי ניהול נמוכים, ככלי יעיל לחשיפה לנכס.\n*   **ספקנות כלפי יציבות שלטונית:** עולה סנטימנט פסימי וחשדני כלפי הממשלה, לפיו \"שום דבר אינו בטוח באמת\". המשתמשים מכירים בכך שגם נכסים שנחשבים בטוחים עלולים להיות חשופים להפקעה, מיסוי כבד או רגולציה ממשלתית.\n*   **אסטרטגיית פרישה ארוכת טווח:** השימוש בזהב (או בקרנות זהב) אינו נתפס רק כהשקעה ספקולטיבית לטווח קצר, אלא כמרכיב מרכזי בתוכנית הכלכלית לקראת גיל הפרישה.\n*   **בחירה ב-GLDM כחלופה מועדפת:** בנוסף לקרנות אחרות, מוזכרת לטובה קרן GLDM (SPDR Gold MiniShares Trust), מה שמעיד על כך שהקהילה בוחנת ומבדילה בין מכשירים פיננסיים שונים על בסיס עלויות ומבנה הקרן.\n*   **הזהב כמקלט בטוח יחסי:** למרות החששות מהתערבות ממשלתית, הדיון משקף את התפיסה שהזהב נותר אחד הכלים המועדפים לשמירה על ערך והגנה על ההון בהשוואה לאלטרנטיבות אחרות."
-  },
-  {
-    "id": "1tap7qx",
-    "title": "Nitrogen ransomware claims 8TB Foxconn data theft after Wisconsin outage",
-    "url": "https://www.reddit.com/r/business/comments/1tap7qx/nitrogen_ransomware_claims_8tb_foxconn_data_theft/",
-    "author": "raptorhunter22",
-    "score": 2,
-    "selftext": "Foxconn’s Wisconsin facility reportedly suffered a major ransomware breach tied to the Nitrogen group, which claims it stole 8TB of internal data and more than 11 million files after compromising the company’s systems. The incident allegedly caused multi-day operational disruption and internal network outages.",
-    "subreddit": "business",
-    "created_utc": 1778555370,
+    "id": "1tc368j",
+    "title": "Anomaly Spotter for the Indian Markets. Will add US if you guys say this is useful, it was just a project but thought of sharing.",
+    "url": "https://www.reddit.com/r/finance/comments/1tc368j/anomaly_spotter_for_the_indian_markets_will_add/",
+    "author": "GettingFamous4",
+    "score": 1,
+    "selftext": "Check it out and let me know if this is actually useful or would you recommend some more things. Or any other general suggestions. Would love your views. It's a very basic version, would be improving upon it. This not promotional btw.\n\n[https://anomaly-spotter.vercel.app/](https://anomaly-spotter.vercel.app/)\n\nAlso, if you have ideas for anything else that should be built for Indian/US/Global markets. Please do suggest.\n\nLet me know if this has a real use case.",
+    "subreddit": "finance",
+    "created_utc": 1778686422,
     "thumbnail": "default",
     "top_comments": [
       {
-        "body": "Yes. Adversaries were sure to keep a low profile...and considering the sentiment nature of the facility, there is a chance that some insider was paid off or even involved directly...willingly for some incentives. Else...it's kinda hard to do something like this ...maintaining persistent access for probably months",
+        "body": "hidden post history vibe coded nonsense spam",
         "score": 1,
-        "author": "raptorhunter22"
+        "author": "GaboureySidibe"
       },
       {
-        "body": "8TB is not a quick smash and grab. That's weeks of data moving out of a network and nobody catching it. The technical failure is one thing but the organizational failure is worse. Somewhere in that company there are people who flagged weird network activity or asked about access controls and got told it wasn't a priority.\n\n  \nEvery time one of these hits I think about how many companies treat IT security the same way they treat office maintenance. Essential until you have to budget for it.",
+        "body": "Bro if this works just call Jane Street. Lol. ",
         "score": 1,
-        "author": "Historical_Let5438"
+        "author": "roboboom"
       }
     ],
-    "summary_he": "קבוצת הכופר Nitrogen טוענת כי גנבה 8 טרה-בייט של נתונים, הכוללים מעל 11 מיליון קבצים, ממתקן פוקסקון (Foxconn) בוויסקונסין. התקיפה הובילה להשבתת רשתות פנימיות ולשיבושים תפעוליים משמעותיים שנמשכו מספר ימים.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג שש נקודות מבט וסנטימנטים מרכזיים שעלו מהתגובות בנוגע לפריצת המידע:\n\n*   **חשד למעורבות פנימית:** הועלתה סברה חזקה כי לאור רגישות המתקן, ייתכן שגורם מתוך הארגון שיתף פעולה עם התוקפים, מרצון או תמורת שוחד, שכן קשה מאוד להשיג גישה מתמשכת כזו ללא סיוע מבפנים.\n*   **פעולה תחת הרדאר:** התוקפים פעלו בפרופיל נמוך מאוד ובזהירות רבה, מה שאפשר להם לשמור על גישה עקבית למערכות הארגון במשך חודשים ארוכים מבלי להתגלות.\n*   **היקף המידע כראיה למחדל:** גניבה של 8 טרה-בייט (8TB) אינה פעולה מהירה של \"זבנג וגמרנו\". מדובר בתהליך שארך שבועות של הוצאת נתונים, והעובדה שאיש לא הבחין בכך מעידה על כשל מערכתי עמוק.\n*   **הכישלון הארגוני חמור מהטכנולוגי:** הקהילה מצביעה על כך שהבעיה אינה רק בפרצה הטכנית, אלא בתרבות הארגונית. סביר להניח שהיו עובדים שזיהו פעילות חשודה ברשת או התריעו על ליקויים בבקרת הגישה, אך דבריהם נדחו על ידי ההנהלה.\n*   **אבטחת מידע כסעיף תקציבי זניח:** קיימת ביקורת על כך שחברות רבות מתייחסות לאבטחת מידע כאל \"תחזוקת משרד\" שוטפת – דבר חיוני כביכול, אך הראשון לספוג קיצוצים עד שמתרחש אסון.\n*   **זלזול באנשי המקצוע:** התגובות משקפות תסכול מכך שאנשי IT ואבטחה מתריעים לעיתים קרובות על סכנות, אך מקבלים תשובה שנושאים אלו \"אינם נמצאים בסדר העדיפויות\" של הארגון משיקולי תקציב."
+    "summary_he": "הכותב פיתח כלי בסיסי לאיתור חריגות (Anomalies) בשוק ההון ההודי ושיתף אותו כדי לקבל משוב מהקהילה על נחיצותו ועל אפשרויות לשיפור. הוא מבקש הצעות לפיצ'רים נוספים ושואל האם כדאי להרחיב את השירות גם לשוק האמריקאי ולשווקים גלובליים אחרים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן ניתוח של התגובות מהשרשור, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה:\n\n*   **חשד באמינות המשתמש:** אחד המגיבים מצביע על כך שהיסטוריית הפוסטים של כותב ההודעה מוסתרת, מה שמעורר בקרב הקהילה תחושה של חוסר שקיפות או ניסיון להסתיר דפוסי פעולה קודמים.\n*   **ביקורת על שימוש במושגים ריקים מתוכן:** עולה טענה שהפוסט כתוב בשפה שנראית מתוחכמת לכאורה (\"vibe coded\") אך בפועל היא נתפסת כגיבוב של מילים חסרות משמעות או \"שטויות\".\n*   **תיוג התוכן כספאם:** קיים סנטימנט חריף המבטל את הפוסט ומסווג אותו כתוכן זבל (Spam) שאינו ראוי להתייחסות רצינית או לדיון מעמיק.\n*   **השוואה לסטנדרטים הגבוהים ביותר בתעשייה:** האזכור של חברת \"ג'יין סטריט\" (Jane Street), הידועה כאחת מחברות המסחר הכמותי היוקרתיות והרווחיות בעולם, נועד להמחיש שאם הרעיון אכן עובד, הוא שווה מיליארדים.\n*   **ספקנות מהולה בציניות:** השימוש בביטויים כמו \"Bro\" ו-\"Lol\" מעיד על כך שהמגיבים לא באמת מאמינים להיתכנות של הנאמר בפוסט, ורואים בו הצהרה יומרנית ומנותקת מהמציאות.\n*   **הכרה בפוטנציאל הכלכלי (בהנחה שזה נכון):** לצד הספקנות, עולה הנקודה שאם הטכנולוגיה או השיטה המוצעת אכן פועלת, המקום הנכון עבורה הוא בשוק ההון הגבוה ולא בפורום אינטרנטי, בשל ערכה העצום."
   },
   {
-    "id": "1tbrind",
-    "title": "CPI just printed 3.8% and oil crossed $100 and the market barely moved. that should scare you more than a selloff would",
-    "url": "https://www.reddit.com/r/investing/comments/1tbrind/cpi_just_printed_38_and_oil_crossed_100_and_the/",
+    "id": "1tcrc6q",
+    "title": "Bitcoin: The Bidding War for Nothing and the Ultimate Winner’s Curse",
+    "url": "https://www.reddit.com/r/investing/comments/1tcrc6q/bitcoin_the_bidding_war_for_nothing_and_the/",
+    "author": "BinaryLyric",
+    "score": 1,
+    "selftext": "Imagine you’re at an auction. The room is electric. People are shouting, prices are climbing, and your heart is racing because you really, really want to win. Finally, the gavel drops. You’ve done it. You beat everyone else. You walk up to the stage to collect your prize, and while you have the item in your hands, you realize you paid far more than it is actually worth.\n\n\n\nIn economics, we call this the \"winner’s curse.\" It’s that sinking feeling you get when you realize you won the bidding war only because you were the person willing to overpay the most. Usually, this happens with houses or companies. But with Bitcoin, we are seeing the winner’s curse taken to a level we’ve never seen before. We’ve watched a global bidding war drive the price from a fraction of a penny to over $100,000, but the \"winners\" are waking up with nothing.\n\n\n\nWhen we talk about the market, we are usually bidding on three specific things. First, there are physical goods, things like a house, a car, a rare painting, or a collectible that you can actually hold and display. Second, there are digital goods, like a software product you use, a video you watch, or a music file you listen to. Finally, there are claims. If you have money in a bank account, that is a claim on bank borrowers. That's because this money is created as loans. The borrowers have to provide their labor, their goods, or their services to money holders just to get the money to pay back those loans. If they fail, the banks provide holders with their seized collateral. Even things like e-money, gift cards, or casino chips are claims on an issuer who must redeem them. Stocks, bonds, patents, and copyrights are all the same: they are legal claims on future cash or the right to an idea.\n\n\n\nBut Bitcoin breaks this entire logic. When you participate in this bidding war, you aren't getting a physical good like a painting or a house. You aren't getting a digital good like a piece of software. And you aren't getting a claim. There is no issuer to redeem it, no company paying you, and no borrower working to give your \"money\" value. There isn't even a \"token\" in the traditional sense, because a token is a claim on the person who issued it.\n\n\n\nThe Bitcoin system displays numbers to you, suggesting that you hold something in proportion to those numbers. But there is literally nothing.\n\n\n\nPeople have spent years competing, outbidding each other, and throwing trillions of dollars at nothing. They’ve turned the winner’s curse into a sport. By driving the price of a \"nothing\" from zero to $100,000, they haven't discovered a new kind of wealth. They’ve just created the most expensive empty box in human history. The winner’s curse hasn't just happened; it’s been maximized.",
+    "subreddit": "investing",
+    "created_utc": 1778745419,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "It's weird, I opened this post, and within about three words I could just tell it was pointless AI trash. As I'm sure everyone else could. \n\nNo idea why anyone bothers with this nonsense. ",
+        "score": 1,
+        "author": "octoesckey"
+      },
+      {
+        "body": "Which is incidentally also a nice metaphor for the current state of crypto.",
+        "score": 1,
+        "author": "Bleizwerg"
+      },
+      {
+        "body": "Hey at least they removed the em dashes.",
+        "score": 1,
+        "author": "GrahamGreed"
+      }
+    ],
+    "summary_he": "הפוסט משווה את העלייה במחיר הביטקוין למושג הכלכלי \"קללת המנצח\", מצב שבו המשתתפים במכירה פומבית משלמים מחיר מופרז על נכס שאין לו ערך פנימי. הכותב טוען שבניגוד למוצרים פיזיים או התחייבויות פיננסיות (כמו מניות או חוב), לביטקוין אין גיבוי, מנפיק או תועלת ממשית, ולמעשה מדובר ב\"קופסה ריקה\" יקרה להחריד שהמנצחים בה נותרים ללא דבר.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות בשרשור, הכולל 6 נקודות מבט ורגשות מרכזיים של הקהילה:\n\n* **זיהוי מיידי של תוכן מלאכותי:** המגיבים מציינים כי ניתן לזהות כמעט באופן מיידי (תוך מילים ספורות) שמדובר בתוכן שנוצר על ידי בינה מלאכותית (AI), מה שמעיד על חוסר האותנטיות הבולט שלו.\n* **תפיסת התוכן כחסר ערך (\"זבל\"):** קיימת הסכמה רחבה בקרב המשתמשים שהפוסט המדובר הוא \"זבל חסר טעם\" (pointless trash), ואין בו כל תועלת ממשית לקוראים.\n* **תסכול ופליאה על עצם הפרסום:** המגיבים מביעים תמיהה וחוסר הבנה מדוע אנשים בכלל טורחים להשקיע זמן ביצירה או בפרסום של תכנים מלאכותיים וריקים מתוכן כאלו.\n* **השוואה ביקורתית לעולם הקריפטו:** אחד המגיבים משתמש בפוסט כבמטאפורה למצב הנוכחי של שוק מטבעות הקריפטו, ורומז שגם הוא הפך לתחום רועש, ריק מתוכן וחסר ערך אמיתי.\n* **התייחסות לפרטים טכניים וסגנוניים:** הקהילה מבחינה בניסיונות (כושלים או מינוריים) לשפר את הנראות של הטקסט, כמו הסרת סימני פיסוק מסוימים (em dashes), אך רואה בכך פעולה שולית שלא משנה את איכות התוכן הירודה.\n* **נימה כללית של ציניות וזלזול:** הדיון מאופיין בגישה סקפטית וצינית מאוד כלפי פוסטים שנוצרו על ידי מכונה, תוך הדגשה שרוב חברי הקהילה חולקים את אותה תחושת מיאוס מהתופעה."
+  },
+  {
+    "id": "1tcp6ar",
+    "title": "I moved 20% to treasuries a while ago betting on a pullback. Some data came in this week that wasn't in my thesis.",
+    "url": "https://www.reddit.com/r/investing/comments/1tcp6ar/i_moved_20_to_treasuries_a_while_ago_betting_on_a/",
     "author": "Hungry-Command-8454",
     "score": 1,
-    "selftext": "The April CPI report came in yesterday at 3.8% year over year. Highest since May 2023. Energy up 17.9%. Gasoline up 28.4% annually. Beef up 14.8%. Airline fares up 20.7%. Core came in at 2.8%, the highest monthly reading since January 2025. Real wages fell, both monthly and annually.\n\nAnd the S&P closed down 0.16%.\n\nOil settled at $102.18 a barrel yesterday. That's the first triple digit close since 2022. Hormuz is still disrupted. Trump said the ceasefire with Iran is \"on life support.\" And the market just kind of shrugged. Nasdaq fell 0.7%, mostly because semis gave back some of their insane run. Qualcomm dropped 13%, Intel 8%.\n\nThe thing that bothers me isn't the red day. It's how small the red day was. 3.8% CPI, oil above 100, rate hike odds now at 1 in 3 by december per CME, zero chance of cuts through 2027, and the index is still within 0.2% of its all time high. Either the market is right that this is all transitory war noise or we're watching the biggest game of chicken with inflation since 2022.\n\nThe Cleveland Fed president called this \"the fourth shock in five years\" after the pandemic, Russia, and tariffs. Morningstar's chief economist said rate hike odds while still under 50% are rising. Mark Zandi at Moody's said households are going to struggle \"for the foreseeable future.\" Real wages falling while the stock market sits at all time highs is the kind of disconnect that eventually resolves and usually not in stocks' favor.\n\nI'm not panic selling. But I trimmed my equity allocation by about 15% last week into short duration treasuries and I'm glad I did. NVDA reports May 20 and FOMC is June 16. If earnings hold up and Iran de-escalates, fine, I rotate back and miss a few percent. But if this inflation keeps running with oil above 100 and the Fed starts seriously talking about hikes, I don't want to be fully invested at 7400 on the S&P with 53% breadth.",
+    "selftext": "Posted about this before. Moved 15% of my equity allocation into short duration treasuries on the breadth divergence. Added another 5% after PPI came in at 6%. The thesis was simple, CPI at 3.8%, breadth at 53%, rate hike odds at 39%, pullback to the 20 day around 700-710.\n\nSPY is at 744. Still holding the treasuries at 4.3%. But some data came across this week that wasn't part of my original analysis and it changes the setup enough that I want to lay it out.\n\nM2 money supply hit a new all time high of $22.6 trillion in February. Growing 4.8% year over year after contracting in 2022-2023 for the first time since the 1930s. That contraction coincided with the bear market. The re-expansion is running right alongside this rally. The Fed is also running $40 billion a month in Treasury purchases they're calling \"Reserve Management Purchases.\" That's QE with a different press release. Bank deposits up $611 billion since December per Fed data. That's a wall of new liquidity entering the system in 5 months and it goes a long way toward explaining why SPY keeps grinding higher on days when the macro says it shouldn't.\n\nThe breadth story is also more nuanced than I was treating it. StockCharts published a piece this week showing the Value Line Arithmetic Index, which tracks the average stock equally weighted, is actually beating SPY year to date. The \"two thirds of stocks closed red\" stat I cited was one PPI reaction session. Over the quarter the picture looks different.\n\nTudor Jones compared this to 1999 and I cited that as bearish last week. Didn't include the part where he said the rally could run another one to two years before anything breaks. That context matters.\n\nNot unwinding the treasuries yet. CPI and PPI are real numbers and NVDA earnings May 20 could go either way. But I'm not adding to the defensive position either. If NVDA delivers and the liquidity data keeps trending this way, I'll probably start rotating half back into equities by month end. The original thesis was built on breadth and inflation. The liquidity side of the equation is pushing in the other direction harder than I accounted for.",
     "subreddit": "investing",
-    "created_utc": 1778654200,
+    "created_utc": 1778738286,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Same, but 10% yearly. I need to tweak mine apparently. ",
+        "body": "bro youre doing great like youre successfully updating your strategy as new data arrives rather than sticking to a plan that the market is currently ignoring. I used lattice finance to confirm that while M2 money supply and Fed liquidity are pushing stocks higher, your original concerns about high inflation and narrow market breadth remain real risks that could trigger a pullback later.",
         "score": 1,
-        "author": "accidental_tourist"
+        "author": "cuddlyviola_7"
       },
       {
-        "body": "Sure it recovered towards the end of the session but man that drawdown was hard - usually it's just the opening chop and then things settle down but no this time the tumble went deep into lunch here on the West Coast. At one point my gambling portfolio was down 8% with my combined investment portfolios down $25k. It sure had the signs of a crash and thankfully there were enough people with semi/chip FOMO buying the dip to help right the ship.",
+        "body": "honestly the discipline to actually rebalance to your thesis is rare on this sub, even if the thesis ends up wrong. but 20pct in short duration treasuries at 4.3pct is a fine 'wait for confirmation' position - youre paid to wait. don't add more on confirmation bias from M2, let price action confirm the thesis before adding",
         "score": 1,
-        "author": "millenialismistical"
+        "author": "MartinEdge42"
       },
       {
-        "body": "The Shiller PE is a 10-year, inflation-adjusted price to earnings.\n\nLots of industries are cyclical. If you buy a company at a PE of 10 at the peak of the cycle it might look cheap but then earnings collapse as demand for the firm's product goes down for a while and that PE of 10 might go to a PE of 30.\n\nBy using a 10-year, inflation-adjusted value you get a better valuation.\n\nA business's earnings might be +50% one year, -30% the next then +15% the year after that. Over that 3-year period the total increase is 20.75% or around a 6.5% CAGR. If you just look at the first year and think \"damn this business is going to go to the Moon\" you are prone to overpaying.\n\nDoes that make sense ?",
-        "score": 1,
-        "author": "iyankov96"
-      }
-    ],
-    "summary_he": "הכותב מביע דאגה עמוקה מכך ששוק המניות כמעט לא הגיב לנתוני אינפלציה גבוהים מהצפוי (3.8%) ולעליית מחירי הנפט מעל 100 דולר, וטוען כי הניתוק בין המדדים למציאות הכלכלית מסוכן יותר מירידות שערים חדות. לדעתו, חוסר התגובה מעיד על שאננות מסוכנת מול הסיכון הגובר להעלאות ריבית נוספות, ולכן הוא בחר לצמצם את החשיפה למניות ב-15% לטובת אג\"ח לטווח קצר.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן ניתוח של התגובות המובילות מהשרשור, המציג 6 נקודות מבט ותובנות שונות שעלו בקהילה:\n\n*   **צורך באופטימיזציה של תשואות:** חלק מהמשקיעים חשים שהביצועים שלהם (כמו תשואה שנתית של 10%) אינם מספקים בהשוואה לאחרים, מה שמוביל לרצון \"לכוונן\" מחדש את האסטרטגיה שלהם כדי להשיג תוצאות טובות יותר.\n*   **התמודדות עם תנודתיות קיצונית (Drawdown):** תיאור של יום מסחר מלחיץ במיוחד שבו הירידות לא נבלמו בפתיחה כמצופה, אלא העמיקו לאורך היום. המשתמשים שיתפו בתחושה של \"סימני קריסה\" ובהפסדים כבדים בתיקי ההשקעות וההימורים שלהם באותן שעות.\n*   **השפעת ה-FOMO על התאוששות השוק:** קיימת סברה בקהילה שההתאוששות המהירה בסוף יום המסחר נבעה מ\"פחד מהחמצה\" (FOMO) של משקיעים שחיכו להזדמנות לקנות את הירידה (\"Buy the dip\"), במיוחד בתחומי השבבים והסמיקונדקטורס.\n*   **חשיבותו של מדד Shiller PE:** עלה דיון טכני המדגיש את החשיבות של שימוש במכפיל רווח מתואם אינפלציה ל-10 שנים (CAPE ratio). המדד נתפס ככלי אמין יותר להערכת שווי שוק אמיתית מאשר מכפיל רווח רגיל שמתמקד בטווח הקצר.\n*   **זהירות מפני תעשיות מחזוריות:** הקהילה מזהירה מפני \"מלכודת\" של מכפיל רווח נמוך בשיא המחזור העסקי. נטען כי חברה שנראית זולה בשיא עלולה להפוך ליקרה מאוד כשהביקוש למוצריה יורד והרווחים קורסים.\n*   **הסתכלות על צמיחה ארוכת טווח (CAGR) מול הייפ:** מודגשת החשיבות של בחינת ממוצע צמיחה שנתי לאורך זמן במקום התלהבות מזינוק חד-פעמי ברווחים. הגישה בקהילה היא שמי שמתמקד רק בנתוני שנה אחת \"בדרך לירח\" עלול לשלם מחיר מופרז על השקעתו."
-  },
-  {
-    "id": "1tbo11t",
-    "title": "The Distilled 3: Free Weekly Biotech Catalyst Picks (and daily deep dives/updates, written by a PhD patent agent)",
-    "url": "https://www.reddit.com/r/investing/comments/1tbo11t/the_distilled_3_free_weekly_biotech_catalyst/",
-    "author": "BiotechDistilled",
-    "score": 1,
-    "selftext": "Quick share for anyone who wants free, IP-and-clinical-driven biotech coverage. I’m a senior biotech patent agent with about 10 years of experience and a PhD in medicinal chemistry, and I run Biotech Distilled on Substack.\n\nWhat you’ll find on the Substack:\n\nThe Distilled 3 (completely free): every Sunday, three small-to-mid-cap names with material catalysts in the next 1 to 4 weeks, broken down through an IP + clinical + competitive lens.\n\nA daily deep dive on one new biotech company: the same chemistry, patent, and clinical-data framework, applied to a new ticker each day.\n\nDaily update posts on any company I follow that warrants one: using a tool I built leveraging AI to keep the workflow scalable. (I won’t go into the tool itself here; happy to discuss the methodology in another post sometime.)\n\nAnd a lot more coming: I’ve got several new content formats in the pipeline.\n\nHere’s how the last two weeks of Distilled 3 picks are tracking:\n\nThis week’s picks (May 10 to May 12):\n\nSLS: the standout. REGAL Phase 3 hit 78/80 OS events as of today’s after-market report (was 72/80 in late December). Two events away from the trigger that fires the final analysis on their AML maintenance vaccine. Stock ripped from \\~$5 to $6 in after-hours, +\\~20%. My deep dive flagged this exact event-driven trigger setup; SLS009 (the CDK9 backstop) is still a long-term reason I like the name.\n\nCGON: Up \\~5% on the week. JPMorgan raised PT to $96 on Monday. CORE-008 Cohort CX data at AUA on Saturday (May 16).\n\nCOGT: Modestly green into the May 30 ASCO PEAK oral and the APEX NDA submission window.\n\nLast week’s picks (May 4 to today):\n\nSMMT: The headline winner: from \\~$18 to $23.91 in eight sessions. About +30% on the week.\n\nLRMR: Roughly flat to slightly down (\\~-2%). Friedreich’s ataxia BLA still in front of us.\n\nVRDN: REVEAL-2 in chronic TED was a positive readout on May 5 (science thesis was right), but the stock got hammered to \\~$17 on a 7.35M-share secondary priced into the data. Catalyst won, stock lost: exactly the kind of dilution-overhang risk I try to flag in the writeups.\n\nIf you want the actual thesis behind each pick (why the catalyst matters, IP runway, where I’d size out), it’s on my Substack (Biotech Distilled).\n\nHappy to take questions in the comments. Not financial advice, I may hold positions in any of these, do your own DD.",
-    "subreddit": "investing",
-    "created_utc": 1778643462,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Biotech catalysts are always exciting but tough to track consistently. Having a distilled weekly list is super useful. I’ve been experimenting with Runable AI for side projects too it’s great for quickly testing ideas or organizing research without getting bogged down.",
+        "body": "Smart move treasuries can be a solid hedge when rates shift, even if the timing feels like a gamble.",
         "score": 1,
         "author": "Little_kitty_2822"
-      },
-      {
-        "body": "Honestly this kind of work gets messy fast once you’re tracking patents, trial updates, management commentary, old thesis notes... all at the same time.\n\nI ran into that doing sector research. My notes started looking insane, so now I dump all of it into Runable first, let it figure out what actually changed, what’s just noise, and where the contradictions are. Then I do the real thinking from there.",
-        "score": 1,
-        "author": "Aggressive_Deer_7072"
       }
     ],
-    "summary_he": "סוכן פטנטים מומחה בתחום הביוטק מציע ניוזלטר שבועי חינמי בשם \"Biotech Distilled\", המנתח מניות במגזר על בסיס שילוב של קניין רוחני ונתונים קליניים. השירות מתמקד בחברות קטנות ובינוניות העומדות לפני אירועים מהותיים (Catalysts), ומציג ביצועים מרשימים מהתקופה האחרונה במניות כמו SLS ו-SMMT. בנוסף להמלצות השבועיות, הכותב מספק ניתוחי עומק יומיים ועדכונים שוטפים הנעזרים בכלי בינה מלאכותית.",
+    "summary_he": "הכותב העביר 20% מתיק המניות שלו לאג\"ח ממשלתיות כהימור על תיקון בשוק, אך כעת הוא בוחן מחדש את עמדתו בשל נתונים המצביעים על הזרמת נזילות מאסיבית למערכת ועלייה באספקת הכסף (M2). למרות החששות המקוריים מאינפלציה, הוא נמנע מהגדלת הפוזיציה ההגנתית ושוקל לחזור למניות בהתאם לתוצאות דוחות אנבידיה ומגמות הנזילות בשוק.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים מהקהילה:\n\n*   **הקושי במעקב עקבי:** המשתמשים מציינים כי מעקב אחר אירועים משמעותיים (catalysts) בתחום הביוטק הוא אמנם מרגש ומבטיח, אך קשה מאוד לביצוע באופן עקבי ומסודר לאורך זמן.\n*   **הערך שבמידע מזוקק:** ישנה הערכה רבה לרשימות שבועיות מרוכזות. המשתמשים מוצאים שסיכומי מידע \"לעוסים\" הם כלים שימושיים ביותר שעוזרים להתגבר על העומס המקצועי.\n*   **עומס מידע ומורכבות המחקר:** מחקר מגזרי (Sector Research) הופך למסורבל ומבולגן במהירות רבה ברגע שצריך להצליב נתונים ממקורות שונים כמו פטנטים, עדכוני ניסויים קליניים והערות הנהלה בו-זמנית.\n*   **שימוש בבינה מלאכותית לארגון ראשוני:** קיימת מגמה של שימוש בכלי AI (כמו Runable AI) כדי לארגן מחקרים ולבדוק רעיונות לפרויקטים צדדיים במהירות, מבלי \"להיתקע\" בשלבי הארגון הטכני.\n*   **סינון \"רעשים\" וסתירות:** אחד היתרונות המרכזיים שצוינו בשימוש בכלים טכנולוגיים הוא היכולת להבחין בין שינוי מהותי לבין \"רעש\" חסר חשיבות, וזיהוי סתירות בתוך הררי הערות ומחקרים ישנים.\n*   **ייעול תהליך החשיבה:** הקהילה מבטאת סנטימנט לפיו תפקיד הטכנולוגיה הוא לבצע את ה\"עבודה השחורה\" של עיבוד הנתונים, מה שמאפשר לחוקר האנושי להתפנות לביצוע החשיבה האנליטית והאסטרטגית האמיתית."
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ותובנות מרכזיות שעלו מהתגובות:\n\n*   **חשיבות הגמישות האסטרטגית:** חברי הקהילה משבחים את היכולת לעדכן את אסטרטגיית ההשקעה בהתאם לנתונים חדשים הזורמים מהשוק, במקום להיצמד לתוכנית מקורית שהשוק כבר אינו פועל לפיה.\n*   **הגורמים לעליות הנוכחיות:** קיימת הסכמה כי היצע הכסף (M2) והנזילות שמזרים הפדרל ריזרב הם המנועים העיקריים שדוחפים כרגע את המניות מעלה, גם אם זה נראה מנוגד לנתונים אחרים.\n*   **סיכוני מאקרו מתמשכים:** למרות העליות, משקיעים מדגישים כי החששות המקוריים מאינפלציה גבוהה ומרחב שוק מצומצם (narrow market breadth) הם עדיין סיכונים ריאליים שעלולים להוביל לתיקון משמעותי בהמשך.\n*   **הערכה למשמעת השקעתית:** הקהילה מעריכה מאוד את המשמעת לבצע \"איזון מחדש\" (rebalancing) של התיק בהתאם לתזה מוגדרת, גם אם בסופו של דבר התזה תתברר כשגויה, שכן מדובר בתכונה נדירה אצל משקיעים פרטיים.\n*   **אסטרטגיית \"תשלום עבור המתנה\":** החזקת אג\"ח ממשלתיות לטווח קצר (בתשואה של כ-4.3%) נתפסת כעמדה חכמה המאפשרת למשקיע להמתין לאישור המגמה בשוק תוך כדי צבירת ריבית בסיכון נמוך.\n*   **זהירות מהטיית אישור (Confirmation Bias):** עולה אזהרה שלא להגדיל פוזיציות רק בגלל נתון בודד שתומך בתזה (כמו היצע הכסף), אלא להמתין שפעולת המחיר בשוק (Price Action) תאשר את התחזית לפני שמבצעים מהלכים אגרסיביים נוספים."
   },
   {
-    "id": "1tbihcw",
-    "title": "I am extremely pessimistic regarding the intermediate future. Are these investments resilient enough to handle what I’m afraid will happen?",
-    "url": "https://www.reddit.com/r/investing/comments/1tbihcw/i_am_extremely_pessimistic_regarding_the/",
-    "author": "2timescharm",
+    "id": "1tcoca3",
+    "title": "SpaceX IPO who is in for the ride?",
+    "url": "https://www.reddit.com/r/investing/comments/1tcoca3/spacex_ipo_who_is_in_for_the_ride/",
+    "author": "LuciusQ2020",
     "score": 1,
-    "selftext": "When I look at the current economy, there are two things that concern me.\n\n\\- The possibility of an AI/data center bubble. I am worried that a lot of the investment into AI not rational, and does not reflect the current state of the technology. If reality fails to meet the market’s expectations, I can’t see how the result is anything but a disaster.\n\n\\- The downstream effects of oil price shock, such as increased transportation costs and food prices with reduced discretionary spending. A lot of the commentary I’m seeing regarding this second point is that the price shocks will be so bad, it will incentivize everyone involved in the closing of Hormuz to the table, and therefore it won’t be too terrible in the mid to long term. I am highly skeptical of this, again because I don’t think the geopolitical decision makers are aligned with the rational interest of the market. Historically, food is considered a reliable investment during recessions. if oil shock negatively impacts food production, I assume that will not be the case. \n\nI want to invest in a way that will be best equipped to capitalize on a combined storm of both disasters occurring in an overlapping way. Logically, the two types of stock that will probably do best in a continued conflict between Iran and the US are American oil companies and weapons manufacturers. Unfortunately I have moral objections to both of these industries which preclude me from investing in either. \n\nWith that in mind, here are the options I’m considering:\n\n\\- ARK Genomic Revolution ETF: Genomics is a cutting-edge field that I consider much more likely to deliver tangible results in the near future compared to AI. \n\n\\- Tema Heart and Health ETF: same as above, GLP-1s are only getting cheaper and more common. \n\n\\- Invesco Solar ETF: energy stock, but without the ethical baggage of financing the proliferation of oil drilling in response to price shock. \n\n\\- Costco: Rising food prices will benefit wholesalers as people look for better deals\n\n\\- Apartments and cheaper homes: United Rentals, LGI Homes, and UDR Inc. in anticipation of reduced demand for large houses and increased demand for smaller homes, secondary dwelling units, and apartments. \n\n\\- Games Workshop: bit of a weird one at the end here, but with brand recognition only growing and no cap in sight I think It stands to increase the percentage of profits from licensing, offsetting my concerns vis a vie more expensive transport and materials for their physical products. Additionally, the demographic GW serves is primarily higher income, and therefore less likely to cut off their spending altogether when compared to, say, a lower-income family canceling their streaming services. It weathered tariffs well enough, and unless things are even WORSE than I fear I think it will punch above its weight class. \n\nWhat I want to know is, could this selection of investments outperform safer options in the proposed scenario? Are there any stocks I’m missing that would be worth including? Would it be better to short stocks I think are particularly vulnerable? My initial thought is that picking stocks that are already doing fine is a safer investment than betting on a crash I’d really prefer not happen in the first place. ",
+    "selftext": "**Segment Revenue**  \nResidential Starlink $50B  \nEnterprise / aviation / maritime $30B  \nDirect-to-device $15B  \nGovernment / defense $30B  \nLaunch $15B  \nStarship-created markets $10B  \nTotal $150B\n\nHere’s my trusted friend ChatGPT gave me. With this estimate, I can’t see how anybody justify the rumored 1.74 trillion IPO. I also see Starlink has a revenue ceiling as not everyone wants to pay for the high latency and low speed network. It has its use, but not in the real competition with fiber and 5G. \n\nI am not convinced that space is a gold mine. Am I missing something here?",
     "subreddit": "investing",
-    "created_utc": 1778628767,
+    "created_utc": 1778735679,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "I have deeply held religious convictions specifically regarding offensive wars. Capital’s not meaningfully different from labor. If I wouldn’t build the bombs or pull the trigger, I shouldn’t profit off it either. It’s a personal thing, just figured it would be worth explaining so people get why I left those industries out when they’re the obvious answers. ",
+        "body": "You can get rid of the heat. Radiators. Ditching the heat via (IR) radiation rather than convection or conduction as you would down here. I don't think the market for datacentres in space is a trillion dollar industry, but it's not some impossible product. ",
         "score": 1,
-        "author": "2timescharm"
+        "author": "Relentless_Fiend"
       },
       {
-        "body": "Learning a lot about ARK today. Probably not gonna go with that one. ",
+        "body": "the 1.74T IPO valuation is pricing in starship-enabled markets that dont fully exist yet. 150B run-rate revenue at 11x sales is rich but defensible if you accept the long-tail growth assumption. the moat isnt starlink (which faces fiber/5G competition) - its launch capacity. dragon, falcon 9, and especially starship volume is what justifies the multiple",
         "score": 1,
-        "author": "2timescharm"
+        "author": "MartinEdge42"
       },
       {
-        "body": "Do you think the overlap would be that bad?",
+        "body": "I can imagine. However, compared to the technology we have achieved this far, it’s probably within our capabilities.\n\nWould certainly be cool to see solar powered data centers in space someday. I expect we likely will eventually. Definitely not investing in spaceX, personally though",
         "score": 1,
-        "author": "2timescharm"
+        "author": "Tomato-Tomato-Tomato"
       }
     ],
-    "summary_he": "כותב הפוסט מביע חשש עמוק מפני משבר כלכלי משולב שינבע מהתפוצצות בועת הבינה המלאכותית ומזינוק במחירי הנפט עקב מתיחות גיאופוליטית. הוא מציע תיק השקעות \"מוסרי\" (ללא חברות נשק או דלק) הכולל תחומים כמו גנומיקה, אנרגיה סולארית, קמעונאות מוזלת (קוסטקו) ודיור בר-השגה, מתוך תקווה שהם יפגינו עמידות בתקופת מיתון. לבסוף, הוא מבקש חוות דעת האם תמהיל זה אכן מסוגל להניב ביצועים טובים יותר מנכסים בטוחים יותר בתרחישי קיצון.",
+    "summary_he": "הכותב מטיל ספק בשווי המדובר של SpaceX לקראת הנפקה פוטנציאלית (כ-1.74 טריליון דולר), בטענה שתחזיות ההכנסות אינן מצדיקות הערכה כזו. הוא מביע ספקנות לגבי יכולת התחרות של Starlink מול תשתיות סיבים ו-5G, ותוהה האם תעשיית החלל היא אכן \"מכרה זהב\" כפי שרבים חושבים.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, הכולל 6 נקודות מבט וסנטימנטים שעלו בקהילה:\n\n*   **השקעה מבוססת ערכים ודת:** אחד המגיבים מציג עמדה לפיה השקעות אינן רק החלטה פיננסית אלא ביטוי של אמונה דתית עמוקה, במיוחד בכל הנוגע להתנגדות למלחמות התקפיות.\n*   **השוואה מוסרית בין הון לעבודה:** קיימת תפיסה שאין הבדל מוסרי בין עבודה בתעשייה מסוימת לבין רווח מהשקעה בה; אם אדם אינו מוכן לייצר נשק במו ידיו, הוא אינו מוכן להרוויח מעליית הערך של חברות הנשק.\n*   **ויתור מודע על רווחים \"מובנים מאליהם\":** המשתמשים מכירים בכך שתעשיות מסוימות (כמו תעשיית הביטחון) הן בחירות השקעה רווחיות ומתבקשות, אך בוחרים להוציא אותן מהתיק בשל מחסום מצפוני אישי.\n*   **ספקנות כלפי קרנות ARK:** עולה סנטימנט שלילי או זהיר כלפי ARK (ככל הנראה ARK Invest של קתי ווד); למידה מעמיקה על ביצועי הקרן או האסטרטגיה שלה הובילה משתמשים להחלטה להימנע מהשקעה בה.\n*   **חשש מחפיפה בין נכסים (Overlap):** הדיון מעלה שאלה לגבי המידה שבה אחזקות שונות בתיק ההשקעות דומות מדי אחת לשנייה, דבר שעלול לפגוע בפיזור הסיכונים.\n*   **שיתוף רציונל אישי בקהילה:** ניכר כי המשתתפים מרגישים צורך להסביר את המניעים האישיים שלהם להחלטות חריגות, כדי לספק הקשר לשאר חברי הקהילה ולהבהיר מדוע הם פועלים בניגוד להיגיון הכלכלי הקונבנציונלי."
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, הכולל 6 נקודות מבט ודעות שונות שהועלו בקהילה:\n\n*   **פתרונות טכנולוגיים לניהול חום בחלל:** הועלתה הטענה שניתן להתגבר על בעיית התחממות השרתים בחלל באמצעות שימוש ברדיאטורים הפועלים על פליטת קרינה אינפרה-אדומה (IR). זאת בניגוד לשיטות הקירור המקובלות בכדור הארץ המסתמכות על הולכה או הסעה של חום.\n*   **הצדקת שווי השוק והנפקת SpaceX:** הערכת השווי הגבוהה של החברה (1.74 טריליון דולר) נתפסת ככזו שמתמחרת \"שווקים עתידיים\" שיווצרו בזכות חללית הסטארשיפ (Starship), שווקים שעדיין אינם קיימים במלואם כיום. המכפיל הגבוה נחשב להגיוני רק אם מקבלים את הנחות הצמיחה לטווח ארוך.\n*   **יתרון תחרותי (Moat) מבוסס שיגור:** נטען כי היתרון המרכזי של SpaceX אינו טמון בפרויקט \"סטארלינק\" (שמתמודד עם תחרות מול סיבים אופטיים וטכנולוגיית 5G), אלא דווקא בנפח וביכולת השיגור חסרת התקדים של טילי הפאלקון 9, הדרגון ובעיקר הסטארשיפ.\n*   **היתכנות טכנולוגית מול כדאיות כלכלית:** קיימת הסכמה שמרכזי נתונים בחלל המונעים באנרגיה סולארית הם בהחלט בטווח היכולות הטכנולוגיות הנוכחיות של האנושות, אך יש ספק אם מדובר בתעשייה שתגלגל טריליוני דולרים.\n*   **סנטימנט השקעה מסויג:** למרות ההערכה להתקדמות הטכנולוגית ולפוטנציאל העתידי, ישנם קולות בקהילה המביעים חוסר רצון אישי להשקיע במניית SpaceX, גם אם הם סבורים שהחברה תצליח להגשים את חזונה בסופו של דבר.\n*   **התפתחות עתידית של תשתיות חלל:** קיימת ציפייה בקהילה לראות פיתוחים \"מגניבים\" כמו מרכזי נתונים סולאריים במסלול סביב כדור הארץ, כאשר התחושה היא שמדובר במוצר אפשרי מבחינה הנדסית שיהפוך למציאות במוקדם או במאוחר."
   },
   {
-    "id": "1tbi9jb",
-    "title": "Rheinmetall, what is your opinion?",
-    "url": "https://www.reddit.com/r/investing/comments/1tbi9jb/rheinmetall_what_is_your_opinion/",
-    "author": "Resident-Paint-8318",
+    "id": "1tcnooo",
+    "title": "I used to think gold was old-fashioned until I saw the prices keep rising",
+    "url": "https://www.reddit.com/r/investing/comments/1tcnooo/i_used_to_think_gold_was_oldfashioned_until_i_saw/",
+    "author": "keishapatel_387",
     "score": 1,
-    "selftext": "Discount of 40% from ATH, huge backlog, going into drones and announced a partnership with Deutsche Telekom. \n\nToday some bank upgraded it to a \"buy\". Spending on defense increases and even if the war stops then the depleted magazines need to be refilled.\n\nWhat do you think?",
+    "selftext": "A few years ago I thought investing in gold was something only parents and grandparents obsessed over.\n\nNow every time I see the price chart, I understand why people treated it so seriously.\n\nThe weird part is that even though prices are extremely high, people still keep buying it for weddings, gifts, traditions, and “security.” It’s almost emotional at this point, not just financial.\n\nBut I honestly wonder where the limit is.\n\nAt what point does gold become so expensive that regular middle-class families simply stop participating in the tradition altogether?\n\nCurious how everyone here sees it:  \nInvestment? Cultural pressure? Financial safety net? Or just fear of missing out?",
     "subreddit": "investing",
-    "created_utc": 1778628226,
+    "created_utc": 1778733712,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "The catalyst wasn’t untrained.. that helped but they really took off last year at the start of trump 2 after a hegseth speech calling Europeans freeloaders and saying th us wasn’t gonna support them going forward",
+        "body": "It’s not an investment. Preservation of value at best. \n\nFor something to be an investment, it has to generate cash flow while protecting the invested capital. ",
         "score": 1,
-        "author": "ninjagorilla"
+        "author": "LuciusQ2020"
       },
       {
-        "body": "2-5 years I love it and am buying…. They haven’t really seen the benefits of the increase euro defense spending because defense spending is slow as hell … but a 2% rise in European defense spending is BILLIONS and they have been acquiring like crazy this year.\n\nPlus we have 2.5 more years of trump fuckery which is only going to continue the pus for Europe to be self sufficient in defense ",
+        "body": "Ragebait got me riled up. Man i hate slop",
         "score": 1,
-        "author": "ninjagorilla"
+        "author": "xrmttf"
       },
       {
-        "body": "You are saying it cost more than a Shahed? You are going to need lasers for FPV, which is also being worked on",
+        "body": "I yearn for the day investing and finance subs ban ai authored content",
         "score": 1,
-        "author": "TheGodPePe"
+        "author": "DuckLIT122000"
       }
     ],
-    "summary_he": "הפוסט בוחן את כדאיות ההשקעה בחברת \"ריינמטאל\" (Rheinmetall), המציגה כעת הנחה משמעותית של 40% ממחיר השיא לצד צבר הזמנות מבטיח והתרחבות לתחום הכטב\"מים. הכותב מדגיש את העלייה הגלובלית בהוצאות הביטחון ואת הצורך במילוי מחסני התחמושת כזרזים לצמיחה עתידית, ללא קשר למועד סיום המלחמה.",
+    "summary_he": "הכותב מתאר כיצד שינה את דעתו על השקעה בזהב בעקבות עליית המחירים המתמשכת, תוך הבנה כי מדובר בנכס שמשלב מסורת, רגש וביטחון כלכלי. הוא תוהה מתי מחירו יהפוך לגבוה מדי עבור מעמד הביניים ומבקש להבין האם המניע העיקרי לרכישתו כיום הוא השקעה פיננסית, לחץ תרבותי או פחד מהחמצה.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים מרכזיים שעלו בקהילה:\n\n*   **הרטוריקה של ממשל טראמפ כזרז מרכזי:** אחד המגיבים טוען כי הנאומים של דמויות בממשל טראמפ (כמו הגסת'), שכינו את האירופאים \"נצלנים\" (freeloaders) והצהירו שארה\"ב לא תמשיך לתמוך בהם צבאית, היו הגורם המכריע שהניע את השינוי בשוק הביטחון.\n*   **אופטימיות להשקעה בטווח הבינוני:** קיימת הערכה חיובית מאוד לגבי השקעה במניות ביטחוניות לטווח של 2-5 שנים. הסנטימנט הוא שהשוק טרם ראה את מלוא היתרונות של הגדלת תקציבי הביטחון בגלל האיטיות המובנית בתהליכי רכש צבאיים.\n*   **היקפי רכש חסרי תקדים באירופה:** הקהילה מציינת כי העלייה ליעד של 2% מהתמ\"ג האירופי לביטחון מתרגמת למיליארדי דולרים, וכי מדינות אירופה נמצאות בתנופת רכישות מסיבית (\"רוכשות בטירוף\") בשנה האחרונה.\n*   **הדחיפה לעצמאות ביטחונית אירופית:** חוסר הוודאות הפוליטית בארה\"ב (המכונה בדיון \"Trump fuckery\") נתפס כגורם שימשיך לדחוף את אירופה לעבר עצמאות ביטחונית ואי-תלות באספקה אמריקאית בשנים הקרובות.\n*   **אתגר העלות מול כטב\"מים זולים:** עולה טענה לגבי חוסר האיזון הכלכלי במלחמה המודרנית, כאשר מערכות הגנה יקרות נאלצות להתמודד עם כטב\"מים זולים יחסית (כמו ה-Shahed האיראני), מה שמעלה שאלות לגבי כדאיות כלכלית של חלק מהטכנולוגיות.\n*   **הצורך הדחוף בטכנולוגיית לייזר:** כמענה לאיום הרחפנים (FPV), מצוין בקהילה כי ישנו צורך קריטי בפיתוח מערכות לייזר, וכי מדובר בתחום שנמצא כעת בעבודה אינטנסיבית כדי לספק פתרון יעיל וזול יותר ליירוט."
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג 6 נקודות מבט ורגשות שונים שעלו מתוך התגובות:\n\n*   **הגדרת המונח \"השקעה\":** אחד המשתמשים טוען כי לא כל רכישה של נכס היא השקעה. לשיטתו, מדובר ב\"שימור ערך\" במקרה הטוב, ולא מעבר לכך.\n*   **הצורך בתזרים מזומנים:** על פי דעת הקהילה, כדי שנכס ייחשב להשקעה אמיתית, הוא חייב לייצר תזרים מזומנים (Cash Flow) פעיל עבור המשקיע.\n*   **הגנה על ההון המושקע:** נקודת מבט נוספת מדגישה כי השקעה ראויה לשמה מחויבת לא רק לייצר רווח, אלא בראש ובראשונה להגן על הקרן (ההון הראשוני) שהושקעה.\n*   **התנגדות לתוכן \"Ragebait\":** בקהילה מביעים סלידה ותסכול מתוכן שנועד לעורר זעם מכוון (Ragebait) כדי להשיג מעורבות (Engagement), ומתארים זאת כתוכן מעורר כעס ומיותר.\n*   **סלידה מתוכן באיכות נמוכה (\"Slop\"):** קיים רגש שלילי חזק כלפי \"תוכן זבל\" (Slop) שמציף את הרשת, המאופיין בחוסר ערך או באיכות ירודה שפוגעת בחוויית המשתמש.\n*   **קריאה לאיסור על תוכן מבוסס בינה מלאכותית (AI):** עולה דרישה ברורה מצד משתמשים לאסור על פרסום תכנים שנכתבו על ידי בינה מלאכותית בפורומים העוסקים בפיננסים והשקעות, מתוך שאיפה לשמור על שיח אנושי ואותנטי."
+  },
+  {
+    "id": "1tcmodh",
+    "title": "Let's dissect MU stock risks",
+    "url": "https://www.reddit.com/r/investing/comments/1tcmodh/lets_dissect_mu_stock_risks/",
+    "author": "No_Conversation_9424",
+    "score": 1,
+    "selftext": "There has been explosive number of posts, comments, coverage, and articles on the memory sector. Using real numbers and sources, I want to dissect and chime in on trending topics including:   \n1) Capex concern   \n2) cyclical nature of semi sectors   \n3) AI bubble  \n  \n  \n**1) CAPEX concern- with brief recap on today's CISCO earning report**\n\nThe loudest argument against MU right now is the massive capex. People see 750+billion being poured into AI arms race and are rightfully concerned that Micron is blindly pumping out chips that will eventually oversupply the market while hyperscalers dial back. But let's look at the most recent data\n\n**Cisco Q3 2026 earnings report** (today May 13) just posted a blowout revenue beat of $15.8 billion, and their stock surged double digits. What stood out was their forward guidance. They’ve seen a 25% surge in networking orders. They then explicitly cited **higher memory prices** as a primary cause for margin contraction. Memory sectors aren't only sold out into 2027, they are sold out at an premium price per Cisco’s report. As well, I will get more into this in 2), but they are no longer making quarterly contracts. They are doing long-term contracts that also question the cyclical nature of semi sectors.  \n  \nInstitutions are re-pricing 12 months MU targets at $1000\\~2000. They are continually adjusting the price targets as they have rapidly become a chokehold to the entire data center building process. In the article below, hedge funds believe the true pricing of the MU will likely be reached mid of 2027. \n\ninteresting article if interested in samsung or sk: [https://www.bloomberg.com/news/newsletters/2026-05-13/samsung-sk-hynix-show-stubborn-korea-discount-persists-in-ai-age](https://www.bloomberg.com/news/newsletters/2026-05-13/samsung-sk-hynix-show-stubborn-korea-discount-persists-in-ai-age)\n\n**2) Cyclical nature of semis**\n\n\"It’s a cyclical stock, Sell at the peak!\" I see this comment every 10 minutes. And yes, historically, memory was a commodity like oil or wheat. But the 2026 version of Micron has undergone a fundamental \"de-commoditization.\"\n\nIn previous cycles, MU was at the mercy of the \"Consumer Duo\": Smartphones and PCs. When people stopped buying iPhones, Micron bled. Today, the demand has shifted to Data Center and Enterprise AI. These aren't impulsive consumer purchases; these are multi-year, multi-billion-dollar infrastructure projects. **Contracts are years long.** For the first time, HBM4 supply is being locked in **24 months in advance**.\n\nThe complexity of HBM4 has also effectively \"dampened\" the cycle. In the old days, a company could flip a switch and flood the market with DDR3. Today, if you want to increase HBM4 production, you need 18 months of lead time and a prayer that your TSV packaging doesn't fail. This \"complexity scarcity\" means we aren't going to see those massive, overnight price crashes that used to define the sector.\n\nFurthermore, look at the long-term agreements. For the first time in history, MU has locked in major Tier-1 customers into multi-year contracts for HBM supply through the end of 2027. We are moving toward a \"Subscription-lite\" model for hardware. When you have a sold-out order book for the next 18 months, the \"cyclical\" label starts to fade away. The floor for earnings is now significantly higher than it was in 2018 or 2022. We’re not looking at a boom-bust; we’re looking at a \"Stair-Step\" growth model where each trough is higher than the previous peak.\n\n**3) Bubble**\n\n If I hear one more person compare 2026 to 1999, I’m going to lose it. Let’s be clear: a bubble is when speculation outpaces utility. In the Dot-Com era, companies were getting billion-dollar valuations just for having a \".com\" suffix, despite having negative cash flow and business models that were basically \"vibes and prayers.\"  \n  \nToday, the utility of AI isn't a \"maybe\", it’s being proven in real-time through Inference. We’ve officially moved past the \"Training\" phase where everyone was just buying chips to build models. We are now in the Inference Era, where those models are actually working. Every time a customer service agent is replaced by an AI agent, or a developer uses an AI-pairing tool to write 40% more code, that is an inference event.   \n  \nThe biggest differentiator from the Dot-Com bubble?   \n  \n1) Proven profitability and structural scarcity. Sold Out: As of this morning, Micron’s HBM4 capacity is sold out through the end of 2027. You can’t have a speculative bubble in a product that has 100% committed demand from the world’s largest companies (NVIDIA, Microsoft, Amazon).    \n2)Real Margins: In 1999, tech companies were bleeding cash. In 2026, Micron is reporting gross margins north of 50%. This isn't \"hope\"; it’s high-margin, high-moat manufacturing.  \n3)Long-Term Agreements (LTAs): The re-pricing of the semiconductor industry is being driven by multi-year contracts. Hyperscalers aren't just buying spot-market chips; they are signing 2-3 year deals to ensure they don't get left behind in the HBM4 transition.  ",
+    "subreddit": "investing",
+    "created_utc": 1778730748,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I swear this subreddit and r/etfs are 90% just AI posts with an agenda ",
+        "score": 1,
+        "author": "karmawaffles"
+      },
+      {
+        "body": "It's not X it's Y. Looks sloppy.",
+        "score": 1,
+        "author": "infected_scab"
+      },
+      {
+        "body": "Springe immer direkt zum Ende. 😄\n\nDie meisten dieser Aktien haben noch viel Potenzial. Renditen von 200, 300 oder 400 % innerhalb eines Jahres sind bei diesen Kursen zwar unwahrscheinlich, aber das Wachstumspotenzial ist dennoch beträchtlich.",
+        "score": 1,
+        "author": "Ziegelmarkt"
+      }
+    ],
+    "summary_he": "הפוסט מנתח את מניית Micron (MU) וטוען שהחברה עוברת שינוי מבני ממחזוריות מסורתית לצמיחה יציבה בזכות הביקוש העצום לשבבי זיכרון עבור תשתיות בינה מלאכותית. הכותב מדגיש כי המלאי של החברה מכור מראש עד שנת 2027 וכי חוזים ארוכי טווח עם ענקיות טכנולוגיה מפריכים את החשש מבועה ומבטיחים רווחיות גבוהה לאורך זמן.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן ניתוח של התגובות המובילות מהדיון, הכולל סיכום של 6 נקודות מבט וסנטימנטים שעלו בקהילה:\n\n*   **חשד לאוטומציה ובינה מלאכותית:** קיימת תחושת ספקנות חזקה בקרב המשתמשים לגבי האותנטיות של התוכן. אחד המגיבים טוען שרוב הפוסטים בקהילה (ובקהילות פיננסיות דומות) נוצרים על ידי בינה מלאכותית (AI).\n*   **חשש מאג'נדות נסתרות:** מעבר לשימוש בטכנולוגיה, עולה החשד שהפוסטים אינם תמימים אלא נועדו לקדם אינטרסים מסוימים או \"אג'נדות\" של גורמים עלומים.\n*   **ביקורת על רמת הדיוק וההגשה:** משתמשים מצביעים על חוסר מקצועיות בתוכן, כולל טעויות עובדתיות (\"זה לא X אלא Y\") ותחושה כללית שהפוסט נראה מרושל ולא מהימן.\n*   **הרגלי קריאת תוכן ארוך:** עולה דפוס התנהגות שבו קוראים נוטים לדלג על גוף הטקסט ולקפוץ ישירות לשורה התחתונה או לסיכום בסוף הפוסט כדי לחסוך זמן.\n*   **ריאליזם מול פנטזיה בשוק ההון:** קיימת הבנה מפוכחת בקהילה ששיעורי רווח קיצוניים (כמו 200% עד 400% בשנה) הם בלתי סבירים במחירי השוק הנוכחיים, למרות הנטייה של פוסטים מסוימים להבטיח זאת.\n*   **אופטימיות לגבי פוטנציאל צמיחה:** למרות הביקורת על התוכן והציפיות המוגזמות, עדיין קיים סנטימנט חיובי לגבי המניות המדוברות, תוך הכרה בכך שיש להן פוטנציאל צמיחה משמעותי לטווח הרחוק."
+  },
+  {
+    "id": "1tcm2nd",
+    "title": "Inflation is surging yet the market is at all-time highs",
+    "url": "https://www.reddit.com/r/investing/comments/1tcm2nd/inflation_is_surging_yet_the_market_is_at_alltime/",
+    "author": "SnowSilent7695",
+    "score": 1,
+    "selftext": "Inflation has picked up significantly yet the market continues to hit all time highs. A really strong earnings season is a huge reason why. Nearly 95% of S&P companies have beaten their earnings and year over year eps growth is \\~15%. \n\nGuidance is also pretty positive among large caps in the S&P, with many (industrials, Tech, and Financials) raising guidance.\n\nThere's the classic saying that the market is not the economy and that appears especially true for the large caps in the S&P right now.\n\nBtw, I put together a [deeper dive](https://flexreportfinapi.com/get-newsletter-insight?article_title=Earnings%20Season%20Deep%20Dive%20Excel%20-%202026-05-11), in case any one is interested.\n\n\n\n",
+    "subreddit": "investing",
+    "created_utc": 1778729041,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "It's a downloadable pdf report.",
+        "score": 1,
+        "author": "SnowSilent7695"
+      },
+      {
+        "body": "Government prints money. money goes into stocks. inflation and stocks go up. Value of dollar goes down.\n\nThe lesson? Don't hold cash. Buy appreciating assets: homes, stocks, etc.",
+        "score": 1,
+        "author": "Doodl3s"
+      },
+      {
+        "body": "I got a virus clicking on the link. ",
+        "score": 1,
+        "author": "PumpkinConscious5930"
+      }
+    ],
+    "summary_he": "למרות האינפלציה הגואה, שוק המניות ממשיך לשבור שיאים בזכות עונת דוחות כספיים חזקה במיוחד וצמיחה מרשימה ברווחי החברות ב-S&P 500. התחזיות האופטימיות של החברות הגדולות במדד מדגישות את הפער הקיים לעיתים בין מצב הכלכלה הכללי לבין ביצועי שוק ההון.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון בשרשור המבוסס על התגובות המובילות, הכולל 6 נקודות מבט ותובנות שונות:\n\n*   **אופי התוכן:** הקישור ששותף בשרשור מוביל לדוח בפורמט PDF הניתן להורדה למכשיר.\n*   **הקשר בין ממשל לשוק ההון:** קיימת טענה כי הדפסת כסף מסיבית על ידי הממשלה היא הגורם המרכזי שמזרים הון לשוק המניות ומעלה את ערכן.\n*   **השפעת האינפלציה:** המשתמשים מצביעים על כך שתהליך הזרמת הכספים מוביל בהכרח לאינפלציה ולשחיקת כוח הקנייה של המטבע (במקרה זה, הדולר).\n*   **אסטרטגיית החזקת מזומן:** בקהילה קיימת דעה נחרצת נגד החזקת כסף מזומן \"מתחת לבלטה\" או בחשבון עובר ושב, מכיוון שערכו יורד לאורך זמן.\n*   **המלצות להשקעה בנכסים:** כחלופה למזומן, מוצע לרכוש נכסים שערכם נוטה לעלות (Appreciating assets) כמו מניות או נדל\"ן, כדי להגן על ההון מפני ירידת ערך המטבע.\n*   **אזהרת אבטחת מידע:** אחד המשתמשים דיווח כי לחיצה על הקישור בפוסט גרמה להדבקת המחשב שלו בווירוס, מה שמעלה חשש לגבי אמינות ובטיחות המקור."
+  },
+  {
+    "id": "1tckqtc",
+    "title": "With Warsh confirmed as the Federal Reserve Chairman, what should I be aware of when investing in gold?",
+    "url": "https://www.reddit.com/r/investing/comments/1tckqtc/with_warsh_confirmed_as_the_federal_reserve/",
+    "author": "BigExpress8345",
+    "score": 1,
+    "selftext": "[Senate confirms Trump pick Warsh as chairman of the Federal Reserve, following Powell](https://apnews.com/article/fed-warsh-senate-confirmation-b665712fa5d40d3fcea53d80d0a79c64)\n\nI woke up this morning to a news report: Warsh has been confirmed as the new Chairman of the Federal Reserve. To be honest, this result wasn't entirely unexpected, but it still gave me a slight jolt. The more practical question is: what does this mean for my gold investments?",
+    "subreddit": "investing",
+    "created_utc": 1778725473,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Yes just like exchanges technically are supposed to register every share of stock bought and sold, and yet the supply gets diluted in dark pools and after market trading.\n\nTry this: why don’t the physical gold gains match the stock gold gains?",
+        "score": 1,
+        "author": "ThreeTonChonker"
+      },
+      {
+        "body": "Yes and the dump for gold will be quicker than retail can do anything about it, and yet everyone knows it’s coming.\n\nGet out while you can.",
+        "score": 1,
+        "author": "ThreeTonChonker"
+      },
+      {
+        "body": "Hold on - you're mixing up inflation vs. economic turmoil\n\nThe original comment was that gold is a good hedge against inflation. It isn't. Gold's performance does not correlate with inflation\n\nAt the tail end of your 2000-2010 time period, during and after the GFC, gold rallied hard despite inflation plummeting. If it was primarily an inflation hedge, it should have slumped\n\nEconomic turmoil and risk off sentiment - that's what gold is mainly for. Not inflation hedging",
+        "score": 1,
+        "author": "kwijibokwijibo"
+      }
+    ],
+    "summary_he": "הפוסט דן במינויו של קווין וורש ליו\"ר הפדרל ריזרב החדש ובהשלכות הכלכליות הצפויות של המהלך. הכותב מבקש להבין כיצד שינוי זה בהנהגת הבנק המרכזי עשוי להשפיע על שוק הזהב ועל אסטרטגיית ההשקעה שלו בנכס זה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ותובנות שונות שעלו בשרשור:\n\n*   **חוסר שקיפות ודילול היצע בשוק המניות:** הבעת ספקנות לגבי האופן שבו בורסות מתנהלות. נטען כי למרות שהן אמורות לרשום כל מניה, ההיצע בפועל מדולל באמצעות מסחר ב\"בריכות אפלות\" (Dark Pools) ומסחר מחוץ לשעות הפעילות, מה שפוגע בערך המניות.\n*   **הפער בין זהב פיזי למניות זהב:** קיימת תהייה לגבי חוסר ההתאמה בין הרווחים המופקים מהחזקת זהב פיזי לבין הביצועים של מניות הקשורות לזהב, דבר המרמז על כך שהשקעה בניירות ערך אינה משקפת נאמנה את ערך הנכס.\n*   **חשש מקריסה מהירה ופתאומית:** קיימת סנטימנט של פחד מפני \"מכירה המונית\" (Dump) של זהב שתתרחש במהירות גבוהה מזו שהמשקיעים הקטנים (Retail) יוכלו להגיב אליה, למרות שהכתובת נמצאת על הקיר.\n*   **קריאה ליציאה מהשוק:** עמדה פסימית הממליצה למשקיעים \"לצאת כל עוד הם יכולים\", מתוך הנחה שהנפילה בערך הנכס קרובה ובלתי נמנעת.\n*   **הזהב אינו כלי יעיל נגד אינפלציה:** ביקורת על התפיסה המקובלת שזהב הוא גידור טוב נגד אינפלציה. נטען כי אין מתאם ישיר בין ביצועי הזהב לבין עליית המדדים, וכי זו טעות נפוצה של משקיעים.\n*   **זהב כנכס למצבי קיצון וסיכונים (Risk-off):** הבחנה בין אינפלציה לבין טלטלה כלכלית. הטענה היא שתפקידו האמיתי של הזהב הוא לשמש כמקלט בזמן משברים כלכליים וסנטימנט של בריחה מסיכון, כפי שקרה במשבר של 2008, אז מחיר הזהב זינק למרות שהאינפלציה צנחה."
+  },
+  {
+    "id": "1tckicb",
+    "title": "Looking on feedback on how do people generally trim down their portfolio?",
+    "url": "https://www.reddit.com/r/investing/comments/1tckicb/looking_on_feedback_on_how_do_people_generally/",
+    "author": "bad_detectiv3",
+    "score": 1,
+    "selftext": "So like many folks here and other places lately, the massive run has in the market has created phenomenal run. I do want to sell some portion of portfolio and have cash on the side - I am okay to miss out on future gains.\n\nOne basic strategy is to sell the initial capital and leave free money to float. I don't have that many position that returned 100% \n\nI'm eye balling my portfolio and returns thus far has been high 30%. \n\nWhat is optimum strategy to sell? Sell 30% or 50% of the position and place it elsewhere or leave money invested and let the funds weather the storm.",
+    "subreddit": "investing",
+    "created_utc": 1778724870,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "for me trimming is best done by resetting your portfolio to its original target weights rather than selling based on a gut feeling that the market is too high. I used lattice finance to confirm that you should focus on trimming individual stocks that have grown to exceed 10% of your total wealth, ensuring one bad move doesn't sink your entire portfolio.",
+        "score": 1,
+        "author": "Worried_Gain_5191"
+      },
+      {
+        "body": "Generally in 2 different scenarios.\n\n=Take profit.\n\n=Or when losers keep losing. I don't hold on to stocks that keep dropping where the narrative has changed.\n",
+        "score": 1,
+        "author": "Dracomies"
+      },
+      {
+        "body": "There's no one \"right\" answer, but a systematic approach helps avoid the emotional trap of selling too much or too little.\n\n\nOne method: set target allocation percentages for each position (e.g., no single stock more than 5% of portfolio, no sector more than 25%). When the market run pushes a position above its target, you trim back to the target. This forces you to sell when things are up without trying to time the top. It's mechanical, not emotional.\n\n\nAnother approach I've seen work well: instead of selling to cash, rotate winners into structured notes or buffer ETFs that offer downside protection. The thinking is: you lock in gains on the equity side, but the cash goes into instruments with 8-12% yield potential and -35% to -40% barriers. You're not fully out of the market, but you've capped your downside while still generating income.\n\n\nFor example, if you're sitting on a position that's up 40% and you're worried about a pullback, you could sell the original cost basis (locking in risk-free position) and keep the \"house money\" running. Or sell all of it and put 70% into a structured note with barrier protection and keep 30% in cash to deploy on a dip.\n\n\nThe key is having a plan before the emotions kick in. Whatever rule you set, write it down and stick to it.",
+        "score": 1,
+        "author": "booobReviewer"
+      }
+    ],
+    "summary_he": "הכותב מבקש עצות לגבי הדרכים המומלצות לדילול תיק ההשקעות שלו לאחר עליות משמעותיות בשוק ורווחים של כ-30%. הוא מעוניין לממש חלק מהרווחים כדי להחזיק מזומן בצד, ומתלבט בין אסטרטגיות שונות כמו מכירת אחוז מסוים מהפוזיציה לעומת השארת הכסף מושקע כדי \"לצלוח את הסערה\".",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שהועלו בשרשור בנוגע לדילול (Trimming) של תיק השקעות:\n\n*   **איזון מחדש (Rebalancing) במקום תחושות בטן:** הגישה המועדפת על חלק מהמשקיעים היא לא למכור על סמך תחושה שהשוק \"גבוה מדי\", אלא לבצע איזון מחדש של התיק לפי משקלי היעד המקוריים שנקבעו מראש.\n*   **ניהול סיכונים וריכוזיות:** מומלץ לדלל מניות בודדות שצמחו יתר על המידה והגיעו למשקל של מעל 10% מסך התיק. זאת כדי למנוע מצב שבו מהלך שלילי במניה אחת יגרום לנזק בלתי הפיך לכלל התיק.\n*   **מכירה בעקבות שינוי בנרטיב:** יש לדלל או למכור מניות לא רק כדי לממש רווחים, אלא גם כשהן ממשיכות לרדת והסיבה המקורית להשקעה בהן (\"הסיפור\" של המניה) השתנתה או כבר אינה תקפה.\n*   **שימוש במכסות קשיחות (Target Allocation):** אימוץ גישה מכנית ולא רגשית על ידי קביעת אחוזי הקצאה ברורים (למשל: לא יותר מ-5% למניה בודדת ולא יותר מ-25% לסקטור מסוים). כאשר מניה חורגת מהרף, מוכרים את העודף באופן אוטומטי.\n*   **רוטציה למכשירים מוגנים:** במקום למכור למזומן, ניתן להעביר רווחים ממניות שעלו למכשירים פיננסיים המציעים הגנה מפני ירידות (כמו Buffer ETFs או מובנים). כך נשארים בשוק עם הגנה על הקרן תוך ניסיון לייצר תשואה נוספת.\n*   **אסטרטגיית \"הכסף של הבית\":** כאשר פוזיציה עלתה משמעותית, ניתן למכור את שווי ההשקעה המקורי (הקרן) ולהשאיר רק את הרווחים בשוק. כך המשקיע מבטיח שלא יפסיד את כספו המקורי וממשיך להחזיק במניה \"בחינם\".\n*   **חשיבותה של תוכנית כתובה:** המפתח להימנעות ממלכודות רגשיות הוא כתיבת תוכנית פעולה ברורה מראש. תוכנית כתובה עוזרת למשקיע לדבוק בכללים שהציב לעצמו גם ברגעים של תנודתיות או פחד בשוק."
+  },
+  {
+    "id": "1tckgaw",
+    "title": "Let’s turn 1k to 100k by the end of the year",
+    "url": "https://www.reddit.com/r/investing/comments/1tckgaw/lets_turn_1k_to_100k_by_the_end_of_the_year/",
+    "author": "smiling_doc",
+    "score": 1,
+    "selftext": "Just want to see some average joe’s get a win and interested how people would go about doing it. Realize you could lose the 1k but it’s not money I’m afraid to lose. Just curious if we could get a group to follow trades together and teach others how to get better results along the way. ",
+    "subreddit": "investing",
+    "created_utc": 1778724721,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Invent your own pyramid scheme?",
+        "score": 1,
+        "author": "SnooSketches6618"
+      },
+      {
+        "body": "It's not amazing but I turned my $4k into $44k currently, less than two years 🧐\n\nLiterally all I do is sell covered calls",
+        "score": 1,
+        "author": "Exclave4Ever"
+      },
+      {
+        "body": "How about the end of next month? ",
+        "score": 1,
+        "author": "Esc4flown3"
+      }
+    ],
+    "summary_he": "כותב הפוסט מציע אתגר להפיכת 1,000 דולר ל-100,000 דולר עד סוף השנה ומחפש שותפים לדרך. הוא מעוניין להקים קבוצת מסחר שיתופית שבה יוכלו \"אנשים רגילים\" ללמוד זה מזה ולעקוב אחר עסקאות יחד, תוך הבנה של הסיכון הכספי הכרוך בכך.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט ורגשות קהילתיים שונים:\n\n*   **אסטרטגיית מסחר ספציפית:** אחד המגיבים מציג את השימוש ב-\"Covered Calls\" (כתיבת אופציות רכש מכוסות) כשיטה מרכזית לייצור רווחים משמעותיים בשוק ההון.\n*   **הצלחה פיננסית חריגה וצניעות מעושה:** קיימת עדות להפיכת סכום קטן יחסית (4,000$) לסכום גדול משמעותית (44,000$) תוך פחות משנתיים, תוך הצגת ההישג כ\"לא מדהים\" (סוג של \"התרברבות ענווה\" האופיינית לקהילות אלו).\n*   **ציניות כלפי דרכי התעשרות:** התגובה המציעה \"להמציא הונאת פירמידה משלך\" משקפת נימה צינית וביקורתית לגבי הקושי להרוויח כסף רב בדרכים כשרות או מוסכמות.\n*   **ספקנות לגבי המשכיות:** השאלה \"מה לגבי סוף החודש הבא?\" מבטאת ספקנות קהילתית טיפוסית ותוהה האם הרווחים הללו בני-קיימא או שמדובר במזל רגעי שעלול להימחק במהירות.\n*   **חשדנות כלפי רווחים מהירים:** הקישור בין הצלחה כלכלית לבין הונאות פירמידה מעיד על כך שחלק מהקהילה רואה ברווחים יוצאי דופן סימן אזהרה או פעילות בלתי מוסרית.\n*   **התמקדות בטווח הקצר מול הארוך:** הדיון נע בין הישגים של שנתיים לבין דאגה מהתנודתיות של החודש הקרוב, מה שמדגיש את המתח שבו נמצאים סוחרים בין אסטרטגיה ארוכת טווח לתנודות השוק המיידיות."
+  },
+  {
+    "id": "1tcjrxs",
+    "title": "Finding a risk-adjusted discount rate for a sole proprietorship",
+    "url": "https://www.reddit.com/r/investing/comments/1tcjrxs/finding_a_riskadjusted_discount_rate_for_a_sole/",
+    "author": "opposity",
+    "score": 1,
+    "selftext": "I am working on a project where I need to calculate a risk-adjusted discount rate for a sole proprietorship. This individual does consulting engagements and makes a high six-figure revenue on an annual basis. My first instinct was to use the modified CAPM and get a size premium. Does that make sense? Any ideas or suggestions would be highly appreciated.",
+    "subreddit": "investing",
+    "created_utc": 1778723008,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Modified CAPM + size premium makes sense, but a sole prop consultant is basically all key-person risk. If the guy stops working, the business kinda stops too. I’d probably add an extra company-specific premium on top.",
+        "score": 1,
+        "author": "namopifiyuuuu"
+      },
+      {
+        "body": "Sole proprietorship is weird because even if it looks like a company with capital value, it's often more like labor income of a single individual. What is the capital asset here, this individuals personal business relationships and their future labor?",
+        "score": 1,
+        "author": "Huge-Albatross9284"
+      }
+    ],
+    "summary_he": "הכותב מבקש להתייעץ לגבי חישוב שיעור ניכיון (Discount Rate) מותאם לסיכון עבור עסק בבעלות יחיד בתחום הייעוץ, המניב הכנסות שנתיות גבוהות. הוא שוקל להשתמש במודל CAPM מתוקן הכולל פרמיית גודל (Size Premium) ומחפש הצעות לשיפור או אישוש לגישה זו.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ודעות שונות בנוגע להערכת שווי של עסק בבעלות יחיד (Sole Proprietorship):\n\n*   **התאמת מודלים כלכליים סטנדרטיים:** קיימת הסכמה ששימוש במודל CAPM (מודל לתמחור נכסי הון) בתוספת \"פרמיית גודל\" הוא נקודת פתיחה הגיונית, אך היא אינה מספיקה כשלעצמה לעסק של אדם אחד.\n*   **סיכון \"אדם מפתח\" (Key-person risk):** הקהילה מדגישה את הסיכון הקיצוני הקיים בעסק המבוסס על אדם בודד; אם בעל העסק מפסיק לעבוד, הפעילות העסקית ככל הנראה תיעצר לחלוטין, מה שמוריד משמעותית את ערך העסק עבור קונה פוטנציאלי.\n*   **צורך בפרמיית סיכון ספציפית:** מעבר למדדים הרגילים, נטען כי יש להוסיף \"פרמיה ספציפית לחברה\" (Company-specific premium) כדי לשקף את חוסר היציבות והתלות המוחלטת בבעלים.\n*   **מהות הנכס – הון או עבודה?:** עולה תהייה פילוסופית-כלכלית האם עסק כזה הוא בכלל \"נכס הוני\" בעל ערך מכירתי, או שמא מדובר פשוט בייצוג של הכנסה מעבודה של אדם פרטי.\n*   **קושי בהגדרת הנכסים המוחשיים:** המגיבים תוהים מהו בעצם ה\"נכס\" שנמכר בעסק של יועץ עצמאי – האם אלו הקשרים האישיים שלו? המוניטין שלו? או שמא פשוט כוח העבודה העתידי שלו, שאינו ניתן להעברה בקלות.\n*   **טשטוש בין הפרטי לעסקי:** הדיון משקף ספקנות לגבי היכולת להפריד בין הישות העסקית לבין הזהות האישית של הבעלים, דבר שהופך את הערכת השווי למורכבת ואולי אף לבלתי רלוונטית במודלים מסורתיים."
   }
 ];
