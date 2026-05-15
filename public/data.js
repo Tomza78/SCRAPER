@@ -1,379 +1,318 @@
 window.dailyTrends = [
   {
-    "id": "1tb9l51",
-    "title": "Hit $100K… But It Came With More Risk Than I’d Recommend",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1tb9l51/hit_100k_but_it_came_with_more_risk_than_id/",
-    "author": "mahend72",
-    "score": 4,
-    "selftext": "Just crossed the $100,000 mark in my account today.\n\nA big part of the gains came from taking aggressive positions in quantum-related stocks. It worked out well, but honestly, the volatility and emotional swings were much bigger than I expected.\n\nOne thing this journey taught me:    \nhigh growth feels exciting on green days, but concentration risk becomes very real when the market turns.\n\nI am grateful the trades worked, but going forward I will probably shift part of the portfolio into something more stable like VOO instead of keeping everything tied to high-beta momentum names.\n\nThe goal now feels less about chasing huge moves… and more about protecting what took years to build.\n\nI am looking how others handle this phase:    \nAfter a big portfolio run-up, do you keep pushing aggressively or slowly rotate into safer investments?",
+    "id": "1tc8q9z",
+    "title": "Nebius posts blowout earnings",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1tc8q9z/nebius_posts_blowout_earnings/",
+    "author": "proctu",
+    "score": 30,
+    "selftext": "NBIS just dropped an absolute monster Q1.\n\nRevenue $399M vs $375-389M consensus. Cool, fine. But EPS came in at -$0.23 vs the -$0.78 the street was modeling - 70% smaller loss and it wasn't from cutting spend, it's revenue absorbing costs at a scale none of these models had on the cards.\n\n684% YoY growth. $50M a year ago to $399M today. Read that twice.\n\nThe number nobody is going to talk about enough: Adj EBITDA flipped from -$53.7M to +$129.5M in a single year. COGS went from 49c on the dollar to 26c. That's operating leverage hitting at scale, not a vibes growth story.\n\n2026 guide $3-3.4B. Full year '25 was $530M. They're telling you this quarter is the floor not the ceiling.\n\nAlso casually slipped in 1.2GW of power + land for a new owned AI factory in PA. Capacity is being locked up in real time. The $50B contracted backlog now has actual visibility behind it.\n\nShort interest still climbing into this print.. \n\nChart told us 2 weeks ago. Fundamentals are sprinting to catch up. When both line up like this you size up - market isn't handing you a re-entry on this one.\n\n  \nI love it when analysts need to catch up too. This stock tends to dilute after big moves so watch out for that dip. When it comes it'll rip again. ",
     "subreddit": "StockMarket",
-    "created_utc": 1778609136,
-    "thumbnail": "https://preview.redd.it/dqp6oug4yq0h1.jpeg?width=140&height=65&auto=webp&s=db7f7ca2d3af4f7e312a7ca147556dd63a6b9ce0",
+    "created_utc": 1778697641,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Crazy stock. 60% up since i entered ",
+        "score": 3,
+        "author": "michaelosz"
+      }
+    ],
+    "summary_he": "חברת Nebius (NBIS) הציגה דוחות רבעוניים חזקים במיוחד עם צמיחה של 684% בהכנסות ומעבר לרווחיות תפעולית (EBITDA חיובי) שהפתיעו לטובה את תחזיות האנליסטים. לצד תחזיות הכנסות מרשימות ל-2026 והתרחבות בתשתית ה-AI, הכותב מדגיש כי היסודות העסקיים של החברה חזקים מאוד כרגע. עם זאת, הוא ממליץ למשקיעים לעקוב אחר \"דיפ\" (ירידה) פוטנציאלי במניה, שכן היא נוטה לבצע דילול מניות לאחר עליות חדות.",
+    "category_he": "עסקים",
+    "comments_summary_he": "מכיוון שסופקה תגובה אחת בלבד, הניתוח להלן מפרק את הלך הרוח והנקודות העולות ממנה ל-6 היבטים שונים של סנטימנט קהילתי ואישי:\n\n*   **התלהבות מהביצועים (Hype):** הכותב מבטא התלהבות רבה מהתנהגות המניה ומתאר אותה כ\"מטורפת\" (Crazy), מה שמעיד על מניה עם מומנטום חזק מאוד שמושכת תשומת לב.\n*   **שביעות רצון מהרווחים:** הנקודה המרכזית היא הצלחה פיננסית מרשימה – עלייה של 60% בערך ההשקעה בפרק זמן קצר יחסית (מאז הכניסה).\n*   **חשיבות התזמון:** התגובה מדגישה את חשיבות נקודת הכניסה (\"מאז שנכנסתי\"), מה שמרמז על כך שהמשקיע הצליח לזהות הזדמנות לפני הזינוק הגדול.\n*   **תנודתיות גבוהה:** השימוש במילה \"Crazy\" (מטורפת) בהקשר של מניה שעולה ב-60%, מעיד על כך שמדובר בנכס בעל תנודתיות גבוהה, דבר שמאפיין לעיתים קרובות מניות צמיחה או מניות ספקולטיביות.\n*   **ביטחון באסטרטגיה:** הדיווח על הרווח הגבוה משדר ביטחון עצמי של המשקיע בהחלטה שקיבל, ומהווה מעין \"אישור\" (Validation) להצלחתו בבחירת המניה.\n*   **יצירת עניין (FOMO):** תגובות מסוג זה בקהילות כמו Reddit נועדו לעיתים קרובות לשתף בהצלחה אך גם יוצרות \"חשש מהחמצה\" (FOMO) אצל קוראים אחרים שרואים את הזינוק החד ולא לקחו בו חלק."
+  },
+  {
+    "id": "1tdqicm",
+    "title": "Ive built this site for fun that tells you exactly how the news affect your life & money",
+    "url": "https://www.reddit.com/r/finance/comments/1tdqicm/ive_built_this_site_for_fun_that_tells_you/",
+    "author": "saintofsmallallies",
+    "score": 1,
+    "selftext": "I built to work as a filter between the news to reduce anxiety, but also to explain how different news affect my life and money in real terms - I use it daily and maybe some of you might find it helpful. ",
+    "subreddit": "finance",
+    "created_utc": 1778835141,
+    "thumbnail": "default",
     "top_comments": [],
-    "summary_he": "הכותב משתף שהגיע ליעד של 100 אלף דולר בתיק ההשקעות בזכות פוזיציות אגרסיביות ומסוכנות, אך מזהיר מפני התנודתיות והלחץ הנפשי שנלוו לכך. בעקבות הניסיון, הוא מתכנן להעביר חלק מהתיק למדדים יציבים יותר (כמו VOO) כדי להגן על הרווחים שצבר במקום להמשיך לרדוף אחרי תשואות גבוהות. כעת הוא מתייעץ עם הקהילה האם נכון להמשיך בקו אגרסיבי או לעבור לאסטרטגיה סולידית יותר לאחר השגת רווח משמעותי.",
-    "category_he": "השקעות",
+    "summary_he": "הנה סיכום של הפוסט בעברית:\n\nהכותב פיתח אתר שנועד לסנן את זרם החדשות ולהסביר באופן מעשי כיצד הן משפיעות על חיי היומיום ועל המצב הכלכלי של המשתמש. מטרת הכלי היא להפחית חרדה על ידי הצגת ההשלכות האמיתיות של אירועי האקטואליה במונחים מוחשיים ורלוונטיים.",
+    "category_he": "פיננסים",
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1tb32py",
-    "title": "Galaxy Digital $GLXY Helios AI Infrastructure DD",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1tb32py/galaxy_digital_glxy_helios_ai_infrastructure_dd/",
-    "author": "j1022",
-    "score": 3,
-    "selftext": "Galaxy Digital (GLXY) is still primarily valued by the market as a financial services company, with earnings tied to trading activity, Bitcoin cycles, and broader digital asset volatility. That framework is increasingly outdated because it does not reflect the scale or structure of the AI infrastructure business being built through Helios, a hyperscale data center campus in West Texas designed for large scale artificial intelligence compute workloads.\n\nHelios is positioned around one of the most constrained inputs in the AI economy, which is power availability at industrial scale. The campus is being developed in phases and is designed to scale into the multi-gigawatt range over time, supported by secured grid capacity in ERCOT. This is not a traditional data center buildout aimed at speculative colocation demand. It is purpose-built infrastructure aligned with long-duration AI compute requirements where power, land, and speed-to-deployment are the bottlenecks.\n\nA major catalyst that materially de-risks the early phases of this buildout is the structured agreement with CoreWeave, an AI cloud infrastructure provider scaling aggressively alongside demand for GPU compute. CoreWeave As part of this partnership, CoreWeave has committed approximately $1.4 billion in project financing tied directly to the Helios buildout, helping fund infrastructure expansion while also anchoring long-term compute demand. This structure is important because it effectively aligns capital deployment with contracted usage rather than speculative capacity expansion.\n\nBased on disclosed expectations around this agreement, Helios is projected to generate roughly $1 billion in annual revenue for Galaxy once the relevant phases are fully operational and utilization ramps. This figure reflects infrastructure-level economics rather than pure operating profit, meaning it is tied to capacity deployment, power usage, and long-term contracted compute demand rather than volatile trading activity. In practical terms, this shifts a meaningful portion of Galaxy’s future earnings base into recurring, infrastructure linked cash flow rather than market sensitive revenue streams.\n\nThe importance of this structure is that Helios transitions from being a development stage asset into a partially de-risked, contract backed AI infrastructure platform. Instead of building capacity first and searching for demand later, Galaxy is scaling infrastructure alongside anchored demand and financing support. The $1.4 billion in project financing from CoreWeave functions not only as capital support but also as a signal of committed utilization for early build phases, reducing uncertainty around ramp timing and adoption.\n\nAs Helios expands beyond initial phases, the revenue profile of Galaxy begins to materially shift. The company moves from being primarily dependent on market conditions toward a hybrid structure where a growing portion of EBITDA is driven by contracted AI infrastructure cash flows. This creates a dual engine model where operations remain cyclical upside exposure, while Helios becomes a more stable, long-duration revenue base tied to physical compute demand.\n\nThe market inefficiency today is that GLXY is still being valued predominantly through a financial services lens rather than an infrastructure or AI compute framework. If Helios executes according to its current buildout plan, and if the projected $1 billion annual revenue contribution materializes at scale, the business profile evolves into something structurally different. At that point, Galaxy is no longer just a native financial company with an AI initiative. It becomes a power-constrained AI infrastructure operator with an embedded financial business layered on top.\n\nIn traditional market re-rating cycles, businesses that transition from volatile financial earnings models into contracted infrastructure cash flow models typically see valuation frameworks expand significantly due to improved visibility, duration, and scarcity of underlying assets. Helios represents that type of transition mechanism within Galaxy, with CoreWeave acting as the anchor tenant and financing partner that helps initiate the shift from speculative development to contracted AI infrastructure scale.\n\nMy position is 1154 shares at 31.88.\n\nThis is not financial advice.\n\nEdit: \n\nTLDR: Galaxy Digital is still being valued like a financial company, but Helios is shifting it into an AI infrastructure business. The CoreWeave deal includes about $1.4B in project financing and anchors early demand, with expectations of around $1B in annual revenue once buildout phases are online. This turns Helios into a contracted AI compute campus rather than a speculative data center, meaning a large portion of GLXY’s future earnings could come from stable infrastructure cash flows, which is why the market may eventually re-rate the stock significantly if execution continues.",
-    "subreddit": "StockMarket",
-    "created_utc": 1778595616,
-    "thumbnail": "https://preview.redd.it/kgsyh9bxtp0h1.jpeg?width=140&height=58&auto=webp&s=e152dff6947506dcc36dffc8ae97a793f09089c5",
-    "top_comments": [
-      {
-        "body": "Really solid DD. The biggest point here is the market still seems to price GLXY like a crypto trading business, while Helios is starting to look more like scarce AI infrastructure with contracted demand behind it. If they execute, the multiple the market applies to those cash flows could look very different in a few years.",
-        "score": 2,
-        "author": "mahend72"
-      },
-      {
-        "body": "Are they still looking for tenants? Or at capacity? Are they breaking ground on any new DCs do we know at this time?\n\nI’ve made a few plays on Glxy and done ok. I just sat out a while and am interested to see if it’s worth coming back in and seeing any short to mid term catalysts ",
-        "score": 1,
-        "author": "ajwill0"
-      },
-      {
-        "body": "The loss was due to crypto markets being down this past quarter. They’re not in too many pots? Lol they had a btc mining facility that they’re converting to a data center with a 15 year lease with coreweave. So id say thats a positive addition to their business. The company is a data center/ai play long term with crypto finance interest as well but still too associated with crypto and not enough as a data center yet but once revenue starts rolling in from that data center then sentiment would change along with repricing. They’re still undervalued at this time with most analyst rating it $38-$60 range. I think they could potentially partner up with other companies once the data center is up and running. Their contract with coreweave does not prevent them from taking on new clients. ",
-        "score": 1,
-        "author": "j1022"
-      }
-    ],
-    "summary_he": "חברת Galaxy Digital עוברת מהפך מחברה פיננסית התלויה בתנודתיות שוק הקריפטו לספקית תשתיות בינה מלאכותית (AI) באמצעות פרויקט Helios, שצפוי להניב הכנסות שנתיות של כמיליארד דולר. שיתוף פעולה אסטרטגי עם CoreWeave מבטיח מימון של 1.4 מיליארד דולר וביקוש קשיח, מה שיוצר לחברה בסיס רווחים יציב וארוך טווח. הפוסט טוען כי השוק עדיין מתמחר את החברה בחסר לפי המודל הישן, ומתעלם מהערך המשמעותי של נכסי התשתית והמחשוב שברשותה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע למניית GLXY (Galaxy Digital), המציג 6 נקודות מרכזיות ודעות שונות שעלו מצד הגולשים:\n\n*   **שינוי תדמיתי ותמחור שוק:** השוק עדיין מתמחר את GLXY כחברה העוסקת במסחר בקריפטו בלבד, אך הגולשים מציינים כי מתקן \"הליוס\" הופך לתשתית בינה מלאכותית (AI) קריטית. אם החברה תצליח ליישם את המעבר הזה, המכפיל שהשוק נותן לתזרים המזומנים שלה עשוי לעלות משמעותית בשנים הקרובות.\n*   **הסבת מתקני כרייה למרכזי נתונים:** אחד היתרונות המרכזיים שצוינו הוא הפיכת מתקן לכריית ביטקוין למרכז נתונים המיועד ל-AI. המהלך כולל חוזה חכירה משמעותי ל-15 שנה עם חברת CoreWeave, מה שנתפס כתוספת חיובית ויציבה מאוד לעסק.\n*   **חוסר הלימה בין סנטימנט להכנסות:** קיימת הערכה שהסנטימנט בשוק ישתנה רק ברגע שההכנסות ממרכז הנתונים יתחילו לזרום בפועל. נכון לעכשיו, החברה עדיין מזוהה מדי עם תנודתיות שוק הקריפטו (מה שהוביל להפסדים ברבעון האחרון), ופחות מדי כחברת תשתית AI.\n*   **הערכת שווי ופוטנציאל רווח:** בקרב הקהילה ישנה תחושה שהחברה מוערכת בחסר (Undervalued). צוין כי רוב האנליסטים מעניקים למניה דירוג המציב את מחיר היעד בטווח של 38–60 דולר, מה שמעיד על פוטנציאל עלייה משמעותי.\n*   **חיפוש אחר \"טריגרים\" (Catalysts) לטווח קצר:** חלק מהמשקיעים שיושבים כעת \"על הגדר\" מחפשים סימנים קונקרטיים לחזרה להשקעה, כגון מידע על בניית מרכזי נתונים חדשים או סטטוס התפוסה של המתקנים הקיימים, כדי להבין אם יש פוטנציאל לרווח בטווח הקצר והבינוני.\n*   **גמישות עסקית ושותפויות עתידיות:** הודגש כי החוזה עם CoreWeave אינו בלעדי ואינו מונע מהחברה לקחת לקוחות נוספים. הגולשים מאמינים שברגע שמרכז הנתונים יהיה פעיל במלואו, ייווצרו הזדמנויות לשותפויות עם חברות טכנולוגיה נוספות, מעבר לענף הקריפטו."
-  },
-  {
-    "id": "1tc368j",
-    "title": "Anomaly Spotter for the Indian Markets. Will add US if you guys say this is useful, it was just a project but thought of sharing.",
-    "url": "https://www.reddit.com/r/finance/comments/1tc368j/anomaly_spotter_for_the_indian_markets_will_add/",
-    "author": "GettingFamous4",
+    "id": "1tdomd6",
+    "title": "Right mentality for buying calls?",
+    "url": "https://www.reddit.com/r/investing/comments/1tdomd6/right_mentality_for_buying_calls/",
+    "author": "Vilgan",
     "score": 1,
-    "selftext": "Check it out and let me know if this is actually useful or would you recommend some more things. Or any other general suggestions. Would love your views. It's a very basic version, would be improving upon it. This not promotional btw.\n\n[https://anomaly-spotter.vercel.app/](https://anomaly-spotter.vercel.app/)\n\nAlso, if you have ideas for anything else that should be built for Indian/US/Global markets. Please do suggest.\n\nLet me know if this has a real use case.",
-    "subreddit": "finance",
-    "created_utc": 1778686422,
-    "thumbnail": "default",
-    "top_comments": [
-      {
-        "body": "hidden post history vibe coded nonsense spam",
-        "score": 1,
-        "author": "GaboureySidibe"
-      },
-      {
-        "body": "Bro if this works just call Jane Street. Lol. ",
-        "score": 1,
-        "author": "roboboom"
-      }
-    ],
-    "summary_he": "הכותב פיתח כלי בסיסי לאיתור חריגות (Anomalies) בשוק ההון ההודי ושיתף אותו כדי לקבל משוב מהקהילה על נחיצותו ועל אפשרויות לשיפור. הוא מבקש הצעות לפיצ'רים נוספים ושואל האם כדאי להרחיב את השירות גם לשוק האמריקאי ולשווקים גלובליים אחרים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח של התגובות מהשרשור, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה:\n\n*   **חשד באמינות המשתמש:** אחד המגיבים מצביע על כך שהיסטוריית הפוסטים של כותב ההודעה מוסתרת, מה שמעורר בקרב הקהילה תחושה של חוסר שקיפות או ניסיון להסתיר דפוסי פעולה קודמים.\n*   **ביקורת על שימוש במושגים ריקים מתוכן:** עולה טענה שהפוסט כתוב בשפה שנראית מתוחכמת לכאורה (\"vibe coded\") אך בפועל היא נתפסת כגיבוב של מילים חסרות משמעות או \"שטויות\".\n*   **תיוג התוכן כספאם:** קיים סנטימנט חריף המבטל את הפוסט ומסווג אותו כתוכן זבל (Spam) שאינו ראוי להתייחסות רצינית או לדיון מעמיק.\n*   **השוואה לסטנדרטים הגבוהים ביותר בתעשייה:** האזכור של חברת \"ג'יין סטריט\" (Jane Street), הידועה כאחת מחברות המסחר הכמותי היוקרתיות והרווחיות בעולם, נועד להמחיש שאם הרעיון אכן עובד, הוא שווה מיליארדים.\n*   **ספקנות מהולה בציניות:** השימוש בביטויים כמו \"Bro\" ו-\"Lol\" מעיד על כך שהמגיבים לא באמת מאמינים להיתכנות של הנאמר בפוסט, ורואים בו הצהרה יומרנית ומנותקת מהמציאות.\n*   **הכרה בפוטנציאל הכלכלי (בהנחה שזה נכון):** לצד הספקנות, עולה הנקודה שאם הטכנולוגיה או השיטה המוצעת אכן פועלת, המקום הנכון עבורה הוא בשוק ההון הגבוה ולא בפורום אינטרנטי, בשל ערכה העצום."
-  },
-  {
-    "id": "1tcrc6q",
-    "title": "Bitcoin: The Bidding War for Nothing and the Ultimate Winner’s Curse",
-    "url": "https://www.reddit.com/r/investing/comments/1tcrc6q/bitcoin_the_bidding_war_for_nothing_and_the/",
-    "author": "BinaryLyric",
-    "score": 1,
-    "selftext": "Imagine you’re at an auction. The room is electric. People are shouting, prices are climbing, and your heart is racing because you really, really want to win. Finally, the gavel drops. You’ve done it. You beat everyone else. You walk up to the stage to collect your prize, and while you have the item in your hands, you realize you paid far more than it is actually worth.\n\n\n\nIn economics, we call this the \"winner’s curse.\" It’s that sinking feeling you get when you realize you won the bidding war only because you were the person willing to overpay the most. Usually, this happens with houses or companies. But with Bitcoin, we are seeing the winner’s curse taken to a level we’ve never seen before. We’ve watched a global bidding war drive the price from a fraction of a penny to over $100,000, but the \"winners\" are waking up with nothing.\n\n\n\nWhen we talk about the market, we are usually bidding on three specific things. First, there are physical goods, things like a house, a car, a rare painting, or a collectible that you can actually hold and display. Second, there are digital goods, like a software product you use, a video you watch, or a music file you listen to. Finally, there are claims. If you have money in a bank account, that is a claim on bank borrowers. That's because this money is created as loans. The borrowers have to provide their labor, their goods, or their services to money holders just to get the money to pay back those loans. If they fail, the banks provide holders with their seized collateral. Even things like e-money, gift cards, or casino chips are claims on an issuer who must redeem them. Stocks, bonds, patents, and copyrights are all the same: they are legal claims on future cash or the right to an idea.\n\n\n\nBut Bitcoin breaks this entire logic. When you participate in this bidding war, you aren't getting a physical good like a painting or a house. You aren't getting a digital good like a piece of software. And you aren't getting a claim. There is no issuer to redeem it, no company paying you, and no borrower working to give your \"money\" value. There isn't even a \"token\" in the traditional sense, because a token is a claim on the person who issued it.\n\n\n\nThe Bitcoin system displays numbers to you, suggesting that you hold something in proportion to those numbers. But there is literally nothing.\n\n\n\nPeople have spent years competing, outbidding each other, and throwing trillions of dollars at nothing. They’ve turned the winner’s curse into a sport. By driving the price of a \"nothing\" from zero to $100,000, they haven't discovered a new kind of wealth. They’ve just created the most expensive empty box in human history. The winner’s curse hasn't just happened; it’s been maximized.",
+    "selftext": "Hi all,  \n  \nFor investing, I tend to be one who happily buys dips which has worked out well and is probably a strength. Conversely, I think I'm too quick to sell once things start going well which probably hurts me more than helps.  \n  \nI bought a bunch of HOOD calls recently after the last earnings report was bad because it seemed obvious to me that Jan-Mar was going to be bad but the market picked up in Apr so the May 13 report would likely spike prices. My prediction was that the combined May 13 and then similar June reporting would push HOOD into the low-mid 90s (or higher) before the June monthly so I bought a lot of calls at 80 for the June monthly. This was my first time buying a good amount of short calls, previously I had always either sold short term calls or bought LEAPs.  \n  \nHowever, when the market spiked today to 81.5ish, the calls were up nearly 100% so I caved and sold them all to lock in the profit. That much profit is normally great, but if I had been completely wrong and HOOD tanked my loss would have been 100% so not actually that impressive.  \n  \nWhat is normal strategy when buying short term calls? I'm more familiar with selling puts where if I'm 75% profit pretty quickly I'll cash out. However, if I limit my upside on short term calls by checking out too quickly I might be hurting my ability to properly enjoy the large gains if right.  \n  \nAnyway, just pondering. This was my first foray into buying non LEAP calls so still very unsure about my strategy here. Comments/thoughts/wisdom appreciated :)",
     "subreddit": "investing",
-    "created_utc": 1778745419,
+    "created_utc": 1778828756,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "It's weird, I opened this post, and within about three words I could just tell it was pointless AI trash. As I'm sure everyone else could. \n\nNo idea why anyone bothers with this nonsense. ",
+        "body": "The strategy is to get 100% gains in less than 2 weeks. Congrats you did the strat. ",
         "score": 1,
-        "author": "octoesckey"
-      },
-      {
-        "body": "Which is incidentally also a nice metaphor for the current state of crypto.",
-        "score": 1,
-        "author": "Bleizwerg"
-      },
-      {
-        "body": "Hey at least they removed the em dashes.",
-        "score": 1,
-        "author": "GrahamGreed"
+        "author": "Aint_EZ_bein_AZ"
       }
     ],
-    "summary_he": "הפוסט משווה את העלייה במחיר הביטקוין למושג הכלכלי \"קללת המנצח\", מצב שבו המשתתפים במכירה פומבית משלמים מחיר מופרז על נכס שאין לו ערך פנימי. הכותב טוען שבניגוד למוצרים פיזיים או התחייבויות פיננסיות (כמו מניות או חוב), לביטקוין אין גיבוי, מנפיק או תועלת ממשית, ולמעשה מדובר ב\"קופסה ריקה\" יקרה להחריד שהמנצחים בה נותרים ללא דבר.",
+    "summary_he": "הכותב מתלבט לגבי המנטליות הנכונה בקניית אופציות CALL לטווח קצר, לאחר שמכר פוזיציה ברווח של 100% אך תהה אם מימש אותה מוקדם מדי. הוא חושש שנטייתו למכור מהר כדי לנעול רווחים פוגעת ביכולתו למקסם את הפוטנציאל הנדרש כדי לפצות על הסיכון הממשי לאובדן מלא של ההשקעה. לאור זאת, הוא מחפש עצות לניהול אסטרטגיית יציאה באופציות קצרות מועד בהשוואה לשיטות מסחר אחרות המוכרות לו.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות בשרשור, הכולל 6 נקודות מבט ורגשות מרכזיים של הקהילה:\n\n* **זיהוי מיידי של תוכן מלאכותי:** המגיבים מציינים כי ניתן לזהות כמעט באופן מיידי (תוך מילים ספורות) שמדובר בתוכן שנוצר על ידי בינה מלאכותית (AI), מה שמעיד על חוסר האותנטיות הבולט שלו.\n* **תפיסת התוכן כחסר ערך (\"זבל\"):** קיימת הסכמה רחבה בקרב המשתמשים שהפוסט המדובר הוא \"זבל חסר טעם\" (pointless trash), ואין בו כל תועלת ממשית לקוראים.\n* **תסכול ופליאה על עצם הפרסום:** המגיבים מביעים תמיהה וחוסר הבנה מדוע אנשים בכלל טורחים להשקיע זמן ביצירה או בפרסום של תכנים מלאכותיים וריקים מתוכן כאלו.\n* **השוואה ביקורתית לעולם הקריפטו:** אחד המגיבים משתמש בפוסט כבמטאפורה למצב הנוכחי של שוק מטבעות הקריפטו, ורומז שגם הוא הפך לתחום רועש, ריק מתוכן וחסר ערך אמיתי.\n* **התייחסות לפרטים טכניים וסגנוניים:** הקהילה מבחינה בניסיונות (כושלים או מינוריים) לשפר את הנראות של הטקסט, כמו הסרת סימני פיסוק מסוימים (em dashes), אך רואה בכך פעולה שולית שלא משנה את איכות התוכן הירודה.\n* **נימה כללית של ציניות וזלזול:** הדיון מאופיין בגישה סקפטית וצינית מאוד כלפי פוסטים שנוצרו על ידי מכונה, תוך הדגשה שרוב חברי הקהילה חולקים את אותה תחושת מיאוס מהתופעה."
+    "comments_summary_he": "הנה סיכום של הדיון בהתבסס על התגובה שסיפקת, המנתח את הלך הרוח והדעות המובאות בה (שים לב שהניתוח מתייחס להיבטים השונים העולים מהתגובה הבודדת בהקשר של קהילת מסחר):\n\n**סיכום הדיון:**\n\n* **הגדרת הצלחה דרך רווחים קיצוניים:** התפיסה המרכזית היא שהצלחה אינה נמדדת בתשואה שנתית מתונה, אלא בהכפלה מוחלטת של הקרן (100% רווח).\n* **חשיבות אלמנט המהירות:** האסטרטגיה ממוקדת בטווח זמן קצר מאוד (פחות משבועיים), מה שמדגיש העדפה למסחר אגרסיבי ותנודתי על פני השקעה לטווח ארוך.\n* **תיקוף ואישור חברתי (Validation):** השימוש במילה \"מזל טוב\" (Congrats) מעיד על כך שהקהילה מעריכה ומכבדת משתמשים שמצליחים לעמוד ביעדים מסוכנים כאלו.\n* **נורמליזציה של סיכון גבוה:** ההתייחסות למהלך כאל \"האסטרטגיה\" (The Strat) מרמזת על כך שבקהילה זו, הימורים בסיכון גבוה נחשבים לשיטת עבודה לגיטימית ולא למקרה יוצא דופן.\n* **מינימליזם ותמציתיות:** הדיון משקף הלך רוח שבו אין צורך בניתוחים פנדמנטליים מעמיקים; הניצחון נמדד בשורה התחתונה של אחוז הרווח בזמן נתון.\n* **תחושת שייכות סביב \"שיטות\" מוכרות:** הדובר מתייחס למהלך כאל \"האסטרטגיה\", מה שיוצר תחושה של שפה משותפת וכללים פנימיים המוכרים לחברי הקהילה (Insider logic)."
   },
   {
-    "id": "1tcp6ar",
-    "title": "I moved 20% to treasuries a while ago betting on a pullback. Some data came in this week that wasn't in my thesis.",
-    "url": "https://www.reddit.com/r/investing/comments/1tcp6ar/i_moved_20_to_treasuries_a_while_ago_betting_on_a/",
-    "author": "Hungry-Command-8454",
+    "id": "1tdirp9",
+    "title": "What's the best strategy as a 30 year old?",
+    "url": "https://www.reddit.com/r/investing/comments/1tdirp9/whats_the_best_strategy_as_a_30_year_old/",
+    "author": "cloutvegan",
     "score": 1,
-    "selftext": "Posted about this before. Moved 15% of my equity allocation into short duration treasuries on the breadth divergence. Added another 5% after PPI came in at 6%. The thesis was simple, CPI at 3.8%, breadth at 53%, rate hike odds at 39%, pullback to the 20 day around 700-710.\n\nSPY is at 744. Still holding the treasuries at 4.3%. But some data came across this week that wasn't part of my original analysis and it changes the setup enough that I want to lay it out.\n\nM2 money supply hit a new all time high of $22.6 trillion in February. Growing 4.8% year over year after contracting in 2022-2023 for the first time since the 1930s. That contraction coincided with the bear market. The re-expansion is running right alongside this rally. The Fed is also running $40 billion a month in Treasury purchases they're calling \"Reserve Management Purchases.\" That's QE with a different press release. Bank deposits up $611 billion since December per Fed data. That's a wall of new liquidity entering the system in 5 months and it goes a long way toward explaining why SPY keeps grinding higher on days when the macro says it shouldn't.\n\nThe breadth story is also more nuanced than I was treating it. StockCharts published a piece this week showing the Value Line Arithmetic Index, which tracks the average stock equally weighted, is actually beating SPY year to date. The \"two thirds of stocks closed red\" stat I cited was one PPI reaction session. Over the quarter the picture looks different.\n\nTudor Jones compared this to 1999 and I cited that as bearish last week. Didn't include the part where he said the rally could run another one to two years before anything breaks. That context matters.\n\nNot unwinding the treasuries yet. CPI and PPI are real numbers and NVDA earnings May 20 could go either way. But I'm not adding to the defensive position either. If NVDA delivers and the liquidity data keeps trending this way, I'll probably start rotating half back into equities by month end. The original thesis was built on breadth and inflation. The liquidity side of the equation is pushing in the other direction harder than I accounted for.",
+    "selftext": "Just curious what would you all say I should prioritize to invest in for my taxable account that I just opened? for some context I've maxed my roth ira for 3 years now and is about 80% s&p 20% international- roth ira account is with fidelity\n\nMy taxable account is with fidelity as well, should I go some VTI, VOO, a combination of those two and more? I know they're some possible overlapping at times but wanted to hear what you all thought, pros/cons etc. I appreciate the advice ",
     "subreddit": "investing",
-    "created_utc": 1778738286,
+    "created_utc": 1778811362,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "bro youre doing great like youre successfully updating your strategy as new data arrives rather than sticking to a plan that the market is currently ignoring. I used lattice finance to confirm that while M2 money supply and Fed liquidity are pushing stocks higher, your original concerns about high inflation and narrow market breadth remain real risks that could trigger a pullback later.",
+        "body": "Honestly, consistency probably matters more than squeezing extra optimization from VOO vs VTI. I’d focus on tax efficiency, low fees, and sticking with one clear allocation long term.",
         "score": 1,
-        "author": "cuddlyviola_7"
+        "author": "Internal_Mortgage863"
       },
       {
-        "body": "honestly the discipline to actually rebalance to your thesis is rare on this sub, even if the thesis ends up wrong. but 20pct in short duration treasuries at 4.3pct is a fine 'wait for confirmation' position - youre paid to wait. don't add more on confirmation bias from M2, let price action confirm the thesis before adding",
+        "body": "Why are you guys so obsessed with declaring this is not financial advice? Haha he is literally asking for financial advice and you are giving him financial advice. ",
         "score": 1,
-        "author": "MartinEdge42"
+        "author": "sonspurs"
       },
       {
-        "body": "Smart move treasuries can be a solid hedge when rates shift, even if the timing feels like a gamble.",
+        "body": "I started at 24 and thought I was doing well. This man started at 19 lol. Good for him that’s awesome and glad to hear his parents taught him young. I didn’t even know what that was until 23. ",
         "score": 1,
-        "author": "Little_kitty_2822"
+        "author": "whosthatguy123"
       }
     ],
-    "summary_he": "הכותב העביר 20% מתיק המניות שלו לאג\"ח ממשלתיות כהימור על תיקון בשוק, אך כעת הוא בוחן מחדש את עמדתו בשל נתונים המצביעים על הזרמת נזילות מאסיבית למערכת ועלייה באספקת הכסף (M2). למרות החששות המקוריים מאינפלציה, הוא נמנע מהגדלת הפוזיציה ההגנתית ושוקל לחזור למניות בהתאם לתוצאות דוחות אנבידיה ומגמות הנזילות בשוק.",
+    "summary_he": "הכותב, בן 30 שכבר מיצה את תקרת ההפקדות בחשבון הפרישה שלו (Roth IRA), מבקש המלצות לבניית תיק השקעות בחשבון חדש החייב במס. הוא מתלבט בעיקר בין קרנות סל כמו VTI ו-VOO ותוהה לגבי שילוב ביניהן, יתרונות וחסרונות, וכיצד להימנע מחפיפה מיותרת בין הנכסים.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ותובנות מרכזיות שעלו מהתגובות:\n\n*   **חשיבות הגמישות האסטרטגית:** חברי הקהילה משבחים את היכולת לעדכן את אסטרטגיית ההשקעה בהתאם לנתונים חדשים הזורמים מהשוק, במקום להיצמד לתוכנית מקורית שהשוק כבר אינו פועל לפיה.\n*   **הגורמים לעליות הנוכחיות:** קיימת הסכמה כי היצע הכסף (M2) והנזילות שמזרים הפדרל ריזרב הם המנועים העיקריים שדוחפים כרגע את המניות מעלה, גם אם זה נראה מנוגד לנתונים אחרים.\n*   **סיכוני מאקרו מתמשכים:** למרות העליות, משקיעים מדגישים כי החששות המקוריים מאינפלציה גבוהה ומרחב שוק מצומצם (narrow market breadth) הם עדיין סיכונים ריאליים שעלולים להוביל לתיקון משמעותי בהמשך.\n*   **הערכה למשמעת השקעתית:** הקהילה מעריכה מאוד את המשמעת לבצע \"איזון מחדש\" (rebalancing) של התיק בהתאם לתזה מוגדרת, גם אם בסופו של דבר התזה תתברר כשגויה, שכן מדובר בתכונה נדירה אצל משקיעים פרטיים.\n*   **אסטרטגיית \"תשלום עבור המתנה\":** החזקת אג\"ח ממשלתיות לטווח קצר (בתשואה של כ-4.3%) נתפסת כעמדה חכמה המאפשרת למשקיע להמתין לאישור המגמה בשוק תוך כדי צבירת ריבית בסיכון נמוך.\n*   **זהירות מהטיית אישור (Confirmation Bias):** עולה אזהרה שלא להגדיל פוזיציות רק בגלל נתון בודד שתומך בתזה (כמו היצע הכסף), אלא להמתין שפעולת המחיר בשוק (Price Action) תאשר את התחזית לפני שמבצעים מהלכים אגרסיביים נוספים."
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המובילות בשרשור:\n\n*   **חשיבות העקביות על פני אופטימיזציה:** נטען כי התמדה ועקביות בתוכנית ההשקעות חשובות הרבה יותר מהניסיון \"לסחוט\" עוד קצת רווח באמצעות בחירה בין מדדים דומים מאוד (כמו VOO מול VTI).\n*   **התמקדות ביעילות ועלויות:** יש לשים דגש מרכזי על ניהול השקעות יעיל מבחינת מס, שמירה על דמי ניהול נמוכים והיצמדות לאסטרטגיית הקצאת נכסים ברורה לטווח ארוך.\n*   **האירוניה סביב הדיסקליימר המשפטי:** עלתה תהייה משועשעת לגבי הנטייה של גולשים להצהיר שדבריהם אינם מהווים \"ייעוץ פיננסי\", למרות שהם עונים ישירות לבקשות לייעוץ ונותנים המלצות כספיות בפועל.\n*   **הערכה להתחלה בגיל מוקדם:** הקהילה מביעה הערכה רבה (ואף פליאה) כלפי צעירים שמתחילים להשקיע כבר בגיל 19, דבר שנחשב ליתרון אדיר בהשוואה לאלו שהתחילו בשנות ה-20 המוקדמות לחייהם.\n*   **חשיבות החינוך הפיננסי מהבית:** מודגש התפקיד הקריטי של ההורים בהקניית אוריינות פיננסית וידע על שוק ההון כבר מגיל צעיר, דבר שאינו מובן מאליו עבור רבים.\n*   **תחושת פספוס אישי לעומת הדור הצעיר:** קיימת נימה של השוואה אישית, שבה משקיעים בשנות ה-20 לחייהם מרגישים \"מאחור\" כשהם נחשפים לצעירים שהתחילו לפניהם, מה שמדגיש את המודעות הגוברת להשקעות בקרב הדור החדש."
   },
   {
-    "id": "1tcoca3",
-    "title": "SpaceX IPO who is in for the ride?",
-    "url": "https://www.reddit.com/r/investing/comments/1tcoca3/spacex_ipo_who_is_in_for_the_ride/",
-    "author": "LuciusQ2020",
+    "id": "1tdfklh",
+    "title": "have been saving to buy a home in cash... but no idea when i'll buy. should i move most of that over to a brokerage, and settle for a 20% down payment?",
+    "url": "https://www.reddit.com/r/investing/comments/1tdfklh/have_been_saving_to_buy_a_home_in_cash_but_no/",
+    "author": "europeanuppercut",
     "score": 1,
-    "selftext": "**Segment Revenue**  \nResidential Starlink $50B  \nEnterprise / aviation / maritime $30B  \nDirect-to-device $15B  \nGovernment / defense $30B  \nLaunch $15B  \nStarship-created markets $10B  \nTotal $150B\n\nHere’s my trusted friend ChatGPT gave me. With this estimate, I can’t see how anybody justify the rumored 1.74 trillion IPO. I also see Starlink has a revenue ceiling as not everyone wants to pay for the high latency and low speed network. It has its use, but not in the real competition with fiber and 5G. \n\nI am not convinced that space is a gold mine. Am I missing something here?",
+    "selftext": "34, single.  income is $150-250k/year, depending on commission.  401k (currently at $415k) is maxed out, no longer qualify for roth ira.  mega backdoor roth through 401k.  about $520k in money market (3.15%) for emergency/eventual down payment on home.\n\ni love the idea of buying a home in cash, or paying as much as i can up front, but i know i'm losing out on time in the market...  so i'm thinking i should open a taxable brokerage and invest in s&p 500...  i have no idea when or where i'm going to buy a home.\n\nshould i move $300k into a brokerage, keep $20k for emergency, and settle for $200k as a 20% (at least) down payment?  or should i do less than $300k?",
     "subreddit": "investing",
-    "created_utc": 1778735679,
+    "created_utc": 1778802970,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "You can get rid of the heat. Radiators. Ditching the heat via (IR) radiation rather than convection or conduction as you would down here. I don't think the market for datacentres in space is a trillion dollar industry, but it's not some impossible product. ",
+        "body": "Idk, assuming 600K house at 20% down, they will be paying like 300K in interest over first 10 years. \n\nIf the market does well, yes you'll come out ahead, but it's not going to be a crazy difference like those that got a mortgage at 3% or something. If it does poorly, well that's going to hurt, knowing you could have paid off your house and instead lost like 10-20% in the market during that time plus paid 300K in interest on top.\n\nDon't think it's so cut and dry at these rates. Of course people have recency bias  though, that strategy worked so well for so many when rates were low.\n\nIf you do pay off you'll have a lot more free cashflow so can always DCA in aggressively. ",
         "score": 1,
-        "author": "Relentless_Fiend"
+        "author": "setzer"
       },
       {
-        "body": "the 1.74T IPO valuation is pricing in starship-enabled markets that dont fully exist yet. 150B run-rate revenue at 11x sales is rich but defensible if you accept the long-tail growth assumption. the moat isnt starlink (which faces fiber/5G competition) - its launch capacity. dragon, falcon 9, and especially starship volume is what justifies the multiple",
+        "body": "The home loan subsidy is one of the greatest wealth generators available to the masses. Why would you bypass it? ",
         "score": 1,
-        "author": "MartinEdge42"
+        "author": "donnie1977"
       },
       {
-        "body": "I can imagine. However, compared to the technology we have achieved this far, it’s probably within our capabilities.\n\nWould certainly be cool to see solar powered data centers in space someday. I expect we likely will eventually. Definitely not investing in spaceX, personally though",
+        "body": "I would definitely put down atleast 20% to avoid PMI. Then it's really up to your risk profile. How stable is your job? At your age, as long as you believe your job is stable or you could find another quickly, I would put more into the market and go slightly aggressive. How much is your quoted mortgage rate? I would assume around 6.5%, which is very close to a conservative market return. You would most likely make much more than that with investing. My two cents would be to put around 30% down.",
         "score": 1,
-        "author": "Tomato-Tomato-Tomato"
+        "author": "Huffnpuff9"
       }
     ],
-    "summary_he": "הכותב מטיל ספק בשווי המדובר של SpaceX לקראת הנפקה פוטנציאלית (כ-1.74 טריליון דולר), בטענה שתחזיות ההכנסות אינן מצדיקות הערכה כזו. הוא מביע ספקנות לגבי יכולת התחרות של Starlink מול תשתיות סיבים ו-5G, ותוהה האם תעשיית החלל היא אכן \"מכרה זהב\" כפי שרבים חושבים.",
+    "summary_he": "כותב הפוסט מתלבט האם להמשיך להחזיק בחיסכון של כ-520 אלף דולר במזומן לצורך רכישת בית, או להשקיע את רובו בשוק ההון כדי לא להפסיד תשואות פוטנציאליות. לאור חוסר הוודאות לגבי מועד ומיקום הרכישה, הוא שוקל להשקיע 300 אלף דולר במדד S&P 500 ולהסתפק בעתיד במקדמה של 20% במקום רכישה מלאה במזומן.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, הכולל 6 נקודות מבט ודעות שונות שהועלו בקהילה:\n\n*   **פתרונות טכנולוגיים לניהול חום בחלל:** הועלתה הטענה שניתן להתגבר על בעיית התחממות השרתים בחלל באמצעות שימוש ברדיאטורים הפועלים על פליטת קרינה אינפרה-אדומה (IR). זאת בניגוד לשיטות הקירור המקובלות בכדור הארץ המסתמכות על הולכה או הסעה של חום.\n*   **הצדקת שווי השוק והנפקת SpaceX:** הערכת השווי הגבוהה של החברה (1.74 טריליון דולר) נתפסת ככזו שמתמחרת \"שווקים עתידיים\" שיווצרו בזכות חללית הסטארשיפ (Starship), שווקים שעדיין אינם קיימים במלואם כיום. המכפיל הגבוה נחשב להגיוני רק אם מקבלים את הנחות הצמיחה לטווח ארוך.\n*   **יתרון תחרותי (Moat) מבוסס שיגור:** נטען כי היתרון המרכזי של SpaceX אינו טמון בפרויקט \"סטארלינק\" (שמתמודד עם תחרות מול סיבים אופטיים וטכנולוגיית 5G), אלא דווקא בנפח וביכולת השיגור חסרת התקדים של טילי הפאלקון 9, הדרגון ובעיקר הסטארשיפ.\n*   **היתכנות טכנולוגית מול כדאיות כלכלית:** קיימת הסכמה שמרכזי נתונים בחלל המונעים באנרגיה סולארית הם בהחלט בטווח היכולות הטכנולוגיות הנוכחיות של האנושות, אך יש ספק אם מדובר בתעשייה שתגלגל טריליוני דולרים.\n*   **סנטימנט השקעה מסויג:** למרות ההערכה להתקדמות הטכנולוגית ולפוטנציאל העתידי, ישנם קולות בקהילה המביעים חוסר רצון אישי להשקיע במניית SpaceX, גם אם הם סבורים שהחברה תצליח להגשים את חזונה בסופו של דבר.\n*   **התפתחות עתידית של תשתיות חלל:** קיימת ציפייה בקהילה לראות פיתוחים \"מגניבים\" כמו מרכזי נתונים סולאריים במסלול סביב כדור הארץ, כאשר התחושה היא שמדובר במוצר אפשרי מבחינה הנדסית שיהפוך למציאות במוקדם או במאוחר."
+    "comments_summary_he": "להלן ניתוח של הדיון בפורום Reddit, המרכז שש נקודות מבט ומרכיבים מרכזיים שעלו מתוך דברי הגולשים:\n\n*   **שינוי במשוואת הכדאיות בשל הריביות הגבוהות:** הגולשים מציינים כי בתנאי הריבית הנוכחיים (סביב 6.5%), ההחלטה אם להשקיע את הכסף או לפרוע את המשכנתא כבר אינה פשוטה כפי שהייתה כשהריביות עמדו על 3%. עלויות הריבית המצטברות לאורך העשור הראשון של ההלוואה עשויות להגיע למחצית משווי הנכס, מה שמאתגר את הרווח הפוטנציאלי מהשקעה מקבילה בשוק ההון.\n*   **הסיכון להפסד כפול:** קיים חשש ממצב שבו השוק יציג ביצועים חלשים. במקרה כזה, המשקיע עלול לספוג הפסדים בתיק ההשקעות (למשל ירידה של 10-20%) ובמקביל להמשיך לשלם ריביות גבוהות על המשכנתא, בעוד שפירעון הבית היה מעניק לו ביטחון כלכלי וחיסכון ודאי בעלויות הריבית.\n*   **הטיית האישור (Recency Bias):** המגיבים מזהירים מפני הסתמכות יתרה על אסטרטגיות שעבדו היטב בעשור האחרון. הגישה של \"לקחת משכנתא מקסימלית ולהשקיע את השאר\" הפכה לנורמה בגלל תקופה ארוכה של ריביות אפסיות, אך המציאות הכלכלית החדשה מחייבת חשיבה מחודשת ולא אוטומטית.\n*   **המינוף ככלי לצבירת עושר:** מנגד, יש הטוענים כי משכנתא היא אחד הכלים הפיננסיים העוצמתיים ביותר הנגישים לציבור הרחב. לשיטתם, \"סבסוד\" הדיור באמצעות הלוואות הוא מנוע ליצירת הון שאסור לוותר עליו בקלות, שכן הוא מאפשר להחזיק בנכס יקר תוך שימוש בהון עצמי נמוך יחסית.\n*   **חשיבות התזרים הפנוי (Cash Flow):** דעה בולטת גורסת כי סגירת המשכנתא או צמצום החוב מייצרים חופש כלכלי דרך הגדלת התזרים החודשי. תזרים פנוי גבוה מאפשר למשקיע לבצע \"מיצוע עלויות\" (DCA) אגרסיבי בשוק ההון לאורך זמן, ללא הלחץ של החזר חודשי כבד על הראש.\n*   **כללי אצבע פרקטיים וניהול סיכונים:** הגולשים ממליצים על סף מינימלי של 20% מקדמה כדי להימנע מעלויות מיותרות (כמו ביטוח משכנתא - PMI). כמו כן, הם מדגישים כי ההחלטה צריכה להישען על יציבות תעסוקתית ועל פרופיל סיכון אישי; במידה והריבית על המשכנתא קרובה לתשואה השנתית השמרנית של השוק, ייתכן ועדיף להגדיל את ההון העצמי (למשל ל-30%) כדי לאזן בין סיכון לסיכוי."
   },
   {
-    "id": "1tcnooo",
-    "title": "I used to think gold was old-fashioned until I saw the prices keep rising",
-    "url": "https://www.reddit.com/r/investing/comments/1tcnooo/i_used_to_think_gold_was_oldfashioned_until_i_saw/",
-    "author": "keishapatel_387",
+    "id": "1tdedou",
+    "title": "Will you continue to hold SNDK?",
+    "url": "https://www.reddit.com/r/investing/comments/1tdedou/will_you_continue_to_hold_sndk/",
+    "author": "One_Rub7972",
     "score": 1,
-    "selftext": "A few years ago I thought investing in gold was something only parents and grandparents obsessed over.\n\nNow every time I see the price chart, I understand why people treated it so seriously.\n\nThe weird part is that even though prices are extremely high, people still keep buying it for weddings, gifts, traditions, and “security.” It’s almost emotional at this point, not just financial.\n\nBut I honestly wonder where the limit is.\n\nAt what point does gold become so expensive that regular middle-class families simply stop participating in the tradition altogether?\n\nCurious how everyone here sees it:  \nInvestment? Cultural pressure? Financial safety net? Or just fear of missing out?",
+    "selftext": "I bought 1,000 shares of SNDK when the stock price was $356, and I’ve watched it rise ever since. I’ve thought about selling countless times during this period, so as the price went up, I kept selling in increments: I sold 250 shares when the price reached $850, and another 250 shares when it hit $1,080. I currently still hold 500 shares. How much higher do you think it will go? Or should I take my profits and switch to optical communications?",
     "subreddit": "investing",
-    "created_utc": 1778733712,
+    "created_utc": 1778799990,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "It’s not an investment. Preservation of value at best. \n\nFor something to be an investment, it has to generate cash flow while protecting the invested capital. ",
+        "body": "nah lots of older people didnt grow up with options and just yolo into a stock, i know them.",
         "score": 1,
-        "author": "LuciusQ2020"
+        "author": "lsjuanislife"
       },
       {
-        "body": "Ragebait got me riled up. Man i hate slop",
+        "body": "Umm, why not do both? A stop loss to reduce downside risk, and sell higher strike price covered calls to rake in some premium?",
         "score": 1,
-        "author": "xrmttf"
+        "author": "King-Meister"
       },
       {
-        "body": "I yearn for the day investing and finance subs ban ai authored content",
+        "body": "Are you stupid or something? It’s up 55% the past month. It’s probably the top 5 stocks the past month and the best stock in 2026. Are you new to investing??",
         "score": 1,
-        "author": "DuckLIT122000"
+        "author": "Special-Shirt-9728"
       }
     ],
-    "summary_he": "הכותב מתאר כיצד שינה את דעתו על השקעה בזהב בעקבות עליית המחירים המתמשכת, תוך הבנה כי מדובר בנכס שמשלב מסורת, רגש וביטחון כלכלי. הוא תוהה מתי מחירו יהפוך לגבוה מדי עבור מעמד הביניים ומבקש להבין האם המניע העיקרי לרכישתו כיום הוא השקעה פיננסית, לחץ תרבותי או פחד מהחמצה.",
+    "summary_he": "כותב הפוסט רכש 1,000 מניות של SNDK במחיר נמוך ומכר מחצית מהן ברווח משמעותי ככל שמחיר המניה עלה. כעת הוא מחזיק ב-500 מניות ומתלבט האם להמשיך להחזיק בהן בציפייה לעליות נוספות, או לממש את הרווח ולעבור להשקעה בתחום התקשורת האופטית.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג 6 נקודות מבט ורגשות שונים שעלו מתוך התגובות:\n\n*   **הגדרת המונח \"השקעה\":** אחד המשתמשים טוען כי לא כל רכישה של נכס היא השקעה. לשיטתו, מדובר ב\"שימור ערך\" במקרה הטוב, ולא מעבר לכך.\n*   **הצורך בתזרים מזומנים:** על פי דעת הקהילה, כדי שנכס ייחשב להשקעה אמיתית, הוא חייב לייצר תזרים מזומנים (Cash Flow) פעיל עבור המשקיע.\n*   **הגנה על ההון המושקע:** נקודת מבט נוספת מדגישה כי השקעה ראויה לשמה מחויבת לא רק לייצר רווח, אלא בראש ובראשונה להגן על הקרן (ההון הראשוני) שהושקעה.\n*   **התנגדות לתוכן \"Ragebait\":** בקהילה מביעים סלידה ותסכול מתוכן שנועד לעורר זעם מכוון (Ragebait) כדי להשיג מעורבות (Engagement), ומתארים זאת כתוכן מעורר כעס ומיותר.\n*   **סלידה מתוכן באיכות נמוכה (\"Slop\"):** קיים רגש שלילי חזק כלפי \"תוכן זבל\" (Slop) שמציף את הרשת, המאופיין בחוסר ערך או באיכות ירודה שפוגעת בחוויית המשתמש.\n*   **קריאה לאיסור על תוכן מבוסס בינה מלאכותית (AI):** עולה דרישה ברורה מצד משתמשים לאסור על פרסום תכנים שנכתבו על ידי בינה מלאכותית בפורומים העוסקים בפיננסים והשקעות, מתוך שאיפה לשמור על שיח אנושי ואותנטי."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מבט ודעות שונות שהועלו:\n\n*   **פער דורי בשיטות השקעה:** קיימת טענה שמשקיעים מבוגרים יותר אינם בקיאים בעולם האופציות, שכן הם לא גדלו עם הכלים הללו, ולכן הם נוטים להשקיע ישירות במניות ללא שימוש באסטרטגיות גידור.\n*   **גישת ה-\"YOLO\" בקרב משקיעים ותיקים:** בניגוד לסטיגמה על השקעות שקולות, נטען כי משקיעים רבים פשוט \"מהמרים\" את כל הקופה על מניה בודדת (YOLO) מבלי לבחון חלופות או הגנות.\n*   **הצעה לאסטרטגיה משולבת (Stop Loss ו-Covered Calls):** הוצעה גישה פרקטית המשלבת הגנה מפני ירידות באמצעות פקודת קטיעת הפסד, יחד עם יצירת הכנסה נוספת (פרמיה) על ידי מכירת אופציות רכש (Covered Calls) במחיר מימוש גבוה.\n*   **ניהול סיכונים אקטיבי:** הקהילה מדגישה את החשיבות של צמצום סיכוני הירידה (Downside risk) כחלק בלתי נפרד מהחזקה במניה, במקום רק לחכות לעליית הערך.\n*   **אופטימיות אגרסיבית לגבי ביצועי המניה:** הובעה עמדה נחרצת לפיה המניה היא אחת המצליחות ביותר בשוק כרגע, עם זינוק של 55% בחודש האחרון, מה שהופך את הטלת הספק בה לבלתי סבירה בעיני חלק מהגולשים.\n*   **ביטחון בטווח הארוך (צפי ל-2026):** קיימת תחושת ביטחון גבוהה מאוד בעתיד הנייר, עד כדי הכרזה עליו כ\"מניה הטובה ביותר לשנת 2026\", תוך זלזול בחוסר הניסיון של מי שאינו מזהה את הפוטנציאל הזה."
   },
   {
-    "id": "1tcmodh",
-    "title": "Let's dissect MU stock risks",
-    "url": "https://www.reddit.com/r/investing/comments/1tcmodh/lets_dissect_mu_stock_risks/",
-    "author": "No_Conversation_9424",
+    "id": "1tddbhs",
+    "title": "The current unemployment rate is misleading. Temp help employment is down 21.4%. This signal has preceded every US recession since 1990. Here is what the data actually shows.",
+    "url": "https://www.reddit.com/r/investing/comments/1tddbhs/the_current_unemployment_rate_is_misleading_temp/",
+    "author": "alemorg",
     "score": 1,
-    "selftext": "There has been explosive number of posts, comments, coverage, and articles on the memory sector. Using real numbers and sources, I want to dissect and chime in on trending topics including:   \n1) Capex concern   \n2) cyclical nature of semi sectors   \n3) AI bubble  \n  \n  \n**1) CAPEX concern- with brief recap on today's CISCO earning report**\n\nThe loudest argument against MU right now is the massive capex. People see 750+billion being poured into AI arms race and are rightfully concerned that Micron is blindly pumping out chips that will eventually oversupply the market while hyperscalers dial back. But let's look at the most recent data\n\n**Cisco Q3 2026 earnings report** (today May 13) just posted a blowout revenue beat of $15.8 billion, and their stock surged double digits. What stood out was their forward guidance. They’ve seen a 25% surge in networking orders. They then explicitly cited **higher memory prices** as a primary cause for margin contraction. Memory sectors aren't only sold out into 2027, they are sold out at an premium price per Cisco’s report. As well, I will get more into this in 2), but they are no longer making quarterly contracts. They are doing long-term contracts that also question the cyclical nature of semi sectors.  \n  \nInstitutions are re-pricing 12 months MU targets at $1000\\~2000. They are continually adjusting the price targets as they have rapidly become a chokehold to the entire data center building process. In the article below, hedge funds believe the true pricing of the MU will likely be reached mid of 2027. \n\ninteresting article if interested in samsung or sk: [https://www.bloomberg.com/news/newsletters/2026-05-13/samsung-sk-hynix-show-stubborn-korea-discount-persists-in-ai-age](https://www.bloomberg.com/news/newsletters/2026-05-13/samsung-sk-hynix-show-stubborn-korea-discount-persists-in-ai-age)\n\n**2) Cyclical nature of semis**\n\n\"It’s a cyclical stock, Sell at the peak!\" I see this comment every 10 minutes. And yes, historically, memory was a commodity like oil or wheat. But the 2026 version of Micron has undergone a fundamental \"de-commoditization.\"\n\nIn previous cycles, MU was at the mercy of the \"Consumer Duo\": Smartphones and PCs. When people stopped buying iPhones, Micron bled. Today, the demand has shifted to Data Center and Enterprise AI. These aren't impulsive consumer purchases; these are multi-year, multi-billion-dollar infrastructure projects. **Contracts are years long.** For the first time, HBM4 supply is being locked in **24 months in advance**.\n\nThe complexity of HBM4 has also effectively \"dampened\" the cycle. In the old days, a company could flip a switch and flood the market with DDR3. Today, if you want to increase HBM4 production, you need 18 months of lead time and a prayer that your TSV packaging doesn't fail. This \"complexity scarcity\" means we aren't going to see those massive, overnight price crashes that used to define the sector.\n\nFurthermore, look at the long-term agreements. For the first time in history, MU has locked in major Tier-1 customers into multi-year contracts for HBM supply through the end of 2027. We are moving toward a \"Subscription-lite\" model for hardware. When you have a sold-out order book for the next 18 months, the \"cyclical\" label starts to fade away. The floor for earnings is now significantly higher than it was in 2018 or 2022. We’re not looking at a boom-bust; we’re looking at a \"Stair-Step\" growth model where each trough is higher than the previous peak.\n\n**3) Bubble**\n\n If I hear one more person compare 2026 to 1999, I’m going to lose it. Let’s be clear: a bubble is when speculation outpaces utility. In the Dot-Com era, companies were getting billion-dollar valuations just for having a \".com\" suffix, despite having negative cash flow and business models that were basically \"vibes and prayers.\"  \n  \nToday, the utility of AI isn't a \"maybe\", it’s being proven in real-time through Inference. We’ve officially moved past the \"Training\" phase where everyone was just buying chips to build models. We are now in the Inference Era, where those models are actually working. Every time a customer service agent is replaced by an AI agent, or a developer uses an AI-pairing tool to write 40% more code, that is an inference event.   \n  \nThe biggest differentiator from the Dot-Com bubble?   \n  \n1) Proven profitability and structural scarcity. Sold Out: As of this morning, Micron’s HBM4 capacity is sold out through the end of 2027. You can’t have a speculative bubble in a product that has 100% committed demand from the world’s largest companies (NVIDIA, Microsoft, Amazon).    \n2)Real Margins: In 1999, tech companies were bleeding cash. In 2026, Micron is reporting gross margins north of 50%. This isn't \"hope\"; it’s high-margin, high-moat manufacturing.  \n3)Long-Term Agreements (LTAs): The re-pricing of the semiconductor industry is being driven by multi-year contracts. Hyperscalers aren't just buying spot-market chips; they are signing 2-3 year deals to ensure they don't get left behind in the HBM4 transition.  ",
+    "selftext": "TLDR and Sources at the End\n\nThe headline U-3 unemployment rate is 4.3% as of April 2026 (FRED: UNRATE), and most financial headlines call it a \"strong labor market.\" It is not. The number is technically accurate but economically misleading in ways that matter for policy, markets, and anyone trying to figure out where we actually are in the cycle.\n\nThis post breaks down what U-3 misses, why the current distortions are severe, and what to look at instead.\n\nHOW U-3 ACTUALLY WORKS\n\nTo be counted as unemployed in U-3, you must meet three conditions simultaneously: you do not have a job, you have actively looked for work in the past 4 weeks, and you are available to start a job.\n\nIf you stop looking (because you are discouraged, or went back to school, or are driving rideshare to make rent), you are removed from both the numerator and the denominator. You cease to exist in the statistic.\n\nThe BLS also publishes U-6, which includes discouraged workers, marginally attached workers, and involuntary part-time workers (people who want full-time work but can only find part-time). U-6 currently sits at 8.2% (FRED: U6RATE, April 2026), nearly double the U-3 figure. The gap between U-3 and U-6 has widened to 3.9 percentage points. A widening U-3 to U-6 spread is a classic late-cycle signal: employers cut hours and shift workers to part-time before they start cutting headcount outright.   \nNote: the gap was wider during the 2008-2009 crisis (over 7 points) and briefly during COVID. The current 3.9 point gap is elevated relative to mid-cycle norms, not an all-time extreme.\n\nThis design limitation has always existed. In normal times the gap between U-3 and economic reality is modest. Right now it is not.\n\nWHY THIS CYCLE IS WORSE\n\nSeveral factors are artificially compressing the headline number beyond what the standard U-3 limitation would produce:\n\n1. The temp help collapse\n\nTemporary help employment (FRED: TEMPHELPS) peaked at 3,161,400 in March 2022 and has fallen to 2,485,100 as of April 2026. That is a decline of 676,300 jobs, or 21.4 percent.\n\nTemp help is widely considered among the best leading indicators of recession by economic researchers. It peaks 6 to 18 months before every downturn because businesses cut temps first, then part-timers, then full-timers. The current decline has been underway for over two years and has not reversed.\n\nFor context: during the 2008 financial crisis, temp help fell 33.9 percent from peak (May 2006: 2,654.3K) to trough (June 2009: 1,753.8K). The current decline is about two-thirds of that magnitude. (Source: FRED TEMPHELPS, author calculation.) This is a red signal that the headline unemployment rate completely misses.\n\nAlso, many former temp workers do not show up as \"unemployed\" in U-3. They drift into gig work or drop out of the labor force entirely. The temp collapse signals real labor market deterioration that U-3 masks by design.\n\n2. Labor force shrinkage\n\nWhen people leave the labor force entirely, they are no longer counted in the unemployment rate. Since January 2025, immigration enforcement has removed a significant number of people from the BLS survey frame. DHS reports more than 675,000 formal deportations in President Trump's first year, plus an estimated 2.2 million self-deportations, totaling nearly 3 million people who left the country (DHS press release, January 20, 2026). The lower-bound ICE-only formal removal count is 442,637 for fiscal year 2025 per ICE data reported by Axios (April 2026).\n\nImportant disclaimer on these numbers: independent trackers show substantially lower figures. TRAC at Syracuse University reports 290,603 formal ICE removals from January 2025 through November 2025, only 7 percent above FY2024 levels under Biden. The DHS self-deportation estimate of 2.2 million cannot be independently verified and the methodology for it has not been publicly disclosed. The true labor force impact from immigration enforcement is somewhere in this wide range, and readers should treat all figures as disputed.\n\nThis mechanically lowers the unemployment rate because a shrinking labor force denominator masks any simultaneous layoffs. If you remove people from the labor force, unemployment falls even if zero new jobs are created. This is arithmetic, not politics.\n\nThe exact impact on U-3 is impossible to calculate because we do not know the employment status of every person who left. But the direction is unambiguous: hundreds of thousands of working-age adults have exited the survey frame. That compresses the unemployment rate independently of actual labor market health.\n\nThe overall labor force participation rate sits at 67.0 percent (FRED: LNS11300001, April 2026). The prime-age (25-54) participation rate is 83.8 percent (FRED: LNS11300060), which appears healthy. But the composition underneath matters: the participation rate is propped up by women and older workers staying in the workforce longer, often out of financial necessity rather than genuine labor demand. This masks softening at the margins where recessions start.\n\n3. The gig economy classification problem\n\nMillions of drivers, delivery workers, and freelancers count as \"employed\" in the BLS household survey even when their net earnings fall below minimum wage after expenses. The BLS does not capture declining hourly earnings among the self-employed in the unemployment rate.\n\nYou can drive 50 hours a week for a rideshare platform, net well under minimum wage after gas and vehicle costs, and you are \"employed\" under U-3. The quality of employment has deteriorated in ways the headline number cannot detect.\n\n4. The quits rate has collapsed\n\nThe JOLTS quits rate (FRED: JTSQUR) peaked at 3.0 percent in November 2021 and has fallen to 2.0 percent as of March 2026. People do not voluntarily leave jobs when they cannot find better ones. A falling quits rate signals low labor market confidence, but it does not affect the unemployment rate at all.\n\nThis is one of the cleanest tells: a healthy labor market has churn. Workers leave for better pay. A scared labor market has people clinging to whatever they have. The quits rate is telling you the latter.\n\n5. Real wages are under pressure for most people\n\nAverage hourly earnings for all private employees grew from $36.12 in April 2025 to $37.41 in April 2026, a nominal gain of 3.6 percent (FRED: CES0500000003). That sounds adequate until you adjust for actual inflation faced by the bottom 60 percent of earners. The CPI basket weighting understates housing and food costs for lower-income households, meaning real wage growth for most workers is flat to slightly negative. People are employed but not gaining ground. This is a labor market quality signal U-3 cannot capture.\n\nDisclaimer: real wage analysis depends heavily on which inflation measure you use. By headline CPI, workers may show modest real gains. By a bottom-60-percent weighted basket, the picture is worse. There is no single definitively correct measure.\n\n6. The personal saving rate has cratered\n\nThe personal saving rate (FRED: PSAVERT) has fallen to 3.6 percent as of March 2026. This is down from 4.5 percent in January 2026 and well below the long-term average. Consumers have exhausted pandemic-era savings and are now running on fumes.\n\nCombined with $5.14 trillion in consumer credit outstanding (FRED: TOTALSL, March 2026), households have very little buffer. A labor shock would cascade quickly into defaults.\n\nnote on credit card delinquencies: the rate has actually declined from its 3.22 percent peak in Q2 2024 to 2.94 percent in Q4 2025 (FRED: DRCCLACBS, latest available). This is an improving trend, not a deteriorating one. However, 2.94 percent remains elevated compared to the 1.53 percent COVID-era low in 2021 and is in line with 2019 pre-pandemic levels. Credit card stress has not gotten worse recently, but it has not normalized either. This indicator is not flashing red right now, but the savings buffer is so thin that any deterioration here would hit fast.\n\nWHY THIS MATTERS\n\nPoliticians and media report U-3 as \"the unemployment rate\" without qualification. The Federal Reserve uses it as a primary input for rate decisions. Markets price off it. The average person hears \"4.3 percent unemployment\" and assumes the labor market is healthy.\n\nThe gap between U-3 and lived economic reality has widened over time because the economy has changed in ways the BLS methodology from the 1940s was never designed to capture. The gig economy did not exist at scale 20 years ago. Labor force participation has structurally declined since 2000. The divergence between asset-owners and wage-earners has never been wider. Mass immigration enforcement at current scale is a new variable without precedent in BLS methodology.\n\nU-3 worked reasonably well as a summary statistic in 1985 when most workers had traditional employment and the gig economy did not exist. In 2026, it is a rearview mirror with half the glass painted over.\n\nFederal Reserve policy. The Fed targets maximum employment as half of its dual mandate. If the Fed looks at 4.3 percent U-3 and concludes the labor market is tight, it keeps rates restrictive for longer, punishing the very workers whose actual employment situation is far more precarious than the headline number suggests. Cutting rates too late because you are looking at the wrong labor market gauge deepens and extends recessions. The yield curve (FRED: T10Y2Y) has recently uninverted to +0.48 percent as of May 13, 2026, after nearly four years of inversion. Historically, the curve often uninverts shortly before or around the time recessions begin, because short-term rates get cut in response to weakening conditions. The uninversion does not mean the danger has passed; it typically means the recession window is now open, not closed.\n\nWHAT THE REAL UNEMPLOYMENT RATE PROBABLY IS\n\nIf you adjust for labor force shrinkage from deportations and discouraged workers, involuntary part-time workers who want full-time work, gig workers earning sub-poverty wages but counted as employed, and the structural participation rate decline, the actual real-feel unemployment and underemployment rate is likely in the 7 to 9 percent range, not 4.3 percent.\n\nThis is not a precise calculation. It is a ballpark estimate with the known gaps: the U-6 to U-3 spread of 3.9 points, the temp help decline of 21.4 percent, the quits rate collapse, and the savings depletion all point in the same direction. Reasonable people can argue for a range of 6 to 10 percent depending on what adjustments they consider valid. The core point is that the economy is likely weaker than the 4.3 percent headline suggests.\n\nWHAT TO LOOK AT INSTEAD\n\nIf you want an honest read on the US labor market, here is what actually matters, ranked by signal quality:\n\n1. Temp Help Employment (FRED: TEMPHELPS).   \nPeaked March 2022 at 3,161.4K. Currently at 2,485.1K. Down 21.4 percent and still falling. This number alone justifies caution.\n\n2. U-6 Unemployment Rate (FRED: U6RATE). Includes discouraged, marginally attached, and involuntary part-time workers. Currently at 8.2 percent. When U-6 diverges from U-3, it signals deterioration at the margins, the exact places where recessions start.\n\n3. Quits Rate (FRED: JTSQUR). Fallen from 3.0 percent to 2.0 percent. A confident labor market has people voluntarily leaving jobs for better ones. A scared labor market has people clinging to whatever they have.\n\n4. Initial Jobless Claims (FRED: ICSA). Currently at 211,000 (May 9, 2026), which is low and not yet flashing. Watch for a sustained move above 300,000. This indicator turns late but hard.\n\n5. Personal Saving Rate (FRED: PSAVERT). At 3.6 percent and falling. Shows consumer resilience or lack thereof. When this is low, any income disruption goes straight to defaults.\n\n6. Credit Card Delinquency Rate (FRED: DRCCLACBS). At 2.94 percent as of Q4 2025. This has actually declined modestly from its 3.22 percent peak in Q2 2024. The trajectory is improving, not worsening. That said, 2.94 percent is roughly double the 1.53 percent COVID-era low and in line with 2019 levels. This indicator is neutral right now, but not at levels that signal a healthy consumer either. Quarterly data, lags by 6 months.\n\nDisclaimer: This is an economic analysis, not investment advice. Several indicators cut both ways: initial claims remain low, credit card delinquencies have declined from their 2024 peak, and the prime-age participation rate is historically solid. The thesis here is not that everything is terrible. It is that the headline U-3 number paints a misleading healthy picture when the labor market has clear areas of deterioration.\n\nTLDR: The 4.3 percent unemployment rate is technically accurate but economically misleading. Temp help employment is down 21.4 percent from its March 2022 peak, a decline of two-thirds the magnitude of 2008 and the strongest recession warning among leading indicators. DHS reports more than 675,000 formal deportations and an estimated 2.2 million self-deportations since January 2025, artificially compressing the BLS denominator (note: independent trackers show lower figures; these numbers are disputed). Gig workers earning below minimum wage count as employed. The quits rate has collapsed from 3.0 to 2.0 percent. The personal saving rate has cratered to 3.6 percent. U-6 sits at 8.2 percent, nearly double U-3. The real unemployment and underemployment rate is likely 7 to 9 percent. Credit card delinquencies have actually declined from their 2024 peak and initial jobless claims remain low, so not every indicator is flashing. But on balance, the U-3 number tells you very little about actual labor market health in 2026.\n\nData sources: FRED series UNRATE, U6RATE, TEMPHELPS, JTSQUR, PSAVERT, DRCCLACBS, T10Y2Y, LNS11300001, LNS11300060, ICSA. BLS Current Population Survey. JOLTS. DHS press release January 20 2026. ICE FY2025 removal data via Axios April 15 2026. DeportationData Project (UC Berkeley) March 2026. TRAC Reports (Syracuse University) November 2025. All FRED data accessed and verified May 14 2026.",
     "subreddit": "investing",
-    "created_utc": 1778730748,
+    "created_utc": 1778797404,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "I swear this subreddit and r/etfs are 90% just AI posts with an agenda ",
+        "body": "Anyday now! For the past 10yrs. ",
         "score": 1,
-        "author": "karmawaffles"
+        "author": "Jujubatron"
       },
       {
-        "body": "It's not X it's Y. Looks sloppy.",
+        "body": "25-yr average delta is 3.6 pp — the persistent structural gap between headline and broadest slack\n\nFeb 2026: U-3 4.4%, U-6 7.9%, delta 3.5 pp — right at the long-run average, gap is not widening faster than headline\n",
         "score": 1,
-        "author": "infected_scab"
+        "author": "Whodean"
       },
       {
-        "body": "Springe immer direkt zum Ende. 😄\n\nDie meisten dieser Aktien haben noch viel Potenzial. Renditen von 200, 300 oder 400 % innerhalb eines Jahres sind bei diesen Kursen zwar unwahrscheinlich, aber das Wachstumspotenzial ist dennoch beträchtlich.",
+        "body": "No no, if you read the post, now it's when it goes from inverted to *un-inverted* that's the REAL signal",
         "score": 1,
-        "author": "Ziegelmarkt"
+        "author": "johannthegoatman"
       }
     ],
-    "summary_he": "הפוסט מנתח את מניית Micron (MU) וטוען שהחברה עוברת שינוי מבני ממחזוריות מסורתית לצמיחה יציבה בזכות הביקוש העצום לשבבי זיכרון עבור תשתיות בינה מלאכותית. הכותב מדגיש כי המלאי של החברה מכור מראש עד שנת 2027 וכי חוזים ארוכי טווח עם ענקיות טכנולוגיה מפריכים את החשש מבועה ומבטיחים רווחיות גבוהה לאורך זמן.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח של התגובות המובילות מהדיון, הכולל סיכום של 6 נקודות מבט וסנטימנטים שעלו בקהילה:\n\n*   **חשד לאוטומציה ובינה מלאכותית:** קיימת תחושת ספקנות חזקה בקרב המשתמשים לגבי האותנטיות של התוכן. אחד המגיבים טוען שרוב הפוסטים בקהילה (ובקהילות פיננסיות דומות) נוצרים על ידי בינה מלאכותית (AI).\n*   **חשש מאג'נדות נסתרות:** מעבר לשימוש בטכנולוגיה, עולה החשד שהפוסטים אינם תמימים אלא נועדו לקדם אינטרסים מסוימים או \"אג'נדות\" של גורמים עלומים.\n*   **ביקורת על רמת הדיוק וההגשה:** משתמשים מצביעים על חוסר מקצועיות בתוכן, כולל טעויות עובדתיות (\"זה לא X אלא Y\") ותחושה כללית שהפוסט נראה מרושל ולא מהימן.\n*   **הרגלי קריאת תוכן ארוך:** עולה דפוס התנהגות שבו קוראים נוטים לדלג על גוף הטקסט ולקפוץ ישירות לשורה התחתונה או לסיכום בסוף הפוסט כדי לחסוך זמן.\n*   **ריאליזם מול פנטזיה בשוק ההון:** קיימת הבנה מפוכחת בקהילה ששיעורי רווח קיצוניים (כמו 200% עד 400% בשנה) הם בלתי סבירים במחירי השוק הנוכחיים, למרות הנטייה של פוסטים מסוימים להבטיח זאת.\n*   **אופטימיות לגבי פוטנציאל צמיחה:** למרות הביקורת על התוכן והציפיות המוגזמות, עדיין קיים סנטימנט חיובי לגבי המניות המדוברות, תוך הכרה בכך שיש להן פוטנציאל צמיחה משמעותי לטווח הרחוק."
-  },
-  {
-    "id": "1tcm2nd",
-    "title": "Inflation is surging yet the market is at all-time highs",
-    "url": "https://www.reddit.com/r/investing/comments/1tcm2nd/inflation_is_surging_yet_the_market_is_at_alltime/",
-    "author": "SnowSilent7695",
-    "score": 1,
-    "selftext": "Inflation has picked up significantly yet the market continues to hit all time highs. A really strong earnings season is a huge reason why. Nearly 95% of S&P companies have beaten their earnings and year over year eps growth is \\~15%. \n\nGuidance is also pretty positive among large caps in the S&P, with many (industrials, Tech, and Financials) raising guidance.\n\nThere's the classic saying that the market is not the economy and that appears especially true for the large caps in the S&P right now.\n\nBtw, I put together a [deeper dive](https://flexreportfinapi.com/get-newsletter-insight?article_title=Earnings%20Season%20Deep%20Dive%20Excel%20-%202026-05-11), in case any one is interested.\n\n\n\n",
-    "subreddit": "investing",
-    "created_utc": 1778729041,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "It's a downloadable pdf report.",
-        "score": 1,
-        "author": "SnowSilent7695"
-      },
-      {
-        "body": "Government prints money. money goes into stocks. inflation and stocks go up. Value of dollar goes down.\n\nThe lesson? Don't hold cash. Buy appreciating assets: homes, stocks, etc.",
-        "score": 1,
-        "author": "Doodl3s"
-      },
-      {
-        "body": "I got a virus clicking on the link. ",
-        "score": 1,
-        "author": "PumpkinConscious5930"
-      }
-    ],
-    "summary_he": "למרות האינפלציה הגואה, שוק המניות ממשיך לשבור שיאים בזכות עונת דוחות כספיים חזקה במיוחד וצמיחה מרשימה ברווחי החברות ב-S&P 500. התחזיות האופטימיות של החברות הגדולות במדד מדגישות את הפער הקיים לעיתים בין מצב הכלכלה הכללי לבין ביצועי שוק ההון.",
+    "summary_he": "הפוסט טוען כי שיעור האבטלה הרשמי בארה\"ב (4.3%) מטעה ואינו משקף את חולשתו האמיתית של שוק העבודה, שכן הוא מתעלם מצניחה חדה בהעסקת עובדים זמניים ומהשפעות \"כלכלת החלטורה\" (Gig economy). הכותב מצביע על סימנים מקדימים למיתון, כמו ירידה בשיעור ההתפטרויות וצמצום כוח האדם בשל גירוש מהגרים, המורידים את הנתון הרשמי באופן מלאכותי. לסיכום, נטען כי שיעור האבטלה והתת-תעסוקה הריאלי גבוה בהרבה ונע ככל הנראה בין 7% ל-9%.",
     "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון בשרשור המבוסס על התגובות המובילות, הכולל 6 נקודות מבט ותובנות שונות:\n\n*   **אופי התוכן:** הקישור ששותף בשרשור מוביל לדוח בפורמט PDF הניתן להורדה למכשיר.\n*   **הקשר בין ממשל לשוק ההון:** קיימת טענה כי הדפסת כסף מסיבית על ידי הממשלה היא הגורם המרכזי שמזרים הון לשוק המניות ומעלה את ערכן.\n*   **השפעת האינפלציה:** המשתמשים מצביעים על כך שתהליך הזרמת הכספים מוביל בהכרח לאינפלציה ולשחיקת כוח הקנייה של המטבע (במקרה זה, הדולר).\n*   **אסטרטגיית החזקת מזומן:** בקהילה קיימת דעה נחרצת נגד החזקת כסף מזומן \"מתחת לבלטה\" או בחשבון עובר ושב, מכיוון שערכו יורד לאורך זמן.\n*   **המלצות להשקעה בנכסים:** כחלופה למזומן, מוצע לרכוש נכסים שערכם נוטה לעלות (Appreciating assets) כמו מניות או נדל\"ן, כדי להגן על ההון מפני ירידת ערך המטבע.\n*   **אזהרת אבטחת מידע:** אחד המשתמשים דיווח כי לחיצה על הקישור בפוסט גרמה להדבקת המחשב שלו בווירוס, מה שמעלה חשש לגבי אמינות ובטיחות המקור."
+    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות, המציג 6 נקודות מבט וטיעונים שונים:\n\n*   **ספקנות כלפי תחזיות ה\"קריסה\":** קיימת נימה של ציניות וספקנות רבה כלפי משתמשים או אנליסטים שמנבאים מיתון או קריסה כלכלית קרובה, בטענה שתחזיות כאלה נשמעות כבר עשור (\"בכל יום עכשיו!\") מבלי שהתממשו.\n*   **ניתוח פער האבטלה המבני:** מוצג ניתוח טכני של הפער (Delta) בין מדד האבטלה הרשמי (U-3) לבין מדד האבטלה הרחב יותר (U-6), הכולל עובדים במשרה חלקית מאילוץ או כאלו שהתייאשו מחיפוש עבודה.\n*   **הסתמכות על ממוצעים ארוכי טווח:** אחד המגיבים מציין כי לאורך 25 שנה, הפער הממוצע בין מדדי האבטלה עומד על 3.6 נקודות אחוז, ומשתמש בנתון זה כעוגן להערכת המצב הנוכחי.\n*   **תחזית ליציבות בשוק העבודה:** על פי הנתונים (כולל תחזית קדימה לפברואר 2026), נראה כי השוק שומר על יציבות; הפער בין המדדים (3.5 נקודות אחוז) קרוב מאוד לממוצע ההיסטורי ואינו מתרחב במהירות רבה יותר מהמדד המרכזי.\n*   **התמקדות ב\"היפוך עקום התשואות\":** הדיון נוגע בסימנים מקדימים למיתון, וספציפית בשינוי המגמה של עקום התשואות – המעבר ממצב של \"עקום הפוך\" חזרה למצב רגיל (Un-inverted) נתפס על ידי חלק מהקהילה כאות האזהרה האמיתי למשבר.\n*   **לעג לשינוי הקריטריונים (\"הזזת השערים\"):** קיימת ביקורת על הנטייה של פרשנים כלכליים לשנות בכל פעם את המדד שקובע מתי יגיע המיתון; ברגע שסימן אחד לא עובד, הם עוברים להתמקד בסימן אחר (כמו המעבר מההיפוך עצמו לביטול ההיפוך)."
   },
   {
-    "id": "1tckqtc",
-    "title": "With Warsh confirmed as the Federal Reserve Chairman, what should I be aware of when investing in gold?",
-    "url": "https://www.reddit.com/r/investing/comments/1tckqtc/with_warsh_confirmed_as_the_federal_reserve/",
-    "author": "BigExpress8345",
+    "id": "1tdcnvu",
+    "title": "ELI5 why do people chase dividend stocks?",
+    "url": "https://www.reddit.com/r/investing/comments/1tdcnvu/eli5_why_do_people_chase_dividend_stocks/",
+    "author": "Specific_Ad_6522",
     "score": 1,
-    "selftext": "[Senate confirms Trump pick Warsh as chairman of the Federal Reserve, following Powell](https://apnews.com/article/fed-warsh-senate-confirmation-b665712fa5d40d3fcea53d80d0a79c64)\n\nI woke up this morning to a news report: Warsh has been confirmed as the new Chairman of the Federal Reserve. To be honest, this result wasn't entirely unexpected, but it still gave me a slight jolt. The more practical question is: what does this mean for my gold investments?",
+    "selftext": "From what I understand, dividends aren't free money as the amount you receive is taken from the price of the stock. So in a way, distributing dividends is forcing you to sell your stock as your net worth doesn't change, but your stocks got converted to cash.\n\nSo my question is, why do people chase dividend stocks or build dividend portfolios when you can get the results by just selling the stock?",
     "subreddit": "investing",
-    "created_utc": 1778725473,
+    "created_utc": 1778795873,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Yes just like exchanges technically are supposed to register every share of stock bought and sold, and yet the supply gets diluted in dark pools and after market trading.\n\nTry this: why don’t the physical gold gains match the stock gold gains?",
+        "body": "To beat the inflation without worrying about ups and downs of the stock price, a \"buy and forget\" alternative to savings account, of course with the caveat that if the generous dividents dwindle below inflation then the stock is usually in the red too and rotation away from it can cost you several years worth of dividents if you weren't paying attention as per the original master plan.",
         "score": 1,
-        "author": "ThreeTonChonker"
+        "author": "moxyte"
       },
       {
-        "body": "Yes and the dump for gold will be quicker than retail can do anything about it, and yet everyone knows it’s coming.\n\nGet out while you can.",
+        "body": "Your clearly wrong, otherwise all dividend stocks would eventually be worthless.",
         "score": 1,
-        "author": "ThreeTonChonker"
+        "author": "Kilnarix"
       },
       {
-        "body": "Hold on - you're mixing up inflation vs. economic turmoil\n\nThe original comment was that gold is a good hedge against inflation. It isn't. Gold's performance does not correlate with inflation\n\nAt the tail end of your 2000-2010 time period, during and after the GFC, gold rallied hard despite inflation plummeting. If it was primarily an inflation hedge, it should have slumped\n\nEconomic turmoil and risk off sentiment - that's what gold is mainly for. Not inflation hedging",
+        "body": "A site like CEF Connect can give a breakdown on how the company pays the dividend each time, e.g., from income, long-term gains, short term gains, or return of capital. If some or all of the dividend comes from income, that's profit sharing. ",
         "score": 1,
-        "author": "kwijibokwijibo"
+        "author": "Sea_Listen_8188"
       }
     ],
-    "summary_he": "הפוסט דן במינויו של קווין וורש ליו\"ר הפדרל ריזרב החדש ובהשלכות הכלכליות הצפויות של המהלך. הכותב מבקש להבין כיצד שינוי זה בהנהגת הבנק המרכזי עשוי להשפיע על שוק הזהב ועל אסטרטגיית ההשקעה שלו בנכס זה.",
+    "summary_he": "הפוסט מעלה תהייה מדוע משקיעים מחפשים מניות דיבידנד, בהתחשב בכך שחלוקת הדיבידנד מפחיתה את ערך המניה ואינה מהווה \"כסף בחינם\". הכותב מבקש להבין מה היתרון בבניית תיק מבוסס דיבידנדים על פני מכירה יזומה של מניות לצורך יצירת תזרים מזומנים.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ותובנות שונות שעלו בשרשור:\n\n*   **חוסר שקיפות ודילול היצע בשוק המניות:** הבעת ספקנות לגבי האופן שבו בורסות מתנהלות. נטען כי למרות שהן אמורות לרשום כל מניה, ההיצע בפועל מדולל באמצעות מסחר ב\"בריכות אפלות\" (Dark Pools) ומסחר מחוץ לשעות הפעילות, מה שפוגע בערך המניות.\n*   **הפער בין זהב פיזי למניות זהב:** קיימת תהייה לגבי חוסר ההתאמה בין הרווחים המופקים מהחזקת זהב פיזי לבין הביצועים של מניות הקשורות לזהב, דבר המרמז על כך שהשקעה בניירות ערך אינה משקפת נאמנה את ערך הנכס.\n*   **חשש מקריסה מהירה ופתאומית:** קיימת סנטימנט של פחד מפני \"מכירה המונית\" (Dump) של זהב שתתרחש במהירות גבוהה מזו שהמשקיעים הקטנים (Retail) יוכלו להגיב אליה, למרות שהכתובת נמצאת על הקיר.\n*   **קריאה ליציאה מהשוק:** עמדה פסימית הממליצה למשקיעים \"לצאת כל עוד הם יכולים\", מתוך הנחה שהנפילה בערך הנכס קרובה ובלתי נמנעת.\n*   **הזהב אינו כלי יעיל נגד אינפלציה:** ביקורת על התפיסה המקובלת שזהב הוא גידור טוב נגד אינפלציה. נטען כי אין מתאם ישיר בין ביצועי הזהב לבין עליית המדדים, וכי זו טעות נפוצה של משקיעים.\n*   **זהב כנכס למצבי קיצון וסיכונים (Risk-off):** הבחנה בין אינפלציה לבין טלטלה כלכלית. הטענה היא שתפקידו האמיתי של הזהב הוא לשמש כמקלט בזמן משברים כלכליים וסנטימנט של בריחה מסיכון, כפי שקרה במשבר של 2008, אז מחיר הזהב זינק למרות שהאינפלציה צנחה."
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וטיעונים שונים שעלו בקהילה:\n\n*   **חלופה לחשבון חיסכון:** מניות דיבידנד נתפסות על ידי חלק מהמשקיעים ככלי ל\"קנה ושכח\" שנועד לנצח את האינפלציה, תוך הימנעות מהלחץ הכרוך במעקב אחרי התנודות היומיומיות במחיר המניה.\n*   **הסיכון בירידת ערך הדיבידנד:** קיימת אזהרה כי אם שיעור הדיבידנד יורד אל מתחת לרמת האינפלציה, לרוב הדבר מלווה גם בירידה בערך המניה עצמה (\"בצבע אדום\"), מה שפוגע בכדאיות ההחזקה.\n*   **חשיבות המעקב האקטיבי:** למרות הכוונה המקורית להשקעה פאסיבית, חוסר תשומת לב לשינויים בביצועי המניה עלול להוביל למצב שבו מכירה מאוחרת מדי תעלה למשקיע באובדן רווחים השקולים לשנים רבות של תשואת דיבידנדים.\n*   **המשכיות ערך המניה:** עלתה הטענה נגד התפיסה שחלוקת דיבידנד \"שוחקת\" את ערך החברה לחלוטין; הטיעון הוא שאילו הדיבידנדים היו פשוט מפחיתים את שווי המניה ללא התאוששות, כל מניות הדיבידנד היו הופכות לחסרות ערך בסופו של דבר.\n*   **ניתוח מקור התשלום:** קיימת המלצה להשתמש בכלים ייעודיים (כמו אתרי CEF) כדי לבדוק מאיפה מגיע הכסף לדיבידנד: האם מהכנסות שוטפות, מרווחי הון לטווח קצר/ארוך, או מ\"החזר הון\" (Return of Capital).\n*   **הגדרה של שיתוף ברווחים:** הקהילה מבחינה בין סוגי דיבידנדים שונים, כאשר רק דיבידנד המשולם ישירות מתוך ההכנסות והרווחים של החברה נחשב ל\"שיתוף ברווחים\" (Profit Sharing) אמיתי."
   },
   {
-    "id": "1tckicb",
-    "title": "Looking on feedback on how do people generally trim down their portfolio?",
-    "url": "https://www.reddit.com/r/investing/comments/1tckicb/looking_on_feedback_on_how_do_people_generally/",
-    "author": "bad_detectiv3",
+    "id": "1tdcd02",
+    "title": "Timing Allocation Change question",
+    "url": "https://www.reddit.com/r/investing/comments/1tdcd02/timing_allocation_change_question/",
+    "author": "ShotAssistant1452",
     "score": 1,
-    "selftext": "So like many folks here and other places lately, the massive run has in the market has created phenomenal run. I do want to sell some portion of portfolio and have cash on the side - I am okay to miss out on future gains.\n\nOne basic strategy is to sell the initial capital and leave free money to float. I don't have that many position that returned 100% \n\nI'm eye balling my portfolio and returns thus far has been high 30%. \n\nWhat is optimum strategy to sell? Sell 30% or 50% of the position and place it elsewhere or leave money invested and let the funds weather the storm.",
+    "selftext": "Question as the majority of our money is in vtsax which tracks the u.s. stock market.  Today I wanted to allocate 20% into vigix which tracks large cap growth.  My question is when this trade takes place I’m assuming it’s sold at closing bell and the rebought at same time at closing bell????\n\nIs that how it works?\n\nOr will the purchase be the following day at bell?",
     "subreddit": "investing",
-    "created_utc": 1778724870,
+    "created_utc": 1778795164,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "for me trimming is best done by resetting your portfolio to its original target weights rather than selling based on a gut feeling that the market is too high. I used lattice finance to confirm that you should focus on trimming individual stocks that have grown to exceed 10% of your total wealth, ensuring one bad move doesn't sink your entire portfolio.",
+        "body": "If this is in your tax advantaged account like the 401k and you're merely changing the allocation by inputting percentages in the portal, It's likely that the purchase and sale will be at the same time.",
         "score": 1,
-        "author": "Worried_Gain_5191"
-      },
-      {
-        "body": "Generally in 2 different scenarios.\n\n=Take profit.\n\n=Or when losers keep losing. I don't hold on to stocks that keep dropping where the narrative has changed.\n",
-        "score": 1,
-        "author": "Dracomies"
-      },
-      {
-        "body": "There's no one \"right\" answer, but a systematic approach helps avoid the emotional trap of selling too much or too little.\n\n\nOne method: set target allocation percentages for each position (e.g., no single stock more than 5% of portfolio, no sector more than 25%). When the market run pushes a position above its target, you trim back to the target. This forces you to sell when things are up without trying to time the top. It's mechanical, not emotional.\n\n\nAnother approach I've seen work well: instead of selling to cash, rotate winners into structured notes or buffer ETFs that offer downside protection. The thinking is: you lock in gains on the equity side, but the cash goes into instruments with 8-12% yield potential and -35% to -40% barriers. You're not fully out of the market, but you've capped your downside while still generating income.\n\n\nFor example, if you're sitting on a position that's up 40% and you're worried about a pullback, you could sell the original cost basis (locking in risk-free position) and keep the \"house money\" running. Or sell all of it and put 70% into a structured note with barrier protection and keep 30% in cash to deploy on a dip.\n\n\nThe key is having a plan before the emotions kick in. Whatever rule you set, write it down and stick to it.",
-        "score": 1,
-        "author": "booobReviewer"
+        "author": "NewbyS2K"
       }
     ],
-    "summary_he": "הכותב מבקש עצות לגבי הדרכים המומלצות לדילול תיק ההשקעות שלו לאחר עליות משמעותיות בשוק ורווחים של כ-30%. הוא מעוניין לממש חלק מהרווחים כדי להחזיק מזומן בצד, ומתלבט בין אסטרטגיות שונות כמו מכירת אחוז מסוים מהפוזיציה לעומת השארת הכסף מושקע כדי \"לצלוח את הסערה\".",
+    "summary_he": "הפוסט עוסק בשאלת תזמון בעת שינוי הקצאת נכסים בין קרנות נאמנות (מ-VTSAX ל-VIGIX). הכותב מבקש לדעת האם פעולות המכירה והקנייה מתבצעות במקביל לפי מחיר הסגירה של אותו יום מסחר, או שקיים פער זמנים והקנייה מתבצעת רק למחרת.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שהועלו בשרשור בנוגע לדילול (Trimming) של תיק השקעות:\n\n*   **איזון מחדש (Rebalancing) במקום תחושות בטן:** הגישה המועדפת על חלק מהמשקיעים היא לא למכור על סמך תחושה שהשוק \"גבוה מדי\", אלא לבצע איזון מחדש של התיק לפי משקלי היעד המקוריים שנקבעו מראש.\n*   **ניהול סיכונים וריכוזיות:** מומלץ לדלל מניות בודדות שצמחו יתר על המידה והגיעו למשקל של מעל 10% מסך התיק. זאת כדי למנוע מצב שבו מהלך שלילי במניה אחת יגרום לנזק בלתי הפיך לכלל התיק.\n*   **מכירה בעקבות שינוי בנרטיב:** יש לדלל או למכור מניות לא רק כדי לממש רווחים, אלא גם כשהן ממשיכות לרדת והסיבה המקורית להשקעה בהן (\"הסיפור\" של המניה) השתנתה או כבר אינה תקפה.\n*   **שימוש במכסות קשיחות (Target Allocation):** אימוץ גישה מכנית ולא רגשית על ידי קביעת אחוזי הקצאה ברורים (למשל: לא יותר מ-5% למניה בודדת ולא יותר מ-25% לסקטור מסוים). כאשר מניה חורגת מהרף, מוכרים את העודף באופן אוטומטי.\n*   **רוטציה למכשירים מוגנים:** במקום למכור למזומן, ניתן להעביר רווחים ממניות שעלו למכשירים פיננסיים המציעים הגנה מפני ירידות (כמו Buffer ETFs או מובנים). כך נשארים בשוק עם הגנה על הקרן תוך ניסיון לייצר תשואה נוספת.\n*   **אסטרטגיית \"הכסף של הבית\":** כאשר פוזיציה עלתה משמעותית, ניתן למכור את שווי ההשקעה המקורי (הקרן) ולהשאיר רק את הרווחים בשוק. כך המשקיע מבטיח שלא יפסיד את כספו המקורי וממשיך להחזיק במניה \"בחינם\".\n*   **חשיבותה של תוכנית כתובה:** המפתח להימנעות ממלכודות רגשיות הוא כתיבת תוכנית פעולה ברורה מראש. תוכנית כתובה עוזרת למשקיע לדבוק בכללים שהציב לעצמו גם ברגעים של תנודתיות או פחד בשוק."
+    "comments_summary_he": "להלן סיכום הדיון והתובנות העולות מהתגובה, המציגות היבטים שונים של ניהול הקצאת נכסים בחשבונות פנסיוניים:\n\n*   **הטבות מס בשינוי הקצאה:** כאשר הפעולה מתבצעת בתוך חשבון המוגדר כ\"בעל הטבות מס\" (כגון 401k), ניתן לשנות את הרכב התיק מבלי לחשוש מאירועי מס מיידיים על רווחי הון בעת המכירה.\n*   **פשטות טכנית בביצוע:** השימוש בפורטלים דיגיטליים לניהול השקעות מאפשר למשתמש לבצע \"איזון מחדש\" (Rebalancing) בקלות, פשוט על ידי עדכון אחוזי ההקצאה המבוקשים במערכת.\n*   **סנכרון פעולות הקנייה והמכירה:** המערכות הממוחשבות בדרך כלל מבצעות את מכירת הנכסים הישנים וקניית החדשים בו-זמנית, מה שמונע פער זמנים בביצוע.\n*   **צמצום הסיכון של \"זמן מחוץ לשוק\":** העובדה שהקנייה והמכירה מתרחשות במקביל מבטיחה שהמשקיע לא יישאר עם מזומן ביד בזמן שהשוק עולה, ובכך נמנע סיכון של עיתוי שוק (Market Timing).\n*   **אוטומציה של תהליכים:** קיימת הסתמכות משמעותית על האוטומציה של בתי ההשקעות, שמטפלים בצד התפעולי של המרת הנכסים ברגע שהמשתמש מזין את הפקודה.\n*   **הבחנה בין סוגי חשבונות:** ישנה חשיבות מכרעת לסוג החשבון שבו מתבצעת הפעולה; ההנחה היא שהתהליך חלק ונטול השלכות מס רק בתוך מסגרות פנסיוניות ספציפיות, בניגוד לחשבונות מסחר רגילים (Taxable accounts)."
   },
   {
-    "id": "1tckgaw",
-    "title": "Let’s turn 1k to 100k by the end of the year",
-    "url": "https://www.reddit.com/r/investing/comments/1tckgaw/lets_turn_1k_to_100k_by_the_end_of_the_year/",
-    "author": "smiling_doc",
+    "id": "1tdcclj",
+    "title": "Oil stocks vs. crude vs. gold",
+    "url": "https://www.reddit.com/r/investing/comments/1tdcclj/oil_stocks_vs_crude_vs_gold/",
+    "author": "WiseElder",
     "score": 1,
-    "selftext": "Just want to see some average joe’s get a win and interested how people would go about doing it. Realize you could lose the 1k but it’s not money I’m afraid to lose. Just curious if we could get a group to follow trades together and teach others how to get better results along the way. ",
+    "selftext": "It seems to me from [this chart](https://www.tradingview.com/x/sfbbYnh1/) that:\n\n1. Oil companies (XLE, candle chart) are not a good long-term hold. Only during the first decade of this century did they do better than gold. They never do better than spot US crude itself.\n2. You can make a lot more money trading crude (red line), but you can also lose a lot more.\n3. Gold (purple line) is the best long-term hold.\n\nAm I wrong?\n\n",
     "subreddit": "investing",
-    "created_utc": 1778724721,
+    "created_utc": 1778795137,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Invent your own pyramid scheme?",
+        "body": "When you reach a point in your trading career that you acknowledge, without shame, that you have no idea what oil or gold will do, there is an ETF for you called PIT.   PIT is where everyone that is not an expert on commodities will eventually wind up. Let the experts run your commodities (gold, silver, oil, cattle, corn, etc.) for you. ",
         "score": 1,
-        "author": "SnooSketches6618"
+        "author": "Emotional-Breath-838"
       },
       {
-        "body": "It's not amazing but I turned my $4k into $44k currently, less than two years 🧐\n\nLiterally all I do is sell covered calls",
+        "body": "gold: benefits from real rates falling, dollar weakness and fear  \nXLE: obvious corp risk embedded. profits on rising oil prices but not as fast bc of operational constraints, however, responds fast to demand shocks. relies on capex timing also   \ncrude: pure supply vs demand, the most volatile among the 3\n\nit really depends on what your view is. gold and brent have a moderate correlation and gold is way less volatile. XLE has terrible sharpe btw\n\n",
         "score": 1,
-        "author": "Exclave4Ever"
+        "author": "Short-Pangolin-9917"
       },
       {
-        "body": "How about the end of next month? ",
+        "body": "Oil is more of a short-term hedge. I think long-term oil will be pretty stable whereas gold will continue to rise according to the amount of money that is printed. In today's world, money will continue to be printed by the US government due to the debt situation.\n\n",
         "score": 1,
-        "author": "Esc4flown3"
+        "author": "NewbyS2K"
       }
     ],
-    "summary_he": "כותב הפוסט מציע אתגר להפיכת 1,000 דולר ל-100,000 דולר עד סוף השנה ומחפש שותפים לדרך. הוא מעוניין להקים קבוצת מסחר שיתופית שבה יוכלו \"אנשים רגילים\" ללמוד זה מזה ולעקוב אחר עסקאות יחד, תוך הבנה של הסיכון הכספי הכרוך בכך.",
+    "summary_he": "הפוסט משווה בין השקעה במניות נפט, בנפט גולמי ובזהב כנכסים לטווח ארוך על בסיס נתונים היסטוריים. הכותב טוען כי זהב הוא ההשקעה הבטוחה והמשתלמת ביותר לטווח הרחוק, בעוד שמניות הנפט מציגות לרוב ביצועי חסר. בנוסף, הוא מציין שנפט גולמי מציע פוטנציאל רווח גבוה יותר אך כרוך בתנודתיות ובסיכון משמעותיים.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט ורגשות קהילתיים שונים:\n\n*   **אסטרטגיית מסחר ספציפית:** אחד המגיבים מציג את השימוש ב-\"Covered Calls\" (כתיבת אופציות רכש מכוסות) כשיטה מרכזית לייצור רווחים משמעותיים בשוק ההון.\n*   **הצלחה פיננסית חריגה וצניעות מעושה:** קיימת עדות להפיכת סכום קטן יחסית (4,000$) לסכום גדול משמעותית (44,000$) תוך פחות משנתיים, תוך הצגת ההישג כ\"לא מדהים\" (סוג של \"התרברבות ענווה\" האופיינית לקהילות אלו).\n*   **ציניות כלפי דרכי התעשרות:** התגובה המציעה \"להמציא הונאת פירמידה משלך\" משקפת נימה צינית וביקורתית לגבי הקושי להרוויח כסף רב בדרכים כשרות או מוסכמות.\n*   **ספקנות לגבי המשכיות:** השאלה \"מה לגבי סוף החודש הבא?\" מבטאת ספקנות קהילתית טיפוסית ותוהה האם הרווחים הללו בני-קיימא או שמדובר במזל רגעי שעלול להימחק במהירות.\n*   **חשדנות כלפי רווחים מהירים:** הקישור בין הצלחה כלכלית לבין הונאות פירמידה מעיד על כך שחלק מהקהילה רואה ברווחים יוצאי דופן סימן אזהרה או פעילות בלתי מוסרית.\n*   **התמקדות בטווח הקצר מול הארוך:** הדיון נע בין הישגים של שנתיים לבין דאגה מהתנודתיות של החודש הקרוב, מה שמדגיש את המתח שבו נמצאים סוחרים בין אסטרטגיה ארוכת טווח לתנודות השוק המיידיות."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ודעות שונות של חברי הקהילה:\n\n*   **הכרה בחוסר מומחיות ושימוש בניהול מקצועי:** דעה אחת גורסת כי סוחרים צריכים להכיר בכך שאינם מומחים בסחורות (כמו נפט או זהב) ולהפסיק לנסות לחזות את תנודותיהן. במקום זאת, מומלץ להשתמש בקרנות סל מנוהלות (כמו PIT) המאפשרות למומחים לנהל את החשיפה לסחורות עבורם.\n*   **הגורמים המניעים את מחיר הזהב:** צוין כי הזהב מפיק תועלת בעיקר מירידה בריביות הריאליות, מחולשה של הדולר וממצבים של פחד בשווקים. הוא נחשב לנכס הרבה פחות תנודתי בהשוואה לנפט.\n*   **המורכבות והסיכונים במניות אנרגיה (XLE):** השקעה במניות של חברות אנרגיה אינה זהה להשקעה בנפט עצמו. היא כוללת סיכונים תאגידיים, מגבלות תפעוליות וזמני השקעה (Capex) שמשפיעים על הרווחים, מה שמוביל ל\"יחס שארפ\" (מדד תשואה ביחס לסיכון) גרוע יחסית.\n*   **תנודתיות הנפט הגולמי:** הנפט הגולמי מזוהה כנכס התנודתי ביותר מבין האפשרויות שנדונו. מחירו נקבע על פי מאזן טהור של היצע מול ביקוש, והוא מגיב במהירות רבה לזעזועים בביקוש בשוק.\n*   **הבחנה בין טווחי זמן להשקעה:** קיים הבדל בתפיסת המטרות של הנכסים; בעוד שנפט נתפס ככלי גידור (Hedge) לטווח קצר, הזהב נתפס כהשקעה לטווח ארוך שערכה צפוי לעלות בהתמדה.\n*   **הקשר בין חוב ממשלתי לערך הזהב:** סנטימנט קהילתי חזק גורס כי הזהב ימשיך לעלות ככל שממשלת ארה\"ב תמשיך להדפיס כסף כדי להתמודד עם מצב החוב הלאומי שלה, מה שהופך את הזהב למקלט מפני שחיקת ערך הכסף."
   },
   {
-    "id": "1tcjrxs",
-    "title": "Finding a risk-adjusted discount rate for a sole proprietorship",
-    "url": "https://www.reddit.com/r/investing/comments/1tcjrxs/finding_a_riskadjusted_discount_rate_for_a_sole/",
-    "author": "opposity",
+    "id": "1tdb3o0",
+    "title": "Thoughts on My Long Term ETF Portfolio?",
+    "url": "https://www.reddit.com/r/investing/comments/1tdb3o0/thoughts_on_my_long_term_etf_portfolio/",
+    "author": "WalrusEast6889",
     "score": 1,
-    "selftext": "I am working on a project where I need to calculate a risk-adjusted discount rate for a sole proprietorship. This individual does consulting engagements and makes a high six-figure revenue on an annual basis. My first instinct was to use the modified CAPM and get a size premium. Does that make sense? Any ideas or suggestions would be highly appreciated.",
+    "selftext": "I currently have Merrill Guided Investing, and they charge a 0.3% management fee. Going forward, I’m thinking about managing my investments myself instead.\n\nWhat do you think about this portfolio? Any advice? I’m 40 years old, and I probably won’t need this money for the next 20 years.\n\n  \nVanguard Total Stock Market ETF (VTI)60%Vanguard FTSE Developed Markets ETF (VEA)20%Vanguard FTSE Emerging Markets ETF (VWO)10%VanEck Semiconductor ETF (SMH)10%",
     "subreddit": "investing",
-    "created_utc": 1778723008,
+    "created_utc": 1778792336,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Modified CAPM + size premium makes sense, but a sole prop consultant is basically all key-person risk. If the guy stops working, the business kinda stops too. I’d probably add an extra company-specific premium on top.",
+        "body": "Dropping the 0.3% fee is the right call — that's real money compounding against you for decades on work you can easily do yourself.\n\nThe VTI/VEA/VWO core is about as clean as it gets. Low cost, globally diversified, nothing to argue with. The SMH 10% is a conscious sector bet on semiconductors totally fine as long as you know what you own. That sleeve can drop 40-50% in a bad year so just make sure your conviction holds when it does.\n\nFor context I'm 43 running a DIY approach as well. My core is split between SCHG and VTI. SCHG for US large cap growth exposure, VTI for broader market coverage. I also keep a small growth sleeve capped at 10% of my brokerage for higher conviction ideas, with strict entry rules and stop losses. Everything else compounds passively.\n\nYour portfolio is essentially what I'd build for someone who wants clean global diversification with a sector tilt. The VEA/VWO allocation gives you international exposure I don't carry — reasonable hedge if US large cap underperforms over your 20-year window.",
         "score": 1,
-        "author": "namopifiyuuuu"
-      },
-      {
-        "body": "Sole proprietorship is weird because even if it looks like a company with capital value, it's often more like labor income of a single individual. What is the capital asset here, this individuals personal business relationships and their future labor?",
-        "score": 1,
-        "author": "Huge-Albatross9284"
+        "author": "coldbrewmornings"
       }
     ],
-    "summary_he": "הכותב מבקש להתייעץ לגבי חישוב שיעור ניכיון (Discount Rate) מותאם לסיכון עבור עסק בבעלות יחיד בתחום הייעוץ, המניב הכנסות שנתיות גבוהות. הוא שוקל להשתמש במודל CAPM מתוקן הכולל פרמיית גודל (Size Premium) ומחפש הצעות לשיפור או אישוש לגישה זו.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ודעות שונות בנוגע להערכת שווי של עסק בבעלות יחיד (Sole Proprietorship):\n\n*   **התאמת מודלים כלכליים סטנדרטיים:** קיימת הסכמה ששימוש במודל CAPM (מודל לתמחור נכסי הון) בתוספת \"פרמיית גודל\" הוא נקודת פתיחה הגיונית, אך היא אינה מספיקה כשלעצמה לעסק של אדם אחד.\n*   **סיכון \"אדם מפתח\" (Key-person risk):** הקהילה מדגישה את הסיכון הקיצוני הקיים בעסק המבוסס על אדם בודד; אם בעל העסק מפסיק לעבוד, הפעילות העסקית ככל הנראה תיעצר לחלוטין, מה שמוריד משמעותית את ערך העסק עבור קונה פוטנציאלי.\n*   **צורך בפרמיית סיכון ספציפית:** מעבר למדדים הרגילים, נטען כי יש להוסיף \"פרמיה ספציפית לחברה\" (Company-specific premium) כדי לשקף את חוסר היציבות והתלות המוחלטת בבעלים.\n*   **מהות הנכס – הון או עבודה?:** עולה תהייה פילוסופית-כלכלית האם עסק כזה הוא בכלל \"נכס הוני\" בעל ערך מכירתי, או שמא מדובר פשוט בייצוג של הכנסה מעבודה של אדם פרטי.\n*   **קושי בהגדרת הנכסים המוחשיים:** המגיבים תוהים מהו בעצם ה\"נכס\" שנמכר בעסק של יועץ עצמאי – האם אלו הקשרים האישיים שלו? המוניטין שלו? או שמא פשוט כוח העבודה העתידי שלו, שאינו ניתן להעברה בקלות.\n*   **טשטוש בין הפרטי לעסקי:** הדיון משקף ספקנות לגבי היכולת להפריד בין הישות העסקית לבין הזהות האישית של הבעלים, דבר שהופך את הערכת השווי למורכבת ואולי אף לבלתי רלוונטית במודלים מסורתיים."
+    "summary_he": "משקיע בן 40 מעוניין לעבור לניהול עצמי של תיק ETF לטווח ארוך (20 שנה) כדי לחסוך בדמי ניהול. התיק המוצע כולל פיזור גלובלי רחב באמצעות מדדי מניות בארה\"ב ובעולם (90%), לצד חשיפה ממוקדת למגזר השבבים (10%), והוא מבקש חוות דעת על כדאיות ההרכב.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והתובנות המרכזיות שעלו מהתגובות בשרשור, המוצגות ב-6 נקודות שונות:\n\n*   **הימנעות מדמי ניהול מיותרים:** קיימת הסכמה רחבה שהחלטה לוותר על דמי ניהול (אפילו בגובה 0.3%) היא צעד נכון. לאורך עשורים, דמי הניהול הללו מצטברים לסכומים משמעותיים שנגרעים מהתשואה הסופית (\"ריבית דריבית נגדך\"), במיוחד כאשר ניתן לנהל את התיק באופן עצמאי ובקלות.\n*   **איכות התיק הבסיסי (Core):** השילוב בין הקרנות VTI (שוק אמריקאי רחב), VEA (שווקים מפותחים מחוץ לארה\"ב) ו-VWO (שווקים מתעוררים) נחשב למבנה \"נקי\", זול ומפוזר היטב מבחינה גלובלית, שקשה להתווכח עם יעילותו לטווח ארוך.\n*   **הימור סקטוריאלי מושכל (SMH):** הקצאה של 10% לסקטור המוליכים למחצה (SMH) נתפסת כהחלטה לגיטימית, אך כזו שדורשת \"קיבה חזקה\". המגיבים מציינים כי על המשקיע להיות מודע לכך שסקטור זה תנודתי מאוד ויכול לצנוח ב-40-50% בשנה רעה, ולכן נדרש שכנוע פנימי עמוק כדי להחזיק בו בזמני משבר.\n*   **חשיבות הגידור הבינלאומי:** בעוד שחלק מהמשקיעים מתמקדים בעיקר בשוק האמריקאי, הקצאה ל-VEA ו-VWO נחשבת לגידור (Hedge) ראוי למקרה שהמניות הגדולות בארה\"ב יציגו ביצועי חסר במהלך חלון זמן של 20 שנה.\n*   **שילוב בין צמיחה למדד רחב:** קיימת גישה המציעה לשלב בין מדד השוק הרחב (VTI) לבין קרנות צמיחה של חברות גדולות (כמו SCHG). זה מאפשר למשקיע ליהנות מהחשיפה הכללית לשוק ובו בזמן להגדיל חשיפה לחברות בעלות פוטנציאל צמיחה גבוה.\n*   **משמעת בניהול \"החלק האקטיבי\":** בניהול עצמאי (DIY), מומלץ להגביל את החלק בתיק המיועד להשקעות בעלות סיכון גבוה או \"רעיונות עם שכנוע גבוה\" ל-10% לכל היותר. בנוסף, מודגשת החשיבות של קביעת כללי כניסה נוקשים ושימוש ב\"סטופ לוס\" (Stop Loss) כדי להגן על ההון, בזמן ששאר התיק צובר תשואה פסיבית."
+  },
+  {
+    "id": "1tda47s",
+    "title": "Where does all this money come from ?",
+    "url": "https://www.reddit.com/r/investing/comments/1tda47s/where_does_all_this_money_come_from/",
+    "author": "Enough-Mountain1852",
+    "score": 1,
+    "selftext": "As someone who grew up in a culture and family who was fearful of stocks and was told you cannot create something from nothing, I have always been skeptical of stock market and did not invest like I should have. Graduating around 2008 crisis also colored my perception. Now I have a bunch of savings that are just sitting in cash but I am afraid to buy stocks because the market seems so risky. And yet every day the market just keeps going up and people who were not worried and just bought stocks keep getting richer and richer. Is the stock market an infinite money glitch ? Where does this new money come from ? ",
+    "subreddit": "investing",
+    "created_utc": 1778790172,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "What do you propose? You’re right that behavior follows incentives (generally). Teenagers don’t care because they’re generally not participating in the economy in a way where these topics are real to them yet. That’s not changing. They’re teenagers.",
+        "score": 1,
+        "author": "Tambien"
+      },
+      {
+        "body": "T bills don't keep up with inflation . Infle ation's between 3 and 4$% right now and most are sold today with a rate of 3.5%   And the inflation rate may be higher in some states and lower in others.  so in somepalces right now the inflation rate is above 4 but in other places it is about 3.  The figure you see for inflation is the average for the entire country.  \n\nBut keep in mind that some prices are too volatile for an actuate value to be calculated.    So because of this volatility the US government typically does not include fuel or food costs. in the inflation updates.  ",
+        "score": 1,
+        "author": "Various_Couple_764"
+      },
+      {
+        "body": "many people pay into pension funds and 401Ks every month which triggers buying.  If a lenough people keep buying the same stocks a bubble forms and can pop.  But sum people see the price is getting high and switch to investment tithe cost less.   \n\nThis can go on for years until something happens and a lot of people loose there jobs.   IF That happened in 2008 and most stocks were down 50% in one year it took 6 years for the 50% drop to be erased.  ",
+        "score": 1,
+        "author": "Various_Couple_764"
+      }
+    ],
+    "summary_he": "הכותב משתף בחששותיו מהשקעה בשוק ההון בשל חינוך שמרני וטראומת משבר 2008, למרות שהוא מחזיק בחיסכון משמעותי במזומן. הוא תוהה כיצד השוק ממשיך לעלות ויוצר עושר לאחרים, ושואל מהו המקור לכסף המצטבר והאם מדובר בשיטה ליצירת כסף אינסופי \"יש מאין\".",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום של נקודות המבט והטיעונים המרכזיים שעלו מתוך התגובות בשרשור:\n\n* **חוסר עניין כלכלי בקרב בני נוער:** קיימת טענה כי בני נוער אינם מגלים עניין בנושאים כלכליים פשוט מכיוון שהם עדיין לא חלק פעיל מהכלכלה. כיוון שהנושאים הללו אינם משפיעים על חייהם באופן מוחשי בשלב זה, אין להם תמריץ ללמוד אותם, וזהו מצב טבעי שאינו צפוי להשתנות.\n* **הפער בין אג\"ח לאינפלציה:** הועלה טיעון כי איגרות חוב ממשלתיות (T-bills) אינן מהוות כיום הגנה מספקת מפני האינפלציה. בעוד הריבית עליהן עומדת על כ-3.5%, האינפלציה נעה סביב 3%-4%, מה שמוביל לשחיקת הערך הריאלי של הכסף.\n* **מגבלות הממוצע הלאומי:** נתוני האינפלציה הרשמיים עשויים להטעות, שכן הם מייצגים ממוצע ארצי בלבד. בפועל, קיימים פערים משמעותיים ביוקר המחיה ובקצב עליית המחירים בין אזורים שונים ומדינות שונות.\n* **השמטת רכיבים חיוניים ממדד האינפלציה:** קיימת ביקורת על כך שהממשל נוטה להוציא עלויות תנודתיות כמו מזון ודלק מחישובי האינפלציה המעודכנים. השמטה זו מקשה על הציבור לקבל תמונה מדויקת וריאלית של העלייה האמיתית בהוצאות המחיה.\n* **השקעות אוטומטיות ויצירת בועות:** הפרשות חודשיות קבועות לקרנות פנסיה ותוכניות חיסכון (כמו 401K) יוצרות \"לחץ קנייה\" מתמשך בשוק המניות. מצב זה עלול להוביל לניפוח בועות בשוק, שכן אנשים ממשיכים לקנות מניות מסוימות ללא קשר למחירן, עד שהבועה מתפוצצת.\n* **זמן התאוששות ממושך לאחר משברים:** הדיון מדגיש כי משברים כלכליים המלווים באובדן מקומות עבודה (כפי שקרה ב-2008) מובילים לירידות חדות בשוק ההון, שתהליך התיקון והחזרה שלהן לערכן המקורי עלול להימשך שנים רבות (לדוגמה, שש שנים כדי למחוק ירידה של 50%)."
   }
 ];
