@@ -1,348 +1,321 @@
 window.dailyTrends = [
   {
-    "id": "1tmbz2v",
-    "title": "Berkshire Hathaway Q1 2026 Earnings, Greg Abel's First Quarter as a new CEO. $397,000,000,000 in cash pill and Still Not Buying Anything",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1tmbz2v/berkshire_hathaway_q1_2026_earnings_greg_abels/",
-    "author": "Alpha_Stock_BigBull",
-    "score": 186,
-    "selftext": "Berkshire Hathway had a solid quarter. Operating earnings up 18% YoY, net income more than doubled, and cash hit a jaw-dropping $397 billion record. Slight miss on analyst expectations.\n\nKey Numbers\n\nOperating earnings came in at **$11.35 billion**, up \\~18% from $9.64 billion a year ago though it narrowly missed the Wall Street estimate of $11.56 billion.\n\nNet income attributable to shareholders more than doubled to $10.1 billion, up from $4.6 billion in Q1 2025.\n\nThe cash hoard jumped to **$397 billion**, after Berkshire offloaded a net $8.1 billion of equity holdings during the quarter.\n\nBerkshire also resumed share buybacks, repurchasing $234 million of its own stock and its first buybacks since May 2024.\n\nThese results mark Greg Abel's first quarterly report as CEO, having taken over from Warren Buffett on January 1, 2026. At this year's annual meeting in Omaha, Abel led proceedings, Buffett, now Chairman, addressed the gathering from the floor rather than from the stage.\n\nBerkshire recorded $5.8 billion in realized gains on stocks sold during the quarter, though its overall investment portfolio slipped to just over $288 billion.  \n\nWith $397B in cash and no major acquisitions, what does Abel do with the war chest?",
-    "subreddit": "StockMarket",
-    "created_utc": 1779628686,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "People say Berkshire is waiting for a crash, which isn't technically true.  They're waiting for a good deal.  Shopping around both on and off market. \n\nWouldn't be surprised if they acquire a privately held company like Meijer.",
-        "score": 99,
-        "author": "Alicyclobacillus"
-      },
-      {
-        "body": "People say “cash” like it’s just sitting there doing nothing. They put their cash directly in treasuries. \n\nI guarantee the money is at least generating the SGOV returns of 3.55% for the last 7 days (annualized, of course). That means that their “cash” is still generating about $271 million every week, which is over $14 Billion a year. ",
-        "score": 23,
-        "author": "AnonUserAccount"
-      },
-      {
-        "body": "Our market is severely overpriced, but god only know when we’ll ever have a red week again",
-        "score": 18,
-        "author": "PhysInstrumentalist"
-      }
-    ],
-    "summary_he": "ברקשייר האת'וויי פרסמה את דוחותיה לרבעון הראשון של 2026, המהווים את הרבעון הראשון תחת המנכ\"ל החדש גרג אבל, עם עלייה של 18% ברווח התפעולי וזינוק משמעותי ברווח הנקי. למרות היעדר רכישות גדולות, קופת המזומנים של החברה תפחה לשיא חסר תקדים של 397 מיליארד דולר, מה שמעורר סקרנות רבה לגבי האסטרטגיה העתידית של ההנהלה החדשה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג שש נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **חיפוש אחר ערך ולאו דווקא קריסה:** בניגוד לסברה הרווחת שברקשייר האת'ווי \"יושבת על הגדר\" ומחכה לקריסת בורסה, נטען כי החברה פשוט מחפשת עסקאות טובות (Good deals). המדיניות שלהם היא רכישה במחיר אטרקטיבי, ללא קשר למצב השוק הכללי.\n*   **פזילה לעבר השוק הפרטי:** קיימת הערכה בקהילה שברקשייר לא מגבילה את עצמה למניות ציבוריות, וייתכן שהיא מתכננת רכישת ענק של חברה פרטית גדולה (כדוגמת רשת הקמעונאות Meijer), מה שמסביר את צבירת המזומנים.\n*   **המזומן הוא נכס מניב:** הודגש כי ה\"מזומנים\" של החברה אינם שוכבים ללא תנועה בחשבון העו\"ש, אלא מושקעים באגרות חוב ממשלתיות (Treasuries). המשמעות היא שההון הנזיל מייצר תשואה שוטפת ובטוחה.\n*   **רווחי עתק מריבית בלבד:** הועלה חישוב לפיו יתרת המזומנים של החברה מייצרת הכנסה שנתית של כ-14 מיליארד דולר (כ-271 מיליון דולר בשבוע) רק מהריבית על אגרות החוב, מה שהופך את ההמתנה להשקעה לרווחית מאוד בפני עצמה.\n*   **תמחור יתר של השוק:** קיימת הסכמה בין המגיבים שהשוק הנוכחי יקר מאוד (Overpriced) באופן קיצוני, מה שמצדיק את הזהירות של משקיעי ערך כמו באפט.\n*   **ספקנות ותסכול מהמשך העליות:** לצד ההבנה שהשוק יקר, בולט סנטימנט של ייאוש ותסכול מכך שהשוק מסרב לרדת. המשתמשים תוהים מתי יגיע \"שבוע אדום\" (שבוע של ירידות שערים), שכן נראה שהעליות נמשכות ללא הפסקה למרות התמחור הגבוה."
-  },
-  {
-    "id": "1tmla73",
-    "title": "SpaceX’s IPO Is a Bet Gravity Doesn’t Apply to Elon Musk",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1tmla73/spacexs_ipo_is_a_bet_gravity_doesnt_apply_to_elon/",
-    "author": "mahend72",
-    "score": 119,
-    "selftext": "SpaceX’s potential IPO raises a big question:\n\nIs the market valuing a space company, a global internet network, a defense asset, or something bigger?\n\nWhat do you think is the real core of the SpaceX story: rockets, Starlink, defense, or long-term space infrastructure?",
-    "subreddit": "StockMarket",
-    "created_utc": 1779649884,
-    "thumbnail": "default",
-    "top_comments": [
-      {
-        "body": "Fundamentally I cannot buy it. I bet it memes to the moon though ",
-        "score": 41,
-        "author": "Even_Section5620"
-      },
-      {
-        "body": "The valuation vs revenue is so god damn absurd that I should be embarrassed for the dupes who will sink what they have or take out a loan to buy shares but, nah...I used up all that embarrassment watching Tesla shares a long long time ago.",
-        "score": 30,
-        "author": "kon---"
-      },
-      {
-        "body": "I refuse to buy this or any other Musk related garbage.  I can only hope his companies crash to earth and he bounces a cheque in my life time. \n\nThis one in particular makes no sense.  1.5T on 15B revenue and promises of mars colonization?  Fools and their money and all that...",
-        "score": 27,
-        "author": "Elderberry-smells"
-      }
-    ],
-    "summary_he": "הפוסט דן באפשרות של הנפקה ציבורית (IPO) של חברת SpaceX ובתהייה כיצד השוק אמור לתמחר את שוויה של החברה. נשאלת השאלה האם הליבה של SpaceX היא שיגור רקטות, רשת האינטרנט \"סטארלינק\" או תשתיות חלל וביטחון, והאם ההנפקה היא למעשה הימור על דמותו של אילון מאסק.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח וסיכום של הדיון ב-Reddit, המציג שש נקודות מבט וסנטימנטים מרכזיים שעלו מהתגובות:\n\n**סיכום הדיון ב-Reddit:**\n\n*   **פער בין יסודות כלכליים להייפ (Meme Status):** קיימת תובנה כי למרות שהחברה אינה עומדת במבחנים כלכליים בסיסיים (\"פונדמנטליזם\"), היא צפויה לזנק בערכה רק מכוח הבאזז ברשתות החברתיות והפיכתה ל-\"Meme stock\".\n*   **חוסר היגיון ביחס בין שווי להכנסות:** המגיבים מצביעים על חוסר הלימה קיצוני בין הערכת השווי (1.5 טריליון דולר) לבין ההכנסות בפועל (15 מיליארד דולר), ורואים בכך נתון אבסורדי שאינו מתקבל על הדעת.\n*   **ביקורת על משקיעים קטנים (\"פראיירים\"):** עולה סנטימנט של לעג ואף רחמים כלפי משקיעים נאיביים שמוכנים לסכן את חסכונותיהם או לקחת הלוואות כדי לקנות מניות במחיר מופקע, מתוך אמונה עיוורת.\n*   **השוואה היסטורית לביצועי מניית טסלה:** חלק מהמשתמשים חווים \"עייפות\" מהתנהלות השוק סביב חברות של מאסק, ומציינים כי הזינוקים הבלתי מוסברים של טסלה בעבר גרמו להם להפסיק להיות מופתעים או נבוכים מהתנהגות לא רציונלית של מניות דומות.\n*   **התנגדות אישית ועקרונית לאילון מאסק:** קיים סירוב מוחלט של חלק מהגולשים להשקיע במיזמים של מאסק בשל סלידה אישית ממנו, תוך הבעת תקווה אקטיבית שהחברות שלו יקרסו כלכלית (\"יחזרו לכדור הארץ\").\n*   **סקפטיות כלפי הבטחות עתידיות גרנדיוזיות:** המגיבים מבטלים את ההבטחות ליישוב מאדים כתירוץ שיווקי שנועד למשוך משקיעים, וטוענים כי מדובר במכירת חלומות ללא בסיס כלכלי איתן בהווה."
-  },
-  {
-    "id": "1tmpcal",
-    "title": "Stock Market Loss Rates Against Bonds (by Holding Period)",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1tmpcal/stock_market_loss_rates_against_bonds_by_holding/",
-    "author": "beerion",
-    "score": 46,
-    "selftext": "While trying to piece together a study about lost decades, I came across an interesting data point. \n\nOn a 5 year rolling basis, stocks underperformed bonds nearly 25% of the time. Not only that, but stocks fail to beat bonds, on a ten year basis, 13% of the time. \n\nAnother interesting nugget (second figure): If you held long term bonds from mid 1990 through 2002, you would have missed out on the entire dotcom bull market...and you still would have outperformed the S&P 500 over that time period (by a smidge). \n\nOne final nugget (third figure). Lost decades^(1)(red) cover roughly 34% of the total sample. \n\n***This shows that lost decades******^(1)*** ***aren't as rare as we'd expect.***  \n\nI think that we shouldn't necessarily be as scare of \"missing out\" as the common wisdom would have us believe...we will almost always get another shot at it. *That's not to say that I would ever advocate for going to all bonds or market timing or anything.* \n\nI'm still interrogating all of the data, but thought this was interesting enough to share...\n\n^(1) I've defined \"Lost Decade\" as a period where stocks underperform bonds at some point during an 8-12 year look-ahead window. ",
-    "subreddit": "StockMarket",
-    "created_utc": 1779659359,
-    "thumbnail": "https://preview.redd.it/aegqyjgdj53h1.png?width=140&height=81&auto=webp&s=d1af246dd0393caa5ecaa9285b09d65c968fbb60",
-    "top_comments": [
-      {
-        "body": "\\>but stocks fail to beat bonds, on a ten year basis, 13% of the time.\n\n  \nDoesn't that mean that bonds fail to beat stocks 87% of the time on a ten year basis? ",
-        "score": 110,
-        "author": "trickyvinny"
-      },
-      {
-        "body": "Only problem I have with this analysis is: Things changed after 2009, austerity is no longer accepted. Also after covid, central banks will use infinite money creation to stop deflation, which is very good for stock.\n\nAfter 2022, stagflation has been an issue since supply of money and velocity seems to be unbounded. Liquidity can do whatever it wants with stock valuation.\n\nMonetizing debt is a big problem for bonds, hence most people do not want to invest in 30 year UST anymore.",
-        "score": 18,
-        "author": "Anymous2314"
-      },
-      {
-        "body": "It's also worth highlighting that Chart 1 isn't skewed by the great depression. Using a period between 1950-present will show very similar results. ",
-        "score": 7,
-        "author": "beerion"
-      }
-    ],
-    "summary_he": "הפוסט מציג נתונים המראים כי ביצועי חסר של מניות לעומת אגרות חוב נפוצים יותר ממה שמקובל לחשוב, כאשר בטווח של עשר שנים המניות מפגרות אחרי האג\"ח בכ-13% מהזמן. לפי הניתוח, \"עשורים אבודים\" (תקופות של 8–12 שנים שבהן המניות מניבות פחות מאג\"ח) מתרחשים בכ-34% מהמקרים, מה שמעיד על כך שאין צורך לחשוש יתר על המידה מ\"פספוס\" של עליות בשוק המניות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט וטיעונים מרכזיים שעלו מהתגובות:\n\n*   **ההסתברות לטובת המניות:** אחד המגיבים מדגיש כי למרות הנתון שקובע שמניות \"נכשלות\" מול אג\"ח ב-13% מהזמן בטווח של עשור, המשמעות היא שב-87% מהזמן המניות הן אלו שמשיאות תשואה גבוהה יותר, מה שהופך אותן להימור היסטורי בטוח יותר.\n*   **שינוי הפרדיגמה הכלכלית מאז 2009:** הועלתה טענה שהניתוחים ההיסטוריים הישנים פחות רלוונטיים לימינו, כיוון שמאז המשבר של 2008-2009 מדיניות ה\"צנע\" נזנחה. כיום, בנקים מרכזיים נוטים להשתמש בהדפסת כסף מאסיבית (\"כסף אינסופי\") כדי למנוע דפלציה.\n*   **השפעת הנזילות על שווי המניות:** נטען כי הזרמות הכספים של הבנקים המרכזיים יוצרות נזילות גבוהה בשווקים, מה שדוחף את הערכות השווי של המניות כלפי מעלה ללא קשר בהכרח לערכן הכלכלי הבסיסי.\n*   **החשש מסטגפלציה מודרנית:** מאז שנת 2022, עלה החשש מפני סטגפלציה כתוצאה מהיצע כסף גבוה ומהירות מחזור כסף (Velocity) שאינה מרוסנת, מה שמסבך את התמונה הכלכלית עבור משקיעים.\n*   **אובדן האמון באג\"ח ממשלתיות לטווח ארוך:** קיימת סנטימנט שלילי כלפי איגרות חוב של ממשלת ארה\"ב ל-30 שנה. זאת בשל תהליך של \"מונטיזציה של החוב\" (הדפסת כסף לכיסוי חובות), דבר שגורם למשקיעים להתרחק מהן.\n*   **עקביות המגמה לאורך ההיסטוריה המודרנית:** הודגש כי העליונות של המניות על פני האג\"ח אינה \"מעוותת\" בגלל נתונים מתקופת השפל הגדול. גם אם בוחנים רק את התקופה שמשנת 1950 ועד היום, התוצאות נשארות דומות ומראות עליונות ברורה למניות."
-  },
-  {
-    "id": "1tmwzj9",
-    "title": "How do startups actually pay employees before becoming profitable?",
-    "url": "https://www.reddit.com/r/business/comments/1tmwzj9/how_do_startups_actually_pay_employees_before/",
-    "category_he": "עסקים",
-    "score": 20,
-    "top_comments": [
-      {
-        "author": "maybetoomuchrum",
-        "body": "You already said it. It comes from investors",
-        "score": 17
-      },
-      {
-        "score": 5,
-        "author": "potatoriot",
-        "body": "In addition to investor capital, many take out loans from the SBA and/or banks if they have some form of collateral."
-      },
-      {
-        "score": 3,
-        "author": "Cptn_Canada",
-        "body": "Shares and investors. \n\nIf you have time watch the show silicon Valley. Its not too far from the truth"
-      }
-    ],
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות ותובנות מרכזיות שעלו מהקהילה:\n\n*   **השקעות הון כמרכיב יסודי:** המקור העיקרי והמובן מאליו למימון חברות ומיזמים מגיע ממשקיעים חיצוניים המזרימים הון תמורת צמיחה או אחזקות.\n*   **גיוס הון באמצעות מניות:** אחת הדרכים המרכזיות להשגת המימון היא חלוקת מניות (Shares) של החברה למשקיעים, מה שמהווה כלי מרכזי בבניית המבנה הפיננסי של העסק.\n*   **שימוש בהלוואות בנקאיות:** מעבר להון ממשקיעים, חברות רבות פונות למסלולים של נטילת הלוואות מגופים פיננסיים ובנקים כדי לממן את פעילותן.\n*   **סיוע ממשלתי (SBA):** צוין ספציפית המנהל לעסקים קטנים בארה\"ב (SBA) כגורם רלוונטי המעניק הלוואות ותמיכה למיזמים, מה שמראה על חשיבותן של תוכניות סיוע ממוסדות.\n*   **דרישה לערבויות (Collateral):** המגיבים מדגישים כי קבלת הלוואות מהבנקים אינה מובנת מאליה ומותנית לרוב בקיומם של בטחונות או נכסים המשמשים כערבות להחזר החוב.\n*   **שיקוף המציאות בתרבות הפופולרית:** קיימת המלצה לצפות בסדרה \"עמק הסיליקון\" (Silicon Valley), תוך ציון שהיא מציגה תמונה נאמנה למדי למציאות וממחישה היטב כיצד עולם גיוס הכספים והסטארט-אפים פועל באמת.",
-    "created_utc": 1779679524,
-    "dateString": "2026-05-25",
-    "author": "TheAbouth",
-    "thumbnail": "self",
-    "summary_he": "הפוסט מעלה את השאלה כיצד סטארטאפים מממנים משכורות לעובדים בשלבים מוקדמים, עוד לפני שהם הופכים לרווחיים. הכותב תוהה האם המקור העיקרי לתשלומים הוא כספי משקיעים (אנג'לים או קרנות הון סיכון), והאם הנפקה בבורסה מקלה על היכולת של החברה לשלם לעובדיה ולתחזק את פעילותה.",
-    "subreddit": "business",
-    "selftext": "Maybe this is a dumb question, but I’ve always wondered how startups actually afford to pay employees early on. A lot of startups seem like they operate for years before becoming profitable so where does payroll money usually come from? \n\nIs it mostly just investor money from angel investors or VCs keeping the company alive until it hopefully starts making revenue?\n\nI also noticed some startups already have ticker symbols on the NYSE or OTC exchange while still seeming pretty early stage. Does becoming publicly traded make it easier to pay employees and fund the business?\n\n",
-    "savedAt": {
-      "_seconds": 1779704493,
-      "_nanoseconds": 927000000
-    }
-  },
-  {
-    "id": "1tml3yd",
-    "title": "Optimizing Operations within a small restaurant",
-    "url": "https://www.reddit.com/r/business/comments/1tml3yd/optimizing_operations_within_a_small_restaurant/",
-    "author": "OneEmergency9426",
-    "score": 6,
-    "selftext": "I own a small restaurant based out of NYC, and I am struggling to improve throughput and turn rate. How are you guys dealing with throughput issues? Is hiring a consultant worth an investment?",
-    "subreddit": "business",
-    "created_utc": 1779649492,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Extreme bias warning: I operate a small business consultancy that focuses on business intelligence/market research. A good consultant can really be worth their weight in gold, but you have to be super cautious about who you are hiring. A lot of snake oil out there. \n\nDo you have any successful friends in your industry who could take a look at your operations first? That or maybe they could recommend a consultant who they know for certain has done good work.",
-        "score": 7,
-        "author": "sevenflatfive"
-      },
-      {
-        "body": "It depends on what the project is. Sometimes it’s hourly, other times it’s a per project basis. I honestly was not trying to pitch to you just now! I don’t know enough about what your problem is to know I can help you for sure. If you have enough data and information (financial and otherwise) we may be able to spot areas of opportunity. ",
-        "score": 3,
-        "author": "sevenflatfive"
-      },
-      {
-        "body": "Lmfao right that’s why I get paid for having and using it ",
-        "score": 3,
-        "author": "RealKillerSean"
-      }
-    ],
-    "summary_he": "בעל מסעדה קטנה בניו יורק מחפש דרכים לייעל את התפעול ולשפר את קצב תחלופת הסועדים בעסק שלו. הוא מבקש עצות להתמודדות עם קשיים אלו ושואל האם כדאי להשקיע בשירותיו של יועץ עסקי מקצועי.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות בשרשור, המציג 6 נקודות מבט ותובנות שונות:\n\n*   **הערך של ייעוץ איכותי:** יועץ טוב ומקצועי יכול להיות \"שווה את משקלו בזהב\" ולספק ערך אדיר לעסק, במיוחד בתחומי מחקר שוק ובינה עסקית (BI).\n*   **אזהרה מפני \"מוכרי אשליות\":** הקהילה מזהירה שיש להיזהר מאוד בתהליך הגיוס, שכן התחום רווי באנשים המוכרים \"שמן נחשים\" (Snake oil) – הבטחות ללא כיסוי או שירותים חסרי תועלת.\n*   **הסתמכות על רשת קשרים קיימת:** לפני שפונים ליועץ חיצוני בתשלום, מומלץ להתייעץ עם חברים מצליחים מאותה התעשייה שיכולים לבחון את התפעול של העסק בחינם או לתת חוות דעת ראשונית.\n*   **חשיבותן של המלצות מוכחות:** הדרך הבטוחה ביותר למצוא יועץ ראוי היא דרך המלצות אישיות מאנשים שראו תוצאות חיוביות בשטח מעבודתו של אותו יועץ בעבר.\n*   **גמישות במודל התמחור:** מבנה התשלום עבור שירותי ייעוץ אינו קבוע; הוא משתנה בהתאם לאופי הפרויקט ויכול להתבצע על בסיס שעתי או כתשלום גלובלי עבור פרויקט מוגדר מראש.\n*   **הנתונים כבסיס להצלחה:** כדי שיועץ יוכל באמת לעזור ולזהות הזדמנויות לצמיחה, העסק חייב לספק גישה למידע ונתונים משמעותיים (פיננסיים ואחרים). ללא בסיס נתונים מוצק, קשה להבטיח תוצאות."
-  },
-  {
-    "id": "1tmnzxg",
-    "title": "T. Rowe Price telling me to do initiate 401k rollover via withdrawal",
-    "url": "https://www.reddit.com/r/investing/comments/1tmnzxg/t_rowe_price_telling_me_to_do_initiate_401k/",
-    "author": "Jkazz21",
-    "score": 4,
-    "selftext": "Hello,\n\nLong story short I got an email from an old employer saying that they were no longer using T. Rowe Price for their 401k and that I will need to move my funds. I contacted T. Rowe Price and they said in order to do a 401k Roll Over (into another traditional 401k) I would need to do a withdrawal. I was always under the impression that a withdrawal is a taxable event whereas a 401k rollover, assuming it's one traditional account into another, is not. Has anyone rolled a 401k out of T Rowe Price before and had to do it via a withdrawal?",
+    "id": "1tngsf3",
+    "title": "Unwinding from a FA disaster",
+    "url": "https://www.reddit.com/r/investing/comments/1tngsf3/unwinding_from_a_fa_disaster/",
+    "author": "richierva",
+    "score": 13,
+    "selftext": "Had a few accounts with a ML advisor that he put into a sector rotation plan.  1/3 of it is in an inherited ira that needs to be zero in the next 6 years.  The account did decent but we didn’t feel like the advisor wanted a smaller account.\n\n We moved to a “boutique” advisor that  has done nothing with the accounts in a year.  Sectors have changed in the last year and nothing has been done.  Our portfolio is lagging  way behind the S&P because of this advisor doing nothing. Each account has 20% in approximately 10 different corporate bonds, 60% in ETFs and the remainder in a credit suisse high income bond fund.\n\nWe moved to Schwab with the new advisor and want to stay there but get rid of the independent FA.  My wife is a little nervous b/c she wants someone to help.  \n\nI really just need help selling off the corp bonds and a lot of the ETfs that are underperforming.  I want to go with a much simpler plan of S&P, world  fund and treasuries.  Can I get enough help from Schwab without having a managed account?\n\nWe are in our mid 50’s and wrapping up our careers so this would be more of a retirement portfolio.  Any suggestions would be great. \n\n",
     "subreddit": "investing",
-    "created_utc": 1779656167,
+    "created_utc": 1779732023,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "That's one way. It's called an indirect rollover. Read up on the rules and time requirements before you start tough. They are very strict",
+        "body": "Given your portfolio's exposure to bonds, I'm not sure using the S&P 500 by itself as a benchmark is appropriate.  ",
+        "score": 32,
+        "author": "mikestorm"
+      },
+      {
+        "body": "It's absolutely not an appropriate benchmark. ",
+        "score": 20,
+        "author": "Alexander_HamilDong"
+      },
+      {
+        "body": "Have you **discussed** your goals and expectations with your advisor, or are you just expecting him to know what you want.  Part of an FA's job is to educate you on what he thinks and how he plans to deliver on your goals ... so ... HAVE you talked to him?",
         "score": 15,
-        "author": "Bowl-Accomplished"
-      },
-      {
-        "body": "Rolling a traditional 401k into a Roth IRA is 100% taxable. You'd need to roll into a traditional IRA to not have a taxable event.",
-        "score": 11,
-        "author": "FrankDrebinOnReddit"
-      },
-      {
-        "body": "When I did a 401k rollover (rollover IRA) transfer from Vanguard to my active 401k on Fidelity, for some reason they refused to do it electronically and did a withdrawal.\n\n\nVanguard sent me a physical check as a withdrawal, and I mailed it to Fidelity.\n\n\nWhen I got the tax form the next year, it correctly identified a withdrawal into another qualified account.\n\n\nI would confirm with them many times, document when/who/what you called/emailed. Make them confirm that this will be coded as a transfer.",
-        "score": 10,
-        "author": "Bekabam"
+        "author": "DeeDee_Z"
       }
     ],
-    "summary_he": "המשתמש מתייעץ לגבי הנחיה שקיבל מחברת T. Rowe Price לבצע \"משיכה\" של כספי ה-401k שלו לצורך העברתם לחשבון חדש. הוא חושש שהפעולה תגרור חבות מס מיותרת ושואל האם זהו הליך תקין לביצוע גלגול כספים (rollover) פטור ממס.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל ניתוח של שש נקודות מרכזיות, דעות ותובנות קהילתיות בנוגע לגלגול כספי פנסיה (401k):\n\n**סיכום הדיון:**\nהדיון מתמקד במורכבות הלוגיסטית והמיסויית של העברת כספי פנסיה בין חשבונות שונים בארה\"ב. המשתמשים מדגישים כי מדובר בתהליך הדורש תכנון קפדני, הבנה של סוגי החשבונות ומעקב בירוקרטי צמוד כדי להימנע מקנסות או מחיובי מס בלתי צפויים.\n\n**נקודות מרכזיות ותובנות מהקהילה:**\n\n*   **קיומו של מסלול \"גלגול עקיף\" (Indirect Rollover):** אחת הדרכים להעברת הכספים היא באמצעות גלגול עקיף, המאפשר למפקיד לקבל את הכספים לידיו זמנית לפני הפקדתם בחשבון החדש.\n*   **הקפדה יתרה על נהלים ולוחות זמנים:** הכללים והזמנים לביצוע גלגול כספים הם נוקשים מאוד. המשתמשים מזהירים כי חריגה מהזמנים המוגדרים בחוק עלולה להוביל להשלכות כלכליות משמעותיות.\n*   **השלכות מס במעבר ל-Roth IRA:** קיים דגש על כך שהעברת כספים מחשבון 401k מסורתי (Traditional) לחשבון Roth IRA היא אירוע שחייב במס מלא על כל הסכום המועבר.\n*   **אסטרטגיה להימנעות מאירוע מס:** כדי לבצע העברה ללא חבות מס, יש לגלגל את הכספים מחשבון 401k מסורתי לחשבון IRA מסורתי בלבד.\n*   **מגבלות טכנולוגיות והעברות פיזיות:** באופן מפתיע, גם גופים פיננסיים גדולים (כמו Vanguard או Fidelity) עשויים לסרב לבצע העברה אלקטרונית ולשלוח צ'ק פיזי בדואר, מה שמחייב את המשתמש לטפל בהפקדה באופן ידני.\n*   **חשיבות התיעוד והקידוד לצורכי מס:** מומלץ בחום לתעד כל שיחה (מי הנציג, מתי נערכה ומה נאמר) ולוודא שוב ושוב שהמוסד הפיננסי מגדיר את הפעולה בטפסים כ\"העברה\" (Transfer) ולא כ\"משיכה\" (Withdrawal), כדי למנוע טעויות בדיווח לרשויות המס בשנה העוקבת."
-  },
-  {
-    "id": "1tmjm2r",
-    "title": "Thoughts on my USOY position? I've had some success, but should I continue?",
-    "url": "https://www.reddit.com/r/investing/comments/1tmjm2r/thoughts_on_my_usoy_position_ive_had_some_success/",
-    "author": "Individual-Unit3470",
-    "score": 3,
-    "selftext": "I have some USOY on the Roth 401K side of my portfolio. With the recent \"memorandum of understanding\" between the US and Iran announced yesterday/this morning, I expect oil prices will drop, so I'm thinking of buying more.\n\nI've had some success with this approach since the Strait of Hormuz was shut down: wait for the announcement of a \"deal,\" buy USOY after it drops, then wait for oil prices to recover and sell. Just curious about people's thoughts on this strategy, as I'm wondering if I may be going to the well one too many times.\n\nThoughts?",
-    "subreddit": "investing",
-    "created_utc": 1779646183,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "This has worked since trump's first term because he likes to manipulate the market by going back and forth. Only thing you should worry about is when he does it for the last time and you're caught holding the bag.",
-        "score": 2,
-        "author": "cdude"
-      },
-      {
-        "body": "I think it makes sense in theory, but you just need to be wrong once for it to all backfire. Too risky for my appetite, but I do agree it would be surprising for there to be a durable deal that keeps the straits open, given how far apart the sides have been previously. ",
-        "score": 1,
-        "author": "AntiqueProfessor5134"
-      }
-    ],
-    "summary_he": "הכותב מבקש חוות דעת על אסטרטגיית המסחר שלו בקרן USOY, המתבססת על ניצול ירידות זמניות במחירי הנפט בעקבות הודעות על הסכמים בין ארה\"ב לאיראן. הוא נוהג לקנות את הקרן לאחר ירידת המחירים ולמכור אותה כשהם מתאוששים, אך תוהה האם כדאי להמשיך בשיטה זו או שמא הסיכון גדל.",
+    "summary_he": "הכותב מעוניין להיפרד מיועץ השקעות עצמאי בשל חוסר פעילות וביצועים נמוכים, ולעבור לניהול עצמי פשוט יותר של התיק דרך פלטפורמת Schwab. הוא שואף לעבור לאסטרטגיית השקעה פשוטה המבוססת על מדדי S&P 500, קרנות עולמיות ואג\"ח ממשלתיות לקראת פרישה. כעת, הוא מחפש ייעוץ האם יוכל לקבל מספיק תמיכה טכנית והדרכה מ-Schwab מבלי לשלם עמלות על ניהול תיק מלא.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט ורגשות מרכזיים מהקהילה:\n\n*   **דפוס פעולה מוכר של טראמפ:** הקהילה מזהה כי מדובר באסטרטגיה עקבית של טראמפ עוד מהקדנציה הראשונה שלו, המבוססת על יצירת תנודתיות מכוונת בשווקים.\n*   **מניפולציה באמצעות חוסר עקביות:** קיימת טענה שטראמפ נהנה לתמרן את השוק על ידי שינוי עמדות תכוף (\"הלוך ושוב\"), מה שיוצר חוסר ודאות שניתן לנצל.\n*   **החשש מ\"המהלך האחרון\":** הדאגה המרכזית אינה התנודות היומיומיות, אלא הרגע שבו המשחק ייגמר והמשקיע יישאר עם נכסים חסרי ערך או בהפסד כבד (\"holding the bag\") מבלי יכולת לצאת בזמן.\n*   **הפער בין תיאוריה לסיכון בשטח:** בעוד שהאסטרטגיה עשויה להיראות הגיונית ברמה התיאורטית, המגיבים מדגישים שדי בטעות אחת בלבד כדי לגרום לקריסה פיננסית אישית.\n*   **רמת סיכון גבוהה מדי:** מובע סנטימנט של רתיעה מהימורים מסוג זה; עבור חלק מהמשתמשים, רמת הסיכון הכרוכה בניסיון לחזות את מהלכיו של טראמפ גבוהה מכדי שתהיה כדאית.\n*   **ספקנות לגבי יציבות גיאופוליטית:** קיימת פסימיות רבה לגבי הסיכוי להסכם בר-קיימא שישמור על נתיבי השיט (המצרים) פתוחים, וזאת בשל הפערים האידיאולוגיים והפוליטיים העמוקים בין הצדדים המעורבים."
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ורגשות מרכזיים שעלו מהתגובות:\n\n* **חוסר התאמה של מדד הייחוס:** קיימת הסכמה רחבה כי מדד ה-S&P 500 אינו מהווה מדד ייחוס (Benchmark) הולם עבור תיק השקעות הכולל מרכיב של איגרות חוב (אג\"ח).\n* **שלילה נחרצת של השוואת ביצועים שגויה:** הקהילה מדגישה באופן חד-משמעי כי השוואה בין תיק מעורב לבין מדד מנייתי טהור היא טעות מהותית בניתוח ביצועי התיק.\n* **החשיבות של תקשורת פרואקטיבית:** עולה ביקורת כלפי המשקיע על כך שהוא מצפה מהיועץ \"לקרוא את מחשבותיו\", תוך דגש על הצורך בשיחה פתוחה ויזומה לגבי מטרות וציפיות.\n* **תפקיד היועץ כגורם מחנך:** חלק מתפקידו של יועץ פיננסי הוא לא רק לנהל את הכסף, אלא גם לחנך את הלקוח, להסביר את הרציונל שמאחורי בחירותיו ולהבהיר כיצד התוכנית משרתת את היעדים.\n* **תיאום ציפיות מול אסטרטגיה:** הדיון מדגיש כי על היועץ להציג תוכנית עבודה סדורה שמפרטת איך הוא מתכוון להשיג את מטרות הלקוח, דבר שלא יכול לקרות ללא שיח מעמיק.\n* **אחריות הלקוח בתהליך הייעוץ:** הקהילה מביעה תחושה שהאחריות להבנת האסטרטגיה מוטלת גם על הלקוח; עליו לשאול שאלות ולהבין את מהות הניהול במקום להניח הנחות מבוססות מדדים לא רלוונטיים."
   },
   {
-    "id": "1to06bm",
-    "title": "How Are People Thinking About Copper If The Grid Buildout Keeps Accelerating?",
-    "url": "https://www.reddit.com/r/investing/comments/1to06bm/how_are_people_thinking_about_copper_if_the_grid/",
+    "id": "1tnibna",
+    "title": "Future Tech Still Needs Old-School Metals. How Are People Thinking About Copper Exposure?",
+    "url": "https://www.reddit.com/r/investing/comments/1tnibna/future_tech_still_needs_oldschool_metals_how_are/",
     "author": "AaronWebster34",
-    "score": 1,
-    "selftext": "The copper thesis keeps showing up in different places: AI data centers, grid upgrades, EV charging, defense systems, industrial electrification and renewable power. The common thread is electrical infrastructure. If more power has to move through the system, copper demand becomes harder to separate from the broader infrastructure cycle.\n\nThe simple way to play it is through large producers: FCX, SCCO, BHP, RIO, TECK and HBM. They have scale, liquidity and direct exposure to copper prices. COPX is the ETF route for people who prefer not to pick single miners. The trade-off is that many of these names already reflect a lot of the copper macro, especially after the sector’s recent strength.\n\nThe more complicated question is the future supply side. Existing mines are dealing with grade pressure, rising costs and disruption risk, while new projects take years. That is why I have been building a separate watchlist of smaller North American copper names. Kodiak Copper, Hercules Metals and NovaRed Mining are examples. NovaRed, CSE: NRED / OTC: NREDF, has Wilmac in BC’s Quesnel porphyry belt, around 10 km west of Copper Mountain, plus North Lamont target work, 2026 geophysics and MetalCore’s AI mineral-evaluation angle.\n\nI am curious where people draw the line. Do you stay with producers and ETFs, or does it make sense to hold a small basket of developers/explorers as future-supply optionality?",
+    "score": 6,
+    "selftext": "The more I look at AI infrastructure, grid upgrades, defense spending and electrification, the harder it is to ignore the metals side of the trade. Data centers need power cables, transformers, switchgear, busbars, substations, cooling systems and grid connections. Defense systems, robotics, EVs and renewables add more demand on top. Copper is the obvious volume metal in that stack, while silver, rare earths, gallium and germanium show up in more specialized parts of the supply chain.\n\nThe part I am trying to think through is how to get exposure without treating every mining name the same. Large producers like FCX, BHP, SCCO, RIO, TECK and HBM give cleaner commodity exposure and better liquidity. ETFs like COPX give broader copper-miner exposure. Developers and explorers have more torque, but they depend heavily on project quality, jurisdiction, financing and exploration results.\n\nFor the smaller explorer bucket, I have been looking at names with North American copper exposure rather than pure concept stories. Examples on my screen are Kodiak Copper, Hercules Metals, Pacific Empire, and NovaRed Mining, CSE: NRED / OTC: NREDF. NovaRed’s Wilmac project is in British Columbia’s Quesnel porphyry belt, roughly 10 km west of Copper Mountain, with North Lamont copper-in-soil work, 3DIP/AMT target work, 2026 geophysics ahead, and an AI mineral-evaluation angle through MetalCore. That kind of name is much higher risk than producers, but it shows how wide the copper supply pipeline gets once you look below the majors.\n\nCurious how people here are approaching the copper/critical minerals theme. Are you sticking with producers and ETFs, or do you think early-stage explorers deserve any allocation when the macro setup is this supply-constrained?",
     "subreddit": "investing",
-    "created_utc": 1779782344,
+    "created_utc": 1779735274,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Small miners get you interest rate and geoeconomic risk (labor/regulatory undercutting by LatAm, DRC, China) not to mention whatever Trump feels like doing tomorrow, or other countries in retaliation, whereas the big producers are LT priced in as you say. Why not a futures ETF like COPA.L? \n\nOn a LT basis, copper is running into some upside limitations from substitutability by aluminum in some less exciting but substantial uses - and there's a huge wave of recyclable AL scrap that's about to come out of China (EOL on appliances/infra). Even with Hormuz and sulfuric acid artificially pumping AL, the 3.8 CU-AL ratio is grinding up against historical substitutability limits. We're also well above 99% on the cost curve right now.",
-        "score": 1,
-        "author": "SnorklSnorkl"
-      }
-    ],
-    "summary_he": "הפוסט מנתח את הביקוש הגובר לנחושת כתוצאה מפיתוח תשתיות חשמל, בינה מלאכותית ואנרגיות מתחדשות, ומציין את הקושי הגובר במתן מענה מצד ההיצע העולמי. הכותב בוחן האם עדיף להשקיע ביצרניות גדולות ובתעודות סל (כמו COPX), או שמא כדאי להחזיק ב\"סל\" של חברות חיפוש ופיתוח קטנות יותר כמענה למחסור העתידי במשאב.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והניתוח של התגובה בפורום, המציג 6 נקודות מבט וטיעונים מרכזיים בעברית:\n\n*   **סיכונים בחברות כרייה קטנות:** קיימת הבחנה משמעותית בין יצרניות נחושת גדולות לבין כורים קטנים. בעוד שהסיכונים של החברות הגדולות כבר מתומחרים בשוק, הכורים הקטנים חשופים לסיכונים גיאופוליטיים וכלכליים גבוהים, כולל שינויי ריבית, תחרות רגולטורית מצד מדינות כמו סין וקונגו, וחוסר יציבות פוליטית (כגון השפעות המדיניות של טראמפ או צעדי תגובה של מדינות אחרות).\n*   **תחליפיות בין נחושת לאלומיניום:** לטווח הארוך, פוטנציאל העלייה של מחיר הנחושת מוגבל בשל היכולת להחליף אותה באלומיניום בשימושים תעשייתיים משמעותיים (גם אם פחות \"נוצצים\").\n*   **הצפת השוק בגרוטאות מאלומיניום:** צפוי גל מאסיבי של גרוטאות אלומיניום למיחזור שיגיע מסין, כתוצאה מסיום מחזור החיים של מוצרי חשמל ותשתיות ישנים. היצע זה עשוי להשפיע על מאזן הכוחות בין המתכות.\n*   **יחס מחירים היסטורי (CU-AL):** יחס המחירים בין נחושת לאלומיניום עומד כעת על 3.8, נתון שמתקרב לקצה גבול היכולת ההיסטורי שבו תעשיות עוברות להחלפה אינטנסיבית של נחושת באלומיניום כדי לחסוך בעלויות.\n*   **ניתוח עקומת עלויות:** מחירי הנחושת הנוכחיים נמצאים הרבה מעל האחוזון ה-99 של עקומת העלויות. מצב זה מעיד על כך שהמחיר הנוכחי גבוה מאוד ביחס לעלויות הייצור הריאליות, מה שעלול להצביע על מיצוי פוטנציאל העלייה.\n*   **העדפת אסטרטגיית השקעה בחוזים עתידיים:** במקום לקחת את הסיכונים התפעוליים והפוליטיים הכרוכים במניות של חברות כרייה, מוצע לשקול השקעה באמצעות תעודות סל (ETF) העוקבות אחר חוזים עתידיים על סחורות (כמו COPA.L), המהוות חשיפה ישירה יותר למחיר המתכת."
-  },
-  {
-    "id": "1tnzw5i",
-    "title": "Anyone else treat stocks like a savings account? It helps a lot",
-    "url": "https://www.reddit.com/r/investing/comments/1tnzw5i/anyone_else_treat_stocks_like_a_savings_account/",
-    "author": "Andy_parker",
-    "score": 1,
-    "selftext": "I used to trade stocks constantly in the past. But at some point I started thinking maybe the best way to make money was to treat investing more like a bank savings account.\n\nLike when you put money into a savings account, you keep adding to it whether it rains or shines. You don’t suddenly withdraw everything or close the account just because the balance went up a bit.\n\nUsually you just leave it alone because it’s a hassle anyway. And if you ever need money later, you withdraw some of it when necessary.\n\nThat’s basically how I’ve been treating stocks, and honestly it’s worked pretty well for me.\n\nI don’t trade in and out constantly. I just keep buying big tech stocks every month like I’m contributing to a savings account.\n\nIf the market drops, I buy more. If I need cash someday, then I’ll just sell a little.\n\nI’m sure brokers probably hate customers like me since they make few fees off me. But from the perspective of growing my personal wealth, it’s been pretty solid.\n\nI built my Nvidia position that way, and as of today I’m up about +580%. Google + 120%. It's a bit boring but definitely works.",
-    "subreddit": "investing",
-    "created_utc": 1779781378,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "> I just keep buying big tech stocks\n\n> It's a bit boring but definitely works.\n\nI held QCOM in 2000.  Focusing on big tech stocks works until it does not.\n\nAlways be diversified.  Always be ready for a long bear market.",
-        "score": 1,
-        "author": "D74248"
+        "body": "Nah optics is the next step. Copper is played out",
+        "score": 2,
+        "author": "mulletstation"
       },
       {
-        "body": "That's the right approach. Boredom works.\n\nI do the same with cryptocurrency staking—I add money every cycle, never panic, never withdraw unless necessary. The account just grows quietly in the background.\n\nThe market doesn't care about your emotions. Neither does compound interest.\n\nThe 580% increase on Nvidia isn't luck. It's discipline acquired over time. Most people can't sit still long enough to allow that.\n\nEvery stake is a heartbeat you've invested, not wasted. It's the only strategy that truly works. Great thinking for life's quiet moments. Congratulations!",
-        "score": 1,
-        "author": "PassiveYield_Daily"
+        "body": "I’d look into an etf that captures the entire sector however, by investing in that sector, you are essentially saying “I think copper mining will surpass the S&P 500 or total market in earnings, which based on historical performance is not true. It’s also important to note that mining companies frequently operate at a loss, especially at first as they need to incur large amounts of debt either due to financing and/or via streamer companies. \n\nPersonally, I would not touch mining companies or their associated ETFs with a 10 foot pole.",
+        "score": 2,
+        "author": "ATPsynthase12"
       },
       {
-        "body": "Calling stocks a savings account is a little cursed, but treating contributions like a boring recurring habit is honestly where a lot of the magic is",
+        "body": "Data now travels over optics.  Power still travels over copper.",
         "score": 1,
-        "author": "ETP_Queen"
+        "author": "WiseAct446"
       }
     ],
-    "summary_he": "כותב הפוסט ממליץ להתייחס להשקעה במניות כאל חשבון חיסכון בנקאי, על ידי רכישה עקבית של מניות טכנולוגיה גדולות ללא קשר לתנודות השוק. לטענתו, גישה פסיבית וסבלנית זו הניבה לו תשואות מרשימות לאורך זמן וסייעה לו להגדיל את הונו האישי ביעילות רבה יותר מאשר מסחר פעיל ותזזיתי.",
+    "summary_he": "הפוסט דן בביקוש הגובר לנחושת ומינרלים קריטיים המונע על ידי פיתוח תשתיות בינה מלאכותית, חשמול ושדרוג רשתות החשמל. הכותב בוחן אסטרטגיות חשיפה שונות למגזר, החל מחברות כרייה גדולות ותעודות סל ועד לחברות חיפוש (explorers) קטנות ומסוכנות יותר המציעות פוטנציאל רווח גבוה. לסיכום, הוא מבקש את דעת הקהילה האם כדאי להיצמד ליצרניות מבוססות או להשקיע בשלבים המוקדמים של שרשרת האספקה נוכח המחסור הצפוי במשאבים.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות בשרשור, הכולל 6 נקודות מבט וסנטימנטים מרכזיים של הקהילה:\n\n*   **השקעה במניות טכנולוגיה גדולות כחלוץ לפני המחנה:** קיימת הסכמה שהתמקדות במניות הטכנולוגיה הגדולות היא אסטרטגיה שעובדת היטב לאורך זמן, גם אם היא נתפסת כ\"משעממת\". עם זאת, יש מי שמזכיר שמה שעובד היום עלול להפסיק לעבוד בעתיד, כפי שקרה בבועת הדוט-קום בשנת 2000.\n*   **חשיבות הגיוון והמוכנות למשברים:** אחד המגיבים מדגיש שחובה תמיד לשמור על תיק השקעות מגוון ולהיות ערוכים מנטלית וכלכלית ל\"שוק דובי\" (תקופת ירידות) ממושך, ולא להסתמך על סקטור יחיד לנצח.\n*   **השקעה כ\"הרגל משעמם\" לעומת ריגושים:** הקהילה מצביעה על כך שההצלחה האמיתית בהשקעות מגיעה דווקא מהפיכתן להרגל קבוע, עקבי ומשעמם. למרות שהשוואת מניות ל\"חשבון חיסכון\" עשויה להיות שנויה במחלוקת מבחינה סיכונית, האימוץ של דפוסי הפקדה אוטומטיים הוא \"קסם\" הפיננסי.\n*   **ניתוק רגשי ומשמעת עצמית:** השוק והריבית דריבית אינם מתחשבים ברגשות אנושיים. המגיבים מציינים כי היכולת לשבת בשקט ולא לפעול מתוך פאניקה היא ההבדל בין הצלחה לכישלון; רווחים גדולים (כמו במקרה של Nvidia) הם תוצאה של משמעת ארוכת טווח ולא של מזל גרידא.\n*   **אסטרטגיית \"הפקד ושכח\" גם בקריפטו:** קיימת גישה המעתיקה את עקרונות ההשקעה המסורתיים לעולם המטבעות הדיגיטליים (כמו סטייקינג). המפתח הוא הוספת כסף בכל מחזור, הימנעות ממשיכות מיותרות ומתן אפשרות לחשבון לצמוח \"בשקט\" ברקע.\n*   **הזמן כמרכיב קריטי:** הקהילה מדגישה שרוב האנשים נכשלים כי הם לא מסוגלים להמתין מספיק זמן כדי לאפשר לאסטרטגיה שלהם להניב פירות. השקעה נתפסת כהשקעת \"פעימות לב\" וזמן, ולא כהימור מהיר."
+    "comments_summary_he": "להלן סיכום הדיון בשרשור המבוסס על התגובות שפורסמו, המציג 6 נקודות מבט ודעות שונות בקהילה:\n\n*   **המעבר לטכנולוגיה אופטית:** קיימת דעה שהנחושת כהשקעה כבר מיצתה את עצמה (\"Played out\"), וכי התחום האופטי (Optics) הוא הצעד הבא והמבטיח יותר מבחינה טכנולוגית וכלכלית.\n*   **ספקנות לגבי תשואת הסקטור מול השוק הכללי:** משקיעים מציינים כי השקעה בסקטור הנחושת מניחה שהוא יניב ביצועים טובים יותר ממדד ה-S&P 500 או מכלל השוק, אך נתונים היסטוריים מראים שהנחה זו לרוב אינה מתממשת.\n*   **הסיכון הפיננסי בחברות כרייה:** הועלה טיעון נגד השקעה בחברות כרייה בשל הנטייה שלהן לפעול בהפסדים, במיוחד בשלבים מוקדמים, עקב חובות כבדים שנוצרים ממימון פעילות ותלות בחברות הזרמת הון (Streamer companies).\n*   **הרתעה מהשקעה ישירה בתחום:** קיימת עמדה נחרצת של חלק מהמשתמשים להימנע לחלוטין מהשקעה בחברות כרייה או בתעודות סל (ETF) סקטוריאליות הקשורות אליהן, בשל המורכבות והסיכונים הכרוכים בכך.\n*   **הבחנה פונקציונלית בין נחושת לאופטיקה:** ישנה הבחנה חשובה בין סוגי התשתיות – בעוד שהעברת נתונים (Data) עברה במידה רבה לסיבים אופטיים, העברת חשמל ואנרגיה (Power) עדיין מסתמכת באופן בלעדי כמעט על נחושת, מה ששומר על הרלוונטיות שלה.\n*   **עדיפות לתעודות סל על פני מניות בודדות:** במידה ובוחרים בכל זאת להיחשף לסקטור, הגישה המועדפת על חלק מהמשתמשים היא חיפוש אחר תעודת סל (ETF) שתלכוד את הסקטור כולו ולא התמקדות בחברה ספציפית, למרות ההסתייגות הכללית מהתחום."
   },
   {
-    "id": "1tnyx7q",
-    "title": "Why ASTS insiders are selling while the stock is near all time highs",
-    "url": "https://www.reddit.com/r/investing/comments/1tnyx7q/why_asts_insiders_are_selling_while_the_stock_is/",
-    "author": "Aware_Selection_7563",
-    "score": 1,
-    "selftext": "Not trying to spread fear just genuinely confused\n\nIn the last 3 months, insiders did 14 sells and only 7 buys. the sells happened at around 84 to 90 dollars per share. The stock is now at 105\n\nI know insider selling is not always bearish. Sometimes people just need cash. Sometimes it is scheduled. but when you see 5 open market sales and zero open market purchases that is worth paying attention to\n\nAm I overthinking this, or is this a yellow flag?",
+    "id": "1tng6ti",
+    "title": "The worlds largest Antimony Producer and Europe´s biggest Lead producer",
+    "url": "https://www.reddit.com/r/investing/comments/1tng6ti/the_worlds_largest_antimony_producer_and_europes/",
+    "author": "Healthy-Matter-4218",
+    "score": 2,
+    "selftext": "I’ve been looking into Campine NV and wanted to sanity-check the thesis here.\n\nThe company had a monster 2025, mostly because antimony prices went crazy. So I’m not assuming the recent EBITDA is a normal run-rate. That’s probably the biggest risk in the whole story.\n\nThe obvious bear case is that lead-acid battery makers may reduce antimony content over time. Campine itself basically said high antimony prices pushed some customers to reduce usage or look at alternatives.\n\nBut I’m not sure the conclusion is as simple as “less antimony = thesis dead.”\n\nThe part I find interesting is tin. Some newer lead-acid battery designs use lead-calcium-tin systems instead of traditional lead-antimony grids. So if antimony use declines in some battery types, tin content may rise at least partly.\n\nCampine already recovers tin in its Metals Recovery segment, along with antimony, silver and gold. Management also mentioned that high tin prices helped the business in 2025. Tin prices have been strong, so this could be a partial offset.\n\nTo be clear, I’m not saying tin perfectly hedges antimony. It depends on scrap mix, recovery rates, pricing, and how battery chemistry actually evolves. But I do think the bear case needs to account for the fact that Campine recovers more than just antimony.\n\nOther things I like:\n\nCampine has been around for more than 100 years, so this is not some new promotional small-cap.\n\nThey bought Ecobat’s French battery recycling assets, which expands their footprint, and they did it without issuing shares.\n\nShare count is still around 1.5m.\n\nBalance sheet still looks reasonable after the acquisition (even improved)\n\nManagement seems fairly conservative. They don’t come across as super promotional, and over the last year they seem to have guided cautiously and then delivered better numbers.\n\nThere may also be another acquisition in 2026 or 2027. In a Trends Talk interview on YouTube, the CEO talked about looking at further acquisition opportunities. The video had almost no views, which surprised me.\n\nEU regulation is another possible tailwind. Stricter recycling rules should favour companies that already have permits, scale, compliance and proper facilities. It should make life harder for low-standard recyclers and increase the value of local recycling capacity.\n\nMain risks as I see them:\n\n2025 earnings may be peak-cycle.  \nAntimony prices could normalize.  \nCustomers may substitute away from antimony.  \nLead prices are weak.  \nRecycling businesses can have environmental liabilities.  \nSmall-cap liquidity is limited.  \nCommodity spreads can move against them quickly.\n\nSo I’m not saying this is obviously cheap or risk-free. I just think it may be more than an antimony spike story.\n\nMy current view is that Campine is a small, underfollowed recycler with unusually strong exposure to antimony, tin and battery recycling. The tin angle is what makes the antimony-substitution risk less black-and-white for me.\n\nCurious if anyone here has looked at the company or sees a flaw in the tin/antimony argument.\n\nNot financial advice. I own shares / am considering adding, so assume I’m biased.\n\nThe risks are obvious too:\n\nAntimony prices could normalize.  \n2025 may have been peak earnings.  \nLead prices are weak.  \nBattery chemistry can change.  \nCommodity businesses are volatile.  \nEnvironmental liabilities always matter in recycling.  \nAnd small-cap liquidity is not great.\n\nSo this is not a “risk-free compounder” or anything like that.\n\nBut I do think Campine is more interesting than the market gives it credit for. The easy take is that it is just an antimony spike story. My view is that it is slowly becoming a European circular-metals platform, with antimony, tin and battery recycling all feeding into the same broader trend.\n\nThe tin point is especially important to me: even if antimony content in some batteries declines, that does not necessarily destroy the thesis. If tin content rises at the same time, Campine may be partially hedged through its Metals Recovery business.\n\nNot a perfect hedge. Not guaranteed. But enough to make the story more resilient than it first looks.\n\nNot financial advice. I own shares (over 99% of my portfolio) / am researching the company, so assume I’m biased",
     "subreddit": "investing",
-    "created_utc": 1779778160,
+    "created_utc": 1779730709,
     "thumbnail": "self",
     "top_comments": [],
-    "summary_he": "הפוסט דן בחששות סביב מכירות של בעלי עניין (insiders) במניית ASTS, בזמן שהיא נסחרת קרוב לשיא כל הזמנים. הכותב מציין כי כמות המכירות בשוק החופשי עולה משמעותית על הקניות ותוהה האם מדובר בסימן אזהרה (\"דגל צהוב\") או במימוש רווחים שגרתי לצרכי נזילות.",
+    "summary_he": "הפוסט מנתח את חברת Campine NV, יצרנית אירופאית מובילה למיחזור עופרת ואנטימון, ומציין כי למרות החשש מירידת מחירי האנטימון לאחר הזינוק ב-2025, החברה ממוצבת היטב בזכות יכולתה למחזר גם בדיל ומתכות יקרות. הכותב טוען כי המעבר לשימוש בבדיל בסוללות חדשות והרגולציה הסביבתית באירופה הופכים את החברה לפלטפורמת \"כלכלה מעגלית\" מבטיחה לטווח הארוך, מעבר לתנודתיות הרגעית במחירי הסחורות.",
+    "category_he": "עסקים",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1toxxb8",
+    "title": "Managed funds to invest in Germany?",
+    "url": "https://www.reddit.com/r/investing/comments/1toxxb8/managed_funds_to_invest_in_germany/",
+    "author": "Big-Village-9694",
+    "score": 1,
+    "selftext": "Hey,\n\nI'm new to Germany and the EU.\n\nI'm trading stocks on trade212.\n\nHowever I'm looking for an investment mechanism to invest in, which is managed by professionals, with minimal course setting by myself (e.g., 50% stocks 50% bonds or something), to reduce the risk, at the expense of yields.\n\nBack where I'm from, there are many such funds, and one gets tax breaks for investing in them to encourage savings.\n\nI'd appreciate youe help.\n\nThanks!",
+    "subreddit": "investing",
+    "created_utc": 1779865635,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "forr a hands off stock and bond mix, use a German robo-advisor like Scalable Capital or Quirion since they automatically manage the portfolio and handle your local taxes. Just choose a conservative or balanced risk setting and skip the complicated, highfee retirement plans.",
+        "score": 1,
+        "author": "Worried_Gain_5191"
+      },
+      {
+        "body": "as a simple search would've told you, t212 does not offer mutual funds or bonds.",
+        "score": 1,
+        "author": "szakee"
+      }
+    ],
+    "summary_he": "הכותב, תושב חדש בגרמניה, מחפש המלצות לקרנות השקעה מנוהלות המשלבות מניות ואג\"ח כדי להפחית סיכונים בניהול מקצועי. הוא מעוניין בפתרונות הדומים לאלו הקיימים בארצו, הדורשים מינימום התערבות מצדו ומציעים יתרונות כמו הטבות מס לעידוד חיסכון.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות העולות מתוך התגובות בשרשור:\n\n*   **המלצה על יועצי השקעות רובוטיים (Robo-advisors):** קיימת העדפה לשימוש בפלטפורמות גרמניות כמו Scalable Capital או Quirion עבור משקיעים המחפשים שילוב של מניות ואגרות חוב במינימום מאמץ.\n*   **ניהול אוטומטי ופסיבי (Hands-off):** הקהילה מדגישה את היתרון שבניהול תיק השקעות אוטומטי, המאפשר למשקיע להימנע מניהול פעיל ומורכב של הנכסים.\n*   **טיפול במיסוי מקומי:** נקודת זכות משמעותית לטובת הפלטפורמות הגרמניות היא היכולת שלהן לטפל באופן אוטומטי בנושאי המס המקומיים, מה שחוסך התעסקות בירוקרטית מורכבת מהמשקיע.\n*   **הסתייגות מתוכניות פרישה יקרות:** הדיון מציע להימנע מתוכניות פרישה מורכבות הכרוכות בעמלות גבוהות, ובמקום זאת לבחור בהגדרות סיכון שמרניות או מאוזנות בתוך פלטפורמות פשוטות יותר.\n*   **מגבלות פלטפורמת Trading 212:** מצוין במפורש כי אפליקציית Trading 212 אינה מספקת מענה למשקיעים המחפשים קרנות נאמנות (Mutual Funds) או אגרות חוב (Bonds), שכן אלו לא מוצעים בשירות שלה.\n*   **חשיבות המחקר המקדים:** עולה נימה של ביקורת כלפי משתמשים שאינם מבצעים חיפוש בסיסי לפני שהם שואלים, תוך הדגשה שפרטים טכניים על זמינות נכסים (כמו אג\"ח) הם מידע שקל לאתר באופן עצמאי."
+  },
+  {
+    "id": "1toxazx",
+    "title": "Gold is under short-term pressure, but the long-term logic remains unchanged.",
+    "url": "https://www.reddit.com/r/investing/comments/1toxazx/gold_is_under_shortterm_pressure_but_the_longterm/",
+    "author": "BigExpress8345",
+    "score": 1,
+    "selftext": "Recently, several international financial institutions have adjusted their forecasts for the future trend of gold.\n\nMorgan Stanley has significantly lowered its gold price target; while Citigroup has publicly stated a bearish outlook on gold in the short term, predicting that the price may fall back to around $4,300 per ounce within the next 3 months.\n\nHowever, the market is not unanimously pessimistic. Goldman Sachs, UBS, and ANZ maintain a relatively optimistic view. They believe that against the backdrop of continued gold purchases by global central banks and lingering geopolitical risks, gold still has long-term support and may have the opportunity to retest previous highs.\n\nBut the key factor truly determining the next stage of gold's trend remains the Federal Reserve's interest rate policy.\n\nIf expectations of further US interest rate cuts intensify, and the dollar and US Treasury yields decline, gold is likely to attract funds again; conversely, if high interest rates persist longer than market expectations, gold may continue to face short-term pressure and volatility.\n\nTherefore, the current gold market is more like a tug-of-war between \"long-term bullish factors\" and \"short-term high interest rate pressure.\" The true direction may need to wait for the next round of clearer signals from the Federal Reserve.",
+    "subreddit": "investing",
+    "created_utc": 1779863628,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "שוק הזהב נמצא כיום במאבק בין תחזיות לירידות בטווח הקצר לבין אופטימיות לגבי המשך עליות בטווח הארוך, הנתמכת ברכישות של בנקים מרכזיים ובסיכונים גיאופוליטיים. גורל המחירים תלוי בעיקר במדיניות הריבית של הפדרל ריזרב, שתקבע האם הזהב יחזור למגמת עלייה או ימשיך לסבול מתנודתיות תחת לחץ הריביות הגבוהות.",
     "category_he": "השקעות",
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1tnx8qi",
-    "title": "Requesting Input (21 M) $100k inheritance",
-    "url": "https://www.reddit.com/r/investing/comments/1tnx8qi/requesting_input_21_m_100k_inheritance/",
-    "author": "ExpertClassic4973",
+    "id": "1touqcn",
+    "title": "HIVE and/or KEEL (AI Data Centres)",
+    "url": "https://www.reddit.com/r/investing/comments/1touqcn/hive_andor_keel_ai_data_centres/",
+    "author": "livetodayy",
     "score": 1,
-    "selftext": "Recently inherited 100k from grandparent. I have maxed out all registered accounts ($22k ish) in TFSA $8,400 in RRSP, $24k in FHSA. Most of the holding are VEQT with a little GOOG and AAPL sprinkled into the TFSA. My options are as follows:\n\n1. Invest the remainder in a non-restored cash account (VEQT) most likely. And wait for more money to. Use towards next years contribution limits (I anticipate inheriting more).\n\n2. Sit on the remainder in a HYSA and wait for my contribution room to open up in 2027. This is the safer play as I am unsure if I will be able to max out contributions next year based on my income alone as I am still in university. \n\nAny thoughts or comments welcome!\n\nThanks",
+    "selftext": "Anyone in one or both of these? I’m currently in both but debating pulling out of one to put more in the other.   \nI’m leaning towards keeping HIVE and dumping KEEL. \n\nNot looking for financial advice. Mainly curiosity to see if others are riding these two. ",
     "subreddit": "investing",
-    "created_utc": 1779772871,
+    "created_utc": 1779855813,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Are you trying to optimize returns here, or preserve flexibility while you’re still in school? Those are kinda different goals.",
+        "body": "I have HIVE in my portfolio and plan to keep it 5+ years. \n\n\nI like their hydroelectric powered DCs plan a lot and they're only starting.\n\n\nHonestly hadn't heard of KEEL.",
         "score": 1,
-        "author": "Hefty-Net4233"
+        "author": "Cagliari77"
       },
       {
-        "body": "You could put the money in aa taxable account and invest in a dividend fund Like QQQI 13% yield.  Turn off dividend reinvestment That way the money goes into money markets account (similar to HYSA  The dividend would go into the money market account and then when possible deposited ton the TFSA or FHSA and FHSA account.  The 13% yield for QQQI  is 13% so 100K will generate 13K a year.  you can feed in those accounts.  This means you are using your inheritance to to reduce the ammount of work income your are currently devoting to savings \n\nNow I don't live in canada and I don't know how QQQI with be taxed for you but in the use it generates ROC dividend which makes it a tax effacent fund. in the US.  if similar tax laws exist in Canada it won't genterate much tax.  Fut that said a portion for eh dividend from QQQI can also be set asside to pay any tax the fund  generates. ",
+        "body": "WGMI and chill.  They have all the data center players and it’s actively managed so you’re going to capture mega upside if DCs keep rocking. ",
         "score": 1,
-        "author": "Various_Couple_764"
+        "author": "Emotional-Breath-838"
       },
       {
-        "body": "At 21, the biggest advantage isn’t finding the perfect allocation, it’s time and tax shelter compounding. Keeping most of it in VEQT and slowly moving future inheritance money into TFSA/FHSA room over time is probably the cleanest approach, because a taxable account at your age can quietly create a much bigger tax drag than people realize once compounding kicks in. Sitting entirely in a HYSA while waiting for contribution room sounds safer psychologically, but inflation and missed market years are real costs too. Honestly, the fact you’re thinking about account structure instead of chasing random stocks already puts you ahead of most people inheriting money that young.",
+        "body": "HIVE is at least building toward real AI infra revenue, KEEL still feels more like a story than a business to me. I would size both like speculation, not like core holdings.",
         "score": 1,
-        "author": "OovionOfficial"
+        "author": "InvestmentBiker"
       }
     ],
-    "summary_he": "צעיר בן 21 שירש 100,000 דולר מבקש ייעוץ כיצד להשקיע את יתרת הכספים לאחר שכבר מילא את מכסות ההפקדה המקסימליות בחשבונות הפטורים ממס (TFSA, RRSP ו-FHSA). הוא מתלבט בין השקעת היתרה בחשבון רגיל החייב במס לבין שמירת הכסף בחשבון חיסכון בריבית גבוהה עד שיתפנה לו מקום להפקדות פטורות נוספות בשנים הבאות.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע לניהול כספי ירושה והשקעות עבור צעירים, הכולל 6 נקודות מבט ודעות מרכזיות שעלו מהתגובות:\n\n*   **הגדרת מטרות מול גמישות:** נקודת המוצא לכל החלטה היא הבנה האם המטרה המרכזית היא אופטימיזציה של התשואות לטווח ארוך, או שמא שמירה על גמישות פיננסית וזמינות של הכסף בתקופת הלימודים, שכן אלו יעדים הדורשים גישות השקעה שונות.\n*   **אסטרטגיית תזרים מזומנים מדיבידנדים:** הצעה אחת גורסת כי כדאי להשקיע בקרנות בעלות תשואת דיבידנד גבוהה (למשל QQQI עם 13% תשואה) בתוך חשבון חייב במס. הרעיון הוא לא להשקיע את הדיבידנדים מחדש באותו חשבון, אלא להשתמש במזומן שנוצר כדי לממן בהדרגה הפקדות לחשבונות פטורים ממס (כמו TFSA או FHSA בקנדה) ובכך להפחית את הצורך להשתמש בהכנסה מעבודה לצורך חיסכון.\n*   **התחשבות בהיבטי מס בינלאומיים:** המגיבים מציינים את החשיבות של הבנת חוקי המס המקומיים (במקרה זה, ההבדל בין ארה\"ב לקנדה). מושגים כמו \"החזר הון\" (ROC) יכולים להפוך קרנות מסוימות ליעילות יותר מבחינת מס, אך יש לבדוק כיצד רשות המיסים המקומית מתייחסת לדיבידנדים הללו כדי להימנע מהפתעות.\n*   **ניצול אלמנט הזמן והריבית דריבית:** בגיל צעיר (21), היתרון הגדול ביותר הוא לא בהכרח בחירת המניה המושלמת, אלא ניצול מקסימלי של זמן ושל חשבונות מוגני מס. המלצה בולטת היא להשקיע בקרנות סל רחבות (כמו VEQT) ולהעביר כספים לחשבונות פטורים ממס בהקדם האפשרי כדי למנוע \"גרר מס\" (Tax Drag) שעלול להצטבר לסכומים משמעותיים לאורך עשורים.\n*   **הסיכון שב\"ישיבה על הגדר\":** קיימת אזהרה מפני השארת סכומי כסף גדולים בחשבונות חיסכון בנקאיים (HYSA) בזמן שממתינים להתפנות של מקום בחשבונות הפטורים ממס. למרות שזה מרגיש בטוח יותר פסיכולוגית, האינפלציה והפסד של שנות עליות בשוק ההון הם \"עלויות אמיתיות\" שעלולות לפגוע בהון בטווח הארוך.\n*   **תעדוף אסטרטגיית מבנה על פני בחירת מניות:** הקהילה מביעה הערכה לגישה שמתמקדת במבנה החשבונות (Tax Shelling) ובאסטרטגיית מס במקום במרדף אחרי מניות בודדות. גישה כזו נתפסת כסימן לבגרות פיננסית המציבה את המשקיע הצעיר בעמדת יתרון משמעותית על פני בני גילו."
+    "summary_he": "הכותב מתלבט לגבי השקעתו בשתי חברות העוסקות במרכזי נתונים לבינה מלאכותית (AI),‏ HIVE ו-KEEL. הוא שוקל למכור את החזקותיו ב-KEEL כדי להגדיל את השקעתו ב-HIVE, ומבקש לשמוע חוות דעת ממשקיעים אחרים שמחזיקים במניות הללו.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המובילות ב-Reddit, הכולל 6 נקודות מבט וסנטימנטים מרכזיים מהקהילה:\n\n*   **אסטרטגיית השקעה לטווח ארוך ב-HIVE:** קיימים משקיעים המאמינים ב-HIVE כהחזקה אסטרטגית לטווח רחוק (5 שנים ומעלה), מתוך ציפייה לצמיחה משמעותית של החברה לאורך זמן.\n*   **הערכה לשימוש באנרגיה מתחדשת:** הקהילה מביעה עניין ותמיכה במודל התפעולי של HIVE, ובפרט בשימוש שלה במרכזי נתונים המופעלים באמצעות אנרגיה הידרו-אלקטרית (חשמל המופק מכוח המים), מה שנתפס כיתרון תחרותי.\n*   **העדפת השקעה פסיבית ומנוהלת (WGMI):** ישנה המלצה בולטת על ה-ETF (תעודת סל) בשם WGMI כאסטרטגיית \"שגר ושכח\". היתרון המרכזי שצוין הוא החשיפה הרחבה לכל השחקנים המרכזיים בתחום מרכזי הנתונים תחת ניהול אקטיבי.\n*   **מינוף הצמיחה בתחום מרכזי הנתונים:** הניהול האקטיבי של קרנות כמו WGMI נתפס ככלי קריטי למיצוי פוטנציאל הרווח (Upside) מהפריחה המתמשכת בתחום מרכזי הנתונים (Data Centers).\n*   **אמינות עסקית: HIVE מול KEEL:** קיימת הבחנה משמעותית בין החברות; HIVE נתפסת כמי שבונה תשתית אמיתית ליצירת הכנסות מתחום הבינה המלאכותית (AI), בעוד ש-KEEL נתפסת כרגע יותר כ\"סיפור שיווקי\" מאשר עסק מוצק ומבוסס.\n*   **ניהול סיכונים וסיווג נכסים:** המגיבים מדגישים כי יש להתייחס למניות אלו (HIVE ו-KEEL) כהשקעות ספקולטיביות בלבד. הקהילה מציעה לא להפוך אותן ל\"החזקות ליבה\" בתיק, אלא להקצות להן סכומים המיועדים להשקעות בסיכון גבוה."
   },
   {
-    "id": "1tnq991",
-    "title": "Move money to Vanguard or not?",
-    "url": "https://www.reddit.com/r/investing/comments/1tnq991/move_money_to_vanguard_or_not/",
-    "author": "BallerinaLP",
+    "id": "1touixk",
+    "title": "What happens to stocks in a sale or shutdown? (Inheritance)",
+    "url": "https://www.reddit.com/r/investing/comments/1touixk/what_happens_to_stocks_in_a_sale_or_shutdown/",
+    "author": "Worried-Ebb-1699",
     "score": 1,
-    "selftext": "I currently have three old employer 401ks at different investment firms and a current one with Fidelity. I'd like to consolidate to make life simpler.   \n  \nI like Vanguard and appreciate their investing philosophy, low fees, and customer service. I could consolidate with Fidelity, but found them to be a lot more aggressive with trying to get me to consolidate with them. Moving my 401ks would involve rolling them over into an IRA with Vanguard. My only concern is that I can't go back. Obviously once you've left a 401K you can't go back to it.\n\nHas anyone done this? Any advice?",
+    "selftext": "So I was left various documents from a deceased grandparent that included being gifted 1,000 shares of his company “A” from back in the 60’s. Said company was sold to someone and it’s unclear if it still exists from my research thus far.\n\nI am not sure how to explore this discovery, mainly out of curiosity, but also as a financial opportunity if one exists. I realize the company may simply not exist and therefore the documents are purely of historical/family nature with zero cash value and that’s fine. \n\nIf this company “A” was sold off to company “B” and let’s assume company “B” still exists today, would the stocks have any value? If so, how do I collect? Is there a way company “b” still exists and these are worthless?\n\nIf company “A” did shut down, I assume they have no cash value, but is there any way for me to learn more about the company? Like legal filings, historical data? Given no internet back then it is a bit trickier. \n\nThanks for your guidance as I work thru the loss in my family and discovery made.",
     "subreddit": "investing",
-    "created_utc": 1779753776,
+    "created_utc": 1779855248,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Yes.  No benefit in staying.     Once I moved my portfolio from my employer to vanguard the new choice of investments vastly improved my overall rate of return.       My lesson ,   I should have quit earlier.  ",
+        "body": "The answer is maybe.\n\nYou would contact company B transfer agent , the transfer agent basically is a company that handles a companies stock .\n\nA company can act as its own transfer agent but many will outsource it to a company like computershare .\n\nNow when the buyout or merger occurred there may have been a time period where people had to convert the stock.\n\nOr your grandpa could have already converted the stock into electronic shares and just for example kept the paper shares as a souvenir or something.\n\n\n\n",
         "score": 1,
-        "author": "nvrbrk66"
+        "author": "SirGlass"
       },
       {
-        "body": "Vanguard is mostly index funds.  Get out of index funds. New ipo rules and risky ipos mean you’ll be taking on more risk than warranted or you have in the past. ",
+        "body": "Check with the municipality company B is located? They might have a record ",
         "score": 1,
-        "author": "lovebombme2u"
+        "author": "Send69Noodz"
       },
       {
-        "body": "I encountered exactly this problem recently. Thought I crossed my i's and dotted my t's, did some backdoor shenanigans, and screwed myself just a bit. It was only a year and 7 grand but I had to pay taxes on almost all of it. \n\nLadies and gents, if you have an IRA that you dumped your 401k into, it makes backdoor roth iras a non starter. If you have other IRAs the backdoor method goes on a percentage of how much was pre/post tax and all that 401k money is pre tax. I tried to do the backdoor method by putting 7k in then converting it but it just muddled everything because that transfer was like 2 percent non taxed and 98 percent taxed.",
+        "body": "It's always different depending on the Sales contract. Many times if B buys A with wording to compensate A shares, they set a timeframe, like 1 year to cash in. Gotta find out what sales contract said. if....",
         "score": 1,
-        "author": "krustyy"
+        "author": "No-Consequence-8768"
       }
     ],
-    "summary_he": "כותב הפוסט שוקל לאחד מספר חשבונות פרישה (401k) ממעסיקים קודמים לחשבון IRA ב-Vanguard כדי לפשט את ניהול כספיו. למרות העדפתו לחברה בשל עמלות נמוכות ושירות טוב, הוא חושש מכך שמדובר בצעד בלתי הפיך ומבקש עצות מאנשים שביצעו מהלך דומה.",
+    "summary_he": "הכותב ירש 1,000 מניות משנות ה-60 של חברה שנמכרה או נסגרה, והוא מבקש לברר אם יש להן ערך כספי כיום במקרה שהחברה נרכשה על ידי תאגיד אחר. הוא מחפש הכוונה כיצד ניתן להתחקות אחר ההיסטוריה של החברה והמסמכים המשפטיים שלה כדי להבין אם המניות עדיין בנות פירעון או שהן בעלות ערך היסטורי בלבד.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג נקודות מבט שונות בנושאי ניהול תיקי השקעות, אסטרטגיות פרישה ומיסוי:\n\n**סיכום הדיון:**\n\n*   **עדיפות לניהול עצמאי על פני תוכניות מעסיק:** קייימת עמדה הגורסת כי אין יתרון בהישארות בתיק השקעות המנוהל על ידי המעסיק. מעבר לניהול עצמאי (למשל בחברת Vanguard) מאפשר גישה למגוון רחב ואיכותי יותר של אפשרויות השקעה, מה שמשפר משמעותית את התשואה הכוללת.\n*   **חרטה על השתהות:** משקיעים הביעו חרטה על כך שלא העבירו את כספם מחוץ לתוכניות המעסיק מוקדם יותר, מתוך הבנה שהזמן שבו הכסף שהה בתוכנית המקורית עלה להם ברווחים פוטנציאליים.\n*   **אזהרה מפני קרנות מחקות מדד (Index Funds):** עלתה טענה כי כדאי להתרחק מקרנות סל ומדדים בעת הזו. הנימוק הוא שכללי הנפקות (IPO) חדשים והנפקות בסיכון גבוה הופכים את המדדים למסוכנים יותר ממה שהיו בעבר, ורמת הסיכון בהם כיום אינה מצדיקה את ההשקעה.\n*   **ביקורת על הרכב התיקים ב-Vanguard:** מכיוון ש-Vanguard מתבססת במידה רבה על קרנות מדד, יש מי שסבור כי הסתמכות עליהן כרוכה בחשיפה לא מוצדקת לסיכוני השוק החדשים (כפי שצוין לגבי ההנפקות).\n*   **סיבוכים בביצוע \"Backdoor Roth IRA\":** קיימת אזהרה חמורה למשקיעים המנסים לבצע את אסטרטגיית ה-Backdoor Roth. אם למשקיע יש כבר כספים בחשבון IRA רגיל (במיוחד כספים שהועברו מתוכנית 401k של מעסיק קודם), הדבר עלול להפוך את המהלך ללא רלוונטי או לטעות כלכלית.\n*   **מלכודת המס (חוק ה-Pro-rata):** הדיון מדגיש את נושא המיסוי על המרות כספים. רשויות המס מתייחסות לכלל חשבונות ה-IRA של האדם כישות אחת; אם רוב הכסף הוא \"לפני מס\" (Pre-tax), ניסיון להמיר סכום קטן ל-Roth יגרום לכך שכמעט כל הסכום יחויב במס, מה שעלול להוביל לחבות מס לא צפויה וגבוהה מאוד."
+    "comments_summary_he": "הנה סיכום של הדיון ב-Reddit לגבי גורלן של מניות ישנות של חברה שנרכשה או מוזגה, הכולל 6 נקודות מרכזיות:\n\n*   **פנייה לסוכן ההעברה (Transfer Agent):** מומלץ ליצור קשר עם סוכן ההעברה של החברה הרוכשת (חברה ב'). זהו הגוף האחראי על ניהול רישומי המניות, בין אם זו מחלקה פנימית בחברה ובין אם זו חברה חיצונית (כמו Computershare).\n*   **בדיקת סטטוס הרישום:** ייתכן שהמניות כבר הומרו בעבר לרישום אלקטרוני, ובמקרה כזה תעודות הנייר שנותרו בידי היורשים הן למעשה רק \"מזכרת\" ללא ערך כספי עצמאי.\n*   **קצבת זמן להמרה:** בעת מיזוג או רכישה, בדרך כלל נקבע חלון זמן מוגדר מראש שבו בעלי המניות נדרשים לבצע את המרת המניות הישנות לחדשות או למזומן.\n*   **תלות בחוזה המכירה:** גורל הפיצוי לבעלי המניות תלוי בנוסח המדויק של חוזה הרכישה בין החברות. החוזה קובע את התנאים והמגבלות למימוש המניות הישנות.\n*   **דד-ליין לפדיון כספי:** לעיתים קרובות, חוזי רכישה כוללים סעיף המגביל את הזמן שבו ניתן לפדות את המניות תמורת כסף (למשל, תקופה של שנה אחת בלבד), ולאחר מכן הזכות עלולה לפוג או להשתנות.\n*   **חיפוש ברישומי הרשות המקומית:** הצעה נוספת שעלתה היא לבדוק מול הרשות המקומית (Municipality) שבה ממוקמת חברה ב', שכן לעיתים קיימים שם רישומים לגבי נכסים או חברות שעשויים לסייע באיתור המידע."
+  },
+  {
+    "id": "1tou403",
+    "title": "Up ~400% this year on deep ITM LEAPS (that when I bought were far OTM). hold for LTCG or roll down delta now?",
+    "url": "https://www.reddit.com/r/investing/comments/1tou403/up_400_this_year_on_deep_itm_leaps_that_when_i/",
+    "author": "OG_bonez",
+    "score": 1,
+    "selftext": "Like alot of you investing in AI/Memory/my beloved Nebius, I had some rough months which turned into explosive growth recently. Most of the positions were opened around April lows and are now up anywhere from \\~50% to over 300%.\n\nMy portfolio is exclusively LEAPS with expirations from 1/2028-6/2028\n\nMost of the contracts currently have deltas around 0.7–0.9, so they behave almost like leveraged stock positions at this point if I understand that correctly\n\nThe dilemma-  \nIf I hold until next April, most positions would qualify for long-term capital gains treatment.\n\nBut I’m also aware that I’m sitting on a concentrated, high-beta portfolio after a massive run and could give back a lot if the sector corrects.\n\nMy choices-\n\nHolding everything until LTCG treatment kicks in  \nRolling strikes upward to reduce delta while maintaining exposure  \nTrimming some positions now and paying short-term gains  \nTrimming all positions, biting the tax bullet and buying share in order to lock in these gains and play the future a big safer\n\nAt what point does risk reduction become more important than optimizing taxes? Portfolio is right around 350k as of today. Thanks all!! ",
+    "subreddit": "investing",
+    "created_utc": 1779854084,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "On a 350k concentrated AI bag with deltas at 0.7 to 0.9, the tax question is downstream of the position sizing question. Even if you eat the STCG hit on option 3, trimming enough to recover your original cost basis is essentially free money the market can't take back. After that, the remaining position is house money playing for LTCG treatment. The choice between rolling strikes and trimming depends on how much skin in the game you want to keep, but doing nothing while sitting on 400% in concentrated AI exposure feels like the worst of the four options.",
+        "score": 1,
+        "author": "luis-barata"
+      },
+      {
+        "body": "Or you could just buy LEAP puts to reduce the exposure of your positions, lock in the gains, and wait for long term……….",
+        "score": 1,
+        "author": "Delicious-Plastic-44"
+      },
+      {
+        "body": "Taxes are tough. I do my leaps in a tax deferred account so I don't get \"caught\" in the tax trap. \n\nYour situation....it is always good to make a profit even if there are some taxes involved. Question is how long will the bubble go? will it last till January...noone knows. ",
+        "score": 1,
+        "author": "Nuclear_N"
+      }
+    ],
+    "summary_he": "הנה סיכום של הפוסט:\n\nמשקיע שהשיג תשואה של כ-400% על אופציות ארוכות טווח (LEAPS) בתחום ה-AI והשבבים מתלבט כיצד לנהל את רווחיו בתיק ששוויו כ-350 אלף דולר. הדילמה המרכזית שלו היא האם להמשיך להחזיק בפוזיציות עד אפריל כדי ליהנות משיעור מס מופחת (LTCG), או לממש רווחים ולצמצם חשיפה כבר עכשיו כדי להתגונן מפני תיקון אפשרי בשוק התנודתי.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו בתגובות לגבי ניהול פוזיציית השקעה מרוכזת בתחום ה-AI עם רווחים משמעותיים:\n\n*   **סדר עדיפויות בניהול סיכונים:** הטענה המרכזית היא ששאלת גודל הפוזיציה וחשיפת היתר לשוק ה-AI קריטית יותר משאלת המיסוי. ניהול נכון של היקף ההשקעה צריך לבוא לפני השיקול אם לשלם מס רווח הון בטווח קצר או ארוך.\n*   **אסטרטגיית \"החזר ההשקעה המקורית\":** מומלץ לממש חלק מהרווחים כדי להחזיר את סכום ההשקעה המקורי. פעולה זו הופכת את יתרת הפוזיציה ל\"כסף של הבית\" (House Money), מה שמאפשר להמשיך להחזיק בנכס בראש שקט עד להגעה להטבות מס של טווח ארוך.\n*   **הסכנה שבחוסר מעש:** הקהילה מדגישה כי ישיבה בחיבוק ידיים כאשר נמצאים ברווח של 400% על פוזיציה מרוכזת היא האופציה הגרועה ביותר. השוק יכול לקחת את הרווחים הללו בחלוף הזמן אם לא יבוצע ניהול אקטיבי.\n*   **גידור באמצעות אופציות Put:** הצעה נוספת היא רכישת אופציות Put ארוכות טווח (LEAPS) כהגנה. זה מאפשר \"לנעול\" את הרווחים הקיימים מבלי למכור את המניות בפועל, ובכך להמשיך להמתין להטבות המס של החזקה לטווח ארוך תחת הגנה מהתרסקות.\n*   **תכנון מס באמצעות חשבונות פטורים:** עלתה חשיבות השימוש בחשבונות דחויי מס (כמו IRA בארה\"ב או קרנות השתלמות בישראל) עבור עסקאות באופציות ארוכות טווח, כדי להימנע מ\"מלכודת המס\" שנוצרת בעת מימוש רווחים מהיר.\n*   **הכרה במציאות הבועה:** קיימת סנטימנט של אי-ודאות לגבי משך הזמן שבו \"בועת ה-AI\" תמשיך להתקיים. הגישה הרווחת היא שתמיד עדיף לממש רווחים ולשלם מס מאשר להמתין ולראות את הרווחים נעלמים במידה והשוק ישנה כיוון לפני ינואר."
+  },
+  {
+    "id": "1tou2rc",
+    "title": "Father has 100k what to invest in?",
+    "url": "https://www.reddit.com/r/investing/comments/1tou2rc/father_has_100k_what_to_invest_in/",
+    "author": "Aggressive-Depth-635",
+    "score": 1,
+    "selftext": "So my father is adamant about investing exactly 100k into something. He is 67 years old and makes pretty decent income as a business owner. He just wants to put this somewhere it will grow. And that won’t affect me tax wise if he dies or something. A HYSA?",
+    "subreddit": "investing",
+    "created_utc": 1779853987,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Something that doesn't correlate with his business income. Utility functions are concave.",
+        "score": 1,
+        "author": "SnorklSnorkl"
+      },
+      {
+        "body": "If you can’t stomach the tiniest bit of risk, CASH.TO",
+        "score": 1,
+        "author": "No-Argument619"
+      },
+      {
+        "body": "If risk is a deal breaker then HYSA, Or Fidelity/Vanguard money market funds to at least match inflation for the least amount of effort if he already has an account",
+        "score": 1,
+        "author": "xxwww"
+      }
+    ],
+    "summary_he": "בעל עסק בן 67 מעוניין להשקיע 100 אלף דולר במטרה להגדיל את הונו. הוא מחפש אפיק השקעה שימזער את חבות המס עבור ילדיו במקרה של ירושה, ושוקל בין היתר שימוש בחשבון חיסכון בריבית גבוהה (HYSA).",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ודעות שונות שהועלו על ידי הקהילה:\n\n*   **פיזור סיכונים והיעדר מתאם:** מומלץ להשקיע בנכסים שאין להם מתאם (קורלציה) עם ההכנסה העסקית של המשקיע, כדי למנוע מצב שבו פגיעה בעסק תוביל במקביל גם לפגיעה קשה בתיק ההשקעות.\n*   **היבט כלכלי-תאורטי (פונקציית התועלת):** הועלתה הטענה ש\"פונקציות תועלת הן קעורות\", רמז לכך שהתועלת השולית מהרווח פוחתת ככל שההון גדל, ולכן כדאי לתעדף הגנה על הקיים מאשר רדיפה אחרי רווחים גבוהים ומסוכנים.\n*   **פתרון למשקיעים שונאי סיכון קיצוניים:** עבור מי שאינו מסוגל לסבול אפילו שמץ של סיכון, ההמלצה הממוקדת היא להשקיע ב-CASH.TO (קרן סל של פיקדונות בבנקים קנדיים המניבה ריבית גבוהה).\n*   **חשבונות חיסכון בתשואה גבוהה (HYSA):** במידה וסיכון הוא גורם המבטל עסקה (\"deal breaker\"), מוצע להשתמש בחשבונות חיסכון עם ריבית גבוהה כאופציה בטוחה ושמרנית.\n*   **קרנות כספיות (Money Market Funds):** שימוש בקרנות כספיות של גופים מוכרים כמו Vanguard או Fidelity נחשב לחלופה מצוינת להשגת תשואה יציבה במינימום מאמץ, במיוחד עבור מי שכבר מחזיק בחשבון אצל ברוקרים אלו.\n*   **היעד המרכזי - התמודדות עם האינפלציה:** הקהילה מציינת כי המטרה העיקרית באפיקים אלו היא לפחות להשתוות לקצב האינפלציה (\"Match inflation\"), ובכך לשמור על כוח הקנייה של הכסף ללא צורך בניהול פעיל או סיכונים מיותרים."
+  },
+  {
+    "id": "1tos8hn",
+    "title": "ETF vs Mutual Fund DCA True Costs",
+    "url": "https://www.reddit.com/r/investing/comments/1tos8hn/etf_vs_mutual_fund_dca_true_costs/",
+    "author": "SFsports87",
+    "score": 1,
+    "selftext": "Now that fractional shares of etfs like VTI are readily available,  does anyone have any data on what is more cost effective long term for periodic dca investing? An index etf vs index mutual fund, assuming same expense ratio.\n\nMutual funds are a known thing that settle at the end of day price. But for buying and automating VTI things are routed as market orders, so you are constantly paying the bid ask spread. And then it also depends on the order fill quality of your broker.  Some are better than others. \n\nI suspect mutual funds would be more cost effective long term, but the difference may be negligible. Would like to see actual data or proof one way or the other. ",
+    "subreddit": "investing",
+    "created_utc": 1779848979,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "הפוסט בוחן איזו שיטת השקעה משתלמת יותר לטווח ארוך בשיטת \"מיצוע עלויות\" (DCA) – קרנות סל (ETF) או קרנות נאמנות, בהנחה שדמי הניהול זהים. הכותב תוהה האם עלויות נסתרות בקרנות סל, כמו מרווחי קנייה-מכירה (bid-ask spread) ואיכות ביצוע ההזמנות של הברוקר, הופכות אותן ליקרות יותר לעומת קרנות נאמנות שנסחרות לפי מחיר סוף היום. בשל כך, הוא מחפש נתונים שיוכיחו איזו מהאפשרויות יעילה יותר כלכלית עבור משקיע המבצע רכישות קבועות.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1tos47k",
+    "title": "Advice on emerging markets",
+    "url": "https://www.reddit.com/r/investing/comments/1tos47k/advice_on_emerging_markets/",
+    "author": "Fearless_Lake_10",
+    "score": 1,
+    "selftext": "For those with experience investing in emerging markets, what do you look for? How do you tailor your dd? I am interested in opening a small experimental position in a few EM stocks but am interested in advice from more seasoned investors since there seem to be so many additional factors to consider.",
+    "subreddit": "investing",
+    "created_utc": 1779848660,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "This topic actually reminded me of an article I was reading recently about AI token/infrastructure trends. Pretty interesting perspective on where AI-related capital might flow long term:  \n[https://businesscommunity.ai/ai-token-industry-explained/](https://businesscommunity.ai/ai-token-industry-explained/) ",
+        "score": 1,
+        "author": "cryptotouchline"
+      },
+      {
+        "body": "For emerging markets, I usually feel there are way more things to look at besides just revenue or stock price. Political stability, regulations, currency strength, foreign investment confidence and even local culture can affect companies quite a lot long term.\n\nLately I’ve also been spending more time looking into AI infrastructure related investments too. Feels like many people only focus on the flashy AI apps, but the real money long term might also flow into the infrastructure side supporting all this AI growth: GPUs, data centers, cloud computing, networking, energy etc.",
+        "score": 1,
+        "author": "cryptotouchline"
+      },
+      {
+        "body": "Honestly, emerging markets are a mixed bag rn. China's stimulus is a short-term pop, but India and Brazil have better long-term fundamentals if you pick the right sectors. I'd avoid broad EM ETFs and go for specific countries like India (tech/manufacturing) or Brazil (commodities). What's your timeframe and risk tolerance?",
+        "score": 1,
+        "author": "MountainOpposite3199"
+      }
+    ],
+    "summary_he": "הכותב מבקש עצות ממשקיעים מנוסים בנוגע להשקעה בשווקים מתעוררים וכיצד לבצע בהם בדיקת נאותות (DD) המותאמת למורכבות השוק. הוא מעוניין לפתוח פוזיציות ניסיוניות קטנות ומחפש דגשים על הגורמים הייחודיים שיש לקחת בחשבון לפני הכניסה להשקעות אלו.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות, המציג שש נקודות מבט ודעות שונות בקהילה:\n\n*   **פוטנציאל ההשקעה בתשתית ה-AI:** קיימת הערכה שהכסף הגדול לטווח הארוך לא נמצא באפליקציות ה-AI ה\"נוצצות\", אלא דווקא בשכבת התשתית התומכת בצמיחה: מעבדים גרפיים (GPUs), מרכזי נתונים, מחשוב ענן, רשתות ואנרגיה.\n*   **ניתוח מעמיק של שווקים מתעוררים:** מעבר לנתונים יבשים כמו רווחים או מחירי מניות, יש לבחון גורמים רחבים יותר בשווקים אלו, כגון יציבות פוליטית, רגולציה, חוזק המטבע המקומי ואפילו תרבות מקומית, המשפיעים על חברות לאורך זמן.\n*   **ספקנות לגבי השקעה רוחבית במדדי שווקים מתעוררים:** קיימת המלצה להימנע מקרנות סל (ETFs) רחבות של שווקים מתעוררים, ובמקום זאת להתמקד במדינות ספציפיות בעלות יסודות כלכליים חזקים יותר.\n*   **הבחנה בין סין, הודו וברזיל:** המשתתפים מציינים כי הגידול בסין נראה כנובע מתמריצים קצרי טווח, בעוד שהודו (בתחומי הטכנולוגיה והייצור) וברזיל (בתחום הסחורות) מציגות פוטנציאל צמיחה יציב ומשמעותי יותר לטווח הארוך.\n*   **חשיבות מגמות ה\"טוקנים\" והקפיטל ב-AI:** ישנו עניין גובר באופן שבו הון זורם לתעשיית ה-AI דרך טוקנים ותשתיות טכנולוגיות חדשות, כחלק ממבט רחב על עתיד התעשייה.\n*   **התאמה אישית של אסטרטגיית השקעה:** הדיון מדגיש כי בחירת המגזר או המדינה להשקעה חייבת להיות תלויה בפרמטרים אישיים של המשקיע, כמו טווח זמן ההשקעה ומידת הסובלנות שלו לסיכונים."
+  },
+  {
+    "id": "1toqiow",
+    "title": "Micron - Sell or Buy? World News TWOnight",
+    "url": "https://www.reddit.com/r/investing/comments/1toqiow/micron_sell_or_buy_world_news_twonight/",
+    "author": "YT-AETHER",
+    "score": 1,
+    "selftext": "Aye so, Micron is up like crazy. Basically the jump in the past month all in one day, insane. Thoughts on if it's going to hold up in the long run or just flop in a year or two when the AI hype dies down? Generally interested and want other POVs on this how it'll impact other the market ",
+    "subreddit": "investing",
+    "created_utc": 1779844495,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "When people start talking about options on the non-WSB subs is how you know it’s time to take some profits",
+        "score": 1,
+        "author": "Hoosier2016"
+      },
+      {
+        "body": "Thanks. Problem is, I didn't buy enough, but that's how it goes.",
+        "score": 1,
+        "author": "FemboyBootyInspector"
+      },
+      {
+        "body": "> How many stocks ever correct 2000%?\n\nThats not how that works Donald Trump. \n\nAll stocks start somewhere, and tons of stocks plummet during market corrections, and it is not uncommon at all to see stocks drop 75%+ over a 3-12 month period. \n\nI'll keep the math simple for you; if the stock started at $10 per share; and increases 2000%, that means it's at $200/share. \n\nThis stock at $200/share, takes a 30% market correction (in your example), is now down to $140/share. This means your 2000% gain has now dropped down to a 1400% gain by it dropping only 30%. \n\nOf it dropped 75% over 12 months, that brings it from $200/share down to $50/share, which makes your overall profit go from 2000% to just 500% ",
+        "score": 1,
+        "author": "Plead_thy_fifth"
+      }
+    ],
+    "summary_he": "הפוסט עוסק בזינוק החד במניית Micron ושואל האם מדובר בהזדמנות קנייה או במכירה, לאור החשש שמדובר בתוצר של \"הייפ\" זמני סביב תחום ה-AI. הכותב מבקש לשמוע דעות לגבי יציבות המניה לטווח הארוך והשפעתה האפשרית על השוק הכללי.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות, הכולל 6 נקודות מבט, דעות וסנטימנטים שונים מהקהילה:\n\n*   **סימנים לשיא בשוק (אינדיקטור הפוך):** אחד המשתמשים טוען שכאשר שיח על אופציות (אפיק השקעה מסוכן) זולג מפורומים של מהמרים (כמו WallStreetBets) לפורומים כלליים יותר, זהו סימן מובהק לכך שהשוק הגיע לרוויה וזה הזמן הנכון לממש רווחים ולצאת מהפוזיציה.\n*   **חרטת המשקיע על גודל הפוזיציה:** עולה תחושה נפוצה של \"החמצה\" גם כאשר מרוויחים; משקיעים חשים תסכול על כך שלא השקיעו סכום גדול יותר מראש (\"לא קניתי מספיק\"), מה שמעיד על הסנטימנט הפסיכולוגי המורכב שליווה את העלייה בערך המניה.\n*   **הבנת התנודתיות בשוק:** הקהילה מדגישה שתיקוני שוק חריפים הם עניין שבשגרה. נטען כי אין זה נדיר לראות מניות שמאבדות מעל 75% מערכן בפרק זמן קצר של 3 עד 12 חודשים, גם לאחר עליות מרשימות.\n*   **המתמטיקה של הרווח וההפסד:** המגיבים מבהירים נקודה קריטית לגבי האופן שבו ירידות באחוזים \"אוכלות\" את הרווחים שנצברו. למשל, ירידה של 30% בערך המניה הנוכחי לאחר זינוק של 2000%, מקצצת באופן משמעותי מאוד את אחוזי הרווח הכוללים ביחס להשקעה המקורית.\n*   **תיקון טעויות מושגיות:** קיימת ביקורת על חוסר הבנה בסיסי במתמטיקה של שוק ההון (במיוחד לגבי המושג \"תיקון של 2000%\"). המשתמשים מקפידים להסביר שמניה יכולה לעלות באלפי אחוזים, אך היא יכולה לרדת לכל היותר ב-100%, ולכן השימוש במונח \"תיקון של 2000%\" אינו הגיוני.\n*   **סנטימנט של ריאליזם מול אופוריה:** בעוד שחלק מהמשתמשים חוגגים רווחים, הלך הרוח הדומיננטי בתגובות אלו הוא של זהירות וחינוך פיננסי. הקהילה מנסה \"להוריד לקרקע\" משקיעים אופוריים באמצעות הצגת תרחישים ריאליסטיים של ירידות והסברים על סיכונים."
   }
 ];
