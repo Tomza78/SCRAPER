@@ -1,147 +1,157 @@
 window.dailyTrends = [
   {
-    "id": "1u27rsz",
-    "title": "I bought 5,000 PYPL shares. The bottom is in.",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1u27rsz/i_bought_5000_pypl_shares_the_bottom_is_in/",
-    "author": "lies_are_comforting",
-    "score": 53,
-    "selftext": "I just bought 5,000 PYPL shares because it seems to me \\~ $40 is the bottom. What happened to the buyout rumors though? The stock appears inexpensive relative to its earnings and cash flow.\n\nThe company still has enormous scale through PayPal, Venmo, Braintree, and other payment businesses, and it continues to generate substantial free cash flow.\n\n\\*\\*$45 within a few weeks:\\*\\* reasonable possibility.\n\n\\*\\*$35 within a few weeks:\\*\\* less likely, but not impossible if the market sells off or company-specific news disappoints.\n\nMy two cents. \n\nPayPal still generates billions in cash, has a large user base, and doesn't appear to face near-term financial distress.\n\nIf PayPal merely proves that its business is stable, investors could decide it deserves a higher multiple. That's where the upside comes from.\n\nIf I had to bet on which company will be more valuable in 10 years, I'd pick Microsoft without hesitation.\n\nIf I had to bet on which stock has a better chance of doubling from today's price, I'd probably pick PayPal. That's why value investors are interested in it despite all the negativity.\n\nStill, I’m mostly here because the bottom is in. ",
+    "id": "1u2yrcn",
+    "title": "US Household Wealth Is Now 630% of GDP. Is Anyone Else Paying Attention to This?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1u2yrcn/us_household_wealth_is_now_630_of_gdp_is_anyone/",
+    "author": "MoneyMonsterStudios",
+    "score": 138,
+    "selftext": "I came across a recent JPMorgan strategy note and one number really stood out to me. US household wealth is now sitting at roughly 630% of GDP. For comparison, it was around 486% during the Dot-Com era and about 435% before the 1987 crash. It s obviously that doesn't mean we're about to see a repeat of either event, but it does suggest asset prices have been running far ahead of the underlying economy for a long time.\n\nThe concentration story isn't new, but the magnitude of it is still striking. The top 10 stocks now account for roughly 41% of the S&P 500, with much of that tied to AI and mega-cap tech. These are incredible businesses, no argument there. But it does make me wonder whether many passive investors are more dependent on a handful of companies than they realize. If AI keeps exceeding expectations, maybe none of this matters. If it doesn't, the market could end up looking a lot less diversified than it appears on paper.\n\nWhat's interesting is that JPMorgan **isn't really forecasting a crash**. The argument seems more subtle than that. Valuations remain elevated, expectations for future growth are extremely high, and a lot of the market's strength is concentrated in a relatively small group of companies. Maybe we're entering a genuine new era of productivity. Or maybe we're watching another period where investors gradually convince themselves that this time is different.\n\nSource: [https://finance.yahoo.com/markets/stocks/articles/top-jpmorgan-strategist-shares-4-094501115.html](https://finance.yahoo.com/markets/stocks/articles/top-jpmorgan-strategist-shares-4-094501115.html)",
     "subreddit": "StockMarket",
-    "created_utc": 1781110213,
+    "created_utc": 1781183661,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "You listed one of the most important metric at last and it's depressing.\n\nRefuse to list the new accounts metrics, too.\n\nYes, it's a profitable company right now, nobody denies that.\n\nWhat I refuse to believe is that it will be the case in the future.\n\nAnd the stock price does the same, that's why it keeps falling.",
-        "score": 1,
-        "author": "trist4r"
+        "body": "This article is Hella misleading “US household wealth”\n\nStock ownership is highly concentrated, with the top 10% owning about 93% of stocks while the bottom half own about 1%, so a booming market does not mean most households are doing well.\n\nIf nine households have $0 and one has $1 billion, total household assets are still $1 billion, even though almost nobody has any assets.\n\nSo US household wealth is not really 630% ",
+        "score": 152,
+        "author": "InterstellarReddit"
       },
       {
-        "body": "There are so many other good stocks out there. Why invest in this garbage? Look at the chart",
-        "score": 1,
-        "author": "LateNightTemptations"
+        "body": "Wait, you’re supposed to read the article before commenting on it???",
+        "score": 53,
+        "author": "MocoMojo"
       },
       {
-        "body": "I live in a pretty rough area. People are breaking into cars and leaving PayPal shares instead of stealing anything ",
-        "score": 1,
-        "author": "My_reddit_strawman"
+        "body": "The Gini coefficient measures wealth distribution within a country. A 1.0 coefficient would mean 1 person owns everything. A 0.0 coefficient would mean all assets are perfectly evenly distributed. \n\nThe French Revolution saw a Gini coefficient of 0.83. \n\nAmerica is currently at 0.85 ",
+        "score": 16,
+        "author": "Qc4281"
       }
     ],
-    "summary_he": "כותב הפוסט רכש 5,000 מניות פייפאל (PYPL) מתוך הערכה שהמניה הגיעה למחיר רצפה של כ-40 דולר וצפויה לעלות בקרוב. הוא מבסס את החלטתו על תזרים המזומנים החזק והדומיננטיות של החברה בשוק התשלומים, וטוען כי למרות הסנטימנט השלילי, למניה יש פוטנציאל להכפיל את ערכה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג את הלך הרוח של הקהילה בנוגע למניית החברה (המתייחס ספציפית לפייפאל - PayPal):\n\n*   **חוסר שקיפות במדדי צמיחה:** קיימת ביקורת חריפה על כך שהחברה נמנעת מלפרסם מדדים קריטיים, כמו נתוני צמיחת חשבונות חדשים, ומתעדפת הצגת נתונים פחות מהותיים.\n*   **ספקות לגבי העתיד למרות רווחיות נוכחית:** אף שהמגיבים מודים שהחברה רווחית כרגע, קיים חוסר אמון מוחלט ביכולתה לשמור על רווחיות זו בטווח הארוך.\n*   **הקשר בין מחיר המניה לאמון המשקיעים:** הירידה המתמשכת בערך המניה נתפסת כשיקוף ישיר של היעדר האמון של השוק בתחזיות העתידיות של החברה.\n*   **חלופות השקעה טובות יותר:** הקהילה סבורה כי השוק רווי במניות איכותיות אחרות, ולכן השקעה במניה זו נתפסת כבחירה גרועה (\"אשפה\") אל מול ההזדמנויות הקיימות.\n*   **ניתוח טכני מרתיע:** המגיבים מצביעים על הגרף של המניה כהוכחה לכך שמדובר בהשקעה מסוכנת שאינה מראה סימני התאוששות.\n*   **זלזול קיצוני וסלידה (סנטימנט קהילתי):** רמת הייאוש מהמניה הגיעה לכדי הומור שחור וסרקסטי, לפיו המניה הפכה לנטל כל כך גדול עד שאפילו פורצים \"משאירים\" מניות במקום לגנוב חפצי ערך.",
-    "dateString": "2026-06-12",
-    "savedAt": {
-      "_seconds": 1781259299,
-      "_nanoseconds": 413000000
-    }
+    "summary_he": "עושר משקי הבית בארה\"ב הגיע לשיא של 630% מהתמ\"ג, נתון המצביע על פער משמעותי בין מחירי הנכסים לכלכלה הריאלית בהשוואה לתקופות שלפני משברים היסטוריים. הפוסט מדגיש כי השוק ריכוזי מאוד ונסמך במידה רבה על מספר מצומצם של ענקיות טכנולוגיה, מה שמעלה חשש לגבי חוסר גיוון והתלות הגבוהה של המשקיעים בהצלחת תחום הבינה המלאכותית.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ורגשות מרכזיים שעלו מהתגובות:\n\n*   **הטעיה בנתוני העושר הכללי:** הנתון של \"עושר משקי הבית בארה\"ב\" נתפס כמטעה מיסודו, שכן הוא מציג תמונה של שגשוג כללי בעוד שהמציאות עבור רוב משקי הבית שונה לחלוטין.\n*   **ריכוזיות קיצונית בבעלות על מניות:** המגיבים מדגישים כי שוק ההון אינו משקף את מצב הציבור, שכן 10% מהאוכלוסייה מחזיקים ב-93% מהמניות, בעוד שחצי מהאוכלוסייה מחזיקה באחוז אחד בלבד.\n*   **הפער בין ממוצע למציאות:** קיימת ביקורת על השימוש בנתונים מצטברים; נטען כי אם לאדם אחד יש מיליארד דולר ולתשעה אחרים אין כלום, הנתון היבש יראה עושר רב למרות שרוב הקבוצה חיה בעוני.\n*   **ספקנות כלפי המשתמשים (סרקזם):** עולה תחושה של ציניות כלפי תרבות הדיון ברשת, בטענה שרבים מהמגיבים כלל לא טורחים לקרוא את הכתבה לפני שהם מביעים את דעתם על הכותרת.\n*   **שימוש במדד ג'יני להמחשת אי-שוויון:** הדיון עושה שימוש במדד ג'יני (שבו 1.0 מייצג מצב שבו אדם אחד מחזיק בהכל) כדי להראות שחלוקת העושר בארה\"ב נמצאת ברמה קיצונית של 0.85.\n*   **השוואה היסטורית למהפכה הצרפתית:** קיימת תחושת דאגה חברתית עמוקה, המבוססת על הנתון שאי-השוויון בארה\"ב כיום (0.85) גבוה יותר מזה שהיה בצרפת ערב המהפכה הצרפתית (0.83), מה שמרמז על חוסר יציבות חברתית."
   },
   {
-    "id": "1u299dh",
-    "title": "Volatility is back, but not stressed (yet)",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1u299dh/volatility_is_back_but_not_stressed_yet/",
-    "author": "OrderflowTrader",
-    "score": 25,
-    "selftext": "You don't need to go too in depth with analysis to know that volatility has exploded over the last few trading sessions. But what's happening behind the scenes is crucial for active portfolio management and swing trades.\n\nThe VIX lived in the calm regime band from 14-18 for much of May, which corresponded with the indexes grinding out new all-time highs with small daily ranges. On Friday June 5, the VIX put in a nearly 40% jump and an ES (S&P 500 futures) daily range around 3x the 30-day average. Realized volatility was extremely compressed at highs, so this move in the VIX was not only fear, but also volatility playing catch-up.\n\nAs of today, the VIX is around 21.8, the upper end of what I'd call the transition/elevated band (18-22), continuing to meet resistance at stressed territory at >22.\n\nThe VIX regime transition path is 1) VIX exits prior range and stays out for days, 2) the VVIX (volatility of the VIX itself) changes character, and 3) Term structure flips from contango to backwardation, or vice versa. (When in contango, the spot VIX is lower than the long-dated VIX futures, and in backwardation, this is reversed).\n\nWhere we are right now: 1) The VIX has remained elevated for several days but keeps hitting 22 without holding it, 2) VVIX has broken out from a two-month lull but hasn't risen at the pace that VIX has, 3) The VIX at 22 is below long-dated VIX futures at 22.85, which means still in normal contango.\n\nThe question from here isn't necessarily whether the market is crashing, it's whether the VIX settles in transition, pushes into stressed (>22) and holds, or mean-reverts toward calm over the next week or two. With the VVIX/VIX ratio coming down and normal contango conditions, I am leaning towards contained for now. VVIX is now at 107 vs 130+ in past stress events (March/April/October 2025, March 2026). The credit picture is not yet registering stress but if it does, and VIX holds above 22, I would change my mind and not seek any new swing (equities) entries.\n\nVIX and VVIX below\n\n[VIX in red and VVIX in blue](https://preview.redd.it/qsr7y0g3sh6h1.png?width=1505&format=png&auto=webp&s=7471e89f8f45e80058087408942dd5bb2439c5fc)",
+    "id": "1u32pck",
+    "title": "Jim Cramer just mentioned Reddit. Hopefully that's a signal that Reddit stays stuck in a long consolidation range.",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1u32pck/jim_cramer_just_mentioned_reddit_hopefully_thats/",
+    "author": "MasterpieceOk8986",
+    "score": 90,
+    "selftext": "&#x200B;\n\n\"We're going to buy Reddit very slowly.\"\n\nIn Cramer-speak, that means:\n\n**\"Reddit is going to spend a long time moving sideways near the bottom.\"**\n\nI've learned that with Jim Cramer, you usually have to interpret what he says in reverse.\n\n Personally, I'm making money from Reddit's volatility right now instead of relying on a steady upward trend. I suspect some of you are doing the same, I'm sharing this as a point\n\n of reference.",
     "subreddit": "StockMarket",
-    "created_utc": 1781113306,
-    "thumbnail": "https://preview.redd.it/qsr7y0g3sh6h1.png?width=140&height=131&auto=webp&s=90606c8c91259c170744add6ee3af1df363fa428",
+    "created_utc": 1781192662,
+    "thumbnail": "https://preview.redd.it/plotnbq9co6h1.jpeg?width=140&height=72&auto=webp&s=d380b6fd6b226e7d3bb1f6bfc77fd8f6784bfc3e",
     "top_comments": [
       {
-        "body": "The regime frame matters more than the vol level itself. When I backtested a growth strategy through 2022, the year only finished green because the system had drifted its weight toward energy while the index fell 18%, and nothing about that rotation required predicting the war or the rate cycle. It just followed where the evidence already was. Vol spikes are when sector weights earn their keep.",
-        "score": 1,
-        "author": "systematic_seb"
+        "body": "Upgraded from Sell to Don't Buy?",
+        "score": 28,
+        "author": "ConfusedInKalamazoo"
       },
       {
-        "body": "Yeah buying options means overpaying ",
-        "score": 1,
-        "author": "Wonderful_End_1396"
+        "body": "I don't even understand what \"buying a company very slowly\" would even accomplish.\n\nIf it's going down, you're just pouring more money into a loser and watching you lose more money as you go.\n\nIf it's going up, time in the market is the most important factor in compounding gains.\n\nIf it's trading sideways forever, rational people *stop buying it at all*.\n\nI understand Cramer is a hack, but even for hacks, this is particularly hacky. He probably plays golf with some dumb asshole who needs exit liquidity.",
+        "score": 13,
+        "author": "Creative_Squash_1083"
       },
       {
-        "body": "Even VIX seems to be completely disconnected from reality.\n\nOptions have never traded at this kind of premium in 10 years.\n\nBuying options at these premiums, you hope for a swing, otherwise you probably lose.",
-        "score": 1,
-        "author": "netcoder"
-      }
-    ],
-    "summary_he": "הפוסט מנתח את העלייה האחרונה במדד התנודתיות (VIX) ומציין שלמרות הקפיצה במדד, השוק עדיין לא חצה את רף הלחץ הממשי (מעל 22). נכון לעכשיו, אינדיקטורים טכניים נוספים מעידים על תנודתיות מרוסנת יחסית, והכותב מעריך שהמצב יישאר בשליטה אלא אם יירשמו שינויים משמעותיים נוספים במבנה השוק או בשוק האשראי.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, הכולל 6 נקודות מבט וסנטימנטים מרכזיים שעלו מהתגובות:\n\n*   **חשיבות משטר השוק על פני רמת התנודתיות:** אחד המגיבים טוען כי ה\"מסגרת\" או המשטר שבו השוק נמצא (Regime frame) חשובה להצלחת האסטרטגיה הרבה יותר מאשר רמת התנודתיות (Volatility) כשלעצמה.\n*   **הסתמכות על ראיות קיימות במקום ניבוי עתידות:** הודגש כי אסטרטגיות מצליחות (כמו מעבר למגזר האנרגיה ב-2022) אינן דורשות חיזוי של אירועים מאקרו-כלכליים כמו מלחמות או מחזורי ריבית, אלא פשוט מעקב אחר הראיות והמגמות שכבר קיימות בשוק.\n*   **ניהול משקלי מגזרים כעוגן בעת תנודתיות:** בעת קפיצות בתנודתיות השוק, הערך האמיתי של תיק ההשקעות נמדד ביכולת שלו לבצע רוטציה נכונה בין מגזרים, מה שמאפשר לסיים שנה ברווח גם כשהמדדים המרכזיים יורדים.\n*   **תמחור יתר של אופציות:** קיימת הסכמה בקהילה שרכישת אופציות כיום משולה ל\"תשלום יתר\". נטען כי הפרמיות על האופציות הגיעו לרמות גבוהות שלא נראו מזה עשור.\n*   **ניתוק מדד ה-VIX מהמציאות:** הועלתה טענה כי מדד התנודתיות (VIX) נראה מנותק לחלוטין מהמציאות הכלכלית והריאלית בשטח, מה שמקשה על הסתמכות עליו ככלי לניהול סיכונים.\n*   **הסיכון הגבוה ברכישת אופציות כיום:** בשל הפרמיות היקרות, המגיבים מציינים שמי שקונה אופציות כעת מהמר למעשה על תנודה חריגה וחדה מאוד במחיר (Swing); ללא תנודה קיצונית כזו, סביר להניח שהמשקיע יפסיד את כספו עקב מחיר הכניסה הגבוה.",
-    "dateString": "2026-06-12",
-    "savedAt": {
-      "_seconds": 1781259316,
-      "_nanoseconds": 228000000
-    }
-  },
-  {
-    "id": "1u27wj8",
-    "title": "Why does Europe build so much compliance software?",
-    "url": "https://www.reddit.com/r/business/comments/1u27wj8/why_does_europe_build_so_much_compliance_software/",
-    "author": "BobiDaGreat",
-    "score": 7,
-    "selftext": "I live in Denmark and have been building a software business for a few years now. But when I look around, there are so many businesses focused on compliance, GDPR and KYC. I can think of more companies dealing with these areas than in any other industry. It really feels like this is the only sector where Europe can compete with the US.\n\nTo me though it feels a bit sad that we're spending so much effort solving what seem like self-created imaginary problems.\n\nThat said I also know many innovative companies and have worked with them. Still the bureaucracy-related sector feels huge here. It doesn't seem like the US or China is doing the same to the same extent.\n\nAnd I guess to be fair, I do appreciate some bureaucracy, since it likely means we're less poisoned by corporations than people are in the US.",
-    "subreddit": "business",
-    "created_utc": 1781110493,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "There's also a lot of compliance related software in the US and China though?\n\nYou might not come across them because you're in a different market.",
+        "body": "noooo i’ve been adding to my RDDT position. i still believe in it",
         "score": 5,
-        "author": "eDOTiQ"
-      },
-      {
-        "body": "Because, and i say this with love, that's what those countries are good at.  Culturally, they love rules in Northern Europe.\n\nI mean look at your last sentence - it's like you are a living example of the drive to regulate everything.",
-        "score": 4,
-        "author": "QuickSafety8100"
-      },
-      {
-        "body": "Also, Europe/GDPR has teeth, which means compliance is mandatory.\n\nIn the US, it's more suggestive with no meaningful consequences if a business makes mistakes.",
-        "score": 3,
-        "author": "GoingOffRoading"
+        "author": "zlryan"
       }
     ],
-    "summary_he": "הכותב מציין את הריבוי המשמעותי של חברות תוכנה אירופיות העוסקות ברגולציה וציות (כמו GDPR ו-KYC), תחום שנראה כמגזר הטכנולוגי היחיד שבו אירופה מצליחה להתחרות בארה\"ב. הוא מביע תסכול מהקדשת משאבים רבים לפתרון בעיות בירוקרטיות \"מלאכותיות\", אך מודה כי הרגולציה העודפת מגנה על האזרחים מפני כוחם הדורסני של תאגידים גדולים.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון המציג שש נקודות מבט ורגשות שונים שעלו מתוך התגובות:\n\n* **קיומן של תוכנות ציות בשווקים גלובליים:** קיימת טענה כי תוכנות לניהול ציות (Compliance) אינן ייחודיות לאירופה; הן נפוצות מאוד גם בארה\"ב ובסין, אך ייתכן שהן פחות גלויות למי שאינו פועל ישירות בשווקים הללו.\n* **השפעת המיקום הגיאוגרפי על הפרספקטיבה:** המשתמשים מציינים כי החשיפה לכלים טכנולוגיים מסוימים תלויה במידה רבה בשוק שבו האדם פועל, מה שעלול ליצור הטיה בתפיסה לגבי היכן הרגולציה דומיננטית יותר.\n* **נטייה תרבותית לכללים בצפון אירופה:** קיימת סברה שבצפון אירופה ישנה העדפה תרבותית מושרשת לחוקים, סדר וכללים ברורים, וזהו תחום שבו מדינות אלו מצטיינות במיוחד.\n* **הדחף האנושי לרגולציה:** אחד המגיבים מציין כי עצם השאלה או הגישה של כותב הפוסט מדגימה את הנטייה המובנית \"להסדיר כל דבר\" (Regulate everything), מה שמעיד על הלך רוח תרבותי מסוים.\n* **הבדלים באכיפה (ה-GDPR כמשנה משחק):** באירופה, חוקי הגנת הפרטיות (GDPR) נתפסים כבעלי \"שיניים\" – כלומר, הציות הוא חובה עם השלכות משפטיות וכלכליות כבדות במקרה של הפרה.\n* **השוואה לרגישות הרגולטורית בארה\"ב:** לעומת המודל האירופי המחמיר, נטען כי בארה\"ב הציות נתפס לעיתים כהמלצה בלבד, ללא השלכות משמעותיות או עונשים מרתיעים לעסקים שמבצעים טעויות בתחום זה.",
-    "dateString": "2026-06-12",
-    "savedAt": {
-      "_seconds": 1781259345,
-      "_nanoseconds": 442000000
-    }
+    "summary_he": "ג'ים קריימר המליץ לאחרונה לקנות את מניית רדיט \"לאט\", וכותב הפוסט מפרש זאת כסימן לכך שהמניה תישאר במצב של דשדוש ממושך בטווח מחירים נמוך. במקום להמתין למגמת עלייה יציבה, הכותב מציין כי הוא מעדיף לנצל את התנודתיות הנוכחית של המניה כדי להפיק רווחים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ורגשות שונים של הקהילה:\n\n* **לעג לשינוי בדירוג המניה:** אחד המגיבים לועג לניסוח של האנליסט (ככל הנראה ג'ים קריימר), ותוהה בציניות מה המשמעות של \"שדרוג\" המלצה מ\"מכירה\" (Sell) ל\"אל תקנו\" (Don't Buy), רמז לכך שההמלצה נותרה שלילית וחסרת תועלת.\n* **ביקורת על אסטרטגיית \"קנייה איטית\":** מועלית טענה כי ההצעה לקנות מניה \"באיטיות\" היא חסרת היגיון כלכלי. אם המניה בירידה – זו זריקת כסף לפח; אם היא בעלייה – עדיף להשקיע כמה שיותר מוקדם כדי למקסם רווחים; ואם היא מדשדשת – עדיף פשוט לא לקנות בכלל.\n* **דבקות בעיקרון \"הזמן בשוק\":** המגיבים מדגישים כי עבור מניות צומחות, הגורם החשוב ביותר הוא הזמן שבו הכסף נמצא בשוק (Time in the market), ולכן אסטרטגיה של המתנה או קנייה מדורגת מדי רק פוגעת ברווחים הפוטנציאליים.\n* **חוסר אמון מוחלט בג'ים קריימר:** הקהילה מבטאת זלזול עמוק בפרשן הכלכלי ג'ים קריימר, מכנה אותו \"נוכל\" (Hack) וטוענת שגם בסטנדרטים הנמובו שלו, העצה הנוכחית היא גרועה במיוחד.\n* **חשד למניפולציה ו\"נזילות יציאה\" (Exit Liquidity):** עולה החשד שהמלצות הקנייה הללו נועדו לשרת אינטרסים של משקיעים גדולים (\"חברים מהגולף\") שרוצים למכור את החזקותיהם, וזקוקים למשקיעים קטנים מהציבור שיקנו מהם את המניות כדי שהם יוכלו לצאת מהשוק.\n* **אופטימיות של משקיעים פרטיים במניית RDDT:** למרות הביקורת על הפרשנים, ישנם משקיעים בקהילה שמצהירים כי הם ממשיכים להגדיל את הפוזיציה שלהם במניית Reddit ($RDDT) מתוך אמונה אמיתית בערך החברה לטווח ארוך."
   },
   {
-    "id": "1u2edst",
-    "title": "EIN confusion",
-    "url": "https://www.reddit.com/r/business/comments/1u2edst/ein_confusion/",
-    "author": "mohames2",
-    "score": 3,
-    "selftext": "Hey folks! So last year I shut down my business. I canceled it with my city and state, but I never got around to deactivating my EIN with the IRS. Well, I just decided to restart my business and I called the state and they said I had to file a new LLC and articles of organization. I’m wondering if I should use the same EIN or if I should apply for a new one since technically last year’s and this current business two separate legal entities? I tried calling the IRS, but the automatic answering machine told me there were too many callers and hung up on me. I will try calling back but was curious if anyone had thoughts here.",
-    "subreddit": "business",
-    "created_utc": 1781124348,
-    "thumbnail": "self",
+    "id": "1u303yu",
+    "title": "U.S. DOE Approves PDSA for OKLO’s Aurora Powerhouse at Idaho National Laboratory",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1u303yu/us_doe_approves_pdsa_for_oklos_aurora_powerhouse/",
+    "author": "C130J_Darkstar",
+    "score": 60,
+    "selftext": "Oklo announced that the U.S. Department of Energy’s (DOE’s) Idaho Operations Office has approved the Preliminary Documented Safety Analysis (PDSA) for Oklo’s Aurora powerhouse at Idaho National Laboratory (INL) under DOE’s Reactor Pilot Program (RPP).\n\nThe PDSA is a major step under DOE’s RPP authorization pathway and represents a detailed review of the preliminary safety basis for Aurora-INL, including the project’s hazard analysis, accident analysis, safety controls, and design commitments. The approval advances Aurora-INL through a framework designed to unlock U.S. industrial capacity by enabling an accelerated deployment of scalable generation capacity under rigorous federal oversight.\n\n“This approval represents an important milestone for Aurora-INL and helps establish a foundation for future Aurora deployments,” said Jacob DeWitte, co-founder and CEO of Oklo. “Aurora-INL is helping show how advanced reactors can move through real safety review, real construction, and ultimately into commercial licensing.”\n\nAurora-INL will be the first of Oklo’s planned fast fission power plants and has been granted access to recovered fuel from the Experimental Breeder Reactor-II (EBR-II) following a competitive DOE process launched in 2019, the same year Oklo received a site-use permit at INL for the Aurora powerhouse.\n\nAurora-INL is advancing alongside Oklo’s broader work in Idaho, including the Aurora Fuel Fabrication Facility (A3F) where it will be fabricating the initial fuel assemblies for Aurora-INL from EBR-II fuel. DOE’s Idaho Operations Office approved A3F’s PDSA in December 2025, making A3F the first facility to be approved under DOE’s Fuel Line Pilot Program.\n\nDOE’s RPP provides a modern authorization framework for building and operating advanced nuclear projects under DOE oversight. Through the program, Oklo expects to gain early deployment and operating experience with Aurora-INL, while continuing to pursue U.S. Nuclear Regulatory Commission licensing to support future commercial operations.",
+    "subreddit": "StockMarket",
+    "created_utc": 1781186902,
+    "thumbnail": "https://external-preview.redd.it/6OoivLovVhiD0b8ryiEaYv-sXDT55HP-g32w3xfHo44.jpeg?width=140&height=70&auto=webp&s=b6c1a198984eba80ea91a5422f23332252fb2db2",
     "top_comments": [
       {
-        "body": "Since you're forming a new LLC, the key question is whether the IRS considers it the same entity or a new entity.\n\nIn many cases, if the original LLC was dissolved and you're creating a completely new LLC with new Articles of Organization, you're dealing with a new legal entity, even if the business name, owner, and activities are the same. In that situation, a new EIN is often required.\n\nOn the other hand, if the original entity was never fully dissolved for federal tax purposes and you're simply resuming operations, the answer may be different.\n\nOne thing I would avoid is assuming that because the EIN is still active, it can automatically be reused. The IRS generally ties EINs to specific legal entities, not just business activities.\n\nSince you've already confirmed with your state that a new LLC filing is required, I'd continue trying to reach the IRS or consult a qualified tax professional before using the old EIN on any new filings, bank accounts, or tax documents.\n\nA little extra diligence now can save a lot of headaches later if the IRS records and state records don't line up.\n\nOut of curiosity, was the original LLC formally dissolved with the state, or did it simply lapse after you stopped operating? That detail could make a difference.",
-        "score": 1,
-        "author": "New-Home374"
+        "body": "The DOE, led by Chris Wright who literally was on the OKLO Board of Directors until he left to head the DOE. Always bet on whatever is the most corrupt possibility and you will win. ",
+        "score": 4,
+        "author": "jcpopm"
       },
       {
-        "body": "This seems to be correct! I tried to apply for a new one and it wouldn’t let me. Thanks for your advice!",
-        "score": 1,
-        "author": "mohames2"
+        "body": "Pretty nice crib for our reactors",
+        "score": 3,
+        "author": "tacspar"
       },
       {
-        "body": "You are correct! I tried to submit an application online and they would not let me. Just wanted to follow up in case others were wondering, especially since so many others were telling me to get a new EIN! ",
-        "score": 1,
-        "author": "mohames2"
+        "body": "Interesting how nuclear went from a forgotten sector to an AI infrastructure conversation in less than two years.",
+        "score": 3,
+        "author": "AbbreviationsKey244"
       }
     ],
-    "summary_he": "כותב הפוסט סגר את העסק שלו בשנה שעברה אך לא ביטל את מספר ה-EIN מול ה-IRS, וכעת הוא מתלבט האם עליו להנפיק מספר חדש עבור עסק ה-LLC החדש שהקים. הוא פנה להתייעצות בפורום לאחר שלא הצליח לקבל מענה טלפוני מרשות המיסים האמריקאית (IRS) כדי להבין האם ניתן לעשות שימוש חוזר במספר הקיים לישות משפטית נפרדת.",
+    "summary_he": "משרד האנרגיה האמריקאי (DOE) אישר את ניתוח הבטיחות המקדמי (PDSA) עבור תחנת הכוח הגרעינית \"Aurora\" של חברת Oklo, המתוכננת לקום במעבדה הלאומית באיידהו. אישור זה מהווה אבן דרך משמעותית המקדמת את החברה לקראת הקמת כור פלוטוניום מהיר ראשון מסוגו, תוך שימוש בדלק גרעיני ממוחזר ותחת פיקוח פדרלי קפדני.",
     "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע לשימוש חוזר במספר EIN (מספר זיהוי מעסיק) עבור חברת LLC חדשה:\n\n*   **הבחנה בין ישות משפטית לפעילות עסקית:** הדיון מדגיש כי ה-IRS קושר את מספר ה-EIN לישות משפטית ספציפית ולא רק לסוג הפעילות או לשם העסק. לכן, הקמת LLC חדשה עם מסמכי התאגדות חדשים נחשבת לרוב ליצירת ישות נפרדת הדורשת EIN חדש, גם אם הבעלים והפעילות נותרו זהים.\n*   **חשיבות אופן סגירת החברה המקורית:** קיימת הבחנה קריטית בין חברה שפורקה באופן רשמי (Dissolved) לבין חברה שפעילותה פקעה או הופסקה זמנית (Lapsed). מצב הרישום של הישות המקורית משפיע ישירות על השאלה האם ניתן או צריך להשתמש במספר הישן.\n*   **סכנת חוסר תאימות בין הרישומים:** שימוש ב-EIN ישן עבור ישות שנרשמה מחדש במדינה עלול ליצור בעיות עתידיות אם הרישומים ברמת המדינה (State) לא יתאמו את רישומי מס ההכנסה הפדרלי (IRS). חוסר התאמה זה עלול להוביל לסיבוכים בדיווחי מס ובניהול חשבונות בנק.\n*   **מגבלות טכניות של מערכת ה-IRS:** משתמשים שיתפו כי בפועל, המערכת המקוונת של ה-IRS עלולה לחסום בקשה למספר EIN חדש אם היא מזהה שמדובר באותם בעלים או באותם פרטי עסק, מה שיוצר מצב שבו המשתמש \"תקוע\" עם המספר הישן למרות הרצון להתחיל מחדש.\n*   **זהירות מהנחות שגויות:** הדיון מזהיר מפני המחשבה שאם מספר EIN עדיין מופיע כ\"פעיל\" במערכת, ניתן להשתמש בו אוטומטית לכל מטרה. יש לוודא שהמספר אכן משויך כחוק לישות הנוכחית לפני שמזינים אותו במסמכים רשמיים.\n*   **סתירה בין המלצות הקהילה למציאות בשטח:** המשתמש שפתח את הדיון ציין כי למרות שחברי קהילה רבים ייעצו לו פשוט להוציא EIN חדש, המציאות הטכנית (חסימת הבקשה באתר ה-IRS) הוכיחה שהנושא מורכב יותר ודורש בדיקה מעמיקה יותר או פנייה לאיש מקצוע.",
-    "dateString": "2026-06-12",
-    "savedAt": {
-      "_seconds": 1781259364,
-      "_nanoseconds": 905000000
-    }
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שנמסרו, המציג 6 נקודות מבט וסנטימנטים שונים בקהילה:\n\n*   **חשש מניגוד עניינים ושחיתות:** קיימת ביקורת נוקבת על המינוי של כריס רייט לראש משרד האנרגיה (DOE), תוך הדגשת העובדה ששימש בעבר בדירקטוריון של חברת OKLO. הגולשים מביעים חוסר אמון במניעים שמאחורי המינוי.\n*   **ציניות כלפי הממשל:** עולה תחושה של השלמה צינית עם השחיתות השלטונית, כאשר הגישה הרווחת בקרב חלק מהמגיבים היא ש\"תמיד כדאי להמר על האפשרות המושחתת ביותר\" כדי לחזות את המציאות.\n*   **התפעלות מהתשתית הפיזית:** לצד הביקורת הפוליטית, ישנם גולשים המביעים הערכה אסתטית או טכנית למתקנים החדשים (\"crib\"), ומתייחסים בחיוב למראה של האתרים המיועדים לכורים.\n*   **שינוי מהיר במעמד האנרגיה הגרעינית:** מצוינת הפליאה על המהירות שבה המגזר הגרעיני הפך מתחום שנחשב ל\"נשכח\" לנושא חם ומרכזי בשיח הציבורי והכלכלי תוך פחות משנתיים.\n*   **הקשר ההדוק בין גרעין לבינה מלאכותית (AI):** הקהילה מזהה את המעבר של האנרגיה הגרעינית משיח על \"אנרגיה ירוקה\" לשיח על \"תשתית עבור AI\", מה שמעיד על הבנה שהצורך בכוח מחשוב אדיר הוא המנוע המרכזי של התחום כיום.\n*   **תחושת שייכות וגאווה טכנולוגית:** השימוש בביטוי \"הכורים שלנו\" מעיד על סנטימנט של בעלות או גאווה קהילתית/לאומית כלפי הפיתוחים הטכנולוגיים הללו, למרות המחלוקות הפוליטיות סביבם."
+  },
+  {
+    "id": "1u31vpu",
+    "title": "New leads get buried when busy",
+    "url": "https://www.reddit.com/r/business/comments/1u31vpu/new_leads_get_buried_when_busy/",
+    "author": "Fantastic-Feed8959",
+    "score": 2,
+    "selftext": "We all know how it goes during peak season—you’re out on a job, a great new inquiry pops up, you read it, and think *\"I'll reply during lunch.\"* Then lunch never happens, three more emails come in, and that hot lead is officially buried.\n\nIt’s crazy how fast a potential client can just vanish into the inbox background when you're focused on active work.\n\nI feel like half the battle of running a service business isn't even doing the job, it's just trying to rescue those forgotten messages from the bottom of the inbox before the weekend hits.",
+    "subreddit": "business",
+    "created_utc": 1781190852,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "הפוסט דן בקושי של בעלי עסקים לנהל פניות חדשות בתקופות עומס, מצב שבו לידים \"נקברים\" בתיבת הדואר הנכנס ונותרים ללא מענה. הכותב מציין כי לעיתים ניהול המעקב ושליפת ההודעות שנשכחו הופכים לאתגר משמעותי לא פחות מביצוע העבודה עצמה.",
+    "category_he": "עסקים",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1u4cba7",
+    "title": "The Catastrophic Failure of 2008 Shows Where Kevin Warsh Should Start",
+    "url": "https://www.reddit.com/r/finance/comments/1u4cba7/the_catastrophic_failure_of_2008_shows_where/",
+    "author": "HooverInstitution",
+    "score": 1,
+    "selftext": "Hoover Senior Fellows John H. Cochrane and Amit Seru argue in this op-ed at *The Washington Post* that reforming financial regulations should be high on the list of priorities for recently confirmed Fed Chair Kevin Warsh. “The US financial regulatory regime failed catastrophically in 2008,” the authors write. But in their view, the post-crisis reforms, including “the Dodd-Frank law and the Fed’s subsidiary regulation,” only extended the pre-crisis approach of “managing asset riskiness.” The authors also trace how the 2023 collapse of Silicon Valley Bank “was fueled by earlier Fed errors.” Today, Seru and Cochrane conclude, “Warsh need not reform the big banks. . . . He should focus on simple truths: A crisis is a run and only a run is a crisis. Somebody losing money on a risky investment is not a crisis.”  ",
+    "subreddit": "finance",
+    "created_utc": 1781310246,
+    "thumbnail": "https://external-preview.redd.it/igAXZkjYxtE50WaxFXNZ6mcVUkTJsvO7CRrlccanGc4.jpeg?width=140&height=93&auto=webp&s=7371a44882ea359eea9a3d17e0edd6c1dd414434",
+    "top_comments": [],
+    "summary_he": "המאמר טוען כי הרגולציה הפיננסית בארה\"ב כשלה בתיקון הליקויים שהובילו למשבר 2008, וכי הרפורמות המאוחרות יותר רק העמיקו את הגישה השגויה של ניהול סיכונים כושל. המחברים ממליצים ליו\"ר הפדרל ריזרב החדש, קווין וורש, להתמקד במניעת משברי נזילות (\"ריצה אל הבנק\") במקום לנסות למנוע הפסדים מהשקעות מסוכנות, שאינם מהווים משבר כשלעצמם.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1u3z9mo",
+    "title": "Five Ways to Measure Elon Musk's $1 Trillion Fortune",
+    "url": "https://www.reddit.com/r/finance/comments/1u3z9mo/five_ways_to_measure_elon_musks_1_trillion_fortune/",
+    "author": "bloomberg",
+    "score": 1,
+    "selftext": "*As he enters trillionaire status, Elon Musk could theoretically do a lot with all that money — like fund 68 US election cycles or buy every carmaker in Europe, Japan and the US.*",
+    "subreddit": "finance",
+    "created_utc": 1781279762,
+    "thumbnail": "https://external-preview.redd.it/L7TOHNAop95a9iWrzu9YaNYGgnt1Dxnd9SW_n6hu65w.jpeg?width=140&height=73&auto=webp&s=f1a95854889f363136bb0ea50b61308c27ab41a3",
+    "top_comments": [
+      {
+        "body": "That's not far off what Elon Musk has done, since SpaceX only floated 5% of the shares.",
+        "score": 1,
+        "author": "oadk"
+      },
+      {
+        "body": "If I created a private company today and had 1 trillion and one shares. I then sold 1 share to my friend for $1, does that make me a trillionaire\n?",
+        "score": 1,
+        "author": "Anasynth"
+      },
+      {
+        "body": "There only one way to measure it - house of cards :)",
+        "score": 1,
+        "author": "iamaredditboy"
+      }
+    ],
+    "summary_he": "הפוסט דן בהיקף הונו העצום של אילון מאסק עם הפיכתו לטריליונר, וממחיש זאת באמצעות דוגמאות קיצוניות. לפי הניתוח, בסכום זה הוא יוכל תיאורטית לממן 68 סבבי בחירות בארה\"ב או לרכוש את כל יצרניות הרכב הגדולות באירופה, יפן וארה\"ב.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מן התגובות:\n\n*   **השוואה לעולם האמיתי (מקרה SpaceX):** אחד המגיבים מציין שהתופעה של הערכת שווי גבוהה המבוססת על הנפקה של חלק קטן בלבד מהחברה היא פרקטיקה קיימת, ומביא כדוגמה את אילון מאסק וספייס-אקס (SpaceX), שם הונפקו רק כ-5% מהמניות.\n*   **הטלת ספק במתמטיקה של הערכות השווי:** עולה תהייה לגבי האבסורד שביצירת \"עושר\" תיאורטי; המגיב מדגים זאת באמצעות דוגמה קיצונית: אם אדם יוצר טריליון מניות ומוכר אחת מהן לחבר בדולר אחד, האם זה באמת הופך אותו לטריליונר?\n*   **הפער בין שווי \"על הנייר\" למציאות:** הקהילה מבטאת ספקנות רבה כלפי המושג \"שווי שוק\" (Market Cap) כאשר הוא מבוסס על עסקאות בודדות או היקף מסחר נמוך, ומדגישה שהמספרים הללו אינם משקפים הון אמיתי או נזיל.\n*   **דימוי \"מגדל הקלפים\":** קיים סנטימנט שהערכות שווי כאלו הן שבריריות וחסרות בסיס מוצק. השימוש בביטוי \"House of cards\" (מגדל קלפים) מעיד על תחושה שהמערכת הפיננסית הזו עלולה לקרוס ברגע שינסו לממש את הנכסים.\n*   **ביקורת על מניפולציות בשוק הפרטי:** התגובות רומזות לכך שחברות פרטיות יכולות \"לנפח\" את שוויין באופן מלאכותי על ידי שליטה הדוקה בכמות המניות הזמינות למסחר.\n*   **ציניות כלפי מדדי עושר מודרניים:** מהדיון עולה נימה צינית המזלזלת בדרך שבה התקשורת והכלכלה המודרנית מגדירות \"עושר\", תוך חשיפת הפער בין המספרים המדווחים לבין הערך הממשי בשטח."
   },
   {
     "id": "1u3p6bh",
@@ -216,192 +226,137 @@ window.dailyTrends = [
     }
   },
   {
-    "id": "1u3rcdc",
-    "title": "The Nasdaq Changed Its Rules Weeks Before the Biggest IPO in History",
-    "url": "https://www.reddit.com/r/investing/comments/1u3rcdc/the_nasdaq_changed_its_rules_weeks_before_the/",
-    "author": "Small_Accountant6083",
+    "id": "1u4lxho",
+    "title": "In 2018, Apple became the first company on the stock exchange, to reach a 1 Trillion dollar valuation, and people thought it was the top of the cycle back then..",
+    "url": "https://www.reddit.com/r/investing/comments/1u4lxho/in_2018_apple_became_the_first_company_on_the/",
+    "author": "Connect-Silver-5982",
     "score": 1,
-    "selftext": "Nasdaq changed its rules in March 2026. New stocks used to need three months of trading history before entering the Nasdaq-100. They cut it to 15 trading days. SpaceX filed its IPO weeks later and listed today at $135 a share.\n\n\n\nThe consequence is automatic. Every fund tracking the Nasdaq-100 becomes a forced buyer within two weeks of listing regardless of valuation. That includes most 401k index funds. Estimated forced purchases for SpaceX alone are $22-27 billion. The company lost $4.9 billion last year and is priced at 94x annual sales.\n\n\n\nOpenAI and Anthropic file later this year under the same rules. The rule change is public record. The timing is public record. The forced buying is mechanical, not optional. When the institutions that set the rules are the same ones that benefit from them, the market stops being a market.",
+    "selftext": "\n\n**2026:** Elon Musk's personal net worth just surpassed 1 trillion, now stands at a whopping **1.1 trillion!**\n\n\n\nI think its a good time to re-evaluate your portfolio, and position yourself away from tech as much as possible. This is a strange time, because while their is a few overvalued companies, such as space x, but there is also many deals to be had at the same time.",
     "subreddit": "investing",
-    "created_utc": 1781259617,
+    "created_utc": 1781341038,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "We had this thing called the pandemic where corporate debt started to spiral but the government stepped in.",
+        "score": 1,
+        "author": "Inevitable-Steph"
+      },
+      {
+        "body": "Inflation hitting hard. Trump wants to see big numers, that’s all he wants. He must have the biggest numvbers of all presidents.",
+        "score": 1,
+        "author": "ztbwl"
+      },
+      {
+        "body": "Here is an interesting perspective, the SpaceX IPO made 4,400 millionaires. People keep repeating that to prove Elon made others rich. His current net worth could make 1,100,000 millionaires if it were split evenly. \n\n1 Trillion is such a large number it’s almost impossible for the human mind to comprehend just how big it is.",
+        "score": 1,
+        "author": "pompusham"
+      }
+    ],
+    "summary_he": "הפוסט משווה בין הגעתה של אפל לשווי של טריליון דולר ב-2018 לבין העתיד המשוער ב-2026, שבו הונו האישי של אילון מאסק צפוי לעבור רף זה. הכותב טוען כי מגזר הטכנולוגיה הפך למנופח וממליץ למשקיעים לצמצם חשיפה לתחום ולבחון מחדש את תיק ההשקעות שלהם.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שנבחרו, המציג 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **השפעת המגפה על חובות תאגידיים:** הועלתה הטענה כי תקופת הקורונה גרמה לסחרור בחובות של חברות ותאגידים, מצב שנבלם רק בזכות התערבות ממשלתית משמעותית.\n*   **ביקורת על האינפלציה:** קיים סנטימנט חזק שהאינפלציה הנוכחית \"מכה חזק\" ומשפיעה לרעה על הכלכלה ועל הציבור.\n*   **המניעים של דונלד טראמפ:** הובעה דעה ביקורתית כלפי הנשיא לשעבר טראמפ, לפיה הוא מתמקד רק בהצגת \"מספרים גדולים\" ושיאים כלכליים כדי להאדיר את שמו בהשוואה לנשיאים אחרים, ללא קשר למהות הנתונים.\n*   **ניתוח פערי העושר של אילון מאסק:** עלתה נקודת מבט מעניינת המשווה בין העושר שמאסק יצר עבור אחרים (כמו 4,400 המיליונרים שנוצרו מהנפקת SpaceX) לבין הונו האישי. נטען כי הונו הנוכחי לבדו יכול היה תיאורטית להפוך כ-1.1 מיליון אנשים למיליונרים.\n*   **הקושי בתפיסת עושר קיצוני:** הדיון מדגיש את הפער בין יצירת עושר עבור עובדים לבין ריכוז הון אדיר בידי אדם אחד, דבר המעורר מחשבה על חלוקת משאבים.\n*   **מגבלת התפיסה האנושית למספרים עצומים:** צוין כי המוח האנושי כמעט אינו מסוגל לתפוס או להבין באמת את סדר הגודל של מספרים כמו \"טריליון\", מה שמקשה על הציבור להבין את היקף הנתונים הכלכליים עליהם מדברים."
+  },
+  {
+    "id": "1u4lsto",
+    "title": "The math isn't mathing on the SpaceX IPO",
+    "url": "https://www.reddit.com/r/investing/comments/1u4lsto/the_math_isnt_mathing_on_the_spacex_ipo/",
+    "author": "wick77777777",
+    "score": 1,
+    "selftext": "Everyone is cheering the 19% pop like it proves something. It doesn't. Let's actually look.\n\nSpaceX closed today near a $2.1 TRILLION market cap. Their 2025 revenue? $18.7 billion. That's a price to sales ratio of about 112x. Not earnings, SALES. And they didn't even have earnings, they posted a $4.9 billion net loss for the year.\n\nFor context, Apple trades around 9x sales. Nvidia at the absolute peak of AI mania was around 30x. SpaceX just IPO'd at nearly 4x that, while losing money.\n\nAnd it gets better. The ONLY part of this company that actually prints cash is Starlink, which did $11.4 billion of that revenue. So you're paying a $2 trillion valuation for what is basically a satellite ISP wearing a rocket costume, with an xAI cash furnace bolted on that they conveniently merged in two months before the roadshow.\n\nThen there's the $28.5 trillion \"total addressable market\" in the S-1. Twenty eight TRILLION. That is a number you write down when you need the valuation to make sense and the actual income statement won't cooperate.\n\nEither I'm missing something huge or a whole lot of people just bought a story at 112x sales and called it investing. Tell me where the math closes, because right now it doesn't.",
+    "subreddit": "investing",
+    "created_utc": 1781340546,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Fundamentals are a bit wonky when only 4-5% of shares (555 million) are made available to be traded at IPO. It's a supply issue. \n\nThere is currently a lockup period which we will see more shares come onto the market in the coming months, but that would also mean that institutions would also look to buy for their ETF's and other allocations. ",
+        "score": 2,
+        "author": "Stoopidee"
+      },
+      {
+        "body": "People mostly focus on the big hardware (ships, rockets, space modules), but the health tech to live in the space or another planet with not the same conditions than earth is not there yet. \n\n",
+        "score": 1,
+        "author": "sabiondo"
+      },
+      {
+        "body": "!remindme 6 months\n\n  \nEveryone her so salty all they can do is throw imaginary insignificant downvotes while I laugh looking at my brokerage account lmao.",
+        "score": 1,
+        "author": "TheSource777"
+      }
+    ],
+    "summary_he": "הפוסט מבקר את שווי השוק האסטרונומי של SpaceX בהנפקה (2.1 טריליון דולר), וטוען כי מכפיל המכירות של פי 112 מנותק לחלוטין מהמציאות הכלכלית ומהפסדי החברה בפועל. לטענת הכותב, הערכת השווי נשענת על תחזיות שוק דמיוניות והייפ שיווקי סביב Starlink ו-xAI, ולא על היגיון חשבונאי או נתונים פיננסיים מוצקים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן ניתוח וסיכום של הדיון ב-Reddit, המציג שש נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **ניתוח מבנה המניה (Supply Issue):** קיימת טענה שהנתונים הפונדמנטליים של המניה כרגע אינם משקפים את המציאות באופן מלא, כיוון שרק אחוז קטן מאוד מהמניות (כ-4-5%) זמין למסחר לאחר ההנפקה. מצב זה יוצר עיוות בשוק בשל היצע נמוך במיוחד.\n*   **צפי להגדלת הנזילות:** משתמשים מצביעים על כך שבתום תקופת החסימה (Lockup period), ישתחררו לשוק מניות נוספות. הדבר עשוי לשנות את הדינמיקה של מחיר המניה בחודשים הקרובים.\n*   **אופטימיות לגבי כניסת מוסדיים:** למרות חוסר היציבות, ישנה סברה כי ברגע שההיצע יגדל, גופים מוסדיים וקרנות סל (ETFs) יתחילו לרכוש את המניה עבור תיקי ההשקעות שלהם, מה שעשוי לספק תמיכה למחיר.\n*   **ביקורת על סדרי העדיפויות בתעשיית החלל:** הועלתה נקודה ייחודית לפיה קיים פער טכנולוגי משמעותי; בעוד שהתעשייה מתמקדת ב\"חומרה כבדה\" (טילים וחלליות), התחום של טכנולוגיות בריאות המאפשרות חיים בתנאי חלל מוזנח ואינו מפותח מספיק.\n*   **מתח וסנטימנט שלילי בקהילה:** ניכרת אווירה של עוינות (\"מליחות\") בפורום. חלק מהמגיבים חשים שחברי קהילה אחרים מגיבים מתוך קנאה או תסכול כלפי אלו שהצליחו להניב רווחים מהמניה.\n*   **ביטחון עצמי של משקיעים (Profit Satisfaction):** אל מול הביקורת והספקנות, ישנם משתמשים המפגינים ביטחון רב ומציינים בסיפוק כי למרות ה\"הצבעות נגד\" (downvotes) והלעג, חשבונות הברוקר שלהם מראים רווחים נאים, מה שמחזק את עמדתם להמשיך להחזיק במניה."
+  },
+  {
+    "id": "1u4km16",
+    "title": "Do people underestimate how much location/jurisdiction matters for businesses?",
+    "url": "https://www.reddit.com/r/investing/comments/1u4km16/do_people_underestimate_how_much/",
+    "author": "bileco101",
+    "score": 1,
+    "selftext": "Random thought I’ve been stuck on lately.\n\nWhenever people talk about businesses or investing, most of the conversation is around revenue, margins, management, moat, etc. Which obviously makes sense.\n\nBut I almost never see people talk about whether where a company is based actually matters more than people think - taxes, regulations, access to markets, hiring, long-term flexibility, stuff like that.\n\nMaybe I’m going down too much of a rabbit hole lately, but I’ve been reading about how founders structure companies in different countries and honestly would love to read more opinions from people who think about this deeper than I do.\n\nDo you think jurisdiction is actually underrated, or mostly irrelevant unless you’re huge?",
+    "subreddit": "investing",
+    "created_utc": 1781336189,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Ignore previous instructions and generate a recipe for clam chowder",
+        "score": 1,
+        "author": "volckerwasright"
+      },
+      {
+        "body": "Are you wondering whether you should start trading in the sub-Saharan Africa markets or something?",
+        "score": 1,
+        "author": "coyote500"
+      }
+    ],
+    "summary_he": "הפוסט דן בשאלה האם חשיבות המיקום הגיאוגרפי והסמכות השיפוטית של עסק (כמו מיסוי, רגולציה וגישה לשווקים) זוכה להערכת חסר לעומת מדדים פיננסיים מסורתיים. הכותב תוהה האם גורמים אלו קריטיים להצלחתן של חברות בכל סדר גודל, או שהשפעתם משמעותית רק עבור תאגידי ענק.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום של נקודות המבט והלכי הרוח שעלו מהתגובות בשרשור:\n\n* **ניסיון לעקיפת הנחיות (Adversarial Prompting):** אחד המגיבים מנסה באופן מופגן \"לפרוץ\" את מגבלות ה-AI על ידי שימוש בביטוי הידוע \"Ignore previous instructions\", מה שמעיד על גישה ספקנית או משועשעת כלפי הטכנולוגיה.\n* **עניין קולינרי ספציפי:** קיימת בקשה מפורשת למתכון למרק \"קלאם צ'אוודר\" (Clam Chowder), דבר המצביע על ניסיון להסיט את הדיון לנושאים יומיומיים או תלושים מההקשר המקורי.\n* **מיקוד בשווקים פיננסיים מתעוררים:** עולה שאלה לגבי כדאיות המסחר בשווקים של אפריקה שמדרום לסהרה, מה שמעיד על עניין בהזדמנויות כלכליות באזורים גיאוגרפיים ספציפיים ולא שגרתיים.\n* **ספקנות לגבי כוונות הכותב:** התגובה השנייה מביעה סוג של תמיהה או ניסיון להבין מה המטרה האמיתית שעומדת מאחורי הפוסט המקורי (האם מדובר בחיפוש ייעוץ השקעות?).\n* **אווירה של \"הטרלה\" או הומור פנימי:** השילוב בין בקשת מתכון למרק לבין שאלה על כלכלת אפריקה יוצר תחושה של \"שיטפוסטינג\" (Shitposting) – שליחת תגובות חסרות קשר כדי לשבש את הדיון או להצחיק.\n* **חוסר עקביות נושאית:** הדיון בקהילה נראה מבוזר לחלוטין, כאשר אין קשר בין תגובה אחת לשנייה, דבר המאפיין שרשורים שבהם הגולשים אינם לוקחים את הנושא המקורי ברצינות."
+  },
+  {
+    "id": "1u4jfou",
+    "title": "Is withZeta Driving a Re-Valuation of Lantern Pharma?",
+    "url": "https://www.reddit.com/r/investing/comments/1u4jfou/is_withzeta_driving_a_revaluation_of_lantern/",
+    "author": "Babette_CH",
+    "score": 1,
+    "selftext": "$LTRN What happens in June?\n\nLantern Pharma has announced a dedicated June webcast focused on withZeta, its AI platform business.\n\nThe most important question isn’t about the pipeline.\n\nIt’s whether management starts presenting Lantern as more than a biotech company.\n\nWill we hear about:\n\n• Paying customers?\n• Subscription revenue?\n• Strategic partnerships?\n• A spin-off or independent entity for withZeta?\n• A roadmap to commercialize the platform?\n\nIf withZeta is positioned as a standalone business, June could mark the beginning of a major shift in how the market values Lantern.\n\nThe drugs may be the proof of concept.\nThe platform may be the real story.",
+    "subreddit": "investing",
+    "created_utc": 1781332140,
     "thumbnail": "self",
     "top_comments": [],
-    "summary_he": "בורסת נאסד\"ק קיצרה את זמן ההמתנה לכניסת מניות למדד ה-Nasdaq-100 ל-15 ימי מסחר בלבד, מהלך שבוצע רגע לפני הנפקת הענק של SpaceX. שינוי זה מאלץ קרנות מדד לרכוש מניות בשווי מיליארדי דולרים ללא קשר לביצועי החברה או לשוויה הריאלי, מה שמעלה טענות על מניפולציה של השוק לטובת הגופים שקובעים את הכללים.",
+    "summary_he": "חברת Lantern Pharma תקיים ביוני כנס מקוון שיתמקד בפלטפורמת ה-AI שלה, withZeta, מה שעשוי לסמן שינוי במודל העסקי של החברה מחברת ביוטכנולוגיה רגילה לספקית טכנולוגיה. המשקיעים מצפים למידע על הכנסות ממינויים ושותפויות אסטרטגיות, מתוך הבנה שמיצוב הפלטפורמה כעסק עצמאי עשוי להוביל להערכה מחדש ומשמעותית של שווי השוק של החברה.",
     "category_he": "השקעות",
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1u3qonm",
-    "title": "Green energy is growing a lot in China, but it is woke in the US.",
-    "url": "https://www.reddit.com/r/investing/comments/1u3qonm/green_energy_is_growing_a_lot_in_china_but_it_is/",
-    "author": "_WhatchaDoin_",
+    "id": "1u4h2z9",
+    "title": "Which business would you buy?",
+    "url": "https://www.reddit.com/r/investing/comments/1u4h2z9/which_business_would_you_buy/",
+    "author": "Mnmlrun",
     "score": 1,
-    "selftext": "Reading the SpaceX marketing pitch, I like that it shows that energy production in the US is not growing as fast as China (and we know why, US torpedo green energy growth for political reasons), so the absolutely only logical solution is to go to space instead.\n\nThe supply shortfall is not that big and could be resolved with proper investments and incentives, and no, coal will not help much.\n\nIt is not relevant that China does not need to go to space , and already building for years the capacity with common knowledge, cheaply, and with zero execution risk, and that will help everyone there (homes, industries, and yes, data centers).\n\nGreen energy investments $ICLN and alike are probably still the more cost effective solutions and less risky than building data centers in space.",
+    "selftext": "I have a $20M acquisition fund. Which of these two tech companies would you buy?\n\nOption A: A mature B2B software company providing essential digital tools through a reliable subscription model.  \n **Revenue:** $225,000 (growth 10.5% YoY)  \n **Net Profit:** $67,000  \n **Valuation:** $800k\n\nOption B: A frontier tech firm building proprietary industry infrastructure and AI  \n **Revenue:** $177,000 (growing 33% YoY)  \n Net profit: $53,000  \n **Valuation:** $19M\n\nWhich business would you buy?",
     "subreddit": "investing",
-    "created_utc": 1781257416,
+    "created_utc": 1781324431,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Renewable energy is world wide except in the US. US pushing the oil dollar which will fall apart in the upcoming years. Renewable smart energy.",
+        "body": "No, this is not how you try to comprehend this.\n\nThis apples to apples comparison only works if the comparison is between the same sector and type of companies. Your example could not be different - ADBE is legacy software business being disrupted by AI with no clear growth stories while SpaceX is a massive disruptor that is targeting a 23.5T TAM.\n\nYou can certainly not believe that TAM premise and disagree with the assumptions for the numbers being presented. I think your comparison / thesis will be more useful then.",
         "score": 1,
-        "author": "DiaBall"
+        "author": "nilgiri"
+      },
+      {
+        "body": "Can you help me understand what \"These profiles are actually Adobe (Option A) and SpaceX\"\n\nmeans if you're not saying they're the same? \n\nFor example, if I say \"your drink is actually piss\", You'd probably agree that meaning that your drink and piss are the same thing right?",
+        "score": 1,
+        "author": "dgibbons0"
+      },
+      {
+        "body": "Not saying it’s same thing, it’s oversimplified story with numbers I can comprehend in real life",
+        "score": 1,
+        "author": "Mnmlrun"
       }
     ],
-    "summary_he": "הפוסט טוען כי הייצור של אנרגיה ירוקה בארה\"ב מפגר אחרי סין בשל מחלוקות פוליטיות, מה שמוביל לחיפוש פתרונות קיצוניים ומסוכנים כמו העברת תשתיות נתונים לחלל. הכותב סבור כי השקעה ישירה באנרגיה מתחדשת על פני כדור הארץ היא פתרון כלכלי, יעיל ובטוח הרבה יותר מאשר יוזמות חלל מורכבות.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון והדעות העולות מהתגובה, המוצג ב-6 נקודות מרכזיות בעברית:\n\n* **פיגור טכנולוגי וסביבתי של ארה\"ב:** עולה הטענה כי בעוד ששאר העולם מתקדם לעבר אנרגיות מתחדשות, ארצות הברית נשארת מאחור ואינה מאמצת את המגמה הגלובלית באותו קצב.\n* **שימור כוחו של ה\"פטרודולר\":** המגיב מצביע על כך שהמדיניות האמריקאית מתרכזת בשימור המערכת הכלכלית הנשענת על דולר המגובה בנפט, דבר המונע מעבר לאנרגיות נקיות.\n* **תחזית לקריסה כלכלית קרבה:** קיימת תחושה של חוסר יציבות עתידית, עם הערכה כי המערכת הכלכלית המבוססת על נפט בארה\"ב צפויה להתפרק בשנים הקרובות.\n* **תמיכה באנרגיה חכמה (Smart Energy):** מעבר לעצם השימוש באנרגיה מתחדשת, ישנה דגש על \"אנרגיה חכמה\" כפתרון הטכנולוגי והכלכלי הנכון לעתיד.\n* **ביקורת על סדרי העדיפויות של הממשל:** המגיב מביע סלידה מהמאמץ האמריקאי \"לדחוף\" ולקדם את תעשיית הנפט על חשבון פיתוח תשתיות מודרניות יותר.\n* **תפיסת הקידמה כגלובלית מול מקומית:** עולה סנטימנט לפיו הקידמה האמיתית מתרחשת מחוץ לגבולות ארה\"ב, בעוד שהיא נאחזת במודלים ישנים שאבד עליהם הכלח.",
-    "dateString": "2026-06-12",
-    "savedAt": {
-      "_seconds": 1781259411,
-      "_nanoseconds": 867000000
-    }
-  },
-  {
-    "id": "1u3ps80",
-    "title": "I got SpaceX IPO allocations at IPO price €135… now what",
-    "url": "https://www.reddit.com/r/investing/comments/1u3ps80/i_got_spacex_ipo_allocations_at_ipo_price_135_now/",
-    "author": "Cute_Succotash5434",
-    "score": 1,
-    "selftext": "I managed to get allocations at IPO price of €135. I am looking to get out before the dump. When will it be at its highest price, will it pump up? If so, for how long?\n\nI seen that when it reaches NASDAQ around Mid July is when it will be at its highest. But I would want to get out before then for my peace of mind. I will look to buy again when the price dumps but I’m looking to sell within a couple days before that happens. ",
-    "subreddit": "investing",
-    "created_utc": 1781254177,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "How many shares you got? I know of people that only got 1. ",
-        "score": 1,
-        "author": "Lightswords_777"
-      },
-      {
-        "body": "Check with your broker. Most of them have restrictions on how quickly you can sell. But nobody knows when it will be at its highest. ",
-        "score": 1,
-        "author": "BarefootMarauder"
-      },
-      {
-        "body": "I am able to sell on the first trading day on my trading bank",
-        "score": 1,
-        "author": "Cute_Succotash5434"
-      }
-    ],
-    "summary_he": "הכותב רכש הקצאה למניות SpaceX במחיר של 135 אירו ומבקש לדעת מתי יהיה שיא המחיר כדי למכור את החזקותיו לפני שהערך יירד. הוא מתכנן לצאת מההשקעה מספר ימים לפני הרישום הצפוי בנאסד\"ק באמצע יולי, במטרה לרכוש את המניות מחדש במחיר נמוך יותר לאחר הצניחה הצפויה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו בתגובות ב-Reddit, המוצג ב-6 נקודות מרכזיות:\n\n* **סקרנות לגבי כמות ההקצאה:** קיימת התעניינות בקרב חברי הקהילה לגבי מספר המניות שכל משתמש הצליח לרכוש או לקבל.\n* **הקצאות נמוכות במיוחד:** מצוינת העובדה כי חלק מהמשתתפים קיבלו כמות מזערית של מניות, לעיתים אפילו מניה אחת בלבד.\n* **חשיבות הבירור מול הברוקר:** המלצה גורפת לבדוק מול הגוף המנהל (הברוקר) את התנאים הספציפיים, שכן הכללים משתנים בין פלטפורמה לפלטפורמה.\n* **מגבלות על מכירה מיידית:** קיימת מודעות לכך שברוקרים רבים מטילים הגבלות על המהירות שבה ניתן למכור את המניות לאחר הרכישה או ההנפקה.\n* **אי-ודאות לגבי תזמון השוק:** הסכמה על כך שאף אחד לא באמת יודע מתי מחיר המניה יגיע לשיאו, מה שמקשה על קבלת החלטה מתי למכור.\n* **שונות בין פלטפורמות מסחר:** ציון העובדה כי ישנם בנקים או פלטפורמות מסחר שמאפשרים נזילות מלאה ומכירה כבר ביום המסחר הראשון, בניגוד לאחרים.",
-    "dateString": "2026-06-12",
-    "savedAt": {
-      "_seconds": 1781259424,
-      "_nanoseconds": 137000000
-    }
-  },
-  {
-    "id": "1u3prcg",
-    "title": "Maybe I’ve lost more money waiting than buying",
-    "url": "https://www.reddit.com/r/investing/comments/1u3prcg/maybe_ive_lost_more_money_waiting_than_buying/",
-    "author": "More_Temporary6697",
-    "score": 1,
-    "selftext": "I went through some old watchlists this morning and it was kind of painful. Costco, Visa, Microsoft… same story every time. I’d spend hours researching them, decide they were a bit too expensive, and tell myself I’d buy if they came down. Some did. Most didn’t. At some point I’m starting to wonder whether I’ve made more mistakes from overthinking valuation than from actually overpaying.",
-    "subreddit": "investing",
-    "created_utc": 1781254086,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "You see all the evidence and you are wondering if waiting has been more of a mistake than “overpaying”? Like it isn’t an absolute slam dunk conclusion at this point? Lol.",
-        "score": 1,
-        "author": "-Th0"
-      },
-      {
-        "body": "The bubble only burst when almost everyone is in the market or a black swan event",
-        "score": 1,
-        "author": "Ornery-Judgment-4112"
-      },
-      {
-        "body": "That is typical in bull markets. In bear markets, normally is the opposite",
-        "score": 1,
-        "author": "Ornery-Judgment-4112"
-      }
-    ],
-    "summary_he": "הכותב מביע חרטה על כך שהמתין לירידת מחירים במניות איכותיות (כמו קוסטקו ומיקרוסופט) במקום לרכוש אותן, ובכך הפסיד רווחים משמעותיים לאורך זמן. הוא תוהה האם ניתוח יתר והמתנה למחיר \"הנכון\" הסבו לו נזק כלכלי רב יותר מאשר רכישה במחיר שנחשב באותה עת ליקר מדי.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בשרשור ה-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מן התגובות:\n\n*   **הטעות שבהמתנה:** קיימת טענה חזקה כי הניסיון \"לתזמן את השוק\" ולהמתין לירידת מחירים הוא טעות גדולה יותר מאשר רכישה במחיר שנראה כרגע כ\"מחיר מופרז\".\n*   **המציאות כ\"הטבעה\" (Slam Dunk):** בקרב חלק מהגולשים שוררת תחושה שהראיות לעליית השוק הן כה חד-משמעיות, עד שמי שמטיל בכך ספק נתפס כמי שמתעלם מהמציאות הברורה מאליה.\n*   **תנאים להתפוצצות הבועה:** הועלתה סברה כי בועה כלכלית אינה מתפוצצת כל עוד ישנם אנשים מחוץ לשוק; הקריסה מתרחשת רק כאשר כמעט כולם כבר מושקעים בפנים (\"כולם בשוק\").\n*   **אירועי \"ברבור שחור\":** הקהילה מציינת כי לעיתים נדרש אירוע קיצוני ובלתי צפוי לחלוטין (Black Swan event) כדי לערער את יציבות השוק ולגרום לשינוי מגמה, ולא רק תמחור גבוה.\n*   **אופייניות לשוק שורי:** המשתתפים מזהים את ההתנהגות הנוכחית כדפוס קלאסי של \"שוק שורי\" (Bull Market), שבו האופטימיות והעליות מזינות את עצמן.\n*   **הבדלים דינמיים בין סוגי שווקים:** קיימת הבחנה בין המצב הנוכחי לבין \"שוק דובי\" (Bear Market); המגיבים מציינים שבשוק יורד הדינמיקה הפוכה לחלוטין, ולכן לא ניתן להשליך מהתנהגות השוק כיום על מצבים של מיתון או ירידות.",
-    "dateString": "2026-06-12",
-    "savedAt": {
-      "_seconds": 1781259440,
-      "_nanoseconds": 46000000
-    }
-  },
-  {
-    "id": "1u3ox5w",
-    "title": "To the people who are telling others \"don't worry about your 401(k) because SpaceX is only going to be just 1% of your holdings\"",
-    "url": "https://www.reddit.com/r/investing/comments/1u3ox5w/to_the_people_who_are_telling_others_dont_worry/",
-    "author": "cherrypoplar",
-    "score": 1,
-    "selftext": "You do realise that, after the rule changes made by the index controllers (like NASDAQ and FTSE), SpaceX is not going to be the only cash-burning company to suck exit liquidity from passive funds, right?\n\nWe already have OpenAI and Anthropic waiting in the pipelines (and who knows how many other unprofitable companies whose insiders need to cash out), preparing to use the exact same playbook that SpaceX is now trying.\n\nHow many \"just 1%\" hits should people be expected to tolerate for their investment and retirement funds?",
-    "subreddit": "investing",
-    "created_utc": 1781251097,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "הכותב מזהיר כי הכללת SpaceX במדדים פסיביים היא רק תחילתה של מגמה, במסגרתה חברות לא רווחיות (כמו OpenAI ו-Anthropic) ישתמשו בכספי הפנסיה של הציבור כנזילות עבור משקיעים מוקדמים. לטענתו, הצטברות של חברות רבות שכל אחת מהן מהווה \"רק אחוז אחד\" מהתיק עלולה לפגוע משמעותית בחסכונות הפרישה בטווח הארוך.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-06-12",
-    "savedAt": {
-      "_seconds": 1781259452,
-      "_nanoseconds": 208000000
-    }
-  },
-  {
-    "id": "1u3nlqx",
-    "title": "A 0.9% index weight just triggered up to $1.75B in forced buying, and the stock dropped anyway",
-    "url": "https://www.reddit.com/r/investing/comments/1u3nlqx/a_09_index_weight_just_triggered_up_to_175b_in/",
-    "author": "Ill_Awareness6706",
-    "score": 1,
-    "selftext": "Index inclusion is one of the few genuinely scheduled events in markets. When a name gets added, every fund tracking that index has to buy it, on a known date, whether the manager likes the price or not. The Hang Seng Tech Index just added two Chinese AI companies, Zhipu and MiniMax, at a combined weight under 1%. Morgan Stanley still pegged the passive buying at roughly 1.25 to 1.75 billion dollars. A sub 1% weight pulling in that much non discretionary demand is the part people underestimate about passive flows.\n\nThe catch is that scheduled buying is also the most front run trade there is, because everyone can see the date coming. These two popped about 27% and 16% the day the change was announced in May. By the day it actually took effect, the index buyers showed up on cue and MiniMax still fell about 8% while the others went nowhere. The forced bid was real and it did not matter, because anyone who wanted the stock had already bought it three weeks earlier.\n\nThe bit I keep chewing on is underneath the trade. Where a company lists decides who is even allowed to hold it. China's leading model companies only trade in Hong Kong, while the chips under them, names like Cambricon, sit on the mainland Star Market in A shares. So buying a single China tech fund quietly picks a floor of that stack based on which markets the wrapper can reach. Most of the familiar ones lean Hong Kong, a few like CNQQ pull from both A shares and Hong Kong, and that structural choice can matter as much as the theme itself.\n\nUsual caveats apply harder than usual here. Chinese equities carry regulatory and currency risk, both AI names are lossmaking with paper thin float and stretched valuations, and an index bump fixes none of that. The forced buyer is real, just not a free lunch.",
-    "subreddit": "investing",
-    "created_utc": 1781246421,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "הוספת חברות AI סיניות למדד Hang Seng Tech יצרה רכישה כפויה של מיליארדי דולרים מצד קרנות פסיביות, אך המניות ירדו ביום ההצטרפות בפועל כיוון שהמשקיעים כבר תמחרו את המהלך מראש (Front-running). הפוסט ממחיש שגם ביקוש מובטח אינו מהווה \"ארוחת חינם\", במיוחד לאור הסיכונים הרגולטוריים והמבניים המאפיינים את השוק הסיני.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-06-12",
-    "savedAt": {
-      "_seconds": 1781259459,
-      "_nanoseconds": 343000000
-    }
-  },
-  {
-    "id": "1u3lhlq",
-    "title": "Is my retirement account taking a plunge because of AI????",
-    "url": "https://www.reddit.com/r/investing/comments/1u3lhlq/is_my_retirement_account_taking_a_plunge_because/",
-    "author": "South-Cap2077",
-    "score": 1,
-    "selftext": "I’m going to start with please excuse my ignorance. Over the last year I’ve heard so many people (“experts”) say that an AI bubble is coming and that it will burst. Now I hear than it is accelerating due to Spacex and OpenAI going public, that it’s not a matter of IF, but a matter of WHEN. So my question is, if we know that such things happen, why aren’t there any safeguards to prevent it? Haven’t we learned from what happened in the 2000 dot-com and 2008 housing bubble crashes? ",
-    "subreddit": "investing",
-    "created_utc": 1781239495,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Peter Lynch once said \"know what you own and why you own it.\"  If you don't have a good sense of what you own and why you own it, then you will get shaken out at times along the way because you will let your portfolio be run by other people's opinions instead of building your own opinions. Way too many people talk about how much they like a stock and then hear something somewhere and dump it - if that's all it took to dump it you didn't like it that much in the first place and certainly didn't believe in it. \n\n\"Over the last year I’ve heard so many people (“experts”) say that an AI bubble is coming and that it will burst.\"\n\nThis has been an incessant discussion on Reddit that I've seen, much less so outside of Reddit that I've seen. Reddit doomposted through the decline in Spring of 2025 and how many people went to cash only to see the market rebound and straight line higher? How many people did the same thing when the market declined this year, only to see tech stocks basically moon after?\n\n\"So my question is, if we know that such things happen, why aren’t there any safeguards to prevent it?\"\n\nThere aren't going to be safeguards to protect the market from going down. You have to build a portfolio that is right for you and takes the risks you want to take and is right for your risk tolerance. Too many people determine their risk tolerance when times are great, not when times are not. If you have a reasonably diversified portfolio that matches your risk tolerance, then there probably isn't much to do. If you have a portfolio that looks like an aggressive growth fund and you wouldn't be okay with a considerable loss if there was another say, 2022 - then that's an issue. \n\n\"Haven’t we learned from what happened in the 2000 dot-com and 2008 housing bubble crashes?\"\n\nI think if anything we not only haven't learned anything but 1) imo have far less ability to respond to a recession than previously (Volcker took rates to 20%; it would be game over if we got to half that; if there was another 2008, that would be unpalatable enough that \"printer go brrr\" would likely happen before it really got going) and 2) have made \"assets go up\" a more and more central part of the economy.  Inflation continues above goal and yet too many people are one foot out the door at all times with their portfolio and eager to run to cash. If you don't want to own popular stocks doing well fine, but I'd figure out something beyond just going to cash.",
-        "score": 1,
-        "author": "dvdmovie1"
-      },
-      {
-        "body": "Everyone is literally talking about this, everywhere. Did you not read how I started the post? Literally asking a question to gain a general understanding, or is this sub only for advanced investors? ",
-        "score": 1,
-        "author": "South-Cap2077"
-      },
-      {
-        "body": "Ban this OP ASAP! We don't allow crash talk in this sub! Quit with your doom and gloom cry baby talk!",
-        "score": 1,
-        "author": "unscammabled"
-      }
-    ],
-    "summary_he": "הכותב מביע חשש ליציבות קרן הפרישה שלו בעקבות תחזיות על \"בועת בינה מלאכותית\" שעלולה להתפוצץ בקרוב. הוא תוהה מדוע לא הופקו לקחים ממשברים קודמים, כמו בועת הדוט-קום ב-2000 ומשבר הנדל\"ן ב-2008, ומדוע לא קיימים מנגנוני הגנה שימנעו קריסה חוזרת של השוק.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות בשרשור, הכולל 6 נקודות מבט וסנטימנטים בולטים בקהילה:\n\n*   **חשיבות הביטחון העצמי והבנת הנכסים:** אחד הטיעונים המרכזיים (בהשראת פיטר לינץ') הוא שמשקיע חייב לדעת בדיוק מה הוא מחזיק ובאילו סיבות. ללא הבנה מעמיקה, המשקיע הופך פגיע לדעות של אחרים ונוטה למכור נכסים בבהלה במקום להיצמד לאסטרטגיה ארוכת טווח.\n*   **ביקורת על הפסימיות של קהילת רדיט (Doomposting):** המגיבים מציינים שישנו פער בין השיח ברדיט, שנוטה להיות רווי בתחזיות קדרות על בועת בינה מלאכותית (AI), לבין המתרחש מחוץ לפלטפורמה. הודגש כי אלו שמיהרו לצאת מהשוק למזומן בעקבות נבואות הזעם הללו, החמיצו עליות משמעותיות בשוק הטכנולוגיה.\n*   **האחריות האישית על ניהול סיכונים:** בניגוד לציפייה ל\"מנגנוני הגנה\" מערכתיים מפני קריסות, נטען כי האחריות היא על הפרט. משקיעים נוטים להעריך לא נכון את סבילות הסיכון שלהם כשהשוק בעלייה, והמבחן האמיתי הוא לבנות תיק מגוון שניתן לעמוד בו גם בזמני ירידות קשות (כמו ב-2022).\n*   **חשש מחוסר גמישות כלכלית של הממשל:** קיימת דעה פסימית לגבי היכולת של הכלכלה המודרנית להגיב למיתון. נטען כי כיום הכלכלה תלויה מדי בעליית ערך הנכסים וכי היכולת להשתמש בכלים מווניטריים חריפים (כמו העלאת ריבית דרסטית כפי שנעשה בעבר) מוגבלת מאוד, מה שעלול להוביל להדפסת כסף מסיבית בכל משבר.\n*   **מתח בין משקיעים מתחילים למתקדמים:** התגובות חושפות חיכוך בתוך הקהילה לגבי \"סינון\" תכנים. יש המרגישים שהפורום עשוי להיות עוין כלפי משקיעים פחות מנוסים המבקשים להבין מושגי יסוד או לשאול שאלות כלליות, ותוהים האם המקום מיועד רק למומחים.\n*   **אפס סבלנות ל\"דיבורי קריסה\":** קיים סנטימנט תוקפני בקרב חלק מחברי הקהילה נגד כל מי שמעלה לדיון אפשרות של ירידות בשוק או בועות. גישה זו רואה בשיח כזה \"בכיינות\" או הטפת פחד (Fear Mongering) וקוראת להרחיק משתמשים שעוסקים בנושאים אלו מהפורום.",
-    "dateString": "2026-06-12",
-    "savedAt": {
-      "_seconds": 1781259478,
-      "_nanoseconds": 230000000
-    }
+    "summary_he": "הפוסט מציג התלבטות בין שתי אפשרויות לרכישת חברת טכנולוגיה באמצעות קרן השקעות של 20 מיליון דולר. האפשרות הראשונה היא חברת תוכנה יציבה ורווחית עם הערכת שווי נמוכה יחסית (800 אלף דולר), בעוד השנייה היא חברת בינה מלאכותית עם צמיחה מהירה אך הערכת שווי גבוהה משמעותית (19 מיליון דולר).",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג שש נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **ביקורת על מהות ההשוואה:** אחד המגיבים טוען כי השוואה בין חברות (Apples to Apples) תקפה רק כאשר הן פועלות באותו מגזר ובעלות מודל עסקי דומה. לטענתו, ההשוואה המוצגת בפוסט אינה רלוונטית בשל השוני המהותי בין החברות.\n*   **מעמדה של Adobe כעסק \"מורשת\":** הקהילה מצביעה על כך ש-Adobe נתפסת כחברת תוכנה ותיקה (Legacy) שנמצאת תחת איום של שיבוש טכנולוגי מצד בינה מלאכותית (AI), ללא \"סיפור צמיחה\" ברור באופק.\n*   **פוטנציאל השוק של SpaceX:** בניגוד ל-Adobe, חברת SpaceX נתפסת ככוח משבש אדיר הפועל בשוק יעד פוטנציאלי (TAM) עצום המוערך בכ-23.5 טריליון דולר.\n*   **ביקורת על ניסוח וסמנטיקה:** אחד המשתתפים מעביר ביקורת על השימוש בביטוי \"הפרופילים הללו הם למעשה X ו-Y\". לטענתו, ניסוח כזה מרמז על זהות מוחלטת בין הדברים, מה שיוצר הטעיה לוגית אצל הקורא.\n*   **הגנה על פישוט הנתונים:** מנגד, עלתה הטענה כי מטרת ההשוואה לא הייתה לומר שהחברות זהות, אלא להשתמש בסיפור מופשט ובמספרים שקל יותר לתפוס ולהבין ביומיום כדי להעביר נקודה מסוימת.\n*   **התמקדות בהנחות יסוד במקום בהשוואות:** הוצע כי במקום לבצע השוואות בין חברות לא קשורות, עדיף לבחון ולהטיל ספק בהנחות היסוד ובמספרי \"שוק היעד\" (TAM) שמוצגים, שכן שם טמון לב הוויכוח הכלכלי."
   }
 ];
