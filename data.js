@@ -1,423 +1,404 @@
 window.dailyTrends = [
   {
-    "id": "1u41t9o",
-    "title": "SPCX at 2.27 Trillion Market Cap - 6th highest and within 12% of AMZN",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1u41t9o/spcx_at_227_trillion_market_cap_6th_highest_and/",
-    "author": "TCEHY",
-    "score": 314,
-    "selftext": "https://preview.redd.it/fm6e0sp9yv6h1.png?width=948&format=png&auto=webp&s=7bb11cd1f2192005f81320e52f8bf0903f7b6ac1\n\nWhen combined with TSLA, the other publicly traded Elon Musk company, market cap at 3.77 Trillion.\n\nBased on this table, we wonder which are used as COF for today's massive 75 billion SPCX IPO.  SPCX is the only non profitable stock with market cap above 1 Trillion.  While the TAM is enormous, over the next 5 years, it is not expected to be profitable.  At least one analyst has issued a Sell with 115 target as SPCX started trading this morning. \n\nCFRA analyst Keith Snyder rate SPCX at Sell and a target of 115. That's a loss of -14.8% at the IPO price and -30.3% at news release.  Keith Snyder's previous 3 sell ratings have proved to be timely.  He downgraded CHTR to sell Dec 2025 with a target of 165 and CHTR is 141.82 now.  Back in 2020, Snyder downgraded ZM to Sell with 215 when ZM was 568, it's now at 94.  Finally, he issued a Sell on MAT in 2018 with 11 target.  MAT traded near 9 the same year.",
-    "subreddit": "StockMarket",
-    "created_utc": 1781285158,
-    "thumbnail": "https://preview.redd.it/fm6e0sp9yv6h1.png?width=140&height=125&auto=webp&s=b85e5be6ba748a0cf79a86b017b398527fae5f32",
-    "top_comments": [
-      {
-        "body": "Anything that can't pull in actual revenue can get very fucked in case of a recession. Let's say we have a broad market correction and all these bubbles pop (AI, tech, space, etc.). Or before that, let's just say inflation causes interest rates to rise substantially causing liquidity problems worldwide. It's fine if you have cash reserves on hand. But for investors feeling the pinch, they'll probably sell some causing stock prices to go down. Something held up by faith, FOMO or sentiment dropping has a lot to lose especially if cash flow becomes an issue. Whereas some stock with decent earnings might lose some value but has an easier time to justify itself (and deal with attracting money through revenue).",
-        "score": 7,
-        "author": "AidenTai"
-      },
-      {
-        "body": "Its amazing what Elon did with an EV credit.",
-        "score": 1,
-        "author": "trav66011"
-      },
-      {
-        "body": "More like how does a single person on earth still believe this guy. It’s like a cult and yesterday proves he has an army waiting to be his bag holder.",
-        "score": 1,
-        "author": "Low-Apricot9917"
-      }
-    ],
-    "summary_he": "שווי השוק של SPCX הגיע ל-2.27 טריליון דולר, נתון המציב אותה כחברה השישית בגודלה בעולם והיחידה בשווי זה שאינה רווחית. למרות פוטנציאל השוק העצום, האנליסט קית' סניידר פרסם המלצת \"מכירה\" עם מחיר יעד הנמוך משמעותית ממחיר ההנפקה, תוך הסתמכות על הצלחות העבר שלו בתחזיות דומות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בשרשור, המציג שש נקודות מבט ותחושות קהילתיות שונות כפי שעלו מהתגובות:\n\n*   **פגיעות של חברות ללא הכנסות במצב של מיתון:** עולה טענה כי חברות שאינן מייצרות הכנסה ממשית נמצאות בסיכון גבוה מאוד במקרה של תיקון בשוק או מיתון. בניגוד לחברות עם רווחים מוכחים שיכולות להצדיק את שוויין, חברות המבוססות על הבטחות בלבד עלולות לקרוס.\n*   **השפעת המקרו-כלכלה על מניות הסנטימנט:** המגיבים מציינים כי אינפלציה ועליית ריבית יוצרות בעיות נזילות עולמיות. מצב זה דוחף משקיעים למכור מניות המוחזקות מכוח \"אמונה\" או פחד מהחמצה (FOMO), מה שמוביל לירידות שערים חדות במיוחד במגזרים אלו.\n*   **חשש מבועות טכנולוגיות:** קיימת תחושה בקהילה שתחומי ה-AI, הטכנולוגיה והחלל נמצאים במצב של בועה שעלולה להתפוצץ ברגע שהכסף ה\"קל\" ייעלם מהשוק.\n*   **ביקורת על המודל העסקי של טסלה ומאסק:** אחד המגיבים מדגיש כי חלק ניכר מההצלחה של אילון מאסק נשען על ניצול אסטרטגי של זיכויי מס ממשלתיים לרכבים חשמליים (EV credits), ולא רק על פעילות עסקית טהורה.\n*   **תופעת ה\"כת\" סביב אילון מאסק:** קיימת תחושת תסכול ופליאה בקרב חלק מהגולשים על כך שאנשים עדיין מאמינים למאסק ללא עוררין. מעריציו מתוארים כ\"צבא\" או כ\"כת\" שפועלת מתוך נאמנות עיוורת ולא מתוך ניתוח רציונלי.\n*   **המשקיעים הקטנים כ\"מחזיקי התיקים\" (Bag holders):** עולה חשש שקהל המעריצים של מאסק משמש למעשה ככלי שנועד לספוג את ההפסדים. ביום פקודה, אותם משקיעים נאמנים הם אלו שיישארו עם מניות שערכן צנח בזמן שהשוק מתקן את עצמו.",
-    "dateString": "2026-06-14",
-    "savedAt": {
-      "_seconds": 1781428496,
-      "_nanoseconds": 244000000
-    }
-  },
-  {
-    "id": "1u3ydod",
-    "title": "How many SPCX requests were filled?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1u3ydod/how_many_spcx_requests_were_filled/",
-    "author": "Californiauser1",
-    "score": 248,
-    "selftext": "Robinhood was kind enough to fill 1 of my SPCX 6 requests. I didn’t have much hope, but I also thought my insignificant amount would be filled. What about you?\n\nAlso, will you buy into IPO or wait to see what happens? I’m curious how it do week one. ",
-    "subreddit": "StockMarket",
-    "created_utc": 1781277840,
-    "thumbnail": "https://preview.redd.it/x1au220kdv6h1.jpeg?width=140&height=59&auto=webp&s=26b28b8e9c9c6e8e7e24a2ee980c044c9cf08544",
-    "top_comments": [
-      {
-        "body": "All good points but I can’t think of any other recent IPO supported by US tax dollars. SpaceX literally flies on your tax dollar. ",
-        "score": 1,
-        "author": "BNA-mod"
-      },
-      {
-        "body": "They don't care about your $50k account",
-        "score": 1,
-        "author": "Upper-Bus4348"
-      },
-      {
-        "body": "I requested 300 got 50 on Fidelity. Requested 1 and got 1 on RH",
-        "score": 1,
-        "author": "Betsyrue"
-      }
-    ],
-    "summary_he": "הכותב משתף כי פלטפורמת רובין הוד ביצעה רק חלק קטן מהזמנת ה-SPCX שלו ושואל משתמשים אחרים לגבי חוויותיהם. בנוסף, הוא מתייעץ האם כדאי להשקיע כבר בשלב ההנפקה (IPO) או להמתין ולעקוב אחר ביצועי המניה במהלך שבוע המסחר הראשון.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות, המציג 6 נקודות מבט ותחושות שונות בקהילה:\n\n*   **מעורבות כספי המיסים בהנפקות:** קיימת ביקורת או תמיהה על כך שחברות המסתמכות באופן משמעותי על חוזים ממשלתיים וכספי מיסים (כמו SpaceX) הופכות להנפקות ציבוריות (IPO), דבר שנתפס כחריג בנוף ההנפקות האחרונות.\n*   **חוסר חשיבותו של המשקיע הקטן:** מובעת תחושת ציניות כלפי המערכת הפיננסית, לפיה המוסדות והחתמים אינם מייחסים חשיבות למשקיעים קמעונאיים \"קטנים\", גם אם יש להם תיק השקעות של 50,000 דולר.\n*   **אכזבה מהקצאת מניות:** משתמשים משתפים חוויות של תסכול מכך שלא קיבלו את כמות המניות שביקשו לרכוש בשלב ההנפקה (למשל, קבלת 50 מניות בלבד מתוך 300 שהוזמנו).\n*   **הבדלים בין פלטפורמות מסחר:** קיימת הבחנה משמעותית בין היכולת של פלטפורמות שונות לספק מניות בהנפקה; נראה כי ברוקרים גדולים (כמו Fidelity) מבצעים קיצוץ משמעותי בהזמנות לעומת אפליקציות כמו Robinhood.\n*   **עדיפות למשקיעים זעירים ב-Robinhood:** עולה טענה כי פלטפורמות מסוימות מצליחות לספק מענה מלא דווקא למשקיעים שמבקשים כמויות זעירות (כמו מניה אחת בודדת), בעוד שמשקיעים \"גדולים\" יותר נדחקים הצידה.\n*   **השוואה בין חברות טכנולוגיה:** הקהילה משווה בין הנפקות של חברות טכנולוגיה רגילות לבין חברות תשתית או חלל, תוך דגש על מודל המימון שעומד מאחוריהן לפני היציאה לבורסה.",
-    "dateString": "2026-06-14",
-    "savedAt": {
-      "_seconds": 1781428510,
-      "_nanoseconds": 132000000
-    }
-  },
-  {
-    "id": "1u445jt",
-    "title": "What's your limit for MSFT?",
-    "url": "https://www.reddit.com/r/investing/comments/1u445jt/whats_your_limit_for_msft/",
-    "author": "Shadowrunner138",
-    "score": 77,
-    "selftext": "I bought in to MSFT at $409 and I'm averaging down with the current dip. I'm holding for at least three years because the most optimistic forecasts are around $800 and the worst bear cases see a drop down to $350ish. I'm going to keep buying but haven't decided on any kind of ceiling or limit order. Curious if anyone has a limit for MSFT and why they're choosing that number.",
+    "id": "1u4xlzl",
+    "title": "Why the S&P 500 and some other index funds require seasoning and apply “free float”",
+    "url": "https://www.reddit.com/r/investing/comments/1u4xlzl/why_the_sp_500_and_some_other_index_funds_require/",
+    "author": "Recent-Day3062",
+    "score": 35,
+    "selftext": "I explained what this means in another post but I have been asked a few times why this is sensible. \n\nSeasoning means the company at IPO Can’t join the index. Free float means even after it does, its weight is only based on how much got sold last, not the total number of shares.  \n\nSo here’s why it’s done. \n\nLet’s suppose a very lossy company burning through venture capital decides to  IPO. AND let’s assume it is worth $10 million pre-IPO. And here’s the super cynical thing that could happen. \n\nImagine this is all crooked.  The company is losing money fast, and will run out in two years. To make money for the VCs, they could do this. \n\nFirst, they arrange to sell 1% of the company to someone helping them swindle for $10 million. This gives them cash. But, they say, we just sold 1% for $10 million. Well, then, the total company is worth $1 billion!  It has to be if 1% is $10 million. \n\nSo wow!  At IPO it is a billion dollar company!  \n\nNow many uneducated investors will think “damn!  I need to get some.”  So what do they do?  They sell their stake that was worth $10 million before the IPO for $990 million. They have just made their wealth grow 100% or so, and if the company goes bankrupt they don’t care: their money is in the bank. But when it does, all those poor people who bought it lose everything. \n\nTo get around it many index providers do two things. \n\nFirst, is they say we’re only holding it in the index as if it’s worth $20 million, since that’s all new investors paid (roughly speaking)\n\nBut, even then, they demand “seasoning”\n\nLet’s take SpaceX. To get into the S&P 500, a company must have at least four quarters in a row of profit.  SpaceX? It had about $18 billion of revenue in 2025, but lost over $5 Billion. And they don’t expect a profitable quarter before 2030!  So, using the S&P rules, it will be at least 2031 before it is even at all in the S&P 500\n\nThe free float and seasoning rules are to prevent a variation on the thing I described happening. \n\nDo I think SpaceX is a total fraud?  No. Will I invest a single dollar into it, when launching a million data centers in space is their goal?  Not on your life.  I’m not investing a penny. \n\nDo what you want, but I’m staying in index funds that will not have any SpaceX for at least ten years until it makes a profit. If it ever does.  I’m not getting left holding the bag so venture capitalists get rich. They can bet on a million data centers on the sky - when, if you really needed a lot, you could have them on board in the ocean at a hundredth the cost. \n\nI’m pretty sure this is going to be another Musk promise: a million robotaxis a few years ago, a million android robots replacing people soon, a. Million cyber trucks, and millions of fully self driving cars - which was to happen by 2020 or so. ",
     "subreddit": "investing",
-    "created_utc": 1781290311,
+    "created_utc": 1781373566,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "No one can predict the absolute bottom. The focus should be how to manage the risk. The firm looks strong fundamentally and likely to keep doing well in future. Stock price has to catch up at some point.   \nFrom risk management point of view allocation becomes important, I would be comfortable with 10% allocation to MSFT with time horizon of 2-3 years.",
-        "score": 1,
-        "author": "Significant-Hat485"
+        "body": "Free float is not how much was sold last, it's how many shares are available to be bought and sold by the general public. Think of a privately held company: it's not part of an index no matter how large it is, because there are no shares available to be bought and sold. Now imagine it releases one share in the public market. Does that one share really provide price discovery for its entire market cap? Obviously not, because having one share trading provides for artificial scarcity that causes it to be overvalued. If you then force passive flows into that share by putting that company in the top 10 of the S&P 500, it literally breaks the market. That's why only free float shares are considered.",
+        "score": 52,
+        "author": "FrankDrebinOnReddit"
       },
       {
-        "body": "Two completely different ballparks",
-        "score": 1,
-        "author": "HeftyRefrigerator526"
+        "body": "I agree, and would be happy just not buying into the thing. The problem I have is with Nasdaq- they are selling out their QQQ shareholders to suck up to the Epstein class (Musk) and screwing the little people who lack the knowledge or choice to stay out (nearly everyone else.) Other members of the Epstein class who happen to be running all three branches of government are covering for them. WTF is this country coming to?",
+        "score": 13,
+        "author": "ebikr"
       },
       {
-        "body": "This is on top of VTI, VTO, VEA, VIG and their tax lost harvesting equivalents/alternatives in Wealthfront's automated account, set at maximum risk level, their automated bond fund, and an automated roth. Wealthfront automates tax lost harvesting and generates significantly more than their fees.",
+        "body": "At least they proved it wasn't written by current gen AI with that error over free float\n\nIt will certainly be interesting to see what happens with SpaceX as insiders gain the ability to trade over the next 13 months. I'm hopeful it tanks, but it could easily be similar to Tesla valuation always selling the next fake inflection point ",
+        "score": 11,
+        "author": "da6id"
+      }
+    ],
+    "summary_he": "הפוסט מסביר כי מדדי מניות כמו S&P 500 מיישמים דרישות לוותק ורווחיות (\"seasoning\") וחישוב משקל לפי מניות שבידי הציבור (\"free float\") כדי להגן על משקיעים מפני הערכות שווי מנופחות ומניפולציות של קרנות הון סיכון. הכותב מדגים זאת באמצעות SpaceX, שלטענתו לא תיכנס למדד בשנים הקרובות בשל הפסדיה, ומביע ספקנות רבה לגבי הכדאיות הכלכלית של מיזמיו של אילון מאסק.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג שש נקודות מבט ודעות מרכזיות שעלו מהתגובות:\n\n**סיכום הדיון:**\n\n* **חשיבות ה-\"Free Float\" (מניות חופשיות למסחר):** הדיון מדגיש כי שווי שוק לא צריך להיקבע לפי סך המניות הקיים, אלא לפי כמות המניות שבאמת זמינה לציבור. כאשר רק חלק קטן מהמניות נסחר, נוצר \"מחסור מלאכותי\" שגורם להערכת יתר של החברה ומונע גילוי מחיר אמיתי.\n* **הסכנה בזרימת כספים פסיבית:** קיימת טענה כי הכללת חברות עם היצע מניות מוגבל במדדים מובילים (כמו ה-S&P 500) \"שוברת את השוק\". קרנות מחקות מדד נאלצות לרכוש את המניות הללו ללא קשר לערכן, מה שמנפח את המחיר עוד יותר בצורה מסוכנת.\n* **ביקורת על מוסדות פיננסיים (נאסד\"ק):** הועלתה טענה כי בורסת נאסד\"ק \"מוכרת\" את המשקיעים הקטנים במדד ה-QQQ כדי להתחנף לאליטות כלכליות (כמו אילון מאסק). המשקיע הקטן, שלעיתים חסר את הידע או הברירה, מוצא את עצמו מושקע בחברות הללו בעל כורחו.\n* **חוסר אמון במערכת השלטונית:** קיימת סנטימנט קהילתי חריף המבטא אכזבה משלוש רשויות השלטון, שלטענת המגיבים מחפות על ה\"אליטות\" ופוגעות בציבור הרחב לטובת אינטרסים של בעלי הון.\n* **הערכת שווי SpaceX מול טסלה:** המגיבים צופים בעניין בעתיד של SpaceX לקראת האפשרות של אנשי פנים (insiders) למכור מניות. ישנה תקווה/ציפייה לירידת ערך, לצד חשש שהחברה תמשיך להחזיק בשווי מנופח בדומה לטסלה, באמצעות \"מכירת\" הבטחות לנקודות מפנה טכנולוגיות שאינן בהכרח ריאליות.\n* **זיהוי תוכן אנושי לעומת בינה מלאכותית:** נקודה מעניינת שעלתה היא השימוש בטעויות עובדתיות (כמו הגדרה שגויה של free float בפוסט המקורי) כהוכחה לכך שהתוכן נכתב על ידי אדם ולא על ידי מודל בינה מלאכותית מהדור הנוכחי."
+  },
+  {
+    "id": "1u4t05g",
+    "title": "401k elections, S&P 500, Russell 2000, and International Index",
+    "url": "https://www.reddit.com/r/investing/comments/1u4t05g/401k_elections_sp_500_russell_2000_and/",
+    "author": "ChigginParmaSean",
+    "score": 16,
+    "selftext": "I currently have my 401k elections set to 60% for s&p 500, 20% for Russell 2000, and 20% for the International Index. I’m 25 and have a long time for the contributions to grow, I’m just wanting some more opinions on if these are good elections to have, or if there’s a stronger combination I should be looking at instead.",
+    "subreddit": "investing",
+    "created_utc": 1781362425,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Looks fine to me. The most important thing you can do is keep finding ways to increase your income and the percent you invest. As long as you are making reasonable investment choices (and you are) you will do fantastic over time.",
+        "score": 10,
+        "author": "PashasMom"
+      },
+      {
+        "body": "Is the Russell truly the only small-cap option in your 401k? Because the Russell 2000 makes me seethe. It's the gas station boner pill of investing, marketed as healthy exposure, but mostly it gives you chest pain, regret, and a legally concerning amount of volatility.\n\nI don’t hate small caps. I hate that small-cap trash cyclone. It’s 2,000 tiny balance-sheet emergencies fighting in a flooded basement. Unprofitable biotech lottery tickets, regional banks with asbestos vibes, industrial companies that look like they report earnings by faxing a napkin, all crammed into one cursed bucket and sold as diversification. Fuck. \n\nGive me S&P 600, small-cap value, quality, profitability screens, literally any fund with a fucking doorman. The Russell just lets every weird little public company wander in barefoot holding debt and a dream.\n",
+        "score": 6,
+        "author": "JohnBrownsErection"
+      },
+      {
+        "body": "LOL. I don’t think that deeply about the Russell, but I do concur the S&P 600 is superior. It weeds out some of the mediocrity.\n\nYou don’t need the other 1,400 weaklings ",
+        "score": 3,
+        "author": "horesebeblind"
+      }
+    ],
+    "summary_he": "הכותב, בן 25, מבקש חוות דעת על תמהיל ההשקעות הנוכחי שלו בקרן הפנסיה (401k), הכולל 60% במדד S&P 500, 20% במדד ראסל 2000 ו-20% במדד בינלאומי. לאור אופק ההשקעה הארוך שלו, הוא מעוניין לדעת האם זוהי אסטרטגיה חזקה או שקיימים שילובים מוצלחים יותר למיקסום פוטנציאל הצמיחה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט ודעות מרכזיות שעלו בשרשור:\n\n*   **חשיבות שיעור החיסכון על פני בחירת ניירות ערך:** הדעה המרכזית בתגובה הראשונה היא שהגורם הקריטי ביותר להצלחה כלכלית ארוכת טווח אינו בהכרח הדיוק בבחירת המניות, אלא היכולת להגדיל את ההכנסה ולהעלות את אחוז הכסף שמופנה להשקעות באופן עקבי.\n*   **ביקורת חריפה על מדד ה-Russell 2000:** אחד המגיבים מביע סלידה עמוקה מהמדד הזה, ומתאר אותו כ\"סופה של זבל\". לטענתו, המדד כולל יותר מדי חברות באיכות נמוכה, תנודתיות יתר וחוסר יציבות שגורמים למשקיעים יותר חרטה מאשר תועלת.\n*   **העדפת איכות על פני כמות (S&P 600 vs Russell 2000):** קיימת הסכמה בקרב המגיבים שמדד ה-S&P 600 עדיף על ה-Russell 2000 עבור חשיפה למניות קטנות (Small-cap). הסיבה לכך היא שה-S&P 600 כולל מנגנוני סינון שמוציאים חברות בינוניות וחלשות מהמדד.\n*   **הסכנה שבחברות לא רווחיות במדדי ה-Small-cap:** הקהילה מצביעה על כך שה-Russell 2000 עמוס בחברות ביוטכנולוגיה \"הימוריותר\", בנקים אזוריים כושלים וחברות תעשייתיות עם חובות כבדים. הביקורת היא שהמדד מאפשר לכל חברה ציבורית \"להיכנס יחפה\" ללא קשר למצבה הפיננסי.\n*   **חשיבותם של מסנני רווחיות (Profitability Screens):** המגיבים מדגישים שבהשקעה במניות קטנות, יש צורך ב\"שוער\" (מדד מנוהל או עם קריטריונים) שיבדוק את איכות המאזן והרווחיות של החברות, במקום לקנות סל שמכיל את כל החברות הקטנות בשוק ללא הבחנה.\n*   **התנערות מ\"חברות חלשות\":** ישנה תחושה בקהילה שאין צורך ב-1,400 החברות הנוספות שיש ב-Russell 2000 לעומת ה-S&P 600. מבחינתם, אותן חברות הן \"חלשות\" וגריעתן מהתיק משפרת את איכות ההשקעה מבלי לפגוע במהות החשיפה למניות קטנות."
+  },
+  {
+    "id": "1u543tm",
+    "title": "Odds on Warsh/Fed meeting is the primary reason for Trump to sign the Iran agreement this weekend",
+    "url": "https://www.reddit.com/r/investing/comments/1u543tm/odds_on_warshfed_meeting_is_the_primary_reason/",
+    "author": "Mental-At-ThirtyFive",
+    "score": 12,
+    "selftext": "Title. Listened to macro/econ podcasts on how vulnerable we are on the inflation / bond market front and Warsh about to lose the disinflation narrative with the Fed governors on cutting rates. Iran agreement gets at least a rates hold now and we can look for a cut later this year.  \nA weaker bond market now will kill the non-AI investments and spends",
+    "subreddit": "investing",
+    "created_utc": 1781389868,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "They’d likely hold rates steady this week regardless",
+        "score": 18,
+        "author": "Skepticalpositivity9"
+      },
+      {
+        "body": "In what world do you think months of major oil disruption and destruction of major oil infrastructure results in a return to normalcy this year?",
+        "score": 15,
+        "author": "Pleasant-Shallot-707"
+      },
+      {
+        "body": "looking forward to when the minutes are published",
+        "score": 2,
+        "author": "Mental-At-ThirtyFive"
+      }
+    ],
+    "summary_he": "הפוסט טוען כי הסיבה המרכזית לכך שטראמפ עשוי לחתום על הסכם עם איראן היא הרצון לייצב את שוק האג\"ח ולהתמודד עם החשש מאינפלציה לקראת החלטות הפדרל ריזרב. לפי הכותב, המהלך נועד לאפשר את עצירת העלאות הריבית כדי למנוע פגיעה בהשקעות שאינן בתחום הבינה המלאכותית.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן ניתוח של תגובות הגולשים מהשרשור, המסוכם ל-6 נקודות המציגות דעות ותחושות שונות בקהילה:\n\n*   **צפי ליציבות מוניטרית בטווח הקצר:** קיימת הערכה בקרב המשתמשים כי הבנק המרכזי צפוי להותיר את גובה הריבית ללא שינוי השבוע, ללא קשר לאירועים חיצוניים או תנודות בשוק.\n*   **פסימיות לגבי שוק הנפט:** משתמשים מביעים ספק רב לגבי האפשרות שהשוק יחזור למצב של \"נורמליות\" במהלך השנה הנוכחית, לאור שיבושים מתמשכים באספקה.\n*   **חומרת הנזק לתשתיות:** קיימת דאגה עמוקה מההרס הנרחב שנגרם לתשתיות נפט מרכזיות, וההבנה ששיקום כזה אורך זמן רב ולא יסתיים במהרה.\n*   **חוסר אמון בתחזיות אופטימיות:** בקהילה נשמעת ביקורת כלפי מי שסבור שתיתכן התאוששות מהירה, תוך הדגשה שהמציאות הגיאופוליטית מורכבת מכדי לאפשר חזרה מהירה לשגרה.\n*   **ציפייה לשקיפות ומידע רשמי:** ניכרת דריכות לקראת פרסום הפרוטוקולים (\"Minutes\") של ישיבות המדיניות, במטרה להבין לעומק את השיקולים של מקבלי ההחלטות מאחורי הקלעים.\n*   **תחושת ניתוק בין המדיניות למציאות בשטח:** עולה תחושה כי המדיניות הכלכלית (השארת הריבית) עשויה להמשיך במסלולה המתוכנן ללא קשר ישיר לחומרת המשברים הפיזיים (כמו משבר הנפט) המתרחשים במקביל."
+  },
+  {
+    "id": "1u4usu5",
+    "title": "Municipal bonds in a fluctuating market",
+    "url": "https://www.reddit.com/r/investing/comments/1u4usu5/municipal_bonds_in_a_fluctuating_market/",
+    "author": "Lucid_Chemist",
+    "score": 7,
+    "selftext": "Any of yall thinking about adding in some munis to the mix since they haven’t fallen off as much as CDs and HYSAs plus the obvious tax advantage of their interest not being taxable income?\n\nMany 20 year municipals are still near 5% without paying a premium in the primary and secondary market. \n\nDownside: interest rates may run higher with inflation, but the new fed chair seems unlikely to hold rates high long term.    \nThese are also callable meaning if interest rates do drop, municipalities may call them and reissue at a lower rate.  There is also the risk of default; be sure to review the rating and finances of any issuer before purchase.  I’m only purchasing A+ or higher. \n\nUpside: 5% without taxes is equivalent to 7-8% for states without income taxes, possibly more if your buying in state in a state with income taxes.  \n\nThis is not advise, but a forum for discussion.  Simply wondering if anyone’s is diversifying their portfolio with Gold and silver still running down from all time highs, the stock market being strongly AI focused and general uncertainty about the future. ",
+    "subreddit": "investing",
+    "created_utc": 1781366825,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I found holding individual Munis to be a PITA. Buying at a good price is hard, selling at a good price takes a miracle. Also they can get called for other reasons beside the interest rate that can be disadvantageous to the holder. I have done better with closed-end leveraged munis funds - NMZ NAD MHD. They pay 6 or 7% ",
+        "score": 3,
+        "author": "marima33"
+      },
+      {
+        "body": "Sure, I have plenty of munis; my taxable rate for the next 8-9 years is brutal.",
+        "score": 3,
+        "author": "therealjerseytom"
+      },
+      {
+        "body": "8% on A-rated munis would be wild, you'd basically be calling for a fiscal crisis lol. tax-equivalent yield on 4-5% munis isn't bad rn if",
+        "score": 1,
+        "author": "teslaTools"
+      }
+    ],
+    "summary_he": "הפוסט דן בכדאיות ההשקעה באג\"ח מוניציפליות (Munis) כחלופה לפיקדונות, בזכות תשואה יציבה של כ-5% והטבות מס שהופכות את הריבית האפקטיבית לגבוהה משמעותית. לצד היתרון שבגיוון תיק ההשקעות, הכותב מציין סיכונים כמו אינפלציה, אפשרות לפדיון מוקדם וחדלות פירעון, וממליץ להתמקד בדירוגי אשראי גבוהים (+A ומעלה).",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit בנושא השקעה באג\"ח מוניציפליות (Munis), הכולל 6 נקודות מרכזיות שעלו מהתגובות:\n\n*   **סרבול בניהול ישיר:** החזקה של איגרות חוב מוניציפליות בודדות נתפסת כפעולה מסורבלת ומורכבת (\"כאב ראש\"), שאינה מומלצת לכל משקיע בשל הקושי בניהולן השוטף.\n*   **בעיות נזילות ותמחור:** קיים קושי משמעותי לקנות ולמכור אג\"ח אלו במחירים הוגנים. המגיבים מציינים כי קנייה במחיר טוב היא אתגר, ומכירה במחיר רווחי דורשת לעיתים \"נס\".\n*   **סיכון של פדיון מוקדם (Call Risk):** משקיעים מזהירים כי לאג\"ח אלו יש נטייה להיקרא לפדיון מוקדם על ידי המנפיק מסיבות שונות (מעבר לשינויי ריבית), מה שעלול להוות חיסרון משמעותי למחזיק בהן.\n*   **עדיפות לקרנות סגורות (CEF):** ישנה המלצה להעדיף קרנות סגורות וממונפות המתמחות באג\"ח מוניציפליות (כמו NMZ או NAD). קרנות אלו נתפסות כחלופה יעילה יותר המניבה תשואות גבוהות יותר, באזור ה-6-7%.\n*   **תמריץ מס למשתכרים גבוהים:** ההשקעה באג\"ח מוניציפליות נחשבת לאטרקטיבית במיוחד עבור משקיעים הנמצאים במדרגות מס גבוהות, כדרך להתמודד עם שיעורי מס \"אכזריים\" על הכנסותיהם.\n*   **ציפיות ריאליות לתשואה:** קיימת הסכמה שתשואה של 8% על אג\"ח בדירוג A היא לא ריאלית ומעידה על מצב של משבר פיננסי. עם זאת, תשואות נוכחיות של 4-5% נחשבות לטובות מאוד כאשר מחשבים את \"שווי התשואה המקביל למס\" (Tax-equivalent yield)."
+  },
+  {
+    "id": "1u66yg8",
+    "title": "Moronic Monday - June 15, 2026 - Your Weekly Questions Thread",
+    "url": "https://www.reddit.com/r/finance/comments/1u66yg8/moronic_monday_june_15_2026_your_weekly_questions/",
+    "author": "AutoModerator",
+    "score": 1,
+    "selftext": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n\nReplies are expected to be constructive and civil.\n\nAny questions about your *personal* finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.",
+    "subreddit": "finance",
+    "created_utc": 1781499684,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "זהו שרשור שאלות שבועי המיועד לנושאי פיננסים כלליים, קריירה וסיוע בלימודים, המהווה מרחב פתוח ומכבד לכל שאלה בתחום. שאלות העוסקות בניהול כספים אישי או ייעוץ קריירה מורחב מופנות לתתי-פורומים ייעודיים אחרים המתאימים לכך.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1u5ql34",
+    "title": "🚀 The SpaceX aftermath: a record debut, and now the hard part",
+    "url": "https://www.reddit.com/r/finance/comments/1u5ql34/the_spacex_aftermath_a_record_debut_and_now_the/",
+    "author": "DukascopyBank",
+    "score": 1,
+    "selftext": "\n\nThe biggest IPO in history is done. SPCX priced at $135, opened at $150, touched $176 intraday and closed its first session up about 19% near $161. By Friday it was hovering around that level with the post-debut pop already fading in after-hours. Clean debut, healthy demand, limited chaos. Now comes the part that actually matters for anyone holding or watching it.\n\nHere's the tension nobody pumping the launch wants to sit with. At \\~$1.8T, SPCX is trading near 110x trailing revenue on a company that did roughly $19B last year and has yet to post a net profit. That's a software multiple bolted onto a capital-intensive rocket-and-satellite business. The bull case is almost entirely Starlink: \\~10M subscribers and over $1B in quarterly operating profit, growing fast. The question the market is now forced to answer in public, every day, is whether Starlink's trajectory justifies a multiple usually reserved for asset-light tech.\n\n  \n\n\nWhat's worth watching from here:\n\nThe lockup and float. Day-one demand met a deliberately limited supply. As more shares become tradeable and early holders get liquidity, the supply-demand picture that drove the pop changes. First-week volume tells you whether conviction is real or just allocation scramble.\n\nIndex inclusion noise. A company this size triggers benchmark-inclusion debates fast. That's mechanical buying potential, but it's also front-run heavily, so the rumor usually moves more than the event.\n\nThe satellite-adjacent names. EchoStar (holds \\~3% of SpaceX) jumped 11% on debut day, AST SpaceMobile \\~12%, both with options volume many times normal. These proxies often move harder than the headline stock and unwind just as fast once the event passes.\n\nVolatility compression. A 19% day-one move with a high near $176 and a close at $161 means the intraday range is enormous. Newly public mega-caps tend to chop violently for weeks while the market finds a clearing price. Wide ranges cut both ways.\n\nThe honest read: this was a successful listing, not a verdict on the valuation. The debut answered \"will it trade well.\" It didn't answer \"is $1.8T right.\" That gets argued out over the coming weeks, in public, with real money. Watch the float, watch Starlink's numbers, and treat the early tape as price discovery rather than direction.\n\nNot financial advice. Just watching the same screens you are.",
+    "subreddit": "finance",
+    "created_utc": 1781456714,
+    "thumbnail": "https://preview.redd.it/6u9zcfve5a7h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=2c34d248b3481a689e54077c7d265177f87c8a32",
+    "top_comments": [
+      {
+        "body": "did claude make this crap? \n\ni could’ve listed those bullet points too. ",
+        "score": 1,
+        "author": "IhaveQuestionsNEU"
+      },
+      {
+        "body": "I was able to sell day 1 on fidelity, they have a temporary ipo ban but who cares lol easiest money of my life",
+        "score": 1,
+        "author": "D3Rpy_Un1c0Rn107"
+      },
+      {
+        "body": "That's broker-specific. If my broker had this restriction, I'd get a different broker. ",
+        "score": 1,
+        "author": "brainrotbro"
+      }
+    ],
+    "summary_he": "הנפקת SpaceX (סימול: SPCX) הסתיימה בהצלחה עם שווי שוק של כ-1.8 טריליון דולר, אך כעת עליה להוכיח שהצמיחה של Starlink מצדיקה מכפיל הכנסות גבוה המאפיין חברות תוכנה. המשקיעים עוקבים בדריכות אחר תנודתיות המניה וגילוי המחיר בשוק הציבורי, בעוד השאלות המהותיות לגבי התמחור הריאלי של החברה נותרות פתוחות.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שנכתבו, הכולל 6 נקודות מבט ותחושות בולטות בקהילה:\n\n*   **ספקנות כלפי איכות התוכן:** חלק מהמשתמשים הביעו זלזול בתוכן הפוסט המקורי, תוך העלאת חשד שהוא נוצר על ידי בינה מלאכותית (כמו המודל Claude) ולא על ידי אדם.\n*   **ביקורת על פשטות המידע:** קיימת תחושה שהמידע שהוצג הוא בסיסי מדי או מובן מאליו (\"Common Knowledge\"), וכי כל משתמש ממוצע יכול היה לנסח רשימה דומה ללא מאמץ.\n*   **הצלחה מעשית במסחר ב-IPO:** אחד המגיבים שיתף ניסיון חיובי שבו הצליח למכור מניות ביום הראשון להנפקה דרך פלטפורמת Fidelity, למרות מגבלות מסוימות.\n*   **תחושת \"כסף קל\":** בקרב חלק מהמשקיעים קיימת סנטימנט של אופוריה, המתארים את הרווחים מהנפקות כ\"כסף הקל ביותר\" שהרוויחו, גם כאשר קיימות מגבלות זמניות על השתתפות בהנפקות עתידיות.\n*   **הבדלים בין פלטפורמות מסחר:** הקהילה מדגישה כי המגבלות והחוקים לגבי מכירת מניות ביום ההנפקה אינם אחידים, אלא משתנים באופן ספציפי בין ברוקר לברוקר.\n*   **נכונות למעבר בין ברוקרים:** קיימת גישה פרקטית ואקטיבית בקרב המשקיעים – אם ברוקר מסוים מערים קשיים או מגבלות נוקשות מדי, הפתרון המועדף הוא פשוט לעבור לעבוד עם ברוקר אחר שמאפשר חופש פעולה גדול יותר."
+  },
+  {
+    "id": "1u6f4ne",
+    "title": "Offered 25x MRR to sell my mobile apps. Take the cash and go into AI/robotics stocks?",
+    "url": "https://www.reddit.com/r/investing/comments/1u6f4ne/offered_25x_mrr_to_sell_my_mobile_apps_take_the/",
+    "author": "kaburgadolmasi",
+    "score": 1,
+    "selftext": "I built and grew a small portfolio of mobile apps over the past few years (some of that journey is in my post history). It wasn't easy, and I'm attached to them. But I just got an offer to sell for \\~25x revenue, around $520k.\n\nThat multiple feels rich for app revenue, and part of me wants to take it and redeploy into public equities, mostly the AI and robotics names I think have a long runway ahead.\n\nSo I'm torn: hold something I built and understand, or take a strong exit and ride a theme I'm bullish on. Would you take the cash and make the switch?",
+    "subreddit": "investing",
+    "created_utc": 1781526348,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "הכותב מתלבט אם למכור את תיק האפליקציות שפיתח תמורת כ-520 אלף דולר, הצעה המשקפת מכפיל רווח גבוה של פי 25 מההכנסות. הוא מתקשה להחליט בין הישארות בתחום המוכר לו לבין מימוש הרווחים לצורך השקעה במניות של חברות בינה מלאכותית ורובוטיקה בהן הוא מאמין לטווח ארוך.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1u67yft",
+    "title": "So is SPCX price discovery even real right now?",
+    "url": "https://www.reddit.com/r/investing/comments/1u67yft/so_is_spcx_price_discovery_even_real_right_now/",
+    "author": "More_Temporary6697",
+    "score": 1,
+    "selftext": "I keep seeing people talk about the SpaceX price like it already proves demand is insane, but I’m still stuck on the selling side. If IPO allocated holders risk losing access to future IPOs by flipping, and insiders/large holders aren’t really selling yet, then how much of this is actual price discovery? A price can go up fast when buyers are excited and natural sellers are basically discouraged from selling. Maybe that’s just how IPOs work, but it feels weird watching everyone treat the first few days like a normal market.",
+    "subreddit": "investing",
+    "created_utc": 1781502860,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "It's not bots. It's that people are just dumb and follow the herd. ",
+        "score": 1,
+        "author": "Future-Exam-6338"
+      },
+      {
+        "body": "100%. Reddit uses emotion and politics over everything. ",
+        "score": 1,
+        "author": "brianmcg321"
+      },
+      {
+        "body": "It sounds nice and is commonly used in old investing books like The intelligent investor.",
+        "score": 1,
+        "author": "asdafari14"
+      }
+    ],
+    "summary_he": "הכותב מטיל ספק באמינות \"גילוי המחיר\" של מניית SpaceX בימיה הראשונים, בטענה שהעלייה המהירה נובעת מהיעדר מוכרים טבעיים והרתעת מחזיקי המניות מהנפקות (IPO) ממכירה מוקדמת. לדעתו, המחיר הנוכחי אינו משקף שוק חופשי ונורמלי, אלא מצב שבו הביקוש גבוה אך ההיצע מוגבל באופן מלאכותי.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים שונים שעלו:\n\n*   **שלילת תיאוריית הבוטים:** קיימת דעה נחרצת שהתופעות המדוברות אינן תוצאה של פעילות בוטים או אלגוריתמים מזויפים, אלא של התנהגות אנושית אותנטית.\n*   **ביקורת על אינטליגנציה קולקטיבית:** אחד המגיבים מביע זלזול ברמת האינטליגנציה של המשתמשים, וטוען שחלק ניכר מהשיח נובע פשוט מ\"טיפשות\".\n*   **תופעת העדר:** מודגשת הנטייה של אנשים לעקוב זה אחר זה באופן עיוור ולאמץ דעות פופולריות מבלי להפעיל שיקול דעת עצמאי.\n*   **עליונות הרגש והפוליטיקה:** עולה הטענה שברשת החברתית רדיט, מניעים רגשיים ואג'נדות פוליטיות מקבלים עדיפות על פני עובדות, לוגיקה או ניתוח ענייני.\n*   **השפעת ספרות השקעות קלאסית:** צוין כי חלק מהתפיסות בקהילה נשענות על מקורות ספרותיים מוכרים כמו הספר \"המשקיע האינטליגנטי\", מה שמעניק להן תוקף \"מלומד\".\n*   **משיכה לרעיונות שנשמעים טוב:** ישנה הבנה שמושגים מסוימים הופכים לפופולריים פשוט כי הם \"נשמעים נחמד\" ונעים לאמץ אותם מבחינה רעיונית, גם אם הם מיושנים או מופשטים מדי."
+  },
+  {
+    "id": "1u64m7q",
+    "title": "SPCX & Elon Mask Prediction",
+    "url": "https://www.reddit.com/r/investing/comments/1u64m7q/spcx_elon_mask_prediction/",
+    "author": "doha420du",
+    "score": 1,
+    "selftext": "SPCX reported a loss in 26Q1, though it was hardly a shock - it was the first time they’d published financials. After the massive IPO, I think in 26Q2, SPCX will report another net loss. But just before earnings, Elon Musk will post on X promising something huge: SPCX will complete its space data center by 2027 or something like that. The next day, despite announcing a net loss, SPCX's stock will go up.\n\nThis is my prediction. What do you guys think?",
+    "subreddit": "investing",
+    "created_utc": 1781492524,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "As I just said, land based data centers are facing hurdles and delays. \n\nGenerally NIMBY attitude, political opposition, legal proceedings, and power grid as well as water supply limitations are delaying buildouts. \n\nThis is all solved in space, thus it could be viable. \n\nYou can doubt, but did you check the plans at all? I understand they are planning for large radiators and a high temperature. It seems at least technically possible. \n\n",
+        "score": 1,
+        "author": "Narrow-Addition1428"
+      },
+      {
+        "body": "ok cool, we will revisit this in 5 years . ",
+        "score": 1,
+        "author": "ericclaptonfan3"
+      },
+      {
+        "body": "I can't find where he said he thought SpaceX would have 1T in revenue in 2030 , but he said in response to someone's analysis. ",
+        "score": 1,
+        "author": "ericclaptonfan3"
+      }
+    ],
+    "summary_he": "הכותב חוזה שחברת SPCX תדווח על הפסד נקי ברבעון השני של 2026, בהמשך להפסדיה מהרבעון הקודם. לדעתו, אילון מאסק יפרסם הבטחה גרנדיוזית על הקמת מרכז נתונים בחלל סמוך לפרסום הדוחות, מה שיוביל לעליית המניה למרות התוצאות הכספיות השליליות.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שהועלו בתגובות ב-Reddit בנוגע להקמת מרכזי נתונים בחלל:\n\n*   **מכשולים ארציים המעכבים פיתוח:** קיימת טענה כי הקמת מרכזי נתונים על פני הקרקע נתקלת בקשיים משמעותיים, ביניהם התנגדות מקומית (\"NIMBY\"), התנגדויות פוליטיות והליכים משפטיים ממושכים שיוצרים עיכובים בבנייה.\n*   **מגבלות משאבים ותשתיות בכדור הארץ:** מעבר להתנגדות חברתית, ישנן מגבלות פיזיות ממשיות על הקרקע, כמו מחסור באספקת מים (הדרושים לקירור) וקשיים בחיבור לרשת החשמל, מה שהופך את המודל הקרקעי למאתגר יותר.\n*   **החלל כפתרון לבעיות לוגיסטיות:** המגיבים מציינים כי המעבר לחלל פותר באופן עקרוני את כל הבעיות המקומיות של כדור הארץ (פוליטיקה, נדל\"ן ומשאבים), מה שהופך את הרעיון לבעל פוטנציאל עסקי ויישומי.\n*   **יתכנות טכנית וחדשנות בקירור:** הדיון מצביע על כך שהתוכניות להקמת שרתים בחלל אינן דמיוניות בלבד; הן כוללות פתרונות טכניים כמו רדיאטורים גדולים שנועדו להתמודד עם טמפרטורות גבוהות, מה שהופך את הפרויקט לאפשרי מבחינה הנדסית.\n*   **ספקנות בנוגע ללוחות הזמנים:** בקהילה קיימת נימה של ספקנות בריאה או גישת \"נחיה ונראה\". אחד המגיבים מציע לבחון את התקדמות הפרויקט רק בעוד חמש שנים כדי לראות אם ההבטחות אכן מתממשות.\n*   **ציפיות כלכליות מרקיעות שחקים (SpaceX):** הדיון מקשר בין הפרויקטים הללו לתחזיות הכלכליות של SpaceX, כולל אזכור של שאיפות להכנסות עתק של טריליון דולר עד שנת 2030, אם כי קיימת אי-ודאות לגבי המקור המדויק של תחזיות אלו."
+  },
+  {
+    "id": "1u647qc",
+    "title": "How to ensure you're not investing too wide as opposed to too deep?",
+    "url": "https://www.reddit.com/r/investing/comments/1u647qc/how_to_ensure_youre_not_investing_too_wide_as/",
+    "author": "RJNavarrete",
+    "score": 1,
+    "selftext": "How do you guys deal with the temptation to over-diversify? Or, better said, too invest too wide and not deep enough? Note, this is in reference to my individual investment account, not my roth or 401k. \n\nI get that it's generally safer to diversify, but I know that there are explosive gains to be made when you find your NVDA, SNDK, etc. and invest some decent capital into it. \n\nI want to be in quantum, photonics, space, software, AI, defense, etc., but I know that I'm likely leaving material gains on the table by stretching too thin. \n\nThoughts? Anyone else struggling with this?",
+    "subreddit": "investing",
+    "created_utc": 1781491377,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "If you want your portfolio to have a small allocation to lottery tickets that's fine as long as you treat as such I do it and every so often one pops but most of the time it's down 80% and you're like do I get my $100 back or see if it comes back then it spikes to $200 and you're down seventy something percent (I should've used easier numbers) and you're like I knew it had potential I just got in at wrong time! And you keep doing it and hopefully manage your allocation so the fun doesn't hurt in the long run. ",
+        "score": 1,
+        "author": "eaglessoar"
+      },
+      {
+        "body": "Don’t forget - even if you DO throw some money at one of those, you’ll be derided incessantly by everyone else, making you doubt your thesis and potentially sell at a loss or modest profit rather than the “explosive gains” OP’s hoping for. ",
+        "score": 1,
+        "author": "NorCalAthlete"
+      },
+      {
+        "body": "the key is to find out the best buy by fundamental analysis and future projection",
+        "score": 1,
+        "author": "panikplayer1"
+      }
+    ],
+    "summary_he": "הכותב מתלבט כיצד להימנע מפיזור רב מדי של השקעותיו (Over-diversification) על פני תחומים טכנולוגיים רבים, מחשש שזה מונע ממנו להשיג רווחים משמעותיים. הוא מחפש דרכים להתמקד ולהשקיע \"לעומק\" במספר מצומצם של מניות בעלות פוטנציאל צמיחה גבוה, במקום להתפרס על פני יותר מדי אפיקים המדללים את פוטנציאל התשואה שלו.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג נקודות מבט שונות של חברי הקהילה בנוגע להשקעות בסיכון גבוה:\n\n*   **לגיטימיות של \"השקעות פיס\":** קיימת תפיסה שזה בסדר להקצות חלק קטן מהפורטפוליו למניות בסיכון גבוה מאוד (המכונות \"כרטיסי פיס\"), בתנאי שמתייחסים אליהן כאל הימור ולא כאל השקעה בטוחה.\n*   **התמודדות עם הפסדים כבדים:** הקהילה מציינת שחלק ניכר מהשקעות אלו צונחות ב-80% או יותר. המציאות הזו יוצרת קונפליקט פסיכולוגי מתמיד אצל המשקיע בין הרצון להציל את מעט הכסף שנותר לבין התקווה לזינוק מחודש.\n*   **מלכודת ה\"צדקתי בדיעבד\":** כאשר מניה ספקולטיבית קופצת מעט לאחר ירידה חדה, משקיעים נוטים ליפול להטיה קוגניטיבית שבה הם משכנעים את עצמם שהתזה שלהם הייתה נכונה ורק \"התזמון היה שגוי\", מה שעלול להוביל להמשך התנהגות מסוכנת.\n*   **חשיבות ניהול ההקצאות:** הדיון מדגיש שהמפתח להנאה מהסיכון מבלי לפשוט רגל הוא ניהול קפדני של גודל הפוזיציה, כך שה\"כיף\" שבניסיון להרוויח מהר לא יפגע ביעדים הפיננסיים לטווח הארוך.\n*   **השפעת הלחץ החברתי והלעג:** משקיע שבוחר בנתיב ספקולטיבי צפוי לספוג ביקורת ולעג מצד הסביבה. לחץ חברתי זה עלול לערער את הביטחון העצמי של המשקיע ולגרום לו למכור את נכסיו מוקדם מדי (בהפסד או ברווח קטן) ולוותר על הזינוק המשמעותי שקיווה לו.\n*   **ניתוח פונדמנטלי כחלופה להימור:** לצד הגישה הספקולטיבית, נשמעת הקול הקורא לחזור ליסודות – המפתח להצלחה הוא לא מזל, אלא ביצוע ניתוח פונדמנטליסטי מעמיק ותחזיות עתידיות מבוססות כדי למצוא את ההשקעה הטובה ביותר."
+  },
+  {
+    "id": "1u62e5o",
+    "title": "Bid-ask spreads for UCITS ETFs holding US equities",
+    "url": "https://www.reddit.com/r/investing/comments/1u62e5o/bidask_spreads_for_ucits_etfs_holding_us_equities/",
+    "author": "silly-mid-on",
+    "score": 1,
+    "selftext": "Conventional wisdom dictates that the bid-ask spread for a UCITS ETF traded on the LSE, that holds primarily US equities, should be lower when both the LSE and NYSE are open, and higher when only the LSE is open. I, however, found this was not the case for the AVGS UCITS ETF, around 70% of whose holdings are US equities.\n\nI recently switched from holding AVUV and AVDV in the NYSE, to AVGS in the LSE, to avoid estate tax implications in the US, and to take advantage of the accumulating nature of AVGS to minimise tax obligations at home, in New Zealand.\n\nThis was the first time I traded on a non-US stock exchange, so I actually woke up at 01:30 in the night in NZ (the start of the period when both the LSE and NYSE are open) to purchase AVGS, but was disappointed to find the bid-ask spread, as quoted by IBKR, was actually larger then. It was around 0.08% when only the LSE was open, but around 0.15% when both the LSE and NYSE were open.\n\nSo I ended up making subsequent trades at more humane hours in NZ when just the LSE was open. Did anyone else have any similar experiences, and have any explanations for this?",
+    "subreddit": "investing",
+    "created_utc": 1781486134,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I wouldn't claim more knowledge than you on this by any stretch, but according to Gemini, ETF fund managers do play an active role in recruiting market makers and authorised participants to provide liquidity to their ETFs, especially when the ETF is new and trading volumes are low. Turns out they often even appoint a DMM (designated market maker) as an ETF's primary liquidity providor.",
+        "score": 1,
+        "author": "silly-mid-on"
+      },
+      {
+        "body": "I could be wrong about this, but I don't think funds have any say in whether someone market makes their fund. When it's required, it's required by exchanges.",
+        "score": 1,
+        "author": "FrankDrebinOnReddit"
+      },
+      {
+        "body": "Yeah, I did think about this initially, but the actual trading volume of this ETF is quite low, and if a market maker was not operating, I would expect the spread to be a lot wider. This is also an Avantis fund, and I doubt Avantis Investors would allow their fund to operate without a market maker in operation. And this was also not a one-off by any stretch. I found this pattern to repeat on quite a few days.",
+        "score": 1,
+        "author": "silly-mid-on"
+      }
+    ],
+    "summary_he": "הכותב מציין כי בניגוד להנחה המקובלת, המרווח (bid-ask spread) בקרן הסל AVGS הנסחרת בלונדון היה רחב יותר דווקא בשעות החפיפה עם המסחר בוול סטריט. הוא עבר להשקיע בקרן זו משיקולי מס בניו זילנד, ותוהה מדוע המרווחים היו נמוכים יותר בשעות שבהן רק בורסת לונדון הייתה פעילה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנושא מעורבות מנהלי קרנות סל (ETF) והתנהלות עושי שוק:\n\n* **מעורבות אקטיבית של מנהלי הקרנות:** קיימת טענה כי מנהלי קרנות סל משחקים תפקיד פעיל בגיוס עושי שוק (Market Makers) ומשתתפים מורשים (Authorized Participants) כדי להבטיח נזילות, במיוחד כאשר מדובר בקרנות חדשות עם מחזורי מסחר נמוכים.\n* **מינוי עושי שוק ייעודיים (DMM):** לעיתים קרובות מנהלי הקרנות בוחרים וממנים \"עושה שוק ייעודי\" שמתפקד כספק הנזילות המרכזי של הקרן בבורסה.\n* **הספקנות לגבי השפעת הקרן:** מנגד, הועלתה הסברה שלמנהלי הקרנות אין למעשה השפעה על זהות עושי השוק, וכי הפעילות הזו נכפית או מוסדרת על ידי הבורסות עצמן ולא על ידי מנהלי הקרן.\n* **הקשר בין מרווח (Spread) לנזילות:** על פי הדיון, נוכחות של עושה שוק ניכרת כאשר המרווח בין מחיר הקנייה למכירה נותר צר למרות מחזורי מסחר נמוכים; ללא עושה שוק פעיל, המרווח היה צפוי להיות רחב משמעותית.\n* **מוניטין של חברות ניהול:** קיימת הערכה בקהילה שחברות השקעות גדולות ומוכרות (כמו Avantis) לא יאפשרו לקרנות שלהן לפעול בשוק ללא עושה שוק צמוד שיבטיח את תקינות המסחר.\n* **עקביות הממצאים בשטח:** משתתפים ציינו כי הדפוס של מרווחים צרים בקרנות דלות-סחר אינו מקרי או חד-פעמי, אלא מדובר בתופעה עקבית שחוזרת על עצמה בימי מסחר רבים, מה שמעיד על פעילות מוסדרת ומתוכננת מראש."
+  },
+  {
+    "id": "1u62e03",
+    "title": "Why Equities: Bonds ratio is 60:40? But why?",
+    "url": "https://www.reddit.com/r/investing/comments/1u62e03/why_equities_bonds_ratio_is_6040_but_why/",
+    "author": "kuedhel",
+    "score": 1,
+    "selftext": "\n\n\nI would guess that Equities swing up and down. So fixed income swings other way around and 60:40 sort of event it out. But this is a very simplified approach. \n\n\n\nI sort of expect that if equity (broad market index) cash, they will eventually come back up. So during the time between equity swing down and come back up, I need a way to withdraw funds without selling equities. It is also expected that if equities crash, feds eventually (1 year from the crash) will come to the rescue and try to lower interest rates. My strategy here would look something like this:\n\n\n\n- keep one year of withdrawal in Money Market. - I will use it to cover first year  while market gyrates. I also will sell some equity to realize income at 400% poverty level.\n\n- keep 20-year Tbills to cover next 3-4 years of withdrawals.\n\n - In case if market crash, I will wait until feds lower interest rates, the TBill principal will go up and I will sell them to cover years 2-5 of the equity market downturn.\n\n- Everything else I keep in equity (like S&P, International, a little bit in emerging markets).\n\n\n\nHence the ratio is not 60:40, but more like 5 years of withdrawals in fixed income and the rest in equity.",
+    "subreddit": "investing",
+    "created_utc": 1781486120,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Makes no sense to use the time it takes the earth to orbit the sun as a basis for investment allocation decisions, wild stuff.\n\nLook up mean, volatility and correlation. Then look up modern portfolio theory. Then make your portfolio ",
+        "score": 1,
+        "author": "eaglessoar"
+      },
+      {
+        "body": "This is why it's best to think for yourself and no follow investment advisor outdated \"rules\".\n\nThe idea use to be that when interest rates were high and the stock market wasn't doing well, that you should be in bonds, for example, at 5% rather than in stocks with a 7% return. The risk/reward favored bondsl.\n\nThe 60/40 also was to reverse by retirement age to 60% bonds and 40% stocks.\n\nHowever, excessive government debt now means that you just lose money in real terms if you aren't in the market and for years, the Fed also kept rates artificially low and there was even less reason to stay in bonds.\n\nNow most (thinking) people do something similar to what you are suggesting. Keep enough in the money market or short term bonds to get though a recession and keep the rest fully invested in tech stocks.",
+        "score": 1,
+        "author": "Seattleman1955"
+      },
+      {
+        "body": "good paper from AQR: [https://www.aqr.com/Insights/Research/White-Papers/Understanding-Managed-Futures](https://www.aqr.com/Insights/Research/White-Papers/Understanding-Managed-Futures)\n\n",
+        "score": 1,
+        "author": "hymie-the-robot"
+      }
+    ],
+    "summary_he": "הפוסט מערער על מודל ההשקעות הקלאסי של 60/40 בין מניות לאג\"ח ומציע גישה חלופית המבוססת על צרכי משיכה בפועל ולא על אחוז קבוע. הכותב מציע להחזיק סכום המכסה כחמש שנות מחיה בנכסים סולידיים (מזומן ואג\"ח) כדי לגשר על תקופות של ירידות בשוק, ואת יתרת התיק להשקיע במניות לטווח ארוך.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מבט וסנטימנטים מרכזיים שעלו:\n\n*   **ביקורת על שימוש בגיל כקריטריון להשקעה:** אחת הדעות המרכזיות היא שאין היגיון להשתמש בזמן שלוקח לכדור הארץ להקיף את השמש (כלומר, גיל המשקיע) כבסיס להחלטות על הקצאת נכסים. זו נתפסת כשיטה שרירותית שאינה מביאה בחשבון נתונים פיננסיים ממשיים.\n*   **הסתמכות על תיאוריות פיננסיות מודרניות:** במקום כללי אצבע מיושנים, מוצע להשתמש ב\"תורת הפורטפוליו המודרנית\" (MPT) ולבחון מדדים סטטיסטיים אובייקטיביים כמו תוחלת תשואה (Mean), תנודתיות (Volatility) ומתאם בין נכסים (Correlation) כדי לבנות תיק השקעות חכם.\n*   **חוסר רלוונטיות של \"חוקי\" יועצי ההשקעות:** קיים סנטימנט של חוסר אמון בכללים המסורתיים של יועצי השקעות. נטען כי מדובר בכללים מיושנים וכי על המשקיע המודרני לחשוב בעצמו ולא לעקוב באופן עיוור אחרי מוסכמות כמו מודל ה-60/40 (60% מניות ו-40% אג\"ח).\n*   **שחיקת הערך של איגרות החוב (אג\"ח):** המדיניות המוניטרית של הבנקים המרכזיים והחוב הממשלתי העצום הפכו את ההשקעה באג\"ח לפחות אטרקטיבית. לפי דעה זו, בסביבה הכלכלית הנוכחית, מי שלא נמצא בשוק המניות מפסיד כסף במונחים ריאליים.\n*   **אסטרטגיית \"הישרדות ומניות טכנולוגיה\":** הוצעה גישה חלופית המשותפת למשקיעים \"חושבים\" רבים כיום: שמירה על מספיק מזומן או אג\"ח לטווח קצר רק כדי לצלוח תקופות מיתון, בעוד ששאר התיק מושקע במלואו במניות טכנולוגיה לצורך צמיחה.\n*   **חשיבות של נכסים אלטרנטיביים:** השימוש במקורות מידע מקצועיים (כמו ניירות עמדה של AQR) מצביע על כך שחלק מהקהילה רואה חשיבות בלימוד והבנה של מכשירים פיננסיים מורכבים יותר, כגון חוזים עתידיים מנוהלים (Managed Futures), ככלי לגיוון וניהול סיכונים מעבר למניות ואג\"ח בלבד."
+  },
+  {
+    "id": "1u60v7o",
+    "title": "If the Iran War is Over, Will there Be No More Reasons to Rally?",
+    "url": "https://www.reddit.com/r/investing/comments/1u60v7o/if_the_iran_war_is_over_will_there_be_no_more/",
+    "author": "alemorg",
+    "score": 1,
+    "selftext": "The market was stagnate and flat for months before the Iran war due to low chances of rate cuts. Even analysts believed that the market would stagnate or underperform this year originally. There was originally a sharp sell off when war broke out due to uncertainty of the strait never being closed but quickly reversed on ceasefire news. \n\nSo if the economic situation is even worse now, no rate cuts this year and a potential rate hike, higher inflation with a steady job market. If it’s not for constant peace deal news, what reasons will the market have to pump?\n\nI understand that earnings have been solid due to the AI infrastructure build out but they were solid in the beginning of this year as well and the market was still stagnating. \n\nAny ideas on what could be catalysts for the rest of the year?",
+    "subreddit": "investing",
+    "created_utc": 1781481773,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Stagnant. Not Stagnante. Smart guy.",
+        "score": 1,
+        "author": "LillianWigglewater"
+      },
+      {
+        "body": "Read where Warsh will look to add “trimmed” inflation reads to be what the FOMC looks at.  This takes out the highest and lowest inflation reading … probably on an outlier data classification system.  \n\nIf successful, inflation will be reported lower on the upswing = rate hikes faster (of course vice versa, inflation may be reported higher in mid-recession). ",
+        "score": 1,
+        "author": "IronyElSupremo"
+      },
+      {
+        "body": "I agree with you, the market is very short sighted. Inflation impacts will continue on for the next couple of reports as well. Also this mess will probably continue for at least two more months, they just agreed to extend the ceasefire and a real deal will be signed in 2 months lol. \n\nI miss sleepy joe, the market went up predictably and went down predictably. ",
+        "score": 1,
+        "author": "alemorg"
+      }
+    ],
+    "summary_he": "הפוסט תוהה מה יניע את שוק ההון לעליות כעת כשהמתיחות הביטחונית מול איראן דועכת, במיוחד לאור נתוני האינפלציה המדאיגים והיעדר הצפי להורדת ריבית. הכותב מציין כי למרות הדו\"חות החזקים בתחום ה-AI, השוק דשדש עוד לפני העימות, ומחפש זרזים (catalysts) חיוביים אחרים שעשויים להוביל לצמיחה בהמשך השנה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות, המציג שש נקודות מבט ותחושות שונות בקהילה:\n\n*   **ביקורת על טרמינולוגיה ודמויות מפתח:** קיים דגש על דיוק לשוני (תיקון המילה Stagnant) המלווה בנימה צינית כלפי ה\"חוכמה\" של דמויות כלכליות או פוליטיות המוזכרות בדיון.\n*   **שינוי באופן מדידת האינפלציה:** מוצגת האפשרות שקווין וורש (מועמד פוטנציאלי לתפקיד כלכלי בכיר) יקדם מעבר למדד אינפלציה \"מקוצץ\" (Trimmed mean), המנטרל נתוני קצה גבוהים ונמוכים במטרה לייצב את הנתונים שה-FOMC בוחן.\n*   **חשש מהשלכות המדיניות המוניטרית:** המגיבים מציינים כי שימוש במדד \"מקוצץ\" עלול לגרום לאינפלציה להיראות נמוכה יותר בזמן עליות מחירים, מה שיוביל להעלאות ריבית מהירות יותר, ולהפך בזמן מיתון.\n*   **תפיסת השוק כ\"קצר רואי\":** קיימת הסכמה בקרב המגיבים שהשוק אינו מעריך נכון את השפעות האינפלציה לטווח הארוך ומתמקד רק בטווח המיידי, למרות שהשפעות אלו צפויות להימשך בדוחות הבאים.\n*   **תחזית להמשך חוסר היציבות:** המגיבים מעריכים כי הבלגן בשווקים יימשך לפחות חודשיים נוספים, תוך הבעת ספקנות לגבי הסכמים מדיניים או הפסקות אש זמניות והשפעתם על יציבות השוק.\n*   **געגוע לצפיות (Predictability) של העבר:** מובע רגש של נוסטלגיה לתקופת ממשל ביידן (\"Sleepy Joe\"), שבה נתפס השוק כצפוי יותר – עולה ויורד על פי דפוסים ברורים יותר מאשר במצב הנוכחי."
+  },
+  {
+    "id": "1u5z40m",
+    "title": "How to (Profitably) Trade Trumps Tweets",
+    "url": "https://www.reddit.com/r/investing/comments/1u5z40m/how_to_profitably_trade_trumps_tweets/",
+    "author": "NewspaperOk1616",
+    "score": 1,
+    "selftext": "Unfortunately this can be a viable strategy lol.  \nPresident Donald Trump's investment accounts made nearly 4,000 individual stock trades during the first quarter of the year. This averaged out to about 65 trades per business day.\n\nThere is no reason you cant capitalize on this yourself. Heres a guide on what I do myself to trade Trumps Tweets and everything you should know.\n\n1. You need to be fast to catch the tweet, and determine which securities will be impacted. (There are tools to help with this which I will get into later) \n\n2. Before you make any trades, spend a week simply observing how his tweets are affecting the market. Right now, specifically the Iran ones. Watch how they affect defense stocks, crude oil, gold, and the US dollar. Don’t start doing this blindly. \n\n3. Understand that sometimes the moves are already priced in. If Trump Tweets about a policy change or an event thats already been covered by the news, it wont move anything. \n\n4. Sometimes trump tweets about individual stocks, securities, or companies. This is your little gold mine. If Trump mentions a specific company (like he did with dell which moved it 13% intraday), there are huge profits to be made. \n\n5. This is one of the best times to get into this specific strategy. Trump has been super active tweeting about Iran peace deals and going back and forth, I’ve been personally trading crude oil and profiting pretty well from this. \n\n6. Trump tends to like to tweet during market hours. This is (obviously) when the big moves occur. Swing trading is not relevant to this strategy. You wont stay in a single position for that long. \n\nA few ways to catch his tweets: You can download TruthSocial as it’s the fastest but you  have to deal with all of trumps bs. The other option to get notified is to use apps like TrumpSignal as it tells you what stocks and securities are affected. \n\nIf you have any questions ask me below but I don’t have a course or a trading bot to sell you lol. ",
+    "subreddit": "investing",
+    "created_utc": 1781477074,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Probably because it's easier and more fun to just go to vegas and try the machines.",
+        "score": 1,
+        "author": "Shadowrunner138"
+      },
+      {
+        "body": "i'm curious why subversive whales (NANC and their ilk) haven't tried doing this..",
+        "score": 1,
+        "author": "dee_lio"
+      },
+      {
+        "body": "Please show us a history where you're doing better than breaking even, rofl.",
         "score": 1,
         "author": "Shadowrunner138"
       }
     ],
-    "summary_he": "הכותב משתף כי הוא מגדיל את השקעתו במניית מיקרוסופט (MSFT) במהלך הירידות האחרונות, מתוך כוונה להחזיק בה לפחות שלוש שנים. הוא מציין תחזיות הנעות בין 350 ל-800 דולר ושואל את שאר המשתמשים אם קבעו לעצמם מחיר יעד או מגבלת מכירה למניה.",
+    "summary_he": "הפוסט מציג אסטרטגיית מסחר המבוססת על ניצול התנודתיות בשוק ההון בעקבות פרסומיו של דונלד טראמפ ברשתות החברתיות. הכותב מדגיש את החשיבות של תגובה מהירה, זיהוי השפעות על נכסים כמו נפט ומניות ספציפיות, ושימוש בכלים טכנולוגיים לקבלת התראות בזמן אמת לטובת מסחר יומי קצר טווח ורווחי.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט ודעות שונות שהועלו על ידי הקהילה:\n\n*   **חוסר היכולת לתזמן את השוק:** קיימת הסכמה כי לא ניתן לחזות במדויק מתי מניה מגיעה ל\"תחתית\" (bottom), ולכן הניסיון לתזמן את נקודת הכניסה המושלמת הוא פחות רלוונטי מהאסטרטגיה הכללית.\n*   **התמקדות בניהול סיכונים:** במקום לנסות לנחש מחירים, המשקיעים צריכים להתמקד בניהול סיכונים מושכל, כאשר הקצאת אחוז מסוים מהתיק לכל נכס היא המפתח לשמירה על יציבות.\n*   **אופטימיות לגבי מיקרוסופט (MSFT):** קיימת עמדה הגורסת כי היסודות הכלכליים (fundamentals) של החברה חזקים מאוד, וכי בטווח הרחוק מחיר המניה צפוי לעלות ולהתאים את עצמו לביצועים הטובים של החברה.\n*   **אסטרטגיית הקצאה ואופק זמן:** הוצעה גישה ספציפית להשקעה במניית טכנולוגיה גדולה (כמו MSFT) הכוללת הקצאה של כ-10% מהתיק עם אופק השקעה של שנתיים עד שלוש שנים.\n*   **חוסר רלוונטיות בהשוואות מסוימות:** אחת התגובות מדגישה כי לעיתים ההשוואה בין אפיקי השקעה או נכסים שונים אינה נכונה מיסודה, שכן מדובר ב\"עולמות שונים לחלוטין\" (different ballparks) שלא ניתן להקביל ביניהם.\n*   **יתרונות האוטומציה וניצול הטבות מס:** הועלה יתרון משמעותי לשימוש בפלטפורמות השקעה אוטומטיות (כמו Wealthfront). נטען כי מנגנונים של \"קצירת הפסדי מס\" (Tax Loss Harvesting) שמבוצעים באופן אוטומטי מייצרים רווח שמתעלה על דמי הניהול של הפלטפורמה, במיוחד כאשר התיק מוגדר ברמת סיכון מקסימלית וכולל קרנות סל רחבות (כמו VTI ו-VEA).",
-    "dateString": "2026-06-14",
-    "savedAt": {
-      "_seconds": 1781428523,
-      "_nanoseconds": 845000000
-    }
-  },
-  {
-    "id": "1u3vdwf",
-    "title": "IGV just hit its longest losing streak since 2001. This software dump makes absolutely zero sense considering what we know as of today.",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1u3vdwf/igv_just_hit_its_longest_losing_streak_since_2001/",
-    "author": "-----Marcel-----",
-    "score": 12,
-    "selftext": "The software sector is bleeding out in a way we literally haven't seen in 25 years. The IGV software ETF just booked an 8-day straight losing streak. Its longest since its inception back in 2001. Wiping out nearly 20% from its peak in just over a week. This isn't a normal market correction or a healthy re-rating. This is an aggressive, programmatic liquidity flush that has completely detached from how these businesses are actually performing. \n\nI mean just look at mega-caps like Microsoft and Meta. They are trading like highly volatile meme coins right now, shedding almost 20% of their market caps in under two weeks on absolutely zero bad news. It makes zero sense, and it shows how broken the current market mechanics are. \n\nWhen you actually look at the actual data you can quite easily find out that the main bear arguments fall apart by looking at the actual filings for majority of these SaaS companies. \n\n1. The \"AI is going to kill SaaS\" bear case is flatlining in the data\n\nFor the past year, the biggest bear argument has been that generative AI, custom models, and autonomous software agents will destroy traditional seat-based software and trash vendor margins.\n\nThe problem? That theory isn't showing up anywhere in the earnings reports.\n\n* **The Organic Growth Reality:** Organic growth hasn't disappeared. Top software companies are still holding Net Revenue Retention (NRR) rates between 110% and 118%+. If your NRR is over 110%, it means your existing enterprise customers are spending more money with you year-over-year, before you even add a single new customer logo.\n\n\n\n* **AI is Making Deals Bigger:** AI is actually acting as an expansion tool, not a killer. Companies aren't mass-canceling their enterprise software; they're paying premiums to get native AI features, custom workflow add-ons, and new automated modules integrated into what they already use.\n\n\n\n* **The Valuation Disconnect:** Just three weeks ago, software finally started to bottom out after a brutal 10-month lag behind the rest of tech. We saw beaten-down names rip 30% to 50% in a couple of weeks, which made complete sense given their strong top-line growth, steady churn, and solid operating margins. Now, that entire fundamental floor has been wiped out in days for absolutely no operational reason.\n\n# 2. Software has become the market's ultimate liquidity ATM\n\nThe price action this past week shows how broken the fund flows are. Software is seeing massive distribution volume even on green-candle, net-buyer tape. It's basically being treated as a cash donor pool for everything else.\n\n* **Downside Amplification:** When the Nasdaq pulled back a standard 7% and the S&P 500 dipped 5% this past week, high-quality software names didn't just follow. They got absolutely assassinated for 20% to 30% drawdowns even after having had massive drawdowns whilst overvalued tech that had already gone up 100-200% this year dropped a laughable 15-20% in the same time period\n\n\n\n* **The Disconnect in Action:** The absolute absurdity of this was on full display yesterday. After the news hit that Trump canceled the planned airstrikes, the indices staged a massive 1.5% to 3.5% risk-on rally. Semiconductors logged their best day since April 2025. Meanwhile, the software basket finished red, above their lows but meaningfully underperfoming a rally of such magnitude. When the market panics, software crashes. When the market rips, software gets left behind. This all doesn't make any sense. It has been become very clear that fundamentals mean less and less for each year now. Most stocks seem to be just about hype, momentum and narrative. There can be companies delivering earnings that disprove the bear cases people have that still get punished ridiculously by Wall Street and retail investors. The average person in the stock market has little knowledge and many buy on hype and momentum. Which makes it impossible for a hated sector like the SaaS names to get any respectfull price action.\n\n\n\n* **Where the Cash is Flying:** Capital isn't leaving tech because the sector is broken. It's being forcefully dragged out of highly profitable, cash-flowing software names to fund crowded momentum trades elsewhere. Institutional desks are aggressively raising cash for massive block allocations. Like the heavily oversubscribed SpaceX IPO or just chasing the semiconductor train. Software is literally the ATM funding the rest of tech right now. Its genuinley mind blowing how illogical and irrational this is by the market. You can hardly find a more irrational period for a single sector in the past few decades.\n\n# 3. Hype vs. Hard Free Cash Flow (FCF)\n\nFor the past two years, the market has completely thrown out fundamental analysis to chase raw momentum and hype narratives.\n\n|**Metric**|**Premium \"AI Bottleneck\" Hype Stocks**|**Liquidated Public SaaS Basket**|\n|:-|:-|:-|\n|**Valuation Multiples**|Priced for perfection; factoring in a flawless decade of execution.|Compressed down to historical multi-year lows.|\n|**Profitability & FCF**|Unprofitable or razor-thin margins; incredibly capital-intensive.|Massive FCF yields and pristine 70-80% gross margins.|\n|**Growth Profiles**|Driven by non-recurring hardware infrastructure buildouts.|High-visibility, highly predictable recurring subscription revenue.|\n\nThe market is aggressively punishing software companies that are delivering accelerating top-line growth at their fastest sequential pace in years, while simultaneously rewarding speculative infrastructure plays that lack any structural moat or recurring free cash flow visibility. A lot of these hype growth companies are receving valuation premiums that won't reflect in the actual business before in 3-5 years time. Companies with little growth or practically no revenue getting multi ten billion dollar market caps because some influencer call and preaches about it being a \"bottleneck\".\n\n# 4. The brutal toll of the opportunity cost\n\nFor long-term investors holding high-conviction software portfolios, this environment has introduced a painful amount of opportunity cost. Buying the dip over the past 8 months has repeatedly dried up my capital, because algorithmic selling just keeps digging new floors. There has been so many rounds of \"SaaS apocalypse\" and so many dips in the past half a yeat that it is starting to become laughable. It sinks and sinks lower. Companies that used to get premium valuations now trading at 8-12x forward earnings for the upcoming year. It doesn't matter if they triple beat, raise or beat on every single metric. They still collapse 10-20% after earnings. I mean what can the average person even ask for anymore. Maybe I should just buy overvalued tech companies with no justification for their current values and become rich. The amount of shitcos that have probably retired people on pure memes is mind blowing. \n\nIt is incredibly draining to watch highly profitable business models with clean balance sheets get obliterated day after day while speculative momentum names run completely unchecked. But history has proven that the market cannot remain completely detached from corporate cash flows forever.\n\n# The sentiment is just too broken to last\n\nWhen a sector becomes this universally hated. Where a company can post a flawless, triple-beat quarter and still catch an automatic 4% selloff. It signals close to some sort of peak capitulation. The volume the Igv software index and these individual names have received for the past six months has to be getting close to some kind of bottom. The volume has been 3-5x the average monthly volume than all of the years and decades before.\n\nEnterprise software is in my opinion currently the most fundamentally mispriced asset class of the decade. For those holding long-term allocations in businesses with real net expansion, strong competitive moats, and structural cash flows, the actual business thesis hasn't changed. The market is currently being driven entirely by narrative and short-term liquidity constraints. But eventually, the math should win. This seems to be a fitting quote for the current situation. \"In the short run, the market is a voting machine but in the long run, it is a weighing machine.\" - **Benjamin Graham**\n\nWhat are your general thoughts regarding this topic? Are you completely stepping away from the software dip, or are you continuing to accumulate these heavily compressed cash flows despite the absolutely broken tape? I will keep adding to and averaging down on some of these software companies that I mean are undervalued and quite cheap frankly.",
-    "subreddit": "StockMarket",
-    "created_utc": 1781271114,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Next time you post something like this ask your LLM to condense the text. ",
-        "score": 13,
-        "author": "pielekonter"
-      },
-      {
-        "body": "I agree with you, but this is not the time for rational and objective analysis. The market just rejected a drawdown closing in on a correction based on a single unsubstantiated tweet. It's the 38th time that a tweet pumps stock within these last two months.",
-        "score": 12,
-        "author": "PenguinOfB00m"
-      },
-      {
-        "body": "It literally took me two hours to write this out and double check the numbers. I get why people immediately scream \"AI\" just because the format looks clean, but this is just me being frustrated and actually doing the homework.\n\nIf you think I’m lying about it, go look at my comment history. I’ve been debating SaaS numbers and software metrics on here for months. I can link every single source if you want. Let's talk about the actual numbers instead of trying to downplay the due diligence.",
-        "score": 11,
-        "author": "-----Marcel-----"
-      }
-    ],
-    "summary_he": "מגזר התוכנה (מדד ה-IGV) חווה את רצף ההפסדים הארוך ביותר שלו מאז שנת 2001, ירידה שלטענת הכותב מנותקת לחלוטין מהביצועים הפיננסיים החזקים של החברות ומנתוני הצמיחה בשטח. הפוסט טוען כי השוק משתמש במניות ה-SaaS כ\"כספומט\" להוצאת נזילות לטובת טרנדים אחרים, וכי למרות החששות מבינה מלאכותית, מדובר בהזדמנות השקעה נדירה הנובעת מעיוות תמחור קיצוני וחוסר רציונליות של המשקיעים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בשרשור המבוסס על התגובות שפורסמו, המציג 6 נקודות מבט ורגשות קהילתיים שונים:\n\n* **ביקורת על אורך הטקסט:** אחד המגיבים מביע חוסר סבלנות כלפי אורך הפוסט המקורי ומציע לכותב להשתמש בכלי בינה מלאכותית (LLM) כדי לתמצת את דבריו בפעם הבאה, מה שמעיד על העדפת הקהילה למידע מרוכז וקריא.\n* **ספקנות לגבי רציונליות השוק:** קיימת תחושה שהשוק הנוכחי אינו פועל לפי ניתוחים אובייקטיביים. גם כשמסכימים עם הנתונים, עולה הטענה שהשוק מגיב בקיצוניות לציוצים חסרי ביסוס ולא לניתוחים כלכליים מעמיקים.\n* **תסכול ממניפולציות ברשתות החברתיות:** הקהילה מצביעה על תופעה חוזרת שבה ציוץ בודד מצליח \"להקפיץ\" מניות ולמנוע תיקון בשוק, דבר שקרה עשרות פעמים בתקופה האחרונה ומערער את האמון בניתוח פונדמנטלי.\n* **האשמות בשימוש בבינה מלאכותית (AI):** ניכרת תופעה בקהילה שבה כל פוסט שנראה מאורגן ו\"נקי\" מדי מעורר חשד מיידי כי נכתב על ידי בוט, מה שמאלץ כותבים להצדיק את סגנון הכתיבה שלהם.\n* **הגנה על \"עבודת רגליים\" ומחקר עצמאי:** כותב הפוסט מדגיש את המאמץ המושקע בבדיקת המספרים והנתונים (במיוחד בתחום ה-SaaS), וטוען שעיצוב נקי הוא תוצאה של עבודה קשה ודקדקנות ולא של ייצור תוכן אוטומטי.\n* **קריאה לדיון מבוסס נתונים:** עולה דרישה להפסיק להתמקד ב\"איך\" הפוסט נכתב ולעבור לדיון מהותי בנתונים ובמקורות עצמם, תוך הסתמכות על היסטוריה של דיונים מקצועיים קודמים בקהילה.",
-    "dateString": "2026-06-14",
-    "savedAt": {
-      "_seconds": 1781428539,
-      "_nanoseconds": 561000000
-    }
-  },
-  {
-    "id": "1u480sx",
-    "title": "Anyone with 529 to Roth rollovers?",
-    "url": "https://www.reddit.com/r/investing/comments/1u480sx/anyone_with_529_to_roth_rollovers/",
-    "author": "Outside-Prune3611",
-    "score": 10,
-    "selftext": "There’s a grey area since the IRS hasn’t issued official guidance, so nobody actually can know the answer, but here’s my situation.\n\nI split my daughters 529, which has been open for 17 years, into 3 accounts. One for me, the wifey and the daughter with about $150k in each. I split them so I can roll over a total of $105k tax free. $35k per person into those respective accounts.\n\nThe IRS text is hard to interpret. Technically, it reads that the account needs to be open for at least 15 years. If that’s the case, my daughter is even ineligible after 17 years since we closed the old account it was started in when we rolled it over to a Schwab 529. So, same beneficiary, same money, but technically new account.\n\nHowever, if we assume, since IRS hasn’t said yay or nay yet, that since the original account is what fed the new account and new beneficiary accounts, we may rollover all three now.\n\nIt’s risky, so my question for those with more knowledge on the subject is this. If I roll over all three accounts next January, how likely am I to go under the radar without a request for more documentation, etc?\n\nI know somebody has already done it and has a practical answer, but I haven’t found them. I’ve only found CFPs and CPAs that can’t answer this yet.\n\nI wanted to post the IRS text, but I can’t add a pic to the post.",
-    "subreddit": "investing",
-    "created_utc": 1781299257,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Yes, it's been well defined. You leapt a bit beyond the provisions, unfortunately. \n\nPutting the daughter as the owner of her own 529 precludes that account from rolling over to her Roth IRA. Whose account has who as the beneficiary? \n\nYes, the clocks restarted, as well. And the \"not newer than 5 years\" limit includes earnings. \n\n\"$35k per person into those respective accounts.\"\n\nDid you mean, each of you gets $35,000 into your own Roth IRA? Or gives? \n\nThere is not $35,000 per \"donor.\" It's per receiving Roth IRA account owner who is the 529 beneficiary. .\n\nThe entire provision is an alternative way to fund a Roth IRA each year, so Roth IRA requirements apply. As noted, the $35,000 is the max to the one Roth IRA, or 5 years of Roth IRA contribution equivalent functionally. The Roth IRA owner has to be eligible via earned income (job income) rules. There is no income limitation, but this uses the contribution space and is not technically a rollover.\n\nHere:\n\n\nhttps://www.whitecoatinvestor.com/the-529-to-roth-ira-rollover/\n",
-        "score": 12,
-        "author": "Here4Snow"
-      },
-      {
-        "body": "I would imagine in your situation, the clock restarted when you rolled it into a new account at a new provider. \n",
-        "score": 9,
-        "author": "brergnat"
-      },
-      {
-        "body": "The language on the IRS site specifically says \"\nThe rollover must be from a section 529 account that has been open for more than 15 years.\".",
-        "score": 5,
-        "author": "Alexander_HamilDong"
-      }
-    ],
-    "summary_he": "הנה סיכום של הפוסט:\n\nכותב הפוסט מעוניין להעביר כספים מחשבון חיסכון ללימודים (529) לקרנות פנסיה (Roth IRA) עבורו ועבור בני משפחתו, תוך ניצול פרצה אפשרית בחוק המאפשרת העברה פטורה ממס של עד 105 אלף דולר בסך הכל. הוא מתלבט האם פיצול החשבון המקורי לשלושה חשבונות חדשים מאפס את תקופת הוותק הנדרשת (15 שנה), ושואל לגבי הסיכון הכרוך בביצוע המהלך לפני שפורסמו הנחיות רשמיות ומפורטות מה-IRS.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit בנושא גלגול כספים מחשבון חיסכון ללימודים (529) לחשבון פנסיוני (Roth IRA), המפרט 6 נקודות מרכזיות ורגשות קהילתיים:\n\n*   **סוגיית הבעלות על החשבון:** הודגש כי אם המוטבת (הבת) היא גם הבעלים הרשמי של חשבון ה-529, הדבר עלול למנוע מבחינה טכנית את האפשרות לבצע גלגול של הכספים לחשבון ה-Roth IRA שלה. הגדרת היחסים בין בעל החשבון למוטב היא קריטית לביצוע התהליך.\n*   **חשיבות תקופת הוותק (כלל 15 השנים):** הקהילה מציינת כי לפי תקנות ה-IRS, חשבון ה-529 חייב להיות פתוח לפחות 15 שנים לפני שניתן יהיה להעביר ממנו כספים ל-Roth IRA. זהו תנאי סף הכרחי שמופיע במפורש בלשון החוק.\n*   **סכנת \"איפוס השעון\":** קיימת אזהרה משמעותית לכך שהעברת הכספים לספק חדש או פתיחת חשבון חדש עלולים לאפס את ספירת 15 השנים הנדרשות. כל שינוי מבני בחשבון עלול לדחות את היכולת להשתמש בהטבת הגלגול.\n*   **הבהרה לגבי מגבלת ה-35,000 דולר:** המשתתפים מבהירים כי תקרת ה-35,000 דולר (לכל החיים) חלה על **בעל חשבון ה-Roth IRA (המוטב)** ולא על התורם. כלומר, המגבלה היא לפי מי שמקבל את הכסף לחשבון הפנסיוני שלו.\n*   **דרישת הכנסה מעבודה (Earned Income):** למרות שמדובר בגלגול כספים מחשבון קיים, חלים עליו חוקי ה-Roth IRA הרגילים. המוטב חייב להראות הכנסה מעבודה באותה שנה כדי להיות זכאי להעברה, והסכום המועבר לא יכול לעלות על תקרת ההפקדה השנתית המותרת.\n*   **מגבלת 5 השנים על רווחים והפקדות:** צוין כי כספים (כולל רווחים שנצברו עליהם) שהופקדו בחשבון ה-529 ב-5 השנים האחרונות אינם ניתנים לגלגול ל-Roth IRA; רק כספים \"וותיקים\" יותר בחשבון זכאים לכך."
-  },
-  {
-    "id": "1u3t9qt",
-    "title": "NBIS got included in the Nasdaq-100. Bullish flow picked up 2 days prior.",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1u3t9qt/nbis_got_included_in_the_nasdaq100_bullish_flow/",
-    "author": "Smart_Money_HQ",
-    "score": 9,
-    "selftext": "Bullish options flow picked up on the 10th ahead of Nebius Group being added to the Nasdaq-100 with about $11 million in call premium. \n\nYesterday we saw another $8.8 million in call premium.\n\nLooks institutions were positioning around this. \n\nHolding NBIS long positions. ",
-    "subreddit": "StockMarket",
-    "created_utc": 1781265647,
-    "thumbnail": "https://preview.redd.it/je3jxobwbu6h1.png?width=140&height=140&auto=webp&s=13e4818d92ccbd8f2859bb1e1dd77310b857b16b",
-    "top_comments": [
-      {
-        "body": "SOXX was hit by about  $32 million in call premium on the 9th; up 10% since",
-        "score": 1,
-        "author": "Smart_Money_HQ"
-      },
-      {
-        "body": "Every tech was bullish in the past 2 days. Looked like institutions picked up on that also. ",
-        "score": 1,
-        "author": "MrUsername0"
-      }
-    ],
-    "summary_he": "מניית Nebius Group (סימול: NBIS) נוספה למדד הנאסד\"ק 100, מה שהוביל לפעילות \"שורית\" חריגה ורכישת אופציות רכש (Call) בשווי מיליוני דולרים בימים האחרונים. נראה כי גופים מוסדיים נערכו למהלך מראש, והכותב מציין כי הוא מחזיק בפוזיציית לונג על המניה עקב המגמה החיובית.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובות ב-Reddit בנוגע למצב שוק הטכנולוגיה ומדד השבבים:\n\n*   **פעילות חריגה באופציות על SOXX:** צוינה כניסה מאסיבית של כספים לאופציות רכש (Call Options) על מדד השבבים (SOXX), בסכום המוערך בכ-32 מיליון דולר בפרמיות ב-9 לחודש.\n*   **זינוק משמעותי במדד השבבים:** מאז אותה פעילות חריגה באופציות בתשיעי לחודש, מדד ה-SOXX רשם עלייה מרשימה של כ-10% בערכו.\n*   **סנטימנט שורי (Bullish) רוחבי:** קיימת הסכמה שבמהלך היומיים האחרונים, כל מגזר הטכנולוגיה הפגין עוצמה ומגמה חיובית מובהקת.\n*   **מעורבות של משקיעים מוסדיים:** נראה כי העליות אינן נובעות רק ממשקיעים קטנים, אלא שגופים מוסדיים גדולים זיהו את המגמה והחלו \"לאסוף\" מניות טכנולוגיה.\n*   **הקשר בין נגזרים לתנועת מחיר:** התגובות מדגישות את המתאם בין רכישת פרמיות גבוהות באופציות לבין הזינוק המיידי במחיר הנכס שבא לאחר מכן.\n*   **אופטימיות לגבי המשך המומנטום:** השילוב בין כניסת כסף מוסדי לבין העליות החדות במגזר השבבים והטכנולוגיה מעיד על תחושת ביטחון בקרב הקהילה לגבי חוזק השוק בטווח הקצר.",
-    "dateString": "2026-06-14",
-    "savedAt": {
-      "_seconds": 1781428551,
-      "_nanoseconds": 885000000
-    }
-  },
-  {
-    "id": "1u3rgcl",
-    "title": "Roth IRA Allocation at 18 - Part 2: Revised portfolio After Feedback",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1u3rgcl/roth_ira_allocation_at_18_part_2_revised/",
-    "author": "Savings_Industry_405",
-    "score": 3,
-    "selftext": "I posted earlier in the week and got told my Roth had too much overlap, too many individual stocks, and not enough international.\n\nI’m 18 and putting in $144/week, basically maxing it. Time horizon is 40+ years and I’m fine with volatility, but I don’t want to just chase random hype.\n\nNew allocation:\n\nVOO - 55%  \nVXUS - 20%  \nAVUV - 15%  \nSOXQ - 5%  \nVGT - 5%\n\nI dropped the individual stocks and lowered the tech tilt. I still wanted some semiconductor exposure because I think chips are important long term, but I capped SOXQ at 5% so it doesn’t take over the portfolio.\n\nMain questions:\n\nIs 5% SOXQ + 5% VGT too much overlap?\n\nIs 20% VXUS enough international?\n\nIs 15% AVUV too much for small-cap value?\n\nWould you keep this or simplify it more?\n\nLooking for honest criticism.",
-    "subreddit": "StockMarket",
-    "created_utc": 1781259983,
-    "thumbnail": "https://preview.redd.it/ww7vueegwt6h1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=3fd59271a4605dc18875b4a189425325b2edcc60",
-    "top_comments": [
-      {
-        "body": "100% VT and chill. This is way too complicated ",
-        "score": 7,
-        "author": "Salt_Data3707"
-      },
-      {
-        "body": "Why does an 18 year old need dividends? ",
-        "score": 2,
-        "author": "Salt_Data3707"
-      },
-      {
-        "body": ">Is 5% SOXQ + 5% VGT too much overlap?\n\n[https://www.etfrc.com/funds/overlap.php](https://www.etfrc.com/funds/overlap.php)\n\n>Is 15% AVUV too much for small-cap value?\n\nI hold 5% AVUV myself, but I have a lot of other satellite tilts for the US beyond my 50-55% US core.\n\n>Is 20% VXUS enough international?\n\nI target 25% exUS. If you look at VT for market-weight, US:exUS is currently about 59:41 - [https://etfdb.com/etf/VT/#charts](https://etfdb.com/etf/VT/#charts)",
-        "score": 1,
-        "author": "fozzy71"
-      }
-    ],
-    "summary_he": "הפוסט מציג תיק השקעות מעודכן של צעיר בן 18, המבוסס על מדד S&P 500 (VOO) בשילוב חשיפה בינלאומית (VXUS) ומניות ערך קטנות (AVUV). המשתמש צמצם את החשיפה למניות בודדות ולמגזר הטכנולוגיה לטובת פיזור רחב יותר, וכעת הוא מבקש משוב על כפילויות פוטנציאליות ועל איזון ההקצאות לטווח ארוך.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ותובנות שונות של הקהילה:\n\n*   **העדפת פשטות (גישת ה-\"VT and Chill\"):** קיימת עמדה חזקה שדוגלת בפישוט מקסימלי של תיק ההשקעות. הטענה היא שהתיק המוצע מורכב מדי ללא לצורך, ועדיף להשקיע בקרן עולמית אחת (כמו VT) המכסה את כל השוק ו\"לישון בשקט\".\n*   **ספקנות לגבי אסטרטגיית דיבידנדים לצעירים:** עולה תהייה לגבי הרלוונטיות של השקעה ממוקדת דיבידנדים עבור משקיע בן 18. הסנטימנט הוא שבגיל כזה, המיקוד צריך להיות ככל הנראה בצמיחה ולא בתזרים מזומנים מדיבידנדים.\n*   **בחינת חפיפה בין קרנות (Overlap):** הקהילה מדגישה את החשיבות של בדיקת כפילויות בין קרנות סל דומות (כמו SOXQ ו-VGT). שימוש בכלים טכנולוגיים להשוואת קרנות הוא חיוני כדי להימנע מחשיפת יתר לאותן מניות בדיוק תחת שמות שונים.\n*   **מחלוקת על שיעור החשיפה הבינלאומית:** קיים דיון סביב השאלה האם חשיפה של 20% לשוק שמחוץ לארה\"ב (VXUS) היא מספקת. חלק מהמגיבים מציעים להעלות את הרף ל-25% או אף להיצמד למשקל השוק העולמי הריאלי, שעומד כיום על כ-41% מחוץ לארה\"ב.\n*   **מינון הטיה למניות ערך קטנות (Small-cap Value):** הדיון נוגע בשאלה האם הקצאה של 15% לקרן כמו AVUV היא אגרסיבית מדי. יש המציעים שחשיפה של 5% היא \"לוויין\" מספק לתיק, במיוחד כשיש הטיות נוספות בשוק האמריקאי.\n*   **אסטרטגיית \"ליבה ולוויין\":** התגובות משקפות גישה של בניית תיק המבוסס על ליבה רחבה (Core) של השוק האמריקאי (סביב 50-55%), תוך הוספת \"הטיות\" (Tilts) ספציפיות במינונים נמוכים יותר כדי לנסות להשיג תשואה עודפת.",
-    "dateString": "2026-06-14",
-    "savedAt": {
-      "_seconds": 1781428567,
-      "_nanoseconds": 315000000
-    }
-  },
-  {
-    "id": "1u4orlr",
-    "title": "AI capex cycle widget with fed rate probabilities",
-    "url": "https://www.reddit.com/r/finance/comments/1u4orlr/ai_capex_cycle_widget_with_fed_rate_probabilities/",
-    "author": "Cheap-Character613",
-    "score": 1,
-    "selftext": "So i did a widget in claude trying to dissect the different expectations after the coming fed meeting, considering the high inflation numbers, ppi and expectations from this week there is a good chance that hawkish tones dominate the meeting next week. How will the capex cycle be affected? I would like your inputs on whats reasonable in regards to the different variables and the underlying assumptions. Appreciate any feedback!\n\n[https://claude.ai/public/artifacts/87ef4253-4b59-499e-bff5-213d56c65895](https://claude.ai/public/artifacts/87ef4253-4b59-499e-bff5-213d56c65895) ",
-    "subreddit": "finance",
-    "created_utc": 1781350930,
-    "thumbnail": "https://external-preview.redd.it/MkKRcnMORRu5PI7Mj9unaPzD4ng7aqSOt_2YW9zp6NQ.png?width=140&height=78&auto=webp&s=bead612e82163d6568666a63a14f3c0a18d65234",
-    "top_comments": [],
-    "summary_he": "הפוסט מציג יישומון (widget) שנוצר באמצעות Claude, המנתח את הקשר בין החלטות הריבית של הפדרל ריזרב לבין מחזור ההשקעות (capex) בתחום ה-AI. הכותב מעריך כי נתוני האינפלציה הגבוהים יובילו לגישה \"נצית\" (hawkish) מצד הפד, ומבקש משוב מהקהילה לגבי ההנחות והמשתנים העומדים בבסיס המודל שבנה.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-06-14",
-    "savedAt": {
-      "_seconds": 1781428578,
-      "_nanoseconds": 737000000
-    }
-  },
-  {
-    "id": "1u4cba7",
-    "title": "The Catastrophic Failure of 2008 Shows Where Kevin Warsh Should Start",
-    "url": "https://www.reddit.com/r/finance/comments/1u4cba7/the_catastrophic_failure_of_2008_shows_where/",
-    "author": "HooverInstitution",
-    "score": 1,
-    "selftext": "Hoover Senior Fellows John H. Cochrane and Amit Seru argue in this op-ed at *The Washington Post* that reforming financial regulations should be high on the list of priorities for recently confirmed Fed Chair Kevin Warsh. “The US financial regulatory regime failed catastrophically in 2008,” the authors write. But in their view, the post-crisis reforms, including “the Dodd-Frank law and the Fed’s subsidiary regulation,” only extended the pre-crisis approach of “managing asset riskiness.” The authors also trace how the 2023 collapse of Silicon Valley Bank “was fueled by earlier Fed errors.” Today, Seru and Cochrane conclude, “Warsh need not reform the big banks. . . . He should focus on simple truths: A crisis is a run and only a run is a crisis. Somebody losing money on a risky investment is not a crisis.”  ",
-    "subreddit": "finance",
-    "created_utc": 1781310246,
-    "thumbnail": "https://external-preview.redd.it/igAXZkjYxtE50WaxFXNZ6mcVUkTJsvO7CRrlccanGc4.jpeg?width=140&height=93&auto=webp&s=7371a44882ea359eea9a3d17e0edd6c1dd414434",
-    "top_comments": [],
-    "summary_he": "המאמר טוען כי הרגולציה הפיננסית בארה\"ב כשלה בתיקון הליקויים שהובילו למשבר 2008, וכי הרפורמות המאוחרות יותר רק העמיקו את הגישה השגויה של ניהול סיכונים כושל. המחברים ממליצים ליו\"ר הפדרל ריזרב החדש, קווין וורש, להתמקד במניעת משברי נזילות (\"ריצה אל הבנק\") במקום לנסות למנוע הפסדים מהשקעות מסוכנות, שאינם מהווים משבר כשלעצמם.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-06-13",
-    "savedAt": {
-      "_seconds": 1781342810,
-      "_nanoseconds": 503000000
-    }
-  },
-  {
-    "id": "1u5efaz",
-    "title": "VWCE vs. Invesco vs. SPDR: An objective analysis of hidden risks and fees (Is the \"King\" losing its crown?)",
-    "url": "https://www.reddit.com/r/investing/comments/1u5efaz/vwce_vs_invesco_vs_spdr_an_objective_analysis_of/",
-    "author": "Ok_Cheek_7443",
-    "score": 1,
-    "selftext": "Hi everyone,  \nI wanted to bring up a topic that often gets completely glossed over because of the popular \"VWCE and Chill\" cliché. I did a deep dive into the three main All-World ETFs available in Europe and looked at their actual drawbacks. We often focus strictly on the TER, but there are other critical factors worth worrying about, such as regulatory changes, replication methods, and underlying structural risks.\n\nHere are the hard facts regarding these three funds:  \n1. Vanguard FTSE All-World (VWCE) | TER: 0.19%  \n **Con 1 (Price):** It is now objectively the most expensive index fund in its class on the market.  \n **Con 2 (Regulatory / ESG Risk):** Vanguard has notoriously poor corporate responsibility scores. They famously left the Net Zero asset managers alliance and frequently vote against environmental resolutions to maximize short-term financial returns. Given the tightening regulations in the EU and Germany, this carries a long-term risk of regulatory penalties or even the potential removal of tax advantages (like the *Teilfreistellung* in Germany) for non-ESG-compliant funds.  \n **Pro:** Full physical replication of nearly 3,800 companies. Maximum diversification and unmatched track record.\n\n2. Invesco FTSE All-World (IE000716YHJ7) | TER: 0.15%  \n **Pro:** A direct competitor tracking the exact same index, but noticeably cheaper. It also boasts better alignment with adapting European ESG frameworks.  \n **Con 1 (Technical Risk):** It uses \"optimized sampling\" rather than full replication (holding only around 2,000 to 2,300 companies instead of all 3,800). This introduces a software/model risk where the quantitative matrix might fail to track the market accurately during a severe crisis (Tracking Error).  \n **Con 2 (Credit Risk):** To subsidize its lower 0.15% fee, Invesco engages more aggressively in securities lending to third parties, which exposes your capital to counterparty risk if a borrowing institution suddenly defaults.\n\n3. SPDR MSCI ACWI (IE00B44Z5B48) | TER: 0.12%  \n **Pro:** On paper, it is the cheapest all-world product available to European retail investors.  \n **Con 1 (Diversification):** It completely excludes Small Caps, holding just over 2,200 large and mid-cap corporations. By entirely missing out on small-cap value, you sacrifice a major historical driver of long-term economic growth.  \n **Con 2 (Internal Inefficiency):** Its historical Tracking Difference shows that the fund underperforms its actual index (MSCI ACWI) by an average of about 0.16%. In practice, this structural drag completely eats up the cost advantage of its low 0.12% TER.\n\nWhat is the consensus, and what is the best move?  \nLooking through various investment forums, the European investing community seems to be splitting into two distinct camps:  \n1. **The Math Camp (Pro-Invesco 0.15%):** Investors optimizing their portfolios down to the last cent are increasingly switching to Invesco. They argue that the sampling risk is negligible compared to the guaranteed mathematical savings over a 30-year horizon, especially for portfolios exceeding €100,000. They also view Invesco as a more regulatory-resilient asset manager within the EU framework.  \n2. **The Purist Camp (Pro-Vanguard/VWCE 0.19%):** Conservative investors maintain that Vanguard’s premium price is entirely justified. You are buying a \"clean\" product with minimal securities lending and true ownership of nearly 3,800 global stocks. To them, ESG scores are mostly political noise that will not impact Vanguard’s ultimate ability to generate pure market returns.  \nWhat do you think? Does VWCE still remain the safest and most reliable choice for the long run?  \n*(Note: Analysis assisted by AI)*",
-    "subreddit": "investing",
-    "created_utc": 1781421293,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I think some of this is over-engineering a very simple decision. The difference between 0.12, 0.15 and 0.19 TER matters, but not nearly as much as sticking with the plan for 30 years and not fund-hopping every time a slightly cheaper wrapper appears",
-        "score": 1,
-        "author": "RevolutionaryHike"
-      },
-      {
-        "body": "Dont use ter to compare. Use the tracking error and tracking difference. There are more costs and efficiencies then the taler shows. ",
-        "score": 1,
-        "author": "Philip3197"
-      },
-      {
-        "body": "Agree. Well, in some European markets there’s a FIFO rule where when you start selling at some point in the future the shares you bought earliest get liquidated first. So apparently some people buy ETF A for X years and then switch to basically identical ETF B for the next X years. You then start selling B first and let A run for longer. But other than that, totally agree with what you wrote. ",
-        "score": 1,
-        "author": "gigio123456789"
-      }
-    ],
-    "summary_he": "הפוסט מנתח את היתרונות והחסרונות של שלוש קרנות סל עולמיות מובילות (VWCE, Invesco, ו-SPDR), תוך השוואת דמי הניהול, שיטות השכפול והסיכונים הרגולטוריים שלהן. בעוד ש-VWCE נחשבת ליקרה ביותר אך המגוונת והבטוחה ביותר, החלופות מציעות עלויות נמוכות יותר שמתקזזות עם סיכונים טכניים או היעדר חשיפה למניות קטנות. לסיכום, הקהילה נחלקת בין משקיעים המעדיפים אופטימיזציה של עלויות לבין אלו שמוכנים לשלם פרמיה עבור הפיזור המקסימלי והמוניטין של חברת ונגארד.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מרכזיות המבטאות את דעות חברי הקהילה:\n\n*   **חשיבות ההתמדה על פני אופטימיזציה מוגזמת:** הנקודה המרכזית היא שדבקות בתוכנית השקעה לאורך זמן (למשל 30 שנה) קריטית הרבה יותר מאשר ניסיון לרדוף אחרי קרנות עם דמי ניהול (TER) זולים בשברי אחוזים.\n*   **הימנעות מ\"הנדסת יתר\" (Over-engineering):** ישנה נטייה בקרב משקיעים לסבך החלטות פשוטות. ההבדלים בין דמי ניהול של 0.12% ל-0.19% הם זניחים ביחס לנזק שעלול להיגרם ממעבר תדיר בין קרנות (Fund-hopping).\n*   **מגבלות מדד דמי הניהול (TER):** נטען כי אין להסתמך על ה-TER כמדד יחיד להשוואה בין קרנות, שכן הוא לא משקף את התמונה המלאה של עלויות ויעילות הקרן.\n*   **שימוש במדדי עקיבה כמדד איכות:** במקום להסתכל רק על דמי הניהול, מומלץ לבחון את \"טעות העקיבה\" (Tracking Error) ואת \"הפרש העקיבה\" (Tracking Difference), שחושפים עלויות נסתרות או יעילות תפעולית של הקרן מול המדד.\n*   **אסטרטגיית התמודדות עם חוקי FIFO:** בשווקים אירופיים מסוימים נהוג כלל ה-\"ראשון נכנס, ראשון יוצא\" (FIFO) בעת מכירה. משקיעים משתמשים בטקטיקה של החלפת קרן אחת באחרת (זהה לה) לאחר מספר שנים, כדי לשלוט בסדר מימוש המניות בעתיד.\n*   **דחיית מס וניהול נזילות:** הרעיון מאחורי רכישת קרן חדשה (קרן ב') לאחר תקופה מסוימת בקרן א', הוא לאפשר למניות הוותיקות ביותר (בקרן א') להמשיך לצבור ריבית דריבית לאורך זמן רב יותר, בעוד שבזמן המימוש מוכרים קודם את היחידות החדשות יותר בקרן ב'.",
-    "dateString": "2026-06-14",
-    "savedAt": {
-      "_seconds": 1781428596,
-      "_nanoseconds": 668000000
-    }
-  },
-  {
-    "id": "1u57kg7",
-    "title": "Market Cap by 2030 for AI infra playes ??",
-    "url": "https://www.reddit.com/r/investing/comments/1u57kg7/market_cap_by_2030_for_ai_infra_playes/",
-    "author": "Outrageous_Ad_7736",
-    "score": 1,
-    "selftext": "Every article I read nowdays state that AI infrastructure demand is very strong and is going to continue until 2030. There are also articles around Physical AI, still in fancy stage, and that will enter mainstream somewhere in 2028-2029 nad peak until 2035. \n\nI feel stocks like NVDA, MU, SNDK, NBIS all have had a good run but witht the demand commentry being fed all these should go way higher from here. \n\nAt this pace all these AI infra players in 5 years should be 25-30 trn Market cap.  Where is soo much capital gonna come from. Certain areas of the economy hav eto perform really bad for this work. \n\nI am confuse where to play for next 5 years.  \n\n\n  \n",
-    "subreddit": "investing",
-    "created_utc": 1781399802,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I agree the cost is going up... but that only mean that instead of frontier models people will move to use case specific models, Open source models. to bring the cost down. The industry wll move toward efficiecy. Therefore I always see that semicon space cannot be a large part of that growth. It has to pivot to software and products... ",
-        "score": 1,
-        "author": "Outrageous_Ad_7736"
-      },
-      {
-        "body": "The part you might be mixing up is market cap vs actual capital inflow. A company doesn’t need $5T of new money to add $5T in market cap. Prices are set at the margin. The real question is whether earnings and cash flow can grow enough to justify those valuations.",
-        "score": 1,
-        "author": "More_Temporary6697"
-      },
-      {
-        "body": "Forget about 2030, I think we'll find out if AI turns into a major boom or a bust within the next year or so. It's a useful tool, but whether it ultimately justifies the cost remains to be seen. \n\nThere's a lot of demand, but only because they've been throwing it out there as a loss leader up to this point, just to give people a taste. The real cost of running AI is enormous, and these companies are consequently starting to jack up their prices right now. Their customers will have to make tougher choices very soon. If they pay the higher prices, it will come at an expense to their bottom line (and probably headcount). If they decide not to pay, then the AI companies will suffer.",
-        "score": 1,
-        "author": "LillianWigglewater"
-      }
-    ],
-    "summary_he": "הכותב דן בביקוש הגבוה לתשתיות בינה מלאכותית הצפוי להימשך עד שנת 2030, ומצפה לעלייה משמעותית בערך המניות של חברות מובילות בתחום כמו NVIDIA ו-Micron. עם זאת, הוא מביע ספק לגבי מקורות המימון שיאפשרו לחברות אלו להגיע לשווי שוק כה עצום ותוהה באילו אפיקי השקעה כדאי להתמקד בחמש השנים הקרובות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות ב-Reddit, הכולל 6 נקודות מרכזיות:\n\n*   **מעבר למודלים יעילים וספציפיים:** קיימת הערכה כי העלייה בעלויות של מודלי שפה גדולים (Frontier models) תוביל את התעשייה להעדיף מודלים ממוקדים לשימושים ספציפיים ומודלים בקוד פתוח, במטרה להגביר את היעילות הכלכלית.\n*   **שינוי המוקד מחומרה לתוכנה:** נטען כי הצמיחה המשמעותית בתחום לא תוכל להישען לאורך זמן על מגזר המוליכים למחצה (שבבים) לבדו, והתעשייה תצטרך לבצע תפנית לעבר פיתוח תוכנה ומוצרים סופיים כדי להצדיק את השקעות העתק.\n*   **הבחנה בין שווי שוק להכנסות ריאליות:** עלתה נקודה חשובה לגבי הניפוח בערך החברות; מחיר המניה נקבע בשוליים ואינו משקף בהכרח הזרמת הון ריאלית של טריליוני דולרים. המבחן האמיתי יהיה האם תזרים המזומנים והרווחים יצליחו להדביק את הערכות השווי הגבוהות.\n*   **לוח זמנים קצר להכרעה:** בניגוד לתחזיות ארוכות טווח ל-2030, יש הסבורים כי כבר בשנה הקרובה נדע האם הבינה המלאכותית היא מהפכה אמיתית (\"Boom\") או בועה שמתנפצת (\"Bust\").\n*   **אסטרטגיית ה-Loss Leader:** נטען כי הביקוש הנוכחי ל-AI הוא \"מלאכותי\" במידה מסוימת, שכן חברות הטכנולוגיה ספגו הפסדים כדי להרגיל את הקהל לשירות. כעת, כשהן מתחילות להעלות מחירים כדי לכסות את עלויות התפעול העצומות, הביקוש האמיתי יעמוד למבחן.\n*   **הדילמה הכלכלית של הלקוחות:** ארגונים המשתמשים בבינה מלאכותית יצטרכו לבחור בקרוב בין שתי אפשרויות קשות: תשלום מחירים גבוהים שיפגע ברווחיות ובמצבת כוח האדם שלהם, או ויתור על הטכנולוגיה – צעד שיפגע אנושות בחברות ה-AI עצמן.",
-    "dateString": "2026-06-14",
-    "savedAt": {
-      "_seconds": 1781428612,
-      "_nanoseconds": 337000000
-    }
-  },
-  {
-    "id": "1u573oe",
-    "title": "When to short SpaceX? Wait a while but it will probably plummet",
-    "url": "https://www.reddit.com/r/investing/comments/1u573oe/when_to_short_spacex_wait_a_while_but_it_will/",
-    "author": "TripleDouble_45",
-    "score": 1,
-    "selftext": "My guess very far away around 2028. Goldman projects 322 billion in AI revenue by 2030, blah blah it’s not going to happen. Grok is a pile of shit that says Elon can drink piss better than any human in history (it actually said that). \n\nWhy am I posting? SpaceX is overvalued, everyone knows that, everyone who bought it l knows that. Some think it will be undervalued, I don’t. \n\nElon has a history of making lofty predictions then moving the goalposts but this never translates to a reduction in his wealth or more importantly the valuations of his companies. He says autonomous vehicles by 2020, and when 2020 comes around he says Tesla will make robots that replace every factory worker by 2040.\n\nNow why would SpaceX be different from Tesla which retains an even more ludicrous valuation? Well, it’s too big. Some would say too big to fail, I’d say too big.When SpaceX’s or Groks AI lags behind others in the industry, that poses a huge problem. Mainly because 90% of its future total addressable market is tied to AI and by proxy Grok. And grok isn’t making any money nor does it look like it will.\n\nAll the news is at the moment is that SpaceX popped on IPO and Elon is a trillionaire. SpaceX popped and Elon isn’t really worth a trillion. SpaceX will plummet either in this AI bubble pop which everyone’s predicting to happen imminently (of course it never does happen) or by 2030 when investors expect projections to be met and more importantly the projected profits to be recirculated through buybacks or dividends. I would guess that SpaceX will not be paying dividends in 2030, but its prospectus sure as shit makes it out like it should be",
-    "subreddit": "investing",
-    "created_utc": 1781398417,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Retail investors are the bag holders.  This will likely plummet in the near future, but not before all of the private investors and Elon get their payouts.  That's all this is, the biggest hot potato in Wallstreet history.\n\nI'm looking to start stockpiling shorts.",
-        "score": 1,
-        "author": "EternitySphere"
-      },
-      {
-        "body": "New company? It's almost 25 years old.....in the before times it would have IPO'ed in year 5-10. Ask the AI of your choice if it can 400x from here. It might 5x in 20 years becouse of inflation. I have no idea if will go lower or not but it would have to become the only company on 5 planet earth clones to rip like Tesla did. I'm not say it a bad company, what I'm saying is it impossible for it to 100x like Amazon, Apple, Google etc. ",
-        "score": 1,
-        "author": "No-Marionberry1597"
-      },
-      {
-        "body": "While it certainly seems way overvalued, I think shorting it any time soon could be dangerous. The valuation is based on the story and the hype and FOMO, not the fundamentals. When that happens, it's really hard to guess how high it might go. I think that there will likely come a time when it will be a tremendous short, but that could be quite a while away yet.\n\nAs you noted, the AI bubble hasn't burst yet even though many have predicted it. It's just so hard to know when it will happen for AI in general and SPCX specifically.\n\nFor me, SPCX is one of those stocks I don't want to touch. It seems way overpriced, so I wouldn't want to buy it, but the hype and forced index buying and FOMO could still drive it higher, maybe much higher, so I wouldn't want to short it either.",
-        "score": 1,
-        "author": "WoodsFinder"
-      }
-    ],
-    "summary_he": "הפוסט טוען כי SpaceX מוערכת ביתר שאת וצופה שערכה יצנח משמעותית לקראת סוף העשור, עם פקיעת \"בועת ה-AI\". הכותב מבקר את נטייתו של אילון מאסק להבטחות שווא וטוען כי המודל העסקי של החברה, המסתמך על רווחי בינה מלאכותית עתידיים (כמו Grok), אינו מציאותי ולא יניב את הדיבידנדים המצופים למשקיעים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום של הדיון והדעות המרכזיות שעלו מתוך התגובות בנוגע למנייה (SPCX/SpaceX):\n\n*   **המשקיעים הקטנים כ\"שעיר לעזאזל\":** קיימת סנטימנט חזק שהמשקיעים הקמעונאיים (Retail) הם אלו שיישארו עם ההפסדים (\"bag holders\"), בעוד שהמשקיעים הפרטיים הגדולים ואילון מאסק ימשכו את רווחיהם לפני שהמניה תתרסק. הדיון מתאר את המצב כמשחק של \"תפוח אדמה לוהט\".\n*   **תקרת זכוכית לצמיחה:** הועלתה טענה כי החברה כבר ותיקה מדי (בת כ-25 שנה) מכדי להציג זינוקים פנומנליים של פי 100 או 400 כפי שעשו אמזון או גוגל בעבר. הצמיחה המקסימלית שחלק מהמשתמשים צופים היא פי 5 ב-20 שנה, וגם זה עשוי לנבוע בעיקר מאינפלציה.\n*   **הערכת שווי מבוססת נרטיב ולא פונדמנטליזם:** המניה נתפסת ככזו שמתומחרת לפי סיפורים, הייפ ופחד מהחמצה (FOMO) ולא לפי נתונים כלכליים יבשים. בשל כך, קשה מאוד לחזות עד כמה המחיר יכול לטפס לפני התיקון.\n*   **הסיכון שבביצוע \"שורט\" (Short):** למרות הקונצנזוס שהמניה יקרה מדי, ישנה אזהרה מפני הימור נגדה כרגע. ההייפ סביב תחום ה-AI ורכישות כפויות של תעודות סל ומדדים עשויים להמשיך לדחוף את המחיר למעלה באופן לא רציונלי.\n*   **בועת ה-AI:** קיימת הבנה שבועת הבינה המלאכותית טרם התפוצצה, וכל עוד המומנטום הזה נמשך, קשה לדעת מתי תגיע הנקודה שבה יהיה נכון להמר נגד מניות הקשורות לתחום.\n*   **גישת \"שב ואל תעשה\":** בקרב חלק מהקהילה קיימת עמדה נייטרלית המבוססת על פחד משני הצדדים: המניה יקרה מדי מכדי לקנות אותה (\"Long\"), אך מסוכנת ותנודתית מדי מכדי לבצע עליה שורט. לכן, ההמלצה של חלק מהמשתמשים היא פשוט לא לגעת בנכס הזה כרגע.",
-    "dateString": "2026-06-14",
-    "savedAt": {
-      "_seconds": 1781428631,
-      "_nanoseconds": 15000000
-    }
-  },
-  {
-    "id": "1u560nj",
-    "title": "How can I find the actual retail vs. institutional share allocation percentage for a completed IPO?",
-    "url": "https://www.reddit.com/r/investing/comments/1u560nj/how_can_i_find_the_actual_retail_vs_institutional/",
-    "author": "Franck_Dernoncourt",
-    "score": 1,
-    "selftext": "When a company goes public, the split between the institutional tranche and the retail tranche is often discussed in generalities (e.g., the standard 90/10 rule of thumb). However, the actual breakdown can vary significantly from deal to deal, especially for highly anticipated or tech-focused IPOs where fintech apps or retail-focused brokerages secure specific allocations.  For a specific, already completed IPO, where exactly can an individual investor find the verified, final percentage or number of shares that were allocated to retail investors versus institutional investors?",
-    "subreddit": "investing",
-    "created_utc": 1781395244,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "You might have to dig through edgar filings. https://www.sec.gov/edgar/browse/?CIK=1181412&owner=exclude",
-        "score": 1,
-        "author": "taplar"
-      },
-      {
-        "body": "Spacex ended up being about 20% retail if thats what you're asking. Less than the 30% that was talked about going into it.",
-        "score": 1,
-        "author": "DoubleIntroduction25"
-      }
-    ],
-    "summary_he": "הכותב מבקש לדעת כיצד ניתן למצוא נתונים מאומתים לגבי חלוקת המניות בפועל בין משקיעים קמעונאיים למוסדיים לאחר הנפקה ראשונה לציבור (IPO). הוא מציין כי למרות קיומם של כללי אצבע כלליים, החלוקה משתנה משמעותית בין הנפקה להנפקה, ותוהה היכן בדיוק מפורסם המידע הסופי והרשמי עבור חברות שכבר הונפקו.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מרכזיות המבטאות את דעות הקהילה והמידע שהוצג:\n\n*   **הצורך באימות מידע רשמי:** קיימת הערכה בקהילה שכדי לקבל נתונים מדויקים, אין להסתמך על שמועות אלא יש לבצע \"חפירה\" מעמיקה בדיווחים רשמיים של ה-SEC (רשות ניירות הערך האמריקאית).\n*   **הכוונה למקורות מידע ספציפיים:** המשתמשים מפנים למאגר ה-EDGAR ככלי המרכזי והמהימן ביותר למציאת מידע פיננסי ורגולטורי על חברות וגופים קשורים.\n*   **פער בין ציפיות למציאות:** הדיון מדגיש פער משמעותי בין הציפיות המוקדמות לגבי שיעור אחזקות הציבור (Retail) לבין התוצאה הסופית בשטח.\n*   **נתוני אחזקה בפועל:** צוין כי בסופו של דבר, שיעור האחזקה של משקיעים קמעונאיים ב-SpaceX עומד על כ-20%, נתון המהווה אינדיקציה למבנה הבעלות הנוכחי.\n*   **השוואה לתחזיות קודמות:** קיימת התייחסות לכך שלפני המהלך דובר על שיעור אחזקה גבוה יותר של כ-30%, מה שמצביע על כך שההקצאה למשקיעים קטנים הייתה מצומצמת ממה שקיוו או העריכו תחילה.\n*   **מיקוד בפרטים טכניים:** הקהילה מפגינה בקיאות טכנית בשימוש במספרי זיהוי רגולטוריים (כמו מספר CIK) כדי לעקוב אחר תנועות הון ומבני בעלות מורכבים.",
-    "dateString": "2026-06-14",
-    "savedAt": {
-      "_seconds": 1781428646,
-      "_nanoseconds": 242000000
-    }
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מהתגובות:\n\n*   **השוואה בין מסחר להימורים:** קיימת תפיסה בקהילה שהאסטרטגיות הנדונות דומות מאוד להימורים בקזינו, ושעבור חלק מהאנשים, נסיעה לווגאס ומשחק במכונות מזל הם פשוטים ומהנים יותר מאשר הניסיון \"לנצח\" את השוק.\n*   **העדפת בידור על פני מורכבות:** עולה טענה כי המניע של חלק מהמשקיעים הוא הריגוש והכיף, ולכן הם מעדיפים פעילות הימורים ישירה על פני אסטרטגיות מסחר מורכבות שעלולות להיות מייגעות.\n*   **תהייה לגבי התנהלות \"לווייתנים\" ופוליטיקאים:** משתמשים תוהים מדוע שחקנים גדולים בשוק (Whales) או קרנות שעוקבות אחר נבחרי ציבור (כמו קרן NANC העוקבת אחר עסקאות של פוליטיקאים דמוקרטים) לא עושים שימוש בשיטה המדוברת, מה שמעלה ספק לגבי יעילותה.\n*   **ספקנות כלפי אסטרטגיות \"חתרניות\":** ישנו סנטימנט של חשדנות כלפי היכולת של משקיעים קטנים ליישם מהלכים שגופים בעלי השפעה ומידע פנים נמנעים מהם.\n*   **דרישה להוכחות בשטח (Track Record):** חברי הקהילה מפגינים חוסר אמון בטענות לרווחיות ודורשים לראות היסטוריית ביצועים מוכחת שמראה רווח ממשי מעבר לנקודת האיזון (Break even).\n*   **זלזול בסיכויי ההצלחה:** הטון הכללי בחלק מהתגובות הוא ציני ומזלזל (שימוש ב-\"rofl\"), ומבטא ספק רב בכך שהאסטרטגיה המוצעת מסוגלת לייצר תשואה חיובית לאורך זמן."
   }
 ];
