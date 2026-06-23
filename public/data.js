@@ -1,379 +1,359 @@
 window.dailyTrends = [
   {
-    "id": "1uawahq",
-    "title": "Where can I find a list of stocks the US government is purchasing?",
-    "url": "https://www.reddit.com/r/investing/comments/1uawahq/where_can_i_find_a_list_of_stocks_the_us/",
-    "author": "1UpUrBum",
-    "score": 179,
-    "selftext": "When I search all the results are what the politicians are buying.\n\nI want to know what the US government is buying directly. And a statement of what they intend to buy as well. Not news crap, it must be reported on a government website somewhere.\n\nSo far the list I have is INTC, GFS, QBTS, RGTI, IBM, MP, LAC, TMQ, X\n\nIt would be nice to know the amount and if they intend to buy more.",
+    "id": "1ubpz5m",
+    "title": "What's the most charitable explanation for why Bill Ackman has significantly underperformed the S&P500 in his fund PSHZF?",
+    "url": "https://www.reddit.com/r/investing/comments/1ubpz5m/whats_the_most_charitable_explanation_for_why/",
+    "author": "minimumbeginningend",
+    "score": 183,
+    "selftext": "I do not own the fund, and am not a huge fan of the guy. Just want a devil's advocate. I guess the idea here is that he's a \"brilliant\" investor. But clearly he's underperformed a simple index. Why would any one invest in any of his funds? Please enlighten me. Thank you!",
     "subreddit": "investing",
-    "created_utc": 1781961089,
+    "created_utc": 1782048185,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Google.com - -> https://www.capitoltrades.com/politicians ",
-        "score": 82,
-        "author": "icydragon_12"
+        "body": "If you start with 1000 people predicting coin flips, after the 5th flip you'll have about 30 who have guessed right every time and will start writing books on coin flipping strategy and why their system works.",
+        "score": 16,
+        "author": "abinferno"
       },
       {
-        "body": "People hate on AI, but this is probably a good question for it to get a starting point. Here's what Gemini returned:\n\nHistorically, the United States government has relied on grants, loans, and tax incentives to subsidize industries. However, over the past two years—accelerating significantly in 2025 and 2026—the federal government has shifted toward taking direct equity stakes, preferred equity, warrants, and contingent profit-sharing rights in private and public companies to secure supply chains, advance national security, and ensure a return on investment for taxpayers.\nBelow is a list of the companies the U.S. government has taken an equity stake in or secured warrants for during this period, categorized by sector:\n### Semiconductors & Quantum Computing\n * **Intel:** In a landmark move, the U.S. government converted $8.9 billion in unpaid CHIPS Act and Secure Enclave funding into a direct 9.9% federal equity stake, alongside a five-year warrant for an additional 5% of shares if the company sells majority control of its foundry business.\n * **PsiQuantum:** The Department of Commerce took a $100 million equity stake in this quantum chip start-up.\n * **IBM:** Slated to receive $1 billion under the CHIPS Act to establish a new quantum foundry subsidiary in exchange for a minority, non-controlling equity stake.\n * **GlobalFoundries:** Selected to receive $375 million for quantum foundational manufacturing capacity, granting the government a minority stake.\n * **Diraq:** Awarded up to $38 million for quantum computing development in exchange for a minority equity stake.\n### Critical Minerals & Materials\n * **USA Rare Earth:** The Department of Commerce acquired a 10% equity stake, alongside warrants to purchase an additional 17.6 million shares.\n * **Vulcan Elements:** Received a $50 million direct equity stake from the Commerce Department, while the Department of Defense (DoD) secured warrants to purchase future stock at a set price.\n * **MP Materials:** The government invested approximately $400 million via preferred equity and warrants, taking an ownership stake of around 15%, paired with a $150 million loan for rare-earth magnet production.\n * **Korea Zinc:** The government secured warrants as part of a broader federal financing agreement.\n * **ReElement:** Included warrants in its strategic government financing package.\n * **Lithium Americas:** Received direct government equity investment to bolster domestic critical mineral production.\n * **Trilogy Metals:** Saw direct government investment participation to secure material supply chains.\n### Defense, Aerospace & Advanced Manufacturing\n * **Unusual Machines:** A drone manufacturer funded through the DoD's Office of Strategic Capital (OSC) using a combination of direct equity investments and loans.\n * **Analog Devices:** Highlighted in recent financial tracking as receiving direct strategic government investments.\n * **Coherent:** A materials and laser manufacturer that received direct federal equity participation.\n * **MACOM:** A semiconductor and tech supplier that accepted direct government investment to de-risk defense supply chains.\n### Energy & Nuclear Infrastructure\n * **Westinghouse Electric:** Through a landmark federal partnership to build new nuclear reactors, the U.S. government secured a contingent profit-sharing right that can convert into an equity stake of up to 20% at a discount. The government also mandated the ability to force the company into an Initial Public Offering (IPO) if its valuation exceeds $30 billion.\n",
-        "score": 30,
-        "author": "makken"
+        "body": "Yeah all of the Big Short guys kinda look like chumps now. Paulson and Burry have even had to return outside money. \n\n\\>every position gets disclosed and traded against. \n\nThis isn’t really true. You have to disclose, but at the \\*earliest\\* 45 days later. You could acquire a position July 1 and you wouldn’t have to disclose it until October 15. And in any case, a lot of these guys like the disclosure because it often embeds a premium once announced. ",
+        "score": 11,
+        "author": "I_Ron_Butterfly"
       },
       {
-        "body": "And Trump Jr is on the board and owns a bunch of stock/options. \n\nSo the US government is directly giving $ to the President’s son. ",
-        "score": 20,
-        "author": "Blue_foot"
+        "body": "Yes, it is net of fees. From the notes at the bottom of the page:\n\n>Returns are presented on a net-of-fees basis and reflect the deduction of, among other expenses: management fees, brokerage commissions, administrative fees and accrued and/or crystallized performance fees, if any.",
+        "score": 8,
+        "author": "oberwolfach"
       }
     ],
-    "summary_he": "הכותב מחפש מידע רשמי מאתרי ממשל על מניות שהממשל האמריקאי רוכש באופן ישיר, תוך הבחנה מהשקעות של פוליטיקאים פרטיים. הוא מעוניין למצוא רשימה מפורטת הכוללת את סכומי ההשקעה ותוכניות רכישה עתידיות עבור חברות ספציפיות שזיהה.",
+    "summary_he": "הפוסט מבקש הסברים לביצועי החסר של קרן ההשקעות של ביל אקמן (PSHZF) בהשוואה למדד ה-S&P 500. הכותב מטיל ספק במוניטין של אקמן כמשקיע \"מבריק\" ותוהה מדוע אנשים עדיין בוחרים להשקיע בקרנות שלו לאור תשואות אלו.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום של הדיון ב-Reddit בנוגע להשקעות הישירות של ממשלת ארה\"ב בחברות פרטיות וציבוריות, כפי שעולה מהתגובות:\n\n*   **מעקב אחר שחיתות פוליטית:** קיימת המלצה בקהילה להשתמש בכלים מקוונים ייעודיים (כמו אתר CapitolTrades) כדי לעקוב אחר עסקאות המניות של פוליטיקאים, מתוך הבנה שהשקעותיהם האישיות משקפות לעיתים קרובות את המדיניות הממשלתית.\n*   **שינוי במודל המימון הממשלתי:** מצוין כי הממשל האמריקאי עבר ממדיניות של מתן מענקים והלוואות בלבד למודל של אחזקה ישירה במניות (Equity), אופציות (Warrants) וזכויות לשיתוף ברווחים. זאת במטרה להבטיח החזר על ההשקעה עבור משלם המסים.\n*   **אבטחת תחום המוליכים למחצה והקוונט:** הממשל משקיע סכומי עתק בחברות כמו אינטל (Intel), IBM ו-PsiQuantum. המטרה היא להבטיח את שרשרת האספקה הטכנולוגית ולשמור על הביטחון הלאומי בעידן המחשוב המתקדם.\n*   **עצמאות בתחום המשאבים והמחצבים:** ניכרת מגמה של השקעה ממשלתית מאסיבית בחברות הכורות ומעבדות מחצבים קריטיים וחומרים נדירים (כמו USA Rare Earth), כדי לצמצם את התלות במדינות זרות ולהבטיח חומרי גלם לתעשייה המקומית.\n*   **מעורבות עמוקה בתשתיות אנרגיה וביטחון:** הממשל נוקט בצעדים אגרסיביים בתחום האנרגיה הגרעינית (למשל עם חברת Westinghouse), הכוללים אפילו סמכות לכפות על חברות הנפקה בבורסה (IPO) בתנאים מסוימים.\n*   **ביקורת על נפוטיזם וניגוד עניינים:** עולה טענה קשה לגבי הקשר בין הממשל למקורבים פוליטיים. ספציפית, צוין המקרה של דונלד טראמפ ג'וניור המכהן בדירקטוריון של חברה המקבלת מימון ממשלתי, מה שמעורר סלידה בקרב חלק מהגולשים הטוענים כי כספי הציבור זורמים ישירות לכיסי משפחת הנשיא."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ודעות שונות שעלו בו:\n\n*   **הטיית השורדים ומזל מול מיומנות:** אחד המגיבים טוען כי הצלחה בחיזוי פיננסי היא לעיתים קרובות תוצאה של מזל סטטיסטי טהור ולא של מיומנות. הוא משתמש במשל \"הטלת המטבע\": מתוך קבוצה גדולה, תמיד יישארו בודדים שינחשו נכון במקרה, ואז יטענו בטעות שיש להם \"שיטה\" מנצחת.\n*   **ביקורת על כוכבי השקעות מהעבר:** קיימת סנטימנט ביקורתי כלפי דמויות שהתפרסמו בסרט/ספר \"מכונת הכסף\" (The Big Short), כמו מייקל ברי וג'ון פולסון. נטען כי ביצועיהם כיום פחות מרשימים וכי הם נאלצו להחזיר כספים למשקיעים חיצוניים.\n*   **הפרכת הטענה לגבי מסחר נגד פוזיציות חשופות:** הדיון מתייחס לטענה שחשיפת פוזיציות מאפשרת לאחרים לסחור נגד המשקיע. המגיבים מסבירים שזה לא מדויק, כיוון שחובת הדיווח מתרחשת בעיכוב משמעותי (לפחות 45 יום מסוף הרבעון), כך שהמידע שמגיע לציבור אינו משקף את המצב בזמן אמת.\n*   **היתרון האסטרטגי בחשיפת פוזיציות:** בניגוד לחשש מחשיפה, ישנם משקיעים שדווקא מעוניינים שהציבור ידע מה הם קנו. הפרסום של משקיע מפורסם שנכנס למניה מסוימת עשוי להעלות את מחירה (\"פרמיה\") ולשרת את האינטרסים שלו.\n*   **שקיפות לגבי תשואות \"נטו\":** הובהר כי הנתונים המוצגים (ככל הנראה בפוסט המקורי) הם לאחר ניכוי עמלות (Net of fees). זהו פרט טכני חשוב המעיד על כך שהרווחים המוצגים הם אלו שנשארים בכיסו של המשקיע לאחר דמי ניהול, עמלות תיווך והוצאות מנהלתיות.\n*   **התנשאות של \"מומחים מטעם עצמם\":** הקהילה מבטאת סלידה מסוימת מאנשים שחוו הצלחה רגעית ומתרגמים אותה לכתיבת ספרים או בניית אסטרטגיות שיווקיות, תוך התעלמות מהעובדה שהצלחתם עשויה להיות מקרית לחלוטין."
   },
   {
-    "id": "1ub860x",
-    "title": "Elevated Daily Volatility in the S&P 500 Has Historically Coincided With Market Stress",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1ub860x/elevated_daily_volatility_in_the_sp_500_has/",
-    "author": "Zipski577",
-    "score": 120,
-    "selftext": "Daily volatility has been unusually elevated this year & a century of S&P 500 data suggests today’s market Is unusually volatile/ unstable….\n\nThe S&P 500 has closed up or down at least 100 bps on 26% of trading days this year thus far. This is makes 2026 the 38th most volatile calendar year since 1928 by that measure.\n\nThat does not guarantee a bear market, but the historical company is not exactly comforting considering that essentially all comparable years occurred during, immediately before, or shortly after major drawdowns, recessions, crashes, or periods of severe market stress.\n\nA lot of the most volatile days have been a direct result of the market reacting extremely strongly President Trump’s truth social posts about the war in Iran around “peace deals,” opening the Strait of Hormuz, and temporary ceasefire agreements. Amidst this backdrop, y/y CPI is printing at a multi-year high, while employment numbers have remained strong. The new fed chair spoke about bringing back price stability and the bond market/ predictions markets are suggesting that at least 1 rate hike is likely by cthe end of 2026.",
-    "subreddit": "StockMarket",
-    "created_utc": 1781991209,
-    "thumbnail": "https://preview.redd.it/vr0o2l3rai8h1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=09df0af715c5ebadbdd62ee0b0db71e603750f7b",
-    "top_comments": [
-      {
-        "body": "Wind correlates with moving air… whats the news here?",
-        "score": 101,
-        "author": "DizzyExpedience"
-      },
-      {
-        "body": "38th most volatile is the same as the 61th less volatile. OP just shared data that says “this is a typical year” and the take from that is to run for the hills. On that measure alone, history is extremely comforting\n\nIt also compares apples to stegossaurus, since the year isn’t even close to over yet",
-        "score": 31,
-        "author": "Novel_Board_6813"
-      },
-      {
-        "body": "Ikr, i read the title and thought of \"fork found in kitchen*",
-        "score": 15,
-        "author": "AirHertz"
-      }
-    ],
-    "summary_he": "הפוסט מציין כי רמת התנודתיות ב-S&P 500 השנה היא חריגה, מצב שבאופן היסטורי מאפיין תקופות של משבר כלכלי, מיתון או קריסת שווקים. חוסר היציבות מיוחס לשילוב בין אירועים גיאופוליטיים הקשורים לאיראן, אינפלציה גבוהה וצפי להעלאת ריבית על ידי הפדרל ריזרב עד סוף 2026.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ורגשות שעלו בקהילה:\n\n*   **זלזול בערך החדשותי של המידע:** המגיבים חשים שהמידע שהוצג הוא מובן מאליו וחסר כל חידוש. אחד המגיבים השווה זאת בציניות לקביעה ש\"רוח קשורה לאוויר שזז\", כלומר ציון עובדה בסיסית וידועה כפריצת דרך.\n*   **ביקורת על מסגור הנתונים (Framing):** נטען כי הצגת השנה כ\"מקום ה-38 בתנודתיות\" היא מניפולציה של נתונים. בפועל, המשמעות היא שישנן 61 שנים שהיו רגועות יותר, מה שהופך את השנה הנוכחית לטיפוסית וממוצעת לחלוטין ולא לאירוע חריג.\n*   **חוסר התאמה מתודולוגי (\"תפוחים לדינוזאורים\"):** הועלתה ביקורת על עצם ההשוואה בין שנה שטרם הסתיימה לבין שנים קלנדריות מלאות מהעבר. המגיבים טוענים כי השוואה כזו אינה תקפה סטטיסטית ויוצרת עיוות של המציאות.\n*   **תחושת הרגעה היסטורית:** בניגוד לנימה המדאיגה של הפוסט המקורי (שקרא \"לברוח לגבעות\"), המגיבים טוענים כי מבט מעמיק בנתונים ההיסטוריים הוא דווקא מרגיע ומראה שהמצב הנוכחי נמצא בטווח הנורמה.\n*   **סרקזם כלפי טריוויאליות המידע:** חברי הקהילה השתמשו בדימויים הומוריסטיים כדי להדגיש כמה המידע אינו מרגש, כמו למשל השוואת הכותרת לידיעה מרעישה בסגנון \"נמצא מזלג במטבח\".\n*   **התנגדות לניסיונות לעורר פאניקה:** עולה נימה של התנגדות לניסיון של כותב הפוסט המקורי להציג נתונים רגילים כסיבה לבהלה. הקהילה מזהה את הפער בין הנתונים היבשים לבין הפרשנות הדרמטית שניתנה להם."
-  },
-  {
-    "id": "1ub7ugd",
-    "title": "What is a good index fund I can drop some money in and just leave it?",
-    "url": "https://www.reddit.com/r/investing/comments/1ub7ugd/what_is_a_good_index_fund_i_can_drop_some_money/",
-    "author": "Purple-Sir-61",
-    "score": 1,
-    "selftext": "For context I am 15 and just got my first internship. I am planning on investing all 3000 I get from working over the summer, since my monthly expenses are basically me just grabbing a drink occasionally. My goal is to have put in 10k into the stock market by the time I’m 18, and then to start building an emergency fund and move out when it seems big enough to live off of for a few months if I need to, and to not touch the stock again until I want to pay off a down payment or retire, or if I will literally die without the money for whatever reason. \n\nI was looking into the s&p 500, and its average return rate being around 11% per year. It looks promising to me, except for the fact it is only in the US. I don’t have much faith in the US dollar or the country as a whole, and want something similar but that tracks globally as I feel that would be safer. I saw VT, although that looks like the average return is a bit lower than the s&p 500. Does anyone have any advice? Is there anything that has a similar average return to the S&P, but tracks globally? Thank you :) ",
+    "id": "1ubwt04",
+    "title": "Domino Pizza stock value now that Pizza Hut is being sold?",
+    "url": "https://www.reddit.com/r/investing/comments/1ubwt04/domino_pizza_stock_value_now_that_pizza_hut_is/",
+    "author": "Hugh_Mungus94",
+    "score": 102,
+    "selftext": "Correct me if I'm wrong but now that Pizza Hut is being sold, Domino and papa John are pretty much the only pizza chains leading the market now in the US and Domino is the more prominent of the 2 imo. Shouldnt this be a huge catalyst in the upcoming days for Domino stock if Domino can climb to be the top Pizza seller in the US?",
     "subreddit": "investing",
-    "created_utc": 1781990358,
+    "created_utc": 1782065113,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Just fyi, when colleges go to calculate how much to charge your family, they’ll assess assets in your arm at something like 50 percent, while assets in your parents name at 5 percent. ",
+        "body": "If the franchise owner isn't squeezed into selling his property where I live for something else, I'll come back and admit I'm wrong.",
         "score": 1,
-        "author": "jc18630"
+        "author": "sleepydon"
       },
       {
-        "body": "Why VTI over VOO? Isn't it exposed to this IPO nonsense?",
+        "body": "Are you 10? Who the fuck eats cheese pizza as an adult",
         "score": 1,
-        "author": "milkplantation"
+        "author": "michael_faraway"
       },
       {
-        "body": "You are young. You have a long investment horizon. The answer is clear: a 3X leveraged fund on one of the flagship indices. There is UPRO for 3X the S&P 500, or TQQQ for the NDX100. The larger is heavily tech leaning so will almost certainly outperform the former.",
+        "body": "Dominos is already top dog in market share….",
         "score": 1,
-        "author": "My_life_for_Nerzhul"
+        "author": "Hofbrau-haus"
       }
     ],
-    "summary_he": "נער בן 15 המעוניין להשקיע 3,000 דולר מהתמחות קיץ מחפש קרן מדד (Index Fund) להשקעה פסיבית לטווח ארוך מאוד. למרות העניין במדד ה-S&P 500, הוא חושש מהסתמכות בלעדית על הכלכלה האמריקאית ומחפש המלצות לקרנות גלובליות המציעות תשואה דומה ופיזור רחב יותר.",
+    "summary_he": "הפוסט דן בשאלה האם מכירתה של רשת \"פיצה האט\" תוביל לעלייה בערך המניה של \"דומינו'ס פיצה\". הכותב מעריך שדומינו'ס ופאפא ג'ונס יישארו השחקניות המרכזיות בשוק האמריקאי, וסבור שדומינו'ס עשויה להפוך למובילה הבלעדית ולחוות זינוק במחיר המניה בעקבות השינוי.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח של תגובות הגולשים מהדיון, המציג שש נקודות מבט ודעות שונות שעלו בקהילה:\n\n*   **השפעת הבעלות על נכסים על סיוע כלכלי ללימודים:** קיימת אזהרה כי מוסדות אקדמיים מחשבים נכסים הרשומים על שם הסטודנט בשיעור גבוה משמעותית (כ-50%) לעומת נכסים הרשומים על שם ההורים (כ-5%) בעת קביעת גובה שכר הלימוד והסיוע, דבר שעלול לפגוע כלכלית במשפחה.\n*   **העדפת מדדים ממוקדים על פני מדדי שוק רחבים:** עולה ספק לגבי הכדאיות של השקעה במדד השוק הכולל (VTI) לעומת מדד ה-S&P 500 (VOO), מתוך תפיסה שהמדד הרחב כולל \"רעשים\" מיותרים.\n*   **חשש מחשיפה להנפקות חדשות (IPOs):** ישנו סנטימנט שלילי או זהיר כלפי הכללתן של חברות צעירות ומניות IPO במדדי שוק רחבים, מחשש שהן מייצרות תנודתיות וחוסר יציבות בתיק ההשקעות.\n*   **ניצול אופק השקעה ארוך לטובת מינוף:** עבור משקיעים צעירים, קיימת דעה התומכת באסטרטגיה אגרסיבית במיוחד של שימוש בקרנות סל ממונפות (פי 3) על המדדים המובילים, מתוך הבנה שזמן רב בשוק מאפשר לספוג את הסיכון הגבוה.\n*   **העדפת סקטור הטכנולוגיה על פני השוק הכללי:** מובע אמון רב בכך שמדד הנאסד\"ק 100 (באמצעות TQQQ) ימשיך להציג ביצועים עודפים על פני מדד ה-S&P 500 בגלל הדומיננטיות של חברות הטכנולוגיה.\n*   **אסטרטגיית מיקום נכסים (Asset Location):** הקהילה מדגישה שלא רק סוג ההשקעה חשוב, אלא גם על שם מי רשום הנכס, שכן למיקום הנכס יש השלכות מרחיקות לכת על היבטים שאינם קשורים ישירות לשוק ההון, כמו זכאות להטבות או עלויות השכלה.",
-    "dateString": "2026-06-21",
-    "savedAt": {
-      "_seconds": 1782036068,
-      "_nanoseconds": 534000000
-    }
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שפורסמו, המציג 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **ספקנות לגבי יציבות הזכיינים:** אחד המגיבים מביע חוסר אמון ביכולת של בעלי סניפים מקומיים לשרוד לאורך זמן, וצופה שהם ייאלצו למכור את הנכס שלהם לשימושים אחרים עקב לחצים כלכליים.\n*   **השפעת נדל\"ן על עסקי המזון:** עולה טענה כי המיקום הפיזי והערך הנדל\"ני של הסניפים מהווים גורם מכריע; בעל העסק עשוי להידחק החוצה לא בגלל איכות המוצר, אלא בגלל שווי הקרקע.\n*   **שיפוטיות קולינרית וגילנות:** קיימת ביקורת חריפה ולגלגנית כלפי מי שבוחר לאכול פיצה גבינה פשוטה (\"פיצה מרגריטה\") בבגרותו, תוך תיוג הבחירה הזו כילדותית ולא ראויה למבוגרים.\n*   **סגנון שיח אגרסיבי:** התגובות משקפות תרבות דיון המאופיינת בשפה בוטה ותקיפה אישית (\"Are you 10?\"), דבר המעיד על דינמיקה קהילתית שאינה חוסכת בשבטה מהטעם האישי של חברים אחרים.\n*   **הכרה בדומיננטיות של דומינו'ס:** מצוינת עובדה בשטח לפיה דומינו'ס היא כבר כיום השחקנית המובילה (\"Top Dog\") מבחינת נתח שוק, מה שמעלה תהייה לגבי היכולת שלה לצמוח עוד או לגבי הנחיצות של מהלכים חדשים.\n*   **פער בין הצלחה תאגידית לחוויה מקומית:** בעוד שהנתונים היבשים מראים שליטה בשוק (נתח שוק גבוה), התגובות מהשטח מתמקדות דווקא בקשיים של הזכיין הבודד או באיכות המוצר, מה שמעיד על פער בתפיסת המותג."
   },
   {
-    "id": "1ub5gyh",
-    "title": "Starting an ecom business",
-    "url": "https://www.reddit.com/r/business/comments/1ub5gyh/starting_an_ecom_business/",
-    "author": "Willing-Success4798",
-    "score": 3,
-    "selftext": "I’m 22 and been looking into starting an online e-commerce business, but honestly, I'm overwhelmed by how much information is out there. Theres a lot of gurus online  that have watched already and I  don’t want to waste my time anymore watching their vids and actually want get started and learn.\n\nFor those of you who have actually built a successful e-commerce business, and have kept a sustainable one. Where would you start if you were beginning from scratch today with limited experience and a modest budget of like $1k?  \nI have a decent amount of information for product research, marketing, website building, sales.  \nI'd appreciate any advice, lessons you wish you knew earlier, or resources that helped you get started.",
-    "subreddit": "business",
-    "created_utc": 1781984304,
+    "id": "1ubq599",
+    "title": "GE is sailing but I never hear about it.",
+    "url": "https://www.reddit.com/r/investing/comments/1ubq599/ge_is_sailing_but_i_never_hear_about_it/",
+    "author": "Golfandrun",
+    "score": 88,
+    "selftext": "So I bought some stocks in GE a couple years ago in my USD account. I don't often look at it as the numbers aren't big. It split into two stocks awhile ago. I just took a peek and saw that it was up over 600 percent. Probably too late to add more, but I'm wondering why I haven't heard any talk about it.\n\n&#x200B;\n\n/shrug",
+    "subreddit": "investing",
+    "created_utc": 1782048627,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "With $1k and some existing knowledge.... I would actually start.\n\n1. Pick one product, not a store full of products. Validate it with real search volume and existing demand before building anything.\n\n2. Spend $200-300 max on samples and testing inventory. Do not go all in on bulk before you know it sells.\n\n3. Build the store simple and fast. Do not spend weeks perfecting design. A clean Shopify store with good product photos beats a fancy one that took a month to launch.\n\n4. Use the rest of your budget on organic content first. TikTok and Instagram content testing costs nothing but time. Save paid ads for once you have proof people want the product.\n\n5. Track everything. Spend, conversion rate, customer feedback. Most beginners fail not because the product was bad but because they never tracked what was actually working.\n\nBiggest lesson most people learn too late, stop watching gurus and start shipping. You already have the knowledge. Execution is the only thing separating you from someone who has done this. Launch something small this month, not next month.",
-        "score": 2,
-        "author": "No_Beautiful_6306"
+        "body": "You are like the bad type of hardcore vegans; it's not about the numbers, nutrition, or facts for you, you just want to smell your own farts. People who put their ideology before facts and numbers ruin investing.",
+        "score": 70,
+        "author": "Kashmir1089"
       },
       {
-        "body": "Ask yourself this question in the future once you already have a profitable business to determine the best way to expand online. ",
-        "score": 2,
-        "author": "Restil"
+        "body": "Just....lol.\n\nI keep seeing this \"I sit on the earnings calls bro\" response which is like the r/investing equivalent of \"My dad has a friend that works there.\" ",
+        "score": 35,
+        "author": "jcpopm"
       },
       {
-        "body": "My best advice is treat that $1000 like its got to last. Don't buy anything in bulk, just buy a few at regular in smallest qty wholesale price and if they sell then a few more and then if selling well take advantage of bulk discounts. That puts people out of business quickly because you shoot through your dough buying to much inventory.\n\nYou do need instruction and if you dont like videos the I would go to amazon and buy one book that covers it all. Make sure it was written in the last year or so because things have changed.",
-        "score": 1,
-        "author": "Smart-Intern-4007"
+        "body": "Anything after 2016 is Chinese. ",
+        "score": 35,
+        "author": "Foulwinde"
       }
     ],
-    "summary_he": "כותב הפוסט, בן 22, מעוניין להקים עסק אי-קומרס ומבקש הכוונה מעשית מבעלי ניסיון כדי להיחלץ מעומס המידע ומ\"גורואים\" ברשת. הוא מחפש עצות ומשאבים לבניית עסק יציב מאפס, תוך שימוש בתקציב התחלתי מוגבל של כ-1,000 דולר.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 7 נקודות מרכזיות ותובנות של חברי הקהילה בנוגע להתחלת עסק בתקציב של 1,000 דולר:\n\n*   **מיקוד במוצר אחד ואימות דרישה:** מומלץ לא לפתוח חנות עמוסת מוצרים, אלא להתמקד במוצר אחד בלבד. לפני שבונים את החנות, יש לוודא שיש למוצר ביקוש אמיתי ונפח חיפוש בשוק כדי לא להשקיע במוצר שלא יימכר.\n*   **הימנעות מרכישה מסיבית של מלאי:** אין להשקיע את כל התקציב במלאי גדול בתחילת הדרך. המציעים מדגישים כי כדאי להוציא סכום קטן (כ-200-300 דולר) על דגימות ובדיקת היתכנות, ורק לאחר שיש הוכחות למכירות, לנצל הנחות על רכישה בכמויות גדולות.\n*   **פשטות ומהירות בהשקה:** אין צורך לבזבז שבועות על עיצוב מורכב של חנות מקוונת. חנות פשוטה, נקייה ומהירה עם צילומי מוצר איכותיים עדיפה על פני עיצוב \"מפואר\" שמעכב את העלייה לאוויר.\n*   **עדיפות לשיווק אורגני על פני פרסום ממומן:** בתחילת הדרך, כדאי לנצל את התקציב ליצירת תוכן אורגני ברשתות החברתיות (טיקטוק ואינסטגרם) שאינו עולה כסף מלבד זמן. רק לאחר שיש הוכחה שהמוצר מבוקש, כדאי להשקיע בפרסום ממומן.\n*   **מעקב וניתוח נתונים:** אחת הסיבות המרכזיות לכישלון מתחילים היא חוסר מעקב. יש לעקוב באדיקות אחרי כל הוצאה, שיעורי המרה ומשוב מלקוחות כדי להבין מה באמת עובד ולבצע התאמות בהתאם.\n*   **העדפת הביצוע על פני למידה אינסופית:** הקהילה מדגישה שצריך להפסיק לצפות ב\"גורואים\" ולהתחיל לבצע. ההבדל בין מי שהצליח לבין מי שלא הוא שלב הביצוע (Execution). הטיפ הוא להשיק משהו קטן כבר החודש ולא לדחות את ההשקה.\n*   **למידה ממקורות עדכניים:** אם יש צורך בהדרכה מובנית, כדאי להסתמך על ספרות מקצועית שנכתבה בשנה האחרונה. השוק משתנה במהירות, ולכן ידע ישן עלול להיות לא רלוונטי או מטעה."
+    "summary_he": "הכותב מציין כי מניית GE הניבה לו תשואה של מעל 600% מאז שרכש אותה לפני מספר שנים ועברה פיצול. הוא מביע פליאה על כך שהצלחתו המרשימה של התאגיד לא זוכה ליותר שיח בקרב המשקיעים, ותוהה אם כעת כבר מאוחר מדי להגדיל את השקעתו.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות, המחולק ל-6 נקודות מבט וסנטימנטים מרכזיים בקהילה:\n\n*   **ביקורת על העדפת אידיאולוגיה על פני נתונים:** אחד המגיבים משווה משקיעים שפועלים ממניעים אידיאולוגיים ל\"טבעונים קיצוניים\". לטענתו, מי ששם את האמונה האישית שלו לפני עובדות ומספרים פוגע באיכות ההשקעות ובתחום כולו.\n*   **סלידה מהתנשאות וסיפוק עצמי:** נעשה שימוש בביטויים בוטים (\"להריח את הנאדים של עצמך\") כדי לתאר משקיעים שמתעניינים יותר בתחושת הצדק האישי שלהם מאשר בניתוח אובייקטיבי של המציאות.\n*   **לעג לניסיונות להפגין \"סמכות\" מזויפת:** הקהילה לועגת לאנשים שמנסים להרשים באמצעות האמירה \"אני מקשיב לשיחות רווחים\". המגיב משווה זאת לילדים שמתרחצים בכך ש\"אבא שלי מכיר מישהו שעובד שם\", ומציג זאת כהתנהגות ילדותית ולא מקצועית.\n*   **ספקנות כלפי מקורות מידע גלויים:** עולה סנטימנט של זלזול באלו המסתמכים על שיחות רווחים רשמיות כיתרון יחסי, תוך רמיזה שזהו מידע בסיסי שאינו הופך אף אחד למומחה או לבעל \"מידע פנים\".\n*   **אובדן זהות של מותגים ותיקים:** קיימת עמדה נחרצת (ככל הנראה בנוגע לחברת וולוו או מותג רכב דומה) שכל תוצרת לאחר שנת 2016 היא \"סינית\" במהותה. זוהי הבעת עמדה על אובדן המקוריות והאיכות של מותגים מערביים שעברו לבעלות או ייצור סיני.\n*   **סגנון שיח תוקפני וציני:** התגובות משקפות אווירה קהילתית של חוסר סבלנות ליומרנות. חברי הקהילה אינם מהססים לתקוף אחד את השני על חוסר ענייניות, ומפגינים רמה גבוהה של ספקנות כלפי נרטיבים שאינם מבוססי רווח והפסד נטו."
   },
   {
-    "id": "1ub0gnc",
-    "title": "How do you know how many costumers you would get each day and how do you order accordingly?",
-    "url": "https://www.reddit.com/r/business/comments/1ub0gnc/how_do_you_know_how_many_costumers_you_would_get/",
-    "author": "the4evermore",
-    "score": 2,
-    "selftext": "I tried writting that and it helps but it doesnt help me predict much . Also how do you know if a product you added to the store is good ? ",
-    "subreddit": "business",
-    "created_utc": 1781971939,
+    "id": "1ubzsnu",
+    "title": "Been saving cash for years instead of investing. What would you do now?",
+    "url": "https://www.reddit.com/r/investing/comments/1ubzsnu/been_saving_cash_for_years_instead_of_investing/",
+    "author": "EmRe-55-",
+    "score": 54,
+    "selftext": "34 years old, started investing seriously at 33, now wondering what to do next.  \n\n\nOne of my biggest financial regrets is not starting earlier, especially in my early 20s.  \n\n\nI was always afraid of investing. Partly because I didn't know enough and partly because I was afraid of losing money. Instead, I kept saving cash in my bank account where it earned basically nothing.  \n\n\nMy original plan was always to buy real estate. I spent years saving and waiting for the \"right\" property, but I never found one that made sense. As a result, my money just sat there.  \n\n\nI did play around with crypto a little over the years, but never with serious amounts of money and never as a long-term strategy.\n\n  \nFinally, on August 20, 2025, I opened my first brokerage account and made my first serious investments:\n\n\\- Vanguard FTSE All-World ETF: €24,364\n\n\\- EUWAX Gold II: €3,590\n\n\n\n**Current situation:**\n\n* Brokerage account: €34,287\n* Bank account: €46,000\n\n\n\n**Current gains:**\n\n* Vanguard FTSE All-World ETF: +€5,395\n* EUWAX Gold II: +€938\n\nTotal: +€6,333\n\n\n\nNow I'm wondering what to do next.\n\n\n\nOption 1:\n\nKeep things simple and continue investing mainly into the Vanguard FTSE All-World ETF until I eventually reach €100k+ and beyond.\n\n\n\nOption 2:\n\nKeep the ETF and gold positions as they are and start building positions in individual stocks such as:\n\n* ASML\n* Nvidia\n* Amazon\n* Tesla\n* SpaceX\n* Take-Two Interactive\n\n\n\nI'm also curious what you think about gold, silver, Bitcoin, crypto, or simply sticking with a broad ETF.\n\n\n\nPersonally, I'm not a huge believer in Bitcoin as an investment, although I find blockchain technology interesting.\n\n\n\nIf you were in my position today with:\n\n* €34,316 invested\n* €46,000 in cash\n\nA long-term investment horizon\n\n\n\nWhat would you do and why?",
+    "subreddit": "investing",
+    "created_utc": 1782072345,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "We need to back up a few steps here boss ",
-        "score": 10,
-        "author": "sanctimoniousfsck"
+        "body": "Yeah. I was really fortunate to get into NVDA 5-6 years ago and made a great profit on that.....I sold out and missed some more upside, but that also means I locked that in at least. I'm getting more risk averse and moving into VOO and VTI type stocks. ",
+        "score": 13,
+        "author": "particleman3"
       },
       {
-        "body": "Forecasting gets easier with data. The more sales history you have, the better you'll be at predicting demand and avoiding overstocking. ",
+        "body": "Basically everything you have described has resonated with me and my personal experience \n\n1. Spent 3 years with $100k sidelined in a checking account because I was scared to invest. Looking back, I missed out on $40-50k. \n\n2. I put 70% of that $ in the general SPY, and have made great gains. I am in the US market keep in mind. My only regret is it I didnt invest sooner. \n\n3. Crypto. I screwed around with $10-15k in crypto, and still hold some BTC. The reality is though, I ended up being up massively, but never took enough profits for it to be worth it. Its very hard to time the market, and despite making some good plays, I am overall negative on crypto. I wouldnt put a considerable amount of your portfolio in there, but if u want to play around with a few grand, go ahead.\n\n4. I did put around $10-15k in those tech ETFs you mentioned. Funds like $SPMO and $QQQ that heavily weight the popular tech companies like Nvidia, Google, etc. Those are up an astounding 80%~ over the last few years. Looking back, I do slightly regret not putting more in there; there may be an AI bubble, but theres no question a generational wealth building opportunity is here. \n\nIn conclusion, id advise putting a 40-50% in a safe, general market ETF, 30%~ in a more aggressive Tech ETFs, and then leave 10-15% to ‘gamble’ on crypto. I want to note, you can get rich quick buying crypto; but you can just as easily get flipped on. With that in mind, i wouldn’t keep a considerable amount of your net-worth in there\n\nNot an expert, actually dont know much, but this my personal setup and it has worked very well in the last 3 years",
+        "score": 9,
+        "author": "EmpatheticAnon"
+      },
+      {
+        "body": "Yeah, I bought amd in the 50’s and sold a bit under 200. I wanna say in the span of about a year. \n\nPeople’s brains are so cooked these days that they get a 4x in a year and can only focus on the the 2.5(ish)x that they “missed” by selling. \n\nWe’ve got a whole generation of investors that only know good times. They don’t remember 08 when people lost their jobs and had to sell at massive losses just to avoid being homeless, and for many it still wasn’t enough. ",
         "score": 6,
-        "author": "Wise-Success-2737"
-      },
-      {
-        "body": "\nFor your application, check out how to setup a linear regression in a Google or Excel sheet.\n\nIt's the most basic type of forecasting.\n\nIt won't factor if real time events, but given a sample set of sales data (date, amount) it will give you a rough forecast of the future.",
-        "score": 3,
-        "author": "GoingOffRoading"
+        "author": "Largofarburn"
       }
     ],
-    "summary_he": "הכותב מבקש לדעת כיצד ניתן לחזות את כמות הלקוחות היומית כדי לנהל את הזמנות המלאי בצורה מדויקת יותר. בנוסף, הוא תוהה אילו מדדים עוזרים לקבוע האם מוצר חדש שנוסף לחנות הוא אכן מוצלח ורווחי.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות בשרשור, המציג 6 נקודות ותובנות מרכזיות שעלו מהקהילה:\n\n*   **הצורך בחזרה ליסודות:** קיימת דעה בקהילה שלפני שרצים לפתרונות טכנולוגיים או מורכבים, יש לעצור ולבחון את הצעדים הבסיסיים של התהליך כדי לוודא שהתשתית נכונה.\n*   **הקשר הישיר בין כמות נתונים לדיוק התחזית:** חברי הקהילה מציינים כי ככל שיש יותר היסטוריית מכירות מתועדת, כך מלאכת החיזוי הופכת לקלה ומדויקת יותר.\n*   **מניעת מלאי עודף כערך מרכזי:** אחת המטרות העיקריות של שימוש בנתונים היא אופטימיזציה של המלאי, במטרה להימנע ממצב של אגירת סחורה מיותרת שאינה תואמת את הביקוש.\n*   **המלצה על רגרסיה ליניארית ככלי בסיסי:** מוצע להשתמש ברגרסיה ליניארית כשיטת החיזוי הפשוטה והנגישה ביותר עבור מי שמתחיל בתחום.\n*   **שימוש בכלים נגישים (Excel/Google Sheets):** הקהילה מדגישה שאין צורך בתוכנות מתוחכמות כדי להתחיל; ניתן להגיע לתוצאות משמעותיות באמצעות שימוש מושכל בגיליונות אלקטרוניים סטנדרטיים.\n*   **הכרה במגבלות המודלים הפשוטים:** חשוב להבין שמודלים בסיסיים מספקים רק \"תחזית גסה\". הם נשענים על נתוני עבר (תאריך וכמות) ואינם מסוגלים לשקלל אירועים בלתי צפויים המתרחשים בזמן אמת."
-  },
-  {
-    "id": "1ucim6z",
-    "title": "Is Elon worth it? Honestly!",
-    "url": "https://www.reddit.com/r/investing/comments/1ucim6z/is_elon_worth_it_honestly/",
-    "author": "moonrvrking",
-    "score": 1,
-    "selftext": "Does anyone actually “earn” this kind of money? Does he actually as one single man bring this kind of value to the world? \n\nTesla sells cars to xAI, SpaceX, and Booring… Tesla the claims a profit while his other companies claim losses. Tesla buys data from Starlink and starlink claims profits? \n\nWhen the world is worried about circular trades between OpenAI, Google, Nvidia, and Oracle? At lease it’s 5+ companies going in circles. \n\nElon seems like he’s just washing one hand with the other and taking tax breaks and depreciation along the way. ",
-    "subreddit": "investing",
-    "created_utc": 1782129624,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "So what's the answer then? Surely you must know it with that confidence..",
-        "score": 1,
-        "author": "GiveInsteadOfTaking"
-      },
-      {
-        "body": "God Reddit is literally just the same posts worded different on a rotation ",
-        "score": 1,
-        "author": "EasilyGod"
-      },
-      {
-        "body": "No, he is a grifter. He was exposed when he paid someone to play video games and claimed he was top 5 in the world. When he was caught, he claimed everyone did it because it was so time consuming. A great innovator, inventor or man does not have to lie about playing video games unless he is a grifter.  Saying “I’m too busy to play video games cause I’m saving the world”, would have kept his grift going.",
-        "score": 1,
-        "author": "Low-Apricot9917"
-      }
-    ],
-    "summary_he": "הפוסט מעלה תהייה האם אילון מאסק באמת ראוי להונו העצום והאם הוא מייצר ערך ממשי לעולם כאדם יחיד. הכותב טוען כי מאסק מבצע עסקאות סיבוביות וחשודות בין החברות שבבעלותו כדי להטות רווחים, להימנע ממסים ולנצל הטבות פחת, בדומה לשיטות הנהוגות בענקיות טכנולוגיה אחרות אך בתוך \"אימפריה\" של איש אחד.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום של הדיון ב-Reddit, המציג 6 נקודות מבט ורגשות שונים כפי שהתבטאו בתגובות:\n\n*   **ספקנות כלפי ביטחון עצמי מופרז:** אחד המגיבים מביע ספקנות כלפי משתמשים שמפגינים ביטחון עצמי גבוה בטיעוניהם, ומאתגר אותם להציג פתרון או תשובה ממשית במקום רק להישמע בטוחים בעצמם.\n*   **מיאוס מהחזרתיות בפלטפורמה:** עולה תחושת תסכול מהאופי של Reddit, שבו אותם נושאים ופוסטים ממוחזרים שוב ושוב בניסוחים שונים, מה שיוצר תחושה של \"לופ\" אינסופי של תכנים.\n*   **האשמה בנוכלות (Grifting):** קיימת דעה נחרצת שהדמות המדוברת בשרשור היא \"נוכל\" (Grifter). המגיב טוען שהתנהלותו אינה של אדם ישר אלא של מי שמנסה להוליך שולל את הציבור לצורך רווח תדמיתי.\n*   **זיוף הישגים כעדות לאופי:** המגיבים משתמשים בדוגמה ספציפית (זיוף דירוג במשחקי וידאו באמצעות תשלום לאחרים) כדי להוכיח שהאדם המדובר אינו אמין. הטענה היא שמי שמשקר בנושאים קטנים וזניחים כאלה, מעיד על חוסר יושרה עמוק.\n*   **ביקורת על תירוצים והצדקות:** הקהילה מבקרת את הנטייה של הדמות להצדיק את שקריה בטענה ש\"כולם עושים את זה\". נטען כי זוהי התחמקות מאחריות המאפיינת נוכלים ולא חדשנים אמיתיים.\n*   **הפער בין תדמית ה\"מושיע\" למציאות:** עולה טענה כי אדם שבאמת עסוק ב\"הצלת העולם\" או בחדשנות טכנולוגית לא היה מוצא זמן או צורך לשקר לגבי הישגים במשחקי וידאו. השקר נתפס כהוכחה לכך שהתדמית הציבורית שלו מזויפת."
-  },
-  {
-    "id": "1ucho2f",
-    "title": "Exclude stock exposure to ETF holdings",
-    "url": "https://www.reddit.com/r/investing/comments/1ucho2f/exclude_stock_exposure_to_etf_holdings/",
-    "author": "CapablePiglet1044",
-    "score": 1,
-    "selftext": "I hate that my ETFs (VOO and VT) have exposure to PLTR, TSLA, and might soon have exposure to SPCX and OpenAI. I don't want to debate with you whether Tesla, Palantir and SpaceX are over-valued, I feel like they are based on their earnings. A friend said that there are ways of removing exposure to these holdings through direct investing, but the minimums for this are quite high ($100K+). Why isn't there a broker where you can say what ETFs you own (ie '30 shares VT') and what exposure you want to get rid of 'ie 'TSLA') and it will automatically set up what is effectively a CFD position to remove your TSLA exposure, automatically increasing you're hedge position as the underlying ETFs increase their own exposure to TSLA and vice versa. It would work by you putting in some capital into the account and if TSLA/SPCX go down in price they would pay cash into your account to perfectly offset the loss from your SPCX inside your ETF going down in value, and would take cash out of your account if SPCX went up in value (offsetting the profits from SPCX going up in your own ETF holdings). This way you have effectively stripped out TSLA/SPCX or whatever stock you don't want exposure to, while still being able to own your normal ETFs. Would people even want this? Would you use this personally? Let me know if this already exists!",
-    "subreddit": "investing",
-    "created_utc": 1782126692,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "If you want to participate in willful blindness and ignore all of the political lobbying and favorable regulation other major corporations get within the same ETF, but just do so without a polarizing figurehead, you should just find one of those ESG ETFs that trail the normal market returns by any 10-12%.",
-        "score": 1,
-        "author": "0ddmanrush"
-      },
-      {
-        "body": "Replace VOO with dividend growth SCHD or Large cap value VTV.  Both are returning 12% or higher returns via DCA since January 2017.  This is adjusted for inflation and dividends reinvested.",
-        "score": 1,
-        "author": "InvestingNerd2020"
-      },
-      {
-        "body": "With VOO at least, you are shielded from SPCX for a year.  \n\nYou could also shift to semi-active funds like AVUS which seems to underweight TSLA at least",
-        "score": 1,
-        "author": "KleinUnbottler"
-      }
-    ],
-    "summary_he": "כותב הפוסט מעוניין לנטרל חשיפה למניות ספציפיות (כמו טסלה ופלנטיר) הנכללות בתוך תעודות הסל שברשותו, מתוך אמונה שהן מוערכות יתר על המידה. הוא מציע פתרון של גידור אוטומטי שיבטל את השפעת המניות הללו על התיק, ושואל האם קיים שירות כזה המיועד למשקיעים פרטיים.",
+    "summary_he": "להלן סיכום הפוסט:\n\nמשקיע בן 34, שחסך מזומן במשך שנים מחשש מהשוק ומהמתנה לעסקת נדל\"ן שלא יצאה לפועל, החל לאחרונה להשקיע בקרן סל עולמית ובזהב. כעת, כשיש ברשותו כ-34 אלף אירו מושקעים ו-46 אלף אירו נוספים במזומן, הוא מתלבט האם להמשיך באסטרטגיה פשוטה של מדדים רחבים או להתחיל לבנות פוזיציות במניות טכנולוגיה בודדות (כמו אנבידיה וטסלה) ובקריפטו. הוא מבקש את עצת הגולשים כיצד לנהל את יתרת המזומן הגדולה שברשותו לטווח הארוך כדי לפצות על השנים שבהן הכסף לא הושקע.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט ועמדות שונות של הקהילה:\n\n*   **ביקורת על צביעות פוליטית בהשקעות:** אחד המגיבים טוען כי הימנעות מהשקעה בחברה מסוימת רק בגלל דמות ציבורית שנויה במחלוקת (כמו אילון מאסק) היא בחינת \"עיוורון מרצון\". לטענתו, משקיעים אלו מתעלמים מכך שכל התאגידים הגדולים במדדים המובילים עוסקים בלוביזם פוליטי ונהנים מרגולציה מועדפת.\n*   **ביצועי חסר של קרנות ESG:** קיימת סנטימנט שלילי כלפי קרנות הממוקדות באחריות חברתית וסביבתית (ESG). נטען כי קרנות אלו אמנם מאפשרות להימנע מדמויות מקטבות, אך הן נוטות להציג תשואת חסר משמעותית של כ-10-12% בהשוואה למדדי השוק הרגילים.\n*   **העדפת אסטרטגיות ערך ודיבידנדים:** הצעה חלופית למדד ה-S&P 500 הסטנדרטי (VOO) היא מעבר לקרנות המתמקדות במניות ערך של חברות גדולות (VTV) או בצמיחת דיבידנדים (SCHD), מתוך תפיסה שהן מהוות תחליף ראוי וסולידי יותר.\n*   **ניתוח ביצועים היסטוריים:** הקהילה מציינת לחיוב את הביצועים של קרנות כמו SCHD ו-VTV, אשר הניבו תשואה של כ-12% ומעלה מאז ינואר 2017 (בחישוב ריאלי המותאם לאינפלציה וכולל השקעה חוזרת של דיבידנדים).\n*   **הגנה באמצעות מדדים רחבים:** נטען כי השקעה ב-VOO מספקת סוג של \"שכבת הגנה\" או השהיה מפני תנודתיות של מדדים ספציפיים יותר (כמו ה-SPCX) למשך תקופה של כשנה.\n*   **שימוש בניהול \"חצי-אקטיבי\" לצמצום חשיפה:** הצעה לשימוש בקרנות כמו AVUS, המוגדרות כחצי-אקטיביות, כדרך מתוחכמת להישאר בשוק הרחב תוך מתן משקל חסר (Underweight) למניות ספציפיות שנויות במחלוקת או תנודתיות, דוגמת טסלה (TSLA)."
+    "comments_summary_he": "להלן ניתוח של דעות וסנטימנטים מרכזיים מתוך הדיון ב-Reddit, המתומצטים ל-6 נקודות עיקריות בעברית:\n\n*   **המעבר למדדים רחבים וסולידיים:** קיימת מגמה של משקיעים שגרפו רווחים נאים ממניות צמיחה (כמו Nvidia) ועוברים כעת לאסטרטגיה של \"סלידה מסיכון\". הם מעדיפים להעביר את הונם למדדים רחבים ובטוחים יותר כמו VOO ו-VTI כדי לנעול רווחים ולהימנע מתנודתיות יתרה.\n*   **מחיר ההססנות ו\"ישיבה על הגדר\":** אחד הסנטימנטים החזקים הוא החרטה על אי-כניסה לשוק מוקדם יותר. משתמשים מתארים כיצד פחד מהשקעה גרם להם להשאיר סכומי כסף גדולים במזומן במשך שנים, מה שהוביל להפסד של עשרות אלפי דולרים ברווחים פוטנציאליים (עלות הזדמנות).\n*   **היחס המורכב לקריפטו – \"הימור\" ולא השקעה:** הקהילה נוטה לראות בקריפטו כלי להימורים מהירים ולא כמרכיב ליבה בתיק. הניסיון שנלמד הוא שגם כשמרוויחים \"על הנייר\", קשה מאוד לתזמן את השוק ולממש רווחים בזמן, ולכן ההמלצה היא להקצות לכך רק סכום קטן שמוכנים להפסיד (עד 15%).\n*   **הזדמנות דורית במגזר הטכנולוגיה:** למרות החשש מבועת AI, ישנה תמיכה רחבה בהשקעה במדדי טכנולוגיה (כמו QQQ או SPMO). המשקיעים רואים בטכנולוגיה הזדמנות של פעם בדור לבניית עושר משמעותי, ומתחרטים שלא הגדילו את החשיפה למגזר זה בשנים האחרונות.\n*   **הפסיכולוגיה של \"הרווח המוחמץ\":** קיימת ביקורת על הלך הרוח של משקיעים מודרניים שמתמקדים ברווחים שהיו יכולים להשיג אילו היו מחזיקים במניה עוד זמן, במקום לשמוח על רווחים ריאליים וגבוהים שכבר מימשו. התחושה היא שהציפיות של אנשים הפכו ללא ריאליות עקב תקופות של עליות קיצוניות.\n*   **חוסר בפרספקטיבה היסטורית של משברים:** משקיעים ותיקים יותר מציינים כי דור המשקיעים הנוכחי מכיר רק \"זמנים טובים\". ישנה אזהרה מפני שאננות, שכן רבים לא חוו משברים אמיתיים (כמו ב-2008) שבהם אנשים איבדו את עבודתם ונאלצו למכור נכסים בהפסדים כבדים רק כדי לשרוד."
   },
   {
-    "id": "1ucd0fv",
-    "title": "Hi i am 19 and never ever had experience of investing in anything , am interested whether i can invest 750$ in something productive. I live in asia , i do feel like that i can invest it in something interesting but can't see any ways yet, if there are better options with more capital i'd be more tha",
-    "url": "https://www.reddit.com/r/investing/comments/1ucd0fv/hi_i_am_19_and_never_ever_had_experience_of/",
-    "author": "Imaginary_Food_7102",
-    "score": 1,
-    "selftext": "Hi i am 19 and never ever had experience of investing in anything , am interested whether i can invest 750$ in something productive. I live in asia , i do feel like that i can invest it in something interesting but can't see any ways yet, if there are better options with more capital i'd be more than happy to hear",
-    "subreddit": "investing",
-    "created_utc": 1782110310,
+    "id": "1ubm8f9",
+    "title": "At $4.66 SNAP is close to all time lows which it bounced off of three months ago. So what’s changed in three months?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1ubm8f9/at_466_snap_is_close_to_all_time_lows_which_it/",
+    "author": "lies_are_comforting",
+    "score": 42,
+    "selftext": "Should we expect the stock to revisit all time lows in the high $3’s or is it likely the stock will quickly bounce back to $5-$6? \n\nWell, let’s compare the state of the company now with three-four months ago when the stock traded in the $3-$4 range. \n\nFebruary - April: all social media stocks got absolutely hammered when entering 2026. RDDT, PINS and SNAP were all roughly down 50 % year to date at some point in February-April. Fast forward to today and RDDT and PINS are now roughly down 25 % year to date while the same was true for SNAP until a few days ago when the unveiling of the Specs AR glasses caused to stock to crash 20 % in the span of a few days which means it’s now down over 40 % year to date. Interestingly, approximately ten different stock analysts updated their ratings and price targets for the stock following the glasses unveiling and not one of them was negative. They were all neutral and reiterated their predictions except for the Wells Fargo analyst which actually raised their price target. \n\nNow, analysts usually aren’t held in very high regard to be fair and a lot of the times it does seem like they just place their bets near where the stock price is. Still, it’s worth taking note analysts see roughly 30 % upside for PINS and RDDT, 40 % upside for META but a whopping 75 % upside for SNAP. \n\nMost analysts who have commented on the recent unveiling of the Specs glasses generally say everything went the way they expected it to. They care much more about the core business of the company. \n\nA few notable things to note when looking at now vs February-April for Snap Inc: On June 3 SP Global Ratings upgraded the company's issuer credit rating to BB- from B+. On March 31 activist investor Irenic disclosed a massive 2.5 % stake in the company and they shared a plan to 7x the company’s value. On April 15 Snap Inc cut 16 % of its workforce ie 1,000  \njobs due to AI advancements. \n\nSnap’s Q1 earnings report was kinda mixed but it seems the company’s pivot to profitability is going well. What’s not going well is the continued decline in daily active users in North America. \n\nSo, what do you think- is the stock going to be pinned in the $4 range or will it reach new historical all time lows at sub $4, or is it poised to bounce back over $5 again and maybe reach $6 short term? Just five days ago it traded for $6 and the Specs glasses unveiling caused it to crash to its current trading price of $4.66. \n\nFinally it’s worth noting that the stock jumped almost 10 % last week when the Iran peace deal was announced. Of course, with the Hormuz strait now closed (or is it?) it’s possible it will react negatively tomorrow when the market opens unless the bottom  \nIs in. ",
+    "subreddit": "StockMarket",
+    "created_utc": 1782036214,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Anthropic is not public, but you can buy a public one for sure. The common wisdom says you should do it based on your risk appetite. Is 750 pocket change for you, or a considerable sim. Invest in index like SPY instead of individual stocks for lower volatility.",
-        "score": 2,
-        "author": "ThreeFiddyTitty"
+        "body": "You can't be in business for over a decade and not turn a profit. That's crazy. It wouldn't even be eligible for a value trap, as there's no value. ",
+        "score": 19,
+        "author": "pielekonter"
       },
       {
-        "body": "**At 19, I'd invest in three things:**\n\n* **Your skills** (courses, certifications, tools that increase earning potential)\n* **Broad market index funds/ETFs** (simple, diversified investing)\n* **A small 'learning portfolio'** (5-10% of the money to experiment with individual stocks if you're interested)\n\nThe return on increasing your income at 19 is often much higher than the return on a perfect investment.",
-        "score": 2,
-        "author": "Used-Air-2688"
+        "body": "Yes, but in the entire span of the company, they are unprofitable. ",
+        "score": 17,
+        "author": "IllGene2373"
       },
       {
-        "body": "Invest in your education and skills ",
-        "score": 1,
-        "author": "SignificanceNo3295"
+        "body": "Snap is a bag of shit I am still holding hoping to always recover what i invested. ",
+        "score": 14,
+        "author": "lifeHopes21"
       }
     ],
-    "summary_he": "צעיר בן 19 מאסיה, ללא ניסיון קודם בהשקעות, מבקש המלצות כיצד להשקיע סכום של 750 דולר בצורה פרודוקטיבית ומעניינת. הוא מחפש כיוונים חדשים ופתוח לשמוע גם על אפשרויות השקעה הדורשות הון גבוה יותר לטווח הרחוק.",
+    "summary_he": "מניית סנאפ (SNAP) חזרה לרמות שפל לאחר ירידה חדה של כ-20% בעקבות השקת משקפי ה-AR החדשים, למרות תחזיות אופטימיות של אנליסטים ושיפור בדירוג האשראי של החברה. הפוסט בוחן האם צעדי התייעלות, קיצוצי כוח אדם וכניסת משקיע אקטיביסט יביאו להתאוששות מהירה למחיר של 5-6 דולר, או שהמניה תמשיך לצנוח לשפל היסטורי חדש על רקע הירידה במספר המשתמשים הפעילים בצפון אמריקה.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט ועמדות שונות של הקהילה:\n\n* **סטטוס ההשקעה באנתרופיק:** הקהילה מבהירה כי חברת Anthropic אינה חברה ציבורית הנסחרת בבורסה, ולכן לא ניתן לקנות את מניותיה באופן ישיר כרגע.\n* **ניהול סיכונים מותאם אישית:** ההחלטה היכן וכמה להשקיע צריכה להתבסס על \"התיאבון לסיכון\" של המשקיע. על המשקיע לשאול את עצמו האם סכום ההשקעה (למשל 750 דולר) הוא \"כסף קטן\" עבורו או סכום משמעותי שיכאב לו להפסיד.\n* **העדפת מדדים על פני מניות בודדות:** קיימת הסכמה רחבה שעדיף להשקיע בקרנות מחקות מדד רחבות (כמו SPY) המציעות פיזור וסיכון נמוך יותר (תנודתיות נמוכה) בהשוואה לבחירת מניות של חברות בודדות.\n* **השקעה בהון אנושי בגיל צעיר:** בגילאים צעירים (כמו גיל 19), ההשקעה בעלת התשואה הגבוהה ביותר היא \"השקעה בעצמך\" – רכישת מיומנויות, קורסים, תעודות וכלים שיעלו את פוטנציאל ההשתכרות העתידי.\n* **פוטנציאל הכנסה מול תשואת שוק:** הקהילה טוענת כי בגיל צעיר, היכולת להגדיל את ההכנסה החודשית משפיעה על העושר לטווח ארוך הרבה יותר מאשר ניסיון להשיג את התשואה ה\"מושלמת\" מהשקעה פיננסית בסכום קטן.\n* **אסטרטגיית \"תיק לימודי\" מבוקר:** הצעה לשילוב בין ביטחון לסקרנות – הקצאת הרוב המכריע של הכסף למדדים יציבים, תוך שמירת חלק קטן (5-10%) כ\"תיק לימודי\" המיועד להתנסות ולמידה של שוק המניות באופן פעיל."
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שפורסמו, המציג 6 נקודות מבט וסנטימנטים שונים מהקהילה:\n\n*   **ביקורת על חוסר רווחיות כרוני:** קיים תסכול עמוק מכך שחברה שפועלת מעל עשור עדיין לא הצליחה להציג רווחים. המגיבים רואים בכך התנהלות עסקית לא סבירה (\"זה מטורף\").\n*   **היעדר ערך בסיסי (Intrinsic Value):** אחד המגיבים טוען כי לחברה אין שום ערך ממשי, עד כדי כך שהיא אפילו לא ראויה להיקרא \"מלכודת ערך\" (Value Trap), שכן מושג זה מניח קיומו של ערך כלשהו שנשחק.\n*   **חוסר רווחיות היסטורי מתמשך:** מודגשת העובדה שלאורך כל שנות קיומה של החברה, היא מעולם לא הייתה רווחית, מה שמעיד על בעיה מבנית במודל העסקי שלה.\n*   **סנטימנט שלילי קיצוני מצד משקיעים:** השימוש בשפה בוטה (\"שק של חרא\") משקף זעם ואכזבה עמוקה של הקהילה כלפי המניה והחברה (סנאפ).\n*   **תופעת ה-\"Bag Holding\":** הדיון חושף את מצבם של משקיעים שמרגישים \"תקועים\" עם המניה. הם מחזיקים בה לא מתוך אמונה, אלא כי ערכה ירד כל כך שהם לא מוכנים למכור בהפסד.\n*   **תקווה להחזר השקעה במקום צמיחה:** המניע העיקרי שנותר להמשך החזקה במניה אינו ציפייה לרווחים עתידיים או צמיחה, אלא תקווה נואשת פשוט \"להחזיר את ההשקעה\" (Break even) ולצאת מהפוזיציה."
   },
   {
-    "id": "1ucbbd9",
-    "title": "When do fundamentals in stocks matter?",
-    "url": "https://www.reddit.com/r/investing/comments/1ucbbd9/when_do_fundamentals_in_stocks_matter/",
-    "author": "Hefty-Report6360",
-    "score": 1,
-    "selftext": "During boom-times, fundamentals don't seem to matter (see AI, 2026).\n\nDuring bust-times, fundamentals also don't seem to matter (see mass-selloffs, 2008).\n\nSo when do fundamentals matter? Waiting for fundamentals to matter seems futile, since that point may never arrive.",
+    "id": "1ubt0as",
+    "title": "Tracking macro factors in economy in google sheets, any free templates / or you use?",
+    "url": "https://www.reddit.com/r/investing/comments/1ubt0as/tracking_macro_factors_in_economy_in_google/",
+    "author": "NetZeroSun",
+    "score": 5,
+    "selftext": "So there are a couple of macro factors out there, beyond the obvious S&P, DOW, NASDAQ movements, but for example, inflation rate, CPI, USD dollar to X currency, treasury rates, etc.\n\nIs there any google sheets that you use (thats free) to help summarize and track this in a simple dashboard? I dont need real time so much as current value, maybe also the past 1 month , 6 month and 12 month range (or more).\n\nTo help get a reading on the some of the macro factors involved in the market?\n\nI am looking into building it out myself but I have no finance knowledge and its taking quite a while to research some value, then figure out how to load it into google sheets and parse through it etc.\n\nJust want to see if anyone has a free google sheets dashboard type sheet have for a lot of the macro / industry metrics.",
     "subreddit": "investing",
-    "created_utc": 1782104524,
+    "created_utc": 1782055957,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Fundamentals haven’t mattered since 2018",
+        "body": "I use FRED, here's my dashboard uses scripting so I wouldn't expect anyone else to use it, but I can share the script if you want to build your own. \n\n|**Improving / easing**|**Deteriorating / tightening**|**Review manually**|**Blank / not loaded**|\n|:-|:-|:-|:-|\n|**10**|**5**|**4**|**0**|\n|||||||||\n|**Factor**|**Indicator**|**Latest Date**|**Latest Value**|**3M Change**|**12M Change**|**Signal**|**Notes**|\n|Labor|Unemployment rate|2026-05-01|4.30|0.00|0.00|Flat|Labor slack. Watch rapid 3M increases.|\n|Labor|Nonfarm payrolls|2026-05-01|159001.00|0.26%|0.32%|Improving / expanding|Payroll employment level. Negative momentum = labor cooling.|\n|Inflation|CPI|2026-05-01|333.98|2.26%|4.17%|Deteriorating / tightening|Headline consumer inflation index.|\n|Inflation|Core CPI|2026-05-01|336.12|1.00%|2.82%|Deteriorating / tightening|Consumer inflation excluding food and energy.|\n|Inflation|PCE price index|2026-04-01|130.90|1.47%|3.77%|Deteriorating / tightening|Broad PCE price index.|\n|Inflation|Core PCE price index|2026-04-01|129.63|0.93%|3.29%|Deteriorating / tightening|Fed-preferred core inflation gauge.|\n|Policy|Federal funds rate|2026-05-01|3.63|\\-0.01|\\-0.70|Improving / easing|Policy rate. Rising = tightening; falling = easing.|\n|Rates|10Y Treasury yield|2026-06-17|4.49|0.24|0.10|Review manually|Long-rate pressure; context matters.|\n|Rates|10Y minus 2Y yield curve|2026-06-18|0.27|\\-0.24|\\-0.17|Review manually|Inversion/re-steepening signal; review manually.|\n|Credit|High yield OAS|2026-06-17|2.63|\\-0.64|\\-0.54|Improving / easing|Credit stress spread. Wider = tighter conditions.|\n|Housing|Housing starts|2026-05-01|1177.00|\\-15.02%|\\-8.69%|Weakening|New residential construction activity.|\n|Housing|Building permits|2026-05-01|1413.00|1.44%|\\-0.21%|Improving / expanding|Forward-looking housing construction indicator.|\n|Demand|Retail sales|2026-05-01|763705.00|3.98%|6.88%|Improving / expanding|Nominal retail sales. Pair with inflation for real demand read.|\n|Growth|Industrial production|2026-05-01|102.65|1.51%|1.67%|Improving / expanding|Manufacturing/industrial momentum.|\n|Liquidity|M2 money supply|2026-04-01|22804.50|1.67%|4.72%|Review manually|Broad liquidity proxy; review with inflation/rates.|\n|Energy|WTI crude oil|2026-06-15|84.65|\\-11.83%|14.64%|Review manually|Energy inflation/global demand proxy.|\n|Dollar|Broad dollar index|2026-06-12|119.51|\\-0.87%|\\-0.55%|Improving / easing|Dollar strength. Sharp rises can tighten global conditions.|\n|Cycle|NBER recession indicator|2026-05-01|0.00|0.00|0.00|Flat|1 = recession month, 0 = expansion month.|",
         "score": 1,
-        "author": "CarminSanDiego"
+        "author": "roll0ver"
       },
       {
-        "body": "Fundamentals statistically don’t matter in this market. People that disagree largely don’t know what they’re talking about. The actual answer is when dispersion is high. In markets where momentum is favored for extended periods fundamentals stop being commensurately rewarded  (returns become more heteroskedastic) as fundamental investors are increasingly drowned out by systematic investors selling reasonably priced stocks to buy the high momentum ones. ",
+        "body": "FRED is the source I use, here's my dashboard:\n\n|**Macro Factor Dashboard**|\n|:-|\n|||||||||\n|Designed for Google Sheets. Data populates from raw FRED tabs via IMPORTDATA; market proxies use GOOGLEFINANCE.|\n|||||||||\n|**Improving / easing**|**Deteriorating / tightening**|**Review manually**|**Blank / not loaded**|\n|**10**|**5**|**4**|**0**|\n|||||||||\n|**Factor**|**Indicator**|**Latest Date**|**Latest Value**|**3M Change**|**12M Change**|**Signal**|**Notes**|\n|Labor|Unemployment rate|2026-05-01|4.30|0.00|0.00|Flat|Labor slack. Watch rapid 3M increases.|\n|Labor|Nonfarm payrolls|2026-05-01|159001.00|0.26%|0.32%|Improving / expanding|Payroll employment level. Negative momentum = labor cooling.|\n|Inflation|CPI|2026-05-01|333.98|2.26%|4.17%|Deteriorating / tightening|Headline consumer inflation index.|\n|Inflation|Core CPI|2026-05-01|336.12|1.00%|2.82%|Deteriorating / tightening|Consumer inflation excluding food and energy.|\n|Inflation|PCE price index|2026-04-01|130.90|1.47%|3.77%|Deteriorating / tightening|Broad PCE price index.|\n|Inflation|Core PCE price index|2026-04-01|129.63|0.93%|3.29%|Deteriorating / tightening|Fed-preferred core inflation gauge.|\n|Policy|Federal funds rate|2026-05-01|3.63|\\-0.01|\\-0.70|Improving / easing|Policy rate. Rising = tightening; falling = easing.|\n|Rates|10Y Treasury yield|2026-06-17|4.49|0.24|0.10|Review manually|Long-rate pressure; context matters.|\n|Rates|10Y minus 2Y yield curve|2026-06-18|0.27|\\-0.24|\\-0.17|Review manually|Inversion/re-steepening signal; review manually.|\n|Credit|High yield OAS|2026-06-17|2.63|\\-0.64|\\-0.54|Improving / easing|Credit stress spread. Wider = tighter conditions.|\n|Housing|Housing starts|2026-05-01|1177.00|\\-15.02%|\\-8.69%|Weakening|New residential construction activity.|\n|Housing|Building permits|2026-05-01|1413.00|1.44%|\\-0.21%|Improving / expanding|Forward-looking housing construction indicator.|\n|Demand|Retail sales|2026-05-01|763705.00|3.98%|6.88%|Improving / expanding|Nominal retail sales. Pair with inflation for real demand read.|\n|Growth|Industrial production|2026-05-01|102.65|1.51%|1.67%|Improving / expanding|Manufacturing/industrial momentum.|\n|Liquidity|M2 money supply|2026-04-01|22804.50|1.67%|4.72%|Review manually|Broad liquidity proxy; review with inflation/rates.|\n|Energy|WTI crude oil|2026-06-15|84.65|\\-11.83%|14.64%|Review manually|Energy inflation/global demand proxy.|\n|Dollar|Broad dollar index|2026-06-12|119.51|\\-0.87%|\\-0.55%|Improving / easing|Dollar strength. Sharp rises can tighten global conditions.|\n|Cycle|NBER recession indicator|2026-05-01|0.00|0.00|0.00|Flat|1 = recession month, 0 = expansion month.|",
         "score": 1,
-        "author": "kalterik"
-      },
-      {
-        "body": "fundamentals matter most over holding periods of 5+ years. in the short term you're competing against sentiment and liquidity flows, not earnings. the longer the time horizon, the more price eventually converges on value; which is partly why passive long-term investing works even though it ignores fundamentals entirely",
-        "score": 1,
-        "author": "BeuTaude588"
+        "author": "roll0ver"
       }
     ],
-    "summary_he": "הכותב תוהה מתי נתוני היסוד (fundamentals) של מניות באמת משפיעים על מחירן, שכן בזמני גאות ההייפ שולט ובזמני משבר הפאניקה מכריעה. לטענתו, נראה שהשוק מתעלם מהנתונים הכלכליים בשני המצבים הקיצוניים, מה שמעלה את השאלה האם ההסתמכות עליהם רלוונטית או שמדובר בהמתנה לשווא.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מבט וסנטימנטים המבטאים את דעת הקהילה:\n\n**סיכום הדיון (Discussion Summary):**\n\n*   **חוסר רלוונטיות היסטורי:** קיימת טענה חריפה כי היסודות הכלכליים (Fundamentals) של חברות הפסיקו להשפיע על מחיר המניה כבר משנת 2018, ומאז השוק מתנהג אחרת.\n*   **הוכחה סטטיסטית מול דעה אישית:** נטען כי מבחינה סטטיסטית, הנתונים הפונדמנטליים פשוט אינם משמעותיים בשוק הנוכחי, ומי שטוען אחרת אינו מבין לעומק את המכניקה של השוק המודרני.\n*   **השתלטות המומנטום על הערך:** בשווקים שבהם אסטרטגיית \"מומנטום\" (Momentum) שולטת לאורך זמן, הניתוח הכלכלי המסורתי מפסיק להניב תשואות עודפות, כיוון שהשוק מפסיק לתגמל שווי הוגן.\n*   **דחיקת המשקיעים המסורתיים:** משקיעים מערכתיים (Systematic investors) וטכנולוגיים \"מחרישים\" את קולם של משקיעי הערך; הם מוכרים מניות במחיר סביר כדי לרדוף אחרי מניות עם מומנטום גבוה, מה שמעוות את הקשר בין מחיר לערך.\n*   **טווח קצר מול טווח ארוך:** קיימת הבחנה ברורה בין טווחי זמן – בטווח הקצר המחירים נקבעים על ידי סנטימנט והזרמת נזילות (Liquidity), בעוד שהרווחים והנתונים הכלכליים הופכים לרלוונטיים רק בטווח של 5 שנים ומעלה.\n*   **הצדקת ההשקעה הפסיבית:** ההשקעה הפסיבית לטווח ארוך מצליחה דווקא בגלל שבסופו של דבר המחיר מתכנס לערך האמיתי, גם אם המשקיע עצמו מתעלם לחלוטין מהנתונים הפונדמנטליים לאורך הדרך."
+    "summary_he": "הכותב מחפש תבניות חינמיות ב-Google Sheets למעקב אחר מדדי מאקרו-כלכלה כמו אינפלציה, ריביות ושערי חליפין, כדי להבין טוב יותר את מגמות השוק. הוא מעוניין בדשבורד פשוט שיציג נתונים נוכחיים לצד נתונים היסטוריים (עד שנה אחורה). כיוון שאין לו רקע פיננסי, הוא מעדיף להשתמש בכלי קיים במקום לבנות דוח כזה מאפס בעצמו.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון והתובנות העולות מניתוח לוחות הבקרה (Dashboards) והערות המשתמשים בשרשור:\n\n*   **הסתמכות על FRED כסטנדרט המרכזי:** המשתמשים רואים ב-FRED (מאגר הנתונים של הפדרל ריזרב) את מקור המידע המהימן והחיוני ביותר לניתוח מאקרו-כלכלי. הקהילה מדגישה את החשיבות של עבודה עם נתוני גלם רשמיים על פני פרשנויות צד ג'.\n*   **העדפה לאוטומציה וכלים מותאמים אישית:** קיימת נטייה חזקה לבניית לוחות בקרה עצמאיים המבוססים על סקריפטים או פונקציות ב-Google Sheets (כמו `IMPORTDATA` ו-`GOOGLEFINANCE`). המשתמשים מעדיפים שהנתונים יתעדכנו אוטומטית כדי לאפשר מעקב שוטף ללא צורך בהזנה ידנית.\n*   **דאגה עקבית מהאינפלציה:** מהנתונים עולה סנטימנט שלילי מובהק בנוגע לאינפלציה. כל המדדים המרכזיים (CPI, Core CPI, PCE) מסומנים כ\"מדרדרים\" או \"מתהדקים\", מה שמצביע על כך שהלחצים האינפלציוניים נותרים האתגר המרכזי במערכת.\n*   **ניתוח מורכב של שוק הדיור:** הקהילה מזהה איתותים סותרים בתחום הדיור; בעוד שהתחלות הבנייה נמצאות בירידה חדה (סימן לחולשה), היתרי הבנייה מראים שיפור קל. הדבר מעיד על חוסר ודאות לגבי המשך הפעילות הכלכלית בענף זה.\n*   **שוק העבודה כאינדיקטור ליציבות מול האטה:** למרות ששיעור האבטלה נחשב כרגע ל\"שטוח\" ויציב, המשתמשים מציינים שיש לעקוב בדריכות אחר שינויים מהירים בטווח של שלושה חודשים (\"Labor slack\") כדי לזהות סימנים מוקדמים למיתון או קירור יתר של השוק.\n*   **תמונה מאקרו-כלכלית מעורבת אך נוטה להתרחבות:** באופן כללי, לוח הבקרה מראה יותר גורמים הנמצאים במגמת \"שיפור או הקלה\" (10 מדדים) לעומת גורמים בנסיגה (5 מדדים). נתונים כמו מכירות קמעונאיות וייצור תעשייתי מעודדים, ומאזנים במידת מה את החששות מהריבית והאינפלציה."
   },
   {
-    "id": "1uca530",
-    "title": "HSA Investing Limits Clarification",
-    "url": "https://www.reddit.com/r/investing/comments/1uca530/hsa_investing_limits_clarification/",
-    "author": "Tennisdude111",
-    "score": 1,
-    "selftext": "Hello all,\n\nIf someone starts single with a HDHP, gets married Q2 and keeps their HDHP, and then gets off the HDHP Q3 due to a qualifying life event, how do their contribution limits look?  Are the 2028 contribution limits prorated by the 3 stages of their life or is it different? Are the contributions prorated by month, or down to the day? Let’s ignore catch up contributions and assume this person is under 55.",
+    "id": "1ubxay6",
+    "title": "SPCX 15 Inclusion Question",
+    "url": "https://www.reddit.com/r/investing/comments/1ubxay6/spcx_15_inclusion_question/",
+    "author": "EquipmentThis7934",
+    "score": 4,
+    "selftext": "Hi I have a question about the 15 day Space X inclusion period where it officially gets added to multiple indexes. I want to focus on the Nasdaq 100.\n\nMy question is about index funds front running this inclusion. On July 6th the rebalancing is officially completed for the Nasdaq 100 to include spacex. So my question is when do these index funds actually start purchasing? \n\nFrom what I understand these index funds are not allowed to purchase until after 15 days from the IPO so that would land on July 1st or 2nd I believe. \n\nMy question is have these funds forcefully been purchasing from the start or are they being forced to wait until July to actually do the required buying.\n\nI just want to understand this because people are saying contradicting things. ",
     "subreddit": "investing",
-    "created_utc": 1782100779,
+    "created_utc": 1782066305,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "That’s a really clear explanation, thank you. The prorating based on qualifying months makes it easier to understand. The FSA interaction is definitely an important caveat people often miss.",
-        "score": 1,
-        "author": "Syra_panessa4T"
-      },
-      {
-        "body": "Wait so if I switched to an HDHP mid-month, say March 10th, I don't get credit for March at all? Has to be enrolled on the 1st? That's kinda brutal",
+        "body": "yeah that tracking error language is basically their get-out-of-jail card. Invesco usually rebalances quarterly so SPCX wouldn't hit QQQ immediately even after the",
         "score": 1,
         "author": "teslaTools"
       },
       {
-        "body": "Contribution limits are unlocked by prorating based on 1st of every month.\n\nSo # of 1st of months that you have HSA qualifying HDHP as the sole form of health insurance, you get #/12 of the individual annual HSA maximum.\n\nCaveats:\n\n* Spousal general FSA would be considered \"other insurance\" and no longer earn credit for HSA contribution space.\n* Last Month Rule (does not apply given your scenario).",
+        "body": "Different funds have different rebalancing dates. You'll have to read their individual prospectus to figure out the dates ",
         "score": 1,
-        "author": "BouncyEgg"
+        "author": "StandardBumblebee620"
+      },
+      {
+        "body": "I read the prospectus for QQQ.  It talks all around periodic rebalancing and when a stock(s) is added or removed, but it doesn't address the question directly.\n\nAll it says directly is that following one of those scenarios, its portoflio may not exactly match the underlying index until two trading days after the event.\n\nSo that would be an indication that they're **finished** buying by then, but doesn't say anything about when they might start.\n\nThere's a lot of language in there about how the fund may not precisely track the underlying index on any given day because of any number of contingencies, but addition/deletion isn't mentioned.\n\nIf I had to guess, I'd say they probably don't buy until the open on the trading day after the inclusion.\n\nSell the booted out stock(s) on inclusion day\n\nBuy the new stock(s) the next day\n\nThose buy trades settle the day after that.\n\nThe language about not matching the underlying index until two days after inclusion may be a tip off to that.\n\nQQQ publishes its portfolio every day, so you can track it if you want and see if SPCX pops up in there before the inclusion date.\n\nhttps://www.invesco.com/us/en/financial-products/etfs/invesco-qqq-trust-series-1.html\n\nScroll down to \"Portfolio.\"",
+        "score": 1,
+        "author": "DoinIt4DaShorteez"
       }
     ],
-    "summary_he": "הפוסט מבקש הבהרה לגבי חישוב תקרת ההפקדה לחשבון חיסכון בריאות (HSA) בשנה שבה חלו שינויים בסטטוס הביטוחי (מעבר מכיסוי יחיד למשפחתי וביטול הכיסוי בהמשך). המשתמש שואל האם התקרה מחושבת באופן יחסי לפי חודשים או ימים בהתאם לפרק הזמן שבו שהה בכל סטטוס.",
+    "summary_he": "הכותב מבקש להבין מתי קרנות המחקות את מדד הנאסד\"ק 100 מתחילות לרכוש בפועל מניות של חברה חדשה (במקרה זה SpaceX) לקראת הכללתה הרשמית במדד. הוא תוהה האם הקרנות מבצעות רכישות מוקדמות (\"front running\") או שהן מחויבות להמתין לסיום תקופת המתנה של 15 יום ממועד ההנפקה לפני שהן מתחילות בקנייה הנדרשת.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בשרשור המבוסס על התגובות שנכתבו, הכולל 6 נקודות מרכזיות, דעות ותובנות של חברי הקהילה:\n\n*   **הערכה להסבר על שיטת החישוב היחסי:** חברי הקהילה הביעו הערכה על ההסבר הברור לגבי אופן חישוב תקרת ההפקדה ל-HSA על בסיס חודשי (Prorating), מה שהופך את הנושא המורכב לקל יותר להבנה.\n*   **תסכול מ\"כלל ה-1 בחודש\":** עלה תסכול (שתואר כ\"אכזרי\" – Brutal) מכך שהזכאות להפקדה עבור חודש מסוים נקבעת אך ורק אם הביטוח (HDHP) היה פעיל כבר ב-1 באותו חודש. מי שהצטרף לתוכנית ב-10 לחודש, למשל, מאבד את הזכאות עבור כל אותו החודש.\n*   **שיטת החישוב המתמטית:** הובהר כי תקרת ההפקדה השנתית נפתחת בהדרגה – על כל חודש שבו האדם מבוטח בביטוח מתאים (HDHP) ב-1 לחודש, הוא זכאי ל-1/12 מהסכום השנתי המקסימלי המותר בחוק.\n*   **השפעת חשבון FSA של בן/בת הזוג:** אחת האזהרות החשובות שצוינו היא שקיום חשבון FSA כללי של בן או בת זוג נחשב כ\"ביטוח נוסף\", מה שעלול לשלול מהמשתמש את האפשרות לצבור זכאות להפקדות ב-HSA.\n*   **חשיבות הבלעדיות של הביטוח:** הקהילה מדגישה כי כדי להיות זכאי להפקדות, תוכנית ה-HDHP חייבת להיות צורת הביטוח הרפואי היחידה של המשתמש; כל כיסוי נוסף עלול לבטל את הזכאות.\n*   **מודעות לחריגים כמו \"כלל החודש האחרון\":** למרות שלא תמיד חל על כולם, המשתמשים מציינים שיש להכיר חריגים וכללים מיוחדים (כמו Last Month Rule) שמשפיעים על חישוב ההפקדות והזכאות בסוף שנת המס."
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע לאופן שבו קרן ה-QQQ (של חברת Invesco) מבצעת איזון מחדש של אחזקותיה:\n\n*   **השימוש במונח \"שגיאת עקיבה\" (Tracking Error) כהגנה משפטית:** המשתמשים מציינים כי הניסוח בתשקיף הקרן בנוגע לשגיאות עקיבה משמש למעשה כ\"כרטיס יציאה מהכלא\" עבור מנהלי הקרן, ומאפשר להם גמישות משפטית במקרים שבהם הפורטפוליו אינו תואם בדיוק את המדד.\n*   **תדירות האיזון של Invesco:** צוין כי חברת Invesco נוהגת לבצע איזון מחדש של אחזקותיה בדרך כלל על בסיס רבעוני, ולכן מניה חדשה (כמו SPCX) לא בהכרח תתווסף ל-QQQ באופן מיידי ברגע שהיא נכללת במדד.\n*   **העדר שקיפות בנוגע למועדי התחלת הקנייה:** מבדיקה בתשקיף של QQQ עולה כי הקרן מדברת סביב נושא האיזון התקופתי, אך אינה מציינת באופן ישיר מתי היא מתחילה לרכוש מניות חדשות, אלא רק מתי התהליך אמור להסתיים.\n*   **חלון הזמן להתאמה מלאה:** על פי התשקיף, ייתכן שחלפו יומיים של מסחר לאחר אירוע של הוספה או הסרה של מניה עד שהפורטפוליו יתאים בדיוק למדד הבסיס. זהו רמז לכך שביום השני שלאחר האירוע הרכישות כבר הושלמו.\n*   **תיאוריה לגבי אסטרטגיית המסחר:** קיימת הערכה בקהילה שהקרן מוכרת את המניות שנפלטו מהמדד ביום ההכללה עצמו, ורוכשת את המניות החדשות רק ביום המסחר שאחריו, כאשר סליקת העסקאות (Settlement) מסתיימת יום לאחר מכן.\n*   **מעקב עצמאי באמצעות פרסומים יומיים:** מכיוון ש-QQQ מפרסמת את הרכב הפורטפוליו שלה בכל יום באתר האינטרנט הרשמי, הקהילה מציעה למשקיעים לעקוב אחר הרשימה באופן עצמאי כדי לזהות מתי מניה חדשה מופיעה בפועל באחזקות, במקום להסתמך רק על ניחושים מהתשקיף."
   },
   {
-    "id": "1uc9pti",
-    "title": "Question about $SSPC: how does it work?",
-    "url": "https://www.reddit.com/r/investing/comments/1uc9pti/question_about_sspc_how_does_it_work/",
-    "author": "siskyouthrowaway",
-    "score": 1,
-    "selftext": "As many of you know, it's something like a \"2x Short SPCX Daily ETF\" . I was looking at it, and noticed that if $SPCX was down x%, $SSPC was up 2\\*x%, almost exactly. How are they able to achieve this? I'm just wondering what the mechanics of this fund are. \n\nAnd if one were bearish on $SPCX and buy $SSPC, is it safe to hold it for a period of time (months)? Or should one get in/out every day, since the name says \"Daily\". ",
+    "id": "1ubr9pk",
+    "title": "value and momentum factor etf",
+    "url": "https://www.reddit.com/r/investing/comments/1ubr9pk/value_and_momentum_factor_etf/",
+    "author": "Realistic_Orchid_507",
+    "score": 3,
+    "selftext": "iam thinking of doing the fellowing\n\n15% fmtm 15% sgrt 30% avlv 20% idmo 20% jive or AVNV\n\ni dont like idmo becuase it dont have emerging market i know there separate etf for momentum emerging market but i want to keep thing simple i want one etf momentum developed +emerging   , i am waiting the international version of fmtm it should go live in August or September with em and dev in same etf\n\nalso iam hesitate between jive or avnv what you think?\n\nand what about idea of pairing momentum with value?",
     "subreddit": "investing",
-    "created_utc": 1782099448,
+    "created_utc": 1782051587,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "It is essentially just a basket of derivatives, usually options. If you sell a call and buy a put for the same strike and expiration, the position will act like a leveraged short position on the underlying (this is called put-call parity). The fund just does this across a bunch of strikes and expirations to achieve 2x leverage.\n\nIt's \"safe\" to hold it for longer periods of time, but the returns will decay away from an exact 2x leveraged short position. It kinda acts like an extra management fee, except that it varies with market volatility. If you want to hold a short position for months, buying and selling daily won't really \"avoid\" that decay, since you'll be paying the bid-ask every day instead. But if you do want a leveraged short position, you'll probably see the same decay no matter what. If you built the short position out of options yourself, you'd see the same decay in the form of theta, and you could short the shares directly, but you'd be paying a variable-rate interest on the shares you borrowed. Arbitrage means that all the different ways of achieving a particular position will be about the same, modulo fees.",
-        "score": 1,
-        "author": "CocktailPerson"
+        "body": "Interesting. Do you also have a suggestion for emerging markets and/or energy? ",
+        "score": 2,
+        "author": "KuteCitten"
       },
       {
-        "body": "yeah the decay from daily rebalancing is brutal in choppy markets. fine as a short term play but holding leveraged ETFs long term you're basically fighting volatility drag the whole",
+        "body": "They are reopening the Crane Clean Energy Center. They are reinvesting free cash flow and doing aggressive share buybacks. They have the largest nuclear fleet in the world. I just see it as undervalued at the moment. ",
         "score": 1,
-        "author": "teslaTools"
+        "author": "KuteCitten"
       },
       {
-        "body": "They handle the magic on their end with a series of derivatives. Generally there is some “house always wins” math when holding leveraged stocks for long periods of time, but if your conviction says to go for it, it’s an opportunity.",
+        "body": "You might like AUSF:\n\n\"AUSF seeks to outperform traditional market capitalization weighted indexes by allocating across three factors – minimum volatility, value, and momentum – that have historically demonstrated advantages compared to broad benchmark indexes. \n\nAUSF either allocates to two factors with a 50% / 50% weighting, or all three factors with a weighting of 40% / 40% / 20% depending on the trailing returns of each factor.\"\n\nPast performance no guarantee of future results, but so far has done pretty well over time in good markets and bad.",
         "score": 1,
-        "author": "Fnkt_io"
+        "author": "dvdmovie1"
       }
     ],
-    "summary_he": "הפוסט עוסק במנגנון הפעולה של קרן הסל SSPC$, המעניקה תשואה הפוכה כפולה (2x Short) ביחס למדד ה-SPCX. הכותב מבקש להבין כיצד הקרן משיגה את התשואה הזו, והאם בטוח להחזיק בה לטווח ארוך (חודשים) או שהיא מיועדת למסחר יומי בלבד בשל אופי המינוף.",
+    "summary_he": "הכותב מתכנן להרכיב תיק השקעות המבוסס על שילוב בין פקטור המומנטום (Momentum) לפקטור הערך (Value) באמצעות מספר קרנות סל (ETFs). הוא מחפש קרן מומנטום בינלאומית אחת שתכלול שווקים מפותחים ומתעוררים יחד, ומתלבט בין בחירת הקרנות JIVE או AVNV לחלק הערך בתיק. לסיכום, הוא מבקש חוות דעת על האסטרטגיה של צימוד שני הפקטורים הללו יחד.",
     "category_he": "השקעות",
-    "comments_summary_he": "הנה סיכום מקיף של הנקודות המרכזיות והלך הרוח בקהילה כפי שעלו מהתגובות בשרשור:\n\n*   **מנגנון הפעולה מבוסס נגזרים:** תעודות סל ממונפות בחסר (Short) אינן פועלות בשיטה מסורתית, אלא מהוות \"סל של נגזרים\", בעיקר אופציות. הן משתמשות באסטרטגיות כמו \"Put-Call Parity\" (מכירת Call וקניית Put באותו מחיר מימוש) כדי ליצור באופן מלאכותי חשיפה של פי 2 (או יותר) לנכס הבסיס.\n*   **בעיית השחיקה (Decay) בטווח הארוך:** למרות שטכנית ניתן להחזיק בתעודות אלו לזמן ממושך, התשואה שלהן נוטה \"להישחק\" ולהתרחק מהביצועים המצופים של פי 2 מהמדד. השחיקה הזו פועלת כסוג של דמי ניהול סמויים המשתנים בהתאם לתנודתיות השוק.\n*   **השפעת התנודתיות בשוק \"עצבני\":** האיזון היומי (Daily Rebalancing) של התעודות הללו הוא קריטי; בשווקים תנודתיים ללא כיוון ברור (Choppy markets), השחיקה הופכת ל\"אכזרית\" במיוחד. הקהילה מדגישה שמי שמחזיק בתעודות אלו לטווח ארוך נלחם למעשה ב\"גרר התנודתיות\" (Volatility Drag).\n*   **חוסר היעילות של מסחר יומי למניעת שחיקה:** אין טעם לנסות \"להתחכם\" לשחיקה על ידי קנייה ומכירה של התעודה מדי יום. העלויות הכרוכות במרווחי הקנייה והמכירה (Bid-Ask Spread) בכל פעולה יהיו דומות או גבוהות יותר מעלות השחיקה הטבעית של האחזקה.\n*   **השוואה לחלופות שורט אחרות:** בשל מנגנוני ארביטראז' בשוק, העלויות של השגת מינוף יהיו דומות בכל דרך שבה תבחרו. אם תשתמשו באופציות ישירות תשלמו ב\"שחיקת זמן\" (Theta), ואם תבצעו שורט ישיר על מניות תשלמו ריבית משתנה על השאלת המניות.\n*   **היבט פסיכולוגי ואסטרטגי (\"הבית תמיד מנצח\"):** קיימת תחושה בקהילה שהמתמטיקה של מכשירים ממונפים בטווח הארוך נוטה לרעת המשקיע (\"הבית תמיד מנצח\"). לכן, הכלים הללו נתפסים כהזדמנות למסחר לטווח קצר המבוסס על שכנוע עמוק (Conviction), אך מסוכנים מאוד כהשקעה פסיבית."
+    "comments_summary_he": "להלן סיכום הדיון בפורום, הכולל 6 נקודות מרכזיות וסנטימנטים שעלו מהתגובות:\n\n*   **עניין במגזרים ספציפיים:** קיימת התעניינות פעילה של משקיעים בחיפוש אחר הזדמנויות והמלצות חדשות, בדגש על שווקים מתעוררים (Emerging Markets) ומגזר האנרגיה.\n*   **אופטימיות לגבי אנרגיה גרעינית:** ישנו סנטימנט חיובי כלפי חברות המחזיקות בתשתיות גרעיניות נרחבות, תוך ציון המעבר לאנרגיה נקייה (כמו פתיחה מחדש של מרכזי אנרגיה גרעינית) כמנוע צמיחה משמעותי.\n*   **הערכת חסר בשוק (Undervaluation):** בקרב הקהילה עולה התחושה כי מניות מסוימות בתחום האנרגיה נסחרות כרגע מתחת לערכן האמיתי, מה שהופך אותן לאטרקטיביות להשקעה בנקודת הזמן הנוכחית.\n*   **תמיכה במדיניות פיננסית של חברות:** משקיעים מעריכים חברות שמפגינות ניהול הון אחראי, הכולל השקעה חוזרת של תזרים המזומנים (Free Cash Flow) וביצוע רכישה עצמית אגרסיבית של מניות (Share Buybacks).\n*   **העדפת אסטרטגיות מבוססות גורמים (Factor Investing):** הועלתה הצעה להעדפת קרנות (כמו AUSF) המשתמשות באסטרטגיות של \"ערך\", \"מומנטום\" ו\"תנודתיות נמוכה\" על פני מדדים מסורתיים המשוקללים לפי שווי שוק, במטרה להשיג ביצועים עודפים.\n*   **חשיבות הניהול הדינמי:** קיימת הערכה למודלים של השקעה המבצעים הקצאת נכסים דינמית (שינוי משקולות בתיק בין 20% ל-50%) בהתבסס על ביצועי העבר, מתוך תקווה ליציבות גם בתקופות של שוק יורד."
   },
   {
-    "id": "1uc96ls",
-    "title": "35M with 100k NW - Feeling a Little Behind",
-    "url": "https://www.reddit.com/r/investing/comments/1uc96ls/35m_with_100k_nw_feeling_a_little_behind/",
-    "author": "StoneColdTrader",
+    "id": "1ud8mm0",
+    "title": "SPCX just landed investment grade credit ratings from Moody's, Fitch, and S&P",
+    "url": "https://www.reddit.com/r/investing/comments/1ud8mm0/spcx_just_landed_investment_grade_credit_ratings/",
+    "author": "vegetasaiyann",
     "score": 1,
-    "selftext": "I am an immigrant in the US and I just turned 35. Today, I have approximately:\n\n* $60,000 in cash\n* $40,000 in my 401(k)\n\nOver the past year, my compensation has increased significantly, and I expect to earn roughly $210,000 in pre-tax income this year. My plan is to save aggressively, around $6,000 per month over the next year.\n\nFeeling a little behind and honestly nervous, when I see crazy high TC (mostly on Blind). I am really looking to hear from people if there are folks in my boat. Maybe fee success stories as well.\n\n[](https://www.reddit.com/submit/?source_id=t3_1uc91qn&composer_entry=crosspost_prompt)\n\n",
+    "selftext": "Most of the spcx convos since june 12 has been about the 19% gain first day and the wild intraday swings. The stock hit an ath of $225.64 and then pulled back to around $185. On 18 june spacex received investment grade credit ratings from moody's, fitch and S&P global (Moody's assigned a Baa1 rating, fitch a BBB+ and S&P a BBB)and for context guys a company that posted a net loss of $4.28 billion last quarter, getting investment grade across all three major agencies just over a week into being public is genuinely unusual and def not retail hype and thats three independent credit committees agreeing the company can service debt reliably despite the losses voilaa.\n\nWhy does that matter more than the share price swings becz investment grade ratings open the door to a much larger pool of institutional capital like pension funds, insurance companies and bond funds that have mandates restricting them to investment grade paper so it also lowers spacex's future cost of capital significantly if they ever issue corporate bonds which matters a lot given the spending pace.\n\nSpacex raised roughly $85 billion at a near $1.8 trillion valuation and the bull case rests heavily on starlink which grew revenue 50% year over year in 2025 with a 63% adjusted ebitda margin plus new compute deals with anthropic and alphabet that are expected to more than double the revenue run rate.\n\nSo the picture eight days in is wild price swings on thin float, a genuinely bullish credit rating signal thats easy to miss in the noise, a $286 spread between bull and bear price targets and structural index buying still working through the system. First earnings report is Aug 6 probably the next real data point that moves this from speculation to something you can actually underwrite. \n\nEven european readers can get exposure through bitpanda's fractional shares if they want in before then though given the float dynamics, thats as much a bet on mechanics as fundamentals rn.\n\nDoes that change the long-term thesis for you or is it noise next to the valuation question?",
     "subreddit": "investing",
-    "created_utc": 1782097850,
+    "created_utc": 1782193825,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "The best time to plant a tree was ten years ago, the second best time is today. You invest what you can, given your windfall salary increase - investing 6k a month is a great idea. Having 60k in savings is no joke either, it gives you a lot of flexibility for an emergency. \n\nI know plenty of people twice your age with half your savings, you're doing great.  ",
+        "body": "It doesn't change anything for me - the current price (even after the drop) is crazy overinflated...at least 2.5 times above any reasonable FMV with all projections (without the pink dreams of Mars).",
         "score": 1,
-        "author": "TheRegaurd04"
-      },
-      {
-        "body": ">and I expect to earn roughly $210,000 in pre-tax income this year\n\nThen who cares where you are right now, you have plenty of time to catch up. \n\n>I am really looking to hear from people if there are folks in my boat.\n\nMedian US salary is like $60k.  You make almost 4x that.  Not many people are in your boat.  \n\n[https://www.reddit.com/r/personalfinance/wiki/commontopics](https://www.reddit.com/r/personalfinance/wiki/commontopics)\n\nand check out whitecoatinvestor website.  Even if you aren't a doctor, it's good for any high income earner..",
-        "score": 1,
-        "author": "GaylrdFocker"
-      },
-      {
-        "body": "Nah I read the post. NW is slightly below median (will change very quickly) and salary in probably top 5% in the country for his age. He's gonna be just fine. Posts like this always come off as humblebrags because he's not asking for any specific investing advice, or really for any discussion in particular, just wants to \"hear from people\" and hear \"success stories\"",
-        "score": 1,
-        "author": "rhinest0necowboy"
+        "author": "bate_Vladi_1904"
       }
     ],
-    "summary_he": "מהגר בן 35 בארה\"ב בעל הון עצמי של 100 אלף דולר משתף בתחושת פיגור כלכלי, בעיקר בשל השוואה לשכר הגבוה המקובל בתעשיית הטכנולוגיה. למרות חששותיו, הכנסתו השנתית זינקה ל-210 אלף דולר והוא מתכנן חיסכון אגרסיבי של כ-6,000 דולר בחודש כדי לשפר את מצבו. הוא פנה לקהילה בחיפוש אחר תמיכה, עצות וסיפורי הצלחה של אנשים שהיו במצב דומה.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן ניתוח של תגובות הגולשים מהשרשור, המסוכם לעברית וכולל את נקודות המבט המרכזיות והלך הרוח בקהילה:\n\n*   **החשיבות של התחלה מיידית:** הקהילה מדגישה שמעבר לעבר, הזמן הטוב ביותר להתחיל להשקיע הוא עכשיו. התוכנית להשקיע 6,000 דולר בחודש מהתוספת בשכר נתפסת כאסטרטגיה מצוינת לבניית הון לטווח ארוך.\n*   **הערכת קרן החירום:** סכום של 60,000 דולר בחיסכון נחשב לנקודת פתיחה חזקה מאוד. המגיבים מציינים שסכום כזה מעניק גמישות רבה וביטחון במקרה של מצבי חירום, וכי מדובר בהישג משמעותי לעומת אנשים מבוגרים בהרבה שחסכו פחות.\n*   **פרופורציה מול השכר הממוצע:** קיים דגש על כך שהכנסה של 210,000 דולר בשנה היא חריגה וגבוהה פי ארבעה מהשכר החציוני בארה\"ב (כ-60,000 דולר). בשל כך, המשיבים טוענים שהכותב נמצא בסיטואציה ייחודית שמעטים נמצאים בה (\"לא הרבה אנשים נמצאים בסירה שלך\").\n*   **יכולת \"צמצום הפערים\":** כיוון שהכנסת הכותב מציבה אותו בטופ 5% בערך לקבוצת הגיל שלו, המגיבים סבורים שהמצב הנוכחי (הון עצמי נמוך יחסית) אינו סיבה לדאגה. עם שכר כזה, הוא יוכל להדביק את הפער הפיננסי ולעקוף את הממוצע במהירות רבה.\n*   **הפניה למקורות ייעודיים לבעלי הכנסה גבוהה:** הקהילה ממליצה לבעלי שכר כזה להיעזר במקורות מידע ספציפיים (כמו האתר \"White Coat Investor\"), שמתאימים למי שמרוויח סכומים גבוהים וזקוק לאסטרטגיות מס וניהול הון מורכבות יותר.\n*   **ביקורת על \"התרברבות צנועה\" (Humblebrag):** חלק מהמגיבים חשים שהפוסט אינו בקשה אמיתית לעזרה אלא סוג של התרברבות במסווה של דאגה. הביקורת נובעת מכך שהכותב לא ביקש עצה ספציפית להשקעה, אלא חיפש בעיקר \"סיפורי הצלחה\" או אישור מהסביבה למרות נתוניו המצוינים."
+    "summary_he": "חברת SpaceX קיבלה דירוגי אשראי ברמת השקעה (Investment Grade) משלוש הסוכנויות המובילות, מהלך חריג לחברה בהפסדים המאפשר לה גישה להון מוסדי ומוזיל משמעותית את עלויות המימון שלה. למרות תנודתיות גבוהה במחיר המניה, הדירוג מעניק אישור מוסדי ליכולת החזר החוב של החברה ומחזק את התחזיות החיוביות לקראת פרסום הדוחות הכספיים באוגוסט.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והתחושות שעלו מהתגובה, המוצגים ב-6 נקודות שונות בעברית:\n\n* **חוסר השפעה של ירידת המחיר:** למרות הירידה האחרונה בערך המניה, עמדת המשתמש לא השתנתה; הוא סבור שהמחיר עדיין לא משקף הזדמנות קנייה ריאלית.\n* **הערכת שווי מופרזת (Overinflation):** קיימת תחושה חזקה שהמחיר הנוכחי של המניה \"מנופח בטירוף\" ואינו תואם את הערך האמיתי של החברה.\n* **פער משמעותי מהשווי ההוגן:** על פי הניתוח המוצג, מחיר השוק הנוכחי גבוה לפחות פי 2.5 מכל הערכת שווי הוגן (FMV) סבירה המבוססת על נתונים כלכליים.\n* **ספקנות לגבי תחזיות צמיחה:** גם כאשר לוקחים בחשבון את כל תחזיות הצמיחה העתידיות של החברה, המחיר עדיין נתפס כבלתי סביר וחסר ביסוס.\n* **ביקורת על נרטיבים עתידניים (\"חלומות ורודים על מאדים\"):** המשתמש מבטל את ההייפ סביב פרויקטים גרנדיוזיים (כמו ההתיישבות במאדים) כגורם לגיטימי לקביעת ערך המניה, ומכנה אותם פנטזיות שאינן רלוונטיות לשווי שוק נוכחי.\n* **דחיית ספקולציות לטובת ריאליזם:** בקהילה עולה קול הקורא להסתכל על הנתונים היבשים והריאליים של החברה, תוך התעלמות מרגשות או מהבטחות מרחיקות לכת שאינן מגובות במציאות הכלכלית."
+  },
+  {
+    "id": "1ud85r5",
+    "title": "Bitcoin: The Digital Piggy Bank is Empty",
+    "url": "https://www.reddit.com/r/investing/comments/1ud85r5/bitcoin_the_digital_piggy_bank_is_empty/",
+    "author": "OddNefariousness5993",
+    "score": 1,
+    "selftext": "You know how people say: \"I bought 3 bitcoins,\" \"I invested in bitcoins,\" \"I'm stacking satoshis,\" \"I transferred bitcoins to my wallet,\" or \"I mined bitcoins\"? However, all of this is a myth because no bitcoins or their fractions (satoshis) actually exist. The piggy bank is empty.\n\nThe myth stems from a post by an unknown programmer who claimed to have invented a payment system that transfers money. But all his invention does is maintain a decentralized database over a peer-to-peer network that shows which numbers belong to which addresses.\n\nPeople came to believe that this network and its underlying protocol, collectively known as Bitcoin, record an amount of money, namely these bitcoins (abbreviated as BTC), in the database. But that money is not there.\n\nFor instance, people often claim they have bought digital money, even though nothing digital exists in proportion to the assigned numbers. A person whose address is assigned the number \"50\" cannot show fifty files, data structures, or software products. There are no digital \"bitcoin objects\" that can be mined, bought, owned, moved, or used.\n\nIt is even more obvious that nothing physical exists. Despite media illustrations of metal coins stamped with the '₿' symbol and frequent claims that one is buying something comparable to collectibles or commodities, no fifty tangible units of any kind are stored or reserved for the person next to whose address stands \"50.\"\n\nThe most common myth, however, is the belief that people have bought something akin to fiat currencies, e-money issued by companies such as PayPal, tokens, or even stocks. Yet, all of the above are instruments of liability, where the holder derives a benefit upon the fulfillment of that liability.\n\nStocks track a company's obligation to its shareholders. When companies decide to distribute profits, execute stock buybacks, or liquidate the business, they are legally required to make direct payments to shareholders. PayPal’s e-money and tokens, like casino chips, track the issuer's obligation to redeem them for a specified amount of fiat currency. Fiat currencies track the obligations of those who took out loans from commercial and central banks. Before each installment payment on these loans, these debtors provided goods, services, or labor to the holders of fiat currency, or, in the case of the state, the ability to settle a tax liability. If debtors default on their payments, banks seize their property, offering them at auctions to holders of fiat currency, providing them with a benefit in that way.\n\nThat unknown programmer's invention does not track anyone's liability whose fulfillment would provide a benefit to the holders of Bitcoin addresses.\n\nTherefore, there are no bitcoins to be mined or bought. There is neither physical, digital, nor liability-based money. What people are actually doing is engaging in a large-scale redistribution of existing wealth, and the Bitcoin network numerically tracks this act of redistribution. Through a collective narrative and storytelling, this process is publicly misperceived as an investment or a purchase.\n\nCentralized exchanges reinforce this myth most aggressively by displaying the \"BTC\" ticker and USD side-by-side on trading interfaces. This is a visual lie, where the interface assumes that \"something\" stands behind the letters \"BTC,\" just as a liability stands behind \"USD.\"\n\nEven critics participate in the myth. For example, by speaking of an \"overvalued currency,\" they assume its existence. They call the act of redistribution \"overvaluation,\" even though there is no digital, physical, or liability-based thing that the user has received and could value. You cannot say the price is too high when there is nothing to compare it to. Since there are only numbers in a database, the word \"overvalued\" makes no sense. You cannot overvalue the number 50; it is simply 50.\n\nIn short, the myth about the existence of money behind Bitcoin addresses persists, even though it falls apart under elementary analysis, because it exploits a deep get-rich-quick mentality. Early participants amassed fortunes via this large-scale redistribution of existing wealth, which drives newcomers with the seductive illusion that they will get rich as well. The emotions involved are so strong that they override all rationality. Admitting the myth would be too painful, so it lives on, despite being demonstrably false.",
+    "subreddit": "investing",
+    "created_utc": 1782192280,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I think part of the slopp above described where Fiat money in a bank is a liability, the bank owns you that money. It was trying to say that that relationship doesn't exist between Bitcoin and you. \n\nIt may have a point.\n\nIf you lost your debit card you could go into the bank prove who you are and gain access to your money.  \n\nTry doing that without your Bitcoin keys directly from a wallet. You could do it if you weren't your own custodian, like through a coinbase account, but not if you were physical wallet died and you didn't have your backup info. Nobody owes you squat, and if someone can figure out the keys to your former coins, they are there for their taking.\n\n\n\n",
+        "score": 1,
+        "author": "Lucky_Total_278"
+      },
+      {
+        "body": "What creates the tender and subsequent medium of exchange? Demand creates it. Demand created bitcoin and demand keeps it afloat.  \nNumbers in the distributed ledger or glass beads don't matter. If there's demand, there's fiat.",
+        "score": 1,
+        "author": "sovlex"
+      },
+      {
+        "body": "My dude you could’ve just written ”I never really investigated and don’t know much about a whole lot of things but I need to feel smart” and save us the eye muscle energy ",
+        "score": 1,
+        "author": "lolyeahsure"
+      }
+    ],
+    "summary_he": "הפוסט טוען כי ביטקוין הוא מיתוס ואינו קיים באמת כנכס דיגיטלי, פיזי או כהתחייבות משפטית, אלא מהווה רק רישום של מספרים במסד נתונים מבוזר. לטענת הכותב, הערך המיוחס למטבע נובע מנרטיב קולקטיבי המונע מרצון להתעשרות מהירה, בעוד שבפועל מדובר בתהליך של חלוקה מחדש של עושר ללא כל בסיס כלכלי ממשי.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בשרשור המבוסס על התגובות שנכתבו, הכולל 6 נקודות מבט וסנטימנטים שונים:\n\n*   **הבדל מהותי בבעלות ובחבות:** אחת הנקודות המרכזיות היא שבמערכת הבנקאית המסורתית, הכסף המופקד הוא \"התחייבות\" של הבנק כלפי הלקוח (הבנק חייב לך את הכסף). לעומת זאת, בביטקוין מערכת היחסים הזו לא קיימת; המטבע נמצא בבעלותך הישירה ואין אף גוף ש\"חייב\" לך דבר.\n*   **סוגיית השחזור והזיהוי:** קיים דגש על נושא הנגישות – בעוד שבבנק ניתן לשחזר גישה לכסף על ידי הוכחת זהות (גם אם כרטיס האשראי אבד), בביטקוין (בניהול עצמי) אין אפשרות לשחזר את הגישה ללא המפתחות הפרטיים.\n*   **הסיכון בניהול עצמאי (Self-Custody):** הדיון מדגיש שאם אדם מאבד את המידע לגיבוי הארנק הפיזי שלו, אין \"כתובת\" לפנות אליה. יתרה מכך, אם מישהו אחר מצליח להשיג את המפתחות, המטבעות הופכים לשלו באופן מיידי ובלתי הפיך.\n*   **הביקוש כיוצר ערך:** קיימת דעה לפיה מה שהופך נכס לאמצעי חליפין הוא אך ורק הביקוש. לפי גישה זו, הביקוש הוא זה שיצר את הביטקוין והוא זה שמחזיק אותו בחיים, ללא קשר לטכנולוגיה הספציפית.\n*   **הטכנולוגיה מול המהות:** נטען כי לצורה של המטבע (בין אם מדובר במספרים ביומן מבוזר או בחרוזי זכוכית) אין חשיבות אמיתית. אם יש ביקוש לנכס מסוים, הוא מתפקד כ-\"Fiat\" (הילך חוקי/כסף מכוח צו) לכל דבר ועניין.\n*   **ספקנות וביקורת על רמת הדיון:** התגובה האחרונה מבטאת סנטימנט של זלזול כלפי כותבים המנסים \"להישמע חכמים\" מבלי לחקור את הנושא לעומק. זה מעיד על כך שבקהילה קיימת עייפות מטיעונים שנתפסים כשטחיים או ככאלו שנועדו רק להאדיר את כותבם."
+  },
+  {
+    "id": "1ud7yvx",
+    "title": "Should I take losses or hold for long run?",
+    "url": "https://www.reddit.com/r/investing/comments/1ud7yvx/should_i_take_losses_or_hold_for_long_run/",
+    "author": "bobbyvlx",
+    "score": 1,
+    "selftext": "I’m in 10k and down to 8.5k now.  My parents asked me how SpaceX actually makes money after the stock dipped a little and I honestly had a hard time explaining it\\~\\~   \nLike I know they launch rockets and satellites and stuff,  but then I started talking about Starlink, government contracts, reusable rockets, Mars, internet from space, and somehow I sounded less convincing the longer I talked. Help guys. ",
+    "subreddit": "investing",
+    "created_utc": 1782191666,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "And X/Twitter is also losing money.",
+        "score": 1,
+        "author": "redhill_qik"
+      },
+      {
+        "body": "Your flaw actually isn't anything to do with SpaceX, it's that you tried being a day trading gambler and you're paying the Stupid Tax(tm).\n\nIf you buy equities the general idea is:\n\n* To hold it for at least a year so any taxes incurred in the future are long-term capital gains/losses, not short-term. The switchover happens after 1 year of holding. Yes, the tax laws literally discourage day trading.\n\n* To ideally hold for at least 3 to 5 years and even better until the day you retire and start needing to sell some assets for an income stream. Timing the market is a fool's errand and equities are far too volatile in the short to mid term.\n\nIf you want more money literally tomorrow, stick your money in an HYSA or money market fund and get a better paying job.",
+        "score": 1,
+        "author": "Dalewyn"
+      },
+      {
+        "body": "Keep talking, specifically about how much they make vs how much they spend. You are about to reach an epiphany.",
+        "score": 1,
+        "author": "Avidtrader81"
+      }
+    ],
+    "summary_he": "הכותב מתלבט אם למכור את השקעתו ב-SpaceX או להחזיק בה לטווח ארוך, לאחר שערך השקעתו ירד מ-10,000 ל-8,500 דולר. הוא משתף שהתקשה להסביר להוריו בצורה משכנעת את המודל העסקי של החברה (כמו סטארלינק וחוזים ממשלתיים) ומבקש עצה כיצד לפעול.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן ניתוח של התגובות המובילות מהדיון, המרכז שש נקודות מבט ותחושות קהילתיות שונות כפי שהובאו בטקסט:\n\n*   **ביקורת על מסחר יומי כהימור:** אחת הדעות המרכזיות היא שמסחר יומי אינו השקעה אלא הימור. הכותב מכנה את ההפסדים הנובעים מכך כ\"מס טיפשות\" (Stupid Tax), וטוען שהטעות של המשתמש אינה קשורה לחברה ספציפית (כמו SpaceX) אלא להתנהלות פיננסית לא נכונה.\n*   **תכנון מס ואסטרטגיית החזקה:** מודגשת החשיבות של החזקת נכסים למשך שנה לפחות. זאת כדי להמיר את חבות המס מרווחי הון קצרי-טווח (ששיעורם גבוה) לרווחי הון ארוכי-טווח, שכן חוקי המס מעודדים השקעות סולידיות ומרתיעים מסחר מהיר.\n*   **השקעה לטווח ארוך כערך עליון:** הקהילה מבטאת את התפיסה שהשקעה במניות צריכה להיעשות לטווח של 3 עד 5 שנים, ובאופן אידיאלי עד גיל הפרישה. המניות נתפסות ככלי ליצירת הכנסה עתידית ולא כמקור למזומנים מיידיים.\n*   **חוסר התוחלת בתזמון השוק:** קיימת סנטימנט חזק נגד הניסיון \"לתזמן את השוק\" (Timing the market). נטען כי מניות הן נכס תנודתי מדי בטווח הקצר והבינוני, ולכן הניסיון לחזות עליות וירידות רגעיות הוא \"משימה של שוטים\".\n*   **חלופות למזומנים בטווח הקצר:** למי שזקוק לכסף נזיל באופן מיידי, מוצעות חלופות בטוחות יותר כמו חשבונות חיסכון עם ריבית גבוהה (HYSA) או קרנות כספיות. בנוסף, מוצעת הגישה הפרקטית של \"מציאת עבודה מכניסה יותר\" במקום ניסיון להתעשר מהיר בשוק ההון.\n*   **ספקנות לגבי המודל העסקי של חברות מאסק:** התגובות מצביעות על המצב הפיננסי הבעייתי של חברות הקשורות לאילון מאסק, כמו X (טוויטר לשעבר), שמפסידות כסף. ישנה קריאה למשקיעים לבחון לעומק את הפער בין הכנסות להוצאות כדי להבין את המציאות הכלכלית המורכבת של חברות אלו."
+  },
+  {
+    "id": "1ud7d0p",
+    "title": "One Glitch Away From a Crash - The Extreme Volatility of Today’s Trillion-Dollar Tech Giants",
+    "url": "https://www.reddit.com/r/investing/comments/1ud7d0p/one_glitch_away_from_a_crash_the_extreme/",
+    "author": "ReputationRoyal4784",
+    "score": 1,
+    "selftext": "The stock market faces a new era of unprecedented volatility as multi-trillion-dollar tech titans like SpaceX, OpenAI, and Anthropic continue to reshape major indices without traditional earnings to anchor their valuations. Lacking steady cash flows or price-to-earnings ratios to justify their pricing, these stocks trade entirely on future narratives and hyper growth expectations. The broader market is becoming hyper sensitive to headline shocks; a single technical glitch, rocket failure, or AI model performance issue triggers massive, immediate equity sell-offs. This shift turns everyday market stability on its head, converting minor operational hiccups into systemic financial shocks.\n\n",
+    "subreddit": "investing",
+    "created_utc": 1782189762,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "It seems like we can know now that OpenAI and Anthropic can never make a profit, nor can they ever pay off their debt. Customers refuse to pay at a level that would sustain these companies, they'll go totally bankrupt. AI data centers are being rented out, as if demand really isn't very high. Then add to the pile that open source AI is available far cheaper and only a few months behind the more advanced AI.",
+        "score": 1,
+        "author": "bejammin075"
+      },
+      {
+        "body": "its the top headline on the home page - [https://www.bloomberg.com/news/articles/2026-06-22/asian-stocks-set-for-gains-as-oil-holds-losses-markets-wrap?srnd=homepage-americas&sref=FImx27hi](https://www.bloomberg.com/news/articles/2026-06-22/asian-stocks-set-for-gains-as-oil-holds-losses-markets-wrap?srnd=homepage-americas&sref=FImx27hi)",
+        "score": 1,
+        "author": "ReputationRoyal4784"
+      },
+      {
+        "body": "Did you forget to post a link? ",
+        "score": 1,
+        "author": "Narkanin"
+      }
+    ],
+    "summary_he": "הפוסט דן בתנודתיות הקיצונית של שוק ההון המודרני, הנובעת מהתבססותן של ענקיות טכנולוגיה על נרטיבים של צמיחה עתידית במקום על רווחיות מוכחת ונתונים מסורתיים. כתוצאה מכך, השוק הופך לרגיש במיוחד לכל תקלה טכנית או ידיעה שלילית, שעלולות להפוך במהירות לזעזוע פיננסי מערכתי ולקריסה פתאומית.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והתובנות המרכזיות שעלו מתוך התגובות בשרשור, המוצגות בשש נקודות שונות:\n\n*   **ספקות לגבי רווחיות חברות ה-AI הגדולות:** קיימת טענה כי חברות מובילות כמו OpenAI ו-Anthropic אינן מסוגלות להניב רווחים במודל הנוכחי, וייתכן שלעולם לא יצליחו להחזיר את החובות העצומים שצברו.\n*   **התנגדות צרכנית למחירים גבוהים:** הקהילה מצביעה על פער בין עלויות הפיתוח והתפעול לבין המוכנות של הלקוחות לשלם. נראה כי המשתמשים מסרבים לשלם מחירים ברמה שתאפשר לחברות הללו קיום כלכלי ארוך טווח, מה שמעמיד אותן בסכנת פשיטת רגל.\n*   **האיום מצד הקוד הפתוח:** פתרונות בינה מלאכותית בקוד פתוח (Open Source) מהווים תחרות קשה; הם זמינים בעלות נמוכה משמעותית ונמצאים בפיגור טכנולוגי של חודשים ספורים בלבד מאחורי המודלים הקנייניים המתקדמים ביותר.\n*   **חולשה בביקוש לתשתיות:** עולה טענה כי הביקוש האמיתי ל-AI נמוך מהמצופה, עובדה שבאה לידי ביטוי בכך שמרכזי נתונים (Data Centers) המיועדים לבינה מלאכותית עומדים להשכרה בשוק המשני.\n*   **הקשר לכלכלה העולמית:** הדיון מתחבר למגמות רחבות יותר בשווקים הפיננסיים, כולל השפעות על מניות באסיה ומחירי הנפט, כפי שמשתקף בכותרות הכלכליות המרכזיות (כדוגמת הדיווחים בבלומברג).\n*   **צורך באימות ובהבהרת מקורות:** חלק מהתגובות בקהילה מביעות ספקנות או בלבול לגבי המידע המוצג, ודורשות קישורים ומקורות ברורים כדי לאמת את הטענות על המצב הכלכלי של ענף הבינה המלאכותית."
   }
 ];
