@@ -1,395 +1,348 @@
 window.dailyTrends = [
   {
-    "id": "1ug8nks",
-    "title": "Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4%",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1ug8nks/trump_eases_pressure_on_fed_chairman_kevin_warsh/",
-    "author": "Argothaught",
-    "score": 869,
-    "selftext": "\\>'With inflation topping 4%, the Trump administration is easing off its long-standing calls for the Federal Reserve to immediately cut interest rates. That is giving new Fed Chairman Kevin Warsh an extended political grace period as he deals with a challenging economic environment, but underscores the depth of the pushback he could face if the mercurial president changes his mind. \n\n\\>President Donald Trump said as recently as Wednesday that he wants the Fed to cut rates. Meanwhile several of the president’s top economic advisers have in recent interviews and writing stopped short of calling for near-term rate cuts, as they had before the Iran war sent some prices surging and Trump installed Warsh as the new Fed chair.\n\n\\>What might look like division is really an indication that the Trump-Warsh relationship has shifted the political gravity of the Trump administration, a White House official said, speaking on condition of anonymity to describe behind-the-scenes conversations.  \n\n\\>“I wouldn’t say it’s necessarily a shift in policy, or how we’re seeing the data,” the official said. Rather, “personnel is big for this president,” the official said. Trump has “confidence and faith” in Warsh and so will let him make decisions that he didn’t entrust to Jerome Powell, the prior chair.'\n\nSo, new face, new you? How long does the \"grace period\" last?",
-    "subreddit": "StockMarket",
-    "created_utc": 1782484685,
-    "thumbnail": "https://external-preview.redd.it/JJPBIKVQ18ZJthlEtfpkjf8X9JLK_KIYcDGsajJilrQ.jpeg?width=140&height=78&auto=webp&s=2cef58009b110302dddd321f0595dcabe49f2fbd",
-    "top_comments": [
-      {
-        "body": "Maybe - and I hope you are right.  But the US electorate (as a whole) has proven their stupidity and short memories before.  There are four months of intense propaganda ahead of us, and I fear many will fall for the same lies again.  ",
-        "score": 12,
-        "author": "Sufficient-Salt-666"
-      },
-      {
-        "body": "That's probably the ticket.\n\nNew administration opens ethics investigations into his finances.  He either discloses or steps aside.",
-        "score": 8,
-        "author": "AtaracticGoat"
-      },
-      {
-        "body": "If you don't give them a paycheck but pay them same amount as DOGE check, they will not complain and praise Trump as Jesus 2.0. \nIgnorance as stupidity are an elite level. ",
-        "score": 3,
-        "author": "AIBubble2026"
-      }
-    ],
-    "summary_he": "ממשל טראמפ מוריד את הלחץ על יו\"ר הפד החדש, קווין וורש, להפחתת ריבית מיידית למרות עליית האינפלציה מעל ל-4%. השינוי נובע בעיקר מהאמון האישי של טראמפ בוורש בהשוואה לקודמו בתפקיד, מה שמעניק ליו\"ר החדש \"תקופת חסד\" פוליטית לניהול המדיניות המוניטרית.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות בשרשור:\n\n*   **ספקנות ופסימיות כלפי ציבור הבוחרים:** מובע חשש עמוק לגבי האינטליגנציה של קהל הבוחרים האמריקאי, תוך טענה שהם הוכיחו בעבר שהם סובלים מזיכרון קצר ומנטייה לטיפשות שתשפיע על החלטותיהם.\n*   **חרדה מפני מניפולציה תקשורתית:** קיימת דאגה משמעותית מפני ארבעת החודשים הקרובים, שמתוארים כתקופה של תעמולה אינטנסיבית ושקרים מתוזמנים היטב שעלולים להטעות את הציבור פעם נוספת.\n*   **הצעה לאסטרטגיה של שקיפות כפויה:** אחת הדעות מציעה שהממשל החדש צריך לפתוח בחקירות אתיקה לגבי ענייניו הפיננסיים של המועמד, ובכך להעמיד אותו בפני ברירה: לחשוף את נתוניו או לפרוש מהמרוץ.\n*   **ביקורת על הערצה עיוורת וכמעט דתית:** הדיון מצביע על כך שחלק מהתומכים מעריצים את טראמפ ברמה של \"ישו 2.0\", וזאת ללא קשר לתוצאות המדיניות שלו או לשינויים במצבם הכלכלי.\n*   **סנטימנט לגבי בורות קיצונית:** הקהילה מבטאת תחושה שהבורות והטיפשות בקרב חלקים מהאוכלוסייה הגיעה ל\"רמה של מומחיות\" (Elite level), מה שמקשה על ניהול דיון רציונלי.\n*   **מניפולציה של תמריצים כלכליים:** עולה טענה שניתן לתמרן את תמיכת הציבור באמצעות שינויים סמליים בלבד (כמו שימוש במטבע ה-DOGE כתחליף למשכורת), ושהציבור יקבל זאת בברכה כל עוד המיתוג מתאים, גם אם אין שינוי מהותי ברווחתם."
-  },
-  {
-    "id": "1ughz4y",
-    "title": "Korean markets triggered 2 circuit breakers this week, 1 after incredible MU earnings. Is this cause for concern?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1ughz4y/korean_markets_triggered_2_circuit_breakers_this/",
-    "author": "BGID_to_the_moon",
-    "score": 96,
-    "selftext": "Korean market volatility seems to have hit extreme levels this week. Markets first triggered circuit breakers on Monday night and then again Thursday night. The 2nd trigger was a bit surprising considering micron just delivered a massive earnings beat.\n\nExperiencing 2 breakers in a week is already unusual. Triggering the 2nd one after a Micron earnings report that indicated Samsung and SK Hynix are thriving starts to concern me. It suggests the sell offs are not earnings related and that something else is going on behind the scenes.\n\nI’ve seen a few slightly troubling reports come out of Korea this week. Law makers proposed taxes on unrealized gains and SK Hynix indicated a minor shift away from HBM production. But what concerns me the most is extreme Korean leverage and reports that lawmakers want to crackdown on the use of leverage. I’m wondering if both lawmakers and extreme market volatility will intensify fears among leveraged retail traders and lead to uncontrolled selling.\n\nAdditionally, the rest of Asian was also under water last night. Markets fell 2-4% across the board. Maybe there’s a greater macro phenomenon causing intense volatility in Asia that I’m not considering. \n\nUS stocks don’t seem to indicate any sense of panic so far. But I’m wondering if continued intense selling in Asia could have a contagion effect on American markets, especially because Korea’s top stocks are so closely tied to the AI narrative.",
-    "subreddit": "StockMarket",
-    "created_utc": 1782505503,
+    "id": "1uh6nms",
+    "title": "Why did GOOG stock fall so much?",
+    "url": "https://www.reddit.com/r/investing/comments/1uh6nms/why_did_goog_stock_fall_so_much/",
+    "author": "oulipo",
+    "score": 314,
+    "selftext": "Wondering why it fell so much lately... I'm pondering whether it's going to go down again in case of a rate hike. It seemed lately that it had great results, and it seems like the most obvious player in the tech/ads/AI field since it's present absolutely everywhere and has high-quality output",
+    "subreddit": "investing",
+    "created_utc": 1782576588,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Did you look into why? Korea introduced 2x ETFs late May and everyone got margin called",
-        "score": 67,
-        "author": "CD274"
+        "body": "https://aws.amazon.com/bedrock/anthropic/",
+        "score": 1,
+        "author": "rice_not_wheat"
       },
       {
-        "body": "It just means the electricity went off for a bit i wouldn't worry",
-        "score": 28,
-        "author": "marcus55"
+        "body": "[Google is making money off Anthropic])(https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services)",
+        "score": 1,
+        "author": "rice_not_wheat"
       },
       {
-        "body": "When their main index is 60% in two companies  what could go wrong",
+        "body": "I totally agree with you and that’s exactly why you now have AI search on by default. until they figure it out, they would d rather you at least come to Google and have a chance of looking at ads than be lost in ChatGPT or Claude.",
+        "score": 1,
+        "author": "nevernovelty"
+      }
+    ],
+    "summary_he": "הכותב תוהה מדוע מניית גוגל ירדה למרות תוצאות טובות ודומיננטיות בתחומי ה-AI והפרסום, ושוקל האם העלאות ריבית יובילו לירידות נוספות. עם זאת, הוא מדגיש כי החברה נראית כשחקנית המרכזית והאיכותית ביותר בשוק הטכנולוגיה הנוכחי.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בנקודות, המשקף את הדעות והתובנות שעלו מהתגובות:\n\n*   **התלות של Anthropic בענקיות הטכנולוגיה:** המגיבים מציינים ש-Anthropic נשענת במידה רבה על תשתיות של חברות ענק, כאשר Amazon (דרך AWS Bedrock) היא שותפה מרכזית להפצת המודלים שלה.\n*   **גוגל מרוויחה מהמתחרות שלה:** קיים שיתוף פעולה הדוק בין Anthropic לגוגל; גוגל מפיקה רווחים ישירים מהצמיחה של Anthropic באמצעות אספקת שירותי ענן ומעבדי TPU.\n*   **אסטרטגיית ההישרדות של גוגל:** המעבר של גוגל לחיפוש מבוסס AI כברירת מחדל נתפס כצעד הגנתי שנועד למנוע ממשתמשים לנדוד לפלטפורמות מתחרות כמו ChatGPT או Claude.\n*   **שימור מודל הפרסום:** הקהילה סבורה שגוגל מעדיפה שהמשתמשים יקבלו תשובות AI בתוך הפלטפורמה שלה, גם אם זה פחות רווחי בטווח הקצר, העיקר שיישארו \"בטווח ראייה\" של המודעות והפרסומות שלה.\n*   **החשש מאיבוד רלוונטיות:** עולה התחושה שגוגל נמצאת במירוץ נגד הזמן; היא מוכנה להטמיע פיצ'רים של AI בשלב מוקדם כדי לא לאבד את המשתמשים לטובת חלופות חיצוניות.\n*   **תשתית הענן כמרכיב קריטי:** התגובות מדגישות שהמאבק על הבינה המלאכותית הוא לא רק על האלגוריתם, אלא על השליטה בתשתיות המחשוב (כמו TPUs ושירותי ענן), שמעניקה יתרון כלכלי עצום לחברות כמו גוגל ואמזון."
+  },
+  {
+    "id": "1uhbb42",
+    "title": "After Micron earnings, July is a complete minefield. $31 EPS guidance by Micron and now 10 upcoming earnings reports = R.I.P. traders",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1uhbb42/after_micron_earnings_july_is_a_complete/",
+    "author": "throwaway_trackmania",
+    "score": 132,
+    "selftext": "Being a trader, before Micron earnings, my exit strat was: \n\n- **≤ $25 EPS guidance:** exit instantly\n- **$25-27 EPS:** still reduce or exit\n- **> $27 EPS:** continue holding and reassess after the next earnings\n\nInstead, Micron guided **$31 EPS**. That made me **more bearish**, not less.\n\nIf **$31 EPS** is now the fucking baseline, what does the overall market expect next?\n\nYeah and heeeeeeeere comes July... earnings from **ASML, TSMC, Texas Instruments, Lam Research, Intel, Microsoft, Alphabet**, and others. The Micron earnings release was choking the entire world, but we have almost 10 more of those coming in the next month.\n\nThat's an absolute minefield. The market only needs **one** of these companies to deliver weaker guidance, slower AI capex, or simply fail to exceed extreme expectations for sentiment to change rapidly.\n\nI'm not bearish on AI. I'm bearish on the probability that **every single major AI earnings report** over the next month clears an increasingly unrealistic bar.\n\nThat's why I expect a meaningful correction during July.\n\nCurious how other traders are positioning. I plan on significantly reducing my semi position in peace meal over the next months.",
+    "subreddit": "StockMarket",
+    "created_utc": 1782587815,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Why are you trading on EPS not the stock price?  If EPS skyrockets and the stock price is lower, that seems like a more compelling reason to hold.  ",
+        "score": 69,
+        "author": "Yee4614"
+      },
+      {
+        "body": "These FUD posts are always so obvious?    \n    \n> \"wHaT iF oNe iS B**A**d?!\"    \n   \nJfc, mate. What if one is even close to as incredible as Micron's was? Lmfao. What part of \"booked into 2028 and still negotiating 2028 pricing\" did you not understand?",
         "score": 27,
-        "author": "DegreeConscious9628"
+        "author": "gizamo"
+      },
+      {
+        "body": "theyre still talking about memory being cyclical when they have 3 years of backlog lol when is the end of this cycle supposed to happen 2150?",
+        "score": 20,
+        "author": "Relative_Handle_2961"
       }
     ],
-    "summary_he": "השוק הדרום-קוריאני חווה השבוע תנודתיות קיצונית עם שתי הפעלות של \"מנתקי זרם\", המעלות חשש כבד מכיוון שהירידות נמשכו למרות דוחות כספיים חיוביים של חברת מיקרון. הכותב מעריך כי גורמים כמו רגולציה על מינוף ומיסוי רווחים לא ממומשים מניעים את המכירות, ולא ביצועי החברות עצמן. קיים חשש שהמשך חוסר היציבות באסיה יוביל לאפקט של \"הדבקה\" בשווקים האמריקאיים, במיוחד לאור הקשר ההדוק של ענקיות הטכנולוגיה הקוריאניות לתחום הבינה המלאכותית.",
+    "summary_he": "הכותב מעריך כי הרף הגבוה שהציבה חברת מיקרון הופך את עונת הדוחות של יולי ל\"שדה מוקשים\", שבו כל אכזבה קטנה של ענקית טכנולוגיה עלולה להוביל לתיקון חד בשוק. לטענתו, ציפיות המשקיעים בתחום ה-AI הפכו לבלתי ריאליות, ולכן הוא מתכנן לצמצם בהדרגה את החזקותיו בסקטור השבבים במהלך החודש הקרוב.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ורגשות שונים שעלו מתוך התגובות:\n\n*   **זיהוי גורם טכני ספציפי:** אחד המשתמשים מצביע על כך שהתנודות בשוק נבעו מהשקת קרנות סל (ETF) ממונפות פי 2 בדרום קוריאה בסוף מאי, מה שהוביל לשינוי משמעותי בדינמיקת המסחר.\n*   **השפעת ה\"מרג'ין קול\" (Margin Call):** קיימת טענה כי המינוף הגבוה הוביל לקריאות להוספת בטחונות (margin calls) המוניות, מה שאילץ משקיעים רבים לסגור פוזיציות בבת אחת והגביר את הירידות.\n*   **זלזול והומור ציני כלפי המצב:** חלק מהקהילה בוחר להתייחס לאירוע בביטול, תוך שימוש במטאפורה של \"הפסקת חשמל רגעית\" כדי לרמוז שמדובר בתקלה טכנית או זמנית שאין לייחס לה חשיבות רבה מדי.\n*   **ביקורת על מבנה המדד הקוריאני:** עולה טענה כי המדד המרכזי סובל מחוסר גיוון קיצוני, דבר ההופך אותו לפגיע מאוד לשינויים בשווין של חברות בודדות.\n*   **חשש מריכוזיות יתר:** מובע חשש מכך ששתי חברות בלבד מהוות כ-60% מהמדד הראשי. המגיבים רואים בכך \"מתכון לאסון\" ומבנה שוק שברירי מיסודו.\n*   **ספקנות כלפי יציבות השוק:** דרך שימוש בסרקזם (\"מה כבר יכול להשתבש?\"), הקהילה מביעה תחושה של חוסר הפתעה מהקריסה, לאור העובדה שהשוק נשען על בסיס צר ורעוע של מספר מצומצם של תאגידי ענק."
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג שש נקודות מבט וסנטימנטים מרכזיים שעלו מהתגובות:\n\n*   **התמקדות ביחס בין רווח למניה (EPS) למחיר השוק:** אחד המגיבים טוען כי אין היגיון במכירה המבוססת על נתוני רווח למניה אם אלו מזנקים בעוד מחיר המניה נותר נמוך; מצב כזה נתפס כהזדמנות קנייה או החזקה (\"Hold\") חזקה ולא כסיבה לחשש.\n*   **ביקורת על הפצת \"FUD\" (פחד, אי-ודאות וספק):** הקהילה מזהה את הפוסט המקורי כניסיון לא מבוסס לעורר בהלה. המגיבים מבטלים את החששות מפני דוחות \"רעים\" ומכנים אותם כצפויים ושקופים מדי.\n*   **הסתמכות על הצלחת חברת מיקרון (Micron):** המגיבים משתמשים בביצועים המרשימים של חברת מיקרון כנקודת ייחוס חיובית, ומביעים אופטימיות שהחברה המדוברת תציג תוצאות דומות או טובות באותה מידה.\n*   **ביטחון בביקוש ארוך טווח (עד 2028):** הודגשה העובדה שהחברה כבר \"מוזמנת מראש\" (Booked) עם חוזים עד שנת 2028, ואף מנהלת משא ומתן על תמחור לאותה שנה. נתון זה נתפס כהוכחה ליציבות יוצאת דופן.\n*   **קריאת תיגר על תיאוריית ה\"מחזוריות\" של השוק:** המגיבים לועגים לטענה ששוק הזיכרונות הוא עדיין \"מחזורי\" (Cyclical) במובן המסורתי. לטענתם, עם צבר הזמנות (Backlog) של שלוש שנים קדימה, קשה לדבר על סיום קרוב של מחזור הצמיחה.\n*   **סנטימנט של זלזול בספקנים:** קיים לעג כלפי מי שמנסה לנבא את \"סוף המחזור\" או את נפילת המניה, כאשר הנתונים בשטח (ביקוש קשיח לשנים קדימה) סותרים לחלוטין את החששות הללו."
   },
   {
-    "id": "1ugdn85",
-    "title": "Hang Seng fell 1.82% Tuesday vs Shanghai's 1.37% as Fed hike odds approach 70%",
-    "url": "https://www.reddit.com/r/investing/comments/1ugdn85/hang_seng_fell_182_tuesday_vs_shanghais_137_as/",
-    "author": "Longjumping_Law6632",
-    "score": 86,
-    "selftext": "The dollar index broke 101 and Hong Kong's USD peg imports that directly (HKMA base rate at 4.0%, HIBOR pressure), while the PBOC holds record low LPRs with an easing bias. Same China tech companies, two completely different rate environments.\n\nI was looking at my KWEB position and realized I'm basically only long the HK side. KWEB holds zero A shares. CQQQ uses a 25% inclusion factor. Neither gives you real exposure to mainland China tech.\n\nThe A share names (CATL, Cambricon, Zhongji Innolight) get the tailwind from PBOC easing. The HK names (Tencent, Alibaba, Meituan) eat the imported Fed hawkishness. That's not random, it's the peg doing exactly what it's supposed to do.\n\nI screened for US listed wrappers that actually weight A shares heavily. CNQQ runs roughly 58/42 A shares to HK but launched September 2025 with AUM around $16.5M, so liquidity is a real question mark. Most A share semiconductor and battery names have no ADR either.\n\nThe rate divergence is structural and widens with every Fed repricing.",
+    "id": "1uh7dsj",
+    "title": "IPOs = sign of impending bubble pop?",
+    "url": "https://www.reddit.com/r/investing/comments/1uh7dsj/ipos_sign_of_impending_bubble_pop/",
+    "author": "Ambitious_Fold_2874",
+    "score": 44,
+    "selftext": "Would many ai companies going ipo be a sign of the ai bubble bursting, because the insiders are trying to exit and profit before the circus implodes, by leaving public normie retail investors as bagholders to take on all the subsequent risk?\n\nI remain overall bullish on the underlying technology from the AI boom over a long time horizon, but the current intense spending and ongoing political issues seem to indicate market fragility at least in the near term.",
     "subreddit": "investing",
-    "created_utc": 1782495733,
+    "created_utc": 1782578355,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "This is the split market nobody talks about enough  \nHK stocks are basically US stocks in disguise because of the peg  \nWhen the Fed hikes HK hikes with it  \nMeanwhile A shares get the PBOC easing treatment  \nSame sector different central banks different outcomes  \nKWEB holders are essentially betting on the Fed not hiking further not on China tech  \nThat is a very different trade than what most people think they are making",
-        "score": 16,
-        "author": "Suspicious_Green8013"
+        "body": "For the first time in a long time, big private companies need to raise the kind of capital that is hard to supply in private markets without drowning in debt. \n\nSo it’s an acknowledgment that they need hundreds of billions of new investor money. You have decide if they have a viable business model that justifies the valuations.",
+        "score": 191,
+        "author": "Brinkken"
       },
       {
-        "body": "This is exactly why I stopped buying KWEB  \nYou think you are getting China tech exposure but you are really getting a dollar rate play  \nThe Fed hikes and Hong Kong stocks bleed while the A share names keep running on PBOC liquidity  \nIt is the same country two different central banks two completely different outcomes  \nIf you want real China tech exposure you need a different ETF or direct A share access  \n",
-        "score": 11,
-        "author": "Suspicious_Green8013"
+        "body": "Hey look, a reasonable, rational, and calm take on Reddit. This might be a first",
+        "score": 65,
+        "author": "posit19"
       },
       {
-        "body": "wow, i learned a lot with this post ! thank you verry much for the analyse",
+        "body": "It is a sign that valuations are too high. Company owners trying to sell as much as possible because they know the company will never produce enough earnings to justify keeping the stock. Regarding timing of the burst, I don't know.",
+        "score": 30,
+        "author": "EloTime"
+      }
+    ],
+    "summary_he": "הכותב תוהה האם גל הנפקות (IPO) של חברות בינה מלאכותית מעיד על התפוצצות קרובה של הבועה, במטרה לאפשר למקורבים לממש רווחים ולהעביר את הסיכון למשקיעים מהשורה. למרות אמונה בפוטנציאל הטכנולוגי לטווח ארוך, הוא מביע חשש משבריריות השוק בטווח הקצר בשל עלויות גבוהות ומתחים פוליטיים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום רדיט, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **הצורך הקריטי בהון חיצוני:** חברות פרטיות גדולות הגיעו לנקודה שבה הן זקוקות לסכומי עתק (מאות מיליארדי דולרים) כדי להמשיך לפעול, סכומים שקשה מאוד לגייס בשווקים הפרטיים כיום.\n*   **מגבלות השוק הפרטי והחוב:** קיים חשש שהמשך הסתמכות על השוק הפרטי לגיוס הון יוביל את החברות לטבוע בחובות כבדים, ולכן הן נאלצות לפנות לשוק הציבורי ולמשקיעים חדשים.\n*   **ספקנות לגבי מודלים עסקיים:** עולה דרישה מהמשקיעים לבחון בביקורתיות אם המודלים העסקיים של אותן חברות אכן יציבים ורווחיים מספיק כדי להצדיק את הערכות השווי הגבוהות שלהן.\n*   **סימנים לניפוח שווי (אובר-ולואציה):** חלק מהגולשים רואים במצב הנוכחי הוכחה לכך שהערכות השווי בשוק גבוהות מדי ואינן תואמות את המציאות הכלכלית.\n*   **אסטרטגיית יציאה של בעלי שליטה:** קיימת סברה שבעלי החברות מנסים למכור את אחזקותיהם כעת מכיוון שהם מבינים שהרווחים העתידיים של החברה לעולם לא יספיקו כדי להצדיק את מחיר המניה הנוכחי.\n*   **חוסר ודאות לגבי תזמון השוק:** למרות התחושה שהערכות השווי מנופחות ושה\"בועה\" עלולה להתפוצץ, ישנה הסכמה על כך שקשה מאוד לחזות מתי זה יקרה בפועל.\n*   **הערכה לניתוח רציונלי:** הקהילה מביעה הערכה לגישות רגועות ומנומקות לניתוח השוק, תוך ציון שגישה כזו היא נדירה יחסית בדיונים מקוונים סוערים."
+  },
+  {
+    "id": "1uh62k2",
+    "title": "MU $2000 is no longer a myth",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1uh62k2/mu_2000_is_no_longer_a_myth/",
+    "author": "willbabu",
+    "score": 27,
+    "selftext": "MU just dropped numbers that broke the old memory playbook. Q3 did $41.46B in revenue, up from $9.3B a year ago, EPS $25.11 when the street was looking for like $20. The part that actually got me was the margin, 85%, nobody had that modeled, and then the Q4 guide somehow came in bigger, $50B at 86% margin and $31 EPS against the \\~$43B everybody penciled in. Data center alone was over $25B in the quarter, that annualizes past $100B. 85% gross margin is higher than NVDA has ever printed, the actual king of AI topped out around 78% at its best, and MU is doing it at $50B revenue? Wow. Memory or anything legal is not supposed to do this. Memory used to be the boring cyclical you trade around, now it's the one component the whole AI buildout chokes on if it isn't there, and has trillion dollar companies like aapl, nvda, msft, googl, meta in a battle royale trying to grab as much as they can.\n\nImmediately after earnings, BofA went to $1,550, UBS $1,625, and Barclays and Susquehanna both jumped to $2,000, with highest target at $2,200. These are the same sell side institutions that get paid to lowball you so when they are the ones slapping 2k on it, the question isn't \"is 2k insane\" anymore, it's do you own it before everyone else and their wives boyfriends catch on. I been building my thesis for 4 months (check my post history and feel free to read all the critical comments saying the top is in at $500, $600, $700, etc), the memory boom/death crash cycle is broken or at least delayed by years. I get it, MU always traded cheap because you could never trust next quarters numbers, and that's the exact thing breaking right now. MU signed 16 long term customer agreements, roughly $100B of revenue locked in, take or pay. so they've got real visibility years out while supply physically cannot show up, new fabs don't print meaningful output until fiscal 2028 and mgmt flat out said tight through 2027 and beyond. demand booked, supply can't arrive in time. that's the whole trade. anybody still shorting memory into this is the one getting carried out the door this week.\n\nHere is how my 2k math works and is even a bit conservative. Annualize the Q4 guide and you're at approx $124 forward EPS. Even if we factor in an annualized 10% drop to $110, 2k/share is 18x that. 18x is a normal multiple on a company growing data center triple digits with HBM4 going into NVDA's next platform. you don't need a miracle here, you just need the market to quit pricing it like 2019 MU and price it like what it actually is now. The demand side is screaming the same thing. AAPL just ate like double on memory without even fighting it, jacked up its product prices, and is now basically begging washington to let it buy chinese chips because the big 3 have nothing left to sell it. When apple is that cornered you want to be the one holding the supplier.\n\nOf course we have risks, the hyperscalers pull capex or get way more efficient, demand cracks before the new supply lands and a stock priced this rich is not going to forgive it. CXMT and the whole china memory thing is a real overhang but that's a 2027+ problem not a tomorrow one. near term though, demand's locked, supply can't get here, l says tight past 27. i know which side i want. MU 2k lfg.\n\nMy current positions: 1,000 shares; 10 6/27 MU $500 short puts",
+    "subreddit": "StockMarket",
+    "created_utc": 1782575185,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Great near term (1-2 year) play but unsustainable indefinitely imo. So OP is probably right with the calls. I wouldn’t hold shares long term (5-10 years) because even with a high barrier to entry, trillion dollar companies like Apple and other FAANG will probably invest in another memory manufacturer to compete. Apple is already pissed at the situation so I can see them supporting new players. They’re already lobbying to get approval for Chinese ram purchases. ",
+        "score": 7,
+        "author": "Paliknight"
+      },
+      {
+        "body": "I'm also looking at inventory via days sales outstanding. It has been around 120 days for four quarters in a row. Basically, MU is selling everything they can produce and they are able to raise prices because of the severe shortage.\n\nRevenue is projected to increase 85% next FY to $235 billion:\n\n[https://finance.yahoo.com/quote/MU/analysis/](https://finance.yahoo.com/quote/MU/analysis/)\n\nThis is my bet the ranch stock pick for at least the next year.",
+        "score": 7,
+        "author": "Constant-Bridge3690"
+      },
+      {
+        "body": "guys you don’t understand it’s all priced in mu is going down and money is shifting to software. puts",
+        "score": 5,
+        "author": "zack23421"
+      }
+    ],
+    "summary_he": "חברת מיקרון (MU) הציגה דוחות רבעוניים ותחזיות שעקפו משמעותית את ציפיות השוק, עם שולי רווח חריגים של 85% הנובעים מהביקוש האדיר לשבבי זיכרון עבור בינה מלאכותית (AI). בעקבות התוצאות, אנליסטים העלו את מחיר היעד ל-2,000 דולר, כשהכותב טוען שהחוזים ארוכי הטווח והמחסור בהיצע עד 2027 הופכים את המניה להזדמנות צמיחה חסרת תקדים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit אודות מניית MU (מיקרון), הכולל 6 נקודות מבט וסנטימנטים שונים של חברי הקהילה:\n\n*   **פוטנציאל לטווח קצר מול סיכון לטווח ארוך:** קיימת הסכמה שהמניה היא השקעה מצוינת לטווח הקצר (שנה-שנתיים) ומתאימה לאסטרטגיית אופציות רכש (Calls), אך היא נתפסת כלא יציבה להחזקה ארוכת טווח (5-10 שנים).\n*   **איום מצד ענקיות הטכנולוגיה (FAANG):** ישנו חשש שחברות ענק כמו אפל, שאינן מרוצות מהמצב הנוכחי בשוק הזיכרונות, ישקיעו ביצרנים מתחרים כדי לשבור את חסמי הכניסה הגבוהים ולייצר לעצמן אלטרנטיבות.\n*   **מהלכים רגולטוריים ופוליטיים:** מצוין כי אפל כבר מפעילה לובינג כדי לקבל אישורים לרכישת רכיבי זיכרון מסין, מה שמעיד על ניסיון אקטיבי של הלקוחות הגדולים להחליש את כוחן של היצרניות הקיימות.\n*   **ניתוח פונדמנטלי של היצע וביקוש:** ניתוח המלאי וימי המכירות (DSO) מראה שהחברה מוכרת כל מה שהיא מצליחה לייצר. המחסור החמור בשוק מאפשר לה להעלות מחירים ולשפר רווחיות באופן משמעותי.\n*   **תחזיות צמיחה אגרסיביות:** חלק מהמשקיעים מציגים ביטחון עצמי גבוה מאוד (\"להמר על כל הקופה\") בהתבסס על תחזיות לצמיחה של כ-85% בהכנסות בשנת הכספים הבאה, מה שהופך את המניה לבחירה מובילה עבורם לשנה הקרובה.\n*   **סנטימנט דובי ושינוי מגמה בשוק:** מנגד, יש הטוענים כי כל החדשות הטובות כבר \"מגולמות במחיר\" (Priced in). לפי גישה זו, המניה צפויה לרדת כחלק מרוטציה של כספי משקיעים שעוברים מתחום החומרה והשבבים לתחום התוכנה."
+  },
+  {
+    "id": "1uhb9dm",
+    "title": "Investment in different sectors",
+    "url": "https://www.reddit.com/r/investing/comments/1uhb9dm/investment_in_different_sectors/",
+    "author": "Consistent_Good_848",
+    "score": 15,
+    "selftext": "Help me understand how one can decide what sector to invest in? I know tech is the big thing right now but hypothetically, is it  still encouraged to buy tech stocks if hypothetically we get hit by recession? What about stagflation? Will that change if interest rates go up?  \nI am just trying to understand what factors affect different sectors/commodities. Thank you in advance",
+    "subreddit": "investing",
+    "created_utc": 1782587700,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Just hold the major US indexes over an average working lifetime of 25 to 40 years (depending upon how old that you are) and you'll come out on top. I myself currently invest in the S&P 500 and the Dow Jones industrial average 100 dividend stocks. I plan to do that for 30 years up to the rest of my life.",
+        "score": 4,
+        "author": "KMPItXHnKKItZ"
+      },
+      {
+        "body": "I’d say it’s still a solid investment for a retirement fund. Regardless of how the AI market turns out nuclear is the future. But I would suggest finding a fund instead of an individual company for something that long-term unless you know a lot about the sector",
         "score": 3,
-        "author": "loud_economy1201"
+        "author": "ryshed"
+      },
+      {
+        "body": "Just invest in SP500 and don't try to think any more about it unless you are a pro making millions running a fund.  Seriously, its a solid long term plan that will not let you down, just keep the money flowing into the investment consistently over decades and you will be amazed what you have in 10, 20, etc. years.",
+        "score": 2,
+        "author": "Autobahn97"
       }
     ],
-    "summary_he": "הפער בביצועים בין מדד הונג קונג לשנגחאי נובע מהצמדת המטבע המקומי לדולר, מה שמאלץ את הונג קונג לייבא את הריביות הגבוהות של ארה\"ב בעוד שסין שומרת על מדיניות מקלה. הכותב מציין כי קרנות סל פופולריות כמו KWEB חשופות בעיקר לשוק בהונג קונג, ולכן הן מחמיצות את היתרונות של חברות הטכנולוגיה ביבשת סין (A-shares) שנהנות מסביבת ריבית נמוכה.",
+    "summary_he": "הפוסט מבקש להבין כיצד לבחור מגזרי השקעה ומהם הגורמים הכלכליים המשפיעים על סקטורים וסחורות שונים. הכותב מתעניין במיוחד בכדאיות ההשקעה במניות טכנולוגיה בזמן מיתון ובהשפעות של ריבית וסטגפלציה על השוק.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג שש נקודות מבט ותובנות מרכזיות שעלו מהתגובות:\n\n*   **הצמדת המטבע והשפעת הפד:** שוק המניות של הונג קונג מתנהג למעשה כשלוחה של השוק האמריקאי בשל הצמדת הדולר ההונג-קונגי לדולר האמריקאי. המשמעות היא שכאשר הפדרל ריזרב (הפד) מעלה ריבית, הונג קונג נאלצת להעלות ריבית יחד איתו, מה שפוגע במניות הנסחרות שם.\n*   **הפיצול בשוק הסיני:** קיים פער עמוק ובלתי מדובר בין מניות הנסחרות בהונג קונג לבין מניות הנסחרות בסין היבשתית (A-shares). בעוד שהונג קונג מושפעת מהמדיניות המצמצמת של ארה\"ב, המניות בסין היבשתית נהנות מהזרמת נזילות ומהקלה מוניטרית של הבנק המרכזי הסיני (PBOC).\n*   **הבנה שגויה של קרן הסל KWEB:** משקיעים רבים המחזיקים בקרן KWEB סבורים שהם משקיעים בטכנולוגיה סינית, אך בפועל הם מבצעים \"הימור\" על הריבית בארה\"ב. אם הפד ממשיך להעלות ריבית, הקרן תרד ללא קשר לביצועי החברות עצמן.\n*   **חיפוש אחר חשיפה \"אמיתית\" לסין:** קיימת סנטימנט בקהילה לפיו מי שמעוניין בחשיפה אמיתית למגזר הטכנולוגיה הסיני צריך להתרחק מהונג קונג ולחפש גישה ישירה למניות A-shares או לקרנות סל אחרות שאינן מושפעות ישירות משער הדולר.\n*   **שינוי באסטרטגיית ההשקעה:** חלק מהמשקיעים מעידים כי הפסיקו לרכוש קרנות סל מסוימות (כמו KWEB) לאחר שהבינו שהן מהוות \"משחק על שערי ריבית דולריים\" יותר מאשר השקעה בטכנולוגיה, מה שמעיד על התפכחות והבנה עמוקה יותר של המנגנונים הפיננסיים.\n*   **הערכה לניתוח המקצועי:** חברי הקהילה מביעים הערכה רבה לחשיפת הנתונים הללו, שכן הדינמיקה של \"מדינה אחת, שני בנקים מרכזיים ושתי תוצאות שונות לחלוטין\" היא נושא קריטי שאינו זוכה למספיק תשומת לב בתקשורת הכלכלית המיינסטרימית."
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וסנטימנטים מרכזיים שעלו מהתגובות:\n\n* **דבקות במדדים המרכזיים של ארה\"ב:** קיימת הסכמה רחבה שהחזקת מדדי שוק מרכזיים (כמו ה-S&P 500 או הדאו ג'ונס) לאורך חיי עבודה מלאים (25-40 שנה) היא הדרך הבטוחה ביותר להגיע לרווחה כלכלית.\n* **פשטות כיתרון למשקיע הממוצע:** ההמלצה המרכזית היא לא לנסות \"להתחכם\" עם השוק. אלא אם כן אתה מנהל קרנות מקצועי, עדיף להשקיע ב-S&P 500 ולהפסיק לנתח את ההשקעה יותר מדי.\n* **שילוב מניות דיבידנד:** חלק מהקהילה רואה ערך בשילוב של מדדי שוק רחבים יחד עם מדדי מניות המחלקות דיבידנדים (כמו \"מדד דאו ג'ונס 100\") כאסטרטגיה ארוכת טווח לכל החיים.\n* **פוטנציאל מגזרי (אנרגיה גרעינית):** עולה סנטימנט חיובי חזק כלפי תחום האנרגיה הגרעינית כהשקעה אסטרטגית לעתיד, ללא קשר להתפתחות שוק הבינה המלאכותית (AI).\n* **העדפת קרנות על פני מניות בודדות:** למשקיעים לטווח ארוך מומלץ לבחור בקרנות סל או קרנות מחקות במקום לנסות לבחור חברות ספציפיות, אלא אם כן למשקיע יש ידע מעמיק וספציפי באותו מגזר.\n* **חשיבות העקביות והזמן:** המפתח להצלחה אינו תזמון השוק, אלא התמדה. הזרמת כספים קבועה ועקבית לתוך ההשקעה לאורך עשורים תוביל לתוצאות מרשימות בזכות כוח ההצטברות לאורך 10, 20 שנה ויותר."
   },
   {
-    "id": "1ugelf5",
-    "title": "Amazon is Present in 15/18 of the 2040 growing industries (Mckinsey)",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1ugelf5/amazon_is_present_in_1518_of_the_2040_growing/",
-    "author": "Sleepy_Emet6164",
-    "score": 81,
-    "selftext": "source: McKinsey Global Institute\n\nimo Amazon has stronger upside despite the poor stock performance. AWS AI growth is accelerating, advertising keeps expanding, and retail margins are improving. As investors recognize these catalysts, AMZN could rally ahead of Microsoft over the next leg of the AI cycle.",
-    "subreddit": "StockMarket",
-    "created_utc": 1782497846,
-    "thumbnail": "https://preview.redd.it/9br2t0895o9h1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=b5e83c4e29a4ef00fd991174774ba9d48f675deb",
+    "id": "1uh3y8n",
+    "title": "Do you think FED would hike up the rates this year ?",
+    "url": "https://www.reddit.com/r/investing/comments/1uh3y8n/do_you_think_fed_would_hike_up_the_rates_this_year/",
+    "author": "JonOwn1805",
+    "score": 14,
+    "selftext": "“Inflation remains elevated relative to the Committee’s 2 percent goal, in part reflecting supply shocks that have driven price increases in certain sectors, including energy. **The Committee will deliver price stability.”** \n\nTrump doesn't like the ideea of hiking up the rates, so maybe Warsh is gonna play the \"wait and see\" game for a while, depending on what happens after the midterms , and how much the inflation would go up. \n\nNow the inflation is 4.2%.\n\n",
+    "subreddit": "investing",
+    "created_utc": 1782569922,
+    "thumbnail": "self",
     "top_comments": [
       {
-        "body": "This data highlights exactly why long-term sentiment on Amazon is setting up a bearish-to-bullish pivot. Even though the stock has looked sluggish lately, its massive footprint across nearly every future-tech arena proves the foundation is incredibly broad...so I'm pretty positive about $AMZN for the long run",
-        "score": 25,
-        "author": "valbolt"
+        "body": "Well, Powell is the one who didn't start raising rates from 0.1% until inflation was already 7.5%. And by the time inflation got to 9% he had only raised them all the way to 1.2%.\n\nDon't put Powell on a pedestal. He's the reason we had about 25% total inflation under Biden. ",
+        "score": 8,
+        "author": "CapeMOGuy"
       },
       {
-        "body": "Seems ai generated but maybe not. Google not involved in electric vehicles? Do they mean literal manufacturing?  And I don’t think Amazon has plans for that either?",
-        "score": 12,
-        "author": "imdaviddunn"
+        "body": "They're going to change how data is gathered, meaning they will purge the system put in their fake data and justify cuts. Give it time.",
+        "score": 4,
+        "author": "oldfathertime4"
       },
       {
-        "body": "AI slop? How do you consider cybersecurity, semiconductors , and batteries “future”",
-        "score": 7,
-        "author": "sp1cynuggs"
+        "body": "He said this year, not next meeting. Go look at the tool from the CME you are using, at the top you can see the dates of future FOMC meetings. Click on the last one for this year, December 9th. The probability of the rate going up according to futures during this year, is 77%.\n\nYou may disagree with this percentages, but I'm not wrong, that's what the market as of right now predicts for the remaining of 2026.",
+        "score": 3,
+        "author": "GAV17"
       }
     ],
-    "summary_he": "על פי דו\"ח של מקינזי, אמזון פעילה ב-15 מתוך 18 התעשיות הצומחות ביותר לקראת שנת 2040. למרות ביצועי המניה לאחרונה, נראה כי החברה מציגה פוטנציאל צמיחה משמעותי בזכות התרחבות בתחומי הבינה המלאכותית (AWS), הפרסום ושיפור ברווחיות הקמעונאית, מה שעשוי להוביל אותה לעקוף את מיקרוסופט בסבב ה-AI הבא.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מן התגובות:\n\n*   **אופטימיות לגבי אמזון (AMZN) בטווח הארוך:** קיים סנטימנט חיובי המעריך כי למרות שהמניה נראית \"עצלה\" לאחרונה, החברה נמצאת בנקודת מפנה (pivot) ממגמה דובית לשורית בזכות פריסתה הרחבה בתחומי הטכנולוגיה.\n*   **הבסיס העסקי של אמזון:** אחד המגיבים טוען כי הנוכחות המסיבית של אמזון כמעט בכל זירה טכנולוגית עתידית מעניקה לה תשתית רחבה ויציבה שתומכת בצמיחה עתידית.\n*   **חשד לתוכן שנוצר על ידי בינה מלאכותית:** משתמשים הביעו ספקנות לגבי איכות הנתונים שהוצגו בפוסט המקורי, תוך שימוש במונח \"AI slop\" (תוכן זול/גרוע שיוצר על ידי AI), וחשדו שהמידע אינו מדויק או חסר הקשר אנושי.\n*   **ספקות לגבי מעורבות ענקיות הטכנולוגיה ברכבים חשמליים:** עלתה תהייה לגבי הקביעה שגוגל אינה מעורבת בתחום הרכב החשמלי, לצד ספק אם לאמזון עצמה יש תוכניות ממשיות לייצור רכבים כאלה.\n*   **ביקורת על הגדרת \"טכנולוגיות עתיד\":** אחד המגיבים ערער על הסיווג של תחומים כמו אבטחת סייבר, מוליכים למחצה (שבבים) וסוללות כטכנולוגיות \"עתידיות\", בטענה שמדובר בתחומים קיימים, מבוססים ובסיסיים כיום.\n*   **חוסר עקביות בנתונים:** הדיון משקף בלבול וחוסר הסכמה של הקהילה לגבי הקטגוריות שבהן חברות הטכנולוגיה הגדולות פועלות באמת, מה שמעלה סימני שאלה לגבי אמינות הניתוח שהוצג להם."
-  },
-  {
-    "id": "1ug1xyf",
-    "title": "On July 24, America's Tariff Wall Gets Rebuilt From Scratch CNBC , EURO NEWS and More Are Talking",
-    "url": "https://www.reddit.com/r/finance/comments/1ug1xyf/on_july_24_americas_tariff_wall_gets_rebuilt_from/",
-    "author": "aymannasri_tcg",
-    "score": 1,
-    "selftext": "The US Supreme Court struck down Trump's original tariffs. The emergency replacement expires July 24. Ready to take its place is a new Section 301 regime hitting 86 countries and more than 99 percent of US imports. This is the biggest live story in global trade, and Southeast Asia is squarely in the blast radius.\n\n  \nHere is the link: [https://spindepth.com/articles/us-tariff-wall-section-301-july-24-2026-global-impact](https://spindepth.com/articles/us-tariff-wall-section-301-july-24-2026-global-impact)",
-    "subreddit": "finance",
-    "created_utc": 1782466157,
-    "thumbnail": "https://external-preview.redd.it/gGChoeMBlOHVsjYc1bIFUzWJmJaGdfB1kYiNjiPGxnE.jpeg?width=140&height=78&auto=webp&s=e70f045b1e6b9eb868896aabb637c388e0fac8ff",
-    "top_comments": [
-      {
-        "body": "William T. Kelley, a marketing professor at Wharton, who reportedly expressed this sentiment to his friend Frank DiPrima numerous times over the years. DiPrima recounted that Kelley would say, “Donald Trump was the dumbest goddamn student I ever had,” emphasizing Trump's perceived arrogance and lack of willingness to learn during his time at the university.",
-        "score": 1,
-        "author": "bagjoe"
-      }
-    ],
-    "summary_he": "ב-24 ביולי צפוי להיכנס לתוקף משטר מכסים חדש בארה\"ב (Section 301), שיחליף את צעדי החירום הנוכחיים ויקיף 86 מדינות ומעל 99% מהיבוא האמריקאי. מדובר בשינוי דרמטי בסחר העולמי ובהקמת \"חומת מכסים\" חדשה, שצפויה להשפיע באופן משמעותי במיוחד על כלכלות דרום-מזרח אסיה.",
+    "summary_he": "הפוסט דן בשאלה האם הפדרל ריזרב יעלה את הריבית השנה נוכח האינפלציה הגבוהה, שעומדת כעת על 4.2%. הכותב תוהה האם תאומץ גישת \"נחיה ונראה\" בשל שיקולים פוליטיים והמתנה לתוצאות בחירות האמצע, למרות הצהרות הפד על מחויבות ליציבות מחירים.",
     "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות העולות מהטקסט בנוגע לביקורת של פרופסור ויליאם ט. קלי על דונלד טראמפ:\n\n*   **הערכה אקדמית קיצונית:** פרופסור קלי הגדיר את טראמפ כסטודנט הגרוע ביותר (\"המטומטם ביותר\") שנתקל בו במהלך כל שנות הוראתו באוניברסיטה.\n*   **שחצנות כחסם ללמידה:** אחת הנקודות המרכזיות בביקורת היא שיהירותו של טראמפ מנעה ממנו את היכולת להפנים חומר חדש או להתפתח מבחינה אינטלקטואלית.\n*   **חוסר נכונות ללמוד:** מעבר ליכולת קוגניטיבית, הושם דגש על היעדר מוטיבציה או רצון מצדו של טראמפ להשקיע בלימודים או להקשיב למוריו.\n*   **עקביות ודבקות בעמדה:** לא מדובר באמירה רגעית; הפרופסור חזר על דברים אלו מספר רב של פעמים לאורך שנים רבות בפני חבריו הקרובים.\n*   **חשיבות המקור האקדמי:** העובדה שהביקורת מגיעה מפרופסור לשיווק בבית הספר היוקרתי \"וורטון\" (Wharton) מעניקה משקל סגולי רב לטענות על רמתו האקדמית של טראמפ.\n*   **עדות יד שנייה מבוססת:** המידע הגיע דרך פרנק די-פרימה, חברו הקרוב של הפרופסור, אשר העיד על התבטאויותיו החריפות והחוזרות ונשנות של קלי בנושא.",
-    "dateString": "2026-06-26",
-    "savedAt": {
-      "_seconds": 1782466885,
-      "_nanoseconds": 98000000
-    }
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג שש נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **ביקורת על התגובה המאוחרת של פאוול:** קיימת טענה חריפה כי יו\"ר הפד, ג'רום פאוול, נכשל בתפקידו בכך שלא העלה את הריבית בזמן. המגיבים מציינים שהוא התחיל להעלות את הריבית מרמה של 0.1% רק כאשר האינפלציה כבר טיפסה ל-7.5%.\n*   **חוסר הלימה בין גובה הריבית לשיעור האינפלציה:** הועלתה ביקורת על קצב הפעולה האיטי; נטען כי בזמן שהאינפלציה כבר הגיעה לשיא של 9%, הריבית עמדה על 1.2% בלבד – פער שנראה בעיני המגיבים כבלתי סביר.\n*   **הטלת האחריות לאינפלציה המצטברת על הפד:** אחד המגיבים טוען שאין \"להעריץ\" את פאוול, שכן המדיניות שלו היא הסיבה הישירה לאינפלציה מצטברת של כ-25% במהלך כהונת ביידן.\n*   **חשדנות וחוסר אמון בנתונים הממשלתיים:** עולה טענה סקפטית/קונספירטיבית לפיה המערכת עומדת לשנות את הדרך שבה נאספים נתונים כלכליים. לפי גישה זו, הממסד יציג \"נתונים מזויפים\" כדי לייצר הצדקה מלאכותית להורדת ריבית.\n*   **דיוק בלוחות הזמנים של ה-FOMC:** המגיבים מדגישים את החשיבות של הבנת הצהרות הפד – יש להבחין בין צפי לשינוי במהלך השנה הנוכחית לבין צפי לשינוי כבר בישיבה הקרובה.\n*   **ניתוח ציפיות השוק לפי חוזים עתידיים:** בהתבסס על נתוני ה-CME, הקהילה מצביעה על כך שהשוק חוזה כרגע הסתברות גבוהה (כ-77%) לשינוי או העלאה בריבית עד סוף השנה, מה שמעיד על חוסר ביטחון בכך שהריבית תרד בקרוב."
   },
   {
-    "id": "1ugbhbp",
-    "title": "Is Amazon quietly strengthening its AI moat while everyone argues about AI spending?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1ugbhbp/is_amazon_quietly_strengthening_its_ai_moat_while/",
-    "author": "aperartnft",
-    "score": 34,
-    "selftext": "One thing I've been thinking about lately is how different Amazon's AI strategy feels compared to everyone else's.\n\nEvery earnings season it seems that they're spending too much on AI infrastructure. Then a few months later they're announcing more AWS demand, more data centers, more custom chips, and somehow an even bigger capex plan.\n\nThe market keeps focusing on the spending, while Amazon seems willing to take the pain now and worry about the returns later. Whether that ultimately pays off is the interesting part.\n\nAWS already has millions of developers and enterprise customers locked into its ecosystem. If those customers start building AI applications, agents and workflows inside AWS, Amazon doesn't just sell them compute, it can sell the chips, the cloud infrastructure, the foundation models through Bedrock, databases, storage, security, basically every layer of the stack. That's a pretty crazy position to be in if enterprise AI adoption keeps accelerating. \n\nThe interesting part is that people seem much more comfortable paying huge multiples for companies selling the AI \"picks and shovels,\" but Amazon might end up monetizing AI from several different directions at once. \n\nObviously there are risks. AI capex is enormous, investors are right to ask whether these returns justify the spending, and if enterprise AI adoption takes longer than expected, that's a lot of capital tied up for years. \n\nI think it's easy to overlook how much of the AI value chain it's trying to own at the same time. Maybe the spending ends up being excessive, or maybe this is the period where it quietly widened an already huge moat. Curious on how others interpret this.",
-    "subreddit": "StockMarket",
-    "created_utc": 1782490937,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I'm loading on Alibaba and Amazon, they are gonna be the biggest beneficiaries when AI comes to fruition\n\n1.  Amazon and Baba both have huge cost structures and high revenue. AI and Physical AI are gonna drive cost down. So even if their revenue hypothetically grows at 0% for the next 10 years, they are still gonna see big jumps in earnings growth because margins are expanding through cost reductions. Imagine you're an e-commerce business, and you can get almost the same as a sass company.\n2. Amazon owns 17% in Anthropic. Baba owns the Qwen model. AI race is gonna be between China and the US. Anthropic is by far the leader and the only big one I see to OpenAI and anthropic are cheap Chinese models like Qwen and Deepseek. \n3. Amazon both owns the cloud and is the leader in cloud. So they are both gonna benefit this way. For Baba, Chinese tech companies are gonna seek domestic cloud providers because of geopolitical tensions.\n4. Amazon make their own chips, and they are planning to sell them as well.",
-        "score": 9,
-        "author": "TechTuna1200"
-      },
-      {
-        "body": "Alphabet is pushing as well. It’s got the data.",
-        "score": 2,
-        "author": "noncommonGoodsense"
-      },
-      {
-        "body": "When you need reliability, Amazon is one of the fewest companies that can guarantee it. That’s their biggest moat",
-        "score": 1,
-        "author": "djingo_dango"
-      }
-    ],
-    "summary_he": "הפוסט בוחן את אסטרטגיית ה-AI של אמזון וטוען כי למרות חששות המשקיעים מהוצאות העתק, החברה בונה יתרון תחרותי משמעותי (\"חפיר\") על ידי שליטה בכל שכבות הטכנולוגיה — משבבים ייעודיים ועד תשתיות ענן ומודלים. בזכות האקו-סיסטם של AWS, אמזון עשויה לייצר רווחים ממספר כיוונים בו-זמנית, מה שמעלה את השאלה האם מדובר במהלך אסטרטגי לטווח ארוך או בהשקעה מופרזת בסיכון גבוה.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט וסנטימנטים מרכזיים של הקהילה בנוגע להשקעות בחברות טכנולוגיה בעידן הבינה המלאכותית:\n\n*   **שיפור שולי הרווח באמצעות התייעלות:** קיימת הערכה כי בינה מלאכותית (AI) ורובוטיקה יפחיתו משמעותית את עלויות התפעול של ענקיות המסחר אמזון ועליבאבא. גם אם ההכנסות שלהן לא יגדלו, הצמצום בעלויות יביא לקפיצה ברווחים ויהפוך את המודל העסקי שלהן לרווחי כמעט כמו של חברות תוכנה (SaaS).\n*   **המרוץ הגיאופוליטי בין ארה\"ב לסין:** הדיון מדגיש כי המאבק על השליטה ב-AI מתמקד בשתי המעצמות הללו. אמזון (דרך השקעתה ב-Anthropic) ועליבאבא (עם מודל ה-Qwen שלה) נתפסות כשחקניות המובילות שמייצגות את היכולות של כל מדינה מול OpenAI.\n*   **יתרון התשתית וענן מקומי:** שליטה בתחום הענן היא קריטית לצמיחת ה-AI. אמזון נהנית מהובלה עולמית בתחום, בעוד שעליבאבא צפויה להרוויח מכך שחברות סיניות יעדיפו ספקי ענן מקומיים בשל מתיחויות גיאופוליטיות מול המערב.\n*   **עצמאות טכנולוגית בייצור שבבים:** מצוין כי לאמזון יש יתרון תחרותי משמעותי בזכות העובדה שהיא מייצרת שבבים משל עצמה ואף מתכננת למכור אותם, מה שמקטין את התלות שלה בספקים חיצוניים ומייצר אפיק הכנסה נוסף.\n*   **חשיבות המידע (Data) של אלפאבית:** מעבר לאמזון ועליבאבא, קיימת דעה כי אלפאבית (גוגל) היא מועמדת חזקה במרוץ ה-AI בזכות מאגרי המידע העצומים שברשותה, המהווים דלק חיוני לאימון מודלים חכמים.\n*   **אמינות כחסם כניסה (Moat):** אחד הסנטימנטים המרכזיים הוא שהיתרון התחרותי הגדול ביותר של אמזון אינו רק טכנולוגי, אלא היכולת שלה לספק אמינות גבוהה לאורך זמן – תכונה נדירה שחברות מעטות יכולות להבטיח ללקוחותיהן."
-  },
-  {
-    "id": "1ugf7tu",
-    "title": "Owning UPS or Shopping Center",
-    "url": "https://www.reddit.com/r/investing/comments/1ugf7tu/owning_ups_or_shopping_center/",
-    "author": "xclushiv",
-    "score": 11,
-    "selftext": "Hello fellow Redittors, I’ll keep it simple and ask whether or not if someone on the channel has an experience owning/running an UPS store or owning/running a shopping center - if anyone does have an experience or knowledge about it, what is it like? Is it profitable if you (as an owner) work most hours? Is it a decent long-term investment? ",
-    "subreddit": "investing",
-    "created_utc": 1782499228,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Worked at a franchised UPS store. Don’t do it, owner tried getting rid of it for years, no takers, got so desperate she tried convincing a 19yo staff employee to get a loan and buy it. Margins are razor thin and you need tons of volume to succeed because 95% of customers are returning amazon orders. ",
-        "score": 76,
-        "author": "user217717"
-      },
-      {
-        "body": "What even is this question? I guess in context with this sub you are thinking about opening up a UPS store or straight up buying or investing into a shopping center, but those are like totally different things besides having walls and doors in common. I'm so confused, like what is even your goal?\n\nIt's like when a person in r/whatcarshouldibuy asks if they should get a Honda Civic vs a Ford F250 with no context.",
-        "score": 23,
-        "author": "TeenyTinyToast"
-      },
-      {
-        "body": "What fruit should a buy? A watermelon or apple? Does anyone have any experience in owning either?",
-        "score": 14,
-        "author": "Immediate-Run-7085"
-      }
-    ],
-    "summary_he": "הכותב מבקש להתייעץ עם בעלי ניסיון בבעלות או בניהול של חנות UPS או מרכז מסחרי קטן. הוא מתעניין ברמת הרווחיות של עסקים אלו, במיוחד כאשר הבעלים מעורב אישית בניהול השוטף, ושואל האם מדובר בהשקעה טובה וכדאית לטווח ארוך.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות בשרשור:\n\n* **אזהרה מפתיחת זיכיון UPS:** אחד המגיבים, שעבד בחנות כזו, ממליץ בחום להימנע מהעסק. לטענתו, הבעלים של החנות בה עבד ניסתה נואשות למכור את העסק במשך שנים ללא הצלחה, עד כדי ניסיון לשכנע עובד בן 19 לקחת הלוואה ולקנות אותה ממנה.\n* **רווחיות נמוכה במיוחד:** המגיבים מציינים כי שולי הרווח בעסק מסוג זה הם \"דקים כלהב\" (razor thin), וכי נדרש נפח עצום של עסקאות כדי להגיע להצלחה כלכלית כלשהי.\n* **תלות בהחזרות של אמזון:** נטען כי כ-95% מהלקוחות מגיעים לחנות רק כדי לבצע החזרות של מוצרי אמזון, מה שיוצר עומס עבודה גדול אך לא בהכרח מייצר הכנסה משמעותית או רווחית מספיק לבעלי הזיכיון.\n* **ביקורת על חוסר במידע והקשר:** חלק מהמגיבים הביעו תסכול מכך שהשאלה המקורית בשרשור הייתה מעורפלת מדי. הם טוענים שקשה לתת עצה עסקית מבלי להבין מה המטרה הסופית של השואל או מהו הרקע שלו.\n* **השוואה בין אפשרויות לא קשורות:** קהילת המגיבים לעגה להשוואה שביצע השואל (ככל הנראה בין רכישת חנות בודדת להשקעה במרכז מסחרי), וציינו שמדובר בשני דברים שונים לחלוטין שאין להם דבר במשותף מלבד \"קירות ודלתות\".\n* **שימוש באנלוגיות להמחשת האבסורד:** המגיבים השתמשו בדוגמאות ציניות כדי להמחיש את חוסר המיקוד של השאלה, כמו השוואה בין קניית מכונית משפחתית למשאית עבודה, או התלבטות בין קניית תפוח לבין אבטיח ללא הסבר נוסף."
-  },
-  {
-    "id": "1ughqkj",
-    "title": "On last minute before the close SPY wicked down 2.3% on 10x volume",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1ughqkj/on_last_minute_before_the_close_spy_wicked_down/",
-    "author": "whssp",
+    "id": "1uh20px",
+    "title": "What do I do with warrants?",
+    "url": "https://www.reddit.com/r/investing/comments/1uh20px/what_do_i_do_with_warrants/",
+    "author": "pityforthemajority",
     "score": 9,
-    "selftext": "Asked earlier if the United States would response to yesterday’s Iranian drone attack on a non-allied commercial shipping vessel in the Strait of Hormuz, President Trump said, “You’ll find out.”\n\n[https://x.com/sentdefender/status/2070601262635098609](https://x.com/sentdefender/status/2070601262635098609)",
-    "subreddit": "StockMarket",
-    "created_utc": 1782504959,
-    "thumbnail": "https://preview.redd.it/hlzxd7hqpo9h1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=89a0fb4035ce95b4a2ca5b0cbbdeef31c4d79da0",
+    "selftext": "I owned some Office Properties Income Trust corporate bonds before they went through bankruptcy. The bonds were finally converted into 16 shares of post bankruptcy stock and 14 warrants. My Schwab account shows them in the equities section with an expiration of 6/18/27 and symbol 67623C117, but no information other than that. It doesn’t appear that I have the option of selling them or doing anything. Do I just have to wait until June 2027, and what will happen then?",
+    "subreddit": "investing",
+    "created_utc": 1782564783,
+    "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Corruption, what are you gonna do. \n\n",
-        "score": 7,
-        "author": "Academic_Banana_5659"
+        "body": "Warrants are an option to buy stock at a specific price.  If they expire, you lose that option.  If the stock is higher than the warrants price, you win by buying the shares.",
+        "score": 8,
+        "author": "mykesx"
       },
       {
-        "body": "Diminish my portfolio some more, most likely.",
+        "body": "They're typically used, in my experience, as a sweetener to add to some other deal.  Like loan $500K to my private company and we'll give you warrants for X shares.  It's an offer of upside, but you don't need to pay for the shares up front.",
         "score": 2,
-        "author": "HopelessBearsFan"
+        "author": "mykesx"
+      },
+      {
+        "body": "Yes it's that simple. And if you really do not want to own the shares, just buy are warrant price and then sell for the profit",
+        "score": 2,
+        "author": "george_alto"
       }
     ],
-    "summary_he": "מדד ה-SPY רשם ירידה חדה של 2.3% בדקת המסחר האחרונה תחת נפח מסחר גבוה פי 10 מהרגיל. התנודה הגיעה על רקע דבריו של הנשיא טראמפ, שרמז על תגובה אמריקאית אפשרית למתקפת כטב\"ם איראנית על ספינה במצר הורמוז.",
+    "summary_he": "המשתמש קיבל מניות וכתבי אופציה (warrants) של חברת Office Properties Income Trust כחלק מהסדר פשיטת רגל, אך כרגע הם מופיעים בחשבון המסחר שלו ללא אפשרות לביצוע פעולות. הוא מבקש להבין כיצד עליו לפעול והאם עליו פשוט להמתין עד למועד פקיעתם ביוני 2027.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והלך הרוח העולה מהתגובות בשרשור:\n\n*   **ייחוס המצב לשחיתות:** קיימת תפיסה בקרב הגולשים שהגורם המרכזי לבעיות המוצגות הוא שחיתות מערכתית, בין אם פוליטית ובין אם כלכלית.\n*   **תחושת חוסר אונים (דטרמיניזם):** הביטוי \"מה כבר אפשר לעשות\" משקף תחושה של חוסר יכולת להשפיע על המציאות או לשנות את השיטה המושחתת.\n*   **פגיעה ישירה בחיסכון האישי:** הדיון נוגע בהשלכות הפרקטיות של המצב על הכיס של האדם הממוצע, ובפרט בציפייה להמשך הירידות בערך תיקי ההשקעות.\n*   **פסימיות לגבי העתיד הקרוב:** המגיבים צופים שהמגמה השלילית תימשך (\"להצטמק עוד קצת\"), ללא סימנים לאופטימיות או לשינוי כיוון באופק.\n*   **ציניות ככלי התמודדות:** השימוש בתגובות קצרות ומושחזות מעיד על אימוץ גישה צינית וסרקסטית כדרך להתמודד עם תסכול כלכלי וחברתי.\n*   **חוסר אמון במערכת:** מהתגובות עולה שבר ברור באמון הציבור במוסדות, כאשר הגולשים רואים במערכת גורם שפועל נגדם או לכל הפחות לא מגן על האינטרסים שלהם."
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit לגבי כתבי אופציה (Warrants), המציג 6 נקודות מבט ותובנות שונות שעלו מהתגובות:\n\n*   **הגדרה בסיסית:** כתבי אופציה נתפסים בקהילה כאפשרות (זכות) לרכוש מניה במחיר נקוב וספציפי, המעניקה למחזיק בהם גמישות בהחלטת הקנייה.\n*   **סיכון פקיעת התוקף:** אחד המשתתפים מדגיש כי לכתבי אופציה יש תאריך תפוגה; אם המשקיע לא מממש את הזכות עד למועד זה, הוא מאבד את האופציה לחלוטין ואת הערך הגלום בה.\n*   **מנגנון הרווח:** הרווח מהשימוש בכלי זה נוצר כאשר מחיר המניה בשוק גבוה ממחיר המימוש שנקבע בכתב האופציה – מצב המוגדר בפי המשתמשים כ\"ניצחון\" (Win).\n*   **שימוש כ\"ממתיק\" לעסקאות (Sweetener):** צוין כי כתבי אופציה משמשים לעיתים קרובות כתמריץ נוסף בעסקאות מורכבות יותר, כמו מתן הלוואות לחברות פרטיות, כדי להפוך את העסקה לאטרקטיבית יותר עבור המלווה.\n*   **פוטנציאל רווח ללא עלות ראשונית על המניה:** יתרון מרכזי שעלה הוא היכולת ליהנות מפוטנציאל עליית הערך (Upside) של החברה מבלי שהמשקיע יצטרך לשלם על המניות עצמן מראש בעת חתימת העסקה.\n*   **אסטרטגיית מימוש מהיר:** קיימת הסכמה שהתהליך פשוט למדי; עבור משקיעים שאינם מעוניינים להחזיק במניות לטווח ארוך, מוצעת הגישה של רכישת המניות במחיר האופציה ומכירתן המיידית בשוק כדי לגרוף את הרווח הכספי (הפרש המחירים) לכיס."
   },
   {
-    "id": "1uhnw76",
-    "title": "Are rare earth stocks really dead or are people just tired of waiting?",
-    "url": "https://www.reddit.com/r/investing/comments/1uhnw76/are_rare_earth_stocks_really_dead_or_are_people/",
-    "author": "MMTGBS",
-    "score": 1,
-    "selftext": "I know this sector has been painful. A lot of these names had big stories, big expectations, then nothing really happened for a while. Some got diluted. Some are still waiting for permits, funding, processing, offtakes, government help, all of it.\n\nSo I understand why people call it a dead trade.  \nBut I keep thinking about it differently.\n\nThe wheel came before the car.\n\nAt the time, the wheel was not exciting because there were no highways, no gas stations, no auto industry, no global supply chain built around it. But once the world found more uses for it, everything changed.  \nThat is kind of how I see rare earths and critical minerals right now.\n\nEveryone is talking about AI, drones, robotics, EVs, defense, wind, chips, data centers and the next industrial boom. But all of those things still need physical inputs. Magnets. Metals. Processing. Refining. Supply chain security.\n\nNobody wants to talk about the boring part until the boring part becomes the bottleneck.\n\nI am not saying every rare earth stock will win. Most probably will not. There are plenty of bad companies in this space. Bad management, dilution, weak projects, hype, all of that is real.\n\nBut companies like $MP or $USAR or $UUUU or $UAMY and more seem very promising to me.\n\nI think people just got exhausted because the story is taking longer than expected.\n\nMaybe that means the trade is over. Or maybe this is the part of the cycle where everyone gives up before the real money starts paying attention again.\n\nCurious what people here think. Are rare earth stocks actually done, or is this one of those sectors that only looks dead because the timing has not caught up with the need yet?",
+    "id": "1uh68yq",
+    "title": "Let's discuss various food stocks!  Seems like a volatile space.  Curious to hear DD from experts.",
+    "url": "https://www.reddit.com/r/investing/comments/1uh68yq/lets_discuss_various_food_stocks_seems_like_a/",
+    "author": "HarryCrushNuh",
+    "score": 5,
+    "selftext": "What are your thoughts on various sub-sectors?      \nDelivery (dash, uber, Fast casual, vegan, premium, etc.  \n\nWhat are some interesting examples?   \n\ntotal Bust:  Blue apron, beyond meat, sweetgreen, oatly,  etc.\n\nSuccess:  Cava, shakeShack, DutchBros, dash, uber, etc.\n\nSeems like a volatile space.  Curious to hear DD from experts.",
     "subreddit": "investing",
-    "created_utc": 1782622119,
+    "created_utc": 1782575620,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "In 2027 the US law prohibiting the purchase of foreign critical minerals by a targeted legislative and executive framework prohibiting sourcing them from Foreign Entities of Concern (FEOCs) or from sources tied to human rights abuses goes into effect.\n\nFrom Google- \nThe \"FEOC\" Definition: Heavily targets adversarial nations; a FEOC is typically defined as a company owned by, controlled by, or subject to the jurisdiction of the governments of China, Russia, North Korea, or Iran.\n\nThis catalyst alone will change the critical minerals sourcing landscape by US companies and military dramatically. \n\nMy theory is to buy in 26 and hold til 27!",
+        "body": "This appears to be a DD submission. Please note that we expect such posts to meet a higher standard of analysis. Please check that you have met the guidelines for DD posts [listed here](https://www.reddit.com/r/investing/wiki/index/rules#wiki_due_diligence_guidelines). In short, it must include financials, a legitimate examination of risks to the company, and you must be prepared to respond to comments. These rules are intended to distinguish sincere contributions from spam and to foster a higher quality of discussion. Thank you.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/investing) if you have any questions or concerns.*",
         "score": 1,
-        "author": "daknuts_"
-      },
-      {
-        "body": "That's an interesting take. I think people may be overlooking the supply chain side of the AI boom. The cost of servers, GPUs, and networking equipment has already risen significantly, and AI data centers are consuming more power and requiring more specialized hardware every year. If critical minerals or rare earths become a bottleneck, those costs only increase. I've also looked at uranium (DNN) because the electricity demand from AI data centers could be another major constraint. It seems like the market is focused on AI software while underestimating the physical infrastructure needed to support it.",
-        "score": 1,
-        "author": "MyMemoryBank"
-      },
-      {
-        "body": "Not sure about rare earth but “strategic materials” should really hit hard in phase 2 of the AI/robotics build-out. It’s just a question of surviving the initial bubble deflation. At least that’s how I see it having lived through both dot com bubbles. The problem is that everything just feels insanely overvalued. SETM is my pick - buying and holding longterm.",
-        "score": 1,
-        "author": "Vast_Ad_8515"
+        "author": "AutoModerator"
       }
     ],
-    "summary_he": "הכותב טוען כי למרות האכזבה והעיכובים במגזר המתכות הנדירות (Rare Earths), מדובר בחומרי גלם קריטיים לתעשיות הבינה המלאכותית, הביטחון והרכבים החשמליים. לדעתו, חוסר העניין הנוכחי נובע מעייפות המשקיעים ולא ממותו של התחום, שכן המתכות הללו יהפכו בסופו של דבר לצוואר בקבוק הכרחי בשרשרת האספקה העולמית.",
+    "summary_he": "הפוסט דן במניות מתחום המזון והמשלוחים ומציין כי מדובר במגזר תנודתי מאוד המציג פערים משמעותיים בין הצלחות לכישלונות. הכותב מבקש לקבל ניתוח מעמיק ממומחים על תתי-קטגוריות שונות, תוך השוואה בין חברות שנסוגו (כמו Beyond Meat) לכאלו שמשגשגות (כמו Cava ו-Uber).",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה לגבי עתיד המינרלים הקריטיים ותעשיית הבינה המלאכותית:\n\n*   **שינוי רגולטורי דרמטי ב-2027:** בשנת 2027 ייכנס לתוקף חוק אמריקאי האוסר על רכישת מינרלים קריטיים מ\"ישויות זרה מדאיגות\" (FEOC), הכוללות את סין, רוסיה, צפון קוריאה ואיראן. מהלך זה צפוי לשנות לחלוטין את הדרך שבה חברות אמריקאיות והצבא רוכשים חומרי גלם.\n*   **אסטרטגיית עיתוי השקעה (Market Timing):** קיימת סברה בקרב משקיעים כי כדאי להתחיל לצבור פוזיציות במניות של מינרלים קריטיים במהלך שנת 2026, כדי להפיק תועלת מהזינוק הצפוי בביקוש ובמחירים עם כניסת החוק לתוקף ב-2027.\n*   **הזנחת שרשרת האספקה הפיזית של ה-AI:** קיים חשש שהשוק מתמקד יתר על המידה בתוכנות AI ומזניח את התשתיות הפיזיות. העלויות של שרתים, מעבדים גרפיים (GPU) וציוד רשת כבר עולות, ומינרלים נדירים עלולים להפוך ל\"צוואר בקבוק\" שיגביל את המשך צמיחת התחום.\n*   **הקשר בין אנרגיה לבינה מלאכותית:** מעבר למינרלים המשמשים לבניית החומרה, מרכזי הנתונים של AI דורשים כמויות אדירות של חשמל. בשל כך, משקיעים מסוימים רואים באורניום (כמקור לאנרגיה גרעינית) השקעה אסטרטגית הכרחית לתמיכה בתשתיות ה-AI.\n*   **חשש מבועה והערכות שווי מופרזות:** חלק מהמשתמשים חשים שהשוק הנוכחי נמצא במצב של הערכת חסר של הסיכונים והערכת יתר של השווי (בדומה לבועת הדוט-קום). האתגר המרכזי עבור משקיעים יהיה \"לשרוד\" את פקיעת הבועה הראשונית לפני שהשלב השני של פיתוח הרובוטיקה וה-AI יתחיל.\n*   **מעבר ל\"חומרים אסטרטגיים\" בשלב הבא:** קיימת הערכה כי \"חומרים אסטרטגיים\" (Strategic Materials) יקבלו דחיפה משמעותית בשלב השני של בניית תעשיית ה-AI והרובוטיקה. משקיעים מסוימים כבר מסמנים קרנות ספציפיות (כמו SETM) כנכסים להחזקה לטווח ארוך כדי לנצל מגמה זו."
+    "comments_summary_he": "להלן סיכום הדיון (מבוסס על הודעת המערכת/בוט בקהילת r/investing) המציג את הכללים והציפיות מהניתוח שפורסם:\n\n* **סיווג התוכן כניתוח מעמיק (DD):** המערכת מזהה את הפוסט כניתוח מסוג Due Diligence (בדיקת נאותה), מה שמגדיר מראש את רמת הציפיות מהכותב.\n* **סטנדרטים גבוהים של ניתוח:** הקהילה מצפה שפוסטים מסוג זה לא יהיו שטחיים, אלא יעמדו ברף גבוה של איכות ובדיקה יסודית של הנתונים.\n* **חובת הצגת נתונים פיננסיים:** על מנת שהניתוח ייחשב ללגיטימי, עליו לכלול פירוט של דוחות כספיים או נתונים פיננסיים רלוונטיים של החברה הנידונה.\n* **בחינת סיכונים מהותית:** מעבר ליתרונות, על הכותב לבצע בדיקה כנה ומעמיקה של הסיכונים והאיומים הפוטנציאליים על החברה, כדי לספק תמונה מאוזנת.\n* **מוכנות למעורבות בדיון:** כותב הפוסט נדרש להיות זמין ולהגיב לשאלות ולהערות של חברי הקהילה, וזאת כדי להעמיק את הדיון סביב הנושא.\n* **סינון \"ספאם\" ושיפור איכות הקהילה:** מטרת הכללים הנוקשים היא להבדיל בין תרומה איכותית וכנה לבין תוכן שיווקי או הודעות זבל (Spam), ובכך להבטיח שיח מקצועי ומועיל."
   },
   {
-    "id": "1uhid3w",
-    "title": "Did Elon intentionality poison the market to prevent OpenAI from an IPO?",
-    "url": "https://www.reddit.com/r/investing/comments/1uhid3w/did_elon_intentionality_poison_the_market_to/",
-    "author": "Aggressive_Finish798",
-    "score": 1,
-    "selftext": "Elon was taking OpenAI to court just months ago. It seemed like a way to trip them up from an IPO. Well, Musk lost, and OpenAI prevailed. Was the SPCX IPO price a way to further mess with OpenAI and even Anthropic IPO? Put a price out there that scews the market and buys time?  Musk and his lawyers are cuntz and would surely know these effects. ",
+    "id": "1uh9urn",
+    "title": "Fixed Investment reality in different countries",
+    "url": "https://www.reddit.com/r/investing/comments/1uh9urn/fixed_investment_reality_in_different_countries/",
+    "author": "senhox",
+    "score": 4,
+    "selftext": "Okay, so this is more a intent of sharing different realities than anything else. I'm into investiments for a while and I know why some countries have higher returns than others. However, only recently, after looking for investments in other countries for diversification, I have thought about how some investments are perceived in differente contries, almost culturally. Especially fixed income investment and even savings in bank accounts.\n\nSo, here is more context: I'm from Brazil, and here the interest rates are generally very high. Because of that, there is saying that goes \"Brazil is the country of fixed income\". Not only many people get satisfied by using only fixed income or even just the bank account savings, but also there is a lot of people that say it's better than investing in the stock market (in the sense of having higher returns). \n\nI know the interest rates are lower in most countries, even more in the richer ones (usually), but I wanted to have a better grasp on how this is perceived in practice (and how different it is). Not only about the rates, but also other rules. Like, here in Brazil there is 3 main types of govermental bonds. The fixed-rate bonds, the inflation-indexed bonds and the floating-rate bonds. It seems in US the most common is the fixed-rate, and the floating-rate seems like a new thing, right? How things are in your country? Can be any country.",
     "subreddit": "investing",
-    "created_utc": 1782605831,
+    "created_utc": 1782584315,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "הפוסט בוחן את ההבדלים בתפיסה ובתשואות של השקעות באפיקי הכנסה קבועה (Fixed Income) במדינות שונות, על רקע הריביות הגבוהות המאפיינות את ברזיל. הכותב מבקש להבין ממשתמשים ברחבי העולם כיצד נתפסים אצלם פיקדונות ואגרות חוב ממשלתיות בהשוואה לשוק ההון, ואילו סוגי אג\"ח נפוצים בכל מדינה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1uh6xth",
+    "title": "Just moved my pensions from previous employers to trading212 SIPP",
+    "url": "https://www.reddit.com/r/investing/comments/1uh6xth/just_moved_my_pensions_from_previous_employers_to/",
+    "author": "Fresh_Phrase_7086",
+    "score": 3,
+    "selftext": "I'm currently investing in index funds in my personal ISA but now ive moved a large lump sum into my SIPP im thinking I want a slightlly higher risk tolerance to compound over the long term given I can't access it directly\n\nThe ETF's are I have shortlisted for pension is:\n\nVFEG - Vanguard Emerging Markets\n\nEQGB - Nasdaq 100\n\nNATP - Future of Defence\n\nRENG - Clean Energy\n\nJEDG - Space Innovators\n\nRBTX - Automation & Robotics\n\nBased on this if you had to give a opinion on the following:\n\nA) This is a wise choice to follow through given the industries I believe will lead in the next decade onwards?\n\nB) Risk level is adequate or too small?\n\nC) I'm not fund overlapping and whether I should add or remove any funds?",
+    "subreddit": "investing",
+    "created_utc": 1782577277,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "No.  Idiots just did what idiots do.  They followed the crowd off a cliff.  \n\nThat’s normal market behavior",
-        "score": 1,
-        "author": "Delicious_Bicycle527"
+        "body": "VFEG and EQGB are OK-ish, depending how how they're allocated. \n\nthe others I would avoid. they're far too narrowly focused and volatile for my tastes. there is zero guarantee any of them will be a good investment over the long-term. narrow and theme based investments are usually a bad idea.",
+        "score": 2,
+        "author": "nostratic"
       },
       {
-        "body": "I'm hard-core maybe on this issue",
+        "body": "If you look at long term 5 years + they all return very well and given the nature of the withdrawal not until older age I think it should actually perform well, all those industries will only scale further, the one I have most doubt in is defence but clearly since ww2 no country has fully learned their lesson",
         "score": 1,
-        "author": "TheDiscoSailor"
-      },
-      {
-        "body": "Guy has famously gotten blindsided on all deals he led, I would say he's a chump. He's not bad at picking decent folks to follow though for investment sake.",
-        "score": 1,
-        "author": "_learned_foot_"
+        "author": "Fresh_Phrase_7086"
       }
     ],
-    "summary_he": "הפוסט מעלה תהייה האם אילון מאסק מנסה לחבל במכוון בשוק כדי למנוע מ-OpenAI ו-Anthropic לצאת להנפקה (IPO). הכותב מציע שפעולותיו המשפטיות של מאסק והשפעתו על תמחור השוק הן טקטיקות שנועדו לשבש את התקדמות המתחרות ולקנות לו זמן נוסף.",
+    "summary_he": "הכותב העביר את כספי הפנסיה שלו לניהול עצמי (SIPP) ומחפש לבנות תיק השקעות ברמת סיכון גבוהה לטווח ארוך במטרה למקסם רווחים. הוא הציג רשימת קרנות סל (ETFs) המתמקדות במגזרים ספציפיים כמו טכנולוגיה, ביטחון ורובוטיקה, ומבקש חוות דעת לגבי כדאיות המהלך, רמת הסיכון והחפיפה בין הקרנות שנבחרו.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות:\n\n* **הסתייגות מהקצאה ספציפית:** המגיב הראשון מציין כי הקרנות VFEG ו-EQGB הן סבירות (\"OK-ish\"), אך יעילותן תלויה במידה רבה באופן שבו המשקיע בוחר להקצות אותן בתוך תיק ההשקעות הכולל שלו.\n* **סיכון בהשקעות נושאיות וממוקדות:** קיימת אזהרה מפני השקעות בתחומים צרים מדי. לטענת אחד המגיבים, השקעות מבוססות \"נושא\" (Thematic investments) הן לרוב רעיון רע, כיוון שהן תנודתיות מאוד וחסרות ערובה לרווחיות בטווח הארוך.\n* **אופטימיות מבוססת טווח זמן:** מנגד, עולה טענה כי במבט לטווח ארוך (חמש שנים ומעלה), התחומים הללו מניבים תשואות יפות מאוד. לכן, עבור מי שמתכנן למשוך את הכסף רק בגיל פרישה, מדובר באפיק שעשוי לתפקד היטב.\n* **פוטנציאל צמיחה טכנולוגי ותעשייתי:** קיימת הערכה בקהילה שהתעשיות המיוצגות בקרנות הללו רק ימשיכו לגדול ולהתרחב (\"Scale\") בעתיד, מה שמצדיק את ההשקעה בהן למרות הסיכונים המיידיים.\n* **ספקנות לגבי סקטור הביטחון:** אחד המגיבים מביע ספק ספציפי לגבי השקעה בתעשיות ביטחוניות (Defence), אם כי הוא מודה בנימה מפוכחת שמאז מלחמת העולם השנייה נראה שהעולם לא למד לקח, ולכן הצורך בתעשיות אלו נותר בעינו.\n* **גישות מנוגדות לניהול סיכונים:** הדיון משקף מתח בין שתי גישות השקעה – האחת שמרנית, המעדיפה פיזור רחב והימנעות מתנודתיות של סקטורים ספציפיים, והשנייה אסטרטגית, המאמינה שצמיחה ענפית ארוכת טווח תגבור על התנודות שבדרך."
+  },
+  {
+    "id": "1uhfwl0",
+    "title": "Anyone else find that cross-partner scheduling is where multi-party projects actually break?",
+    "url": "https://www.reddit.com/r/business/comments/1uhfwl0/anyone_else_find_that_crosspartner_scheduling_is/",
+    "author": "CommonEarly4028",
+    "score": 3,
+    "selftext": "Been working in a complex integration program for a few years — multiple contractors, multiple tools, everyone managing their own schedule in whatever their organization mandates. MS Project on one side, P6 on another, Jira somewhere in the middle, Excel everywhere as the real source of truth.\n\nThe interfaces between subsystems are where everything breaks. Dependencies get agreed in a meeting, captured in someone’s local file, and then quietly drift for three months until an integration test fails and everyone acts surprised.\n\nWe’ve tried master IMS spreadsheets, we’ve tried SharePoint, we’ve tried weekly sync calls. Nothing actually propagates a schedule change across organizational boundaries in real time.\n\nCurious whether this is specific to defense/infrastructure programs or if anyone in other sectors has cracked it — and how.",
+    "subreddit": "business",
+    "created_utc": 1782599286,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "yeah 100%, and i think it's because in multi-party projects nobody actually owns the timeline, everyone just owns their own slice. so each party optimizes for their own schedule and the dependencies between them stay invisible until something slips and the whole thing dominoes. the breakage isn't really the scheduling tool, it's that there's no single source of truth for \"what's blocking what\" across everyone. the setups i've seen work usually force one shared timeline with explicit owners on every handoff, even if it feels like overkill. what kind of projects are you seeing it on?",
+        "score": 1,
+        "author": "Latter_Praline_9825"
+      }
+    ],
+    "summary_he": "הכותב מתאר את הקושי המהותי בתיאום לוחות זמנים בפרויקטים מרובי שותפים המשתמשים בכלים שונים, דבר המוביל לכשלים בשלבי האינטגרציה עקב חוסר סנכרון של תלויות בזמן אמת. למרות ניסיונות לפתרון באמצעות פגישות שבועיות או גיליונות משותפים, המידע נותר מבוזר ומשתנה ללא עדכון הדדי בין הארגונים. הוא מבקש לדעת האם בענפים אחרים מצאו פתרון טכנולוגי או תהליכי שמאפשר סנכרון יעיל של לוחות זמנים חוצי-ארגונים.",
     "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות בשרשור, הכולל 6 נקודות מבט ותובנות שונות:\n\n*   **ביקורת על התנהגות הצרכנים/משקיעים:** קיימת טענה שהתנהגות הקהל אינה נובעת מתוכנית מחושבת, אלא מטיפשות גרידא ומנטליות של \"הליכה כעדר\" אחרי הזרם, גם אם זה מוביל לכישלון מוחלט (\"נפילה מהצוק\").\n*   **נרמול של התנהגות שוק לא רציונלית:** הדוברים מציינים כי התנהגות חסרת היגיון זו היא למעשה \"התנהגות שוק נורמלית\", מה שמעיד על ספקנות וציניות כלפי האופן שבו שווקים פועלים במציאות.\n*   **עמדה של חוסר החלטיות קיצונית:** אחת התגובות מבטאת אמביוולנטיות עמוקה (\"Hard-core maybe\"), מה שמרמז על כך שהנושא הנדון מורכב מאוד ואין לגביו הסכמה או תשובה חד-משמעית של \"כן\" או \"לא\".\n*   **חוסר הערכה ליכולות הובלה:** קיימת ביקורת נוקבת על דמות מרכזית בסיפור (ה\"בחור\"), שנתפס כמי שנכשל באופן עקבי בהובלת עסקאות ונוטה להיות מופתע לרעה (\"blindsided\") בכל פעם שהוא לוקח את המושכות.\n*   **תיוג של דמות כ\"פראייר\" (Chump):** מעבר לביקורת המקצועית, ישנו זלזול אישי בדמות המדוברת, המכונה \"chump\" – כינוי לאדם פתי או טיפש שקל להוליך אותו שולל בעולם העסקים.\n*   **הבחנה בין יכולת ניהול ליכולת בחירת שותפים:** למרות הביקורת על כישורי המנהיגות שלו, הקהילה מציינת נקודת אור אחת: היכולת של אותו אדם לזהות ולהיצמד לאנשים מוצלחים אחרים לצורכי השקעה, מה שמעיד על אסטרטגיה של \"רכיבה על הצלחה של אחרים\" במקום ייצור הצלחה עצמאית."
+    "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובה, המנתחת את הכשלים בניהול פרויקטים מרובי משתתפים:\n\n*   **היעדר בעלות מרכזית על לוחות זמנים:** בפרויקטים המערבים מספר גורמים, נוצרת בעיה שבה אף אחד לא באמת \"בעל הבית\" של ציר הזמן הכולל. כל צד מרגיש אחריות רק על הנתח הספציפי שלו, מה שמוביל לנתק בראייה המערכתית.\n*   **אופטימיזציה מקומית מול כשל מערכתי:** כל צוות או גורם בפרויקט מבצע אופטימיזציה ללוח הזמנים האישי שלו. כתוצאה מכך, התלויות בין הגורמים השונים נותרות \"שקופות\" או בלתי נראות, עד שמתרחשת תקלה שיוצרת אפקט דומינו וגורמת לקריסת הפרויקט כולו.\n*   **הבעיה אינה בכלי, אלא במידע:** הכשל בניהול הפרויקט לא נובע מאיכות כלי התזמון (Software/Tools), אלא מהיעדר \"מקור אמת יחיד\" (Single Source of Truth). ללא מקום אחד שבו מוגדר בבירור \"מה חוסם את מה\", קשה מאוד למנוע עיכובים.\n*   **נחיצות הניהול של שלבי המעבר (Handoffs):** פתרון שעובד בפועל הוא כפיית ציר זמן משותף שבו יש הגדרה מפורשת של \"בעלים\" לכל שלב מעבר בין צוותים. הבטחת האחריות ברגע העברת המקל היא קריטית להצלחה.\n*   **הצורך במדיניות קשיחה למרות תחושת העומס:** גם אם ניהול הדוק וריכוזי של לוחות הזמנים עשוי להיתפס כ\"מוגזם\" (Overkill) או כבירוקרטיה מיותרת, הוא לעיתים הדרך היחידה להבטיח שהפרויקט לא יתפרק.\n*   **חשיבות ההקשר הספציפי של הפרויקט:** עולה השאלה באילו סוגי פרויקטים התופעה נפוצה יותר, מה שמרמז על כך שהפתרונות והסיכונים עשויים להשתנות בהתאם למורכבות ולאופי התעשייה שבה פועלים."
   },
   {
-    "id": "1uhi4c3",
-    "title": "All dating apps stocks ($MTCH, $BMBL etc...) are about to drop to ZERO",
-    "url": "https://www.reddit.com/r/investing/comments/1uhi4c3/all_dating_apps_stocks_mtch_bmbl_etc_are_about_to/",
-    "author": "BWinter517",
-    "score": 1,
-    "selftext": "I recently started watching videos on some AI services which can help men can generate incredibly realistic AI images of themselves so that they can show themselves in locations or social situations that are indicative of their status/wealth. Like photos of themselves eating at fancy restaurants in Paris or relaxing on yachts. I am not talking about some fuckass stereotypical-looking chatgpt images. They look so completely real, I think even to zoomers who have gotten very good at picking up on AI-generated images. And of course, the tech is only improving.\n\n  \nThis got me thinking about the chain reaction of effects that will happen when the relative amount of ease it takes to do this becomes realized among the larger public, as right now it still seems quite niche, as many people just dont realize just how convincing this crap has already become.  The youtube videos I watched didnt even have that many views in spite of how effective the products they offer seem to be.\n\nI think sometime soon, within the next 1-2 years, this will hit the mainstream. Soon, all men will be aware of just how easy it is to flaunt wealth and success that they do not actually have. Many men are largely disillusioned when it comes to online dating, so I expect lots of men will shamelessly use such AI services.  Those who do use AI images will initially see great success, and those who dont will fall even further behind in the dating game. It will become like an arms race. And once too many men start doing this, the apps will just be filled with profiles using realistic AI images of high-value men. And this is how the apps completely break. Men would much rather pay some third-party company for AI images rather than using the dating apps' subscription services, which will become obsolete. That alone is an existential threat to the dating app companies. But it gets worse.\n\n  \nOnce women catch on to just how pervasive this issue becomes, they will begin to associate all images portraying wealthy/successful men with fakes. They will not be able to distinguish actual high-status men from the fakers. This is a pretty big deal since many women are only really interested in using the apps to find high-status men, they dont care much about average or even reasonably well-looking dudes. If women cant use the apps to find actual high-value men due to the landslide of catfish, they may just give up on the apps entirely, especially since opinions on dating apps are souring right now anyways. And of course, if all the women leave, so will all the men.\n\nI would buy puts on $MTCH or something, but i dont have the balls to do it. They're already down a lot from all time highs anyways.\n\n  \nBut on the bright side, if I am actually right about all this, maybe it means people will go back to meeting in person rather than on the internet.",
+    "id": "1uhv8or",
+    "title": "The more I follow Palantir Technologies, the less I think it's just an AI software company.",
+    "url": "https://www.reddit.com/r/investing/comments/1uhv8or/the_more_i_follow_palantir_technologies_the_less/",
+    "author": "aperartnft",
+    "score": 2,
+    "selftext": "A few years ago I would've described Palantir as a defense contractor with great software. Now I'm not so sure. It feels like it's evolving into an operating system for organizations that need to make decisions from massive amounts of data.\n\nThe government side is still a huge part of the story, and that's probably not changing anytime soon. Defense, intelligence, logistics, battlefield software... those businesses continue to grow. But what caught my attention recently is how much the commercial side has accelerated with AIP. U.S. commercial growth has been extraordinary, customer counts keep climbing, and management keeps talking less about selling AI models and more about helping companies actually deploy AI into real operations. That seems like an important distinction.\n\nI also think Palantir occupies an unusual position in the AI ecosystem. Companies like OpenAI, Anthropic and Google build foundation models. Palantir isn't really trying to compete with them. Instead, it's trying to become the layer that helps governments and enterprises integrate those models with their own data, workflows and decision-making. If that's the future of enterprise AI, it's a pretty interesting place to sit.\n\nThe obvious risk is that expectations are now incredibly high. The company has been putting up exceptional numbers, but the stock is priced like investors expect years of near-perfect execution. There's also the reality that a meaningful portion of the business still depends on government contracts, and the company continues to attract political and ethical scrutiny because of the customers it serves.\n\nMaybe that's why I find Palantir such a fascinating company. I'm less interested in whether it's expensive today than in whether it ends up becoming an indispensable enterprise AI platform or simply remains an exceptional defense software company.\n\nCurious how others see the business.",
     "subreddit": "investing",
-    "created_utc": 1782605167,
+    "created_utc": 1782647273,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Name and shame in location relevant online spaces. No need for others to suffer the same fate.",
+        "body": "It's the architect of an advanced American surveillance state. Yes, it's evil.",
         "score": 1,
-        "author": "Crowdfundingprojects"
+        "author": "AnalogCyborg"
       },
       {
-        "body": "So... I'm not sure if you're aware of this or not but people already lie on their profiles.  And they use old/doctored/ai images already too.  ",
+        "body": "Its helping ukraine win the war. Is it an evil company?",
         "score": 1,
-        "author": "Ziegelmarkt"
+        "author": "West80i5North"
       },
       {
-        "body": "Bro, you can't fake the attorney or doctor licensure portals. You think women aren't checking?",
+        "body": "They’re essentially a consultancy with a proprietary data platform. You hire them, they give you some embedded engineers, those engineers pipeline all your corporate data into their data platform and map it onto a structured graph, and once that graph is build you can build apps, dashboards, and workflows on top of it without rebuilding any data plumbing. And now they integrate AI agents into it or something. \n\nFrom what I know about them, they’ve got a great sales pitch but the software isn’t anything special that a team of an internal Data Engineers/Data Scientists couldn’t do. ",
         "score": 1,
-        "author": "_learned_foot_"
+        "author": "c-u-in-da-ballpit"
       }
     ],
-    "summary_he": "כותב הפוסט חוזה קריסה של מניות אפליקציות ההיכרויות בשל טכנולוגיית AI המאפשרת לגברים ליצור תמונות ריאליסטיות המציגות עושר וסטטוס מזויפים. לטענתו, הצפת הפלטפורמות בפרופילים מזויפים תערער את אמון המשתמשות ותוביל לנטישה המונית של האפליקציות, מה שעשוי להחזיר את עולם הדייטינג למפגשים פנים אל פנים.",
+    "summary_he": "פלנטיר (Palantir) עוברת שינוי מחברה המתמקדת בביטחון בלבד ל\"מערכת הפעלה\" ארגונית, המשמשת כשכבת אינטגרציה קריטית המאפשרת לעסקים וממשלות להטמיע בינה מלאכותית בתוך זרימת העבודה שלהם. לצד הצמיחה המרשימה במגזר המסחרי, החברה מתמודדת עם אתגרים כמו שווי שוק גבוה הדורש ביצועים מושלמים וביקורת אתית ופוליטית על אופי פעילותה.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום על פי התגובות שנכתבו, הכולל 6 נקודות מבט ותובנות שונות:\n\n*   **קריאה לחשיפה פומבית (\"Name and Shame\"):** ישנה דעה התומכת בפרסום שמותיהם של אנשים שנהגו בצורה לא ראויה בקבוצות מקוונות הרלוונטיות לאזור המגורים, וזאת כדי להזהיר אחרים.\n*   **מניעת פגיעה באחרים:** המוטיבציה המרכזית מאחורי החשיפה היא \"סולידריות קהילתית\" – הרצון להבטיח שמשתמשים נוספים לא יסבלו מאותו גורל או מאותה חוויה שלילית.\n*   **ספקנות לגבי אמינות הפרופילים:** קיימת טענה שהונאה היא כבר חלק בלתי נפרד מעולם הדייטינג המקוון; אנשים משקרים באופן קבוע בפרטים האישיים שלהם כדבר שבשגרה.\n*   **שימוש בטכנולוגיה למצג שווא:** הדיון מדגיש את הקלות שבה ניתן לזייף מראה חיצוני באמצעות שימוש בתמונות ישנות, תמונות ערוכות או אפילו תמונות שנוצרו על ידי בינה מלאכותית (AI).\n*   **גבולות הזיוף (אימות מקצועי):** מנגד, יש הטוענים כי לא הכל ניתן לזייף. קשה מאוד להמציא הסמכות מקצועיות רשמיות (כמו רישיון לעריכת דין או רפואה) מכיוון שישנם מאגרי מידע ממשלתיים פתוחים לבדיקה.\n*   **ערנות אקטיבית מצד נשים:** עולה התחושה שנשים כיום אינן מסתפקות במה שכתוב בפרופיל, אלא מבצעות \"בדיקות רקע\" אקטיביות במאגרי מידע כדי לאמת את הפרטים של הגברים איתם הן יוצאות."
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג שש נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n* **החברה כאדריכלית של \"מדינת מעקב\":** אחת הדעות המרכזיות היא שהחברה אחראית לבניית תשתית המעקב המתקדמת של ארה\"ב. בשל כך, היא נתפסת על ידי חלק מהמשתמשים כיישות \"רעה\" או כזו שפוגעת בחירות ובפרטיות.\n* **תפקיד משמעותי בעימותים גיאופוליטיים:** מנגד, מצוין כי הטכנולוגיה של החברה מסייעת לאוקראינה במלחמתה, מה שמעלה תהייה לגבי ההגדרה שלה כ\"רעה\" ומדגיש את חשיבותה האסטרטגית עבור המערב.\n* **מורכבות מוסרית:** הדיון מציף קונפליקט מוסרי – האם חברה שנתפסת כדורסנית בתחום המעקב יכולה להיחשב ל\"טובה\" כשהיא מסייעת לצד שנחשב \"צודק\" במלחמה? השאלה נותרת פתוחה ומעוררת ויכוח בקהילה.\n* **מודל עסקי היברידי של ייעוץ ופלטפורמה:** נקודת מבט טכנית-עסקית מתארת את החברה כמעין חברת ייעוץ המשתמשת בפלטפורמת נתונים קניינית. היא שולחת מהנדסים שמוטמעים בתוך הארגון כדי לחבר את המידע העסקי למערכת שלהם.\n* **יעילות תשתיתית ובינה מלאכותית:** הפלטפורמה מאפשרת להפוך נתונים לא מובנים ל\"גרף מובנה\", שעל בסיסו ניתן לבנות אפליקציות, לוחות בקרה (Dashboards) ותהליכי עבודה במהירות, כולל שילוב של סוכני בינה מלאכותית (AI) כיום.\n* **ספקנות לגבי הייחודיות הטכנולוגית:** למרות המוניטין היוקרתי, יש המביעים ספק באשר לחדשנות האמיתית של התוכנה. נטען כי מדובר בעיקר בכישורי מכירה (Sales Pitch) מצוינים, וכי צוותי דאטה ומהנדסים פנימיים בארגונים גדולים מסוגלים להגיע לתוצאות דומות ללא הסתמכות על החברה."
   },
   {
-    "id": "1uhet4p",
-    "title": "Is $DRAM the greatest ETF ever created objectively?",
-    "url": "https://www.reddit.com/r/investing/comments/1uhet4p/is_dram_the_greatest_etf_ever_created_objectively/",
-    "author": "testableicons1337",
+    "id": "1uipf6q",
+    "title": "From Crypto early 10s, to Ai in early 20s, now",
+    "url": "https://www.reddit.com/r/investing/comments/1uipf6q/from_crypto_early_10s_to_ai_in_early_20s_now/",
+    "author": "DatingVX",
     "score": 1,
-    "selftext": "I think $DRAM has a legitimate case for being one of the most groundbreaking ETFs ever launched.\n\nI know it’s not guaranteed to outperform, but because it solved a problem investors couldn’t solve before.\n\nIf you wanted AI memory exposure, your options were:\n\nIf you wanted AI memory exposure, your options were:\n\n1. Buy Micron and hope you picked the winner.  \n2. Buy SMH/SOXX where memory is only a small allocation.  \n3. Buy a South Korea ETF just to own SK Hynix and Samsung   \nalongside dozens of unrelated companies.\n\nDRAM was the first ETF to offer targeted exposure to the AI memory industry, including companies many U.S. investors couldn’t easily access. Its asset growth reflects that. It became the **fastest ETF ever to hit $1B AUM**, and continued setting records as investors rushed into a product that filled a genuine gap in the market.",
+    "selftext": "I was a Crypto boy in early 2015-2016, and caught it quite well .. The run before it became a total s-show of rug devs and pump-funs was amazing. Became quite wealthy.. lost it all unfortunately..\n\nMy friends in the meantime 2020+ started investing in some AI stock, went slow, didn't do much, they stayed ''poor''... until now.. AI Stocks remind me of what Crypto was back in the days. You can put some money in weekly, and just sleep (not even talking alts, Im talking micro-alts)\n\nHowever, I feel like I missed the AI boom and the investing opportunity as many of these companies already x10'd, especially for much larger gains. And I wrong about this?\n\nWhat would you advice a guy like me who has the experience but who has to start over to do, I didnt follow my friends in 2021, but also Crypto isn't as fun and reliable as it used to be",
     "subreddit": "investing",
-    "created_utc": 1782596525,
+    "created_utc": 1782731242,
     "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I think one of the best ever is actually SCHD.",
-        "score": 1,
-        "author": "siboq"
-      },
-      {
-        "body": "Yes, because is gonna go up forever👌",
-        "score": 1,
-        "author": "elmisteriosoviaje"
-      },
-      {
-        "body": "no. i will be happy with ELFY or XLU or AIPO. these places and new/existing homes need electrical upgrades. Europe is roasting w little HVAC penetration. electrical infrastructure upgrades are coming",
-        "score": 1,
-        "author": "HoneyBadger552"
-      }
-    ],
-    "summary_he": "הפוסט טוען כי ה-ETF בשם $DRAM הוא מהפכני מאחר שהוא מספק לראשונה חשיפה ממוקדת ונוחה לתעשיית הזיכרון לבינה מלאכותית (AI memory), כולל גישה לחברות זרות כמו SK Hynix וסמסונג. בזכות המענה על צורך זה בשוק, הקרן הפכה ל-ETF המהיר ביותר בהיסטוריה שהגיע לניהול נכסים בשווי מיליארד דולר.",
+    "top_comments": [],
+    "summary_he": "הכותב משווה בין הנסיקה של שוק הקריפטו בעשור הקודם, שבו הרוויח והפסיד הון רב, לבין הפוטנציאל שהוא מזהה כיום במניות הבינה המלאכותית (AI). הוא מביע חשש שפספס את \"רכבת ההשקעות\" לאחר שערכן של חברות רבות כבר זינק פי עשרה, ומבקש עצות כיצד להתחיל מחדש בשוק הנוכחי לאור תחושתו ששוק הקריפטו הפך לפחות אמין ומהנה.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות, בחלוקה ל-6 נקודות מרכזיות:\n\n*   **תמיכה ב-SCHD:** אחד המשתתפים מציין את קרן הסל SCHD כאחת האופציות הטובות ביותר להשקעה אי פעם, מה שמעיד על אמון בביצועיה וביציבותה.\n*   **אופטימיות (או סרקזם) לגבי עליית ערך מתמדת:** קיימת תפיסה (שייתכן שנאמרה בציניות) שהנכסים המדוברים ימשיכו לעלות בערכם לנצח, מה שמשקף את הסנטימנט השורי בשוק.\n*   **התמקדות במגזר התשתיות והחשמל:** משתתף אחר מביע העדפה ברורה למניות או קרנות כמו ELFY, XLU או AIPO, תוך התמקדות בסקטורים של תשתיות ושירותים ציבוריים.\n*   **צורך בשדרוג מבנים קיימים וחדשים:** עולה טענה כי קיימת דרישה גוברת לשדרוגי חשמל מקיפים בבתים חדשים וקיימים כאחד, מה שיוצר הזדמנות כלכלית.\n*   **הזדמנות בשוק האירופי בשל שינויי אקלים:** קיימת התייחסות לכך שאירופה סובלת מחום כבד (\"נצלית\") בעוד שרמת החדירה של מערכות מיזוג אוויר (HVAC) שם נמוכה מאוד, מה שצפוי להוביל לביקוש אדיר למערכות אלו.\n*   **צפי להשקעות מסיביות בתשתית:** הקהילה מזהה כי שדרוגי תשתיות חשמל רחבי היקף הם בלתי נמנעים בטווח הקרוב, מה שמנחה את החלטות ההשקעה שלהם בתחומים אלו."
-  },
-  {
-    "id": "1uhejm1",
-    "title": "Are Semi-Conductors worth investing in at this point? Tech?",
-    "url": "https://www.reddit.com/r/investing/comments/1uhejm1/are_semiconductors_worth_investing_in_at_this/",
-    "author": "Massive_Pain_6677",
-    "score": 1,
-    "selftext": "Semi-Conductors had a big build up with AI/Tech and are highly valued at this point.\n\nSOXX, SMH, SOXQ posted big losses the last week with all tech along with all tech companies.\n\nDo you semi-conductors and tech are worth investing in at this point?\n\nThis is just a dip and the build up will continue to it is over?",
-    "subreddit": "investing",
-    "created_utc": 1782595848,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "If you think all the big companies will keep throwing compute at their slop machines to make it just a tiny bit less sloppy with all of their profits idk I guess maybe",
-        "score": 1,
-        "author": "FingerRingMom"
-      },
-      {
-        "body": "it's cyclical, could correct short term. next 5 years definitely higher",
-        "score": 1,
-        "author": "Chuque"
-      },
-      {
-        "body": "It's worthwhile. The semiconductor industry has a very high moat. its equipment and process technologies are difficult to replace. They are like alien technology. The number of expensive wafer fabs is also limited, so mass production is at full capacity. Global demand exceeds supply, and prices continue to rise. Just look at Micron's financial reports—it's like printing money. Moreover, the semiconductor industry will not be replaced by AI.",
-        "score": 1,
-        "author": "tang-tw"
-      }
-    ],
-    "summary_he": "הפוסט דן בשאלה האם כדאי להשקיע במניות שבבים וטכנולוגיה בעת הנוכחית, לאור הירידות החדות שספגו לאחרונה לאחר תקופת פריחה ממושכת סביב תחום ה-AI. הכותב תוהה האם מדובר בתיקון זמני המהווה הזדמנות קנייה, או שמא המגמה החיובית בתחום קרובה לסיומה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט ורגשות קהילתיים שונים:\n\n*   **ספקנות לגבי כדאיות ההשקעה ב-AI:** קיים חשש שהחברות הגדולות משקיעות סכומי עתק מהרווחים שלהן בכוח מחשוב עבור מודלי בינה מלאכותית (המכונים \"מכונות סלופ\"), מבלי שהדבר יוביל לשיפור משמעותי מספיק במוצר כדי להצדיק את ההוצאה.\n*   **הכרה במחזוריות השוק:** חלק מהקהילה מדגיש כי שוק השבבים והטכנולוגיה הוא מחזורי מטבעו. לכן, ייתכן שנראה תיקון במחירים בטווח הקצר לאחר תקופות של עליות חדות.\n*   **אופטימיות ארוכת טווח:** למרות התנודתיות האפשרית בטווח הקרוב, קיימת הערכה חזקה שבטווח של חמש שנים קדימה, ערך השוק והחברות בתחום יהיה גבוה משמעותית מהיום.\n*   **ה\"חפיר\" הטכנולוגי (Moat):** תעשיית השבבים נתפסת כבעלת מחסום כניסה גבוה במיוחד. הטכנולוגיות ותהליכי הייצור מתוארים כ\"טכנולוגיה חייזרית\" שכמעט בלתי אפשרי לשכפל או להחליף בקלות, מה שמעניק לחברות הקיימות יתרון אסטרטגי עצום.\n*   **מגבלות כושר הייצור והיצע מול ביקוש:** הביקוש העולמי לשבבים עולה על ההיצע, בעיקר בגלל המספר המוגבל של מפעלים (Fabs) יקרים המסוגלים לייצר לוחות סיליקון (Wafers). מצב זה מוביל לעבודה בתפוסה מלאה ולעליית מחירים מתמדת, מה שמתרגם לרווחים עצומים (כפי שניתן לראות בדוחות של חברות כמו מיקרון).\n*   **חסינות התעשייה מפני החלפה על ידי AI:** בניגוד למקצועות או תעשיות אחרות שעלולות להיפגע מהתפתחות הבינה המלאכותית, תעשיית השבבים נתפסת כתשתית הכרחית. היא לא תוחלף על ידי ה-AI, אלא תמשיך להיות המנוע שמאפשר את קיומו."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   }
 ];
