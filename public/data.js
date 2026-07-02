@@ -1,241 +1,307 @@
 window.dailyTrends = [
   {
-    "id": "1uivkls",
-    "title": "ELI5: Why would an ETF like VOO or SPY outperform the S&P500, if even for a single day?",
-    "url": "https://www.reddit.com/r/investing/comments/1uivkls/eli5_why_would_an_etf_like_voo_or_spy_outperform/",
-    "author": "Boollish",
-    "score": 158,
-    "selftext": "I get the difference between indexes and ETFs, and understand things like small tracking errors, fees, tax implications of dividends, etc...\n\nBut as of right now 11am EST on June 29, VOO and SPY are up a bit over 1% while the S&P500 index is tracking at about 0.60%. This isn't just a calculation quirk due to dividends being paid.",
+    "id": "1ujvcyo",
+    "title": "CAT added to the Russell Top 50 this week and absolutely smashes it today. Increased it's dividend this month and on track to beat the s&p 500 for the fifth year.",
+    "url": "https://www.reddit.com/r/investing/comments/1ujvcyo/cat_added_to_the_russell_top_50_this_week_and/",
+    "author": "ongoldenwaves",
+    "score": 122,
+    "selftext": "Congrats owners and believers who held through the December/January \"ATH of 500\". CAT hit another ATH today of $1073.\n\n[https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-joins-russell-top-130809825.html](https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-joins-russell-top-130809825.html)\n\nRaised it's dividend this month: [https://investors.caterpillar.com/news/news-details/2026/Caterpillar-Inc--Increases-Dividend/default.aspx](https://investors.caterpillar.com/news/news-details/2026/Caterpillar-Inc--Increases-Dividend/default.aspx)\n\nOn track to beat the s&p 500 for 5th year.\n\n* **2025:** CAT returned roughly +60%, vastly outperforming the S&P 500’s +16.3%.\n* **2024:** CAT gained +25%, outperforming the S&P 500’s +23.3% return.\n* **2023:** CAT gained +26%, closely matching the S&P 500’s +24.2%.\n* **2022:** CAT returned about +19%, crushing the broader market, which dropped -19.4%.\n\nOver its entire life as a publicly traded company, Caterpillar has generated an annualized total return (price change plus dividends) of 16.3%, outperforming the broader market by about 6 percentage points.\n\n[https://www.kiplinger.com/investing/1000-invested-cat-stock-worth-how-much-now](https://www.kiplinger.com/investing/1000-invested-cat-stock-worth-how-much-now)\n\nMade a great deal with CVX and MSFT for a data center in Texas last week.\n\nChevron and Microsoft signed a 20-year agreement to power a massive, dedicated AI data center campus in West Texas, bypassing the wider electric grid. Caterpillar and GE Vernova are key equipment suppliers for this co-located power generation facility, utilizing abundant natural gas from the Permian Basin",
     "subreddit": "investing",
-    "created_utc": 1782746649,
+    "created_utc": 1782839852,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "VOO and SPY aren’t the S&P 500, they are etfs administered by Vanguard and State Street that attempt to mirror the performance of the S&P 500. For example, SPY owns 7.36% NVDA and VOO owns 7.89% NVDA. If NVDA outperforms the other 499 companies VOO would have a slightly better performance than SPY. Repeat this 499 times. This normally balances out over a large sample, but the funds will tell you in their prospectus that there is a risk that they may not exactly match the performance of the target index.",
-        "score": 302,
-        "author": "Dstein99"
+        "body": "Bought my current position in 2022. Up 360% as of today. That'll do.",
+        "score": 46,
+        "author": "WKU-Alum"
       },
       {
-        "body": "There was a large move on Friday at cash close.  Different indexes, ETFs, futures previous day close times are different.",
-        "score": 79,
-        "author": "Reeeeeekola"
+        "body": "They can’t pull their power plants? \n\nAre you saying CAT is stuck in Illinois because they need a reliable power grid to actually run their factories and Texas’s insistence on privatization and lack of investing in public infrastructure doesn’t allow them to actually move their business there, just the headquarters because they have an unreliable power grid? ",
+        "score": 36,
+        "author": "surnik22"
       },
       {
-        "body": "I noticed that today too.  It looks like SPY closed at a different price than SP 500.  Or it had to do with after hours settlement.  I was looking at the candle, and spy had a long down wick, but sp500 the close was actually lower.  I didn’t spend a ton of time looking at it, but that was my quick read.  Oddly decoupled.",
-        "score": 15,
-        "author": "clobbersaurus"
+        "body": "Industrial stock at 40 forward p/e, lmao.",
+        "score": 25,
+        "author": "keelem"
       }
     ],
-    "summary_he": "הנה סיכום של הפוסט:\n\nהפוסט בוחן מדוע קרנות סל (ETFs) כמו VOO או SPY מציגות לעיתים תשואה שונה ממדד ה-S&P 500 שהן אמורות לחקות, במיוחד במהלך יום המסחר. הכותב מציין פער משמעותי שזיהה בזמן אמת ומבקש להבין את הגורמים המביאים לשוני במחיר השוק של הקרן לעומת ערך המדד עצמו, מעבר להסברים הרגילים של עמלות או דיבידנדים.",
+    "summary_he": "מניית קטרפילר (CAT) הגיעה לשיא כל הזמנים חדש לאחר הצטרפותה למדד ה-Russell Top 50 והעלאת הדיבידנד למשקיעים החודש. החברה נמצאת בדרכה להכות את מדד ה-S&P 500 זו השנה החמישית ברציפות, כשהיא נהנית מביצועים היסטוריים חזקים ומעסקה אסטרטגית חדשה עם מיקרוסופט ושברון בתחום מרכזי הנתונים ל-AI.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ודעות שונות בנוגע להבדלים בין מדד ה-S&P 500 לבין קרנות הסל העוקבות אחריו (כמו VOO ו-SPY):\n\n*   **הבחנה מהותית בין המדד לקרנות:** המגיבים מדגישים כי VOO ו-SPY אינם \"מדד ה-S&P 500\" עצמו, אלא מוצרים פיננסיים (ETFs) המנוהלים על ידי חברות (Vanguard ו-State Street) במטרה לחקות את ביצועי המדד ככל הניתן.\n*   **הבדלים במשקלי המניות:** למרות שהן עוקבות אחרי אותו מדד, קיים הבדל קל באחוזי ההחזקה של מניות ספציפיות בכל קרן (למשל, הבדל באחוז ההחזקה ב-NVDA). שינויים אלו מצטברים לאורך 500 החברות ויוצרים שונות מסוימת בביצועים.\n*   **סיכון עקיבה (Tracking Risk):** מצוין כי בתשקיפי הקרנות עצמן מופיעה אזהרה מפורשת על כך שהן עלולות שלא להתאים באופן מדויק לביצועי מדד המטרה, וכי סטייה כזו היא סיכון ידוע.\n*   **השפעת זמני הסגירה וסוגי הנכסים:** הדיון מעלה כי קיימים הבדלים במועדי סגירת המסחר ובמתודולוגיות המחיר בין מדדים, קרנות סל וחוזים עתידיים, מה שיוצר פערים נראים לעין במחיר הסגירה.\n*   **תנודתיות ברגע הסגירה:** המשתמשים הבחינו בתנועות מחיר חדות ביום שישי בזמן \"נעילת המזומן\" (Cash Close), דבר שגרם לניתוק זמני (Decoupling) בין המדד לקרנות הסל העוקבות אחריו.\n*   **פערי סליקה וניתוח טכני:** נצפו הבדלים טכניים בגרפים (כמו \"פתילים\" שונים בנרות המסחר), אשר מיוחסים לתהליכי סליקה שמתרחשים לאחר שעות המסחר (After Hours Settlement) ומשפיעים על מחיר הסגירה הסופי של הקרן לעומת המדד."
+    "comments_summary_he": "להלן סיכום הדיון בשרשור ה-Reddit, הכולל 6 נקודות מבט וסנטימנטים שונים שעלו מהתגובות:\n\n*   **שביעות רצון מתשואות חריגות:** אחד המגיבים מביע סיפוק רב מההשקעה שלו ב-Caterpillar (CAT), תוך ציון רווח מרשים של 360% מאז שנת 2022. זהו סנטימנט של הצלחה פיננסית משמעותית בטווח קצר יחסית.\n*   **ספקנות לגבי הערכת השווי (Valuation):** קיימת ביקורת על מחיר המניה הנוכחי. אחד המשתמשים לועג למכפיל הרווח העתידי (Forward P/E) שעומד על 40, וטוען כי מדובר בנתון מוגזם ולא הגיוני עבור חברה במגזר התעשייתי.\n*   **הבדלים בין מטה החברה למפעלי הייצור:** עולה נקודה מהותית לגבי הקושי בהעתקת פעילות תעשייתית. בעוד שקל להעביר את מטה החברה (Headquarters) למדינה אחרת, העתקת מפעלי ייצור כבדים היא משימה מורכבת ויקרה בהרבה, ולכן החברה נותרת \"תקועה\" במיקומה הנוכחי.\n*   **חשיבותה של רשת חשמל אמינה:** המגיבים מדגישים כי עבור חברת ענק כמו CAT, יציבות רשת החשמל היא קריטית. נטען כי אילינוי מציעה תשתית חשמל אמינה יותר מזו של טקסס, מה שמונע את העברת הייצור.\n*   **ביקורת על מדיניות התשתיות בטקסס:** הדיון נוגע בסוגיות פוליטיות-כלכליות, תוך הבעת סלידה מהתעקשותה של טקסס על הפרטת רשת החשמל וחוסר השקעה בתשתיות ציבוריות. המגיבים טוענים כי מודל זה פוגע ביכולת של חברות תעשייה גדולות לפעול במדינה.\n*   **פער בין ביצועי המניה למציאות התעשייתית:** מהתגובות עולה תחושה של ניתוק מסוים; מצד אחד המניה מזנקת ומניבה רווחים עצומים למשקיעים, אך מצד שני ישנם אתגרים לוגיסטיים ותשתיתיים קשים, לצד תמחור בשוק ההון שנראה לחלק מהמשתמשים כבועה."
   },
   {
-    "id": "1uirmqt",
-    "title": "Any people here who started investing in their 30s on a lower than average salary",
-    "url": "https://www.reddit.com/r/investing/comments/1uirmqt/any_people_here_who_started_investing_in_their/",
-    "author": "Silver_Highlight1936",
-    "score": 1,
-    "selftext": "Hi, \n\nI'm a 33 yo female ​  \nI bought a small flat a few years ago so was savings for that but feel very daft for not having started investing sooner. \n\nI earn 30 000 per annum and got a part time gig on top of that   \nI'm still ramping up my cash savings and currently have 1000£ invested In ftse all World, Acc.\n\n\\+ a few hundred £££ in Rolce Royce \n\nNext month I will finally be amble to invest bigger chunks so quite excited about that. \n\nIs there anyone else who started late and is feeling behind? \n\nI've put in 350£ today (I'm not a high earner).  I'm hoping to start putting in at least 500£ starting from July​\n\n  \nI feel behind and know that it takes time just wish I started in my 20s\n\n  \nTl;dr anyone else just starting to invest in their 30s on a lower than average salary? \n\n​",
+    "id": "1ujpi1w",
+    "title": "Companies Are Making Claude and Codex Talk Like Cavemen to Stop AI’s Soaring Costs",
+    "url": "https://www.reddit.com/r/business/comments/1ujpi1w/companies_are_making_claude_and_codex_talk_like/",
+    "author": "404mediaco",
+    "score": 117,
+    "selftext": "Use of the caveman plugin is in direct response to the skyrocketing and unpredictable cost of AI. As [404 Media previously reported](https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/), companies are scrambling to stop spending so much on AI, with consulting giant Accenture finding much of the “soaring token spend” is thanks to people using AI to convert PDFs to presentations. People using caveman include developers at OpenAI, Nvidia, and GitHub, according to the tool’s creator. A senior OpenAI employee has even contributed code to the project, adding support for OpenAI’s Codex tool.\n\nRead more: [https://www.404media.co/companies-are-making-claude-and-codex-talk-like-cavemen-to-stop-ais-soaring-costs/](https://www.404media.co/companies-are-making-claude-and-codex-talk-like-cavemen-to-stop-ais-soaring-costs/)",
+    "subreddit": "business",
+    "created_utc": 1782826675,
+    "thumbnail": "default",
+    "top_comments": [
+      {
+        "body": "Why waste time say lot AI word when few AI word do trick? ",
+        "score": 72,
+        "author": "theredhype"
+      },
+      {
+        "body": "When me President they see.  They see.",
+        "score": 40,
+        "author": "Redebo"
+      },
+      {
+        "body": "What a horrible title.\n\nCompanies cut costs on AI. Should have been straightforwars.",
+        "score": 17,
+        "author": "krazyboi"
+      }
+    ],
+    "summary_he": "חברות טכנולוגיה החלו להשתמש בתוסף \"איש מערות\" (caveman) המאלץ מודלים של בינה מלאכותית לדבר בשפה בסיסית וקצרה כדי לצמצם את עלויות ה\"טוקנים\" המאמירות. הכלי, שזכה לתמיכה ושימוש מצד מפתחים בחברות ענק כמו OpenAI ו-Nvidia, נועד לסייע לארגונים להתמודד עם ההוצאות הגבוהות והבלתי צפויות הכרוכות בשימוש ב-AI.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, הכולל 6 נקודות מבט ורגשות שעלו מהתגובות:\n\n*   **שימוש בהומור וברפרנסים לתרבות הפופ:** המגיבים הראשונים משתמשים בציטוטים המזוהים עם הדמות קווין מאלון מהסדרה \"המשרד\" (The Office), מה שמעיד על קהילה שנוטה להשתמש בהומור פנימי כדי להגיב על תכנים.\n*   **ביקורת חריפה על ניסוח הכותרת:** קיימת אי-שביעות רצון בולטת מאיכות הכותרת של הפוסט המקורי, שתוארה כ\"נוראית\" (horrible). הקהילה מצפה לכותרות ברורות ומדויקות יותר.\n*   **העדפה לתמציתיות על פני מורכבות:** דרך הבדיחה על \"שימוש במעט מילים\", עולה מסר שלפיו אין צורך בהכברה במילים (במיוחד כאלו שנוצרות על ידי AI) אם ניתן להעביר את המסר בקיצור.\n*   **מיקוד בעיקרון הכלכלי:** אחד המגיבים מזקק את המידע המרכזי מהכתבה – העובדה שחברות מקצצות בעלויות בתחום הבינה המלאכותית – וטוען שזה היה צריך להיות מוקד הדיון מלכתחילה.\n*   **דרישה לישירות (Straightforwardness):** הקהילה מביעה רצון לקבל מידע בצורה פשוטה וישירה, ללא \"עטיפות\" מיותרות או ניסוחים מעורפלים שנועדו למשוך קליקים.\n*   **לעג סאטירי לאיכות התוכן:** הסגנון העילגי המכוון בתגובות (\"Why waste time say lot AI word\") עשוי לרמוז על זלזול באיכות הטקסטים שבינה מלאכותית מייצרת לעיתים, או בדרך שבה נושא ה-AI מדובר בציבור."
+  },
+  {
+    "id": "1ujzywy",
+    "title": "30M and finally debt-free! Trying to figure out investing now",
+    "url": "https://www.reddit.com/r/investing/comments/1ujzywy/30m_and_finally_debtfree_trying_to_figure_out/",
+    "author": "KitKat_0228",
+    "score": 81,
+    "selftext": "I spent most of my 20s cleaning up old mistakes, like student loans, credit card debt, and a car I really couldn’t afford. I just paid off the last dollar of debt last month, which feels great, but now I’m realizing I don’t actually know what to do next.\n\nCurrent situation:\n\nIncome: $68k/year\n\nSavings: $14k, about 4 months of expenses\n\nMonthly surplus: around $900 after bills\n\n401k: 4% right now, just enough for the employer match\n\nRoth IRA: never opened one\n\nMy rough plan:\n\nOpen a Roth IRA this week and put in $7k from savings\n\nKeep the other $7k as my emergency fund\n\nIncrease 401k contributions to 15%\n\nPut extra monthly money into a taxable brokerage account, probably mostly VOO\n\nThe only side thing I’m doing is keeping a small amount in moomoo prediction markets. I just like that the contracts are tied to specific events and the amounts can stay tiny, so it scratches the “I have a view on this” itch without turning into a portfolio decision.\n\nI know I’m late compared with people who started at 22, but at least I’m starting clean. What am I missing? If you were starting over at 30 with no debt and no investments, what would you change?",
     "subreddit": "investing",
-    "created_utc": 1782737468,
+    "created_utc": 1782849857,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "I was starting to invest into BAE/ Airbus but thought I'll get safe with ftse first\nGot a few hundreds in Rolce royce but not sure how much loss I could take there since it's a single stock ",
-        "score": 1,
-        "author": "Silver_Highlight1936"
+        "body": "I wouldn’t take it out of savings for the Roth now. Use your monthly surplus. Always keep an emergency fund of 3-6 months of expenses ",
+        "score": 26,
+        "author": "Immediate-Run-7085"
       },
       {
-        "body": "yes, better late then never. just invest what you can when you can.",
-        "score": 1,
-        "author": "bigbabyhan317"
+        "body": "As mentioned elsewhere. Don’t give up your cushion for the Roth. Use your surplus. ",
+        "score": 11,
+        "author": "realribsnotmcfibs"
       },
       {
-        "body": "Well done on progressing your carrier. I'm looking into up-skilling for free (online courses and YouTube) it is just hard due to full time+part time job\nCrypto always seemed mind boggling for me",
-        "score": 1,
-        "author": "Silver_Highlight1936"
+        "body": "He can take out what you puts into your Roth IRA if he needs it without any penalties, just don't touch any of the growth. So this year you can put in $7500 and take out $7500 if he needs it without any issues/taxes/fees/penalties. ",
+        "score": 10,
+        "author": "ZookeepergamePlane68"
       }
     ],
-    "summary_he": "כותבת הפוסט היא בת 33 שהחלה להשקיע בשוק ההון רק לאחרונה לאחר שחסכה לרכישת דירה, והיא משתפת בתחושת חרטה על כך שלא התחילה להשקיע בשנות ה-20 לחייה. למרות שהכנסתה נמוכה מהממוצע, היא מתכננת להגדיל את סכומי ההשקעה החודשיים שלה ומחפשת אחרים שנמצאים במצב דומה כדי להפיג את תחושת ה\"פיגור\" מאחור.",
+    "summary_he": "כותב הפוסט (בן 30) חוגג את הפיכתו לחופשי מחובות ומבקש ייעוץ כיצד להתחיל להשקיע את העודף החודשי שלו לאחר שנים של החזרי הלוואות. תוכניתו כוללת הגדלת הפרשות לפנסיה, פתיחת חשבון Roth IRA והשקעה במדדי מניות (VOO), תוך שמירה על קרן חירום בצד. למרות התחושה שהתחיל מאוחר ביחס לאחרים, הוא שואף לנצל את נקודת הזינוק הנקייה שלו כדי לבנות עתיד כלכלי יציב.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שפורסמו, הכולל 6 נקודות מבט ודעות שונות שעלו בקהילה:\n\n*   **העדפת מדדים רחבים על פני מניות בודדות:** קיימת נטייה בקרב משקיעים לחפש ביטחון באמצעות השקעה במדדים (כמו ה-FTSE) במקום להתמקד במניות ספציפיות, וזאת מתוך רצון להפחית סיכונים.\n*   **התעניינות בסקטור התעופה והביטחון:** המגיבים מגלים עניין ממוקד בחברות בתחום התעופה והביטחון (כמו BAE, Airbus ו-Rolls Royce), אך מביעים חשש מהתנודתיות ומהפסדים פוטנציאליים הכרוכים בהחזקת מנייה בודדת כזו.\n*   **גישת \"עדיף מאוחר מאשר לעולם לא\" בהשקעות:** קיימת תמיכה קהילתית ברעיון שחשוב פשוט להתחיל להשקיע, ללא קשר לעיתוי, ולהתמיד בהפקדות כספיות לפי היכולת האישית של כל אחד.\n*   **חשיבות השדרוג המקצועי (Up-skilling):** המשתתפים מכירים בערך של התקדמות בקריירה ושיפור מיומנויות באמצעות קורסים מקוונים ויוטיוב כדי להגדיל את פוטנציאל ההשתכרות.\n*   **חסמי זמן וקושי בלמידה עצמית:** עלה אתגר משמעותי בשילוב של רכישת ידע חדש תוך כדי עבודה במשרה מלאה (ואף משרה חלקית נוספת), מה שהופך את השדרוג המקצועי לקשה לביצוע בפועל.\n*   **ספקנות ובלבול בנוגע לקריפטו:** תחום המטבעות הדיגיטליים נתפס על ידי חלק מחברי הקהילה כנושא מורכב מאוד, מבלבל ואף מרתיע, בניגוד לאפיקי השקעה מסורתיים יותר.",
-    "dateString": "2026-06-29",
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שהועלו בתגובות ב-Reddit בנוגע להפקדה ל-Roth IRA מתוך חסכונות קיימים:\n\n* **שמירה על קרן חירום:** קיימת הסכמה רחבה שאין לגעת בחיסכון המיועד לחירום. מומלץ להחזיק תמיד \"כרית ביטחון\" כספית המכסה בין 3 ל-6 חודשי הוצאות לפני שמפנים כספים להשקעה.\n* **השקעה מעודפים חודשיים:** הגישה המועדפת על המגיבים היא להשתמש בעודפי תקציב מההכנסה החודשית השוטפת לצורך הפקדות ל-Roth IRA, במקום לרוקן חסכונות קיימים.\n* **נזילות כספי ההפקדה:** אחד המגיבים מציין יתרון משמעותי של ה-Roth IRA: ניתן למשוך את סכום הקרן (הכסף שהופקד בפועל) בכל עת וללא קנסות במקרה של צורך דחוף.\n* **הפרדה בין קרן לרווחים:** מודגש כי בעוד שניתן למשוך את סכומי ההפקדה ללא עלות, חל איסור (או חוסר כדאיות) לגעת ברווחים שנצברו מההשקעה, כדי להימנע מתשלום מיסים, עמלות או קנסות.\n* **דוגמה מספרית ליכולת המשיכה:** צוין כי אם אדם מפקיד את התקרה השנתית (למשל 7,500 דולר), הוא יכול למשוך את אותם 7,500 דולר חזרה ללא בעיות אם יתעורר צורך, מה שמהווה סוג של גיבוי.\n* **סדרי עדיפויות כלכליים:** הלך הרוח הכללי בקהילה הוא שביטחון פיננסי מיידי (נזילות בבנק) קודם למקסום אפיקי חיסכון פנסיוני, ואין להקריב את היציבות הכלכלית הנוכחית לטובת ההפקדה."
+  },
+  {
+    "id": "1ujki1r",
+    "title": "Is South Korea making one of the biggest long-term industrial investments of the AI era?",
+    "url": "https://www.reddit.com/r/investing/comments/1ujki1r/is_south_korea_making_one_of_the_biggest_longterm/",
+    "author": "BluewaterEcosystems",
+    "score": 1,
+    "selftext": "South Korea has announced a long-term national strategy centered on AI infrastructure, semiconductor manufacturing, advanced manufacturing, and industrial infrastructure, with Samsung and SK Hynix expected to play central roles.\n\nWhat makes this interesting to me is that this appears to go beyond expanding semiconductor production.\n\nIt looks like an attempt to accelerate the construction of an entire AI industrial ecosystem, including:\n\n* AI semiconductor manufacturing\n* Large-scale AI data centers and computing infrastructure\n* Power infrastructure\n* Robotics and advanced manufacturing\n* Industrial clusters designed to support AI over the coming decades\n\nThe discussion often focuses on Samsung or SK Hynix as individual companies. However, I wonder if that misses the bigger picture.\n\nThis appears to be a government-led industrial strategy that seeks to position South Korea as one of the world's core AI production hubs over the long term rather than simply expanding corporate investment.\n\nLooking back, Moore's Law influenced not only semiconductor companies but also national industrial policies and decades of economic growth.\n\n**Could AI infrastructure play a similar role over the next several decades?**\n\n**Could investments like this shape not only future corporate returns, but also the future structure of the global economy?**\n\nI'd be interested to hear how long-term investors view this.",
+    "subreddit": "investing",
+    "created_utc": 1782812174,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "One thing that caught my attention is the overall scale.\n\nWhen combining the announced long-term projects—including semiconductor manufacturing, AI data centers, power infrastructure, and related industrial development—the total capital discussed could exceed **4,000 trillion won** over the coming decades.\n\nReuters also published a useful summary of the three AI and semiconductor mega-projects:\n\n[https://www.reuters.com/](https://www.reuters.com/)...\n\nLooking at the three pillars together, this appears to be much more than a semiconductor expansion. It looks like a long-term industrial ecosystem strategy.",
+        "score": 1,
+        "author": "BluewaterEcosystems"
+      }
+    ],
+    "summary_he": "דרום קוריאה מקדמת אסטרטגיה לאומית רחבת היקף במטרה להפוך למוקד ייצור ותשתית עולמי בתחום ה-AI, הכוללת השקעות ענק בשבבים, מרכזי נתונים ורובוטיקה. היוזמה הממשלתית, בשיתוף חברות כמו סמסונג ו-SK Hynix, שואפת לבנות אקו-סיסטם תעשייתי שלם שעשוי לעצב מחדש את הכלכלה הגלובלית בעשורים הקרובים, בדומה להשפעה ההיסטורית של חוק מור.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובות בנוגע לתוכניות הפיתוח התעשייתי (בדגש על דרום קוריאה):\n\n*   **היקף השקעה חסר תקדים:** הקהילה מציינת בתדהמה את קנה המידה הכלכלי של הפרויקטים, שצפוי לעלות על **4,000 טריליון וון** (כמה טריליוני דולרים) לאורך העשורים הקרובים.\n*   **אסטרטגיה ארוכת טווח:** לא מדובר בתוכנית קצרת מועד, אלא בחזון תעשייתי שמתפרס על פני עשרות שנים, מה שמעיד על מחויבות ממשלתית ותאגידית עמוקה ליציבות הענף.\n*   **מעבר לייצור שבבים בלבד:** הדיון מדגיש שהתוכנית אינה ממוקדת רק בוליפרים (Wafers) או שבבים, אלא משלבת בתוכה הקמת מרכזי נתונים לבינה מלאכותית (AI) ופיתוח תשתיות כוח ואנרגיה הכרחיות.\n*   **יצירת \"אקו-סיסטם\" תעשייתי:** התחושה בקהילה היא שלא מדובר בסדרה של מפעלים מבודדים, אלא באסטרטגיה הוליסטית שנועדה ליצור מערכת אקולוגית שלמה המזינה את עצמה (Industrial Ecosystem).\n*   **תלות בתשתיות חשמל:** אחת הנקודות המרכזיות היא ההבנה שצמיחת ה-AI והשבבים מחייבת שדרוג מאסיבי של רשת החשמל והאנרגיה, וזהו חלק בלתי נפרד מ\"שלושת עמודי התווך\" של הפרויקט.\n*   **חשיבות אסטרטגית גלובלית:** הדיון מתייחס לדיווחים של גופי תקשורת בינלאומיים (כמו רויטרס) כדי להדגיש שמדובר במהלך שנועד לבסס דומיננטיות טכנולוגית עולמית אל מול המתחרים בשוק הבינלאומי.",
+    "dateString": "2026-06-30",
     "savedAt": {
-      "_seconds": 1782740164,
-      "_nanoseconds": 928000000
+      "_seconds": 1782813245,
+      "_nanoseconds": 168000000
     }
   },
   {
-    "id": "1uisdz2",
-    "title": "Netflix(NFLX) AI Killer Theory and how it likely plays out",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1uisdz2/netflixnflx_ai_killer_theory_and_how_it_likely/",
-    "author": "astroidsword",
-    "score": 29,
-    "selftext": "[](https://www.reddit.com/r/StockMarket/?f=flair_name%3A%22Discussion%22)I have heard this narrative a couple times now on big podcasts like All-in and JRE that with AI everyone is going to be creating their own movies and TV shows to watch. The idea is that you will prompt AI to create you a movie that is perfectly tailored to your interests and that you will get max enjoyment out. This will supposedly kill existing movie studios and streaming services. There are some very smart and well respected people who have repeated this idea, but to me it has to be the single stupidest AI killer theory I've heard.\n\nIs the idea really that people are going to get home from work and unwind by writing, directing and conceptualizing the single greatest piece of film they've ever consumed? And then continue to do so day after day every time they want to watch something? One of the key tenets of movies/shows is that you don't know what will happen next and that you are experiencing someone else's vision as well as the enjoyment people get from sharing and discussing what they've watched with others- which would not be possible if everyone is watching their own custom made media.\n\nThis idea has partially played into the underperformance of large streaming services like Netflix. This seems like a totally baseless theory and is just another reason why NFLX stock has been obliterated over the past year. The much more likely case is that movie makers will benefit hugely from AI due to the cost savings on special effects, CGI, extras, and traveling to location.\n\nThe biggest risk to large incumbent studios is that individuals and small studios will now be able to create much larger and higher quality films on micro-budgets with AI. This overall will be a huge win for the consumer as the incumbent studios will no longer be able to gate keep and push their ideologies on the public since consumers will have other options to turn to.",
+    "id": "1ujondq",
+    "title": "Reduced chances of crash?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1ujondq/reduced_chances_of_crash/",
+    "author": "Top-Classroom3984",
+    "score": 48,
+    "selftext": "The Magnificent Seven have already experienced meaningful drawdowns from their all-time highs. Microsoft and Meta are down roughly 30%, while the remaining companies are generally 15–20% below their peaks. Assuming earnings have continued to grow or remain relatively resilient, valuation multiples should be less extended than they were at the height of AI enthusiasm.\n\nGiven this, has the probability of a major AI-driven market correction declined? Many investors still argue that an AI bubble will unwind over the next one to two years, but is it possible that a substantial portion of that repricing has already occurred? In other words, have lower prices and improved fundamentals already absorbed much of the speculative excess, or do current valuations still imply elevated downside risk? \n\nI’m looking for analysis based on valuations, earnings expectations, historical comparisons, and market concentration rather than simple forecasts.",
     "subreddit": "StockMarket",
-    "created_utc": 1782739348,
+    "created_utc": 1782824585,
     "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "People not only enjoy films for their stories, but also to have a sense of community around common interests. The film and television industry is here to stay forever.",
-        "score": 60,
-        "author": "RiskBiscuit"
-      },
-      {
-        "body": "JRE is smart in the same way the contractor who worked on the reflecting pool is smart…. A lot of the talk here is futurism that’s not realistic. Similar to data centers in space and Elon Musk saying he’ll have FSD by - *checks watch* \\- 5 years ago.\n\nSpecifically this idea of AI taking out filmmakers in that sense is stupid because as we all know - the cost of AI is rising and the current free models are being subsidized by massive amounts of debt. Right now is the cheapest AI is ever going to be. All that’s to say - it ain’t gonna happen any time soon.",
-        "score": 27,
-        "author": "TheCaptOfAwesome"
-      },
-      {
-        "body": "The Netflix killer isn't AI---it's short-form content. Go to an elementary school. I bet most kids are watching YouTube instead of Netflix. Even many adults don't know what \"Netflix and chill\" means and completely prefer short-form content.\n\nThe tech you're talking about is years away. ",
-        "score": 17,
-        "author": "bestjaegerpilot"
-      }
-    ],
-    "summary_he": "הפוסט מבטל את התיאוריה שבינה מלאכותית תחסל את נטפליקס בכך שתאפשר לכל אדם ליצור סרטים אישיים, בטענה שאנשים מעדיפים לצרוך חזון אמנותי של אחרים ולחלוק חוויות תרבותיות משותפות. במקום זאת, הכותב טוען כי ה-AI דווקא תסייע לאולפנים לחסוך בעלויות הפקה ותאפשר ליוצרים עצמאיים להתחרות בתעשייה, מה שיוביל למגוון רחב יותר של תכנים עבור הצרכנים.",
+    "top_comments": [],
+    "summary_he": "הפוסט דן בשאלה האם הסיכון לקריסת שוק משמעותית בעקבות \"בועת ה-AI\" פחת, לאור העובדה שמניות \"שבע המופלאות\" כבר חוו ירידות של 15%-30% משיאיהן. הכותב תוהה האם שילוב של מחירים נמוכים יותר ורווחיות יציבה כבר ספג את העודף הספקולטיבי, או שמא רמות התמחור הנוכחיות עדיין משקפות סיכון גבוה לירידות נוספות.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות, המציג 6 נקודות מבט ורגשות מרכזיים בקהילה:\n\n*   **חשיבות הקהילתיות בקולנוע:** אנשים לא צורכים סרטים וסדרות רק עבור העלילה, אלא גם כדי להרגיש חלק מקהילה בעלת תחומי עניין משותפים. בשל כך, תעשיית הקולנוע והטלוויזיה נתפסת כחיונית וכזו שתישאר איתנו לנצח.\n*   **ספקנות כלפי תחזיות עתידניות:** קיימת ביקורת על דמויות כמו ג'ו רוגן (JRE) או אילון מאסק, שתחזיותיהם לגבי העתיד (כמו נהיגה אוטונומית מלאה או מרכזי נתונים בחלל) נתפסות כלא ריאליות וככאלו שאינן עומדות במבחן המציאות.\n*   **הכלכלה של הבינה המלאכותית:** הרעיון ש-AI יחליף יוצרי קולנוע בקרוב נתפס כבלתי סביר מבחינה כלכלית. העלות של טכנולוגיית ה-AI נמצאת בעלייה, והמודלים החינמיים הקיימים כיום מסובסדים על ידי חובות ענק, מה שאומר שהטכנולוגיה רק תתייקר בעתיד.\n*   **האיום האמיתי על הסטרימינג:** בניגוד למה שרבים חושבים, האיום המרכזי על חברות כמו נטפליקס הוא לא הבינה המלאכותית, אלא המעבר לצריכת \"תוכן קצר\" (Short-form content).\n*   **שינוי דורי בהרגלי הצפייה:** קיים פער דורות משמעותי; ילדים בגילאי בית ספר יסודי מעדיפים כיום באופן מובהק את יוטיוב על פני נטפליקס, ומגמה זו מחלחלת גם לקהל המבוגר שמאבד עניין בפורמטים המסורתיים.\n*   **בשלות טכנולוגית:** קיימת הסכמה שהטכנולוגיה המדוברת (יצירת סרטים מלאים באמצעות AI) עדיין רחוקה שנים רבות מיישום ממשי, וכרגע מדובר בעיקר בדיבורים שאינם מגובים ביכולת טכנית קרובה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-07-02",
+    "savedAt": {
+      "_seconds": 1782968609,
+      "_nanoseconds": 734000000
+    }
   },
   {
-    "id": "1uiueq8",
-    "title": "Do you think beginner campers would pay for a fully set up campsite?",
-    "url": "https://www.reddit.com/r/business/comments/1uiueq8/do_you_think_beginner_campers_would_pay_for_a/",
-    "author": "Plaxidentshappen17",
-    "score": 20,
-    "selftext": "I live in an area of Colorado with 6-7 large campgrounds within 20 miles. And even more dispersed locations.\n\nDo you think families, tourists, or first-time campers would pay for a service where they reserve a campsite and someone sets everything up before they arrive?    \nSetup would include:    \n•    6-person tent    \n•    sleeping pads/cots or bedding options    \n•    chairs    \n•    table    \n•    basic camp kitchen add-ons    \n•    pickup/breakdown after checkout    \nBasically: show up, camp, leave.    \nWould this solve a real problem for beginners, or does it sound gimmicky?",
+    "id": "1ujsr2j",
+    "title": "I thought you could look up CEO and exec pay in SEC 990 filings for nonprofit?",
+    "url": "https://www.reddit.com/r/business/comments/1ujsr2j/i_thought_you_could_look_up_ceo_and_exec_pay_in/",
+    "author": "ruinsit",
+    "score": 27,
+    "selftext": "When I checked, the companies I was looking up had 0 dollars and one hour a week for the CEO and president and such which is obviously bullshit. How is that even legal? \n\nMore importantly, I know I found documents listing their actual salaries - anyone paid over a certain amount - but I can't remember where I found them or what they were even called. How can I find this for non-profit or \"not for profit\" whatever that means.",
     "subreddit": "business",
-    "created_utc": 1782744092,
+    "created_utc": 1782834137,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "This is what cabin rentals are for ",
-        "score": 17,
-        "author": "CheesecakeHonest7414"
+        "body": "The new scam is to form a private management corporation that is hired to run the non-profit. The execs are paid through that and thus shielded from 990 disclosures.",
+        "score": 36,
+        "author": "PureAlpha100"
       },
       {
-        "body": "If you had a package to just rent the equipment, and I’m traveling, yes. Setting up the campsite is more for bougie non campers. Equipment type also matters. Is it fancy comfy glamping with air mattresses and a hug tent that feels like a living room vs a two person REI rent. There’s a market for both but very different customer type, and I would be careful not to mix the two or at least keep them fairly separated.",
-        "score": 10,
-        "author": "neversummer427"
+        "body": "Yep I definately run into this exact setup all the time on the B2B side. You think you're dealing with the charity but the actual contract and budget usually sits with some random management LLC.",
+        "score": 9,
+        "author": "FarRub2855"
       },
       {
-        "body": "I think the issue here will be the cost of doing business… \n\nYou have to visit the camp site twice, set up and tale down the tents, clean and store the materials as well as buy them… \n\nUnless you can figure out how to have multiple setups in one location, it’s not going to be worth your time. ",
-        "score": 6,
-        "author": "TacosAreJustice"
+        "body": "Non profits won’t have shareholders. ",
+        "score": 9,
+        "author": "shwilliams4"
       }
     ],
-    "summary_he": "הפוסט מציג רעיון עסקי לשירות \"קמפינג מוכן מראש\" בקולורדו, המיועד למשפחות ולמטיילים מתחילים שרוצים להימנע מהטרחה שבהקמת המאהל. השירות כולל אספקת ציוד מלא (אוהל, מיטות ומטבח) שיוקם עבור הלקוחות לפני הגעתם ויפורק לאחר עזיבתם, והכותב מבקש לדעת אם מדובר בפתרון אמיתי לצורך קיים או בגימיק בלבד.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ודעות שונות שעלו מהתגובות:\n\n*   **קיומן של חלופות מבוססות:** אחת הטענות היא שהצורך בשירותי לינה בשטח כבר מקבל מענה על ידי השכרת בקתות (Cabins), המהוות פתרון נוח ומוכן עבור מי שאינו רוצה להקים מאהל בעצמו.\n*   **הבדל בין סוגי לקוחות (נוחות מול פונקציונליות):** קיימת הבחנה ברורה בין \"גלמפינג\" (אירוח יוקרתי עם מזרני אוויר ועיצוב ביתי) לבין השכרת ציוד מקצועי ופשוט. מדובר בשני קהלי יעד שונים לחלוטין שדורשים שירות נפרד.\n*   **פוטנציאל בקרב מטיילים:** קיים ביקוש פוטנציאלי לחבילות של השכרת ציוד בלבד (ללא הקמה), במיוחד עבור אנשים המטיילים רחוק מביתם וזקוקים לציוד זמין ללא צורך לסחוב אותו.\n*   **קהל היעד של שירותי ההקמה:** השירות של הקמת המאהל עבור הלקוח נתפס כפונה לקהל \"בורגני\" או לאנשים שאינם \"קמפרים\" מסורתיים, המעוניינים בחוויה ללא המאמץ הפיזי הכרוך בה.\n*   **אתגרים לוגיסטיים ועלויות תפעול:** המבקרים מצביעים על כך שעלויות התפעול – הכוללות הגעה כפולה לאתר (להקמה ולפירוק), ניקיון הציוד ואחסונו – עלולות להפוך את המודל העסקי ללא משתלם.\n*   **חשיבות הריכוז הגיאוגרפי:** כדי שהעסק יהיה רווחי, יש צורך בהקמת מספר מאהלים במיקום אחד. פריסה של אוהלים בודדים באתרים מפוזרים נתפסת כבזבוז זמן ומשאבים שאינו מצדיק את ההשקעה."
-  },
-  {
-    "id": "1uj22gx",
-    "title": "3D Systems DDD might profit from its CEO’s White House meeting",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1uj22gx/3d_systems_ddd_might_profit_from_its_ceos_white/",
-    "author": "DrJanOliverS",
-    "score": 18,
-    "selftext": "$DDD guys this is great news. Remember what happened to $INTC and quantum stocks such as $IBM,$GFS  , $QBTS, and $INFQ after the  White House decided to invest in them  to secure future US technology leadership!  I increased my holdings very much today on this news because I think the White House will very likely help our US 3D printing firm $DDD, too.",
-    "subreddit": "StockMarket",
-    "created_utc": 1782760777,
-    "thumbnail": "https://preview.redd.it/jllbzh13v9ah1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=e4de6002715591a7aa8dd185d3d2927a7ca826f1",
-    "top_comments": [
-      {
-        "body": "I’m long on them while Trump is in office and a short as soon as they’re gone lol. Anybody touching this administration that wasn’t a critical company in the U.S. economy before is probably up to some shady shit.",
-        "score": 4,
-        "author": "PugsAndHugs95"
-      },
-      {
-        "body": "the gap between a White House meeting and an actual government contract is where a lot of these trades go to die. DDD has been fighting revenue declines for years, so the real question is whether this CEO relationship translates into procurement or just press coverage.",
-        "score": 1,
-        "author": "Muted-Pace-5706"
-      }
-    ],
-    "summary_he": "הפוסט דן בפוטנציאל הצמיחה של חברת 3D Systems ($DDD) בעקבות פגישת המנכ\"ל בבית הלבן, בדומה לחברות טכנולוגיה אחרות שזכו לתמיכה ממשלתית בעבר. הכותב מעריך שהממשל האמריקאי ישקיע בחברה כדי להבטיח הובלה טכנולוגית בתחום ההדפסה בתלת-ממד, ועל כן הגדיל משמעותית את אחזקותיו במניה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ודעות מרכזיות שעלו מן התגובות:\n\n*   **אסטרטגיית השקעה מבוססת תזמון פוליטי:** אחד המגיבים מציע גישה אופורטוניסטית – להחזיק במניה (\"לונג\") כל עוד טראמפ מכהן בתפקידו, ולבצע מכירה בחסר (\"שורט\") ברגע שהוא עוזב את הבית הלבן, מתוך הנחה שערך המניה תלוי ישירות בזהות הממשל.\n*   **חשדנות כלפי קשרי ממשל וחברות \"מקורבות\":** קיימת סנטימנט של חוסר אמון כלפי חברות שמתקרבות לממשל הנוכחי מבלי שהיו להן יסודות עסקיים איתנים או חיוניות לכלכלה האמריקאית קודם לכן. המגיב מרמז כי קשרים כאלה עלולים להעיד על פעילות \"מפוקפקת\" (Shady shit).\n*   **הספקנות לגבי המעבר בין כותרות לחוזים:** המגיבים מצביעים על \"פער\" מסוכן עבור משקיעים: העובדה שהתקיימה פגישה בבית הלבן אינה מבטיחה חוזה ממשלתי בפועל. מדובר בנקודה שבה עסקאות רבות של משקיעים נכשלות (\"trades go to die\").\n*   **ביקורת על הביצועים הפיננסיים של החברה (DDD):** עולה טענה כי חברת 3D Systems (הידועה בסימול DDD) סובלת מירידה עקבית בהכנסות מזה שנים, ולכן יש לבחון את המניה על סמך נתונים כלכליים ולא רק על סמך הייפ פוליטי.\n*   **מבחן התוצאה של קשרי המנכ\"ל:** בקהילה תוהים האם מערכת היחסים של המנכ\"ל עם גורמים בממשל תתורגם לרכש ממשלתי אמיתי של מוצרים, או שמא מדובר במהלך של יחסי ציבור ותו לא.\n*   **זיהוי המניה כהשקעה ספקולטיבית קצרת טווח:** הרוח הכללית בתגובות משקפת תפיסה שהמניה מושפעת מגורמים חיצוניים (פוליטיקה) ולא מערך פנימי ארוך טווח, מה שהופך אותה למסוכנת עבור מי שאינו מתכנן לצאת ממנה בזמן הנכון."
-  },
-  {
-    "id": "1uiva21",
-    "title": "S&P500 - Mag 7 & Meh 493?",
-    "url": "https://www.reddit.com/r/investing/comments/1uiva21/sp500_mag_7_meh_493/",
-    "author": "Fluid_Possibility432",
-    "score": 13,
-    "selftext": "Been hearing about how the S&P is being carried by the mag 7 and without those, its performance would be pretty meh. (this may have lessened this year but more of a conceptual question anyway)\n\nJust wondering if there is any causal relationship there, i.e. the rest of the S&P is underperforming not because all the other companies are relatively moribund, but because the mag 7 are taking up all the oxygen from the meh 493, and if the 7 weren't so mag, the 493 would be less meh.\n\nI realize reality is far messier, just wondering if there's any validity to this and whether the effect would be meaningful or insignificant.",
-    "subreddit": "investing",
-    "created_utc": 1782746013,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Over the past year\n\nVOO + 20%  \nMAGS +12.5%",
-        "score": 43,
-        "author": "xx123234"
-      },
-      {
-        "body": "I mean, it’s a market cap weighted fund I believe. So it’s always going to be carried by the best performers. It’s not by chance, it’s by design. ",
-        "score": 41,
-        "author": "Largofarburn"
-      },
-      {
-        "body": "It’s insulated by the other sectors and 493 stocks. Mag 7 have crashed double digit percentages while s and P itself was only down a few percent. It works in both directions. Capture some of the gains and capture some of the losses",
-        "score": 13,
-        "author": "Whole-Reserve-4773"
-      }
-    ],
-    "summary_he": "הפוסט בוחן את הקשר בין שבע ענקיות הטכנולוגיה (\"Mag 7\") לשאר החברות במדד ה-S&P 500, ותוהה האם הדומיננטיות שלהן פוגעת ישירות בביצועי שאר השוק. הכותב שואל האם קיים קשר סיבתי שבו הענקיות \"שואבות את החמצן\" ומונעות מהחברות האחרות לצמוח, או שמא הביצועים הפושרים של שאר המדד אינם תלויים בהן.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג שש נקודות מבט וסנטימנטים שונים שעלו מהתגובות:\n\n*   **ביצועי חסר של מניות הטכנולוגיה הגדולות:** אחד המגיבים מציין כי בשנה האחרונה, מדד ה-VOO (העוקב אחר ה-S&P 500) הניב תשואה גבוהה יותר (20%+) בהשוואה למדד ה-MAGS המרכז את \"שבע המופלאות\" (12.5%+), מה שמערער על התפיסה שהטכנולוגיה תמיד מובילה.\n*   **הצלחה מתוכננת ולא מקרית:** הקהילה מציינת כי הצלחת המדד נובעת מהמבנה שלו – שקלול לפי שווי שוק. המשמעות היא שהמדד מתוכנן \"לצוף\" בזכות הביצועים של החברות החזקות ביותר בכל רגע נתון, וזהו מאפיין מובנה של הקרן ולא יד המקרה.\n*   **הגנה באמצעות גיוון (Insulation):** קיימת הערכה למבנה המבוזר של ה-S&P 500. העובדה שישנן עוד 493 מניות ממגזרים שונים מספקת \"שכבת הגנה\" שמונעת מהמדד כולו לקרוס כאשר סקטור ספציפי (כמו הטכנולוגיה) חווה זעזוע.\n*   **צמצום תנודתיות (Volatility Control):** המגיבים מדגישים כי בזמן שמניות ה-Mag 7 יכולות לצנוח בשיעורים דו-ספרתיים, המדד הרחב נוטה לרדת באחוזים בודדים בלבד, מה שמדגים את היציבות היחסית של השקעה רחבה על פני השקעה ריכוזית.\n*   **מנגנון דו-כיווני:** הדיון מעלה את הנקודה שהמבנה של ה-VOO פועל כ\"חרב פיפיות\" חיובית: המשקיע אולי לא נהנה מכל העליות המטאוריות של המניות הבודדות, אך הוא גם לא סופג את מלוא עוצמת ההפסדים שלהן.\n*   **סנטימנט של העדפת מדד רחב:** מהתגובות עולה נימה של אמון באסטרטגיית המדד הרחב, מתוך הבנה שהוא מאפשר \"ללכוד\" חלק מהרווחים של המניות המובילות תוך מזעור סיכונים באמצעות פיזור בשאר השוק."
-  },
-  {
-    "id": "1uitdzb",
-    "title": "AI is not a sector it’s a capital rotation ladder from chips to apps (with ETFs for every layer)",
-    "url": "https://www.reddit.com/r/investing/comments/1uitdzb/ai_is_not_a_sector_its_a_capital_rotation_ladder/",
-    "author": "Live-Adeptnessi",
-    "score": 3,
-    "selftext": "Here’s a more natural, American male spoken version, cleaned up and without AI tone or dashes:\n\nI don’t really see AI as a single sector. To me, it’s more like a supply chain where money slowly rotates down the stack.\n\nIt usually starts with compute, basically chips. That’s NVIDIA, AMD, Broadcom, Micron, names like that. This is the stage where sentiment is strongest and the market is mostly pricing in expectations.\n\nThe ETFs here are usually SMH or SOXX. This is basically the first wave of the AI trade.\n\nThen the money tends to move into data centers. Stuff like SMCI, Dell, Equinix. At this point it’s not really about stories anymore, it’s about who is actually getting orders, expanding capacity, and building out infrastructure.\n\nYou can track that part through CLOU or WCLD.\n\nAfter that comes networking. Names like Arista or Cisco. This stage usually lags, but it tends to catch up later because once AI clusters scale, networking becomes non negotiable.\n\nFIVG is one way to think about that layer.\n\nThen there’s the part most people overlook, which is power and cooling. This is becoming a real bottleneck. Vertiv, Eaton, Constellation Energy, and some utilities fall into that bucket.\n\nAt this point it’s pretty simple. AI is not just a chip shortage anymore. It’s an electricity shortage.\n\nYou can express that layer with XLU or GRID.\n\nAbove that you get the hyperscalers. Microsoft, Amazon, Google. This is where all the capex across the stack eventually turns into revenue.\n\nThat’s basically XLK or VGT.\n\nAnd then at the top you have applications. Things like Palantir, Salesforce, Adobe, basically software that sits on top of the infrastructure.\n\nIGV or HACK fits that layer.\n\nIf you put it all together, the rotation is actually pretty simple.\n\nChips go first  \nThen data centers  \nThen networking and power catch up  \nThen cloud and applications start to monetize it\n\nSMH and SOXX move first  \nThen CLOU and WCLD  \nThen FIVG  \nThen XLU or GRID  \nThen XLK or VGT and IGV\n\nAt the end of the day, most people are just buying AI as a theme. Institutions are buying the whole stack, one layer at a time, as it turns into real infrastructure",
-    "subreddit": "investing",
-    "created_utc": 1782741737,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Whenever I see these posts and then look at the tickets that are \"next\" they've always already seen a big bull run",
-        "score": 2,
-        "author": "TragicIcicle"
-      }
-    ],
-    "summary_he": "הפוסט טוען כי בינה מלאכותית אינה סקטור בודד, אלא שרשרת אספקה שבה ההון זורם בשלבים: משבבים ומרכזי נתונים, דרך תשתיות חשמל ורשתות, ועד ליישומי תוכנה ומחשוב ענן. לפי הניתוח, מוסדות פיננסיים רוכשים את כל השכבות ב\"מחסנית\" (stack) בהדרגה, ככל שהטכנולוגיה מבשילה והופכת לתשתית ממשית המייצרת הכנסות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "מתוך הניתוח של התגובה שהוצגה (המתייחסת לדינמיקה של המלצות על נכסים פיננסיים או קריפטו בקהילה), להלן סיכום הדיון והלך הרוח העולה ממנה ב-6 נקודות:\n\n*   **ספקנות כלפי המלצות על \"הדבר הבא\":** קיימת נימה חזקה של חוסר אמון בפוסטים המנסים לסמן מניות או מטבעות שעומדים לזנק, מתוך הבנה שהתזמון שלהם לרוב שגוי.\n*   **תופעת ה\"איחור למסיבה\":** המגיב מציין שעד שנכס מסוים זוכה לתהודה והופך לנושא חם בפורום, הוא בדרך כלל כבר סיים סבב עליות משמעותי (Bull Run), מה שהופך את הכניסה אליו למסוכנת.\n*   **ביקורת על הטיית בדיעבד:** עולה תחושה שהקהילה נוטה לסמן \"הזדמנויות\" רק אחרי שהן כבר הוכיחו את עצמן בשטח, ולא בזמן אמת כשעוד ניתן להפיק מהן רווח משמעותי.\n*   **החשש מ\"קנייה בשיא\":** המגיב מזהיר באופן מרומז מפני כניסה להשקעות בעקבות הייפ (FOMO), שכן הנכסים הללו כבר נסחרים במחירים גבוהים אחרי הזינוק הראשוני.\n*   **תבניתיות חוזרת ומייאשת:** השימוש במילה \"תמיד\" (Always) מעיד על עייפות מהדפוס החוזר של פוסטים בקהילה, שנראים יותר כמו ניסיון לרכוב על גל קיים מאשר ניתוח שוק אמיתי.\n*   **פער בין הדיבורים למציאות בשטח:** קיים פער מהותי בין ההבטחה של הפוסטים (נכסים שהם \"הבאים בתור\") לבין המצב הטכני של אותם נכסים (כאלו שכבר הגיעו לשיא או קרוב אליו)."
-  },
-  {
-    "id": "1uirwij",
-    "title": "How did you find your CPA ?",
-    "url": "https://www.reddit.com/r/business/comments/1uirwij/how_did_you_find_your_cpa/",
-    "author": "DobbyPotterParker",
-    "score": 3,
-    "selftext": "If you've used a CPA for taxes, what's one thing you wish they did better?\n\nHow did you find your CPA?\n\nHow much did your CPA charge ?\n\nI had a terrible experience with my CPA, he charged a lot and I had to run after him to do my taxes.\n\nThere was no proactive communication.",
-    "subreddit": "business",
-    "created_utc": 1782738140,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "As with any kind of business, get referrals. No business owner files their own taxes, so everyone has one. My companies first cpa firm came at the recommendation of a startup accelerator our ceo was a part of. They did a lot of work for early start-ups. By the time I joined the company we had to let them go, as our needs exceeded their capacity. They were charging us $4k to file in 9 states plus fed.\n\nOur 2nd firm again came through our ceo's network. Even though I didn't want to use them and was looking for a regional firm, they won out on price. They offred $7k for 17 states+fed(we hit thresholds to file in more states). That lasted a whole year and their renewal was a 30% uptick. This finally let me interview regional firms.\n\nFor our current firm, I looked at the top 50 in billables for the year and focused on the 20-50 range that had specialties in e-commerce and had business practices in many of the major cities. We landed on #28 from that years list. They had experience in what we were doing and had worked with several others in our field. Their annual renewals increase 3-5%, which is reasonable. Currently they charge us $2,500 for federal and $800 per state to file, plus labor. We also work with their sales and use tax teams, along with other questions we have them do reseach as our business grows.\n\nMy wife's company happens to use the same firm as we currently use. It's a different office and is headed by a different partner. She swears they are dense as hell. The main partner has been there for 30+ years and should probably retire. Our partner was a Sr. Manager when we started, and he took over our accout when he became partner. So it's not just the firm, but you also need to like the person you're working with. In general though, you should not be chasing them to file your returns. They have deadlines and should schedule accordingly.",
-        "score": 2,
-        "author": "SashaG239"
-      },
-      {
-        "body": "One criteria I have for a CPA firm for business is they have an audit practice. If they do business audits they generally are better versed in business tax laws and business in general. ",
-        "score": 1,
-        "author": "Low-Dot9712"
-      },
-      {
-        "body": "I'm a sole proprietor LLC, so I am treated by the IRS as just a sole proprietor business, and use the Schedule-C (and any forms I need with it). I do it all myself, without software. I use Excel and ledgers. Early on, I did a consult with an accountant/CPA, and they were impressed with my bookkeeping. I keep receipts for everything, and I sort expenses by IRS business deduction categories. I don't handle inventories (for sales) or manufacture anything. I work in the medical field...so it's just invoices, usual business office expenses, payroll, necessary supplies (gloves, masks, insurances, etc). So not complex. ",
-        "score": 1,
-        "author": "GoddessLeeLu"
-      }
-    ],
-    "summary_he": "הכותב מבקש לדעת כיצד אחרים מצאו את רואה החשבון (CPA) שלהם וכמה שילמו על שירותיו, תוך שיתוף בחוויה אישית שלילית של מחיר גבוה וחוסר תקשורת. בנוסף, הוא מתעניין אילו היבטים בשירות היו הלקוחות רוצים לשפר כדי למנוע מצבים שבהם עליהם \"לרדוף\" אחרי איש המקצוע.",
+    "summary_he": "הכותב מביע תסכול מכך שבדיווחי Form 990 של עמותות מסוימות מופיע שכר של אפס דולרים לבכירים, דבר שנראה לו לא אמין. הוא מבקש עזרה באיתור המקורות או המסמכים המדויקים שבהם ניתן למצוא את נתוני השכר האמיתיים של מנהלים בארגונים ללא מטרות רווח.",
     "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מתוך התגובות בנוגע לבחירה וניהול עבודה מול רואה חשבון (CPA) עבור עסקים:\n\n*   **חשיבותן של המלצות ורשת קשרים:** הדרך המומלצת והנפוצה ביותר למצוא רואה חשבון היא דרך הפניות (Referrals). מכיוון שכל בעל עסק נדרש להגיש דוחות, מומלץ להיעזר ברשת הקשרים העסקית, במאיצי סטארט-אפים (Accelerators) או בקולגות כדי למצוא איש מקצוע אמין.\n*   **התאמת גודל המשרד לצמיחת העסק:** צורכי העסק משתנים ככל שהוא גדל. משרד שמתאים לסטארט-אפ בתחילת דרכו עשוי שלא לעמוד בעומס או במורכבות כאשר העסק מתרחב (למשל, כשצריך להגיש דוחות במספר רב של מדינות). במקרים כאלו, יש צורך לעבור למשרדים אזוריים או גדולים יותר בעלי התמחות ספציפית (כמו מסחר מקוון).\n*   **הגורם האנושי מעל שם הפירמה:** איכות השירות תלויה לעיתים קרובות בשותף הספציפי שמנהל את התיק ולא רק במוניטין של המשרד כולו. ייתכן מצב שבו לקוח אחד מרוצה מאוד מהמשרד, בעוד לקוח אחר באותו משרד חווה תסכול משותף שאינו קשוב מספיק או כזה שחוקי המס המעודכנים פחות נהירים לו.\n*   **קיומה של מחלקת ביקורת (Audit Practice) כסימן לאיכות:** קריטריון חשוב לבחירת משרד הוא האם הוא מבצע גם ביקורות חשבונאיות. משרדים שעוסקים בביקורת נתפסים כבעלי הבנה מעמיקה ורחבה יותר בחוקי המס ובדינמיקה העסקית הכללית, מה שתורם לאיכות הייעוץ שלהם.\n*   **ניהול עצמי בעסקים בעלי מורכבות נמוכה:** עבור עצמאיים או חברות יחיד שפעילותן פשוטה (ללא ניהול מלאי או ייצור מורכב), ניתן לנהל את החשבונות באופן עצמאי באמצעות כלים בסיסיים כמו Excel וספרי חשבונות. סדר וארגון של קבלות לפי קטגוריות ניכוי מס הם המפתח להצלחה במודל זה, אם כי ייעוץ ראשוני עם איש מקצוע עדיין מומלץ כדי לוודא שהשיטה נכונה.\n*   **ציפיות לשירות ומקצועיות:** בעל עסק לא אמור \"לרדוף\" אחרי רואה החשבון שלו כדי להגיש דוחות. משרד מקצועי צריך לנהל את לוחות הזמנים בעצמו ולעמוד ביעדים. בנוסף, יש לשים לב למדיניות התמחור; עליות מחירים שנתיות מתונות (3-5%) נחשבות לסבירות, בעוד שקפיצות חדות במחיר עשויות להעיד על חוסר יציבות או ניצול."
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **חשיפת שיטת \"הונאה\" חדשה:** אחד המשתמשים מצביע על טקטיקה חדשה במגזר המלכ\"רים (ארגונים ללא מטרת רווח), הכוללת הקמת חברה פרטית נפרדת לניהול העמותה.\n*   **הסתרת שכר בכירים:** המטרה המרכזית של מבנה ארגוני זה, לפי הדיון, היא לעקוף את חובת הדיווח על שכר הבכירים (טופס 990 בארה\"ב). מכיוון שהמנהלים מקבלים שכר מחברת הניהול הפרטית ולא ישירות מהעמותה, הסכומים נותרים חסויים מהעין הציבורית.\n*   **אישור מהשטח (B2B):** קיימת עדות מצד גורמים העובדים מול עמותות במודל B2B (עסק מול עסק), המאשרת כי מדובר בתופעה נפוצה מאוד שנתקלים בה לעיתים קרובות.\n*   **ניתוק חוזי ותקציבי:** משתמשים מציינים כי למרות שכלפי חוץ נראה שההתקשרות היא מול ארגון הצדקה, בפועל החוזים והתקציבים מנוהלים מול חברת ניהול (LLC) חיצונית שלעיתים נראית \"אקראית\".\n*   **הבחנה מבנית - היעדר בעלי מניות:** עלתה נקודה המדגישה הבדל מהותי במבנה המשפטי: בניגוד לחברות מסחריות, לארגונים ללא מטרת רווח אין בעלי מניות (Shareholders).\n*   **תחושת ספקנות קהילתית:** מהתגובות עולה סנטימנט של חוסר אמון כלפי האופן שבו עמותות מסוימות מתנהלות מבחינה פיננסית, תוך שימוש בפרצות משפטיות כדי לשמור על חוסר שקיפות."
+  },
+  {
+    "id": "1ujvmjt",
+    "title": "What do you think of SPMO",
+    "url": "https://www.reddit.com/r/investing/comments/1ujvmjt/what_do_you_think_of_spmo/",
+    "author": "Serratix",
+    "score": 21,
+    "selftext": "What do people think about the ETF SPMO?\n\nIt’s basically a momentum based S&P 500 stock from what I understand  holding the 100 top stocks with the highest momentum from the S&P 500.\n\nIt has pretty substantial returns over the last decade, but I never hear people talk about it.\n\nIs there a reason I never really hear about this as a good buy and hold option?",
+    "subreddit": "investing",
+    "created_utc": 1782840434,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "It gets discussed pretty much daily in one sub or another.",
+        "score": 20,
+        "author": "fozzy71"
+      },
+      {
+        "body": "Not true at all. Voo actually owns 500 companies. Spmo only owns 100 that have performed well since an arbitrary date. With voo you are still buying low on companies, with spmo you are always buying high",
+        "score": 10,
+        "author": "Jabi25"
+      },
+      {
+        "body": "What tax drag? The ETF wrapper effectively shields holders from rebalancing tax events.",
+        "score": 10,
+        "author": "dritu_"
+      }
+    ],
+    "summary_he": "הפוסט דן בתעודת הסל SPMO, העוקבת אחר 100 המניות בעלות המומנטום החיובי החזק ביותר במדד ה-S&P 500. הכותב מציין כי הקרן הציגה תשואות מרשימות בעשור האחרון, ותוהה מדוע היא אינה מוזכרת לעיתים קרובות יותר כאופציה מומלצת להשקעה לטווח ארוך.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, הכולל 6 נקודות מבט ודעות שונות שהועלו:\n\n*   **שכיחות הדיון:** מצוין כי הנושא אינו חדש ונידון בתדירות גבוהה מאוד (כמעט מדי יום) בקהילות השונות ברשת, מה שמעיד על עניין רב אך גם על חזרתיות.\n*   **יתרון הפיזור (Diversification):** מודגש ההבדל המבני בין המדדים – בעוד ש-VOO מציע חשיפה ל-500 חברות, מדד ה-SPMO מוגבל ל-100 חברות בלבד, מה שנתפס כחיסרון בפיזור הסיכונים.\n*   **ביקורת על אסטרטגיית המומנטום:** נטען כי השקעה ב-SPMO משמעותה \"לקנות תמיד ביוקר\", מכיוון שהמדד בוחר מניות שכבר עלו, לעומת VOO שמאפשר לקנות חברות גם כשהן נסחרות במחיר נמוך.\n*   **שרירותיות בבחירת המניות:** קיימת ספקנות כלפי הקריטריונים של SPMO, בטענה שהן נבחרות על סמך ביצועים מתאריך \"שרירותי\" ולאו דווקא על סמך ערך פנימי ארוך טווח.\n*   **יעילות מיסוי:** הועברה טענה כי אין לחשוש מ\"גרר מס\" (Tax Drag) משמעותי בהחזקת קרנות אלו.\n*   **יתרון המבנה המשפטי (ETF Wrapper):** הוסבר כי המבנה של קרנות סל (ETF) מגן על המשקיעים מפני אירועי מס המתרחשים בעת איזון מחדש של התיק (Rebalancing), בניגוד למכשירי השקעה אחרים."
+  },
+  {
+    "id": "1ujp0rk",
+    "title": "JPM Collar Is Rolling Today",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1ujp0rk/jpm_collar_is_rolling_today/",
+    "author": "Smart_Money_HQ",
+    "score": 16,
+    "selftext": "The event today is the JPM collar roll which is one of the more closely watched options events on the calendar.\n\nFor anyone unfamiliar - the JPM Hedged Equity strategy uses a collar to hedge equity exposure.\n\n It buys put options for downside protection and sells an out of-the-money call to offset part of that cost.\n\n At quarter-end, the old hedge expires and the fund establishes a new one around current S&P 500 levels.\n\nThe outgoing Q2 structure is the 6,865 call and long put around 6,180. Short put around 5,210. This is now well below spot so its market impact should be limited.\n\nThe focus is the new Q3 structure. Current estimates place the new long-put area around 7,050 and 7,100, with the call cap potentially around 7,750–7,900. These are estimates until the roll is completed, not confirmed strikes.\n\nHistorically it has had a bullish tendency as the execution is concentrated in the final two hours of trading. \n\nThis brings elevated liquidity and dealer hedging during the transition can support the tape into the close.\n\nThe last four of of five quarter ends the two hours prior to the close have been positive between 0.5% and 1.4% rally. The negative one was a drop of 0.6% \n\n",
+    "subreddit": "StockMarket",
+    "created_utc": 1782825517,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Exactly. This is pure market mechanics at work.   \nWhen JPM rolls over that massive fund in the final two hours of the day, it forces Wall Street market makers to aggressively buy up shares just to rebalance their own books for the new quarter.   \n  \nThis forced buying essentially acts like a giant vacuum, sucking the whole S&P 500 higher right into the closing bell",
+        "score": 3,
+        "author": "valbolt"
+      },
+      {
+        "body": "This trade is over, mate. Already did 0.83% and hit the major market maker pressure level",
+        "score": 1,
+        "author": "Smart_Money_HQ"
+      },
+      {
+        "body": "Interesting. I will keep an eye on the price",
+        "score": 1,
+        "author": "CFD_babyyy345"
+      }
+    ],
+    "summary_he": "היום מתבצע גלגול אסטרטגיית ה-Collar של ג'יי פי מורגן, אירוע אופציות רבעוני משמעותי שבו הקרן מעדכנת את רמות ההגנה על מדד ה-S&P 500. המהלך כרוך בהתאמת מחירי המימוש לרבעון הבא, מה שנוטה היסטורית להזרים נזילות ולתמוך בעליות שערים בשעתיים האחרונות של יום המסחר בשל פעולות הגידור של עושי השוק.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וניתוחים שונים שעלו מתוך התגובות:\n\n*   **מכניקת שוק טהורה:** קיימת הסכמה כי התנודות במדד אינן מקריות, אלא נובעות מ\"מכניקת שוק\" ברורה הקשורה לאופן שבו פועלים הגופים הגדולים בוול סטריט.\n*   **השפעת קרנות הענק של ג'יי פי מורגן (JPM):** אחד הגורמים המרכזיים שזוהו הוא פעולת ה\"גלגול\" (Rollover) של קרן מאסיבית המנוהלת על ידי JPM בשעתיים האחרונות של יום המסחר.\n*   **אילוץ של עושי השוק (Market Makers):** הפעילות של JPM מאלצת את עושי השוק לקנות מניות באגרסיביות כדי לאזן את הספרים שלהם לקראת הרבעון החדש, מה שיוצר לחץ קניות כפוי.\n*   **אפקט ה\"וואקום\" על מדד ה-S&P 500:** הרכישות המאסיביות הללו מתוארות כמעין שואב אבק ענקי, שדוחף את המדד כולו כלפי מעלה ממש עד לצלצול סגירת המסחר.\n*   **הערכה שהמהלך כבר מוצה:** קיימת דעה כי הזדמנות המסחר הנוכחית כבר הסתיימה, שכן המדד כבר עלה ב-0.83% והגיע לרמות לחץ טכניות משמעותיות של עושי השוק.\n*   **גישת \"חכה וראה\":** חלק מהקהילה מגיב בסקרנות זהירה, מתוך כוונה להמשיך לעקוב אחר תנועות המחיר מבלי לנקוט בפעולה מיידית, כדי ללמוד את דפוסי ההתנהגות של השוק.",
+    "dateString": "2026-07-02",
+    "savedAt": {
+      "_seconds": 1782968624,
+      "_nanoseconds": 769000000
+    }
+  },
+  {
+    "id": "1uk1io2",
+    "title": "Quick Recap of June Markets and News",
+    "url": "https://www.reddit.com/r/investing/comments/1uk1io2/quick_recap_of_june_markets_and_news/",
+    "author": "TimeInTheMarketWins",
+    "score": 7,
+    "selftext": "**NOT AI b/c the auto mod thinks it is :(** \n\nU.S. stocks ended June 2026 slightly lower, influenced by a stabilizing Middle East, with peace proposals being advanced among major powers, including Israel, the United States, and Iran, to open the Strait of Hormuz and end hostilities. New Federal Reserve chair Kevin Warsh presided over his first FOMC meeting, where the committee kept rates flat but hinted toward interest hikes later in the year. The S&P 500 lost 1.06% and is now up over 9% year-to-date. Market volatility was driven by continued global geopolitical shocks and the tailwind inflationary impact of still-elevated, though falling, global oil prices.\n\nThe Consumer Confidence Index rose to 91.2 in June, up from a previously revised 90.6 in May, while existing home sales increased 3.2% to 4.17 million, demonstrating the effect of the traditionally strong spring housing market despite the national average mortgage rate of roughly 6.5%.\n\nSpaceX (SPCX) completed its initial public offering on June 12 and raised $85 billion. It briefly traded around $200 and, at the end of the month, settled at about $170, putting its market capitalization at about $2.25 trillion and making Elon Musk the first person to reach trillionaire status. While Anthropic has reiterated its confidence in going public this year, OpenAI has signaled that it would delay until 2027 due to the volatility surrounding the SpaceX IPO.  \n\nOil prices continue to fall and now trade at roughly $70 per barrel. Gas prices, which come under heightened scrutiny during the midterm election later this year, now average $3.87 per gallon nationally. The impacts of the Iranian conflict have forced the Federal Reserve to consider hiking short-term interest rates later this year amid inflationary pressures driven by higher energy prices.\n\nCNN’s Fear and Greed Index closed June at 31, indicating a steep decline into market pessimism, down from 60 at the same point last month. The dive reflects investor fear about the long-term effects of the war in Iran and the increased likelihood of interest rate increases later in the year. The S&P 500 continues to trade above its 125-day moving average.\n\nThe three major U.S. indices ended the quarter with significant gains, with the NASDAQ gaining 21% over the past three months and the S&P gaining 15%, marking its best quarter since 2020.\n\n  \nHappy Fourth of July, y'all. See you next month! I can also post links to any of my sources in the comments if anyone wants them. \n\n",
+    "subreddit": "investing",
+    "created_utc": 1782853305,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I find the VIX to be the most accurate indicator in the market.",
+        "score": 2,
+        "author": "Revfunky"
+      },
+      {
+        "body": "I don't disagree, but a lot of people reference it, so I include it as context",
+        "score": 2,
+        "author": "TimeInTheMarketWins"
+      },
+      {
+        "body": "The fear and greed index has to be one of the more worthless indicators, imho.\n\nOnward to July.",
+        "score": 1,
+        "author": "Revfunky"
+      }
+    ],
+    "summary_he": "בסיכום חודש יוני 2026, מדדי המניות בארה\"ב רשמו ירידות קלות על רקע ניסיונות להסדר מדיני במזרח התיכון וחששות מאינפלציה שתוביל להעלאת ריבית בהמשך השנה. האירוע המרכזי של החודש היה הנפקת הענק של SpaceX, שהפכה את אילון מאסק לטריליונר הראשון בעולם, וזאת לצד עלייה משמעותית בפסימיות של המשקיעים לפי מדד הפחד והתאוות.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג שש נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **אמון גבוה במדד ה-VIX:** אחד המשתמשים מביע ביטחון רב במדד ה-VIX (מדד התנודתיות), ורואה בו את האינדיקטור המדויק ביותר הקיים כיום בשוק לניתוח מגמות.\n*   **ערך ההקשר החברתי (Context):** קיימת גישה הגורסת כי גם אם אינדיקטור מסוים אינו מושלם, יש לו ערך מוסף מעצם העובדה שמשקיעים רבים אחרים מתייחסים אליו, מה שהופך אותו לכלי חשוב להבנת \"הלך הרוח\" הכללי.\n*   **ספקנות כלפי מדד ה\"פחד ותאוות בצע\":** בקהילה קיימת דעה נחרצת המזלזלת במדד ה-Fear and Greed Index, כאשר הוא מתואר כאחד הכלים הפחות יעילים וחסרי הערך עבור הסוחר.\n*   **העדפת נתונים קשיחים על פני סנטימנט:** מהדיון עולה העדפה ברורה לאינדיקטורים מבוססי תנודתיות שוק (כמו ה-VIX) על פני מדדים פסיכולוגיים או איכותניים יותר שנתפסים כפחות אמינים.\n*   **פרגמטיות בשימוש בכלים:** חלק מהסוחרים נוקטים בגישה פרגמטית – הם כוללים בניתוח שלהם מדדים מסוימים לאו דווקא בגלל אמינותם הטכנית, אלא כדי לקבל תמונה רחבה על הדרך שבה השוק תופס את המציאות.\n*   **מבט קדימה ליולי:** הדיון מסתיים בנימה אופטימית או דרוכה לקראת חודש יולי, מה שמעיד על כך שהקהילה נמצאת בתקופת מעבר ובוחנת את המגמות הבאות שיעצבו את הרבעון הבא."
+  },
+  {
+    "id": "1ujy03x",
+    "title": "Business management student",
+    "url": "https://www.reddit.com/r/business/comments/1ujy03x/business_management_student/",
+    "author": "thinkabouthia",
+    "score": 2,
+    "selftext": "Hi everyone, I’m currently a business student entering my third year, and in about a month, I’ll be starting an internship. I’m wondering, as a student, what steps should I be taking to strengthen my CV or myself? Are there specific courses, skills, or programs I should learn or focus on? I’d really appreciate any advice!",
+    "subreddit": "business",
+    "created_utc": 1782845561,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "סטודנט למנהל עסקים העומד להתחיל את שנתו השלישית והתמחות מקצועית מבקש עצות לחיזוק קורות החיים והכישורים שלו. הוא מעוניין לדעת באילו מיומנויות, קורסים או תוכנות ספציפיות כדאי לו להתמקד כדי להתפתח מבחינה מקצועית.",
+    "category_he": "עסקים",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1ukt2vf",
+    "title": "BCG: Hong Kong Overtakes Switzerland as the World’s Top Cross-Border Wealth Booking Center",
+    "url": "https://www.reddit.com/r/finance/comments/1ukt2vf/bcg_hong_kong_overtakes_switzerland_as_the_worlds/",
+    "author": "Status_Commission264",
+    "score": 1,
+    "selftext": "[https://www.bcg.com/publications/2026/global-wealth-growth-in-an-era-of-reordering](https://www.bcg.com/publications/2026/global-wealth-growth-in-an-era-of-reordering)",
+    "subreddit": "finance",
+    "created_utc": 1782928951,
+    "thumbnail": "https://preview.redd.it/adjowb44rnah1.jpeg?width=140&height=98&auto=webp&s=cf98067e459b09e475300cefde2d4f04d3de7f26",
+    "top_comments": [
+      {
+        "body": "Please stop with the “cross-border” terminology to describe HK. That city is part of China. There are indeed outflow controls, but geographically and politically, that term is no longer accurate. ",
+        "score": 1,
+        "author": "iarahm"
+      }
+    ],
+    "summary_he": "לפי דוח של חברת הייעוץ BCG, הונג קונג עקפה את שווייץ והפכה למרכז הגדול בעולם לניהול עושר חוצה-גבולות (Cross-border wealth). המהפך משקף את הסטת ההון הגלובלי לעבר אסיה ומסיים עשורים של דומיננטיות שווייצרית בתחום הפיננסים הבינלאומי.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום של נקודות המבט והלך הרוח העולים מהדיון (בהתבסס על התגובה שסופקה):\n\n* **התנגדות לטרמינולוגיה מסורתית:** עולה דרישה ברורה להפסיק להשתמש במושג \"חוצה גבולות\" (cross-border) בכל הנוגע למעבר בין הונג קונג לסין היבשתית, בטענה שזהו מונח מטעה.\n* **הדגשת הריבונות הפוליטית:** קיימת עמדה נחרצת לפיה הונג קונג היא חלק בלתי נפרד מסין, ולכן כל התייחסות אליה כישות נפרדת מבחינה מדינית אינה רלוונטית עוד.\n* **הבחנה בין בקרות טכניות לסטטוס מדיני:** המגיב מכיר בכך שקיימות בקרות על יציאת הון או סחורות (outflow controls), אך טוען שקיומן של הגבלות אלו אינו מצדיק הגדרה של האזור כ\"גבול\" בין מדינות.\n* **דיוק גיאוגרפי:** מובעת דעה כי מבחינה גיאוגרפית, השימוש במושג \"גבול\" אינו נכון עובדתית במציאות הנוכחית של העיר.\n* **שינוי המציאות לאורך זמן:** ניכרת התייחסות לכך שהסטטוס של הונג קונג השתנה (\"כבר אינו מדויק\"), מה שמרמז על כך שמושגים שהיו מקובלים בעבר אינם תקפים עוד בנסיבות הפוליטיות של ימינו.\n* **דרישה לעדכון השפה בקהילה:** קיים סנטימנט של תיקון (Correction), השואף לגרום למשתתפים אחרים בשיח להתאים את שפתם למציאות הפוליטית החדשה, תוך ביקורת על שימוש במונחים שנתפסים כמיושנים או כשגויים פוליטית."
   },
   {
     "id": "1ujty6i",
@@ -250,66 +316,31 @@ window.dailyTrends = [
     "top_comments": [],
     "summary_he": "כותב הפוסט הוא איש כספים לשעבר שניסה לפנות לדרך עצמאית לאחר חוויה שלילית בקרן השקעות, וכעת הוא מעוניין לחזור לתחום הפיננסים המסורתי. הוא מתלבט אם עליו להוציא תואר MBA כדי להקל על החזרה לתעשייה, או שביכולתו להתקבל ישירות לתפקידים בתחום בהתבסס על ניסיונו והצעות עבודה שקיבל לאחרונה.",
     "category_he": "פיננסים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-07-01",
+    "savedAt": {
+      "_seconds": 1782900307,
+      "_nanoseconds": 339000000
+    }
   },
   {
-    "id": "1ukg9ih",
-    "title": "Is it worth it investing in non US markets?",
-    "url": "https://www.reddit.com/r/investing/comments/1ukg9ih/is_it_worth_it_investing_in_non_us_markets/",
-    "author": "Helpful-Staff9562",
+    "id": "1ul62jy",
+    "title": "What do options mean on Fidelity?",
+    "url": "https://www.reddit.com/r/investing/comments/1ul62jy/what_do_options_mean_on_fidelity/",
+    "author": "museshrooms",
     "score": 1,
-    "selftext": "Whats your tale on this? \n\nIm a non US investor: When US markets go up international markets go up less, when US markets go down, internal markets go down more, long term it doesnt seem to pay off. \n\nI'm a VT guy so far but within vt in the top 25 position the only non US companies are the below, wouldn't it be better to just be all in like VOO and buy those separaetly if even wanted?\n\nAmong VT's top 25 holdings, these are the non-U.S. companies (and they dont move the needle anyways within the fund at those %):\n\nTsmc 1.53%\n\nSamsung 0.84%\n\nSk hynix 0.72%\n\nAsml 0.53%",
+    "selftext": "Hi, I recently opened a roth IRA and invested money into it. I'm trying to put my money into the .S&P 500 but when I go to buy it it only says options on the bottom and when I click that it brings up a menu full of things I don't understand. I tried watching videos on it and I'm still confused, if anyone could help me that would be really nice of you and I appreciate it ",
     "subreddit": "investing",
-    "created_utc": 1782896135,
+    "created_utc": 1782960621,
     "thumbnail": "self",
     "top_comments": [],
-    "summary_he": "כותב הפוסט תוהה האם השקעה בשווקים מחוץ לארה\"ב משתלמת בטווח הארוך, שכן אלו נוטים להציג ביצועי חסר לעומת השוק האמריקאי הן בתקופות של עליות והן בירידות. למרות שהוא מחזיק כרגע בקרן סל עולמית (VT), הוא שוקל לעבור להשקעה ממוקדת במדד S&P 500 ולרכוש מניות בינלאומיות ספציפיות בנפרד רק במידת הצורך.",
+    "summary_he": "המשתמש מעוניין להשקיע במדד ה-S&P 500 דרך חשבון ה-Roth IRA שלו ב-Fidelity, אך מסתבך עם ממשק האפליקציה המציג לו תפריטי אופציות מורכבים במקום רכישה פשוטה. הוא מבקש עזרה והדרכה כיצד לבצע את ההשקעה הבסיסית לאחר שלא הצליח להבין את הנושא מסרטוני הסבר שראה.",
     "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1ukfry9",
-    "title": "CAT ripping to astronomical numbers on the AI story, anyone else think this is getting ahead of itself?",
-    "url": "https://www.reddit.com/r/investing/comments/1ukfry9/cat_ripping_to_astronomical_numbers_on_the_ai/",
-    "author": "OilAny787",
-    "score": 1,
-    "selftext": "Been watching Caterpillar run hard the last few months and wanted to get some other eyes on this before I size up a position. Stock's at $1,050 now, up something like 50%+ this year. The whole move is being driven by the idea that CAT isn't really a cyclical machinery company anymore, it's an AI infrastructure play because their power and energy segment sells generators and turbines to hyperscalers building data centers. Got reclassified out of the Russell value/defensive indices and into the Russell top 50 recently too, which tells you how the market's repricing it.\n\nIt's trading at like 49x trailing earnings and 39x forward, when a direct peer like Cummins is sitting around 24x forward. Average analyst price target is still under $951, meaning the sell side collectively thinks fair value is below where it's actually trading. Michael burry apparently agrees, he disclosed a short at $1,060.98 a couple days ago, first time he's ever shorted CAT after being long it for years, and cited the price to sales ratio hitting a 30 year high.\n\nThe thing I keep coming back to is the tariff drag, management's guided $2.2-2.4B in tariff costs for this year and that's already been squeezing power and energy margins. Q2 earnings land Aug 4, and if that margin pressure shows up again, the narrative gets a lot harder to defend, and multiples like this don't hold up if it's still just cyclical industrial earnings underneath.\n\nI'm looking at a bear put spread out to January rather than anything naked, mainly so I've got runway after the August print for a re rate to actually play out instead of getting chopped up by earnings IV.\n\nWhere I could be wrong, backlog is genuinely strong (record $63B), dividend just got hiked 8%, and if the AI power capex cycle really is structural rather than a story, CAT could keep re rating regardless of what trailing multiples say. Also aware shorting a stock in a strong uptrend with this kind of momentum behind it is its own risk even if the thesis is right eventually.\n\nAnyone here on the other end of this trade who actually holds CAT or has looked at the setup, am I missing something on the bull case, or does this feel like a crowded trade that unwinds on the first soft print?",
-    "subreddit": "investing",
-    "created_utc": 1782894308,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "הפוסט דן בעלייה החדה במניית קטרפילר (CAT) המונעת מהנרטיב של תשתיות AI, ומביע חשש כי התמחור הנוכחי מופרז ואינו משקף סיכונים ריאליים כמו מכסים ולחץ על שולי הרווח. הכותב שוקל פוזיציית \"שורט\" (Short) בהשראת מייקל ברי, אך מציין כי צבר הזמנות חזק והמומנטום סביב ה-AI עלולים להמשיך ולהזניק את המניה למרות הערכות השווי הגבוהות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1ukfnc6",
-    "title": "would a llm project that gives you a whole idea about the current stock and its current earnings, if it is bullish or not, be helpful?",
-    "url": "https://www.reddit.com/r/investing/comments/1ukfnc6/would_a_llm_project_that_gives_you_a_whole_idea/",
-    "author": "Tonka-Jahari-Pizza",
-    "score": 1,
-    "selftext": "i am thinking of using my llm capabilities to use llms or ai in general to make a helpful assistant/s, to get more info about a certain stock or stocks, like when you type a stock name, it gives you some info about it, its earning files like 8k,10 and so on, and scheculed events for it, like if it will have an earning release soon or any type of event and its date and so on, of course this is an initial thought but i was wondering if this is a good idea\n\nalso what would you like to get from it, i am tring to think of more features \n\nmy current idea is to list all the filing and categorize them, like 10q are a table and you can see each companies 10q date and when will it come, same with the other filings, and earning date, i will also make dashboard to make filtering, sorting and understanding the situation easier",
-    "subreddit": "investing",
-    "created_utc": 1782893855,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "הכותב מציע לפתח כלי מבוסס בינה מלאכותית (LLM) שישמש כעוזר אישי לניתוח מניות, שליפת נתונים מדוחות כספיים ומעקב אחר אירועים בשוק ההון. הפרויקט יכלול לוח בקרה (dashboard) לסינון וניהול המידע, במטרה לספק למשקיעים תמונת מצב מהירה על ביצועי המניה וכדאיות ההשקעה בה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1ukevnn",
-    "title": "Do you verify the answers of the AI about the 10K? if you do then what's the point of giving it to AI?",
-    "url": "https://www.reddit.com/r/investing/comments/1ukevnn/do_you_verify_the_answers_of_the_ai_about_the_10k/",
-    "author": "Kartik_tyagi13",
-    "score": 1,
-    "selftext": "Not asking whether to use AI for this everyone already does, myself included(after getting advice from you guyz) . Running a filing through an AI model and asking specific questions is indeed faster than reading 100+ pages, and at this point it's basically the default workflow for a lot of retail investors that I learnt here.\n\nWhat I haven't figured out is the verification step. If it tells me a company's debt covenant trips at a 1.2x coverage ratio, I'm trusting that's accurate unless I go open the actual filing and check the page at which point I've basically done the manual work I was trying to skip.\n\nCurious how people handle this verification step and of course the AI hallucinating number is a real deal. Do you verify every material answer, spot-check randomly, or just trust the output?",
-    "subreddit": "investing",
-    "created_utc": 1782891101,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "הפוסט דן בדילמה של שימוש בבינה מלאכותית לניתוח דוחות כספיים (10-K), ותוהה האם הצורך באימות הנתונים מבטל את החיסכון בזמן שהכלי מציע. הכותב שואל משקיעים אחרים האם הם בודקים כל פרט מהותי באופן ידני, מבצעים בדיקות מדגמיות בלבד, או פשוט סומכים על הפלט למרות החשש מ\"הזיות\" (hallucinations) של המודל.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-07-02",
+    "savedAt": {
+      "_seconds": 1782968637,
+      "_nanoseconds": 435000000
+    }
   }
 ];
