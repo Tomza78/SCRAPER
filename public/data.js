@@ -1,395 +1,341 @@
 window.dailyTrends = [
   {
-    "id": "1ukmaj4",
-    "title": "If a company releases new shares wont that decrease the value of the shares I own?",
-    "url": "https://www.reddit.com/r/investing/comments/1ukmaj4/if_a_company_releases_new_shares_wont_that/",
-    "author": "No_Obligation4427",
-    "score": 199,
-    "selftext": "When more shares are available are available there is more supply. Have a higher supply drives prices down (supply and demand). So wont the shares i own go down in value or not go up as much when they otherwise would have?\n\n  \nI must be missing though because if this was true why would shareholders allow more shares to be released when this would decrease the value of the shares they own?",
+    "id": "1ulnzls",
+    "title": "A Third of SpaceX’s Tradable Shares Are Now Betting Against It. The Squeeze Math Is Wild",
+    "url": "https://www.reddit.com/r/investing/comments/1ulnzls/a_third_of_spacexs_tradable_shares_are_now/",
+    "author": "portlandlad",
+    "score": 764,
+    "selftext": "* SPCX carries 196 million shares sold short, representing 31% of the float, with every $1 move costing bears roughly $200 million.\n* Shorts briefly pocketed $2.5 billion on paper when SPCX fell 23% post-IPO, but the rebound flipped that to a $760 million loss.\n\n[https://finance.yahoo.com/markets/stocks/articles/third-spacex-tradable-shares-now-145131198.html](https://finance.yahoo.com/markets/stocks/articles/third-spacex-tradable-shares-now-145131198.html)",
     "subreddit": "investing",
-    "created_utc": 1782913864,
+    "created_utc": 1783011752,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "He is a better financial engineer than any other type of engineer. I fully expect shenanigans. ",
+        "score": 16,
+        "author": "compute_fail_24"
+      },
+      {
+        "body": "\"Hey Farva, what's the name of that restaurant you like with all the goofy shit on the walls and the mozzarella sticks?",
+        "score": 6,
+        "author": "BillyBrainlet"
+      },
+      {
+        "body": "Don't worry they made sure to buy a second phone to install another Robinhood on.  \n\nAnd by phone I mean proxy holdings company.  And by Robinhood I mean douchebank.",
+        "score": 5,
+        "author": "sonik13"
+      }
+    ],
+    "summary_he": "כשליש מהמניות הסחירות של SpaceX נמצאות כיום בפוזיציית שורט (הימור נגד המניה), מצב שיוצר פוטנציאל ל\"שורט סקוויז\" משמעותי. כל עלייה של דולר בודד במחיר המניה עולה לשורטיסטים כ-200 מיליון דולר, כאשר התאוששות המניה לאחרונה כבר הפכה רווחים על הנייר להפסדים כבדים של כ-760 מיליון דולר.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן ניתוח של התגובות מהדיון, המציג שש נקודות מבט ותחושות קהילתיות שונות כפי שעלו מהטקסט:\n\n*   **ביקורת על כישורי הנהגה והנדסה:** עולה טענה כי הדמות המדוברת (ככל הנראה דמות מפתח טכנולוגית כמו אילון מאסק, בהתאם להקשר הטיפוסי של תגובות כאלו) מצטיינת ב\"הנדסה פיננסית\" ומניפולציות בשוק ההון הרבה יותר מאשר ביכולות הנדסיות או טכנולוגיות ממשיות.\n*   **ציפייה לחוסר יושרה (Shenanigans):** קיימת תחושה חזקה של ספקנות בקרב המגיבים, המצפים באופן מפורש ל\"תעלולים\", מזימות או מהלכים לא אתיים מצד המעורבים בדבר.\n*   **שימוש בהומור ותרבות פופולרית ללעג:** הקהילה משתמשת ברפרנסים קולנועיים (הסרט \"Super Troopers\") כדי להדגיש את הגיחוך שבסיטואציה. השימוש בציטוט על מסעדת \"Shenanigans\" משמש כדרך קומית לאשרר את החשדנות כלפי המהלכים העסקיים המדוברים.\n*   **זלזול במוסדות פיננסיים:** התגובות מציגות יחס מזלזל כלפי אפליקציות מסחר (כמו רובינהוד) ובנקים גדולים (כינוי בנק בשם \"douchebank\"), מה שמעיד על חוסר אמון עמוק במערכת הפיננסית הממוסדת.\n*   **ביקורת על מבנים תאגידיים מורכבים:** המגיבים מצביעים על כך ששימוש ב\"חברות החזקה כפרוקסי\" (Proxy holdings companies) הוא למעשה דרך מתוחכמת להסתיר פעילות בעייתית או לעקוף מגבלות, תוך השוואה אירונית של המנגנון הזה להתקנת אפליקציה בטלפון שני כדי לרמות.\n*   **תחושת מניפולציה מערכתית:** עולה סנטימנט לפיו \"השחקנים הגדולים\" לא באמת פועלים לפי הכללים, אלא בונים לעצמם מערכות מקבילות (כמו בנקים ייעודיים או חברות קש) כדי להמשיך בהתנהלות הבעייתית שלהם תחת מסווה של לגיטימיות."
+  },
+  {
+    "id": "1ulr1nq",
+    "title": "I’ve been on autopilot for 3 years and just checked my account for the first time in a while",
+    "url": "https://www.reddit.com/r/investing/comments/1ulr1nq/ive_been_on_autopilot_for_3_years_and_just/",
+    "author": "arcsilencer",
+    "score": 362,
+    "selftext": "I set up automatic monthly contributions in early 2023 and basically stopped paying attention. Just opened the app for the first time in maybe 14 months. Some things I did not expect:\n\nNVDA is now 31% of my portfolio. I bought it in 2022 when it was down and then mostly forgot about it. I apparently also own Palantir. I genuinely do not remember buying Palantir. My total return over the last 3 years is around 94%. I am almost certain I would have done worse if I had been checking every week.\n\nNow I don’t really know what to do.  \nNVDA feels too concentrated, but I also feel weird selling something that has carried the account this hard. I’m also nervous about rebalancing because I don’t know what the tax situation looks like. The other thing I noticed is that my moomoo has prediction markets now. Maybe the mistake was not having those buckets separated before, which made me wonder if I should separate my brain into two buckets: long-term holdings I mostly leave alone, and tiny event-based positions for specific views I actually want to follow.\n\nIs “keep ignoring it for another 3 years” a valid strategy? Asking genuinely.",
+    "subreddit": "investing",
+    "created_utc": 1783018351,
     "thumbnail": "self",
     "top_comments": [],
-    "summary_he": "הכותב תוהה האם הנפקת מניות חדשות בהכרח מורידה את ערך המניות הקיימות בשל חוקי ההיצע והביקוש (דילול). בנוסף, הוא מבקש להבין מדוע שבעלי המניות יאשרו מהלך כזה אם הוא אכן פוגע בשווי השקעתם.",
+    "summary_he": "כותב הפוסט גילה שהשיג תשואה של כ-94% לאחר שלוש שנים שבהן כמעט לא בדק את תיק ההשקעות שלו, כאשר מניית אנבידיה הפכה לנתח משמעותי (31%) מהפורטפוליו. כעת הוא מתלבט אם לאזן את התיק בשל הריכוזיות הגבוהה למרות החשש מחבות מס, או להמשיך באסטרטגיית ה\"טייס האוטומטי\" ולהתעלם מהחשבון למספר שנים נוספות.",
     "category_he": "השקעות",
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1ukq24o",
-    "title": "Does anyone else feel like discussions in the investing subreddits has mostly moved away from intelligent conversation to emotional chatter that is predominantly wrong in terms of outcomes in the market?",
-    "url": "https://www.reddit.com/r/investing/comments/1ukq24o/does_anyone_else_feel_like_discussions_in_the/",
-    "author": "kinetic_honda",
-    "score": 65,
-    "selftext": "I mostly now look at the posts and comments in all investing subreddits as entertainment. In fact, I think it's even more entertaining when reddit is absolutely sure about a stock and it proceeds to do the exact opposite. In fact, it seems to me like reddit is very angry because the world is not burning like they are predicting it will. Anybody else on here just perusing for entertainment?\n\nI miss the days when posts were not constantly screaming about Elon Musk (and then proceeding to be wrong), I miss the days when people could actually converse on here and leave with a sense of having learned something. Nowadays it's just - bubble bubble Musk Trump bubble.\n\nDo any redditors who have been on the platform and investing subreddits for a long time feel the same way?",
+    "id": "1ulfy4j",
+    "title": "SaaS sector fell below market valuation for the first time on record. Breaking down which names are actually cheap vs. just lower priced.",
+    "url": "https://www.reddit.com/r/investing/comments/1ulfy4j/saas_sector_fell_below_market_valuation_for_the/",
+    "author": "ichbinschomi",
+    "score": 32,
+    "selftext": "Hi r/investing, I'm the GM of the stock research side at Obermatt, a Swiss investment research firm that ranks stocks across 60+ markets on four factors (Value, Growth, Safety, Sentiment) relative to industry peers. Standard disclosure: this is our own research, sharing it here because I think the framework is useful for this community, not to sell anything.\n\nThe AI-driven selloff pushed the entire SaaS sector below the broad market on forward earnings for the first time on record. That's a meaningful shift for a sector that traded at a premium for most of the last decade. But a sector-wide drop doesn't mean every stock in it got equally cheap, some just fell alongside the rest without their valuation actually resetting. Ran our Value Rank on twelve well known SaaS names from Europe, North America and Asia-Pacific to see where the dispersion actually is.\n\n**Genuinely cheap, backed by fundamentals (Value Rank 55+):**\n\n* **RingCentral** (Value 100) and **Open Text** (Value 100): both trade slower growth for strong free cash flow. Open Text's cloud business has grown organically for 21 straight quarters.\n* **Intuit** (Value 87, Combined 98): revenue up 10%, dividend raised 15%, yet the stock dropped 20% on results day.\n* **Salesforce** (Value 87): Agentforce ARR passed $1.2B, grew over 200%, stock still down roughly a third over the year.\n* **SAP** (Value 57): cloud revenue up 27% at constant currency, stock still down \\~40% on the year.\n* **Dassault Systèmes** (Value 55): fairly priced, but Growth Rank is only 31 on 3% revenue growth, so this one's a pace problem, not a price problem.\n\n**Cheap, but check the other ranks first (Value Rank 40s):**\n\n* **Adobe** (Value 47): reasonably priced, but Sentiment Rank is the lowest of the twelve (25). AI-first recurring revenue tripled past $500M, market still doesn't trust the pivot.\n* **WiseTech Global** (Value 42): strong growth (93), restructured pricing to hedge against AI eroding per-seat SaaS models, but Safety Rank is only 33 due to layoffs and restructuring costs.\n* **Trend Micro** (Value 41): the defensive name here, Safety Rank of 94, \\~70% dividend payout.\n\n**Never really got cheap despite the selloff (Value Rank under 30):**\n\n* **ServiceNow** (Value 27): beat every metric, still fell 17% on results day, worst single session in company history.\n* **Snowflake** (Value 4) and **Cloudflare** (Value 1): both growing 34%+, but priced for that growth to keep compounding for years just to justify today's valuation.\n\nFull write-up with sourcing on the earnings/news behind each score: [https://link.obermatt.com/saas-en/](https://link.obermatt.com/saas-en/)\n\nFor the value-oriented investors here specifically: when a whole sector gets repriced like this, how do you personally separate \"genuinely cheap\" from \"cheap because the market hasn't caught up yet\"? Curious whether people here lean more on relative valuation (like this) or absolute thresholds.",
     "subreddit": "investing",
-    "created_utc": 1782922279,
+    "created_utc": 1782992761,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "I am vain and resentful so I used to come back to the same comment chain where someone was bearish about NVDA at $17. Dunked on him every quarter until he blocked me   ",
-        "score": 3,
-        "author": "Keeltoodeep"
-      },
-      {
-        "body": "I think its more a symptom of the bull market we are in and the FOMO associated with it. \n\nInvesting takes patience and its difficult for people to have the discipline for that right now.",
-        "score": 3,
-        "author": "ShellshockFarms"
-      },
-      {
-        "body": "By definition there’s not much to talk about in the subreddit lol",
-        "score": 3,
-        "author": "Asclepius-Rod"
-      }
-    ],
-    "summary_he": "כותב הפוסט טוען כי הדיונים בפורומי ההשקעות ברדיט הידרדרו משיח אינטליגנטי ולימודי ללהג רגשי ופוליטי שנוטה לטעות בתחזיותיו לגבי השוק. הוא מציין כי כיום הוא מתייחס לתוכן כאל מקור לבידור בלבד ומתגעגע לימים שבהם ניתן היה ללמוד מהקהילה במקום להתמקד באובססיביות ב\"בועות\" ובדמויות כמו אילון מאסק.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והתובנות העולות מהתגובות בשרשור ה-Reddit, המחולק ל-6 נקודות מרכזיות:\n\n*   **נטייה לנקמנות ושמחה לאיד:** בקרב חלק מהמשקיעים קיימת נטייה לעקוב אחרי משתמשים שהחזיקו בתחזיות שגויות (למשל, כאלו שהיו פסימיים לגבי מניית NVDA כשהייתה במחיר נמוך) כדי להוכיח אותם על טעותם לאורך זמן, מה שמעיד על דינמיקה קהילתית שלעיתים היא \"רעילה\" או אגרסיבית.\n*   **השפעת השוק השורי על הפסיכולוגיה:** חלק מהמשתמשים סבורים כי ההתנהגות הנוכחית בקהילה היא סימפטום של \"שוק שורי\" (Bull Market), המייצר אווירה שונה מהרגיל ומשפיע על אופן קבלת ההחלטות והשיח.\n*   **תופעת ה-FOMO (הפחד מהחמצה):** הדיון מדגיש שהפחד להחמיץ רווחים מהירים מניע חלק ניכר מהתנהגות המשקיעים כיום, מה שגורם להם לנטוש אסטרטגיות ארוכות טווח לטובת מרדף אחרי מניות \"לוהטות\".\n*   **הקושי שבמשמעת וסבלנות:** עולה טענה כי השקעה מוצלחת דורשת משמעת עצמית וסבלנות רבה, אך בתנאי השוק הנוכחיים, למשקיעים קשה מאוד לשמור על התכונות הללו והם מחפשים סיפוקים מיידיים.\n*   **דלות התוכן המהותי בקהילה:** קיימת תחושה שבפורומים העוסקים בהשקעות (במיוחד כאלו שדוגלים בהשקעות פסיביות או ארוכות טווח) אין באמת הרבה \"חדש\" לדבר עליו ביומיום, מה שמוביל לכך שהשיח הופך למעגלי או מתמקד בהתנצחויות במקום בניתוח ענייני.\n*   **הפער בין תחזיות המומחים למציאות:** המקרה של מניית NVDA (שעלתה במאות אחוזים בניגוד לתחזיות פסימיות בעבר) משמש כמשל לפער העצום שיכול להיווצר בין הערכות של \"דובים\" (bearish) לבין הביצועים של השוק בפועל, דבר שמחזק את הביטחון העצמי של המשקיעים האופטימיים."
-  },
-  {
-    "id": "1ukhqix",
-    "title": "$OKLO Announces D.O.E. Approval of the Documented Safety Analysis (DSA) for the Groves Isotope Test Reactor in Texas",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1ukhqix/oklo_announces_doe_approval_of_the_documented/",
-    "author": "Optimal_Image5192",
-    "score": 52,
-    "selftext": "$OKLO's Groves Isotope Test Reactor received DOE approval for its Documented Safety Analysis.\n\nThis is the final safety basis approval that follows the earlier Nuclear Safety Design Agreement (NSDA, approved March 2026) and Preliminary Documented Safety Analysis (PDSA).\n\nWith the DSA now approved, the project shifts from the documentation/design-construction phase into DOE’s final pre-startup activities: readiness review, startup approval, fuel loading, and first criticality.\n\nOklo is targeting July 2026 for first criticality.\n\nCEO Jacob DeWitte highlighted that Groves is the first advanced reactor project to receive DSA approval on privately owned land.\n\nThe Groves facility is essentially a pilot project focused on domestic isotope production for medical (cancer diagnostics/treatment), industrial, research, space, and national security uses. It aims to reduce reliance on overseas or aging sources while generating operational data to support future commercial reactors.",
-    "subreddit": "StockMarket",
-    "created_utc": 1782901307,
-    "thumbnail": "https://preview.redd.it/4wghlycyglah1.jpeg?width=140&height=70&auto=webp&s=8c1cd577b02e380ba33b37561d99784f2d9a5381",
-    "top_comments": [
-      {
-        "body": "Getting DSA approval on private land and targeting July 2026 for first criticality, the medical isotope angle makes this a big win for OKLO",
-        "score": 5,
-        "author": "Sweet_Dream_5987"
-      },
-      {
-        "body": "I think this is a good tailwind for HALEU producers and uranium miners, $LEU is the big player I’m eyeing right now, but $UUUU and $USAR are also not bad, but valuation is a point of concern for me personally.",
-        "score": 3,
-        "author": "Optimal_Image5192"
-      },
-      {
-        "body": "This is definitely a positive milestone for OKLO. DOE approval of the safety analysis reduces regulatory risk and moves the Groves isotope reactor closer to operation. But I wouldn’t treat it as a full commercialization event yet. The real catalysts are still fuel loading, first criticality, and proving that Aurora can scale commercially.",
-        "score": 2,
-        "author": "Helen_Boysenberry"
-      }
-    ],
-    "summary_he": "חברת Oklo קיבלה את אישור הבטיחות הסופי (DSA) ממשרד האנרגיה האמריקאי עבור כור הניסוי \"Groves\" בטקסס, מה שמאפשר לה להתקדם לשלבי ההפעלה לקראת יולי 2026. הפרויקט ישמש כפיילוט לייצור איזוטופים לצרכים רפואיים ותעשייתיים על קרקע פרטית, ויספק נתונים תפעוליים לתמיכה בכורים מסחריים עתידיים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג 6 נקודות מבט וסנטימנטים מרכזיים בקהילה:\n\n*   **אבן דרך רגולטורית משמעותית:** אישור ה-DSA (ניתוח בטיחות מתועד) על ידי משרד האנרגיה האמריקאי (DOE) נתפס כצעד קריטי המפחית את הסיכון הרגולטורי עבור חברת OKLO ומקרב את הכור שלה להפעלה.\n*   **הזווית הרפואית כיתרון אסטרטגי:** המגיבים רואים בייצור איזוטופים רפואיים \"ניצחון גדול\" עבור OKLO, מה שמעניק לחברה ערך מוסף מעבר לאספקת אנרגיה בלבד.\n*   **לוחות זמנים ויעדים:** בקהילה מציינים את יולי 2026 כיעד המטרה להשגת \"קריטיות ראשונה\" (First Criticality) – הרגע שבו הכור יתחיל לייצר תגובה גרעינית בשרשרת.\n*   **השפעה רוחבית על שוק האורניום:** ההתפתחות נתפסת כ\"רוח גבית\" חיובית למגזר כולו, בדגש על יצרניות דלק גרעיני מסוג HALEU וכורי אורניום. מניות ספציפיות שהוזכרו כנהנות מהמגמה הן $LEU (Centrus), $UUUU ו-$USAR.\n*   **חשש מהערכות שווי:** למרות האופטימיות מההתקדמות הטכנולוגית, קיים סנטימנט של זהירות בנוגע להערכות השווי (Valuation) של החברות הללו בשוק המניות כרגע.\n*   **המתנה להוכחה מסחרית:** חלק מהמשתמשים מדגישים כי לא מדובר עדיין באירוע של מסחור מלא. המבחן האמיתי של החברה יהיה בשלבים הבאים: טעינת הדלק, הוכחת היכולת להפעיל את כור ה-\"Aurora\" והצגת יכולת גידול (Scalability) בקנה מידה מסחרי."
-  },
-  {
-    "id": "1ukip5e",
-    "title": "DOE Approves Final Safety Analysis for Oklo's Groves Reactor, Advancing the Project Toward Operational Authorization",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1ukip5e/doe_approves_final_safety_analysis_for_oklos/",
-    "author": "C130J_Darkstar",
-    "score": 47,
-    "selftext": "Oklo announced that the U.S. Department of Energy (DOE) has approved the Documented Safety Analysis (DSA) for Oklo Isotopes’ Groves Isotope Test Reactor in Texas under DOE’s Reactor Pilot Program (RPP).\n\nThe DSA is the facility’s final safety basis grounded on a detailed technical analysis of potential hazards, safety controls, and operating requirements needed to support safe startup. The DSA approval follows DOE’s approval of the Preliminary Documented Safety Analysis (PDSA), which established the facility’s preliminary safety basis during design and construction.\n\nWith both the PDSA and DSA approved, Groves moves from the documentation phase into DOE’s final pre-startup review. The remaining steps are DOE’s readiness review and startup approval. Following startup approval, the facility will be authorized to receive and load nuclear fuel, conduct startup testing, and proceed toward first criticality, the point at which a reactor achieves a controlled, self-sustaining nuclear chain reaction. Oklo is targeting first criticality for Groves in July 2026.\n\n“When the Administration issued its Executive Order calling for multiple advanced reactors to go critical outside the national laboratories, it challenged the industry to demonstrate a new way forward,” said Oklo co-founder and CEO Jacob DeWitte. “Groves is that demonstration. It is the first advanced reactor project to receive approval of its Documented Safety Analysis that is on privately owned land, with wholly commercially sourced fuel, equipment, and systems delivered by the private sector. And with full, enduring civil construction, and operations led entirely by a private-sector team under DOE oversight. This is a truly representative facility of future commercial facilities that Oklo intends to build and operate.”\n\n“With approval of both the Preliminary and Documented Safety Analyses, Groves now moves into the final phase before startup, including readiness review, fuel loading, and criticality,” DeWitte added. “Less than a year after breaking ground, Groves is advancing toward criticality and demonstrating that advanced nuclear can move from an open field to deployment on a commercial timeline and with a commercially representative facility. DOE demonstrated remarkable capabilities to review and reach this milestone for a facility of this type, and for a facility outside of a national laboratory on this timescale. As the first project of this nature to achieve this milestone under the DOE Reactor Pilot Program, Groves provides a blueprint for how the United States can accelerate advanced reactor deployment while maintaining a rigorous, practical safety process.”\n\nGroves supports the development of Oklo’s isotope business and helps establish a stronger domestic supply chain for critical isotopes used in cancer diagnosis and treatment, advanced manufacturing, scientific research, space exploration, and national security applications. Many important isotopes are currently sourced from overseas suppliers or produced in aging facilities, creating supply risks for U.S. hospitals, industry, researchers, and government users.\n\nBy starting with a pilot facility, Oklo’s isotopes business has developed operating procedures, evaluated reactor system performance, will validate production processes, and build dependable domestic isotope production at commercial scale in the US.",
-    "subreddit": "StockMarket",
-    "created_utc": 1782904424,
-    "thumbnail": "https://external-preview.redd.it/xc8JB8ZD3pg5kyTU_BAQUIPxAYEw6x2mRe1RU9DAx3w.jpeg?width=140&height=78&auto=webp&s=a1d5c8e10899e10692bd8e613ad6ef474c4bffd8",
-    "top_comments": [
-      {
-        "body": "He’s a redditor. He’s probably surgically welded to his swivel chair, incapacitated by his own obesity. It’s a wonder he was able to type those words through the cheetoh dusted fingers. ",
-        "score": 3,
-        "author": "BearyChristmas223"
-      },
-      {
-        "body": "The DOE’s DSA is essentially like an NRC COLA, it means that they are approved for operation, which is a pretty big deal!\n\nWhat’s your background? Interested to hear your take.",
-        "score": 2,
-        "author": "C130J_Darkstar"
-      },
-      {
-        "body": "final safety analysis sounds way more intense than it probably is",
-        "score": 0,
-        "author": "SeziRS"
-      }
-    ],
-    "summary_he": "משרד האנרגיה האמריקאי (DOE) אישר את ניתוח הבטיחות הסופי (DSA) עבור כור הניסוי Groves של חברת Oklo, צעד המאפשר את המעבר לשלבי הבדיקה האחרונים לקראת הפעלה. הכור, שצפוי להתחיל לפעול ביולי 2026, ישמש לייצור איזוטופים קריטיים לרפואה ולתעשייה ומהווה מודל ראשון מסוגו להקמת כורים גרעיניים מתקדמים במגזר הפרטי בלוחות זמנים מסחריים.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט ורגשות קהילתיים שונים:\n\n*   **שימוש בסטריאוטיפים כלפי משתמשי האתר:** קיימת נימה צינית ולעגנית כלפי דמות ה\"רדיטור\" הטיפוסית, המתוארת כמי שמרותקת לכיסא המחשב, סובלת מעודף משקל ומתקיימת מחטיפים (אצבעות מכוסות באבקת צ'יטוס).\n*   **הכרה בחשיבות של אישורים רגולטוריים:** אישור ה-DSA (ניתוח בטיחות מתועד) של משרד האנרגיה האמריקאי (DOE) נתפס כצעד משמעותי ביותר, המקביל לאישור הפעלה של ה-NRC (הוועדה לרגולציה גרעינית).\n*   **פער בין טרמינולוגיה למציאות:** הבעת דעה כי השם \"ניתוח בטיחות סופי\" (final safety analysis) נשמע הרבה יותר דרמטי ואינטנסיבי מכפי שהתהליך עשוי להיות בפועל.\n*   **חשיבות הרקע המקצועי:** בקהילה קיימת הערכה לידע מקצועי, שבאה לידי ביטוי בפנייה ישירה למגיבים אחרים כדי לברר את הרקע והניסיון שלהם בתחום הנדון.\n*   **מתן תוקף להישגים תפעוליים:** התגובות מדגישות כי קבלת אישור הפעלה היא \"עניין גדול מאוד\" (Big Deal) בתחום האנרגיה/גרעין, מה שמעיד על הבנה של מורכבות הפרויקט.\n*   **ספקנות והטלת ספק:** שילוב בין זלזול אישי בכותב (בשל היותו חלק מרשת חברתית מסוימת) לבין ניתוח טכני קר, מה שמראה על קהילה המורכבת הן מאנשי מקצוע והן ממגיבים ציניים."
-  },
-  {
-    "id": "1ukksv1",
-    "title": "The Fed's dot plot flipped hawkish in June and stocks barely blinked. Am I wrong to find that weird?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1ukksv1/the_feds_dot_plot_flipped_hawkish_in_june_and/",
-    "author": "Scouty519",
-    "score": 22,
-    "selftext": "9 of 19 FOMC members now see at least one more hike by year end, up from a majority penciling in cuts just a couple meetings ago. rates have been sitting at 3.5 to 3.75% since June and the market's reaction has basically been a shrug. either everyone thinks Warsh caves before the September meeting, or nobody trusts the dots anymore after two years of them being wrong in both directions. tomorrow's jobs number feels like a decent first test of which one it is. what would actually change your mind here, a bad print, a good one, or is this priced in regardless of what comes out tomorrow?",
-    "subreddit": "StockMarket",
-    "created_utc": 1782910223,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Oil back under $70. Give it 2 inflation reports and nobody will be talking about rate hikes anymore",
-        "score": 23,
-        "author": "manofjacks"
-      },
-      {
-        "body": "Theyr gonna hold longer than normal because the inflation is directly oil and energy based on oil prices elevated and it's coming down, we haven't seen a a month of data yet with 70-80 $ oil yet, the last data was may which had nearly 100$ oil. They need to see that to see if the >4% persists.",
-        "score": 6,
-        "author": "SavageBlackduck"
-      },
-      {
-        "body": "Strong earnings can cushion slightly higher rates.",
-        "score": 5,
-        "author": "Plane-Try-6522"
-      }
-    ],
-    "summary_he": "הכותב תוהה מדוע שוק המניות כמעט ולא הגיב ל\"תרשים הנקודות\" הניצי של הפד מחודש יוני, המצביע כעת על צפי להעלאות ריבית נוספות. הוא מעלה את האפשרות שהמשקיעים פשוט הפסיקו להאמין לתחזיות הפד, ומציין כי דוח התעסוקה הקרוב יהווה מבחן ראשון לשאלה האם הריביות הגבוהות כבר מגולמות במחירי המניות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות בשרשור, המציג 6 נקודות מבט ודעות שונות שעלו בקהילה:\n\n*   **השפעת ירידת מחירי הנפט על הריבית:** קיימת סברה כי חזרת מחיר הנפט אל מתחת ל-70 דולר לחבית תוביל להפסקת השיח על העלאות ריבית נוספות תוך זמן קצר (כשני דוחות אינפלציה קרובים).\n*   **המתנה לנתונים מעודכנים:** נטען כי הנתונים הכלכליים הנוכחיים עדיין מוטים כלפי מעלה מכיוון שהם משקפים מחירי נפט גבוהים מהעבר (כ-100 דולר), ונדרש לפחות חודש מלא של נתונים המשקפים נפט בטווח של 70–80 דולר כדי להבין את המגמה האמיתית.\n*   **צפי להותרת ריבית גבוהה לאורך זמן:** בניגוד לאופטימיות לגבי הפסקת ההעלאות, יש המעריכים כי המוסדות הפיננסיים ישאירו את הריבית ברמתה הנוכחית לזמן ממושך מהרגיל כדי לוודא שהאינפלציה אכן יורדת באופן עקבי.\n*   **הקשר הישיר בין אנרגיה לאינפלציה:** הדיון מדגיש כי האינפלציה הנוכחית מונעת במידה רבה ממחירי האנרגיה והנפט; לכן, כל עוד מחירי הנפט נותרים נמוכים, הלחץ האינפלציוני צפוי להתפוגג.\n*   **בחינת רף ה-4%:** קיימת דעה כי המבחן האמיתי יהיה לראות האם האינפלציה תיוותר מעל רף ה-4% גם לאחר שמחירי האנרגיה ירדו, מה שיעיד על אינפלציה \"דביקה\" שאינה תלויה רק בנפט.\n*   **חוסן החברות כגורם ממתן:** הועלתה הטענה כי רווחי חברות חזקים יכולים לספק \"כרית ביטחון\" לשוק, ובכך לאפשר לכלכלה להתמודד עם ריבית גבוהה מבלי להיכנס למשבר עמוק."
-  },
-  {
-    "id": "1ukxkd8",
-    "title": "DIS $95 when May 5 earnings had it jump from $100 to $105?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1ukxkd8/dis_95_when_may_5_earnings_had_it_jump_from_100/",
-    "author": "lies_are_comforting",
-    "score": 18,
-    "selftext": "$DIS was $100 the day before earnings on May 5 and earning were great and made it pop like 5-8 % to $110 ish and throughout May it kinda consolidated  around $105 but why all of a sudden is it $95?\n\nShouldn’t it at least be the same price as prior to earnings ie $100? Like, why lower considering the great earnings report?\n\nToday was the record date ie day after ex div so it makes sense it dropped a little today maybe in a frictionless market but a bunch of peers were up by high percentage digits and it also doesn’t explain why the stock is down about 5 % in the past week. \n\nI realize I’m very short term minded. Still, DIS has only traded for sub $100 very briefly on two occasions in the past 365 days… and considering the earnings report on May 5 was pretty great I feel like maybe now is a good time to buy? ",
-    "subreddit": "StockMarket",
-    "created_utc": 1782938781,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Nobody likes the new pirate animatronic  on the Disneyland ride?",
-        "score": 10,
-        "author": "landubious"
-      },
-      {
-        "body": "All this stock does it bounce from 95 to 110, you're good, sell it in a week.",
-        "score": 5,
-        "author": "need_five_more_chara"
-      },
-      {
-        "body": "I bought this probably 5 years ago and it’s been shit the whole time. To be honest I had no idea what I was doing, no idea why I even bought this. I fucking HATE Disney to begin with. Sold it a few months back. I don’t see the future growth with this company",
-        "score": 4,
-        "author": "DegreeConscious9628"
-      }
-    ],
-    "summary_he": "הכותב תוהה מדוע מניית דיסני ($DIS) ירדה למחיר של 95 דולר, למרות דוחות רבעוניים חיוביים במאי שהקפיצו את מחירה בתחילה. הוא מציין כי המניה נסחרת כעת מתחת למחירה טרם הדיווח ושוקל האם מדובר בהזדמנות קנייה, נוכח העובדה שהיא כמעט ולא נסחרה מתחת לרף ה-100 דולר בשנה האחרונה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **ביקורת על חוויית הפארקים:** קיימת אי-שביעות רצון מהשינויים הפיזיים במתקני דיסנילנד, ובפרט מהאנימטרוניקה (הבובות הממוכנות) החדשה במיצג ה\"פיראטים\", שנתפסת כפחות מוצלחת בקרב המבקרים.\n*   **דפוס מסחר תנודתי:** אחד המשתמשים מציין כי המניה תקועה בטווח מחירים קבוע (בין 95 ל-110 דולר), מה שמעיד על חוסר מומנטום משמעותי כלפי מעלה או מטה.\n*   **אסטרטגיית מסחר לטווח קצר:** קיימת המלצה לנצל את התנודתיות של המניה למטרות \"סיבוב\" מהיר – רכישה בטווח הנמוך ומכירה תוך שבוע בערך, במקום השקעה לטווח ארוך.\n*   **חרטת משקיעים לטווח ארוך:** משקיעים שהחזיקו במניה במשך תקופה ממושכת (כ-5 שנים) מביעים אכזבה עמוקה וטוענים כי הביצועים היו גרועים (\"shit\") לאורך כל התקופה.\n*   **סלידה אישית מהמותג:** עולה סנטימנט שלילי חריף כלפי חברת דיסני כיישות (\"שונא את דיסני\"), דבר שמוביל חלק מהמשקיעים למכור את החזקותיהם לא רק מסיבות כלכליות, אלא גם מתוך חוסר חיבור ערכי למותג.\n*   **פסימיות לגבי עתיד החברה:** קיימת ספקנות רבה בנוגע ליכולת הצמיחה העתידית של דיסני; משקיעים מסוימים מציינים שהם אינם רואים אופק חיובי או פוטנציאל התרחבות שיוביל לעליית ערך המניה בעתיד."
-  },
-  {
-    "id": "1ukx7oa",
-    "title": "77 Year Old Mother - What is the right investment?",
-    "url": "https://www.reddit.com/r/investing/comments/1ukx7oa/77_year_old_mother_what_is_the_right_investment/",
-    "author": "CornTortillaHater67",
-    "score": 1,
-    "selftext": "My mom has a significant amount of money in just cash.\n\n\\\\-$103K in an IRA in FZBXX.    \n\\\\-Nearly $86K in checking accounts.\n\nShe has social security and a small pension.  She doesn’t need any additional income to cover her needs.\n\nI have advised her to open a joint brokerage so we can drag that cash into it and invest it in something better than a checking account.  I’ve recommended very simple investments so she doesn’t have to do any rebalancing.  She has no appetite for risk.  None.  Will not consider losing anything to the stock market.\n\n\\\\-all $103K into VWINX in the IRA.    \n\\\\-all $75K lump sum into VTMFX.\n\nGiven her low risk tolerance, and that she lacks the savvy to rebalance anything on her own, does this seem like a good setup?  \n\nAlso, does anyone see any benefit to opening a Roth IRA at her age and doing Roth conversions?  Thank you.",
-    "subreddit": "investing",
-    "created_utc": 1782937995,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "100% no. He’s trying to get more inheritance. ",
-        "score": 23,
-        "author": "Critical-Werewolf-53"
-      },
-      {
-        "body": "It'll be safest there for the rest of the year too. End of year post midterm rally may see a bump but Trumps last year should be garbage. Cash is liquid, being tied up in investments isn't, and she'll have to deal with taxes if she's sells or needs guidance how to donate stocks to you or a non profit organization to avoid taxes. ",
-        "score": 15,
-        "author": "MirthandMystery"
-      },
-      {
-        "body": "Looks like you are trying to set yourself up. ",
-        "score": 13,
-        "author": "Bart_X91"
-      }
-    ],
-    "summary_he": "הכותב מבקש ייעוץ עבור אמו בת ה-77, המחזיקה בכ-190 אלף דולר במזומן ובעלת סלידה מוחלטת מסיכונים, למרות שהכנסותיה הקבועות מכסות את כל צרכיה. הוא מציע להעביר את הכספים לקרנות השקעה שמרניות ומאוזנות שאינן דורשות ניהול פעיל, ושואל האם זהו תמהיל נכון עבורה. בנוסף, הוא מתייעץ לגבי הכדאיות של ביצוע המרות ל-Roth IRA בהתחשב בגילה המתקדם.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט, דעות ותחושות קהילתיות שעלו מתוך התגובות:\n\n*   **חשד למניעים אישיים:** קיימת סברה חזקה בקרב המגיבים שהכותב (OP) פועל מתוך אינטרס אישי וניסיון להגדיל את חלקו בירושה העתידית, ולאו דווקא לטובת בעלת הנכסים.\n*   **העדפת נזילות על פני השקעה:** המגיבים מדגישים את היתרון שבמזומן כנכס נזיל, לעומת השקעות שבהן הכסף \"כבול\" וקשה יותר למימוש מיידי בעת הצורך.\n*   **חשש מהשלכות מס:** הועלתה נקודה משמעותית לגבי חבות המס שעלולה להיווצר בעת מכירת מניות; המגיבים מזהירים כי מימוש השקעות יגרור תשלומים לרשויות המס שיפגעו בערך הכולל.\n*   **תחזית שוק פוליטית-כלכלית:** ישנו ניתוח של השוק המושפע מהמצב הפוליטי, כולל ציפייה לעלייה זמנית לאחר בחירות האמצע, אך פסימיות לגבי יציבות השוק בסוף תקופת כהונתו של טראמפ (בהתאם להקשר הזמן של התגובה).\n*   **תכנון מס אלטרנטיבי:** הוצעה האפשרות לבחון תרומת מניות (לכותב או לארגונים ללא מטרת רווח) כאסטרטגיה להימנעות ממס, במקום מכירה ישירה של הנכסים.\n*   **התנגדות לשינוי המצב הקיים:** הקונצנזוס בתגובות נוטה לכך שהכי בטוח להשאיר את המצב כפי שהוא כרגע, במיוחד לאור חוסר הוודאות הכלכלי והחשש מסיכונים מיותרים.",
-    "dateString": "2026-07-02",
-    "savedAt": {
-      "_seconds": 1782968707,
-      "_nanoseconds": 200000000
-    }
-  },
-  {
-    "id": "1ukjoe6",
-    "title": "Investing and Trading Scam Reminder",
-    "url": "https://www.reddit.com/r/investing/comments/1ukjoe6/investing_and_trading_scam_reminder/",
-    "author": "AutoModerator",
-    "score": 15,
-    "selftext": "For those new to Reddit and to investing and trading - please be aware that social media platform like Reddit, Discord, etc. can be a vector for scams and fraud. This includes review sites such as Trustpilot and similar reputation sites. \n\nOffers to DM should be viewed as suspicious. \n\nSocial media platforms continue to be a common method to recruit new investors to scams. - do not assume that an offer to \"help\" is legitimate.\n\nThere are many dozens of types of scams - a list of scam types can be found in r/scams in the master list here: [/r/Scams Common Scam Master](https://www.reddit.com/r/Scams/comments/jij96c/rscams_common_scam_master_post/)\n\n1. Good explanation of pig-buthering here - [Pig butchering - how to spot](https://dfpi.ca.gov/news/insights/pig-butchering-how-to-spot-and-report-the-scam/)\n2. Legitimate investment advisors do not use WhatApp, Telegram, Discord, etc. to provide tips. In the US - it is against regulation - specifically SEC Rule 17a-4 and FINRA Rule 3110. For example - brokers in the US that use social media for support do not offer investment advice. \n3. It is common for bots and malicious actors on Discord to impersonate Reddit and Discord mods to distribute their scams. It is possible to create a Discord profile which appears similar to someone else.\n4. Pump and dump of stocks are common on social media - bots or stock promoters who are seeking to profit from pumping a stock or to create hype. You can sometimes identify if it's a bot or promoter simply by looking at the posters comment and post history. Often you will see that the account has posted nothing related to investing or trading but suddenly there is the same or varying versions of comments on one or two specific stocks.\n5. One other way to recognize suspicious posts is if the OP never engages in a discussion on comments and questions in the thread on their own dd. Those are all signs of stock promotion.\n6. Offers to mirror trade and teach you how to trade are usually fake. If you receive private solicitations to open accounts at a broker or investment adviser, be wary.\n\nDepending on where you live -  you can verify the legitimacy of a broker or investment adviser. Most countries have legal requirements for investment advisors and brokers to be registered. \n\nUnited States - check the registration status of a broker at the FINRA web site here - [https://brokercheck.finra.org/](https://brokercheck.finra.org/) You can check disclosures for investment advisers at the SEC IAPD web site here - [https://adviserinfo.sec.gov/](https://adviserinfo.sec.gov/)\n\nUnited Kingdom - Financial Conduct Authority - [https://www.fca.org.uk/consumers/fca-firm-checker](https://www.fca.org.uk/consumers/fca-firm-checker) \\- a warning list of fake companies can be found here - [https://www.fca.org.uk/consumers/warning-list-unauthorised-firms](https://www.fca.org.uk/consumers/warning-list-unauthorised-firms)\n\nCanada - CIRO - [https://www.ciro.ca/office-investor/dealers-we-regulate](https://www.ciro.ca/office-investor/dealers-we-regulate)  \n\nFor those interested in understanding a little more about stock promoting and pump-and-dumps - one of the mods provided an AMA 15 years ago about a penny stock pump operation that he unwittingly became associated with - you can find the AMA here - [https://www.reddit.com/r/investing/comments/158vi7/i\\_used\\_to\\_be\\_a\\_penny\\_stock\\_promoter\\_in\\_the\\_late/](https://www.reddit.com/r/investing/comments/158vi7/i_used_to_be_a_penny_stock_promoter_in_the_late/)\n\nDo not rely on reputation sites. The vast majority of reputation sites are not reliable and are commonly used by scammers and malicious actors to either prop or smear a company. It is common for scammers to post fake positive reviews on sites like Trustpilot. And it's equally common for fake negative reviews to smear a competitor or conduct reputation extortion. \n\nIf you believe that you or someone has been the victim of a trading or investing scam. Be aware of the following:\n\n1. Do not send more money. Do not provide additional banking or credit card information. \n2. It is common to be contacted by additional scammers who may pretend to be law enforcement or private services to offer to \"recover\" funds for payment. This is a common follow-up scam. Law enforcement will never ask for money. \n3. If a login account was created. The password used is compromised. Change all passwords that are used. The password will be shared and sold to other scammers.  \n4. If payment was sent via a credit card or bank transfer - report the transfers as fraud to your bank or credit card company.",
-    "subreddit": "investing",
-    "created_utc": 1782907290,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "This is why I just invest in indicies, themselves. They never go down and they are too large to be impacted",
-        "score": 0,
-        "author": "unscammabled"
-      }
-    ],
-    "summary_he": "הנה סיכום של הפוסט:\n\nהפוסט מזהיר משקיעים חדשים מפני הונאות מסחר נפוצות ברשתות חברתיות, ומפרט סימני אזהרה כמו הצעות עזרה בהודעות פרטיות, שימוש באפליקציות מסרים (וואטסאפ או טלגרם) לייעוץ והרצת מניות (Pump and Dump). המדריך מדגיש שיש לאמת ברוקרים רק דרך גופים רגולטוריים רשמיים ולא להסתמך על אתרי ביקורות, ובמקרה של פגיעה – יש להפסיק מיידית את העברת הכספים ולהיזהר מהונאות המשך המתחזות לשירותי \"השבת כספים\".",
-    "category_he": "השקעות",
-    "comments_summary_he": "מכיוון שסיפקת תגובה אחת בלבד, הניתוח להלן מפרק את הטיעונים והסנטימנטים העולים ממנה וממה שהיא מייצגת בקהילת המשקיעים ל-6 נקודות שונות:\n\n*   **העדפה מובהקת להשקעה פסיבית:** התגובה משקפת גישה של השקעה במדדים רחבים (Indicies) כתחליף לבחירת מניות פרטניות, מתוך אמונה שזו הדרך היעילה ביותר לפעול בשוק.\n*   **ביטחון בצמיחה ארוכת טווח:** הדובר מבטא סנטימנט לפיו המדדים \"לעולם לא יורדים\". למרות שזהו דימוי היפרבולי, הוא משקף אמונה חזקה בכך שהשוק תמיד מתקן את עצמו ועולה בטווח הארוך.\n*   **חסינות בזכות גודל (Too Big to Fail):** עולה התפיסה כי המדדים המרכזיים גדולים ומגוונים כל כך, עד שהם הופכים לחסינים בפני זעזועים נקודתיים שעלולים להפיל חברות בודדות או סקטורים ספציפיים.\n*   **צמצום ניהול סיכונים אקטיבי:** הדובר מציע כי השקעה במדד עצמו מייתרת את הצורך במעקב צמוד ובניתוח מורכב של סיכונים, שכן המדד \"סופג\" את התנודתיות של המניות שבתוכו.\n*   **סנטימנט של \"שקט נפשי\":** מהתגובה עולה כי השקעה במדדים נתפסת כפתרון למניעת חרדה מהפסדים (התייחסות ל-\"This is why...\"), כסוג של הגנה פסיכולוגית על המשקיע.\n*   **אמון ביציבות המבנית של השוק:** הנקודה האחרונה היא האמונה שהמדד, כייצוג של הכלכלה כולה, יציב יותר מכל מרכיב בודד שלו, ולכן הוא מהווה את \"חוף מבטחים\" האולטימטיבי למשקיע."
-  },
-  {
-    "id": "1ukt2vf",
-    "title": "BCG: Hong Kong Overtakes Switzerland as the World’s Top Cross-Border Wealth Booking Center",
-    "url": "https://www.reddit.com/r/finance/comments/1ukt2vf/bcg_hong_kong_overtakes_switzerland_as_the_worlds/",
-    "author": "Status_Commission264",
-    "score": 1,
-    "selftext": "[https://www.bcg.com/publications/2026/global-wealth-growth-in-an-era-of-reordering](https://www.bcg.com/publications/2026/global-wealth-growth-in-an-era-of-reordering)",
-    "subreddit": "finance",
-    "created_utc": 1782928951,
-    "thumbnail": "https://preview.redd.it/adjowb44rnah1.jpeg?width=140&height=98&auto=webp&s=cf98067e459b09e475300cefde2d4f04d3de7f26",
-    "top_comments": [
-      {
-        "body": "Please stop with the “cross-border” terminology to describe HK. That city is part of China. There are indeed outflow controls, but geographically and politically, that term is no longer accurate. ",
-        "score": 1,
-        "author": "iarahm"
-      }
-    ],
-    "summary_he": "לפי דוח של חברת הייעוץ BCG, הונג קונג עקפה את שווייץ והפכה למרכז הגדול בעולם לניהול עושר חוצה-גבולות (Cross-border wealth). המהפך משקף את הסטת ההון הגלובלי לעבר אסיה ומסיים עשורים של דומיננטיות שווייצרית בתחום הפיננסים הבינלאומי.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום של נקודות המבט והלך הרוח העולים מהדיון (בהתבסס על התגובה שסופקה):\n\n* **התנגדות לטרמינולוגיה מסורתית:** עולה דרישה ברורה להפסיק להשתמש במושג \"חוצה גבולות\" (cross-border) בכל הנוגע למעבר בין הונג קונג לסין היבשתית, בטענה שזהו מונח מטעה.\n* **הדגשת הריבונות הפוליטית:** קיימת עמדה נחרצת לפיה הונג קונג היא חלק בלתי נפרד מסין, ולכן כל התייחסות אליה כישות נפרדת מבחינה מדינית אינה רלוונטית עוד.\n* **הבחנה בין בקרות טכניות לסטטוס מדיני:** המגיב מכיר בכך שקיימות בקרות על יציאת הון או סחורות (outflow controls), אך טוען שקיומן של הגבלות אלו אינו מצדיק הגדרה של האזור כ\"גבול\" בין מדינות.\n* **דיוק גיאוגרפי:** מובעת דעה כי מבחינה גיאוגרפית, השימוש במושג \"גבול\" אינו נכון עובדתית במציאות הנוכחית של העיר.\n* **שינוי המציאות לאורך זמן:** ניכרת התייחסות לכך שהסטטוס של הונג קונג השתנה (\"כבר אינו מדויק\"), מה שמרמז על כך שמושגים שהיו מקובלים בעבר אינם תקפים עוד בנסיבות הפוליטיות של ימינו.\n* **דרישה לעדכון השפה בקהילה:** קיים סנטימנט של תיקון (Correction), השואף לגרום למשתתפים אחרים בשיח להתאים את שפתם למציאות הפוליטית החדשה, תוך ביקורת על שימוש במונחים שנתפסים כמיושנים או כשגויים פוליטית.",
-    "dateString": "2026-07-02",
-    "savedAt": {
-      "_seconds": 1782984425,
-      "_nanoseconds": 413000000
-    }
-  },
-  {
-    "id": "1ukhxc2",
-    "title": "Stronger flows into July after the JPM collar roll",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1ukhxc2/stronger_flows_into_july_after_the_jpm_collar_roll/",
-    "author": "Smart_Money_HQ",
-    "score": 8,
-    "selftext": "I remain optimistic about market performance over the next two weeks as the new allocation cycle begins. Target-date funds, passive strategies, mutual fund inflows, and systematic allocations are all expected to provide supportive demand during this period.\n\nSince 1928, the S&P 500 has advanced 69% of the time during the first half of July, producing an average return of 1.5% and an average rally of 3.2% in positive periods.\n\nhttps://preview.redd.it/941gurnbilah1.png?width=2880&format=png&auto=webp&s=72ded2aba0b9732102bc1bf5ae47194f7dde062b\n\nJuly is also the second-most active month of the year for retail investors \n\nhttps://preview.redd.it/ozp2vgrcilah1.png?width=1672&format=png&auto=webp&s=8f8b1b7af7a96963c3af7708f4068c971dc8ad46\n\nYear to date, U.S. corporates have authorized more than $925 billion in share repurchases whichs the strongest pace ever recorded through this point in the year.\n\nTechnology and Financials account for about 57% of all announced buybacks in 2026, reinforcing demand in many of the same sectors already benefiting from strong retail participation and passive flows.\n\nhttps://preview.redd.it/ktswcmtfilah1.png?width=1372&format=png&auto=webp&s=9dbd11b8b05de0fbc706f2cfd1bbe9bdb46281c1\n\nNow, on to SPY. The thesis heading into yesterday was that the JPM collar on the S&P 500 would force market makers to hedge, creating supportive flows and pushing the index higher. \n\nThis is exactly what we saw, as the market briefly touched the main resistance level at $750.\n\nThe volatility regime is close to turning positive, which remains supportive of price action. However, the market will need to hold above $745.\n\nhttps://preview.redd.it/7alg0fvgilah1.png?width=733&format=png&auto=webp&s=f5843be1103bc0714ef4f7cdf10da8fa3ef81aea\n\nAnother interesting index to watch is COR1M, or the CBOE 1-Month Implied Correlation Index. It measures how much investors expect stocks within the S&P 500 to move in the same direction over the next month.\n\nhttps://preview.redd.it/kvso3gojilah1.png?width=835&format=png&auto=webp&s=bb55f08f6e2b74a945f25b4d09f30000640264e0\n\nIt is currently trading at 5.8. A low reading like this suggests that investors remain very calm and do not expect a sudden, broad-based decline across the equity market.",
-    "subreddit": "StockMarket",
-    "created_utc": 1782901953,
-    "thumbnail": "https://preview.redd.it/941gurnbilah1.png?width=140&height=76&auto=webp&s=c1a1dba5aaaed5f9e671db069976f6331c83676b",
-    "top_comments": [
-      {
-        "body": "charts look clean, riding the passive flow wave into mid-July has been a pretty consistent play",
-        "score": 3,
-        "author": "Dry_Fuel_9855"
-      },
-      {
-        "body": "Yeah, if SPY clears $750 it should be smooth sailing. Option flows are also supportive of this",
-        "score": 2,
-        "author": "Smart_Money_HQ"
-      }
-    ],
-    "summary_he": "הכותב מביע אופטימיות לגבי שוק המניות בתחילת יולי, תוך הסתמכות על נתונים היסטוריים חיוביים, זרימת כספים עונתית ורכישות חוזרות של מניות (Buybacks) בהיקפי שיא. בנוסף, מדדי תנודתיות נמוכים ופעילות ערה של משקיעים קמעונאיים מצביעים על רוגע בשוק וצפי להמשך עליות, כל עוד המדד ישמור על רמות תמיכה טכניות מרכזיות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים שונים שעלו:\n\n*   **אופטימיות מבחינה טכנית:** הקהילה מציינת שהגרפים נראים \"נקיים\" (Clean charts), מה שמעיד על כך שהמגמה הנוכחית ברורה ואינה נתקלת בהתנגדויות טכניות מורכבות בשלב זה.\n*   **הסתמכות על תזרים פסיבי:** קיים דגש על עוצמת ה\"תזרים הפסיבי\" (Passive flow) – כספים שנכנסים לשוק באופן אוטומטי דרך קרנות מדדיות, דבר הנתפס ככוח מניע מרכזי לעליות.\n*   **עונתיות ויעדים בזמן:** המשתמשים מזהים דפוס עקבי של עליות שנמשך לתוך אמצע חודש יולי, ורואים בכך חלון זמן אסטרטגי לביצוע מהלכים.\n*   **רמת התנגדות קריטית ב-SPY:** סומן יעד מחיר ספציפי – פריצה של רמת ה-750 דולר במדד ה-SPY נחשבת לנקודת המפנה שתאפשר \"שיט חלק\" לעבר שיאים חדשים.\n*   **תמיכה משוק האופציות:** מעבר לניתוח הגרפים, מצוין כי גם נתוני הזרימה בשוק האופציות (Option flows) תומכים בתרחיש השורי ומחזקים את הסבירות להמשך המגמה החיובית.\n*   **ביטחון באסטרטגיה קיימת:** הדיון משקף סנטימנט של עקביות; המשתמשים רואים ברכיבה על גל העליות הנוכחי \"מהלך עקבי\" (Consistent play), מה שמעיד על ביטחון גבוה באסטרטגיית המומנטום הנוכחית."
-  },
-  {
-    "id": "1ukkf85",
-    "title": "Why is Auckland international airport stock on Robhinhood so much more expensive than the price listed for it on other brokerages/websites?",
-    "url": "https://www.reddit.com/r/investing/comments/1ukkf85/why_is_auckland_international_airport_stock_on/",
-    "author": "Rickispanish119",
-    "score": 5,
-    "selftext": "Auckland international airport stock is suppose to be around $8 dollars and some change\n\n[https://finance.yahoo.com/quote/AIA.NZ/](https://finance.yahoo.com/quote/AIA.NZ/)\n\nother websites besides yahoo also has it around $8.35 too today as I post this.\n\non Robinhood, it’s $24 dollars a share right now.\n\nWhy is it much more expensive on Robinhood compared to other website?",
-    "subreddit": "investing",
-    "created_utc": 1782909255,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Because it's the New-York listed ADR (https://finance.yahoo.com/quote/AUKNY/) and not the New Zealand listed company you linked?",
-        "score": 20,
-        "author": "90403scompany"
-      },
-      {
-        "body": "because you’re comparing two different tickers..",
+        "body": "Could you share some of the fundamentals that led Open Text and Ring Central to be good value? ",
         "score": 9,
-        "author": "someroastedbeef"
+        "author": "wallsallbrassbuttons"
       },
       {
-        "body": "That makes sense. Thank you for correcting me. ",
-        "score": 2,
-        "author": "Rickispanish119"
+        "body": "Thanks for your comment anyways, at least I know I tried. All the best!",
+        "score": 8,
+        "author": "ichbinschomi"
+      },
+      {
+        "body": "Sure, breaking it down. Our Value Rank is a mix of price/sales, price/earnings, price/book and dividend yield, each compared against sector and economic region/country peers.\n\nBoth score well across nearly all four, no single metric is doing the work. RingCentral: strong on P/B, P/E, dividend yield, and P/S. Open Text: same story, with an especially strong dividend yield and a slightly better growth profile behind it (GAAP net income up 86% last quarter, 21 straight quarters of organic cloud growth).\n\nNeither is a hypergrowth story, revenue growth is modest for both. The trade-off is exactly that: you're paying a low price for a profitable, cash-generative, already-mature business, not for future growth. Different kind of \"cheap\" than Adobe or Dassault, where the discount is more about sentiment or a slowdown than the business itself being inexpensive across the board.",
+        "score": 3,
+        "author": "ichbinschomi"
       }
     ],
-    "summary_he": "המשתמש תוהה מדוע מחיר המניה של נמל התעופה הבינלאומי באוקלנד באפליקציית רובין הוד גבוה משמעותית מהמחיר המופיע ב-Yahoo Finance ובאתרים אחרים. בעוד שברוב המקורות המחיר עומד על כ-8 דולרים, ברובין הוד הוא מוצג סביב 24 דולר, והכותב מבקש להבין את פשר הפער הזה.",
+    "summary_he": "מגזר ה-SaaS נסחר לראשונה בהיסטוריה בשווי נמוך מממוצע השוק בעקבות מכירות יתר בתחום ה-AI, מה שיוצר הזדמנויות השקעה לצד \"מלכודות ערך\". הפוסט מנתח אילו חברות באמת \"זולות\" על בסיס נתונים פונדמנטליים (כמו Salesforce ו-Intuit) לעומת חברות שנותרו יקרות למרות הירידות (כמו Snowflake ו-ServiceNow), תוך שימוש במדדי ערך, צמיחה ובטיחות פיננסית.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות, דעות ותחושות שעלו מהתגובות:\n\n*   **זיהוי שגוי של נייר הערך:** הנקודה המרכזית בדיון היא הטעות של השואל המקורי, שהשווה בין שתי חברות או נתונים שאינם תואמים מבחינה טכנית.\n*   **הבחנה בין בורסות שונות:** אחד המגיבים מבהיר כי הנתונים שהוצגו מתייחסים ל-ADR (תעודת פיקדון אמריקאית) הנסחרת בבורסת ניו יורק (סימול: AUKNY), ולא למניה הרגילה הנסחרת בבורסה של ניו זילנד.\n*   **השוואת \"טיקרים\" (סימולי מסחר):** קיימת הדגשה על כך שהבעיה נובעת מהשוואה שגויה בין שני סימולי מסחר שונים, דבר שמוביל לבלבול בנתונים הפיננסיים.\n*   **תיקון עובדתי מהיר:** הקהילה הגיבה בצורה עניינית וישירה כדי לתקן את חוסר ההבנה של השואל באמצעות הצגת קישור למקור המידע הנכון.\n*   **הודאה בטעות ופתיחות ללמידה:** השואל המקורי לא נכנס למגננה, אלא קיבל את התיקון באופן מיידי וציין שההסבר \"נשמע הגיוני\".\n*   **תרבות הדיון וסיכום הנושא:** הדיון מדגים אינטראקציה קצרה ויעילה בקהילה, שבה מידע שגוי מתוקן במהירות ומתקבל בברכה ובהודיה (הכרת תודה על התיקון)."
+    "comments_summary_he": "להלן סיכום הדיון והניתוח של התגובות מהשרשור ב-Reddit, המציג 6 נקודות מרכזיות, דעות ותובנות קהילתיות:\n\n*   **שימוש במדדים משולבים להערכת שווי:** הקהילה מדגישה כי קביעת הדירוג של מניית ערך (Value Rank) אינה נשענת על נתון בודד, אלא על שילוב של ארבעה מדדים מרכזיים: מכפיל מכירות (P/S), מכפיל רווח (P/E), מכפיל הון (P/B) ותשואת דיבידנד.\n*   **ניתוח השוואתי יחסי:** הערכת הכדאיות של המניות (במקרה זה RingCentral ו-Open Text) מתבצעת על ידי השוואה ישירה מול חברות דומות באותו מגזר עסקי ומול עמיתים באותו אזור גאוגרפי או כלכלי, ולא בואקום.\n*   **העדפת רווחיות על פני צמיחה מהירה:** קיימת הסכמה שההשקעה בחברות אלו אינה סיפור של \"צמיחת-יתר\" (Hypergrowth) אלא אסטרטגיה של רכישת עסקים בוגרים, רווחיים ומניבי מזומנים במחיר נמוך, תוך השלמה עם צמיחת הכנסות מתונה.\n*   **הייחודיות של Open Text:** המגיבים מציינים לחיוב את הפרופיל של חברת Open Text, המשלבת תשואת דיבידנד חזקה במיוחד עם צמיחה אורגנית עקבית בתחום הענן (21 רבעונים ברציפות) וזינוק מרשים ברווח הנקי לפי כללי GAAP.\n*   **הבחנה בין סוגי \"זול\":** הדיון מעלה נקודה מעניינת לגבי ההבדל בין מניות שנסחרות בנחה בגלל סנטימנט שלילי או האטה זמנית (כמו Adobe או Dassault) לבין חברות שהן פשוט \"זולות\" באופן רוחבי ביחס לביצועים העסקיים הממשיים שלהן.\n*   **חשיבות הפיזור במדדי הערך:** לגבי RingCentral, מצוין כי חוזקה נובע מכך שהיא מציגה נתונים טובים בכל ארבעת המדדים הפיננסיים בו-זמנית, מה שמעיד על חוסן יחסי וערך שאינו תלוי בנתון חריג אחד."
   },
   {
-    "id": "1um7aoz",
-    "title": "What's the Smartest Investment Strategy During Rising Global Tensions?",
-    "url": "https://www.reddit.com/r/investing/comments/1um7aoz/whats_the_smartest_investment_strategy_during/",
-    "author": "ArushiBhagtni",
-    "score": 1,
-    "selftext": "I remember talking to a friend a few days ago about how every time there's news about global tensions, the markets seem to react immediately. It made me realize how difficult it is to know what to do with investments during uncertain times.\n\nSome people say it's best to stay invested and ignore the short-term noise. Others move money into gold, bonds, or simply hold more cash until things settle down.\n\nI'm not looking for financial advice, just curious about how people actually handle situations like this. Do you stick to your long-term plan, or do you change your strategy when global uncertainty starts affecting the markets? I would love to hear what has worked for others and why.",
+    "id": "1ulqnj5",
+    "title": "Bloomberg products for a small investment firm",
+    "url": "https://www.reddit.com/r/investing/comments/1ulqnj5/bloomberg_products_for_a_small_investment_firm/",
+    "author": "Fearless_Interest889",
+    "score": 10,
+    "selftext": "I'm part of a small investment firm that has eight figures under management. I previously worked for a company where we had Bloomberg Terminal and Bpipe access. I was in touch with Bloomberg to try to get access to Terminal for this investment firm I recently started working with. Since the company just started, there's not a large public presence in terms of coworkers with LinkedIn profiles filled out, a website, etc. I had a meeting with Bloomberg and it went well, but the process later stalled out and they seemed to be very tight-lipped about why they denied us. I believe that it would help to have a more public profile about the company or information that we're willing to share, such as who the investors are, who the legal team is, etc. But it was hard to get a clear, written request of what information they need. They said in a very generic email that it wasn't the right business fit, but I'm not even super clear what the scope of that means. For example, if I'm later at a different company, does that mean that I can't use Bloomberg Terminal anymore? For grad school this fall, where my school that I am a part of provides students Bloomberg Terminal access, does that mean that I can't use the Terminal then? I'm just not really sure what the best way to proceed is.\n\n",
     "subreddit": "investing",
-    "created_utc": 1783062407,
+    "created_utc": 1783017500,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "They got pummeled after a record rise. Personally I don’t trust this market, especially given the geopolitical situation, US debt and belligerence, etc. So metals AKA real money are very much back on the menu.",
-        "score": 2,
-        "author": "gethereddout"
+        "body": "Bloomberg denied you a terminal? I don't think i've ever heard that happen,",
+        "score": 10,
+        "author": "James161324"
       },
       {
-        "body": "They are always global tensions, always.\n\nSo stay invested and stay diverse.\n\nThere’s plenty of research on this if you are interested.",
-        "score": 2,
-        "author": "Affectionate-Fix2797"
+        "body": "That makes sense. Since Bloomberg has an effective monopoly on their data, their priority are to \n\n* prevent misuse of their data\n* prevent unauthorized distribution of their data\n\nBasically comes down to they want to know your data and compliance process they they can be assured that you can and will adhere to the two above. ",
+        "score": 3,
+        "author": "MindMugging"
       },
       {
-        "body": "stupid bot account just posting AI slop questions.",
+        "body": "There are random retail guys with zero compliance and a terminal in their home.",
+        "score": 3,
+        "author": "packet"
+      }
+    ],
+    "summary_he": "עובד בחברת השקעות קטנה מתאר קושי ברכישת גישה למסוף בלומברג (Terminal), לאחר שבקשתו נדחתה בטענה המעורפלת של \"חוסר התאמה עסקי\". הכותב מעריך שהסירוב נובע מהיעדר נוכחות דיגיטלית וציבורית של החברה, והוא מביע חשש לגבי השלכות ההחלטה על יכולתו להשתמש בשירות בעתיד או במסגרת לימודיו.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן ניתוח של תגובות הגולשים בשרשור, המסוכם ל-6 נקודות המציגות דעות ותובנות שונות מהקהילה:\n\n*   **הפתעה מעצם הסירוב:** גולשים הביעו פליאה על כך שבלומברג סירבו לספק טרמינל, וציינו כי מדובר במקרה נדיר מאוד שאינו מוכר בקהילה המקצועית.\n*   **מעמד של מונופול:** הקהילה מציינת כי לבלומברג יש מונופול אפקטיבי על הנתונים שלהם, מה שמאפשר להם להכתיב תנאים נוקשים ולהיות בררניים בתהליך האישור.\n*   **מניעת שימוש לרעה במידע:** נטען כי העדיפות העליונה של בלומברג היא להבטיח שהנתונים לא ינוצלו לרעה, ולכן הם בוחנים בקפידה את המשתמשים.\n*   **חשש מהפצה לא מורשית:** נקודת דגש מרכזית היא הניסיון של בלומברג למנוע מצב שבו המידע הייחודי שלהם מופץ הלאה לגורמים שלא שילמו עליו (Redistribution).\n*   **דרישה לתהליכי ציות (Compliance):** כדי לקבל אישור לטרמינל, על המשתמש להוכיח שיש לו תהליכי עבודה ובקרה מוסדרים שמבטיחים עמידה בדרישות השימוש של החברה.\n*   **חוסר עקביות מול משתמשים פרטיים:** קיימת טענה כי המדיניות אינה אחידה, שכן ישנם סוחרים עצמאיים (Retail) שמחזיקים בטרמינל בביתם ללא צורך במערכות ציות מורכבות או פיקוח הדוק."
+  },
+  {
+    "id": "1ulrh94",
+    "title": "I kept waiting for \"the right time\" to invest for 2 years. Finally did the math on what that cost me.",
+    "url": "https://www.reddit.com/r/investing/comments/1ulrh94/i_kept_waiting_for_the_right_time_to_invest_for_2/",
+    "author": "Direct_Concert2999",
+    "score": 9,
+    "selftext": "in 2021 i had some money sitting in my savings account. wasn't a huge amount, around $6,000. i kept telling myself i'd invest it when the market corrects a bit. just waiting for a better entry point.\n\nmarket dipped a little. i thought it would dip more. didn't buy.\n\nmarket went up. i thought okay it'll correct soon. didn't buy.\n\nthis went on for almost 2 full years. i felt smart the whole time. disciplined even. \"not chasing highs\" i told myself.\n\nfinally invested in late 2023. just threw it all in, stopped thinking about it.\n\nrecently looked at what would have happened if i'd invested that $6000 in a simple S&P 500 index fund in january 2021 and done absolutely nothing.\n\ni'd be sitting on around $9,200 today.\n\ninstead i kept it in savings earning 1.2% interest and felt like a genius about it.\n\nthe money i \"protected\" by waiting cost me roughly $3,000 in missed gains. that's not even counting the inflation that quietly ate into the savings while it sat there doing nothing.\n\ntime in the market really does beat timing the market. i knew this. i'd read it a hundred times. still fell for it.\n\nanyone else been through this? feels like the most common trap that everyone knows about and still walks into.",
+    "subreddit": "investing",
+    "created_utc": 1783019287,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Majority of reddit is still figuring this out. They will by the time there's a new US president. I think. ",
+        "score": 17,
+        "author": "kinetic_honda"
+      },
+      {
+        "body": "Time IN the market is always better than timing the market",
+        "score": 9,
+        "author": "Woodios"
+      },
+      {
+        "body": "Most never go back and check. Most don’t even know how to check. They don’t even know about the historical performance page on their broker’s website",
+        "score": 8,
+        "author": "No_Paleontologist506"
+      }
+    ],
+    "summary_he": "הכותב משתף כיצד המתין שנתיים ל\"זמן הנכון\" להשקיע 6,000 דולר בציפייה לירידות בשוק, אך בסופו של דבר גילה שההמתנה עלתה לו בהפסד של כ-3,000 דולר ברווחים פוטנציאליים. המקרה ממחיש את הכלל הידוע שזמן בשוק (Time in the market) עדיף על ניסיון לתזמן את הכניסה אליו (Timing the market), מלכודת נפוצה שגם משקיעים מודעים נופלים בה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן ניתוח של התגובות והסנטימנטים שעלו בדיון, מסוכמים ל-6 נקודות מרכזיות בעברית:\n\n*   **עקומת למידה איטית בקרב הציבור:** קיימת תחושה שרוב המשתמשים בקהילה (ובכלל ברשת) עדיין לא באמת מבינים איך השוק עובד, ונמצאים בשלבי גיבוש תובנות ראשוניים בלבד.\n*   **הזמן כגורם מכריע להבנה:** ההבנה המעמיקה של שוק ההון אינה קורית בן לילה; מוערך כי ייקח למשקיע הממוצע פרק זמן של כמה שנים (כאורך קדנציה נשיאותית בארה\"ב) כדי \"להבין את העסק\".\n*   **העדפת השקעה פסיבית על פני תזמון:** אחד העקרונות המרכזיים שעלו הוא ש\"זמן בשוק\" (התמדה לאורך זמן) עדיף משמעותית על פני הניסיון הכושל לרוב \"לתזמן את השוק\" (קנייה ומכירה בנקודות קצה).\n*   **חוסר במעקב ובביקורת עצמית:** קיימת ביקורת על כך שרוב המשקיעים החובבים אינם חוזרים אחורה כדי לבחון את ההחלטות שקיבלו, ולא מבצעים הערכה תקופתית של תיק ההשקעות שלהם.\n*   **בורות לגבי כלים מקצועיים זמינים:** נראה שישנו פער בידע הטכני; משקיעים רבים כלל לא מודעים לקיומם של כלים בסיסיים באתרים של הברוקרים שלהם, כמו דפי ביצועים היסטוריים המאפשרים לנתח את רווחיות התיק.\n*   **ניתוק בין פעולה לתוצאה:** הקהילה מצביעה על סנטימנט של חוסר מודעות בקרב משקיעים – רבים פועלים מבלי לדעת אפילו איך לבדוק אם האסטרטגיה שלהם אכן הוכיחה את עצמה לאורך ההיסטוריה."
+  },
+  {
+    "id": "1ulq2dp",
+    "title": "Needing advice for a portfolio investment",
+    "url": "https://www.reddit.com/r/investing/comments/1ulq2dp/needing_advice_for_a_portfolio_investment/",
+    "author": "Happy-Examination816",
+    "score": 6,
+    "selftext": "# My TFSA Portfolio\n\n29 years old from Canada and have a 35 year horizon, planning to add money each quarter of each year.\n\nI chose the boring strategy but i would like one of the most aggressive/growth picks from ETFs choices they offer. And at the same time, not only USA exposure.\n\nI want to invest only in TSX with ETFs:\n\n\\-60% VEQT\n\n\\-20% VFV\n\n\\-20% XIU\n\nWhat do you think? Recommandations for allocations (%) or ETFs pick ?",
+    "subreddit": "investing",
+    "created_utc": 1783016227,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "You're kind of making a \"hat on a hat\" situation here.\n\nJust FYI, VEQT is an all-in-one globally diversified fund that *already* holds roughly 43% US equities (which is what VFV is) and about 30% Canadian equities (which is what XIU is).\n\nBy adding VFV and XIU on top of it, you aren't actually diversifying more you're just heavily overweighting US large-caps and Canadian blue-chips while diluting the international/emerging markets parts of VEQT. If you want a 35-year aggressive, boring-but-effective strategy, save yourself the rebalancing headache and just go 100% VEQT.",
+        "score": 2,
+        "author": "Alert_Animator9660"
+      },
+      {
+        "body": "I live in the US and am little eviouse.  It is a great way to save money but your deposits are limited to 100k.  Given the contribution limit I would rater invest in high dividend fund.  My understanding is that ther is no limit on the dividneds deposited into the account.  So if you invested in a fund with a 12% yield once you hit the 100K deposit limit  your portfolio will generate 1K of cash per month that you can use in the account to buy other funds or if needed you can withdraw 1K  a year indefinitely without reducing the value of your account.   or you could reinvest the dividend for more dividends and could get 2K month  or more eventually. In my opinion the TFSA structure is better with dividend investments than grwoth.  \n\nNow I have QQQI 13% yield and it would work great in your account except for the US tax withholding.   So you might want to look for a similar canadian fund.   without the foreign taxes.",
         "score": 1,
-        "author": "cdude"
-      }
-    ],
-    "summary_he": "הפוסט דן בדרכי התמודדות עם השקעות בזמנים של מתיחות עולמית וחוסר ודאות בשווקים הפיננסיים. הכותב מבקש לבחון האם כדאי לדבוק בתוכנית השקעה ארוכת טווח או לשנות אסטרטגיה ולעבור לנכסים בטוחים יותר, כמו זהב ומזומן, עד שהמצב יתייצב.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט ותחושות שונות בקהילה:\n\n*   **חוסר אמון בשוק הנוכחי:** קיימת תחושה שהשוק ספג מכה קשה (\"pummeled\") לאחר תקופה של עליות שיא, מה שמוביל לספקנות לגבי המשך יציבותו בטווח הקרוב.\n*   **חשש מגורמים מאקרו-כלכליים ופוליטיים:** חלק מהמשתמשים מצביעים על חובות הענק של ארה\"ב, המדיניות האגרסיבית שלה והמצב הגיאופוליטי המתוח כסיבות מרכזיות לחשש מהשקעות מסורתיות.\n*   **חזרה לנכסים מוחשיים (מתכות יקרות):** כתוצאה מחוסר האמון בשוק המניות, ישנה קריאה לחזור להשקעה במתכות (כמו זהב), הנחשבות בעיני חלק מהקהילה כ\"כסף אמיתי\" ובטוח יותר בעתות משבר.\n*   **נרמול של מתחים גלובליים:** דעה נגדית גורסת כי מתחים בעולם הם \"מצב קבוע\" ותמיד קיימים, ולכן אין להשתמש בהם כתירוץ ליציאה מהשוק או לקבלת החלטות פזיזות.\n*   **דבקות באסטרטגיית השקעה לטווח ארוך:** קיימת המלצה להישאר מושקעים ולשמור על תיק השקעות מגוון (diversified), תוך הסתמכות על מחקרים שמראים כי זו הדרך היעילה ביותר להתמודד עם תנודתיות.\n*   **חשדנות כלפי תוכן הדיון עצמו:** ביטוי לסנטימנט של חוסר אמון בפלטפורמה, הכולל האשמות שהשאלות המועלות בדיון הן \"זבל\" שיוצר על ידי בוטים או בינה מלאכותית (AI slop) ולא על ידי משתמשים אמיתיים."
-  },
-  {
-    "id": "1um6m7n",
-    "title": "Data center infrastructure as an asset class: how allocations actually get underwritten",
-    "url": "https://www.reddit.com/r/investing/comments/1um6m7n/data_center_infrastructure_as_an_asset_class_how/",
-    "author": "Current-Age3629",
-    "score": 1,
-    "selftext": "A pattern worth discussing for anyone watching data center infrastructure as an asset class.\n\nThe headline is a supply shortage: \\~1% vacancy in primary markets, 81.5% of under-construction capacity preleased before delivery. But the more interesting structural story is how allocations get underwritten now. It's migrating from operator brand toward deal structure: secured low-cost power (utility-direct around $0.06-0.065/kWh vs $0.12-0.15 retail), off-take committed under LOI before construction, and front-of-queue interconnect (transformers are on 128-week lead times, so a secured position is itself a moat).\n\nCurious how others here think about the durability of that moat, and whether the 1-10 MW segment too small for hyperscale credit, too capital heavy for most regionals to build on spec is structurally underserved or just temporarily mispriced.",
-    "subreddit": "investing",
-    "created_utc": 1783060112,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I’d be careful with LOIs though. Preleased capacity sounds great, but the underwriting quality depends a lot on who the off taker is, what penalties exist, and whether the power timeline is real. A signed hyperscaler lease and a soft LOI from a smaller AI customer are not the same thing",
-        "score": 1,
-        "author": "Sweet_Boxing"
-      }
-    ],
-    "summary_he": "הפוסט מנתח את המעבר של השקעות במרכזי נתונים ממודל מבוסס מותג למודל המבוסס על יתרונות מבניים, כגון הבטחת חשמל זול ותפיסת מקום בתור לחיבור לרשת וציוד קריטי. לאור הביקוש העצום ושיעורי התפוסה הגבוהים, עולה השאלה האם קיים פוטנציאל לא מנוצל במגזר הבינוני (1-10 מגוואט), שכרגע נראה כחסר מענה הולם מצד השחקנים הגדולים או הקטנים בשוק.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והתובנות המרכזיות שעלו מהתגובה, המדגישות את המורכבות של חוזי שכירות מוקדמים בתחום תשתיות המחשוב וה-AI:\n\n*   **זהירות מחייבת כלפי מכתבי כוונות (LOIs):** קיימת סנטימנט של חשדנות כלפי הסתמכות יתר על מכתבי כוונות; הם נתפסים כהצהרת כוונות שאינה מבטיחה בהכרח מימוש סופי של העסקה.\n*   **חשיבות זהות השוכר (The Off-taker):** איכות החיתום של הפרויקט תלויה באופן ישיר במי שעומד מאחורי ההסכם. ישנו הבדל תהומי בין התחייבות של ענקית טכנולוגיה (Hyperscaler) לבין לקוח AI קטן יותר.\n*   **בחינת הסנקציות והקנסות:** הקהילה מדגישה כי כדי להעריך את רצינות העסקה, יש לבדוק אילו סעיפי פיצוי וקנסות קיימים בחוזה במקרה של נסיגה, שכן אלו קובעים את רמת המחויבות בפועל.\n*   **ריאליות לוחות הזמנים לאספקת חשמל:** נקודה קריטית היא האם לוח הזמנים לחיבור התשתית לחשמל הוא מציאותי. הבטחות על הנייר לקיבולת חשמלית אינן שוות ערך ליכולת אספקה בפועל בשטח.\n*   **הבחנה בין \"חוזה חתום\" ל\"מכתב כוונות רך\":** קיים דגש על כך שקיבולת שמוגדרת כ\"מושכרת מראש\" עלולה להטעות אם היא מבוססת על מסמכים לא מחייבים מול לקוחות קטנים, לעומת חוזים קשיחים מול שחקנים גדולים.\n*   **איכות החיתום הפיננסי:** הסנטימנט הכללי הוא שאין להסתנוור ממספרים של קיבולת מושכרת; יש לנתח לעומק את האיתנות הפיננסית של הלקוח ואת התנאים המשפטיים כדי להבין את רמת הסיכון האמיתית של הפרויקט."
-  },
-  {
-    "id": "1um3xbr",
-    "title": "I don't understand the point of bonds in most portfolios",
-    "url": "https://www.reddit.com/r/investing/comments/1um3xbr/i_dont_understand_the_point_of_bonds_in_most/",
-    "author": "iloveu3thousand",
-    "score": 1,
-    "selftext": "I've only been investing about 10 years and my portfolio is 80/20 maybe closer to like 87/13 right now. I have an advisor.\n\nHe didn't explain well why I'm not 100/0. Like he kept saying bonds are stability and ballast for down markets and income generation for up markets, but they're bond funds and they're mostly down compared to equities. \n\nI'm in my late 30s, so what is the purpose of bonds?\n\nI could understand if I was 60 or 70, but even then CDs or dividend ETFs feels better for income. \n\nWhat am I missing?",
-    "subreddit": "investing",
-    "created_utc": 1783051628,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I remember the initial crash, I literally said out loud, oh yay, deep discount day. I was joking, but I never touched my auto deposit/auto S&P500 buys... Just stopped looking at it for a few years. Bingo bango bongo, shit was flying high again.",
-        "score": 7,
-        "author": "Tricon916"
+        "author": "Various_Couple_764"
       },
       {
-        "body": "4 also seems too much based on how they speak out of their ass.",
+        "body": "There's nothing wrong with boring.  Are you deliberately overrepresenting US equity performance with both VEQT and VFV?  Just want to make sure that's intentional.",
+        "score": 1,
+        "author": "KweenieQ"
+      }
+    ],
+    "summary_he": "משקיע קנדי בן 29 מחפש ייעוץ לתיק השקעות אגרסיבי לטווח ארוך (35 שנה) המבוסס על תעודות סל (ETFs) הנסחרות בבורסה הקנדית. הוא מעוניין בשילוב בין חשיפה גלובלית לשוק האמריקאי והקנדי, ומבקש חוות דעת על חלוקת התיק המוצעת בין המדדים VEQT ,VFV ו-XIU.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **כפילות מיותרת בתיק ההשקעות (\"Hat on a hat\"):** המגיבים מציינים ששילוב של קרן \"הכל באחד\" (כמו VEQT) יחד עם קרנות ספציפיות של ארה\"ב (VFV) וקנדה (XIU) הוא צעד מיותר. מאחר שקרן VEQT כבר מכילה בתוכה כ-43% מניות ארה\"ב וכ-30% מניות קנדיות, הוספת הקרנות האחרות פשוט יוצרת חפיפה.\n*   **פגיעה בפיזור לטובת משקל יתר:** הוספת קרנות ספציפיות על קרן גלובלית לא באמת מגדילה את הפיזור של המשקיע. להיפך, היא יוצרת \"משקל יתר\" (Overweighting) משמעותי על מניות גדולות בארה\"ב ובקנדה, ובכך מדללת את החשיפה לשווקים בינלאומיים אחרים ולשווקים מתעוררים שנמצאים בתוך הקרן הגלובלית.\n*   **העדפת פשטות לאסטרטגיה ארוכת טווח:** עבור משקיע עם אופק זמן של 35 שנה המחפש אסטרטגיה \"משעממת אך יעילה\", ההמלצה היא לדבוק ב-100% בקרן VEQT. גישה זו חוסכת את הטרחה הכרוכה באיזון מחדש (Rebalancing) של התיק לאורך השנים.\n*   **יתרון הדיבידנדים בחשבונות מוגבלי הפקדה (כמו TFSA):** עלתה סברה כי בחשבונות בהם קיימת תקרת הפקדה שנתית, עדיף להשקיע בקרנות דיבידנד גבוה. ההיגיון הוא שהדיבידנדים שנצברים בתוך החשבון אינם נחשבים כהפקדה חדשה, מה שמאפשר להגדיל את ההון בחשבון מעבר לתקרה המותרת בחוק ולייצר תזרים מזומנים פטור ממס.\n*   **יצירת \"מכונת מזומנים\" פנימית:** השקעה בקרנות בעלות תשואה גבוהה (למשל 12% בשנה) יכולה לייצר הכנסה חודשית קבועה בתוך החשבון. כסף זה יכול לשמש לרכישת קרנות נוספות או למשיכה מבלי לשחוק את קרן ההשקעה המקורית, מה שנתפס כאסטרטגיה עדיפה על פני התבססות על צמיחת ערך בלבד בחשבונות מסוג זה.\n*   **זהירות ממיסוי זר:** למרות האטרקטיביות של קרנות דיבידנד אמריקאיות (כמו QQQI), המשקיעים מזהירים מפני ניכוי מס במקור של ארה\"ב על דיבידנדים. למשקיע קנדי, הדבר עלול להפחית את הכדאיות, ולכן מומלץ לחפש חלופות קנדיות דומות כדי להימנע מתשלומי מס מיותרים למדינה זרה."
+  },
+  {
+    "id": "1ulm85w",
+    "title": "Is the basic bronze tier for Yahoo Finance worth it for the price?",
+    "url": "https://www.reddit.com/r/investing/comments/1ulm85w/is_the_basic_bronze_tier_for_yahoo_finance_worth/",
+    "author": "TravellingBeard",
+    "score": 5,
+    "selftext": "Tired of doing everything via spreadsheets and having to hunt for everything everywhere.  I know it does portfolio tracking and trades.  I'm not looking for trade ideas or anything like that as I already get it from another service I'm subscribed to, so curious if this is great as a basic subscription (currently $7.99 Canadian per month)",
+    "subreddit": "investing",
+    "created_utc": 1783007918,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "No.  Yahoo is trying to do anything to make money, you will still get their 5,000,000 popups and their laggy endless videos, but you do get the data.",
+        "score": 2,
+        "author": "DistributionBroad173"
+      },
+      {
+        "body": "Bronze is still the same Yahoo, just fewer ads, and the videos still lag. For getting off spreadsheets a dedicated tracker gets you further for similar money, Ghostfolio is free if you self-host, AllInvestView and the like sync your brokers automatically too.",
+        "score": 1,
+        "author": "mikerosalv"
+      },
+      {
+        "body": "Honestly the free tier covers most bases if you're just doing basic stock research - Bronze is pretty redundant unless you're really into screeners and want faster data refresh rates. I'd skip it and throw that money at index funds instead.",
+        "score": 1,
+        "author": "Linett-Chukwuemeka61"
+      }
+    ],
+    "summary_he": "הכותב תוהה האם מנוי ה\"ברונזה\" של Yahoo Finance משתלם עבור ניהול ומעקב אחר תיק השקעות, במטרה להחליף את העבודה הידנית המייגעת בגיליונות אקסל. הוא מחפש כלי לריכוז נתונים וביצוע פעולות, ומציין שאינו זקוק להמלצות השקעה כיוון שהוא כבר מנוי לשירות אחר לצורך זה.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit בנוגע לשירות ה-Bronze של Yahoo Finance בתרגום לעברית:\n\n* **חוויית משתמש בעייתית גם בתשלום:** למרות התשלום על מנוי ה-Bronze, המשתמשים מדווחים כי חוויית המשתמש נותרת ירודה. האתר עדיין עמוס בפרסומות קופצות (popups) ובסרטונים שנטענים באיטיות רבה (laggy videos).\n* **חוסר הצדקה כלכלית למנוי:** קיימת תחושה בקהילה שיאהו (Yahoo) מנסה לייצר הכנסות בכל דרך אפשרית, אך השירות שהיא מציעה בתמורה למחיר אינו מספק ערך מוסף משמעותי מעבר לגישה לנתונים הגולמיים.\n* **הגרסה החינמית מספיקה לרוב המשתמשים:** עבור מי שמבצע מחקר מניות בסיסי, הגרסה החינמית נחשבת למספקת לחלוטין. המנוי בתשלום נתפס כמיותר (\"redundant\") עבור רוב הצרכים הממוצעים.\n* **קהל יעד מצומצם:** השדרוג לדרגת ה-Bronze נחשב לכדאי רק עבור משתמשים ספציפיים מאוד שזקוקים לכלי סינון מתקדמים (screeners) ולקצב רענון נתונים מהיר במיוחד.\n* **קיומן של חלופות טובות וזולות יותר:** עבור משתמשים המעוניינים לנהל את תיק ההשקעות שלהם מחוץ לגיליונות אקסל, קיימים כלים ייעודיים טובים יותר באותו מחיר או אף בחינם. בין היתר הוזכרו Ghostfolio (חינמי בניהול עצמי) ו-AllInvestView המאפשר סנכרון אוטומטי מול הברוקרים.\n* **עדיפות להשקעה מאשר למנוי:** ישנה המלצה בקהילה לוותר על דמי המנוי ולהשקיע את הכסף הזה ישירות בקרנות מחקות מדד (Index Funds), מתוך הנחה שהתשואה מההשקעה תהיה משמעותית יותר מהתועלת שבשירות המידע של יאהו."
+  },
+  {
+    "id": "1ulfn07",
+    "title": "Canaccord Analyst Initiates Coverage on $INFQ with a Buy Rating and PT of $22/Share",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1ulfn07/canaccord_analyst_initiates_coverage_on_infq_with/",
+    "author": "Optimal_Image5192",
+    "score": 3,
+    "selftext": "\"We are initiating coverage of Infleqtion with a Buy rating and a $22 price target, implying \\~70% upside from Wednesday’s close. Every qubit fights the same battle: holding a fragile quantum state together before heat, vibration, or measurement itself destroys it.\n\nQuantum computing is a war against entropy. Infleqtion, like everyone else, is engaged in that war, but it also does what no public peer can: it sells the other side. The same environmental sensitivity that ruins a qubit makes a quantum sensor exceptional, and Infleqtion monetizes it today through atomic clocks, RF receivers, and inertial navigation sold into defense and aerospace. Infleqtion’s dual model anchors our Buy.\n\nWe like the Infleqtion story for four key reasons: INFQ’s neutral atom approach offers compelling scaling and error-correction flexibility. Neutral atoms have practical advantages. Scale is achieved by trapping more atoms with lasers, not by fabricating more chips, so growth is an optics-and-control problem rather than a manufacturing-yield one. Every atom of a given element is exactly identical, so unlike solid-state qubits there is no chip-to-chip variation to engineer around.\n\nSensing is a key differentiator and a primary beneficiary of the June 22 executive order. Infleqtion is one of very few public names with a commercial sensing portfolio across timing, RF, and inertial navigation, with live defense programs across all three AUKUS partners, a first-of-kind Tikker demonstration aboard a Royal Navy uncrewed submarine, and a NASA Cold Atom Lab supplier relationship.”\n\n\\- Analyst: Kingsley Crane",
+    "subreddit": "StockMarket",
+    "created_utc": 1782991852,
+    "thumbnail": "https://preview.redd.it/k4sk92s6ysah1.jpeg?width=140&height=73&auto=webp&s=0b8079e53e94f399b6a558c4550f0bc63c8443c9",
+    "top_comments": [],
+    "summary_he": "אנליסט מחברת Canaccord החל לסקר את מניית Infleqtion (סימול: INFQ) בהמלצת \"קנייה\" עם מחיר יעד של 22 דולר, המייצג פוטנציאל עלייה של כ-70%. ההמלצה מתבססת על המודל העסקי הייחודי של החברה, המשלב פיתוח מחשוב קוונטי עם מכירת מוצרי חישה קוונטית (כמו שעונים אטומיים ומערכות ניווט) שכבר מניבים הכנסות במגזרי הביטחון והחלל.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1ullksv",
+    "title": "Asset location importance",
+    "url": "https://www.reddit.com/r/investing/comments/1ullksv/asset_location_importance/",
+    "author": "Acceptable-Gear-9631",
+    "score": 2,
+    "selftext": "I have a 4 fund portfolio:\n\nFSKAK  \nFTIHX  \nAVUV  \nAVDV\n\nHow important is to keep these assets stored in specific accounts (Roth, 401k, Brokerage) for tax efficiency purposes? I have been replicating my asset allocation evenly among each account type. I do so because, while I believe there is reason to expect some SCV outperformance, I do not want to have my Roth exclusively carry a laggard fund given it is the most important of the accounts.\n\nI also do not want to have a huge tax drag due to tax inefficient allocations amongst my account types. If my investing timeline is 25 years, how big of a difference will it make to have each account carry different allocations of funds?",
+    "subreddit": "investing",
+    "created_utc": 1783006458,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "This all sounds wrong.  \n\nFSKAX is extremely tax efficient.  No capital gains for the past seven years.  And when there was a capital gains it was practically insignificant.  \n\nFSKAX is going to distribute dividends every year, just like VTI or VOO or other stock ETFs. They all have roughly a 1% dividend. The tax bill on $180k of FSKAX or VOO should be different by twenty bucks, roughly.  I don't know where you're getting your information from.  ",
+        "score": 3,
+        "author": "WoodpeckerNew6897"
+      },
+      {
+        "body": "In many cases, the ETF structure DOES allow them to be far more tax efficient.  The most commonly cited example of this is the  LifeStrategy funds from Vanguard (mutual funds) vs the Allocation Funds (AOA, AOR) from iShares (ETFs).  These funds are nearly identical, they're funds-of-funds with low cost underlying index funds, they track each other to the nickel.  Compare VSMGX to AOR, for example.  But Vanguard's funds distribute capital gains and iShares' funds don't.  In an IRA, nobody cares about capital gains so that's where the Vanguard fund goes.  The iShares funds can go in taxable.  \n\nJust because the iShares funds don't distribute capital gains doesn't mean they don't have distributions.   They do: dividends and bond income.  They just don't distribute capital gains.  ",
+        "score": 2,
+        "author": "WoodpeckerNew6897"
+      },
+      {
+        "body": "These numbers are wrong.  Look at the link for VTI you sent.  VTI pays a quarterly dividend of almost a dollar per share.  Four bucks a year.  That's about 1%. Maybe you were only looking at in particular quarter? The numbers you sent directly contradict your conclusion \n\nEverything about FSKAX and VTI are nearly identical because they contain the same stocks.  They have the same performance and the same dividends.  And because Fidelity is doing a good job with the fund, they have nearly identical tax consequences.  ",
+        "score": 2,
+        "author": "WoodpeckerNew6897"
+      }
+    ],
+    "summary_he": "הכותב מבקש לדעת עד כמה קריטי לבצע \"מיקום נכסים\" (Asset Location) יעיל מבחינת מס בין סוגי חשבונות שונים (כמו Roth, 401k וחשבון השקעות רגיל) עבור תיק של ארבע קרנות. כיום הוא משכפל את אותה הקצאה בכל חשבונותיו כדי להימנע מביצועי חסר בחשבון ה-Roth, ותוהה האם חוסר היעילות במס לאורך תקופה של 25 שנה יגרום להבדל משמעותי ברווחים הסופיים שלו.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המובילות ב-Reddit, המציג 6 נקודות מבט ודעות שונות בנושא יעילות מס והשקעות בקרנות אינדקס:\n\n*   **יעילות המס של FSKAX:** נטען כי הקרן FSKAX (קרן נאמנות של פידליטי) היא יעילה ביותר מבחינת מס. למרות היותה קרן נאמנות ולא תעודת סל (ETF), היא לא חילקה רווחי הון ב-7 השנים האחרונות, ואלו שחולקו בעבר היו זניחים.\n*   **השוואה בין קרנות נאמנות לתעודות סל (ETFs):** קיים הבדל מבני שמאפשר ל-ETFs להיות יעילות יותר במס במקרים רבים. בעוד שתעודות סל מסוימות (כמו של iShares) נמנעות מחלוקת רווחי הון, קרנות נאמנות מקבילות (כמו של Vanguard) עלולות לחלק רווחי הון שיוצרים חבות מס למשקיע.\n*   **זהות כמעט מוחלטת בין FSKAX ל-VTI:** מכיוון ששתי הקרנות מחזיקות באותן מניות בדיוק (מדד השוק הכולל), הביצועים שלהן, הדיבידנדים שהן מחלקות והשלכות המס שלהן צפויים להיות כמעט זהים, כל עוד הקרן מנוהלת היטב.\n*   **חשיבות המיקום של הנכס (Tax Location):** מוצעת אסטרטגיה לפיה קרנות שמחלקות רווחי הון צריכות להיות מוחזקות בחשבונות פטורים ממס (כמו IRA בארה\"ב), בעוד שתעודות סל (ETFs) שאינן מחלקות רווחי הון מתאימות יותר לחשבונות חייבים במס.\n*   **דיוק בנתוני הדיבידנדים:** הדיון מדגיש כי קרנות כמו VTI, VOO ו-FSKAX מחלקות דיבידנד שנתי של כ-1%. צוין כי חשוב לבדוק את הנתונים השנתיים ולא להסתמך על רבעון בודד שעלול להטעות את המשקיע לגבי התשואה האמיתית.\n*   **הבחנה בין סוגי חלוקות:** יש להבדיל בין חלוקת רווחי הון לבין חלוקת דיבידנדים או הכנסות מאג\"ח. גם אם תעודת סל נחשבת \"יעילה במס\" כי היא לא מחלקת רווחי הון, היא עדיין תבצע חלוקות תקופתיות של דיבידנדים עליהן המשקיע יידרש לשלם מס."
+  },
+  {
+    "id": "1ulhkv1",
+    "title": "What is your framework for doing your research/due diligence on an investment?",
+    "url": "https://www.reddit.com/r/investing/comments/1ulhkv1/what_is_your_framework_for_doing_your_researchdue/",
+    "author": "mrlebusciut",
+    "score": 2,
+    "selftext": "Been casually investing for a while (snp, bit of gold, etc) but want to get deeper into picking individual stocks.\n\nAfter getting an idea for a stock pick, what are peoples tried and tested methods for ensuring adequate research and due diligence?\n\nIs there any kind of checklist that has served you well? I.e meeting certain earnings requirements, certain details in annual reports etc.\n\nI appreciate this could be a “how long is a piece of string” question. But wanted to ask if anyone had any tried and tested principles.",
+    "subreddit": "investing",
+    "created_utc": 1782997140,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "כותב הפוסט מבקש לקבל המלצות למסגרת עבודה או רשימת בדיקה (checklist) לביצוע מחקר מעמיק (Due Diligence) לפני השקעה במניות בודדות. הוא מעוניין ללמוד מניסיונם של אחרים על עקרונות מנחים וקריטריונים חשובים, כגון ניתוח דוחות שנתיים ודרישות רווחיות, כדי לעבור מהשקעה פסיבית לבחירה מושכלת של מניות.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1un127p",
+    "title": "VOO is $5 billion away from becoming the first ETF to hit $1 trillion",
+    "url": "https://www.reddit.com/r/investing/comments/1un127p/voo_is_5_billion_away_from_becoming_the_first_etf/",
+    "author": "ConsistentWeirdo",
+    "score": 1,
+    "selftext": "VOO sits at $995 billion in aum today,five billion from a milestone no etf has ever hit, it will most prob cross $1 trillion probably this month, get a wave of coverage and most of that coverage will frame it as a feel good passive investing win.\n\nso what happens after? when a single fund holds $1T in the same 500 companies, it means every dollar flowing into the most popular investment vehicle on earth automatically buys more of whatever is already biggest. Nvidia goes up, its index weight increases and VOO buys more nvidia which pushes Nvidia up further. The feedback loop is structural and its been running for years \n\nThis isnt an argument against index investing tho, less than 5% of active large blend funds have outperformed their passive peers over 15 years as per morningstar's latest active/passive barometer. The math on passive still wins but passive at $1 trillion concentration in 500 US companies is a different risk profile than passive was in 2010 when the same thingy was being made about a $50B fund.\n\nSCHD pulled in $10.59B in inflows and VTI pulled in $27.27B. VXUS and IEMG which are international diversifiers  saw a combined $26B+ in new assets. SGOV(the 0-3 month )treasury etf pulled in $25B. Money is still flowing into passive but its spreading across more vehicles,not into VOO specifically\n\nFor EU investors this dynamic is slightly different , VOO itself isnt directly available on most European platforms but VUSA and VUAG track the identical index and ig bitpanda has both available ,traderepublic too so the access question is solved and the concentration question is the one worth actually thinking about heading into H2.\n\nIs anyone actively diversifying away from pure S&P 500 exposure or riding the $1 trillion wave?",
+    "subreddit": "investing",
+    "created_utc": 1783144643,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "קרן הסל VOO קרובה להפוך לראשונה בהיסטוריה שתנהל נכסים בשווי טריליון דולר, אבן דרך המדגישה את הדומיננטיות של ההשקעה הפסיבית במדד ה-S&P 500. לצד ההצלחה, גודלה העצום מעלה חששות לגבי סיכוני ריכוזיות ויצירת \"לולאת משוב\" המנפחת את שווי החברות הגדולות ביותר, מה שמוביל חלק מהמשקיעים לחפש גיוון באפיקי השקעה נוספים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1un0e09",
+    "title": "High probabilty of recession in Q4?",
+    "url": "https://www.reddit.com/r/investing/comments/1un0e09/high_probabilty_of_recession_in_q4/",
+    "author": "CodsterTX",
+    "score": 1,
+    "selftext": "[https://www.newyorkfed.org/research/capital\\_markets/ycfaq.html#/interactive](https://www.newyorkfed.org/research/capital_markets/ycfaq.html#/interactive)\n\n[https://www.currentmarketvaluation.com/models/yield-curve.php](https://www.currentmarketvaluation.com/models/yield-curve.php)\n\nDue to a Yield Curve Inversion",
+    "subreddit": "investing",
+    "created_utc": 1783142397,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Been hearing this since the pandemic.",
+        "score": 40,
+        "author": "Laakhesis"
+      },
+      {
+        "body": "We have been here a few times now",
+        "score": 9,
+        "author": "brownhotdogwater"
+      },
+      {
+        "body": "There's a yield curve inversion? It's the most normal-looking curve that it's looked in years",
         "score": 6,
-        "author": "DamnBored1"
-      },
-      {
-        "body": "Both stocks and bonds have both declined during a 12 month period only 3 times in  the last 100 years.  \n\nAll of this is dependent on your personal situation.  If you are young (more than 10 years away from retirement), and aren’t prone to panic sell, I don’t see an issue with 100% equities.  As you get closer to retirement and having your rely on your portfolio for expenses, having that ballast smooths out the ride.  ",
-        "score": 2,
-        "author": "ovirto"
+        "author": "LillianWigglewater"
       }
     ],
-    "summary_he": "כותב הפוסט, משקיע בשנות ה-30 לחייו, תוהה מדוע עליו להחזיק איגרות חוב בתיק ההשקעות שלו לאור ביצועיהן הנמוכים בהשוואה למניות. הוא אינו משתכנע מהסברי יועץ ההשקעות שלו לגבי היתרונות של אג\"ח כ\"עוגן\" ליציבות, וסבור שחלופות כמו פיקדונות או מניות דיבידנד עשויות להיות יעילות יותר עבורו.",
+    "summary_he": "הפוסט דן באפשרות למיתון כלכלי ברבעון הרביעי של השנה, וזאת בעקבות תופעת \"היפוך עקום התשואות\". הכותב מציג נתונים מהפדרל ריזרב של ניו יורק וממקורות נוספים המצביעים על הסתברות גבוהה להאטה כלכלית משמעותית בקרוב.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן ניתוח וסיכום של הדיון בשרשור, המציג 6 נקודות מבט ותחושות קהילתיות שונות שעלו מהתגובות:\n\n*   **ספקנות ועייפות מאזהרות כלכליות:** ניכרת תחושה של מיאוס בקרב המגיבים כלפי תחזיות קודרות. המשתמשים מציינים כי הם שומעים נבואות דומות כבר זמן רב, מה שמוביל לירידה ברמת הדריכות או האמון במידע.\n*   **תחושת \"זאב זאב\" מאז המגפה:** אחד הקולות המרכזיים בשיחה טוען כי הנרטיב הכלכלי הנוכחי מלווה את השוק עוד מימי הקורונה (2020), ולכן הוא נתפס כמיחזור של טענות ישנות ולאו דווקא כחדשות מרעננות.\n*   **חזרה על דפוסי עבר:** קיים רגש של דז'ה-וו בקרב הקהילה. המגיבים מציינים כי \"כבר היינו בסיטואציה הזו\" מספר פעמים בעבר הקרוב, מה שמרמז על כך שהמצב הנוכחי אינו נתפס כאירוע היסטורי יוצא דופן אלא כחלק ממחזוריות מוכרת.\n*   **ערעור על הנתונים בשטח:** ישנה ביקורת על עצם הקביעה שקיים \"היפוך עקום תשואות\". משתמש בולט מציין כי המציאות הגרפית של העקום נראית כרגע תקינה לחלוטין, מה שמעלה תהייה לגבי אמיתות הטענות שבבסיס הדיון.\n*   **אופטימיות זהירה לגבי נורמליזציה:** בניגוד לטון המזהיר, עולה דעה כי עקום התשואות נראה כעת בשיאו מבחינת יציבות ונורמליות בהשוואה למה שנראה בשנים האחרונות. זוהי נקודת מבט המפרשת את המצב הנוכחי כסימן חיובי דווקא.\n*   **פער בין הכותרות למציאות:** מהתגובות עולה תחושה של פער בין הדרמה המשתקפת בדיונים כלכליים לבין המבט הטכני על הנתונים. הקהילה נוטה להטיל ספק בכותרות \"מרעישות\" ומעדיפה להסתמך על השוואה היסטורית ארוכת טווח."
+  },
+  {
+    "id": "1umz08y",
+    "title": "Looking to learn. Questions within Roth IRA",
+    "url": "https://www.reddit.com/r/investing/comments/1umz08y/looking_to_learn_questions_within_roth_ira/",
+    "author": "hidden-daddy",
+    "score": 1,
+    "selftext": "I am currently only invested in VOO and SPY within my Roth IRA. Just looking for help, I’m really trying to learn here. Here’s some funds I’m looking into:   \nLarge cap- FCNTX, AGTHX  \nSmall cap- OPOCX, NESGX, OMCIX  \nTech heavy- FSPTX, FSELX\n\nI understand these are mutual funds and I’m trying to figure out if I do add some of these more risky funds how does that work within a Roth IRA?   \nWhat does portfolio turn over matter within a Roth IRA or even expense ratio? \n\nUntil I figure it out I’m just going to keep stacking SPY and VOO. Thanks for the help if you got it! Also lead me to some good books if you have any to recommend. ",
+    "subreddit": "investing",
+    "created_utc": 1783137982,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I do two things. Large positions on small cap bets I like long term, and selling covered calls on more stable companies (NVDA, AAPL, AMZN) as an example. \n\nI'd use Claude to explain some of these concepts to you so you get a better handle on it.",
+        "score": 2,
+        "author": "winterrules91"
+      },
+      {
+        "body": "I’ll have around 35 years of investing, that’s kind of why I’ve been looking into putting some of the more risky things into my Roth since I’m not gonna sell them, but I also just don’t know a lot so that’s why I ask. All I’m looking to do is figure out a method that I can just buy every month and max out my Roth every year.",
+        "score": 2,
+        "author": "hidden-daddy"
+      },
+      {
+        "body": "Large cap and S&P 500 can be nearly synonymous, probably no need for both.\n\nWhat about international?\n\nS&P 500 is already very tech heavy, last I checked it was approaching 40% directly, plus more from a few companies the average person may consider tech but market classification puts elsewhere. What level of tech do you think would be appropriate?\n\n>What does portfolio turn over matter within a Roth IRA or even expense ratio? \n\nExpense ratio basically tells you what percentage of returns you get to keep. Higher expense ratios mean you keep less money. Even numbers that may look small can turn out to be tens of thousands of dollars after a few decades.",
+        "score": 1,
+        "author": "Cruian"
+      }
+    ],
+    "summary_he": "הכותב מושקע כרגע במדדי S&P 500 ושוקל לגוון את תיק הפנסיה שלו (Roth IRA) באמצעות קרנות נאמנות אקטיביות ומסוכנות יותר בתחומי הטכנולוגיה והקאפ הקטן והגדול. הוא מבקש להבין כיצד יחס הוצאות ותחלופת ניירות ערך משפיעים בתוך חשבון פטור ממס, ומחפש המלצות לספרים כדי להעמיק את הידע שלו בתחום.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בשרשור המבוסס על התגובות שסיפקת, הכולל 6 נקודות מבט ודעות שונות:\n\n*   **התייחסות למשברים כהזדמנות קנייה:** חלק מהמשתמשים רואים בנפילות חדות בשוק המניות כ\"יום הנחה\" (Deep discount). במקום להיכנס לפאניקה, הם בוחרים לראות בירידות הזדמנות לרכוש נכסים במחיר זול יותר.\n*   **חשיבותה של השקעה אוטומטית ועקבית:** קיימת הערכה רבה לאסטרטגיית \"הפקד ושכח\". שמירה על הפקדות אוטומטיות למדדים רחבים (כמו S&P 500) גם בזמן קריסת שווקים מוכיחה את עצמה כמשתלמת בטווח הארוך.\n*   **התועלת הפסיכולוגית של התעלמות מהתיק:** דעה רווחת היא שבתקופות של ירידות, עדיף פשוט להפסיק לבדוק את מצב החשבון למשך מספר שנים. חוסר המעורבות הרגשית מונע קבלת החלטות שגויות ומאפשר לשוק להתאושש מבלי שהמשקיע יפריע לתהליך.\n*   **ספקנות כלפי \"מומחים\" ותחזיות:** ישנם משתמשים המביעים חוסר אמון בנתונים או כללים מספריים שרירותיים הנזרקים לחלל האוויר, בטענה שהדוברים \"מדברים מהתחת\" ולא בהכרח מתבססים על עובדות מוצקות.\n*   **ניתוח היסטורי של מניות מול אג\"ח:** מצוינת העובדה ההיסטורית שרק לעיתים נדירות ביותר (3 פעמים ב-100 השנים האחרונות) חלה ירידה בו-זמנית גם במניות וגם באגרות חוב לאורך תקופה של 12 חודשים, מה שמדגיש את החשיבות של גיוון הנכסים.\n*   **התאמת אסטרטגיית הסיכון לגיל ולמצב האישי:** הקהילה מציינת שאין אסטרטגיה אחת שמתאימה לכולם. בעוד שצעירים הרחוקים מהפרישה יכולים להרשות לעצמם תיק של 100% מניות (בתנאי שאינם נוטים למכירה מתוך פאניקה), משקיעים המקורבים לגיל פרישה זקוקים ל\"משקולת\" מייצבת בתיק כדי להחליק את התנודתיות ולהגן על כספם."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ודעות שונות של חברי הקהילה בנושא השקעות:\n\n*   **אסטרטגיות השקעה משולבות:** אחד המשתמשים מציע שילוב בין החזקות גדולות במניות בעלות שווי שוק קטן (Small Cap) לטווח ארוך, לבין יצירת הכנסה פסיבית על ידי מכירת אופציות (Covered Calls) על מניות של חברות יציבות וגדולות כמו אפל, אמזון ואנבידיה.\n*   **שימוש בבינה מלאכותית ללמידה:** קיימת המלצה להיעזר בכלי בינה מלאכותית (כמו Claude) כדי לפשט ולהבין מושגים פיננסיים מורכבים, מה שמעיד על הסתמכות גוברת של הקהילה על טכנולוגיה לצורך חינוך פיננסי.\n*   **ניהול סיכונים בחשבונות פטורים ממס (Roth IRA):** ישנה דעה הגורסת כי כדאי להחזיק נכסים בסיכון גבוה דווקא בחשבון מסוג Roth IRA כאשר אופק ההשקעה הוא ארוך מאוד (כ-35 שנה), מתוך הנחה שלא מוכרים אותם בזמן הקרוב ונהנים מהטבות המס על הרווחים העתידיים.\n*   **שאיפה לפשטות ועקביות:** משקיעים מסוימים מחפשים שיטה של \"שגר ושכח\" – דרך פשוטה לקנות ניירות ערך מדי חודש באופן קבוע עד למקסימום ההפקדה השנתית המותרת, מבלי להידרש לניהול אקטיבי או ידע מקצועי נרחב.\n*   **הימנעות מכפילויות וחשיפת יתר לטכנולוגיה:** נטען כי החזקה מקבילה של קרנות Large Cap ומדד S&P 500 היא מיותרת כיוון שהן כמעט זהות. בנוסף, הועלתה אזהרה כי ה-S&P 500 כבר רווי מאוד במניות טכנולוגיה (קרוב ל-40%), ולכן יש לשקול היטב אם להוסיף חשיפה סקטוריאלית נוספת או דווקא לגוון לאפיקים בינלאומיים.\n*   **השפעת דמי הניהול (Expense Ratio) בטווח הארוך:** הקהילה מדגישה שגם בתוך חשבונות פטורים ממס, ליחס ההוצאות יש חשיבות קריטית. הפרשים קטנים לכאורה באחוזים עלולים להצטבר לאובדן של עשרות אלפי דולרים לאורך עשרות שנות השקעה, מה שמשפיע ישירות על סכום הכסף שיישאר בידי המשקיע."
   }
 ];
