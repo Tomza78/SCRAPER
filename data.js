@@ -1,152 +1,5 @@
 window.dailyTrends = [
   {
-    "id": "1un8b2e",
-    "title": "300k to invest, 38 m uk now or never",
-    "url": "https://www.reddit.com/r/investing/comments/1un8b2e/300k_to_invest_38_m_uk_now_or_never/",
-    "author": "tanyddraig1",
-    "score": 1,
-    "selftext": "Good afternoon, I am 38 male uk. I have 300k wrapped in stock and shares isa but its just sitting there not invested. I have my own house paid for and will have another 200k to live on. I have been holding back for years incase I time it wrong, I feel its now or never. I have been looking at drip feeding maybe 20k a month into lifestrategy 100 and just leave it and see what it does. Is this good plan and is now bad time to do this? ",
-    "subreddit": "investing",
-    "created_utc": 1783169487,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Don’t try and be clever or  “get spicy” as someone has suggested. It sounds like you’re not comfortable with risk, and equities are risky. I would put a third into a low-cost global index tracker (eg Fidelity Index World Fund P Acc) which has the advantage of diversification put a third into a high yield bond fund (eg Man Dynamic Income) which has the advantage of a decent return with lower volatility and leave the other third in an MMF (ie cash) - until you’re ready to invest this as well. This is a very conservative strategy. The one thing you have on your side is time. This means you can afford to ride market volatility because in the long run you’ll be ok. ",
-        "score": 17,
-        "author": "VoteDoughnuts"
-      },
-      {
-        "body": "Reading your post I'd say the most fitting strategy for you would be \"VT and chill\". Read up on bogleheads. ",
-        "score": 12,
-        "author": "Level10Retard"
-      },
-      {
-        "body": "If you are literally planning on timing a 7% dip in the market then why not go all in at that point? If you think the dip will come only after a greater than 7% increase from now, then advise going all in now. If you think it's not possible to time the market then don't give that advice. ",
-        "score": 10,
-        "author": "Mr_Again"
-      }
-    ],
-    "summary_he": "גבר בן 38 מבריטניה, בעל בית וללא חובות, מעוניין להשקיע 300 אלף ליש\"ט שיושבים כרגע במזומן בחשבון השקעות (ISA) לאחר שנים של היסוס בגלל חשש מתזמון השוק. הוא שוקל להזרים את הכסף בהדרגה (20 אלף ליש\"ט בחודש) לקרן מנייתית (LifeStrategy 100) ומבקש חוות דעת האם מדובר בתוכנית ובתיזמון נכונים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט וגישות שונות שהועלו על ידי חברי הקהילה:\n\n*   **הימנעות מסיכונים מיותרים ותחכום יתר:** אחת הגישות המרכזיות היא להימנע מניסיונות להיות \"מתוחכמים\" מדי (או \"spicy\"). אם המשקיע אינו מרגיש בנוח עם רמת הסיכון של שוק המניות, עליו לבחור בגישה זהירה ולא לנסות להכות את השוק.\n*   **אסטרטגיית ה\"שלישים\" השמרנית:** הוצעה חלוקה מאוזנת של התיק למניעת תנודתיות: שליש במדד מנייתי עולמי רחב (לצורך גיוון), שליש בקרן אג\"ח בעלת תשואה גבוהה (לצורך יציבות יחסית), ושליש במזומן או בקרן כספית (MMF) עד שהמשקיע ירגיש מוכן להגדיל חשיפה.\n*   **ניצול יתרון הזמן:** הקהילה מדגישה כי עבור משקיע עם אופק השקעה ארוך, הזמן הוא הנכס החזק ביותר. השקעה לטווח ארוך מאפשרת \"לרכוב\" על תנודתיות השוק מתוך הבנה שבטווח הרחוק המדדים נוטים לעלות.\n*   **אימוץ פילוסופיית ה-Bogleheads:** הוצעה הגישה הפופולרית של \"VT and chill\" (קניית מדד עולמי רחב והתעלמות מהרעשים). גישה זו דוגלת בפשטות, פסיביות מוחלטת והיצמדות למדדי שוק זולים ורחבים לאורך שנים.\n*   **ביקורת על ניסיונות לתזמון השוק:** אחד המגיבים תקף את הרעיון של המתנה ל\"תיקון\" או ירידה של 7% בשוק. הטיעון הוא שאם מחכים לירידה, עלולים להפסיד עליות משמעותיות הרבה יותר שיתרחשו לפני אותה ירידה, ולכן תזמון השוק הוא אסטרטגיה בעייתית מבחינה לוגית.\n*   **מוכנות פסיכולוגית מול יעילות כלכלית:** קיימת הבנה בקהילה שקיימת הבחנה בין מה ש\"נכון\" מתמטית (להיכנס בכל הכסף עכשיו) לבין מה שמתאים ליכולת הרגשית של המשקיע. השארת כסף במזומן נתפסת ככלי פסיכולוגי לגיטימי עבור מי שחושש מהפסדים מידיים.",
-    "dateString": "2026-07-05",
-    "savedAt": {
-      "_seconds": 1783242991,
-      "_nanoseconds": 790000000
-    }
-  },
-  {
-    "id": "1unlv6m",
-    "title": "Free International Return Data Series",
-    "url": "https://www.reddit.com/r/investing/comments/1unlv6m/free_international_return_data_series/",
-    "author": "NecessarySpread2592",
-    "score": 1,
-    "selftext": "Getting good data is a big hurdle for retail investors. Reliable return histories are often locked behind thousand dollar a year subscriptions. But you can get a lot for free.\n\nBelow is a small return dataset covering developed-market stocks, sovereign bonds, interest rates, and currencies.\n\nThe goal is to consolidate the kinds of return series that are useful for testing global asset allocation strategies, especially those involving foreign equity, sovereign bonds, and currency hedging.\n\nData is pulled from reliable sources like the Fed, the OECD, and the World Bank.\n\nThe dataset includes 50+ years of coverage across several files. All available for free on GitHub. Check it out!\n\n[https://github.com/birjusuketupatel/ReturnDataFiles/tree/main](https://github.com/birjusuketupatel/ReturnDataFiles/tree/main)",
-    "subreddit": "investing",
-    "created_utc": 1783204105,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "הפוסט מציג מאגר נתונים חינמי ב-GitHub הכולל מעל 50 שנות היסטוריית תשואות של מניות, אג\"ח ומטבעות משווקים מפותחים. הנתונים נאספו ממקורות מהימנים (כמו הבנק העולמי והפדרל ריזרב) ונועדו לסייע למשקיעים פרטיים לבחון אסטרטגיות השקעה גלובליות ללא צורך במנויים יקרים בתשלום.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-07-05",
-    "savedAt": {
-      "_seconds": 1783242945,
-      "_nanoseconds": 667000000
-    }
-  },
-  {
-    "id": "1unk16j",
-    "title": "Neurotech Q2 investment summary",
-    "url": "https://www.reddit.com/r/investing/comments/1unk16j/neurotech_q2_investment_summary/",
-    "author": "NeurotechNewsletter",
-    "score": 1,
-    "selftext": "Here’s a review of Neurotech investment in Q2. One of the most interesting signals of the quarter came from overactive bladder, which is not usually where people start when they want to talk about the future of the brain, but it is exactly the sort of market investors seem increasingly willing to back.\n\nBlueWind Medical raised $47.8M to accelerate commercialization of Revi, its implantable tibial neuromodulation system for urgency urinary incontinence, while NinaMED raised $13.75M to advance the NiNA System for overactive bladder. That does not mean bladder suddenly became the main story in neurotech, but it does show something important about where the category is heading. Investors are backing large, real, underserved patient populations where the clinical pathway is reasonably clear and the value proposition makes sense to the people who pay for healthcare.\n\nThat was the broader Q2 story. Neurotech funding did not only go to the most futuristic or headline-friendly companies. A lot of it went into the practical middle of medicine, where devices treat large, expensive, persistent conditions that already fill clinics. The pattern was less about one specific technology and more about commercial logic. Pain, sleep, tremor, bladder, paralysis, depression, and implantable infrastructure all attracted meaningful capital because they sit close to real patients, existing clinical workflows, and markets that can be explained without too much science fiction.\n\nYou could see this across the quarter. Cala Health secured $50M from Trinity Capital to support commercial expansion of its wearable therapy for hand tremor. Nervonik raised a $52.5M Series B for peripheral nerve stimulation in chronic pain. ONWARD Medical raised €40.6M, including a €25M investment from EQT Life Sciences, to extend the runway for its spinal cord stimulation platforms for people with spinal cord injury. SonoMind raised €20M, roughly $23M, to advance focused ultrasound for treatment-resistant depression. WISE raised €30M to move its Heron lead and wider implantable electrode platform toward broader adoption.\n\nThe common thread is not that all these companies are doing the same thing. They are not. Some are wearable, some are implantable, some are focused ultrasound, some are spinal cord stimulation, some are peripheral nerve stimulation. The common thread is that they are tied to problems with real clinical gravity. These are conditions where patients already move through the healthcare system, where physicians already understand the burden, and where payers can at least begin to understand the economic argument if the evidence is good enough.\n\nThe biggest signals of the quarter were actually strategic, not venture. Medtronic announced its intent to acquire SPR Therapeutics for approximately $650M, bringing temporary peripheral nerve stimulation further into one of the largest neuromodulation portfolios in the world. ResMed completed its $340M acquisition of Noctrix Health, adding a wearable neuromodulation therapy for restless legs syndrome to a sleep business that already has global commercial infrastructure. Those two transactions alone say a lot about where the market is maturing. Strategic buyers are not just watching neurotech from the sidelines. They are moving where the products fit an existing channel, an existing disease area, and an existing commercial machine.\n\nSleep was one of the clearest examples of that. Nyxoah secured $110M in aggregate financing to accelerate the US commercial launch of Genio, its hypoglossal nerve stimulation system for obstructive sleep apnea. ResMed buying Noctrix added another major sleep-related neuromodulation signal, although the disease area is different. Sleep is interesting because it sits in a very useful place. Patients understand the problem, physicians understand the market, and strategics already have the infrastructure. That does not make reimbursement or adoption easy, but it does mean the category is not starting from zero.\n\nPain sent a similar message. Medtronic’s planned SPR acquisition and Nervonik’s Series B both point to a pain market that is still moving beyond the old spinal cord stimulation playbook. Temporary PNS, smarter PNS, peripheral approaches, and less invasive interventions are all part of the same broader shift. The question is not just whether stimulation works. The question is where it fits in the patient journey, how early it can be used, whether it can reduce reliance on more destructive or expensive options, and whether it can produce the kind of outcomes that payers and clinicians will actually care about.\n\nBCI still had a serious quarter, but it was a different kind of funding pattern. Axoft raised an oversubscribed $55M Series A to advance its soft implantable BCI. Neurosoft Bioelectronics raised a $7.5M seed round for stretchable brain interfaces. Shanghai’s StairMed raised RMB 500M, around $72.8M, in a round led by Alibaba, with Tencent and others involved. These are real companies doing real work, and the soft-implant race underneath the BCI headlines is one of the more interesting technical stories in the sector.\n\nBut BCI still looks different from the rest of the market. It is more concentrated. It is more dependent on a smaller number of high-conviction bets. It attracts people and institutions that are comfortable with long timelines, difficult clinical translation, and outcomes that may not look like standard medical device returns. That does not make it less important. It just means we should be careful not to confuse a few very visible BCI financings with a broad commercial wave across the whole category.\n\nThat distinction is important because the rest of Q2 was not really about chasing the most futuristic version of neurotech. It was about backing companies that can move through clinical, regulatory, and commercial pathways with some discipline. If the BCI story is still partly about what neurotechnology might become, the neuromodulation and sleep and pain story is more about what neurotechnology can already start to become inside normal medicine.\n\nCompared with Q1, the shape of the money felt different. Q1 was more top-heavy, with Science Corporation’s $230M Series C for PRIMA and Cognito Therapeutics’ $105M Series C for Alzheimer’s doing a lot of the work in the overall narrative. Q2 felt broader. It had major M&A at the top, but beneath that it had a thicker layer of serious financings across multiple indications and stages. It was not one or two giant rounds defining the quarter. It was a wider set of companies pulling capital into markets that investors can understand.\n\nThis is where the methodology matters. If you only count private company financings, Q2 looks steady rather than explosive. If you include M&A, the quarter looks much bigger because Medtronic/SPR and ResMed/Noctrix together represent close to $1B of strategic deal value. If you include funds, grants, and neuroscience-adjacent AI, the picture changes again. That is why I would be careful with one clean headline number. The better point is not that Q2 was simply bigger or smaller than Q1. The better point is that the shape of the quarter looked more mature.\n\nThe other part I would not ignore is the capital infrastructure forming underneath the sector. Newfund closed HEKA, a €60M fund focused on brain technologies. Ground Effect Ventures emerged as an operator-led platform for brain-focused medical technologies. Protocol Labs has continued to build out its neurotechnology activity. ARPA-H announced the first research teams for EVIDENT, a $139M initiative focused on improving measurement and treatment development in behavioral health. None of that is as easy to write about as a big company round, but it matters because sectors become real when the funding infrastructure starts organizing around them.\n\nA company raise tells you someone liked one asset. A fund close tells you someone thinks the category itself is worth building around. The same is true for strategic buyers, public programs, clinical infrastructure, reimbursement pathways, specialist operators, and all the boring parts of market formation that rarely make the headline but end up deciding whether a technology actually reaches patients.\n\nSo the real Q2 story was not just that bladder had a good quarter, or that BCI still pulled capital, or that sleep attracted strategic buyers. It was that neurotech looked more investable when it looked like medicine. The strongest signals sat in categories with large patient populations, clear burden, defined clinical workflows, and a plausible route to adoption.\n\nThat does not mean every company in those areas will win, or that reimbursement will be easy, or that commercial execution suddenly becomes straightforward. But it does suggest the market is rewarding practicality in a way that feels healthy.    \nThe future-facing side of neurotech is still alive. The BCI companies are building. The soft implants are getting better. The brain-inspired AI world is pulling in huge capital. The frontier remains exciting. But Q2 also showed that the sector does not need every company to become Neuralink to matter. It needs more companies that can treat real conditions, produce evidence, get paid, and survive long enough to become part of routine care.\n\nThat is what made the quarter interesting. It was not the loudest version of neurotech. It was the more practical version. Pain, sleep, bladder, tremor, paralysis, depression, and the infrastructure underneath the sector all had meaningful moments. Q2 looked less like a market waiting for one impossible breakthrough and more like a group of companies slowly working their way into normal medicine. For neurotech, that might be the better story",
-    "subreddit": "investing",
-    "created_utc": 1783199079,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Your submission has been automatically removed because the URL matches one on the /r/investing banlist due to low quality content or has been used to spam. See [here](https://www.reddit.com/r/investing/wiki/index/rules#wiki_why_are_some_media_links_banned_and_not_allowed) for more information. If you believe the article you are trying to link is high quality content please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2FInvesting) with a short message so that we may approve your submission. Please be aware that if your post can be sourced from a less sensationalist publication we will likely require you to do that.  Thank you.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/investing) if you have any questions or concerns.*",
-        "score": 1,
-        "author": "AutoModerator"
-      }
-    ],
-    "summary_he": "סיכום ההשקעות ברבעון השני בתחום הנוירוטק מצביע על מגמת התבגרות של השוק, עם מעבר מגישה \"עתידנית\" לגישה פרקטית המתמקדת בטיפול בבעיות רפואיות נפוצות כמו הפרעות שינה, כאב כרוני ובעיות בשלפוחית השתן. בעוד שתחום ממשקי המוח-מחשב (BCI) עדיין מושך עניין רב, המשקיעים והרוכשים האסטרטגיים מעדיפים כיום חברות המציגות הוכחות קליניות ברורות ומודל עסקי המשתלב בקלות במסלולי הטיפול הקיימים במערכת הבריאות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הנקודות והמדיניות העולות מהודעת המערכת בשרשור (המייצגות את עמדת הקהילה והנהלת הפורום):\n\n* **אכיפה אוטומטית וסינון תכנים:** הקהילה משתמשת בכלי ניטור אוטומטיים להסרה מיידית של פוסטים שאינם עומדים בסטנדרטים, במטרה לשמור על סדר וניקיון בפורום.\n* **קיומה של \"רשימה שחורה\" (Banlist):** קיים מאגר של אתרים וקישורים האסורים לפרסום בקהילה עקב היסטוריה של תוכן באיכות נמוכה או שימוש לרעה לצורכי ספאם.\n* **מלחמה בספאם ובתוכן דל:** קיימת מדיניות נוקשה נגד פרסומים שנועדו לקדם אתרים באופן אגרסיבי או כאלו שאינם מוסיפים ערך ממשי לדיון ההשקעות.\n* **העדפת מקורות מידע איכותיים על פני סנסציונליזם:** הקהילה דורשת מהמשתמשים להסתמך על מקורות עיתונאיים מהימנים ומעדיפה דיווחים ענייניים על פני כותרות \"צהובות\" או מרעישות שנועדו למשוך קליקים.\n* **אפשרות לערעור ובקרה אנושית:** למרות הסינון האוטומטי, קיימת פתיחות לבחינה מחדש; משתמשים מוזמנים לפנות למנהלים (Moderators) אם הם סבורים שהתוכן שלהם איכותי וראוי לאישור ידני.\n* **שקיפות והכוונה לכללים:** המערכת מקפידה להפנות את המשתמשים לתקנון הקהילה (Wiki) כדי להסביר בדיוק מדוע התוכן הוסר, ובכך לעודד למידה ושיפור של איכות הפרסומים בעתיד.",
-    "dateString": "2026-07-05",
-    "savedAt": {
-      "_seconds": 1783242974,
-      "_nanoseconds": 634000000
-    }
-  },
-  {
-    "id": "1un6hfl",
-    "title": "Looking for Advice :Thinking About Leaving My Job to Start a Business:",
-    "url": "https://www.reddit.com/r/business/comments/1un6hfl/looking_for_advice_thinking_about_leaving_my_job/",
-    "author": "wolverine-52",
-    "score": 2,
-    "selftext": "Hi everyone,\n\nI'm seriously considering leaving my full-time job to start my own business, but I'm still exploring which direction to take. I'd really appreciate your advice and recommendations.A little about me: I'm an Electrical Engineer with over 10 years of professional experience. I currently work in warehouse automation, robotics, and material handling systems. Alongside my engineering career, I've always been passionate about IT and have continued learning and working on technical projects as a hobby.  \nI want to build a business that makes the best use of my technical background and has long-term growth potential. I'm open to ideas in engineering, automation, robotics, or any other field.  \nIf you were in my position, what type of startup would you consider? I'd also love to hear from anyone who has left a stable job to start their own business. What would you recommend, and what lessons did you learn?  \nThank you in advance for your suggestions!",
-    "subreddit": "business",
-    "created_utc": 1783163888,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "מהנדס חשמל בעל עשר שנות ניסיון בתחומי האוטומציה והרובוטיקה שוקל לעזוב את עבודתו היציבה כדי להקים עסק עצמאי. הוא מחפש רעיונות למיזמים המשלבים את המומחיות הטכנית שלו עם תשוקתו לתחום ה-IT, ושואף לבנות עסק בעל פוטנציאל צמיחה לטווח ארוך. בנוסף, הוא מבקש עצות ותובנות מאנשים שעברו תהליך דומה של מעבר משכירות ליזמות.",
-    "category_he": "עסקים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-07-06",
-    "savedAt": {
-      "_seconds": 1783317817,
-      "_nanoseconds": 249000000
-    }
-  },
-  {
-    "id": "1uorgye",
-    "title": "RWAs are starting to look more like volatile products",
-    "url": "https://www.reddit.com/r/investing/comments/1uorgye/rwas_are_starting_to_look_more_like_volatile/",
-    "author": "Choice_Employee_7739",
-    "score": 1,
-    "selftext": "TradFi assets moving onto crypto exchanges makes me think more about trading hours.\n\nIf stocks, ETFs, RWAs, or pre-IPO exposure become tradable on crypto rails, the biggest change may be that TradFi starts behaving more like crypto: always open, repricing, tempting you to react. That can be useful when major news hits outside market hours. It also makes it easier to turn a long-term view into constant position checking.\n\nI trade TradFi products on bydfi mostly to hedge my crypto positions. Since these markets are open all the time, I need to know better for when the hedge is useful and when it is just another trade to babysit. More access is useful, but only if it does not make every headline feel tradable.\n\nDo you think 24/7 access to TradFi assets makes markets active, or mostly creates overtrade?",
-    "subreddit": "investing",
-    "created_utc": 1783326880,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "הפוסט דן בהשפעת המעבר של נכסים פיננסיים מסורתיים (RWAs) למסחר בפלטפורמות קריפטו, המאפשרות מסחר רציף של 24/7 ללא הפסקה. הכותב טוען כי נגישות זו הופכת את הנכסים הללו לתנודתיים יותר ומעודדת מסחר יתר ומעקב אובססיבי אחר מחירים, בדומה לאופי שוק הקריפטו. לסיכום, עולה השאלה האם הזמינות התמידית היא כלי יעיל לניהול סיכונים או שהיא בעיקר גורמת למשקיעים להגיב בצורה מוגזמת לכל כותרת חדשותית.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1uomerl",
-    "title": "Looking to begin day trading in my spare time, looking for any advice to someone who's never done it",
-    "url": "https://www.reddit.com/r/investing/comments/1uomerl/looking_to_begin_day_trading_in_my_spare_time/",
-    "author": "SpankMyMunkey",
-    "score": 1,
-    "selftext": "I was laid off from my job back in January and am the primary caregiver for my elderly father. I am fortunate to be in a safe longish-term financial position so as a result of having to care of my father, I am no longer working for the foreseeable future. However I would like to begin day trading with a personal account to see what kind of money I can make day to day / week to week / etc. Maybe this is an unrealistic goal but I'm just looking to make enough profit week to week to just support food and gas expenses, petty cash type stuff.\n\nI've heard from others that Fidelty and E-Trade are good platforms to use for this because they have no fees on transactions. Is this correct? Or is there another platform I should use to make a trading account? Basically my plan is to take $5,000 of my money and see what I can do with it. If I can invest it wisely and make a profit off of it, that's great. If I do a poor job and lose it, then so be it, I'll take the loss and be done with it.\n\nI'm just looking for any tips, advice, experience, etc. that others could offer. I'm especially interested in learning what kind of media I should watch/read to learn how companies and stocks are doing, to get ideas in what I should invest in that day.\n\nThank you in advance.",
-    "subreddit": "investing",
-    "created_utc": 1783309884,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "הכותב מעוניין להתחיל במסחר יומי עם תקציב של 5,000 דולר כדי לייצר הכנסה קטנה להוצאות שוטפות בזמן שהוא מטפל באביו. הוא מבקש עצות לגבי פלטפורמות מסחר ללא עמלות והמלצות על מקורות מידע וכלים לימודיים שיעזרו לו להבין איך להשקיע נכון בשוק ההון למרות חוסר ניסיונו.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1uogcjc",
-    "title": "Opportunity for its own ETF?",
-    "url": "https://www.reddit.com/r/investing/comments/1uogcjc/opportunity_for_its_own_etf/",
-    "author": "swhouston713",
-    "score": 1,
-    "selftext": "&#x200B;\n\nFor six years I've been a part of the Semiconductors and data centers build out and it led me to start researching. Over the last year, I've spent a lot of time researching the semiconductor and data center market. One thing that has stood out to me is how much of the AI conversation revolves around chip designers and hyperscalers, while the picks and shovels enabling production and deployment often receive less attention.\n\nI'm referring to areas such as:\n\nAdvanced packaging\n\nTesting and inspection\n\nMetrology and process control\n\nContamination control and specialty materials\n\nSubsystems and manufacturing infrastructure\n\nSome of these companies have already produced incredible returns, so this isn't an argument that they've been ignored by the market. My question is whether investors fully appreciate how critical these infrastructure layers are to scaling advanced compute and AI deployment over the long term.\n\nFor those who follow the sector closely:\n\nWhich semiconductor infrastructure companies do you think are most important over the next decade?\n\nAre there parts of the semiconductor value chain that you believe the market is still underestimating?\n\nDo current semiconductor ETFs adequately capture this exposure, or do they remain heavily concentrated in chip designers?\n\nInterested to hear other perspectives.",
-    "subreddit": "investing",
-    "created_utc": 1783292663,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "הפוסט דן בפוטנציאל ההשקעה ב\"תשתיות הייצור\" של תעשיית השבבים (כגון אריזה מתקדמת ובקרת איכות), שלטענת הכותב מקבלות פחות תשומת לב מאשר מעצבות השבבים הגדולות. הכותב תוהה האם השוק מעריך נכון את חשיבותן של חברות אלו לצמיחת הבינה המלאכותית, והאם יש צורך בתעודות סל (ETFs) שיתמקדו בשכבות קריטיות אלו בשרשרת האספקה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
     "id": "1uo9th0",
     "title": "The Trump 702 deregulation plan dropped Friday. I ranked which tickers will likely benefit from it",
     "url": "https://www.reddit.com/r/investing/comments/1uo9th0/the_trump_702_deregulation_plan_dropped_friday_i/",
@@ -175,7 +28,12 @@ window.dailyTrends = [
     ],
     "summary_he": "הפוסט מנתח את תוכנית הדה-רגולציה של ממשל טראמפ ומדרג מניות במגזרי האנרגיה, הכרייה והתעשייה שעשויות להרוויח מהסרת חסמים סביבתיים ובירוקרטיים. הכותב מסמן חברות כמו TMQ ו-NEXT כבעלות פוטנציאל צמיחה משמעותי עקב הקלות באישור פרויקטים, לצד הזדמנויות פחות מוכרות כמו חברת WHR, תוך אזהרה מהשקעות מסוכנות התלויות בהכרעות משפטיות.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח של התגובות המובילות מהדיון, המציג 6 נקודות מבט ורגשות שונים שעלו בקהילה:\n\n*   **חוסר הגיון בציפיות מהמודחים:** נטען כי אין טעם להתלונן על חוסר מעש של פוליטיקאים לאחר שהציבור בחר להדיח אותם מתפקידם; הדבר משול לפיטורי עובד וציפייה שהוא ימשיך לבצע את עבודתו.\n*   **ביקורת על חוסר העקביות של הגולשים:** עולה טענה כי משתמשי רשת (במקרה זה רדיט) נוטים להפגין מוסר כפול – הם פועלים להרחקת נבחרי ציבור ואז מביעים פליאה על כך שאין להם כוח פוליטי לפעול.\n*   **לעג ונוסטלגיה צינית:** השימוש בביטוי \"בודק שפופרות בכל בית מרקחת\" (רפרנס לעידן טכנולוגי ישן) מבטא סרקזם כלפי הצעות לא רלוונטיות או געגוע ציני לפתרונות של פעם שאינם קשורים למציאות הנוכחית.\n*   **קריאה לאקטיביזם מסורתי:** מוצגת גישה הגורסת כי הדרך לשינוי עוברת בצעדים בסיסיים וישירים של דמוקרטיה משתתפת – הצבעה בבחירות ויצירת קשר ישיר עם נציגי הציבור בקונגרס.\n*   **דחיית הגישה של \"שני הצדדים גרועים\":** ישנה התנגדות נחרצת לתפיסה הליברטריאנית או הניטרלית שטוענת שאין הבדל בין המפלגות; גישה זו נתפסת כמעוסה וככזו שאינה מקדמת דבר.\n*   **הוקעת הציניות כפחדנות:** על פי אחת העמדות, אנשים המגדירים את עצמם כ\"ריאליסטים\" בשל חוסר האמון שלהם במערכת הם למעשה \"פחדנים\" המשתמשים בציניות כדי להתחמק מאחריות אזרחית."
+    "comments_summary_he": "להלן ניתוח של התגובות המובילות מהדיון, המציג 6 נקודות מבט ורגשות שונים שעלו בקהילה:\n\n*   **חוסר הגיון בציפיות מהמודחים:** נטען כי אין טעם להתלונן על חוסר מעש של פוליטיקאים לאחר שהציבור בחר להדיח אותם מתפקידם; הדבר משול לפיטורי עובד וציפייה שהוא ימשיך לבצע את עבודתו.\n*   **ביקורת על חוסר העקביות של הגולשים:** עולה טענה כי משתמשי רשת (במקרה זה רדיט) נוטים להפגין מוסר כפול – הם פועלים להרחקת נבחרי ציבור ואז מביעים פליאה על כך שאין להם כוח פוליטי לפעול.\n*   **לעג ונוסטלגיה צינית:** השימוש בביטוי \"בודק שפופרות בכל בית מרקחת\" (רפרנס לעידן טכנולוגי ישן) מבטא סרקזם כלפי הצעות לא רלוונטיות או געגוע ציני לפתרונות של פעם שאינם קשורים למציאות הנוכחית.\n*   **קריאה לאקטיביזם מסורתי:** מוצגת גישה הגורסת כי הדרך לשינוי עוברת בצעדים בסיסיים וישירים של דמוקרטיה משתתפת – הצבעה בבחירות ויצירת קשר ישיר עם נציגי הציבור בקונגרס.\n*   **דחיית הגישה של \"שני הצדדים גרועים\":** ישנה התנגדות נחרצת לתפיסה הליברטריאנית או הניטרלית שטוענת שאין הבדל בין המפלגות; גישה זו נתפסת כמעוסה וככזו שאינה מקדמת דבר.\n*   **הוקעת הציניות כפחדנות:** על פי אחת העמדות, אנשים המגדירים את עצמם כ\"ריאליסטים\" בשל חוסר האמון שלהם במערכת הם למעשה \"פחדנים\" המשתמשים בציניות כדי להתחמק מאחריות אזרחית.",
+    "dateString": "2026-07-06",
+    "savedAt": {
+      "_seconds": 1783335103,
+      "_nanoseconds": 712000000
+    }
   },
   {
     "id": "1uo3zsh",
@@ -206,7 +64,48 @@ window.dailyTrends = [
     ],
     "summary_he": "המשתמש מבקש הדרכה לגבי חלוקה מחדש של כספים בין קרנות שונות בחשבון ה-IRA שלו ב-Vanguard. הוא מעוניין לדעת האם ניתן לבצע את העברת הכספים ורכישת קרן חדשה בפעולה אחת, או שנדרש למכור את האחזקות ולהמתין להסדרת המזומנים לפני הקנייה מחדש.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג 6 נקודות מבט ודעות שונות שהועלו על ידי הגולשים:\n\n* **שימוש בכלי ה\"החלפה\" (Exchange):** ההמלצה המרכזית היא להשתמש באופציית ה-Exchange המובנית במסך הקנייה/מכירה של פלטפורמת ההשקעות, במקום לבצע פעולות נפרדות של מכירה וקנייה.\n* **סוגיית העמלות:** עולה שאלה בקרב הקהילה לגבי העלויות הנלוות, ובפרט האם בבתי השקעות מסוימים (כמו Vanguard) ניתן לבצע פעולת החלפה כזו ללא תשלום עמלות.\n* **אסטרטגיית ביצוע הדרגתית:** הצעה טקטית שעלתה היא לקנות תחילה מניה אחת או שבריר מניה (Fractional share), ורק לאחר מכן לבצע את תהליך ההחלפה המלא פנימה.\n* **ההבדל בזמני הסליקה:** הגולשים מציינים כי בשיטה הרגילה של \"מכירה ואז קנייה\", הכספים צריכים לעבור תהליך סליקה (Settlement) שלפחות בקרנות נאמנות לוקח לפחות יום עסקים אחד, מה שיוצר עיכוב.\n* **סיכון של \"מחוץ לשוק\" (Time out of market):** קיים חשש מהותי בקהילה שביום הבודד שבו הכסף נמצא \"מחוץ לשוק\" בזמן ההמתנה לסליקה, עלולים להתרחש זינוקים משמעותיים בערך המניה (אפילו של 10%) והמשקיע יפסיד אותם.\n* **יעילות ה-Exchange לעומת חלופות:** הדיון מדגיש כי פעולת ההחלפה קורית לרוב \"בן לילה\", ולכן היא נתפסת כדרך היעילה ביותר למעבר בין ניירות ערך מבלי לאבד זמן חשיפה יקר לשוק."
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג 6 נקודות מבט ודעות שונות שהועלו על ידי הגולשים:\n\n* **שימוש בכלי ה\"החלפה\" (Exchange):** ההמלצה המרכזית היא להשתמש באופציית ה-Exchange המובנית במסך הקנייה/מכירה של פלטפורמת ההשקעות, במקום לבצע פעולות נפרדות של מכירה וקנייה.\n* **סוגיית העמלות:** עולה שאלה בקרב הקהילה לגבי העלויות הנלוות, ובפרט האם בבתי השקעות מסוימים (כמו Vanguard) ניתן לבצע פעולת החלפה כזו ללא תשלום עמלות.\n* **אסטרטגיית ביצוע הדרגתית:** הצעה טקטית שעלתה היא לקנות תחילה מניה אחת או שבריר מניה (Fractional share), ורק לאחר מכן לבצע את תהליך ההחלפה המלא פנימה.\n* **ההבדל בזמני הסליקה:** הגולשים מציינים כי בשיטה הרגילה של \"מכירה ואז קנייה\", הכספים צריכים לעבור תהליך סליקה (Settlement) שלפחות בקרנות נאמנות לוקח לפחות יום עסקים אחד, מה שיוצר עיכוב.\n* **סיכון של \"מחוץ לשוק\" (Time out of market):** קיים חשש מהותי בקהילה שביום הבודד שבו הכסף נמצא \"מחוץ לשוק\" בזמן ההמתנה לסליקה, עלולים להתרחש זינוקים משמעותיים בערך המניה (אפילו של 10%) והמשקיע יפסיד אותם.\n* **יעילות ה-Exchange לעומת חלופות:** הדיון מדגיש כי פעולת ההחלפה קורית לרוב \"בן לילה\", ולכן היא נתפסת כדרך היעילה ביותר למעבר בין ניירות ערך מבלי לאבד זמן חשיפה יקר לשוק.",
+    "dateString": "2026-07-06",
+    "savedAt": {
+      "_seconds": 1783335117,
+      "_nanoseconds": 372000000
+    }
+  },
+  {
+    "id": "1uo1g3p",
+    "title": "Food business - More stable than current software Job?",
+    "url": "https://www.reddit.com/r/business/comments/1uo1g3p/food_business_more_stable_than_current_software/",
+    "author": "FirefighterAlone8335",
+    "score": 1,
+    "selftext": "I am planning to do food business. My current tech job can be ended anytime now due to AI.    \nLooking for alternative. Don’t want to go back to software field if laid off honestly.\n\n1 Dosa - 140 INR    \nSell 30 piece daily \n\nTotal revenue - 4200    \nCost - 1200\n\nProfit - 3000 INR per day    \nTime spent - 4 hours\n\nMonthly earning - 90k INR    \nAlmost my take home salary lmao    \nStable job. No work pressure. No targets. Take break when needed.",
+    "subreddit": "business",
+    "created_utc": 1783255895,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "food can be more stable in demand, but that doesnt automatically make the business more stable.\n\npeople will always eat, yes. but getting 30 orders every day, keeping quality consistent, handling prep, packaging, delivery, complaints, repeat customers, and not burning out is the real test.\n\ni’d try it as a side business for a few months before quitting software. track actual orders, repeat buyers, food cost, time spent, wasted inventory, delivery issues, and how many days you still feel like doing it.\n\na food business looks simple on a spreadsheet. the kitchen is where the math gets honest.",
+        "score": 4,
+        "author": "Afraid-Flatworm-6762"
+      },
+      {
+        "body": "We own a food manufacturing plant. My parents chose this business because “people will always need food, they won’t always need gadgets or luxury items”",
+        "score": 3,
+        "author": "terrawillo"
+      },
+      {
+        "body": "hey 35 year IT and 25 of that coding. Retired in 22 and now build fishing gear, It is such a shame AI is hollowing out the field but I am here to tell you that spending most of you waking hour staring at a small screen is crap and if you make the transition I bet your life is better for it.",
+        "score": 2,
+        "author": "Smart-Intern-4007"
+      }
+    ],
+    "summary_he": "כותב הפוסט שוקל לעזוב את תחום התוכנה מחשש לאובדן עבודה בגלל הבינה המלאכותית ולפתוח עסק לממכר מזון (דוסה). הוא מציג חישוב לפיו מכירת 30 מנות ביום תניב רווח חודשי הדומה למשכורתו הנוכחית, אך עם הרבה פחות לחץ, יותר גמישות ויציבות תעסוקתית גבוהה יותר.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום של הדיון כפי שעלה מהתגובות, המציג 7 נקודות מבט ותובנות שונות לגבי המעבר מעולם הטכנולוגיה לעולם העסקים הפיזיים (ובמיוחד מזון):\n\n*   **יציבות הביקוש מול יציבות העסק:** בעוד שהביקוש למזון נחשב ליציב (אנשים תמיד צריכים לאכול), זה לא הופך את העסק עצמו ליציב באופן אוטומטי. הניהול היומיומי של הזמנות, איכות, אריזה ותלונות לקוחות הוא המבחן האמיתי.\n*   **הצורך ב\"ניסוי כלים\" לפני מעבר מלא:** מומלץ להתחיל את עסק המזון כעיסוק צדדי למשך מספר חודשים לפני שעוזבים קריירה בתוכנה. זאת כדי לבחון נתונים ריאליים כמו עלויות מזון, פחת, בעיות משלוח והאם היזם בכלל נהנה מהעבודה לאורך זמן.\n*   **הפער בין תיאוריה למציאות:** ישנה הבנה שעל הנייר (בגיליונות אקסל) עסק מזון נראה פשוט ורווחי, אך המציאות במטבח היא המקום שבו \"המתמטיקה הופכת לכנה\" ומתגלים הקשיים האמיתיים.\n*   **מזון כצורך בסיסי מול מוצרי מותרות:** קיימת סנטימנט קהילתי שרואה בענף המזון השקעה בטוחה יותר לטווח ארוך, כיוון שהוא מספק צורך קיומי בסיסי, בניגוד לגאדג'טים או פריטי יוקרה שאנשים עשויים לוותר עליהם בעתות משבר.\n*   **שחיקה מעבודה מול מסכים:** אנשי מקצוע ותיקים בתחום ה-IT מעידים על תחושת מיאוס מהשעות הרבות המושקעות בבהייה במסכים קטנים, וטוענים שאיכות החיים משתפרת משמעותית לאחר המעבר לעבודה פיזית ומוחשית.\n*   **איום הבינה המלאכותית על ענף התכנות:** ישנה תחושה בקרב אנשי הייטק שה-AI \"מרוקנת מתוכן\" את המקצוע, מה שהופך את המעבר לתחומים של ייצור פיזי (כמו בניית ציוד דיג או מזון) לאטרקטיבי ומתגמל יותר רגשית.\n*   **הסיפוק שביצירה פיזית:** הדיון מדגיש שהמעבר לעבודה עם הידיים והפקה של מוצר מוחשי יכול להוביל לחיים טובים ומאוזנים יותר מאשר קריירה ארוכה בכתיבת קוד.",
+    "dateString": "2026-07-06",
+    "savedAt": {
+      "_seconds": 1783317840,
+      "_nanoseconds": 587000000
+    }
   },
   {
     "id": "1uo3jdr",
@@ -237,37 +136,212 @@ window.dailyTrends = [
     ],
     "summary_he": "הכותב בוחן את קרן הסל EWY (דרום קוריאה) כהשקעה לטווח ארוך, במטרה לקבל חשיפה לחברות טכנולוגיה מובילות כמו סמסונג ו-SK Hynix. לטענתו, רכישת הקרן מפחיתה את הסיכון הכרוך בהשקעה במניות בודדות ומקלה על הגישה לשוק הקוריאני, אך הוא תוהה האם מדובר בנקודת כניסה טובה לאחר שהמדד כבר רשם עליות משמעותיות.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והתובנות שעלו מהתגובות בשרשור ה-Reddit בנוגע להשקעה בשוק הדרום-קוריאני:\n\n* **אסטרטגיית החזקה לטווח ארוך:** חלק מהמשקיעים מביעים אמון בשוק הקוריאני ומתכננים להחזיק בנכסים אלו לטווח זמן ממושך.\n* **התמקדות במגזר השבבים (DRAM):** עבור מי שמתעניין בענקיות הטכנולוגיה סמסונג ו-SK Hynix, קיימת המלצה לבחון ספציפית את שוק ה-DRAM, המהווה מרכיב מרכזי בפעילותן.\n* **אזהרה מפני תנודתיות:** מצוין כי שוק ה-DRAM מתאפיין בתנודתיות גבוהה (\"Volatile\"), מה שמצריך היערכות לשינויים חדים במחירים.\n* **השוואת עלויות ודמי ניהול:** קיימת העדפה ברורה לקרן הסל FLKR על פני EWY בשל דמי ניהול נמוכים משמעותית (0.09% לעומת 0.59%), מה שמשפיע על הרווחיות המצטברת.\n* **הצלחות עבר ותשואות גבוהות:** משקיעים משתפים כי החזקה בקרן EWY הניבה להם בעבר תשואה מרשימה של פי שניים על ההשקעה (Doubled).\n* **סנטימנט אופטימי לטווח הקצר:** קיים סנטימנט שורי (Bullish) בקרב חלק מהקהילה, עם ציפייה לזינוק משמעותי בערך הנכסים כבר במהלך השבוע הקרוב."
+    "comments_summary_he": "להלן סיכום הדיון והתובנות שעלו מהתגובות בשרשור ה-Reddit בנוגע להשקעה בשוק הדרום-קוריאני:\n\n* **אסטרטגיית החזקה לטווח ארוך:** חלק מהמשקיעים מביעים אמון בשוק הקוריאני ומתכננים להחזיק בנכסים אלו לטווח זמן ממושך.\n* **התמקדות במגזר השבבים (DRAM):** עבור מי שמתעניין בענקיות הטכנולוגיה סמסונג ו-SK Hynix, קיימת המלצה לבחון ספציפית את שוק ה-DRAM, המהווה מרכיב מרכזי בפעילותן.\n* **אזהרה מפני תנודתיות:** מצוין כי שוק ה-DRAM מתאפיין בתנודתיות גבוהה (\"Volatile\"), מה שמצריך היערכות לשינויים חדים במחירים.\n* **השוואת עלויות ודמי ניהול:** קיימת העדפה ברורה לקרן הסל FLKR על פני EWY בשל דמי ניהול נמוכים משמעותית (0.09% לעומת 0.59%), מה שמשפיע על הרווחיות המצטברת.\n* **הצלחות עבר ותשואות גבוהות:** משקיעים משתפים כי החזקה בקרן EWY הניבה להם בעבר תשואה מרשימה של פי שניים על ההשקעה (Doubled).\n* **סנטימנט אופטימי לטווח הקצר:** קיים סנטימנט שורי (Bullish) בקרב חלק מהקהילה, עם ציפייה לזינוק משמעותי בערך הנכסים כבר במהלך השבוע הקרוב.",
+    "dateString": "2026-07-06",
+    "savedAt": {
+      "_seconds": 1783335129,
+      "_nanoseconds": 854000000
+    }
   },
   {
-    "id": "1uo2h94",
-    "title": "Weekly Gold Outlook: Key Macro Events That Could Move Gold This Week",
-    "url": "https://www.reddit.com/r/investing/comments/1uo2h94/weekly_gold_outlook_key_macro_events_that_could/",
-    "author": "rahsady",
+    "id": "1upq8eu",
+    "title": "Abu Dhabi Ruler’s Family Office Is a Global Dealmaking Force",
+    "url": "https://www.reddit.com/r/finance/comments/1upq8eu/abu_dhabi_rulers_family_office_is_a_global/",
+    "author": "bloomberg",
     "score": 1,
-    "selftext": "I put together this week's macro outlook focusing on gold, central bank policy, global liquidity and the economic calendar.\n\nMain topics:\n\n• Fed speakers  \n• Japan election implications  \n• ECB decision  \n• Gold drivers  \n• Dollar liquidity\n\nI'd genuinely appreciate any feedback from the community.\n\n",
+    "selftext": "*Its name is rarely spoken in public, but the family office of Abu Dhabi's ruler is a global force with a huge appetite for deals.*",
+    "subreddit": "finance",
+    "created_utc": 1783417344,
+    "thumbnail": "https://external-preview.redd.it/9qIoDqACA-1NoopGpFBD_VsbS1RPrpSJnaJ0Eps67To.jpeg?width=140&height=73&auto=webp&s=bb251f9add60df70b1192b622f0c5aa175882d2b",
+    "top_comments": [
+      {
+        "body": "*AC Limited has quietly splashed out billions around the world, building deep ties with the titans of Wall Street.*  \n  \n*Ben Scent, Ben Bartenstein, Benjamin Stupples and Silas Brown for Bloomberg News*  \n  \nIn the heart of Dubai’s financial center sits an investment fund whose name is rarely mentioned in public, though its money surfaces with striking regularity in deals around the world. It operates with such discretion that the identity of its backer was a mystery to at least one long-time employee.  \n  \nAC Limited is the family office of Sheikh Mohamed bin Zayed Al Nahyan, president of the United Arab Emirates and ruler of Abu Dhabi. Staffed by a team of dealmakers in one of Dubai’s glitziest corporate towers, it’s believed to manage assets worth tens of billions of dollars and has become a crucial pit-stop for fundraising in the Middle East.  \n  \nThe firm has built positions in mega-cap stocks like Amazon, Microsoft and Nvidia, and invested with Blackstone and Carlyle Group. It has been a shareholder in closely-held companies including supercar maker McLaren and a startup developing a breathalyzer test for cancer. And it’s helped finance everything from Chinese buyouts to healthcare takeovers in the US and even a luxury hotel on the banks of Venice’s Grand Canal.  \n  \nSince the start of last year alone, AC Limited has backed Ardian’s record $30 billion secondaries fund, helped finance a management buyout of European private credit heavyweight Hayfin and invested in the nearly $700 million listing of the Uzbek national investment fund. Even after war upended the regional landscape, executives from one of the world’s largest banks met senior figures at the family office and left with the impression that its appetite for deals remained undimmed.  \n  \nThis portrait of the fund was compiled through an analysis of regulatory filings around the world and conversations with dozens of people familiar with the matter. Nearly all of them asked not to be named to avoid damaging relationships with an entity striving to keep a low profile. AC Limited doesn’t publicize its investments, and its involvement in the vast majority of these transactions hasn’t been previously reported.  \n  \n[Read the Big Take here.](https://www.bloomberg.com/features/2026-uae-family-office-ac-limited-investments/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzQxNzIwNiwiZXhwIjoxNzg0MDIyMDA2LCJhcnRpY2xlSWQiOiJUSFJVQ0lLR0lGUEQwMCIsImJjb25uZWN0SWQiOiJEMzU0MUJFQjhBQUY0QkUwQkFBOUQzNkI3QjlCRjI4OCJ9.VVi3RIL90-9Wp2et4xXAWmzJfWZjCSTebsz3wDwcCoI)",
+        "score": 1,
+        "author": "bloomberg"
+      }
+    ],
+    "summary_he": "משרד ההשקעות של משפחת השלטון באבו דאבי הפך לכוח דומיננטי ורב-עוצמה בשוק העסקאות הגלובלי. למרות שהארגון פועל לרוב בחשאיות והרחק מעין הציבור, הוא מפגין תיאבון רב לרכישות ענק ומרחיב את השפעתו הכלכלית ברחבי העולם.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום של הנקודות המרכזיות והתובנות העולות מהדיווח על פעילותה של קרן AC Limited:\n\n* **סודיות ודיסקרטיות קיצונית:** הקרן פועלת תחת מעטה חשאיות כבדה, עד כדי כך שזהות העומד מאחוריה הייתה תעלומה אפילו עבור חלק מעובדיה הוותיקים. היא נמנעת מפרסום השקעותיה ופועלת הרחק מעין הציבור בלב המרכז הפיננסי של דובאי.\n* **הקשר לשלטון באבו דאבי:** הקרן היא למעשה ה\"פמילי אופיס\" (משרד ניהול הון משפחתי) של שייח' מוחמד בן זאיד אאל נהיאן, נשיא איחוד האמירויות ושליט אבו דאבי. עובדה זו מעניקה לה גב כלכלי ופוליטי אדיר.\n* **צומת מרכזי לגיוס הון עולמי:** עם נכסים המוערכים בעשרות מיליארדי דולרים, הקרן הפכה לתחנת חובה עבור ענקי וול סטריט ומנהלי קרנות בינלאומיים המחפשים מימון והשקעות אסטרטגיות.\n* **תיק השקעות מגוון ורחב היקף:** הקרן מחזיקה בפוזיציות בחברות הטכנולוגיה הגדולות בעולם (אמזון, מיקרוסופט, אנבידיה), לצד השקעות בנכסים מגוונים כמו יצרנית מכוניות העל \"מקלארן\", סטארט-אפים רפואיים חדשניים ומלונות יוקרה בוונציה.\n* **נוכחות גלובלית חוצת יבשות:** פעילות הקרן אינה מוגבלת למפרץ; היא מעורבת בעסקאות רכישה בסין, מימון חברות בארה\"ב, השקעה בקרנות פרייבט אקוויטי אירופיות ואפילו בהנפקת קרן ההשקעות הלאומית של אוזבקיסטן.\n* **חוסן והמשכיות למרות טלטלות אזוריות:** למרות המלחמות וחוסר היציבות במזרח התיכון, התיאבון של הקרן לעסקאות חדשות נותר ללא פגע. גורמים פיננסיים בכירים מציינים כי האסטרטגיה של הקרן ממשיכה להתרחב ללא קשר למצב הגיאופוליטי באזור."
+  },
+  {
+    "id": "1upq7qh",
+    "title": "Hanwha Ocean Shares Plunge 23% Following Failed Canada Bid",
+    "url": "https://www.reddit.com/r/finance/comments/1upq7qh/hanwha_ocean_shares_plunge_23_following_failed/",
+    "author": "Head_Ad_3801",
+    "score": 1,
+    "selftext": "# Market Reaction to Failed Bid\n\nOn July 7, 2026, shares of Hanwha Ocean experienced a sharp correction, falling 23% during trading hours. This significant decline follows the formal announcement by the Canadian government that the company's bid to construct the nation's next fleet of submarines was unsuccessful. The market response reflects investor disappointment regarding the loss of what was anticipated to be a major international defense contract.\n\n# The Selection Process\n\nCanadian Prime Minister Mark Carney confirmed on Monday that the government has officially selected Germany-based Thyssenkrupp Marine Systems (TKMS) as the preferred supplier for the submarine program. While specific financial terms of the contract were not disclosed, the scale of Canada's fleet renewal represents a multi-billion dollar investment in national defense infrastructure. For Hanwha Ocean, which had positioned itself as a serious contender, the failure to secure this partnership limits its footprint in the North American maritime defense market.\n\n# Implications for Investors\n\nFor market participants, the 23% drop signifies a rapid repricing of Hanwha Ocean’s growth prospects. Investors had largely priced in the potential success of the Canadian bid, viewing it as a key catalyst for future revenue expansion. With this opportunity off the table, analysts are now looking toward the company's remaining pipeline and domestic defense orders to determine if the stock can stabilize. The loss serves as a reminder of the volatility inherent in international defense procurement cycles, where the selection process involves complex geopolitical and technical evaluations beyond simple pricing metrics.\n\n# Forward-Looking Context\n\nMoving forward, shareholders will closely monitor management's commentary regarding its international expansion strategy. While Thyssenkrupp Marine Systems moves forward as the preferred bidder, Hanwha Ocean faces the task of regaining market confidence. The sharp downward move on July 7, 2026, highlights the sensitivity of defense sector stocks to government contract decisions. Investors should note that without the revenue contribution from this expected project, Hanwha Ocean must now rely on its existing order book and potential future tenders to maintain its current valuation metrics.\n\n",
+    "subreddit": "finance",
+    "created_utc": 1783417281,
+    "thumbnail": "https://preview.redd.it/jhvhtqe63sbh1.jpeg?width=140&height=78&auto=webp&s=8edfa9bb860c5e10069cf1ab89099b5b79554bd2",
+    "top_comments": [
+      {
+        "body": "Source: [Finance Flux News](https://financefluxnews.com/article/hanwha-ocean-shares-sink-23-percent-canada-submarine-bid)",
+        "score": 1,
+        "author": "Head_Ad_3801"
+      }
+    ],
+    "summary_he": "מניית Hanwha Ocean צנחה ב-23% בעקבות כישלונה במכרז הענק לבניית צי צוללות עבור קנדה, שבחרה במקומה בחברה הגרמנית Thyssenkrupp Marine Systems. אובדן החוזה היוקרתי מהווה מכה משמעותית לתוכניות ההתרחבות הבינלאומיות של החברה ומאלץ את המשקיעים להעריך מחדש את תחזיות הצמיחה שלה בהתבסס על הזמנות עתידיות אחרות.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום מקיף בעברית של הלכי הרוח והדעות המרכזיות שעלו בדיונים סביב הצניחה במניית \"Hanwha Ocean\" והמכרז לצוללות הקנדיות:\n\n**סיכום הדיון והלך הרוח בקהילה:**\n\n*   **ספקנות לגבי תהליך הרכש הקנדי:** משתתפים רבים הביעו חוסר אמון ביכולתה של קנדה להוציא אל הפועל פרויקט בסדר גודל כזה. הועלו זיכרונות מרכישות קודמות (כמו צוללות ה\"ויקטוריה\" המשומשות מבריטניה) שהיו רצופות בתקלות ועיכובים, והתחושה היא שהמכרז הנוכחי עלול להיגרר שנים או להתבטל בסופו של דבר.\n*   **תגובת יתר של השוק:** חלק מהאנליסטים והמגיבים בקהילות ההשקעות טוענים כי הירידה של 23% היא \"תגובת פאניקה\" מוגזמת. לטענתם, השוק הגיב בחריפות לחשש ש-Hanwha תפסיד במכרז לטובת המתחרה הדרום-קוריאנית (HD Hyundai) או לטובת הצעה יפנית, עוד לפני שהתקבלה החלטה רשמית כלשהי.\n*   **היתרון הטכנולוגי מול סיכוני ביצוע:** בעוד שיש הסכמה שצוללות ה-KSS-III של האנווה הן מהמתקדמות בעולם, הדיון התמקד בשאלה האם קנדה מסוגלת לתחזק טכנולוגיה כזו. עלה חשש שדרישות ל\"לוקליזציה\" (בנייה או תחזוקה בקנדה) ייקרו את הפרויקט לרמה שתהפוך אותו לבלתי כלכלי עבור החברה הקוריאנית.\n*   **התחרות היפנית כגורם מכריע:** בקהילה מציינים כי יפן (עם צוללות ה-Taigei) נחשבת למתחרה חזקה מאוד במכרז הזה. הסנטימנט הוא שהיחסים הגיאופוליטיים בין קנדה ליפן עשויים להכריע את הכף, מה שמלחיץ את המשקיעים ב-Hanwha Ocean שרואים במכרז זה \"מנוע צמיחה\" קריטי.\n*   **חשש מ\"קללת הזוכה\":** חלק מהמגיבים ציינו כי זכייה בחוזה הקנדי עלולה להיות בעייתית. בהתחשב בדרישות התקציביות הנוקשות של קנדה ובנטייה של פרויקטים ביטחוניים שם לחרוג מהתקציב, יש המאמינים שהפסד במכרז עשוי להיות דווקא בשורה טובה לחוסן הפיננסי לטווח ארוך של החברה.\n*   **חשיבות אסטרטגית מול שיקולים פוליטיים:** עלתה הטענה שהצורך של קנדה בצוללות להגנה על האזור הארקטי הוא דחוף, אך הציבור הקנדי לרוב אינו תומך בהוצאות ביטחוניות מאסיביות. הסנטימנט בקהילה הוא שהמניה צנחה כי המשקיעים מבינים שהפוליטיקה הפנימית בקנדה עלולה להוביל לצמצום משמעותי במספר הצוללות שיוזמנו בפועל."
+  },
+  {
+    "id": "1upp7n0",
+    "title": "Hanwha Ocean Shares Plunge 23% Following Failed Canada Bid",
+    "url": "https://www.reddit.com/r/finance/comments/1upp7n0/hanwha_ocean_shares_plunge_23_following_failed/",
+    "author": "Head_Ad_3801",
+    "score": 1,
+    "selftext": "[Source: Finance Flux News](https://financefluxnews.com/article/hanwha-ocean-shares-sink-23-percent-canada-submarine-bid)\n\nHanwha Ocean saw its share price plummet by 23% on Tuesday, July 7, 2026, after losing a high-stakes competition to build Canada's next submarine fleet. Canadian Prime Minister Mark Carney confirmed that Germany's Thyssenkrupp Marine Systems has been selected as the preferred supplier for the project.\n\n# Market Reaction to Failed Bid\n\nOn July 7, 2026, shares of Hanwha Ocean experienced a sharp correction, falling 23% during trading hours. This significant decline follows the formal announcement by the Canadian government that the company's bid to construct the nation's next fleet of submarines was unsuccessful. The market response reflects investor disappointment regarding the loss of what was anticipated to be a major international defense contract.\n\n# The Selection Process\n\nCanadian Prime Minister Mark Carney confirmed on Monday that the government has officially selected Germany-based Thyssenkrupp Marine Systems (TKMS) as the preferred supplier for the submarine program. While specific financial terms of the contract were not disclosed, the scale of Canada's fleet renewal represents a multi-billion dollar investment in national defense infrastructure. For Hanwha Ocean, which had positioned itself as a serious contender, the failure to secure this partnership limits its footprint in the North American maritime defense market.\n\n# Implications for Investors\n\nFor market participants, the 23% drop signifies a rapid repricing of Hanwha Ocean’s growth prospects. Investors had largely priced in the potential success of the Canadian bid, viewing it as a key catalyst for future revenue expansion. With this opportunity off the table, analysts are now looking toward the company's remaining pipeline and domestic defense orders to determine if the stock can stabilize. The loss serves as a reminder of the volatility inherent in international defense procurement cycles, where the selection process involves complex geopolitical and technical evaluations beyond simple pricing metrics.\n\n# Forward-Looking Context\n\nMoving forward, shareholders will closely monitor management's commentary regarding its international expansion strategy. While Thyssenkrupp Marine Systems moves forward as the preferred bidder, Hanwha Ocean faces the task of regaining market confidence. The sharp downward move on July 7, 2026, highlights the sensitivity of defense sector stocks to government contract decisions. Investors should note that without the revenue contribution from this expected project, Hanwha Ocean must now rely on its existing order book and potential future tenders to maintain its current valuation metrics.",
+    "subreddit": "finance",
+    "created_utc": 1783413848,
+    "thumbnail": "https://preview.redd.it/jrvr708wsrbh1.jpeg?width=140&height=78&auto=webp&s=a5f15dc00aeae8f4280dab58812b156d523e2cc0",
+    "top_comments": [],
+    "summary_he": "מניות חברת Hanwha Ocean צנחו ב-23% בעקבות הפסד במכרז הענק לבניית צי הצוללות החדש של קנדה, שהוענק במקום זאת לחברה הגרמנית Thyssenkrupp. הכישלון במכרז הביטחוני היוקרתי מהווה מכה קשה לתוכניות ההתרחבות של החברה בשוק הצפון-אמריקאי ופוגע משמעותית בציפיות הצמיחה ובתמחור המניה על ידי המשקיעים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1up9wxe",
+    "title": "Top economist says AI just hasn’t delivered on the productivity hype—and it means a 'painful repricing' of markets is very possible",
+    "url": "https://www.reddit.com/r/finance/comments/1up9wxe/top_economist_says_ai_just_hasnt_delivered_on_the/",
+    "author": "fortune",
+    "score": 1,
+    "selftext": "The clock is ticking on AI to deliver on its promises of transformed workplace and economic productivity, and if lags in returns on investment continue, the markets are in for a rude awakening, according to one top economist.\n\nTorsten Slok, the influential chief economist for Apollo Global Management, argued in a recent blog post that there’s a growing gap around AI-enhanced productivity. Basically, you can only see it at tech companies, not most of the Fortune 500.   \n  \nWhile some sectors like software and tech can easily integrate AI into their operations, Slok argued that deploying this technology is slow-going for the vast majority of the economy. It takes time and effort due to regulatory hurdles, data protection, and workflow integration, meaning structural productivity gains are slow, and returns of investment have yet to be seen. Slok said he thinks it may happen—eventually. And by that point, the stock bubble may have burst, because the market has priced in returns sooner rather than later. \n\nRead more \\[paywall removed for Redditors\\]:   \n[https://fortune.com/2026/07/06/ai-productivity-gains-bubble-painful-repricing-markets-torsten-slok/?utm\\_source=reddit/](https://fortune.com/2026/07/06/ai-productivity-gains-bubble-painful-repricing-markets-torsten-slok/?utm_source=reddit/)",
+    "subreddit": "finance",
+    "created_utc": 1783371300,
+    "thumbnail": "https://external-preview.redd.it/SN0jSBzjIpdvsWPIwaNuZVIPzV0J7r5IE5VZmkBmask.jpeg?width=140&height=70&auto=webp&s=25a1226d509189f0e7db2c26e9ac7f7f96ff75a9",
+    "top_comments": [
+      {
+        "body": "“Why did God create economists?\n\nTo make weather forecasters look good.”",
+        "score": 35,
+        "author": "ensui67"
+      },
+      {
+        "body": "75 years of computers replacing humans has left a very difficult task for AI",
+        "score": 29,
+        "author": "bonerb0ys"
+      },
+      {
+        "body": "The sooner the better, then we can settle in to reality.",
+        "score": 15,
+        "author": "GaboureySidibe"
+      }
+    ],
+    "summary_he": "הכלכלן טורסטן סלוק מזהיר כי הבינה המלאכותית טרם הניבה את שיפורי הפריון המצופים ברוב ענפי המשק, בשל חסמים רגולטוריים ומורכבות הטמעת הטכנולוגיה. לטענתו, הפער בין הציפיות הגבוהות של שוק ההון לבין קצב ההתקדמות האיטי בשטח עלול להוביל ל\"תמחור מחדש כואב\" של המניות ולפיצוץ בועת ה-AI.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **ספקנות עמוקה כלפי תחזיות כלכליות:** התגובות משקפות תפיסה הומוריסטית אך צינית, לפיה כלכלנים אינם מסוגלים לספק תחזיות מדויקות, עד כדי כך שהם גורמים אפילו לחזאי מזג אוויר להיראות אמינים בהשוואה אליהם.\n*   **הומור ככלי לביקורת חברתית:** השימוש בבדיחה על חשבון כלכלנים מעיד על חוסר אמון של הקהילה ב\"מומחים\" ובמדעים המנסים לנבא מגמות עתידיות בשוק.\n*   **המשכיות היסטורית של האוטומציה:** קיימת הבנה שהבינה המלאכותית אינה תופעה מבודדת, אלא המשך ישיר של תהליך בן 75 שנה שבו מחשבים מחליפים כוח אדם אנושי.\n*   **מורכבות האתגר הניצב בפני ה-AI:** על פי הסנטימנט בקהילה, המשימות שנותרו עבור הבינה המלאכותית הן המורכבות ביותר, שכן המחשוב המסורתי כבר \"טיפל\" בכל המשימות הפשוטות יותר במהלך העשורים האחרונים.\n*   **רצון בהאצת השינוי (אקסלרציוניזם):** חלק מהמגיבים מביעים גישה לפיה עדיף שהשינוי הטכנולוגי והחברתי יקרה \"כמה שיותר מהר\", מתוך רצון לעבור את תקופת אי-הוודאות.\n*   **השתוקקות ליציבות במציאות חדשה:** עולה תחושה שהחברה נמצאת כרגע ב\"לימבו\" או במצב מעבר, וכי רק לאחר שהשינוי יושלם, נוכל סוף סוף להתמודד עם המציאות האמיתית ולהסתגל אליה."
+  },
+  {
+    "id": "1up19ul",
+    "title": "After a nearly 800% explosion, this AI stock's U.S. debut could signal if the market can still boom—or is headed for a bust",
+    "url": "https://www.reddit.com/r/finance/comments/1up19ul/after_a_nearly_800_explosion_this_ai_stocks_us/",
+    "author": "fortune",
+    "score": 1,
+    "selftext": "South Korean chipmaker SK Hynix isn’t one of the Magnificent 7 stocks but is in a class of its own after pulling off a stunning rally on the back of the AI boom, and it’s about to land on U.S. markets.\n\nShares will list on the Nasdaq and are expected to start trading on Friday, raising about   \n$29 billion in what could be the biggest-ever first-time share sale by a foreign company.  \n  \nThat’s after SK Hynix’s Korea-listed stock has shot up 770% over the last 12 months, even after a 20% selloff from a peak in June.  \n  \nThe surge even outpaces Micron Technology’s 700% rally over the same time, with makers of memory chips emerging as critical enablers of AI agents. And SK Hynix is the top supplier of high-bandwidth memory after becoming Nvidia’s favorite provider.  \n\n\nRead more \\[paywall removed for Redditors\\]: [https://fortune.com/2026/07/05/sk-hynix-stock-us-listing-nasdaq-ai-boom-bust-memory-chip-shortage/?utm\\_source=reddit/](https://fortune.com/2026/07/05/sk-hynix-stock-us-listing-nasdaq-ai-boom-bust-memory-chip-shortage/?utm_source=reddit/)\n\n",
+    "subreddit": "finance",
+    "created_utc": 1783353096,
+    "thumbnail": "https://external-preview.redd.it/vvYu0kPzacKbRSjJmXqH8P0ZPcGzYvzthgamUyx4gZQ.jpeg?width=140&height=70&auto=webp&s=0c2d41c04df1210ef636cd7e5c3cdec2f3d251cf",
+    "top_comments": [],
+    "summary_he": "יצרנית השבבים הדרום-קוריאנית SK Hynix, הספקית המרכזית של אנבידיה לתחום הבינה המלאכותית, צפויה להתחיל להיסחר בנאסד\"ק בהנפקה ענקית בשווי של כ-29 מיליארד דולר. המהלך מגיע לאחר זינוק של קרוב ל-800% בערך מניית החברה בשנה האחרונה, והוא נתפס כמבחן גורלי שיקבע אם השוק בדרך לשיאים חדשים או לקראת דעיכה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1uppcmg",
+    "title": "What’s the best broker for daytrading?",
+    "url": "https://www.reddit.com/r/investing/comments/1uppcmg/whats_the_best_broker_for_daytrading/",
+    "author": "corjoca",
+    "score": 1,
+    "selftext": "im trying to figure out what works best for me, tried a few but none were really comfortable and didnt stick with me.  \nlooking forward to hearing your experiences and your suggestions thank you guys<3 (No financial advice needed, just curious about your platform software, UI and execution speed).",
     "subreddit": "investing",
-    "created_utc": 1783258773,
+    "created_utc": 1783414336,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "כותב הפוסט מחפש המלצות לברוקר המתאים ביותר למסחר יומי, לאחר שניסה מספר פלטפורמות שלא הרגישו לו בנוח. הוא מעוניין לשמוע על חוויות של משתמשים אחרים בדגש על נוחות התוכנה, ממשק המשתמש ומהירות הביצוע של הפלטפורמה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1uppbpf",
+    "title": "Internacional Golden Butterfly core portfolio",
+    "url": "https://www.reddit.com/r/investing/comments/1uppbpf/internacional_golden_butterfly_core_portfolio/",
+    "author": "hillionman",
+    "score": 1,
+    "selftext": "I’ve been pretty much all-in on tech and growth since 2020, and honestly it’s worked out way better than I expected.  \nLately though, I’ve been thinking about building an actual core portfolio and just keeping growth as a satellite position. Maybe even going 50/50.  \nThe idea I keep coming back to is basically an international take on the Golden Butterfly:  \n40% VT  \n20% SHY  \n20% TLT  \n20% GLD  \nCurious what you guys think. Am I overthinking it after a great run, or does this make sense?",
+    "subreddit": "investing",
+    "created_utc": 1783414245,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Good stuff. I'd add that the June jobs print (57K vs 130K expected, plus 74K in downward revisions) already knocked rate hike odds down. If CPI on July 10 comes in soft that's a double whammy.\n\nAlso it's worth noting unemployment fell to 4.2% but participation dropped to 61.5%, lowest since 2021. The labor market is weaker than the headline looks, which gives the Fed less room to tighten even with inflation running hot. That weak labor and sticky inflation combo tends to be supportive for gold.",
-        "score": 2,
-        "author": "MacroDataLab"
-      },
-      {
-        "body": "You might also want to include real yields and ETF inflows/outflows. In my experience, those often explain gold's short-term moves better than headlines alone. Looking forward to reading your analysis.",
-        "score": 2,
-        "author": "Bharat8502"
-      },
-      {
-        "body": "Thanks, I really appreciate that. I'm aiming to build a consistent macro framework rather than focus on one-off market calls. Looking forward to hearing your thoughts after you've had a chance to read it.",
+        "body": "Thanks! But doesn’t WTV makes it too US foccused? Don’t know if that’s a risk tho…",
         "score": 1,
-        "author": "rahsady"
+        "author": "hillionman"
+      },
+      {
+        "body": "I am a fan. I would change TLT to KMLM because TLT has been highly correlated to equities in recent years, and I'd consider WTV instead of VT.\n\nIT is becoming mired in capex, with signs AI may lack pricing power, and already we're seeing a rotation out of the sector. so your pivot is timely.",
+        "score": 1,
+        "author": "hymie-the-robot"
       }
     ],
-    "summary_he": "הפוסט מציג תחזית שבועית למחירי הזהב תוך התמקדות באירועי מאקרו משמעותיים, כגון החלטות ריבית של בנקים מרכזיים (הפד וה-ECB), השלכות הבחירות ביפן ונזילות הדולר. הכותב מנתח את הגורמים שעשויים להשפיע על תנודות השוק השבוע ומזמין את הקהילה לספק משוב על הניתוח שלו.",
+    "summary_he": "הכותב שוקל לעבור מהשקעה מרוכזת במניות טכנולוגיה וצמיחה לבניית תיק ליבה מאוזן יותר, המבוסס על גרסה בינלאומית לאסטרטגיית ה-\"Golden Butterfly\". התיק המוצע כולל 40% מניות עולמיות (VT), לצד חלוקה שווה בין אג\"ח ממשלתי לטווח קצר וארוך וזהב (20% לכל אפיק). הוא מבקש להתייעץ האם המעבר לפיזור רחב כזה הגיוני כעת, או שמדובר בזהירות יתר בעקבות הצלחת תיק הצמיחה שלו בשנים האחרונות.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום של נקודות המפתח והלך הרוח בקהילה כפי שעלה מהתגובות בשרשור:\n\n*   **השפעת נתוני התעסוקה על הריבית:** נתוני התעסוקה של חודש יוני היו חלשים משמעותית מהתחזיות (57 אלף משרות בלבד לעומת צפי של 130 אלף), מה שכבר הוביל לירידה בציפיות של השוק להעלאות ריבית נוספות.\n*   **ציפייה לנתוני האינפלציה (CPI):** קיימת דריכות לקראת פרסום מדד המחירים לצרכן ב-10 ביולי; נטען כי אם הנתון יהיה נמוך (\"רך\"), זו תהיה \"מכה כפולה\" שתחליש עוד יותר את הטיעון בעד מדיניות מוניטרית מצמצמת.\n*   **חולשה סמויה בשוק העבודה:** למרות נתון האבטלה הרשמי (4.2%), חברי הקהילה מצביעים על כך ששיעור ההשתתפות בשוק העבודה צנח לרמתו הנמוכה ביותר מאז 2021 (61.5%), מה שמעיד על שוק עבודה חלש מכפי שנראה במבט ראשון.\n*   **מגבלות הכוח של הפדרל ריזרב:** חולשת שוק העבודה מצמצמת את מרחב התמרון של ה-Fed; נטען כי הבנק המרכזי יתקשה להמשיך בהידוק מוניטרי גם אם האינפלציה תישאר גבוהה (\"דביקה\"), בשל החשש מפגיעה נוספת בתעסוקה.\n*   **תחזית אופטימית לזהב:** השילוב שבין שוק עבודה נחלש לבין אינפלציה מתמשכת נתפס כסביבה אידיאלית התומכת בעליית מחירי הזהב.\n*   **חשיבותם של מדדים טכניים וזרימת כספים:** מעבר לכותרות המאקרו, חברי הקהילה מציעים לבחון \"תשואות ריאליות\" וכניסה/יציאה של כספים מקרנות סל (ETFs) ככלים שמסבירים טוב יותר את תנודות הזהב בטווח הקצר.\n*   **שאיפה למסגרת ניתוח עקבית:** קיימת הערכה בקהילה לבניית מודל מאקרו-כלכלי סולידי ועקבי לאורך זמן, במקום ניסיון לנחש תנועות שוק נקודתיות על בסיס אירועים בודדים."
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **חשש מריכוזיות יתר בשוק האמריקאי:** הועלתה הסתייגות לגבי השימוש בקרן WTV, שכן היא עלולה להפוך את תיק ההשקעות לממוקד מדי בארה\"ב ולהגדיל את הסיכון הנובע מחוסר גיוון גיאוגרפי.\n*   **אובדן היעילות של אג\"ח ארוך (TLT) ככלי גידור:** אחד המגיבים ציין כי בשנים האחרונות הקורלציה בין TLT (אג\"ח ממשלתי לטווח ארוך) לבין שוק המניות עלתה משמעותית, ולכן הוא כבר לא מספק את ההגנה המצופה ממנו בעת ירידות בשוק.\n*   **העדפת חוזים עתידיים מנוהלים (KMLM):** כחלופה לאג\"ח, הוצעה האפשרות להשתמש בקרן KMLM, המבוססת על אסטרטגיית חוזים עתידיים, כדי לספק גיוון אמיתי יותר לתיק המניות.\n*   **העדפת WTV על פני מדד עולמי רחב (VT):** למרות החשש מריכוזיות בארה\"ב, קיימת דעה התומכת בבחירה ב-WTV על פני קרן VT (הכוללת את כל העולם), ככל הנראה מתוך אמונה בביצועי היתר של המניות המוחזקות בה.\n*   **סיכונים במגזר הטכנולוגיה וה-AI:** הובע חשש לגבי ענף ה-IT, שכן הוא שקוע בהוצאות הון (capex) אדירות, בעוד שמתחזקים הסימנים לכך שלטכנולוגיית ה-AI עשוי להיות מחסור ב\"כוח תמחור\" (היכולת להעלות מחירים מבלי לאבד לקוחות).\n*   **עיתוי נכון לשינוי אסטרטגיה (Rotation):** הקהילה מציינת כי כבר עכשיו ניתן לראות תנועה של משקיעים אל מחוץ למגזר הטכנולוגיה, ולכן ביצוע שינוי בתיק והפחתת חשיפה למגזר זה נחשבים לצעד בעיתוי נכון (\"Timely pivot\")."
+  },
+  {
+    "id": "1upp167",
+    "title": "Getting rid of NVDA or AVGO (Broadcom)?",
+    "url": "https://www.reddit.com/r/investing/comments/1upp167/getting_rid_of_nvda_or_avgo_broadcom/",
+    "author": "Sensitive-Avocado972",
+    "score": 1,
+    "selftext": "Hi everyone, \n\nI'm holding both NVDA and AVGO stock and am looking to derisk given the uncertainty/possibility of an AI bubble bursting and the fact that I'm holding multiple AI-focused stocks at once. \n\n  \nIf you had to get rid of one stock to derisk and reinvest elsewhere (most likely a safer ETF), which would you sell today? NVDA or AVGO? \n\nCurious to hear your thoughts! Not necessarily investing advice but more your moves. ",
+    "subreddit": "investing",
+    "created_utc": 1783413215,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Neither, but if your selling I'm buying. \n\nDon't psych yourself out. Even if an AI Bubble does happen.... (which it's extremely unlikely given how much my mother-in-law loves talking to AI). They are still going to have plenty of people to sell chips to. These are incredible businesses who have positioned themselves perfectly for any technological innovation in the future. \n\nBut regarding AI, consumer expectations aren't going backwards - they want ease of use from their search to their automobiles. Maybe OpenAI won't find a good business model and fuck up it's IPO. But every piece of technology will require more compute either in data centers or on the edge: in your car, tv, dishwasher.\n\nNo one likes scrolling through menus to change settings. They want to just tell their tv; \"Adjust the color contrast so it pops when Im watching Battlestar Galactica.\" No one, likes watching YouTube videos to figure out why their dishwasher won't drain they just it to tell them why it's broken. That's the future. And that future needs chips.\n\nThey are cash printing growth machines why wouldn't you want to have a piece?!? Keep both, go get a second job and buy some boring ETF which probably is 20% NVDIA anyway if you want to diversify... \n\nGod bless - Bull Rant Over \n\n\n\n\n\n",
+        "score": 1,
+        "author": "BullMoose_207"
+      },
+      {
+        "body": "My research also points to AVGO being the more diverse, AI-surviving bet than NVDA which has gone from a diversified gaming AND AI chip manufacturer to more of the latter, it's still very hard to tell who the clear winner could be. Therefore, I think trimming both makes the best sense.",
+        "score": 1,
+        "author": "Sensitive-Avocado972"
+      },
+      {
+        "body": "Given the unclear winner here (more leaning towards AVGO, but still not a strong enough justification), this may actually be the best move. Thank you!",
+        "score": 1,
+        "author": "Sensitive-Avocado972"
+      }
+    ],
+    "summary_he": "הכותב מתלבט אם למכור את מניית אנבידיה (NVDA) או ברודקום (AVGO) במטרה לצמצם את חשיפתו לתחום הבינה המלאכותית ולהפחית סיכונים בתיק ההשקעות. הוא חושש מפני התפוצצות \"בועת AI\" ומעוניין להעביר את הכספים לאפיקים סולידיים יותר, כגון תעודות סל (ETFs).",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שהועלו בפורום בנוגע להשקעה בחברות השבבים (בעיקר Nvidia ו-Broadcom):\n\n*   **אופטימיות רבה לגבי המשך הצמיחה:** קיימת סנטימנט שורי (Bullish) חזק הגורס כי שתי החברות הן \"מכונות להדפסת מזומנים\" שהתמקמו בצורה מושלמת לכל פיתוח טכנולוגי עתידי, ולכן אין טעם למכור אותן כעת.\n*   **הצורך במחשוב כצורך בסיסי:** גם אם \"בועת ה-AI\" תתפוצץ, הביקוש לשבבים לא ייעצר. כוח מחשוב נדרש בכל תחום – ממרכזי נתונים ועד למכשירי חשמל ביתיים כמו טלוויזיות ומדיחי כלים – מה שמבטיח שוק רחב למוצרי החברות.\n*   **שינוי בציפיות הצרכנים:** המשתמשים כיום מצפים לחוויית שימוש פשוטה ואינטואיטיבית יותר (כמו פקודות קוליות במקום ניווט בתפריטים). יישום טכנולוגיות כאלו במכוניות ובמכשירי קצה דורש כוח עיבוד משמעותי, מה שמבטיח את עתיד ענף השבבים.\n*   **היתרון של Broadcom (AVGO) על פני Nvidia (NVDA):** יש הטוענים כי Broadcom היא הימור בטוח ומגוון יותר לשרידות ארוכת טווח בתחום ה-AI. זאת בניגוד ל-Nvidia, שהפכה מיצרנית שבבים מגוונת (גיימינג ו-AI) לחברה שעיקר משקלה נשען כמעט לחלוטין על תחום הבינה המלאכותית.\n*   **אסטרטגיית ניהול סיכונים:** מכיוון שקשה לקבוע מי תהיה המנצחת הגדולה בטווח הרחוק, יש המציעים \"לקצץ\" (Trim) מעט מההחזקות בשתי החברות במקביל, כדי לצמצם חשיפה ולקחת רווחים מבלי לצאת מהשוק לחלוטין.\n*   **המלצה לגיוון באמצעות תעודות סל:** הצעה חלופית למכירה היא לשמור על המניות הקיימות ובמקביל להשקיע בקרנות סל (ETFs) \"משעממות\". קרנות אלו ממילא מכילות לרוב חשיפה משמעותית ל-Nvidia (לפעמים כ-20% מהקרן), מה שמאפשר פיזור סיכונים מבלי לוותר על הפוטנציאל של המניה."
+  },
+  {
+    "id": "1upkvf1",
+    "title": "M 25 need help investing I’ll type below .",
+    "url": "https://www.reddit.com/r/investing/comments/1upkvf1/m_25_need_help_investing_ill_type_below/",
+    "author": "Fvcctheoppss",
+    "score": 1,
+    "selftext": "Hello eveyone I’m 25yo and I want to invest $110k into a managed account where my money is invested into stocks and grows over time , I have Robinhood and Robinhood managed that Ive used for a while but I don’t think it’s a great ideal to put that much into Robinhood managed or is it ? I use that just for savings I’ve been looking into banks and the top 3 are Chase , vanguard and fidelity , which should I choose ?  ",
+    "subreddit": "investing",
+    "created_utc": 1783399438,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Run from Robinhood, it’s a Fintech. Switch to Fidelity, Vanguard, or Schwab. Google “Yotta Fintech collapse” and you’ll see what I’m talking about.",
+        "score": 1,
+        "author": "WhiteLotus_1776"
+      },
+      {
+        "body": "Throw it in VOO and forget you have it. ",
+        "score": 1,
+        "author": "thetimmyturnip"
+      }
+    ],
+    "summary_he": "בן 25 המעוניין להשקיע 110,000 דולר בתיק השקעות מנוהל לטווח ארוך מבקש המלצות על הפלטפורמה המתאימה ביותר עבורו. הוא משתמש כיום ב-Robinhood אך חושש להפקיד בה סכום כה גבוה, ומתלבט האם לבחור ב-Chase, Vanguard או Fidelity.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מן התגובות, מחולק ל-6 נקודות שונות:\n\n* **חוסר אמון באפליקציות פינטק (Fintech):** קיימת המלצה חד-משמעית להתרחק מפלטפורמות כמו Robinhood, שכן הן נתפסות כפחות יציבות או פחות אמינות לעומת המוסדות הפיננסיים המסורתיים.\n* **העדפת מוסדות ותיקים ומבוססים:** הקהילה ממליצה להעביר את הכספים לברוקרים מוכרים וגדולים בעלי מוניטין רב שנים, כגון Fidelity, Vanguard או Schwab.\n* **אזהרה מפני קריסה מערכתית:** המגיבים מצביעים על מקרי עבר, כמו הקריסה של Yotta, כסימן אזהרה לסיכונים הכרוכים בשימוש בחברות פינטק חדשות שעלולות לאבד את כספי הלקוחות.\n* **אסטרטגיית השקעה פסיבית (VOO):** קיימת הסכמה על השקעה במדד ה-S&P 500 (דרך קרן הסל VOO) כחלופה בטוחה ורווחית לאורך זמן.\n* **גישת ה-\"שגר ושכח\":** מוצגת תפיסה לפיה לאחר ביצוע ההשקעה בקרן מדדית, הדרך הטובה ביותר לפעול היא פשוט להתעלם מהחשבון ולתת לכסף לצמוח מבלי לנסות \"לתזמן את השוק\".\n* **תעדוף של ביטחון על פני נוחות טכנולוגית:** ניכר כי בקהילה זו קיימת העדפה ברורה לביטחון המופקד בידי ברוקר \"אמיתי\" על פני הממשק הנוח או המודרני של אפליקציות ההשקעה החדשות."
   }
 ];
