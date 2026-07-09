@@ -1,122 +1,96 @@
 window.dailyTrends = [
   {
-    "id": "1up4dra",
-    "title": "Is the Chinese stock market actually investable?",
-    "url": "https://www.reddit.com/r/investing/comments/1up4dra/is_the_chinese_stock_market_actually_investable/",
-    "author": "Key-Coat-3406",
-    "score": 136,
-    "selftext": "Hello everyone,\n\nI keep going back and forth on China as an investment.\n\nThe market is obviously massive, but the political and regulatory risk makes me hesitate. It feels like the government can have a much bigger influence there than in most other stock markets.\n\nSo I’m wondering how people here think about it in general.  \nDo you see China as a normal part of emerging markets, or as something completely different?\n\nJust looking for opinions and discussion, not personal advice.",
+    "id": "1uq4t1v",
+    "title": "To everyone who thinks right now is the worst possible time to invest",
+    "url": "https://www.reddit.com/r/investing/comments/1uq4t1v/to_everyone_who_thinks_right_now_is_the_worst/",
+    "author": "SpaceFamous28",
+    "score": 1257,
+    "selftext": "2008: \"We're heading into a Great Depression.\" If you kept buying, the S&P returned 400%+ over the next 13 years.\n\n2011: \"The US credit rating just got downgraded for the first time in history.\" Market was up 30%+ within two years.\n\n2015: \"China is crashing and taking everything down with it.\" S&P hit net highs within months.\n\n2016: \"Brexit will destroy global markets.\" Then few months later: \"Trump winning tank everything.\" Markets hit all-time highs after both.\n\n2020: \"COVID is going to end the economy as we know it.\" Fastest recovery in market history. If you sold in March 2020, you locked in losses. If you kept buying, 2021 was one of the best years on record.\n\n2022: \"Inflation is out of control and the Fed is going to kill growth.\" Rough year. Then 2023 and 2024 were two of the strongest years in decades.\n\nI'm not saying nothing bad ever happens. I'm saying \"this time is different\" has been said at every single one of these moments. The lesson I'm trying to take from it is that long-term investing and event opinions are different things. My index money should keep going in whether the headline is inflation, tariffs or whatever else people are panicking about. But I still do have views on those events. I just don't want those views to turn into vague portfolio moves.\n\nThe scary moment is almost always the moment people most want to stop buying. Not because it feels comfortable, but because that's usually when the discipline matters most.",
     "subreddit": "investing",
-    "created_utc": 1783359548,
+    "created_utc": 1783451438,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "You can't. The point of Chinas economy is to benefit China and especially Chinese workers. The only way for you to benefit is to move there and work there. ",
+        "body": "After 30 years of stealing from the national cookie jar to bail out this bs, he tells us the bs is forever.  Only problem - cookie jars are empty fella.  ",
         "score": 2,
-        "author": "whatever_1232342"
+        "author": "AppropriateBad503"
       },
       {
-        "body": "Yes, if you are an insider. No, if you are an outsider. Since you asked, no. ",
+        "body": "Since the beginning of the founding of the gold, it's been the safest island to land in any kinda situation. It has almost always been go up All in war situations of the history! Lastly it's going down because  US is in war and it has to change it with money to pay war expenses. Gold will fly I think because China, Russia and other big guys saw all this war shit opportunity coming from US's money needing. Specifically China is gonna buy a lot in a few months. That's what I investigate and and saw. Actually bought in late 2024 and still adding it. I paid 12k$ for it and it's now 22$k. It's not yield a lot but it's safe",
         "score": 1,
-        "author": "Hungry_Statement6273"
+        "author": "Otherwise-Key-2172"
       },
       {
-        "body": "No. Despite the misinformation spread online, unironically the US has strict financial reporting regulations that companies rigorously follow.\n\nCompared this to Chinese companies which are notorious for fraudulently misrepresenting their financial statements.",
+        "body": "People think they have a choice. You can take money out and keep it somewhere safe, or buy gold.\n\nThe reality is, no matter what, you’re in this market. And you’re probably better holding something material than fiat currency.",
         "score": 1,
-        "author": "sirzoop"
+        "author": "Recent-Swan-1422"
       }
     ],
-    "summary_he": "הפוסט דן בשאלה האם שוק המניות הסיני ראוי להשקעה, תוך התלבטות בין הפוטנציאל הטמון בגודלו של השוק לבין הסיכונים הפוליטיים והרגולטוריים הגבוהים בו. הכותב מבקש לשמוע את דעת הגולשים האם יש להתייחס לסין כחלק רגיל מהשווקים המתעוררים או כיישות שונה לחלוטין בשל מעורבות הממשל.",
+    "summary_he": "הפוסט מראה כי לאורך ההיסטוריה, תקופות של משבר ופחד התבררו בדיעבד כהזדמנויות צמיחה, שכן השוק תמיד התאושש והגיע לשיאים חדשים למרות התחזיות הפסימיות. המסר העיקרי הוא שחשוב לשמור על משמעת והשקעה עקבית לטווח ארוך, ולא לתת לכותרות מפחידות או לניסיונות לתזמן את השוק להכתיב את המהלכים הכלכליים שלכם.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג שש נקודות מבט ורגשות מרכזיים שעלו מהתגובות בנוגע לאפשרות להפיק תועלת מהכלכלה הסינית:\n\n*   **מטרה לאומית ממוקדת:** הכלכלה הסינית מתוכננת בראש ובראשונה כדי לשרת את האינטרסים של סין עצמה ושל העובדים הסינים, ולא כדי להועיל למשקיעים חיצוניים.\n*   **הצורך בנוכחות פיזית:** הדרך הממשית היחידה עבור אדם להפיק תועלת מהצמיחה של סין היא לעבור להתגורר בה ולהשתלב בשוק העבודה המקומי שלה.\n*   **הפרדה בין \"מקורבים\" ל\"זרים\":** קיימת הבחנה חדה בין \"מקורבים\" (Insiders) שיכולים להרוויח מהמערכת לבין גורמים חיצוניים (Outsiders) שעבורם הגישה להטבות כלכליות חסומה.\n*   **ספקנות לגבי שקיפות:** עולה טענה כי בניגוד לארה\"ב, שבה קיימת רגולציה קפדנית על דיווחים פיננסיים, לחברות סיניות יש מוניטין שלילי של זיוף והצגה מטעה של דוחותיהן הכספיים.\n*   **עדיפות לשוק האמריקאי:** בקהילה קיימת הערכה גבוהה לסטנדרטים של הדיווח הכספי בארצות הברית, הנתפסים כאמינים הרבה יותר מאלו של המקבילה הסינית.\n*   **שלילה גורפת של האפשרות להרוויח:** התחושה הכללית בקרב המגיבים היא פסימית מאוד; התשובה לשאלה האם ניתן להפיק תועלת מהכלכלה הסינית כמשקיע חיצוני היא \"לא\" נחרץ, הנובע מחוסר אמון במערכת."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה:\n\n*   **ביקורת על ניהול תקציבי כושל:** קיימת תחושה חריפה של מרמור כלפי הממשל על כך שבמשך עשורים נעשה שימוש ב\"קופה הלאומית\" כדי לחלץ גופים ואינטרסים שונים, וכעת המשאבים הללו פשוט אזלו והמערכת נותרה ריקה.\n*   **הזהב כחוף מבטחים היסטורי:** בקרב המגיבים שוררת הסכמה שהזהב הוא הנכס הבטוח ביותר בעתות משבר ומלחמה. היסטורית, זהו ה\"אי\" היציב ביותר שאליו ניתן לברוח כשהמצב הופך למסוכן.\n*   **השפעת הוצאות המלחמה של ארה\"ב:** נטען כי ארה\"ב נאלצת להשתמש במשאבים כספיים אדירים כדי לממן הוצאות ביטחוניות, דבר שיוצר לחץ על השווקים ומשנה את זרימת הכספים הגלובלית.\n*   **אסטרטגיה גיאו-פוליטית של מעצמות:** המגיבים מזהים מגמה שבה מדינות כמו סין ורוסיה מנצלות את המצב הכלכלי של ארה\"ב כדי לצבור עתודות זהב גדולות, מתוך הבנה שהצורך האמריקאי במזומן למלחמות יוצר עבורן הזדמנות קנייה.\n*   **אשליית הבחירה בשוק:** קיימת טענה מפוכחת לפיה לאנשים אין באמת בחירה אם \"להשתתף\" במשחק הכלכלי או לא. לא משנה היכן תניח את הכסף, אתה תמיד חלק מהשוק ומושפע מהתנודות שלו, ולכן אין באמת מקום \"לברוח\" אליו.\n*   **העדפת נכסים מוחשיים על פני כסף \"נייר\" (Fiat):** בקהילה מתחזקת הגישה שעדיף להחזיק בנכסים פיזיים ומוחשיים מאשר במטבעות ממשלתיים. התפיסה היא שהערך של נכס חומרי יישמר טוב יותר מאשר ערכו של מטבע שעלול להישחק כתוצאה מהחלטות פוליטיות או אינפלציה."
   },
   {
-    "id": "1up8kkt",
-    "title": "What is everyones opinion on Trump kids accounts? Choosing BNY and Robinhood to manage the initial apps seems suspect to me at best",
-    "url": "https://www.reddit.com/r/investing/comments/1up8kkt/what_is_everyones_opinion_on_trump_kids_accounts/",
-    "author": "dogs_eatmyflagging",
-    "score": 110,
-    "selftext": "Seems odd to choose these two companies instead of trusted brokerages but I honestly dont know how this stuff works. \n\nI know BNY Mellon from only one thing and that's Epstein trafficking money transactions. As for Robinhood unfortunately I use it and may have to stop but to me it seems like they've turned a lot of young people on to investing only to try and bait them into options/predictions markets (gambling and overwhelmingly losing). Plus the whole Gamestop/Beyond Meat scandal with pausing peoples orders... \n\nBesides the free $1k (or maybe its 1250?) is there any benefit versus a 529/529a or even brokerage account?",
+    "id": "1uq5s8r",
+    "title": "AI bubble cracking as big tech renting out AI infrastructure proves they overspent",
+    "url": "https://www.reddit.com/r/investing/comments/1uq5s8r/ai_bubble_cracking_as_big_tech_renting_out_ai/",
+    "author": "ThinkBigger01",
+    "score": 310,
+    "selftext": "With not just SpaceX but now also Meta and others renting out their AI data center capacity, it is becoming pretty obvious those companies have all massively overspent on AI capex.\n\nThem renting out their infrastructure is not some kinda smart business move but an act of desperation to pump their balance sheets. None of this is leading to real profits.\n\nLet's see what kinda bullcrap all those companies will try to spin at their next earnings call but it's pretty obvious the cracks are starting to show on this kinda swindling.\n\nBTW it's not healthy that 40% of the S&P500 is in just 10 tech stocks which goes against the traditional \"diversificiation\" this ETF is supposed to give.",
     "subreddit": "investing",
-    "created_utc": 1783368320,
+    "created_utc": 1783453469,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Yeah, exactly. These accounts are a huge deal! I’ll leave my political opinions at the door and the fact that I would like to see more policies that benefit lower income vs Trump accounts that (IMO) are more disproportionately beneficial to upper middle class.\n\nThat said, let’s say you max out the account each year with 5K annual contributions. Then that’s 90K in contributions by the time they are age 18. Now, factor in 7% compounding for 18 years, that’s 170K total account value. Then at 18, you take a tax hit on a Roth IRA rollover of the full account value, then you’re only paying taxes on the 80K in gains (let’s assume 20K).\n\nIf that 170K sat in a Roth IRA for another 47 years, with no additional contributions, at 7% compounding then you’re talking over 4M at 65, TAX FREE. What a massive jumpstart that would be towards your kids retirement.\n\nIf you then combined it with 35K in rollovers from your kids 529 at 18 onward and let’s just keep it simple at 7K in today’s limits, then that’s another 5 years of contributions (with no taxes btw) and at 23 years old they are sitting on 278K in their Roth. Again, let’s assume no further contributions for the rest of their life and 7% growh, Just shy of 4.5M TAX FREE.\n\nTake the 278K above and now let’s assume you taught you kid right with financial discipline and education. They max their retirement every year and again, let’s keep it simple at today’s limits of 7K. Same as above on numbers, 7% and they have nearly 6M in retirement.\n\nThrough all of these situations, you’ve simply eaten your typical income taxes that you were going to eat anyways on the 5K contributions and you took a tax hit of 20K when they turned 18. Honestly, shut up about it.",
-        "score": 3,
-        "author": "Meadhead81"
+        "body": "You do not need a RTX 5090. A couple of 5060ti's would do. Or a single Intel B70. Or a couple of $50 V340s.",
+        "score": 2,
+        "author": "fallingdowndizzyvr"
       },
       {
-        "body": "They do not seem that helpful.\n\nThey provide no tax shelter. You're only contributing post-tax income and then capital gains are also taxed. \n\nI would say they're marginally interesting. May be slightly beneficial. \n\nIt would seem way more beneficial to put money in a 529 and be able to take money out tax-free to pay for college instead. ",
+        "body": "It does not though that's a straw man you made up. ",
         "score": 2,
-        "author": "urinal_cake_futures"
+        "author": "DizzyMajor5"
       },
       {
-        "body": "Don't upset the emotions with facts.",
+        "body": "Let's keep it real, NOBODY except the hardware vendors are in the green with the AI hype lol\n\n[Is AI Profitable Yet?](https://isaiprofitable.com/)",
         "score": 2,
-        "author": "Lazy_Ad4708"
+        "author": "MantaMunta"
       }
     ],
-    "summary_he": "הכותב מביע ספקנות לגבי הבחירה ב-BNY Mellon וב-Robinhood לניהול חשבונות הילדים של טראמפ, תוך ציון המוניטין השנוי במחלוקת של שתי החברות וחשש מפרקטיקות לא אתיות. הוא תוהה האם ההטבה הכספית הראשונית אכן משתלמת בהשוואה לאפיקי חיסכון והשקעה מסורתיים ומקובלים יותר, כמו תוכנית 529.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג נקודות מבט שונות לגבי סוג חדש של חשבונות חיסכון (המוזכרים בהקשר של מדיניות פוליטית):\n\n*   **פוטנציאל אדיר לטווח רחוק בזכות ריבית דריבית:** אחד המגיבים מדגיש כי הפקדה שנתית של 5,000 דולר עד גיל 18 יכולה להצטבר לכ-170,000 דולר. אם סכום זה יועבר לאפיק פנסיוני (Roth IRA) ויישאר שם עד גיל 65, הוא עשוי לצמוח ליותר מ-4 מיליון דולר פטורים ממס, מה שמהווה \"זינוק מטאורי\" לעתיד הכלכלי של הילד.\n*   **הערך של שילוב אפיקי חיסכון:** קיימת טענה כי שילוב של החשבונות הללו עם תוכניות חיסכון קיימות (כמו תוכנית 529 ללימודים) יכול ליצור הון משמעותי עוד יותר. ניצול מקסימלי של כלל האפיקים עשוי להביא את הילד לגיל פרישה עם הון של כ-6 מיליון דולר.\n*   **כדאיות תשלום המס המוקדם:** לפי הגישה התומכת, כדאי לספוג את \"מכת המס\" על הרווחים בגיל 18 בעת העברת הכספים ל-Roth IRA. המגיב טוען שהתשלום החד-פעמי על הרווחים מתגמד לעומת עשרות שנים של צמיחה פטורה ממס לאחר מכן.\n*   **ספקנות לגבי הטבות המס:** מנגד, יש הטוענים כי החשבונות הללו אינם יעילים במיוחד כיוון שאינם מספקים \"מקלט מס\" (Tax Shelter) אמיתי. הכסף המופקד הוא כסף שכבר שולם עליו מס הכנסה, וגם הרווחים בחשבון זה חייבים במס, מה שהופך אותם לאטרקטיביים באופן שולי בלבד.\n*   **העדפת חלופות קיימות:** קיימת דעה כי עדיף להשתמש בתוכניות חיסכון מסורתיות ללימודים (כמו 529). הטיעון הוא שהן מאפשרות משיכה פטורה לחלוטין ממס עבור הוצאות חינוך, וזהו יתרון משמעותי יותר מאשר המנגנון המוצע בחשבונות החדשים.\n*   **המאבק בין רגש לעובדות כלכליות:** חלק מהקהילה מביע תסכול מכך שהדיון מושפע לעיתים קרובות מרגשות או מנטיות פוליטיות. נטען כי במקום להתווכח על רקע פוליטי, יש לבחון את המספרים היבשים ואת המתמטיקה הפיננסית שמראה את הפוטנציאל הכלכלי הגלום בתוכנית."
-  },
-  {
-    "id": "1uoxban",
-    "title": "Broadcom Extends Apple Custom AI Chip Partnership Through 2031 | AVGO Stock News",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1uoxban/broadcom_extends_apple_custom_ai_chip_partnership/",
-    "author": "mahend72",
-    "score": 73,
-    "selftext": "A pretty meaningful update for Broadcom.\n\nA partnership with Apple running through 2031 gives AVGO something the market really values: long-term visibility. It also shows Broadcom is not just riding the AI hype wave. It is becoming a key supplier behind the hardware and custom chip stack that big tech companies need.\n\nFor Apple, this could matter a lot as on-device AI becomes more important. Better chips, faster connectivity, and more efficient hardware will be central to making AI features actually useful on iPhones, Macs, and other devices.\n\nOnly risk is AVGO has already had a big AI-driven run, so expectations are high. But as a business signal, this strengthens the long-term Broadcom thesis.",
-    "subreddit": "StockMarket",
-    "created_utc": 1783344353,
-    "thumbnail": "https://external-preview.redd.it/_3Fh2AlMrlbFUwSIglQoL66nO-dy1G_B69IVETJ6540.png?width=140&height=64&auto=webp&s=8c47115ff054c378d408219e72a590534ab043b3",
-    "top_comments": [
-      {
-        "body": "Yeah this is a genuinely good tape for AVGO — long-dated Apple contract de-risks a chunk of revenue and shows it’s not just riding the AI hype train. Only pushback: Apple’s been insourcing wireless for years (own WiFi/BT chips, C1/C1X modems), so this slows that trend more than it reverses it. Still bullish long-term, just don’t get complacent on the ‘forever customer’ narrative.",
-        "score": 2,
-        "author": "TheKaiserAlpha"
-      },
-      {
-        "body": "Long-term Apple visibility through 2031 is no small potato. AVGO isn’t cheap anymore, but this is exactly the kind of sticky, high-quality customer relationship the market pays up for. AI hype is loud, but this deal has actual silicon behind it",
-        "score": 1,
-        "author": "Robertharrison07o"
-      }
-    ],
-    "summary_he": "חברת ברודקום (Broadcom) האריכה את שיתוף הפעולה שלה עם אפל לייצור שבבי AI מותאמים אישית עד שנת 2031, מהלך המעניק לחברה יציבות ארוכת טווח כספקית חומרה מרכזית. ההסכם חיוני עבור אפל לקידום יכולות הבינה המלאכותית במכשיריה, ולמרות הציפיות הגבוהות בשוק, הוא מחזק משמעותית את מעמדה של ברודקום בתעשייה.",
+    "summary_he": "הפוסט טוען כי \"בועת הבינה המלאכותית\" מתחילה להתפוצץ, שכן חברות טכנולוגיה גדולות החלו להשכיר את תשתיות ה-AI שלהן כצעד נואש לכיסוי הוצאות מופרזות שאינן מניבות רווחים ממשיים. הכותב מבקר את הניסיון לייפות את המאזנים הכספיים ומזהיר מפני הריכוזיות הגבוהה והמסוכנת של מניות הטכנולוגיה במדד ה-S&P 500.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit בנוגע למניית ברודקום (AVGO) ושיתוף הפעולה שלה עם אפל, המציג 6 נקודות מבט וסנטימנטים שונים:\n\n*   **ודאות והפחתת סיכונים:** החוזה ארוך הטווח עם אפל (עד שנת 2031) נתפס כגורם משמעותי המעניק לחברה \"ראות\" (Visibility) פיננסית גבוהה ומפחית את הסיכון בשורת ההכנסות העתידית של ברודקום.\n*   **מעבר לנרטיב ה-AI:** קיימת הערכה לכך שהעסקה מוכיחה שברודקום אינה רק \"רוכבת על גל ה-AI\" הנוכחי; מדובר בערך עסקי ממשי המבוסס על ייצור סיליקון וחומרה פיזית, ולא רק על ציפיות סביב בינה מלאכותית.\n*   **האטה במגמת הייצור העצמי של אפל:** הקהילה מציינת כי העסקה מאטה את הניסיונות הממושכים של אפל לייצר שבבי אלחוט (WiFi/BT) ומודמים באופן עצמאי (Insourcing). עם זאת, ההערכה היא שהעסקה רק מעכבת את המגמה הזו ולא מבטלת אותה לחלוטין.\n*   **תמחור המניה ואיכות הלקוח:** אף על פי שמניית AVGO כבר אינה נחשבת \"זולה\" במונחי שוק, המשקיעים סבורים שמערכת יחסים כה הדוקה ויציבה (\"Sticky\") עם לקוח איכותי כמו אפל מצדיקה את המחיר הגבוה שהשוק מוכן לשלם עליה.\n*   **אזהרה מפני שאננות:** למרות האופטימיות, עולה קול המזהיר מפני אימוץ הנרטיב שאפל היא \"לקוח לנצח\". המגיבים מדגישים כי יש להישאר עירניים ולא להניח שהקשר הזה חסין מפני שינויים אסטרטגיים של אפל בעתיד.\n*   **סנטימנט שורי (Bullish) עם הסתייגות:** התחושה הכללית בקהילה היא חיובית מאוד לטווח הארוך, אך היא מלווה בניתוח מפוכח של יחסי הכוחות בין שתי החברות, תוך הבנה שברודקום חייבת להמשיך לחדש כדי לשמור על מעמדה מול שאיפות העצמאות הטכנולוגית של אפל."
+    "comments_summary_he": "להלן סיכום הדיון והתחושות שעלו מהתגובות בשרשור, המנתח את סוגיית הרווחיות והחומרה סביב תחום הבינה המלאכותית:\n\n*   **אלטרנטיבות חומרה חסכוניות:** קיימת דעה שאין צורך לרכוש את כרטיסי המסך היקרים והחדשים ביותר (כמו RTX 5090) עבור יישומי AI. ניתן להגיע לתוצאות דומות באמצעות שילוב של מספר כרטיסים זולים יותר, כרטיסי אינטל או חומרה משומשת במחירים נמוכים מאוד.\n*   **הספקנות לגבי רווחיות ה-AI:** בקהילה קיימת תחושה חזקה שהבינה המלאכותית היא בעיקר \"הייפ\" שיווקי כרגע. נכון לעכשיו, הרוב המוחלט של החברות והמשתמשים לא רואים רווחים ממשיים מהטכנולוגיה.\n*   **המרוויחים היחידים הם ספקי החומרה:** נקודת מבט מרכזית טוענת שהגופים היחידים שנמצאים ב\"פלוס\" (In the green) הם יצרני השבבים והחומרה (כמו אנבידיה), המנצלים את הביקוש המסיבי בעוד שהשוק עצמו עדיין מחפש מודל עסקי רווחי.\n*   **זיהוי כשלים לוגיים בשיח:** חלק מהמגיבים מבקרים את הטיעונים המושמעים בעד המצב הנוכחי של התעשייה, וטוענים כי הטיעונים בעד נחיצות השקעות העתק מבוססים על \"אנשי קש\" (Straw man arguments) ולא על המציאות בשטח.\n*   **גישה פרגמטית מול רדיפה אחרי מפרטים:** עולה גישה המעדיפה יעילות תקציבית על פני מפרטים טכניים מפוצצים. הקהילה מדגישה שניתן לבצע עבודת AI גם עם חומרה שנחשבת \"חלשה\" או מיושנת יותר אם יודעים כיצד להגדיר אותה.\n*   **פער בין ציפיות למציאות כלכלית:** השאלה \"האם AI רווחי כבר?\" מהדהדת כנושא מרכזי, כשהתשובה המשתקפת מהתגובות היא שלילית ברובה עבור המשתמש הממוצע והיזם הקטן, מה שמעיד על התפכחות מסוימת מההבטחות הגדולות של התחום."
   },
   {
-    "id": "1uou9vw",
-    "title": "B. Riley says $AMZN’s RNG and OpenAI’s MRC are becoming “Structural Headwinds for Transceiver TAM.”",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1uou9vw/b_riley_says_amzns_rng_and_openais_mrc_are/",
+    "id": "1uprn72",
+    "title": "China's DeepSeek Developing Its Own AI Chip, Sources Say",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1uprn72/chinas_deepseek_developing_its_own_ai_chip/",
     "author": "Optimal_Image5192",
-    "score": 19,
-    "selftext": "B. Riley analysts warn that Amazon’s RNG (Resilient Network Graphs) and OpenAI’s MRC (Multipath Reliable Connection) technologies create structural headwinds for the optical transceiver Total Addressable Market (TAM) by enabling network flattening in AI data centers.\n\nB. Riley notes that RNG uses passive optical ShuffleBoxes and quasi-random topologies to replace hierarchical multi-tier networks with flatter designs, while MRC spreads data across hundreds of paths in GPU clusters to bypass bottlenecks and simplify networking.\n\nThese shifts could reduce active networking equipment over 60% and transceiver counts 40-50%, with AAOI particularly exposed as Amazon and Oracle are key customers for its 800G/1.6T transceivers.\n\n“We believe Applied Optoelectronics ($AAOI – Neutral, $129 PT) will be especially vulnerable to this development. $AMZN and $ORCL are expected to be the anchor customers for the 800G/1.6T transceivers forecast to drive AAOI's quarterly revenue to \\~$1B by 2H27. As ORCL deflates training-cluster transceiver ratios via MRC, and AMZN strips active transceiver requirements from inference rollouts via RNG, AAOI's core revenue growth engines face massive structural risk.\"\n\n\\-B. Riley",
+    "score": 269,
+    "selftext": "DeepSeek is reportedly developing its own AI chip, per Reuters.\n\nThe chip is being designed for inference, not training, as DeepSeek looks to reduce reliance on Nvidia and Huawei chips.\n\nDeepSeek is reportedly in talks with foundries, memory suppliers and chip-design firms, while privately hiring chip-design engineers for the project.\n\nStill early stage, and manufacturing remains a major hurdle because of U.S. export controls on advanced foundries and high-bandwidth memory.",
     "subreddit": "StockMarket",
-    "created_utc": 1783336246,
-    "thumbnail": "https://preview.redd.it/e5m2dw49elbh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=4c5d40865ecd8d8c50cbd7d5c4086fd857701e73",
+    "created_utc": 1783421820,
+    "thumbnail": "https://preview.redd.it/z9j8a0epgsbh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=e2a0618135fa83f3aa2535e35dd820137958b53f",
     "top_comments": [
       {
-        "body": "Rode AAOI from 50's to 20's thinking I DCA'd into a good bargain in 2017. At $30's and $40's sold all and never looked back. Be careful, highly cyclical. PE looks cheap during upcycle then revenue dries up for years.",
-        "score": 3,
-        "author": "basalty_monolith"
+        "body": "Unfortunately its not a BMW you can steal and drive away. You still need a lot of other things as well all of which are made by one company in the world.",
+        "score": 7,
+        "author": "Phantasmalicious"
       },
       {
-        "body": "The whole note from B. Riley is bearish btw",
-        "score": 2,
-        "author": "Optimal_Image5192"
+        "body": "Im sorry but.. wth does your reply have to do with the comment you are replying to or this thread’s subject in the first place? ",
+        "score": 7,
+        "author": "Tamronloh"
       },
       {
-        "body": "How is it meaningless? Do you mean in terms of stock price today, overall all TAM impact, or demand for intra-data center transceivers? ",
-        "score": 1,
-        "author": "Optimal_Image5192"
+        "body": "Kind of amazing just how much better vision Google has had over all the others.\n\nThey started doing their own AI chip 13 years ago and now on the eighth generation.",
+        "score": 5,
+        "author": "bartturner"
       }
     ],
-    "summary_he": "אנליסטים מ-B. Riley מזהירים כי טכנולוגיות חדשות של אמזון ו-OpenAI המפשטות את מבנה הרשתות במרכזי נתונים של AI, צפויות לצמצם את הביקוש למשדרים אופטיים (transceivers) בשיעור של 40%-50%. התפתחות זו מהווה סיכון משמעותי במיוחד עבור חברת AAOI, שכן לקוחותיה המרכזיים, אמזון ואורקל, מאמצים פתרונות אלו ובכך פוגעים משמעותית בתחזיות הצמיחה וההכנסות של החברה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit המבוסס על התגובות שצוינו, הכולל 6 נקודות מבט ותובנות שונות:\n\n*   **אזהרה מפני מחזוריות קיצונית:** אחד המגיבים מדגיש כי מניית AAOI מתאפיינת במחזוריות גבוהה מאוד. הוא מציין שבתקופות של גאות (\"upcycle\"), המניה עשויה להיראות מבטיחה, אך ההכנסות עלולות \"להתייבש\" למשך שנים לאחר מכן.\n*   **זהירות ממכפילי רווח (P/E) מטעים:** קיימת אזהרה שבתקופות של צמיחה, מכפיל הרווח של החברה עשוי להיראות נמוך ואטרקטיבי (\"זול\"), אך מדובר במלכודת שכן הביצועים הפיננסיים אינם יציבים לטווח ארוך.\n*   **הסיכון באסטרטגיית \"מיצוע עלויות\" (DCA):** משתמש שיתף ניסיון אישי שלילי שבו ניסה לקנות עוד מניות ככל שהמחיר ירד (מ-50$ ועד ל-20$) מתוך מחשבה שמדובר ב\"מציאה\", אך גילה שההמתנה להתאוששות הייתה ארוכה ומסוכנת.\n*   **סנטימנט שלילי מצד גופים פיננסיים:** צוין כי חברת ההשקעות B. Riley פרסמה סקירה \"דובית\" (bearish) ושלילית על החברה, מה שמעיד על חוסר אמון של אנליסטים בביצועי המניה בטווח הקרוב.\n*   **ספקנות לגבי השפעת חדשות על מחיר המניה:** עולה שאלה בקהילה לגבי הרלוונטיות של נתונים מסוימים או הודעות לחברה – האם הם באמת משפיעים על מחיר המניה הנוכחי או שהם נטול משמעות בפועל.\n*   **ניתוח ביקוש בשוק הטכנולוגי:** הדיון נוגע בשאלות מהותיות לגבי שוק היעד הכולל (TAM) והביקוש למוצרים ספציפיים (כמו משדרי-מקלט למרכזי נתונים), תוך ניסיון להבין אם ישנה פגיעה ריאלית בביקוש בתחום זה."
+    "summary_he": "חברת DeepSeek מפתחת שבב בינה מלאכותית משלה המיועד להסקה (Inference), במטרה לצמצם את תלותה בשבבים של אנבידיה ווואווי. הפרויקט נמצא בשלבים ראשוניים של גיוס כוח אדם ותכנון, אך הוא צפוי להתמודד עם קשיי ייצור משמעותיים עקב מגבלות הייצוא האמריקאיות על טכנולוגיות מתקדמות.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן ניתוח התגובות המובילות מהשרשור ב-Reddit, המסוכמות ל-6 נקודות מבט וסנטימנטים מרכזיים:\n\n*   **מורכבות המערכת והתלות בתשתיות:** המשתמשים מציינים כי בניגוד למוצרי צריכה רגילים (כמו מכונית BMW), הטכנולוגיה המדוברת אינה מוצר עצמאי שניתן פשוט \"לקחת ולהפעיל\". היא דורשת מערכת אקולוגית שלמה של רכיבים משלימים כדי לתפקד.\n*   **ריכוזיות ומונופול בשוק החומרה:** קיימת הבנה בקהילה שישנה תלות קריטית בחברה אחת ויחידה בעולם שמייצרת את הרכיבים ההכרחיים הללו, מה שיוצר צוואר בקבוק טכנולוגי וגאופוליטי.\n*   **הערכה לחזון ארוך הטווח של גוגל:** עולה סנטימנט של התפעלות מהיכולת של גוגל לחזות את הנולד. הקהילה מציינת לחיוב את העובדה שגוגל זיהתה את הצורך בשבבי AI ייעודיים הרבה לפני שהתחום הפך למיינסטרים.\n*   **חשיבות הניסיון המצטבר (Iterative Development):** הדיון מדגיש את היתרון של גוגל בזכות ההתמדה – פיתוח של שמונה דורות של שבבים לאורך 13 שנים מעניק לה יתרון טכנולוגי וניסיון שקשה למתחרים להדביק במהירות.\n*   **ביקורת על איכות השיח בשרשור:** ניכר סנטימנט של בלבול או תסכול מצד חלק מהגולשים לגבי הרלוונטיות של התגובות. יש מי שחשים שהדיון סוטה מהנושא המרכזי או שתגובות מסוימות אינן קשורות להקשר של השיחה.\n*   **ההכרה בשילוב שבין חומרה לתוכנה:** מהתגובות עולה התובנה שבעולם הבינה המלאכותית, היכולת לייצר חומרה ייעודית (In-house silicon) היא המפתח האמיתי לעליונות, ולא רק פיתוח האלגוריתמים עצמם."
   },
   {
     "id": "1uq0j0c",
@@ -147,243 +121,239 @@ window.dailyTrends = [
     ],
     "summary_he": "הפוסט דן בתופעה של חברות המציעות תשואת דיבידנד גבוהה במיוחד בעוד מחיר המניה שלהן צונח בחדות. הכותב תוהה האם מדובר בהזדמנות להשקעה רווחית או בסימן לקריסה קרבה של החברה, ומציג דוגמאות למניות שאיבדו את רוב ערכן למרות חלוקת רווחים נדיבה.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ורגשות מרכזיים שעלו מהתגובות:\n\n*   **מימון דיבידנדים באמצעות חוב:** נטען כי חברות מסוימות פועלות במודל עסקי שלילי, שבו הן לוקחות הלוואות ומשלמות ריבית רק כדי לחלק דיבידנדים. פעולה זו נתפסת כסימן מובהק לכך שהחברה בדרך לקריסה כלכלית וערכה עתיד להתאפס.\n*   **הדיבידנד כ\"מלכודת\" למשקיעים:** קיים סנטימנט שהדיבידנדים הם לעיתים \"מצג שווא\" (Mirage) שנועד למשוך משקיעים לא מנוסים (\"dumb dividend investors\") שמתפתים לתזרים מזומנים מבלי להבין את המצב הפיננסי הרעוע של החברה.\n*   **חוסר רלוונטיות של מועדי החלוקה:** נאמר כי מאחר שחברות מייצרות רווחים בכל שנייה, העיתוי הספציפי של חלוקת הדיבידנד (רבעוני או אקראי) הוא חסר משמעות. הרווחים הללו כבר מגולמים במחיר המניה מדי יום על סמך הערכות המשקיעים.\n*   **סדר עדיפויות של משקיע מיומן:** על פי אחת הדעות, דיבידנדים צריכים להיות הדבר האחרון שמשקיע כשיר בוחן. דברים אחרים שהחברה עושה, כמו צמיחה עסקית או השקעה חוזרת, נתפסים כחשובים הרבה יותר לערך ארוך הטווח.\n*   **עדיפות לרכישה עצמית של מניות (Buybacks):** צוין כי קיימות צורות אחרות של החזר הון לבעלי המניות, כמו רכישה עצמית של מניות, שהפכו כיום למשמעותיות ונפוצות יותר מחלוקת דיבידנדים מסורתית.\n*   **ספקנות וביקורת פנימית בקהילה:** התגובות משקפות טון ביקורתי כלפי טיעונים פופוליסטיים. השימוש בביטוי \"איש קש\" (Strawman) מעיד על כך שחלק מהגולשים חשים שהדיונים בנושא לעיתים מעוותים את המציאות כדי להוכיח נקודה, במקום להתמקד בעובדות כלכליות."
-  },
-  {
-    "id": "1upfkak",
-    "title": "Everyone has been scared but MSFT is still on trend",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1upfkak/everyone_has_been_scared_but_msft_is_still_on/",
-    "author": "Halo-nm",
-    "score": 2,
-    "selftext": "Watching a MAG7 drop like this can be concerning in the short term but keeping an eye on the big picture still helps. Many of Microsoft's money makers are still on trend.\n\nAlso, say what you want about TA but I was happy to stack more shares when we hit the trend line the last couple weeks. Easy entry and easy ride up. Being long goes a long way, too.\n\nAll I'm saying is cut through the noise and constantly freaking out sometime and step back and see what's happening. Microsoft is definitely not a perfect company but revenue and price movement is still on trend.\n\nI imagine this thing is just starting to run but this week will probably help give a clearer picture tbh.",
-    "subreddit": "StockMarket",
-    "created_utc": 1783384569,
-    "thumbnail": "https://preview.redd.it/da3lzzuwdpbh1.png?width=140&height=109&auto=webp&s=1c4e825b04aea0314423c3ea70dbb60d0a8ecc29",
-    "top_comments": [
-      {
-        "body": "On trend of what? The magic line you drew?",
-        "score": 62,
-        "author": "TacoBOTT"
-      },
-      {
-        "body": "Four random data points in a multiyear graph are some magical support…what crap. If the stock dips below that line? Well we will zoom out and draw a new line connected to older random data points. TA is nonsense. Earnings , the direction of interest rates and new information is what drives future stock prices",
-        "score": 22,
-        "author": "SpongEWorTHiebOb"
-      },
-      {
-        "body": "Ahh yes, astrology for the bros 🫡",
-        "score": 14,
-        "author": "DatsMaPurse_IDKU"
-      }
-    ],
-    "summary_he": "למרות החששות בשוק מהירידות האחרונות במניות הטכנולוגיה, הכותב טוען כי מיקרוסופט (MSFT) שומרת על מגמה חיובית ארוכת טווח וכי מנועי הצמיחה שלה נותרו יציבים. הוא ממליץ להתעלם מרעשי הרקע לטווח הקצר, ומציין שניצל את הנגיעה בקו המגמה כדי להגדיל את אחזקותיו לקראת המשך עליות פוטנציאליות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ורגשות בולטים בקהילה בנוגע לניתוח טכני של מניות:\n\n*   **ספקנות כלפי \"קווים מגנטיים\":** המגיבים מבטאים זלזול בשימוש בקווים שרירותיים המשורטטים על גרפים, ותוהים על סמך מה נקבעת \"מגמה\" אם היא מבוססת על חיבור נקודות שנראות אקראיות.\n*   **ביקורת על דגימת נתונים חסרה:** קיימת טענה כי שימוש במספר מצומצם של נקודות נתונים (למשל, ארבע נקודות לאורך שנים) אינו מהווה הוכחה ל\"תמיכה\" במחיר המניה, אלא מייצג בחירה סלקטיבית וחסרת משמעות סטטיסטית.\n*   **השוואה לפסאודו-מדע (אסטרולוגיה):** אחד הרגשות החזקים בקהילה הוא שהניתוח הטכני הוא למעשה \"אסטרולוגיה לברוס\" (Bro-astrology) – דרך לא מדעית המעניקה תחושת שליטה כוזבת למשקיעים, בדומה לחיזוי עתידות.\n*   **עדיפות לניתוח פונדמנטלי:** המגיבים טוענים כי המנועים האמיתיים של מחירי המניות הם נתונים כלכליים קשיחים כמו דוחות רווח והפסד של חברות, גובה הריבית במשק ומידע חדש שמגיע לשוק, ולא צורות גיאומטריות על גרף.\n*   **תופעת \"הזזת המטרה\":** קיימת ביקורת על כך שמנתחים טכניים אינם מודים בטעותם; כאשר מחיר המניה חוצה את ה\"קו\" ששורטט, הם פשוט \"מגדילים את הזום\" ומציירים קו חדש שמחובר לנקודות אחרות כדי להצדיק את התחזית בדיעבד.\n*   **זלזול באמינות הניתוח הטכני (TA):** באופן כללי, הלך הרוח בתגובות קובע כי ניתוח טכני הוא \"שטויות\" (Nonsense) ואינו כלי אמין לקבלת החלטות השקעה מושכלות."
-  },
-  {
-    "id": "1upq8eu",
-    "title": "Abu Dhabi Ruler’s Family Office Is a Global Dealmaking Force",
-    "url": "https://www.reddit.com/r/finance/comments/1upq8eu/abu_dhabi_rulers_family_office_is_a_global/",
-    "author": "bloomberg",
-    "score": 1,
-    "selftext": "*Its name is rarely spoken in public, but the family office of Abu Dhabi's ruler is a global force with a huge appetite for deals.*",
-    "subreddit": "finance",
-    "created_utc": 1783417344,
-    "thumbnail": "https://external-preview.redd.it/9qIoDqACA-1NoopGpFBD_VsbS1RPrpSJnaJ0Eps67To.jpeg?width=140&height=73&auto=webp&s=bb251f9add60df70b1192b622f0c5aa175882d2b",
-    "top_comments": [
-      {
-        "body": "*AC Limited has quietly splashed out billions around the world, building deep ties with the titans of Wall Street.*  \n  \n*Ben Scent, Ben Bartenstein, Benjamin Stupples and Silas Brown for Bloomberg News*  \n  \nIn the heart of Dubai’s financial center sits an investment fund whose name is rarely mentioned in public, though its money surfaces with striking regularity in deals around the world. It operates with such discretion that the identity of its backer was a mystery to at least one long-time employee.  \n  \nAC Limited is the family office of Sheikh Mohamed bin Zayed Al Nahyan, president of the United Arab Emirates and ruler of Abu Dhabi. Staffed by a team of dealmakers in one of Dubai’s glitziest corporate towers, it’s believed to manage assets worth tens of billions of dollars and has become a crucial pit-stop for fundraising in the Middle East.  \n  \nThe firm has built positions in mega-cap stocks like Amazon, Microsoft and Nvidia, and invested with Blackstone and Carlyle Group. It has been a shareholder in closely-held companies including supercar maker McLaren and a startup developing a breathalyzer test for cancer. And it’s helped finance everything from Chinese buyouts to healthcare takeovers in the US and even a luxury hotel on the banks of Venice’s Grand Canal.  \n  \nSince the start of last year alone, AC Limited has backed Ardian’s record $30 billion secondaries fund, helped finance a management buyout of European private credit heavyweight Hayfin and invested in the nearly $700 million listing of the Uzbek national investment fund. Even after war upended the regional landscape, executives from one of the world’s largest banks met senior figures at the family office and left with the impression that its appetite for deals remained undimmed.  \n  \nThis portrait of the fund was compiled through an analysis of regulatory filings around the world and conversations with dozens of people familiar with the matter. Nearly all of them asked not to be named to avoid damaging relationships with an entity striving to keep a low profile. AC Limited doesn’t publicize its investments, and its involvement in the vast majority of these transactions hasn’t been previously reported.  \n  \n[Read the Big Take here.](https://www.bloomberg.com/features/2026-uae-family-office-ac-limited-investments/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MzQxNzIwNiwiZXhwIjoxNzg0MDIyMDA2LCJhcnRpY2xlSWQiOiJUSFJVQ0lLR0lGUEQwMCIsImJjb25uZWN0SWQiOiJEMzU0MUJFQjhBQUY0QkUwQkFBOUQzNkI3QjlCRjI4OCJ9.VVi3RIL90-9Wp2et4xXAWmzJfWZjCSTebsz3wDwcCoI)",
-        "score": 1,
-        "author": "bloomberg"
-      }
-    ],
-    "summary_he": "משרד ההשקעות של משפחת השלטון באבו דאבי הפך לכוח דומיננטי ורב-עוצמה בשוק העסקאות הגלובלי. למרות שהארגון פועל לרוב בחשאיות והרחק מעין הציבור, הוא מפגין תיאבון רב לרכישות ענק ומרחיב את השפעתו הכלכלית ברחבי העולם.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום של הנקודות המרכזיות והתובנות העולות מהדיווח על פעילותה של קרן AC Limited:\n\n* **סודיות ודיסקרטיות קיצונית:** הקרן פועלת תחת מעטה חשאיות כבדה, עד כדי כך שזהות העומד מאחוריה הייתה תעלומה אפילו עבור חלק מעובדיה הוותיקים. היא נמנעת מפרסום השקעותיה ופועלת הרחק מעין הציבור בלב המרכז הפיננסי של דובאי.\n* **הקשר לשלטון באבו דאבי:** הקרן היא למעשה ה\"פמילי אופיס\" (משרד ניהול הון משפחתי) של שייח' מוחמד בן זאיד אאל נהיאן, נשיא איחוד האמירויות ושליט אבו דאבי. עובדה זו מעניקה לה גב כלכלי ופוליטי אדיר.\n* **צומת מרכזי לגיוס הון עולמי:** עם נכסים המוערכים בעשרות מיליארדי דולרים, הקרן הפכה לתחנת חובה עבור ענקי וול סטריט ומנהלי קרנות בינלאומיים המחפשים מימון והשקעות אסטרטגיות.\n* **תיק השקעות מגוון ורחב היקף:** הקרן מחזיקה בפוזיציות בחברות הטכנולוגיה הגדולות בעולם (אמזון, מיקרוסופט, אנבידיה), לצד השקעות בנכסים מגוונים כמו יצרנית מכוניות העל \"מקלארן\", סטארט-אפים רפואיים חדשניים ומלונות יוקרה בוונציה.\n* **נוכחות גלובלית חוצת יבשות:** פעילות הקרן אינה מוגבלת למפרץ; היא מעורבת בעסקאות רכישה בסין, מימון חברות בארה\"ב, השקעה בקרנות פרייבט אקוויטי אירופיות ואפילו בהנפקת קרן ההשקעות הלאומית של אוזבקיסטן.\n* **חוסן והמשכיות למרות טלטלות אזוריות:** למרות המלחמות וחוסר היציבות במזרח התיכון, התיאבון של הקרן לעסקאות חדשות נותר ללא פגע. גורמים פיננסיים בכירים מציינים כי האסטרטגיה של הקרן ממשיכה להתרחב ללא קשר למצב הגיאופוליטי באזור.",
-    "dateString": "2026-07-07",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ורגשות מרכזיים שעלו מהתגובות:\n\n*   **מימון דיבידנדים באמצעות חוב:** נטען כי חברות מסוימות פועלות במודל עסקי שלילי, שבו הן לוקחות הלוואות ומשלמות ריבית רק כדי לחלק דיבידנדים. פעולה זו נתפסת כסימן מובהק לכך שהחברה בדרך לקריסה כלכלית וערכה עתיד להתאפס.\n*   **הדיבידנד כ\"מלכודת\" למשקיעים:** קיים סנטימנט שהדיבידנדים הם לעיתים \"מצג שווא\" (Mirage) שנועד למשוך משקיעים לא מנוסים (\"dumb dividend investors\") שמתפתים לתזרים מזומנים מבלי להבין את המצב הפיננסי הרעוע של החברה.\n*   **חוסר רלוונטיות של מועדי החלוקה:** נאמר כי מאחר שחברות מייצרות רווחים בכל שנייה, העיתוי הספציפי של חלוקת הדיבידנד (רבעוני או אקראי) הוא חסר משמעות. הרווחים הללו כבר מגולמים במחיר המניה מדי יום על סמך הערכות המשקיעים.\n*   **סדר עדיפויות של משקיע מיומן:** על פי אחת הדעות, דיבידנדים צריכים להיות הדבר האחרון שמשקיע כשיר בוחן. דברים אחרים שהחברה עושה, כמו צמיחה עסקית או השקעה חוזרת, נתפסים כחשובים הרבה יותר לערך ארוך הטווח.\n*   **עדיפות לרכישה עצמית של מניות (Buybacks):** צוין כי קיימות צורות אחרות של החזר הון לבעלי המניות, כמו רכישה עצמית של מניות, שהפכו כיום למשמעותיות ונפוצות יותר מחלוקת דיבידנדים מסורתית.\n*   **ספקנות וביקורת פנימית בקהילה:** התגובות משקפות טון ביקורתי כלפי טיעונים פופוליסטיים. השימוש בביטוי \"איש קש\" (Strawman) מעיד על כך שחלק מהגולשים חשים שהדיונים בנושא לעיתים מעוותים את המציאות כדי להוכיח נקודה, במקום להתמקד בעובדות כלכליות.",
+    "dateString": "2026-07-08",
     "savedAt": {
-      "_seconds": 1783418058,
-      "_nanoseconds": 762000000
+      "_seconds": 1783499985,
+      "_nanoseconds": 415000000
     }
   },
   {
-    "id": "1upq7qh",
-    "title": "Hanwha Ocean Shares Plunge 23% Following Failed Canada Bid",
-    "url": "https://www.reddit.com/r/finance/comments/1upq7qh/hanwha_ocean_shares_plunge_23_following_failed/",
-    "author": "Head_Ad_3801",
-    "score": 1,
-    "selftext": "# Market Reaction to Failed Bid\n\nOn July 7, 2026, shares of Hanwha Ocean experienced a sharp correction, falling 23% during trading hours. This significant decline follows the formal announcement by the Canadian government that the company's bid to construct the nation's next fleet of submarines was unsuccessful. The market response reflects investor disappointment regarding the loss of what was anticipated to be a major international defense contract.\n\n# The Selection Process\n\nCanadian Prime Minister Mark Carney confirmed on Monday that the government has officially selected Germany-based Thyssenkrupp Marine Systems (TKMS) as the preferred supplier for the submarine program. While specific financial terms of the contract were not disclosed, the scale of Canada's fleet renewal represents a multi-billion dollar investment in national defense infrastructure. For Hanwha Ocean, which had positioned itself as a serious contender, the failure to secure this partnership limits its footprint in the North American maritime defense market.\n\n# Implications for Investors\n\nFor market participants, the 23% drop signifies a rapid repricing of Hanwha Ocean’s growth prospects. Investors had largely priced in the potential success of the Canadian bid, viewing it as a key catalyst for future revenue expansion. With this opportunity off the table, analysts are now looking toward the company's remaining pipeline and domestic defense orders to determine if the stock can stabilize. The loss serves as a reminder of the volatility inherent in international defense procurement cycles, where the selection process involves complex geopolitical and technical evaluations beyond simple pricing metrics.\n\n# Forward-Looking Context\n\nMoving forward, shareholders will closely monitor management's commentary regarding its international expansion strategy. While Thyssenkrupp Marine Systems moves forward as the preferred bidder, Hanwha Ocean faces the task of regaining market confidence. The sharp downward move on July 7, 2026, highlights the sensitivity of defense sector stocks to government contract decisions. Investors should note that without the revenue contribution from this expected project, Hanwha Ocean must now rely on its existing order book and potential future tenders to maintain its current valuation metrics.\n\n",
-    "subreddit": "finance",
-    "created_utc": 1783417281,
-    "thumbnail": "https://preview.redd.it/jhvhtqe63sbh1.jpeg?width=140&height=78&auto=webp&s=8edfa9bb860c5e10069cf1ab89099b5b79554bd2",
-    "top_comments": [
-      {
-        "body": "Source: [Finance Flux News](https://financefluxnews.com/article/hanwha-ocean-shares-sink-23-percent-canada-submarine-bid)",
-        "score": 1,
-        "author": "Head_Ad_3801"
-      }
-    ],
-    "summary_he": "מניית Hanwha Ocean צנחה ב-23% בעקבות כישלונה במכרז הענק לבניית צי צוללות עבור קנדה, שבחרה במקומה בחברה הגרמנית Thyssenkrupp Marine Systems. אובדן החוזה היוקרתי מהווה מכה משמעותית לתוכניות ההתרחבות הבינלאומיות של החברה ומאלץ את המשקיעים להעריך מחדש את תחזיות הצמיחה שלה בהתבסס על הזמנות עתידיות אחרות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום מקיף בעברית של הלכי הרוח והדעות המרכזיות שעלו בדיונים סביב הצניחה במניית \"Hanwha Ocean\" והמכרז לצוללות הקנדיות:\n\n**סיכום הדיון והלך הרוח בקהילה:**\n\n*   **ספקנות לגבי תהליך הרכש הקנדי:** משתתפים רבים הביעו חוסר אמון ביכולתה של קנדה להוציא אל הפועל פרויקט בסדר גודל כזה. הועלו זיכרונות מרכישות קודמות (כמו צוללות ה\"ויקטוריה\" המשומשות מבריטניה) שהיו רצופות בתקלות ועיכובים, והתחושה היא שהמכרז הנוכחי עלול להיגרר שנים או להתבטל בסופו של דבר.\n*   **תגובת יתר של השוק:** חלק מהאנליסטים והמגיבים בקהילות ההשקעות טוענים כי הירידה של 23% היא \"תגובת פאניקה\" מוגזמת. לטענתם, השוק הגיב בחריפות לחשש ש-Hanwha תפסיד במכרז לטובת המתחרה הדרום-קוריאנית (HD Hyundai) או לטובת הצעה יפנית, עוד לפני שהתקבלה החלטה רשמית כלשהי.\n*   **היתרון הטכנולוגי מול סיכוני ביצוע:** בעוד שיש הסכמה שצוללות ה-KSS-III של האנווה הן מהמתקדמות בעולם, הדיון התמקד בשאלה האם קנדה מסוגלת לתחזק טכנולוגיה כזו. עלה חשש שדרישות ל\"לוקליזציה\" (בנייה או תחזוקה בקנדה) ייקרו את הפרויקט לרמה שתהפוך אותו לבלתי כלכלי עבור החברה הקוריאנית.\n*   **התחרות היפנית כגורם מכריע:** בקהילה מציינים כי יפן (עם צוללות ה-Taigei) נחשבת למתחרה חזקה מאוד במכרז הזה. הסנטימנט הוא שהיחסים הגיאופוליטיים בין קנדה ליפן עשויים להכריע את הכף, מה שמלחיץ את המשקיעים ב-Hanwha Ocean שרואים במכרז זה \"מנוע צמיחה\" קריטי.\n*   **חשש מ\"קללת הזוכה\":** חלק מהמגיבים ציינו כי זכייה בחוזה הקנדי עלולה להיות בעייתית. בהתחשב בדרישות התקציביות הנוקשות של קנדה ובנטייה של פרויקטים ביטחוניים שם לחרוג מהתקציב, יש המאמינים שהפסד במכרז עשוי להיות דווקא בשורה טובה לחוסן הפיננסי לטווח ארוך של החברה.\n*   **חשיבות אסטרטגית מול שיקולים פוליטיים:** עלתה הטענה שהצורך של קנדה בצוללות להגנה על האזור הארקטי הוא דחוף, אך הציבור הקנדי לרוב אינו תומך בהוצאות ביטחוניות מאסיביות. הסנטימנט בקהילה הוא שהמניה צנחה כי המשקיעים מבינים שהפוליטיקה הפנימית בקנדה עלולה להוביל לצמצום משמעותי במספר הצוללות שיוזמנו בפועל.",
-    "dateString": "2026-07-07",
-    "savedAt": {
-      "_seconds": 1783418076,
-      "_nanoseconds": 975000000
-    }
-  },
-  {
-    "id": "1upp7n0",
-    "title": "Hanwha Ocean Shares Plunge 23% Following Failed Canada Bid",
-    "url": "https://www.reddit.com/r/finance/comments/1upp7n0/hanwha_ocean_shares_plunge_23_following_failed/",
-    "author": "Head_Ad_3801",
-    "score": 1,
-    "selftext": "[Source: Finance Flux News](https://financefluxnews.com/article/hanwha-ocean-shares-sink-23-percent-canada-submarine-bid)\n\nHanwha Ocean saw its share price plummet by 23% on Tuesday, July 7, 2026, after losing a high-stakes competition to build Canada's next submarine fleet. Canadian Prime Minister Mark Carney confirmed that Germany's Thyssenkrupp Marine Systems has been selected as the preferred supplier for the project.\n\n# Market Reaction to Failed Bid\n\nOn July 7, 2026, shares of Hanwha Ocean experienced a sharp correction, falling 23% during trading hours. This significant decline follows the formal announcement by the Canadian government that the company's bid to construct the nation's next fleet of submarines was unsuccessful. The market response reflects investor disappointment regarding the loss of what was anticipated to be a major international defense contract.\n\n# The Selection Process\n\nCanadian Prime Minister Mark Carney confirmed on Monday that the government has officially selected Germany-based Thyssenkrupp Marine Systems (TKMS) as the preferred supplier for the submarine program. While specific financial terms of the contract were not disclosed, the scale of Canada's fleet renewal represents a multi-billion dollar investment in national defense infrastructure. For Hanwha Ocean, which had positioned itself as a serious contender, the failure to secure this partnership limits its footprint in the North American maritime defense market.\n\n# Implications for Investors\n\nFor market participants, the 23% drop signifies a rapid repricing of Hanwha Ocean’s growth prospects. Investors had largely priced in the potential success of the Canadian bid, viewing it as a key catalyst for future revenue expansion. With this opportunity off the table, analysts are now looking toward the company's remaining pipeline and domestic defense orders to determine if the stock can stabilize. The loss serves as a reminder of the volatility inherent in international defense procurement cycles, where the selection process involves complex geopolitical and technical evaluations beyond simple pricing metrics.\n\n# Forward-Looking Context\n\nMoving forward, shareholders will closely monitor management's commentary regarding its international expansion strategy. While Thyssenkrupp Marine Systems moves forward as the preferred bidder, Hanwha Ocean faces the task of regaining market confidence. The sharp downward move on July 7, 2026, highlights the sensitivity of defense sector stocks to government contract decisions. Investors should note that without the revenue contribution from this expected project, Hanwha Ocean must now rely on its existing order book and potential future tenders to maintain its current valuation metrics.",
-    "subreddit": "finance",
-    "created_utc": 1783413848,
-    "thumbnail": "https://preview.redd.it/jrvr708wsrbh1.jpeg?width=140&height=78&auto=webp&s=a5f15dc00aeae8f4280dab58812b156d523e2cc0",
-    "top_comments": [],
-    "summary_he": "מניות חברת Hanwha Ocean צנחו ב-23% בעקבות הפסד במכרז הענק לבניית צי הצוללות החדש של קנדה, שהוענק במקום זאת לחברה הגרמנית Thyssenkrupp. הכישלון במכרז הביטחוני היוקרתי מהווה מכה קשה לתוכניות ההתרחבות של החברה בשוק הצפון-אמריקאי ופוגע משמעותית בציפיות הצמיחה ובתמחור המניה על ידי המשקיעים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-07-07",
-    "savedAt": {
-      "_seconds": 1783418084,
-      "_nanoseconds": 207000000
-    }
-  },
-  {
-    "id": "1up9wxe",
-    "title": "Top economist says AI just hasn’t delivered on the productivity hype—and it means a 'painful repricing' of markets is very possible",
-    "url": "https://www.reddit.com/r/finance/comments/1up9wxe/top_economist_says_ai_just_hasnt_delivered_on_the/",
-    "author": "fortune",
-    "score": 1,
-    "selftext": "The clock is ticking on AI to deliver on its promises of transformed workplace and economic productivity, and if lags in returns on investment continue, the markets are in for a rude awakening, according to one top economist.\n\nTorsten Slok, the influential chief economist for Apollo Global Management, argued in a recent blog post that there’s a growing gap around AI-enhanced productivity. Basically, you can only see it at tech companies, not most of the Fortune 500.   \n  \nWhile some sectors like software and tech can easily integrate AI into their operations, Slok argued that deploying this technology is slow-going for the vast majority of the economy. It takes time and effort due to regulatory hurdles, data protection, and workflow integration, meaning structural productivity gains are slow, and returns of investment have yet to be seen. Slok said he thinks it may happen—eventually. And by that point, the stock bubble may have burst, because the market has priced in returns sooner rather than later. \n\nRead more \\[paywall removed for Redditors\\]:   \n[https://fortune.com/2026/07/06/ai-productivity-gains-bubble-painful-repricing-markets-torsten-slok/?utm\\_source=reddit/](https://fortune.com/2026/07/06/ai-productivity-gains-bubble-painful-repricing-markets-torsten-slok/?utm_source=reddit/)",
-    "subreddit": "finance",
-    "created_utc": 1783371300,
-    "thumbnail": "https://external-preview.redd.it/SN0jSBzjIpdvsWPIwaNuZVIPzV0J7r5IE5VZmkBmask.jpeg?width=140&height=70&auto=webp&s=25a1226d509189f0e7db2c26e9ac7f7f96ff75a9",
-    "top_comments": [
-      {
-        "body": "“Why did God create economists?\n\nTo make weather forecasters look good.”",
-        "score": 35,
-        "author": "ensui67"
-      },
-      {
-        "body": "75 years of computers replacing humans has left a very difficult task for AI",
-        "score": 29,
-        "author": "bonerb0ys"
-      },
-      {
-        "body": "The sooner the better, then we can settle in to reality.",
-        "score": 15,
-        "author": "GaboureySidibe"
-      }
-    ],
-    "summary_he": "הכלכלן טורסטן סלוק מזהיר כי הבינה המלאכותית טרם הניבה את שיפורי הפריון המצופים ברוב ענפי המשק, בשל חסמים רגולטוריים ומורכבות הטמעת הטכנולוגיה. לטענתו, הפער בין הציפיות הגבוהות של שוק ההון לבין קצב ההתקדמות האיטי בשטח עלול להוביל ל\"תמחור מחדש כואב\" של המניות ולפיצוץ בועת ה-AI.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **ספקנות עמוקה כלפי תחזיות כלכליות:** התגובות משקפות תפיסה הומוריסטית אך צינית, לפיה כלכלנים אינם מסוגלים לספק תחזיות מדויקות, עד כדי כך שהם גורמים אפילו לחזאי מזג אוויר להיראות אמינים בהשוואה אליהם.\n*   **הומור ככלי לביקורת חברתית:** השימוש בבדיחה על חשבון כלכלנים מעיד על חוסר אמון של הקהילה ב\"מומחים\" ובמדעים המנסים לנבא מגמות עתידיות בשוק.\n*   **המשכיות היסטורית של האוטומציה:** קיימת הבנה שהבינה המלאכותית אינה תופעה מבודדת, אלא המשך ישיר של תהליך בן 75 שנה שבו מחשבים מחליפים כוח אדם אנושי.\n*   **מורכבות האתגר הניצב בפני ה-AI:** על פי הסנטימנט בקהילה, המשימות שנותרו עבור הבינה המלאכותית הן המורכבות ביותר, שכן המחשוב המסורתי כבר \"טיפל\" בכל המשימות הפשוטות יותר במהלך העשורים האחרונים.\n*   **רצון בהאצת השינוי (אקסלרציוניזם):** חלק מהמגיבים מביעים גישה לפיה עדיף שהשינוי הטכנולוגי והחברתי יקרה \"כמה שיותר מהר\", מתוך רצון לעבור את תקופת אי-הוודאות.\n*   **השתוקקות ליציבות במציאות חדשה:** עולה תחושה שהחברה נמצאת כרגע ב\"לימבו\" או במצב מעבר, וכי רק לאחר שהשינוי יושלם, נוכל סוף סוף להתמודד עם המציאות האמיתית ולהסתגל אליה.",
-    "dateString": "2026-07-07",
-    "savedAt": {
-      "_seconds": 1783418101,
-      "_nanoseconds": 118000000
-    }
-  },
-  {
-    "id": "1uqlhcf",
-    "title": "Pre-FOMC Minutes Market Snapshot: VIX Spikes, Precious Metals Hold Strong, DXY Pauses. What are you pricing in?",
-    "url": "https://www.reddit.com/r/investing/comments/1uqlhcf/prefomc_minutes_market_snapshot_vix_spikes/",
-    "author": "rahsady",
-    "score": 1,
-    "selftext": "Hey guys,\n\n​Just wanted to do a quick pre-FOMC minutes market check. Multi-asset setup is looking pretty interesting ahead of the release today. Here is where things stand right now:\n\n​Gold (XAU): 4,119.29 (+0.45%) - strong defense here, showing some good relative strength.\n\n​Silver (XAG): 60.55 (+1.14%) - outperforming gold today.\n\n​Brent Crude: 76.48 (+1.53%) - catching a bid despite the broader deflation worries.\n\n​DXY: 101.03 (-0.08%) - completely flat, waiting for direction.\n\n​VIX: 16.14 (+3.73%) - up nearly 4%, looks like some solid hedging activity is picking up.\n\n​The market feels like the calm before the storm but that VIX tick tells me people are getting cautious. Precious metals are holding strong, maybe pricing in a softer tone from the Fed, while equities look a bit nervous.\n\n​A couple of questions for the macro guys here:\n\n​Is this VIX spike just normal pre-event option hedging or are we looking at a bigger volatility wave post-release?\n\n​Gold and Silver holding up this well ahead of the minutes is interesting. If the fed leans even slightly hawkish, do you think this defense drops?\n\n​How are you positioning your portfolios for today? Let's discuss.",
+    "id": "1upzr88",
+    "title": "Vanguard is looking for a head of digital assets for first time. Successful candidate will \"develop the multi-year digital assets roadmap\" for the $10+ Trillion asset manager.",
+    "url": "https://www.reddit.com/r/investing/comments/1upzr88/vanguard_is_looking_for_a_head_of_digital_assets/",
+    "author": "OceanRawks",
+    "score": 49,
+    "selftext": "[https://www.vanguardjobs.com/job/23565418/head-of-digital-assets-personal-wealth-dallas-tx/?source=Google\\_Jobs](https://www.vanguardjobs.com/job/23565418/head-of-digital-assets-personal-wealth-dallas-tx/?source=Google_Jobs)\n\nHead of Digital Assets, Personal Wealth\n\nThe Head of Digital Assets will lead Vanguard Personal Wealth's digital assets strategy, roadmap, and enterprise execution. Defines how Vanguard will evaluate, prioritize, develop, and implement digital asset capabilities, products, and operating models in a way that advances Vanguard's mission, serves clients, and strengthens our long-term competitive position. Serves as Vanguard's senior subject matter expert for digital assets across Personal Wealth, partnering across product, technology, operations, client segments, risk, legal, and compliance to shape and deliver a scalable end-to-end strategy. Represents Vanguard externally with industry participants, regulators, and clients, and helps influence thought leadership and market standards in the evolving digital asset ecosystem.\n\nResponsibilities:\n\n* Defines and leads Personal Wealth's digital assets vision and strategy.Establishes Vanguard's point of view and strategic roadmap for digital assets across Personal Wealth, including where and how Vanguard should participate, what capabilities to build, partner for, or defer, and how to align innovation to Vanguard's mission and client-first principles.\n* Deep knowledge of digital assets and related infrastructure, including tokenization, stablecoins, wallets/custody models, settlement, blockchain-enabled operating models, and the broader digital asset ecosystem.",
     "subreddit": "investing",
-    "created_utc": 1783495216,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "הפוסט סוקר את מצב השווקים לקראת פרסום פרוטוקול ה-FOMC, ומציין עלייה במדד הפחד (VIX) לצד יציבות וחוזקה במחירי הזהב והכסף. המחבר מזהה תחושת דריכות וזהירות בקרב המשקיעים, ותוהה האם מדובר בגידור שגרתי לקראת האירוע או בסימן לתנודתיות משמעותית שתתפרץ לאחר הפרסום.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1uqjajn",
-    "title": "Chinese Equities and Basic Economic Principles",
-    "url": "https://www.reddit.com/r/investing/comments/1uqjajn/chinese_equities_and_basic_economic_principles/",
-    "author": "Illustrious-Boss9356",
-    "score": 1,
-    "selftext": "Hi all, saw some posts on Chinese investing which I've been wading into the last 1.5 years, wanted to share...\n\nSemi-retired in my 30's to make chicken videos on Youtube.  So you KNOW I know what I'm talking about.  I have a CFA and worked for over 10 years in the industry but all I learned some awful things.  It's like the quote from one money manager said: \"when you invest with me, we turn your money + my experience into my money + your experience\".  Most firms who have a \"mission statement\" should really call them \"commission statements\".\n\nAt any rate, I've spent a few years following the economic slowdown in China and as I'm interested to build a 3-5% exposure to select Chinese equities that focus on where that particular market in China provides these industries with a technological and manufacturing advantage.  Think batteries where the A-shares trade at a discount to the H-shares.\n\nSo I set off to set up some structures and needed RMB.  Guess what?  Just about EVERY wealthy Chinese person wants USD and wants to get rid of their RMB.  They're even willing pay \\~4-6% above spot to get it.\n\nI thought about this for awhile and what I'm realizing is ultimately \"Money\" is supposed to be able to buy power and influence.  And in China, no matter how much \"Money\" you have, you can't buy the influence and power.  So RMBs are really more like glorified food stamps.  Sure you can buy a fancy electric car (which are amazing for consumers) and some of the best food in the world.  But I would argue consumption is a tiny part of the monetary value of money.\n\nSo all of that is to say, tactically there are some good investments to be had, but DON'T put more than you can consume into Chinese stocks because the local currency is only good for consumption.  That % will look different for different portfolio sizes but for ours I think less than 5% is okay.\n\nTL:DR Some interesting opportunities in China but don't go all in.",
-    "subreddit": "investing",
-    "created_utc": 1783487876,
+    "created_utc": 1783440861,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "I just buy the Hang Seng through my broker. I don't know enough about China to be stock picking there. ",
-        "score": 1,
-        "author": "Kaymish_"
-      }
-    ],
-    "summary_he": "הכותב ממליץ על חשיפה מוגבלת (עד 5%) למניות סיניות נבחרות בעלות יתרון טכנולוגי, אך מזהיר מפני השקעת יתר בשל מגבלות המטבע המקומי. לטענתו, היואן הסיני משמש בעיקר לצריכה ואינו מקנה כוח או השפעה פוליטית, ולכן יש להתייחס להשקעות אלו כהזדמנויות טקטיות בלבד ולא כבסיס לתיק ההשקעות.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון והתחושות שעלו מהתגובות בנוגע להשקעה בשוק הסיני, המבוסס על הגישות השונות שהוצגו:\n\n*   **העדפת מדדים על פני מניות בודדות:** קיימת נטייה ברורה בקרב משקיעים להשקיע במדדים רחבים (כמו מדד ה-Hang Seng) במקום לנסות ולבחור מניות ספציפיות (Stock picking), מתוך הבנה שזהו כלי בטוח ומפוזר יותר.\n*   **הכרה במורכבות השוק הסיני:** המשקיעים מביעים צניעות ומודים כי אין להם מספיק ידע מקצועי או הבנה מעמיקה בכלכלה ובפוליטיקה הסינית כדי לנתח חברות בודדות בצורה מושכלת.\n*   **ניהול סיכונים באמצעות פסיביות:** הגישה השלטת היא שהשקעה פסיבית היא הדרך הנכונה להתמודד עם חוסר הוודאות בשוק זר, שכן היא מונעת טעויות שנובעות מניתוח שגוי של חברות ספציפיות.\n*   **נגישות ופשטות הביצוע:** קיימת חשיבות רבה ליכולת להשקיע בשוק הסיני דרך ברוקר רגיל ומוכר, ללא צורך בפתיחת חשבונות מיוחדים או שימוש בפלטפורמות מסחר מורכבות בחו\"ל.\n*   **חשיפה לשוק למרות חוסר הידע:** גם משקיעים שאינם מחשיבים את עצמם למומחים בסין עדיין מעוניינים בחשיפה לכלכלה הזו, ורואים במדד את \"דרך המלך\" לקבלת חשיפה כזו מבלי להסתכן יתר על המידה.\n*   **הסתמכות על המדד כנציג השוק:** מדד ה-Hang Seng נתפס ככלי יעיל ונוח שמייצג את הפעילות העסקית באזור, והמשקיעים סומכים עליו שיעשה את עבודת הניפוי והבחירה עבורם."
-  },
-  {
-    "id": "1uqhv3u",
-    "title": "What happens to a 401k over the SIPC limit if the institution goes under or fraud occurs?",
-    "url": "https://www.reddit.com/r/investing/comments/1uqhv3u/what_happens_to_a_401k_over_the_sipc_limit_if_the/",
-    "author": "iamrob15",
-    "score": 1,
-    "selftext": "There is undoubtedly a lot of discussion about whether or not we’re in a bubble. Hypothetically, If we were in a bubble, and the bubble popped, and your institution holding your 401k became insolvent (or fraud occurred), do all 401k accounts remain whole? \n\nI’ve briefly read about SIPC limits and additional insurance, but what isn’t clear to me is what exactly happens in this case.\n\nGenerally, how safe is a person’s money if their 401k is over $500k and the brokerage goes under or if fraud occurs? Would they be screwed if a major firm fails/fraud occurs? If it’s not covered, is it common to break up a 401k exceeding $500k? ",
-    "subreddit": "investing",
-    "created_utc": 1783483478,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": ">What happens to a 401k over the SIPC limit\n\n401ks aren't covered by SIPC (unless it's in a brokerage-link). 401ks are covered by ERISA.\n\n>and your institution holding your 401k became insolvent (or fraud occurred), do all 401k accounts remain whole?\n\nYes. 401ks are held in trust. If the employer or 401k recordkeeper goes bankrupt, the 401k itself is unaffected as it's housed separately.\n\n401ks are so ridiculously [regulated](https://www.irs.gov/retirement-plans/401k-plans) that large scale institutional fraud is impossible.\n\n>Generally, how safe is a person’s money if their 401k is over $500k and the brokerage goes under or if fraud occurs? \n\nVery safe, and again there's no $500k SIPC threshold for 401ks.\n\nIt's not safe from *market* losses of course.\n\n>Would they be screwed if a major firm fails/fraud occurs? \n\nNot at all",
-        "score": 13,
-        "author": "DaemonTargaryen2024"
+        "body": "Translation: ‘we ignored this until it got too big to keep ignoring.’",
+        "score": 33,
+        "author": "k1_r1"
       },
       {
-        "body": "Note also that SIPC does not work the same as FDIC.  SIPC replaces lost securities, exactly as they were.  Not dollar amounts.  If in a bad event you lost your 100 shares of PEP,  SIPC would restore your 100 shares PEP to you.  PEP may have dropped 50% between when it was lost and when it was restored.   That loss stays with you.\n\nAlso, SIPC does not restore lost cash, but some brokerage cash might be in the broker bank product which may be FDIC insured. ",
-        "score": 4,
-        "author": "BigDipper0720"
+        "body": "In my experience, Vanguard is a moderately forward thinking company, at least compared to others at that size. They were a pretty early adopter of the tech i sell",
+        "score": 11,
+        "author": "Clear_Command_8925"
       },
       {
-        "body": "Large brokerages will typically have extra SIPC insurance. If you want to know if they do, then you can always contact them and ask. ",
-        "score": 1,
-        "author": "Historical_Low4458"
+        "body": "Great, I can't wait for all the Vanguard bashing posts moving forward.",
+        "score": 8,
+        "author": "kinetic_honda"
       }
     ],
-    "summary_he": "הפוסט עוסק בבטיחות של חשבונות פנסיה מסוג 401k העולים על תקרת הביטוח של ה-SIPC (חצי מיליון דולר) במקרה של קריסת המוסד הפיננסי או הונאה. הכותב שואל האם הכספים מעבר לתקרה זו מוגנים, והאם נהוג לפצל חשבונות גדולים בין מספר גופים כדי להפחית את הסיכון לאובדן הון במקרה של משבר כלכלי משמעותי.",
+    "summary_he": "ענקית ניהול הנכסים וונגארד (Vanguard), המנהלת למעלה מ-10 טריליון דולר, מחפשת לראשונה מנהל לתחום הנכסים הדיגיטליים שיוביל את האסטרטגיה של החברה בנושא. התפקיד כולל פיתוח מפת דרכים רב-שנתית ובחינת טכנולוגיות כמו טוקניזציה ומטבעות יציבים (Stablecoins), במטרה לשלבן במודל העסקי ובשירות ללקוחות. המהלך מסמן צעד משמעותי של החברה לתוך המערכת האקולוגית של הקריפטו והנכסים הדיגיטליים.",
     "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע לבטיחות חשבונות פרישה (401k), מגבלות ביטוח ה-SIPC ומקרי חדלות פירעון של מוסדות פיננסיים:\n\n*   **הגנה משפטית שונה (ERISA):** חשבונות 401k אינם מכוסים בדרך כלל על ידי ה-SIPC (אלא אם הם מנוהלים דרך קישור לברוקראז'), אלא מוגנים תחת חוק ה-ERISA. המשמעות היא שהם כפופים לסטנדרטים מחמירים של נאמנות והגנה על העובד.\n*   **הפרדת נכסים בנאמנות:** כספי ה-401k מוחזקים בנאמנות (Trust) בנפרד מנכסי המעסיק או הגוף המנהל את הרישומים. לכן, אם המעסיק או חברת הניהול פושטים את הרגל, הכסף בחשבון ה-401k נותר שלם ואינו מושפע מהחובות של אותם מוסדות.\n*   **חסינות מפני הונאה מוסדית:** בשל הרגולציה הכבדה של ה-IRS וה-DOL על תוכניות אלו, הקהילה מציינת כי הונאה מוסדית בקנה מידה גדול היא כמעט בלתי אפשרית, מה שהופך את הכסף לבטוח מאוד גם ללא תלות בתקרות ביטוח כאלו ואחרות.\n*   **ההבדל בין SIPC ל-FDIC:** ביטוח ה-SIPC אינו עובד כמו ביטוח הפיקדונות בבנקים (FDIC). בעוד ה-FDIC מבטיח סכום דולרי, ה-SIPC נועד להשיב למשקיע את ניירות הערך עצמם (כמות המניות) כפי שהיו. הוא אינו מבטיח את הערך הכספי של המניה.\n*   **חשיפה לסיכוני שוק:** כל מנגנוני ההגנה (SIPC או ERISA) מגנים מפני קריסת המוסד הפיננסי או גניבת ניירות הערך, אך הם אינם מספקים הגנה מפני הפסדים בשוק ההון. אם שווי המניות ירד בזמן שהברוקר קרס, המשקיע עדיין יספוג את ההפסד בשווי השוק.\n*   **ביטוחים נוספים בבתי השקעות גדולים:** ברוקרים ומוסדות פיננסיים גדולים מחזיקים לרוב בפוליסות ביטוח נוספות (\"Excess SIPC\") מעבר למגבלה הסטנדרטית של 500,000 דולר, כדי להגן על לקוחות עם יתרות גבוהות במיוחד. ניתן ומומלץ לפנות למוסד הפיננסי כדי לוודא את קיום הכיסוי הזה."
+    "comments_summary_he": "להלן ניתוח וסיכום של הלך הרוח בדיון ב-Reddit, המציג 6 נקודות מבט ורגשות שונים שעלו מתוך התגובות:\n\n*   **ביקורת על חוסר ברירה ואימוץ מאוחר:** קיימת טענה צינית שהחברה (Vanguard) לא בחרה בשינוי מתוך חזון, אלא פשוט הפסיקה להתעלם מהנושא רק כשהוא הפך ל\"גדול מדי\" מכדי שניתן יהיה להמשיך להזניח אותו.\n*   **תפיסת החברה כמתקדמת טכנולוגית:** בניגוד לביקורת השלילית, ישנם משתמשים המעידים מניסיונם המקצועי ש-Vanguard היא דווקא חברה בעלת \"חשיבה קדימה\" (forward-thinking), לפחות בהשוואה לתאגידים אחרים בסדר גודל דומה.\n*   **עדות על אימוץ מוקדם (Early Adopter):** נקודת מבט חיובית מציינת שהחברה נוטה לאמץ טכנולוגיות חדשות בשלבים מוקדמים יחסית, מה שמציג אותה כגוף שפתוח לחדשנות ולא רק מגיב למציאות בדיעבד.\n*   **ציפייה לגל של \"אנטי\" בקהילה:** קיים רגש של עייפות או ציניות לגבי הדינמיקה בפורומים, עם צפי מפורש לכך שהמהלך יוביל לגל של פוסטים זועמים והתקפות (bashing) נגד החברה מצד גולשים אחרים.\n*   **פער בין תדמית ציבורית לפרקטיקה עסקית:** הדיון משקף פער בין הדרך שבה הציבור תופס את החברה (כאיטית או מגיבה מאוחר) לבין האופן שבו ספקים טכנולוגיים חווים אותה (כחברה פתוחה וחדשנית).\n*   **ספקנות לגבי מניעי החברה:** עולה תחושה של חוסר אמון בשיקולי ההנהלה, מתוך הנחה שהם פועלים רק מתוך לחץ חיצוני ולא מתוך רצון אמיתי להשתפר או להוביל שינוי."
   },
   {
-    "id": "1uqfv5z",
-    "title": "Looking to move money from CD",
-    "url": "https://www.reddit.com/r/investing/comments/1uqfv5z/looking_to_move_money_from_cd/",
-    "author": "UnfairDiscount8331",
-    "score": 1,
-    "selftext": "I (30F) have a taxable brokerage account and a Roth IRA. My husband and I also share an emergency fund. My CD with about 30k in it is maturing and looks like the CD rates are all at \\~ 3.5% or less. I invest in VTI, VXUS, SMH and few stocks in my other accounts. should I continue the CD or invest in taxable brokerage? I haven’t been investing too much in the last 6 months with how volatile the markets have been.",
+    "id": "1upx1hf",
+    "title": "Unitree's 73-day IPO approval and LingBot-Vision going Apache-2.0 in the same fortnight: two numbers I can't square",
+    "url": "https://www.reddit.com/r/investing/comments/1upx1hf/unitrees_73day_ipo_approval_and_lingbotvision/",
+    "author": "Altruistic_Hat_9990",
+    "score": 3,
+    "selftext": "I spent the last couple weeks tracking the China robotics pipeline and two events in basically the same fortnight have been bouncing off each other in my head. On July 3, Unitree got final CSRC registration for its STAR Market IPO at roughly $618 million, filed March 20, cleared in a record 73 days. That clears it to become China's first listed pure-play humanoid company. The hardware side has been accelerating hard. AgiBot hit its 10,000th mass-produced robot on March 30, going from 5,000 to 10,000 in about three months per Xinhua. Stanford's 2026 AI Index, citing IFR, has China installing nearly nine times as many industrial robots as the US in 2024. Unitree shipped over 5,500 humanoids last year with humanoids already more than half its revenue through the first nine months of 2025, per Caixin. Meanwhile Tesla Optimus fell far short of its \\~5,000-unit 2025 target, with only hundreds built per The Information, and has walked back firm timelines around the V3 redesign.\n\nThen around July 6, Robbyant (Ant Group's robotics company) dropped LingBot-Vision on Hugging Face under Apache-2.0: four backbone sizes, 21M, 86M, 0.3B and 1.1B parameters, all open weight. The company self-reports that its 0.3B model matches Meta's 7B DINOv3 on NYU depth estimation while training on less than a third of the data. The downstream product that actually sees glass and mirrors, LingBot-Depth 2.0, stays closed. But the foundation layer itself is now free, which reads to me like a straight commoditization of the perception stack.\n\nSo here's what I keep circling back to. The classic bull case for Western robotics, the thing that justifies the software multiples, is that perception and control software is the moat. The metal was never what you were paying for. The stack was. But LingBot-Vision is now free. And on the hardware side, the leading pure-play maker is about to hit public markets with actual unit economics while the best known Western name in the space can't hit production targets.\n\nTo be clear, none of this means China has won the category. The US still has more venture dollars flowing into frontier hardware, deeper systems integration talent, and NVIDIA still sits under most of the simulation tooling this field trains on. China has not solved general manipulation or reliable bipedal locomotion at scale either, and a 73-day approval sprint tells you nothing about how the stock trades once it actually lists. The geopolitical overlay could cut the other way entirely.\n\nBut if I'm trying to model where Western robotics margin actually lives five years out, I keep trying to square those two facts and I can't. If the perception backbone is free and the hardware is commoditizing, where does the investable moat live?",
     "subreddit": "investing",
-    "created_utc": 1783477777,
+    "created_utc": 1783435159,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Buying broad indices like VTI is already treading carefully enough. Don’t try to time the market, just keep buying and never sell ",
+        "body": "The moat question is probably less \"is perception open?\" and more \"who owns the deployment loop.\" If the cheap public layer keeps improving, I would want to see evidence of proprietary fleet data, integration channels, and service economics before paying software-like multiples for the hardware names.",
+        "score": 1,
+        "author": "TieForeign8827"
+      }
+    ],
+    "summary_he": "הפוסט מנתח את הזינוק המהיר של סין בתחום הרובוטיקה, המשתקף באישור המהיר להנפקת Unitree ובעקיפת יעדי הייצור של טסלה. במקביל, שחרור מודל ראייה מתקדם כקוד פתוח על ידי Ant Group הופך את רכיב התוכנה, שנחשב בעבר ליתרון התחרותי המרכזי של המערב, למוצר זמין וחינמי. הכותב תוהה היכן יישאר הרווח הכלכלי והיתרון הטכנולוגי של חברות רובוטיקה מערביות בעתיד, כאשר גם החומרה וגם התוכנה הופכות למוצרי צריכה נגישים (Commodities).",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום של הנקודות המרכזיות והתובנות שעלו מהתגובה, המתמקדת בשאלת ה\"חפיר\" הכלכלי (Moat) וביתרון התחרותי של חברות בתחום הבינה המלאכותית והחומרה:\n\n*   **העברת המיקוד משאלת ה\"פתיחות\" לשאלת ה\"פריסה\":** היתרון התחרותי האמיתי אינו טמון בשאלה האם מודלי התפיסה (Perception) הם בקוד פתוח או לא, אלא במי שולט ב\"לולאת ההטמעה\" (Deployment loop) – כלומר, במי שמנהל את היישום בפועל אצל הלקוח.\n*   **האיום של השכבה הציבורית החינמית:** ככל שהטכנולוגיה הציבורית והזולה (Open-source/Public layer) ממשיכה להשתפר, קשה יותר לחברות פרטיות להצדיק תמחור פרימיום רק על בסיס ביצועי המודל עצמו.\n*   **חשיבותם של נתונים ייחודיים מהשטח:** כחלק מההוכחה ליתרון תחרותי, על חברות להראות שיש להן גישה לנתוני צי (Fleet data) בלעדיים וקנייניים שלא ניתנים לשחזור בקלות על ידי המתחרים.\n*   **ערוצי אינטגרציה כחסם כניסה:** אחד המפתחות לביצור מעמד החברה הוא היכולת שלה להשתלב באופן עמוק בערוצי הפעילות הקיימים של הלקוח, דבר שיוצר \"דביקות\" ומקשה על מעבר לפתרונות אחרים.\n*   **בחינת הכלכלה של השירות (Service Economics):** מעבר לטכנולוגיה המרשימה, יש לבחון את המודל הכלכלי של השירות עצמו – האם הוא רווחי ובר-קיימא לפני שמעניקים לחברה שווי שוק גבוה.\n*   **זהירות בהערכות שווי (מכפילים):** קיים סנטימנט של זהירות לגבי תמחור חברות חומרה לפי \"מכפילים של תוכנה\". הקהילה מציעה שלא לשלם פרמיה גבוהה על חברות חומרה אלא אם כן הן מוכיחות שיש להן מאפיינים של חברות תוכנה (כמו נתונים קנייניים ואינטגרציה עמוקה)."
+  },
+  {
+    "id": "1uq1bwo",
+    "title": "IT tools architecture for a medium size business ?",
+    "url": "https://www.reddit.com/r/business/comments/1uq1bwo/it_tools_architecture_for_a_medium_size_business/",
+    "author": "spacecheap",
+    "score": 3,
+    "selftext": "Company of 50 people​ : ​What does your IT tools architecture look like across sales, customer support, services, and internal documentation ?\n\n Which solutions do you use for each function (CRM, ticketing system, mailboxes or ​centralized mailboxes, internal wiki/knowledge base, document management, collaboration tools, RAG  LLM, ​etc.)?\n\nThanks !",
+    "subreddit": "business",
+    "created_utc": 1783444226,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "For a team of around 50, a simple stack works well, HubSpot for CRM, Zendesk for support, Microsoft 365 for email, SharePoint for documentation, Teams or Slack for collaboration, and an AI assistant connected to the knowledge base for quick internal answers.",
         "score": 2,
-        "author": "leaning_on_a_wheel"
+        "author": "EloreSnow"
       },
       {
-        "body": "Yeah that makes sense! Our current emergency fund is in a HYSA. ",
+        "body": "An IT system for a business. Open to any idea.",
         "score": 2,
-        "author": "UnfairDiscount8331"
+        "author": "spacecheap"
       },
       {
-        "body": "\"time in the market beats timing the market\" is the old adage.  put this money into vti + vxus and don't check it for the next 30 years - you will be pleasantly surprised.\n\nsounds like you got smh before the big run up; it's going to crash soon (the process has just begun), but i am sure you are sitting on some good gains so ride out the crash.",
+        "body": "keep the stack as simple as possible because too many disconnected tools usually create more problems than they solve",
+        "score": 1,
+        "author": "Electronic-Cat185"
+      }
+    ],
+    "summary_he": "הפוסט מבקש המלצות לבניית ארכיטקטורת כלי ה-IT בחברה בגודל בינוני (כ-50 עובדים) במגוון תחומים כמו מכירות, שירות לקוחות ותיעוד פנימי. הכותב מעוניין להכיר פתרונות ספציפיים עבור CRM, מערכות כרטוס, ניהול ידע ושיתוף פעולה, כולל שילוב של כלי בינה מלאכותית (LLM).",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מרכזיות, דעות ותובנות שעלו מהתגובות:\n\n*   **העדפת פשטות על פני מורכבות:** קיימת הסכמה רחבה שמומלץ לשמור על \"ערימת טכנולוגיות\" (Stack) פשוטה ככל האפשר. ריבוי כלים שאינם מחוברים זה לזה נוטה לייצר בעיות חדשות במקום לפתור קשיים קיימים.\n*   **בחירת כלים ייעודיים ומוכרים:** עבור צוותים בינוניים (סביב 50 איש), הוצעו פתרונות סטנדרטיים המוכחים בשוק: HubSpot לניהול קשרי לקוחות (CRM) ו-Zendesk למערך התמיכה.\n*   **תשתית תקשורת ותיעוד אחודה:** המשתמשים ממליצים על שילוב של Microsoft 365 לניהול דוא\"ל, SharePoint לניהול מסמכים ותיעוד, ושימוש ב-Teams או Slack לצורך תקשורת שוטפת בין העובדים.\n*   **שילוב בינה מלאכותית (AI) בארגון:** עלה רעיון להטמיע עוזר AI המחובר ישירות למאגר הידע הארגוני. זאת במטרה לספק לעובדים תשובות פנימיות מהירות ולייעל את הגישה למידע.\n*   **אזהרה מפני \"נתק\" בין כלים:** הקהילה מדגישה כי הבעיה העיקרית במערכות IT היא חוסר סנכרון. כלים מנותקים מובילים לכפל עבודה ולחוסר יעילות, ולכן יש לבחור כלים שעובדים היטב יחד.\n*   **פתיחות לחדשנות אך בזהירות:** בעוד שישנה פתיחות לרעיונות חדשים לניהול מערכות IT בעסק, הקו המנחה הוא שכל פתרון חייב לשרת את המטרה של ייעול העבודה ולא להכביד עליה."
+  },
+  {
+    "id": "1urkqdu",
+    "title": "Starting to invest as a 16 year old",
+    "url": "https://www.reddit.com/r/investing/comments/1urkqdu/starting_to_invest_as_a_16_year_old/",
+    "author": "Trixikk_",
+    "score": 1,
+    "selftext": "So, my dad recently helped me open an investment account, and I’d love to hear your advice and experiences. What helped you the most when you started investing, or what do you wish you’d done differently?  \nI have about $550 saved up that I’m planning to invest.  \nThanks for your replies!",
+    "subreddit": "investing",
+    "created_utc": 1783587565,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "please read sub resources always before making posts in a sub.\n\nit answers beginner questions like this.\n\npeople put time and energy into it.  ",
+        "score": 1,
+        "author": "szakee"
+      },
+      {
+        "body": "Yeah go to a library and check out what section is the investing section and read books that only interest you—you can ignore boring ones.\n\nLearn the difference between retirement accounts and traditional brokerages so you can have cash to disperse before you are 55 years old ",
+        "score": 1,
+        "author": "DarkKnight2619"
+      },
+      {
+        "body": "As a 16 yr old, this largely depends on your future plans, salary of your parents, and theirs and your net worth. \n\nIf they're already wealthy then it doesn't really matter either way. But if not and salary lower and you might qualify for FAFSA, then take that into consideration and do 529 or ESA instead.\n\nOtherwise for now:\n1. Keep it simple at first (ETFs or Mutual Funds): VOO or other low fee. What institution, Schwab, Fidelity, etc?\n2. If you have a job, do some Roth IRA, but at 16 this can wait you might need the money sooner.\n3. Watch your emotions, don't try to chase the hype, gamble, or make stupid decisions. Behavior is so important. Don't overspend. Check out Dave Ramsey's podcasts.\n4. Long-term wealth generation is so important, so actually right now work towards preparing for education or training for your career, do something where you can get a job. ",
+        "score": 1,
+        "author": "AlexVT8"
+      }
+    ],
+    "summary_he": "כותב הפוסט הוא בן 16 שפתח לאחרונה חשבון השקעות בסיוע אביו, ומתכנן להשקיע סכום התחלתי של 550 דולר. הוא פנה לקהילה כדי לקבל עצות, תובנות ולקחים מניסיונם של אחרים שיעזרו לו להתחיל את דרכו בעולם ההשקעות בצורה נבונה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט ועצות מרכזיות:\n\n*   **חשיבות השימוש במשאבי הקהילה:** נקודה מרכזית שהועלתה היא הצורך של מצטרפים חדשים לקרוא את המדריכים והמשאבים הקיימים בפורום (Subreddit) לפני פרסום שאלות. המדריכים הללו נכתבו כדי לענות על שאלות בסיסיות של מתחילים והושקעו בהם זמן ואנרגיה רבים מצד חברי הקהילה.\n*   **למידה עצמית מבוססת עניין:** מומלץ לגשת לספרייה ולבחור ספרי השקעות שמעוררים עניין אישי בלבד. הגישה כאן היא שאין טעם להכריח קריאה של תכנים משעממים, אלא להתמקד במה שמושך את הקורא כדי לבנות בסיס ידע יציב.\n*   **הבנה בין נזילות לחיסכון ארוך טווח:** קיימת הדגשה על הצורך ללמוד את ההבדלים בין חשבונות פרישה (הסגורים לשנים רבות) לבין חשבונות השקעה רגילים (Brokerage). הבנה זו קריטית כדי להבטיח זמינות של מזומנים לשימוש גם לפני גיל הפרישה.\n*   **שיקולי סיוע כלכלי ולימודים (בהקשר האמריקאי):** עבור צעירים (בגיל 16), ההחלטה היכן להשקיע צריכה להתחשב במצב הכלכלי של ההורים. אם ההכנסה אינה גבוהה, יש לשקול חיסכון בחשבונות ייעודיים ללימודים (כמו 529) כדי לא לפגוע בזכאות לסיוע כלכלי ממשלתי (FAFSA) בעתיד.\n*   **אסטרטגיית השקעה פשוטה ושמרנית:** הקהילה ממליצה למתחילים להיצמד לפשטות: השקעה בקרנות סל (ETFs) או קרנות נאמנות עם עמלות נמוכות (למשל כאלו העוקבות אחרי מדד ה-S&P 500 כמו VOO), תוך שימוש במוסדות פיננסיים מוכרים ויציבים.\n*   **משמעת פסיכולוגית והשקעה ב\"הון אנושי\":** מעבר למספרים, הדיון מדגיש את חשיבות השליטה ברגשות – הימנעות מרדיפה אחרי טרנדים (Hype), הימורים או בזבזנות. העצה החשובה ביותר לצעירים היא להתמקד כרגע בהכשרה מקצועית ובלימודים שיאפשרו להם קריירה רווחית, שכן זהו המנוע העיקרי ליצירת עושר בטווח הרחוק."
+  },
+  {
+    "id": "1urje4v",
+    "title": "ETF’s VS. individual stocks",
+    "url": "https://www.reddit.com/r/investing/comments/1urje4v/etfs_vs_individual_stocks/",
+    "author": "EquityEnigma",
+    "score": 1,
+    "selftext": "Buy VOO and touch grass yes! Totally get it……\n\nDCA is a great investment strategy, but does it really outperform choosing the right stocks year after year? \n\nHow do I balance my long term and my short term stock picking? \n\nAt this point, put majority of my money into index’s and choose a couple stocks on the side? \n\nNeed advice on my portfolio…. Am I gambling still? ",
+    "subreddit": "investing",
+    "created_utc": 1783582831,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "How do you know you are picking rhe right stock year after year?\n\nMost likely you wont. Thinking you can is already a sign that you probably can't ",
+        "score": 1,
+        "author": "Burgergold"
+      },
+      {
+        "body": "DCA is a strategy that is working for average investor, that's why it's recommended. You can see it's performance by opening S&P 500 chart. Stock picking can be very rewarding but it require much more work to understand different businesses, financials etc. If you have time and will to analyze tables with numbers, read annual reports and follow news, then i do highly recommend stock picking as you can learn a lot and improve over time (usually on mistakes). Understand what you own is a key aspect in stock picking as not all stocks are long term investments because of business cyclicality (commodity stocks as an example).",
+        "score": 1,
+        "author": "Vivid_Historian3269"
+      },
+      {
+        "body": "even if you pick individual stocks you have to be picking for the long term too. short term doesn't work for retail investors and is mainly for traders where 90% lose money over time anyway",
+        "score": 1,
+        "author": "chowsingchi"
+      }
+    ],
+    "summary_he": "הפוסט דן בהתלבטות בין השקעה פסיבית במדדי סל (כמו VOO) לבין ניסיון להכות את השוק באמצעות בחירת מניות בודדות. הכותב מבקש עצה כיצד לאזן בין השקעה לטווח ארוך לבין בחירות מניות \"מהצד\", ותוהה האם אסטרטגיה המשלבת את השתיים עדיין נחשבת להימור.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט ותובנות שונות:\n\n*   **הקושי והסיכון בבחירת מניות (Stock Picking):** קיימת ספקנות רבה לגבי היכולת של משקיע לבחור את המניות ה\"נכונות\" שנה אחר שנה. התפיסה היא שרוב הסיכויים שהמשקיע ייכשל בכך, ועצם המחשבה שאפשר לעשות זאת בקלות היא סימן לביטחון עצמי מופרז שעלול להוביל לטעויות.\n*   **היעילות של אסטרטגיית ה-DCA למשקיע הממוצע:** שיטת ה-DCA (השקעה בסכומים קבועים לאורך זמן) נחשבת לאסטרטגיה המנצחת עבור המשקיע הממוצע. ההוכחה להצלחתה ניתנת דרך התבוננות בביצועים ההיסטוריים של מדד ה-S&P 500.\n*   **המחיר של בחירת מניות פרטניות:** בחירת מניות מוצלחת דורשת עבודה קשה ומאומצת. היא מחייבת ניתוח מעמיק של דוחות כספיים, קריאת דוחות שנתיים, הבנת מודלים עסקיים ומעקב רציף אחר חדשות השוק – משאבים שלא לכל משקיע יש.\n*   **חשיבות ההבנה של \"מה אתה מחזיק\":** לא כל מניה מתאימה להשקעה ארוכת טווח. ישנה חשיבות קריטית להבנת המחזוריות של העסק (כמו במניות של חברות סחורות), שכן ללא הבנה זו המשקיע עלול להחזיק בנכס לא מתאים בזמן הלא נכון.\n*   **ערך הלימוד וההתפתחות העצמית:** למרות הקושי, בחירת מניות יכולה להיות מתגמלת מאוד מבחינה לימודית. התהליך מאפשר למשקיע להשתפר לאורך זמן, ללמוד מהטעויות שלו ולהעמיק את הבנתו בעולם העסקי והפיננסי.\n*   **פסילת המסחר לטווח קצר עבור משקיעים קטנים:** גם אם בוחרים במניות בודדות, הגישה חייבת להיות לטווח ארוך. מסחר לטווח קצר (Trading) נחשב למסוכן ביותר עבור המשקיע הפרטי, כאשר הנתונים מראים כי כ-90% מהעוסקים בו מפסידים כסף לאורך זמן."
+  },
+  {
+    "id": "1urgqno",
+    "title": "Accidentally enrolled in DRIP during company blackout period",
+    "url": "https://www.reddit.com/r/investing/comments/1urgqno/accidentally_enrolled_in_drip_during_company/",
+    "author": "anxietyburner123",
+    "score": 1,
+    "selftext": "I was looking around in my ESPP portal and stupidly clicked to reinvest dividends. I am not c-suite but I have access to MNPI. \n\nDoes this need to be reported internally? I am seeing conflicting answers. I work for a large company and am scared of the repercussions because our legal & HR are brutal. It was an honest mistake and I would hate to lose my job or the respect of my team over this.",
+    "subreddit": "investing",
+    "created_utc": 1783574071,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "You should report it internally and avoid making a second change during the blackout period, more than likely they already got an automatic notification. You’ll likely need a compliance officer to reverse the change. If you do it yourself you’re adding additional changes during the period which won’t be good",
+        "score": 5,
+        "author": "Fun-Sundae4060"
+      },
+      {
+        "body": "Expect the SEC to kick your door in soon",
+        "score": 3,
+        "author": "HungryCaterpillers"
+      },
+      {
+        "body": "drips are exempt from insider trading rules - they are automatic/non-discretionary purchases.\n\nemail your compliance team; they will tell you it's not an issue and maybe even laugh about your concerns.",
         "score": 2,
         "author": "gbdgdh"
       }
     ],
-    "summary_he": "הכותבת מתלבטת כיצד להשקיע כ-30,000 דולר מפיקדון (CD) שעומד להסתיים, לאור הירידה בשיעורי הריבית המוצעים. היא שוקלת האם לחדש את הפיקדון או להעביר את הכסף לחשבון השקעות ממוסה שבו היא כבר מחזיקה מדדים ומניות, זאת למרות חששותיה מתנודתיות השוק בתקופה האחרונה.",
+    "summary_he": "הכותב נרשם בטעות לתוכנית השקעה מחדש של דיבידנדים (DRIP) במהלך תקופת איסור מסחר (blackout period), למרות שיש לו גישה למידע פנים רגיש. הוא חושש מהשלכות משמעתיות מצד מעסיקו ותוהה האם עליו לדווח על הטעות למחלקה המשפטית או למשאבי אנוש.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על תגובות הגולשים, המציג 6 נקודות מבט ודעות שונות שעלו בשרשור:\n\n*   **חשיבות הדיווח הפנימי:** מומלץ לדווח על המקרה באופן רשמי בתוך הארגון ולא לנסות להסתיר אותו, כדי להפגין שקיפות ורצון טוב.\n*   **הימנעות מתיקון עצמי:** הגולשים מזהירים מפני ביצוע שינויים נוספים בחשבון במהלך \"תקופת החסימה\" (blackout period). ניסיון לתקן את הטעות באופן עצמאי עלול להיראות כפעילות מחשידה נוספת ולהחמיר את המצב מול רשויות האכיפה.\n*   **הסתמכות על קצין ציות:** הפתרון הנכון הוא פנייה לקצין ציות (Compliance Officer) של החברה; הוא הגורם המוסמך היחיד שיכול לבטל או לתקן את הפעולה בצורה חוקית ומסודרת.\n*   **מעקב אוטומטי של החברה:** סביר להניח שהחברה כבר קיבלה התראה אוטומטית על הפעולה החריגה, ולכן דיווח יזום הוא הצעד המתבקש ביותר לפני שהחברה תפנה לעובד.\n*   **החרגה של תוכניות השקעה אוטומטיות (DRIP):** אחת הדעות המרכזיות היא שרכישות חוזרות של דיבידנדים (DRIPs) פטורות מחוקי סחר פנים, כיוון שמדובר בפעולות אוטומטיות שאינן תלויות בשיקול דעתו של המחזיק במניה בזמן אמת.\n*   **הומור ופרופורציות בקהילה:** לצד האזהרות הרציניות, קיימת נימה של ציניות בקהילה (כמו התגובה המקצינה שה-SEC יפרצו לבית בקרוב). הלך הרוח הכללי הוא שצוות הציות ככל הנראה יראה בזה עניין שולי ואולי אפילו יצחק מהדאגה המוגזמת של העובד."
+  },
+  {
+    "id": "1urg0l5",
+    "title": "I've been playing around with a few portfolio ideas on TestFol.io and ended up with five different versions that combine Fama-French Small Cap Value, leveraged ETFs, and trend following. They're all backtested from 1988-2025, and I'd love to hear what people think.",
+    "url": "https://www.reddit.com/r/investing/comments/1urg0l5/ive_been_playing_around_with_a_few_portfolio/",
+    "author": "hillionman",
+    "score": 1,
+    "selftext": "I've been playing around with a few portfolio ideas on [TestFol.io](http://TestFol.io) and ended up with five different versions that combine Fama-French Small Cap Value, leveraged ETFs, and trend following. They're all backtested from 1988-2025, and I'd love to hear what people think.\n\n**Test:** [https://testfol.io/?s=biOKMnuGve0](https://testfol.io/?s=biOKMnuGve0)\n\n# The idea\n\nThe goal wasn't to build the highest CAGR possible. I wanted something that could still compound aggressively while avoiding the massive drawdowns that usually come with concentrated growth portfolios.\n\nThe portfolios use four building blocks:\n\n* **3x Nasdaq** (simulated to extend the history beyond TQQQ's inception). This is the main growth engine.\n* **Small Cap Value (Fama-French factor).** You can get close with SLYV, or combine AVUV and AVDV for U.S. + international exposure. This is the part I think gets overlooked most often. Historically, it has tended to perform well during periods when growth struggles.\n* **Leveraged Gold (2x) or GDE.** GDE is WisdomTree's Efficient Gold fund, which uses futures to provide roughly 90% equity and 90% gold exposure at the same time.\n* **KMLM**, a managed futures/trend-following ETF that can go long or short across commodities, bonds, currencies, and equities depending on market trends.\n\nThe overall concept isn't new. It's basically factor investing and risk parity, just using modern leveraged products so the diversifiers don't reduce expected returns as much as traditional bond allocations.\n\n# Results\n\n**STRAT1**\n\n* 10% 3x Nasdaq\n* 20% 2x Gold\n* 50% Small Cap Value\n* 20% KMLM\n* CAGR: **14.91%**\n* Max Drawdown: **-33.26%**\n* Sharpe: **0.74**\n\nThis had by far the best risk-adjusted performance.\n\n**STRAT2**\n\n* 10% 3x Nasdaq\n* 20% GDE\n* 70% Small Cap Value\n* CAGR: **16.10%**\n* Max Drawdown: **-58.57%**\n\n**STRAT3**  \nSame allocation as STRAT2, but replacing GDE with 2x Gold.\n\n* CAGR: **15.30%**\n* Max Drawdown: **-50.42%**\n\nInterestingly, just changing the gold exposure reduced the worst drawdown by about 8 percentage points while giving up less than 1% CAGR.\n\n**STRAT4**\n\n* 10% 3x Nasdaq\n* 30% GDE\n* 60% Small Cap Value\n* CAGR: **16.23%**\n* Max Drawdown: **-57.57%**\n\n**STRAT5**\n\n* 30% 3x Nasdaq\n* 30% 2x Gold\n* 40% Small Cap Value\n* CAGR: **19.79%**\n* Max Drawdown: **-66.58%**\n\nHighest return, but also by far the highest risk.\n\n# What stood out to me\n\nThe biggest surprise was STRAT1.\n\nGiving up around five percentage points of CAGR compared to the most aggressive version nearly cut the maximum drawdown in half. That seems like a very attractive trade-off, especially over multi-decade investing horizons.\n\nIt also looks like KMLM is doing most of the heavy lifting there. Trend following tends to perform well during prolonged bear markets because it can move defensively or even short certain asset classes while equities are falling.\n\nThe STRAT2 vs STRAT3 comparison was interesting as well. Holding everything else constant, simply replacing GDE with 2x leveraged gold noticeably reduced drawdowns, which suggests the choice of gold implementation matters more than I expected.\n\nSTRAT5, on the other hand, feels much more like adding leverage than adding diversification. It produces the highest CAGR, but the drawdown profile ends up looking pretty similar to a highly leveraged equity portfolio.\n\n# A few caveats\n\nObviously these results aren't perfect.\n\n* The leveraged ETFs are simulated before their actual inception dates, so they don't fully capture real-world tracking error, leverage decay, fees, or implementation costs.\n* Small Cap Value has had a long period of underperformance relative to Growth since roughly 2007, so there's no guarantee its historical premium will look the same going forward.\n* Everything assumes annual rebalancing with no taxes, which isn't realistic for taxable accounts.\n\nStill, I found the trade-offs pretty interesting.\n\nCurious to hear if anyone has built something similar or sees any obvious flaws in the approach.",
+    "subreddit": "investing",
+    "created_utc": 1783571830,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Leveraged ETFs are not meant to be and don’t work to be held long term. You say that leverage decay isn’t fully simulated, I don’t think you understand how much leverage decay zaps return.",
+        "score": 1,
+        "author": "EpicDOgeMC"
+      }
+    ],
+    "summary_he": "הפוסט מציג חמש אסטרטגיות השקעה המשלבות נאסד\"ק ממונף (3x), מניות ערך קטנות (Small Cap Value), זהב ואסטרטגיות עקיבת מגמה, שנבחנו בסימולציה לאחור בין השנים 1988–2025. הכותב מדגיש כי השילוב בין נכסים ממונפים לחוזים עתידיים מנוהלים (KMLM) הצליח לצמצם משמעותית את הירידות המקסימליות (Drawdowns) תוך שמירה על תשואה שנתית גבוהה. המסקנה העיקרית היא שגיוון באמצעות גורמי סיכון שונים ומוצרים ממונפים מודרניים מאפשר להשיג ביצועים משופרים ביחס לסיכון לאורך זמן.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות (תוך התמקדות בנקודות המרכזיות שעלו בנוגע לתעודות סל ממונפות):\n\n*   **חוסר התאמה לטווח ארוך:** קיימת הסכמה נחרצת כי תעודות סל ממונפות (Leveraged ETFs) אינן מיועדות להחזקה ממושכת, והן לא תוכננו לעבוד ככלי השקעה לטווח רחוק.\n*   **השפעת \"שחיקת המינוף\" (Leverage Decay):** השחיקה הנובעת מהתנודתיות היומית היא גורם מכריע שפוגע אנושות בתשואות, ומשקיעים רבים נוטים להמעיט בערכה.\n*   **פער בין סימולציה למציאות:** נטען כי סימולציות של ביצועי עבר לא תמיד משקפות באופן מלא או מדויק את עוצמת השחיקה שמתרחשת בפועל בשוק.\n*   **פגיעה אנושה בתשואות:** שחיקת המינוף מתוארת כגורם ש\"מחסל\" (zaps) את הרווחים, מה שעלול להוביל להפסדים משמעותיים גם אם נכס הבסיס מציג מגמה חיובית לאורך זמן.\n*   **חוסר הבנה בקרב משקיעים:** עולה תחושה של קהילת המשקיעים כי רבים מהנסחרים בתעודות אלו אינם מבינים לעומק את המנגנון המתמטי שמאחורי המינוף ואת הסיכונים הכרוכים בו.\n*   **התפקוד המעשי של המכשיר הפיננסי:** הדיון מדגיש כי המבנה הטכני של תעודות אלו פשוט \"לא עובד\" עבור מי שמנסה ליישם אסטרטגיית החזקה פסיבית, בשל הצורך באיזון יומי של המינוף."
+  },
+  {
+    "id": "1ureuew",
+    "title": "I am scared I won’t have enough when I am 60 & also think I am living below my means!",
+    "url": "https://www.reddit.com/r/investing/comments/1ureuew/i_am_scared_i_wont_have_enough_when_i_am_60_also/",
+    "author": "Dont_say_you_lv_m_27",
+    "score": 1,
+    "selftext": "I am 36y women earning around 400k per year including base bonus and stocks. Base around 300k. Got a house for 500k. Small 3y back. Now have15y loan for 5%. 250k mortgage. Think could I have done better? I was not sure about big house n now k see people earning less than me are getting million dollar house.   \nInvesting wise I am not too great. Just max my 401k ( pre and post)- 72k (only have 250k in it). Started late. I didnt have much knowledge or anyone to guide me. Come from a very humble family.   \n200k in managed account   \n100 k cash for rainy day  \nMortgage is like $2300 month\n\nI get more than I spend. I don’t do much things for myself.   \nSend some money for my parents . They don’t ask I just do.   \nCan any one advice me here what to do and how am I doing? Lookin to retire at 60\n\nAny advice on how should I move ahead? Please be nice as I am genuinely asking. I am not a very good financial person. ",
+    "subreddit": "investing",
+    "created_utc": 1783568333,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "For a second I thought I was in the jerk sub.   \nGet help. ",
+        "score": 13,
+        "author": "ongoldenwaves"
+      },
+      {
+        "body": "Is this supposed to be a flex ? ",
+        "score": 10,
+        "author": "SeriousNewspaper1949"
+      },
+      {
+        "body": "Just a troll, if not I don’t know what to say",
+        "score": 7,
+        "author": "LandscapeOk2955"
+      }
+    ],
+    "summary_he": "כותבת הפוסט, בת 36 המשתכרת כ-400 אלף דולר בשנה, חוששת שלא תצבור מספיק הון לפרישה בגיל 60 למרות שהיא חיה מתחת ליכולותיה הכלכליות וחוסכת סכומים משמעותיים. היא חשה חוסר ביטחון פיננסי בשל התחלה מאוחרת של השקעות והשוואה לאחרים שרכשו בתים יקרים יותר, ומבקשת ייעוץ כיצד למקסם את חסכונותיה ולהבטיח את עתידה.",
     "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום של הדיון בשרשור המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה:\n\n*   **העדפת מדדים רחבים:** הקהילה מדגישה שהשקעה במדדים רחבים (כמו VTI) היא אסטרטגיה זהירה ומספקת עבור רוב המשקיעים, ללא צורך בחיפוש אחר אפיקים מורכבים יותר.\n*   **הימנעות מתזמון השוק:** קיים קונצנזוס חזק נגד הניסיון \"לתזמן\" את הכניסה או היציאה מהשוק. הגישה המומלצת היא להמשיך לקנות בעקביות ולא למכור.\n*   **חשיבות קרן החירום:** ישנה הסכמה על כך שאת קרן החירום (כסף שצריך להיות נזיל למקרה של צורך דחוף) יש להחזיק בחשבון חיסכון עם ריבית גבוהה (HYSA) ולא להשקיע אותה בשוק ההון.\n*   **עליונות הטווח הארוך:** הקהילה חוזרת על האמרה הידועה ש\"הזמן בשוק מנצח את תזמון השוק\". ההמלצה היא להשקיע בנכסים כמו VTI ו-VXUS ולשכוח מהם ל-30 השנים הבאות כדי להגיע לתוצאות מפתיעות לטובה.\n*   **גיוון גיאוגרפי:** מעבר לשוק האמריקאי, מוצע לשלב גם חשיפה בינלאומית (באמצעות VXUS) כדי ליצור תיק השקעות מאוזן ומפוזר יותר.\n*   **התייחסות למגזר השבבים (SMH):** עולה חשש מבועה או \"קריסה\" קרובה במגזר הטכנולוגיה והשבבים. עם זאת, הסנטימנט הוא שאם למשקיע כבר יש רווחים משמעותיים מהעבר, כדאי לו פשוט \"לרכב\" על התנודתיות ולספוג את הירידות מבלי לצאת מהפוזיציה בבהלה."
+    "comments_summary_he": "להלן ניתוח וסיכום של התגובות המובילות מהשרשור ב-Reddit, המציגות את הלך הרוח של הקהילה ביחס לפוסט המקורי:\n\n*   **ספק לגבי האותנטיות (חשד לפרודיה):** אחד המגיבים ציין כי לרגע חשב שמדובר בפוסט מתת-פורום מסוג \"Circlejerk\" (פורומים המוקדשים ללעג ופרודיה על נושאים מסוימים), מה שמעיד על כך שהתוכן המקורי נתפס כקיצוני או מגוחך עד כדי חוסר אמינות.\n*   **המלצה לטיפול או עזרה:** קיימת תחושה בקרב המגיבים שכותב הפוסט זקוק ל\"עזרה\" (Get help), מה שמרמז על כך שהתוכן שהעלה נתפס כמטריד, לא נורמטיבי או מעיד על חוסר מודעות עצמית חמור.\n*   **בלבול לגבי \"התרברבות\" (Flex):** הקהילה תוהה האם כותב הפוסט מנסה להשוויץ בהישג או במצב מסוים (\"Is this a flex?\"), תוך רמיזה שהדבר שבו הוא מתגאה אינו מרשים כלל, ואולי אף מביך.\n*   **חשד כבד ל\"טרולינג\":** אחת הדעות המרכזיות היא שכותב הפוסט הוא פשוט \"טרול\" שמנסה לעורר תגובות ופרובוקציה במכוון, ולא אדם שבאמת מאמין במה שכתב.\n*   **תדהמה וחוסר מילים:** במידה והפוסט אכן אמיתי ואינו בדיחה, המגיבים מביעים תחושה של \"אין מילים\" – הלם מוחלט מהתוכן שגורם להם לא לדעת אפילו איך להתחיל להגיב עליו.\n*   **דחייה קהילתית ועוינות מרומזת:** הנימה הכללית בתגובות היא מזלזלת וקרה. הקהילה לא מקבלת את דברי הכותב ובמקום לפתח דיון, היא בוחרת להגיב בקיצור ובלעג כלפי הגישה שהופגנה בפוסט."
   }
 ];
