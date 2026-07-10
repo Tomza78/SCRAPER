@@ -1,359 +1,357 @@
 window.dailyTrends = [
   {
-    "id": "1uq4t1v",
-    "title": "To everyone who thinks right now is the worst possible time to invest",
-    "url": "https://www.reddit.com/r/investing/comments/1uq4t1v/to_everyone_who_thinks_right_now_is_the_worst/",
-    "author": "SpaceFamous28",
-    "score": 1257,
-    "selftext": "2008: \"We're heading into a Great Depression.\" If you kept buying, the S&P returned 400%+ over the next 13 years.\n\n2011: \"The US credit rating just got downgraded for the first time in history.\" Market was up 30%+ within two years.\n\n2015: \"China is crashing and taking everything down with it.\" S&P hit net highs within months.\n\n2016: \"Brexit will destroy global markets.\" Then few months later: \"Trump winning tank everything.\" Markets hit all-time highs after both.\n\n2020: \"COVID is going to end the economy as we know it.\" Fastest recovery in market history. If you sold in March 2020, you locked in losses. If you kept buying, 2021 was one of the best years on record.\n\n2022: \"Inflation is out of control and the Fed is going to kill growth.\" Rough year. Then 2023 and 2024 were two of the strongest years in decades.\n\nI'm not saying nothing bad ever happens. I'm saying \"this time is different\" has been said at every single one of these moments. The lesson I'm trying to take from it is that long-term investing and event opinions are different things. My index money should keep going in whether the headline is inflation, tariffs or whatever else people are panicking about. But I still do have views on those events. I just don't want those views to turn into vague portfolio moves.\n\nThe scary moment is almost always the moment people most want to stop buying. Not because it feels comfortable, but because that's usually when the discipline matters most.",
-    "subreddit": "investing",
-    "created_utc": 1783451438,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "After 30 years of stealing from the national cookie jar to bail out this bs, he tells us the bs is forever.  Only problem - cookie jars are empty fella.  ",
-        "score": 2,
-        "author": "AppropriateBad503"
-      },
-      {
-        "body": "Since the beginning of the founding of the gold, it's been the safest island to land in any kinda situation. It has almost always been go up All in war situations of the history! Lastly it's going down because  US is in war and it has to change it with money to pay war expenses. Gold will fly I think because China, Russia and other big guys saw all this war shit opportunity coming from US's money needing. Specifically China is gonna buy a lot in a few months. That's what I investigate and and saw. Actually bought in late 2024 and still adding it. I paid 12k$ for it and it's now 22$k. It's not yield a lot but it's safe",
-        "score": 1,
-        "author": "Otherwise-Key-2172"
-      },
-      {
-        "body": "People think they have a choice. You can take money out and keep it somewhere safe, or buy gold.\n\nThe reality is, no matter what, you’re in this market. And you’re probably better holding something material than fiat currency.",
-        "score": 1,
-        "author": "Recent-Swan-1422"
-      }
-    ],
-    "summary_he": "הפוסט מראה כי לאורך ההיסטוריה, תקופות של משבר ופחד התבררו בדיעבד כהזדמנויות צמיחה, שכן השוק תמיד התאושש והגיע לשיאים חדשים למרות התחזיות הפסימיות. המסר העיקרי הוא שחשוב לשמור על משמעת והשקעה עקבית לטווח ארוך, ולא לתת לכותרות מפחידות או לניסיונות לתזמן את השוק להכתיב את המהלכים הכלכליים שלכם.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה:\n\n*   **ביקורת על ניהול תקציבי כושל:** קיימת תחושה חריפה של מרמור כלפי הממשל על כך שבמשך עשורים נעשה שימוש ב\"קופה הלאומית\" כדי לחלץ גופים ואינטרסים שונים, וכעת המשאבים הללו פשוט אזלו והמערכת נותרה ריקה.\n*   **הזהב כחוף מבטחים היסטורי:** בקרב המגיבים שוררת הסכמה שהזהב הוא הנכס הבטוח ביותר בעתות משבר ומלחמה. היסטורית, זהו ה\"אי\" היציב ביותר שאליו ניתן לברוח כשהמצב הופך למסוכן.\n*   **השפעת הוצאות המלחמה של ארה\"ב:** נטען כי ארה\"ב נאלצת להשתמש במשאבים כספיים אדירים כדי לממן הוצאות ביטחוניות, דבר שיוצר לחץ על השווקים ומשנה את זרימת הכספים הגלובלית.\n*   **אסטרטגיה גיאו-פוליטית של מעצמות:** המגיבים מזהים מגמה שבה מדינות כמו סין ורוסיה מנצלות את המצב הכלכלי של ארה\"ב כדי לצבור עתודות זהב גדולות, מתוך הבנה שהצורך האמריקאי במזומן למלחמות יוצר עבורן הזדמנות קנייה.\n*   **אשליית הבחירה בשוק:** קיימת טענה מפוכחת לפיה לאנשים אין באמת בחירה אם \"להשתתף\" במשחק הכלכלי או לא. לא משנה היכן תניח את הכסף, אתה תמיד חלק מהשוק ומושפע מהתנודות שלו, ולכן אין באמת מקום \"לברוח\" אליו.\n*   **העדפת נכסים מוחשיים על פני כסף \"נייר\" (Fiat):** בקהילה מתחזקת הגישה שעדיף להחזיק בנכסים פיזיים ומוחשיים מאשר במטבעות ממשלתיים. התפיסה היא שהערך של נכס חומרי יישמר טוב יותר מאשר ערכו של מטבע שעלול להישחק כתוצאה מהחלטות פוליטיות או אינפלציה."
-  },
-  {
-    "id": "1uq5s8r",
-    "title": "AI bubble cracking as big tech renting out AI infrastructure proves they overspent",
-    "url": "https://www.reddit.com/r/investing/comments/1uq5s8r/ai_bubble_cracking_as_big_tech_renting_out_ai/",
-    "author": "ThinkBigger01",
-    "score": 310,
-    "selftext": "With not just SpaceX but now also Meta and others renting out their AI data center capacity, it is becoming pretty obvious those companies have all massively overspent on AI capex.\n\nThem renting out their infrastructure is not some kinda smart business move but an act of desperation to pump their balance sheets. None of this is leading to real profits.\n\nLet's see what kinda bullcrap all those companies will try to spin at their next earnings call but it's pretty obvious the cracks are starting to show on this kinda swindling.\n\nBTW it's not healthy that 40% of the S&P500 is in just 10 tech stocks which goes against the traditional \"diversificiation\" this ETF is supposed to give.",
-    "subreddit": "investing",
-    "created_utc": 1783453469,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "You do not need a RTX 5090. A couple of 5060ti's would do. Or a single Intel B70. Or a couple of $50 V340s.",
-        "score": 2,
-        "author": "fallingdowndizzyvr"
-      },
-      {
-        "body": "It does not though that's a straw man you made up. ",
-        "score": 2,
-        "author": "DizzyMajor5"
-      },
-      {
-        "body": "Let's keep it real, NOBODY except the hardware vendors are in the green with the AI hype lol\n\n[Is AI Profitable Yet?](https://isaiprofitable.com/)",
-        "score": 2,
-        "author": "MantaMunta"
-      }
-    ],
-    "summary_he": "הפוסט טוען כי \"בועת הבינה המלאכותית\" מתחילה להתפוצץ, שכן חברות טכנולוגיה גדולות החלו להשכיר את תשתיות ה-AI שלהן כצעד נואש לכיסוי הוצאות מופרזות שאינן מניבות רווחים ממשיים. הכותב מבקר את הניסיון לייפות את המאזנים הכספיים ומזהיר מפני הריכוזיות הגבוהה והמסוכנת של מניות הטכנולוגיה במדד ה-S&P 500.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והתחושות שעלו מהתגובות בשרשור, המנתח את סוגיית הרווחיות והחומרה סביב תחום הבינה המלאכותית:\n\n*   **אלטרנטיבות חומרה חסכוניות:** קיימת דעה שאין צורך לרכוש את כרטיסי המסך היקרים והחדשים ביותר (כמו RTX 5090) עבור יישומי AI. ניתן להגיע לתוצאות דומות באמצעות שילוב של מספר כרטיסים זולים יותר, כרטיסי אינטל או חומרה משומשת במחירים נמוכים מאוד.\n*   **הספקנות לגבי רווחיות ה-AI:** בקהילה קיימת תחושה חזקה שהבינה המלאכותית היא בעיקר \"הייפ\" שיווקי כרגע. נכון לעכשיו, הרוב המוחלט של החברות והמשתמשים לא רואים רווחים ממשיים מהטכנולוגיה.\n*   **המרוויחים היחידים הם ספקי החומרה:** נקודת מבט מרכזית טוענת שהגופים היחידים שנמצאים ב\"פלוס\" (In the green) הם יצרני השבבים והחומרה (כמו אנבידיה), המנצלים את הביקוש המסיבי בעוד שהשוק עצמו עדיין מחפש מודל עסקי רווחי.\n*   **זיהוי כשלים לוגיים בשיח:** חלק מהמגיבים מבקרים את הטיעונים המושמעים בעד המצב הנוכחי של התעשייה, וטוענים כי הטיעונים בעד נחיצות השקעות העתק מבוססים על \"אנשי קש\" (Straw man arguments) ולא על המציאות בשטח.\n*   **גישה פרגמטית מול רדיפה אחרי מפרטים:** עולה גישה המעדיפה יעילות תקציבית על פני מפרטים טכניים מפוצצים. הקהילה מדגישה שניתן לבצע עבודת AI גם עם חומרה שנחשבת \"חלשה\" או מיושנת יותר אם יודעים כיצד להגדיר אותה.\n*   **פער בין ציפיות למציאות כלכלית:** השאלה \"האם AI רווחי כבר?\" מהדהדת כנושא מרכזי, כשהתשובה המשתקפת מהתגובות היא שלילית ברובה עבור המשתמש הממוצע והיזם הקטן, מה שמעיד על התפכחות מסוימת מההבטחות הגדולות של התחום."
-  },
-  {
-    "id": "1uprn72",
-    "title": "China's DeepSeek Developing Its Own AI Chip, Sources Say",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1uprn72/chinas_deepseek_developing_its_own_ai_chip/",
-    "author": "Optimal_Image5192",
-    "score": 269,
-    "selftext": "DeepSeek is reportedly developing its own AI chip, per Reuters.\n\nThe chip is being designed for inference, not training, as DeepSeek looks to reduce reliance on Nvidia and Huawei chips.\n\nDeepSeek is reportedly in talks with foundries, memory suppliers and chip-design firms, while privately hiring chip-design engineers for the project.\n\nStill early stage, and manufacturing remains a major hurdle because of U.S. export controls on advanced foundries and high-bandwidth memory.",
-    "subreddit": "StockMarket",
-    "created_utc": 1783421820,
-    "thumbnail": "https://preview.redd.it/z9j8a0epgsbh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=e2a0618135fa83f3aa2535e35dd820137958b53f",
-    "top_comments": [
-      {
-        "body": "Unfortunately its not a BMW you can steal and drive away. You still need a lot of other things as well all of which are made by one company in the world.",
-        "score": 7,
-        "author": "Phantasmalicious"
-      },
-      {
-        "body": "Im sorry but.. wth does your reply have to do with the comment you are replying to or this thread’s subject in the first place? ",
-        "score": 7,
-        "author": "Tamronloh"
-      },
-      {
-        "body": "Kind of amazing just how much better vision Google has had over all the others.\n\nThey started doing their own AI chip 13 years ago and now on the eighth generation.",
-        "score": 5,
-        "author": "bartturner"
-      }
-    ],
-    "summary_he": "חברת DeepSeek מפתחת שבב בינה מלאכותית משלה המיועד להסקה (Inference), במטרה לצמצם את תלותה בשבבים של אנבידיה ווואווי. הפרויקט נמצא בשלבים ראשוניים של גיוס כוח אדם ותכנון, אך הוא צפוי להתמודד עם קשיי ייצור משמעותיים עקב מגבלות הייצוא האמריקאיות על טכנולוגיות מתקדמות.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן ניתוח התגובות המובילות מהשרשור ב-Reddit, המסוכמות ל-6 נקודות מבט וסנטימנטים מרכזיים:\n\n*   **מורכבות המערכת והתלות בתשתיות:** המשתמשים מציינים כי בניגוד למוצרי צריכה רגילים (כמו מכונית BMW), הטכנולוגיה המדוברת אינה מוצר עצמאי שניתן פשוט \"לקחת ולהפעיל\". היא דורשת מערכת אקולוגית שלמה של רכיבים משלימים כדי לתפקד.\n*   **ריכוזיות ומונופול בשוק החומרה:** קיימת הבנה בקהילה שישנה תלות קריטית בחברה אחת ויחידה בעולם שמייצרת את הרכיבים ההכרחיים הללו, מה שיוצר צוואר בקבוק טכנולוגי וגאופוליטי.\n*   **הערכה לחזון ארוך הטווח של גוגל:** עולה סנטימנט של התפעלות מהיכולת של גוגל לחזות את הנולד. הקהילה מציינת לחיוב את העובדה שגוגל זיהתה את הצורך בשבבי AI ייעודיים הרבה לפני שהתחום הפך למיינסטרים.\n*   **חשיבות הניסיון המצטבר (Iterative Development):** הדיון מדגיש את היתרון של גוגל בזכות ההתמדה – פיתוח של שמונה דורות של שבבים לאורך 13 שנים מעניק לה יתרון טכנולוגי וניסיון שקשה למתחרים להדביק במהירות.\n*   **ביקורת על איכות השיח בשרשור:** ניכר סנטימנט של בלבול או תסכול מצד חלק מהגולשים לגבי הרלוונטיות של התגובות. יש מי שחשים שהדיון סוטה מהנושא המרכזי או שתגובות מסוימות אינן קשורות להקשר של השיחה.\n*   **ההכרה בשילוב שבין חומרה לתוכנה:** מהתגובות עולה התובנה שבעולם הבינה המלאכותית, היכולת לייצר חומרה ייעודית (In-house silicon) היא המפתח האמיתי לעליונות, ולא רק פיתוח האלגוריתמים עצמם."
-  },
-  {
-    "id": "1uq0j0c",
-    "title": "Huge dividend and huge losses",
-    "url": "https://www.reddit.com/r/investing/comments/1uq0j0c/huge_dividend_and_huge_losses/",
-    "author": "MrT_LV",
-    "score": 2,
-    "selftext": "What's going on when a company pays ridiculous dividends yet tye stock is plummeting.  Case in point, gmex.  Shows over 3000% dividend yet the stock is $2.32 from a high around $295,000\n\nAnother less crazy example is icah. 27.5% dividend but its down 87% over 5 years.  \n\nThe stock looks like tye company is going belly up but the dividend looks like there's money to be made.  Ive been watching icahn for a couple years and its always paid a Greta dividend.  ",
-    "subreddit": "investing",
-    "created_utc": 1783442542,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Usually debt. Literally a negative business. You borrow money by paying interest then \"pays\" a dividend from that debt. These companies are well on the way to ZERO because there is literally no business behind it and dividends are a mirage to reel in dumb dividend investors.",
-        "score": 5,
-        "author": "tachyonvelocity"
-      },
-      {
-        "body": "Cute strawman did you make it yourself?",
-        "score": 5,
-        "author": "zer1223"
-      },
-      {
-        "body": "What an irrelevant comment. Companies of course makes money every second of every day. That's WHY dividends that pay out quarterly or at random times are meaningless. That cash comes in the form of earnings which are priced into the stock every day depending on what investors think about those earnings. \n\nDividends are literally the very last thing a competent investor should think about because everything else the company does matter more, including other forms of shareholder return like stock buybacks which are now MORE than dividends.",
-        "score": 5,
-        "author": "tachyonvelocity"
-      }
-    ],
-    "summary_he": "הפוסט דן בתופעה של חברות המציעות תשואת דיבידנד גבוהה במיוחד בעוד מחיר המניה שלהן צונח בחדות. הכותב תוהה האם מדובר בהזדמנות להשקעה רווחית או בסימן לקריסה קרבה של החברה, ומציג דוגמאות למניות שאיבדו את רוב ערכן למרות חלוקת רווחים נדיבה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ורגשות מרכזיים שעלו מהתגובות:\n\n*   **מימון דיבידנדים באמצעות חוב:** נטען כי חברות מסוימות פועלות במודל עסקי שלילי, שבו הן לוקחות הלוואות ומשלמות ריבית רק כדי לחלק דיבידנדים. פעולה זו נתפסת כסימן מובהק לכך שהחברה בדרך לקריסה כלכלית וערכה עתיד להתאפס.\n*   **הדיבידנד כ\"מלכודת\" למשקיעים:** קיים סנטימנט שהדיבידנדים הם לעיתים \"מצג שווא\" (Mirage) שנועד למשוך משקיעים לא מנוסים (\"dumb dividend investors\") שמתפתים לתזרים מזומנים מבלי להבין את המצב הפיננסי הרעוע של החברה.\n*   **חוסר רלוונטיות של מועדי החלוקה:** נאמר כי מאחר שחברות מייצרות רווחים בכל שנייה, העיתוי הספציפי של חלוקת הדיבידנד (רבעוני או אקראי) הוא חסר משמעות. הרווחים הללו כבר מגולמים במחיר המניה מדי יום על סמך הערכות המשקיעים.\n*   **סדר עדיפויות של משקיע מיומן:** על פי אחת הדעות, דיבידנדים צריכים להיות הדבר האחרון שמשקיע כשיר בוחן. דברים אחרים שהחברה עושה, כמו צמיחה עסקית או השקעה חוזרת, נתפסים כחשובים הרבה יותר לערך ארוך הטווח.\n*   **עדיפות לרכישה עצמית של מניות (Buybacks):** צוין כי קיימות צורות אחרות של החזר הון לבעלי המניות, כמו רכישה עצמית של מניות, שהפכו כיום למשמעותיות ונפוצות יותר מחלוקת דיבידנדים מסורתית.\n*   **ספקנות וביקורת פנימית בקהילה:** התגובות משקפות טון ביקורתי כלפי טיעונים פופוליסטיים. השימוש בביטוי \"איש קש\" (Strawman) מעיד על כך שחלק מהגולשים חשים שהדיונים בנושא לעיתים מעוותים את המציאות כדי להוכיח נקודה, במקום להתמקד בעובדות כלכליות.",
-    "dateString": "2026-07-08",
-    "savedAt": {
-      "_seconds": 1783499985,
-      "_nanoseconds": 415000000
-    }
-  },
-  {
-    "id": "1upzr88",
-    "title": "Vanguard is looking for a head of digital assets for first time. Successful candidate will \"develop the multi-year digital assets roadmap\" for the $10+ Trillion asset manager.",
-    "url": "https://www.reddit.com/r/investing/comments/1upzr88/vanguard_is_looking_for_a_head_of_digital_assets/",
-    "author": "OceanRawks",
-    "score": 49,
-    "selftext": "[https://www.vanguardjobs.com/job/23565418/head-of-digital-assets-personal-wealth-dallas-tx/?source=Google\\_Jobs](https://www.vanguardjobs.com/job/23565418/head-of-digital-assets-personal-wealth-dallas-tx/?source=Google_Jobs)\n\nHead of Digital Assets, Personal Wealth\n\nThe Head of Digital Assets will lead Vanguard Personal Wealth's digital assets strategy, roadmap, and enterprise execution. Defines how Vanguard will evaluate, prioritize, develop, and implement digital asset capabilities, products, and operating models in a way that advances Vanguard's mission, serves clients, and strengthens our long-term competitive position. Serves as Vanguard's senior subject matter expert for digital assets across Personal Wealth, partnering across product, technology, operations, client segments, risk, legal, and compliance to shape and deliver a scalable end-to-end strategy. Represents Vanguard externally with industry participants, regulators, and clients, and helps influence thought leadership and market standards in the evolving digital asset ecosystem.\n\nResponsibilities:\n\n* Defines and leads Personal Wealth's digital assets vision and strategy.Establishes Vanguard's point of view and strategic roadmap for digital assets across Personal Wealth, including where and how Vanguard should participate, what capabilities to build, partner for, or defer, and how to align innovation to Vanguard's mission and client-first principles.\n* Deep knowledge of digital assets and related infrastructure, including tokenization, stablecoins, wallets/custody models, settlement, blockchain-enabled operating models, and the broader digital asset ecosystem.",
-    "subreddit": "investing",
-    "created_utc": 1783440861,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Translation: ‘we ignored this until it got too big to keep ignoring.’",
-        "score": 33,
-        "author": "k1_r1"
-      },
-      {
-        "body": "In my experience, Vanguard is a moderately forward thinking company, at least compared to others at that size. They were a pretty early adopter of the tech i sell",
-        "score": 11,
-        "author": "Clear_Command_8925"
-      },
-      {
-        "body": "Great, I can't wait for all the Vanguard bashing posts moving forward.",
-        "score": 8,
-        "author": "kinetic_honda"
-      }
-    ],
-    "summary_he": "ענקית ניהול הנכסים וונגארד (Vanguard), המנהלת למעלה מ-10 טריליון דולר, מחפשת לראשונה מנהל לתחום הנכסים הדיגיטליים שיוביל את האסטרטגיה של החברה בנושא. התפקיד כולל פיתוח מפת דרכים רב-שנתית ובחינת טכנולוגיות כמו טוקניזציה ומטבעות יציבים (Stablecoins), במטרה לשלבן במודל העסקי ובשירות ללקוחות. המהלך מסמן צעד משמעותי של החברה לתוך המערכת האקולוגית של הקריפטו והנכסים הדיגיטליים.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן ניתוח וסיכום של הלך הרוח בדיון ב-Reddit, המציג 6 נקודות מבט ורגשות שונים שעלו מתוך התגובות:\n\n*   **ביקורת על חוסר ברירה ואימוץ מאוחר:** קיימת טענה צינית שהחברה (Vanguard) לא בחרה בשינוי מתוך חזון, אלא פשוט הפסיקה להתעלם מהנושא רק כשהוא הפך ל\"גדול מדי\" מכדי שניתן יהיה להמשיך להזניח אותו.\n*   **תפיסת החברה כמתקדמת טכנולוגית:** בניגוד לביקורת השלילית, ישנם משתמשים המעידים מניסיונם המקצועי ש-Vanguard היא דווקא חברה בעלת \"חשיבה קדימה\" (forward-thinking), לפחות בהשוואה לתאגידים אחרים בסדר גודל דומה.\n*   **עדות על אימוץ מוקדם (Early Adopter):** נקודת מבט חיובית מציינת שהחברה נוטה לאמץ טכנולוגיות חדשות בשלבים מוקדמים יחסית, מה שמציג אותה כגוף שפתוח לחדשנות ולא רק מגיב למציאות בדיעבד.\n*   **ציפייה לגל של \"אנטי\" בקהילה:** קיים רגש של עייפות או ציניות לגבי הדינמיקה בפורומים, עם צפי מפורש לכך שהמהלך יוביל לגל של פוסטים זועמים והתקפות (bashing) נגד החברה מצד גולשים אחרים.\n*   **פער בין תדמית ציבורית לפרקטיקה עסקית:** הדיון משקף פער בין הדרך שבה הציבור תופס את החברה (כאיטית או מגיבה מאוחר) לבין האופן שבו ספקים טכנולוגיים חווים אותה (כחברה פתוחה וחדשנית).\n*   **ספקנות לגבי מניעי החברה:** עולה תחושה של חוסר אמון בשיקולי ההנהלה, מתוך הנחה שהם פועלים רק מתוך לחץ חיצוני ולא מתוך רצון אמיתי להשתפר או להוביל שינוי."
-  },
-  {
-    "id": "1upx1hf",
-    "title": "Unitree's 73-day IPO approval and LingBot-Vision going Apache-2.0 in the same fortnight: two numbers I can't square",
-    "url": "https://www.reddit.com/r/investing/comments/1upx1hf/unitrees_73day_ipo_approval_and_lingbotvision/",
-    "author": "Altruistic_Hat_9990",
-    "score": 3,
-    "selftext": "I spent the last couple weeks tracking the China robotics pipeline and two events in basically the same fortnight have been bouncing off each other in my head. On July 3, Unitree got final CSRC registration for its STAR Market IPO at roughly $618 million, filed March 20, cleared in a record 73 days. That clears it to become China's first listed pure-play humanoid company. The hardware side has been accelerating hard. AgiBot hit its 10,000th mass-produced robot on March 30, going from 5,000 to 10,000 in about three months per Xinhua. Stanford's 2026 AI Index, citing IFR, has China installing nearly nine times as many industrial robots as the US in 2024. Unitree shipped over 5,500 humanoids last year with humanoids already more than half its revenue through the first nine months of 2025, per Caixin. Meanwhile Tesla Optimus fell far short of its \\~5,000-unit 2025 target, with only hundreds built per The Information, and has walked back firm timelines around the V3 redesign.\n\nThen around July 6, Robbyant (Ant Group's robotics company) dropped LingBot-Vision on Hugging Face under Apache-2.0: four backbone sizes, 21M, 86M, 0.3B and 1.1B parameters, all open weight. The company self-reports that its 0.3B model matches Meta's 7B DINOv3 on NYU depth estimation while training on less than a third of the data. The downstream product that actually sees glass and mirrors, LingBot-Depth 2.0, stays closed. But the foundation layer itself is now free, which reads to me like a straight commoditization of the perception stack.\n\nSo here's what I keep circling back to. The classic bull case for Western robotics, the thing that justifies the software multiples, is that perception and control software is the moat. The metal was never what you were paying for. The stack was. But LingBot-Vision is now free. And on the hardware side, the leading pure-play maker is about to hit public markets with actual unit economics while the best known Western name in the space can't hit production targets.\n\nTo be clear, none of this means China has won the category. The US still has more venture dollars flowing into frontier hardware, deeper systems integration talent, and NVIDIA still sits under most of the simulation tooling this field trains on. China has not solved general manipulation or reliable bipedal locomotion at scale either, and a 73-day approval sprint tells you nothing about how the stock trades once it actually lists. The geopolitical overlay could cut the other way entirely.\n\nBut if I'm trying to model where Western robotics margin actually lives five years out, I keep trying to square those two facts and I can't. If the perception backbone is free and the hardware is commoditizing, where does the investable moat live?",
-    "subreddit": "investing",
-    "created_utc": 1783435159,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "The moat question is probably less \"is perception open?\" and more \"who owns the deployment loop.\" If the cheap public layer keeps improving, I would want to see evidence of proprietary fleet data, integration channels, and service economics before paying software-like multiples for the hardware names.",
-        "score": 1,
-        "author": "TieForeign8827"
-      }
-    ],
-    "summary_he": "הפוסט מנתח את הזינוק המהיר של סין בתחום הרובוטיקה, המשתקף באישור המהיר להנפקת Unitree ובעקיפת יעדי הייצור של טסלה. במקביל, שחרור מודל ראייה מתקדם כקוד פתוח על ידי Ant Group הופך את רכיב התוכנה, שנחשב בעבר ליתרון התחרותי המרכזי של המערב, למוצר זמין וחינמי. הכותב תוהה היכן יישאר הרווח הכלכלי והיתרון הטכנולוגי של חברות רובוטיקה מערביות בעתיד, כאשר גם החומרה וגם התוכנה הופכות למוצרי צריכה נגישים (Commodities).",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום של הנקודות המרכזיות והתובנות שעלו מהתגובה, המתמקדת בשאלת ה\"חפיר\" הכלכלי (Moat) וביתרון התחרותי של חברות בתחום הבינה המלאכותית והחומרה:\n\n*   **העברת המיקוד משאלת ה\"פתיחות\" לשאלת ה\"פריסה\":** היתרון התחרותי האמיתי אינו טמון בשאלה האם מודלי התפיסה (Perception) הם בקוד פתוח או לא, אלא במי שולט ב\"לולאת ההטמעה\" (Deployment loop) – כלומר, במי שמנהל את היישום בפועל אצל הלקוח.\n*   **האיום של השכבה הציבורית החינמית:** ככל שהטכנולוגיה הציבורית והזולה (Open-source/Public layer) ממשיכה להשתפר, קשה יותר לחברות פרטיות להצדיק תמחור פרימיום רק על בסיס ביצועי המודל עצמו.\n*   **חשיבותם של נתונים ייחודיים מהשטח:** כחלק מההוכחה ליתרון תחרותי, על חברות להראות שיש להן גישה לנתוני צי (Fleet data) בלעדיים וקנייניים שלא ניתנים לשחזור בקלות על ידי המתחרים.\n*   **ערוצי אינטגרציה כחסם כניסה:** אחד המפתחות לביצור מעמד החברה הוא היכולת שלה להשתלב באופן עמוק בערוצי הפעילות הקיימים של הלקוח, דבר שיוצר \"דביקות\" ומקשה על מעבר לפתרונות אחרים.\n*   **בחינת הכלכלה של השירות (Service Economics):** מעבר לטכנולוגיה המרשימה, יש לבחון את המודל הכלכלי של השירות עצמו – האם הוא רווחי ובר-קיימא לפני שמעניקים לחברה שווי שוק גבוה.\n*   **זהירות בהערכות שווי (מכפילים):** קיים סנטימנט של זהירות לגבי תמחור חברות חומרה לפי \"מכפילים של תוכנה\". הקהילה מציעה שלא לשלם פרמיה גבוהה על חברות חומרה אלא אם כן הן מוכיחות שיש להן מאפיינים של חברות תוכנה (כמו נתונים קנייניים ואינטגרציה עמוקה)."
-  },
-  {
-    "id": "1uq1bwo",
-    "title": "IT tools architecture for a medium size business ?",
-    "url": "https://www.reddit.com/r/business/comments/1uq1bwo/it_tools_architecture_for_a_medium_size_business/",
-    "author": "spacecheap",
-    "score": 3,
-    "selftext": "Company of 50 people​ : ​What does your IT tools architecture look like across sales, customer support, services, and internal documentation ?\n\n Which solutions do you use for each function (CRM, ticketing system, mailboxes or ​centralized mailboxes, internal wiki/knowledge base, document management, collaboration tools, RAG  LLM, ​etc.)?\n\nThanks !",
+    "id": "1ur3ox9",
+    "title": "Sony CEO Hiroki Totoki Sells Over Half His Stock Following PlayStation Disc Announcement",
+    "url": "https://www.reddit.com/r/business/comments/1ur3ox9/sony_ceo_hiroki_totoki_sells_over_half_his_stock/",
+    "author": "ControlCAD",
+    "score": 678,
+    "selftext": "\\>According to the SEC filing, Totoki sold 225,000 shares of Sony stock on July 3. At $21.02 per share, Totoki pulled in roughly $4.7 million on the transaction. The 225,000 shares represented 56% of his total stake in the company.\n\n\\>Following the transaction, Totoki was left with 173,250 shares.",
     "subreddit": "business",
-    "created_utc": 1783444226,
-    "thumbnail": "self",
+    "created_utc": 1783540540,
+    "thumbnail": "default",
     "top_comments": [
       {
-        "body": "For a team of around 50, a simple stack works well, HubSpot for CRM, Zendesk for support, Microsoft 365 for email, SharePoint for documentation, Teams or Slack for collaboration, and an AI assistant connected to the knowledge base for quick internal answers.",
-        "score": 2,
-        "author": "EloreSnow"
+        "body": "Then the stock went up 6% and he ended up losing millions lol. The Sony strategy continues to amaze.",
+        "score": 115,
+        "author": "half-baked_axx"
       },
       {
-        "body": "An IT system for a business. Open to any idea.",
-        "score": 2,
-        "author": "spacecheap"
+        "body": "It is in an SEC filing because he has to plan and declare sales months in advance to avoid appearing to try to time sell decisions based on business decisions that would affect his stock price.  ",
+        "score": 95,
+        "author": "joshuads"
       },
       {
-        "body": "keep the stack as simple as possible because too many disconnected tools usually create more problems than they solve",
-        "score": 1,
-        "author": "Electronic-Cat185"
+        "body": "It only is lost money if he was planning on holding it longer in the first place. \n\nIt's more likely he wanted to divest and diversify. This was just a good reason to do it.",
+        "score": 68,
+        "author": "wienercat"
       }
     ],
-    "summary_he": "הפוסט מבקש המלצות לבניית ארכיטקטורת כלי ה-IT בחברה בגודל בינוני (כ-50 עובדים) במגוון תחומים כמו מכירות, שירות לקוחות ותיעוד פנימי. הכותב מעוניין להכיר פתרונות ספציפיים עבור CRM, מערכות כרטוס, ניהול ידע ושיתוף פעולה, כולל שילוב של כלי בינה מלאכותית (LLM).",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מרכזיות, דעות ותובנות שעלו מהתגובות:\n\n*   **העדפת פשטות על פני מורכבות:** קיימת הסכמה רחבה שמומלץ לשמור על \"ערימת טכנולוגיות\" (Stack) פשוטה ככל האפשר. ריבוי כלים שאינם מחוברים זה לזה נוטה לייצר בעיות חדשות במקום לפתור קשיים קיימים.\n*   **בחירת כלים ייעודיים ומוכרים:** עבור צוותים בינוניים (סביב 50 איש), הוצעו פתרונות סטנדרטיים המוכחים בשוק: HubSpot לניהול קשרי לקוחות (CRM) ו-Zendesk למערך התמיכה.\n*   **תשתית תקשורת ותיעוד אחודה:** המשתמשים ממליצים על שילוב של Microsoft 365 לניהול דוא\"ל, SharePoint לניהול מסמכים ותיעוד, ושימוש ב-Teams או Slack לצורך תקשורת שוטפת בין העובדים.\n*   **שילוב בינה מלאכותית (AI) בארגון:** עלה רעיון להטמיע עוזר AI המחובר ישירות למאגר הידע הארגוני. זאת במטרה לספק לעובדים תשובות פנימיות מהירות ולייעל את הגישה למידע.\n*   **אזהרה מפני \"נתק\" בין כלים:** הקהילה מדגישה כי הבעיה העיקרית במערכות IT היא חוסר סנכרון. כלים מנותקים מובילים לכפל עבודה ולחוסר יעילות, ולכן יש לבחור כלים שעובדים היטב יחד.\n*   **פתיחות לחדשנות אך בזהירות:** בעוד שישנה פתיחות לרעיונות חדשים לניהול מערכות IT בעסק, הקו המנחה הוא שכל פתרון חייב לשרת את המטרה של ייעול העבודה ולא להכביד עליה."
-  },
-  {
-    "id": "1urkqdu",
-    "title": "Starting to invest as a 16 year old",
-    "url": "https://www.reddit.com/r/investing/comments/1urkqdu/starting_to_invest_as_a_16_year_old/",
-    "author": "Trixikk_",
-    "score": 1,
-    "selftext": "So, my dad recently helped me open an investment account, and I’d love to hear your advice and experiences. What helped you the most when you started investing, or what do you wish you’d done differently?  \nI have about $550 saved up that I’m planning to invest.  \nThanks for your replies!",
-    "subreddit": "investing",
-    "created_utc": 1783587565,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "please read sub resources always before making posts in a sub.\n\nit answers beginner questions like this.\n\npeople put time and energy into it.  ",
-        "score": 1,
-        "author": "szakee"
-      },
-      {
-        "body": "Yeah go to a library and check out what section is the investing section and read books that only interest you—you can ignore boring ones.\n\nLearn the difference between retirement accounts and traditional brokerages so you can have cash to disperse before you are 55 years old ",
-        "score": 1,
-        "author": "DarkKnight2619"
-      },
-      {
-        "body": "As a 16 yr old, this largely depends on your future plans, salary of your parents, and theirs and your net worth. \n\nIf they're already wealthy then it doesn't really matter either way. But if not and salary lower and you might qualify for FAFSA, then take that into consideration and do 529 or ESA instead.\n\nOtherwise for now:\n1. Keep it simple at first (ETFs or Mutual Funds): VOO or other low fee. What institution, Schwab, Fidelity, etc?\n2. If you have a job, do some Roth IRA, but at 16 this can wait you might need the money sooner.\n3. Watch your emotions, don't try to chase the hype, gamble, or make stupid decisions. Behavior is so important. Don't overspend. Check out Dave Ramsey's podcasts.\n4. Long-term wealth generation is so important, so actually right now work towards preparing for education or training for your career, do something where you can get a job. ",
-        "score": 1,
-        "author": "AlexVT8"
-      }
-    ],
-    "summary_he": "כותב הפוסט הוא בן 16 שפתח לאחרונה חשבון השקעות בסיוע אביו, ומתכנן להשקיע סכום התחלתי של 550 דולר. הוא פנה לקהילה כדי לקבל עצות, תובנות ולקחים מניסיונם של אחרים שיעזרו לו להתחיל את דרכו בעולם ההשקעות בצורה נבונה.",
+    "summary_he": "מנכ\"ל סוני, הירוקי טוטוקי, מכר למעלה ממחצית ממניותיו בחברה (כ-56%) תמורת סכום של כ-4.7 מיליון דולר. המכירה בוצעה ב-3 ביולי, זמן קצר לאחר הודעת החברה בנושא הכונן האופטי של פלייסטיישן, והותירה בידיו כ-173,250 מניות בלבד.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט ועצות מרכזיות:\n\n*   **חשיבות השימוש במשאבי הקהילה:** נקודה מרכזית שהועלתה היא הצורך של מצטרפים חדשים לקרוא את המדריכים והמשאבים הקיימים בפורום (Subreddit) לפני פרסום שאלות. המדריכים הללו נכתבו כדי לענות על שאלות בסיסיות של מתחילים והושקעו בהם זמן ואנרגיה רבים מצד חברי הקהילה.\n*   **למידה עצמית מבוססת עניין:** מומלץ לגשת לספרייה ולבחור ספרי השקעות שמעוררים עניין אישי בלבד. הגישה כאן היא שאין טעם להכריח קריאה של תכנים משעממים, אלא להתמקד במה שמושך את הקורא כדי לבנות בסיס ידע יציב.\n*   **הבנה בין נזילות לחיסכון ארוך טווח:** קיימת הדגשה על הצורך ללמוד את ההבדלים בין חשבונות פרישה (הסגורים לשנים רבות) לבין חשבונות השקעה רגילים (Brokerage). הבנה זו קריטית כדי להבטיח זמינות של מזומנים לשימוש גם לפני גיל הפרישה.\n*   **שיקולי סיוע כלכלי ולימודים (בהקשר האמריקאי):** עבור צעירים (בגיל 16), ההחלטה היכן להשקיע צריכה להתחשב במצב הכלכלי של ההורים. אם ההכנסה אינה גבוהה, יש לשקול חיסכון בחשבונות ייעודיים ללימודים (כמו 529) כדי לא לפגוע בזכאות לסיוע כלכלי ממשלתי (FAFSA) בעתיד.\n*   **אסטרטגיית השקעה פשוטה ושמרנית:** הקהילה ממליצה למתחילים להיצמד לפשטות: השקעה בקרנות סל (ETFs) או קרנות נאמנות עם עמלות נמוכות (למשל כאלו העוקבות אחרי מדד ה-S&P 500 כמו VOO), תוך שימוש במוסדות פיננסיים מוכרים ויציבים.\n*   **משמעת פסיכולוגית והשקעה ב\"הון אנושי\":** מעבר למספרים, הדיון מדגיש את חשיבות השליטה ברגשות – הימנעות מרדיפה אחרי טרנדים (Hype), הימורים או בזבזנות. העצה החשובה ביותר לצעירים היא להתמקד כרגע בהכשרה מקצועית ובלימודים שיאפשרו להם קריירה רווחית, שכן זהו המנוע העיקרי ליצירת עושר בטווח הרחוק."
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ורגשות שונים שעלו מהתגובות:\n\n*   **החמצה כלכלית משמעותית:** אחד המגיבים מציין בציניות כי לאחר המכירה מחיר המניה זינק ב-6%, מה שגרם למנהל \"להפסיד\" רווחים פוטנציאליים בשווי מיליוני דולרים.\n*   **ביקורת כלפי התנהלות סוני:** קיימת תחושת לעג בקהילה כלפי האסטרטגיה של חברת סוני (\"The Sony strategy continues to amaze\"), המרמזת על חוסר שביעות רצון או זלזול בקבלת ההחלטות של החברה.\n*   **עמידה ברגולציה קשיחה:** הובהר כי המכירה דווחה לרשות ניירות הערך האמריקאית (SEC) כחלק מנוהל תקין, שבו מנהלים מחויבים להצהיר על מכירות חודשים מראש.\n*   **מניעת האשמות במידע פנים:** הדיון מדגיש כי התכנון המוקדם של המכירה נועד למנוע מצב שבו המנהל נראה כאילו הוא מתזמן את השוק על סמך החלטות עסקיות פנימיות שטרם פורסמו.\n*   **ערעור על הגדרת ה\"הפסד\":** עלתה הטענה שאי אפשר באמת להחשיב זאת כהפסד כספי אלא אם כן למנהל הייתה כוונה מלכתחילה להחזיק במניות לטווח ארוך יותר.\n*   **מניע של גיוון תיק השקעות:** חלק מהמשתמשים סבורים כי המטרה המרכזית של המנהל הייתה פשוט \"לצאת\" מהשקעה ריכוזית ולגוון את נכסיו (Diversify), והעלייה במניה לאחר מכן אינה רלוונטית לתוכנית האסטרטגית האישית שלו."
   },
   {
-    "id": "1urje4v",
-    "title": "ETF’s VS. individual stocks",
-    "url": "https://www.reddit.com/r/investing/comments/1urje4v/etfs_vs_individual_stocks/",
-    "author": "EquityEnigma",
-    "score": 1,
-    "selftext": "Buy VOO and touch grass yes! Totally get it……\n\nDCA is a great investment strategy, but does it really outperform choosing the right stocks year after year? \n\nHow do I balance my long term and my short term stock picking? \n\nAt this point, put majority of my money into index’s and choose a couple stocks on the side? \n\nNeed advice on my portfolio…. Am I gambling still? ",
-    "subreddit": "investing",
-    "created_utc": 1783582831,
-    "thumbnail": "self",
+    "id": "1uqvu3h",
+    "title": "Intel stock is currently trading at a level not seen even during the dot-com bubble",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1uqvu3h/intel_stock_is_currently_trading_at_a_level_not/",
+    "author": "mahend72",
+    "score": 460,
+    "selftext": "Intel is getting crazy now.\n\nStock trading at level not even seen in dot com bubble time. I know people are excited about AI, foundry and comeback story, but this move feel too fast for me.\n\nMaybe Intel really turning around, but they still need to prove execution. I am not calling it dead, but I also not chasing after this big run.\n\nFor me INTC is watchlist now, not blind buy.",
+    "subreddit": "StockMarket",
+    "created_utc": 1783524213,
+    "thumbnail": "https://external-preview.redd.it/QrJv8G8BB0sLA-CM1xVuwTAlZGtRdexrx4jRNXp58V8.jpeg?width=140&height=93&auto=webp&s=f1313ab8dea02b1c004f3fb367d5845abd1789f9",
     "top_comments": [
       {
-        "body": "How do you know you are picking rhe right stock year after year?\n\nMost likely you wont. Thinking you can is already a sign that you probably can't ",
-        "score": 1,
-        "author": "Burgergold"
+        "body": "I really need to know if that guy sold",
+        "score": 53,
+        "author": "davdev"
       },
       {
-        "body": "DCA is a strategy that is working for average investor, that's why it's recommended. You can see it's performance by opening S&P 500 chart. Stock picking can be very rewarding but it require much more work to understand different businesses, financials etc. If you have time and will to analyze tables with numbers, read annual reports and follow news, then i do highly recommend stock picking as you can learn a lot and improve over time (usually on mistakes). Understand what you own is a key aspect in stock picking as not all stocks are long term investments because of business cyclicality (commodity stocks as an example).",
-        "score": 1,
-        "author": "Vivid_Historian3269"
+        "body": "$30 +400% = $150   \n$150 -25% = $112.5   \n$112.5/$30 = +275%",
+        "score": 38,
+        "author": "Ffigy"
       },
       {
-        "body": "even if you pick individual stocks you have to be picking for the long term too. short term doesn't work for retail investors and is mainly for traders where 90% lose money over time anyway",
-        "score": 1,
-        "author": "chowsingchi"
+        "body": "Was buying when it was 16-22 bucks . Took my initial investment out plus some extra and still have 65 shares . It's been a good ride but it's not something I would invest in at this level even though I still do believe it will get to 1t valuation eventually so just gonna hold the free shares I have ",
+        "score": 37,
+        "author": "One-Possession8942"
       }
     ],
-    "summary_he": "הפוסט דן בהתלבטות בין השקעה פסיבית במדדי סל (כמו VOO) לבין ניסיון להכות את השוק באמצעות בחירת מניות בודדות. הכותב מבקש עצה כיצד לאזן בין השקעה לטווח ארוך לבין בחירות מניות \"מהצד\", ותוהה האם אסטרטגיה המשלבת את השתיים עדיין נחשבת להימור.",
+    "summary_he": "מניית אינטל נסחרת כיום ברמות מחיר חריגות שלא נראו מאז בועת הדוט-קום, על רקע הציפיות סביב תחום ה-AI והשיקום של החברה. למרות האופטימיות, כותב הפוסט סבור שהעלייה מהירה מדי ודורשת הוכחות ביצועיות בשטח, ולכן הוא מעדיף להשאיר את המניה ברשימת המעקב ולא לרכוש אותה כעת.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט ותובנות שונות:\n\n*   **הקושי והסיכון בבחירת מניות (Stock Picking):** קיימת ספקנות רבה לגבי היכולת של משקיע לבחור את המניות ה\"נכונות\" שנה אחר שנה. התפיסה היא שרוב הסיכויים שהמשקיע ייכשל בכך, ועצם המחשבה שאפשר לעשות זאת בקלות היא סימן לביטחון עצמי מופרז שעלול להוביל לטעויות.\n*   **היעילות של אסטרטגיית ה-DCA למשקיע הממוצע:** שיטת ה-DCA (השקעה בסכומים קבועים לאורך זמן) נחשבת לאסטרטגיה המנצחת עבור המשקיע הממוצע. ההוכחה להצלחתה ניתנת דרך התבוננות בביצועים ההיסטוריים של מדד ה-S&P 500.\n*   **המחיר של בחירת מניות פרטניות:** בחירת מניות מוצלחת דורשת עבודה קשה ומאומצת. היא מחייבת ניתוח מעמיק של דוחות כספיים, קריאת דוחות שנתיים, הבנת מודלים עסקיים ומעקב רציף אחר חדשות השוק – משאבים שלא לכל משקיע יש.\n*   **חשיבות ההבנה של \"מה אתה מחזיק\":** לא כל מניה מתאימה להשקעה ארוכת טווח. ישנה חשיבות קריטית להבנת המחזוריות של העסק (כמו במניות של חברות סחורות), שכן ללא הבנה זו המשקיע עלול להחזיק בנכס לא מתאים בזמן הלא נכון.\n*   **ערך הלימוד וההתפתחות העצמית:** למרות הקושי, בחירת מניות יכולה להיות מתגמלת מאוד מבחינה לימודית. התהליך מאפשר למשקיע להשתפר לאורך זמן, ללמוד מהטעויות שלו ולהעמיק את הבנתו בעולם העסקי והפיננסי.\n*   **פסילת המסחר לטווח קצר עבור משקיעים קטנים:** גם אם בוחרים במניות בודדות, הגישה חייבת להיות לטווח ארוך. מסחר לטווח קצר (Trading) נחשב למסוכן ביותר עבור המשקיע הפרטי, כאשר הנתונים מראים כי כ-90% מהעוסקים בו מפסידים כסף לאורך זמן."
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ותחושות שונות שעלו מהתגובות:\n\n*   **סקרנות לגבי פעולות של משקיעים מרכזיים:** בקהילה קיימת דריכות רבה ורצון לדעת האם דמות מפתח מסוימת (המשקיע המוכר בכינוי \"הבחור\") כבר מכרה את החזקותיה, מה שמעיד על השפעה חזקה של מובילי דעה על הסנטימנט.\n*   **ניתוח מתמטי של התנודתיות:** המשתמשים מנתחים את הרווחים הנותרים גם לאחר ירידות; לדוגמה, חישוב המראה שגם לאחר צניחה של 25% מהשיא, מי שקנה במחיר נמוך עדיין נמצא ברווח מרשים של כ-275%.\n*   **אסטרטגיית ניהול סיכונים (\"כסף מהבית\"):** משקיעים חולקים את שיטת העבודה שלהם – הוצאת סכום ההשקעה הראשוני בתוספת רווח קטן, והשארת יתרת המניות כ\"מניות בחינם\" ללא סיכון כספי נוסף.\n*   **הסתייגות מרכישה במחיר הנוכחי:** למרות האופטימיות הכללית, קיימת תחושה שהמחיר הנוכחי גבוה מדי לכניסה חדשה, ומשקיעים ותיקים מציינים שלא היו רוכשים מניות ברמות המחיר הללו כעת.\n*   **אמונה בפוטנציאל שווי שוק אדיר:** קיימת הערכה בקרב הקהילה שהחברה מסוגלת להגיע בסופו של דבר לשווי שוק של טריליון דולר (1T valuation), מה שמצדיק החזקה לטווח ארוך מאוד.\n*   **גישת \"החזקה\" (Holding) ארוכת טווח:** ניכרת נכונות להמשיך להחזיק במניות שנותרו (\"הזכות לרכוב על הגל\") מתוך אמונה בערך העתידי, מבלי להילחץ מהתנודות החדות בשוק בטווח הקצר."
   },
   {
-    "id": "1urgqno",
-    "title": "Accidentally enrolled in DRIP during company blackout period",
-    "url": "https://www.reddit.com/r/investing/comments/1urgqno/accidentally_enrolled_in_drip_during_company/",
-    "author": "anxietyburner123",
-    "score": 1,
-    "selftext": "I was looking around in my ESPP portal and stupidly clicked to reinvest dividends. I am not c-suite but I have access to MNPI. \n\nDoes this need to be reported internally? I am seeing conflicting answers. I work for a large company and am scared of the repercussions because our legal & HR are brutal. It was an honest mistake and I would hate to lose my job or the respect of my team over this.",
+    "id": "1uqwbnt",
+    "title": "Holding a 90%+ loser for 6 years: when do you finally move on?",
+    "url": "https://www.reddit.com/r/investing/comments/1uqwbnt/holding_a_90_loser_for_6_years_when_do_you/",
+    "author": "Standard_Effect9904",
+    "score": 436,
+    "selftext": "Back in 2020, I bought into NIO during the EV hype. I was 18, had very little investing experience, and got caught up in the excitement.\n\nToday my position looks like this:  \n141 shares  \nAverage cost: $47.79/share  \nUnrealized loss: about $6,000 (roughly -90%)\n\nAt this point, the position is worth only around $700.\n\nI’m not asking whether NIO specifically is a good company or for personalized financial advice. I’m more interested in how experienced investors think about situations like this. \n\nI’m starting dental school soon and moving into a new place, so selling the position would give me a little extra cash and, more importantly, let me mentally move on from a mistake I made when I was younger.\n\nI’d appreciate to hear how others think through these situations and what investing principles they use, regardless of whether the stock is NIO or something else.",
     "subreddit": "investing",
-    "created_utc": 1783574071,
+    "created_utc": 1783525220,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "You should report it internally and avoid making a second change during the blackout period, more than likely they already got an automatic notification. You’ll likely need a compliance officer to reverse the change. If you do it yourself you’re adding additional changes during the period which won’t be good",
-        "score": 5,
-        "author": "Fun-Sundae4060"
-      },
-      {
-        "body": "Expect the SEC to kick your door in soon",
+        "body": "Can't trade on margin, but you do get the benefit of being able to buy/sell daily with no risk of triggering any tax implications.\n\nWho needs retirement when there's a Wendy's.",
         "score": 3,
-        "author": "HungryCaterpillers"
+        "author": "Critical_Concert_689"
       },
       {
-        "body": "drips are exempt from insider trading rules - they are automatic/non-discretionary purchases.\n\nemail your compliance team; they will tell you it's not an issue and maybe even laugh about your concerns.",
+        "body": "Sell at a loss, declare the losses when you do your taxes - can only declare $3k in losses per tax year\n\nIt’ll be on the form from your brokerage, your accountant should take care of it",
         "score": 2,
-        "author": "gbdgdh"
+        "author": "esc8pe8rtist"
+      },
+      {
+        "body": "You've got it exactly right.\n\nBut you learned that somewhere along the way. There could just as easily be a rule where you can never subtract losses, or where you can only subtract half, or where short-term can be applied to long-term, and so on.\n\nMy point a few comments up was more about offsetting EARNED INCOME and about offsetting in FUTURE PERIODS. That's where it gets very not-obvious (\"use it or lose it\" seems more obvious to me) and gets complicated (why $3k for mfj? Why allow unearned losses to apply for earned income?)\n\nBut it's also very helpful.",
+        "score": 2,
+        "author": "OutspokenLurker"
       }
     ],
-    "summary_he": "הכותב נרשם בטעות לתוכנית השקעה מחדש של דיבידנדים (DRIP) במהלך תקופת איסור מסחר (blackout period), למרות שיש לו גישה למידע פנים רגיש. הוא חושש מהשלכות משמעתיות מצד מעסיקו ותוהה האם עליו לדווח על הטעות למחלקה המשפטית או למשאבי אנוש.",
+    "summary_he": "הכותב מתאר מצב בו הוא מחזיק במניה שהפסידה כ-90% מערכה (הפסד של כ-6,000 דולר) מאז שנת 2020, ושוקל האם למכור את היתרה הקטנה שנותרה כדי להתפנות מנטלית וכלכלית לפרק חדש בחייו. הוא מבקש ללמוד על העקרונות המנחים של משקיעים מנוסים לגבי המועד הנכון להכיר בטעות, לחתוך הפסדים ולהמשיך הלאה מהשקעה כושלת.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על תגובות הגולשים, המציג 6 נקודות מבט ודעות שונות שעלו בשרשור:\n\n*   **חשיבות הדיווח הפנימי:** מומלץ לדווח על המקרה באופן רשמי בתוך הארגון ולא לנסות להסתיר אותו, כדי להפגין שקיפות ורצון טוב.\n*   **הימנעות מתיקון עצמי:** הגולשים מזהירים מפני ביצוע שינויים נוספים בחשבון במהלך \"תקופת החסימה\" (blackout period). ניסיון לתקן את הטעות באופן עצמאי עלול להיראות כפעילות מחשידה נוספת ולהחמיר את המצב מול רשויות האכיפה.\n*   **הסתמכות על קצין ציות:** הפתרון הנכון הוא פנייה לקצין ציות (Compliance Officer) של החברה; הוא הגורם המוסמך היחיד שיכול לבטל או לתקן את הפעולה בצורה חוקית ומסודרת.\n*   **מעקב אוטומטי של החברה:** סביר להניח שהחברה כבר קיבלה התראה אוטומטית על הפעולה החריגה, ולכן דיווח יזום הוא הצעד המתבקש ביותר לפני שהחברה תפנה לעובד.\n*   **החרגה של תוכניות השקעה אוטומטיות (DRIP):** אחת הדעות המרכזיות היא שרכישות חוזרות של דיבידנדים (DRIPs) פטורות מחוקי סחר פנים, כיוון שמדובר בפעולות אוטומטיות שאינן תלויות בשיקול דעתו של המחזיק במניה בזמן אמת.\n*   **הומור ופרופורציות בקהילה:** לצד האזהרות הרציניות, קיימת נימה של ציניות בקהילה (כמו התגובה המקצינה שה-SEC יפרצו לבית בקרוב). הלך הרוח הכללי הוא שצוות הציות ככל הנראה יראה בזה עניין שולי ואולי אפילו יצחק מהדאגה המוגזמת של העובד."
+    "comments_summary_he": "להלן סיכום הדיון בשרשור המנתח את נקודות המבט והדעות השונות שעלו מן התגובות:\n\n**סיכום הדיון:**\n\n* **יתרונות המיסוי במסחר יומי:** אחד המגיבים מציין כי בחשבונות מסוימים (כגון חשבונות פרישה בארה\"ב), אמנם לא ניתן לסחור במינוף (Margin), אך היתרון הגדול הוא היכולת לקנות ולמכור ניירות ערך מדי יום ללא חשש מהשלכות מס מיידיות על כל פעולה.\n* **הומור עצמי וסנטימנט של סיכון:** התגובה הכוללת את האמירה \"מי צריך פרישה כשיש 'וונדיס'\" משקפת סנטימנט קהילתי המוכר בפורומי השקעות (כמו WallStreetBets), המשתמש בהומור ציני כדי להתמודד עם הסיכון של אובדן כספי הפרישה והצורך המשתמע לעבוד בעבודות מזדמנות בשכר נמוך.\n* **מגבלות הדיווח על הפסדים:** קיימת התייחסות לכללים הטכניים של רשויות המס (בארה\"ב), לפיהם ניתן להצהיר על הפסדים לצורך ניכוי מס רק עד תקרה של 3,000 דולר בשנה, כאשר הטפסים מהברוקר והנהלת החשבונות אמורים לטפל בכך.\n* **קיזוז הפסדים מול הכנסה מעבודה:** עולה נקודה המדגישה כי היכולת לקזז הפסדי הון לא רק מול רווחי הון אחרים, אלא גם מול \"הכנסה מיגיעה אישית\" (Earned Income), היא הטבה משמעותית מאוד שאינה מובנת מאליה.\n* **מורכבות ושרירותיות חוקי המס:** המגיבים דנים בכך שחוקי המס הנוכחיים יכלו להיות שונים לחלוטין (למשל, איסור מוחלט על ניכוי הפסדים). העובדה שניתן לגלגל הפסדים לתקופות עתידיות במקום גישת \"נצל או אבד\" (Use it or lose it) נתפסת כעזרה גדולה למשקיעים, למרות המורכבות שבכך.\n* **הסתמכות על אנשי מקצוע ובירוקרטיה:** הקהילה מציינת כי למרות המורכבות של חוקי המס והשאלות שעולות לגביהם (כמו מדוע התקרה היא דווקא 3,000 דולר), בסופו של דבר הטיפול הלוגיסטי מתבצע באמצעות טפסים מובנים של חברות הבורסה ובעזרת רואי חשבון."
   },
   {
-    "id": "1urg0l5",
-    "title": "I've been playing around with a few portfolio ideas on TestFol.io and ended up with five different versions that combine Fama-French Small Cap Value, leveraged ETFs, and trend following. They're all backtested from 1988-2025, and I'd love to hear what people think.",
-    "url": "https://www.reddit.com/r/investing/comments/1urg0l5/ive_been_playing_around_with_a_few_portfolio/",
-    "author": "hillionman",
-    "score": 1,
-    "selftext": "I've been playing around with a few portfolio ideas on [TestFol.io](http://TestFol.io) and ended up with five different versions that combine Fama-French Small Cap Value, leveraged ETFs, and trend following. They're all backtested from 1988-2025, and I'd love to hear what people think.\n\n**Test:** [https://testfol.io/?s=biOKMnuGve0](https://testfol.io/?s=biOKMnuGve0)\n\n# The idea\n\nThe goal wasn't to build the highest CAGR possible. I wanted something that could still compound aggressively while avoiding the massive drawdowns that usually come with concentrated growth portfolios.\n\nThe portfolios use four building blocks:\n\n* **3x Nasdaq** (simulated to extend the history beyond TQQQ's inception). This is the main growth engine.\n* **Small Cap Value (Fama-French factor).** You can get close with SLYV, or combine AVUV and AVDV for U.S. + international exposure. This is the part I think gets overlooked most often. Historically, it has tended to perform well during periods when growth struggles.\n* **Leveraged Gold (2x) or GDE.** GDE is WisdomTree's Efficient Gold fund, which uses futures to provide roughly 90% equity and 90% gold exposure at the same time.\n* **KMLM**, a managed futures/trend-following ETF that can go long or short across commodities, bonds, currencies, and equities depending on market trends.\n\nThe overall concept isn't new. It's basically factor investing and risk parity, just using modern leveraged products so the diversifiers don't reduce expected returns as much as traditional bond allocations.\n\n# Results\n\n**STRAT1**\n\n* 10% 3x Nasdaq\n* 20% 2x Gold\n* 50% Small Cap Value\n* 20% KMLM\n* CAGR: **14.91%**\n* Max Drawdown: **-33.26%**\n* Sharpe: **0.74**\n\nThis had by far the best risk-adjusted performance.\n\n**STRAT2**\n\n* 10% 3x Nasdaq\n* 20% GDE\n* 70% Small Cap Value\n* CAGR: **16.10%**\n* Max Drawdown: **-58.57%**\n\n**STRAT3**  \nSame allocation as STRAT2, but replacing GDE with 2x Gold.\n\n* CAGR: **15.30%**\n* Max Drawdown: **-50.42%**\n\nInterestingly, just changing the gold exposure reduced the worst drawdown by about 8 percentage points while giving up less than 1% CAGR.\n\n**STRAT4**\n\n* 10% 3x Nasdaq\n* 30% GDE\n* 60% Small Cap Value\n* CAGR: **16.23%**\n* Max Drawdown: **-57.57%**\n\n**STRAT5**\n\n* 30% 3x Nasdaq\n* 30% 2x Gold\n* 40% Small Cap Value\n* CAGR: **19.79%**\n* Max Drawdown: **-66.58%**\n\nHighest return, but also by far the highest risk.\n\n# What stood out to me\n\nThe biggest surprise was STRAT1.\n\nGiving up around five percentage points of CAGR compared to the most aggressive version nearly cut the maximum drawdown in half. That seems like a very attractive trade-off, especially over multi-decade investing horizons.\n\nIt also looks like KMLM is doing most of the heavy lifting there. Trend following tends to perform well during prolonged bear markets because it can move defensively or even short certain asset classes while equities are falling.\n\nThe STRAT2 vs STRAT3 comparison was interesting as well. Holding everything else constant, simply replacing GDE with 2x leveraged gold noticeably reduced drawdowns, which suggests the choice of gold implementation matters more than I expected.\n\nSTRAT5, on the other hand, feels much more like adding leverage than adding diversification. It produces the highest CAGR, but the drawdown profile ends up looking pretty similar to a highly leveraged equity portfolio.\n\n# A few caveats\n\nObviously these results aren't perfect.\n\n* The leveraged ETFs are simulated before their actual inception dates, so they don't fully capture real-world tracking error, leverage decay, fees, or implementation costs.\n* Small Cap Value has had a long period of underperformance relative to Growth since roughly 2007, so there's no guarantee its historical premium will look the same going forward.\n* Everything assumes annual rebalancing with no taxes, which isn't realistic for taxable accounts.\n\nStill, I found the trade-offs pretty interesting.\n\nCurious to hear if anyone has built something similar or sees any obvious flaws in the approach.",
+    "id": "1uqpyo9",
+    "title": "Regarding the “waiting for a big dip to get back into the market” folks:",
+    "url": "https://www.reddit.com/r/investing/comments/1uqpyo9/regarding_the_waiting_for_a_big_dip_to_get_back/",
+    "author": "pseudonominom",
+    "score": 409,
+    "selftext": "Is it possible that, because this market has been booming for so many years in a row now, there’s a huge backlog of dry powder just ready to pounce?\n\nIn other words, any would-be crash will be muted and almost immediately bought up by the trillions of dollars just sitting on the sidelines.\n\nI remember reading that there’s “$17T sitting on the sidelines” a year ago, but it’s not a figure that’s talked about a lot.",
     "subreddit": "investing",
-    "created_utc": 1783571830,
+    "created_utc": 1783510227,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Leveraged ETFs are not meant to be and don’t work to be held long term. You say that leverage decay isn’t fully simulated, I don’t think you understand how much leverage decay zaps return.",
+        "body": "We were talking about China. Renting has been super cheap for over a decade thanks to \"everyone\" buying investment properties and renting them out. \n\nNot to mention that most Chinese people living in cities where they don't own properties, but have the local hukou, will live even cheaper in subsidized government housing. ",
+        "score": 2,
+        "author": "nai-ba"
+      },
+      {
+        "body": "U must be special kind of stupid for not knowing my comment is not directly to people who has $1m cash.",
+        "score": 2,
+        "author": "Laakhesis"
+      },
+      {
+        "body": "Musk scraped and skimmed that wealth of evidence",
         "score": 1,
-        "author": "EpicDOgeMC"
+        "author": "Kooky-Issue5847"
       }
     ],
-    "summary_he": "הפוסט מציג חמש אסטרטגיות השקעה המשלבות נאסד\"ק ממונף (3x), מניות ערך קטנות (Small Cap Value), זהב ואסטרטגיות עקיבת מגמה, שנבחנו בסימולציה לאחור בין השנים 1988–2025. הכותב מדגיש כי השילוב בין נכסים ממונפים לחוזים עתידיים מנוהלים (KMLM) הצליח לצמצם משמעותית את הירידות המקסימליות (Drawdowns) תוך שמירה על תשואה שנתית גבוהה. המסקנה העיקרית היא שגיוון באמצעות גורמי סיכון שונים ומוצרים ממונפים מודרניים מאפשר להשיג ביצועים משופרים ביחס לסיכון לאורך זמן.",
+    "summary_he": "הכותב מעלה את הסברה שקריסה משמעותית בשוק ההון עשויה להיבלם במהירות בשל כמויות אדירות של מזומן (\"אבקת שריפה יבשה\") הממתינות בשוליים. להערכתו, טריליוני דולרים שטרם הושקעו ינוצלו לרכישה מיידית של כל ירידה בשערים, ובכך ימתנו את עוצמת המשבר ויביאו להתאוששות מהירה.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות (תוך התמקדות בנקודות המרכזיות שעלו בנוגע לתעודות סל ממונפות):\n\n*   **חוסר התאמה לטווח ארוך:** קיימת הסכמה נחרצת כי תעודות סל ממונפות (Leveraged ETFs) אינן מיועדות להחזקה ממושכת, והן לא תוכננו לעבוד ככלי השקעה לטווח רחוק.\n*   **השפעת \"שחיקת המינוף\" (Leverage Decay):** השחיקה הנובעת מהתנודתיות היומית היא גורם מכריע שפוגע אנושות בתשואות, ומשקיעים רבים נוטים להמעיט בערכה.\n*   **פער בין סימולציה למציאות:** נטען כי סימולציות של ביצועי עבר לא תמיד משקפות באופן מלא או מדויק את עוצמת השחיקה שמתרחשת בפועל בשוק.\n*   **פגיעה אנושה בתשואות:** שחיקת המינוף מתוארת כגורם ש\"מחסל\" (zaps) את הרווחים, מה שעלול להוביל להפסדים משמעותיים גם אם נכס הבסיס מציג מגמה חיובית לאורך זמן.\n*   **חוסר הבנה בקרב משקיעים:** עולה תחושה של קהילת המשקיעים כי רבים מהנסחרים בתעודות אלו אינם מבינים לעומק את המנגנון המתמטי שמאחורי המינוף ואת הסיכונים הכרוכים בו.\n*   **התפקוד המעשי של המכשיר הפיננסי:** הדיון מדגיש כי המבנה הטכני של תעודות אלו פשוט \"לא עובד\" עבור מי שמנסה ליישם אסטרטגיית החזקה פסיבית, בשל הצורך באיזון יומי של המינוף."
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג 6 נקודות מבט, דעות ותחושות קהילתיות שעלו מהתגובות:\n\n*   **שוק השכירות בסין כהזדמנות כלכלית:** קיימת טענה כי מחירי השכירות בסין נותרו נמוכים מאוד במשך למעלה מעשור. המצב הזה מוסבר על ידי הצפה של השוק בדירות להשקעה שנקנו על ידי הציבור הרחב והושכרו במחירים נוחים.\n*   **השפעת מדיניות הדיור הממשלתית:** הדיון מדגיש את חשיבות מערכת ה\"הוקו\" (hukou - רישום תושבות) בסין; נטען כי מי שמחזיק בתושבות מקומית בערים נהנה מגישה לדיור ציבורי מסובסד, מה שמוזיל עוד יותר את עלויות המחיה עבורם בהשוואה למהגרים.\n*   **פערים כלכליים ודיון על הון:** ניכר כי קיים מתח סביב נושא העושר האישי. אחת התגובות תוקפת את ההנחה שדיונים כלכליים מיועדים רק לאנשים בעלי הון נזיל גבוה (כמו מיליון דולר במזומן), וטוענת שיש להתאים את השיח גם למי שאינו נמצא בעשירון העליון.\n*   **סגנון שיח אגרסיבי:** התגובות משקפות תופעה נפוצה בקהילות מקוונות של שימוש בשפה בוטה ומזלזלת (\"סוג מיוחד של טיפש\") כאשר מתגלעים חילוקי דעות לגבי קהל היעד של דברים שנאמרו בשרשור.\n*   **ביקורת על דמויות מפתח בטכנולוגיה:** עולה טענה ביקורתית כלפי אילון מאסק, המאשימה אותו באיסוף נתונים (scraping) או בשימוש מניפולטיבי בראיות/מידע כדי לצבור כוח או עושר.\n*   **השקעה בנדל\"ן כתרבות צריכה:** הקהילה מצביעה על כך שרכישת נכסים להשקעה הפכה לנורמה חברתית (\"כולם\" קנו נכסים), דבר שהוביל לתוצאה פרדוקסלית של שוק שכירות זול במיוחד עבור אלו שלא קנו דירה."
   },
   {
-    "id": "1ureuew",
-    "title": "I am scared I won’t have enough when I am 60 & also think I am living below my means!",
-    "url": "https://www.reddit.com/r/investing/comments/1ureuew/i_am_scared_i_wont_have_enough_when_i_am_60_also/",
-    "author": "Dont_say_you_lv_m_27",
-    "score": 1,
-    "selftext": "I am 36y women earning around 400k per year including base bonus and stocks. Base around 300k. Got a house for 500k. Small 3y back. Now have15y loan for 5%. 250k mortgage. Think could I have done better? I was not sure about big house n now k see people earning less than me are getting million dollar house.   \nInvesting wise I am not too great. Just max my 401k ( pre and post)- 72k (only have 250k in it). Started late. I didnt have much knowledge or anyone to guide me. Come from a very humble family.   \n200k in managed account   \n100 k cash for rainy day  \nMortgage is like $2300 month\n\nI get more than I spend. I don’t do much things for myself.   \nSend some money for my parents . They don’t ask I just do.   \nCan any one advice me here what to do and how am I doing? Lookin to retire at 60\n\nAny advice on how should I move ahead? Please be nice as I am genuinely asking. I am not a very good financial person. ",
+    "id": "1ur2x3d",
+    "title": "Is $100/week on VOO a good idea?",
+    "url": "https://www.reddit.com/r/investing/comments/1ur2x3d/is_100week_on_voo_a_good_idea/",
+    "author": "Regular-Print2896",
+    "score": 138,
+    "selftext": "I want to start on the low-and-slow grind right away in the stock market. I heard VOO and SPY are very close to each other with VOO being just slightly better overall. I don’t feel like making trading an active hustle for me but rather something I can let sit and not touch.\n\nFeel free to provide feedback or any other methods that worked for you guys. 🙏",
     "subreddit": "investing",
-    "created_utc": 1783568333,
+    "created_utc": 1783538883,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "For a second I thought I was in the jerk sub.   \nGet help. ",
-        "score": 13,
-        "author": "ongoldenwaves"
+        "body": "Oh good to know.. I’m not vested in either ",
+        "score": 2,
+        "author": "AppSecPeddler"
       },
       {
-        "body": "Is this supposed to be a flex ? ",
-        "score": 10,
-        "author": "SeriousNewspaper1949"
+        "body": "The only way to really lose money is to sell everything after it crashes. If you lump summed into the market right before the 2008 market crash, you’d be up more than 350% today, and that’s reviewing a literal worst case scenario. On the other hand, if your exit strategy after one month of investing is to realize your losses out of fear, you’re strategy is completely misguided.",
+        "score": 1,
+        "author": "Hallowed-Griffin"
       },
       {
-        "body": "Just a troll, if not I don’t know what to say",
-        "score": 7,
-        "author": "LandscapeOk2955"
+        "body": "I started doing this a decade and kept bumping up as I felt comfortable and than really cranked it up with every promotion, job hop, etc. eventually was dumping 50% of my take home pay. It’s now worth over 7 figs. Slow and grow is the best approach. Check out fire. ",
+        "score": 1,
+        "author": "InternationalYou7798"
       }
     ],
-    "summary_he": "כותבת הפוסט, בת 36 המשתכרת כ-400 אלף דולר בשנה, חוששת שלא תצבור מספיק הון לפרישה בגיל 60 למרות שהיא חיה מתחת ליכולותיה הכלכליות וחוסכת סכומים משמעותיים. היא חשה חוסר ביטחון פיננסי בשל התחלה מאוחרת של השקעות והשוואה לאחרים שרכשו בתים יקרים יותר, ומבקשת ייעוץ כיצד למקסם את חסכונותיה ולהבטיח את עתידה.",
+    "summary_he": "הכותב שואל האם השקעה קבועה של 100 דולר בשבוע במדד ה-VOO היא אסטרטגיה טובה לטווח ארוך. הוא מעוניין בשיטה פסיבית של \"שגר ושכח\" במקום מסחר פעיל, ומציין כי בחר ב-VOO בשל יתרונותיו הקלים על פני מדד ה-SPY.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות בשרשור, המציג 6 נקודות מבט ועמדות שונות של חברי הקהילה:\n\n*   **ההפסד האמיתי הוא מימוש הפסדים מתוך פחד:** אחד הכותבים מדגיש כי הדרך היחידה להפסיד כסף בפועל היא למכור את הנכסים בזמן ירידות חדות בשוק. אסטרטגיית יציאה המבוססת על פחד ומימוש הפסדים לאחר תקופה קצרה נתפסת כשגויה מיסודה.\n*   **חשיבות הפרספקטיבה ההיסטורית:** הדיון מעלה כי גם בתרחיש הגרוע ביותר (כמו השקעת סכום חד-פעמי רגע לפני משבר 2008), השוק הוכיח את עצמו בטווח הארוך עם עליות של מעל 350%, מה שמחזק את הטענה שזמן בשוק עדיף על ניסיון לתזמן את השוק.\n*   **אסטרטגיית \"צמיחה איטית ועקבית\" (Slow and Grow):** קיימת הסכמה בקהילה שזו הגישה הטובה ביותר. המפתח הוא להתחיל בסכומים נוחים ולהעלות את היקף ההשקעה בהדרגה עם כל קידום בעבודה או העלאה בשכר.\n*   **השקעה אגרסיבית ככלי לעושר משמעותי:** אחד המגיבים שיתף כיצד הגיע להון של מעל מיליון דולר (7 ספרות) על ידי הגדלת אחוזי החיסכון שלו עד ל-50% מההכנסה הפנויה לאורך עשור.\n*   **זיקה לתנועת ה-FIRE:** בקהילה קיימת הערכה לעקרונות תנועת ה-FIRE (עצמאות כלכלית ופרישה מוקדמת), והיא מוצעת כמודל לחיקוי עבור מי שמחפש לבנות הון ארוך טווח.\n*   **נוכחות של צופים מהצד:** מעבר למשקיעים פעילים, הדיון כולל גם משתתפים שאינם מושקעים כרגע באף אחד מהאפיקים שנדונו, אך הם עוקבים אחר המידע ולומדים מהניסיון של אחרים."
+  },
+  {
+    "id": "1uqwzak",
+    "title": "What will happen to the stock market if the iran war drags on for years?",
+    "url": "https://www.reddit.com/r/investing/comments/1uqwzak/what_will_happen_to_the_stock_market_if_the_iran/",
+    "author": "General_Style_4384",
+    "score": 125,
+    "selftext": " If the war in iran keeps on going on, the price of oil will never go down and prices of everything will skyrocket. Can this drag the stock market into a correction or possibly a crash?\n\nWe already see how fragile the economy is with very low jobs numbers and the s&p 500 beinf carried by the ai hype so im concerned this can be the last tipping point that breaks everything. Im not saying we shouldn’t invest but im saying its a big concern not many are speaking of",
+    "subreddit": "investing",
+    "created_utc": 1783526556,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "הכותב מביע חשש שהתמשכות העימות עם איראן תוביל לעלייה מתמדת במחירי הנפט והסחורות, מה שעלול להוביל לתיקון משמעותי או לקריסה בשוק ההון. לטענתו, הכלכלה הנוכחית שברירית ממילא בשל נתוני תעסוקה נמוכים והסתמכות יתר על תחום ה-AI, והסלמה צבאית עלולה להיות \"הקש האחרון\" שיערער את המערכת כולה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1uqwodn",
+    "title": "Is there any way to see how Trump’s Stock Investments are trading?",
+    "url": "https://www.reddit.com/r/investing/comments/1uqwodn/is_there_any_way_to_see_how_trumps_stock/",
+    "author": "Salt_Finance_9852",
+    "score": 33,
+    "selftext": "I an editorial in today’s WSJ by *Holman W. Jenkins, Jr*  that his sons are handling the trades and that the number of trades they make  are “averaging 85 per market day”. \n\nIs there any way to see what trades are being made by the Trump family today? yesterday? \n\nSeems like very investable information. ",
+    "subreddit": "investing",
+    "created_utc": 1783525941,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "In april 2025, trump made 382 trades - He didnt report thise trades until March 2026....",
+        "score": 105,
+        "author": "Average_TechSpec"
+      },
+      {
+        "body": "And paid a $200 fine for being late! he bought those shares 1 day before he paused tariffs ",
+        "score": 80,
+        "author": "phosphate554"
+      },
+      {
+        "body": "By the time their mandatory disclosures are published 30-45 days later, you aren't co-investing. You are the exit liquidity.",
+        "score": 49,
+        "author": "thesuperlede"
+      }
+    ],
+    "summary_he": "כותב הפוסט שואל האם קיימת דרך לעקוב בזמן אמת אחר עסקאות המניות של דונלד טראמפ ובניו, המבצעים לפי הדיווחים עשרות פעולות בכל יום מסחר. המשתמש מעוניין במידע זה ככלי עזר להשקעותיו, מתוך אמונה שמדובר בנתונים בעלי ערך פיננסי רב.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג 6 נקודות מרכזיות, דעות ותחושות שעלו מהתגובות בנוגע לדיווחים על פעילות המסחר של דונלד טראמפ:\n\n*   **איחור קיצוני בדיווח:** הועברה ביקורת חריפה על כך שטראמפ ביצע מאות עסקאות (382 עסקאות) באפריל 2025, אך בחר לדווח עליהן רק במרץ 2026 – עיכוב של כמעט שנה שמונע שקיפות בזמן אמת.\n*   **חוסר הרתעה וענישה סמלית:** משתמשים הצביעו על כך שהקנס בגין הדיווח המאוחר עמד על 200 דולר בלבד. סכום זה נתפס כזניח לחלוטין וכ\"דמי כניסה\" זולים המאפשרים לפוליטיקאים לעבור על החוק ללא השלכות אמיתיות.\n*   **חשד לשימוש במידע פנים:** עלתה טענה כי התזמון של רכישת המניות – יום אחד בלבד לפני שהכריז על הקפאת מכסים – מעיד על ניצול כוח פוליטי ומידע חסוי לצורך רווח אישי בשוק ההון.\n*   **חוסר רלוונטיות של הדיווחים לציבור:** קיימת תחושת תסכול מכך שחובת הדיווח (שנעה בין 30 ל-45 יום במקרה הטוב) הופכת את המידע ללא רלוונטי עבור משקיעים מן השורה המנסים לעקוב אחר פעולות הנבחרים.\n*   **המשקיע הקטן כ\"נזילות יציאה\" (Exit Liquidity):** בקהילה מאמינים כי כאשר הציבור הרחב נחשף סוף סוף למידע על העסקאות, הוא לא באמת \"משקיע יחד\" עם הפוליטיקאי, אלא משמש ככלי המאפשר לפוליטיקאי למכור את מניותיו ברווח ולצאת מהפוזיציה על חשבון הציבור.\n*   **פגיעה באמון הציבור במערכת:** מהתגובות עולה סנטימנט של ציניות כלפי המערכת הפוליטית והרגולטורית, שנראית כמאפשרת לבכירים לפעול בניגוד עניינים מובהק תוך עקיפת חוקי האתיקה בצורה שיטתית."
+  },
+  {
+    "id": "1uqwjpk",
+    "title": "copper juniors need more than land now",
+    "url": "https://www.reddit.com/r/investing/comments/1uqwjpk/copper_juniors_need_more_than_land_now/",
+    "author": "AsherRide73",
+    "score": 3,
+    "selftext": "Copper juniors are starting to look like a funding test.\n\n\n\nGround is still important, but the better watchlist names usually need something else next: financing, strategic partners, fieldwork, or a clear path to keep advancing the asset.\n\n\n\nMt. Margaret is one example. Cambria and ECC announced a proposed spinout into Freedom Copper, with proposed financing of up to US$100M. The project is described as a copper-gold-moly porphyry system with mineralization across more than 1 sq km and open below 500m. That is still subject to transaction risk, but the funding size is what makes it worth tracking.\n\n\n\nPEX.V is another one in the funding bucket. Pacific Ridge closed about C$8.5M in financing, and Minsur, through Cumbres, ended up with about 13.8% ownership after the transaction. That gives the company a strategic shareholder angle while it works on BC copper-gold projects.\n\n\n\nCSE: NRED is earlier-stage. NovaRed has an option to earn 70% of Wilmac, which is about 16.1k hectares in BC. It also has MetalCore, now above 4.1M records, with 920 of 1,000 early-access users registered. No resource, no mine, no production. The next useful things to track are target generation, geophysics, field validation, and whether the data layer helps produce better drill targets.\n\n\n\nTLDR: the copper cycle is not just about who controls ground. The next screen may be who can attract capital, keep fieldwork moving, and turn land into testable targets.\n\n\n\nNFA. Are people paying more attention to financing and strategic backers in juniors now?",
+    "subreddit": "investing",
+    "created_utc": 1783525669,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "להלן סיכום של הפוסט:\n\nחברות כריית נחושת צעירות (Juniors) אינן יכולות להסתמך עוד רק על בעלות על קרקע, אלא נדרשות להציג יכולת גיוס הון, שותפויות אסטרטגיות והתקדמות בשטח כדי להצליח. הפוסט מדגיש כי היכולת להפוך נכסים למטרות קידוח מוחשיות באמצעות מימון וניתוח נתונים היא המפתח להצלחה במחזור הנוכחי של שוק הנחושת.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1uqysae",
+    "title": "What happens to important business documents when an employee leaves?",
+    "url": "https://www.reddit.com/r/business/comments/1uqysae/what_happens_to_important_business_documents_when/",
+    "author": "Scary_sight",
+    "score": 3,
+    "selftext": "A question that came up recently in a conversation with another business owner:  \nHow do you handle contracts, agreements, client records, and other critical business documents when the person responsible for them leaves the company?  \nDo you have a formal offboarding process, or is it handled manually?  \nInterested in hearing how different businesses approach this.",
+    "subreddit": "business",
+    "created_utc": 1783530332,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Nothing like that should be in possession of the employee to begin with. Do you have teams like legal, accounting, etc? They should have processes in place for managing these documents. ",
+        "score": 6,
+        "author": "leros"
+      },
+      {
+        "body": "All important documents should be stored in a place that’s accessible to the business owner and to any other employees that may require access. That means that documents and notes etc are stored on shared drives for smaller companies or in dedicated software for bigger companies.",
+        "score": 3,
+        "author": "DJfromNL"
+      },
+      {
+        "body": "you should have better systems in place. People leaving with notice voluntarily is just one way, beng fired, gettng arrested, getting sick, dying etc are all ways people leave instantly as well. Never have someone 'in charge' of contracts and other important functions solely but rather have someone who is currently the person hadling the process and the process needs to be detailed and at least one other person cross trained to know where everything is and can handle when they are not there. Vacations come tomind, family emergencies etc.",
+        "score": 2,
+        "author": "Smart-Intern-4007"
+      }
+    ],
+    "summary_he": "הפוסט דן בדרכים שבהן עסקים מנהלים מסמכים קריטיים, כמו חוזים ורשומות לקוחות, כאשר העובד האחראי עליהם עוזב את החברה. הכותב מבקש לדעת האם לעסקים אחרים יש תהליך עזיבה (offboarding) פורמלי ומסודר להעברת המידע, או שהנושא מטופל באופן ידני ומקרי.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג שש נקודות מרכזיות ועמדות קהילתיות לגבי ניהול מסמכים והמשכיות עסקית:\n\n*   **מניעת בעלות אישית על מסמכים:** המגיבים מדגישים כי מסמכים ארגוניים קריטיים לעולם לא צריכים להיות בבעלותו או בשליטתו הבלעדית של עובד בודד. על הארגון להבטיח שהמידע נשאר בתוך המערכת ולא בתיקיות אישיות.\n*   **מיסוד תהליכי ניהול:** יש להקים תהליכים מובנים לניהול מסמכים דרך מחלקות רלוונטיות (כמו משפטית או הנהלת חשבונות), במקום להסתמך על אלתור של עובדים.\n*   **הבטחת נגישות רציפה:** נקודת מפתח היא שכל מסמך חשוב חייב להיות נגיש לבעלי העסק ולעובדים רלוונטיים נוספים בכל עת. הדבר דורש שימוש בתשתיות טכנולוגיות מתאימות, כגון כוננים משותפים לעסקים קטנים או תוכנות ייעודיות לארגונים גדולים.\n*   **היערכות לתרחישי עזיבה פתאומיים:** הקהילה מציינת כי מערכות הניהול חייבות להיות ערוכות לא רק להתפטרות מסודרת, אלא גם למקרים בלתי צפויים שבהם עובד נעלם מהמשרד באופן מיידי (כמו מחלה, פיטורין, מעצר או מקרי חירום משפחתיים).\n*   **ביטול תלות באדם יחיד (Single Point of Failure):** אין להשאיר אדם אחד כ\"אחראי הבלעדי\" על פונקציה קריטית או חוזים. הדיון מעלה את הצורך ב\"הכשרה צולבת\" (Cross-training), כך שלפחות אדם נוסף אחד תמיד ידע היכן נמצא המידע ואיך לתפעל את התהליך.\n*   **תיעוד מפורט של תהליכי עבודה:** מעבר לאחסון המסמכים, יש צורך בנהלים כתובים ומפורטים. תיעוד זה מאפשר לארגון להמשיך לתפקד בצורה חלקה גם בזמן חופשות, מחלות או חילופי גברי, מבלי לאבד ידע ארגוני יקר."
+  },
+  {
+    "id": "1ur57mb",
+    "title": "401K VOYA from former employer",
+    "url": "https://www.reddit.com/r/investing/comments/1ur57mb/401k_voya_from_former_employer/",
+    "author": "Few_Watercress_4533",
+    "score": 2,
+    "selftext": "So when I left my last job where I was grossly underpaid, I rolled over my 401K into my personal IRA with T Rowe. At the time they had just switched over to using Voya and it was a complete hassle getting the money rolled over and Voya took their time but eventually the transfer went through. Now my current job ( where I've been for approx. 4 months) also uses Voya and when I went in to check my balances there I saw that my former employer had allocated matching monies on June 30th ( I'm guessing it was a end of quarter match because they would only do this sometimes \"If we have enough\")  to the tune of 1.2K into my old 401K account,  at least 66% of that I should have been due to working that much of the fiscal year, but I can only guess that this was a  oversight on their part.\n\nThe current 401K balance is listed on Voya as a Vested Balance, I wonder if they can they in fact claw that money back.\n\nI wonder if I should roll that over as soon as possible, I believe last time I had to go through my former employer to get confirmation for the transfer, not sure why, maybe because of them switching over to Voya ( does that sound right) If I have to go through them I'm guessing they will not cooperate if it's an oversight.\n\n\n\n  \n\n\n",
+    "subreddit": "investing",
+    "created_utc": 1783543823,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": ">my former employer had allocated matching monies on June 30th ( I'm guessing it was a end of quarter match because they would only do this sometimes \"If we have enough\") to the tune of 1.2K into my old 401K account\n\nYes this is fairly common. 401k plans are regularly audited. They probably found a miscalculation, so deposited this to make you whole.\n\n>The current 401K balance is listed on Voya as a Vested Balance, I wonder if they can they in fact claw that money back.\n\nSure. If they determine it to be an erroneous payment to you. That's probably unlike though, considering they made this as a corrective contribution to begin with.\n\n>I wonder if I should roll that over as soon as possible, I believe last time I had to go through my former employer to get confirmation for the transfer, not sure why, maybe because of them switching over to Voya ( does that sound right) If I have to go through them I'm guessing they will not cooperate if it's an oversight.\n\nSay you roll it over ASAP. It's out of your old employer's reach. However, they'd simply issue you a 1099-R for the funds and you'd owe tax + penalty. But again this is assuming these funds are deemed to not be yours, which is *probably* unlikely.\n\nIt will be easier to simply call Voya / your old employer, and ask them to verify these funds are legit (i.e. vested, yours).",
+        "score": 2,
+        "author": "DaemonTargaryen2024"
+      },
+      {
+        "body": "If you're reasonably sure you got \"overpaid\" a match amount, it's probably best to contact HR or payroll at your old employer and give them a chance to pull the appropriate amount back or reprocess the entire transaction.\n\nThey might never come after it otherwise, but they probably would at some point.\n\nIf you ended up investing the excess cash and by the time they caught up to it, you were sitting on a loss, I don;t think you'd be on the hook for the difference but you don't really want to find out.\n\nMake sure you get some reply from them.\n\nIf you don't get a reply or they don't do anything to claw back the money by let's say the end of the year, send them a letter saying in the absence of any action, you're going to assume it was not an error and intend to proceed accordingly.",
+        "score": 2,
+        "author": "DoinIt4DaShorteez"
+      },
+      {
+        "body": "I Certainly would not do anything criminal and would be satisfied with the 66% due, but doubt they would offer that. They were not happy I left, even though I did it right and gave two weeks, I was cheap and a good worker. This was a company that did NOT treat their employees well financially,  no raises...not even cost of living, decided to base it on measly job performance bonuses 4 times a year (which I always got) and then decided to only do it 3 times a year and drastically reduce the amounts, and then gave themselves (the admin) double-dip bonuses for a program they were already doing  in order to get paid time off for health program benchmarks. So ethically I feel entitled to that money, your mileage may vary.",
+        "score": 1,
+        "author": "Few_Watercress_4533"
+      }
+    ],
+    "summary_he": "המשתמש גילה שהמעסיק הקודם שלו הפקיד בטעות כספי התאמה (matching) לחשבון ה-401K הישן שלו לאחר שכבר עזב את העבודה. הוא חושש שהמעסיק ינסה למשוך את הכספים בחזרה ותוהה האם כדאי לו למהר ולהעבירם לחשבון הפנסיה האישי שלו. עם זאת, הוא חושש שהתהליך ידרוש אישור מהמעסיק הקודם, מה שעלול לחשוף את הטעות ולמנוע את ההעברה.",
     "category_he": "פיננסים",
-    "comments_summary_he": "להלן ניתוח וסיכום של התגובות המובילות מהשרשור ב-Reddit, המציגות את הלך הרוח של הקהילה ביחס לפוסט המקורי:\n\n*   **ספק לגבי האותנטיות (חשד לפרודיה):** אחד המגיבים ציין כי לרגע חשב שמדובר בפוסט מתת-פורום מסוג \"Circlejerk\" (פורומים המוקדשים ללעג ופרודיה על נושאים מסוימים), מה שמעיד על כך שהתוכן המקורי נתפס כקיצוני או מגוחך עד כדי חוסר אמינות.\n*   **המלצה לטיפול או עזרה:** קיימת תחושה בקרב המגיבים שכותב הפוסט זקוק ל\"עזרה\" (Get help), מה שמרמז על כך שהתוכן שהעלה נתפס כמטריד, לא נורמטיבי או מעיד על חוסר מודעות עצמית חמור.\n*   **בלבול לגבי \"התרברבות\" (Flex):** הקהילה תוהה האם כותב הפוסט מנסה להשוויץ בהישג או במצב מסוים (\"Is this a flex?\"), תוך רמיזה שהדבר שבו הוא מתגאה אינו מרשים כלל, ואולי אף מביך.\n*   **חשד כבד ל\"טרולינג\":** אחת הדעות המרכזיות היא שכותב הפוסט הוא פשוט \"טרול\" שמנסה לעורר תגובות ופרובוקציה במכוון, ולא אדם שבאמת מאמין במה שכתב.\n*   **תדהמה וחוסר מילים:** במידה והפוסט אכן אמיתי ואינו בדיחה, המגיבים מביעים תחושה של \"אין מילים\" – הלם מוחלט מהתוכן שגורם להם לא לדעת אפילו איך להתחיל להגיב עליו.\n*   **דחייה קהילתית ועוינות מרומזת:** הנימה הכללית בתגובות היא מזלזלת וקרה. הקהילה לא מקבלת את דברי הכותב ובמקום לפתח דיון, היא בוחרת להגיב בקיצור ובלעג כלפי הגישה שהופגנה בפוסט."
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט, דעות ותחושות קהילתיות שעלו מהתגובות:\n\n*   **הסבר להפקדות פתאומיות:** אחת הסברות המרכזיות היא שהפקדות כאלו אינן מקריות, אלא נובעות מביקורות תקופתיות (Audits) שמתבצעות בקרנות הפנסיה (401k). אם נמצאה טעות בחישובים קודמים, המעסיק מחויב להפקיד את ההפרשים כדי להשלים לעובד את המגיע לו (\"Make you whole\").\n*   **זכות המעסיק למשוך כספים בחזרה (Clawback):** קיימת הסכמה כי מבחינה טכנית וחוקית, אם המעסיק קובע שההפקדה בוצעה בטעות, הוא רשאי למשוך את הכספים בחזרה, גם אם הם מופיעים בחשבון כ\"צבורים\" (Vested). עם זאת, אם מדובר בתיקון רשמי של ביקורת, הסיכוי למשיכה חוזרת נמוך.\n*   **הסיכון שבהעברת כספים מיידית (Rollover):** יש המזהירים מפני ניסיון \"להבריח\" את הכסף לחשבון אחר. אם יתברר שהכסף הופקד בטעות והעובד כבר העביר אותו, המעסיק עלול להנפיק טופס מס (1099-R) שיחייב את העובד בתשלום מס וקנסות על הכספים הללו, כך שהעברה מהירה אינה פותרת את הבעיה המשפטית.\n*   **נקיטת גישה פרואקטיבית מול משאבי אנוש:** המלצה בולטת היא ליצור קשר ישיר עם מחלקת השכר או משאבי האנוש של המעסיק הקודם. עדיף לברר את חוקיות הכסף מראש מאשר להמתין שהחברה תגלה את הטעות בעתיד ותדרוש אותו בחזרה בזמן לא נוח.\n*   **יצירת תיעוד והגנה משפטית:** הוצעה אסטרטגיה שבה אם המעסיק אינו מגיב לפניות, יש לשלוח מכתב רשום המצהיר כי בהיעדר תגובה או פעולה מצדם עד סוף השנה, העובד יניח שהכספים הופקדו כדין ויוכל לפעול בהם כרצונו. זה משמש כהגנה במקרה של טענות עתידיות.\n*   **תחושת \"פיצוי מוסרי\" על יחס גרוע:** עולה תחושה קהילתית (או לפחות אישית של הכותב) לפיה אם המעסיק נהג בחוסר הגינות כלכלית (אי-מתן העלאות, קיצוץ בונוסים), העובד מרגיש \"זכאי מוסרית\" לשמור את הכסף כפיצוי על היחס בעבר, גם אם הדבר אינו עולה בקנה אחד עם הנהלים היבשים.\n*   **הסיכון שבהשקעת כספים שבמחלוקת:** קיים חשש שאם העובד ישקיע את הכספים הללו והשוק ירד, הוא עלול למצוא את עצמו חייב למעסיק את מלוא הסכום המקורי, למרות שהערך הנוכחי בחשבון נמוך יותר, מה שיוצר סיכון פיננסי מיותר."
+  },
+  {
+    "id": "1uqwp3d",
+    "title": "Have you sold your TerraCycle shares? How?",
+    "url": "https://www.reddit.com/r/investing/comments/1uqwp3d/have_you_sold_your_terracycle_shares_how/",
+    "author": "crafty_traveler",
+    "score": 2,
+    "selftext": "Hi, has anyone been able to easily sell their TerraCycle shares?\n\nI’m going in circles between Computershare and Start Engine and TerraCycle and no one can give me a clear cut answer on how to do this.\n\nOur live has positively changed and we have a baby on the way. We are looking to sell our shares as part of our financial simplifying. We’ve had the shares for years and are looking to sell them but I’m not finding it easy. We knew it was private since the beginning but I’m stumped on how to sell. \n\nHave you sold your shares? If so, how? \n\nPlease and thank you!",
+    "subreddit": "investing",
+    "created_utc": 1783525981,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Did you list your shares for sale at StartEngine? There is usually not much liquidity in these types of investments. If your ask is too high - you may just have to lower it. \n\nThere are also other private equity market places that you can list your shares like EquityZen, Hiive, Secfi, ForgeGlobal. etc. \n\nYou may be able to list your shares for sale on those marketplaces as well. \n\nOr you have to find a buyer yourself. Private shares are generally very illiquid and the only time that I've sold private shares in the past - I had to find the buyer myself. ",
+        "score": 4,
+        "author": "greytoc"
+      },
+      {
+        "body": "That is the nature of all Reg A/A+/CF offerings and private shares. ",
+        "score": 2,
+        "author": "greytoc"
+      },
+      {
+        "body": "I will be listing them. A TerraCycle human called me today and provided additional details. Thanks!",
+        "score": 2,
+        "author": "crafty_traveler"
+      }
+    ],
+    "summary_he": "הכותב מנסה למכור את מניותיו הפרטיות בחברת TerraCycle, אך נתקל בקשיים ובחוסר מענה ברור מצד הגורמים המעורבים (כמו Computershare ו-Start Engine). הוא פונה לקהילה בבקשת עזרה כדי להבין האם וכיצד ניתן לבצע את המכירה בפועל, במטרה לפשט את מצבו הכלכלי לקראת התרחבות המשפחה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit בנוגע למכירת מניות פרטיות (במקרה זה של חברת TerraCycle שהושקעו דרך StartEngine), הכולל שש נקודות מרכזיות המבטאות את דעות הקהילה והמידע שעלה:\n\n* **נזילות נמוכה כמאפיין מובנה:** הקהילה מדגישה כי השקעות במניות פרטיות, ובמיוחד כאלו שבוצעו תחת רגולציית Reg A/CF, הן מטבען חסרות נזילות (Illiquid). זהו מצב סטנדרטי וצפוי לסוג זה של השקעות.\n* **אסטרטגיית תמחור בשוק משני:** במידה והמניות רשומות למכירה ב-StartEngine אך אין קונים, המשתמשים מציעים לבחון את המחיר המבוקש. ייתכן שהמחיר גבוה מדי ביחס לביקוש, ושיש להוריד אותו כדי למשוך קונים פוטנציאליים.\n* **חיפוש בזירות מסחר חלופיות:** מלבד פלטפורמת המקור, הדיון מעלה את האפשרות להשתמש בזירות מסחר משניות (Secondary Markets) המתמחות במניות פרטיות, כגון EquityZen, Hiive, Secfi ו-ForgeGlobal, כדי להגדיל את החשיפה לקונים.\n* **איתור קונים באופן עצמאי:** על פי ניסיון העבר של חברי הקהילה, לעיתים הדרך היחידה למכור מניות בחברות פרטיות היא לא להסתמך על מערכות אוטומטיות אלא למצוא קונה באופן ידני ועצמאי.\n* **מעורבות ותמיכה מצד החברה:** מהדיון עולה כי החברה עצמה (TerraCycle) עשויה להיות מעורבת בתהליך. אחד המגיבים ציין כי נציג מהחברה יצר עמו קשר טלפוני כדי לספק פרטים נוספים והנחיות לגבי תהליך המכירה.\n* **הבנת מגבלות הרגולציה:** קיים קונצנזוס בין המגיבים כי הקושי במכירה אינו מקרי, אלא נובע מהאופי המשפטי והרגולטורי של מניות פרטיות והצעות Reg A, וכי על המשקיעים להכיר במגבלות אלו מראש."
+  },
+  {
+    "id": "1urw8en",
+    "title": "Trillion-dollar memory company SK Hynix is listing in the U.S. tomorrow. How will its targeted $28B raise compare to other mega IPOs?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1urw8en/trilliondollar_memory_company_sk_hynix_is_listing/",
+    "author": "TrendSpider",
+    "score": 2,
+    "selftext": "If SKHY succeeds in raising $29 billion tomorrow, it will supersede Alibaba as the largest foreign company to ever list in the U.S. The South Korean memory giant is seeking to capitalize on the unprecedented memory shortage, which has driven each of its primary competitors Micron and Samsung above $1 trillion valuations as well today.\n\nChart made on TrendSpider Sidekick.",
+    "subreddit": "StockMarket",
+    "created_utc": 1783616575,
+    "thumbnail": "https://preview.redd.it/xg8skgs6h8ch1.png?width=140&height=93&auto=webp&s=c19b92242a7f1d7081de5ada35ee9e0fccec8d29",
+    "top_comments": [],
+    "summary_he": "ענקית השבבים הדרום-קוריאנית SK Hynix צפויה להנפיק מחר בארה\"ב במטרה לגייס כ-29 מיליארד דולר, סכום שיהפוך אותה להנפקה הזרה הגדולה ביותר בהיסטוריה האמריקאית (מעל עליבאבא). המהלך נועד לנצל את הביקוש האדיר והמחסור העולמי ברכיבי זיכרון, שהזניקו לאחרונה גם את שוויין של מתחרותיה, סמסונג ומיקרון, אל מעל לרף הטריליון דולר.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1urxyt0",
+    "title": "Kevin Warsh buried an unusual, unhedged promise in his first Fed minutes—and one economist says it's the strongest signal in the document",
+    "url": "https://www.reddit.com/r/finance/comments/1urxyt0/kevin_warsh_buried_an_unusual_unhedged_promise_in/",
+    "author": "fortune",
+    "score": 1,
+    "selftext": "\n\nBuried in the Federal Reserve’s June policy statement—the shortest of Kevin Warsh’s young tenure as chair—is a single sentence with no qualifiers, no hedges, and, according to at least one longtime Fed watcher, more signal than anything in the minutes released Wednesday: “The Committee will deliver price stability.”  \n  \n“There’s not a qualifying statement after that,” said Laura Ullrich, a former senior regional economist at the Federal Reserve Bank of Richmond who now directs economic research at the Indeed Hiring Lab. “It doesn’t say the committee will deliver price stability while also blah blah blah blah. It doesn’t have a qualifying statement.”\n\nDespite its brevity, she called it “a very short, but very strong statement.” It read as an unhedged commitment that doesn’t usually appear in a document over which every word is fought over by the 19 people who make up the Federal Open Market Committee.\n\nThe minutes confirmed what Warsh had already previewed at his post-meeting press conference: a “family fight” over where rates go next. The FOMC voted unanimously on June 17 to hold the benchmark rate at 3.5%-3.75% for a fourth straight meeting—the first unanimous vote in some time. A handful of participants saw a case for raising rates immediately but agreed to go along with the hold.   \n  \nThe rest of the committee split over where things should stand by December: many said the appropriate rate was at or slightly below the current range, while the minutes noted “many other participants” argued it needed to be higher. The minutes noted only that future action “would depend on incoming information.”\n\nRead more \\[paywall removed for Redditors\\]: [https://fortune.com/2026/07/08/laura-ullrich-fed-reserve-kevin-warsh-minutes-fomc/?utm\\_source=reddit/](https://fortune.com/2026/07/08/laura-ullrich-fed-reserve-kevin-warsh-minutes-fomc/?utm_source=reddit/)",
+    "subreddit": "finance",
+    "created_utc": 1783620166,
+    "thumbnail": "https://external-preview.redd.it/rpOkJBM-vaTNhEpiXTtCbrkvNN45oufQkk2PDrNKX9c.jpeg?width=140&height=70&auto=webp&s=028758fce94012c5453df519c3c8970b412f74a5",
+    "top_comments": [
+      {
+        "body": "That statement is all about optics to the market but not in the way people think.\n\nWe will deliver price stability = the Fed will remain independent and won't cave to political pressure \n\nIt's not about inflation per se. It's about communicating to the market the Fed will continue to be run by adults and policy will rest on the bedrock of our mandates",
+        "score": 1,
+        "author": "Dense_Ostrich_6077"
+      },
+      {
+        "body": "The question is will he do that by increasing rates and killing consumers between high rates and high profits? He won’t, so inflation continues.",
+        "score": 1,
+        "author": "powerxaker"
+      },
+      {
+        "body": "Eh price stability is simply low inflation. Don't overthink",
+        "score": 1,
+        "author": "Business_Raisin_541"
+      }
+    ],
+    "summary_he": "בפרוטוקול הפדרל ריזרב האחרון תחת היו\"ר קווין וורש, הופיעה הצהרה חריגה וחד-משמעית המבטיחה \"יציבות מחירים\" ללא כל תנאים או סייגים. כלכלנים רואים בניסוח הישיר איתות עוצמתי למחויבות הבנק המרכזי, זאת למרות חילוקי דעות פנימיים בוועדה בנוגע למסלול הריבית העתידי.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג שש נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **הצהרה ככלי של יחסי ציבור (אופטיקה):** אחת הדעות המרכזיות היא שהצהרת הפדרל ריזרב (הפד) אינה עוסקת רק בנתונים כלכליים יבשים, אלא נועדה בראש ובראשונה להשפיע על האופן שבו השוק תופס את המציאות ואת המדיניות העתידית.\n*   **הפגנת עצמאות פוליטית:** המושג \"יציבות מחירים\" מתפרש על ידי חלק מהגולשים כקוד לכך שהפד מתכוון לשמור על עצמאותו ולא להיכנע ללחצים פוליטיים מצד הממשל או גורמים אחרים.\n*   **שידור מסר של מנהיגות אחראית:** ישנה תפיסה שההצהרה נועדה להרגיע את השווקים ולהראות שהמוסד מנוהל על ידי \"מבוגרים אחראים\" שדבקים במנדט המקצועי שלהם, ללא קשר לרעשי רקע.\n*   **ספקנות לגבי נכונות הפד לפעול:** עולה טענה ביקורתית השואלת האם הפד אכן יעלה את הריבית באופן משמעותי, שכן צעד כזה עלול \"להרוג\" את הצרכנים שנמצאים במלכוד בין ריביות גבוהות לבין רווחים גבוהים של התאגידים.\n*   **תחזית להמשך האינפלציה:** מתוך הספקנות לגבי נכונותו של הפד להעלות ריביות בצורה דרסטית, עולה הסברה שהאינפלציה צפויה להימשך בטווח הקרוב משום שהצעדים הנדרשים לבלימתה לא יינקטו במלואם.\n*   **קריאה לפישוט המושגים (גישת \"אל תסבכו\"):** דעה נגדית גורסת כי אין טעם בניתוח יתר של ההצהרות; לדידה, המונח \"יציבות מחירים\" הוא פשוט הגדרה חלופית לאינפלציה נמוכה, וכל ניסיון למצוא משמעויות נסתרות הוא התפלפלות מיותרת."
   }
 ];
