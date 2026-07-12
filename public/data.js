@@ -1,202 +1,38 @@
 window.dailyTrends = [
   {
-    "id": "1urk1dh",
-    "title": "oil didn't flinch on a hormuz headline and that tells you everything about this market",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1urk1dh/oil_didnt_flinch_on_a_hormuz_headline_and_that/",
-    "author": "Ill-Sea-4603",
-    "score": 229,
-    "selftext": "Tuesday was wild. Trump posts that the Strait of Hormuz stays open, no blockade, claims Iran agreed to nuclear inspections. Iran immediately denies it. Hormuz handles roughly 20% of global oil transit and Brent sat near a 3 month low around $77 instead of spiking. That non reaction is the whole story.\n\nEquities bled out anyway: Nasdaq dropped 2.21%, Hang Seng fell 1.82%, Hang Seng TECH got hit harder at 3.30%. The real weight on growth stocks is the roughly 70% implied probability of a Fed hike and the dollar index breaking above 101. Stronger dollar plus tighter rates is a straightforward headwind for anything priced on future earnings: your NVDA, your BABA, your CATL exposure, doesn't matter the geography.\n\nBeen trimming growth since early June and Tuesday confirmed it. The 2 year yield barely moved on the Hormuz news but DXY pushed past 101, which tells you the bond market agrees the Fed path matters more than Middle East supply risk. I'm not adding back into China or growth here, not while the dollar is ripping. The Fed is the only trade right now.",
+    "id": "1usoyee",
+    "title": "SK Hynix Chairman says AI Demand for Memory Growing Exponentially",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1usoyee/sk_hynix_chairman_says_ai_demand_for_memory/",
+    "author": "meifx",
+    "score": 315,
+    "selftext": "SK Group Chairman says even after capacity growth plans, that customers are saying that level of investment is still not enough. These bullish comments are consistent with what Micron has articulated with the growth of their strategic customer agreements.",
     "subreddit": "StockMarket",
-    "created_utc": 1783585090,
-    "thumbnail": "self",
+    "created_utc": 1783692958,
+    "thumbnail": "https://preview.redd.it/ajquu5sxuech1.jpeg?width=140&height=82&auto=webp&s=6fae87276a54f8f30e96413e5e774d28ca335fdc",
     "top_comments": [
       {
-        "body": "Oil had a less than 1 standard deviation move which tells me the market continues to believes both sides are posturing, with a keen eye on a resolution to the conflict.\n\nEquities didn't flinch either with the Fed minutes even if it thought Warsh was more hawkish.\n\nWhy? Strong earnings in Q1 drove the rally and will continue to defy higher rates and higher oil prices up to $80PB.\n\nThe bleeding in equities was largely driven by profit taking and capital rotation. Strong Q2 earnings will encourage further broadening, rotating capital away from semis/ memory and into industrials, financials and healthcare.\n\nThis is good. Why? The broadening ensures the major indices remains bouyed.",
-        "score": 70,
-        "author": "Plane-Try-6522"
+        "body": "Man selling Oreo said Oreo is good. We should eat Oreo everyday ",
+        "score": 262,
+        "author": "swong0"
       },
       {
-        "body": "The U.S. is bleeding their SPR (strategic petroleum reserves) to keep prices low for the midterm elections, and 32 other members of the IEA are drawing down as well. Currently, the U.S. SPR is at its lowest point since 1984 and the other IEA members have used \\~20% of their reserves.\n\nThe price will likely explode 1. after the midterms and 2. whenever nations decide to replenish their exhausted SPRs.\n\nAnd you can bet your ass that the countries most hurt by the Hormuz crisis - the ones who lack the capacity for oil production, like Japan - will be doubling their strategic reserves.\n\nOil will go rise significantly in 2027-2028 *unless* everyone keeps bleeding their SPRs. In that case, oil goes ballistic when the reserves run dry. ",
-        "score": 68,
-        "author": "chomponthebit"
+        "body": "Breaking news, Chairman for company promotes company. \n\nMore at 11",
+        "score": 174,
+        "author": "A_Credo"
       },
       {
-        "body": "It seems like there's a disconnect between oil and gasoline. There's a glut of oil on the market because drilling and extraction has continued, but there's a lack of gasoline because refineries have been damaged by the various wars and they can't process oil fast enough.\n\nSo as best as I can tell, we could be facing a global supply shock for gasoline, diesel and jet fuel (so prices go up), while also facing demand destruction for oil (where prices go down.)\n\nSuper weird and unpredictable to try and guess what the consequences are going to be.",
-        "score": 29,
-        "author": "truthputer"
+        "body": "The drug dealer says drugs don't do any harm, that's crazy",
+        "score": 103,
+        "author": "WilliamsIch9"
       }
     ],
-    "summary_he": "חוסר התגובה של מחירי הנפט למתיחות במצר הורמוז מעיד כי השוק מתמקד כעת במדיניות הפדרל ריזרב ולא בסיכונים גיאופוליטיים. התחזקות הדולר והציפיות להעלאת ריבית מכבידות על מניות הצמיחה והשווקים הגלובליים, מה שהופך את החלטות הפד לגורם המכריע היחיד עבור המשקיעים כרגע.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות, הכולל 6 נקודות מבט וסנטימנטים מרכזיים בקהילה:\n\n*   **אופטימיות לגבי עמידות השוק:** קיימת הערכה שהשוק לא נבהל מהמתיחות הגיאופוליטית או מהצהרות ה\"פד\" (Federal Reserve), שכן התנודות במחירי הנפט והמניות היו מתונות. המשקיעים מאמינים שהצדדים בעימות בעיקר \"מפגינים שרירים\" וכי הפתרון לסכסוך נראה באופק.\n*   **חוסן בזכות רווחי החברות:** הרווחים החזקים של החברות ברבעון הראשון הם המנוע העיקרי של העליות בשוק המניות. רווחים אלו צפויים להמשיך ולתמוך בשוק גם מול אתגרים כמו ריבית גבוהה ומחירי נפט שיגיעו עד ל-80 דולר לחבית.\n*   **רוטציה בריאה של הון:** הירידות שנראו לאחרונה במניות אינן נתפסות כקריסה, אלא כמימוש רווחים ו\"רוטציה\" של הון. המשקיעים מעבירים כספים מסקטור השבבים והזיכרון לסקטורים מסורתיים יותר כמו תעשייה, פיננסים ובריאות, מה שמבטיח את יציבות המדדים המרכזיים לאורך זמן.\n*   **חשש ממניפולציה פוליטית בעתודות הנפט:** נשמעת ביקורת על כך שארה\"ב ומדינות נוספות (IEA) מרוקנות את עתודות הנפט האסטרטגיות שלהן (SPR) כדי לשמור על מחירים נמוכים באופן מלאכותי לקראת תקופת בחירות. נטען כי עתודות אלו נמצאות בשפל של עשורים.\n*   **תחזית לזינוק חד במחירי האנרגיה בעתיד:** קיימת סברה שמחירי הנפט יזנקו בצורה דרמטית (אולי סביב השנים 2027–2028) ברגע שהמדינות יפסיקו לרוקן את העתודות וייאלצו להתחיל למלא אותן מחדש, במיוחד במדינות חסרות יכולת ייצור עצמית כמו יפן שחוששות ממשברים בנתיבי הובלה (כמו מיצר הורמוז).\n*   **הנתק בין נפט גולמי למוצרי דלק מזוקקים:** קיימת הבחנה מעניינת בין שפע של נפט גולמי בשוק לבין מחסור במוצרים סופיים כמו בנזין וסולר. הפגיעה בבתי זיקוק עקב מלחמות יוצרת מצב פרדוקסלי: מחיר הנפט הגולמי עשוי לרדת בגלל חוסר ביקוש של בתי הזיקוק, בעוד שמחירי הדלק לצרכן יעלו בגלל מחסור ביכולת זיקוק."
-  },
-  {
-    "id": "1urnwbq",
-    "title": "Starbucks Working on AI Tools to Replace Microsoft and IBM Software",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1urnwbq/starbucks_working_on_ai_tools_to_replace/",
-    "author": "Optimal_Image5192",
-    "score": 189,
-    "selftext": "Starbucks is reportedly using AI to build in-house software that could replace some Microsoft inventory and IBM maintenance tools.\n\nSome rollout could happen by end of 2027 if testing works.\n\n$SBUX spends about $400M/year on software and is targeting $2B in cost cuts.\n\nStarbucks has also been working on a POS system that would replace Oracle Simphony. CTO Anand Varadarajan told employees: “There’s clear opportunities to reduce the spend in software.”\n\nThis is a huge signal of enterprise-level adoption for AI imo. If true, I think more companies would see this as a signal to adopt this technology as means of reducing CapEx.",
-    "subreddit": "StockMarket",
-    "created_utc": 1783597534,
-    "thumbnail": "https://preview.redd.it/q2i4z0x6z6ch1.jpeg?width=140&height=104&auto=webp&s=4d7b026dad10b4da0647662652a75639a004a805",
-    "top_comments": [
-      {
-        "body": "I wonder how much they will spend before realizing they have to cancel the project, and then how much more they will spend before they actually do.",
-        "score": 25,
-        "author": "SidewaysFancyPrance"
-      },
-      {
-        "body": "This is hilarious.\n\nThe same Starbucks that built an AI system for inventory management that failed hard, because it ordered non-existent items, the wrong items for a store and was altogether terrible and now... they are doing it again?\n\nI think their leadership has mainlined some AI dust.",
-        "score": 12,
-        "author": "Strange-Scarcity"
-      },
-      {
-        "body": "a coffee company building its own enterprise software to replace microsoft and oracle is either the most ambitious AI play of the decade or a very expensive lesson about to happen",
-        "score": 7,
-        "author": "Jaded-Profession217"
-      }
-    ],
-    "summary_he": "סטארבקס מפתחת תוכנות מבוססות בינה מלאכותית באופן עצמאי במטרה להחליף מערכות של חברות ענק כמו מיקרוסופט, IBM ואורקל ולחסוך בעלויות התוכנה הגבוהות שלה. החברה שואפת לקצץ כ-2 מיליארד דולר בהוצאותיה עד סוף 2027, מהלך שנתפס כאות משמעותי לאימוץ נרחב של AI במגזר העסקי לצורך התייעלות כלכלית וצמצום תלות בספקים חיצוניים.",
+    "summary_he": "יו\"ר קבוצת SK Hynix מדווח כי הביקוש לשבבי זיכרון עבור בינה מלאכותית צומח בקצב מעריכי, וכי לקוחות החברה טוענים שתוכניות ההשקעה הנוכחיות עדיין אינן מספיקות כדי לענות על צרכיהם. דברים אלו עולים בקנה אחד עם הצהרותיה האופטימיות של חברת מיקרון (Micron) בנוגע לצמיחה המשמעותית בתחום.",
     "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit לגבי המהלך הטכנולוגי של סטארבקס, המבוסס על תגובות הגולשים:\n\n* **ספקנות לגבי כדאיות כלכלית:** קיים חשש כבד שהחברה תבזבז סכומי עתק על הפרויקט לפני שתבין שהוא נידון לכישלון, וסכומים נוספים לפני שתאזור אומץ לבטלו בפועל.\n* **ביקורת על הנהגת החברה:** הגולשים טוענים כי נראה שהנהלת סטארבקס \"מסוממת\" מההייפ סביב בינה מלאכותית (AI), מה שמוביל אותה לקבל החלטות מנותקות מהמציאות.\n* **הסתמכות על כישלונות עבר:** הקהילה מזכירה שסטארבקס כבר ניסתה להטמיע מערכת AI לניהול מלאי שנכשלה באופן חרוץ, כשהזמינה מוצרים לא קיימים או שגויים עבור הסניפים.\n* **לעג על יומרנות טכנולוגית:** גולשים לועגים לניסיון של חברת קפה לפתח בעצמה תוכנה ארגונית (Enterprise Software) שאמורה להחליף ענקיות טכנולוגיה מנוסות כמו מיקרוסופט ואורקל.\n* **תפיסת הפרויקט כהימור מסוכן:** המהלך נתפס או כצעד ה-AI השאפתני ביותר של העשור, או (בסבירות גבוהה יותר לפי המגיבים) כ\"שיעור יקר מאוד\" שהחברה עומדת ללמוד על בשרה.\n* **תחושת אבסורד מהחזרה על טעויות:** עולה תחושה של גיחוך מכך שהחברה בוחרת להשקיע שוב בתחום שבו כבר נכשלה בעבר, מבלי שהפיקה לקחים מהביצועים הגרועים של מערכות קודמות."
-  },
-  {
-    "id": "1urxyt0",
-    "title": "Kevin Warsh buried an unusual, unhedged promise in his first Fed minutes—and one economist says it's the strongest signal in the document",
-    "url": "https://www.reddit.com/r/finance/comments/1urxyt0/kevin_warsh_buried_an_unusual_unhedged_promise_in/",
-    "author": "fortune",
-    "score": 1,
-    "selftext": "\n\nBuried in the Federal Reserve’s June policy statement—the shortest of Kevin Warsh’s young tenure as chair—is a single sentence with no qualifiers, no hedges, and, according to at least one longtime Fed watcher, more signal than anything in the minutes released Wednesday: “The Committee will deliver price stability.”  \n  \n“There’s not a qualifying statement after that,” said Laura Ullrich, a former senior regional economist at the Federal Reserve Bank of Richmond who now directs economic research at the Indeed Hiring Lab. “It doesn’t say the committee will deliver price stability while also blah blah blah blah. It doesn’t have a qualifying statement.”\n\nDespite its brevity, she called it “a very short, but very strong statement.” It read as an unhedged commitment that doesn’t usually appear in a document over which every word is fought over by the 19 people who make up the Federal Open Market Committee.\n\nThe minutes confirmed what Warsh had already previewed at his post-meeting press conference: a “family fight” over where rates go next. The FOMC voted unanimously on June 17 to hold the benchmark rate at 3.5%-3.75% for a fourth straight meeting—the first unanimous vote in some time. A handful of participants saw a case for raising rates immediately but agreed to go along with the hold.   \n  \nThe rest of the committee split over where things should stand by December: many said the appropriate rate was at or slightly below the current range, while the minutes noted “many other participants” argued it needed to be higher. The minutes noted only that future action “would depend on incoming information.”\n\nRead more \\[paywall removed for Redditors\\]: [https://fortune.com/2026/07/08/laura-ullrich-fed-reserve-kevin-warsh-minutes-fomc/?utm\\_source=reddit/](https://fortune.com/2026/07/08/laura-ullrich-fed-reserve-kevin-warsh-minutes-fomc/?utm_source=reddit/)",
-    "subreddit": "finance",
-    "created_utc": 1783620166,
-    "thumbnail": "https://external-preview.redd.it/rpOkJBM-vaTNhEpiXTtCbrkvNN45oufQkk2PDrNKX9c.jpeg?width=140&height=70&auto=webp&s=028758fce94012c5453df519c3c8970b412f74a5",
-    "top_comments": [
-      {
-        "body": "That statement is all about optics to the market but not in the way people think.\n\nWe will deliver price stability = the Fed will remain independent and won't cave to political pressure \n\nIt's not about inflation per se. It's about communicating to the market the Fed will continue to be run by adults and policy will rest on the bedrock of our mandates",
-        "score": 1,
-        "author": "Dense_Ostrich_6077"
-      },
-      {
-        "body": "The question is will he do that by increasing rates and killing consumers between high rates and high profits? He won’t, so inflation continues.",
-        "score": 1,
-        "author": "powerxaker"
-      },
-      {
-        "body": "Eh price stability is simply low inflation. Don't overthink",
-        "score": 1,
-        "author": "Business_Raisin_541"
-      }
-    ],
-    "summary_he": "בפרוטוקול הפדרל ריזרב האחרון תחת היו\"ר קווין וורש, הופיעה הצהרה חריגה וחד-משמעית המבטיחה \"יציבות מחירים\" ללא כל תנאים או סייגים. כלכלנים רואים בניסוח הישיר איתות עוצמתי למחויבות הבנק המרכזי, זאת למרות חילוקי דעות פנימיים בוועדה בנוגע למסלול הריבית העתידי.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג שש נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **הצהרה ככלי של יחסי ציבור (אופטיקה):** אחת הדעות המרכזיות היא שהצהרת הפדרל ריזרב (הפד) אינה עוסקת רק בנתונים כלכליים יבשים, אלא נועדה בראש ובראשונה להשפיע על האופן שבו השוק תופס את המציאות ואת המדיניות העתידית.\n*   **הפגנת עצמאות פוליטית:** המושג \"יציבות מחירים\" מתפרש על ידי חלק מהגולשים כקוד לכך שהפד מתכוון לשמור על עצמאותו ולא להיכנע ללחצים פוליטיים מצד הממשל או גורמים אחרים.\n*   **שידור מסר של מנהיגות אחראית:** ישנה תפיסה שההצהרה נועדה להרגיע את השווקים ולהראות שהמוסד מנוהל על ידי \"מבוגרים אחראים\" שדבקים במנדט המקצועי שלהם, ללא קשר לרעשי רקע.\n*   **ספקנות לגבי נכונות הפד לפעול:** עולה טענה ביקורתית השואלת האם הפד אכן יעלה את הריבית באופן משמעותי, שכן צעד כזה עלול \"להרוג\" את הצרכנים שנמצאים במלכוד בין ריביות גבוהות לבין רווחים גבוהים של התאגידים.\n*   **תחזית להמשך האינפלציה:** מתוך הספקנות לגבי נכונותו של הפד להעלות ריביות בצורה דרסטית, עולה הסברה שהאינפלציה צפויה להימשך בטווח הקרוב משום שהצעדים הנדרשים לבלימתה לא יינקטו במלואם.\n*   **קריאה לפישוט המושגים (גישת \"אל תסבכו\"):** דעה נגדית גורסת כי אין טעם בניתוח יתר של ההצהרות; לדידה, המונח \"יציבות מחירים\" הוא פשוט הגדרה חלופית לאינפלציה נמוכה, וכל ניסיון למצוא משמעויות נסתרות הוא התפלפלות מיותרת.",
-    "dateString": "2026-07-10",
+    "comments_summary_he": "להלן סיכום הדיון בשרשור המבוסס על התגובות המוצגות:\n\n*   **חוסר אמון בסיסי במקור המידע:** הקהילה מביעה ספקנות רבה כלפי הצהרותיו של אדם שיש לו אינטרס כלכלי ישיר במוצר עליו הוא מדבר.\n*   **לעג ל\"חדשות\" מובנות מאליהן:** המגיבים משתמשים בסרקזם כדי להדגיש שמדובר במידע צפוי לחלוטין (כמו יו\"ר חברה שמקדם את החברה שלו), וכי אין כאן שום \"חדשות מרעישות\".\n*   **שימוש במטאפורות מעולם הצריכה:** אחד המגיבים משווה את הסיטואציה למוכר עוגיות \"אוראו\" שממליץ לאכול אותן כל יום, כדי להמחיש עד כמה ההמלצה מוטה וחסרת ערך אובייקטיבי.\n*   **השוואה חריפה לעולם הפשע/סמים:** קיימת הקבלה בין הדובר לבין סוחר סמים שטוען שמרכולתו אינה מזיקה, מה שמרמז על כך שהדובר לא רק מוטה, אלא אולי אף מסתיר סכנות ממשיות.\n*   **ביקורת על יחסי ציבור במסווה של תוכן:** הקהילה מזהה כי ההצהרה היא למעשה מהלך שיווקי גרידא ולא ניסיון כנו להעביר מידע מועיל לציבור.\n*   **ציניות כלפי סגנון הדיווח:** השימוש בביטוי \"More at 11\" (עוד בחדשות הלילה) מלגלג על הנטייה להציג אינטרסים עסקיים רגילים כסיפורים חדשותיים חשובים.",
+    "dateString": "2026-07-12",
     "savedAt": {
-      "_seconds": 1783677008,
-      "_nanoseconds": 618000000
-    }
-  },
-  {
-    "id": "1urw8en",
-    "title": "Trillion-dollar memory company SK Hynix is listing in the U.S. tomorrow. How will its targeted $28B raise compare to other mega IPOs?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1urw8en/trilliondollar_memory_company_sk_hynix_is_listing/",
-    "author": "TrendSpider",
-    "score": 2,
-    "selftext": "If SKHY succeeds in raising $29 billion tomorrow, it will supersede Alibaba as the largest foreign company to ever list in the U.S. The South Korean memory giant is seeking to capitalize on the unprecedented memory shortage, which has driven each of its primary competitors Micron and Samsung above $1 trillion valuations as well today.\n\nChart made on TrendSpider Sidekick.",
-    "subreddit": "StockMarket",
-    "created_utc": 1783616575,
-    "thumbnail": "https://preview.redd.it/xg8skgs6h8ch1.png?width=140&height=93&auto=webp&s=c19b92242a7f1d7081de5ada35ee9e0fccec8d29",
-    "top_comments": [],
-    "summary_he": "ענקית השבבים הדרום-קוריאנית SK Hynix צפויה להנפיק מחר בארה\"ב במטרה לגייס כ-29 מיליארד דולר, סכום שיהפוך אותה להנפקה הזרה הגדולה ביותר בהיסטוריה האמריקאית (מעל עליבאבא). המהלך נועד לנצל את הביקוש האדיר והמחסור העולמי ברכיבי זיכרון, שהזניקו לאחרונה גם את שוויין של מתחרותיה, סמסונג ומיקרון, אל מעל לרף הטריליון דולר.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-07-10",
-    "savedAt": {
-      "_seconds": 1783676995,
-      "_nanoseconds": 3000000
-    }
-  },
-  {
-    "id": "1urnayl",
-    "title": "Bluechip vs SP500 which wins",
-    "url": "https://www.reddit.com/r/investing/comments/1urnayl/bluechip_vs_sp500_which_wins/",
-    "author": "DarkHarley1",
-    "score": 65,
-    "selftext": "Hi guys, so i had a chat with a friend of mine about stocks etc who is an ex banker.\n\nI explained i wanted go put a large sum and now continue to invest in to the SP500. He agreed that its a good idea and should invest in to it heavily as well as Nasdaq, he said split the two 50-50. \n\nHe also said that i should put a portion of investments in to bluechip companies such as Amazon, Microsoft, Tesla, spaceX (as believes the future is now space exploration) just to name a few as the returns on them can be significantly higher.\n\nNow given he’s a retired banker he obviously knows what he’s talking about, but before i invest i just wanted to get everyone else’s opinion on what they think? Im looking to hold for 20-30 years but equally, given I’m 35 if i could make some good profits in 10 years on part of the investments Id obviously be really happy. \n\nThanks ",
-    "subreddit": "investing",
-    "created_utc": 1783595840,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "הכותב מתייעץ לגבי אסטרטגיית השקעה שקיבל מחבר בנקאי לשעבר, הממליץ על שילוב בין מדדי ה-S&P 500 והנאסד\"ק לבין רכישת מניות \"בלו צ'יפ\" ספציפיות (כמו אמזון ומיקרוסופט) להגדלת התשואה. מטרתו היא השקעה לטווח ארוך של 20–30 שנה, והוא מבקש את חוות דעת הקהילה האם כדאי להתמקד במניות בודדות או להסתפק במדדים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1us1bqn",
-    "title": "What are some of the ways people diversify from the S&P and gold?",
-    "url": "https://www.reddit.com/r/investing/comments/1us1bqn/what_are_some_of_the_ways_people_diversify_from/",
-    "author": "mrlebusciut",
-    "score": 4,
-    "selftext": "I’m currently mulling over how to best diversify and I’m not 100% sure which way to go.\n\nI’m about 25%/30% snp. I’m in both the regular snp and the equal weight snp.\n\nGot some gold and a commodities ETF - that one covers gold, copper, other commodities etc.\n\nWhat are my options for further diversification? \n\nEmerging markets?  \nThe Dow?\n\nI’ve looked into government debt but every bond/gilt etf I see seems to be plummeting.\n\nAll thoughts welcome.",
-    "subreddit": "investing",
-    "created_utc": 1783627295,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "The big ones as far as equity would be international (developed), emerging, and US small cap.",
-        "score": 4,
-        "author": "AntiqueProfessor5134"
-      },
-      {
-        "body": "Here’s a super broad overview of the different “classes” you can be in -\n\nUS Large\nUS Mid \nUS Small \nInternational\nInternational Large\nInternational Small\nInternational Mid\nEmerging\nCommodities \n\nFixed Income\n\nThen there’s sectors - \nHealthcare\nTech\nSpace\nUtilities\nEnergy\nSoftware\nErc. \nEtc. \nEtc. \n\nYou seem to be in commodities and US Large. The rest you aren’t exposed to. ",
-        "score": 4,
-        "author": "Swred1100"
-      },
-      {
-        "body": "“International” (non-U.S) investable markets .. many do market weight (37%) down to 20%. \n\nValue though, as one proponent warned, is exciting as selling garbage on a street corner (aka it’ll be awhile before making money). \n\nREITs (special real estate stocks that have to give out 90% net as dividends) .. least correlated with the stock market with different drivers.  Work during inflation but the usually following interest rate hikes kill them.  Also more stock indexes already include them so may be doubling up a bit. \n\nLong treasury bonds are usually the least correlated, though they’ve been pressured due to fiscal and inflationary news.  Still it’s a chance to “insure” a stock portfolio against a recessionary crash for very little money .. vs absolutely suck in inflation.  Most go with intermediate or even short bonds for a less wild ride, but they get less “insurance”.   ",
-        "score": 3,
-        "author": "IronyElSupremo"
-      }
-    ],
-    "summary_he": "כותב הפוסט מבקש הצעות לגיוון תיק ההשקעות שלו, המורכב כיום בעיקר ממדד ה-S&P 500, זהב וקרן סל של סחורות. הוא שוקל אפשרויות כמו שווקים מתעוררים ומדד הדאו ג'ונס, אך מביע הסתייגות מהשקעה באג\"ח ממשלתיות בשל ירידות הערך האחרונות בתחום.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מהתגובות בשרשור, המוצג ב-7 נקודות מרכזיות:\n\n*   **אפיקי ההשקעה המרכזיים לגיוון מנייתי:** כדי להשיג פיזור רחב בתיק המניות (Equity), מומלץ להתמקד בשלושה תחומים עיקריים: שווקים בינלאומיים מפותחים, שווקים מתעוררים (Emerging Markets), ומניות של חברות אמריקאיות בעלות שווי שוק קטן (US Small Cap).\n*   **חלוקה היררכית של נכסים:** ניתן לסווג את עולם ההשקעות לקטגוריות רחבות על בסיס גיאוגרפי (ארה\"ב מול שאר העולם) ועל בסיס גודל החברות (גדולות, בינוניות וקטנות). בנוסף, ישנם נכסים שאינם מניות כמו סחורות (Commodities) וניירות ערך עם הכנסה קבועה (Fixed Income).\n*   **חשיפה סקטוריאלית:** מעבר לחלוקה לפי גודל שוק, ניתן לגוון את התיק באמצעות השקעה במגזרים ספציפיים (Sectors) כגון טכנולוגיה, בריאות, אנרגיה, תשתיות, תוכנה ואף תעשיית החלל.\n*   **הקצאה לשווקים בינלאומיים:** מקובל בקרב משקיעים להקצות נתח משמעותי לשווקים מחוץ לארה\"ב. טווח ההקצאה הנפוץ נע בין 20% ל-37% מכלל התיק, בהתאם למשקל השוק העולמי.\n*   **השקעות \"ערך\" (Value) וסבלנות:** השקעה במניות ערך נתפסת כפחות \"סקסית\" או מרגשת. אחד המגיבים ציין כי מדובר באסטרטגיה שעלולה לקחת זמן רב עד שתניב רווחים משמעותיים, מה שדורש מהמשקיע אורך רוח.\n*   **מאפייני קרנות הנדל\"ן (REITs):** קרנות אלו נחשבות לאפיק ייחודי כיוון שהן מחויבות לחלק 90% מהרווחים כדיבידנדים. הן מתואמות פחות עם שוק המניות הכללי ומהוות הגנה מסוימת בזמן אינפלציה, אך הן רגישות מאוד להעלאות ריבית ועלולות ליצור כפל השקעה אם הן כבר כלולות במדדי מניות רחבים.\n*   **אג\"ח ממשלתיות כ\"ביטוח\" לתיק:** אג\"ח ממשלתיות לטווח ארוך (Long Treasury Bonds) נחשבות לנכס בעל המתאם הנמוך ביותר למניות, ולכן הן משמשות כמעין ביטוח מפני קריסה של השוק בזמן מיתון. עם זאת, המחיר של \"ביטוח\" זה הוא פגיעות גבוהה בתקופות של אינפלציה ושינויים פיסקאליים."
-  },
-  {
-    "id": "1urkqdu",
-    "title": "Starting to invest as a 16 year old",
-    "url": "https://www.reddit.com/r/investing/comments/1urkqdu/starting_to_invest_as_a_16_year_old/",
-    "author": "Trixikk_",
-    "score": 1,
-    "selftext": "So, my dad recently helped me open an investment account, and I’d love to hear your advice and experiences. What helped you the most when you started investing, or what do you wish you’d done differently?  \nI have about $550 saved up that I’m planning to invest.  \nThanks for your replies!",
-    "subreddit": "investing",
-    "created_utc": 1783587565,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "please read sub resources always before making posts in a sub.\n\nit answers beginner questions like this.\n\npeople put time and energy into it.  ",
-        "score": 1,
-        "author": "szakee"
-      },
-      {
-        "body": "Yeah go to a library and check out what section is the investing section and read books that only interest you—you can ignore boring ones.\n\nLearn the difference between retirement accounts and traditional brokerages so you can have cash to disperse before you are 55 years old ",
-        "score": 1,
-        "author": "DarkKnight2619"
-      },
-      {
-        "body": "As a 16 yr old, this largely depends on your future plans, salary of your parents, and theirs and your net worth. \n\nIf they're already wealthy then it doesn't really matter either way. But if not and salary lower and you might qualify for FAFSA, then take that into consideration and do 529 or ESA instead.\n\nOtherwise for now:\n1. Keep it simple at first (ETFs or Mutual Funds): VOO or other low fee. What institution, Schwab, Fidelity, etc?\n2. If you have a job, do some Roth IRA, but at 16 this can wait you might need the money sooner.\n3. Watch your emotions, don't try to chase the hype, gamble, or make stupid decisions. Behavior is so important. Don't overspend. Check out Dave Ramsey's podcasts.\n4. Long-term wealth generation is so important, so actually right now work towards preparing for education or training for your career, do something where you can get a job. ",
-        "score": 1,
-        "author": "AlexVT8"
-      }
-    ],
-    "summary_he": "כותב הפוסט הוא בן 16 שפתח לאחרונה חשבון השקעות בסיוע אביו, ומתכנן להשקיע סכום התחלתי של 550 דולר. הוא פנה לקהילה כדי לקבל עצות, תובנות ולקחים מניסיונם של אחרים שיעזרו לו להתחיל את דרכו בעולם ההשקעות בצורה נבונה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט ועצות מרכזיות:\n\n*   **חשיבות השימוש במשאבי הקהילה:** נקודה מרכזית שהועלתה היא הצורך של מצטרפים חדשים לקרוא את המדריכים והמשאבים הקיימים בפורום (Subreddit) לפני פרסום שאלות. המדריכים הללו נכתבו כדי לענות על שאלות בסיסיות של מתחילים והושקעו בהם זמן ואנרגיה רבים מצד חברי הקהילה.\n*   **למידה עצמית מבוססת עניין:** מומלץ לגשת לספרייה ולבחור ספרי השקעות שמעוררים עניין אישי בלבד. הגישה כאן היא שאין טעם להכריח קריאה של תכנים משעממים, אלא להתמקד במה שמושך את הקורא כדי לבנות בסיס ידע יציב.\n*   **הבנה בין נזילות לחיסכון ארוך טווח:** קיימת הדגשה על הצורך ללמוד את ההבדלים בין חשבונות פרישה (הסגורים לשנים רבות) לבין חשבונות השקעה רגילים (Brokerage). הבנה זו קריטית כדי להבטיח זמינות של מזומנים לשימוש גם לפני גיל הפרישה.\n*   **שיקולי סיוע כלכלי ולימודים (בהקשר האמריקאי):** עבור צעירים (בגיל 16), ההחלטה היכן להשקיע צריכה להתחשב במצב הכלכלי של ההורים. אם ההכנסה אינה גבוהה, יש לשקול חיסכון בחשבונות ייעודיים ללימודים (כמו 529) כדי לא לפגוע בזכאות לסיוע כלכלי ממשלתי (FAFSA) בעתיד.\n*   **אסטרטגיית השקעה פשוטה ושמרנית:** הקהילה ממליצה למתחילים להיצמד לפשטות: השקעה בקרנות סל (ETFs) או קרנות נאמנות עם עמלות נמוכות (למשל כאלו העוקבות אחרי מדד ה-S&P 500 כמו VOO), תוך שימוש במוסדות פיננסיים מוכרים ויציבים.\n*   **משמעת פסיכולוגית והשקעה ב\"הון אנושי\":** מעבר למספרים, הדיון מדגיש את חשיבות השליטה ברגשות – הימנעות מרדיפה אחרי טרנדים (Hype), הימורים או בזבזנות. העצה החשובה ביותר לצעירים היא להתמקד כרגע בהכשרה מקצועית ובלימודים שיאפשרו להם קריירה רווחית, שכן זהו המנוע העיקרי ליצירת עושר בטווח הרחוק.",
-    "dateString": "2026-07-09",
-    "savedAt": {
-      "_seconds": 1783590776,
-      "_nanoseconds": 542000000
+      "_seconds": 1783838936,
+      "_nanoseconds": 585000000
     }
   },
   {
@@ -228,166 +64,390 @@ window.dailyTrends = [
     ],
     "summary_he": "מגזר הרחפנים והאוטומציה התעשייתית חווה ירידות חדות לאחרונה, אך הכותב מדגיש כי היסודות העסקיים נותרו חזקים והפוטנציאל לטווח הארוך לא השתנה. הוא מעריך שמדובר בתנודתיות זמנית של השוק ומציע לנצל את המחירים הנמוכים כדי להתחיל להשקיע במגזר באופן הדרגתי (DCA).",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit בנושא עתיד ענף הכטב\"מים (כלי טיס בלתי מאוישים), המציג שש נקודות מבט וסנטימנטים מרכזיים שעלו מהתגובות:\n\n*   **סימני שאלה לגבי האסטרטגיה ארוכת הטווח:** קיימת תהייה בקרב הקהילה לגבי היעד הסופי של פיתוח הכטב\"מים בארה\"ב – האם המטרה היא ייצור המוני של כלים זולים ומתכלים, או שמא הפיתוח מכוון לכלים גדולים ומורכבים יותר, אולי אפילו כאלו המיועדים להטסת בני אדם.\n*   **אימוץ מודל ה\"שאהד\" (ייצור המוני וזול):** עולה השאלה האם ארה\"ב צריכה להתמקד ב\"שיבוט\" המודל של הכטב\"מים האיראניים – כלומר, מעבר לייצור תעשייתי זול ומהיר של כמויות אדירות, במקום להתמקד בטכנולוגיות יקרות ומורכבות.\n*   **דאגה מהתמקדות בלעדית בתחום הצבאי:** משתמשים הביעו חשש מכך שבארה\"ב הכטב\"מים נתפסים כמעט אך ורק ככלי מלחמה. זאת בניגוד למדינות אחרות שבהן הטכנולוגיה כבר מוטמעת בחיי היומיום האזרחיים.\n*   **פער בחדשנות אזרחית מול סין:** קיימת תחושת פיגור אל מול סין, שבה נעשה שימוש נרחב בכטב\"מים למטרות בידור, חקלאות ומשלוחים. הקהילה תוהה מדוע השוק האמריקאי טרם הצליח לפרוץ לתחומים אלו למרות שהוכח שהם ישימים במקומות אחרים.\n*   **החשש שחוזים ממשלתיים \"חונקים\" את השוק החופשי:** עלתה סברה כי המימון הפדרלי המסיבי ותעשיית החוזים הביטחוניים גורמים לחברות להזניח את השוק הציבורי. המיקוד בביטחון עלול לעכב חדשנות שיכולה הייתה להועיל לציבור הרחב.\n*   **ציניות כלפי היקפי התקציב הממשלתי:** סכומי העתק שמושקעים בתחום (כמו תקציב של 50 מיליארד דולר שהוזכר) מתקבלים בגיחוך ובספקנות. הסנטימנט הוא שהמספרים האסטרונומיים הללו מעידים על סדרי עדיפויות מעוותים או על תעשייה שניזונה מתקציבי ענק ללא קשר ליעילות הטכנולוגית."
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit בנושא עתיד ענף הכטב\"מים (כלי טיס בלתי מאוישים), המציג שש נקודות מבט וסנטימנטים מרכזיים שעלו מהתגובות:\n\n*   **סימני שאלה לגבי האסטרטגיה ארוכת הטווח:** קיימת תהייה בקרב הקהילה לגבי היעד הסופי של פיתוח הכטב\"מים בארה\"ב – האם המטרה היא ייצור המוני של כלים זולים ומתכלים, או שמא הפיתוח מכוון לכלים גדולים ומורכבים יותר, אולי אפילו כאלו המיועדים להטסת בני אדם.\n*   **אימוץ מודל ה\"שאהד\" (ייצור המוני וזול):** עולה השאלה האם ארה\"ב צריכה להתמקד ב\"שיבוט\" המודל של הכטב\"מים האיראניים – כלומר, מעבר לייצור תעשייתי זול ומהיר של כמויות אדירות, במקום להתמקד בטכנולוגיות יקרות ומורכבות.\n*   **דאגה מהתמקדות בלעדית בתחום הצבאי:** משתמשים הביעו חשש מכך שבארה\"ב הכטב\"מים נתפסים כמעט אך ורק ככלי מלחמה. זאת בניגוד למדינות אחרות שבהן הטכנולוגיה כבר מוטמעת בחיי היומיום האזרחיים.\n*   **פער בחדשנות אזרחית מול סין:** קיימת תחושת פיגור אל מול סין, שבה נעשה שימוש נרחב בכטב\"מים למטרות בידור, חקלאות ומשלוחים. הקהילה תוהה מדוע השוק האמריקאי טרם הצליח לפרוץ לתחומים אלו למרות שהוכח שהם ישימים במקומות אחרים.\n*   **החשש שחוזים ממשלתיים \"חונקים\" את השוק החופשי:** עלתה סברה כי המימון הפדרלי המסיבי ותעשיית החוזים הביטחוניים גורמים לחברות להזניח את השוק הציבורי. המיקוד בביטחון עלול לעכב חדשנות שיכולה הייתה להועיל לציבור הרחב.\n*   **ציניות כלפי היקפי התקציב הממשלתי:** סכומי העתק שמושקעים בתחום (כמו תקציב של 50 מיליארד דולר שהוזכר) מתקבלים בגיחוך ובספקנות. הסנטימנט הוא שהמספרים האסטרונומיים הללו מעידים על סדרי עדיפויות מעוותים או על תעשייה שניזונה מתקציבי ענק ללא קשר ליעילות הטכנולוגית.",
+    "dateString": "2026-07-11",
+    "savedAt": {
+      "_seconds": 1783757203,
+      "_nanoseconds": 282000000
+    }
   },
   {
-    "id": "1urpkpn",
-    "title": "Due Diligence for Aura Consolidated Group’s IPO",
-    "url": "https://www.reddit.com/r/investing/comments/1urpkpn/due_diligence_for_aura_consolidated_groups_ipo/",
-    "author": "Repulsive-Stress8121",
-    "score": 2,
-    "selftext": "I used the DDScore because I wanted to see Aura, the company thats marketing heavily in YouTube for their service to remove your data from Data Brokers. I have been very suspicious about the company - many companies that sell heavily with YouTube sponsored content have turned out to be scams. I do not think Aura is a scam but it does make me wonder if the initial investors are seeking IPO just to get their investment out with profits. Here I wrote an update on the report : \n\n\n\nIf you have watched any YouTube content within the past year, its been impossible to avoid Aura’s pitch for their personal data removal service from Data Brokers. DDScore gave Aura a due diligence score of 51 which places it below median among same stage companies\n\n\n\nAura is acquiring ASX-listed Qoria through an Australian scheme of arrangement, with Aura CDIs expected to begin ASX trading under ticker AXQ in July 2026, creating a combined digital safety platform across identity protection, family safety and student online safety.\n\n\n\nn 2025 and 2026 Aura has had one of the largest content sponsorship marketing campaigns to date on YouTube, US$181.757m in 2025 alone. As a result, Aura struggles with deep unprofitability. Their plan is to cut 30million from their marketing spent by implementing various AI agents to perform various internal jobs. It’s unproven whether they can sustain their growth thats been heavily tied to consistent brand promotion through the YouTubes biggest content creators.\n\n\n\nAura’s strategy to sell BtoB clients as employee benefit program is interesting and their strategic plan is possible to execute in theory but there’s no evidence yet whether the plan will work out or whether Aura will run into unexpected challenges.\n\n\n\n*DDScore sees Aura’s valuation as reset rather than cheap: the implied \\~US$1.09bn pre-money is far below the US$2.5bn 2021 peak, but still demands strong ARR growth, successful cost cuts, and clean execution through breach, FTC and Qoria integration risk.*\n\n  \n[FULL REPORT](https://app.ddscore.ai/shared-reports/report/2026/07/06/8735b616-f438-4acf-aa1a-c09dca15ec55)\n\nThe due diligence score of 51 is not very strong for a company conducting an IPO, you can find all the risks and challenges from, all 12 different business dimensions on the full report.",
+    "id": "1usinfv",
+    "title": "How do you all study stocks, ETFs, etc. to know if they're good investments?",
+    "url": "https://www.reddit.com/r/investing/comments/1usinfv/how_do_you_all_study_stocks_etfs_etc_to_know_if/",
+    "author": "Amomn",
+    "score": 54,
+    "selftext": "I'm new to the world of investing and I'm finishing putting together my emergency fund.\n\nMy next step will be to start investing in stocks, ETFs etc., but I still have trouble analyzing whether an investment is actually good or bad.\n\nWhat metrics, indicators, or criteria do you use to evaluate stocks, ETFs RETs before investing?\n\nIs there any material you'd recommend for someone who's just starting out?\n\nI really want to learn how to do my own analysis instead of just following \"YouTubers'\" recommendations.",
     "subreddit": "investing",
-    "created_utc": 1783601950,
+    "created_utc": 1783675650,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Find great companies, then buy them very cheap ",
+        "score": 2,
+        "author": "Disastrous_Rent_6500"
+      },
+      {
+        "body": "Agree 100%  \nThere is a ton of info. \n\nNot all of it is necessary. At some point you don’t pee into the wind.",
+        "score": 2,
+        "author": "horesebeblind"
+      },
+      {
+        "body": "Its only silly when you cherry pick examples.\n\nAny moron could have looked 5 years ago and said \"wow Microsoft makes a lot of money. I am going to buy Microsoft stock\"\n\nAnd in 5 years you would be half of what the S&P 500 is in that time frame.\n\nAnyone can sound smart when they pull specific examples with hindsight but if you picked incorrectly on which of your seemingly incredibly safe bet megacorps you invested into under the same premise as what you use in your example one of them beats it badly and one loses badly.\n\nAnd I'd be willing to bet at the start of that time frame most people would've told you MSFT is a way better stock to buy at that time than Google.\n\nSame goes for Amazon in that same time frame. Less than half the return of the S&P 500. Same with Netflix, back when all the talk was about FAANG. Netflix obviously isn't the same as these others but they were viewed as a market staple stock not long ago.\n\nIt always seems just peachy when you pick the example that works. If you used the same logic and didn't happen to pick the one that works you left a lot of money on the table.",
+        "score": 2,
+        "author": "Burgerburgerfred"
+      }
+    ],
+    "summary_he": "כותב הפוסט הוא משקיע מתחיל המעוניין ללמוד כיצד לנתח מניות ותעודות סל באופן עצמאי ומעמיק. הוא מבקש המלצות למדדים פיננסיים, קריטריונים להערכה וחומרי לימוד שיסייעו לו לקבל החלטות השקעה מושכלות. מטרתו היא לבסס את בחירותיו על ניתוח נתונים אישי במקום להסתמך על המלצות של \"יוטיוברים\" ומשפיענים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מבט וסנטימנטים מרכזיים שעלו:\n\n* **אסטרטגיית ערך בסיסית:** העיקרון המנחה המרכזי שהוצג הוא פשוט וקלאסי – יש לאתר חברות מצוינות ואיכותיות, ולהמתין לרגע שבו ניתן לרכוש את המניות שלהן במחיר נמוך וזול משמעותית משוויין האמיתי.\n* **סינון עודף מידע:** קיימת הסכמה בקהילה שישנו עודף של נתונים ומידע בשוק ההון. הגישה המוצעת היא שלא כל המידע הכרחי לקבלת החלטות, וחשוב לדעת מתי להפסיק לנתח נתונים מיותרים כדי לא \"להשתין נגד הרוח\".\n* **אזהרה מפני \"הטיית החוכמה בדיעבד\":** המגיבים מזהירים כי קל מאוד להישמע חכם כשמסתכלים על העבר. בחירת מניות שנראות היום כהצלחה ודאית (כמו מיקרוסופט) נראית פשוטה רק בדיעבד, אך בזמן אמת ההחלטה מורכבת הרבה יותר.\n* **הסיכון שבבחירת מניות בודדות מול המדד (S&P 500):** הועלתה טענה כי גם השקעה בחברות ענק שנחשבות \"בטוחות\" (כמו אמזון, גוגל או נטפליקס) עלולה להוביל לתשואת חסר משמעותית לעומת השקעה פשוטה במדד ה-S&P 500 לאורך תקופות מסוימות.\n* **ביקורת על \"בחירה סלקטיבית\" (Cherry Picking):** הדיון מדגיש כי קל להציג דוגמאות להצלחות כדי להצדיק שיטת השקעה, אך אם משתמשים באותו היגיון ובוחרים במניה הלא נכונה מתוך קבוצת ה-FAANG, עלולים להשאיר הרבה מאוד כסף על הרצפה.\n* **חוסר הוודאות לגבי \"הימורים בטוחים\":** המגיבים מציינים כי חברות שנחשבו לעמודי התווך של השוק (כמו נטפליקס בעבר) יכולות לאבד את מעמדן או להציג ביצועים פחותים, מה שמוכיח שאין באמת \"הימור בטוח\" לחלוטין בשוק המניות.",
+    "dateString": "2026-07-12",
+    "savedAt": {
+      "_seconds": 1783838950,
+      "_nanoseconds": 873000000
+    }
+  },
+  {
+    "id": "1uso0yz",
+    "title": "Screener gave me 187 companies and I just closed the laptop. now what",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1uso0yz/screener_gave_me_187_companies_and_i_just_closed/",
+    "author": "Wise-Option-2683",
+    "score": 51,
+    "selftext": "Saturday morning I finally sat down to do this properly. Set up a screen with what I thought were strict filters, PE under 20, revenue growing, debt not crazy, market cap over 2 billion. Felt very smart for about ten seconds until it spat out 187 companies.\n\n  \nI scrolled the list for maybe twenty minutes, recognized Ford and a couple of banks, and ended up closing the laptop and watching the game instead. The one time I actually pushed through, I just bought one of the two names I already knew from the list, which kind of defeats the whole point of screening in the first place.\n\n  \nI've got maybe five hours a week for this stuff and there is no way I'm researching 187 companies. Honestly the giant list made me less likely to do anything than when I had no ideas at all. What do you guys actually do to get from the screener dump to a handful of names worth real time?",
+    "subreddit": "StockMarket",
+    "created_utc": 1783690827,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Your phrasing suggests you don’t want to do deep dives or don’t enjoy it, so ETFs obviously. \n\nOther advice is to further pick a sector. I really only care about tech, space, and related areas. I don’t have knowledge/patience to go through energy or biotech to find what discriminates some companies from the others\n. And don’t care much for consumer sectors. But \nI’ll happily look through basic financials of 10s of companies in a weekend sitting. \n\nOr don’t try to be so smart. There’s curated lists on here with what others think are the next thing. Take those 10-20 and see for yourself. ",
+        "score": 70,
+        "author": "MrUsername0"
+      },
+      {
+        "body": "i spent 5 mins and realised you need to put in more energy to beat the market lol",
+        "score": 26,
+        "author": "Sea_Local2557"
+      },
+      {
+        "body": "Have a thesis that isn't just medium sized growing company with good fundamentals, or group the screened companies into sectors and pick winners from your favorites",
+        "score": 13,
+        "author": "Snip3"
+      }
+    ],
+    "summary_he": "כותב הפוסט משתף בתחושת עומס לאחר ששימוש במסנן מניות (Screener) הניב 187 חברות, תוצאה שהובילה אותו לוותר על המחקר בשל חוסר זמן וקושי בסינון נוסף. הוא מציין כי הרשימה הארוכה גרמה לו להיצמד רק לשמות מוכרים, ובכך החטיאה את מטרת הסריקה מלכתחילה. כעת הוא מבקש עצות מהקהילה כיצד לצמצם את רשימת התוצאות למספר קטן של חברות איכותיות שבאמת כדאי להשקיע זמן במחקרן.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המובילות, המציג 6 נקודות מבט וגישות שונות שעלו בקהילה:\n\n*   **העדפת קרנות סל (ETFs) על פני מניות בודדות:** אם המשקיע אינו נהנה מביצוע מחקר מעמיק או שאין לו סבלנות לניתוח דוחות, הבחירה הנכונה והברורה ביותר היא השקעה במדדים רחבים (ETFs) ולא ניסיון לבחור מניות ספציפיות.\n*   **התמקדות במגזרים מוכרים (Circle of Competence):** מומלץ להשקיע רק בתחומים שהמשקיע מבין בהם או מגלה בהם עניין אישי (למשל טכנולוגיה או חלל). אין טעם לנסות לנתח מגזרים מורכבים כמו ביוטכנולוגיה או אנרגיה אם אין למשקיע את הידע או הסבלנות להבין מה מבדיל חברה אחת לאחרת באותם תחומים.\n*   **הכאת השוק דורשת מאמץ משמעותי:** קיימת הסכמה שבדיקה שטחית וקצרה אינה מספיקה. כדי להשיג תשואה גבוהה יותר מתשואת השוק, יש להשקיע אנרגיה וזמן רב; מי שמקדיש לכך דקות ספורות בלבד יבין מהר מאוד שזה לא מספיק.\n*   **מינוף חוכמת ההמונים כנקודת פתיחה:** במקום לנסות \"להמציא את הגלגל\", ניתן להיעזר ברשימות של חברות פוטנציאליות שגובשו על ידי הקהילה (\"The next big thing\"). לאחר מכן, יש לבחון באופן עצמאי קבוצה מצומצמת של 10-20 חברות מתוך אותן רשימות.\n*   **ניתוח פונדמנטלי בסיסי ככלי נגיש:** גם ללא ידע מקצועי נרחב, משקיע יכול לעבור על נתונים פיננסיים בסיסיים של עשרות חברות בזמן קצר (כמו סוף שבוע) אם יש לו את העניין והמוטיבציה לכך.\n*   **נחיצותה של תזה השקעתית:** לא מספיק לחפש חברות בגודל בינוני עם נתונים טובים. משקיע צריך לגבש תזה ממשית – כלומר רעיון או תפיסה ברורה לגבי הסיבה לצמיחת החברה – או לחלופין לקבץ חברות לפי מגזרים ולבחור את ה\"מנצחות\" מתוך התחומים המועדפים עליו.",
+    "dateString": "2026-07-12",
+    "savedAt": {
+      "_seconds": 1783838967,
+      "_nanoseconds": 785000000
+    }
+  },
+  {
+    "id": "1uski3y",
+    "title": "Are semiconductor shares still a good investment, or too much growth is already priced in?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1uski3y/are_semiconductor_shares_still_a_good_investment/",
+    "author": "mahend72",
+    "score": 23,
+    "selftext": "I am looking at semiconductor stocks because almost every big technology trend now depends on chips. AI data centres need GPUs, memory, networking chips and also equipment companies to manufacture everything. Because of this, I am watching names like **NVDA, AMD, AVGO, TSM, MU, AMAT, ASML and LRCX**.\n\nMy confusion is that the long-term demand looks very strong, but many semiconductor shares already increased a lot. Expectations are also very high now. Even a company giving good results can fall if guidance is not strong enough.\n\nI also feel semiconductor sector is not one single trade. Nvidia and AMD depend more on AI computing, Micron on memory cycle, TSM on manufacturing demand, while AMAT, ASML and LRCX depend on chip companies continuing to spend on new factories and equipment.  \nSo I am interested to know how other investors are looking at this sector. Which semiconductor company has the best risk and reward from current price? Are you buying now, waiting for a correction, or holding through volatility?\n\nFor me, the biggest risk is high valuation and AI spending slowing down. But the biggest positive is that global demand for computing is probably not going away anytime soon.",
+    "subreddit": "StockMarket",
+    "created_utc": 1783681606,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "All priced in. The past. The future. Everything that was and ever will be. Right now and for all eternity. It's all priced in. ",
+        "score": 8,
+        "author": "Chimpantea"
+      },
+      {
+        "body": "A few reasons. 1. I enjoy stock picking 2. I can set my own weights (eg NVDIA/TSM too heavy in SMH) 3. I can pick up on momentum stocks like MU earlier than an ETF. 4. Some stocks are at a discount while others are at an all time high",
+        "score": 6,
+        "author": "PMmeuroneweirdtrick"
+      },
+      {
+        "body": "Raymond James has a price target of $800 on SpaceX. \n\nUsed to be, solid financials dictated stock moves … but nowadays, unsubstantiated predictions are enough … seems like a pyramid pump and dump scheme",
+        "score": 5,
+        "author": "vulcan_on_earth"
+      }
+    ],
+    "summary_he": "הנה סיכום של הפוסט:\n\nהפוסט בוחן האם מניות השבבים הן עדיין השקעה אטרקטיבית או שהצמיחה העתידית כבר מגולמת במחירן הגבוה (\"Priced in\"). הכותב מתלבט בין הביקוש ארוך הטווח לבינה מלאכותית ומחשוב לבין הסיכונים שבהערכות שווי מופרזות וציפיות שוק גבוהות מדי. לסיכום, הוא מבקש את דעתם של משקיעים אחרים לגבי תזמון הקנייה והיחס בין סיכון לסיכוי במגזר המגוון הזה.",
+    "category_he": "כללי",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, הכולל 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **הכול כבר \"מגולם במחיר\" (Priced In):** קיימת גישה פטליסטית או צינית הגורסת כי כל המידע האפשרי – מהעבר, מהווה ומהתחזיות לעתיד – כבר בא לידי ביטוי במחירי המניות הנוכחיים, ולכן אין טעם לנסות \"להכות את השוק\".\n*   **העדפת בחירת מניות אישית (Stock Picking):** משקיעים מסוימים מעדיפים לבחור מניות באופן עצמאי לא רק בשל הפוטנציאל לרווח, אלא גם בשל ההנאה והסיפוק שהם שואבים מתהליך הניתוח והבחירה.\n*   **שליטה במשקלי התיק:** עולה הצורך בניהול עצמאי של משקלי המניות בתיק כדי להימנע מחשיפת יתר לחברות ענק (כמו Nvidia או TSM), שלעיתים תופסות נתח גדול מדי בתוך קרנות סל (ETFs) מגזריות.\n*   **זיהוי מוקדם של מומנטום:** יתרון מרכזי שצוין בבחירה עצמאית של מניות הוא היכולת לזהות מניות עם \"מומנטום\" חיובי (כמו MU) ולהיכנס אליהן בשלב מוקדם יותר מאשר קרנות סל המוגבלות על ידי מנגנוני עדכון תקופתיים.\n*   **ניצול פערי תמחור:** קיימת אסטרטגיה של חיפוש מניות הנסחרות ב\"הנחה\" בזמן שחלקים אחרים בשוק נמצאים בשיא כל הזמנים, מה שמאפשר למשקיע לבנות תיק מאוזן יותר מבחינת ערך.\n*   **שחיקת חשיבות הנתונים הפננסיים:** קיימת ביקורת על כך שהשוק המודרני מונע מתחזיות לא מבוססות ומ\"הייפ\" סביב יעדי מחיר דמיוניים, במקום להתבסס על נתונים פיננסיים מוצקים כפי שהיה בעבר.\n*   **חשש ממניפולציות בשוק:** עולה סנטימנט של חוסר אמון, המפרש תחזיות מחיר גבוהות (כמו במקרה של SpaceX) כחלק מתוכניות \"פמפום והשלכה\" (Pump and Dump) או מבני פירמידה שנועדו להטעות משקיעים.",
+    "dateString": "2026-07-12",
+    "savedAt": {
+      "_seconds": 1783842403,
+      "_nanoseconds": 389000000
+    }
+  },
+  {
+    "id": "1usnj2d",
+    "title": "Can anyone point me to a good source on Oil?",
+    "url": "https://www.reddit.com/r/investing/comments/1usnj2d/can_anyone_point_me_to_a_good_source_on_oil/",
+    "author": "ninjagorilla",
+    "score": 12,
+    "selftext": "pre MOU with iran there were reports that several places were approaching a critical level (see comments by Exon CEO, trump among others). Obviously since then there has been SOME transit of the straight but the best data Ive been able to find is that the area was able to get close to about 75% of pre war oil export levels (including pipelines). Obviously a large portion of that transit has been interrupted again, however we havent seen a spike in oil levels commensurate to what we had previously, which doesnt seem to add up. Obviously the market appears to be expecting a resolution to this flare up in the near future. \n\nHas anyone found any good sources on this topic? Ive been struggling to find both up to date and knowledgeable sources who actually go into details on the specifics rather than just generalize. Any help would be appreciated. ",
+    "subreddit": "investing",
+    "created_utc": 1783689641,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Oil futures are pricing in the expectation of a happy ending.  But if that happy ending doesn't arrive and prices were to begin climbing again, the resultant inflationary pressure would cause demand destruction which then also lowers oil prices.  Third, with US midterm elections coming up in November, higher prices at the pump would be devastating to current administration's stranglehold on all branches of government, so I'm bracing for continued price manipulation between now and then, buying the dips, and expecting that at some point the chickens will come home to roost.",
+        "score": 5,
+        "author": "MyBoomstickIsBigger"
+      },
+      {
+        "body": "I like following the r/oil sub.",
+        "score": 4,
+        "author": "bejammin075"
+      },
+      {
+        "body": "not sure if they cover this specifically but my main source is oilprice.com",
+        "score": 3,
+        "author": "Fr0HiKE"
+      }
+    ],
+    "summary_he": "הכותב מחפש מקורות מידע מעמיקים ועדכניים לגבי שוק הנפט ונתוני הייצוא העולמיים, מעבר לדיווחים כלליים בתקשורת. הוא מציין כי למרות שיבושים בנתיבי המעבר באזורי סכסוך, מחירי הנפט לא זינקו כפי שניתן היה לצפות, ותוהה מהן הסיבות הכלכליות המדויקות לכך.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ורעיונות מרכזיים שעלו מתוך התגובות:\n\n* **ציפיות שוק החוזים העתידיים:** בשוק קיים תמחור שמניח \"סוף טוב\" (התייצבות או ירידת מחירים), אך קיימת דאגה שאם התחזית הזו לא תתממש והמחירים יחזרו לעלות, ייווצר לחץ אינפלציוני משמעותי.\n* **מנגנון \"הרס הביקוש\":** על פי אחת הדעות, עליית מחירים נוספת תוביל בהכרח ל\"הרס ביקוש\" (Demand Destruction) – מצב שבו המחירים כה גבוהים עד שהצרכנים מפסיקים לקנות, מה שמוביל בסופו של דבר לירידת מחירים כפויה.\n* **הקשר הפוליטי בארה\"ב:** קיים דגש חזק על ההשפעה של בחירות האמצע בארה\"ב (נובמבר). מחירי דלק גבוהים נתפסים כאיום ישיר על כוחו של הממשל הנוכחי ועל אחיזתו במוסדות השלטון.\n* **חשד למניפולציית מחירים:** עלתה סברה שהמחירים הנוכחיים מושפעים ממניפולציות פוליטיות זמניות שנועדו להחזיק את המחירים נמוכים עד הבחירות, תוך ציפייה שהשלכות האמת (\"The chickens will come home to roost\") יורגשו רק בשלב מאוחר יותר.\n* **אסטרטגיית השקעה בנפט:** חלק מהמשתמשים רואים בירידות המחירים הזמניות הזדמנות קנייה (\"Buying the dips\"), מתוך אמונה שהמגמה ארוכת הטווח או המציאות הכלכלית יובילו לעליות נוספות בעתיד.\n* **המלצות על מקורות מידע:** הקהילה משתפת מקורות חיצוניים מועדפים למעקב אחר תחום האנרגיה, ביניהם תתי-פורומים ייעודיים ברדיט (כמו r/oil) ואתרי חדשות מקצועיים המתמחים בתחום (כמו oilprice.com).",
+    "dateString": "2026-07-12",
+    "savedAt": {
+      "_seconds": 1783842420,
+      "_nanoseconds": 522000000
+    }
+  },
+  {
+    "id": "1uskxjd",
+    "title": "has anyone tried ai audit software that actually works?",
+    "url": "https://www.reddit.com/r/business/comments/1uskxjd/has_anyone_tried_ai_audit_software_that_actually/",
+    "author": "colerncandy",
+    "score": 8,
+    "selftext": "external audit senior at a regional firm. firm leadership announced an ai initiative last month and basically asked us to bring forward tools we think we should pilot. problem is every demo i've sat through in the past year has been either a generic chatgpt wrapper or a tool that only does one small piece of the work. i'd love real takes from people who have actually tried ai audit software in practice. what held up in fieldwork vs what was cool in the demo and useless on a live engagement?",
+    "subreddit": "business",
+    "created_utc": 1783682856,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "this is exactly my experience. every demo looks magic but the minute you try to use it on a real engagement it falls apart",
+        "score": 2,
+        "author": "steezyboyousef"
+      },
+      {
+        "body": "bit of both from what ive read. pwc has audit.aura, kpmg has clara/kaia, but they also pilot external tools. at the regional firm level most people are buying since the r&d budget for building in house isnt there. trullion and auditboard are the names i see most commonly from regional firms doing actual pilots. their case studies might be worth a read",
+        "score": 1,
+        "author": "CarelessShine7447"
+      },
+      {
+        "body": "how are the big 4 handling this internally? are they buying or building?",
+        "score": 1,
+        "author": "sentimental_boy_"
+      }
+    ],
+    "summary_he": "רואה חשבון בכיר מחפש המלצות לכלי בינה מלאכותית (AI) ייעודיים לביקורת, לאחר שהתאכזב מפתרונות שהתגלו כשטחיים או מוגבלים מדי. הוא מעוניין לשמוע מניסיונם של אחרים על תוכנות שבאמת מייעלות את עבודת השטח, ולא רק נראות טוב במצגות שיווקיות.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן ניתוח וסיכום הדיון על פי התגובות שפורסמו, הכולל 6 נקודות מבט ודעות שונות שעלו בקהילה:\n\n*   **הפער בין השיווק למציאות:** קיימת תחושת אכזבה מכך שכלים טכנולוגיים נראים מרשימים מאוד (\"קסומים\") בשלב ההדגמה (Demo), אך בפועל הם נוטים לקרוס או לאכזב כאשר מנסים ליישם אותם על פרויקטים ומשימות בעולם האמיתי.\n*   **פיתוח עצמי בקרב הפירמות הגדולות (Big 4):** פירמות רואי החשבון הגדולות (כמו PwC ו-KPMG) משקיעות בבניית מערכות טכנולוגיות ייעודיות בתוך הבית, כגון מערכות Audit.Aura ו-Clara/Kaia, כדי לנהל את תהליכי הביקורת שלהן.\n*   **אסטרטגיה היברידית של \"בנייה ורכישה\":** למרות הפיתוח הפנימי, הפירמות הגדולות לא מסתמכות רק על עצמן; הן משלבות אסטרטגיה של הרצת פיילוטים על כלים חיצוניים במקביל למערכות שהן מפתחות.\n*   **מגבלות התקציב של פירמות אזוריות:** בניגוד לענקיות הייעוץ, פירמות אזוריות (Regional firms) חסרות את תקציבי המחקר והפיתוח (R&D) הדרושים לבניית תוכנה מאפס, ולכן הן נאלצות להסתמך כמעט לחלוטין על רכישת מוצרים קיימים בשוק.\n*   **זיהוי שחקנים מובילים בשוק:** בקרב פירמות המבצעות פיילוטים לטכנולוגיות חדשות, עולים שמות ספציפיים של כלים פופולריים כמו Trullion ו-AuditBoard כפתרונות המועדפים כיום.\n*   **סקרנות לגבי המודל העסקי העתידי:** בקהילה קיימת אי-ודאות ותהייה לגבי האופן שבו הפירמות הגדולות מתמודדות עם השינויים הטכנולוגיים – האם המגמה העתידית תנטה יותר לכיוון רכישת טכנולוגיה מוכנה או המשך השקעה מאסיבית בבנייה עצמית.",
+    "dateString": "2026-07-12",
+    "savedAt": {
+      "_seconds": 1783842447,
+      "_nanoseconds": 834000000
+    }
+  },
+  {
+    "id": "1usu41x",
+    "title": "US private AI investment is about 23x China's. So why does the research funding trend still nag at me as a long term allocator?",
+    "url": "https://www.reddit.com/r/investing/comments/1usu41x/us_private_ai_investment_is_about_23x_chinas_so/",
+    "author": "Zealousideal-War7154",
+    "score": 5,
+    "selftext": "The Al Jazeera headline from July 7 got me: US budget slashing risks losing global scientific edge to China. My first reaction was to price a tilt toward Chinese research heavy names. Then I argued myself back, because one number really should end this. Stanford's 2026 AI Index puts US private AI investment at $285.9 billion versus China's $12.4 billion, roughly a 23x lead. On dollars deployed, the US is not losing anything. I have to say that plainly so no one else has to.\n\nSo why does the headline still sit wrong?\n\nI keep landing on this: over a ten year horizon, what compounds is the direction and duration of capital at the front of the pipeline, not this year's private investment total, which can reverse in two quarters. Two dated facts point opposite ways. The US put a $100,000 one time fee on new H-1B petitions via presidential proclamation of September 19, 2025, effective September 21, 2025, taxing the exact foreign talent inflow the US science lead has historically run on. The same AI Index shows US inflow of top AI talent already down 89% since 2017, measured by net migration of AI professionals. China went the other direction. On December 26, 2025, it stood up a National Venture Capital Guidance Fund targeting CNY 1 trillion over a 20 year life, with at least 70% aimed at seed and early stage companies. Ten years investing, ten years exiting. The kind of patient public capital meant to seed front of pipeline outcomes.\n\nHere is the falsifiable bet I am stuck with. If the private investment lead is what matters, US research output and the model performance gap should widen back out over the next few years. If talent pipelines and patient early stage capital are what matter, the gap keeps closing despite the 23x spending edge. I honestly do not know which. A trillion yuan spread over 20 years is small next to $285.9 billion in a single year, so this is a bet on composition and duration, not on out spending anyone. What would move me from watching to tilting: two consecutive years of US top talent inflow dropping further while China's seed stage biotech and semiconductor patent filings accelerate, or a US policy reversal on the H-1B fee without a compensating talent pipeline fix. Neither has happened. I am just watching the pipeline argue with the headline.\n\nThe 23x gap is exactly why this stays a small starter position rather than a conviction bet, but when I went to size even that I kept running into the same structural problem. KWEB holds no A shares at all and CQQQ caps A share inclusion at 25%, so neither reaches the domestically listed hard tech and semiconductor names. One of the very few US listed wrappers that reach that sleeve is CNQQ, which runs roughly 58% A share to 42% Hong Kong with CATL at about 6 percent and Cambricon around 2 percent sitting right alongside the usual Hong Kong internet names. It is a tiny fund, launched September 2025 with AUM around $16.5 million, so I am not pretending the liquidity or track record are settled.",
+    "subreddit": "investing",
+    "created_utc": 1783704213,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I’m sure the massive gap in wages and literally everything else in life helps significantly.\n\nIf you have 1000 professional employees in China doing the same job as 1000 professional employees in the US the cost is on a different planet. Before even considering the infrastructure. \n\nA company I once worked for fired an entire small engineering team in the US (less than 10 employees) and flat out said they are putting a new floor on their building in India and staffing it for the same cost of the salary of said US based employees. ",
+        "score": 10,
+        "author": "realribsnotmcfibs"
+      },
+      {
+        "body": "If 23x the investment doesn't produce meaningful gaps then that points to severe structural inefficiencies that should worry everyone.\n\nNot to mention assumptions regarding advantages would have to be seriously re-examined.\n\nI would register the prediction that the gap will continue to shrink, though not monotonically until parity by the end of 2028 despite spending trends.\n\nBut that said its too early to tell as of now.",
+        "score": 8,
+        "author": "LockeNandar"
+      },
+      {
+        "body": "The most economical explanation is that the 23x is bullshit.   There are US tax credits/benefits for 'research' vs other activities.\n\nIt could probably include capital spending on hardware.\n\nThe more correct measure would be number of humans of top rank employed, and there is no way USA is 23x China.   \n\nBTW the H1-Bs are mostly not being used usually for Anthropic level researchers but body shops that do replace US workers.  I would prefer a different system where PhD level excellence in strategic areas gets fast tracked to permanent residency and no employer lock. ",
+        "score": 5,
+        "author": "DrXaos"
+      }
+    ],
+    "summary_he": "למרות שההשקעה הפרטית בבינה מלאכותית בארה\"ב גדולה פי 23 מזו של סין, הפוסט מביע חשש שהיתרון האמריקאי יישחק בטווח הארוך בשל חסמי הגירה לכישרונות מובילים והשקעות ממשלתיות סיניות אסטרטגיות בשלבי מחקר מוקדמים. הכותב בוחן את האפשרות להסיט חלק מהשקעותיו למניות טכנולוגיה סיניות (A-shares) דרך קרנות ייעודיות, כגידור למקרה שצנרת הכישרונות והמחקר תכריע את עוצמת המימון הנוכחית. המשך המעקב יתמקד בנתוני הגירת המומחים ובקצב רישום הפטנטים של סין בתחומי השבבים והביוטכנולוגיה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט ותובנות מרכזיות שעלו בקהילה:\n\n*   **פער עלויות השכר והתפעול:** אחת הטענות המרכזיות היא שפער השכר העצום בין ארה\"ב למדינות כמו סין והודו מעניק למדינות אלו יתרון תחרותי משמעותי. בתקציב שבו מעסיקים צוות הנדסה קטן בארה\"ב, ניתן להעסיק קומות שלמות של עובדים מקצועיים במדינות אחרות, מה שהופך את ההשוואה הכספית היבשה ללא רלוונטית.\n*   **חשד לחוסר יעילות מבני בארה\"ב:** עלתה הטענה שאם השקעה הגדולה פי 23 (מצד ארה\"ב) אינה מייצרת פער טכנולוגי משמעותי בשטח, הדבר מעיד על כשלים מבניים חמורים וחוסר יעילות במערכת האמריקאית, שמבזבזת משאבים מבלי להשיג יתרון יחסי.\n*   **ספקנות לגבי נתוני ההשקעה:** קיים פקפוק בנתון המצביע על השקעה הגדולה פי 23 בארה\"ב. נטען כי ייתכן שמדובר ב\"ניפוח\" של המספרים הנובע מהטבות מס למחקר ופיתוח או מהוצאות הוניות על חומרה, שאינן משקפות בהכרח את איכות או כמות המחקר בפועל.\n*   **תחזית לצמצום הפערים:** ישנה הערכה בקרב הגולשים כי למרות פערי ההשקעה הכספיים, הפער הטכנולוגי ימשיך להצטמצם עד להגעה לשוויון (Parity) בין המעצמות לקראת סוף שנת 2028.\n*   **הון אנושי כמדד האמיתי:** המגיבים טוענים כי המדד הנכון להשוואה אינו דולרים, אלא מספר החוקרים בדרג הבכיר ביותר (Top Rank). בפרמטר זה, ארה\"ב אינה מובילה בפער של פי 23, ולכן התחרות צמודה בהרבה ממה שנראה על הנייר.\n*   **ביקורת על מדיניות ההגירה והוויזות (H1-B):** הועלתה ביקורת על כך ששיטת הוויזות הנוכחית משמשת בעיקר חברות קבלן להחלפת עובדים אמריקאים בכוח אדם זול, במקום למשוך חוקרים ברמה עולמית. הוצע לשנות את המערכת כך שתעניק תושבות קבע מהירה לדוקטורנטים מצטיינים בתחומים אסטרטגיים, ללא תלות במעסיק ספציפי.",
+    "dateString": "2026-07-12",
+    "savedAt": {
+      "_seconds": 1783842465,
+      "_nanoseconds": 869000000
+    }
+  },
+  {
+    "id": "1usucg8",
+    "title": "A unit reportedly valued near $14.7B weeks ago is targeting a $50B IPO. I think the parent had this buried.",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1usucg8/a_unit_reportedly_valued_near_147b_weeks_ago_is/",
+    "author": "Jaded-Profession217",
+    "score": 5,
+    "selftext": "I have held Baidu since early 2023, mostly as a search and cloud bet with some autonomous driving optionality I never really expected to pay off. When the Hong Kong shares jumped 7% late June on reports that Kunlunxin, their AI chip unit, was targeting a dual listing in Hong Kong and on the STAR Market at around $50B, my first reaction was this weird feeling that I'd been holding something I didn't actually understand.\n\nThe reported numbers are what stopped me. A unit that was reportedly pitched around $14.7B just weeks ago, now being marketed at more than triple that. I keep running that gap and wondering whether the market ever gave Baidu any credit for owning a domestic AI silicon story at all. My guess is basically zero. I know I didn't. I treated it like a drag on margins, a capex line item, another one of those strategic bets Chinese tech makes that never gets spun out cleanly.\n\nActually wait, let me back up. Here is the part that kept me up reading last night. The reports say IPO subscribers are being asked to buy Kunlunxin chips worth 3 to 7 times their subscription amount. I think CICC was involved, maybe CITIC too, I can't find the note now. Huatai? I honestly cannot tell if that is a genius demand lock or a massive red flag dressed up as scarcity marketing. If the chip genuinely has product market fit, why staple it to equity? If the equity genuinely has standalone demand, why staple anything? I have seen enough Hong Kong tech IPOs to know that \"strategic cornerstone investors\" can mean anything from real ecosystem alignment to outright stuffing the channel. The range is so wide, 3x to 7x, that it makes me think even the underwriters don't know what actually works to fill the book.\n\nWhat I keep circling back to is how I, and I think most foreign retail investors, actually own Chinese tech. You buy the platforms. The search engine, the ecommerce giant, the delivery app. You get some cloud growth, maybe a fintech license story. You do not get a clean layer of domestic silicon. Cambricon and Hygon trade at valuations that assume a completely different investor base and risk framework. There is no easy way to hold both in the same mental account. So when a platform company suddenly surfaces a chip unit at a $50B mark, it feels like I had the stock in the wrong folder in my head the whole time.\n\nI have no idea if the deal actually prices there. Hong Kong sentiment on Chinese tech shifts weekly. The STAR Market has its own liquidity dynamics that I do not claim to understand. But the mechanics of it interest me more than the headline. A spinoff forces recognition of value that was structurally hidden by the parent's conglomerate discount. The problem is that same discount is why a lot of us were comfortable owning the parent in the first place. It was a way to get Chinese tech exposure without making specific bets on which layer, platform or silicon, actually wins.\n\nIf Kunlunxin walks out the door at anywhere near $50B, I think it reopens the question of what else is buried inside these names. Not just Baidu. The whole stack. How much domestic hardware optionality is sitting inside companies we still think of as internet plays? I do not have an answer. I am not even sure I have the right question. But I know I did not buy Baidu for a 3.4x markup on a chip unit, and now I am trying to figure out if that means I was wrong then or wrong now.",
+    "subreddit": "StockMarket",
+    "created_utc": 1783704703,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I think market never really priced Baidu’s chip business before. If even half this valuation is real, maybe people need to look at Chinese tech companies differently, not just as internet stocks.",
+        "score": 3,
+        "author": "mahend72"
+      },
+      {
+        "body": "The $14.7B to $50B jump in a few weeks is the part I can't get past. Either the earlier number was genuinely anchored wrong, or the IPO number is aspirational pricing and the underwriters are hoping momentum carries it. Both scenarios are possible with Chinese tech right now, and they lead to very different conclusions about whether the valuation is real.\n\n  \nThe chip-staple structure is a yellow flag to me. Asking subscribers to buy 3-7x their IPO allocation in Kunlunxin chips looks like demand manufacturing. Genuine product-market fit doesn't usually need equity-linked procurement incentives to clear inventory. If the chips sell on their own merits, sell the chips. If the equity stands alone, sell the equity. Bundling them suggests neither is doing so cleanly.\n\n  \nThe conglomerate discount point is the most underrated thing here. Western investors have been valuing Baidu as \"Chinese Google minus the growth\" for years. Any hardware optionality got zero credit in the multiple. A spinout does unlock value that was structurally hidden — that part is real. The question is whether $50B is discovery of real value or overcorrection now that people are paying attention.\n\n  \nI've been burned enough on STAR Market listings to wait for actual trading data before forming a strong view on the number.",
+        "score": 1,
+        "author": "terminalguy007"
+      },
+      {
+        "body": "BABA is a large shareholder in CXMT, they are IPOing soon as well. ",
+        "score": 1,
+        "author": "gamjatang111"
+      }
+    ],
+    "summary_he": "הפוסט עוסק בדיווחים על הנפקה מתוכננת של יחידת שבבי ה-AI של באידו (Kunlunxin) לפי שווי של 50 מיליארד דולר, זינוק חד לעומת הערכת שווי קודמת שחושף ערך \"חבוי\" משמעותי בתוך ענקית החיפוש. הכותב מעלה תהיות לגבי תנאי ההנפקה החריגים, הדורשים מהמשקיעים לרכוש גם את שבבי החברה, ומציין כי המקרה מעורר מחשבה על נכסי חומרה נוספים בתוך חברות אינטרנט סיניות שאינם מתומחרים כראוי על ידי השוק.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מהתגובות ב-Reddit בנוגע להנפקת פעילות השבבים של באידו (Kunlunxin):\n\n*   **שינוי בתפיסת השוק כלפי ענקיות הטכנולוגיה הסיניות:** קיים טיעון שהשוק מעולם לא תמחר באמת את עסקי השבבים של באידו. המגיבים מציינים שצריך להפסיק להסתכל על חברות כמו באידו רק כ\"מניות אינטרנט\" ולהתחיל להעריך אותן כחברות טכנולוגיה וחומרה רחבות יותר.\n*   **ספקנות לגבי הזינוק החד בשווי החברה:** המעבר המהיר מהערכת שווי של 14.7 מיליארד דולר ל-50 מיליארד דולר תוך שבועות ספורים מעורר חשד. לא ברור אם מדובר בתיקון של הערכת חסר קודמת או בתמחור \"שאיפתי\" מוגזם של החתמים המנסים לרכוב על המומנטום.\n*   **חשש מביקוש מלאכותי (\"דגל צהוב\"):** מבנה ההנפקה, שבו משקיעים נדרשים לרכוש שבבים פיזיים כדי לקבל הקצאת מניות, נתפס כסימן מחשיד. המגיבים טוענים שאם למוצר יש \"התאמה לשוק\" (Product-Market Fit), אין צורך בתמריצים כאלו כדי למכור את המלאי או את המניות.\n*   **ביטול \"הנחת הקונגלומרט\":** משקיעים מערביים העריכו את באידו במשך שנים כ\"גוגל הסינית פחות הצמיחה\", תוך התעלמות מפוטנציאל החומרה שלה. הפיצול (Spin-out) נתפס כמהלך חיובי שמשחרר ערך שהיה חבוי במבנה התאגידי המורכב של חברת האם.\n*   **זהירות כלפי בורסת ה-STAR הסינית:** לאור ניסיון העבר עם הנפקות בבורסה הטכנולוגית בסין, ישנה המלצה להמתין לנתוני המסחר בפועל לפני שמגבשים דעה מוצקה על השווי, שכן הנפקות אלו יכולות להיות תנודתיות ומטעות.\n*   **מגמה מגזרית רחבה בסין:** הדיון מצביע על כך שלא מדובר במקרה מבודד של באידו. חברות נוספות כמו עליבאבא (BABA), שמושקעת בחברת השבבים CXMT העומדת להנפיק, מראות כי ענקיות הטכנולוגיה הסיניות פועלות באופן אקטיבי להנזלת והצפת ערך מחטיבות השבבים שלהן.",
+    "dateString": "2026-07-12",
+    "savedAt": {
+      "_seconds": 1783842487,
+      "_nanoseconds": 63000000
+    }
+  },
+  {
+    "id": "1usrbc5",
+    "title": "Schwab ETFs vs Schwab Fundamental ETFs",
+    "url": "https://www.reddit.com/r/investing/comments/1usrbc5/schwab_etfs_vs_schwab_fundamental_etfs/",
+    "author": "Top-Impact-5257",
+    "score": 4,
+    "selftext": "I have a lot of overlap right now and am not sure if I should commit to the fundamentals or not. I would like to understand better the difference between these two from someone who knows more than me :) I know the fundamentals are tilted, but not sure much more than that.",
+    "subreddit": "investing",
+    "created_utc": 1783698188,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I mean personally , I am not sure the fundamental funds are worth the expense ratio\n\nIf you are worried about tech heaviness or concentration of market cap weighted funds personally I would simple buy a low cost value fund, SCHV is a large cap value fund with a 0,04% expense ratio\n\n ",
+        "score": 3,
+        "author": "SirGlass"
+      },
+      {
+        "body": "FNDX and SCHX have massive look-through overlap. You end up owning the same companies, but you're paying a 0.25% expense ratio on FNDX compared to 0.03% on SCHX. If you're split 50/50, you're paying a 0.22% premium on half the portfolio just to slightly shift the weights of the same stocks you already own. It's usually cleaner to stick to a low-fee cap-weighted core. If you want a factor tilt, you can use cheaper funds that target those factors directly.",
+        "score": 2,
+        "author": "Jealous_Bookkeeper20"
+      },
+      {
+        "body": "Thank you that is really helpful. Would you say it’s better to pick one approach instead of doing 50% fundamentals and 50% not?",
+        "score": 2,
+        "author": "Top-Impact-5257"
+      }
+    ],
+    "summary_he": "הכותב מבקש להבין את ההבדלים בין קרנות הסל הסטנדרטיות של Schwab לבין קרנות ה-Fundamental שלהן, בשל חפיפה רבה הקיימת כעת בתיק ההשקעות שלו. הוא מעוניין בהסבר מעמיק על אופן פעולתן והטייתן של הקרנות הפונדמנטליות כדי להחליט אם כדאי לו להתמקד בהן כחלופה למדדים רגילים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג שש נקודות מבט ועמדות שונות שעלו מתוך דברי הגולשים:\n\n*   **ספק לגבי כדאיות דמי הניהול:** קיימת הסתייגות לגבי המשתלמות של \"קרנות יסודות\" (Fundamental Funds). נטען כי דמי הניהול הגבוהים שלהן לא תמיד מצדיקים את הערך המוסף שהן מספקות לעומת קרנות מדד פשוטות.\n*   **בעיית החפיפה המשמעותית (Overlap):** הועלה טיעון כי קרנות כמו FNDX ו-SCHX מחזיקות למעשה באותן חברות בשיעור גבוה מאוד. המשקיע משלם דמי ניהול גבוהים פי כמה (0.25% לעומת 0.03%) עבור תיק השקעות שכמעט זהה בהרכבו לקרן זולה יותר.\n*   **פתרון חלופי לריכוזיות יתר:** למי שחושש מריכוזיות גבוהה של חברות טכנולוגיה או מחלוקת משקל לפי שווי שוק, מומלץ לשקול מעבר לקרנות ערך (Value Funds) זולות (כמו SCHV עם דמי ניהול של 0.04%), במקום להשתמש בקרנות מבוססות יסודות יקרות.\n*   **חוסר יעילות בשינוי משקלות המניות:** הגולשים מציינים כי תשלום \"פרמיה\" בדמי הניהול רק כדי לשנות מעט את המשקל הפנימי של מניות שכבר נמצאות בבעלות המשקיע הוא מהלך לא יעיל כלכלית. עדיף לדבוק בליבה של מדד מבוסס שווי שוק בעלות נמוכה.\n*   **אסטרטגיית \"הטיית גורמים\" (Factor Tilt) ממוקדת:** אם משקיע מעוניין בכל זאת בסטייה מהמדד הסטנדרטי (כמו הטיה לכיוון ערך או גודל), מוצע לעשות זאת באמצעות קרנות ייעודיות וזולות יותר שמתמקדות ישירות בגורמים הללו, ולא בקרנות כלליות יקרות.\n*   **התלבטות לגבי פשטות התיק:** עולה שאלה מהותית לגבי ניהול התיק – האם עדיף לבחור בגישה אחת עקבית וברורה (כמו 100% שווי שוק) במקום לפצל את התיק ל-50/50 בין שתי גישות דומות, דבר שעלול לסרבל את התיק ללא צורך.",
+    "dateString": "2026-07-12",
+    "savedAt": {
+      "_seconds": 1783842502,
+      "_nanoseconds": 820000000
+    }
+  },
+  {
+    "id": "1uu92bp",
+    "title": "Need help understanding how the pricing of stocks works",
+    "url": "https://www.reddit.com/r/investing/comments/1uu92bp/need_help_understanding_how_the_pricing_of_stocks/",
+    "author": "kooj80",
+    "score": 1,
+    "selftext": "Okay, so I know that the price of a stock rises when there are more buyers than sellers, and this generally happens over time because the company itself is growing over time. \n\nBut my question, that I can't find a clear answer to, is why does the growth of a company generally correlate to it's stock price growing over time? I could understand this if it meant buyers had a direct claim to the profits of a company since that would connect you to more cash, but you really don't. \n\nOf course there are dividends which will grow as the company grows, but what about companies with no (or very low) dividends? \n\nIt just seems somewhat arbitrary that the value of a stock just goes up over time because the company has grown more valuable. Why would an investor even care about this since it doesn't mean they directly get a share of the profits? \n\nSo theoretically, if investors permanently decided that they would only put money into stagnant companies, then the stock of those companies would go up over time and investors would still make money. At what point would the reality of the business even catch up with the stock price? Since there is no direct correlation between the stock price and the company's finances except in the case of bankruptcy and dividend payment. \n\nI suppose maybe it's similar to the concept of fiat currency? Where the currency only has value because a collective has agreed that it does, and a currency gains value when the collective decides that the currency is more valuable than others (based on a multitude of factors). \n\nIs it the company's who are furthest from bankruptcy who generally see the most gains over time? \n\nJust try to understand how a business's finances actually directly connect to the stock price. ",
+    "subreddit": "investing",
+    "created_utc": 1783842720,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "This is more along the lines of the answer I'm looking for. \n\nSo just via stock buybacks and dividends? That's when the investors will actually see the direct benefit correlation between the business and the stock? ",
+        "score": 1,
+        "author": "kooj80"
+      },
+      {
+        "body": ">The better company is doing, the more people want to have a piece of it too.  \n\nBut why? Just because they know other people will want to buy it too? Fundamentally speaking, why do people care how the company is doing? \n\n>It is sentiment driven game but the fundamentals wins over time.  \n\nBut my question is *why* do the fundamentals win over time? Since the fundamentals aren't directly correlated to the stock price. ",
+        "score": 1,
+        "author": "kooj80"
+      },
+      {
+        "body": "The company is legally obligated to act in the interest of shareholders. Growth companies can keep reinvesting all of their profits into R&D for more growth only as long as shareholders are happy with it. The expectation is that eventually, the company will solidify itself as the market leader in some area and transition from reinvesting into growth to returning money to shareholders through either dividends or stock buybacks, and the current share price reflects the net present value of all those future cash flows. \n\nThe closest example to what you're thinking would be meme stocks like Tesla and SpaceX where the case for those future cash flows is very tenuous, and shareholders are mostly along for the Elon's wild ride (or just exit liquidity). ",
+        "score": 1,
+        "author": "Dissentient"
+      }
+    ],
+    "summary_he": "הכותב מבקש להבין את הקשר הישיר בין צמיחה כלכלית של חברה לבין עליית מחיר המניה שלה, במיוחד במקרים שבהם החברה לא מחלקת דיבידנדים ולמשקיעים אין דרישה ישירה לרווחים. הוא תוהה האם שווי המניה מבוסס על הסכמה קולקטיבית שרירותית, בדומה למטבע פיאט, או שישנו גורם כלכלי ממשי שקושר בין ביצועי העסק למחיר השוק לאורך זמן.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ודעות שונות שעלו מתוך התגובות בנוגע לקשר שבין ביצועי חברה למחיר המניה שלה:\n\n*   **מנגנוני רווח ישירים:** עלתה הסברה כי הדרך המוחשית והישירה ביותר שבה משקיעים נהנים מביצועי החברה היא באמצעות חלוקת דיבידנדים וביצוע רכישה עצמית של מניות (Stock Buybacks), המהווים קשר ישיר בין הצלחת העסק לערך עבור בעל המניה.\n*   **הטלת ספק בערך הפונדמנטלי:** הובעה תהייה מדוע \"יסודות החברה\" (Fundamentals) באמת קובעים את מחיר המניה בטווח הארוך, בהתחשב בכך שהשוק נתפס לעיתים כמשחק המונע מסנטימנט בלבד, שבו אנשים קונים מניות רק כי הם מצפים שאחרים ירצו לקנות אותן אחריהם.\n*   **המחויבות המשפטית של החברה:** צוין כי חברה מחויבת על פי חוק לפעול למען האינטרסים של בעלי המניות שלה, וזהו הבסיס המוסדי שמנחה את התנהלותה הכלכלית.\n*   **מודל חברות הצמיחה:** הוסבר כי חברות צמיחה משקיעות את כל רווחיהן חזרה במחקר ופיתוח (R&D) במקום להחזירם למשקיעים, וזאת מתוך הסכמה שבשתיקה של בעלי המניות השואפים לשליטה בשוק בעתיד.\n*   **חישוב ערך נוכחי של מזומנים עתידיים:** אחת הדעות המרכזיות היא שמחיר המניה הנוכחי אינו מקרי, אלא משקף את ה\"ערך הנוכחי הנקי\" (NPV) של כל תזרימי המזומנים שהחברה צפויה להניב ולהחזיר למשקיעים בעתיד הרחוק.\n*   **תופעת מניות ה\"מם\" (Meme Stocks):** הועלתה ביקורת כלפי מניות מסוימות (כמו טסלה או SpaceX) שבהן הקשר לתזרימי מזומנים עתידיים נתפס כחלש, והמשקיעים בהן פועלים בעיקר מתוך הערצה למנהיג החברה (כמו אילון מאסק) או מתוך רצון לייצר נזילות ליציאה מהשקעה, ולאו דווקא על בסיס כלכלי מוצק."
+  },
+  {
+    "id": "1uu5zso",
+    "title": "I found a leaked price model for SRXH based on the new 20M buyback and the math is actually wild",
+    "url": "https://www.reddit.com/r/investing/comments/1uu5zso/i_found_a_leaked_price_model_for_srxh_based_on/",
+    "author": "PropertyFirm7280",
+    "score": 1,
+    "selftext": "Hey guys I am posting this because I just stumbled across a breakdown analyzing the actual mathematical outcomes for SRXH after the recent 1-for-60 reverse split and the restructuring under Eric Jackson. Most people see a compressed microcap and instantly assume it is going to zero but if you look at the price targets based purely on the hard share count reduction the upside potential here looks completely mispriced by the market.\n\n​I wanted to share this graphic as a quick sanity check because the front-end broker feeds are still completely lagging on the updated float data and this model actually breaks down the realistic outcomes.\n\n​According to the math if they actually execute on the newly authorized 20 million dollar buyback program they have the capacity to swallow up to 10 million shares which represents roughly 50 percent of the entire outstanding float. Because the stock is currently trading so far below its preliminary Net Asset Value of 3.07 dollars management is basically in a position where buying back their own shares instantly hyper-concentrates the remaining equity value.\n\n​Look at the breakdown in the image. Even in a conservative base scenario where they only deploy 10 to 15 million of the buyback below NAV the projected 6 to 12 month range sits between 4 and 7 dollars. If Eric Jackson actually executes the full buyback and brings the share count down toward 10 to 12 million shares the bull target jumps straight into the 7 to 12 dollar range. That means if the NAV grows to 75 or 100 million you are looking at an implied NAV of over 6 dollars per share before even adding any premium valuation multiples.\n\n​The risk side is laid out perfectly too because an authorization is not a completed buyback and they can modify or suspend it at any time plus the preliminary NAV is still unaudited until next month. But seeing the numbers plotted out like this makes the current discount look completely irrational.\n\n​I just wanted to put this on your radar so people can cross-reference it with the July 9th 8-K filings themselves. Go check the math and tell me your honest thoughts. Is there a fundamental trap here or are we looking at a textbook asymmetric setup before the broker apps update their data feeds next month?",
+    "subreddit": "investing",
+    "created_utc": 1783832639,
     "thumbnail": "self",
     "top_comments": [],
-    "summary_he": "להלן סיכום הפוסט בעברית:\n\nחברת Aura Consolidated Group, המוכרת בזכות שירותי הסרת המידע האישי שלה, נערכת להנפקה (IPO) תחת ציון בדיקת נאותות נמוך (51) המעיד על סיכון משמעותי למשקיעים. למרות צמיחה בהכנסות, החברה סובלת מהפסדים כבדים עקב הוצאות עתק על שיווק ביוטיוב, ומתכננת כעת להתייעל באמצעות בינה מלאכותית ומעבר למכירות במודל B2B כדי להוכיח רווחיות.",
+    "summary_he": "הנה סיכום של הפוסט:\n\nהפוסט מנתח מודל תמחור עבור מניית SRXH, המצביע על פוטנציאל לעלייה משמעותית בעקבות תוכנית רכישה עצמית (buyback) של 20 מיליון דולר ואיחוד מניות שבוצע לאחרונה. לפי המודל, רכישת המניות עשויה לצמצם את ההיצע בשוק בכ-50% ולהזניק את מחיר המניה לטווח של 4–12 דולר, שכן היא נסחרת כיום בהנחה משמעותית מתחת לערך הנכסים הנקי שלה (NAV). הכותב טוען כי השוק מתמחר את המניה בחסר באופן לא רציונלי, אך מסייג כי קיימים סיכונים שכן הרכישה העצמית אינה מחייבת והנתונים הפיננסיים טרם בוקרו רשמית.",
     "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-07-12",
+    "savedAt": {
+      "_seconds": 1783842513,
+      "_nanoseconds": 711000000
+    }
   },
   {
-    "id": "1urshbu",
-    "title": "Apple signed a $30B chip deal with Broadcom on the same day when it lost an EU legal fight over App Store compliance",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1urshbu/apple_signed_a_30b_chip_deal_with_broadcom_on_the/",
-    "author": "aperartnft",
-    "score": 2,
-    "selftext": "Apple announced a $30 billion custom chip supply agreement with Broadcom today, calling for more than 15 billion U.S.-made chips, expanding Apple's use of custom silicon and wireless components. Broadcom jumped almost 5% on the news. Apple shares, meanwhile, were basically flat down about 0.3%.\n\nThere were two things that happened on the same day. Apple lost a legal fight over EU App Store rules. The ruling means Apple stays classified as a 'gatekeeper' under EU digital markets law, which keeps it subject to strict platform rules and exposes it to potential fines of up to 10% of global revenue if it doesn't comply. A genuinely bullish domestic supply chain deal happening on the same day when regulatory pressure has increased. Maybe the market weighed in both things and it canceled each other out because the stock didn't move much.\n\nThe Broadcom deal is a real, multi-year commitment, 15 billion chips is a massive volume number, and doing this domestically as per the current trend of US tech giants localizing chip supply chains, partly for reliability, partly due to geopolitics. It also deepens a relationship Apple already has with Broadcom for wireless components, so this looks like an expansion of an existing partnership rather than a brand new one which tends to be lower execution risk.\n\nThe EU ruling is a different kind of story, it's not a one-time event, it's confirmation of an ongoing regulatory relationship that isn't going away. Being formally tagged a 'gatekeeper' means Apple continues operating under real constraints on how it runs the App Store in Europe and the fine exposure is a standing risk that shows up in how analysts think about Apple's European revenue and legal costs going forward.\n\nBoth of these stories roll up into Apple's July 30 earnings date, which is really the next point where the market will actually weigh these against each other with real numbers attached. If Apple's hardware/supply chain execution looks strong and the EU costs stay contained to compliance rather than actual fines, this ends up being a net neutral-to-positive stretch.\n\nDoes a major commitment like the Broadcom deal outweigh a regulatory loss like this or is the EU gatekeeper status the more important long-term watch given how much of Apple's revenue comes from outside the US.",
-    "subreddit": "StockMarket",
-    "created_utc": 1783608582,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Exactly. The market has already priced in both sides of the story. July 30 is when we'll find out which narrative carries more weight.",
-        "score": 2,
-        "author": "Kira1Cloud"
-      },
-      {
-        "body": "Market priced it right — one bullish catalyst, one bearish headwind, stock goes nowhere. The real answer comes July 30 when we see actual numbers on both fronts.",
-        "score": 2,
-        "author": "LarkoVelvet"
-      },
-      {
-        "body": "The Broadcom deal is a solid multi‑year supply bet, but the EU gatekeeper ruling is an ongoing regulatory risk with real fine exposure.   \nGiven Apple’s heavy non‑US revenue, the regulatory overhang probably matters more long‑term, and July 30 earnings will show if this can end up net neutral‑to‑positive.",
-        "score": 2,
-        "author": "TheKaiserAlpha"
-      }
-    ],
-    "summary_he": "אפל חתמה על עסקת ענק בשווי 30 מיליארד דולר עם ברודקום לאספקת שבבים מתוצרת ארה\"ב, צעד שמחזק את שרשרת האספקה והעצמאות הטכנולוגית שלה. במקביל, החברה הפסידה במאבק משפטי באיחוד האירופי שאישר את מעמדה כ\"שומרת סף\", מה שחושף אותה לרגולציה מחמירה ולקנסות פוטנציאליים כבדים. נראה כי השוק תפס את שני האירועים המנוגדים כמאזנים זה את זה, כשהמשקיעים ממתינים לראות כיצד הסיכונים הרגולטוריים ישפיעו על רווחי החברה בטווח הארוך.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, הכולל 6 נקודות מבט ודעות מרכזיות של חברי הקהילה כפי שעלו מהתגובות:\n\n*   **תמחור השוק כבר מגולם:** קיימת הסכמה שהשוק כבר שקלל (\"תמחר\") את שני צידי המטבע – גם את החדשות החיוביות וגם את השליליות – ולכן לא נרשמה תנודה משמעותית במניה.\n*   **ה-30 ביולי כתאריך יעד קריטי:** המשתתפים רואים במועד פרסום הנתונים הפיננסיים (30 ביולי) כרגע האמת שבו יתברר איזה נרטיב כלכלי חזק יותר ויוכל להזיז את המניה.\n*   **איזון בין כוחות מנוגדים:** המניה נמצאת כרגע בסטגנציה (\"לא הולכת לשום מקום\") בשל שיווי משקל מדויק בין זרזים חיוביים (Bullish) לבין קשיים וחסמים (Bearish).\n*   **הסכם ברודקום כעוגן חיובי:** העסקה עם ברודקום נתפסת כהימור אסטרטגי מוצלח המבטיח אספקה רב-שנתית יציבה, מה שמהווה נקודת חוזקה לחברה.\n*   **איום רגולטורי מהאיחוד האירופי:** קיימת דאגה ממשית מהפסיקות של האיחוד האירופי בנוגע לסטטוס ה-\"Gatekeeper\". המשתמשים מציינים כי מדובר בסיכון מתמשך שעלול להוביל לקנסות כבדים.\n*   **החשיבות של הכנסות בינלאומיות:** לאור התלות הגבוהה של אפל בהכנסות מחוץ לארה\"ב, הקהילה סבורה שהסיכונים הרגולטוריים בחו\"ל עשויים להיות בעלי השפעה ארוכת טווח משמעותית יותר מאשר עסקאות אספקה נקודתיות."
-  },
-  {
-    "id": "1utbwna",
-    "title": "Where would the stock market be had the iran war never happened?",
-    "url": "https://www.reddit.com/r/investing/comments/1utbwna/where_would_the_stock_market_be_had_the_iran_war/",
-    "author": "General_Style_4384",
+    "id": "1uu5rnr",
+    "title": "I found a leaked price model for SRXH based on the new 20M buyback and the math is actually wild",
+    "url": "https://www.reddit.com/r/investing/comments/1uu5rnr/i_found_a_leaked_price_model_for_srxh_based_on/",
+    "author": "PropertyFirm7280",
     "score": 1,
-    "selftext": "I’ve been wondering about this lately. If the war with Iran had never happened, where do you think the market would be today?\n\nWould the S&P 500 and Nasdaq be significantly higher, or do you think the impact was relatively small compared to everything else that’s been driving the market, like AI, earnings, interest rates, and the economy?\n\nI’m mainly a long-term investor, so I’m not looking to debate the politics of the conflict. I’m just curious how much of the market’s performance you think was actually affected by it versus how much was driven by other factors.  \nWhat do you all think?",
+    "selftext": "Hey guys I am posting this because I just stumbled across a breakdown analyzing the actual mathematical outcomes for SRXH after the recent 1-for-60 reverse split and the restructuring under Eric Jackson. Most people see a compressed microcap and instantly assume it is going to zero but if you look at the price targets based purely on the hard share count reduction the upside potential here looks completely mispriced by the market.\n\n​I wanted to share this graphic as a quick sanity check because the front-end broker feeds are still completely lagging on the updated float data and this model actually breaks down the realistic outcomes.\n\n​According to the math if they actually execute on the newly authorized 20 million dollar buyback program they have the capacity to swallow up to 10 million shares which represents roughly 50 percent of the entire outstanding float. Because the stock is currently trading so far below its preliminary Net Asset Value of 3.07 dollars management is basically in a position where buying back their own shares instantly hyper-concentrates the remaining equity value.\n\n​Look at the breakdown in the image. Even in a conservative base scenario where they only deploy 10 to 15 million of the buyback below NAV the projected 6 to 12 month range sits between 4 and 7 dollars. If Eric Jackson actually executes the full buyback and brings the share count down toward 10 to 12 million shares the bull target jumps straight into the 7 to 12 dollar range. That means if the NAV grows to 75 or 100 million you are looking at an implied NAV of over 6 dollars per share before even adding any premium valuation multiples.\n\n​The risk side is laid out perfectly too because an authorization is not a completed buyback and they can modify or suspend it at any time plus the preliminary NAV is still unaudited until next month. But seeing the numbers plotted out like this makes the current discount look completely irrational.\n\n​I just wanted to put this on your radar so people can cross-reference it with the July 9th 8-K filings themselves. Go check the math and tell me your honest thoughts. Is there a fundamental trap here or are we looking at a textbook asymmetric setup before the broker apps update their data feeds next month?",
     "subreddit": "investing",
-    "created_utc": 1783749861,
+    "created_utc": 1783831963,
     "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I think the tariffs were a bigger impact. At some level, strategic energy risk was baked in. Absolutely bonkers illogical trade policy is hurting us more for less of any logical reason. ",
-        "score": 1,
-        "author": "SlowDuc"
-      }
-    ],
-    "summary_he": "הפוסט מעלה שאלה היפותטית לגבי מצב שוק ההון אילו העימות עם איראן לא היה מתרחש. הכותב תוהה האם למלחמה הייתה השפעה משמעותית על המדדים המרכזיים (S&P 500 ונאסד\"ק), או שביצועי השוק הושפעו בעיקר מגורמים אחרים כמו פריצת הבינה המלאכותית, שיעורי הריבית ודוחות הרווח של החברות.",
+    "top_comments": [],
+    "summary_he": "הפוסט מנתח את פוטנציאל הצמיחה של מניית SRXH בעקבות איחוד מניות ואישור תוכנית לרכישה עצמית (buyback) בהיקף של 20 מיליון דולר. לפי הניתוח, המהלך עשוי לצמצם את היצע המניות בכ-50% ולהזניק את שוויין לטווח של 7–12 דולר, הרחק מעל מחיר השוק הנוכחי שנמצא מתחת לערך הנכסים הנקי (NAV). הכותב טוען כי מדובר בהזדמנות יוצאת דופן שנובעת מתמחור חסר של השוק, אם כי הוא מסייג זאת בכך שהתוכנית טרם בוצעה במלואה.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והדעות העולות מהתגובה, המציג 6 נקודות מבט וסנטימנטים שונים:\n\n* **השפעת המכסים כגורם מכריע:** קיימת טענה כי למכסים הייתה השפעה כלכלית משמעותית ושלילית יותר מאשר לגורמים אחרים שנדונו (כמו מחירי האנרגיה).\n* **צפיות של סיכוני אנרגיה:** על פי הגישה המוצגת, סיכוני האנרגיה האסטרטגיים לא היו הפתעה; הם היו ידועים מראש ונלקחו בחשבון כחלק מהתכנון הכלכלי (\"Baked in\").\n* **ביקורת חריפה על מדיניות הסחר:** המדיניות הנוכחית מתוארת כחסרת היגיון לחלוטין (בשימוש במילים חריפות כמו \"Bonkers\"), דבר המעיד על תסכול עמוק מהחלטות הממשל.\n* **חוסר הלימה בין נזק לתועלת:** עולה התחושה שמדיניות הסחר פוגעת בציבור או בכלכלה באופן ניכר, מבלי שיש לכך הצדקה לוגית או רווח אסטרטגי ברור שמצדיק את המחיר.\n* **ספקנות לגבי רציונליות פוליטית:** המגיב מטיל ספק בכך שישנו בסיס רציונלי כלשהו מאחורי מהלכי הסחר הנוכחיים, ורואה בהם צעדים שפועלים נגד האינטרס העצמי.\n* **הבחנה בין סיכון מנוהל לסיכון יזום:** קיימת הבחנה בין סיכונים חיצוניים שניתן להתכונן אליהם (כמו אנרגיה) לבין \"פגיעה עצמית\" הנובעת ממדיניות סחר בעייתית שיוצרת שיבושים מיותרים."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-07-12",
+    "savedAt": {
+      "_seconds": 1783842520,
+      "_nanoseconds": 485000000
+    }
   },
   {
-    "id": "1utaxx9",
-    "title": "Additional income needed from dividends",
-    "url": "https://www.reddit.com/r/investing/comments/1utaxx9/additional_income_needed_from_dividends/",
-    "author": "Clueless_Fart_Pants",
+    "id": "1uu5iwg",
+    "title": "Fundamental Disconnect & The July 14 Catalyst 📊",
+    "url": "https://www.reddit.com/r/investing/comments/1uu5iwg/fundamental_disconnect_the_july_14_catalyst/",
+    "author": "PropertyFirm7280",
     "score": 1,
-    "selftext": "Left work this week at 56.  I do need to generate more income to stay afloat.  I have $100k in my brokerage account.  What should I invest in without eroding my pot to generate the most additional income from dividends after taxes.  This year I will be filing as married probably under the $95k or whatever it is tax bracket.  Just need an extra stream coming in regularly….",
+    "selftext": "Hey guys I am making this quick post because I have been digging through the raw SEC filings all night and I am convinced that the front end data feeds on apps like Webull and Robinhood are completely broken after the recent 1-for-60 reverse split. Most people see a microcap do a massive consolidation and they immediately skip it assuming it is just another toxic dilution trap designed to wipe out retail. I usually do the exact same thing but if you actually ignore the lagging charts on your phone and read the actual text of the July 9th 8-K filing the math on this one is completely wild.\n\n​I just wanted to pass this along as a helpful sanity check because it looks like a genuine structural glitch in the market that retail can actually exploit before the algorithms update.\n\n​According to the official signed documents the company is reporting a preliminary Net Asset Value of 3.07 dollars per share. But right now the stock is trading at a massive discount way below that liquid cash floor. It makes zero sense. After the whole corporate restructuring they completely wiped the ledger clean so they now have zero debt and a treasury holding 40 million dollars in pure cash alongside 15 million in short-term investments.\n\n​To prove the money is real and not just a paper trick management literally just declared a surprise 0.05 dollar cash dividend for August. You almost never see a stock at this price level pay a cash dividend unless they are swimming in liquid capital and the filing shows this is being funded by their private equity exposure which includes active placements in SpaceX through the Astro portfolio.\n\n​The main reason this is a ticking time bomb is the supply side. The board just authorized a 20 million dollar share buyback program. Because the stock is trading so far below its actual book value management has the exact capital capacity to buy back and retire up to 50 percent of the entire outstanding post split float. Combine that with the fact that all core insiders are legally locked up for 180 days so they cannot dilute the stock or dump shares on us and you have a crazy squeeze potential.\n\n​Once the official audited Q2 numbers drop next month in August the mainstream apps will be forced to update their lagging metrics to reflect the real asset to share ratio.\n\n​I just wanted to put this on your radar so everyone can go verify the filings themselves before the market wakes up and fixes the pricing gap. Go read the July 8-K on the SEC site and tell me your thoughts. Am I completely misreading this or did we just find the cleanest deep value play on the board right now? What is the catch?",
     "subreddit": "investing",
-    "created_utc": 1783746747,
+    "created_utc": 1783831215,
     "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Credit spreads are what you want but becareful.",
-        "score": 1,
-        "author": "kingoftheoneliners"
-      },
-      {
-        "body": "dividends literally come out of the stock price btw\n\nif you buy a stock at 100 and it pays a $2 divvy tmrw, it trades at 98",
-        "score": 1,
-        "author": "someroastedbeef"
-      },
-      {
-        "body": "How much is a stock worth that is 100$?\n\nHow much is a stock worth that is 95$ and pays 5$ in dividends today?",
-        "score": 1,
-        "author": "tahini001"
-      }
-    ],
-    "summary_he": "הכותב, בן 56 שפרש לאחרונה מעבודתו, מעוניין להשקיע 100,000 דולר כדי לייצר תזרים מזומנים קבוע מדיבידנדים שיסייע לו בכיסוי הוצאות המחיה. הוא מחפש אפיקי השקעה שימקסמו את ההכנסה נטו לאחר מס, תוך שמירה על קרן ההשקעה ומבלי לשחוק את סכום הכסף המקורי.",
+    "top_comments": [],
+    "summary_he": "הפוסט טוען כי קיים עיוות תמחור משמעותי במניה מסוימת בעקבות פיצול הפוך (reverse split), כאשר מחיר השוק נמוך בהרבה משווי הנכסים הנקי (NAV) שעומד על 3.07 דולר למניה לפי דיווחי ה-SEC. הכותב מציין כי לחברה אין חובות, היא מחזיקה במזומנים רבים, הכריזה על דיבידנד ומפעילה תוכנית לרכישה עצמית של מניות, מה שיוצר פוטנציאל לזינוק במחיר ברגע שנתוני השוק הרשמיים יעודכנו באוגוסט.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג 6 נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **המלצה על אסטרטגיית מרווחי אשראי:** אחד המשתמשים מציין כי מרווחי אשראי (Credit Spreads) הם כלי השקעה אטרקטיבי שכדאי לשקול.\n*   **נקיטת משנה זהירות:** למרות ההמלצה על מרווחי אשראי, עולה הסתייגות המדגישה כי מדובר באסטרטגיה הדורשת זהירות רבה מצד המשקיע.\n*   **הקשר הישיר בין דיבידנד למחיר המניה:** מובהר כי הדיבידנדים אינם רווח חיצוני, אלא הם יוצאים באופן ישיר מתוך ערך המניה עצמה.\n*   **השפעת יום האקס-דיבידנד:** המגיבים מסבירים כי אם מניה נסחרת ב-100 דולר ומחלקת דיבידנד של 2 דולר, מחיר השוק שלה ירד ל-98 דולר באופן מיידי לאחר החלוקה.\n*   **תפיסת ה\"שווי הכולל\":** עולה הטענה שאין הבדל ריאלי בשווי האחזקה בין מניה ששווה 100 דולר לבין מניה ששווה 95 דולר בתוספת 5 דולר שהתקבלו במזומן כדיבידנד.\n*   **ניפוץ מיתוס \"הכסף החינמי\":** הקהילה מבקשת להדגיש כי חלוקת דיבידנד היא למעשה פעולה חשבונאית של העברת ערך, ולא יצירת רווח \"יש מאין\" עבור המשקיע ברגע החלוקה."
-  },
-  {
-    "id": "1ut2dt6",
-    "title": "AI capex spend and AI-driven revenue",
-    "url": "https://www.reddit.com/r/investing/comments/1ut2dt6/ai_capex_spend_and_aidriven_revenue/",
-    "author": "Derpazoid69",
-    "score": 1,
-    "selftext": "I recently found out about Ed Zitron and read his article \"Am I meant to be impressed?\" that was deep dive into the problems with AI surrounding the 5 hyperscalers.\n\nThat got me thinking if there would ever be a point of 'No Return' where the 5 AI hyperscalers spend so much capex on AI that eventually becoming profitable from AI-driven revenue becomes mathematically impossible.\n\nGoogle Gemini says yes there is and this point will occur sometime between late 2026 and 2028.\n\nThe numbers that Gemini used was the $1.5T AI capex total and that generally a data center needs to generate around $2 for every $1 of capex to turn a profit. So $3T needed in revenue to justify that. In total AI-driven revenue so far is $130B. So there is a shortfall of $2.87T.\n\nExperts call this the 'AI revenue gap' and it has increased from $600B in 2024 when the term was first coined. \n\nIf the gap is real (even if my numbers are off) will that be the thing that pops the AI bubble?\n\n",
-    "subreddit": "investing",
-    "created_utc": 1783722695,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Yes! Same as over building railroad and internet cables. \n\nWhat makes this worse is that all the numbers end with a T (T for Trillions not Tango). \n\nModels will get cheaper and better and at a certain point you will need less and less hardware for the same task. \n\nFurthermore companies will realize that certain tasks don’t actually need AI or humans, they can be just a simple python script automation. This means we lose jobs as well do not require that many data centers, but definitely company margins go up.",
-        "score": 3,
-        "author": "SuccessfulSir9611"
-      },
-      {
-        "body": "I don't think it's about that. It's about survival for hyperscalers. If AI make the old tech irrelevant, you need to be into the new tech. There will be loser and winner, but to win you have to play. Google is making 400B a year and growing. They need to protect that. Even if they lose 1 trillion, it's well worth the price of protecting 400B a year and growing for the next 20 years so maybe 10-15 trillion of revenue.\n\nAs long as the competition might displace them, they have to invest.",
-        "score": 2,
-        "author": "nicolas_06"
-      },
-      {
-        "body": "What really makes it worse is that after rail companies collapsed and the DotCom bubble happened, infrastructure was left in place that became cheap to acquire and build real businesses on.\n\nDatacenters full of GPUs serve no real purpose other than AI development and inference, and still cost money to run and maintain/replace. Current installations are done with Nvidia Blackwell, which will become obsolete when Vera Rubin arrives. Obviously still usable, but harder to replace and less efficient in cost.",
-        "score": 2,
-        "author": "_bones__"
-      }
-    ],
-    "summary_he": "הפוסט דן בפער המתרחב בין השקעות העתק של ענקיות הטכנולוגיה בתשתיות בינה מלאכותית (Capex) לבין ההכנסות הנמוכות יחסית המופקות מהן בפועל. הכותב מציג נתונים על \"פער הכנסות\" של טריליוני דולרים ומעלה חשש כי אי-יכולת להגיע לרווחיות בשנים הקרובות תוביל לנקודת אל-חזור ולפיצוץ בועת ה-AI.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג שש נקודות מבט ותובנות מרכזיות שעלו מהתגובות:\n\n*   **השוואה היסטורית לבועות קודמות:** קיימת תחושה שההשקעה הנוכחית בבינה מלאכותית מזכירה את בניית היתר של מסילות הרכבת וסיבי האינטרנט בעבר. בשני המקרים הושקעו סכומי עתק בתשתיות שעלו בהרבה על הצורך המיידי באותה תקופה.\n*   **התייעלות טכנולוגית עתידית:** המודלים צפויים להפוך לטובים וזולים יותר עם הזמן. המשמעות היא שבטווח הרחוק יידרש פחות ופחות כוח מחשוב (חומרה) כדי לבצע את אותן משימות, מה שעשוי להפוך את ההשקעות העצומות הנוכחיות בחומרה למפורזות.\n*   **אוטומציה פשוטה מול בינה מלאכותית:** חברות רבות עשויות לגלות שחלק ניכר מהמשימות שהן מקצות לבינה מלאכותית יכולות להיפתר באמצעות אוטומציה פשוטה (כמו סקריפטים של Python). מעבר כזה יגדיל את שולי הרווח של החברות ויקצץ במשרות, אך גם יקטין את הצורך במרכזי נתונים אדירים.\n*   **אסטרטגיית הישרדות של ענקיות הטכנולוגיה:** עבור חברות כמו גוגל, ההשקעה ב-AI היא הגנתית. הן מוכנות להסתכן בהפסד של טריליון דולר כדי להגן על הכנסות של מאות מיליארדים בשנה. מבחינתן, אם הן לא ישחקו במגרש הזה, הן עלולות להפוך ללא רלוונטיות ולאבד את כל שווי השוק שלהן למתחרים.\n*   **בעיית התיישנות החומרה:** בניגוד לתשתיות כמו מסילות רכבת שנשארות רלוונטיות עשורים, חומרת ה-GPU המשמשת ל-AI מתיישנת במהירות מסחררת. המעבר המהיר בין דורות של שבבים (כמו מ-Blackwell ל-Vera Rubin) הופך את המתקנים הנוכחיים ליקרים לתחזוקה ופחות יעילים כלכלית תוך זמן קצר מאוד.\n*   **הקושי בשימוש חוזר בתשתיות:** בבועת הדוט-קום, התשתיות שהושארו מאחור הפכו לבסיס זול וזמין לעסקים חדשים. לעומת זאת, מרכזי נתונים המלאים במעבדים גרפיים הם ייעודיים מאוד ודורשים הון רב לתפעול שוטף, מה שמעלה ספק לגבי הערך שלהם ביום שאחרי התפוצצות אפשרית של הבועה."
-  },
-  {
-    "id": "1ut051h",
-    "title": "the AI capex cycle economically unsustainable? GPUs fail every 2-3 years, new chips cost 40% more each cycle, but rental prices crashed 70%?",
-    "url": "https://www.reddit.com/r/investing/comments/1ut051h/the_ai_capex_cycle_economically_unsustainable/",
-    "author": "Bumblesavage",
-    "score": 1,
-    "selftext": "**Unpopular opinion: The AI infrastructure bubble will pop when people realize hyperscalers are trapped in an unsustainable capex cycle. GPUs fail every 2-3 years, new generations obsolete every 18 months at rising costs, but revenue per chip is collapsing. How long before Meta/Microsoft/Google admit they’ve been over-investing?**",
-    "subreddit": "investing",
-    "created_utc": 1783717411,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "GPUs don’t fail every 2-3 years.\n\nRental prices have not gone down 70%. \n\nYou should back up statements that bold with sources",
-        "score": 30,
-        "author": "BodomDeth"
-      },
-      {
-        "body": "Unpopular = same thing posted 10 times a day",
-        "score": 11,
-        "author": "f1modsarethebest"
-      },
-      {
-        "body": "You figured it out bro you are smarter than all the teams of profitability analysts at all the biggest companies in the world. ",
-        "score": 9,
-        "author": "Simalt443"
-      }
-    ],
-    "summary_he": "הפוסט טוען כי בועת הבינה המלאכותית עומדת להתפוצץ בשל השקעות עתק לא כלכליות בתשתיות חומרה שמתיישנות ומתכלות במהירות. בעוד שעלויות השבבים החדשים עולות, ההכנסות מהם צונחות בחדות, מה שמעמיד את ענקיות הטכנולוגיה בפני משבר של השקעת יתר בלתי נמנעת.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המובילות בשרשור, הכולל 6 נקודות מבט וסנטימנטים שונים שעלו מצד הקהילה:\n\n*   **הטלת ספק בעמידות החומרה:** אחד המגיבים חולק על הקביעה שכרטיסי מסך (GPUs) נוטים להתקלקל תוך שנתיים-שלוש, וטוען שאורך החיים שלהם ארוך יותר במציאות.\n*   **ערעור על נתונים כלכליים:** קיימת הכחשה גורפת לטענה שמחירי השכירות צנחו ב-70%, תוך ציון שמדובר בנתון שאינו תואם את המציאות בשטח.\n*   **דרישה לביסוס עובדתי:** הקהילה דורשת מהכותב להציג מקורות וראיות לטענותיו, במיוחד כאשר מדובר בהצהרות נועזות ויוצאות דופן.\n*   **ביקורת על חזרתיות בפורום:** הבעת סלידה מכך שנושאים המוגדרים כ\"דעה לא פופולרית\" (Unpopular Opinion) הם למעשה נושאים שנטחנים ועולים לדיון עשרות פעמים ביום.\n*   **ספקנות כלפי ניתוח חובבני:** שימוש בסרקזם כדי להדגיש את חוסר הסבירות שכותב הפוסט מבין במודלים של רווחיות טוב יותר מצוותי אנליסטים מקצועיים בחברות הגדולות בעולם.\n*   **זלזול בביטחון עצמי מופרז:** סנטימנט של לעג כלפי הנטייה של משתמשים ברשת להאמין שהם \"פיצחו את השיטה\" או גילו תובנה שחמקה מעיניהם של מומחים בתעשייה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-07-12",
+    "savedAt": {
+      "_seconds": 1783842528,
+      "_nanoseconds": 731000000
+    }
   }
 ];
