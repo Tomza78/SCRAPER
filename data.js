@@ -1,225 +1,65 @@
 window.dailyTrends = [
   {
-    "id": "1uxecz8",
-    "title": "SpaceX falls below IPO price for first time",
-    "url": "https://www.reddit.com/r/investing/comments/1uxecz8/spacex_falls_below_ipo_price_for_first_time/",
-    "author": "valbolt",
-    "score": 1695,
-    "selftext": "What are your thoughts on this news?  \n  \n[https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-15-2026](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-july-15-2026)",
-    "subreddit": "investing",
-    "created_utc": 1784140233,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "It’s spa sex. The Search for alien life….",
-        "score": 1,
-        "author": "Particular_Rough_357"
-      },
-      {
-        "body": "Well I can see where all of the shorts hang out 😂",
-        "score": 1,
-        "author": "Lordespacebar"
-      },
-      {
-        "body": "The ipo was successful either way\n\nThey raised $75B and another $11B in its overallotment. \n\nI haven’t touched the stock and don’t plan to either way but damn, they raised $86B with only 5% dilution.\n\nI’ve been avoiding all news alerts about this stock since Elon companies feed off hate and I don’t want to boost any of his companies’ stock prices by accident. By the way, I’m extremely bearish on spaceX BUT won’t ever short it due to its cult fan boys ",
-        "score": 1,
-        "author": "teddykon"
-      }
-    ],
-    "summary_he": "הפוסט דן בידיעה לפיה מניית חברת SpaceX ירדה לראשונה אל מתחת למחיר ההנפקה המקורי שלה (IPO). כותב הפוסט מבקש לשמוע את דעת הגולשים על משמעות הירידה הזו ועל השלכותיה האפשריות עבור החברה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **הומור ומשחקי מילים על המותג:** חלק מהגולשים מתייחסים לנושא בקלילות ומשתמשים במשחקי מילים על השם SpaceX (כמו \"Spa sex\"), מה שמעיד על גישה אירונית או צינית כלפי המותג והחיפוש אחר חיים חוזרים.\n*   **זיהוי נוכחות של \"שורטיסטים\":** קיימת הבחנה בקהילה כי הדיון רווי באנשים המהמרים נגד המניה (\"Shorts\"), מה שמעיד על קיטוב רב בין המעריצים למבקרים.\n*   **הצלחה פיננסית אובייקטיבית של ההנפקה:** למרות חילוקי הדעות על ערך החברה, ישנה הסכמה שהגיוס עצמו היה מוצלח מאוד – גיוס של 86 מיליארד דולר עם דילול מינימלי של 5% בלבד נתפס כהישג כלכלי מרשים.\n*   **הימנעות מודעת מצריכת חדשות על מאסק:** עולה סנטימנט שלפיו חברות של אילון מאסק \"ניזונות\" מתשומת לב ושנאה. לכן, ישנם משתמשים שבוחרים להחרים כל ידיעה חדשותית עליהן כדי לא לתרום לעליית ערך המניה בטעות דרך הגברת המעורבות (Engagement).\n*   **ספקנות כלכלית עמוקה (Bearish):** למרות העניין הציבורי, ישנם קולות המביעים פסימיות קיצונית לגבי המודל העסקי של SpaceX וסיכויי הצלחתה הכלכלית לטווח הארוך.\n*   **פחד מ\"צבא המעריצים\":** גם בקרב אלו שמאמינים שהחברה תיכשל, קיימת רתיעה מביצוע \"שורט\" על המניה. הסיבה היא החשש מקהל המעריצים המושבע (\"Cult fan boys\"), שעלול להמשיך להשקיע ולהקפיץ את מחיר המניה בניגוד לכל היגיון כלכלי, מה שיוצר סיכון גבוה מדי למשקיעים רציונליים."
-  },
-  {
-    "id": "1ux3wms",
-    "title": "Kratos Defense Announced ~$400 million Funding from Department of War for Hypersonic System",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1ux3wms/kratos_defense_announced_400_million_funding_from/",
+    "id": "1uxycr9",
+    "title": "South Korea is SUSPENDING Single-Stock Leveraged ETFs",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1uxycr9/south_korea_is_suspending_singlestock_leveraged/",
     "author": "Optimal_Image5192",
-    "score": 82,
-    "selftext": "Kratos $KTOS disclosed about $400M of Department of War funding for hypersonic and other national security programs.\n\nStifel says the funding likely signals Kratos is being picked as a preferred partner for low-cost hypersonic missile production and “affordable mass” missile platforms.\n\nThe note also points to funded-award momentum after yesterday’s space award and today’s funding disclosure.",
+    "score": 630,
+    "selftext": "The country’s Financial Services Commission will temporarily suspend new listings of leveraged products tied to individual stocks.\n\nThe move follows the launch of more than a dozen ETFs designed to deliver 2x the daily returns of Samsung Electronics and SK Hynix.\n\nRegulators and market participants are concerned that the funds are amplifying price swings through the large daily trades required to maintain their leverage.\n\nThe new rules:\n\n→ No new listings until conditions stabilize\n\n→ Minimum account balance raised from $6500 to $20,300\n\n→ Required training increased to three hours\n\n→ Minimum trade size raised from one unit to 20\n\nThe higher deposit requirement is expected to take effect on August 5.\n\nEXISTING ETFS ARE NOT BEING BANNED.",
     "subreddit": "StockMarket",
-    "created_utc": 1784117015,
-    "thumbnail": "https://preview.redd.it/a12bknkvvddh1.jpeg?width=140&height=114&auto=webp&s=45515559a810ac07b726b2da0267f057ec03ec1d",
+    "created_utc": 1784195698,
+    "thumbnail": "https://preview.redd.it/ysp4otdudkdh1.jpeg?width=140&height=78&auto=webp&s=270066293e3e89885916f985ed3e9716ef8bd51c",
     "top_comments": [
       {
-        "body": "It sounds like Europe, the US and North Asia are all investing heavily into modernising and transitioning into autonomous defence systems, including drone battery makers.\n\nThe defence super cycle is beginning.\n\nhttps://www.google.com/amp/s/www.cnbc.com/amp/2026/07/15/drones-defense-europe-autonomous-weapons.html",
-        "score": 14,
-        "author": "Plane-Try-6522"
+        "body": "If the market blows up it wont be from a few degenerates on reddit. Lets place the blame where it belongs, on wall street. Dark pools, nanosecond algorithms, exotic derivatives, etc. dwarf the size of the entire stock market let alone the retail investors, of which only something like ~30% are actively trading. This same exact nonsense happened in 2000 when Leveraged ETFs didn't exist and in 2008 when leveraged ETFs barely existed.\n\n\nWe don't need more limits on retail trading in the name of \"protecting is from ourselves\", we need to reign in the greedy wall Street vultures who are fleecing us at every turn.",
+        "score": 9,
+        "author": "Redcrux"
       },
       {
-        "body": "this was announced 7/14  and the stock had a mild reaction.   let's see what happens today.  the sector is not on fire.(drones)",
-        "score": 8,
-        "author": "stockjocky"
+        "body": "Excuse me? I thought this was a casino!",
+        "score": 7,
+        "author": "viennese-wolf"
       },
       {
-        "body": "I commented this below, but I think after the poor performance in Iran war market is pricing in a more focused defense spending rather than the blanket spending we’ve been seeing. I think the sell off is market trying to figure out where that focused spending will be. Just my thoughts.",
-        "score": 3,
-        "author": "Optimal_Image5192"
+        "body": "we can't hold you to your words if you won't even name which sub it is lol you \"weasel\"!",
+        "score": 6,
+        "author": "kktvMIN"
       }
     ],
-    "summary_he": "חברת קראטוס דיפנס ($KTOS) דיווחה על קבלת תקציב של כ-400 מיליון דולר ממשרד ההגנה האמריקאי עבור פיתוח מערכות היפר-קוליות ותוכניות ביטחון לאומי. לפי הערכות האנליסטים, המימון מסמן את החברה כשותפה מועדפת לייצור טילים היפר-קוליים בעלות נמוכה, וזאת בהמשך לרצף של חוזים חדשים שקיבלה החברה לאחרונה.",
+    "summary_he": "דרום קוריאה משעה זמנית הנפקת תעודות סל (ETF) ממונפות על מניות בודדות, וזאת בשל חשש הרגולטורים מתנודתיות יתר בשוק והשפעה על מחירי המניות. הכללים החדשים כוללים הגבלות מחמירות על המשקיעים, בהן העלאת רף ההפקדה המינימלי לכ-20,000 דולר והארכת משך ההכשרה הנדרשת למסחר. חשוב לציין כי ההשעיה חלה על הנפקות חדשות בלבד, בעוד שתעודות קיימות ימשיכו להיסחר כרגיל.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המובילות, המציג 6 נקודות מבט ורגשות מרכזיים בקהילה:\n\n*   **הטלת האשמה על המוסדות הפיננסיים:** קיימת הסכמה רחבה שהאחריות לחוסר יציבות בשוק מוטלת על וול סטריט ולא על משקיעים קטנים מרדיט. הכותבים מצביעים על מנגנונים מורכבים כמו \"בריכות חשוכות\" (Dark Pools), אלגוריתמים של מסחר בתדר גבוה ונגזרים אקזוטיים כגורמים האמיתיים לסיכון.\n*   **פרופורציות והשפעת השוק:** הקהילה מדגישה כי היקף המסחר המוסדי מגמד את כוחם של המשקיעים הקמעונאיים (Retail Investors), המהווים רק אחוז קטן מהמסחר הפעיל, ולכן אין להם יכולת ממשית \"לפוצץ\" את השוק.\n*   **הקשר היסטורי כהוכחה:** המגיבים מציינים כי משברים גדולים (כמו בשנת 2000 ו-2008) התרחשו הרבה לפני הפופולריות של קרנות סל ממונפות או קהילות השקעה באינטרנט, מה שמוכיח שהבעיות בשוק הן מבניות ושורשיות.\n*   **התנגדות לרגולציה \"מגינה\":** מובעת התנגדות נחרצת להטלת מגבלות נוספות על משקיעים קטנים תחת האמתלה של \"הגנה עליהם מפני עצמם\". הקהילה רואה בכך ניסיון להסיט את האש מהחזירות והניצול של הגופים הגדולים בוול סטריט.\n*   **הבורסה כ\"קזינו\":** ניכר סנטימנט המשלב הומור עצמי וציניות, המציג את שוק ההון כסוג של קזינו. גישה זו משקפת את המודעות של חלק מהמשתמשים לסיכונים הגבוהים ולאופי ההימורי של חלק מהפעולות בקהילה.\n*   **דרישה לשקיפות ואחריותיות:** קיימת ביקורת כלפי כותבים המטיפים לקהילה מבלי לנקוב בשמות ספציפיים של תתי-פורומים (Subreddits). המשתמשים דורשים שקיפות ומסרבים לקבל האשמות כלליות או מעורפלות."
+  },
+  {
+    "id": "1uyaeag",
+    "title": "The AI Backlash Has Tech Executives Fearing for Their Lives",
+    "url": "https://www.reddit.com/r/business/comments/1uyaeag/the_ai_backlash_has_tech_executives_fearing_for/",
+    "author": "CackleRooster",
+    "score": 378,
+    "selftext": "I knew there was a lot of resentment out there towards AI, but I didn't know it was this bad. ",
+    "subreddit": "business",
+    "created_utc": 1784224995,
+    "thumbnail": "default",
+    "top_comments": [
+      {
+        "body": "So selfish! A starving child generates so many valuable data points and training data.",
+        "score": 12,
+        "author": "Kermit_the_hog"
+      },
+      {
+        "body": "AI is sucking up all the resources and giving us back slop. Which is bad enough, but they’re doing it at an emergency pace, like we’re going to war. A war we don’t want and didn’t vote for.",
+        "score": 9,
+        "author": "ElectronGuru"
+      },
+      {
+        "body": "AI is easy money. And like all easy money industries, there are bros. AI Bros are rapid to get on with it so they can make as much money as possible as fast as possible. After AI, they’ll move on to the next get rich quick scheme. That the rest of us will have to pay for, in one way or another.",
+        "score": 7,
+        "author": "ElectronGuru"
+      }
+    ],
+    "summary_he": "הפוסט דן בתגובת הנגד החריפה והגוברת נגד בינה מלאכותית, ומציין כי העוינות הציבורית הגיעה לרמה שבה מנהלים בכירים בתעשיית הטכנולוגיה חוששים לחייהם. כותב הפוסט מביע פליאה מעוצמת הטינה ומרמת ההתנגדות הקיצונית שקיימת כיום כלפי התחום.",
     "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים מרכזיים של הקהילה:\n\n*   **השקעה גלובלית במודרניזציה:** קיימת הסכמה כי מעצמות מרכזיות (אירופה, ארה\"ב וצפון אסיה) משקיעות הון עתק במעבר למערכות הגנה מודרניות, בדגש על טכנולוגיות מתקדמות.\n*   **צמיחת תחום המערכות האוטונומיות:** הקהילה מזהה מגמה ברורה של מעבר לנשק אוטונומי, הכולל לא רק את הרחפנים עצמם אלא גם את תעשיות המשנה התומכות, כמו יצרניות סוללות ייעודיות לכטב\"מים.\n*   **תחילתו של \"סופר-מחזור\" ביטחוני:** קיים סנטימנט לפיו אנו נמצאים בפתחו של מחזור צמיחה ארוך ומשמעותי (Super Cycle) בתעשיית הביטחון העולמית, המונע מהצורך להתחמש מחדש בטכנולוגיה חדישה.\n*   **פער בין כותרות לתגובת השוק:** למרות הכרזות משמעותיות בתחום, נצפתה תגובה מתונה יחסית של המניות הרלוונטיות. הסנטימנט הוא שמגזר הרחפנים עדיין אינו \"לוהט\" כפי שניתן היה לצפות.\n*   **שינוי באסטרטגיית הרכש הביטחוני:** הועלתה טענה כי השוק עובר ממודל של \"הוצאה כללית ורחבה\" למודל של \"הוצאה ממוקדת\". זאת כתוצאה מניתוח ביצועים של מערכות נשק בעימותים אחרונים (כמו בעימות מול איראן).\n*   **חוסר ודאות אצל המשקיעים:** הירידות האחרונות במניות הביטחון מתפרשות כניסיון של השוק \"לחשב מסלול מחדש\" ולפענח אילו תחומים ספציפיים יזכו לתקצוב הממוקד, מה שיוצר תנודתיות ואי-ודאות זמנית בקרב המשקיעים."
-  },
-  {
-    "id": "1uxfx48",
-    "title": "Am I wrong that the mortgage rate lock-in effect is basically played out as a story?",
-    "url": "https://www.reddit.com/r/investing/comments/1uxfx48/am_i_wrong_that_the_mortgage_rate_lockin_effect/",
-    "author": "Scouty519",
-    "score": 69,
-    "selftext": "The gap that made this a real story was 2.75% vs 7%, that's genuine money to walk away from every month. But the composition has shifted a lot. The share of mortgage holders under 3% is now roughly even with the share over 6%, and some trackers say by early this year more homeowners are above 6% than below 3%. One brokerage's own numbers had about a third of this spring's listings coming from sellers giving up sub 5% rates. At some point staying put just isn't the dramatic financial decision it was in 2022. Feels like a lot of people are still repeating the lock-in narrative out of habit rather than looking at where the distribution actually sits now. What am I missing, is there a reason this drags on longer than the numbers suggest?",
-    "subreddit": "investing",
-    "created_utc": 1784143782,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "It's not just the interest rate appreciation, it's also home price appreciation. Despite making far more than when I first bought my home - I'd be very hard pressed to afford my current home at its current value and high rates combined. To me, I'm locked into this house forever. Rates are too high to afford and upgrade that is also far more expensive.",
-        "score": 9,
-        "author": "CeasersHeir"
-      },
-      {
-        "body": "Even if you did have a windfall, why pay off the 2.25% ever?",
-        "score": 9,
-        "author": "Chortlier"
-      },
-      {
-        "body": "Sounds to me that they would keep the current property and buy the new one cash. ",
-        "score": 6,
-        "author": "Brrrrraaaaap"
-      }
-    ],
-    "summary_he": "כותב הפוסט טוען כי \"אפקט הנעילה\" בשוק המשכנתאות מאבד מרלוונטיות, שכן הפער הכלכלי בין הריביות הישנות והחדשות הצטמצם עבור חלק ניכר מבעלי הבתים. לטענתו, הנתונים מראים כי יותר ויותר מוכרים מוכנים לוותר כעת על ריביות נמוכות כדי לעבור דירה, מה שמעיד על כך שהנרטיב המקובל בנושא כבר אינו משקף את המציאות בשטח.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות בשרשור, המציג 6 נקודות מבט ודעות שונות:\n\n*   **מלכוד \"הכלוב ומי הזהב\":** משתתפים מתארים מצב שבו השילוב בין מחירי דיור מאמירים לבין ריביות גבוהות יוצר תחושת \"נעילה\" בנכס הקיים. גם מי שרכש דירה בעבר ונהנה כעת מהכנסה גבוהה יותר, מרגיש שאינו יכול להרשות לעצמו לרכוש את ביתו הנוכחי במחירי השוק של היום.\n*   **חוסר הכדאיות שבשדרוג:** קיימת הסכמה שמעבר לדירה גדולה או טובה יותר הפך לבלתי אפשרי עבור רבים, שכן הריביות הגבוהות הופכות כל שדרוג לנטל כלכלי כבד מדי, גם עבור אלו שמצבם הפיננסי השתפר עם השנים.\n*   **ההיגיון הכלכלי של ריבית נמוכה:** בקהילה קיימת תפיסה חזקה שאין טעם לפרוע משכנתאות שנלקחו בריביות שפל היסטוריות (כמו 2.25%), גם אם נופל לידי בעל הבית סכום כסף גדול (\"Windfall\"). הכסף יכול להניב תשואה גבוהה יותר במקומות אחרים מאשר בכיסוי חוב זול כל כך.\n*   **אסטרטגיית הדירה הכפולה:** כפתרון למלכוד, עולה הצעה לשמור על הנכס הקיים (והמשכנתה הזולה שעליו) כנכס מניב, ולנסות לרכוש את הבית הבא במזומן, כדי להימנע מהריביות הגבוהות בשוק המשכנתאות הנוכחי.\n*   **הפער בין שכר לכוח קנייה:** הדיון מדגיש תחושת תסכול מכך שצמיחה בקריירה ועלייה בשכר אינן מצליחות להדביק את הקצב של הגידול בעלויות המימון והדיור, מה שמותיר את מעמד הביניים \"תקוע\" במקום.\n*   **השפעת עליית ערך הנכסים:** בעוד שעליית ערך הבית נתפסת לרוב כדבר חיובי, התגובות מראות שהיא פועלת כחרב פיפיות – היא מגדילה את ההון העצמי \"על הנייר\", אך בו-זמנית הופכת את המעבר לנכס הבא ליקר ובלתי נגיש."
-  },
-  {
-    "id": "1uxbnm9",
-    "title": "An SEC email address mix-up is causing confusion and threatening to disrupt its proposal to scrap quarterly reporting requirements",
-    "url": "https://www.reddit.com/r/finance/comments/1uxbnm9/an_sec_email_address_mixup_is_causing_confusion/",
-    "author": "fortune",
-    "score": 31,
-    "selftext": "The lost art of proofreading could see a missing “s” disrupt the federal government’s controversial effort to reduce reporting requirements for public companies.\n\nIn May, the Securities and Exchange Commission proposed a new rule that would let publicly listed companies report their financial results twice a year instead of every quarter, as is currently required. The agency asked the public to weigh in and send its feedback to rule-comment@sec.gov. But the comment inbox that the SEC lists on its own instructions page—and has printed in almost every rule proposal it has issued since at least 2019—is rule-comments@sec.gov. With an “s.”  \n  \nThe comment (or…comments) period on the semiannual reporting rule closed on July 6, but the email address confusion cropped up on Monday in a letter to the commission from nonprofit investor advocate Better Markets. The letter, addressed to SEC Chairman Paul Atkins and Commissioners Hester Peirce and Mark Uyeda, said the posted email address was “incorrect,” and said the error “undoubtedly deprived some members of the public of the opportunity to express their views on an extensive, far-reaching and dramatic change to corporate reporting that upends half a century of practice.”\n\nHow many public comments were sent to the rule-comment email, instead of the rule-comments address, is not clear. But Better Markets cited several examples of people who claimed feedback they sent to the “rule-comment” address have not appeared on the SEC website where public comments are published.\n\nRead more \\[paywall removed for Redditors\\]:  [https://fortune.com/2026/07/14/dispute-over-sec-comments-fuels-new-controversy-over-rule-to-scrap-quarterly-earnings/?utm\\_source=reddit/](https://fortune.com/2026/07/14/dispute-over-sec-comments-fuels-new-controversy-over-rule-to-scrap-quarterly-earnings/?utm_source=reddit/)",
-    "subreddit": "finance",
-    "created_utc": 1784134535,
-    "thumbnail": "https://external-preview.redd.it/4HLlTzpiYJZbXQNvirWVZLEn0lSLJ0gLHZO7zELvJls.jpeg?width=140&height=70&auto=webp&s=d43ee3a30b0f63411b0702161b7edc6bfcf4b079",
-    "top_comments": [],
-    "summary_he": "טעות הקלדה בכתובת המייל של ה-SEC לקבלת משוב מהציבור (השמטת האות \"s\") מעוררת מחלוקת ועלולה לעכב הצעה לביטול חובת הדיווח הרבעוני של חברות ציבוריות. עקב הבלבול, ייתכן שתגובות רבות לא הגיעו ליעדן, מה שהוביל לטענות כי הציבור נשלל מהזכות להביע את עמדתו בנוגע לשינוי הדרמטי בכללי הדיווח.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1uwzz5f",
-    "title": "Is Rheinmetall Undervalued?",
-    "url": "https://www.reddit.com/r/investing/comments/1uwzz5f/is_rheinmetall_undervalued/",
-    "author": "Legitimate-Week-1012",
-    "score": 28,
-    "selftext": "Hi everyone,\n\nI'm looking for some opinions from people who have been following Rheinmetall closely.\n\nFrom what I've been reading, the average analyst price target is still around **€1,721**, which is significantly above the current share price. Despite this, the stock has continued to trend lower, and I'm trying to understand whether the market is simply pricing in short-term risks or if there's something more fundamental that analysts are missing.\n\nSome questions I'd love to hear your thoughts on:\n\n* Do you believe Rheinmetall is currently undervalued?\n* What do you think is driving the recent weakness in the share price despite the bullish analyst targets?\n* Do you think the market is already pricing in peak defense spending, or is there still meaningful upside over the next 3–5 years?\n* If you already own the stock, are you buying more at these levels, holding, or taking profits?",
-    "subreddit": "investing",
-    "created_utc": 1784104568,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I would say undervalued, as a European. There is no other defense company like Rheinmetall in Europe. They have some headaches dealing with the German Government, that I think investors in the beginning really underestimated how slow Germany was. This time last year the buy rating was at 2350€, which was way too much. 1700€ is my personal target for this year. But I could see this stock grow much more. Could easily be a 150B vaule company in the future. The question is, how long are you willing to wait?",
-        "score": 24,
-        "author": "TheGodPePe"
-      },
-      {
-        "body": "The analysts will soon reevaluate, Rheinmetall was and still is overvalued imho.",
-        "score": 10,
-        "author": "VeganBaguette"
-      },
-      {
-        "body": "In my humble opinion, European governments willingness, and government ability to carry, all that investments into military spending is highly dependant on political will and the perception of Russian threat. \n\nMeaning, they won’t completely follow through with everything they said they would. ",
-        "score": 9,
-        "author": "Middle-Cod-7016"
-      }
-    ],
-    "summary_he": "הפוסט דן במניית חברת ריינמטאל (Rheinmetall) ותוהה האם היא מוערכת בחסר, לאור הפער המשמעותי בין מחיר השוק הנוכחי ליעדי האנליסטים האופטימיים. הכותב מבקש להבין את הסיבות למגמת הירידה האחרונה במניה ושואל האם שוק הביטחון כבר הגיע לשיאו או שקיים פוטנציאל צמיחה נוסף לטווח הארוך.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit אודות מניית חברת ההגנה הגרמנית Rheinmetall, הכולל 6 נקודות מבט וסנטימנטים שונים שעלו מן התגובות:\n\n* **ייחודיות בשוק האירופי:** יש הרואים בחברה ככזו המוערכת בחסר (Undervalued), שכן אין כיום באירופה חברה ביטחונית אחרת המשתווה ליכולותיה ולמעמדה של Rheinmetall.\n* **השפעת הביורוקרטיה הממשלתית:** הממשלה הגרמנית נתפסת כגורם מעכב; משקיעים רבים המעיטו בערך האיטיות של הממשל בגרמניה, דבר שיוצר קשיים תפעוליים ומשפיע על קצב הצמיחה של החברה.\n* **פוטנציאל צמיחה ארוך טווח מול מחיר היעד:** בעוד שבעבר ניתנו המלצות קנייה מופרזות (סביב 2350 אירו), כיום הציפיות התמתנו למחיר יעד ריאלי יותר של כ-1700 אירו לשנה הקרובה, עם תחזית אופטימית שבעתיד החברה עשויה להגיע לשווי שוק של 150 מיליארד אירו.\n* **סנטימנט הפוך – הערכת יתר:** קיימת דעה נגדית הגורסת כי המניה הייתה ונותרה מוערכת יתר על המידה (Overvalued), וכי האנליסטים צפויים לעדכן בקרוב את הערכותיהם כלפי מטה.\n* **תלות בתפיסת האיום הרוסי:** היקף ההשקעות הממשלתיות בחברה תלוי באופן ישיר ב\"רצון הפוליטי\" של מדינות אירופה ובתפיסת האיום מצד רוסיה; אם תחושת האיום תפחת, גם התקציבים עלולים להצטמצם.\n* **ספקנות לגבי מימוש הבטחות הרכש:** קיים חשש בקרב הקהילה שממשלות אירופה לא יעמדו בהתחייבויותיהן המוצהרות להגדלת תקציבי הביטחון בטווח הארוך, וכי הצהרות פוליטיות על השקעות ענק לא יתורגמו במלואן להזמנות בפועל."
-  },
-  {
-    "id": "1uxbsva",
-    "title": "Robinhood Checking/Spending Account feature(s)",
-    "url": "https://www.reddit.com/r/investing/comments/1uxbsva/robinhood_checkingspending_account_features/",
-    "author": "ValueInvestor08",
-    "score": 10,
-    "selftext": "Just a FYI to all Robinhood account holders they will be getting rid of the free spending/checking account feature no matter how large your equity holdings are and you will have to pay the $50 per year membership fee to get the feature so I would recommend if you have dividends and interest coming in that can be or is part of your income aside from your 9-5 job I would recommend to investigate to go somewhere else that offers that feature/service for free. ",
-    "subreddit": "investing",
-    "created_utc": 1784134841,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "What monster uses Robinhood as their checking account ",
-        "score": 8,
-        "author": "realribsnotmcfibs"
-      },
-      {
-        "body": "i have fidelity too and the elan cc. i just prefer rh",
-        "score": 3,
-        "author": "someroastedbeef"
-      },
-      {
-        "body": "Kind of stupid post. The whole benefit of the banking through robinhood is to get the amazing 3.5% on checking but you gotta pay the 50 a year fee to get that. Not sure why anyone would use it otherwise. ",
-        "score": 3,
-        "author": "Responsible_Still409"
-      }
-    ],
-    "summary_he": "רובינהוד מבטלת את האפשרות לחשבון עו\"ש/הוצאות בחינם, וכעת כל המשתמשים יידרשו לשלם דמי מנוי שנתיים בסך 50 דולר כדי להשתמש בשירות. הכותב ממליץ למשקיעים המסתמכים על הכנסות מדיבידנדים וריביות לבחון פלטפורמות חלופיות המציעות שירותים דומים ללא עלות.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ורגשות שונים של חברי הקהילה בנוגע לשימוש ב-Robinhood כחשבון בנק:\n\n*   **סלידה וזעזוע מהקונספט:** חלק מהמשתמשים הביעו זלזול מוחלט וסלידה מהרעיון של שימוש באפליקציית מסחר כמו Robinhood כחשבון עו\"ש (Checking account), תוך תהייה מי בכלל ירצה לעשות זאת.\n*   **העדפת חווית משתמש על פני מותג:** ישנם משתמשים המעדיפים את Robinhood באופן אישי על פני מוסדות פיננסיים מסורתיים ומוערכים יותר (כמו Fidelity), גם כאשר יש להם חשבונות קיימים באותם מוסדות.\n*   **הריבית כגורם משיכה מרכזי:** הדיון מדגיש כי היתרון המשמעותי ביותר בבנקאות דרך Robinhood הוא הריבית הגבוהה (3.5%) המוצעת על יתרת העו\"ש, נתון שנחשב לאטרקטיבי מאוד.\n*   **התניית ההטבות בתשלום:** קיימת ביקורת על כך שההטבות הפיננסיות אינן ניתנות בחינם, אלא מותנות בתשלום דמי מנוי שנתיים (כמו מינוי Gold בעלות של 50 דולר), מה שמשנה את חישובי הכדאיות.\n*   **ספקנות לגבי שימוש ללא מינוי:** עולה הטענה שאין שום היגיון או תועלת בשימוש בשירותי הבנקאות של האפליקציה אם המשתמש אינו משלם על המינוי ונהנה מהריבית הגבוהה, מה שהופך את השימוש הסטנדרטי למיותר.\n*   **השוואה תחרותית מתמדת:** הקהילה בוחנת את Robinhood אל מול חלופות בשוק (כמו כרטיסי אשראי של Elan או שירותי Fidelity), מה שמעיד על כך שהמשתמשים מבצעים השוואות תכופות בין פלטפורמות פינטק לבנקים וגופים מסורתיים."
-  },
-  {
-    "id": "1uxbg9k",
-    "title": "Question for those with 1M-10M asset managed by a financial advisor/wealth manager",
-    "url": "https://www.reddit.com/r/investing/comments/1uxbg9k/question_for_those_with_1m10m_asset_managed_by_a/",
-    "author": "PatternUsual8462",
-    "score": 6,
-    "selftext": "What do you expect as an annual return?\n\nWhat was your annual return for the past year?  Past 2 years?  Past 5 yrs?\n\nHow much do you pay (% of AUM or fixed)?\n\nLooking for real datapoints.  I am torn between doing my own (bogglehead approach) vs. Fidelity or Etrade advisor.\n\n",
-    "subreddit": "investing",
-    "created_utc": 1784134105,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "The main issue with advisors isn't the return targets. It's the fee drag. On a 2M portfolio, a 1% AUM fee costs 20k per year, while a basic index portfolio costs 800 per year. The difference is 19.2k annually. Advisors usually benchmark their performance against a static index, but they often hide underperformance behind window dressing. To see if they're worth the cost, you need to run a time-weighted return benchmark against a simple index baseline over a 5-year horizon. Most people find the advisor doesn't beat the index after accounting for the fee. What specific tasks are you hoping an advisor will handle for you?",
-        "score": 6,
-        "author": "Jealous_Bookkeeper20"
-      },
-      {
-        "body": "I doubt you'd find any value in these data points.\n\nIf you go the route of one or more managed accounts, the investment blend will be a function of your investment goals, time horizons, risk tolerance, etc. \n\nSince those vary wildly from person to person, so will their investment mixes, typical returns, drawdown, volatility, tax implications, etc.\n\nIf all you're thinking about is an annual return you've completely lost the big picture.\n\nIn any event the benefits of one or more managed portfolios are (a) being invested appropriately to your goals, and (b) tax loss harvesting in direct-indexed / SMA-style taxable accounts. The tax loss harvesting can be pretty significant.",
-        "score": 5,
-        "author": "therealjerseytom"
-      },
-      {
-        "body": "I had a financial advisor in 2019 help us with a financial overhaul. We had accounts all over the place, and we got this unwieldy mess all under 1 roof. From there, we had to make a decision to stay with them & pay 0.67 or 1% fee for AUM, or go our separate ways. The financial advisor had a complicated portfolio with 20 funds from 15 companies. I started doing my own homework, and discovered the Boglehead 3-fund portfolio. Then I learned how to do my own backtesting. A backtest of 10 years of data showed that the 3-fund portfolio beat the fancy sauce portfolio by a little bit (each with the same allocation of stocks/bonds).  \n  \nSo we split and have no regrets. The 3-fund portfolio is a great option for reducing risk, getting good returns, while keeping it simple and the maintenance can be as little as 10 minutes per year.  \n  \nI've since been learning a lot about better methods to invest, so I've moved on from the 3-fund portfolio, but I still think the 3-fund is a great option for many people.",
-        "score": 2,
-        "author": "bejammin075"
-      }
-    ],
-    "summary_he": "כותב הפוסט מבקש מבעלי הון של 1 עד 10 מיליון דולר המשתמשים בניהול מקצועי לשתף נתונים על תשואותיהם וגובה דמי הניהול שהם משלמים. המטרה היא להשוות בין ביצועי מנהלי עושר לבין ניהול עצמי של התיק (בשיטת בוגלהד) כדי להחליט באיזו דרך לבחור.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות ב-Reddit, המציג 6 נקודות מבט ודעות שונות של חברי הקהילה:\n\n*   **השפעת דמי הניהול (Fee Drag):** הבעיה המרכזית עם יועצים פיננסיים אינה בהכרח יעד התשואה, אלא עלויות הניהול הגבוהות (AUM). במצטבר, דמי ניהול של 1% על תיק משמעותי יכולים להגיע לעשרות אלפי דולרים בשנה, בעוד שניהול עצמי של תיק מדדים פשוט עולה שבריר מכך.\n*   **הצורך במדד ייחוס אובייקטיבי:** כדי להבין אם יועץ באמת שווה את עלותו, יש להשוות את ביצועיו (בנטרול השפעת מועדי ההפקדות) מול מדד ייחוס פשוט לאורך תקופה של חמש שנים. יועצים נוטים לעיתים להסתיר ביצועי חסר מאחורי \"קישוט\" הנתונים.\n*   **התאמה אישית מול תשואה גולמית:** התמקדות רק בתשואה שנתית היא טעות בראיית התמונה הכוללת. הערך של תיק מנוהל טמון בהתאמת תמהיל ההשקעות, רמת הסיכון ואופק הזמן לצרכים הייחודיים של המשקיע, נתונים שמשתנים דרמטית מאדם לאדם.\n*   **יתרונות המיסוי בניהול מקצועי:** אחד היתרונות המשמעותיים של ניהול חשבונות מנוהלים הוא ניצול אסטרטגיות מס, כמו \"קצירת הפסדי מס\" (Tax Loss Harvesting). פעולה זו יכולה לספק ערך כספי משמעותי שקשה לעיתים לבצע באופן עצמאי ויעיל באותה מידה.\n*   **ערך ה\"סדר והארגון\":** יועצים פיננסיים יכולים לספק ערך רב בביצוע \"אוברול\" פיננסי – איחוד של חשבונות רבים ומפוזרים תחת קורת גג אחת ויצירת סדר ב\"בלאגן\" הפיננסי, מה שמקל על קבלת החלטות בהמשך הדרך.\n*   **מורכבות מיותרת מול פשטות מנצחת:** יועצים נוטים לעיתים לבנות תיקים מורכבים מאוד הכוללים עשרות קרנות. עם זאת, בדיקות לאחור (Backtesting) מראות שתיקים פשוטים מאוד (כמו \"תיק 3 הקרנות\" של בוגלהדס) יכולים להניב תשואות דומות או טובות יותר, עם פחות סיכון ודרישת תחזוקה של דקות בודדות בשנה."
-  },
-  {
-    "id": "1ux7jcx",
-    "title": "HANetf launches US defence ETF: ticker GIJO",
-    "url": "https://www.reddit.com/r/investing/comments/1ux7jcx/hanetf_launches_us_defence_etf_ticker_gijo/",
-    "author": "hectormcn1",
-    "score": 2,
-    "selftext": "***HANetf has announced the launch of Future of US Defence UCITS ETF (ticker: GIJO).***  \nThe ETF aims to provide exposure to US companies benefiting from the world’s largest defence market, as America increases spending and accelerates investment in next-generation military capability.   \nThe firm writes that the US remains the world’s largest defence spender and the cornerstone of NATO’s military capability. The next phase of defence investment is increasingly focused on modern warfare, with priorities spanning autonomous systems, artificial intelligence, space, missile defence, advanced munitions, and counter-drone technologies.  \n“The proposed FY2027 Department of War budget request highlights the scale of this shift, with approximately USD1.45 trillion in total budgetary resources, up from around USD1 trillion in FY2026.  Procurement is a key driver of growth, with spending proposed to reach USD413.1 billion – an increase of 88.5 per cent year-on-year (YoY).  \n“Procurement increases YoY are expected across every major service branch, including:  \n•               Army: +100.7 per cent  \n•               Navy and Marine Corps: +49.4 per cent  \n•               Air Force and Space Force: +37.6 per cent  \n“Defence-wide programmes, including missile defence, drones, autonomy and AI-enabled systems, are set to see some of the largest increases, reflecting the changing nature of the modern battlefield.  \n“At the same time, the Pentagon is looking beyond the traditional defence primes, with a focus on expanding the industrial base, increasing production capacity and bringing more companies into the defence supply chain. The ETF’s index is designed to capture this shift, with a 5 per cent cap on each company, allowing greater representation of US small- and mid-cap defence companies.”  \nHector McNeil, Co-Founder and Co-CEO of HANetf, says: “We are delighted to be launching the Future of US Defence UCITS ETF (ticker: GIJO), providing investors with targeted exposure to the companies supporting the next phase of US defence modernisation. The defence landscape is evolving rapidly, with governments investing not only in traditional military platforms, but also in emerging capabilities such as autonomous systems, artificial intelligence, space technologies, and advanced defence infrastructure. GIJO is designed to capture this broader opportunity, bringing together established defence leaders and companies across the wider defence technology ecosystem.  \n“HANetf has established deep expertise in the defence sector, with eight defence ETFs in its range – the largest offering in Europe. We have seen first-hand the growing investor demand for these strategies, alongside a broader recognition that sustained investment in defence capabilities is essential to supporting long-term security.”",
-    "subreddit": "investing",
-    "created_utc": 1784125845,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "And what exposure does this bring to the table that ITA doesn’t?",
-        "score": 1,
-        "author": "Etherius"
-      }
-    ],
-    "summary_he": "חברת HANetf השיקה קרן סל חדשה (סימול: GIJO) המתמקדת במודרניזציה של מגזר הביטחון בארה\"ב, עם דגש על טכנולוגיות מתקדמות כמו בינה מלאכותית, מערכות אוטונומיות ולוחמת חלל. הקרן שואפת להפיק תועלת מהגידול המשמעותי המתוכנן בתקציב הביטחון האמריקאי, תוך מתן חשיפה רחבה הכוללת גם חברות קטנות ובינוניות בשרשרת האספקה הביטחונית.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח של הדיון (על בסיס התגובה שסיפקת), המרכז 6 נקודות מבט וסנטימנטים שעולים מהשאלה שהוצגה בנוגע להשוואה בין כלי השקעה לבין קרן הסל ITA (המתמקדת בתעופה וביטחון):\n\n*   **דרישה להוכחת ערך מוסף:** הסנטימנט המרכזי הוא ספקנות כלפי הכלי החדש; המגיב תוהה האם הוא מציע משהו שונה מהותית ממה שכבר קיים בשוק.\n*   **הסתמכות על מדדי ייחוס (Benchmarks):** השימוש ב-ITA כנקודת השוואה מעיד על כך שהקהילה רואה בקרן זו את \"תקן הזהב\" בתחום התעופה והביטחון, וכל הצעה חדשה חייבת להימדד מולה.\n*   **חיפוש אחר חשיפה ייחודית (Unique Exposure):** עולה השאלה האם הכלי החדש כולל תתי-סקטורים או חברות שאינן מיוצגות בקרנות הגדולות, מה שעשוי להצדיק את רכישתו.\n*   **חשש מכפילות מיותרת:** קיים סנטימנט של \"למה לי?\" – אם החשיפה זהה לזו של ITA, המשקיעים לא רואים טעם בפיצול השקעות או במעבר למכשיר פיננסי אחר.\n*   **התמקדות במהות הנכסים ולא בשם המותג:** השאלה מראה שהקהילה בוחנת לעומק את ה-Underlying Assets (הנכסים שבבסיס הקרן) ולא מסתפקת בהבטחות שיווקיות של מוצר חדש.\n*   **צורך בבידול תחרותי:** המגיב מזמין למעשה דיון על יתרונות יחסיים (כמו דמי ניהול, פיזור גיאוגרפי או משקולות של מניות ספציפיות) שייתכן וקיימים בכלי החדש אך חסרים ב-ITA."
+    "comments_summary_he": "להלן סיכום הדיון בשרשור המבוסס על התגובות שנבחרו, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה:\n\n*   **דה-הומניזציה וציניות כלפי איסוף נתונים:** קיימת ביקורת חריפה (המוצגת בסרקזם) על כך שתעשיית ה-AI מתייחסת לסבל אנושי קיצוני, כמו רעב, כאל \"נקודות נתונים\" יקרות ערך לאימון מודלים, במקום לראות בו טרגדיה אנושית הדורשת פתרון.\n*   **בזבוז משאבים מול תוצרים ירודים:** עולה טענה כי טכנולוגיית ה-AI צורכת משאבים אדירים (אנרגיה, כסף, כוח מחשוב) בקצב חירום, אך בתמורה מספקת תוצרים באיכות נמוכה (\"slop\") שאינם מצדיקים את ההשקעה.\n*   **תחושת כפייה וחוסר דמוקרטיות:** הקהילה מבטאת תחושה שהמירוץ אחר ה-AI נכפה על הציבור ללא הסכמתו. הפיתוח המואץ מתואר כ\"מלחמה\" שהאזרחים לא הצביעו עבורה ולא רצו בה.\n*   **ביקורת על תרבות ה\"AI Bros\":** קיים סנטימנט שלילי כלפי היזמים והדמויות שמובילות את התחום, המכונים \"AI Bros\". הם נתפסים כאופורטוניסטים המחפשים \"כסף קל\" ולא כחדשנים המעוניינים בטובת האנושות.\n*   **ה-AI כסכימה להתעשרות מהירה (Get Rich Quick):** חלק מהמשתמשים רואים ב-AI רק עוד שלב בשרשרת של טרנדים כלכליים חולפים. התפיסה היא שברגע שהרווח המהיר ייגמר, אותם יזמים יעברו ל\"דבר הבא\" וינטשו את הטכנולוגיה.\n*   **השלכות ארוכות טווח על הציבור:** מובע חשש כבד מכך שהחברה כולה תיאלץ לשלם את המחיר (הכלכלי, החברתי או הסביבתי) על ההתנהלות חסרת האחריות והחמדנות המאפיינת את תעשיית ה-AI כיום."
   },
   {
     "id": "1uychm2",
@@ -250,110 +90,378 @@ window.dailyTrends = [
     ],
     "summary_he": "חברת המדיה של טראמפ מתכננת להציע לסוחרים גישה מוקדמת בתשלום לפוסטים שלו, שעשויים להשפיע על תנודות השוק. כותב הפוסט תוהה לגבי חוקיות המהלך ומביע חשש עמוק מפגיעה באמון הציבור ביושרתו של שוק ההון.",
     "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון והדעות העולות מן התגובות בשרשור ה-Reddit:\n\n*   **האשמה בשחיתות חסרת תקדים:** אחד המגיבים טוען באופן נחרץ כי מדובר בנשיא המושחת ביותר בהיסטוריה, מה שמעיד על תחושת סלידה עמוקה מהתנהלותו.\n*   **ציניות ולעג כלפי המצב:** השימוש בביטוי \"LOL\" (צחוק בקול רם) בתחילת הביקורת מרמז על גישה צינית ומרירה כלפי המציאות הפוליטית, כאילו השחיתות הפכה לבדיחה עצובה.\n*   **זעם מוסרי קיצוני:** התגובה המייחלת לקיומו של \"גיהינום\" מעידה על כך שהגולשים חשים שהמעשים הנידונים הם כה חמורים, עד שרק עונש נצחי או על-טבעי יהיה הולם עבורם.\n*   **אובדן אמון במערכת המשפט האנושית:** המשאלה לצדק מטאפיזי (גיהינום) מרמזת על תחושת יאוש מכך שהמערכת החוקית או המוסדות הקיימים יצליחו להעניש את האחראים או לעשות צדק.\n*   **ביקורת על התנהלות פיננסית לא אתית:** אחד המגיבים מזהה את הפעולות המתוארות כ\"מסחר במידע פנים\" (Insider Trading), מה שמצביע על תפיסה של ניצול כוח פוליטי לצורך רווח כלכלי אישי.\n*   **תסכול מהפומביות של השחיתות:** קיימת תחושת זעזוע מכך שהפעולות הבלתי ראויות לכאורה נעשות בגלוי (\"Out in the open\"), ללא ניסיון להסתירן וללא חשש מהשלכות ציבוריות או משפטיות."
+    "comments_summary_he": "להלן סיכום הדיון והדעות העולות מן התגובות בשרשור ה-Reddit:\n\n*   **האשמה בשחיתות חסרת תקדים:** אחד המגיבים טוען באופן נחרץ כי מדובר בנשיא המושחת ביותר בהיסטוריה, מה שמעיד על תחושת סלידה עמוקה מהתנהלותו.\n*   **ציניות ולעג כלפי המצב:** השימוש בביטוי \"LOL\" (צחוק בקול רם) בתחילת הביקורת מרמז על גישה צינית ומרירה כלפי המציאות הפוליטית, כאילו השחיתות הפכה לבדיחה עצובה.\n*   **זעם מוסרי קיצוני:** התגובה המייחלת לקיומו של \"גיהינום\" מעידה על כך שהגולשים חשים שהמעשים הנידונים הם כה חמורים, עד שרק עונש נצחי או על-טבעי יהיה הולם עבורם.\n*   **אובדן אמון במערכת המשפט האנושית:** המשאלה לצדק מטאפיזי (גיהינום) מרמזת על תחושת יאוש מכך שהמערכת החוקית או המוסדות הקיימים יצליחו להעניש את האחראים או לעשות צדק.\n*   **ביקורת על התנהלות פיננסית לא אתית:** אחד המגיבים מזהה את הפעולות המתוארות כ\"מסחר במידע פנים\" (Insider Trading), מה שמצביע על תפיסה של ניצול כוח פוליטי לצורך רווח כלכלי אישי.\n*   **תסכול מהפומביות של השחיתות:** קיימת תחושת זעזוע מכך שהפעולות הבלתי ראויות לכאורה נעשות בגלוי (\"Out in the open\"), ללא ניסיון להסתירן וללא חשש מהשלכות ציבוריות או משפטיות.",
+    "dateString": "2026-07-17",
+    "savedAt": {
+      "_seconds": 1784276528,
+      "_nanoseconds": 704000000
+    }
   },
   {
-    "id": "1ux6ptb",
-    "title": "How Do You Manage Your Local Marketing Tasks?",
-    "url": "https://www.reddit.com/r/business/comments/1ux6ptb/how_do_you_manage_your_local_marketing_tasks/",
-    "author": "Plastic-Speed-5635",
-    "score": 2,
-    "selftext": "\n\nManaging local marketing involves many different tasks and everyone has their own workflow I have noticed that different approaches work better depending on the type of business and goals\n\nWhat does your local marketing workflow usually look like?\n\nAre there any tasks that have become easier with experience?\n\nWould be interesting to hear how others handle their day to day process",
-    "subreddit": "business",
-    "created_utc": 1784124041,
+    "id": "1uy864e",
+    "title": "TSMC profit jumped 77% and still stock is down 4-5%.",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1uy864e/tsmc_profit_jumped_77_and_still_stock_is_down_45/",
+    "author": "mahend72",
+    "score": 248,
+    "selftext": "Honestly this is little worrying for AI stocks. Company results are very strong, AI chip demand is still there, but investors still selling TSMC, Nvidia, Micron and other chip stocks.\n\nMaybe the problem is not business. Maybe expectations are just too high now.\n\nFor last few years, good earnings was enough to push AI stocks higher. Now even very good results are not enough because market already priced too much future growth.\n\nI don’t think AI boom is over, but maybe easy money part is over. Investors will now check valuation, spending and future guidance more carefully.\n\nIf chip stocks recover fast, then probably just short-term selling. But if weakness continue, it can be warning that AI trade is becoming overcrowded.\n\nWhat do you guys think?",
+    "subreddit": "StockMarket",
+    "created_utc": 1784220210,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "I'm still improving my local marketing workflow, and somewhere I  think consistency is the biggest lesson for me like regularly monitoring reviews and working on local SEO. Every time I learn something new..",
-        "score": 1,
-        "author": "RenuSheikh"
+        "body": "“Yeah but they’re not beating earnings by more than expected as much as we expected them to beat earnings by”",
+        "score": 5,
+        "author": "bluefinjim"
+      },
+      {
+        "body": "I think this is caused by the global tech downturn, and even the best performance today cannot be immune to it",
+        "score": 3,
+        "author": "Ok-Knowledge3177"
+      },
+      {
+        "body": "It's also about future guidance. A company could beat all expectations for this earning call, but announce that they expect future results to be lower than expected. The stock price will reflect the future expectations, not this one specific earning call.",
+        "score": 2,
+        "author": "IllllIIlIllIllllIlll"
       }
     ],
-    "summary_he": "הפוסט עוסק בניהול משימות של שיווק מקומי ומבקש מהגולשים לשתף את תהליכי העבודה (workflows) שלהם. הכותב מתעניין באילו משימות הופכות לקלות יותר עם הניסיון וכיצד אנשי מקצוע אחרים מנהלים את שגרת השיווק היומית שלהם.",
+    "summary_he": "למרות זינוק מרשים ברווחי חברת TSMC, המניה רשמה ירידות המעידות על כך שהציפיות הגבוהות מתחום ה-AI כבר מתומחרות בשוק במלואן. נראה כי תקופת \"הכסף הקל\" הסתיימה, והמשקיעים הופכים לזהירים וביקורתיים יותר לגבי הערכות שווי ותחזיות צמיחה עתידיות של חברות השבבים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המנתח את נקודות המבט השונות שעלו מן התגובות:\n\n*   **אכזבה משיעור הצמיחה היחסי:** למרות שהחברה עקפה את תחזיות הרווח הרשמיות, נוצרה אכזבה מכך שהפער בין התוצאות לציפיות לא היה גדול מספיק. השוק ציפה ל\"הפתעה\" משמעותית הרבה יותר מזו שהתקבלה בפועל.\n*   **השפעת המגמות הגלובליות:** קיימת הערכה שהמצב אינו נובע בהכרח מביצועי החברה עצמה, אלא מהאטה כללית (Downturn) בסקטור הטכנולוגיה העולמי המשפיעה על כלל השחקנים בשוק.\n*   **חוסר חסינות למקרו-כלכלה:** גם חברות שמציגות את הביצועים הטובים ביותר אינן יכולות להיות חסינות לחלוטין מפני תנאי שוק קשים או מגמות ירידה רוחביות בתעשייה שלהן.\n*   **מרכזיותן של תחזיות העתיד (Guidance):** המשקיעים מדגישים כי דוח רווחים מוצלח ככל שיהיה הוא \"היסטוריה\", ומה שקובע באמת את מחיר המניה הוא התחזית שהחברה מספקת לגבי הרבעונים הבאים.\n*   **מבט צופה פני עתיד:** מחיר המניה משקף את הציפיות למה שיקרה בעתיד ולא את מה שקרה בעבר; לכן, הודעה על צפי לירידה בתוצאות העתידיות תגרור ירידה במחיר המניה גם אם הדוח הנוכחי היה מצוין.\n*   **פער הציפיות של המשקיעים:** קיימת הבחנה בין \"עמידה בתחזיות האנליסטים\" לבין הציפיות הבלתי כתובות של הקהילה והמשקיעים בשטח, שלעיתים מציבים רף גבוה בהרבה מזה הרשמי."
+  },
+  {
+    "id": "1uyc1n7",
+    "title": "How did you end up for anyone who started investing in their 30's",
+    "url": "https://www.reddit.com/r/investing/comments/1uyc1n7/how_did_you_end_up_for_anyone_who_started/",
+    "author": "toughcucumberrr",
+    "score": 247,
+    "selftext": "I am about to be 32 in December and I just landed my first high paying job. I essentially lived paycheck to paycheck in my 20's but now with my new income, i have enough to invest about 200-300 a month. All I see on reddit are 25 year olds with 500k portfolio. Am I behind?",
+    "subreddit": "investing",
+    "created_utc": 1784228565,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Sir, you are the exception, not the norm. Please stop ",
+        "score": 2,
+        "author": "floodingurtimeline"
+      },
+      {
+        "body": "“if you’re not first, you’re last “",
+        "score": 2,
+        "author": "_LouSandwich_"
+      },
+      {
+        "body": "By definition. You're wrong. Here..",
+        "score": 2,
+        "author": "Blizzardexe"
+      }
+    ],
+    "summary_he": "כותב הפוסט, בן 32 שהחל להרוויח שכר גבוה רק לאחרונה, מתכנן להתחיל להשקיע כ-200–300 דולר בחודש לאחר שנים שבהן חי מהיד לפה. הוא מביע חשש שהוא נמצא בפיגור משמעותי, במיוחד בהשוואה לצעירים אחרים ברשת שמציגים תיקי השקעות גדולים כבר בגיל 25.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן ניתוח של תמצית הדיון המבוסס על התגובות המוצגות, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה:\n\n*   **דחיית החוויה האישית כנורמה:** אחד המגיבים מדגיש כי הכותב המקורי מהווה \"יוצא מן הכלל\" ולא את הכלל. הקהילה מבקשת להבהיר שאין להקיש ממקרה פרטני על הכלל הרחב.\n*   **תפיסת עולם תחרותית ובינארית:** השימוש בציטוט \"אם אתה לא ראשון, אתה אחרון\" משקף גישה של \"הכל או כלום\". ייתכן שמדובר בציניות או בביקורת על הלחץ להצטיין, אך זהו סנטימנט מרכזי בדיון.\n*   **התבססות על עובדות והגדרות יבשות:** ניכר כי קיימת חשיבות רבה לדיוק. אחד המגיבים פוסל את דברי הכותב על הסף בטענה שהם שגויים \"לפי ההגדרה\", מה שמעיד על העדפת לוגיקה על פני רגש או דעה.\n*   **חוסר סבלנות להכללות:** הביטוי \"בבקשה תפסיק\" (Please stop) מעיד על מיאוס של הקהילה מטענות מסוימות שנתפסות כשגויות, מטעות או חוזרות על עצמן.\n*   **עימות ישיר ובוטה:** הטון בתגובות הוא ישיר מאוד וחסר גינונים. המגיבים לא מהססים לקבוע שהכותב \"טועה\" באופן נחרץ, ללא ניסיון לייצר שיח מעדן.\n*   **דרישה לתיקוף (Validation):** השימוש במילה \"הנה..\" (Here..) בתגובה השלישית מרמז על כך שהקהילה מצפה להוכחות או למקורות חיצוניים כדי ליישב מחלוקות, ולא מסתפקת בהצהרות ריקות."
+  },
+  {
+    "id": "1uy61eo",
+    "title": "Why S&P hasn't moved since war re-escalated",
+    "url": "https://www.reddit.com/r/investing/comments/1uy61eo/why_sp_hasnt_moved_since_war_reescalated/",
+    "author": "clintron_abc",
+    "score": 219,
+    "selftext": "TBH, I really don't understand what's happening with the market right now. It feels like all the war-related news isn't having much of an impact anymore. At best, it seems to prevent the market from moving higher for a while, but it doesn't seem to trigger the kind of sell-off we saw before.\n\nWhat I'm struggling to understand is what's actually so different now compared to April, when the market reacted much more negatively. Back then, similar geopolitical tensions caused a significant drop, but now investors seem to shrug it off almost immediately. Is the market simply pricing in these risks now, or is there something fundamentally stronger about the current environment that's outweighing the uncertainty? I'm genuinely trying to understand what has changed.",
+    "subreddit": "investing",
+    "created_utc": 1784215568,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Yeah, let's say you're an economist and you know a prolonged conflict with Iran would devastate the world economy.  So, upon hearing the war is starting and dumps, but you sell anyway because you know it'll get worse.  Then, 4 days later, Trump comes out and says they are near an agreement to end the war and the market pumps.  Whoops!  Better buy back in because there won't be a long war after all.  So, you buy back in at the higher price.  This repeats like 10 times over the next 4-5 months.  By the 4th cycle, you might just not believe the war is really starting for good now and just not do anything expecting (correctly) that 4 days later, peace will be imminent again. ",
+        "score": 13,
+        "author": "MathW"
+      },
+      {
+        "body": "“we’re all”\n\n… dude, “you all” are definitely not determining any market prices.",
+        "score": 8,
+        "author": "vitringur"
+      },
+      {
+        "body": "People with big money dont get tired like that. Its their job...",
+        "score": 7,
+        "author": "Wide_Lock_Red"
+      }
+    ],
+    "summary_he": "הכותב תוהה מדוע מדד ה-S&P 500 נותר יציב למרות ההסלמה הביטחונית, בניגוד לירידות החדות שנרשמו בתגובה לאירועים דומים באפריל. הוא מבקש להבין אם השוק כבר \"תמחר\" את הסיכונים הללו, או שמא החוסן הנוכחי נובע מנתונים כלכליים חזקים שגוברים על חוסר הוודאות הגיאופוליטי.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, הכולל 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **הקושי שבמסחר על בסיס אירועים גיאופוליטיים:** קיים תסכול רב מהניסיון לחזות את השוק על סמך חדשות (כמו עימות צבאי עם איראן), שכן השוק מגיב בצורה תנודתית ובלתי צפויה להצהרות פוליטיות.\n*   **מלכודת ה\"קנייה ביוקר ומכירה בזול\":** משקיעים חווים מעגל הרסני שבו הם מוכרים מתוך פחד כשיש חדשות רעות, ואז נאלצים לקנות בחזרה במחיר גבוה יותר כשהמצב נרגע, מה שמוביל לשחיקה בתיק ההשקעות.\n*   **התפתחות של אדישות וחוסר אמון (Desensitization):** לאחר מספר סבבים של \"אזעקות שווא\" או שינויים חדים בעמדות המנהיגים, משקיעים מפסיקים להגיב לחדשות מהותיות ופשוט נמנעים מפעולה, מתוך הנחה שהמצב ישתנה שוב תוך ימים ספורים.\n*   **ניפוח האגו של המשקיע הקטן:** קיימת ביקורת כלפי משתמשים שמשתמשים בביטוי \"כולנו\" בהקשר של קביעת כיוון השוק; נטען כי למשקיעים פרטיים בפורומים אין באמת השפעה על מחירי הנכסים.\n*   **הבדלים בין משקיעים מוסדיים לפרטיים:** בעוד שמשקיעים קטנים חווים עייפות רגשית ושחיקה, ה\"כסף הגדול\" (גופים מוסדיים) אינו מתעייף. עבורם מדובר בעבודה מקצועית וקרה, והם פועלים ללא הטיות רגשיות של תשישות.\n*   **השפעת הרטוריקה הפוליטית על הכלכלה:** הדיון מדגיש כיצד הצהרות של מנהיגים (כמו דונלד טראמפ בדוגמה שניתנה) יכולות לשנות את מגמת השוק ברגע, מה שהופך גם ניתוח כלכלי מושכל של מומחים לבלתי רלוונטי בטווח הקצר."
+  },
+  {
+    "id": "1uycwab",
+    "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1uycwab/dallas_fed_president_logan_calls_for_modestly/",
+    "author": "Argothaught",
+    "score": 64,
+    "selftext": "\\>Dallas Federal Reserve President Lorie Logan, asserting that this week’s good inflation news wasn’t good enough, called Thursday for “modestly” higher interest rates to win a battle the central bank has been losing for the past five years.\n\n\\>A voting member this year on the rate-setting Federal Open Market Committee, Logan insisted that inflation is still a major problem for U.S. households that demands action from policymakers. While other Fed officials have expressed a preference for higher rates if inflation metrics don’t improve, Logan’s is the most specific call for a hike.\n\n\\>“I currently believe modestly higher interest rates would better balance the outlook and risks for the FOMC’s dual mandate goals,” Logan said in prepared remarks for a speech in Houston. “Every month of above-target inflation has compounded the strain on Americans’ budgets.”\n\n\\>\\[...\\]“One month of relief is not enough. It is time to finish the job of restoring price stability,” she said. “In monetary policy as in hockey, you have to skate where the puck is going. Unfortunately, inflation does not appear to be headed sustainably back all the way to 2 percent.”",
+    "subreddit": "StockMarket",
+    "created_utc": 1784230465,
+    "thumbnail": "https://external-preview.redd.it/KtauNIgKnPYwJ1tWOwv6tlYlHXs87XmlrV3-lscYQ-Q.jpeg?width=140&height=78&auto=webp&s=04dc1a11b9a62f74ae5a15261f64ea4a400f5ee4",
+    "top_comments": [
+      {
+        "body": "Yes but trump wants lower rates so she must be fired. In sure has missed something on a tax return, parked illegally or she’s lied or omitted something on a form at some point in her life allowing for federal charges to be brought.",
+        "score": 3,
+        "author": "gadgetwalrus"
+      },
+      {
+        "body": "I agree, definitely needs to be looked at for an integrity based promotion immediately ",
+        "score": 3,
+        "author": "Allout-Okarun"
+      },
+      {
+        "body": "There was never a valid, data based reason to start a cutting cycle in Sept 2024",
+        "score": 3,
+        "author": "harbison215"
+      }
+    ],
+    "summary_he": "נשיאת הפדרל ריזרב של דאלאס, לורי לוגן, קראה להעלאה \"צנועה\" של הריבית בטענה שנתוני האינפלציה האחרונים אינם מספקים כדי להשיב את יציבות המחירים. לוגן הדגישה כי האינפלציה נותרה בעיה מרכזית עבור משקי הבית בארה\"ב וכי יש צורך בצעדים נוספים כדי להגיע ליעד של 2%.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון בשרשור המבוסס על התגובות שצוינו, המציג 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **לחץ פוליטי להורדת ריבית:** קיימת טענה כי המניע המרכזי לרצון לפטר דמויות מפתח (ככל הנראה בבנק המרכזי) הוא שאיפתו של טראמפ להוריד את הריבית במשק.\n*   **שימוש באמתלות משפטיות ככלי פוליטי:** עלתה הצעה (ייתכן שבאופן ציני) לחפש \"לכלוך\" או עבירות עבר מינוריות, כגון טעויות בהחזרי מס, עבירות חניה או השמטת פרטים בטפסים, כדי לאפשר הגשת כתבי אישום פדרליים שיצדיקו פיטורים.\n*   **הערכה ליושרה מקצועית:** לצד הביקורת, ישנו קול הקורא לבחון קידום של בעלי תפקידים על בסיס יושרה ואמינות (\"Integrity-based promotion\"), מה שמעיד על הערכה לעמידה איתנה מול לחצים.\n*   **ביקורת על תזמון המדיניות המוניטרית:** בקהילה נשמעת ביקורת חריפה על ההחלטה להתחיל בסבב הורדות הריבית בספטמבר 2024, בטענה שלא היה לכך בסיס מוצדק באותה עת.\n*   **הטלת ספק בביסוס הנתונים:** הועלתה טענה כי לא הייתה סיבה תקפה המבוססת על נתונים (Data-based reason) לשינוי המדיניות הכלכלית, מה שמרמז על חשד להחלטות שאינן מקצועיות גרידא.\n*   **סנטימנט של ציניות כלפי המערכת:** הדיון משקף תחושה של חוסר אמון, שבו החלטות כלכליות ומינויים נתפסים כחלק ממשחק כוחות פוליטי ולאו דווקא כתוצאה של צרכים משקיים אובייקטיביים."
+  },
+  {
+    "id": "1uyby2a",
+    "title": "Battery manufacturing had more revenue than the entirety of AI in 2025",
+    "url": "https://www.reddit.com/r/investing/comments/1uyby2a/battery_manufacturing_had_more_revenue_than_the/",
+    "author": "Tiny-Pomegranate7662",
+    "score": 59,
+    "selftext": "Doing a comparison here - the largest battery maker CATL - brought in 60 billion of revenue in 2025. Pure AI end service revenue (meaning not the intermediate pick and shovel people, only pure AI end product subscription revenue) was estimated to be (because tech refuses to line item it on earnings) between 60-100 billion. If we take the entire battery industries revenue, the number goes up to over 150 billion\n\nCATL has a market cap of 250 billion. AI has a market cap in the trillions. I used Google AI to get these numbers. \n\nThere's a gross misappropriation of capital towards tech that's ACTUALLY going to change the future. \n\n",
+    "subreddit": "investing",
+    "created_utc": 1784228357,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Just a totally flawed comparison. \n\nBatteries are a mature, low-margin, commoditized industry. The market isn’t pricing AI’s *current* revenue, it’s pricing a bet on where that revenue goes in 5-10 years. CATLs revenue grew 17.04% year-over-year. Anthropic’s grew by \\~1,000%. ",
+        "score": 37,
+        "author": "c-u-in-da-ballpit"
+      },
+      {
+        "body": "Anthropics revenue grew from $9 billion to $47 billion in less than a year.\n\nNobody is saying batteries aren’t a growing industry, but you’re comparing them to the fastest growing companies in history and acting like it proves something.",
+        "score": 11,
+        "author": "c-u-in-da-ballpit"
+      },
+      {
+        "body": "They’re high but once the models are trained and infrastructure is mature, marginal cost of serving a customer is low and gross margins for API/subscription businesses are typically 60-80%\n\nCATLs is 17% and it’s compressed recently. Battery manufacturing businesses will always have real cost-of-goods pressure, commoditization, and price wars eating into margins.\n\nSo a dollar of AI revenue and a dollar of battery revenue aren’t equivalent in what they imply about future profit. The AI dollar theoretically converts to profit at a much higher rate, assuming compute costs come down or utilization improves.\n\nWho knows if that’ll happen, but again. You’re comparing two completely different industries in a non-sensical way.",
+        "score": 6,
+        "author": "c-u-in-da-ballpit"
+      }
+    ],
+    "summary_he": "הפוסט משווה בין הכנסות תעשיית הסוללות לאלו של תחום ה-AI בשנת 2025, ומציין כי מגזר הסוללות ייצר הכנסות גבוהות משמעותית (מעל 150 מיליארד דולר) לעומת מוצרי קצה מבוססי בינה מלאכותית. למרות זאת, שווי השוק של תחום ה-AI נאמד בטריליונים בעוד שווי יצרניות הסוללות נמוך בהרבה, מה שמוביל את הכותב למסקנה כי קיימת הקצאת הון שגויה לטובת טכנולוגיה \"מנופחת\" על חשבון תעשייה חיונית יותר.",
     "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון והתובנות המרכזיות שעלו מתוך התגובות, תוך התמקדות בשיפור תהליכי עבודה בשיווק מקומי:\n\n*   **חשיבותו של שיפור מתמיד:** קיימת הסכמה רחבה ששיווק מקומי אינו פעולה חד-פעמית, אלא תהליך מתמשך הדורש אופטימיזציה ושיפור מתמיד של זרימת העבודה (Workflow) כדי להישאר רלוונטיים.\n*   **עקביות כערך עליון:** הלקח המרכזי שעולה הוא שהתמדה ועקביות הן המפתחות להצלחה. פעולות קטנות שנעשות באופן קבוע מניבות תוצאות טובות יותר מאשר מאמצים גדולים ומקוטעים.\n*   **ניהול מוניטין אקטיבי:** ניטור קבוע של ביקורות גולשים נתפס כחלק קריטי באסטרטגיה השיווקית. מענה לביקורות ושימוש בהן ככלי לשיפור השירות הם אלמנטים הכרחיים לבניית אמון בקהילה המקומית.\n*   **התמקדות ב-SEO מקומי:** קיימת הבנה שקידום אתרים מקומי (Local SEO) הוא כלי טכני חיוני שדורש עבודה שוטפת ועדכנית כדי להבטיח שהעסק יופיע בתוצאות החיפוש הרלוונטיות ביותר.\n*   **למידה כדרך חיים:** הקהילה מדגישה את הדינמיות של התחום; העוסקים בשיווק מרגישים שתמיד ישנם כלים, אלגוריתמים ושיטות חדשות ללמוד, וחשוב לשמור על פתיחות וסקרנות מקצועית.\n*   **גיבוש מתודולוגיה מסודרת:** הדגש על \"שיפור תהליכי העבודה\" מעיד על צורך במערכת חוקים וסדר פעולות מובנה, המשלב בין הניטור הטכני לבין האינטראקציה עם הלקוחות, כדי ליצור מערך שיווקי אפקטיבי."
+    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות, המציג 6 נקודות מבט וטיעונים מרכזיים בנוגע להשוואה בין תעשיית ה-AI לתעשיית הסוללות:\n\n*   **פגם יסודי בעצם ההשוואה:** המגיבים טוענים כי ההשוואה בין שתי התעשיות אינה רלוונטית ומטעה מיסודה. בעוד שתעשיית הסוללות היא תעשייה יצרנית בוגרת עם מתחי רווח נמוכים, תעשיית ה-AI נמצאת בשלב של צמיחה מעריכית ותמחור המבוסס על עתיד רחוק.\n*   **הבדלים קיצוניים בקצבי הצמיחה:** הודגש הפער העצום בצמיחה בין המגזרים. בעוד שחברת סוללות מובילה כמו CATL מציגה צמיחה שנתית מכובדת של כ-17%, חברות AI כמו Anthropic מציגות צמיחה פנומנלית של מאות ואלפי אחוזים בשנה אחת בלבד.\n*   **מבנה רווח ושולי רווח גולמי:** קיים הבדל משמעותי בפוטנציאל הרווחיות. במודל ה-AI, לאחר שהתשתית הוקמה והמודל אומן, העלות השולית של שירות לקוחות נוסף היא נמוכה מאוד, מה שמאפשר שולי רווח גולמי גבוהים (60-80%). מנגד, ייצור סוללות כרוך בעלויות חומרים וייצור קבועות וגבוהות, המגבילות את שולי הרווח לכ-17%.\n*   **תהליך ה\"קומודיטיזציה\" (Commoditization) של הסוללות:** המגיבים מציינים שתעשיית הסוללות הפכה לשוק של מוצרי צריכה בסיסיים, שבו התחרות היא בעיקר על מחיר. מלחמות מחירים ולחצי עלויות ייצור שוחקים את הרווחיות בתחום הסוללות באופן שאינו קיים כרגע בתחום ה-AI.\n*   **תמחור המבוסס על פוטנציאל עתידי ולא על הכנסה נוכחית:** השוק לא מתמחר חברות AI לפי ההכנסות הנוכחיות שלהן, אלא כהימור על המקום שבו הן יהיו בעוד 5-10 שנים. הערך של \"דולר הכנסה\" ב-AI גבוה בהרבה מ\"דולר הכנסה\" בסוללות, כיוון שהפוטנציאל להפוך את הדולר הזה לרווח נקי גבוה משמעותית ב-AI.\n*   **התלות בירידת עלויות המחשוב:** הקהילה מציינת כי הרווחיות העתידית של ה-AI אינה מובטחת לחלוטין ותלויה בכך שעלויות המחשוב (Compute costs) יירדו או שנצילות המשאבים תשתפר באופן משמעותי, אך גם עם סייג זה, התעשיות נחשבות לשונות לחלוטין באופיין הכלכלי."
   },
   {
-    "id": "1uyt9a2",
-    "title": "Need some advice, I’m down a lot this month due to being invested in AI and space",
-    "url": "https://www.reddit.com/r/investing/comments/1uyt9a2/need_some_advice_im_down_a_lot_this_month_due_to/",
-    "author": "AloneStaff5051",
-    "score": 1,
-    "selftext": "I think the title speaks for itself I’m down a lot this month. And I’m not sure how to do deal with this. I have realised I’m not made to handle volatility, so I will trim these stocks when I breakeven. \n\nI was up 50 percent YTD in first week of June. It’s all gone as of now. How do I deal with this downturn. I can’t stop thinking about this",
+    "id": "1uy77kb",
+    "title": "$RKLB is now trading at October 2025 prices. Thoughts?",
+    "url": "https://www.reddit.com/r/investing/comments/1uy77kb/rklb_is_now_trading_at_october_2025_prices/",
+    "author": "buyingstuff555",
+    "score": 24,
+    "selftext": "Is this a good buying opportunity? There was massive appreciation over the last year but it's starting to feel a little over-sold, and maybe this is a good entry point for a long term (5-10+ years) hold. I'm wondering if the CEO selling a bunch of shares had a psychological effect and boosted the recent sell-off, but most analysts (yes I know that means little) still have target prices in the $100-$150 range.\n\nJust interested in general thoughts.",
     "subreddit": "investing",
-    "created_utc": 1784275144,
+    "created_utc": 1784218124,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Nobody knows if those stocks will rebound next week, next month or never. Peter Lynch describes your case very well in this lectures — you can find on youtube, about 30-40 min long videos, but very informative.",
-        "score": 1,
-        "author": "PaperCraftPilot"
+        "body": "“Back to October 2025 prices” is mostly anchoring. The business is stronger now, but the stock still prices in a lot of future execution. I’d watch Neutron milestones, cash burn/dilution, and whether the backlog actually converts into revenue before calling it cheap.",
+        "score": 43,
+        "author": "thesuperlede"
       },
       {
-        "body": "I agree with him. Sell and wait a bit. Cash is not so bad when the whole market is down 40% lmao",
-        "score": 1,
-        "author": "brimbopolous"
+        "body": "Definitely not calling it cheap, but questioning if it's going to _get cheaper_. As you said the business is stronger and they are growing fast, so seems like it might be an opportunity for those that hadn't bought prior to the major run-up beginning in 2025.",
+        "score": 10,
+        "author": "buyingstuff555"
       },
       {
-        "body": "Not really good advice here. This would be the case for non-cyclical, moat-like stocks, not high growth case tech stocks with stretched valuations",
-        "score": 1,
-        "author": "brimbopolous"
+        "body": "I'm a long term believer in space industry and rocketlabs is one of the companies I believe will be a winner. I've been buying and will continue to buy at these prices",
+        "score": 6,
+        "author": "george_alto"
       }
     ],
-    "summary_he": "הכותב מדווח על הפסדים כבדים החודש בעקבות השקעות במגזרי הבינה המלאכותית והחלל, אשר מחקו רווח של 50% שנצבר מתחילת השנה. הוא משתף כי הוא מתקשה להתמודד רגשית עם התנודתיות הגבוהה בשוק ומתכנן לצמצם את החזקותיו ברגע שיחזור לנקודת האיזון (Breakeven).",
+    "summary_he": "הפוסט דן בשאלה האם הירידות האחרונות במניית Rocket Lab ($RKLB) מהוות הזדמנות קנייה טובה להשקעה לטווח ארוך (5-10 שנים). הכותב תוהה אם מכירת מניות על ידי המנכ\"ל העצימה את המגמה השלילית, ומציין כי למרות המימוש הנוכחי, חלק מהאנליסטים עדיין חוזים למניה עליות משמעותיות בעתיד.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, הכולל 6 נקודות מבט ודעות שונות שהועלו על ידי הגולשים:\n\n* **חוסר ודאות לגבי התאוששות:** קיימת הסכמה שלאף אחד אין באמת יכולת לדעת מתי המניות יתאוששו — זה יכול לקרות בשבוע הבא, בחודש הבא, או לעולם לא.\n* **הפניה למקורות ידע מקצועיים:** מומלץ להיעזר בהרצאות של המשקיע המפורסם פיטר לינץ' (הזמינות ביוטיוב), שכן הוא מתאר מצבים דומים ומספק תובנות מעמיקות על התנהלות בשוק יורד.\n* **לגיטימיות של החזקת מזומן:** בשוק שנמצא בירידה חדה (למשל צניחה של 40%), החזקת מזומן נתפסת כאסטרטגיה סבירה ולאו דווקא כטעות, שכן היא מגינה על ערך הכסף מפני המשך הנפילות.\n* **תמיכה במכירה והמתנה:** חלק מהגולשים תומכים בגישה של למכור את האחזקות כעת ולהמתין \"על הגדר\" עד שהסערה בשוק תחלוף.\n* **אבחנה בין סוגי מניות:** ישנה טענה כי עצות השקעה כלליות אינן תקפות לכל סוגי הניירות; מה שנכון למניות יציבות עם \"חפיר כלכלי\" (moat) אינו נכון בהכרח למניות טכנולוגיה.\n* **סיכון במניות צמיחה מנופחות:** הובעה הסתייגות מהחזקת מניות טכנולוגיה בעלות צמיחה גבוהה שנסחרות לפי הערכות שווי מוגזמות (stretched valuations), שכן הן פגיעות הרבה יותר בשוק יורד מאשר מניות ערך מסורתיות."
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע למניית רוקט לאב (Rocket Lab), המציג 6 נקודות מבט וסנטימנטים שונים מהקהילה:\n\n*   **הטיית ה\"עיגון\" למחירי עבר:** חלק מהמשקיעים טוענים שהשוואת המחיר הנוכחי למחירים נמוכים יותר מהעבר (כמו באוקטובר 2024/2025) היא שגויה פסיכולוגית. לטענתם, העסק חזק כיום משמעותית מכפי שהיה בעבר, ולכן המחירים הישנים כבר אינם רלוונטיים להערכת השווי הנוכחית.\n*   **ציפיות גבוהות כבר מגולמות במחיר:** קיימת דעה שהמניה אינה \"זולה\", שכן מחירה הנוכחי כבר משקף ציפיות גבוהות לביצועים עתידיים והוצאה לפועל מושלמת של תוכניות החברה.\n*   **מדדי מפתח למעקב:** משקיעים מדגישים שיש לבחון את התקדמות פיתוח טיל ה\"ניוטרון\" (Neutron), את קצב שריפת המזומנים (והחשש מדילול בעלי המניות), ואת היכולת של החברה להפוך את צבר ההזמנות הגדול שלה להכנסות בפועל לפני שמחליטים אם המניה אטרקטיבית.\n*   **הזדמנות למי ש\"פספס את הרכבת\":** עבור משקיעים שלא נכנסו לפוזיציה לפני הזינוק המשמעותי של תחילת 2025, הירידות הנוכחיות נתפסות כהזדמנות כניסה פוטנציאלית, גם אם המחיר אינו נחשב \"מציאה\" אבסולוטית.\n*   **אופטימיות כללית לגבי תעשיית החלל:** קיים סנטימנט חזק של אמונה ארוכת טווח בתחום החלל כולו. בתוך סקטור זה, רוקט לאב נתפסת על ידי הקהילה כאחת החברות בעלות הסיכוי הגבוה ביותר להפוך לדומיננטית ומובילה (\"Winner\").\n*   **אסטרטגיית איסוף והתמדה:** חלק מהמשקיעים מצהירים על אסטרטגיית קנייה מתמשכת (DCA) ללא קשר לתנודות קצרות טווח, מתוך ביטחון מלא בעתיד החברה והמשך רכישות ברמות המחירים הנוכחיות."
   },
   {
-    "id": "1uysuj8",
-    "title": "Zoom $ZM - Long Term Play",
-    "url": "https://www.reddit.com/r/investing/comments/1uysuj8/zoom_zm_long_term_play/",
-    "author": "NorCalGuySays",
-    "score": 1,
-    "selftext": "Anyone else looking or have Zoom $ZM for a long term play? Hold nearly 8 billion in cash, zero debt. Annual cash flow. They are profitable. PE of 13. Has contracts with multiple large organizations and continues to see customer growth. Especially in a post pandemic world they are continuing to be used. They have profited $1.5 billion in Anthropic. They are continuing to grow their AI services. From a society POV, using the word “Zoom” is now a household name. From a chart technical it’s down 85% from its COVID highs and looks to just be consolidating or accumulating for the last several years. Snagging shares here seems like a good low risk, very high upside play for the long-term. Downside risk is Teams but that’s competition that is typical of a market.",
+    "id": "1uy53ty",
+    "title": "Eli Lilly Jumps Into Psychedelic Medicine with Well Timed Acquisition of AtaiBeckley",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1uy53ty/eli_lilly_jumps_into_psychedelic_medicine_with/",
+    "author": "meifx",
+    "score": 12,
+    "selftext": "Atai Life Sciences acquired Beckley Psytech in June 2025 for BPL-003, a proprietary nasal spray version of DMT for use in Treatment Resistant Depression and Alcohol Use Disorder. BPL-003 had positive Phase 2 results and in the process of thinking about dosing regime and Phase 3 trial design. So still years away from commercialization, but clearly on the path to success with increasing support from the Administration (who, by the way, loves David Ricks). \n\nOn March 7, 2026, Atai announced that it was exploring strategic options for partnerships for BPL-003. The shares closed at $3.39 then.",
+    "subreddit": "StockMarket",
+    "created_utc": 1784213529,
+    "thumbnail": "https://preview.redd.it/c5yxc402tldh1.png?width=140&height=59&auto=webp&s=9127cc9069d6decde75ea19e91dd36cb9033c520",
+    "top_comments": [
+      {
+        "body": "I'm curious whether the a market starts pricing in other psychedelic biotech names now or if this stays company specific.",
+        "score": 2,
+        "author": "DevelopmentThis3182"
+      },
+      {
+        "body": "They’re going to separate soon. Especially with CMPS being the furthest ahead. ",
+        "score": 1,
+        "author": "Cptjoe732"
+      },
+      {
+        "body": "I sold most of my lly positions because of the m&as.. they r gonna kill lly’s balance sheet, at least reduce their cash position ",
+        "score": 1,
+        "author": "Apprehensive_Two1528"
+      }
+    ],
+    "summary_he": "חברת אלי לילי (Eli Lilly) נכנסת לתחום הרפואה הפסיכדלית בעקבות רכישת Beckley Psytech על ידי חברת Atai, המפתחת תרסיס אף מבוסס DMT לטיפול בדיכאון עמיד ובאלכוהוליזם. התרופה הראתה תוצאות חיוביות בשלב 2 של הניסויים הקליניים, וכעת החברה בוחנת שותפויות אסטרטגיות לקראת המעבר לשלב 3 והמשך הפיתוח בתמיכת הממשל.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מהתגובות:\n\n* **סקרנות לגבי השפעה מגזרית רחבה:** עולה שאלה האם השוק יתחיל לתמחר מחדש את כלל חברות הביוטכנולוגיה העוסקות בתחום הפסיכדלי, או שהתמחור יישאר מוגבל לחברות ספציפיות בלבד.\n* **צפי לבידול בין החברות:** קיימת הערכה שהחברות בתחום יפסיקו להיסחר כגוש אחד ויתחילו \"להיפרד\" זו מזו מבחינת ביצועי המניה, בהתאם להתקדמות האישית של כל אחת.\n* **זיהוי מובילת שוק:** חברת CMPS (Compass Pathways) מסומנת על ידי הקהילה כחברה שנמצאת בשלב המתקדם ביותר בתחום, מה שמקנה לה יתרון על פני האחרות.\n* **חשש מאסטרטגיית רכישות (M&A):** משקיעים מביעים הסתייגות ממהלכי מיזוגים ורכישות אגרסיביים של חברות ענק, מה שמוביל חלק מהם לצמצם את החשיפה שלהם למניות אלו.\n* **דאגה ליציבות הפיננסית של חברות גדולות:** עולה חשש שרכישות מרובות \"יהרגו\" את המאזן החשבונאי של חברות כמו איליי לילי (LLY) וידלדלו משמעותית את עתודות המזומנים שלהן.\n* **פעולה אקטיבית של מכירה (Sentiment):** ניכר סנטימנט שלילי כלפי מניות פארמה גדולות שנמצאות במסע רכישות, עד כדי נכונות למכור את רוב הפוזיציה במניה בשל הסיכונים הפיננסיים הכרוכים בכך."
+  },
+  {
+    "id": "1uy0wkx",
+    "title": "A tax free / deferred plan for rent / home purchase sure would help",
+    "url": "https://www.reddit.com/r/investing/comments/1uy0wkx/a_tax_free_deferred_plan_for_rent_home_purchase/",
+    "author": "SnooDoggos5226",
+    "score": 10,
+    "selftext": "We have a 401k and IRAs for retirement but that money is locked up until we’re much later in life. \n\nWe have plans to save for our kids education but that has limited uses. \n\nHow come there’s no plan to help save for home ownership purchases or rent / mortgage payments?\n\nImagine a plan that could be tax free, where I could invest my money to pay for my down payment / closing costs and use it at any time on a primary residence. \n\nConsidering that people selling their house can 1031 the gains and put it into a new home, why can’t I get the same tax benefit when purchasing my first home?",
     "subreddit": "investing",
-    "created_utc": 1784273646,
+    "created_utc": 1784203407,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "rev growth barely outpacing inflation",
-        "score": 1,
-        "author": "someroastedbeef"
+        "body": "Couldn’t you say the same for literally any other benefit or incentive? ",
+        "score": 5,
+        "author": "daishi55"
+      },
+      {
+        "body": "My point is there is no way to create a special account that is state income tax free, like what is being discussed, when your state doesn’t have an income tax.",
+        "score": 3,
+        "author": "mjxxyy8"
+      },
+      {
+        "body": "I'm not going to shit on your idea. I think it's not a terrible idea, and I can see where it would appeal to people who aren't yet homeowners. \n\nBut I will ask, have you written to your Rep. or Sen. about it? ",
+        "score": 3,
+        "author": "BlueGreenTanager"
       }
     ],
-    "summary_he": "הפוסט ממליץ על מניית זום (ZM) כהשקעה לטווח ארוך, בהתבסס על נתונים פיננסיים חזקים הכוללים יתרת מזומנים של 8 מיליארד דולר, היעדר חובות ומכפיל רווח אטרקטיבי. הכותב מציין כי למרות התחרות מצד Teams, החברה נהנית מצמיחה בתחום הבינה המלאכותית ונסחרת כעת בשפל של 85% מתחת לשיא תקופת הקורונה, מה שמהווה לדעתו הזדמנות עם פוטנציאל רווח גבוה וסיכון נמוך.",
-    "category_he": "השקעות",
-    "comments_summary_he": "מכיוון שסופקה תגובה אחת בלבד (\"הצמיחה בהכנסות בקושי עוקפת את האינפלציה\"), הניתוח להלן מפרק את המשמעויות השונות, הלכי הרוח והתובנות הנגזרות מנקודת מבט זו כפי שהן משתקפות בדיון:\n\n**סיכום הדיון בעברית:**\n\n*   **צמיחה ריאלית מול נומינלית:** הקהילה מדגישה שעלייה בשורת ההכנסות היא \"אשליה אופטית\" אם היא אינה גבוהה משמעותית משיעור האינפלציה. צמיחה שרק מדביקה את האינפלציה נתפסת כעמידה במקום ולא כהתרחבות אמיתית.\n*   **שחיקת הרווחיות:** קיים חשש מהותי שאם ההכנסות בקושי עוקפות את האינפלציה, הרי שהוצאות התפעול (שמתייקרות עם האינפלציה) עלולות לבלוע את כל הרווח, מה שמוביל לשולי רווח מצטמצמים.\n*   **תחושת קיפאון עסקי:** הביטוי \"בקושי עוקפת\" (barely outpacing) מעיד על סנטימנט של אכזבה. הקהילה רואה בכך סימן לחברה או למגזר שאיבד את המומנטום שלו ומתקשה לייצר ערך מוסף מעבר לעליית המחירים הכללית במשק.\n*   **חשש מכוח תמחור חלש:** אחת הנקודות שעולות היא חוסר היכולת של הגוף המדובר לגלגל עלויות על הלקוחות או להעלות מחירים באופן שיפצה על האינפלציה, מה שמעיד על עמדה תחרותית חלשה בשוק.\n*   **ספקנות לגבי העתיד:** הלך הרוח הוא שאם זהו קצב הצמיחה בסביבה הנוכחית, הארגון נמצא בסיכון גבוה במקרה של האטה כלכלית נוספת או עלייה נוספת במדד המחירים לצרכן.\n*   **ביקורת על ניהול הציפיות:** הקהילה מביעה סלידה מדיווחים \"חיוביים\" לכאורה על צמיחה, כאשר בפועל, במונחים של כוח קנייה ריאלי, המצב נשאר סטטי או אפילו הדרדר."
+    "summary_he": "הכותב מציע ליצור תוכנית חיסכון פטורה ממס המיועדת במיוחד עבור רכישת דירה, תשלומי משכנתא או שכירות, בדומה לתוכניות הקיימות לפנסיה ולימודים. הוא טוען כי קיים צורך בכלי שיאפשר לצבור הון למקדמה (Down payment) עם הטבות מס, ותוהה מדוע רוכשי דירה ראשונה אינם זכאים להקלות דומות לאלו שמהן נהנים משקיעי נדל\"ן.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות, המחולק ל-6 נקודות מבט ודעות שונות:\n\n*   **ספקנות לגבי ייחודיות ההטבה:** הועלתה הטענה כי הביקורת המופנית כלפי ההצעה (או התמריץ הספציפי) יכולה להיות רלוונטית באותה מידה לכל הטבה או תמריץ ממשלתי אחר, מה שמעיד על גישה המפקפקת בצורך להחריג את הנושא הנדון.\n*   **מכשולים טכניים במדינות ללא מס הכנסה:** אחד המגיבים מדגיש מגבלה לוגיסטית מהותית – במדינות שבהן לא קיים מס הכנסה מדינתי, אין משמעות או אפשרות ליצור חשבון חיסכון \"פטור ממס מדינה\", שכן ההטבה הופכת ללא רלוונטית.\n*   **הכרה באטרקטיביות עבור רוכשי דירה ראשונה:** קיימת הסכמה כי הרעיון (ככל הנראה חשבון חיסכון ייעודי לרכישת דירה) הוא רעיון חיובי שיכול לקרוץ מאוד לאנשים שטרם הגיעו לבעלות על נכס.\n*   **תיקוף חיובי של ההצעה:** למרות הסתייגויות אפשריות, ישנו קול בקהילה שבוחר שלא לבטל את הרעיון על הסף, אלא מגדיר אותו כ\"רעיון לא רע בכלל\" בעל פוטנציאל ממשי.\n*   **דחיפה לפעולה אזרחית ופוליטית:** הדיון עובר מהמישור התאורטי למישור המעשי, כאשר עולה השאלה האם מציע הרעיון פעל לקידומו מול נבחרי ציבור (סנאטורים או נציגים בבית הנבחרים), מתוך הבנה ששינוי כזה דורש חקיקה.\n*   **הבחנה בין תמיכה רעיונית ליישום בפועל:** ניכר מהתגובות שישנו פער בין ההסכמה על כך שהרעיון \"טוב על הנייר\" לבין האתגרים הכרוכים במימושו במערכות מס שונות או דרך ערוצים פוליטיים רשמיים."
   },
   {
-    "id": "1uyrh0b",
-    "title": "Why should I choose Stocks over ETFs",
-    "url": "https://www.reddit.com/r/investing/comments/1uyrh0b/why_should_i_choose_stocks_over_etfs/",
-    "author": "Willing-Actuator-509",
-    "score": 1,
-    "selftext": "I have seen way to many videos supporting ETFs over Stocks. I can understand the benefits that dn ETF can have over a Stock. Also in my country UCITS ETFs are tax free and I really don't feel like paying taxes for gains in the stock market that they can evaporate the next day. This question is mostly for the experienced investors who has knowledge of many different instruments. Can you please tell me why should someone prefer Stocks over ETFs?",
+    "id": "1uy1wji",
+    "title": "Stocks Fall on Retail Sales Data as AI Concerns and Middle East Tensions Weigh",
+    "url": "https://www.reddit.com/r/investing/comments/1uy1wji/stocks_fall_on_retail_sales_data_as_ai_concerns/",
+    "author": "ThePrivateBanker",
+    "score": 9,
+    "selftext": "Advance estimates from the US Census Bureau showed retail and food services sales rose 0.2 percent in June 2026 to $768.6 billion, matching forecasts but slowing from a revised 1.0 percent increase in May. The April-to-June period advanced 6.4 percent from a year earlier. Control group sales excluding autos, gasoline and building materials rose modestly, with gains in motor vehicle dealers, nonstore retailers and sporting goods outlets offset by softer categories elsewhere.\n\nAdvance estimates from the US Census Bureau showed retail and food services sales rose 0.2 percent in June 2026 to $768.6 billion, matching forecasts but slowing from a revised 1.0 percent increase in May. The April-to-June period advanced 6.4 percent from a year earlier. Control group sales excluding autos, gasoline and building materials rose modestly, with gains in motor vehicle dealers, nonstore retailers and sporting goods outlets offset by softer categories elsewhere.\n\nFull Source: [Stocks Fall on Retail Sales Data as AI Concerns and Middle East Tensions Weigh](https://leprivatebanker.com/2026/07/16/stocks-fall-on-retail-sales-data-as-ai-concerns-and-middle-east-tensions-weigh/)\n\n",
     "subreddit": "investing",
-    "created_utc": 1784268977,
+    "created_utc": 1784206049,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "It doesn’t even have to be new. A ton of established stocks will outperform the market. The question is timing. Google has significantly outperformed a S&P 500 ETF during certain periods, it’s underperformed during others. ETFs are safer as a long-term bet even though I personally have a significant number of individual stocks. \n\nAnd likely you don’t have better information than the market, you might be correct that something happens that makes the conventional wisdom incorrect. \n\nFor example, I think that the Iran war will continue and that energy markets will continue to tighten. I’ve bought American producers and refiners because I think the median “most likely” case that the market is already pricing in is rosier than what’s going to happen. I’m up like 15% on those stocks since buying them between January and last week. If there’s a peace deal tomorrow, or a general recession that hurts demand, or if China is willing to keep dipping into reserves and keep refineries running below capacity, I could either lose those gains or just see them go up and down a bit like they have for a couple months. \n\nThe market knows all of these possibilities and people far smarter than I have priced all of this in to the current costs of energy companies. I think things will take longer to stabilize politically than the average person trading these stocks, so I’m holding until my thesis no longer matches reality. \n\nEven then, this conviction that I personally feel pretty confident in represents about 7% of my portfolio. If I’m wrong it’s gonna fall a lot faster than an ETF would. ",
-        "score": 1,
-        "author": "Disheveled_Politico"
+        "body": "I think these explanations are just made up after the fact, but there was a little rotation into defense this morning.  I know when I see PFE and KO spring up in my port the tech stocks are going to be down.",
+        "score": 3,
+        "author": "AlGAdams"
       },
       {
-        "body": "When you go food shopping,  do you prefer to buy individual items and look for sales on things you like and understand?",
+        "body": "I wouldn't count on AI valuations staying that way for a long time. The moat is a bit shallow on some of them, especially with more competition slowly saturating the market.",
         "score": 1,
-        "author": "SFsports87"
-      },
-      {
-        "body": "Mutual funds minimize risk. Yes, you can obviously make much more on an individual stock *if you pick the right one*, but the point of ETFs is you probably don't know which one is the right one, neither does the EFTS, so it buys a bunch of stocks for you to cap your gain potential but also minimize the risk of your own or two stocks losing you all your money.",
-        "score": 1,
-        "author": "doodsonious"
+        "author": "Sophie_Cookie"
       }
     ],
-    "summary_he": "הכותב מבקש להבין מהן הסיבות להעדיף השקעה במניות בודדות על פני קרנות סל (ETFs), במיוחד לאור הפופולריות שלהן ויתרונות המס המשמעותיים הקיימים במדינתו עבור קרנות אלו. הוא פונה למשקיעים מנוסים כדי לקבל הסבר מדוע לבחור במניות למרות החשיפה למיסוי והסיכונים הכרוכים בהן.",
+    "summary_he": "מדדי המניות ירדו בעקבות נתוני מכירות קמעונאיות בארה\"ב שהצביעו על צמיחה מתונה של 0.2% ביוני 2026, בהתאם לתחזיות אך בקצב אטי יותר מהחודש הקודם. הירידות הושפעו גם מחששות סביב תחום הבינה המלאכותית ומהמתיחות הגיאופוליטית במזרח התיכון, שהעיבו על אמון המשקיעים.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות בשרשור, הכולל 6 נקודות מבט ודעות שונות:\n\n*   **עדיפות המדדים לטווח ארוך:** קיימת הסכמה רחבה שתעודות סל (ETFs) הן \"הימור בטוח\" יותר עבור משקיעים לטווח ארוך. בעוד שמניות בודדות יכולות להניב תשואה גבוהה יותר בתקופות מסוימות, המדד מספק יציבות רבה יותר לאורך זמן.\n*   **השוק כבר מתמחר הכל:** הטיעון המרכזי הוא שלמשקיע הממוצע אין \"מידע טוב יותר\" מאשר לשוק. המחירים הנוכחיים כבר משקפים את רוב התרחישים האפשריים (כמו מצבים פוליטיים או מלחמות), ולכן קשה מאוד להכות את השוק באופן עקבי.\n*   **חשיבות התזמון במניות בודדות:** גם מניות של חברות ענק מבוססות (כמו גוגל) יכולות להציג ביצועי חסר אל מול המדד בתקופות מסוימות. לכן, הצלחה בהשקעה במניות בודדות תלויה במידה רבה בתזמון הכניסה והיציאה מהשוק.\n*   **ניהול סיכונים וחשיפה מוגבלת:** גם כאשר למשקיע יש \"שכנוע עמוק\" לגבי מניה מסוימת (למשל, עקב ניתוח גאופוליטי של שוק האנרגיה), מומלץ להגביל את החשיפה אליה לאחוז קטן מהתיק (בדוגמה בשרשור: 7%). זאת כדי למנוע קריסה של כל התיק במקרה של טעות בתחזית.\n*   **האנלוגיה לקניית מצרכים:** השקעה במניות בודדות מושווית לקניית מצרכים ספציפיים בסופרמרקט – היא מתאימה למי שאוהב לחפש \"מבצעים\" (הזדמנויות), מבין לעומק את המוצרים שהוא קונה ומעדיף לבחור בעצמו את הרכיבים במקום לקנות חבילה מוכנה מראש.\n*   **הקרבת פוטנציאל רווח תמורת הגנה:** תעודות סל פועלות תחת ההנחה שאף אחד לא באמת יודע איזו מניה תהיה ה\"מנצחת\" הבאה. לכן, הן קונות סל רחב של מניות ש\"חוסם\" את פוטנציאל הרווח המקסימלי (ביחס למניה בודדת שזינקה), אך בתמורה מגן על המשקיע מפני איבוד כל הונו במקרה של קריסת חברה ספציפית."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה:\n\n* **ספקנות לגבי ניתוחי שוק בדיעבד:** קיים סנטימנט שההסברים הניתנים לתנודות בשוק הם לעיתים קרובות \"תירוצים\" שהומצאו לאחר מעשה כדי להצדיק את מה שכבר קרה, ולאו דווקא ניתוח של הסיבות האמיתיות בזמן אמת.\n* **מעבר למניות הגנתיות:** נצפתה תנועה של משקיעים לכיוון מניות \"הגנתיות\" (Defensive stocks), מה שמעיד על חיפוש אחר יציבות מול אי-ודאות.\n* **מתאם הפוך בין מגזרים:** משקיעים מבחינים בקשר ישיר שבו עלייה במניות ערך מסורתיות (כמו פייזר או קוקה-קולה) מסמנת לעיתים קרובות ירידות במניות הטכנולוגיה.\n* **חשש מהערכות שווי מופרזות ב-AI:** קיימת דעה כי הערכות השווי הנוכחיות של חברות הבינה המלאכותית אינן בנות-קיימא ולא יחזיקו מעמד לאורך זמן ברמתן הנוכחית.\n* **היעדר \"חפיר כלכלי\" (Moat):** עולה הטענה שהיתרון התחרותי של רבות מחברות ה-AI הוא \"רדוד\" יחסית, כלומר קל למתחרים אחרים להיכנס לתחום ולערער את מעמדן.\n* **רוויה ותחרות גוברת:** השוק הופך בהדרגה לרווי יותר, מה שצפוי להגביר את התחרות ולשחוק את הרווחיות או את הדומיננטיות של השחקניות המוקדמות בתחום הבינה המלאכותית."
+  },
+  {
+    "id": "1uy3ate",
+    "title": "MRVL down about $9K - average price $288. What would you do with a one-year holding period?",
+    "url": "https://www.reddit.com/r/investing/comments/1uy3ate/mrvl_down_about_9k_average_price_288_what_would/",
+    "author": "DisastrousEmu7509",
+    "score": 7,
+    "selftext": "I invested heavily in Marvell Technology (MRVL), and my current average price is around **$288 per share**. At the moment, my position is down approximately **$9,000**.\n\nI am not in immediate need of the money and can hold the position for at least another year. I also do not want to sell purely out of fear and lock in a significant loss, but I understand that refusing to sell only because a position is down can also be a mistake.\n\nFor those following MRVL:\n\n* What is your outlook for the company over the next 6–12 months?\n* Do you believe its AI and data-center growth can justify a recovery toward my average?\n* What are the biggest risks that could keep the stock below $288?\n* Would you hold, reduce the position, average down, or move the capital elsewhere?\n\nI am particularly interested in hearing from people who have reviewed MRVL’s valuation, earnings outlook, competition, and expected data-center revenue growth.\n\nThis is a large position for me, so I would appreciate honest bull and bear perspectives not just reassurance because I am currently underwater.",
+    "subreddit": "investing",
+    "created_utc": 1784209441,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Jensen said 1 trillion, so nothing to worry about. \n\nI suspect he ups it to 2-3 trillion valuation soon",
+        "score": 18,
+        "author": "SuperNewk"
+      },
+      {
+        "body": "Well I feel like Avengers Doomsday isn't going to turn out very well, so I guess sell? (/s)",
+        "score": 18,
+        "author": "AntiqueProfessor5134"
+      },
+      {
+        "body": "Sell now and buy back in at 288",
+        "score": 16,
+        "author": "Numerous-Stand-1841"
+      }
+    ],
+    "summary_he": "הכותב מופסד בכ-9,000 דולר על השקעתו במניית Marvell Technology (MRVL) במחיר ממוצע של 288 דולר, ומבקש חוות דעת לגבי עתיד הפוזיציה בטווח של שנה. הוא מעוניין בניתוח אובייקטיבי של סיכויי הצמיחה בתחומי ה-AI ומרכזי הנתונים מול הסיכונים הקיימים, כדי להחליט אם להמשיך להחזיק במניה, למצע את מחיר הקנייה או למכור ולעבור להשקעה אחרת.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום על פי התגובות שצוינו, הכולל 6 נקודות מבט וסנטימנטים שונים שעלו מהקהילה:\n\n*   **ביטחון מלא בהנהגת המנכ\"ל:** קיים אמון רב בדבריו של ג'נסן הואנג (מנכ\"ל אנבידיה), כאשר משקיעים רואים בהצהרותיו ערובה לכך שאין סיבה לדאגה בנוגע לעתיד החברה.\n*   **ציפייה לעליית שווי דרמטית:** קיימת הערכה בקרב הקהילה ששווי השוק של החברה ימשיך לצמוח משמעותית, עם תחזיות המדברות על הגעה לרף של 2 עד 3 טריליון דולר בזמן הקרוב.\n*   **שימוש בסרקזם כלפי פאניקה בשוק:** חלק מהגולשים לועגים להחלטות מכירה המבוססות על אירועים לא קשורים (כמו הצלחה או כישלון של סרטי קולנוע), מה שמעיד על ביקורת כלפי משקיעים הפועלים מרגש ולא מניתוח פונדמנטלי.\n*   **ספקנות כלפי השפעות תרבותיות:** הניסיון לקשור בין תרבות הפופ (כמו הסרט \"הנוקמים: יום הדין\") לבין ביצועי המניה משמש ככלי להדגשת האבסורד שבתנודות השוק לעיתים.\n*   **אסטרטגיית מימוש רווחים מיידית:** עולה דעה הממליצה למכור את האחזקות כעת, מתוך הנחה שהמחיר הנוכחי גבוה או שצפוי תיקון בטווח הקצר.\n*   **תזמון השוק לכניסה מחדש:** קיימת גישה הגורסת כי כדאי להמתין לירידת מחיר ספציפית (לרמה של 288) כנקודת כניסה אופטימלית לקנייה חוזרת של המניה לאחר המכירה."
+  },
+  {
+    "id": "1uy0lbs",
+    "title": "What is the Tax rule for \"constructive sale/straddle treatment\" of futures on SPY",
+    "url": "https://www.reddit.com/r/investing/comments/1uy0lbs/what_is_the_tax_rule_for_constructive/",
+    "author": "ash-t-1",
+    "score": 3,
+    "selftext": "I have continuously owned SPY (and other S&P 500 ETFs) since 2006 as long-term investments.\n\nI'm considering adding a separate strategy where I occasionally short ES futures **only during regular market hours (9:30 AM–4:00 PM ET)** and close the futures position near the market close the same day. My long SPY position would remain unchanged and fully invested at all times.\n\nWould this create any issues under the **constructive sale rules** or the **tax straddle rules**? Not asking for trading advice - just being prudent.\n\nMore specifically, could this cause the IRS to treat any portion of my **unrealized gains** in SPY as taxable, even though I have not sold my SPY holdings?\n\nThanks very much!",
+    "subreddit": "investing",
+    "created_utc": 1784202606,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I'm going to have to keep re-reading that and try to learn more.  This stuff keeps getting more complicated, lol.  Ty for the info and patience. ",
+        "score": 2,
+        "author": "taplar"
+      },
+      {
+        "body": "*> That is my point. If you plan to recharacterize something* ***different than what your broker reports to the IRS*** *- it may raise a review.*\n\n*> What I was told by my tax accountant is that the IRS probably cares but if it matches what a broker reports on the 1099 - it isn't likely an issue.*\n\nI think you are correct on this, at least that is what I seem to be seeing. So that would mean you are better off not following the Loss Deferral Rules. Because if you do follow the Loss Deferral Rules you are going to have to file different numbers/modified than what the brokers report and that is going to raise the eyebrows of the IRS (which is really crazy to me).\n\n*> And you mentioned being 1 strike itm for a cc - I don't think that's deep enough to considered a non-qualified covered call if that is a concern for you. That's another one of those things where it varies by broker.*\n\nActually what I stated was **more** than 1 strike ITM.  And actually to complicate matters even more there is another thing that can apply where it has to be some percentage of something or other (can't remember exactly, but it appears in most cases it's just when it's more than 1 strike ITM).\n\n*>* ***My 1st post:*** *(****more than 1 strike above*** *the opening $754.24 price for that day)*\n\nAnd actually the brokers never follow these Loss Deferral Rules anyway, so that allows you to take/use the losses no matter how much it was ITM.\n\n*> OP is also asking about /ES - so it's a bit more complicated. For example - you mentioned wash sales. Your example doesn't apply to /ES because it's a section 1256 contract and it must be marked to market. So wash sales don't apply.*\n\n*> The loss deferal rule also works differently with section 1256 contracts.*\n\nI only mentioned wash sales as a comparison. In that the brokers will handle wash sales accordingly in the 1099s they generate and it's all done for you basically (as long as everything is done in a single account) . Which is completely different than in the Loss Deferral rules case. In the Loss Deferral Rules case the brokers do nothing. It's up to you to report it properly apparently.\n\nAnd only I mentioned the 1256 contracts in that it is where I accidentally discovered that it looks like that is where you recover the losses after you finally close the straddle position with the 6781 form when you have Deferred Losses due to the Loss Deferral Rules. What happened to me (in a completely separate thing) I simply had some simple XSP gains (1256 contracts) and found that is where I report those gains (form 6781). When I did that I noticed some wording in there that it looks like that is where also if you had some Deferred Losses because of the Loss Deferral Rules and then when you close the straddle position it looks and can then claim the losses and this 6781 form (I could be completely wrong on this, but it just looked like that was the case).  I was not talking about 1256 contracts with the Loss Deferral Rules case at all, it's just where I think I accidentally stumbled upon it. \n\nI really haven't even thought what happens with this when you add 1256 contracts into the mix.\n\n*> Anyways - my 2 cents is that if anyone trades or invests in a way that is more than just buy and hold and uses derivatives for complex strategies - get a tax accountant that knows that stuff. I don't do my own taxes and I leave it to someone that knows more about this stuff.*\n\nBut all I am really doing is simple covered calls that I keep rolling the covered call as the stock continues to rise and then I get into this situation (let's ignore Poor Man Covered calls case). Does that really require a tax account for my taxes.  When instead I can just enter/download the 1099s into the H&R Block software (or TurboTax) and just let it handle it? H&R Block software is thousands less expensive than a tax accountant from my experience. I have had a tax accountant for previous stuff (before I had much at all in options and just needed the tax person to deal with some K-1s I didn't understand) and I felt I was way overpaying for what I was getting. And to be honest I don't think this tax account knew anything about Loss Deferral Rules (unfortunately at the time I didn't know that rule existed so can't be sure of the situation). But she could not possibly have known if the Loss Deferral Rules applied to me because all she got from me was my 1099s, so she had 0 idea if I was in a straddle position or not and she never asked for my current positions. I probably would need to get a more knowledgeable tax account and pay even thousands more, and that ain't happening. For now at least I am just going to keep using H&R Block software like I have been doing for the past 10 years or so (and keep crossing my fingers I guess). If I need a tax accountant then there are probably 100s of thousands of other people that also aren't using tax accounts who also should be using tax accountants. And probably 95% of those people are like me 13 years ago and have no idea those Loss Deferred Rules (and other stuff) even exists.\n\nI appreciate all your input/experience. This has probably been the best input I have gotten about this stuff. Especially your comment about your accountant who said:\n\n*> What I was told by my tax accountant is that the IRS probably cares but if it matches what a broker reports on the 1099 - it isn't likely an issue.*\n\nThat is what it seems, but that is the 1st time I have heard that actually said. And it's a little hard to understand why things are as they are.",
+        "score": 1,
+        "author": "Retired-Programmer"
+      },
+      {
+        "body": "That is my point. If you plan to recharacterize something different than what your broker reports to the IRS - it may raise a review. \n\nWhat I was told by my tax accountant is that the IRS probably cares but if it matches what a broker reports on the 1099 - it isn't likely an issue.\n\nI actually had a lot of straddles from IBIT in 2025 and it was a bit of a hassle because Schwab treats the options as section 1256 contracts but not the underlying. It resulted in having multiple rounds of corrected 1099's from Schwab. \n\nIf you are primarily doing cc's and pmcc's - you aren't likely to run into it unless you span your positions over a tax year. And it depends what instruments you are doing that with. \n\nAnd you mentioned being 1 strike itm for a cc - I don't think that's deep enough to considered a non-qualified covered call if that is a concern for you.  That's another one of those things where it varies by broker. \n\nOP is also asking about /ES - so it's a bit more complicated. For example - you mentioned wash sales. Your example doesn't apply to /ES because it's a section 1256 contract and it must be marked to market. So wash sales don't apply. \n\nThe loss deferal rule also works differently with section 1256 contracts. \n\nTraders can also do complicated stuff like electing 475(f) for mark to market accounting. Or electing a mixed straddle account. I don't know much about mixed straddle accounting.  \n\nI used to elect 475(f) to simplify this sort of tax issues - but there were other headaches and my tax accountant didn't want to deal with it, so I ended the election. \n\nAnyways - my 2 cents is that if anyone trades or invests in a way that is more than just buy and hold and uses derivatives for complex strategies - get a tax accountant that knows that stuff. I don't do my own taxes and I leave it to someone that knows more about this stuff. ",
+        "score": 1,
+        "author": "greytoc"
+      }
+    ],
+    "summary_he": "הכותב שואל לגבי השלכות המס של פתיחת פוזיציות שורט קצרות בחוזים עתידיים (ES) תוך כדי החזקה ארוכת טווח במדד ה-S&P 500 (קרן SPY). הוא מבקש לדעת האם אסטרטגיה זו עלולה להפעיל את כללי ה-\"constructive sale\" או ה-\"straddle\", ובכך להוביל למיסוי רווחים לא ממומשים בתיק ההשקעות שלו מבלי שמכר אותו בפועל.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט וסנטימנטים מרכזיים של הקהילה בנושא מיסוי אופציות ונגזרים:\n\n*   **החשיבות של התאמה לנתוני הברוקר:** קיימת הסכמה רחבה שמומלץ מאוד שהדיווח למס הכנסה (IRS) יתאם בדיוק למה שהברוקר מדווח בטופס ה-1099. סטייה מהנתונים של הברוקר, גם אם היא נועדה לדייק לפי חוקי המס היבשים, עלולה \"להדליק נורה אדומה\" ולגרור ביקורת מיותרת.\n*   **הנטל המורכב של חוקי דחיית הפסדים (Loss Deferral Rules):** בשונה מחוקי ה-\"Wash Sales\" שהברוקרים עוקבים אחריהם ומדווחים עליהם באופן אוטומטי, הברוקרים בדרך כלל לא מיישמים את חוקי דחיית ההפסדים. המשמעות היא שעל הסוחר מוטלת האחריות המלאה (והקשה) לזהות מצבים של \"Straddles\" ולדווח עליהם נכון, אחרת הוא עלול לעבור על החוק מבלי דעת.\n*   **הבדלים מהותיים במיסוי נכסים תחת סעיף 1256:** הדיון מדגיש שנכסים מסוימים (כמו חוזים עתידיים על ה-S&P 500 או מדדי XSP) זוכים לטיפול מס שונה. הם ממוסים לפי שיטת \"Mark to Market\", מה שמבטל את הצורך להתמודד עם חוקי Wash Sales, אך דורש שימוש בטפסים ספציפיים (טופס 6781) כדי להכיר ברווחים והפסדים.\n*   **הוויכוח בין שימוש בתוכנה לבין העסקת רואה חשבון:** קיימת מחלוקת לגבי כדאיות העסקת מומחה. חלק מהמשתמשים טוענים שרואי חשבון יקרים באלפי דולרים ולא תמיד בקיאים בפרטים הקטנים של עסקאות אופציות מורכבות. מנגד, אחרים טוענים שסוחרים המשתמשים באסטרטגיות שאינן \"קנה והחזק\" חייבים ליווי מקצועי כדי להימנע מטעויות קריטיות.\n*   **חוסר המודעות של הסוחר הממוצע:** עולה סנטימנט חזק לפיו הרוב המוחלט של הסוחרים הפרטיים כלל לא מודע לקיומם של חוקי המס הללו (כמו חוק דחיית ההפסדים). משתמשים מציינים שסוחרים רבים \"פשוט מקווים לטוב\" ומסתמכים על תוכנות מסחריות פשוטות מבלי להבין את החשיפה המשפטית שלהם.\n*   **הקושי באסטרטגיות \"פשוטות\" לכאורה:** אפילו אסטרטגיות שנחשבות בסיסיות, כמו כתיבת \"Covered Calls\" וגלגולן (Rolling), יכולות להסתבך מבחינת מיסוי אם הן נכנסות עמוק לתוך הכסף (ITM) או אם הפוזיציה נשארת פתוחה במעבר בין שנות מס. המורכבות הזו גורמת לתסכול רב בקרב הקהילה, שמרגישה שחוקי המס הופכים למסובכים יותר מרגע לרגע."
+  },
+  {
+    "id": "1uzno5c",
+    "title": "Micron will peak and leave all you retail with heavy bags",
+    "url": "https://www.reddit.com/r/investing/comments/1uzno5c/micron_will_peak_and_leave_all_you_retail_with/",
+    "author": "OilAny787",
+    "score": 1,
+    "selftext": "Micron has been the single greatest beneficiary of the memory shortage, and the numbers are genuinely difficult to argue with. The May quarter produced $41.5 billion of revenue at an 84.9% gross margin, with the current quarter guided to $50 billion and roughly 86%, which is a level of profitability no memory manufacturer has ever printed and one that would be considered aggressive for a software company. Management has signed sixteen strategic customer agreements carrying around $100 billion of remaining performance obligations, some of them take or pay, and the company can only fill somewhere between half and two thirds of what its core customers are asking for. On the surface this is the strongest fundamental setup in the history of the business.\n\nThe market is being told one story about what this means, and I want to lay out both cases so members can judge for themselves rather than accept the consensus framing.\n\nThe first case, the one currently embedded in sell side models and in the price, is that the bottleneck persists well past 2029 and that memory has structurally re rated from a commodity into a scarce input. The argument rests on physical constraints rather than sentiment, and it is not a weak argument. Micron's Idaho fab does not produce DRAM until the middle of 2027, the New York fabs only poured first concrete this month and will not contribute meaningfully until 2028, SK Hynix's M15X arrives mid 2027 and Samsung's P5 in 2028. High bandwidth memory consumes roughly three wafers of capacity for every wafer of conventional DDR5 it displaces, so every generational step toward HBM4E and HBM5 tightens the commodity pool rather than loosening it. Total DRAM wafer starts are growing at six to eight percent a year against AI demand growing multiples of that, and industry capacity is forecast to compound at under five percent through 2030.\n\nThe second case, the one I hold, is that none of this repeals the cycle, it only postpones it and makes the eventual reversal more violent. Every memory upcycle in history has ended the same way, with the industry earning returns so far above cost of capital that capital floods in, and the capital has already been committed. Micron has lifted its own US programme past $250 billion through 2035, Samsung and SK Hynix have jointly pledged around $518 billion to four new Korean sites and an HBM packaging hub, and CXMT continues to scale in China outside the pricing discipline that has held the western oligopoly together. That supply does not arrive in time to break 2026 or most of 2027, which is precisely why the stock can stay elevated in the near term, but it arrives in a wall across 2028 and 2029 into demand that will by then be growing off a vastly larger base. When it does, margins do not glide lower, they fall off a cliff, because 86% gross margins in a capital intensive business are almost entirely price, not cost. A 20% decline in average selling prices removes the majority of the earnings.\n\nThe tell that the market half believes this already is the multiple. Micron is trading below seven times its current quarterly run rate of earnings, which is not the multiple of a business the market believes has permanently escaped its cycle. It is the multiple of a business the market believes is printing peak earnings and will give a large portion of them back. That framing is important, because it means the risk to holders is not that the shortage ends tomorrow. It is that the shortage ends roughly on schedule, earnings normalise from a hundred and twenty dollars of annualised power toward something far lower, and the stock spends two years going nowhere or worse while the multiple that looked cheap turns out to have been correctly cheap all along.\n\nMy position is therefore not that Micron is a short today. Near term the contracted revenue, the take or pay structures and the sold out capacity make the next several quarters very difficult to bet against, and the pain of shorting a name in a genuine shortage while it beats every quarter is well documented. My position is that this is a business whose peak is identifiable in advance, that the identifiable trigger is the first quarter in which DRAM average selling prices stop rising, and that retail is being sold a permanence story at exactly the point in the cycle when permanence stories are most dangerous.\n\nGood luck to you all. ",
+    "subreddit": "investing",
+    "created_utc": 1784354340,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I can't say for 100% certainty either what will happen, but if i was to pick a route, it would be what I mentioned. If your a momentum trader probably a good long now lol. Would short in later years personally ",
+        "score": 1,
+        "author": "OilAny787"
+      },
+      {
+        "body": "Oh well if you believe that shoot for the stars.",
+        "score": 1,
+        "author": "OilAny787"
+      },
+      {
+        "body": "The factories are over a year away at least and there is such a need that isnt being met.\n\nBut I think you are onto something.  The market loves to think forward so there is already some downward pricing to account for greater supply, lower capex, and more compition.\n\nI also think people misunderstand valuation. What holds stock atvl their current levels?  Just perception really.  If something changes, down they go. At some point it will affect other popular names too.",
+        "score": 1,
+        "author": "Impressive-Ice-4594"
+      }
+    ],
+    "summary_he": "הפוסט מזהיר כי למרות רווחי השיא הנוכחיים של מיקרון הנובעים מהביקוש העצום לשבבי זיכרון עבור בינה מלאכותית, מחזוריות השוק לא נעלמה והשקעות העתק בתשתיות יובילו בסופו של דבר לעודף היצע ולקריסת המרווחים בסביבות 2028. הכותב טוען כי המכפיל הנמוך של המניה מעיד על כך שהשוק כבר צופה את סיום ה\"חגיגה\", ולכן על משקיעים פרטיים להיזהר מהנרטיב של צמיחה אינסופית שעלול להשאיר אותם עם הפסדים כבדים כשהמחזור יתהפך.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות, המציג שש נקודות מבט ותובנות שונות:\n\n* **אסטרטגיות מסחר מנוגדות בטווח הקצר והארוך:** עבור סוחרי מומנטום, נקודת הזמן הנוכחית עשויה להיחשב כהזדמנות טובה לקנייה (Long), אך בטווח הרחוק יותר (בעוד מספר שנים), קיימת הערכה שעדיף יהיה לבצע מכירה בחסר (Short) על המניה.\n* **פער בין היצע לביקוש בתעשייה:** קיים צורך אדיר בשוק שאינו מקבל מענה כרגע, במיוחד לאור העובדה שהקמת מפעלים חדשים ויכולות ייצור נוספות נמצאות במרחק של שנה לפחות מהשלמה.\n* **תמחור צופה פני עתיד:** השוק נוטה לתמחר מראש תהליכים עתידיים. לכן, כבר כעת ניתן לראות לחץ של ירידת מחירים המשקף ציפיות להגברת ההיצע, ירידה בהוצאות הוניות (Capex) ותחרות גוברת בעתיד.\n* **הערכות שווי מבוססות תפיסה:** הערכות השווי הנוכחיות של מניות רבות אינן נשענות בהכרח על נתונים פונדמנטליים מוצקים, אלא על \"תפיסה\" (Perception) של המשקיעים. ברגע שתפיסה זו תשתנה, רמות המחירים הנוכחיות עלולות לקרוס.\n* **אפקט הדומינו בשוק:** תנודתיות או שינוי במגמה של מניות פופולריות ומובילות לא יישארו מבודדים; בנקודת זמן מסוימת, ההשפעה תחלחל ותשפיע על שמות גדולים ופופולריים אחרים בשוק.\n* **ספקנות לצד עידוד:** בקהילה קיימת גישה המשלבת ספקנות לגבי תחזיות ודאיות (\"אי אפשר לומר ב-100% מה יקרה\"), לצד גישה המעודדת משקיעים לדבוק באמונותיהם אם הם משוכנעים בניתוח שלהם (\"לכו על זה/כוונו לכוכבים\")."
   }
 ];
