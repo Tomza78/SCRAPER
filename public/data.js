@@ -1,282 +1,173 @@
 window.dailyTrends = [
   {
-    "id": "1v3rih4",
-    "title": "Alphabet capex 100% up yoy to 44B",
-    "url": "https://www.reddit.com/r/investing/comments/1v3rih4/alphabet_capex_100_up_yoy_to_44b/",
-    "author": "superloser48",
-    "score": 365,
-    "selftext": "revenue is up 24% yoy. Numbers probably good for semi space, not sure about google\n\n[https://s206.q4cdn.com/479360582/files/doc\\_financials/2026/q2/2026q2-alphabet-earnings-release.pdf](https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-release.pdf)",
-    "subreddit": "investing",
-    "created_utc": 1784750888,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Don't forget chrome, gmail, google maps and google drive.",
-        "score": 5,
-        "author": "Cool_Flamingo6779"
-      },
-      {
-        "body": "I say you can’t trust any of the numbers coming out of these companies . . . when you can report revenue while hiding how much you spent to get the revenue you can distort the story - that is what is happening\n\nThe marketing of these products is dishonest - I feel like that is a data point that is more useful than the bullshit numbers they release.  So is the fact that more and more money needs to be pumped into it",
-        "score": 4,
-        "author": "ALMessenger"
-      },
-      {
-        "body": "Best case is AWS?\n\nGoogle is freaking monopoly. They own YouTube, Android OS, pixel phones, tensor chip technology, and of course their flagship Google engine.  But Google has been more than just a software company for at least a decade. And when it comes down to the AI race they are going to be strong contender due to the sheer amount of data and funding they have. They can pretty much weather the ups and downs of the AI hype. It is well known by now they had been working on their own product before ChatGPt went public, but didn't think the tech was ready. Of course Open I forced their hand to jump into the ring.\n\nNow I'm glazing then right now,  but hat is to say that the expectationS that Google was going to go under as a company were completely detached from reality.",
-        "score": 4,
-        "author": "RedditMapz"
-      }
-    ],
-    "summary_he": "אלפבית דיווחה על צמיחה של 24% בהכנסות, לצד זינוק של 100% בהוצאות ההוניות (Capex) שהגיעו ל-44 מיליארד דולר. בעוד שהעלייה המסיבית בהוצאות נחשבת לבשורה חיובית עבור סקטור השבבים, השוק פחות בטוח לגבי ההשלכות על מניית גוגל עצמה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות, המציג שש נקודות מבט וסנטימנטים שונים של הקהילה:\n\n*   **דומיננטיות רב-זרועית:** מעבר למנוע החיפוש המוכר, כוחה של גוגל טמון במערכת אקולוגית רחבה הכוללת שירותים חיוניים כמו כרום (Chrome), ג'ימייל, גוגל מפות וגוגל דרייב, מה שהופך אותה לחלק בלתי נפרד מחיי היומיום של המשתמשים.\n*   **ספקנות כלפי דיווחים פיננסיים:** קיימת טענה של חוסר אמון במספרים שמציגות חברות הטכנולוגיה הגדולות. נטען כי הן \"מעוותות את הסיפור\" על ידי הצגת הכנסות מרשימות תוך הסתרת העלויות העצומות הנדרשות כדי לייצר את אותן הכנסות.\n*   **ביקורת על שיווק והשקעות הון:** ישנו סנטימנט שהשיווק של מוצרי הטכנולוגיה החדשים הוא חסר יושרה, וכי המדד האמיתי להצלחה או קושי הוא העובדה שנדרשת הזרמת כספים מאסיבית ובלתי פוסקת כדי לתחזק את התחום.\n*   **מונופול טכנולוגי וחומרתי:** גוגל נתפסת כחברה בעלת כוח מונופוליסטי חסר תקדים, החולשת לא רק על תוכנה (אנדרואיד, יוטיוב) אלא גם על חומרה וטכנולוגיית קצה, כמו טלפוני הפיקסל ושבבי ה-Tensor שלה.\n*   **יתרון מבני במרוץ ה-AI:** למרות התחרות, גוגל נחשבת למתמודדת מובילה בתחום הבינה המלאכותית בזכות כמות המידע (Data) העצומה שברשותה והיכולת הכלכלית שלה לספוג את העליות והמורדות של ה\"הייפ\" בתחום.\n*   **השפעת המתחרים על אסטרטגיית היציאה לשוק:** נטען כי גוגל החזיקה בטכנולוגיית AI עוד לפני הפריצה של ChatGPT, אך נמנעה מהשקתה כי חשה שהיא אינה מוכנה. הפעולה של OpenAI היא ש\"כפתה את ידה\" של גוגל להיכנס לזירה, והתפיסה שגוגל נמצאת בסכנת קריסה נתפסת כמנותקת מהמציאות."
-  },
-  {
-    "id": "1v3bs1a",
-    "title": "$RDDT Considering Cutting Off $GOOGL Access to its Data",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1v3bs1a/rddt_considering_cutting_off_googl_access_to_its/",
+    "id": "1v4cbk1",
+    "title": "$GOOGL Reported Negative Free Cash Flow in Q2 2026 for the First Time as AI CapEx Pressure Margins.",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1v4cbk1/googl_reported_negative_free_cash_flow_in_q2_2026/",
     "author": "Optimal_Image5192",
-    "score": 200,
-    "selftext": "Reddit is considering cutting off $GOOGL's access to its content for AI use as their $60 million-a-year licensing deal nears expiration, the WSJ reports.\n\nUSA Today, Reuters, Politico and other publishers are also reevaluating Google’s crawler as AI summaries reduce referral traffic. \n\nUSA Today’s organic Google traffic reportedly fell nearly 50% over the past year, while Politico’s declined 23%.\n\nThe central issue is that publishers generally cannot block Google’s AI summaries without also losing visibility in traditional search. \n\nNo major cutoff has been announced, but more publishers are questioning whether the traffic Google sends back is worth the content it receives.",
+    "score": 632,
+    "selftext": "Alphabet $GOOGL reported negative free cash flow in Q2 for the first time as rising AI capex pressures margins.\n\nEvercore ISI: We have also increased our 2027 FCF loss from $20B to $50B, due to the raised capex guidance. \n\nUBS: We have been fielding more questions on Google about FCF growth returning to historic levels, and after today's update (where revenue is largely unchanged but costs work higher) we have no clearer answers.",
     "subreddit": "StockMarket",
-    "created_utc": 1784714836,
-    "thumbnail": "https://preview.redd.it/ufw00abi9reh1.jpeg?width=140&height=70&auto=webp&s=4f098af132dcce1fbfc6d822d8730eecbbe0bfbe",
+    "created_utc": 1784809225,
+    "thumbnail": "https://preview.redd.it/3o0xxi862zeh1.jpeg?width=140&height=92&auto=webp&s=a3d12a48c9ef5ca1d46f59dcaaf2024f2178832f",
     "top_comments": [
       {
-        "body": "Going forward data will be a huge chokepoint in the AI trade imo. People are too obsessed with frontier models and hardware. Yes those discussions are absolutely important, but it feels like that’s the only thing people talk about. I have exposure to this theme, but haven’t found a perfect data vendor that fits my criteria yet.",
-        "score": 22,
-        "author": "Optimal_Image5192"
+        "body": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-slides.pdf#:~:text=Page%204.%20Earnings%20Highlights.%20Q2%202026%20Earnings.,Y%2FY%20revenue%20growth.%20in%20YouTube%20Ads.%20950M.\n\nFurthermore, they show a clear 514 Billion back log.\n\nThat is a single data point... and more money than they have even spent on capex in multiple years.",
+        "score": 7,
+        "author": "Dwman113"
       },
       {
-        "body": "You clearly have zero idea how Google works. AI overviews are responsible for a majority of zero click search results.\n\nhttps://searchengineland.com/google-zero-click-searches-2026-study-479717\n\n“AI Overviews now appear on more than 20% of Google searches, according to the research. When they do, click-through rates drop by nearly 60%.”\n\nYou’re making the argument that Reddit should tell Google to fuck off, actually. ",
+        "body": "It made money by selling all our information to companies to create targeted ads that are then purchased on said platforms. Thing is for AI where’s the use case and also cost to use point because as of right now current ai pricing is actually lower than the cost to produce said AI prompts/token uses. AI is great it made awesome inroads into medical tech especially but that was before this dot com level of inserting AI into everything just like internet was inserted into everything. Lots of companies crashed when that bubble burst and so too will it happen with this and then whatever is actually financially solvent will remain and eat the scraps.",
+        "score": 6,
+        "author": "Sablus"
+      },
+      {
+        "body": "In google lol?\n\nYou think owning google stock is holding a bag?\n\nThat is hilarious. Actually without looking at my portfolio, i bought Google this year around $175... So yeah if that is holding the bag the sure! I'm holding a giant bag lol.",
+        "score": 4,
+        "author": "Dwman113"
+      }
+    ],
+    "summary_he": "אלפאבית ($GOOGL) דיווחה על תזרים מזומנים חופשי שלילי לראשונה ברבעון השני של 2026, זאת בשל השקעות עתק בתשתיות בינה מלאכותית ששחקו את שולי הרווח. בעקבות הדיווח, אנליסטים החמירו את תחזיות ההפסד לשנים הקרובות והביעו חוסר ודאות לגבי המועד שבו החברה תחזור לרמות הצמיחה ההיסטוריות שלה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן ניתוח של התגובות המובילות מהדיון, המציגות מגוון דעות ותחושות בקהילה בנוגע למצבה הפיננסי של גוגל (Alphabet) ולעתיד תחום ה-AI:\n\n*   **חוסן פיננסי וצבר הזמנות חסר תקדים:** אחד המגיבים מדגיש את הנתונים הפיננסיים המרשימים של החברה, ובמיוחד את \"צבר ההזמנות\" (backlog) שעומד על 514 מיליארד דולר. זהו נתון עצום שגבוה יותר מכל מה שהחברה הוציאה על השקעות הון (capex) במשך מספר שנים, מה שמעיד על עוצמה כלכלית ארוכת טווח.\n*   **ספקנות לגבי הרווחיות של בינה מלאכותית (AI):** עולה טענה כי המודל העסקי הנוכחי של AI אינו מאוזן; עלות הייצור של פקודות ותוצרי AI (טוקנים) גבוהה יותר מהמחיר שבו השירותים הללו נמכרים כרגע למשתמשים, מה שמעלה שאלות לגבי הכדאיות הכלכלית של התחום בטווח הקצר.\n*   **השוואה לבועת הדוט-קום:** קיימת תחושה בקהילה שהתלהבות היתר מהכנסת AI לכל מוצר מזכירה את בועת האינטרנט של סוף שנות ה-90. המגיבים חוזים כי רבות מהחברות שרוכבות על הגל יקרסו כשהבועה תתפוצץ, ורק החברות בעלות הגב הכלכלי היציב יישארו בשטח.\n*   **ביקורת על מודל הפרסום והפרטיות:** המגיבים מציינים כי הרווחים ההיסטוריים של גוגל נבנו על מכירת מידע אישי של משתמשים לצורך פרסום ממוקד. ישנה תהייה האם המודל הזה ימשיך להחזיק מעמד או שמא ה-AI ידרוש שינוי מהותי בדרך שבה החברה מייצרת כסף.\n*   **הבחנה בין ערך טכנולוגי אמיתי לבין \"טרנד\":** קיימת הסכמה של-AI יש ערך משמעותי בתחומים ספציפיים כמו טכנולוגיה רפואית, אך ישנה ביקורת על הניסיון \"לדחוף\" AI לכל מקום ללא צורך ממשי, רק בשל הלחץ של השוק.\n*   **אמון גבוה של המשקיעים הפרטיים:** למרות הביקורת על השוק, משקיעים בקהילה מביעים ביטחון רב בהחזקת המניה של גוגל. המושג \"holding the bag\" (כינוי למשקיע שנתקע עם נכס חסר ערך) נדחה בבוז, כשהמשקיעים רואים בגוגל נכס יציב ורווחי מאוד גם במחירי השוק הנוכחיים."
+  },
+  {
+    "id": "1v4fd25",
+    "title": "Equities surpass real estate as top US wealth driver for first time since WW2, Goldman says | Reuters",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1v4fd25/equities_surpass_real_estate_as_top_us_wealth/",
+    "author": "Argothaught",
+    "score": 44,
+    "selftext": "\\>July 23 (Reuters) - U.S. equity holdings have surpassed real estate as a share of net financial wealth for the first time since World War Two, Goldman Sachs said, underscoring how ‌stocks have become a dominant driver of household wealth and consumer spending. \"Equity gains have been the dominant driver of household wealth accumulation and the main contributor to a positive wealth effect on consumer spending,\" the brokerage said in a note ⁠on Thursday.\n\n\\>•Strong stock-market gains since the global financial crisis, particularly over the past three to four years, have increased equities' share of global financial assets and investor portfolios, with technology stocks accounting for a growing ⁠portion of those holdings, Goldman said.\n\n\\>•Goldman also warned that higher exposure to equities leaves households more ⁠vulnerable to a sharp market correction, particularly when valuations are elevated and macroeconomic uncertainty is running high.",
+    "subreddit": "StockMarket",
+    "created_utc": 1784816512,
+    "thumbnail": "default",
+    "top_comments": [],
+    "summary_he": "לראשונה מאז מלחמת העולם השנייה, שוק המניות עקף את הנדל\"ן כגורם המרכזי לצבירת עושר בקרב משקי בית בארה\"ב, כך לפי דוח של גולדמן זאקס. המגמה, המונעת מעליות חדות במניות הטכנולוגיה, מעודדת אמנם את הצריכה הפרטית אך גם חושפת את הציבור לסיכון מוגבר במקרה של תיקון חד בשווקים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1v4ek9g",
+    "title": "Alphabet’s AI spend is turning into a free-cash-flow debate. Healthy investment or margin warning?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1v4ek9g/alphabets_ai_spend_is_turning_into_a_freecashflow/",
+    "author": "eToroTeam",
+    "score": 32,
+    "selftext": "Alphabet’s earnings reaction feels bigger than the headline beat.\n\nRevenue is still holding up, but the market is clearly focusing on the other side of the story now: rising AI capex, pressure on margins, and what that means for free cash flow going forward. After the open, the stock is still trading lower, which makes this feel less like a one-day headline reaction and more like a real test of how much patience investors still have for the AI trade.\n\nSome analysts are already revising free-cash-flow expectations, so the question is no longer just “is AI spending growing?” It’s becoming “how long before the market wants to see payback?”\n\nAre we still in the “spend now, payoff later” phase, or is the market starting to punish that story?",
+    "subreddit": "StockMarket",
+    "created_utc": 1784814749,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Cocky tech execs bragging how they can spend money better than the government lmao. ",
+        "score": 18,
+        "author": "AdRadiant9379"
+      },
+      {
+        "body": "If these CEOs publicly say they are going to reduce spending the circular funding program falls apart.",
+        "score": 17,
+        "author": "UltimateGlimpse"
+      },
+      {
+        "body": "Spending on infrastructure hurts sometimes. ",
         "score": 15,
-        "author": "msaleem"
-      },
-      {
-        "body": "To be honest, we all agree on this point. The WSJ article focused mainly on Google, and the publishers mentioned weren't just Reddit-yet the fact that Google's stock barely even flinched shows that the article was clearly targeting Reddit.",
-        "score": 11,
-        "author": "MasterpieceOk8986"
+        "author": "Ir0nhide81"
       }
     ],
-    "summary_he": "רדיט שוקלת להפסיק את גישתה של גוגל לתכניה עבור אימון בינה מלאכותית עם פקיעת הסכם הרישיון ביניהן, זאת על רקע חשש מירידה חדה בתעבורת הגולשים בשל סיכומי ה-AI של גוגל. מוציאים לאור נוספים בוחנים צעדים דומים, שכן כיום לא ניתן לחסום את סריקת הנתונים לצרכי בינה מלאכותית מבלי להיפגע משמעותית גם בתוצאות החיפוש המסורתיות.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, הכולל 6 נקודות מבט ותובנות מרכזיות:\n\n*   **הנתונים כצוואר הבקבוק הבא:** קיימת הערכה כי בעתיד הקרוב, הזמינות והאיכות של נתונים (Data) יהיו המכשול העיקרי (\"צוואר הבקבוק\") בפיתוח תחום הבינה המלאכותית, יותר מאשר החומרה או המודלים עצמם.\n*   **התמקדות יתר בחומרה ומודלים:** הקהילה חשה שהשיח הציבורי והעסקי מוטה מדי לכיוון מודלי שפה גדולים (Frontier Models) וחומרה (כמו שבבים), תוך הזנחת הדיון הקריטי על מקורות המידע והזנת המערכות.\n*   **קושי במציאת ספקי נתונים:** למרות חשיבות הנושא, משקיעים ומשתמשים מתקשים למצוא כיום ספקי נתונים איכותיים שעומדים בקריטריונים מקצועיים מחמירים.\n*   **השפעת ה-AI על תעבורת האתרים:** נתוני מחקר מראים כי תכונת ה-\"AI Overviews\" של גוגל מובילה לעלייה בחיפושים מסוג \"אפס קליקים\" (Zero-click searches), מה שגורם לצניחה של כ-60% בשיעורי ההקלקה לאתרים חיצוניים.\n*   **המתח בין רדיט לגוגל:** עולה הטענה כי פלטפורמות כמו רדיט צריכות לשקול להגביל את הגישה של גוגל לתוכן שלהן, שכן גוגל משתמשת במידע זה כדי לספק תשובות ישירות ובכך \"גונבת\" למעשה את המשתמשים מהאתר המקור.\n*   **חוסן השוק של גוגל מול פגיעות המוציאים לאור:** העובדה שמניית גוגל לא הגיבה לדיווחים על מחלוקות מול מוציאים לאור (כמו ב-WSJ), מתפרשת כסימן לכך שהשוק רואה בבעלי התוכן (כמו רדיט) את הצד הפגיע והחלש יותר במשוואה הכלכלית מול ענקיות הטכנולוגיה."
-  },
-  {
-    "id": "1v3j1hx",
-    "title": "Has NKE become uninvestable? What’s going on with Niké / the goddess of victory... ?",
-    "url": "https://www.reddit.com/r/investing/comments/1v3j1hx/has_nke_become_uninvestable_whats_going_on_with/",
-    "author": "Plus_Seesaw2023",
-    "score": 105,
-    "selftext": "I honestly don’t get it anymore… NKE has basically been going down for like a year now. Just red after red after red.\n\nWhat really confuses me is the World Cup. Nike was everywhere. Big teams, huge visibility, constant exposure… I really thought that would boost sales and give the stock some momentum.\n\nBut nope, it just keeps sliding.\n\n[https://finviz.com/stock?t=NKE&ty=c&ta=0&p=d](https://finviz.com/stock?t=NKE&ty=c&ta=0&p=d) \n\nSo I’m wondering… is there something deeper going on here? Competition? margins? strategy issues?\n\nOr is this just market overreaction?\n\nCurious what you guys think, because right now I clearly feel like I’m missing something.",
-    "subreddit": "investing",
-    "created_utc": 1784733275,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Hoka isn’t really a small brand. They’re an elite running shoe that blew up because the entire world decided running was their new thing a few years after COVID when their waistlines were too big.\n\nAnd then, when running didn’t quite work out, the comfort was still worth it.\n\nBut Hokas are super ugly IMO. They are only good for running and athleisure, but then Nike struggles with anything that isn’t a retro athletic shoe.",
-        "score": 5,
-        "author": "TonyzTone"
-      },
-      {
-        "body": "Nike was literally built on running shoes and their alphafly are incredibly popular. ",
-        "score": 3,
-        "author": "dirtyshits"
-      },
-      {
-        "body": "Heir outlets definitely carry some cheaper models. You can still find some of their popular shoes there but a lot of them are cheaper materials and less desirable shoes.",
-        "score": 3,
-        "author": "dirtyshits"
-      }
-    ],
-    "summary_he": "הפוסט דן בירידה המתמשכת של מניית נייקי (NKE) בשנה האחרונה, למרות החשיפה המסיבית של המותג באירועים כמו המונדיאל. הכותב תוהה האם מדובר בבעיות עומק מבניות כמו תחרות ופגיעה בשולי הרווח, או שמדובר בתגובת יתר של השוק שהפכה את המניה ללא כדאית להשקעה.",
+    "summary_he": "הפוסט מנתח את הירידה במניית אלפבית למרות נתוני הכנסות חיוביים, זאת בשל חשש המשקיעים מהגידול החד בהוצאות על תשתיות בינה מלאכותית והשפעתו על תזרים המזומנים. השאלה המרכזית שעולה היא האם השוק ימשיך לגלות סבלנות כלפי אסטרטגיית ה-\"השקע עכשיו, הרווח אחר כך\", או שמא יתחיל להעניש את החברה על השחיקה בשולי הרווח.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג שש נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **מעמדה של הוקה (Hoka) בשוק:** המותג הוקה כבר מזמן אינו נחשב למותג קטן או נישתי. הוא הפך למותג ריצה \"עילית\" שזכה לפופולריות עצומה (Mainstream) בשנים האחרונות.\n*   **השפעת הקורונה על הצמיחה:** הפריצה הגדולה של הוקה מיוחסת למגמת הכושר העולמית שלאחר מגפת הקורונה, כאשר אנשים רבים החלו לעסוק בריצה כמענה לעלייה במשקל וחיפשו נעליים תומכות.\n*   **הנוחות כגורם מכריע:** גם בקרב מי שהפסיקו לרוץ בסופו של דבר, המותג שמר על נאמנות הלקוחות בזכות רמת הנוחות הגבוהה של הנעליים, שהצדיקה את המשך השימוש בהן כנעלי יומיום.\n*   **ביקורת על האסתטיקה:** קיימת דעה נחרצת בקהילה שנעלי הוקה הן \"מכוערות להפליא\" (Super ugly). נטען כי הן מתאימות אך ורק לריצה או לסגנון לבוש ספורטיבי (Athleisure), ולא מעבר לכך.\n*   **הדומיננטיות של נייקי (Nike) בריצה:** למרות התחזקות המותגים החדשים, המשתתפים מזכירים כי נייקי נבנתה במקור על נעלי ריצה, ודגמים מקצועיים שלה (כמו ה-Alphafly) עדיין נחשבים לפופולריים ומובילים מאוד בתחום.\n*   **איכות המוצרים בחנויות העודפים (Outlets):** הועלתה טענה כי חנויות העודפים של המותגים הגדולים מחזיקות לעיתים קרובות דגמים זולים יותר, המיוצרים מחומרים פחות איכותיים ופחות מבוקשים בהשוואה לדגמי הדגל שנמכרים בחנויות הרגילות."
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המוצגות, המציג 6 נקודות מבט ותובנות שונות שעלו מן הקהילה:\n\n*   **ביקורת על יהירות מנהלי ההייטק:** קיימת תחושת לעג וסלידה כלפי בכירים בתעשיית הטכנולוגיה המפגינים ביטחון עצמי מופרז (Arrogance) בנוגע ליכולותיהם.\n*   **השוואה מול המגזר הציבורי:** הקהילה מצביעה על נטייה של מנהלים אלו להתרברב בכך שהם מסוגלים לנהל תקציבים ולהוציא כספים בצורה יעילה וטובה יותר מהממשלה.\n*   **השפעת הרטוריקה על יציבות המימון:** עולה טענה כי הצהרות פומביות של מנכ\"לים על צמצום בהוצאות אינן רק צעד כלכלי, אלא הן בעלות פוטנציאל למוטט מערכות שלמות של \"מימון מעגלי\".\n*   **החשש מקריסת מודלים כלכליים:** ישנו זיהוי של מערכת מימון שברירית שתלויה בהמשכיות של זרימת כספים גבוהה; ברגע שזו תיעצר, כל המבנה עלול לקרוס.\n*   **המחיר של השקעה בתשתיות:** קיימת הכרה בכך שהוצאות על תשתיות הן הכרחיות אך \"כואבות\" בטווח הקצר, מה שמעיד על הבנה של המורכבות הכלכלית הכרוכה בבנייה לטווח ארוך.\n*   **ספקנות לגבי המניעים של המגזר הפרטי:** מהתגובות עולה נימה של חוסר אמון בכך שהמגזר הפרטי באמת מחזיק בפתרונות עדיפים, תוך רמיזה כי לעיתים מדובר בהצהרות ריקות מתוכן."
   },
   {
-    "id": "1v3iqvl",
-    "title": "$AMD just locked up 2 GIGAWATTS of AI demand from Anthropic.  This is huge!",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1v3iqvl/amd_just_locked_up_2_gigawatts_of_ai_demand_from/",
-    "author": "WallstreetPR",
-    "score": 77,
-    "selftext": "Just dropped: AMD and Anthropic (the company behind Claude) signed a deal for up to 2 gigawatts of AMD's new MI450 GPUs, deploying starting H1 2027. AMD is also putting up to $5B into Anthropic, tied to deployment milestones.\n\nWhy this matters:\n\n* Anthropic already uses AMD chips (MI355X),  this is an EXPANSION, not a first date\n* AMD now has gigawatt-scale deals with OpenAI, Meta, AND Anthropic\n* Stock is moving on the news\n* This is real infrastructure, not vaporware, full rack-scale systems (Helios) with CPUs, networking, and software included\n\nAMD is proving it can go head-to-head with Nvidia for the biggest AI labs on the planet. Worth watching how this develops into 2027.\n\nNot financial advice, do your own research.",
-    "subreddit": "StockMarket",
-    "created_utc": 1784732648,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Honestly, this is AMD showing that there is a spot for it and other hardware manufacturers in this grand AI scheme. I doubt this is AMD showing they can go head to head against NVIDIA",
-        "score": 26,
-        "author": "kinetic_honda"
-      },
-      {
-        "body": "So AMD is basically paying Anthropic to buy AMD chips. The circular AI money loop continues. Spacex says they are mainly an AI company, and look at them shitting the bed, down to 115 as I type, down from a recent high of 225.  \n  \nAnthropic is gong to get buried under their massive debt that they can't pay off. You can't even say they have an optimistic business plan to make money, because there is no plan. When these frontier AI companies go down, it's going to nuke everything,",
-        "score": 23,
-        "author": "bejammin075"
-      },
-      {
-        "body": "Everyone saying this is bullish and all I am seeing here is circular financing from one of the leading chip companies who were supposed to be generating all this extra cash. The certainty behind chips was that no matter who won they would be getting paid. Now they are picking favorites at a time when monetization has not been demonstrated at all. Planning to dump most of my AMD by close, kind of ruining the whole reason I was in it in the first place.",
-        "score": 23,
-        "author": "jcpopm"
-      }
-    ],
-    "summary_he": "חברת AMD חתמה על עסקת ענק עם Anthropic לאספקת מעבדי MI450 בהיקף של 2 ג'יגה-ואט, הכוללת גם השקעה של עד 5 מיליארד דולר מצד AMD. המהלך מבסס את מעמדה של החברה כמתחרה ישירה ומשמעותית של אנבידיה באספקת תשתיות בינה מלאכותית, ומצטרף לשיתופי פעולה דומים שלה עם ענקיות כמו OpenAI ומטא.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מהתגובות ב-Reddit בנוגע למהלך של AMD (ככל הנראה ההשקעה/עסקה עם Anthropic):\n\n* **מיצוי מקום בשוק מול NVIDIA:** ישנה דעה כי המהלך של AMD נועד להוכיח שיש לה ולייצרניות חומרה אחרות מקום בתוך האקו-סיסטם של הבינה המלאכותית, אך אין זה אומר שהיא מסוגלת כרגע להתחרות \"ראש בראש\" מול הדומיננטיות של NVIDIA.\n* **ביקורת על \"מימון מעגלי\":** קיימת טענה חריפה ש-AMD למעשה משלמת ל-Anthropic כדי שזו תקנה את השבבים שלה. סנטימנט זה מתאר \"לולאת כסף\" מלאכותית בתחום ה-AI שאינה מעידה על צמיחה אורגנית.\n* **חשש מקריסת חברות ה-AI המובילות:** חלק מהמגיבים מביעים פסימיות עמוקה לגבי העתיד הכלכלי של חברות כמו Anthropic, בטענה שהן טובעות בחובות ללא תוכנית עסקית ברורה לרווחיות. קריסה של חברות אלו נתפסת כסיכון שעלול \"להחריב\" את השוק כולו.\n* **שינוי בתזת ההשקעה בשבבים:** בעבר, ההנחה הייתה שחברות השבבים הן השקעה בטוחה כי הן ירוויחו \"לא משנה מי ינצח\" במירוץ ה-AI. כעת, כשהן מתחילות לבחור צדדים ולממן את הלקוחות שלהן, חלק מהמשקיעים מרגישים שהביטחון הזה נעלם.\n* **ספקות לגבי מונטיזציה (יכולת רווח):** עולה טענה כי למרות ההשקעות המסיביות, טרם הוכחה היכולת של טכנולוגיית ה-AI לייצר רווחים ממשיים בשטח, מה שהופך את ההשקעות של חברות השבבים בלקוחותיהן למסוכנות במיוחד.\n* **אובדן אמון מצד המשקיעים הפרטיים:** המהלך גרם לחלק מהמשקיעים לשקול מחדש את החזקותיהם ב-AMD. התחושה היא שהחברה סוטה מהסיבה המקורית שבגללה השקיעו בה, והם מתכננים למכור את המניה (\"Dumping\") בעקבות מה שהם תופסים כסיכון מיותר ומהלך נואש."
-  },
-  {
-    "id": "1v3ehpk",
-    "title": "SOXX down 16% from June highs but Monday printed +5.5%. Dip or dead cat?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1v3ehpk/soxx_down_16_from_june_highs_but_monday_printed/",
-    "author": "Eastern-Apartment934",
-    "score": 31,
-    "selftext": "Been watching semis get absolutely wrecked since late June. SOXX off 20% from peak, QQQ dropped around 8% over the same stretch. Then Monday happens and SOXX rips 5.5% in a single session.\n\nMy read: this is short covering, not conviction buying. US short positions are sitting at historical highs, and you get a squeeze like that when crowded shorts unwind fast. Still roughly 16% below June highs, so the recovery story isn't anywhere close to written.\n\nThat said, Taiwan export orders came in at +59.4% YoY against a +49.5% consensus. That's not noise. AI capex demand is still real, and 61% of fund managers in recent surveys don't expect any reduction this year.\n\nI checked the chart flow on moomoo and the NVDA/AMD/MU complex looks like it wants to base here, but earnings this week will tell us if Monday's move had any legs or just trapped more longs.\n\nPersonally sitting on partial positions. Not adding until I see guidance numbers. Anyone else holding through earnings or trimming into this bounce?",
-    "subreddit": "StockMarket",
-    "created_utc": 1784722690,
-    "thumbnail": "https://preview.redd.it/mhok784swreh1.png?width=140&height=117&auto=webp&s=74bdab2af1fce31336d8e486bbe1c0ffae8cb47e",
-    "top_comments": [
-      {
-        "body": "down in pre market again today.",
-        "score": 10,
-        "author": "aravreddy22"
-      },
-      {
-        "body": "Dead cat! Think we go -20% towards year ending ",
-        "score": 6,
-        "author": "BGM1988"
-      },
-      {
-        "body": "Bull trap. It's not even out of the decline band. ",
-        "score": 6,
-        "author": "gizamo"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **המשך המומנטום השלילי בטווח הקצר:** קיימת התייחסות לירידות שערים נוספות המתרחשות כבר בשלב המסחר המוקדם (Pre-market), דבר המעיד על לחץ מכירות מתמשך.\n*   **אבחנה של \"זינוק חתול מת\" (Dead Cat Bounce):** אחד המגיבים טוען כי העליות האחרונות (אם היו כאלה) הן זמניות בלבד ואינן מעידות על התאוששות אמתית, אלא על ריבאונד טכני לפני המשך הנפילה.\n*   **תחזית פסימית לסוף השנה:** מובע חשש מפני ירידה חדה נוספת של כ-20% בערך הנכס לקראת סוף השנה הקלנדרית.\n*   **אזהרה מפני \"מלכודת שוורים\" (Bull Trap):** הסנטימנט בקהילה מזהיר משקיעים מפני כניסה לפוזיציות לונג, מתוך מחשבה שהעליות הנוכחיות הן מלכודת שנועדה למשוך קונים לפני קריסה נוספת.\n*   **ניתוח טכני של \"רצועת הירידה\":** מצוין כי מבחינה טכנית, מחיר המניה/נכס עדיין לא הצליח לפרוץ אל מחוץ לטווח הירידות (Decline band), מה שמחזק את ההערכה שהמגמה הכללית נותרה דובית.\n*   **היעדר אופטימיות בקהילה:** באופן כללי, התגובות משקפות סנטימנט שלילי וספקני מאוד; אף אחד מהמגיבים לא רואה בנקודת הזמן הנוכחית הזדמנות קנייה או סימן לשינוי מגמה חיובי."
-  },
-  {
-    "id": "1v3l0lq",
-    "title": "China Is Restricting Trades on Paper Gold - My take On The Indirect Implications For Gold Mining Stocks",
-    "url": "https://www.reddit.com/r/investing/comments/1v3l0lq/china_is_restricting_trades_on_paper_gold_my_take/",
-    "author": "Fwhometeam",
+    "id": "1v4lzbu",
+    "title": "Advice/Opinions needed: Choosing an advisor",
+    "url": "https://www.reddit.com/r/investing/comments/1v4lzbu/adviceopinions_needed_choosing_an_advisor/",
+    "author": "jrmckins",
     "score": 23,
-    "selftext": "I think gold miners are about to get an influx of investment from Asian retail investors.  I would imagine that Chinese gold investor/traders that are all of a sudden restricted from leveraged gold would be looking for alternative means to gain similar exposure.  Gold Miners accomplish that… gold miners basically give traders leveraged gold prices.  Of course, shares in a company means additional exposure to business risk but I still think there is enough there to entice investment.  It might be a practical place to move given the circumstances.  ",
+    "selftext": "Hi all,\n\nAfter self-managing my investments for the past 38 years, I'm looking for an advisor to help me transition to retirement. I have it down to two guys, and I'm just not sure how to decide. What should I be looking for in an advisor? What questions should I be asking?",
     "subreddit": "investing",
-    "created_utc": 1784737428,
+    "created_utc": 1784830637,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Interesting thesis. The part I’d be watching is whether investors are actually looking for *gold exposure* or specifically the leverage/speculation that paper gold provided.\n\nGold miners can amplify gold moves, but they also introduce company-specific risks: operating costs, management execution, jurisdiction, and capital allocation.\n\nCurious, what data would you look for to confirm this shift is actually happening? Increased miner volumes, ETF flows, or something else?",
-        "score": 9,
-        "author": "Fluffy-Flatworm7288"
+        "body": "I recently went though something like this.  I had it down to 3, and felt like I could role a dice and be fine with the results.  In the end I made a point to have somewhat deeper conversations on topics like hobbies, AI, industry trends, GeoPolitics, etc and went with the one who was generally most aligned with my broadly speaking world view.  From the financial side they all checked the boxes, would be fiduciaries, solid track record, relative or close friends using them with positive results, etc... I think they all would manage fine, but I feel more confident with my choice after doing that, knowing we have alignment on things in general.",
+        "score": 14,
+        "author": "Vithar"
       },
       {
-        "body": "Gold miners can work but it helps if other inflation is contained as these are actual mining companies that have to pay for fuel, vehicles, wages, etc..\n\nNote that many broad index funds, which have said mining stocks, also have WPM stock, which holds physical gold, silver, and other precious metals for their own resale.   Why worry about paper gold/silver vs melting down grannies heirlooms at Shady Eddies Gold n’Guns when pros can worry about prices?",
-        "score": 6,
-        "author": "IronyElSupremo"
-      },
-      {
-        "body": "China has been flipping gold. It kinda explains why they want certain things traded",
+        "body": "Absolutely. I'm talking to two who are old enough to have experience but young enough to be working into my retirement.",
         "score": 2,
-        "author": "Coffeey27"
+        "author": "jrmckins"
+      },
+      {
+        "body": "Ask them what their vices are. Underrated. \n\nAlso ask them if they are actually managing the money themselves or outsourcing to a third party or internal chief investment officer. \n\nAsk for a discount on their fee. \n\nTrust your vibe and gut with who you’d rather spend time with ",
+        "score": 2,
+        "author": "roopert"
       }
     ],
-    "summary_he": "בעקבות הגבלות שהטילה סין על מסחר ממונף ב\"זהב נייר\", כותב הפוסט מעריך כי משקיעים קמעונאיים באסיה יחפשו דרכים חלופיות להשגת חשיפה למחירי המתכת. לטענתו, מניות של חברות כריית זהב עשויות ליהנות מזרימת השקעות משמעותית, שכן הן מספקות למשקיעים מינוף טבעי למחיר הזהב בתנאי השוק הנוכחיים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מהתגובות ב-Reddit בתרגום לעברית:\n\n*   **מינוף מול סיכון תפעולי:** מניות של חברות כריית זהב יכולות להעצים (למנף) את התנודות במחיר הזהב, אך הן חושפות את המשקיע לסיכונים שאינם קיימים בזהב פיזי, כגון איכות הניהול, הקצאת הון, וסיכונים במדינות שבהן מתבצעת הכרייה (Jurisdiction).\n*   **השפעת האינפלציה על הכורים:** הרווחיות של חברות כרייה תלויה במידה רבה בריסון האינפלציה הכללית; מכיוון שמדובר בחברות תפעוליות, עליהן להתמודד עם עלויות עולות של דלק, שכר עבודה וציוד, שעלולות לשחוק את הרווחים גם כשמחיר הזהב עולה.\n*   **מדדים לבחינת שינוי במגמה:** כדי לאשם אם אכן מתרחש מעבר של משקיעים לכיוון מניות כרייה, יש לעקוב אחר נתונים מספריים ברורים כמו עלייה בנפחי המסחר (Volumes) של הכורים ותזרימי מזומנים לקרנות סל (ETFs) רלוונטיות.\n*   **העדפת ניהול מקצועי על פני זהב פיזי \"רחוב\":** קיימת סנטימנט המעדיף השקעה דרך חברות המתמחות בהחזקת מתכות (כמו WPM) או מדדים רחבים, על פני התעסקות עצמאית במכירה או המסה של תכשיטים וזהב פיזי בערוצים לא רשמיים ומפוקפקים.\n*   **שאלת המניע להשקעה:** עולה תהייה האם המשקיעים מחפשים חשיפה אמיתית לערך הזהב כנכס, או שהם פשוט מחפשים את המינוף והספקולציה שסיפק בעבר \"זהב הנייר\" (חוזים ונגזרים), ורואים במניות הכרייה תחליף לכך.\n*   **המעורבות של סין:** ישנה סברה שסין פועלת באופן אקטיבי בשוק הזהב (\"היפוך\" עסקאות), מה שמסביר את האינטרס שלה לקדם צורות מסחר מסוימות על פני אחרות בשוק העולמי."
+    "summary_he": "לאחר 38 שנים שבהן ניהל את השקעותיו בעצמו, הכותב מחפש יועץ פיננסי שילווה אותו בתהליך הפרישה לגמלאות. הוא מתלבט בין שני מועמדים סופיים ומבקש לקבל עצות לגבי הקריטריונים לבחירה והשאלות החשובות שעליו לשאול אותם לפני קבלת ההחלטה.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג שש נקודות מבט ועצות מרכזיות לבחירת יועץ פיננסי:\n\n*   **התאמה בהשקפת העולם וערכים משותפים:** מעבר לבדיקת הכישורים הפיננסיים היבשים (כמו נאמנות לחוק וניסיון), מומלץ לקיים שיחות עומק על נושאים כלליים כמו טרנצ'ים בתעשייה, גיאופוליטיקה ואפילו תחביבים. הבחירה ביועץ שהשקפת עולמו תואמת לזו של הלקוח מעניקה תחושת ביטחון ונינוחות גבוהה יותר בניהול הכספים.\n*   **איזון בין ניסיון לבין אופק תעסוקתי:** ישנה חשיבות לבחירת יועץ שנמצא ב\"נקודת המתוק\" מבחינת גיל – כזה שהוא בעל ניסיון מקצועי רב מספיק, אך צעיר מספיק כדי להמשיך וללוות את הלקוח לאורך כל שנות הפרישה שלו מבלי לצאת לפנסיה לפניו.\n*   **שקיפות תפעולית בניהול הכספים:** נקודה קריטית היא להבין האם היועץ מנהל את ההשקעות באופן פעיל בעצמו, או שהוא מבצע מיקור חוץ (Outsourcing) לצד שלישי או למנהל השקעות ראשי בחברה גדולה יותר.\n*   **בחינת אופי וסיכונים אישיים:** עצה ייחודית שעלתה היא לשאול את היועץ על ה\"חולשות\" או ההרגלים הרעים שלו (Vices). זוהי דרך לא קונבנציונלית לקבל הצצה לאופיו האמיתי של האדם שיופקד על כספכם.\n*   **היבט העלויות והמשא ומתן:** הדיון מדגיש כי אין לקבל את עמלות הניהול כגזירה משמים, ומומלץ לבקש באופן ישיר הנחה במחיר או בשיעור העמלה.\n*   **אינטואיציה וחיבור אישי (\"Vibe\"):** מעבר לכל המדדים האובייקטיביים, הקהילה מדגישה את החשיבות של סמיכה על תחושת הבטן. מכיוון שמדובר בקשר ארוך טווח, כדאי לבחור במישהו שבאמת נהנים לבלות איתו זמן ושמרגישים איתו בנוח ברמה האישית."
   },
   {
-    "id": "1v3hkrc",
-    "title": "In the event of a big US price correction, will equities across the globe fall in tandem?",
-    "url": "https://www.reddit.com/r/investing/comments/1v3hkrc/in_the_event_of_a_big_us_price_correction_will/",
-    "author": "Tiny-Pomegranate7662",
+    "id": "1v4lyqq",
+    "title": "Posting a case study to get new clients.",
+    "url": "https://www.reddit.com/r/business/comments/1v4lyqq/posting_a_case_study_to_get_new_clients/",
+    "author": "gist-of-everything",
     "score": 8,
-    "selftext": "So, from what I can gather, in both 2000 and 2008 when the US market fell, that bled over globally, they all fell when the panic hit. \n\nIt seems like in the event of big drawdowns, people pull cash from everywhere for liquidity, even if fundamentals aren't the same across the globe? \n\nAfter the initial drop, then the divergence happened in the recovery across different countries as some recovered much faster than others. \n\nDoes this pattern hold for other historical corrections? Do you think it's likely to repeat?",
-    "subreddit": "investing",
-    "created_utc": 1784730072,
+    "selftext": "So, I came across a post where one guy said he posted a case study of his work, got 50k views, and landed 6 paid clients.\n\nIs that possible? And if I want to post my case study, where can I post it? What things should I keep in mind so I can actually get new clients?",
+    "subreddit": "business",
+    "created_utc": 1784830604,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Everything would drop initially, but recovery speed and strength can vary. Internationals recovered much faster than US equities after 2001 but slower than US equities after 2008. ",
-        "score": 33,
-        "author": "FrankDrebinOnReddit"
-      },
-      {
-        "body": "Likely international equities will fall too but probably not as much since they aren't as overvalued and tech heavy. ",
-        "score": 6,
-        "author": "thorn960"
-      },
-      {
-        "body": "They will drop as well considering how interconnected the US is with the world's economy and financial markets.  It doesn't mean that it will drop IN TANDEM though.  The US market, as measured by PE ratio for example, is way overpriced as compared to the RoW right now.",
-        "score": 5,
-        "author": "gwelfguy"
-      }
-    ],
-    "summary_he": "הפוסט דן בשאלה האם תיקון משמעותי בשוק ההון האמריקאי יוביל לירידות שערים בכל העולם, כפי שקרה במשברי 2000 ו-2008 עקב הצורך של משקיעים בנזילות מיידית. הכותב מציין כי בעוד שהנפילה הראשונית נוטה להיות גלובלית, קצב ההתאוששות משתנה בין מדינות, ותוהה האם דפוס זה צפוי לחזור על עצמו גם בעתיד.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות בשרשור, המציג 6 נקודות מבט וסנטימנטים שונים בקהילה:\n\n*   **תלות הדדית גלובלית:** קיימת הסכמה רחבה שבמקרה של קריסה בשוק האמריקאי, כל השווקים בעולם יחוו ירידות בטווח המיידי בשל הקשרים ההדוקים בין הכלכלות והמערכות הפיננסיות.\n*   **הבדלים בקצב ההתאוששות:** המגיבים מציינים כי מהירות ועוצמת ההתאוששות של שווקים בינלאומיים משתנות מאוד ולא תמיד תואמות לארה\"ב; למשל, לאחר משבר 2001 השווקים הבינלאומיים התאוששו מהר יותר, בעוד שלאחר 2008 הם פיגרו אחרי השוק האמריקאי.\n*   **חשיפה מופחתת לטכנולוגיה:** ישנה סברה כי מניות בינלאומיות עשויות לרדת פחות מהשוק האמריקאי מכיוון שהן פחות ריכוזיות ואינן נשענות בכבדות על מגזר הטכנולוגיה, שנחשב לרגיש ותנודתי יותר.\n*   **הערכות שווי נוחות יותר בחו\"ל:** חלק מהקהילה סבור כי השווקים מחוץ לארה\"ב נמצאים בסיכון נמוך יותר לנפילה חדה משום שהם אינם סובלים מ\"תמחור יתר\" (Overvaluation) קיצוני כפי שרואים כיום בשוק האמריקאי.\n*   **חוסר מתאם בעוצמת הירידה:** למרות שהשווקים ירדו יחד, המגיבים מדגישים שהם לא ירדו בהכרח \"בתיאום מושלם\" (In tandem). כלומר, עומק הנפילה עשוי להשתנות משמעותית בין אזור לאזור.\n*   **ניתוח לפי מכפיל רווח (P/E Ratio):** עולה טענה ממוקדת שהשוק האמריקאי כיום יקר משמעותית בהשוואה לשאר העולם (Rest of World) על פי מדד מכפיל הרווח, מה שהופך אותו לפגיע יותר לתיקון חד ביחס לשווקים הגלובליים."
-  },
-  {
-    "id": "1v3eua8",
-    "title": "i was actually right about rates staying high, still lost money somehow lol",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1v3eua8/i_was_actually_right_about_rates_staying_high/",
-    "author": "TheKaiserAlpha",
-    "score": 6,
-    "selftext": "so for a while i had this feeling that all the government spending and inflation stuff was gonna keep long term rates high. like it just felt kinda different from usual, not just some temporary blip\n\nwas getting new tires around then too and the guy at the shop was joking about how everything’s still expensive, stuck with me for some reason\n\nfigured if things stayed messy, those long bonds would keep feeling heavy\n\nput a little money on it. not a lot, just enough that it stings when it goes wrong. told myself if it dropped too much too fast i’d just get out, didn’t wanna be the guy holding on forever\n\ni lost money on this ngl\n\nlast month it dipped. not even that much tbh, but enough to hit that “get out” point i set for myself, some inflation news came out that looked softer for like a sec\n\nsold right there like an idiot. lost a chunk, not pizza money but enough to feel dumb standing at the gas station after\n\nwhat’s weird is\n\ni expected either it keeps dropping or it holds steady if i’m right. instead it dipped just enough to shake me out and then went right back up like nothing happened, big picture didn’t even change\n\nhuh\n\nit’s like waiting for the car to warm up in winter. sometimes it feels ready and you pull out early and the engine still stutters on you\n\nidk if the thing was ever actually gonna hold the whole time or if i just got unlucky with the timing. kinda both? not sure\n\nanyone else get shaken out right before the thing actually went their way, or am i just bad at sitting still lol",
-    "subreddit": "StockMarket",
-    "created_utc": 1784723600,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Don’t invest money that you can’t afford to lose entirely and the worst thing you can do is sell because the assets price dropped.  Base your investment thesis on something other than the its current price.",
-        "score": 5,
-        "author": "pogoli"
-      },
-      {
-        "body": "I’ve heard they let interest rates drop and the Iran war pause for the SpaceX ipo. Gotta let retail borrow money to keep this craziness going ",
-        "score": 2,
-        "author": "PotentialLetter3839"
-      },
-      {
-        "body": "Being right on the direction and getting stopped out isn't bad luck, it's a sign the stop was placed based on vibes instead of where the trade actually gets invalidated. Getting shaken out on a headline-driven dip that reverses in a day usually means the stop was inside normal noise for that instrument, not below a level where your thesis would actually be wrong. Long bonds especially can whip a couple percent on a single soft CPI print and mean nothing structurally. Before the next one of these, look at how many times in the last year that same setup dipped like that before continuing, it tells you how wide the stop needs to be to survive normal noise instead of getting your hand forced by every headline.",
-        "score": 1,
-        "author": "BullMarketBound"
-      }
-    ],
-    "summary_he": "הכותב שיתף שחזה נכון שהריביות יישארו גבוהות בטווח הארוך, אך בכל זאת הפסיד כסף לאחר שיצא מהפוזיציה עקב תנודה רגעית בשוק. למרות שהניתוח שלו היה מדויק, הוא \"ננער\" החוצה בגלל תזמון גרוע ומימוש נקודת יציאה (stop-loss) רגע לפני שהמגמה המשיכה בדיוק כפי שצפה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט ותובנות מרכזיות של הקהילה בנושאי השקעות ומסחר:\n\n*   **ניהול סיכונים בסיסי:** אין להשקיע כסף שאינכם יכולים להרשות לעצמכם להפסיד לחלוטין. זוהי כלל ברזל שנועד למנוע קריסה כלכלית אישית במקרה של תנודות חריפות בשוק.\n*   **הימנעות ממכירה רגשית:** אחת הטעויות הגדולות ביותר שמשקיע יכול לעשות היא למכור נכס רק בגלל שמחירו ירד. יש לבסס את תזת ההשקעה על גורמים מהותיים ולא על תנודות מחיר רגעיות.\n*   **תיאוריות על תזמון השוק והנפקות:** קיימת סברה בקהילה שגורמים מאקרו-כלכליים (כמו הורדת ריבית) ואפילו הפוגות בעימותים גיאופוליטיים (כמו המתיחות עם איראן) מתואמים לעיתים כדי לאפשר סביבה נוחה להנפקות ענק, דוגמת SpaceX, וכדי לאפשר לציבור הרחב ללוות כסף שיזין את המשך העליות.\n*   **ביקורת על הצבת פקודות \"סטופ-לוס\" (Stop-Loss):** יציאה מהפסד בגלל פקיעת \"סטופ\" בזמן שהכיוון הכללי של השוק היה נכון אינה \"חוסר מזל\". זוהי עדות לכך שהפקודה הוצבה על סמך תחושות בטן (\"Vibes\") במקום על סמך נקודות טכניות שבהן תזת ההשקעה באמת מתבטלת.\n*   **הבחנה בין \"רעש\" לשינוי מבני:** תנודות חדות שנובעות מכותרות חדשותיות ומתהפכות תוך יום נחשבות ל\"רעש\". על הסוחר להכיר בכך שמכשירים פיננסיים מסוימים (כמו אג\"ח ארוכות טווח) יכולים להגיב באגרסיביות לנתוני אינפלציה מבלי שזה ישנה את המגמה המבנית שלהם.\n*   **למידה מנתוני עבר לקביעת טווחים:** כדי לשרוד תנודות שוק רגילות, על המשקיע לבחון כמה פעמים בעבר המערכת (Setup) חוותה ירידות דומות לפני שהמשיכה לעלות. ניתוח כזה מסייע לקבוע \"סטופ\" רחב מספיק שלא יופעל בגלל תנודתיות שגרתית."
-  },
-  {
-    "id": "1v3ip0t",
-    "title": "The market is completely misinterpreting the delay in Reddit's Al data licensing negotiations with Google. In this deal, Reddit holds all the leverage, meaning a prolonged negotiation is actually a strong bullish signal not a negative one",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1v3ip0t/the_market_is_completely_misinterpreting_the/",
-    "author": "MasterpieceOk8986",
-    "score": 5,
-    "selftext": "&#x200B;\n\nRecently, Google's traditional search paradigm has fundamentally shifted toward Al-driven answer synthesis. As Al increasingly processes, cites, and delivers curated information directly to users, authentic\n\nhttps://searchengineland.com/google-zero-click-searches-2026-study-479717?hl=ko-KR#:\\~:text=SparkToro%20believes%20AI%20Overviews%20are%20likely%20contributing,during%20the%20January%20to%20April%20study%20period.\n\nhuman-generated conversational data has become indispensable. Reddit is the primary source powering these narrative and contextual Al citations.\n\nWhile Reddit previously signed a deal worth over $60 million annually, Google's actual dependence on this data goes far beyond that figure. Even if licensing fees were to jump tenfold, Google has no choice but to pay. Securing Reddit's real-time human data is not just an advantage for Google; it is an absolute necessity to maintain their competitive edge.\n\nIf this were a simple renewal for a modest 2x fee increase, the deal would have been closed seamlessly by now. The very fact that negotiations are dragged out indicates that Reddit is aggressively pushing for a much higher valuation.\n\nTherefore, investors shouldn't be demanding a quick announcement. A prolonged dispute benefits Reddit stockholders because everyone knows the ultimate outcome: Google simply cannot afford to walk away from Reddit's data.",
-    "subreddit": "StockMarket",
-    "created_utc": 1784732538,
-    "thumbnail": "https://preview.redd.it/6ici4l25qseh1.jpg?width=140&height=25&auto=webp&s=449e5ed3d2e864d4bf0579954b5e935f69f1d040",
-    "top_comments": [
-      {
-        "body": "I'm bullish Reddit but saying they have any leverage over GOOGLE is comical.",
-        "score": 16,
-        "author": "Virtual_Secretary_98"
-      },
-      {
-        "body": "I have seen ai results increase dramatically in accuracy and usefulness after they stopped using so much reddit as a source...\n\nIt has probably been about a year. \n\nSo this data is critically out of date.",
-        "score": 6,
-        "author": "ktaktb"
-      },
-      {
-        "body": "I guess for consumer level topics \n\nBut for enterprise or work flow stuff, reddit has thankfully fallen out of my results and been replaced with primary sources and primary authorities ",
+        "body": "Anything is possible, but being possible doesn’t mean likely or easily duplicatable.  \n\nSince dude you’re talking about was successful, it would make the most sense to ask HIM about where to post it, and what things to keep in mind for new clients.  \n\nAsk the person that did the thing you want to do, not a subreddit full of anonymous random people whose experience is unknown and difficult to validate.",
         "score": 3,
-        "author": "ktaktb"
+        "author": "DaBadNewz"
+      },
+      {
+        "body": "I see two issues here.\n\nSTORYTELLING.  This is classic storytelling, where you write one-on-one to your customer about a life event in your organization. Most storytelling has a 'moral', an outcome that lets the reader feel good, or learn about you or your business.  Do a Google search to learn more about STORYTELLING--this is covered all over the Internet world.\n\nEMPATHY. You need to think like your customer.  What are their life experiences. How does your organization match to their needs and life experiences. EMPATHY will guide you to craft your STORYTELLING.\n\nIt belongs on the company website. It could be a news article that hits the public press.  It might be printed on the back of your invoices. Other social media vehicles can work here too. I am suggesting words, but if you are very creative, you can deliver the message in video or graphics.  Good luck.",
+        "score": 2,
+        "author": "Pleasant-Compote9576"
+      },
+      {
+        "body": "Yes, you're right.  Thank you. ",
+        "score": 1,
+        "author": "gist-of-everything"
       }
     ],
-    "summary_he": "העיכוב במשא ומתן בין רדיט לגוגל על רישוי נתונים לבינה מלאכותית הוא סימן חיובי עבור המשקיעים, שכן הוא מעיד על כך שרדיט מנצלת את כוח המיקוח שלה כדי להשיג מחיר גבוה משמעותית. מכיוון שגוגל תלויה במידע האנושי האותנטי של רדיט כדי לשמר את יכולות ה-AI שלה, הכותב טוען שגוגל תיאלץ בסופו של דבר להיענות לדרישותיה ולא תוכל לוותר על העסקה.",
+    "summary_he": "הכותב תוהה האם פרסום מקרה בוחן (case study) הוא אכן כלי יעיל להשגת לקוחות חדשים, בעקבות סיפור שקרא על הצלחה משמעותית בשיטה זו. הוא מבקש המלצות על פלטפורמות פרסום מתאימות וטיפים לניסוח נכון שיסייע להפוך את החשיפה להתקשרויות עסקיות בפועל.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים מרכזיים מהקהילה:\n\n*   **הבחנה בין אפשרי לסביר:** עלתה הטענה שגם אם הישג מסוים הוא אפשרי, אין זה אומר שהוא קל לשכפול או שהוא סביר עבור כל אחד. יש להבדיל בין הצלחה נקודתית ליכולת לייצר מערכת עקבית.\n*   **העדפת ניסיון מוכח על פני אנונימיות:** קיימת הסתייגות מהסתמכות על עצות של זרים בפורומים כמו רדיט, שבהם קשה לאמת את הניסיון של המגיבים. ההמלצה היא לפנות ישירות לאדם שכבר הצליח לבצע את המשימה הספציפית שבה מעוניינים.\n*   **חשיבותו של ה-Storytelling (סיפור סיפורים):** המגיבים מדגישים כי כתיבה שיווקית טובה מבוססת על שיתוף חוויות מהחיים האמיתיים של הארגון. לסיפור כזה צריך להיות \"מוסר השכל\" או תוצאה שגורמת לקורא להרגיש טוב או ללמוד משהו חדש על העסק.\n*   **אמפתיה כבסיס ליצירת תוכן:** כדי להצליח, על בעל העסק \"להיכנס לנעליו\" של הלקוח, להבין את חוויות החיים שלו ולבחון כיצד הארגון נותן מענה לצרכים הללו. האמפתיה היא זו שאמורה להנחות את ניסוח הסיפור השיווקי.\n*   **גיוון בערוצי ההפצה:** עלה הרעיון שהתוכן לא חייב להישאר רק ברשתות החברתיות; ניתן ורצוי לפרסם אותו באתר החברה, כמאמר בעיתונות, ואפילו להדפיס מסרים שיווקיים על גבי חשבוניות הנשלחות ללקוחות.\n*   **גמישות במדיום והצגת המסר:** הקהילה מציינת כי המסר לא חייב להיות טקסטואלי בלבד. אם ישנה יכולת יצירתית, מומלץ להעביר את הסיפור והערכים באמצעות וידאו או גרפיקה כדי להגביר את האימפקט."
+  },
+  {
+    "id": "1v4nfyi",
+    "title": "Alphabet had 82% Cloud growth & higher margins. Tesla delivered 480,126 cars. But market reacted other way because of AI capex & missed EPS",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1v4nfyi/alphabet_had_82_cloud_growth_higher_margins_tesla/",
+    "author": "aperartnft",
+    "score": 4,
+    "selftext": "The past couple of weeks the market had been asking and concerning that the heavy AI capex may not be justified by earnings. Alphabet and Tesla, two of the largest AI-spending companies both released their earning reports on Wednesday. The answer turned out to be more interesting than a simple AI spending good or bad.\n\nAlphabet's revenue came in at $119.8 billion beating estimates of $116.93 billion and up 24% yoy. Google Cloud accelerated from 63% growth last quarter to 82% this quarter, hitting $24.8 billion in revenue. Cloud operating margin jumped from 20.7% a year ago to 35.6%. The Cloud backlog hit $514 billion up more than $50 billion in a single quarter. By almost any normal measure, that's one of the best quarters a company this size has ever posted. The stock still fell 6-7% anyway. Management raised 2026 capex guidance again, to as much as $205 billion on top of the $85 billion equity raise back in June. Investors were not happy with Alphabet saying that it's going to spend even more, on top of already spending an enormous amount with no assurance the return shows up on the same year.\n\nTesla had a rough quarter. Revenue hit a record $28.24 billion, up 26% yoy and ahead of the $26.4 billion Wall Street expected, driven by a record 480,126 vehicles delivered. The stock dropped by 13%. Non-GAAP EPS was at $0.33 missing the $0.51-0.54 estimate by roughly 39%, down 18% from a year ago. GAAP gross margin slipped to 16.8%, operating income was down by 57% to just $398 million and operating margin fell from 4.1% to 1.4%, as regulatory credit income which had been running $700-900 million a quarter, mostly stopped and vehicle discounting effected the pricing.\n\nThis was Tesla's first cash burning quarter since early 2024 versus a $146 million surplus in the same quarter last year. Cash and investments are still at $43.5 billion, so there's no liquidity concern. Musk told analysts this is \"maybe the best capex returns that we've ever seen,\" pointing to Optimus robot production about to start. He also floated deeper collaboration with SpaceX, mentioning a project called Terafab, massive semiconductor manufacturing project.\n\nSo Alphabet got sold for spending more on infrastructure that's working, Cloud growth accelerating and margins expanding are proof the money is converting into a real business. Tesla got sold for spending heavily on infrastructure and initiatives that haven't shown up as returns yet, while the core business (cars) is simultaneously showing real strain in cash generation and margins. Those are two different problems under the same AI capex.\n\nIf we see in the past few weeks, Meta's cloud pivot, Amazon's bond raise, Nvidia's stake in Nebius, the whole industry is shifting toward financing AI buildouts through debt and equity instead of pure cash flow. Last night was the first time two mega-caps reported real numbers on the same evening and the market showed a clear distinction between spending that's converting and spending that isn't.\n\nSo two separate angles, for Alphabet, does punishing a company for raising guidance after posting 82% Cloud growth and expanding margins feel like the market being too impatient. And for Tesla, is Musk's \"best capex returns we've ever seen\" is correct given the negative FCF. And what does this mean for the broader AI capex concern of this industry.",
+    "subreddit": "StockMarket",
+    "created_utc": 1784833680,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Google makes Tesla quarterly profit every 21 hours ",
+        "score": 35,
+        "author": "CallMePyro"
+      },
+      {
+        "body": "The framing of \"one is spending on infrastructure that's working, the other on infrastructure that hasn't paid off yet\" is clean, but I don't think it's what separates them. Tesla's operating margin from the 10-Ks:\n2022: 16.8%\n2023: 9.2%\n2024: 7.2%\n2025: 4.6%\nQ2 2026: 1.4%\nGross margin went 25.6% to 18.0% over the same period. That decline started well before any of this capex and has continued through it. Tesla's problem isn't that AI spending hasn't converted yet, it's that the business funding the spending has been compressing for four straight years. Record deliveries at 1.4% operating margin is the whole story in one line.\nSo the real distinction is the base each one is spending from. Alphabet generated $164.7bn of operating cash flow in FY2025 and can fund a very long wait. Tesla is investing into Optimus and Terafab off a car business earning $398m a quarter. Same category of bet, completely different ability to be wrong for a while.\nOn your first question, I don't think the market is being impatient about the results. It's repricing duration. Alphabet spent $91.4bn of capex in FY2025 against $21.1bn of depreciation, so 4.3x. Guiding to $205bn takes that ratio somewhere near 7x. That gap is the cost of this buildout sitting in the future rather than in current earnings.\nWhich is also why I'd be careful treating the 35.6% cloud margin as proof the money is converting. Part of it is real operating leverage. Part of it is that the depreciation on what they're buying now hasn't reached the income statement yet. Both can be true, and you can't separate them from one quarter.\nOn the second question, \"best capex returns we've ever seen\" is a claim about Optimus, which hasn't started production. There's nothing to evaluate there yet either way. The part that is measurable went from 16.8% to 1.4%.",
+        "score": 26,
+        "author": "ArkD-Research"
+      },
+      {
+        "body": "Considering NOW had a great quarter and dumped...its a very bear-y mkt beware of any earnings report (thats when jane street hits em hard)",
+        "score": 7,
+        "author": "bexley831"
+      }
+    ],
+    "summary_he": "הפוסט מנתח את דוחות הרווח של אלפבית וטסלה ומסביר כיצד השוק מעניש חברות על הוצאות עתק בתחום ה-AI, גם כשהן מציגות צמיחה מרשימה בהכנסות. בעוד שאלפבית רשמה ירידות למרות זינוק ברווחיות ובפעילות הענן בשל הגדלת תקציבי ההשקעה, טסלה נפגעה קשות יותר עקב פגיעה במרווחים ותזרים מזומנים שלילי לטובת פרויקטים עתידיים שטרם הוכיחו את עצמם. בשורה התחתונה, השוק מפגין חוסר סבלנות להשקעות עתק ב-AI שאינן מתורגמות לרווח מיידי או לתזרים יציב.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה:\n\n*   **ספקנות לגבי יחסי הכוחות מול גוגל:** קיים זלזול בטענה שלרדיט יש כוח מיקוח או השפעה ממשית על גוגל. גם מי שמאמין בפוטנציאל של רדיט, רואה בהשוואה לגוגל כדבר \"מגוחך\".\n*   **אופטימיות כללית לגבי הפלטפורמה (Bullish):** למרות הביקורת על יחסי הכוחות עם ענקיות הטכנולוגיה, ישנם משתמשים המביעים אמון בערך העסקי ובצמיחה של רדיט כחברה.\n*   **שיפור בבינה מלאכותית עקב התרחקות מרדיט:** נשמעה טענה כי איכות התוצאות של כלי בינה מלאכותית (AI) השתפרה פלאים דווקא כאשר הם הפסיקו להסתמך על רדיט כמקור מידע מרכזי.\n*   **רלוונטיות המידע לאורך זמן:** קיימת סברה שהנתונים של רדיט הם \"מיושנים בצורה קריטית\" (בני שנה ומעלה), ולכן ערכם עבור אימון מודלים של AI פחת משמעותית.\n*   **הבחנה בין תוכן צרכני למקצועי:** הקהילה מבחינה בין שימושיות הפלטפורמה לנושאים יומיומיים/צרכניים לבין נושאי עבודה וארגונים (\"Enterprise\"), שם רדיט נתפסת כפחות רלוונטית.\n*   **עדיפות למקורות סמכותיים ראשוניים:** משתמשים מביעים שביעות רצון מכך שבחיפושים מקצועיים, תוצאות מרדיט מפנות את מקומן למקורות מידע ראשוניים ומוסמכים יותר, דבר הנתפס כשיפור בחוויית המשתמש."
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג שש נקודות מבט וניתוחים מרכזיים שעלו מהתגובות בנוגע למצבן הפיננסי של גוגל (Alphabet) וטסלה:\n\n*   **פער רווחיות בלתי נתפס:** אחד המגיבים מדגיש את קנה המידה העצום של גוגל לעומת טסלה, וטוען כי גוגל מייצרת רווח שווה לכל הרווח הרבעוני של טסלה בפרק זמן של 21 שעות בלבד.\n*   **שחיקה מתמשכת במרווחי הרווח של טסלה:** בניגוד לטענה שטסלה משקיעה בתשתיות שטרם הניבו פרי, הנתונים מראים שהמרווח התפעולי שלה התכווץ בעקביות במשך ארבע שנים (מ-16.8% ב-2022 ל-1.4% בלבד ב-2026 על פי התחזית), מה שמעיד על היחלשות עסק הליבה (מכירת רכבים) עוד לפני ההשקעות בבינה מלאכותית.\n*   **יכולת עמידה בסיכונים (גוגל מול טסלה):** לאלפבית יש תזרים מזומנים אדיר (כ-165 מיליארד דולר ב-2025) שמאפשר לה \"להמר\" על בינה מלאכותית ולהמתין זמן רב לתוצאות. לעומת זאת, טסלה משקיעה בפרויקטים עתידיים כמו Optimus (הרובוט האנושי) מתוך עסק רכב שמרוויח סכומים קטנים יחסית, מה שמותיר לה מעט מאוד מרווח לטעויות.\n*   **זהירות בניתוח רווחי הענן של גוגל:** המגיבים מזהירים כי המרווחים הגבוהים של גוגל בתחום הענן (כ-35%) עשויים להיות מטעים. חלק מהרווחיות נובע מכך שהוצאות הפחת על הציוד והתשתיות החדשות שנרכשו במיליארדים טרם נרשמו במלואן בדוחות הכספיים, ולכן קשה להסיק שהכסף כבר \"חזר\" מההשקעה.\n*   **ספקנות לגבי הבטחותיו של אילון מאסק:** קיימת ביקורת על הטענה של מאסק ל\"תשואות הטובות ביותר על השקעות הון\" בנוגע לרובוט ה-Optimus. המגיבים מציינים כי מכיוון שהייצור טרם החל, אין שום דרך למדוד זאת, בעוד שהנתונים המדידים היחידים שישנם (הרווח התפעולי) נמצאים בצניחה חופשית.\n*   **סנטימנט שוק דובי ופסימי:** קיימת תחושה שהשוק כרגע \"דובי\" מאוד וחסר סבלנות. צוין כי אפילו חברות שמציגות דוחות רבעוניים מצוינים חוות ירידות בערך המניה מיד לאחר הפרסום, מה שמעיד על סביבת השקעות לחוצה וחשדנית כלפי דוחות רווח."
   },
   {
     "id": "1v4lhei",
@@ -291,98 +182,119 @@ window.dailyTrends = [
     "top_comments": [],
     "summary_he": "הפוסט טוען כי כל עוד הבנקים המרכזיים משתרכים מאחורי אירועים גיאופוליטיים, הגיאופוליטיקה תמשיך להיות הגורם המכריע ביותר עבור התחזית הכלכלית העולמית. כתוצאה מכך, המציאות הכלכלית, ובפרט נושאי האנרגיה והאינפלציה, מוכתבת כיום בעיקר על ידי עימותים ומתחים בינלאומיים ולא על ידי מדיניות מוניטרית עצמאית.",
     "category_he": "כלכלה",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-07-24",
+    "savedAt": {
+      "_seconds": 1784882243,
+      "_nanoseconds": 225000000
+    }
   },
   {
-    "id": "1v55ejc",
-    "title": "Easiest broker to get a margin account?",
-    "url": "https://www.reddit.com/r/investing/comments/1v55ejc/easiest_broker_to_get_a_margin_account/",
-    "author": "Almeidowski",
-    "score": 1,
-    "selftext": "Hi.\n\nI tried to open a margin account on IBKR so I can trade on loaned funds. Unfortunately, IBKRs requirements are quite strict and honestly not adjusted to the financial realities of different countries.\n\nSo, I would like to know if there are brokers where the requirements to open a margin account and trade on loaned funds are lower, even if the rates aren't as good.\n\nThank you!",
+    "id": "1v4en0d",
+    "title": "IBM's Mainframe Business Craters 42% as AI Cost Spikes Rattle Customers",
+    "url": "https://www.reddit.com/r/investing/comments/1v4en0d/ibms_mainframe_business_craters_42_as_ai_cost/",
+    "author": "Usual-Economist1084",
+    "score": 2,
+    "selftext": "[IBM's Mainframe Business Craters 42% as AI Cost Spikes Rattle Customers](https://gamezwire.com/article.php?slug=ibm-s-mainframe-business-craters-42-as-ai-cost-spikes-rattle-customers)\n\nIBM delivered one of the roughest earnings reports of its 115-year history this week, confirming what investors had already braced for after an unusual advance warning from the company's leadership. The results triggered a 25% single-day plunge in IBM's stock, the steepest drop the company has ever recorded in a single trading session.",
     "subreddit": "investing",
-    "created_utc": 1784881708,
+    "created_utc": 1784814932,
     "thumbnail": "self",
     "top_comments": [],
-    "summary_he": "הכותב מחפש ברוקר המאפשר פתיחת חשבון מרג'ין (מסחר במינוף) עם דרישות סף נמוכות יותר מאלו של Interactive Brokers. הוא טוען שהדרישות של IBKR מחמירות מדי ואינן מותאמות למציאות הכלכלית במדינות שונות, ולכן הוא מוכן להתפשר על ריביות גבוהות יותר בתמורה לתנאי קבלה מקלים.",
-    "category_he": "השקעות",
+    "summary_he": "עסקי המחשבים המרכזיים (Mainframe) של IBM צנחו ב-42% בעקבות עלויות גבוהות בתחום הבינה המלאכותית שהרתיעו את הלקוחות. כתוצאה מכך, מניית החברה רשמה את הירידה היומית החדה ביותר בתולדותיה (25%), במה שמוגדר כאחד הדוחות הכספיים הגרועים ביותר ב-115 שנות קיומה.",
+    "category_he": "עסקים",
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1v548b8",
-    "title": "Has anyone made money with MetLife investments?",
-    "url": "https://www.reddit.com/r/investing/comments/1v548b8/has_anyone_made_money_with_metlife_investments/",
-    "author": "xtreemlord",
-    "score": 1,
-    "selftext": "I’m trying to find some real experiences from people who have invested through a MetLife life insurance/investment policy. I’ve searched online but I can barely find any posts from people who say they actually made a profit or had a positive outcome.\n\nI’m not looking for sales advice, just honest experiences from people who have held the policy for several years: Did it grow as expected? Did you make money in the end? Would you choose the same investment again, or would you have invested differently?",
-    "subreddit": "investing",
-    "created_utc": 1784877682,
+    "id": "1v5a98m",
+    "title": "Google's $94B SpaceX stake looks great on paper. But the cash flow story is the real problem.",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1v5a98m/googles_94b_spacex_stake_looks_great_on_paper_but/",
+    "author": "Eastern-Apartment934",
+    "score": 2,
+    "selftext": "Yeah the 100x return on that original $900M SpaceX investment sounds incredible. And $94.1B in paper gains is genuinely wild.\n\nBut let's be real, the GAAP EPS looks great at $9.11 until you strip out the investment gains and land at $2.85 adjusted. That's a massive gap. And SpaceX is already down 13% from its IPO price, which means roughly $32B of that paper gain has already evaporated.\n\nThe part that worries me more is the free cash flow. Negative $5.9B in Q2, and they just revised CapEx guidance to $195-205B for 2026. That's not a growth story, that's a cash burn story dressed up in SpaceX hype.\n\nChecked the breakdown on MooMoo and most of that SpaceX position is locked up anyway, around $80B until August and another $14B through September 2027. So the \"wealth\" is basically illiquid for months.\n\nNgl I was tempted to add $GOOG on the dip but the fundamentals look shakier than the headline number suggests. Anyone else cutting through the noise here or still holding through the CapEx cycle?\n\n[More>>](https://www.moomoo.com/news/post/73492112?global_content=%7B\"promote_content\":\"11067213\",\"promote_id\":20795,\"promote_type\":43,\"sub_promote_id\":1%7D)",
+    "subreddit": "StockMarket",
+    "created_utc": 1784896822,
+    "thumbnail": "https://preview.redd.it/ws8ygeog76fh1.jpeg?width=140&height=117&auto=webp&s=e77172d1001cc8c90f4424e1ad5ef99331e38226",
+    "top_comments": [
+      {
+        "body": "Thanks for the post, buying GOOGL today.",
+        "score": 38,
+        "author": "pain474"
+      },
+      {
+        "body": "So you want growth without spending to create capacity?  Sounds like a fairytale.  They're spending to meet demand.\n\nMoney locked up for \"months\"?  The horror.  Surely they won't be around in a year.\n\nYou act like they're going out of business and a dying company when they are growing considerably.  Patience is important in investing.",
+        "score": 20,
+        "author": "Viking999"
+      },
+      {
+        "body": "Reddit “analysts” always sound smart but their track record is abysmal. Always bet on the opposite of posts like these, especially when they include charts and data.",
+        "score": 16,
+        "author": "Maleficent_While2653"
+      }
+    ],
+    "summary_he": "הפוסט טוען כי הזינוק בשווי ההשקעה של גוגל ב-SpaceX הוא רווח \"על הנייר\" בלבד המסתיר נתונים פיננסיים מדאיגים, כמו תזרים מזומנים שלילי והוצאות הון עצומות. הכותב מציין כי הרווח המתואם למניה נמוך משמעותית מהמדווח וכי מרבית האחזקות ב-SpaceX אינן נזילות כרגע, מה שמעלה ספק לגבי יציבות המניה למרות הכותרות המרשימות.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות המובילות ב-Reddit, הכולל 6 נקודות מבט וסנטימנטים שונים:\n\n*   **אופטימיות וביטחון במנייה:** אחד המגיבים מביע אמון מלא בחברה (גוגל - GOOGL) ומציין כי הניתוח, או התזמון הנוכחי, דווקא מעודדים אותו לבצע רכישה מיידית של המניה.\n*   **הצדקת השקעות הון (CapEx):** קיימת טענה חזקה לפיה צמיחה אינה מגיעה \"יש מאין\". המגיבים טוענים שהוצאות החברה הכרחיות כדי ליצור קיבולת ולענות על הביקוש בשוק, וכי הציפייה לצמיחה ללא השקעה היא \"סיפור פנטזיה\".\n*   **חשיבות הסבלנות בהשקעות:** הדיון מדגיש את הצורך בראייה לטווח ארוך. המגיבים מבקרים את הגישה המבוהלת מכך שכסף \"נעול\" למספר חודשים, ומזכירים שסבלנות היא מרכיב קריטי בהצלחה בשוק ההון.\n*   **חוסן עסקי מול נבואות זעם:** המגיבים דוחים את התחושה כאילו מדובר בחברה גוססת או כזו שבדרך לפשיטת רגל. הם מדגישים כי החברה נמצאת בתהליך צמיחה ניכר וכי הביקורת עליה מוגזמת ואינה תואמת את המציאות בשטח.\n*   **ספקנות כלפי \"אנליסטים\" ברשת:** בקהילה קיימת חוסר אמון מופגן כלפי משתמשים המציגים את עצמם כאנליסטים. נטען כי למרות שהם נשמעים חכמים, רקורד הביצועים שלהם הוא לרוב גרוע מאוד (\"איומי\").\n*   **אסטרטגיית \"הפוך על הפוך\":** סנטימנט מעניין שעולה הוא ההמלצה לפעול בדיוק הפוך ממה שנכתב בפוסטים מפורטים ב-Reddit. לפי גישה זו, ככל שפוסט כולל יותר טבלאות ונתונים שנראים מקצועיים, כך גדל הסיכוי שהתחזית שלו שגויה וכדאי להמר נגדה."
+  },
+  {
+    "id": "1v4m7pd",
+    "title": "If you could rebuild your company's software systems from scratch, what would you change?",
+    "url": "https://www.reddit.com/r/business/comments/1v4m7pd/if_you_could_rebuild_your_companys_software/",
+    "author": "Tarza_21",
+    "score": 2,
+    "selftext": "Imagine you could restart your\n\ncompany's technology setup today. No legacy systems.\n\nNo old integrations.\n\nNo outdated processes.\n\n• What would you do differently? Would you:\n\n• Build custom tools earlier?\n\n• Use fewer SaaS platforms?\n\n• Invest more in automation?\n\n• Prioritize better data management?\n\nCurious what business owners and technical teams would change if they had the chance..",
+    "subreddit": "business",
+    "created_utc": 1784831122,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "I looked into these policies a while back and the returns didnt impress me tbh. After all the fees and inflation, the real gains can be pretty meh. I’d rather just buy a low-cost index ETF and chill. Curious if anyone here actually beat the market with MetLife.",
+        "body": "As a professional software developer I would suggest go with any solution that saves you time and money. Don't chase pretty or famous software that are already too complex to understand.",
         "score": 1,
-        "author": "WorthBeat1102"
+        "author": "VrushiPatel"
       },
       {
-        "body": "The better question is what their net annualized return was after insurance costs, fees and surrender charges—and how that compared with buying term life and investing the difference. “I made money” can still describe a terrible investment.",
+        "body": "I had definitely invest in better automation and cleaner data from beginning. fixing messy systems later usually costs way more than doing it right first time.",
+        "score": 1,
+        "author": "Select-Ad-6948"
+      },
+      {
+        "body": "Make the ui more user friendly and a bit different from the recent minimalist designs",
+        "score": 1,
+        "author": "Krishna115"
+      }
+    ],
+    "summary_he": "הפוסט מזמין בעלי עסקים וצוותים טכנולוגיים לשתף כיצד היו מעצבים מחדש את מערכות התוכנה של הארגון אילו יכלו להתחיל מאפס, ללא אילוצים של מערכות ותהליכים מיושנים. המשתתפים מתבקשים לשקול שינויים כמו השקעה מוגברת באוטומציה, ניהול נתונים טוב יותר ובחירה מושכלת יותר של כלי עבודה ותוכנות.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, הכולל 6 נקודות מבט וסנטימנטים מרכזיים מהקהילה:\n\n*   **תעדוף יעילות על פני נראות:** מפתחים מקצועיים ממליצים לבחור בפתרונות שחוסכים זמן וכסף באופן ישיר, במקום לרדוף אחרי תוכנות \"יפות\" או טרנדיות שאינן תורמות לשורה התחתונה.\n*   **הימנעות ממורכבות מיותרת:** קיימת אזהרה מפני שימוש בתוכנות מפורסמות אך מורכבות מדי; לעיתים הפופולריות של כלי מסוים הופכת אותו לקשה להבנה ולתפעול, מה שמעכב את העבודה.\n*   **חשיבות ההשקעה המוקדמת באוטומציה:** הקהילה מדגישה את הצורך להשקיע בתהליכי אוטומציה כבר מהשלבים הראשונים של הפרויקט כדי להבטיח עבודה חלקה בהמשך.\n*   **ניקיון נתונים כבסיס להצלחה:** שמירה על נתונים (Data) נקיים ומאורגנים מהרגע הראשון נתפסת כאלמנט קריטי למניעת \"בלאגן\" מערכתי בעתיד.\n*   **מניעת \"חוב טכני\" יקר:** קיימת הסכמה שתיקון מערכות שנבנו בצורה מרושלת עולה הרבה יותר מאשר השקעה בבנייה נכונה ואיכותית של המערכת כבר מהפעם הראשונה.\n*   **חידוש בעיצוב ממשק המשתמש (UI):** ישנה קריאה להפוך את הממשקים לידידותיים יותר למשתמש ולסטות מהקו העיצובי המינימליסטי שהפך לנפוץ מדי (ובמידה מסוימת משעמם או לא פונקציונלי מספיק) בתקופה האחרונה."
+  },
+  {
+    "id": "1v5yck9",
+    "title": "Ditch that savings account (if its a HYSA ignore me)",
+    "url": "https://www.reddit.com/r/investing/comments/1v5yck9/ditch_that_savings_account_if_its_a_hysa_ignore_me/",
+    "author": "Business_Goat8171",
+    "score": 1,
+    "selftext": "Bank accounts reassure many investors. Your money's safe, and its growing at a decent pace. Or at least you think it is.\n\nThe problem is that money in a savings account that says it's paying 1.5% (if they're being generous) isn't actually yielding you 1.5%. The bank's not lying- there's just some not-so-obvious things it doesn't tell you.\n\nThe first thing is taxes. The interest you earn isn't tax-fee (unless you invest the money in municipal bonds that are federal and state tax free or in a retirement account, in which you generally pay the taxes later when you withdraw the money). Depending on your tax bracket, you may end up losing a third of that interest to taxes, which lowers 1.5% to 1%.\n\nThe second thing is inflation. Inflation in the US has been running 4.5% on average in the past 5 years (approx.). Inflation depresses the purchasing power of your investment's returns.\n\n1% - 4.5%= -3.5%\n\nAfter subtraction cost of inflation from your return, you've lost 3.5% on your investment.\n\nSimpler terms: For every $1 you invested in the bank a year ago, despite the fact the bank paid you 1.5 pennies of interest, you're left with only 96.5 cents in real purchasing power in every dollar you had a yr ago. Lovely.",
+    "subreddit": "investing",
+    "created_utc": 1784954427,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "That's not a regular bank savings account. That's at your brokerage.",
+        "score": 1,
+        "author": "Seattleman1955"
+      },
+      {
+        "body": "No, of course now. It's in a money market at my brokerage. Regular savings at a bank pays .02% or something.",
+        "score": 1,
+        "author": "Seattleman1955"
+      },
+      {
+        "body": "A savings account isn’t supposed to beat inflation—it’s supposed to provide liquidity and protect short-term money from market risk. Losing purchasing power is the price you pay for certainty, not proof that the account has no purpose.\n\n",
         "score": 1,
         "author": "FailOk1528"
-      },
-      {
-        "body": "If your goal is to make money.. save yourself the time, effort, and Monday and open a taxable brokerage and put it into VOO and VXUS",
-        "score": 1,
-        "author": "floatingostrichs"
       }
     ],
-    "summary_he": "הכותב מחפש חוויות אישיות של אנשים שהשקיעו בפוליסות ביטוח והשקעה של MetLife, מאחר שהוא מתקשה למצוא עדויות מקוונות על רווחים ממשיים. הוא מעוניין לדעת האם ההשקעות הניבו את הצמיחה המצופה והאם, בדיעבד, המשקיעים היו בוחרים באותו מסלול או מעדיפים אפיק השקעה אחר.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וסנטימנטים מרכזיים שעלו מהתגובות בנוגע לפוליסות ההשקעה והביטוח של MetLife:\n\n*   **תשואות ריאליות מאכזבות:** המגיבים מציינים כי לאחר שקלול דמי הניהול הגבוהים והשפעות האינפלציה, הרווח הממשי שנשאר למשקיע (\"הרווח הריאלי\") הוא נמוך מאוד ואינו מרשים בהשוואה לחלופות.\n*   **העדפת מדדים פסיביים (Low-cost Index ETFs):** קיימת הסכמה רחבה בקהילה שעדיף להשקיע בקרנות סל זולות העוקבות אחר מדדים ולתת להן לצמוח בנחת (\"chill\"), במקום להסתבך עם פוליסות ביטוח מורכבות.\n*   **הצורך בבחינת תשואה נקייה (Net Return):** נטען כי השאלה המכרעת אינה האם הפוליסה \"הרוויחה כסף\", אלא מהי התשואה השנתית לאחר ניכוי כל העלויות – כולל עלויות הביטוח, עמלות הניהול וקנסות פדיון מוקדם (Surrender charges).\n*   **ביקורת על הגדרת \"השקעה מוצלחת\":** המגיבים מדגישים שגם אם השקעה הניבה רווח מסוים, היא עדיין יכולה להיחשב כהשקעה גרועה אם היא הניבה ביצועי חסר משמעותיים לעומת השוק או לעומת אפיקים פשוטים יותר.\n*   **אסטרטגיית הפרדה בין ביטוח להשקעה:** מוצע כי הדרך הכלכלית הנכונה היא לרכוש ביטוח חיים זול (Term Life) ואת הפרש הכסף להשקיע באופן עצמאי בשוק ההון, במקום לשלב ביניהם במוצר אחד.\n*   **המלצה על אפיקים ספציפיים לצבירת הון:** עבור מי שמטרתו היא רווח כספי, הקהילה ממליצה לפתוח חשבון מסחר עצמאי ולהשקיע במדדים רחבים ומוכרים כמו VOO (S&P 500) ו-VXUS (מדד מניות בינלאומי), במקום להשתמש במוצרי חברות הביטוח."
-  },
-  {
-    "id": "1v51h40",
-    "title": "https://thearorareport.com/",
-    "url": "https://www.reddit.com/r/investing/comments/1v51h40/httpsthearorareportcom/",
-    "author": "Sensate613",
-    "score": 1,
-    "selftext": "Has anyone used the Arora Report for stock analysis and investment advice and can give me some feedback? I tried them once but found their analysis and recommmended actions and timing to be difficult to follow...and work full time. I have some more time to work on this now and am looking for feedback on this report. Thx. https://thearorareport.com/",
-    "subreddit": "investing",
-    "created_utc": 1784868966,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "הכותב מבקש לקבל חוות דעת והמלצות על שירות \"The Arora Report\" לצורך ניתוח מניות וייעוץ השקעות. הוא מציין שבעבר התקשה לעקוב אחר ההנחיות והתזמון של השירות בשל חוסר בזמן, וכעת הוא מעוניין לבדוק אם כדאי לחזור להשתמש בו כשיש לו פנאי רב יותר.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1v4xqzx",
-    "title": "Investment Strategy Guidance",
-    "url": "https://www.reddit.com/r/investing/comments/1v4xqzx/investment_strategy_guidance/",
-    "author": "zebra231967",
-    "score": 1,
-    "selftext": "I am 50 years old and need some suggestions on where to “safely” leave 300k until retirement kicks in, which will probably be at 67. I have my emergency fund set aside in a HYSA, maxing out my Roth IRA and don’t have any huge financial obligations. I know it's too late to make this money grow substantially, but I don’t want it collecting dust in my Bank of America account. Should I just drop it all in VTI and call it a day or spread it out? Thanks",
-    "subreddit": "investing",
-    "created_utc": 1784858247,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "17 years is a long timeline. I’d keep at least 70% of it in VTI, if not all ",
-        "score": 13,
-        "author": "Pretend_Composer_308"
-      },
-      {
-        "body": "I’m 54 and retired at age 49 holding 100% equities (like VTI).  You are 4 years younger than me and have 40’ish years to go so VTI is a solid choice.",
-        "score": 3,
-        "author": "AlgoTradingQuant"
-      },
-      {
-        "body": "Target date fund 2040 or 2045, still not 100% safe but it leaves guesswork and emotions out of it. If it fails then it's not on you. ",
-        "score": 2,
-        "author": "SprinklesMany2038"
-      }
-    ],
-    "summary_he": "כותב הפוסט הוא בן 50 המחפש אפיק השקעה בטוח יחסית עבור 300 אלף דולר עד לפרישתו בגיל 67. למרות שיש לו כבר קרן חירום וחיסכון פנסיוני, הוא מתלבט האם להשקיע את כל הסכום במדד מנייתי רחב (VTI) או לפזר את ההשקעה כדי להשיג תשואה טובה יותר מאשר בחשבון הבנק.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, הכולל 6 נקודות מבט ודעות מרכזיות שהועלו על ידי הגולשים:\n\n* **אופק השקעה ארוך מאפשר חשיפה גבוהה למניות:** הגולשים מציינים כי טווח זמן של 17 שנים נחשב לאופק ארוך מספיק המצדיק החזקה של לפחות 70% מהתיק במניות, ואולי אף את כולו.\n* **המלצה על מדד רחב (VTI):** קיימת תמיכה משמעותית בהשקעה בקרן סל כמו VTI (העוקבת אחר כלל שוק המניות האמריקאי) כבחירה מוצקה ואמינה לצמיחה ארוכת טווח.\n* **ביטחון באסטרטגיית 100% מניות:** אחד המגיבים משתף מניסיונו האישי כי הצליח לפרוש מוקדם (בגיל 49) כאשר תיק ההשקעות שלו הורכב מ-100% מניות, מה שמחזק את הטענה שזו אסטרטגיה בת-קיימא גם בגילאים מתקדמים יחסית.\n* **התחשבות בתוחלת החיים הכללית:** הדיון מדגיש כי גם בגיל 50, למשקיע יש עוד כ-40 שנות השקעה וצריכה פוטנציאליות קדימה, ולכן אין סיבה לחשוש מחשיפה מנייתית משמעותית.\n* **שימוש בקרנות \"תאריך יעד\" (Target Date Funds):** כחלופה לניהול עצמאי, מוצע להשתמש בקרנות מובנות לשנים 2040 או 2045. קרנות אלו משנות את תמהיל הנכסים באופן אוטומטי ככל שמתקרבים למועד הפרישה.\n* **נטרול רגשות וקבלת החלטות:** יתרון מרכזי שצוין לגבי קרנות \"תאריך יעד\" הוא היכולת להוציא את הניחושים ואת המרכיב הרגשי מההשקעה. כך, המשקיע לא מרגיש \"אשם\" באופן אישי אם השוק יורד, שכן הוא פועל לפי תוכנית מובנית מראש."
+    "summary_he": "הפוסט מזהיר מפני השארת כספים בחשבונות חיסכון בעלי ריבית נמוכה, שכן לאחר ניכוי מיסים ואינפלציה התשואה הופכת למעשה לשלילית. הכותב מסביר כי למרות הריבית שהבנק משלם, כוח הקנייה של הכסף נשחק לאורך זמן והמשקיעים למעשה מפסידים כסף במונחים ריאליים.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון מהתגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה לגבי חשבונות חיסכון והשקעות:\n\n*   **הבחנה בין מוסדות בנקאיים לבתי השקעות:** קיימת הדגשה משמעותית על כך שחשבונות המניבים ריבית גבוהה אינם \"חשבונות חיסכון רגילים\" בבנקים מסורתיים, אלא לרוב מנוהלים דרך ברוקרים (בתי השקעות).\n*   **ביקורת על הריבית הנמוכה בבנקים:** הקהילה מצביעה על כך שחשבונות חיסכון סטנדרטיים בבנקים מציעים ריבית אפסית ומעליבה (בסביבות 0.02%), מה שהופך אותם ללא רלוונטיים עבור מי שמחפש תשואה.\n*   **העדפת קרנות כספיות (Money Market):** הדיון מעלה כי הכסף המניב תשואה בבתי ההשקעות מושקע לרוב בקרנות כספיות, המהוות חלופה אטרקטיבית ובטוחה יותר לחיסכון הבנקאי המסורתי.\n*   **תפקיד החיסכון ככלי לנזילות ולא לצמיחה:** אחת הדעות המרכזיות היא שחשבון חיסכון לא נועד \"לנצח את האינפלציה\". מטרתו העיקרית היא לספק נזילות מיידית לכסף שזקוקים לו בטווח הקצר.\n*   **הגנה מפני סיכוני שוק:** הקהילה רואה בחשבון החיסכון מקלט המגן על הקרן מפני תנודתיות של שוק ההון. השמירה על ערך הכסף הנומינלי (הסכום המקורי) חשובה יותר מהרווח במקרה של כסף לטווח קצר.\n*   **אובדן כוח קנייה כ\"מחיר\" על ודאות:** קיימת הסכמה ששחיקת ערך הכסף עקב האינפלציה היא מחיר מודע שמשקיעים משלמים בתמורה לוודאות וביטחון. אובדן כוח הקנייה אינו נתפס ככישלון של החשבון, אלא כעמלה על היעדר סיכון."
   }
 ];
