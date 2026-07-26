@@ -1,208 +1,65 @@
 window.dailyTrends = [
   {
-    "id": "1v4cbk1",
-    "title": "$GOOGL Reported Negative Free Cash Flow in Q2 2026 for the First Time as AI CapEx Pressure Margins.",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1v4cbk1/googl_reported_negative_free_cash_flow_in_q2_2026/",
+    "id": "1v5aj63",
+    "title": "I’ve had cash sitting uninvested for months because I can’t stop second guessing every decision",
+    "url": "https://www.reddit.com/r/investing/comments/1v5aj63/ive_had_cash_sitting_uninvested_for_months/",
+    "author": "Lower-Organization-1",
+    "score": 269,
+    "selftext": "Lately every investing decision feels harder than it should. I read one thread and want to stay fully passive. Then someone makes a convincing case for AI stocks, then recession posts show up everywhere, then crypto rallies again and suddenly I feel underexposed there too. Every week I convinced myself a different strategy made more sense. I’d literally open my brokerage app, then close it again 5 minutes later without doing anything.\n\nI think too many online opinions kind of wrecked my ability to make calm decisions honestly.",
+    "subreddit": "investing",
+    "created_utc": 1784897538,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "No worries. Taxable account like a regular brokerage, not a retirement account.\n\nSo first, VT is thought to be better than VTI+VXUS because it auto-balances the US (VTI) and Non-US (VXUS) proportion. So more efficient/easier for the investor.\n\nBUT: VXUS and VT both have dividends. The foreign parts of these (all of VXUS and 65ish of VT) are taxed by other governments. The IRS gives you a tax credit to make up for this in VXUS, but not VT.\n\nSo in a taxable account, it's better to have VXUS (+VTI) instead of just VT. In a retirement account (including an IRA), the IRS doesn't care what happens inside and doesn't tax those distributions so there's no credit to give. BUT you already paid taxes to those foreign governments (before you even got the dividend). So you might as well use the simplier single fund: VT.",
+        "score": 7,
+        "author": "Flayum"
+      },
+      {
+        "body": "Your 100k can easily turn to 50k or 25k\n\nThe idea that S&P 500 always constitutes the same risk and opportunity and that one can be confident they will see 8% returns “guaranteed by the stock market”, in a timeframe that makes sense for them, is the ultimate naïveté \n\nThe investor who was all in on S&P 500 this last 12 months gained 16% and now considers himself an “investing genius” and, clearly, his risk management skills are working great . . .",
+        "score": 2,
+        "author": "ALMessenger"
+      },
+      {
+        "body": "Maybe S&P 500 goes up to $8500 or maybe it drops to $2000 and we don’t see $7500 again for 20 years . . . \n\nHell, maybe he can 5x his money in a week playing short expiry options . . .\n\nThere will be a lot of people with fond memories of their portfolio values when the market was at ATH who kick themselves for being greedy and not selling when they had the great opportunity for profit - paper gains are worth nothing",
+        "score": 2,
+        "author": "ALMessenger"
+      }
+    ],
+    "summary_he": "הכותב משתף כי הוא סובל מ\"שיתוק מהחלטות\" ומתקשה להשקיע את כספו בשל חשיפת יתר לדעות סותרות ומנוגדות ברשת. הוא מוצא את עצמו משנה את האסטרטגיה שלו ללא הרף בין השקעות פסיביות, קריפטו או מניות טכנולוגיה, ומאמין שעודף המידע פגע ביכולתו לקבל החלטות כלכליות רגועות ושקולות.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **אופטימיזציית מס בין חשבונות:** בניהול חשבון השקעות רגיל (חייב במס), קיימת עדיפות להפרדה בין קרן סל אמריקאית (VTI) לקרן בינלאומית (VXUS) על פני החזקת קרן עולמית אחת (VT). זאת כדי לנצל את \"זיכוי מס הזר\" (Foreign Tax Credit) שה-IRS מעניק על דיבידנדים ב-VXUS, הטבה שאינה קיימת באותה מידה בקרן VT.\n*   **פשטות מול יעילות בחשבונות פרישה:** בחשבונות פרישה (כמו IRA), שבהם אין משמעות לזיכויי מס על דיבידנדים, מומלץ להשתמש בקרן אחת כוללת (VT). היתרון המרכזי הוא \"איזון אוטומטי\" בין השוק האמריקאי לשאר העולם, מה שחוסך למשקיע התעסקות וניהול ידני.\n*   **ביקורת על נאיביות המשקיעים:** קיימת אזהרה מפני הגישה המניחה ששוק המניות (ובפרט מדד ה-S&P 500) מבטיח תשואה של 8% \"מובטחת\". המציאות היא שהשקעה של 100 אלף דולר יכולה להצטמק ל-25 אלף דולר, ומשקיעים נוטים להמעיט בערכו של הסיכון הזה.\n*   **אשליית ה\"גאונות\" בשוק עולה:** הדיון מדגיש כי משקיעים שהרוויחו בשנה האחרונה נוטים לפתח ביטחון עצמי מופרז ולחשוב שהם \"גאוני השקעות\". הצלחה בטווח קצר בגלל גאות בשוק אינה מעידה על כישורי ניהול סיכונים, ועלולה להוביל לשאננות מסוכנת.\n*   **תרחישי קיצון ודשדוש ארוך טווח:** מועלית האפשרות שהמדדים המרכזיים יחוו ירידה חדה ולא יחזרו לשיא שלהם במשך עשורים (למשל, 20 שנה של המתנה לחזרה לערכי השיא). המשקיעים מוזהרים שלא להסתמך על כך שהשוק תמיד יעלה בדיוק בזמן שהם יזדקקו לכסף.\n*   **רווחים \"על הנייר\" מול מימוש בפועל:** קיימת קריאה למשקיעים לא להיות תאבי בצע ולדעת לממש רווחים. הדיון מזכיר שרווחים שטרם מומשו אינם שווים דבר, ורבים יתחרטו על כך שלא מכרו בשיא ההיסטורי (ATH) כאשר הייתה להם הזדמנות ליצור רווח ריאלי."
+  },
+  {
+    "id": "1v58x0e",
+    "title": "Chinese MEMORY is No Longer the Cheap Alternative",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1v58x0e/chinese_memory_is_no_longer_the_cheap_alternative/",
     "author": "Optimal_Image5192",
-    "score": 632,
-    "selftext": "Alphabet $GOOGL reported negative free cash flow in Q2 for the first time as rising AI capex pressures margins.\n\nEvercore ISI: We have also increased our 2027 FCF loss from $20B to $50B, due to the raised capex guidance. \n\nUBS: We have been fielding more questions on Google about FCF growth returning to historic levels, and after today's update (where revenue is largely unchanged but costs work higher) we have no clearer answers.",
+    "score": 85,
+    "selftext": "China’s largest DRAM maker, CXMT, is reportedly charging more than Samsung’s roughly $1,240 price for comparable 64GB DDR5 server memory modules.\n\nReuters said, “for months, Chinese chip manufacturer, CXMT had been hiking prices on Huawei, one of the country’s biggest technology companies. The chipmaker held firm when Huawei demanded relief from the escalating costs, according to two people familiar with the matter.”\n\nCXMT spent years competing as a cheaper, state-backed alternative. Now, AI data-center demand has tightened conventional memory supply, while Beijing has steered state-owned buyers toward domestic suppliers.\n\nReuters reports CXMT has secured a five-year agreement worth more than $7 billion yuan with ByteDance and another worth over $3 billion with Tencent.\n\nThe company generated $7.5 billion in Q1 revenue, up 719% year over year, and is preparing to debut in Shanghai following an $8.6 billion IPO. New factories could more than double production capacity to over 600,000 wafers per month.",
     "subreddit": "StockMarket",
-    "created_utc": 1784809225,
-    "thumbnail": "https://preview.redd.it/3o0xxi862zeh1.jpeg?width=140&height=92&auto=webp&s=a3d12a48c9ef5ca1d46f59dcaaf2024f2178832f",
+    "created_utc": 1784893178,
+    "thumbnail": "https://preview.redd.it/s371cg7tz5fh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=bfb0d127793ff8d2dd48e7ef7daf574af101b7dd",
     "top_comments": [
       {
-        "body": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q2/2026q2-alphabet-earnings-slides.pdf#:~:text=Page%204.%20Earnings%20Highlights.%20Q2%202026%20Earnings.,Y%2FY%20revenue%20growth.%20in%20YouTube%20Ads.%20950M.\n\nFurthermore, they show a clear 514 Billion back log.\n\nThat is a single data point... and more money than they have even spent on capex in multiple years.",
-        "score": 7,
-        "author": "Dwman113"
+        "body": "The insanity of something that cost a fraction last year seems to have no ends at all. ",
+        "score": 36,
+        "author": "GongTzu"
       },
       {
-        "body": "It made money by selling all our information to companies to create targeted ads that are then purchased on said platforms. Thing is for AI where’s the use case and also cost to use point because as of right now current ai pricing is actually lower than the cost to produce said AI prompts/token uses. AI is great it made awesome inroads into medical tech especially but that was before this dot com level of inserting AI into everything just like internet was inserted into everything. Lots of companies crashed when that bubble burst and so too will it happen with this and then whatever is actually financially solvent will remain and eat the scraps.",
-        "score": 6,
-        "author": "Sablus"
-      },
-      {
-        "body": "In google lol?\n\nYou think owning google stock is holding a bag?\n\nThat is hilarious. Actually without looking at my portfolio, i bought Google this year around $175... So yeah if that is holding the bag the sure! I'm holding a giant bag lol.",
-        "score": 4,
-        "author": "Dwman113"
-      }
-    ],
-    "summary_he": "אלפאבית ($GOOGL) דיווחה על תזרים מזומנים חופשי שלילי לראשונה ברבעון השני של 2026, זאת בשל השקעות עתק בתשתיות בינה מלאכותית ששחקו את שולי הרווח. בעקבות הדיווח, אנליסטים החמירו את תחזיות ההפסד לשנים הקרובות והביעו חוסר ודאות לגבי המועד שבו החברה תחזור לרמות הצמיחה ההיסטוריות שלה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח של התגובות המובילות מהדיון, המציגות מגוון דעות ותחושות בקהילה בנוגע למצבה הפיננסי של גוגל (Alphabet) ולעתיד תחום ה-AI:\n\n*   **חוסן פיננסי וצבר הזמנות חסר תקדים:** אחד המגיבים מדגיש את הנתונים הפיננסיים המרשימים של החברה, ובמיוחד את \"צבר ההזמנות\" (backlog) שעומד על 514 מיליארד דולר. זהו נתון עצום שגבוה יותר מכל מה שהחברה הוציאה על השקעות הון (capex) במשך מספר שנים, מה שמעיד על עוצמה כלכלית ארוכת טווח.\n*   **ספקנות לגבי הרווחיות של בינה מלאכותית (AI):** עולה טענה כי המודל העסקי הנוכחי של AI אינו מאוזן; עלות הייצור של פקודות ותוצרי AI (טוקנים) גבוהה יותר מהמחיר שבו השירותים הללו נמכרים כרגע למשתמשים, מה שמעלה שאלות לגבי הכדאיות הכלכלית של התחום בטווח הקצר.\n*   **השוואה לבועת הדוט-קום:** קיימת תחושה בקהילה שהתלהבות היתר מהכנסת AI לכל מוצר מזכירה את בועת האינטרנט של סוף שנות ה-90. המגיבים חוזים כי רבות מהחברות שרוכבות על הגל יקרסו כשהבועה תתפוצץ, ורק החברות בעלות הגב הכלכלי היציב יישארו בשטח.\n*   **ביקורת על מודל הפרסום והפרטיות:** המגיבים מציינים כי הרווחים ההיסטוריים של גוגל נבנו על מכירת מידע אישי של משתמשים לצורך פרסום ממוקד. ישנה תהייה האם המודל הזה ימשיך להחזיק מעמד או שמא ה-AI ידרוש שינוי מהותי בדרך שבה החברה מייצרת כסף.\n*   **הבחנה בין ערך טכנולוגי אמיתי לבין \"טרנד\":** קיימת הסכמה של-AI יש ערך משמעותי בתחומים ספציפיים כמו טכנולוגיה רפואית, אך ישנה ביקורת על הניסיון \"לדחוף\" AI לכל מקום ללא צורך ממשי, רק בשל הלחץ של השוק.\n*   **אמון גבוה של המשקיעים הפרטיים:** למרות הביקורת על השוק, משקיעים בקהילה מביעים ביטחון רב בהחזקת המניה של גוגל. המושג \"holding the bag\" (כינוי למשקיע שנתקע עם נכס חסר ערך) נדחה בבוז, כשהמשקיעים רואים בגוגל נכס יציב ורווחי מאוד גם במחירי השוק הנוכחיים."
-  },
-  {
-    "id": "1v4fd25",
-    "title": "Equities surpass real estate as top US wealth driver for first time since WW2, Goldman says | Reuters",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1v4fd25/equities_surpass_real_estate_as_top_us_wealth/",
-    "author": "Argothaught",
-    "score": 44,
-    "selftext": "\\>July 23 (Reuters) - U.S. equity holdings have surpassed real estate as a share of net financial wealth for the first time since World War Two, Goldman Sachs said, underscoring how ‌stocks have become a dominant driver of household wealth and consumer spending. \"Equity gains have been the dominant driver of household wealth accumulation and the main contributor to a positive wealth effect on consumer spending,\" the brokerage said in a note ⁠on Thursday.\n\n\\>•Strong stock-market gains since the global financial crisis, particularly over the past three to four years, have increased equities' share of global financial assets and investor portfolios, with technology stocks accounting for a growing ⁠portion of those holdings, Goldman said.\n\n\\>•Goldman also warned that higher exposure to equities leaves households more ⁠vulnerable to a sharp market correction, particularly when valuations are elevated and macroeconomic uncertainty is running high.",
-    "subreddit": "StockMarket",
-    "created_utc": 1784816512,
-    "thumbnail": "default",
-    "top_comments": [],
-    "summary_he": "לראשונה מאז מלחמת העולם השנייה, שוק המניות עקף את הנדל\"ן כגורם המרכזי לצבירת עושר בקרב משקי בית בארה\"ב, כך לפי דוח של גולדמן זאקס. המגמה, המונעת מעליות חדות במניות הטכנולוגיה, מעודדת אמנם את הצריכה הפרטית אך גם חושפת את הציבור לסיכון מוגבר במקרה של תיקון חד בשווקים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1v4ek9g",
-    "title": "Alphabet’s AI spend is turning into a free-cash-flow debate. Healthy investment or margin warning?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1v4ek9g/alphabets_ai_spend_is_turning_into_a_freecashflow/",
-    "author": "eToroTeam",
-    "score": 32,
-    "selftext": "Alphabet’s earnings reaction feels bigger than the headline beat.\n\nRevenue is still holding up, but the market is clearly focusing on the other side of the story now: rising AI capex, pressure on margins, and what that means for free cash flow going forward. After the open, the stock is still trading lower, which makes this feel less like a one-day headline reaction and more like a real test of how much patience investors still have for the AI trade.\n\nSome analysts are already revising free-cash-flow expectations, so the question is no longer just “is AI spending growing?” It’s becoming “how long before the market wants to see payback?”\n\nAre we still in the “spend now, payoff later” phase, or is the market starting to punish that story?",
-    "subreddit": "StockMarket",
-    "created_utc": 1784814749,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Cocky tech execs bragging how they can spend money better than the government lmao. ",
-        "score": 18,
-        "author": "AdRadiant9379"
-      },
-      {
-        "body": "If these CEOs publicly say they are going to reduce spending the circular funding program falls apart.",
-        "score": 17,
-        "author": "UltimateGlimpse"
-      },
-      {
-        "body": "Spending on infrastructure hurts sometimes. ",
-        "score": 15,
-        "author": "Ir0nhide81"
-      }
-    ],
-    "summary_he": "הפוסט מנתח את הירידה במניית אלפבית למרות נתוני הכנסות חיוביים, זאת בשל חשש המשקיעים מהגידול החד בהוצאות על תשתיות בינה מלאכותית והשפעתו על תזרים המזומנים. השאלה המרכזית שעולה היא האם השוק ימשיך לגלות סבלנות כלפי אסטרטגיית ה-\"השקע עכשיו, הרווח אחר כך\", או שמא יתחיל להעניש את החברה על השחיקה בשולי הרווח.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המוצגות, המציג 6 נקודות מבט ותובנות שונות שעלו מן הקהילה:\n\n*   **ביקורת על יהירות מנהלי ההייטק:** קיימת תחושת לעג וסלידה כלפי בכירים בתעשיית הטכנולוגיה המפגינים ביטחון עצמי מופרז (Arrogance) בנוגע ליכולותיהם.\n*   **השוואה מול המגזר הציבורי:** הקהילה מצביעה על נטייה של מנהלים אלו להתרברב בכך שהם מסוגלים לנהל תקציבים ולהוציא כספים בצורה יעילה וטובה יותר מהממשלה.\n*   **השפעת הרטוריקה על יציבות המימון:** עולה טענה כי הצהרות פומביות של מנכ\"לים על צמצום בהוצאות אינן רק צעד כלכלי, אלא הן בעלות פוטנציאל למוטט מערכות שלמות של \"מימון מעגלי\".\n*   **החשש מקריסת מודלים כלכליים:** ישנו זיהוי של מערכת מימון שברירית שתלויה בהמשכיות של זרימת כספים גבוהה; ברגע שזו תיעצר, כל המבנה עלול לקרוס.\n*   **המחיר של השקעה בתשתיות:** קיימת הכרה בכך שהוצאות על תשתיות הן הכרחיות אך \"כואבות\" בטווח הקצר, מה שמעיד על הבנה של המורכבות הכלכלית הכרוכה בבנייה לטווח ארוך.\n*   **ספקנות לגבי המניעים של המגזר הפרטי:** מהתגובות עולה נימה של חוסר אמון בכך שהמגזר הפרטי באמת מחזיק בפתרונות עדיפים, תוך רמיזה כי לעיתים מדובר בהצהרות ריקות מתוכן."
-  },
-  {
-    "id": "1v4lzbu",
-    "title": "Advice/Opinions needed: Choosing an advisor",
-    "url": "https://www.reddit.com/r/investing/comments/1v4lzbu/adviceopinions_needed_choosing_an_advisor/",
-    "author": "jrmckins",
-    "score": 23,
-    "selftext": "Hi all,\n\nAfter self-managing my investments for the past 38 years, I'm looking for an advisor to help me transition to retirement. I have it down to two guys, and I'm just not sure how to decide. What should I be looking for in an advisor? What questions should I be asking?",
-    "subreddit": "investing",
-    "created_utc": 1784830637,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I recently went though something like this.  I had it down to 3, and felt like I could role a dice and be fine with the results.  In the end I made a point to have somewhat deeper conversations on topics like hobbies, AI, industry trends, GeoPolitics, etc and went with the one who was generally most aligned with my broadly speaking world view.  From the financial side they all checked the boxes, would be fiduciaries, solid track record, relative or close friends using them with positive results, etc... I think they all would manage fine, but I feel more confident with my choice after doing that, knowing we have alignment on things in general.",
+        "body": "so China isn’t the rescue \n\nWhen can I buy my new RAM then",
         "score": 14,
-        "author": "Vithar"
+        "author": "yisuiyikurong"
       },
       {
-        "body": "Absolutely. I'm talking to two who are old enough to have experience but young enough to be working into my retirement.",
-        "score": 2,
-        "author": "jrmckins"
-      },
-      {
-        "body": "Ask them what their vices are. Underrated. \n\nAlso ask them if they are actually managing the money themselves or outsourcing to a third party or internal chief investment officer. \n\nAsk for a discount on their fee. \n\nTrust your vibe and gut with who you’d rather spend time with ",
-        "score": 2,
-        "author": "roopert"
+        "body": "I had heard the RAM shortage would be temporary. Chinese suppliers and future capacity was supposed to lower prices.",
+        "score": 6,
+        "author": "U-GenGaming"
       }
     ],
-    "summary_he": "לאחר 38 שנים שבהן ניהל את השקעותיו בעצמו, הכותב מחפש יועץ פיננסי שילווה אותו בתהליך הפרישה לגמלאות. הוא מתלבט בין שני מועמדים סופיים ומבקש לקבל עצות לגבי הקריטריונים לבחירה והשאלות החשובות שעליו לשאול אותם לפני קבלת ההחלטה.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג שש נקודות מבט ועצות מרכזיות לבחירת יועץ פיננסי:\n\n*   **התאמה בהשקפת העולם וערכים משותפים:** מעבר לבדיקת הכישורים הפיננסיים היבשים (כמו נאמנות לחוק וניסיון), מומלץ לקיים שיחות עומק על נושאים כלליים כמו טרנצ'ים בתעשייה, גיאופוליטיקה ואפילו תחביבים. הבחירה ביועץ שהשקפת עולמו תואמת לזו של הלקוח מעניקה תחושת ביטחון ונינוחות גבוהה יותר בניהול הכספים.\n*   **איזון בין ניסיון לבין אופק תעסוקתי:** ישנה חשיבות לבחירת יועץ שנמצא ב\"נקודת המתוק\" מבחינת גיל – כזה שהוא בעל ניסיון מקצועי רב מספיק, אך צעיר מספיק כדי להמשיך וללוות את הלקוח לאורך כל שנות הפרישה שלו מבלי לצאת לפנסיה לפניו.\n*   **שקיפות תפעולית בניהול הכספים:** נקודה קריטית היא להבין האם היועץ מנהל את ההשקעות באופן פעיל בעצמו, או שהוא מבצע מיקור חוץ (Outsourcing) לצד שלישי או למנהל השקעות ראשי בחברה גדולה יותר.\n*   **בחינת אופי וסיכונים אישיים:** עצה ייחודית שעלתה היא לשאול את היועץ על ה\"חולשות\" או ההרגלים הרעים שלו (Vices). זוהי דרך לא קונבנציונלית לקבל הצצה לאופיו האמיתי של האדם שיופקד על כספכם.\n*   **היבט העלויות והמשא ומתן:** הדיון מדגיש כי אין לקבל את עמלות הניהול כגזירה משמים, ומומלץ לבקש באופן ישיר הנחה במחיר או בשיעור העמלה.\n*   **אינטואיציה וחיבור אישי (\"Vibe\"):** מעבר לכל המדדים האובייקטיביים, הקהילה מדגישה את החשיבות של סמיכה על תחושת הבטן. מכיוון שמדובר בקשר ארוך טווח, כדאי לבחור במישהו שבאמת נהנים לבלות איתו זמן ושמרגישים איתו בנוח ברמה האישית."
-  },
-  {
-    "id": "1v4lyqq",
-    "title": "Posting a case study to get new clients.",
-    "url": "https://www.reddit.com/r/business/comments/1v4lyqq/posting_a_case_study_to_get_new_clients/",
-    "author": "gist-of-everything",
-    "score": 8,
-    "selftext": "So, I came across a post where one guy said he posted a case study of his work, got 50k views, and landed 6 paid clients.\n\nIs that possible? And if I want to post my case study, where can I post it? What things should I keep in mind so I can actually get new clients?",
-    "subreddit": "business",
-    "created_utc": 1784830604,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Anything is possible, but being possible doesn’t mean likely or easily duplicatable.  \n\nSince dude you’re talking about was successful, it would make the most sense to ask HIM about where to post it, and what things to keep in mind for new clients.  \n\nAsk the person that did the thing you want to do, not a subreddit full of anonymous random people whose experience is unknown and difficult to validate.",
-        "score": 3,
-        "author": "DaBadNewz"
-      },
-      {
-        "body": "I see two issues here.\n\nSTORYTELLING.  This is classic storytelling, where you write one-on-one to your customer about a life event in your organization. Most storytelling has a 'moral', an outcome that lets the reader feel good, or learn about you or your business.  Do a Google search to learn more about STORYTELLING--this is covered all over the Internet world.\n\nEMPATHY. You need to think like your customer.  What are their life experiences. How does your organization match to their needs and life experiences. EMPATHY will guide you to craft your STORYTELLING.\n\nIt belongs on the company website. It could be a news article that hits the public press.  It might be printed on the back of your invoices. Other social media vehicles can work here too. I am suggesting words, but if you are very creative, you can deliver the message in video or graphics.  Good luck.",
-        "score": 2,
-        "author": "Pleasant-Compote9576"
-      },
-      {
-        "body": "Yes, you're right.  Thank you. ",
-        "score": 1,
-        "author": "gist-of-everything"
-      }
-    ],
-    "summary_he": "הכותב תוהה האם פרסום מקרה בוחן (case study) הוא אכן כלי יעיל להשגת לקוחות חדשים, בעקבות סיפור שקרא על הצלחה משמעותית בשיטה זו. הוא מבקש המלצות על פלטפורמות פרסום מתאימות וטיפים לניסוח נכון שיסייע להפוך את החשיפה להתקשרויות עסקיות בפועל.",
+    "summary_he": "יצרנית שבבי הזיכרון הסינית CXMT העלתה את מחיריה וכעת הם גבוהים אף מאלו של סמסונג, מה שמסיים את תקופתה כחלופה זולה בשוק ה-DRAM. השינוי נובע מביקוש אדיר לשרתי בינה מלאכותית ומהנחיית הממשל בסין להעדפת ספקים מקומיים, מה שהוביל לזינוק חסר תקדים בהכנסות החברה ולחוזי ענק עם חברות כמו ByteDance וטנסנט.",
     "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים מרכזיים מהקהילה:\n\n*   **הבחנה בין אפשרי לסביר:** עלתה הטענה שגם אם הישג מסוים הוא אפשרי, אין זה אומר שהוא קל לשכפול או שהוא סביר עבור כל אחד. יש להבדיל בין הצלחה נקודתית ליכולת לייצר מערכת עקבית.\n*   **העדפת ניסיון מוכח על פני אנונימיות:** קיימת הסתייגות מהסתמכות על עצות של זרים בפורומים כמו רדיט, שבהם קשה לאמת את הניסיון של המגיבים. ההמלצה היא לפנות ישירות לאדם שכבר הצליח לבצע את המשימה הספציפית שבה מעוניינים.\n*   **חשיבותו של ה-Storytelling (סיפור סיפורים):** המגיבים מדגישים כי כתיבה שיווקית טובה מבוססת על שיתוף חוויות מהחיים האמיתיים של הארגון. לסיפור כזה צריך להיות \"מוסר השכל\" או תוצאה שגורמת לקורא להרגיש טוב או ללמוד משהו חדש על העסק.\n*   **אמפתיה כבסיס ליצירת תוכן:** כדי להצליח, על בעל העסק \"להיכנס לנעליו\" של הלקוח, להבין את חוויות החיים שלו ולבחון כיצד הארגון נותן מענה לצרכים הללו. האמפתיה היא זו שאמורה להנחות את ניסוח הסיפור השיווקי.\n*   **גיוון בערוצי ההפצה:** עלה הרעיון שהתוכן לא חייב להישאר רק ברשתות החברתיות; ניתן ורצוי לפרסם אותו באתר החברה, כמאמר בעיתונות, ואפילו להדפיס מסרים שיווקיים על גבי חשבוניות הנשלחות ללקוחות.\n*   **גמישות במדיום והצגת המסר:** הקהילה מציינת כי המסר לא חייב להיות טקסטואלי בלבד. אם ישנה יכולת יצירתית, מומלץ להעביר את הסיפור והערכים באמצעות וידאו או גרפיקה כדי להגביר את האימפקט."
-  },
-  {
-    "id": "1v4nfyi",
-    "title": "Alphabet had 82% Cloud growth & higher margins. Tesla delivered 480,126 cars. But market reacted other way because of AI capex & missed EPS",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1v4nfyi/alphabet_had_82_cloud_growth_higher_margins_tesla/",
-    "author": "aperartnft",
-    "score": 4,
-    "selftext": "The past couple of weeks the market had been asking and concerning that the heavy AI capex may not be justified by earnings. Alphabet and Tesla, two of the largest AI-spending companies both released their earning reports on Wednesday. The answer turned out to be more interesting than a simple AI spending good or bad.\n\nAlphabet's revenue came in at $119.8 billion beating estimates of $116.93 billion and up 24% yoy. Google Cloud accelerated from 63% growth last quarter to 82% this quarter, hitting $24.8 billion in revenue. Cloud operating margin jumped from 20.7% a year ago to 35.6%. The Cloud backlog hit $514 billion up more than $50 billion in a single quarter. By almost any normal measure, that's one of the best quarters a company this size has ever posted. The stock still fell 6-7% anyway. Management raised 2026 capex guidance again, to as much as $205 billion on top of the $85 billion equity raise back in June. Investors were not happy with Alphabet saying that it's going to spend even more, on top of already spending an enormous amount with no assurance the return shows up on the same year.\n\nTesla had a rough quarter. Revenue hit a record $28.24 billion, up 26% yoy and ahead of the $26.4 billion Wall Street expected, driven by a record 480,126 vehicles delivered. The stock dropped by 13%. Non-GAAP EPS was at $0.33 missing the $0.51-0.54 estimate by roughly 39%, down 18% from a year ago. GAAP gross margin slipped to 16.8%, operating income was down by 57% to just $398 million and operating margin fell from 4.1% to 1.4%, as regulatory credit income which had been running $700-900 million a quarter, mostly stopped and vehicle discounting effected the pricing.\n\nThis was Tesla's first cash burning quarter since early 2024 versus a $146 million surplus in the same quarter last year. Cash and investments are still at $43.5 billion, so there's no liquidity concern. Musk told analysts this is \"maybe the best capex returns that we've ever seen,\" pointing to Optimus robot production about to start. He also floated deeper collaboration with SpaceX, mentioning a project called Terafab, massive semiconductor manufacturing project.\n\nSo Alphabet got sold for spending more on infrastructure that's working, Cloud growth accelerating and margins expanding are proof the money is converting into a real business. Tesla got sold for spending heavily on infrastructure and initiatives that haven't shown up as returns yet, while the core business (cars) is simultaneously showing real strain in cash generation and margins. Those are two different problems under the same AI capex.\n\nIf we see in the past few weeks, Meta's cloud pivot, Amazon's bond raise, Nvidia's stake in Nebius, the whole industry is shifting toward financing AI buildouts through debt and equity instead of pure cash flow. Last night was the first time two mega-caps reported real numbers on the same evening and the market showed a clear distinction between spending that's converting and spending that isn't.\n\nSo two separate angles, for Alphabet, does punishing a company for raising guidance after posting 82% Cloud growth and expanding margins feel like the market being too impatient. And for Tesla, is Musk's \"best capex returns we've ever seen\" is correct given the negative FCF. And what does this mean for the broader AI capex concern of this industry.",
-    "subreddit": "StockMarket",
-    "created_utc": 1784833680,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Google makes Tesla quarterly profit every 21 hours ",
-        "score": 35,
-        "author": "CallMePyro"
-      },
-      {
-        "body": "The framing of \"one is spending on infrastructure that's working, the other on infrastructure that hasn't paid off yet\" is clean, but I don't think it's what separates them. Tesla's operating margin from the 10-Ks:\n2022: 16.8%\n2023: 9.2%\n2024: 7.2%\n2025: 4.6%\nQ2 2026: 1.4%\nGross margin went 25.6% to 18.0% over the same period. That decline started well before any of this capex and has continued through it. Tesla's problem isn't that AI spending hasn't converted yet, it's that the business funding the spending has been compressing for four straight years. Record deliveries at 1.4% operating margin is the whole story in one line.\nSo the real distinction is the base each one is spending from. Alphabet generated $164.7bn of operating cash flow in FY2025 and can fund a very long wait. Tesla is investing into Optimus and Terafab off a car business earning $398m a quarter. Same category of bet, completely different ability to be wrong for a while.\nOn your first question, I don't think the market is being impatient about the results. It's repricing duration. Alphabet spent $91.4bn of capex in FY2025 against $21.1bn of depreciation, so 4.3x. Guiding to $205bn takes that ratio somewhere near 7x. That gap is the cost of this buildout sitting in the future rather than in current earnings.\nWhich is also why I'd be careful treating the 35.6% cloud margin as proof the money is converting. Part of it is real operating leverage. Part of it is that the depreciation on what they're buying now hasn't reached the income statement yet. Both can be true, and you can't separate them from one quarter.\nOn the second question, \"best capex returns we've ever seen\" is a claim about Optimus, which hasn't started production. There's nothing to evaluate there yet either way. The part that is measurable went from 16.8% to 1.4%.",
-        "score": 26,
-        "author": "ArkD-Research"
-      },
-      {
-        "body": "Considering NOW had a great quarter and dumped...its a very bear-y mkt beware of any earnings report (thats when jane street hits em hard)",
-        "score": 7,
-        "author": "bexley831"
-      }
-    ],
-    "summary_he": "הפוסט מנתח את דוחות הרווח של אלפבית וטסלה ומסביר כיצד השוק מעניש חברות על הוצאות עתק בתחום ה-AI, גם כשהן מציגות צמיחה מרשימה בהכנסות. בעוד שאלפבית רשמה ירידות למרות זינוק ברווחיות ובפעילות הענן בשל הגדלת תקציבי ההשקעה, טסלה נפגעה קשות יותר עקב פגיעה במרווחים ותזרים מזומנים שלילי לטובת פרויקטים עתידיים שטרם הוכיחו את עצמם. בשורה התחתונה, השוק מפגין חוסר סבלנות להשקעות עתק ב-AI שאינן מתורגמות לרווח מיידי או לתזרים יציב.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג שש נקודות מבט וניתוחים מרכזיים שעלו מהתגובות בנוגע למצבן הפיננסי של גוגל (Alphabet) וטסלה:\n\n*   **פער רווחיות בלתי נתפס:** אחד המגיבים מדגיש את קנה המידה העצום של גוגל לעומת טסלה, וטוען כי גוגל מייצרת רווח שווה לכל הרווח הרבעוני של טסלה בפרק זמן של 21 שעות בלבד.\n*   **שחיקה מתמשכת במרווחי הרווח של טסלה:** בניגוד לטענה שטסלה משקיעה בתשתיות שטרם הניבו פרי, הנתונים מראים שהמרווח התפעולי שלה התכווץ בעקביות במשך ארבע שנים (מ-16.8% ב-2022 ל-1.4% בלבד ב-2026 על פי התחזית), מה שמעיד על היחלשות עסק הליבה (מכירת רכבים) עוד לפני ההשקעות בבינה מלאכותית.\n*   **יכולת עמידה בסיכונים (גוגל מול טסלה):** לאלפבית יש תזרים מזומנים אדיר (כ-165 מיליארד דולר ב-2025) שמאפשר לה \"להמר\" על בינה מלאכותית ולהמתין זמן רב לתוצאות. לעומת זאת, טסלה משקיעה בפרויקטים עתידיים כמו Optimus (הרובוט האנושי) מתוך עסק רכב שמרוויח סכומים קטנים יחסית, מה שמותיר לה מעט מאוד מרווח לטעויות.\n*   **זהירות בניתוח רווחי הענן של גוגל:** המגיבים מזהירים כי המרווחים הגבוהים של גוגל בתחום הענן (כ-35%) עשויים להיות מטעים. חלק מהרווחיות נובע מכך שהוצאות הפחת על הציוד והתשתיות החדשות שנרכשו במיליארדים טרם נרשמו במלואן בדוחות הכספיים, ולכן קשה להסיק שהכסף כבר \"חזר\" מההשקעה.\n*   **ספקנות לגבי הבטחותיו של אילון מאסק:** קיימת ביקורת על הטענה של מאסק ל\"תשואות הטובות ביותר על השקעות הון\" בנוגע לרובוט ה-Optimus. המגיבים מציינים כי מכיוון שהייצור טרם החל, אין שום דרך למדוד זאת, בעוד שהנתונים המדידים היחידים שישנם (הרווח התפעולי) נמצאים בצניחה חופשית.\n*   **סנטימנט שוק דובי ופסימי:** קיימת תחושה שהשוק כרגע \"דובי\" מאוד וחסר סבלנות. צוין כי אפילו חברות שמציגות דוחות רבעוניים מצוינים חוות ירידות בערך המניה מיד לאחר הפרסום, מה שמעיד על סביבת השקעות לחוצה וחשדנית כלפי דוחות רווח."
-  },
-  {
-    "id": "1v4lhei",
-    "title": "As long as central banks trail geopolitical flare-ups, geopolitics will be the single most important determinant of the economic outlook.",
-    "url": "https://www.reddit.com/r/finance/comments/1v4lhei/as_long_as_central_banks_trail_geopolitical/",
-    "author": "OtiCinnatus",
-    "score": 1,
-    "selftext": "From the [*Financial Times*](https://www.ft.com/search?sort=date&q=inflation+energy)*.* ",
-    "subreddit": "finance",
-    "created_utc": 1784829614,
-    "thumbnail": "https://preview.redd.it/gn0gcqbxp0fh1.png?width=140&height=132&auto=webp&s=add5ecb33f508c8df6134872463f7cd7f8674307",
-    "top_comments": [],
-    "summary_he": "הפוסט טוען כי כל עוד הבנקים המרכזיים משתרכים מאחורי אירועים גיאופוליטיים, הגיאופוליטיקה תמשיך להיות הגורם המכריע ביותר עבור התחזית הכלכלית העולמית. כתוצאה מכך, המציאות הכלכלית, ובפרט נושאי האנרגיה והאינפלציה, מוכתבת כיום בעיקר על ידי עימותים ומתחים בינלאומיים ולא על ידי מדיניות מוניטרית עצמאית.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-07-24",
-    "savedAt": {
-      "_seconds": 1784882243,
-      "_nanoseconds": 225000000
-    }
-  },
-  {
-    "id": "1v4en0d",
-    "title": "IBM's Mainframe Business Craters 42% as AI Cost Spikes Rattle Customers",
-    "url": "https://www.reddit.com/r/investing/comments/1v4en0d/ibms_mainframe_business_craters_42_as_ai_cost/",
-    "author": "Usual-Economist1084",
-    "score": 2,
-    "selftext": "[IBM's Mainframe Business Craters 42% as AI Cost Spikes Rattle Customers](https://gamezwire.com/article.php?slug=ibm-s-mainframe-business-craters-42-as-ai-cost-spikes-rattle-customers)\n\nIBM delivered one of the roughest earnings reports of its 115-year history this week, confirming what investors had already braced for after an unusual advance warning from the company's leadership. The results triggered a 25% single-day plunge in IBM's stock, the steepest drop the company has ever recorded in a single trading session.",
-    "subreddit": "investing",
-    "created_utc": 1784814932,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "עסקי המחשבים המרכזיים (Mainframe) של IBM צנחו ב-42% בעקבות עלויות גבוהות בתחום הבינה המלאכותית שהרתיעו את הלקוחות. כתוצאה מכך, מניית החברה רשמה את הירידה היומית החדה ביותר בתולדותיה (25%), במה שמוגדר כאחד הדוחות הכספיים הגרועים ביותר ב-115 שנות קיומה.",
-    "category_he": "עסקים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה:\n\n*   **תדהמה מהזינוק במחירים:** המגיבים מבטאים הלם מהעובדה שרכיבים שעלו \"שבריר\" מהמחיר הנוכחי רק בשנה שעברה, התייקרו בצורה קיצונית שנראית כחסרת מעצור.\n*   **התפכחות מהתקווה ל\"מושיע\" סיני:** קיימת תחושת אכזבה מכך שהשוק הסיני, שנתפס כמי שעשוי להוריד את המחירים ולהוות אלטרנטיבה, לא הצליח בסופו של דבר להביא להקלה המיוחלת.\n*   **תסכול מההמתנה הממושכת:** הצרכנים חשים חוסר סבלנות וחוסר ודאות לגבי המועד שבו יוכלו סוף סוף לרכוש זיכרון RAM חדש במחיר הוגן.\n*   **פער בין תחזיות למציאות:** בקהילה נשמעת טענה שההבטחות המוקדמות על כך שהמחסור ב-RAM יהיה זמני בלבד התבררו כשגויות, והמחסור נמשך מעבר למצופה.\n*   **ספקנות לגבי הגדלת כושר הייצור:** למרות הערכות קודמות שגידול ביכולת הייצור העתידית יוביל לירידת מחירים, המשתמשים רואים שבשטח המצב נותר יקר וההיצע לא פתר את בעיית המחיר.\n*   **חוסר אונים של הצרכן הקטן:** ניכר סנטימנט של ייאוש אל מול הדינמיקה של השוק, כאשר הצרכנים חשים שאין להם כרגע פתרון נראה לעין מלבד להמשיך ולהמתין או לשלם מחירים מופקעים."
   },
   {
     "id": "1v5a98m",
@@ -233,68 +90,265 @@ window.dailyTrends = [
     ],
     "summary_he": "הפוסט טוען כי הזינוק בשווי ההשקעה של גוגל ב-SpaceX הוא רווח \"על הנייר\" בלבד המסתיר נתונים פיננסיים מדאיגים, כמו תזרים מזומנים שלילי והוצאות הון עצומות. הכותב מציין כי הרווח המתואם למניה נמוך משמעותית מהמדווח וכי מרבית האחזקות ב-SpaceX אינן נזילות כרגע, מה שמעלה ספק לגבי יציבות המניה למרות הכותרות המרשימות.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות המובילות ב-Reddit, הכולל 6 נקודות מבט וסנטימנטים שונים:\n\n*   **אופטימיות וביטחון במנייה:** אחד המגיבים מביע אמון מלא בחברה (גוגל - GOOGL) ומציין כי הניתוח, או התזמון הנוכחי, דווקא מעודדים אותו לבצע רכישה מיידית של המניה.\n*   **הצדקת השקעות הון (CapEx):** קיימת טענה חזקה לפיה צמיחה אינה מגיעה \"יש מאין\". המגיבים טוענים שהוצאות החברה הכרחיות כדי ליצור קיבולת ולענות על הביקוש בשוק, וכי הציפייה לצמיחה ללא השקעה היא \"סיפור פנטזיה\".\n*   **חשיבות הסבלנות בהשקעות:** הדיון מדגיש את הצורך בראייה לטווח ארוך. המגיבים מבקרים את הגישה המבוהלת מכך שכסף \"נעול\" למספר חודשים, ומזכירים שסבלנות היא מרכיב קריטי בהצלחה בשוק ההון.\n*   **חוסן עסקי מול נבואות זעם:** המגיבים דוחים את התחושה כאילו מדובר בחברה גוססת או כזו שבדרך לפשיטת רגל. הם מדגישים כי החברה נמצאת בתהליך צמיחה ניכר וכי הביקורת עליה מוגזמת ואינה תואמת את המציאות בשטח.\n*   **ספקנות כלפי \"אנליסטים\" ברשת:** בקהילה קיימת חוסר אמון מופגן כלפי משתמשים המציגים את עצמם כאנליסטים. נטען כי למרות שהם נשמעים חכמים, רקורד הביצועים שלהם הוא לרוב גרוע מאוד (\"איומי\").\n*   **אסטרטגיית \"הפוך על הפוך\":** סנטימנט מעניין שעולה הוא ההמלצה לפעול בדיוק הפוך ממה שנכתב בפוסטים מפורטים ב-Reddit. לפי גישה זו, ככל שפוסט כולל יותר טבלאות ונתונים שנראים מקצועיים, כך גדל הסיכוי שהתחזית שלו שגויה וכדאי להמר נגדה."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות המובילות ב-Reddit, הכולל 6 נקודות מבט וסנטימנטים שונים:\n\n*   **אופטימיות וביטחון במנייה:** אחד המגיבים מביע אמון מלא בחברה (גוגל - GOOGL) ומציין כי הניתוח, או התזמון הנוכחי, דווקא מעודדים אותו לבצע רכישה מיידית של המניה.\n*   **הצדקת השקעות הון (CapEx):** קיימת טענה חזקה לפיה צמיחה אינה מגיעה \"יש מאין\". המגיבים טוענים שהוצאות החברה הכרחיות כדי ליצור קיבולת ולענות על הביקוש בשוק, וכי הציפייה לצמיחה ללא השקעה היא \"סיפור פנטזיה\".\n*   **חשיבות הסבלנות בהשקעות:** הדיון מדגיש את הצורך בראייה לטווח ארוך. המגיבים מבקרים את הגישה המבוהלת מכך שכסף \"נעול\" למספר חודשים, ומזכירים שסבלנות היא מרכיב קריטי בהצלחה בשוק ההון.\n*   **חוסן עסקי מול נבואות זעם:** המגיבים דוחים את התחושה כאילו מדובר בחברה גוססת או כזו שבדרך לפשיטת רגל. הם מדגישים כי החברה נמצאת בתהליך צמיחה ניכר וכי הביקורת עליה מוגזמת ואינה תואמת את המציאות בשטח.\n*   **ספקנות כלפי \"אנליסטים\" ברשת:** בקהילה קיימת חוסר אמון מופגן כלפי משתמשים המציגים את עצמם כאנליסטים. נטען כי למרות שהם נשמעים חכמים, רקורד הביצועים שלהם הוא לרוב גרוע מאוד (\"איומי\").\n*   **אסטרטגיית \"הפוך על הפוך\":** סנטימנט מעניין שעולה הוא ההמלצה לפעול בדיוק הפוך ממה שנכתב בפוסטים מפורטים ב-Reddit. לפי גישה זו, ככל שפוסט כולל יותר טבלאות ונתונים שנראים מקצועיים, כך גדל הסיכוי שהתחזית שלו שגויה וכדאי להמר נגדה.",
+    "dateString": "2026-07-25",
+    "savedAt": {
+      "_seconds": 1784967426,
+      "_nanoseconds": 320000000
+    }
   },
   {
-    "id": "1v4m7pd",
-    "title": "If you could rebuild your company's software systems from scratch, what would you change?",
-    "url": "https://www.reddit.com/r/business/comments/1v4m7pd/if_you_could_rebuild_your_companys_software/",
-    "author": "Tarza_21",
-    "score": 2,
-    "selftext": "Imagine you could restart your\n\ncompany's technology setup today. No legacy systems.\n\nNo old integrations.\n\nNo outdated processes.\n\n• What would you do differently? Would you:\n\n• Build custom tools earlier?\n\n• Use fewer SaaS platforms?\n\n• Invest more in automation?\n\n• Prioritize better data management?\n\nCurious what business owners and technical teams would change if they had the chance..",
-    "subreddit": "business",
-    "created_utc": 1784831122,
-    "thumbnail": "self",
+    "id": "1v5h6c0",
+    "title": "White House to Host Nuclear Energy CEOs for Advanced Reactor Milestone",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1v5h6c0/white_house_to_host_nuclear_energy_ceos_for/",
+    "author": "C130J_Darkstar",
+    "score": 40,
+    "selftext": "President is expected to host CEOs from leading advanced nuclear companies at the White House to mark a major milestone in the administration’s push to accelerate next-generation reactors. The event follows the recent achievement of multiple U.S. microreactors reaching first criticality under the Reactor Pilot Program, highlighting progress toward commercial deployment. It also reinforces the administration’s broader pro-nuclear agenda, including recent executive actions, AI-focused nuclear initiatives, and efforts to streamline licensing and deployment. While the meeting is symbolic, it signals continued high-level White House support for advanced nuclear and companies developing next-generation reactors.",
+    "subreddit": "StockMarket",
+    "created_utc": 1784912393,
+    "thumbnail": "https://external-preview.redd.it/izcF7wgZUhSs8QOW15OWD-FBPeqfBG7sMvImoPEwHF4.jpeg?width=140&height=93&auto=webp&s=881f54b0eb99139f3c2ccf6772e278cb48ba512f",
     "top_comments": [
       {
-        "body": "As a professional software developer I would suggest go with any solution that saves you time and money. Don't chase pretty or famous software that are already too complex to understand.",
+        "body": "I sense desperation from the regime. ",
         "score": 1,
-        "author": "VrushiPatel"
-      },
-      {
-        "body": "I had definitely invest in better automation and cleaner data from beginning. fixing messy systems later usually costs way more than doing it right first time.",
-        "score": 1,
-        "author": "Select-Ad-6948"
-      },
-      {
-        "body": "Make the ui more user friendly and a bit different from the recent minimalist designs",
-        "score": 1,
-        "author": "Krishna115"
+        "author": "Competitive-Fig6178"
       }
     ],
-    "summary_he": "הפוסט מזמין בעלי עסקים וצוותים טכנולוגיים לשתף כיצד היו מעצבים מחדש את מערכות התוכנה של הארגון אילו יכלו להתחיל מאפס, ללא אילוצים של מערכות ותהליכים מיושנים. המשתתפים מתבקשים לשקול שינויים כמו השקעה מוגברת באוטומציה, ניהול נתונים טוב יותר ובחירה מושכלת יותר של כלי עבודה ותוכנות.",
+    "summary_he": "הבית הלבן יארח מנכ\"לים של חברות אנרגיה גרעינית מובילות לציון אבן דרך משמעותית בהפעלת כורים זעירים מתקדמים. המפגש מדגיש את תמיכת הממשל האמריקאי בהאצת פריסת הדור הבא של טכנולוגיה גרעינית, הכוללת גם יוזמות המשלבות בינה מלאכותית וייעול תהליכי רישוי.",
     "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, הכולל 6 נקודות מבט וסנטימנטים מרכזיים מהקהילה:\n\n*   **תעדוף יעילות על פני נראות:** מפתחים מקצועיים ממליצים לבחור בפתרונות שחוסכים זמן וכסף באופן ישיר, במקום לרדוף אחרי תוכנות \"יפות\" או טרנדיות שאינן תורמות לשורה התחתונה.\n*   **הימנעות ממורכבות מיותרת:** קיימת אזהרה מפני שימוש בתוכנות מפורסמות אך מורכבות מדי; לעיתים הפופולריות של כלי מסוים הופכת אותו לקשה להבנה ולתפעול, מה שמעכב את העבודה.\n*   **חשיבות ההשקעה המוקדמת באוטומציה:** הקהילה מדגישה את הצורך להשקיע בתהליכי אוטומציה כבר מהשלבים הראשונים של הפרויקט כדי להבטיח עבודה חלקה בהמשך.\n*   **ניקיון נתונים כבסיס להצלחה:** שמירה על נתונים (Data) נקיים ומאורגנים מהרגע הראשון נתפסת כאלמנט קריטי למניעת \"בלאגן\" מערכתי בעתיד.\n*   **מניעת \"חוב טכני\" יקר:** קיימת הסכמה שתיקון מערכות שנבנו בצורה מרושלת עולה הרבה יותר מאשר השקעה בבנייה נכונה ואיכותית של המערכת כבר מהפעם הראשונה.\n*   **חידוש בעיצוב ממשק המשתמש (UI):** ישנה קריאה להפוך את הממשקים לידידותיים יותר למשתמש ולסטות מהקו העיצובי המינימליסטי שהפך לנפוץ מדי (ובמידה מסוימת משעמם או לא פונקציונלי מספיק) בתקופה האחרונה."
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות והלך הרוח בקהילה, כפי שעולה מהניתוח:\n\n**סיכום הדיון ב-Reddit:**\n\n*   **זיהוי ייאוש בצד השלטוני:** קיימת תחושה חזקה בקרב המגיבים שהמשטר פועל מתוך מצוקה וחוסר אונים, ולא מתוך עמדת כוח כפי שהוא מנסה להצטייר.\n*   **פרשנות של צעדי אכיפה כחולשה:** הקהילה מפרשת פעולות אגרסיביות או קיצוניות של הממשל לא כהפגנת עוצמה, אלא כסימנים המעידים על \"פרפורי גסיסה\" של המערכת.\n*   **אובדן הרתעה ושליטה:** עולה סברה כי הכלים המוכרים של המשטר לשליטה באוכלוסייה כבר אינם אפקטיביים כבעבר, מה שמוביל לתחושת דחק בדרגים הגבוהים.\n*   **נקודת אל-חזור:** חלק מהתגובות מרמזות כי המצב הגיע לשלב שבו המשטר מבין ששינוי הוא בלתי נמנע, וכי הניסיונות לבלום אותו רק מחזקים את תחושת הייאוש שלו.\n*   **שינוי בנרטיב הציבורי:** הדיון משקף מעבר מהתמקדות בכוחו של המשטר להתמקדות בחולשותיו המבניות ובחוסר היציבות הפנימית שלו.\n*   **אופטימיות זהירה בקרב הצופים:** עצם הזיהוי של ה\"ייאוש\" מצד המשטר מייצר בקרב הקהילה תחושה שהמאזן משתנה וכי הלחץ על השלטון מתחיל לתת את אותותיו."
   },
   {
-    "id": "1v5yck9",
-    "title": "Ditch that savings account (if its a HYSA ignore me)",
-    "url": "https://www.reddit.com/r/investing/comments/1v5yck9/ditch_that_savings_account_if_its_a_hysa_ignore_me/",
-    "author": "Business_Goat8171",
-    "score": 1,
-    "selftext": "Bank accounts reassure many investors. Your money's safe, and its growing at a decent pace. Or at least you think it is.\n\nThe problem is that money in a savings account that says it's paying 1.5% (if they're being generous) isn't actually yielding you 1.5%. The bank's not lying- there's just some not-so-obvious things it doesn't tell you.\n\nThe first thing is taxes. The interest you earn isn't tax-fee (unless you invest the money in municipal bonds that are federal and state tax free or in a retirement account, in which you generally pay the taxes later when you withdraw the money). Depending on your tax bracket, you may end up losing a third of that interest to taxes, which lowers 1.5% to 1%.\n\nThe second thing is inflation. Inflation in the US has been running 4.5% on average in the past 5 years (approx.). Inflation depresses the purchasing power of your investment's returns.\n\n1% - 4.5%= -3.5%\n\nAfter subtraction cost of inflation from your return, you've lost 3.5% on your investment.\n\nSimpler terms: For every $1 you invested in the bank a year ago, despite the fact the bank paid you 1.5 pennies of interest, you're left with only 96.5 cents in real purchasing power in every dollar you had a yr ago. Lovely.",
+    "id": "1v5k3dd",
+    "title": "$1 trillion in defense spending the entire US defense sector is taking off a major US event happened the House of Representatives passed the FY2027 National Defense Authorization Act authorizing a record $1.15 trillion in defense spending US defense giants saw their stock prices surge today",
+    "url": "https://www.reddit.com/r/investing/comments/1v5k3dd/1_trillion_in_defense_spending_the_entire_us/",
+    "author": "Dalio_Conflict3025",
+    "score": 29,
+    "selftext": "A major event happened in the US the House of Representatives passed the FY2027 National Defense Authorization Act authorizing a record $1.15 trillion in defense spending US defense stocks jumped significantly during the trading session\n\nLet’s take a look at the strength of the US military this bill increases the size of the active force by 40,100 troops bringing the total to 1.3429 million personnel including 15,000 additional Army troops 12,000 Navy troops 8,900 Air Force troops 2,800 Space Force troops and 1,400 Marine Corps troops\n\nThe bill also includes a 5% to 7% pay increase for military personnel and officially renames the Pentagon as the Department of War\n\nAfter the announcement major defense contractors raised their outlooks Lockheed Martin and RTX said demand for replenishing military inventories remains very strong and they expect solid earnings growth going forward\n\nInvestors immediately moved into defense stocks Lockheed Martin jumped as much as 10% during the session RTX gained 8% and other defense names like Northrop Grumman and General Dynamics also moved higher\n\nThis news could also be a major catalyst for the drone sector with potential benefits for companies like AVAV and KTOS\n\nWhat do you guys think about this?",
     "subreddit": "investing",
-    "created_utc": 1784954427,
+    "created_utc": 1784918551,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "That's not a regular bank savings account. That's at your brokerage.",
-        "score": 1,
-        "author": "Seattleman1955"
+        "body": "Yeah everything is “record” because of inflation. ",
+        "score": 34,
+        "author": "UngratefulChinaman"
       },
       {
-        "body": "No, of course now. It's in a money market at my brokerage. Regular savings at a bank pays .02% or something.",
-        "score": 1,
-        "author": "Seattleman1955"
+        "body": "I don’t see anyone talking about this especially in politics but all NATO members agreed to a commitment to spend 5% of their GDP on defense by 2035 of which 3.5% must be towards core defense related spending. Using current GDP number of $31.865T that puts us right around $1.11T in this core defense spending to be on track to be compliant. ",
+        "score": 15,
+        "author": "Dstein99"
       },
       {
-        "body": "A savings account isn’t supposed to beat inflation—it’s supposed to provide liquidity and protect short-term money from market risk. Losing purchasing power is the price you pay for certainty, not proof that the account has no purpose.\n\n",
-        "score": 1,
-        "author": "FailOk1528"
+        "body": "It's not getting through the Senate unmodified.",
+        "score": 11,
+        "author": "captain_ahabb"
       }
     ],
-    "summary_he": "הפוסט מזהיר מפני השארת כספים בחשבונות חיסכון בעלי ריבית נמוכה, שכן לאחר ניכוי מיסים ואינפלציה התשואה הופכת למעשה לשלילית. הכותב מסביר כי למרות הריבית שהבנק משלם, כוח הקנייה של הכסף נשחק לאורך זמן והמשקיעים למעשה מפסידים כסף במונחים ריאליים.",
+    "summary_he": "בית הנבחרים האמריקאי אישר תקציב ביטחון חסר תקדים של 1.15 טריליון דולר לשנת 2027, מה שהוביל לזינוק משמעותי במניות הביטחון בוול סטריט. התקציב כולל הגדלה של כוחות הצבא והעלאות שכר, לצד השקעות נרחבות בחידוש מלאי צבאי ובטכנולוגיית כטב\"מים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות בשרשור, המציג 6 נקודות מבט ודעות שונות שהועלו על ידי הגולשים:\n\n*   **השפעת האינפלציה על \"שבירת שיאים\":** אחת הטענות המרכזיות היא שכל נתון כלכלי נראה כיום כ\"שיא\" רק בשל האינפלציה הגבוהה, ולאו דווקא בשל צמיחה אמיתית או שינוי מהותי בערך הריאלי.\n*   **התחייבות נאט\"ו ליעד הוצאות חדש:** הועלתה נקודה לגבי הסכמה בין חברות נאט\"ו להעלות את רף ההוצאה לביטחון ל-5% מהתמ\"ג עד שנת 2035 (נושא שלטענת הכותב אינו זוכה למספיק התייחסות פוליטית).\n*   **חלוקה פנימית של תקציב הביטחון:** במסגרת יעדי נאט\"ו, מצוין כי 3.5% מהתמ\"ג חייבים להיות מוקצים ישירות להוצאות ביטחון \"ליבתיות\" (Core defense spending).\n*   **המשמעות הכספית עבור ארה\"ב:** על פי חישובי הגולשים, בהתבסס על התמ\"ג הנוכחי של ארה\"ב (כ-31.8 טריליון דולר), עמידה ביעדי נאט\"ו תדרוש הוצאה של כ-1.11 טריליון דולר על ביטחון ליבתי בלבד.\n*   **חוסר במודעות ושיח ציבורי:** קיימת תחושת ביקורת על כך שהפוליטיקאים והתקשורת אינם דנים מספיק בהשלכות הכלכליות ובמחויבויות הביטחוניות ארוכות הטווח של המדינות בברית נאט\"ו.\n*   **ספקנות לגבי אישור החקיקה:** הובעה דעה נחרצת כי ההצעות הנוכחיות (ככל הנראה בנוגע לתקציב או להסכמים) לא יעברו את אישור הסנאט ללא שינויים משמעותיים והתאמות."
+  },
+  {
+    "id": "1v59b2m",
+    "title": "MSFT earnings on July 29 and I genuinely can't tell if the CapEx is the story or the problem",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1v59b2m/msft_earnings_on_july_29_and_i_genuinely_cant/",
+    "author": "Kira1Cloud",
+    "score": 28,
+    "selftext": "Azure numbers expected around 39-40% growth and revenue somewhere near $87B. On paper that's solid. But $35B in quarterly CapEx with 100%+ growth year over year? That's the thing I keep coming back to.\n\nPulled up the valuation on MooMoo and MSFT is sitting at a P/E around 22.73x, apparently in the first percentile of its 5-year range. Like genuinely historically cheap for this name. And yet they've only beaten and rallied 4 of the last 12 earnings. So \"cheap\" hasn't mattered much.\n\nThe gaming side is bleeding layoffs while the AI infra keeps eating cash. At some point free cash flow has to catch up to the story, right?\n\nngl I'm holding a small position into July 29 but I'm not adding. The remaining performance obligations number ($633B, up 97%) is the bull case. The CapEx spiral is the bear case. Both feel real.\n\nAnyone else positioned into this one, or sitting it out until the dust settles?\n\nhttps://preview.redd.it/syjykzc336fh1.jpg?width=1600&format=pjpg&auto=webp&s=05604a40387db48ba797e2e8dbd1026f0c2e5f5d\n\n",
+    "subreddit": "StockMarket",
+    "created_utc": 1784894309,
+    "thumbnail": "https://preview.redd.it/syjykzc336fh1.jpg?width=140&height=103&auto=webp&s=b8ee4a51c1848f11f73307b299b25f9bb94730a6",
+    "top_comments": [
+      {
+        "body": "Capex has been a concern for the past year, where have you been? Until we see massive earnings growth that justifies the Capex, there is going to be skepticism. ",
+        "score": 23,
+        "author": "Thatguywhoaskedit397"
+      },
+      {
+        "body": "I'm sitting this one out and watching the fireworks. There's no beat that amzn or msft that the market will be happy with. They are going to convincingly  justify their cap ex spend somehow. ",
+        "score": 6,
+        "author": "Avidtrader81"
+      },
+      {
+        "body": "holding but not adding when you genuinely cant tell is the right answer imo. everyone acts like you have to pick a side before an earnings print and you dont. the bull and bear both feeling real isnt indecision, its just what real uncertainty looks like",
+        "score": 6,
+        "author": "booba2005"
+      }
+    ],
+    "summary_he": "הפוסט דן בדוחות הכספיים הקרובים של מיקרוסופט ומציג התלבטות בין נתוני צמיחה חזקים ב-Azure והתחייבויות עתידיות גבוהות לבין הוצאות הון (CapEx) אדירות על תשתיות AI. למרות שהמניה נסחרת במכפיל רווח נמוך היסטורית, הכותב חושש שהוצאות העתק והפיטורים בתחום הגיימינג יכבידו על תזרים המזומנים, ולכן הוא בוחר להחזיק בפוזיציה קטנה מבלי להגדילה בשלב זה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע לדו\"חות הכספיים של ענקיות הטכנולוגיה והוצאות ההון שלהן, כפי שמשתקף בתגובות המובילות:\n\n*   **דאגה מתמשכת מהוצאות ההון (CapEx):** קיימת הסכמה שהחשש מהוצאות ההון המסיביות אינו חדש, אלא מלווה את השוק כבר למעלה משנה. המשתמשים מציינים שזהו נושא מרכזי שמעסיק את המשקיעים מזה זמן רב.\n*   **הצורך בהוכחת רווחיות:** השוק מפגין ספקנות רבה כלפי ההשקעות הגבוהות. הסנטימנט הוא שרק צמיחה משמעותית וברורה ברווחים (Earnings Growth) תוכל להצדיק את ההוצאות הללו ולהפיג את החששות.\n*   **רף ציפיות בלתי אפשרי:** קיימת תחושה פסימית לפיה השוק נמצא במצב שבו גם אם חברות כמו אמזון או מיקרוסופט יעקפו את התחזיות (\"Beat\"), זה עדיין לא יספיק כדי לספק את המשקיעים או להוביל לתגובה חיובית במחיר המניה.\n*   **העדפת המתנה מהצד:** חלק מהמשקיעים בוחרים באסטרטגיה של \"לשבת על הגדר\" ולא לבצע פעולות לפני פרסום הדו\"חות. הגישה היא לצפות בתנודתיות (\"בזיקוקים\") מבלי לסכן הון נוסף בתקופה של אי-וודאות כזו.\n*   **לגיטימיות של אי-הכרעה:** בניגוד ללחץ החברתי \"לבחור צד\" (שור או דוב) לפני פרסום הדו\"ח, הקהילה מדגישה שזה בסדר גמור לא לדעת מה יקרה. התחושה שגם התרחיש האופטימי וגם הפסימי נראים הגיוניים נתפסת כביטוי לאי-וודאות אמיתית בשוק ולא כחוסר החלטיות.\n*   **אסטרטגיית \"החזק\" (Hold) כאופציה מושכלת:** עבור משקיעים רבים, התשובה הנכונה כרגע היא להמשיך להחזיק בפוזיציה קיימת אך לא להוסיף עליה. מדובר בגישה מאוזנת המכירה בכך שבתנאים הנוכחיים קשה מאוד לחזות את כיוון השוק בטווח הקצר."
+  },
+  {
+    "id": "1v5jkx5",
+    "title": "Private Credit Is Back in the News",
+    "url": "https://www.reddit.com/r/investing/comments/1v5jkx5/private_credit_is_back_in_the_news/",
+    "author": "ProcedureHopeful2944",
+    "score": 19,
+    "selftext": "[Moody’s says ‘unprecedented’ AI spending threatens credit quality of Amazon, Meta, Alphabet and others](https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html)  \n  \nLast fall everyone was talking about First Brands and Tricolor and how private credit was showing cracks. Blue Owl and co were talked about daily on CNBC.   \n  \nFast forward to this week and Blue Owl is back in the news with everyone concerned about SVPs and private credit being used to finance data centers while obfuscating the debt from the hyperscalers' balance sheets. Blue Owl being only one of the firms involved of course (this isn't specifically about them, just that the name caught my attention). \n\nQ: Why/how was news around AI Capex spending by private credit so quiet until recently?  Why wasn't more attention paid to this off-book financing when private credit was a daily news topic? And why did the private credit concerns fall out of the news feed? It just kinda went away.. ",
+    "subreddit": "investing",
+    "created_utc": 1784917429,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "It takes a while for these things to sink. It is less of a Oceangate submarine and more of a Titanic. ",
+        "score": 13,
+        "author": "anotherloserhere"
+      },
+      {
+        "body": "\"... Moody’s noted that Microsoft, Alphabet, Amazon and Meta retain among the strongest corporate balance sheets in the world.\"\n\ndid you read the article?",
+        "score": 3,
+        "author": "Bush_Trimmer"
+      },
+      {
+        "body": "keep in mind private credit is illequid asset while BDC  stock is a liquid assets .  Also the it is rumored that private credit has a lot of money loaned to AI and software.  This rumor has NOT  been confirmed.  Also Private credit is not required to list any details of the loans they have made.  BDC in comparison have to make the loan data public.  \n\nFor private credit you have to apply to invest you money in the fund and once approved you give them your money.   And in general you have to be rick to invest in private credit.  You cannot pull the money out at any.  The investor has to request there money back.\n\nBDC are similar but there stock is publicly traded on the stock market.  so to buy in you buy the stock.  Which youncan sell at any time.  So  a publicly traded BDC is a liquid asset and By law publicly traded BDC must make data about there loans public.  And there's no evidence that the publicly traded BDC  are overly exposed to AI and software.  And typically private grid it restricts withdrawal to 5% of all money invested.\n\nBut that said some publicly traded BDC like blue owl run separate private credit. companes.  Still blue owl looks OK.  \n\nRegardless  there has been a lot of selling pressure that has caused a substantial reduction in the share price of public BDCs.  And any problems in private credit might not be known until the AI bubble pops.  ",
+        "score": 2,
+        "author": "Various_Couple_764"
+      }
+    ],
+    "summary_he": "הפוסט עוסק בשימוש הגובר באשראי פרטי למימון תשתיות בינה מלאכותית עבור ענקיות הטכנולוגיה, תוך שימוש במבנים פיננסיים המאפשרים להן להשאיר את החוב מחוץ למאזניהן. הכותב תוהה מדוע סיכוני האשראי הללו, עליהם מתריעה חברת מודי'ס, זוכים לתשומת לב רק עכשיו לאחר תקופה ארוכה של שקט תקשורתי בנושא.",
     "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון מהתגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה לגבי חשבונות חיסכון והשקעות:\n\n*   **הבחנה בין מוסדות בנקאיים לבתי השקעות:** קיימת הדגשה משמעותית על כך שחשבונות המניבים ריבית גבוהה אינם \"חשבונות חיסכון רגילים\" בבנקים מסורתיים, אלא לרוב מנוהלים דרך ברוקרים (בתי השקעות).\n*   **ביקורת על הריבית הנמוכה בבנקים:** הקהילה מצביעה על כך שחשבונות חיסכון סטנדרטיים בבנקים מציעים ריבית אפסית ומעליבה (בסביבות 0.02%), מה שהופך אותם ללא רלוונטיים עבור מי שמחפש תשואה.\n*   **העדפת קרנות כספיות (Money Market):** הדיון מעלה כי הכסף המניב תשואה בבתי ההשקעות מושקע לרוב בקרנות כספיות, המהוות חלופה אטרקטיבית ובטוחה יותר לחיסכון הבנקאי המסורתי.\n*   **תפקיד החיסכון ככלי לנזילות ולא לצמיחה:** אחת הדעות המרכזיות היא שחשבון חיסכון לא נועד \"לנצח את האינפלציה\". מטרתו העיקרית היא לספק נזילות מיידית לכסף שזקוקים לו בטווח הקצר.\n*   **הגנה מפני סיכוני שוק:** הקהילה רואה בחשבון החיסכון מקלט המגן על הקרן מפני תנודתיות של שוק ההון. השמירה על ערך הכסף הנומינלי (הסכום המקורי) חשובה יותר מהרווח במקרה של כסף לטווח קצר.\n*   **אובדן כוח קנייה כ\"מחיר\" על ודאות:** קיימת הסכמה ששחיקת ערך הכסף עקב האינפלציה היא מחיר מודע שמשקיעים משלמים בתמורה לוודאות וביטחון. אובדן כוח הקנייה אינו נתפס ככישלון של החשבון, אלא כעמלה על היעדר סיכון."
+    "comments_summary_he": "להלן סיכום של הדיון ב-Reddit המבוסס על התגובות שסופקו, המציג את נקודות המבט המרכזיות והלך הרוח של הקהילה:\n\n**סיכום הדיון:**\n\n*   **קצב השקיעה הכלכלית:** אחד המגיבים משווה את המצב הנוכחי ל\"טיטאניק\" ולא לצוללת של \"אושנגייט\" – כלומר, התהליכים הכלכליים השליליים קורים לאט ובהדרגה, וייקח זמן עד שההשפעה המלאה תורגש והשוק \"ישקע\".\n*   **יציבותן של ענקיות הטכנולוגיה:** מצוין כי לפי הדיווחים של מודי'ס (Moody's), לחברות כמו מיקרוסופט, אלפבית, אמזון ומטא יש עדיין את המאזנים הכספיים החזקים ביותר בעולם, מה שמרמז על חוסן מסוים בקרב החברות הגדולות ביותר.\n*   **הבדלי נזילות בין אשראי פרטי ל-BDC:** קיים הבדל מהותי בין אשראי פרטי (Private Credit), שנחשב לנכס לא נזיל וקשה למשיכה, לבין מניות של חברות פיתוח עסקי (BDC) שהן נכס נזיל שנסחר בבורסה וניתן למכירה בכל עת.\n*   **פערי שקיפות ודיווח:** בעוד שחברות BDC ציבוריות מחויבות על פי חוק לפרסם נתונים מפורטים על ההלוואות שלהן, תחום האשראי הפרטי סובל מחוסר שקיפות ואינו נדרש לחשוף את פרטי ההלוואות שהוא מעניק.\n*   **חשש מ\"בועת AI\" באשראי הפרטי:** קיימות שמועות (טרם אומתו) לפיהן גופי אשראי פרטיים חשופים מאוד להלוואות בתחומי הבינה המלאכותית והתוכנה. הקהילה מביעה חשש שבעיות באשראי הפרטי לא יתגלו עד אשר בועת ה-AI תתפוצץ.\n*   **לחץ מכירות בשוק הציבורי:** למרות שחלק מהחברות (כמו Blue Owl) נראות במצב תקין, קיים לחץ מכירות כבד בשוק שגרם לירידה משמעותית במחירי המניות של ה-BDCs הציבוריים בתקופה האחרונה.\n*   **מחסומי כניסה והגבלות משיכה:** השקעה באשראי פרטי מיועדת לרוב לעשירים בלבד ודורשת אישור השקעה, כאשר המשיכות מוגבלות לעיתים קרובות ל-5% בלבד מכלל הכסף המושקע, מה שמקשה על משקיעים לצאת מהפוזיציה בזמן משבר."
+  },
+  {
+    "id": "1v5hq5o",
+    "title": "Need unadjusted stock prices from 2021",
+    "url": "https://www.reddit.com/r/investing/comments/1v5hq5o/need_unadjusted_stock_prices_from_2021/",
+    "author": "VeggieQuilt",
+    "score": 9,
+    "selftext": "I am trying to complete paperwork concerning my husband‘s estate. He passed away November 25, 2021 which was Thanksgiving day. I need to find out the NASDAQ open, high, low, close historic values for COKE and TMX for the day before he passed and the day after (24th and 26th). The problem I am having with COKE is that it has split since he passed away, and I can’t find the actual historic value. When I calculate in the split, the numbers don’t match what was printed on his Fidelity statement for November 30, 2021, which should’ve been the market closed that day. The problem I am having with TMX is that is stock for Terminix global holdings and that company was acquired in 2022, so it no longer is listed. Any suggestions on how I can get those values?  Every time I think I found a site when I ask it what the closing value was on November 30, 2021, the results don’t match what Fidelity has on his statements, so I question if the values I’m getting online are correct.\n\nAny suggestions would be greatly appreciated. ",
+    "subreddit": "investing",
+    "created_utc": 1784913529,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "If the bank updated the basis at the the time, then any new records should reflect that. If they didn’t, then you will have to do the calculation with the high/low like you’re trying to. For COKE, your numbers may not match because you may be using the adjusted price but not the adjusted share count, or the other way around, when doing the math? Make sure you’ve got the right Coke company (there’s two tickers KO and COKE)?",
+        "score": 5,
+        "author": "Spondooli"
+      },
+      {
+        "body": "Yahoo has split adjusted prices for COKE.  I found prices for Terminix on Investing.com\n\nFor COKE, the actual prices on those dates should be 10x what Yahoo shows and there will be a slight effect due to rounding.  \n\nWhat that means is that, for example when thay have the Open price as $58.65, that would translate to you using $586.50, but the precise number could have been anything between $586.45 and $586.54.  Either of those numbers divided by 10 would result in $58.65 when rounded.  \n\nI think knowing you are within a 10 cent range of the actual price should be good enough for almost any purpose.  \n\nThese prices for COKE are also within striking range of the $570.57 you have for November 30, so there isn't any obvious reason to doubt their accuracy.\n\n&nbsp;\n\nCOKE\n\n**Nov 24, 2021**\n\nOpen 58.65 ($586.50)\n\nHigh 59.99 ($599.90)\n\nLow 56.97\t($569.70)\n\nClose 59.60 ($596.00)\n\n**Nov 26, 2021**\n\nOpen 58.49 ($584.90)\n\nHigh 60.59 ($605.90)\n\nLow 58.05\t($580.50)\n\nClose 59.71 ($597.10)\n\n&nbsp;\n\nInvesting.com has TMX at\n\n**Nov 24, 2021**\t\n\nOpen 39.37\n\nHigh\t39.97\t\n\nLow 39.06\t\n\nClose 39.72\n\n**Nov 26, 2021**\t\n\nOpen 39.41\t\n\nHigh 39.90\t\n\nLow 39.00\t\n\nClose 39.47\t\n\nhttps://www.investing.com/equities/sermaster-g-historical-data\n\nThe date picker control is a little wonky on that site, it takes some fiddling around.",
+        "score": 3,
+        "author": "DoinIt4DaShorteez"
+      },
+      {
+        "body": "Fidelity has better access to information than you do. \nWhy are you arguing with their numbers? Why are you waiting 5 years to settle his accounts?",
+        "score": 2,
+        "author": "Critical-Werewolf-53"
+      }
+    ],
+    "summary_he": "הכותבת מחפשת נתוני מסחר היסטוריים לא מתואמים עבור המניות COKE ו-TMX מנובמבר 2021, לצורך הסדרת מסמכי עיזבון של בעלה המנוח. היא נתקלת בקשיים במציאת הנתונים המדויקים מאחר שאחת המניות עברה פיצול והשנייה נרכשה ואינה נסחרת עוד, מה שיוצר פערים בין המידע המקוון לבין דפי החשבון הרשמיים שבידיה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון מתוך השרשור ב-Reddit, המציג 6 נקודות מבט, דעות וסנטימנטים שונים שעלו מצד הקהילה:\n\n*   **בדיקת עדכוני הבנק וביצוע חישוב ידני:** עלתה העצה לבדוק ראשית אם הבנק כבר עדכן את בסיס העלות (cost basis) של המניות. במידה ולא, המשתמש יצטרך לבצע חישוב ידני המבוסס על מחירי המקסימום והמינימום (high/low) של המניה במועד הרלוונטי.\n*   **הבחנה בין טיקרים דומים:** המגיבים מדגישים את החשיבות של זיהוי מדויק של החברה. במקרה של \"Coke\", יש לוודא אם מדובר בחברת Coca-Cola Consolidated (סימול: **COKE**) או בחברת Coca-Cola הידועה יותר (סימול: **KO**), שכן בלבול ביניהן יוביל לנתונים שגויים לחלוטין.\n*   **התאמה לפיצולי מניות (Stock Splits):** הוסבר כי אתרי פיננסים כמו Yahoo מציגים לעיתים מחירים \"מותאמים\" לאחר פיצול. עבור מניית COKE, צוין כי המחירים ההיסטוריים בפועל היו גבוהים פי 10 מהמחיר המוצג כיום באתרים אלו, ושיש להכפיל את הנתונים כדי להגיע לערך הריאלי של אז.\n*   **שימוש במקורות מידע חלופיים:** הומלץ להשתמש באתרים כמו Investing.com כדי למצוא נתונים היסטוריים על מניות ספציפיות (כמו Terminix/TMX), תוך ציון שהממשק של אתרים אלו עלול להיות מסורבל ודורש \"משחק\" עם הגדרות התאריכים.\n*   **רמת דיוק \"מספקת\" מול דיוק מוחלט:** אחד המגיבים טען שדיוק בטווח של כ-10 סנט מהמחיר המקורי הוא מספיק טוב עבור רוב הצרכים (כמו דיווחי מס או סגירת חשבונות), ואין טעם להילחץ מסטייה קלה שנובעת מעיגול מספרים לאחר פיצול.\n*   **אמון במוסדות הפיננסיים וביקורת על התנהלות המשתמש:** עלתה גישה סקפטית כלפי הניסיון של המשתמש להתווכח עם הנתונים של חברת Fidelity, בטענה שלמוסדות כאלו יש גישה למידע טוב יותר. בנוסף, הובעה תמיהה וביקורת על כך שהמשתמש המתין 5 שנים לפני שהסדיר את החשבונות המדוברים."
+  },
+  {
+    "id": "1v5cheg",
+    "title": "My grandfather wants me to help him invest and I'm honestly lost.",
+    "url": "https://www.reddit.com/r/investing/comments/1v5cheg/my_grandfather_wants_me_to_help_him_invest_and_im/",
+    "author": "Sehnsucht13_",
+    "score": 2,
+    "selftext": "My grandfather is in his late 60s, still working, and he's a preacher. He came to the U.S. from a country where even saving money wasn't really possible, but after working so hard here, he's finally been able to save up some money. Now he wants to start investing so he'll be in a better position when he retires.\n\nThe problem is... he wants **me** to help him.\n\nI'm m27, and I barely invest myself. I'm not kidding when I say **I only have about $80 invested in stocks.** I know very little about investing, so I don't feel qualified to help someone with their retirement savings.\n\nI told him it would probably be better to work with a financial advisor since this is literally their job, but he just said \"I trust you.\"\n\nNow I'm feeling a lot of pressure because I don't want to let him down i think he has just a couple  5-10k saved up\n\nI'm just looking for some honest advice from people who have been in a similar situation or know more about investing than I do. \n\nAny advice is greatly appreciated. TIA!\n\n",
+    "subreddit": "investing",
+    "created_utc": 1784902177,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "This is the best answer. Not the easiest answer, but the best one. ",
+        "score": 5,
+        "author": "Itsalrightwithme"
+      },
+      {
+        "body": "1) Really bad time to start. US market valuations are near all time highs, and in every past case, this predicted negative real returns for the next 10-12 years.\n\n2) Bull market decades, index funds do well. Bear market decades, like 1968-82 or 2000-2009, those that had knowledge of the macroeconomic situation and chose value stocks wisely outperformed market averages, sometimes several fold. I think this is a bear market decade.\n\n3) If you're going to actively invest for yourself or others, *its a job*. It means spending dozens of hours every week consuming non-partisan news, reading SEC filings, and watching price action. Some of us beat the market enough that its become our job, paying more than any listed position would. Most don't have and aren't willing to develop the temperament of successful active investors. \n\n4) The best long term investors in history just knew how to value companies. They read *The Intelligent Investor* and then *Security Analysis*, and keep reading through the classics. This isn't difficult. Buy $1 of future earnings for 60¢, and do so consistently, and the returns compound. The problem, now, is that $1 of future earnings trades at $2-$5 for most of the US large cap market. That will have to correct. You can also make bets to that correction, if you're brave. \n\n",
+        "score": 2,
+        "author": "Sanpaku"
+      },
+      {
+        "body": "Not all CDs are bad. I just bought a rising rate CD at Third Federal. It starts at 3.75 and goes to 4.25. You can cash out with no penalty after 6 days. ",
+        "score": 2,
+        "author": "jmardoxie"
+      }
+    ],
+    "summary_he": "נכד חסר ניסיון בהשקעות מרגיש לחץ כבד לאחר שסבו ביקש ממנו לנהל עבורו את חסכונותיו הצנועים לקראת פרישה. למרות שהכותב הציע לסבו לפנות לאיש מקצוע, הסב מתעקש לסמוך רק עליו, וכעת הנכד מחפש עצות כיצד לפעול מבלי לסכן את כספו של סבו.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מהתגובות בשרשור:\n\n*   **תזמון שוק בעייתי:** הועלתה טענה כי זוהי תקופה גרועה מאוד להתחיל להשקיע בשוק האמריקאי. הערכות השווי נמצאות בשיא כל הזמנים, ועל פי נתוני העבר, מצב זה מנבא תשואות ריאליות שליליות ב-10 עד 12 השנים הבאות.\n*   **השקעה אקטיבית כקריירה:** השקעה אקטיבית אינה תחביב אלא עבודה במשרה מלאה. היא דורשת הקדשת עשרות שעות בשבוע לקריאת דוחות כספיים (SEC), מעקב אחר חדשות לא מוטות וניתוח תנועות מחירים. לרוב האנשים אין את המזג או את הנכונות להשקיע את המאמץ הנדרש כדי להכות את השוק.\n*   **חשיבותן של השקעות ערך:** הבסיס להצלחה ארוכת טווח הוא היכולת להעריך שווי של חברות. המשקיעים הטובים בהיסטוריה פעלו לפי העיקרון של קניית נכס השווה דולר ב-60 סנט בלבד. כיום, הבעיה היא שרוב השוק האמריקאי מתומחר ביתר (משלמים 2-5 דולר על כל דולר של רווח עתידי).\n*   **הבחנה בין סוגי שווקים:** יש להבדיל בין \"עשורי שוק שורי\", שבהם קרנות מחקות מדד (Index Funds) עושות עבודה טובה, לבין \"עשורי שוק דובי\" (כמו בשנים 1968-1982). בתקופות של שוק דובי, רק משקיעים בעלי הבנה מאקרו-כלכלית שבוחרים מניות ערך בקפידה מצליחים להניב תשואות עודפות.\n*   **ציפייה לתיקון בשוק:** קיימת תחושה חזקה בקהילה שהשוק האמריקאי (במיוחד המניות הגדולות - Large Cap) נמצא במצב של תמחור יתר קיצוני שחייב לעבור תיקון משמעותי בעתיד. משקיעים אמיצים יכולים אפילו לנסות להמר על התיקון הזה.\n*   **אלטרנטיבות סולידיות:** לא כל אפיקי ההשקעה הסולידיים (כמו פיקדונות בנקאיים - CDs) הם בהכרח בחירה רעה. הוצגו דוגמאות לפיקדונות עם ריבית עולה המציעים תשואה סבירה ונזילות גבוהה (אפשרות למשיכה ללא קנס לאחר זמן קצר), מה שמהווה מקלט בטוח בתקופות של חוסר ודאות.\n*   **הצורך בהשכלה פיננסית קלאסית:** כדי להצליח כמשקיע, יש לקרוא את ספרות החובה של עולם ההשקעות, כגון \"המשקיע האינטליגנטי\" ו-\"Security Analysis\", וללמוד כיצד לנתח חברות לעומק במקום לחפש פתרונות קלים."
+  },
+  {
+    "id": "1v5c9vw",
+    "title": "Capricor - Long & Increasing Position - 3 Major Dates",
+    "url": "https://www.reddit.com/r/investing/comments/1v5c9vw/capricor_long_increasing_position_3_major_dates/",
+    "author": "HunterMichael92",
+    "score": 2,
+    "selftext": "Capricor Therapeutics, one of the most controversial Biotech stocks of the past 12 months is nearing their imminent approval, in the face of many short sellers pushing retail short interest of float above 200%, once again, this time with already released positive clinical data.\n\n  \nUpcoming Dates:\n\n  \n7/29 - ADCOMM - Public link with YouTube access\n\n8/22 - Targeted PDUFA Date\n\nSeptember - Expected Outcome of OSC from Nippon Distribution\n\nNew Headquarters & Production facility for integrated productions and drug rollout.\n\n  \nI am long, 250,000 shares, and will hold through all three dates that are inbound. Meeting both endpoints with clinical significance is enough for me to block out the noise of the desperate shorts who still cry wolf.",
+    "subreddit": "investing",
+    "created_utc": 1784901703,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "godspeed but two flags. short interest \"above 200% of float\" is almost always bad data, if borrow was actually that stressed the fees alone would be news\n\nand holding full size through the binary is the lowest EV part of the trade. the runup is the reliable money, approval day is often the top even when the drug passes. sell the news is brutal in biotech\n\nhope it hits, genuinely",
+        "score": 6,
+        "author": "Evening-Interview981"
+      }
+    ],
+    "summary_he": "הכותב מציג עמדה אופטימית לגבי חברת הביוטק Capricor Therapeutics ומחזיק בפוזיציה גדולה של 250,000 מניות לקראת אישור רגולטורי צפוי. הפוסט מדגיש שלושה תאריכי מפתח קרובים (ביולי, אוגוסט וספטמבר) ומציין כי נתונים קליניים חיוביים תומכים בהצלחת החברה למרות פעילות ענפה של מוכרים בחסר (Shorts).",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות העולות מהתגובה, המנתחת את הסיכונים וההזדמנויות בעסקת ביוטק (Biotech) המבוססת על אירוע בינארי:\n\n*   **ספקנות לגבי נתוני ה\"שורט\" (Short Interest):** הדובר מציין כי נתונים המראים על יתרת שורט של מעל 200% מהמניות הצפות (Float) הם כמעט תמיד שגויים או נובעים מנתונים מעוותים, ולא כדאי להסתמך עליהם כבסיס בלעדי לעסקה.\n*   **היעדר אינדיקציות תומכות ל\"לחץ\" על המניה:** נטען כי אילו הביקוש לשורט היה כה גבוה באמת, דמי השאלת המניות (Borrow Fees) היו מזנקים לרמות שהיו הופכות לכותרות חדשותיות בפני עצמן; העובדה שזה לא קרה מחלישה את התזה של \"שורט סקוויז\" קרוב.\n*   **אסטרטגיית ניהול סיכונים ותוחלת רווח (EV):** החזקת פוזיציה מלאה (\"Full Size\") בזמן הכרזה על אישור תרופה (אירוע בינארי) נחשבת למהלך עם תוחלת רווח נמוכה מאוד. המלצת הקהילה המשתמעת היא לצמצם חשיפה לפני רגע האמת.\n*   **זיהוי הכסף ה\"אמין\" בעסקה:** לפי הגישה המוצגת, הרווח האמין והבטוח יותר בעסקאות מסוג זה נוצר במהלך העלייה המקדימה (\"Runup\") לקראת האירוע, ולא כתוצאה מההחלטה עצמה.\n*   **אזהרה מפני תופעת \"Sell the News\" בביוטק:** קיימת אזהרה חמורה כי במגזר הביוטכנולוגיה, יום אישור התרופה הוא לעיתים קרובות נקודת השיא של מחיר המניה, ומיד לאחר מכן מגיעות ירידות חדות גם אם התוצאות היו חיוביות.\n*   **אחווה קהילתית לצד ריאליזם:** למרות האזהרות המקצועיות והצבעה על ה\"דגלים האדומים\", התגובה מסתיימת באיחולי הצלחה כנים (\"Godspeed\"), מה שמשקף סנטימנט קהילתי שתומך בסיכונים של אינדיבידואלים אך מנסה להכניס בהם היגיון קר."
+  },
+  {
+    "id": "1v69os1",
+    "title": "Debt Is More Beautiful Than You Think",
+    "url": "https://www.reddit.com/r/finance/comments/1v69os1/debt_is_more_beautiful_than_you_think/",
+    "author": "bloomberg",
+    "score": 1,
+    "selftext": "*From sovereign bonds to modern banking, debt is one of humanity’s most elegant and misunderstood creations.*",
+    "subreddit": "finance",
+    "created_utc": 1784989239,
+    "thumbnail": "https://external-preview.redd.it/62-c65_gSesiH36Gp-Tty7YxZSEn6-dXIuIyykcN3UM.jpeg?width=140&height=93&auto=webp&s=055f8e4c1660473dbba2fc63dc40752fbc8bb908",
+    "top_comments": [
+      {
+        "body": "Just the first part posted here. Full article is paywalled.",
+        "score": 1,
+        "author": "phoenix1984"
+      },
+      {
+        "body": "Did you read the article or just react to the headline?",
+        "score": 1,
+        "author": "goatzlaf"
+      },
+      {
+        "body": "Kinda weird to say, especially now. Is this an attempt to save face during the upcoming bubble burst? Make sure people don’t have a sour opinion of debt in general? Feels propaganda-ey. ",
+        "score": 1,
+        "author": "phoenix1984"
+      }
+    ],
+    "summary_he": "הפוסט מציג את החוב כיצירה אנושית אלגנטית וחשובה, המהווה את הבסיס למערכת הבנקאות המודרנית ולאיגרות חוב ממשלתיות. הכותב טוען כי למרות התפיסה השלילית המקובלת, החוב הוא כלי פיננסי מתוחכם וחיוני שעיצב את הכלכלה העולמית.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות בשרשור:\n\n* **מגבלת נגישות לתוכן:** אחד המגיבים מציין כי הכתבה המלאה חסומה מאחורי חומת תשלום (Paywall), ורק חלקה הראשון פורסם בשרשור, מה שמקשה על הבנת התמונה המלאה.\n* **ביקורת על שטחיות הקריאה:** קיימת ספקנות כלפי המגיבים האחרים, תוך תהייה האם הם בכלל קראו את גוף הכתבה או שהם מגיבים באופן אינסטינקטיבי לכותרת בלבד.\n* **חשדנות כלפי עיתוי הפרסום:** הועלתה טענה שהתזמון של הפרסום נראה מוזר או \"חשוד\", במיוחד לאור המצב הכלכלי הנוכחי.\n* **חשש מבועה כלכלית:** חלק מהגולשים מפרשים את הכתבה כניסיון \"למזער נזקים\" או לשמור על תדמית חיובית לקראת התפוצצות קרבה של בועה כלכלית.\n* **ניסיון לעיצוב דעת קהל על חובות:** הובעה דעה כי מדובר במאמץ מכוון למנוע מהציבור לפתח סלידה או דעה שלילית כלפי נטילת חובות באופן כללי.\n* **תחושת מניפולציה ותעמולה:** הקהילה מבטאת תחושה שהתוכן מרגיש כמו \"תעמולה\" (Propaganda), כלומר ניסיון להנדס את התודעה של הקוראים ולאו דווקא להציג מידע אובייקטיבי."
+  },
+  {
+    "id": "1v6wbqo",
+    "title": "Fundrise versus REITs and real estate CEFs",
+    "url": "https://www.reddit.com/r/investing/comments/1v6wbqo/fundrise_versus_reits_and_real_estate_cefs/",
+    "author": "No_Kangaroo6917",
+    "score": 1,
+    "selftext": "I've seen some people recommending Fundrise as a real estate investment. What would you say are the advantages of this over simply buying a REIT or real estate CEF?  It seems to me that buying a fund offers more flexibility and you can also find funds that offer higher yields. But I am only familiar with funds and have not yet tried investing through Fundrise, so would like to hear from people who have regarding the pros and cons. ",
+    "subreddit": "investing",
+    "created_utc": 1785048986,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I'd also want to know how the underlying assets are valued. Public REITs have market pricing, while private funds rely more on periodic valuations.",
+        "score": 1,
+        "author": "Past_Mountain946"
+      },
+      {
+        "body": "**Fundrise can offer access to private real estate that’s less correlated with the stock market, but you trade liquidity for that. Public REITs are easier to buy/sell, more transparent, and usually cheaper. If liquidity matters, I’d choose REITs. If you’re comfortable locking money away for years, Fundrise can be a reasonable diversification play—not a replacement**",
+        "score": 1,
+        "author": "pawan_8520"
+      }
+    ],
+    "summary_he": "הפוסט משווה בין השקעה בנדל\"ן באמצעות פלטפורמת Fundrise לבין השקעה בקרנות ריט (REITs) או קרנות סגורות (CEFs). הכותב מציין כי לדעתו קרנות סחירות מציעות גמישות רבה יותר ותשואות גבוהות יותר, ומבקש לשמוע מבעלי ניסיון על היתרונות והחסרונות של Fundrise לעומתן.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן ניתוח של נקודות המבט והלך הרוח בקהילה כפי שעלו מהתגובות בנושא השקעה ב-Fundrise אל מול קרנות ריט (REITs) ציבוריות:\n\n*   **שיטות הערכת שווי שונות:** קיים הבדל מהותי בדרך שבה הנכסים מתומחרים; בעוד שקרנות ריט ציבוריות מתומחרות לפי שוק ההון בזמן אמת, קרנות פרטיות כמו Fundrise מסתמכות על הערכות שווי תקופתיות בלבד, מה שמעלה שאלות לגבי הדיוק והשקיפות של שווי הנכס בכל רגע נתון.\n*   **מתאם לשוק המניות:** אחד היתרונות המרכזיים של Fundrise הוא הגישה לנדל\"ן פרטי, המתאפיין במתאם נמוך יותר לתנודות של שוק המניות הכללי בהשוואה לקרנות הריט הנסחרות.\n*   **סוגיית הנזילות:** קיימת פשרה מובהקת בין נזילות לתשואה; קרנות ריט ציבוריות קלות מאוד לקנייה ולמכירה מהירה, בעוד שהשקעה ב-Fundrise דורשת מהמשקיע להיות מוכן \"לנעול\" את הכסף לתקופות ארוכות של שנים.\n*   **עלויות ושקיפות:** קרנות הריט הציבוריות נתפסות כחלופה עדיפה עבור משקיעים המחפשים שקיפות גבוהה יותר ועלויות ניהול נמוכות יותר (זולות יותר לתפעול עבור המשקיע הקטן).\n*   **גיוון ולא תחליף:** הקהילה רואה ב-Fundrise כלי משלים לגיוון תיק ההשקעות (Diversification play) ולאו דווקא כתחליף ישיר להשקעה בקרנות ריט מסורתיות.\n*   **התאמה לפרופיל המשקיע:** הבחירה בין האפיקים תלויה לחלוטין בצורך האישי בנזילות; עבור משקיע שזקוק לגישה מהירה לכספו, הריט הציבורי הוא הבחירה הברורה, בעוד ש-Fundrise מתאימה למי שיכול להרשות לעצמו חוסר נזילות תמורת פוטנציאל פיזור רחב יותר."
   }
 ];
