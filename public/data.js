@@ -1,410 +1,373 @@
 window.dailyTrends = [
   {
-    "id": "1v854wo",
-    "title": "The ASML and Chip Stocks Sell-off is an Overreaction",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1v854wo/the_asml_and_chip_stocks_selloff_is_an/",
-    "author": "Smart_Money_HQ",
-    "score": 139,
-    "selftext": "According to The Information (fairly credible in terms of research), China begun producing domestically developed immersion DUV lithography machines which triggered a sell-off across ASML and semiconductor stocks.\n\nRight now, I think the market is overreacting because the production numbers are small and there is also zero evidence that the Chinese machines are technically comparable to ASMLs.  \n\nChina is reportedly targeting around five machines in 2026 and roughly 20 in 2027. By comparison, ASML sold 279 DUV systems in 2025, including approximately 131 immersion systems, and expects to ship around 130 immersion systems in 2026.\n\nThat means China’s planned 2026 output would represent less than 4% of ASML’s expected annual immersion shipments.\n\nThe market is concerned about the possibility that China has started building a credible domestic alternative in one of the most complex areas of semiconductor manufacturing but  again, we do not know how good they are. \n\nThey likely still lag ASML in performance and reliability and their overlay accuracy, uptime, defect rates or manufacturing yield.\n\nRemember Deepseek? China closing the technology gap, even before the model is tested... this is likely the same story repeating itself. \n\nDUV however is ASML’s main remaining foothold in China so a hit on the earnings is expected and the reliance on ASMLs mature nodes is reduced so some risk off in ASML is expected, but the entire semi sector reacting like this is overblown as DUV is nowhere near in terms of complexity compared to EUV - EUV uses 13.5nm wavelength and DUV is at 193nm..\n\nNote that China's contribution to the revenues of ASML is declining - was expected to account for around 20% of 2026 revenue, down from roughly 33% in 2025. \n\nDuring the first half of 2026, China generated approximately €2.9 billion, or 16% of ASML’s total revenue.\n\nAlso note, that ASML raised its 2026 revenue guidance to €43–€45 billion because strong AI-related logic and memory demand is offsetting the decline in China.\n\nI am still being v careful here as this as this week is v heavy in terms of event risk with the Fed and big tech earnings,\n\n",
+    "id": "1v93o1c",
+    "title": "Anybody else have a thousand bagger?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1v93o1c/anybody_else_have_a_thousand_bagger/",
+    "author": "ThanklessWaterHeater",
+    "score": 519,
+    "selftext": "Here we have 500 shares of Ross Dress For Less purchased by my mother for $3,813.50 in 1988; after splits now 16,000 shares(1) which just broke $4 million, a gain of 102,000%(2). And it only took 38 years!\n\nThere must be other long-term holders here who have broken 100,000%. If so, please share!\n\n\\- - - - - - -  \n1. ROST split five times between 1997 and 2015, making the original 500 shares now 16,000.   \n2. The basis stepped up on my father’s death in 2009, when the holding was worth about $200k, so the basis that Schwab shows here is from that date.",
     "subreddit": "StockMarket",
-    "created_utc": 1785169277,
-    "thumbnail": "self",
+    "created_utc": 1785256581,
+    "thumbnail": "https://preview.redd.it/jmotzg3e00gh1.jpg?width=140&height=60&auto=webp&s=a5678e70ff478fe28b2ce40f191f5d9ff7bb16b3",
     "top_comments": [
       {
-        "body": "You can't have that type of downside when demand far outweighs supply. In those cases, those companies will be printing money for decades to come. ",
-        "score": 3,
-        "author": "PhDGodfather"
+        "body": "Over a 40 year period that's incredible. Of course you'd have needed the foresight to get that 20% gain.",
+        "score": 21,
+        "author": "JamesAQuintero"
       },
       {
-        "body": "What about that part? Why would I or any customer care that they are backed by their government? all anyone really cares about is the price and the quality/reliability. \n\nYes China supporting their industries helps their companies (just like other countries do the same). Good for them. \n\nUSA government has supported many industries/companies in the past 100 years, including the automotive industry. USA companies can't keep up with China. What is the USA government doing these days? Spending taxpayer money on a useless unnecessary war, sending \"aid\" to bomb civilians, going after political enemies and losing court battle after court battle, terrorizing people on the streets by non-uniformed, unidentifiable people who sometimes ram people's vehicles. USA government priorities are totally messed up. China wins.",
-        "score": 2,
-        "author": "tactman"
-      },
-      {
-        "body": "Sounds like shorts are getting fatty….do you really think YOU know either way this plays out.  Be nimble.",
-        "score": 2,
-        "author": "NoConsideration4164"
-      }
-    ],
-    "summary_he": "הפוסט טוען כי הירידות במניית ASML ובמגזר השבבים הן תגובת יתר לדיווחים על ייצור עצמי של מכונות ליתוגרפיה (DUV) בסין. הכותב מדגיש כי היקפי הייצור הסיניים המתוכננים זניחים לעומת אלו של ASML, וכי איכותן הטכנולוגית והיעילות שלהן עדיין נמוכות משמעותית מהסטנדרט המערבי. לסיכום, מצוין כי הצמיחה בתחום ה-AI צפויה לפצות על הירידה בהכנסות מהשוק הסיני, מה שהופך את בהלת המכירות למוגזמת.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שנכתבו, המציג 6 נקודות מבט וסנטימנטים שונים מהקהילה:\n\n*   **דומיננטיות של ביקוש על פני היצע:** קיים טיעון לפיו כאשר הביקוש למוצר עולה משמעותית על ההיצע בשוק, לחברות המייצרות מובטחת רווחיות גבוהה (\"הדפסת כסף\") לאורך עשורים, ללא קשר לתנודות זמניות.\n*   **סדר העדיפויות של הצרכן:** הצרכן הממוצע אינו מתעניין בשאלה האם חברה זוכה לגיבוי ממשלתי או לא; הגורמים המכריעים היחידים עבורו הם המחיר, האיכות והאמינות של המוצר.\n*   **לגיטימיות של סובסידיות ממשלתיות:** ישנה תפיסה שתמיכה ממשלתית בתעשיות מקומיות היא פרקטיקה מקובלת בכל העולם, כולל בארה\"ב, ולכן הטענות נגד סין בנושא זה אינן רלוונטיות או מוצדקות מבחינה עסקית.\n*   **כישלון התחרותיות האמריקאית:** מובע סנטימנט לפיו חברות אמריקאיות אינן מסוגלות לעמוד בקצב של סין כיום, למרות ההיסטוריה של תמיכה ממשלתית בתעשיות כמו הרכב בארה\"ב.\n*   **ביקורת חריפה על ממשלת ארה\"ב:** עולה טענה כי סדרי העדיפויות של הממשל האמריקאי \"מעוותים\" – השקעת כספי מיסים במלחמות מיותרות, סיוע צבאי פוגעני ועימותים פוליטיים פנימיים, במקום בחיזוק התעשייה, מה שמוביל לניצחון כלכלי של סין.\n*   **ספקנות כלפי תחזיות שוק:** קיים סנטימנט של חוסר אמון באלו המתיימרים לדעת בוודאות כיצד המצב יתפתח (במיוחד בקרב \"שורטיסטים\"), תוך המלצה לשמור על גמישות (\"Be nimble\") בשוק תנודתי ולא צפוי."
-  },
-  {
-    "id": "1v88hkk",
-    "title": "How do you guys stay up to date on latest stock market news?",
-    "url": "https://www.reddit.com/r/investing/comments/1v88hkk/how_do_you_guys_stay_up_to_date_on_latest_stock/",
-    "author": "Mysterious-Rock7154",
-    "score": 125,
-    "selftext": "I'm a big stock market enthusiast and I like staying up to date on what's going on in the market. I want to do deep dives on big tech earning calls, know why a stock is crashing, what  are some expected upcoming IPOs, etc.   \n  \nCurrently I will skim some news articles in the morning or at lunch that will catch me up on these things. These are usually on Yahoo finance or just google news. I'll also put on some podcasts like planet money for a topic that sounds interesting when I'm say busy cooking in the kitchen for 30 mins.\n\nDespite all of this, I still find myself lagging behind on latest updates. There's always more stuff to catch up on. Weeks get busy with work quite often and I don't find time to do the deep dives in certain areas that I'd like. \n\nSo curious how do you all stay up to date on latest stuff and what is the primary way you consume stock market information. Are you spending time reading news articles, looking at stock market data yourself, following specific social media communities like this forum, etc? ",
-    "subreddit": "investing",
-    "created_utc": 1785176211,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Barron's comes with the subscription.",
-        "score": 2,
-        "author": "shillyshally"
-      },
-      {
-        "body": "I can tell by your avatar that you're legit. Happy cake day and warm regards",
-        "score": 2,
-        "author": "ice_up_s0n"
-      },
-      {
-        "body": "Market's gonna do what the market's gonna do, so I just check in whenever I have some time.  Nothing is going to change my allocation so why bother?",
-        "score": 2,
-        "author": "african_or_european"
-      }
-    ],
-    "summary_he": "כותב הפוסט הוא חובב שוק ההון המרגיש שהוא מתקשה להישאר מעודכן בחדשות ובניתוחים מעמיקים, למרות צריכת תוכן יומיומית מאתרים ומפודקאסטים. הוא מבקש מהקהילה המלצות על שיטות ומקורות מידע יעילים שיעזרו לו לעקוב אחרי המתרחש בשוק בצורה מיטבית גם בלוח זמנים עמוס.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות בשרשור, הכולל 6 נקודות מבט ותובנות שונות:\n\n*   **ערך מוסף למנויים:** אחד המשתמשים מציין כי המנוי המדובר כולל גם גישה למגזין הפיננסי \"Barron's\", מה שמעיד על חיפוש אחר ערך כלכלי ותוכן מקצועי במסגרת חבילת שירות אחת.\n*   **אמינות מבוססת נראות דיגיטלית:** קיימת סנטימנט בקהילה המקשר בין עיצוב האווטאר (הדמות הווירטואלית) של המשתמש לבין מידת ה\"לגיטימיות\" או האמינות שלו בפורום.\n*   **תרבות וקהילתיות ב-Reddit:** התגובות משקפות את המנהגים הפנימיים של האתר, כמו ציון \"יום העוגה\" (Cake Day - יום השנה להצטרפות לאתר) ושיח חיובי ומנומס בין המשתמשים.\n*   **גישה פטליסטית/ריאליסטית לשוק ההון:** עולה תפיסה שהשוק יתנהג כפי שהוא רוצה (\"השוק יעשה מה שהשוק יעשה\"), ושאין ליחיד יכולת אמיתית להשפיע על המגמות הכלליות.\n*   **אסטרטגיית השקעה פסיבית:** אחד המשתמשים מביע גישה של \"חוסר מעורבות\" מכוון, שבו הוא בודק את מצב השוק רק כשמתפנה לו זמן, מתוך הבנה שמעקב צמוד מדי אינו מועיל.\n*   **דבקות בתכנית המקורית (Asset Allocation):** קיימת עמדה נחרצת לפיה תנודות השוק אינן אמורות לשנות את הקצאת הנכסים שנקבעה מראש, ולכן אין טעם להילחץ או לבצע שינויים תכופים בתיק ההשקעות."
-  },
-  {
-    "id": "1v7whge",
-    "title": "Rocket Lab $RKLB Awarded Record $266M Missile Defense Contract with U.S. Space Force for Suborbital Launches",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1v7whge/rocket_lab_rklb_awarded_record_266m_missile/",
-    "author": "Optimal_Image5192",
-    "score": 125,
-    "selftext": "$RKLB has been awarded its largest $266M launch contract with U.S. Space Force for Suborbital Launches to date, supporting missile-defense development.\n\nThe agreement covers 12 suborbital launches, with options for up to six more. \n\nThe first mission is expected no earlier than late 2026, with most launches taking place from a new Rocket Lab location at the Pacific Spaceport Complex-Alaska in Kodiak.",
-    "subreddit": "StockMarket",
-    "created_utc": 1785148091,
-    "thumbnail": "https://preview.redd.it/a6byumos1rfh1.jpeg?width=140&height=78&auto=webp&s=47a3248d7934ffbb75cef01890a2ba2e94950237",
-    "top_comments": [
-      {
-        "body": "Huge. Only trading at 50x revenue now? 💀",
-        "score": 18,
-        "author": "No_Cell6708"
-      },
-      {
-        "body": "22x the pro forma with Iridium ",
-        "score": 7,
-        "author": "JonnyGBuckets"
-      },
-      {
-        "body": "I read this as Rocket League for a min and boy was i confused.",
-        "score": 1,
-        "author": "Navetz"
-      }
-    ],
-    "summary_he": "חברת Rocket Lab ($RKLB) זכתה בחוזה שיא בשווי 266 מיליון דולר מחיל החלל האמריקאי עבור שיגורים תת-מסלוליים לתמיכה בפיתוח מערכות הגנה מפני טילים. ההסכם כולל 12 שיגורים (עם אופציה לשישה נוספים) שצפויים להתחיל בסוף שנת 2026, רובם מאתר השיגור החדש של החברה באלסקה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והתגובות בפורום, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך דברי הגולשים:\n\n*   **הכרה בחשיבות המאורע:** התגובה הראשונה פותחת במילה \"Huge\" (עצום/ענק), מה שמעיד על כך שהקהילה רואה בחדשות המדוברות התפתחות משמעותית ביותר בתחום.\n*   **ספקנות לגבי הערכת השווי (Valuation):** קיים סנטימנט של ביקורת או תדהמה על כך שהחברה נסחרת במכפיל הכנסות גבוה מאוד של פי 50, דבר שנתפס כחריג או מוגזם בעיני חלק מהמשתמשים.\n*   **נימה סרקסטית כלפי השוק:** השימוש באימוג'י של גולגולת (💀) לצד הנתון של מכפיל 50 מרמז על לעג או תחושה שהמחיר הנוכחי \"מת\" או מנותק מהמציאות הכלכלית הפשוטה.\n*   **ניתוח פיננסי מעמיק יותר (Pro Forma):** משתמשים אחרים מציעים זווית ריאליסטית יותר, ומציינים כי בחישוב \"פרו פורמה\" (הערכה מבוססת תחזיות עתידיות או מיזוגים), המכפיל נמוך משמעותית ועומד על פי 22.\n*   **השפעת שיתופי פעולה אסטרטגיים:** הדיון מדגיש את החשיבות של חברת Iridium בחישוב הערך של העסקה או החברה, מה שמצביע על כך שהמשקיעים בוחנים את הקשרים העסקיים בין החברות כגורם מכריע בתמחור.\n*   **בלבול משעשע בין עולמות התוכן:** אחד הגולשים שיתף בתחושת בלבול רגעית כשרק קרא את הכותרת, כיוון שחשב שמדובר במשחק הווידאו הפופולרי \"Rocket League\" (רוקט ליג) במקום בנושא המקצועי שבו עוסק השרשור (ככל הנראה Rocket Lab)."
-  },
-  {
-    "id": "1v8akil",
-    "title": "China’s CXMT Surges 466% in Asia’s Largest IPO of 2026",
-    "url": "https://www.reddit.com/r/investing/comments/1v8akil/chinas_cxmt_surges_466_in_asias_largest_ipo_of/",
-    "author": "valbolt",
-    "score": 71,
-    "selftext": "China’s DRAM giant, Changxin Technology Group (CXMT), made headlines with a massive 466% surge on its Shanghai STAR Market debut, raising $8.6 billion and briefly becoming China’s most valuable listed stock at a $487 billion market cap. For those watching the semiconductor space this eye-popping first-day gain was largely a classic low-float squeeze  with only about 7% of shares available to trade driven by heavy state support for chip self-sufficiency and reports that **Apple is testing CXMT’s DRAM for local Chinese devices.** The company backed up the hype by swinging to a 35.4 billion yuan Q1 profit, benefiting directly from the ongoing global AI infrastructure boom.\n\nwhile leaders like Micron ($MU) and SK Hynix are shifting cleanroom capacity to high-margin high-bandwidth memory (HBM) for AI, CXMT is aggressively expanding standard DDR5 and mobile memory, targeting **350,000 wafer starts per month** by year-end.   \n  \nHowever, trade restrictions prevent CXMT from acquiring advanced Extreme Ultraviolet (EUV) tools, leaving its production costs roughly **30% higher** than Western peers. Ultimately, chasing low-float, first-day pops near the top of a memory cycle carries severe downside risk. Rather than buying into the hype, retail investors should monitor how CXMT's massive supply expansion impacts global DRAM pricing over the next two years.",
-    "subreddit": "investing",
-    "created_utc": 1785180594,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I learned this the hard way - a huge first day jump tells you more about share supply than company value.\n\nWait 30 days, track DRAM prices, then judge the stock. If prices fall as CXMT adds supply, the hype breaks fast.\n\nWatch the market, not the headline.",
-        "score": 26,
-        "author": "Pretend_Dance8716"
-      },
-      {
-        "body": "Not in this case, the IPO was simply intentionally drastically underpriced, probably just to reward Chinese insiders / institutions / retail (foreigners cannot trade CXMT). The IPO valuation was $80B but CXMT is on track to do $50-60B in revenue this year (https://x.com/zephyr\\_z9/status/2077026781438279826). After the IPO pop the company is now valued more accurately.",
-        "score": 6,
-        "author": "scotel"
-      },
-      {
-        "body": "I meant insiders as in people who have inside connections/access to an IPO allocation",
-        "score": 4,
-        "author": "scotel"
-      }
-    ],
-    "summary_he": "ענקית הזיכרונות הסינית CXMT רשמה זינוק אדיר של 466% בהנפקת הענק שלה בשנגחאי, על רקע תמיכה ממשלתית נרחבת ודיווחים על בחינת שבביה על ידי חברת אפל. למרות הצמיחה המהירה, החברה מתמודדת עם עלויות ייצור הגבוהות ב-30% ממתחרותיה במערב בשל מגבלות סחר, ומומלץ למשקיעים לעקוב אחר השפעת עודף ההיצע שהיא מייצרת על מחירי השוק העולמיים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על תגובות הגולשים בנוגע להנפקת חברת השבבים הסינית CXMT, הכולל 6 נקודות מבט מרכזיות:\n\n*   **היצע מול שווי ריאלי:** זינוק חד במחיר המניה ביום המסחר הראשון אינו מעיד בהכרח על ערכה האמיתי של החברה, אלא משקף בעיקר את הדינמיקה של היצע המניות המוגבל בשוק באותו רגע.\n*   **אסטרטגיית המתנה ובחינה:** מומלץ להמתין כ-30 יום לפני שמגבשים החלטה לגבי המניה. יש לבחון את המגמות בשוק ואת מחירי ה-DRAM (זיכרון גישה אקראית דינמי) ולא להסתמך על הכותרות המרעישות של יום ההנפקה.\n*   **סיכון של הצפת השוק:** קיים חשש שאם CXMT תגדיל משמעותית את היצע השבבים שלה ומחירי ה-DRAM ירדו כתוצאה מכך, ההתלהבות (ה\"הייפ\") סביב המניה תתפוגג במהירות.\n*   **תמחור חסר מכוון:** נטען כי ההנפקה תומחרה במכוון במחיר נמוך מאוד (Underpriced) כדי לתגמל משקיעים מקומיים בסין (מוסדות ופרטיים) ובעלי קשרים, במיוחד לאור העובדה שמשקיעים זרים אינם מורשים לסחור במניה זו.\n*   **פער בין הערכת שווי להכנסות:** למרות ששווי החברה בהנפקה עמד על 80 מיליארד דולר, נתוני ההכנסות הצפויים שלה (50-60 מיליארד דולר השנה) מרמזים שהזינוק במחיר המניה לאחר ההנפקה למעשה הביא את החברה להערכת שווי מדויקת וריאלית יותר.\n*   **הגדרת \"מקורבים\" בהנפקה:** הדיון מבהיר כי המונח \"מקורבים\" (Insiders) בהקשר זה מתייחס לאנשים בעלי קשרים פוליטיים או עסקיים בסין שקיבלו גישה מועדפת להקצאת מניות לפני שהן הגיעו לקהל הרחב."
-  },
-  {
-    "id": "1v7z85h",
-    "title": "AI capex is massive but where's the free cash flow? This earnings week is the real test",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1v7z85h/ai_capex_is_massive_but_wheres_the_free_cash_flow/",
-    "author": "AbbreviationsIcy3807",
-    "score": 50,
-    "selftext": "Semis got wrecked this month, SOX down 4% in a single session, SK Hynix off 8% on Friday alone. The whole sector shed roughly $1.3T in market cap through July.\n\nBeen tracking this setup for weeks. The thesis has flipped from \"who can secure compute\" to \"who can actually generate cash from all that compute.\" Capex is still ballooning but the bond market already priced in doubt, Goldman's hyperscaler spreads blew out about 50bp to around 162bp.\n\nThis week is the reckoning. Microsoft, Meta Wednesday. Amazon, Apple Thursday. FOMC in between (hold widely expected at 3.75%). Semiconductor put-call skew doubled in two months, VIX is calm at 18 but that skew tells a different story under the hood.\n\nMy moo.moo alerts were going insane Friday. The flow into puts on semis is hard to ignore when names this big are moving 8% on a single earnings cycle from an overseas player.\n\nIf MSFT and META can show capex leveling off with FCF turning positive, maybe the re-rating holds. If not, bears are gonna say the whole AI trade was a capex bonfire. Am I reading too much into the spread widening, or is the cash flow wall real for these names?",
-    "subreddit": "StockMarket",
-    "created_utc": 1785155979,
-    "thumbnail": "https://preview.redd.it/t883oel7prfh1.png?width=140&height=121&auto=webp&s=3e9c936b469390a5f25a1285b8b8e87e81494ca6",
-    "top_comments": [
-      {
-        "body": "This week is the reckoning, just like next week. ",
+        "body": "Yes, but look at their financials and you’ll see a company consistently growing revenue and profit year after year, decade after decade.",
         "score": 19,
-        "author": "trickyvinny"
+        "author": "ThanklessWaterHeater"
       },
       {
-        "body": "Based on earning so fair i doubt any have positive fcf yet. The investment turnaround was always long term. Market reacts to current news. So I anticipate similar to how Google went ",
-        "score": 14,
-        "author": "Tiny-Ebb-3598"
-      },
-      {
-        "body": "MSFT reported $37b ARR in AI services past Q3, an over 100% YoY increase.  Expect that number to make another leap this week.\n\nAMZN reported $15b ARR in AI services past Q1.  It was the first time they broke out AI services separately.  But you can calulate out it was over 10% of cloud revenue- meaning it grew quite fast.  Again expected another huge leap this week.\n\nGOOGL just reported Q2, and while they don't breakout AI services separately, cloud services revenue grew by over 80% YoY.  While this is a high growth segment, in more recent times it would be in the 30-40% range.  So again quite obvious the new AI services is driving growth.\n\nWhat's going to happen is this AI services revenue is going to scale horizontally, as more capacity comes online, and veritically as AI adoption increases.  So there is a clear path for AI services revenue growth to help contributre to its capital growth.\n\nAlso Anthropic has $47b of ARR.  \n\nNobody talks about these numbers because it doesn't fit the narrative of \"AI capex spend will never see any returns\".  If that's the stance you take, one must wonder why some of the most successful companies in history would take such a speculative risk - does it make any sense?  \n\n",
+        "body": "the commission itself would be worth almost $80k today",
         "score": 11,
-        "author": "greenpride32"
+        "author": "IcyDrink7454"
       }
     ],
-    "summary_he": "לאחר ירידות חדות במניות השבבים ביולי, השוק עובר להתמקד ביכולת של ענקיות הטכנולוגיה לייצר תזרים מזומנים ורווחים מההשקעות העצומות (Capex) בבינה מלאכותית. דוחות הרווח של השבוע הקרוב (מיקרוסופט, מטה, אמזון ואפל) יהוו מבחן מכריע שיקבע אם תחום ה-AI הוא מנוע צמיחה רווחי או בועה של הוצאות הון ללא תמורה ממשית.",
+    "summary_he": "הפוסט מציג השקעה משפחתית במניית Ross Dress For Less משנת 1988, שצמחה מסכום של כ-3,800 דולר לשווי של מעל 4 מיליון דולר כיום. מדובר בתשואה יוצאת דופן של כ-102,000% לאורך 38 שנים, שהושגה הודות לצמיחת החברה ופיצולי מניות לאורך זמן. כותב הפוסט מזמין משקיעים נוספים לשתף בסיפורי הצלחה דומים של החזקות לטווח ארוך מאוד.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות ב-Reddit, המציג שש נקודות מבט ותחושות מרכזיות בקהילה:\n\n*   **ספקנות לגבי הדרמה בשווקים:** קיימת תחושת ציניות מסוימת לגבי הנטייה להגדיר כל שבוע מסחר כ\"רגע האמת\" או כ\"יום הדין\" של מגזר הטכנולוגיה, מה שמעיד על עייפות מסוימת מההייפ והתנודתיות התמידית.\n*   **היעדר תזרים מזומנים חופשי בטווח הקצר:** אחת הטענות המרכזיות היא שעל אף ההשקעות העצומות, רוב החברות עדיין לא מציגות תזרים מזומנים חופשי (FCF) חיובי ישירות מפעילות ה-AI. המהפך הכלכלי נתפס כתהליך ארוך טווח שטרם הבשיל לרווחים מיידיים.\n*   **התנגשות בין טווח קצר לטווח ארוך:** הקהילה מזהה פער בין האסטרטגיה של החברות (השקעה לטווח ארוך) לבין תגובת השוק (תגובה לחדשות רגעיות). קיים חשש שהשוק יעניש מניות טכנולוגיה על דוחות נוכחיים, בדומה לתגובה לירידות של גוגל, למרות הפוטנציאל העתידי.\n*   **צמיחה מוכחת בהכנסות משירותי ענן ו-AI:** בניגוד לטענות על \"בועה\", מוצגים נתונים על צמיחה מרשימה בהכנסות השנתיות החוזרות (ARR) של ענקיות כמו מיקרוסופט (מעל 100% צמיחה ב-AI) ואמזון, מה שמעיד על כך שהטכנולוגיה כבר מייצרת הכנסות משמעותיות בשטח.\n*   **מודל צמיחה רוחבי ואנכי:** קיימת אופטימיות לגבי עתיד ההכנסות מ-AI; התחזית היא שההכנסות יגדלו \"רוחבית\" עם הגדלת קיבולת התשתיות (Cloud capacity) ו\"אנכית\" ככל שאימוץ ה-AI בקרב ארגונים ומשתמשים יתגבר.\n*   **ערעור על נרטיב ה\"בזבוז\":** עולה ביקורת חריפה על הטענה שהוצאות ההון (Capex) על AI הן סיכון ספקולטיבי ללא תמורה. הטיעון המרכזי הוא שהחברות המצליחות ביותר בהיסטוריה לא היו משקיעות סכומי עתק ללא נתיב ברור לרווחיות, והמספרים בשטח מתחילים להוכיח זאת."
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, הכולל 6 נקודות מבט וסנטימנטים שעלו בקהילה:\n\n* **התפעלות מהתשואה לאורך זמן:** חברי הקהילה מציינים כי השגת רווח עקבי (כמו 20%) לאורך תקופה כה ארוכה של 40 שנה היא הישג פנומנלי ויוצא דופן בעולם ההשקעות.\n* **אתגר הראייה לרחוק (Foresight):** קיימת הכרה בכך שקל להסתכל על הנתונים בדיעבד, אך בזמן אמת נדרשה יכולת חיזוי יוצאת דופן וחזון כדי לזהות את הפוטנציאל של הנכס ולהחזיק בו.\n* **חשיבות הניתוח הפונדמנטלי:** אחד המגיבים מדגיש שהצמיחה אינה מקרית, אלא מבוססת על נתונים כספיים מוצקים – צמיחה עקבית בהכנסות וברווחים של החברה לאורך זמן.\n* **עקביות כערך עליון:** הקהילה מצביעה על כך שהמפתח להצלחה הוא לא רק צמיחה מהירה, אלא היכולת לשמור על יציבות וצמיחה \"שנה אחר שנה, עשור אחר עשור\".\n* **ההשפעה המדהימה של עמלות העבר:** נקודה ייחודית שעלתה היא הערך הנוכחי של עלויות העסקה; העמלה ששולמה עבור הרכישה המקורית שווה כיום הון עתק (כ-80,000 דולר), מה שממחיש את כוחו של הזמן על כל דולר שהושקע.\n* **סנטימנט של פליאה מכוחה של ריבית דריבית:** הדיון משקף תחושת תדהמה מהאופן שבו סכומים שנראו קטנים או זניחים בעבר (בין אם זו עמלה או השקעה ראשונית) הופכים למפלצות פיננסיות בטווח של ארבעה עשורים."
   },
   {
-    "id": "1v87ar4",
-    "title": "The Capital Cycle Theory For AI",
-    "url": "https://www.reddit.com/r/investing/comments/1v87ar4/the_capital_cycle_theory_for_ai/",
-    "author": "Fluffy_Scheme9321",
-    "score": 14,
-    "selftext": "History rhymes or repeats, who cares? The capital cycle theory is simplistic and just wonderful. It is also common sense. Created by Marathon Asset Management, it simply explains a cycle. Where there is an asset that is underinvested, leading to successful investment and corresponding successful returns. Then the world finds out, and the asset becomes overinvested, and returns fall, and so the asset becomes unattractive. And so the cycle repeats.\n\nToday's hyper-investment in data centers for “AI,” which means many things, is led by the major tech firms (Google, Microsoft, Amazon, Meta, etc). Here are the numbers -\n\n\n\nAnnual AI Infrastructure Investment (Market/Analysts Estimates)\n\n2025 $430B ████████████\n\n2026 $765B █████████████████████\n\n2027 $1.10T ████████████████████████████\n\n2028 $1.30T ██████████████████████████████████\n\n2029 $1.40T █████████████████████████████████████\n\n2030 $1.50T ███████████████████████████████████████\n\n2031 $1.60T ██████████████████████████████████████████\n\n\n\nNow observe investment spend during the 90s, in fiber-optic cable, for the internet -\n\n1995 $40B ████████\n\n1996 $70B ██████████████\n\n1997 $110B ██████████████████████\n\n1998 $150B ██████████████████████████████\n\n1999 $190B ██████████████████████████████████████\n\n2000 $230B ████████████████████████████████████████████\n\n2001 $170B ██████████████████████████████████\n\n2002 $90B ██████████████████\n\n\n\nWhen comparing spend size, it makes sense to look at spend as a % of GDP. Roughly both total to around 2.2%. Yet we do not know how much longer the current investment cycle will last. Similar to how in the early 90s, companies such as MFS and Nortel generated excess returns and laid the groundwork, then major investment funded by debt from companies such as WorldCom led to overcapacity and the asset bubble, and the returns fell.\n\nSimilarly, the early success of AWS has proved data centers as a great asset, which has brought great returns for the likes of Amazon and Microsoft. Now we see many more players building for AI specifically, although the underlying idea of a data center is largely the same. And if the capital cycle theory proves correct, then the overcapacity should be realized and returns fall.\n\nA common counterargument is the revenue backlog for these companies. The same argument was made during the fiber optic bubble; similar massive backlogs existed, and then they did not. Once there is clear overproduction, the entire value chain collapses, and along with it, so do the backlog commitments. This overlaps with the idea that low price-to-earnings ratios for equities are a sign of an asset bubble, since at the height, earnings are inflated, yet unsustainable nonetheless.\n\nSimilarly, the same problem exists in venture capital with the capital cycle theory. Once a certain industry produces great exits and high DPI events, more venture firms decide to invest; some create industry-specific funds, driving up prices across every series of funding. This hurts more in growth equity, while early-stage investing can deal with a price increase because they invest so early; their returns are still high at an exit. Growth equity often pays too high a price, and eventually the company faces a down round, and fund managers have to mark down valuations. Thus the industry becomes unattractive, and returns are found elsewhere.\n\nSo, if the capital cycle theory is correct, this spending on AI infrastructure should be overbuilt; then there won't be enough demand to justify the cost of this infrastructure, asset prices fall, and we return to reality.",
-    "subreddit": "investing",
-    "created_utc": 1785173845,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Maybe.\n\nBut I don't see many parallels of AI compute and fiber infrastructure. Fiber infrastructure was heavily predicated on assumptions for demand... AI compute is actively being exceeded.",
-        "score": 19,
-        "author": "CoBullet"
-      },
-      {
-        "body": "What do you mean by the demand being hype...like people are using Claude because of FOMO?",
-        "score": 7,
-        "author": "supr3m3kill3r"
-      },
-      {
-        "body": "We created a way to interact with computers using natural language at a pretty high level instead of code or GUIs.\n\nThen we layered those natural language models on top of each other to act as a self-created interface layer between an orchestrator and dozens or hundreds of subordinate programs. If necessary, they can write their own snippets of code on-demand without human guidance.\n\nAnd you don't think this will drive productivity gains? ",
-        "score": 5,
-        "author": "captain_ahabb"
-      }
-    ],
-    "summary_he": "הפוסט מיישם את \"תאוריית מחזור ההון\" על תחום הבינה המלאכותית וטוען כי השקעות העתק הנוכחיות בתשתיות ומרכזי נתונים דומות להפליא לבועת הסיבים האופטיים של שנות ה-90. הכותב מזהיר כי השקעת יתר מסיבית מובילה בהכרח לעודף היצע ולירידה חדה ברווחיות, ומעריך כי למרות הביקוש הנוכחי, המחזור יסתיים בתיקון שוק כואב ובחזרה למציאות כלכלית מפוכחת.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט וטיעונים מרכזיים:\n\n*   **הבדל מהותי מבועות טכנולוגיות עבר:** קיים טיעון כי לא ניתן להשוות בין בועת התשתיות של הסיבים האופטיים לבין מחשוב ה-AI. בעוד שתשתיות הסיבים נבנו על בסיס תחזיות לביקוש עתידי שלא תמיד התממש, הביקוש למחשוב AI הוא ממשי ונוכחי, ואף עולה על ההיצע הקיים בשטח.\n*   **הטלת ספק בטענת ה\"הייפ\":** בקהילה עולה השאלה האם השימוש הגובר בכלי AI (כמו Claude) נובע באמת רק מ\"פחד מהחמצה\" (FOMO) או מרצון להיות חלק מטרנד, ומציעים כי ישנה תועלת ממשית שמעבר ליחסי ציבור.\n*   **שינוי פרדיגמה בממשק משתמש:** אחד היתרונות המרכזיים שצוינו הוא המעבר מאינטראקציה עם מחשבים דרך קוד או ממשקים גרפיים (GUI) לשימוש בשפה טבעית. זה נתפס כקפיצת מדרגה משמעותית באופן שבו בני אדם מפעילים טכנולוגיה.\n*   **AI כשכבת ניהול ותזמור (Orchestration):** הדיון מדגיש את היכולת של מודלי שפה לשמש כשכבת ממשק חכמה המקשרת בין המשתמש לבין עשרות או מאות תוכניות משנה, תוך שהם מנהלים את המשימות באופן עצמאי.\n*   **יכולת כתיבת קוד אוטונומית:** נקודת חוזק משמעותית שצוינה היא היכולת של המודלים לכתוב קטעי קוד בעצמם \"לפי דרישה\" כדי לפתור בעיות, וכל זאת ללא צורך בהנחיה אנושית צמודה בכל שלב.\n*   **ביטחון בשיפור הפריון:** קיימת תחושה חזקה בקהילה שהשילוב של ממשק שפה טבעית, ניהול תוכניות אוטונומי ויכולת תכנות עצמית יוביל בהכרח לזינוק משמעותי בפריון (Productivity), מה שמצדיק את ההשקעה האדירה בתחום."
-  },
-  {
-    "id": "1v832u1",
-    "title": "Are US Tech and Semiconductors still a good investment?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1v832u1/are_us_tech_and_semiconductors_still_a_good/",
-    "author": "SadComparison9352",
-    "score": 13,
-    "selftext": "There was news recently of free models from China like Kimi that can match the frontier Us models and scaling up DRAM production and today there was news of China producing its own DUV machines . So it seems like over the next few years China will compete with US semiconductors/ AI companies and may scale up its semiconductor industry rapidly.\n\nUS hyperscalers keep invedting huge capex into AI which limit upside  of their stock prices.\n\nUS software stocks are being disrupted by AI , no meaningful recovery as of now. \n\nWith these in mind, are US big tech , software and semiconductors still worth investing?\n\nIf US tech is no longer worth investing, then what else to invest? \n\nUs hyperscalers still enjoy more than 90% global market share. Although it still may be too early to say now, is this the beginning of the end of US tech dominance? ",
+    "id": "1v93um0",
+    "title": "At least six members of Congress bought the SpaceX IPO, most sit on committees that oversee it, and it's already underwater",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1v93um0/at_least_six_members_of_congress_bought_the/",
+    "author": "burblank",
+    "score": 312,
+    "selftext": "SpaceX went public on June 12 at $135 a share, the biggest IPO in history at around a $1.75 trillion valuation. Within a few weeks, at least six members of Congress had bought in, and a seventh disclosed this week.\n\n  \nThe names from the disclosures: Lisa McClain (R-MI), John James (R-MI), Daniel Meuser (R-PA), William Timmons (R-SC), John McGuire (R-VA), and Gilbert Cisneros (D-CA), with Jared Moskowitz (D-FL) the latest to file. So it's bipartisan, five Republicans and two Democrats.\n\n  \nThe part that stands out is the committee overlap. McGuire and Cisneros sit on Armed Services. Timmons chairs an Oversight subcommittee on military and foreign affairs. James sits on Energy and Commerce, which oversees the FCC, and SpaceX runs Starlink. So most of these people sit on committees that touch either defense contracts or the regulator for SpaceX's own business.\n\n  \nTo be fair about it, several of these were spouse or family trades, not the member personally, and Cisneros says his portfolio is run by outside advisers. CNBC and the trade-tracking watchdogs looked and found no sign anyone used inside information or broke a rule. The amounts are mostly small too, ranges of $1k to $50k each, with McClain's the big one because a family xAI stake converted into SpaceX.\n\n  \nAnd here's the ironic part. The stock is already underwater. It popped to about $161 on day one and trades around $113 now, below the $135 IPO price. So for all the attention, it hasn't been a good trade so far.\n\n  \nStill, when six or seven people who help write defense and telecom policy all pile into the same IPO within weeks, it's worth watching regardless of whether it's technically allowed. Is this a real conflict, or just everyone chasing the same hyped IPO?",
     "subreddit": "StockMarket",
-    "created_utc": 1785164865,
+    "created_utc": 1785256973,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "\\-> opens comments  \n\\-> upvotes the “No. Stay away.” comment  \n\\-> upvotes the “Yes. Go all in.” comment  \n\\-> leaves",
-        "score": 63,
-        "author": "femalediesinendgame"
+        "body": "wait until the merger announcement of tsla & spcx.",
+        "score": 15,
+        "author": "Bush_Trimmer"
       },
       {
-        "body": "legend has it that this question is asked persistently at the top AND at the bottom.",
-        "score": 52,
-        "author": "Witty_University_162"
+        "body": "Yep will happen when TSLA is looking really bad. Then when SpaceX starts to reflect reality, it'll be acquired by Boring Company",
+        "score": 13,
+        "author": "BootyAndTheHoePhish"
       },
       {
-        "body": "The suppliers to the boom dont care if AI succeeds\n\nThey just need datacenters to be built and paid. Nvidia just announced 500 billion in Ram contracts. They wouldnt do it if the trend was failing. ",
-        "score": 12,
-        "author": "U-GenGaming"
+        "body": "I sold half my ipo allocation at $175. No reason to believe everyone is underwater.",
+        "score": 10,
+        "author": "rickny0"
       }
     ],
-    "summary_he": "הפוסט מעלה תהיות לגבי כדאיות ההשקעה במגזרי הטכנולוגיה והשבבים בארה\"ב, לאור ההתקדמות המהירה של סין בפיתוח מודלי AI וחומרה עצמאית. הכותב מציין גורמים כמו הוצאות עתק של ענקיות הטכנולוגיה והשיבוש בענף התוכנה, ושואל האם מדובר בתחילת הסוף של הדומיננטיות האמריקאית והאם כדאי לחפש אפיקי השקעה חלופיים.",
+    "summary_he": "שבעה חברי קונגרס משתי המפלגות רכשו מניות של SpaceX זמן קצר לאחר הנפקתה, כאשר רובם מכהנים בוועדות המפקחות על חוזי ביטחון ורגולציית תקשורת הנוגעים ישירות לחברה. למרות החשש לניגוד עניינים, לא נמצאו ראיות לשימוש במידע פנים, ובפועל ההשקעה טרם הניבה רווחים שכן מחיר המניה ירד אל מתחת למחיר ההנפקה.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג 6 נקודות מבט ורגשות קהילתיים שעלו מהתגובות:\n\n*   **בלבול וחוסר החלטיות בקרב המשקיעים:** התגובה הראשונה מתארת הומור עצמי של משתמשים המצביעים בעד דעות סותרות לחלוטין (גם \"להתרחק\" וגם \"להשקיע הכל\"), מה שמעיד על כך שהקהילה חלוקה ואינה יודעת לאן השוק פונה.\n*   **השאלה הנצחית:** מצוין כי השאלה \"האם לקנות עכשיו\" היא שאלת \"אגדה\" שחוזרת על עצמה ללא הרף, ללא קשר למצב השוק – בין אם הוא בשיא של כל הזמנים ובין אם הוא בשפל.\n*   **פסיכולוגיית המונים בשוק ה-AI:** קיימת תחושה שהדיון סביב כדאיות ההשקעה הוא מעגלי; המשקיעים חווים FOMO (פחד מהחמצה) בשיא ופחד בנפילה, אך השאלות נותרות זהות.\n*   **מודל \"מוכרי האתים והמגובים\":** על פי אחת הדעות, לספקי התשתית (כמו יצרני חומרה) לא באמת אכפת אם טכנולוגיית ה-AI עצמה תשיג את מטרותיה בסופו של דבר. הרווח שלהם מובטח מעצם הקמת מרכזי הנתונים והתשלום על הציוד.\n*   **ביטחון המבוסס על חוזי עתק:** הקהילה מצביעה על חוזים פיננסיים עצומים, כמו חוזי הזיכרון של אנבידיה בסך 500 מיליארד דולר, כהוכחה לכך שהמגמה הנוכחית יציבה ואינה עומדת להיכשל בטווח הקרוב.\n*   **הפרדה בין הצלחת הטכנולוגיה להצלחת ההשקעה:** עולה סנטימנט לפיו בניית התשתית הפיזית ל-AI היא \"הימור בטוח\" יותר מאשר הצלחת היישומים עצמם, שכן ההשקעה בבנייה ובחומרה כבר מתרחשת בפועל ובהיקפי ענק."
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ודעות שונות שעלו מהתגובות:\n\n*   **ציפייה למיזוג אסטרטגי:** קיימת הערכה בקרב חלק מהגולשים כי בעתיד תצא הודעה רשמית על מיזוג בין חברת טסלה (TSLA) לחברת ספייס אקס (SpaceX).\n*   **תזמון המיזוג כגלגל הצלה:** ישנה סברה שהמיזוג המדובר יתרחש דווקא בנקודת זמן שבה מצבה של טסלה ייראה רע במיוחד, ככל הנראה כדי לחזק את אמון המשקיעים או להציל את ערך המניה.\n*   **ספקנות לגבי השווי של ספייס אקס:** עולה טענה כי השווי הנוכחי של ספייס אקס אינו משקף את המציאות, וכי ביום שבו השווי \"יתאזן\" וישקף את המצב האמיתי, יחולו שינויים במבנה הבעלות.\n*   **תחזית לרכישה על ידי Boring Company:** הועלתה אפשרות (ייתכן שבציניות) שחברת Boring Company תהיה זו שבסופו של דבר תרכוש את ספייס אקס לאחר שערכה יתעדכן.\n*   **רווחיות של משקיעים מוקדמים:** בניגוד לנרטיב הפסימי, ישנם משקיעים שקיבלו הקצאה בהנפקה (IPO) והצליחו לממש חצי מהחזקותיהם ברווח משמעותי (למשל במחיר של 175 דולר).\n*   **הפרכת טענת ההפסדים הקולקטיביים:** קיימת התנגדות לדעה שכל המשקיעים נמצאים כרגע בהפסדים (\"underwater\"); ישנן עדויות לכך שחלק מהקהילה עדיין נמצא בפוזיציות רווחיות מאוד בהתבסס על נקודות כניסה מוקדמות."
   },
   {
-    "id": "1v7yb3y",
-    "title": "I built a stock screener and ran the Buffett 5 pillars ratios through every company in the UK, US and Europe and only 19 passed out of 850.",
-    "url": "https://www.reddit.com/r/investing/comments/1v7yb3y/i_built_a_stock_screener_and_ran_the_buffett_5/",
-    "author": "Silver-Nobody-3236",
-    "score": 4,
-    "selftext": "|\\#|Pillar|What it measures|Buffett's threshold|\n|:-|:-|:-|:-|\n|1|**Moat**|Structural competitive advantage|Sustained ROIC ≥ 15% over 10 years|\n|2|**Durability**|Demand resilience and pricing power|Gross margin stable over 10 years|\n|3|**Management**|Capital allocation track record|Owner-mindset signals, share buybacks at fair prices|\n|4|**Valuation**|Price-to-value relationship|Owner-earnings yield ≥ 5% absolute|\n|5|**Financial Health**|Balance sheet resilience|Current ratio ≥ 2, debt-to-equity moderate|\n\nHere is the full list: **III, AUTO, RMV, HWDN, DNLM, BOWL, SCT, KNOS, BYIT, FOUR, AJB, IHP, ASHM, LRE, ROR, BCG, XPS, PLUS, MSFT**",
+    "id": "1v948ka",
+    "title": "Why do so many people believe 'Mag 7' companies in 2050 do not exist yet ?",
+    "url": "https://www.reddit.com/r/investing/comments/1v948ka/why_do_so_many_people_believe_mag_7_companies_in/",
+    "author": "Odd-Help6890",
+    "score": 103,
+    "selftext": "Apple, Amazon, Google, Microsoft, and Meta are unlikely to simply collapse. These companies are highly diversified, have enormous financial resources, and can acquire or invest in emerging competitors before they become major threats.\n\nPeople often point to examples like AOL, Blockbuster, Barings Bank, and Sears as evidence that dominant companies can disappear, but those businesses were far less diversified and operated in industries where technology was still relatively basic and less interconnected. They were often built around a single product, service, or business model, making them much more vulnerable to disruption. Today's leading technology companies operate on a completely different scale, with global platforms, ecosystems, infrastructure, and multiple revenue streams.\n\nGoogle operates Search, YouTube, Android, Chrome, Google Cloud, Gmail, Maps, Workspace, and AI products like Gemini, with most of its revenue coming from advertising. Amazon runs Amazon .com, AWS, Prime, Prime Video, Twitch, Alexa, Kindle, a global logistics network, and a growing advertising business. Microsoft develops Windows, Microsoft 365, Azure, GitHub, LinkedIn, Xbox, Bing, and AI products like Copilot. Apple designs hardware including the iPhone, Mac, iPad, Apple Watch, and AirPods, while also operating services such as the App Store, iCloud, Apple Music, Apple TV+, Apple Pay, and Apple Intelligence. Meta operates Facebook, Instagram, WhatsApp, Messenger, and Threads, while investing heavily in AI through Llama and Meta AI, as well as virtual and augmented reality through products like Quest and Ray Ban Meta smart glasses.\n\nTheir cloud computing businesses are effectively a long term oligopoly in an enormous and growing market. AWS and Microsoft Azure dominate the sector, while Google Cloud remains a distant third but continues investing because of the strategic importance and future potential of cloud infrastructure.\n\nOnce companies, governments, and developers build their infrastructure on these platforms, switching becomes extremely difficult and expensive. Even when customers leave, they are often just moving from one major provider to another rather than leaving the ecosystem entirely.\n\nBecause of their scale, ecosystems, financial strength, and ability to acquire promising companies, I find it unlikely that the Mag 7 of 2050 will consist entirely of companies founded in the 2030s that do not exist today. Many companies with the potential to become future leaders may already be acquired, integrated, or influenced by today's technology giants before they have the chance to become independent challengers.\n\n[](https://www.reddit.com/submit/?source_id=t3_1v947zs&composer_entry=crosspost_prompt)",
     "subreddit": "investing",
-    "created_utc": 1785153580,
+    "created_utc": 1785257816,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Dang I'm too early to see why this information is useless or genius ",
-        "score": 14,
-        "author": "LoLLiGoGs"
+        "body": "Yeah, that was the problem at GE. Definitely couldn’t be Jack “The Man that Broke Capitalism” Welch. ",
+        "score": 2,
+        "author": "xiaodown"
       },
       {
-        "body": "18 are on LSE only MSFT on nasdaq…",
-        "score": 3,
-        "author": "pegleri"
+        "body": "But what if. Hold on. These companies learned from the past and vowed to never repeat the same mistakes?",
+        "score": 2,
+        "author": "binklfoot"
       },
       {
-        "body": "How do you even quantify a couple of these?",
-        "score": 3,
-        "author": "TravellingBeard"
+        "body": "Isn’t Craftsman Tools sears as well?",
+        "score": 2,
+        "author": "ZealousORJealous69"
       }
     ],
-    "summary_he": "ניתוח של 850 חברות בארה\"ב, אירופה ובריטניה לפי חמשת עקרונות ההשקעה של וורן באפט העלה כי רק 19 חברות עומדות בכל הקריטריונים הקפדניים של רווחיות וחוסן פיננסי. הבדיקה התמקדה במדדים של יתרון תחרותי, איכות הניהול, יציבות לאורך עשור ושווי אטרקטיבי. בין החברות הבודדות שעברו את הסינון ניתן למצוא את מיקרוסופט (MSFT), Plus500 וחברות נוספות בעיקר מהשוק הבריטי.",
+    "summary_he": "כותב הפוסט טוען כי ענקיות הטכנולוגיה (Mag 7) צפויות לשמור על הדומיננטיות שלהן גם בשנת 2050 בזכות גיוון עסקי רחב, משאבים אדירים ויכולת לרכוש מתחרים פוטנציאליים בשלב מוקדם. בניגוד לחברות עבר שקרסו, חברות אלו שולטות בתשתיות קריטיות ובמערכות אקולוגיות (Ecosystems) שיוצרות תלות עמוקה בקרב לקוחות ומדינות, מה שהופך את החלפתן במתחרות חדשות לבלתי סבירה.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שנכתבו, המציג 6 נקודות מבט וסנטימנטים שונים מהקהילה:\n\n*   **ציפייה לניתוח מומחים:** קיים סנטימנט של המתנה ל\"חוכמת ההמונים\" כדי לקבוע האם המידע שהוצג הוא פורץ דרך (גאוני) או שמא הוא חסר ערך לחלוטין.\n*   **ספקנות ראשונית:** הגולשים מביעים זהירות ולא ממהרים לאמץ את הנתונים כעובדה מוגמרת, תוך הבנה שהרושם הראשוני עשוי להטעות.\n*   **אבחנה גיאוגרפית ובורסאית:** צוין כי קיים חוסר איזון במקורות הנתונים, כאשר רוב החברות (18) רשומות למסחר בבורסה לניירות ערך בלונדון (LSE), בעוד שרק מיקרוסופט (MSFT) מייצגת את הנאסד\"ק.\n*   **זיהוי חריגים:** הקהילה שמה לב שחברת מיקרוסופט בולטת כחריגה ברשימה מבחינת זירת המסחר שלה ביחס לשאר החברות שהוזכרו.\n*   **ערעור על המתודולוגיה:** עולה שאלה מהותית לגבי היכולת לכמת (Quantify) חלק מהנתונים שהוצגו; הגולשים תוהים באילו כלים מדעיים או סטטיסטיים השתמשו כדי להגיע למסקנות.\n*   **דרישה לשקיפות:** משתקף צורך בהסברים נוספים על אופן המדידה של המשתנים, שכן ללא הבנת שיטת המדידה, קשה להעריך את מהימנות המידע."
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים שונים מהקהילה:\n\n*   **הטלת אשמה אישית על ג'ק וולש:** הקהילה מביעה ביקורת חריפה וצינית כלפי מנכ\"ל GE לשעבר, ג'ק וולש, ומסמנת אותו כאחראי המרכזי לבעיות של החברה. הוא מכונה בסרקזם \"האיש ששבר את הקפיטליזם\".\n*   **ספקנות לגבי למידה תאגידית:** עולה תחושה של חוסר אמון מוחלט ביכולת של תאגידי ענק ללמוד מטעויות העבר. המשתמשים לועגים לרעיון שחברות אכן \"נשבעות\" לא לחזור על אותן שגיאות.\n*   **סרקזם ככלי לביקורת כלכלית:** השימוש באירוניה (\"אבל מה אם... חכו רגע\") מדגיש את התחושה בקהילה שההנהלות הבכירות נוטות לחזור על דפוסים הרסניים למרות הלקחים ההיסטוריים.\n*   **קריסת מותגי עבר (Sears):** הדיון מעלה זיכרונות מחברות ענק שקרסו או דעכו, כמו Sears, ובוחן את ההשפעה של הניהול הכושל על המותגים שהיו בבעלותן.\n*   **קישור בין מותגים ומוצרים:** קיימת התעניינות בנכסים ובתתי-מותגים שהיו שייכים לחברות הכושלות, כמו למשל המותג Craftsman Tools והקשר שלו ל-Sears, מה שמראה על מעקב של הצרכנים אחר גלגולי הבעלות.\n*   **תחושת דז'ה-וו ניהולי:** מהתגובות עולה סנטימנט של קהילה המזהה דפוסים חוזרים של ניהול כושל בשוק המודרני, תוך השוואה למקרי בוחן היסטוריים שנגמרו בכישלון."
   },
   {
-    "id": "1v7zbl7",
-    "title": "Top ways to invest in innovative companies through ETFs? High risk appetite",
-    "url": "https://www.reddit.com/r/investing/comments/1v7zbl7/top_ways_to_invest_in_innovative_companies/",
-    "author": "Aggressive_Draft_869",
-    "score": 2,
-    "selftext": "I have 40% in VOO/QQQM and another 40% in VBR and IEFA. I need to invest remaining 20% in satellite portfolios.  \nI have high risk appetite and long-term investment horizon. I am looking at ways to invest in highly innovative and disruptive companies that offer huge upside potential.\n\nI am not looking for more index funds to add and would like to have more active exposure through ETFs. Here are the funds I am looking at:\n\n1. **ARKVX**: while the portfolio is interesting, I am worried about very high expense ratio (at \\~2.9%) and poor liquidity.\n2. **XOVR**: Interesting portfolio. It blends public and private innovators (Kalshi, Anduril). Expense ratio comparatively reasonable at 0.75%. Good track record with SpaceX listing gains.\n3. **NASA**: A bet on the future of Space as an investment opportunity. Bullish on the theme in longer term. Though it is very concentrated theme and this ETF did poorly during SpaceX IPO despite strong listing gains due to large inflows. It did little to protect returns of retail investors.\n4. **DRAM**: Concentrated investment style but should remain in trend for the coming year (OR am I too late to the party)\n\nAny other ETF to look at? What would you choose for growthier, active bets? Thanks in advance.",
-    "subreddit": "investing",
-    "created_utc": 1785156219,
+    "id": "1v8txt2",
+    "title": "Amazon Overhauls its AI Strategy, Winding Down Most Flagship NOVA Models - Business Insider",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1v8txt2/amazon_overhauls_its_ai_strategy_winding_down/",
+    "author": "Optimal_Image5192",
+    "score": 77,
+    "selftext": "Business Insider reports $AMZN is overhauling its AI strategy by winding down much of its flagship Nova lineup and concentrating engineers and computing resources on a smaller number of frontier-model efforts.\n\nAmazon has reportedly begun deprecating Nova Premier, Omni, Reel, and Canvas. Employees described some models as being in “keep the lights on” mode, meaning they will remain supported for existing customers but are no longer major development priorities.\n\nResources are increasingly moving toward Frontier Model Research, led by Pieter Abbeel. He joined Amazon through its acquisition of AI robotics startup Covariant. FMR has become a top priority and is developing a new flagship foundation model expected to debut at this year’s re conference.\n\nThe shift follows layoffs in Amazon’s AGI organization and the shutdown of AGI Lab, the long-term research group created after Amazon hired key leaders from Adept. The broader AGI organization now sits under SVP Peter DeSantis, who also oversees Amazon’s custom-silicon and quantum-computing teams.\n\nAmazon is not abandoning Nova entirely. Nova 2 Sonic, Nova 2 Lite, Nova Forge, and Nova Act remain active, while the new FMR model could also launch under the Nova brand.\n\nAn Amazon spokesperson told Business Insider that AI models remain among the company’s most important priorities. The spokesperson added that Amazon will continue supporting models customers rely on while providing guidance and migration paths as its lineup evolves.",
+    "subreddit": "StockMarket",
+    "created_utc": 1785233121,
+    "thumbnail": "https://preview.redd.it/hhglt3um2yfh1.jpeg?width=140&height=93&auto=webp&s=a19d5e5cccfaeba6c8e913bd311c7f1d9359a221",
+    "top_comments": [
+      {
+        "body": "But also consider: Amazon leadership are dumb as hell",
+        "score": 26,
+        "author": "Boheed"
+      },
+      {
+        "body": "I don’t even understand what this means. They’re winding down Nova yet their new frontier model might be called Nova. Ok.",
+        "score": 22,
+        "author": "eloquenentic"
+      },
+      {
+        "body": "Amazon is one of the companies with best chances of mastering physical AI in robotics. They have the ability to gather massive amounts of data from their warehouses, supermarkets and everything else they own and the option to adjust those same spaces, packaging on goods and other conditions to make the navigation and work easier for autonomous machines. ",
+        "score": 19,
+        "author": "TheSecondTraitor"
+      }
+    ],
+    "summary_he": "אמזון משנה את אסטרטגיית ה-AI שלה ומפסיקה את פיתוחם של מרבית מודלי ה-Nova כדי למקד משאבים ומהנדסים במספר מצומצם של מודלים מתקדמים (Frontier Models). החברה מעבירה את מרכז הכובד ליחידת מחקר חדשה בהובלת פיטר אבל (Pieter Abbeel), במטרה להשיק מודל דגל חדש בכנס re:Invent הקרוב.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ורגשות מרכזיים שעלו מהתגובות:\n\n*   **ביקורת חריפה על ההנהגה:** קיימת סנטימנט בקרב חלק מהמשתמשים שהנהגת אמזון לוקה בחסר ומתקבלת החלטות שנתפסות כטיפשיות או לא מוסברות.\n*   **בלבול סביב אסטרטגיית המיתוג:** המשתמשים מביעים תמיהה וחוסר הבנה לגבי המיתוג של פרויקטי ה-AI בחברה, במיוחד סביב השימוש החוזר בשם \"Nova\" למודל חדש בזמן שסוגרים פרויקט קודם בשם זהה.\n*   **חוסר עקביות תפעולי:** קיימת ציניות כלפי הדרך שבה אמזון מנהלת את מחזור החיים של מוצריה, כאשר נראה שהחברה סוגרת טכנולוגיות ומתחילה אותן מחדש בו-זמנית תחת שמות דומים.\n*   **פוטנציאל מוביל ברובוטיקה:** למרות הביקורת על ההנהלה, ישנה הערכה שאמזון היא אחת החברות בעלות הסיכויים הטובים ביותר לשלוט בתחום ה-AI הפיזי (Physical AI) והרובוטיקה.\n*   **יתרון הנתונים מהעולם האמיתי:** לאמזון יש יכולת ייחודית לאסוף כמויות אדירות של נתונים מהתשתית הפיזית הרחבה שלה, הכוללת מחסנים, סופרמרקטים (כמו Whole Foods) ומרכזי הפצה.\n*   **שליטה בסביבת העבודה:** כוחה של אמזון טמון ביכולתה להתאים את הסביבה הפיזית לצרכי המכונות – למשל, שינוי אריזות המוצרים או עיצוב המחסנים מחדש כדי להקל על הניווט והעבודה של מכונות אוטונומיות."
+  },
+  {
+    "id": "1v8u5r3",
+    "title": "Oracle’s capex was 82.6% of revenue last fiscal year. Free cash flow was -$23.7bn.",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1v8u5r3/oracles_capex_was_826_of_revenue_last_fiscal_year/",
+    "author": "ArkD-Research",
+    "score": 74,
+    "selftext": "That number seemed wrong when I pulled it so I checked it twice. Oracle spent $55.7bn on capex against $67.4bn of revenue, and operating cash flow was $32.0bn. Free cash flow came out at minus $23.7bn.  \nSo I pulled the same figures for the rest of big tech, most recent fiscal year from the 10-Ks. Fiscal years don’t line up, Microsoft ends June, Oracle May, Nvidia January, so it’s not a clean same-period comparison.  \nCapex as a share of revenue:  \nOracle 82.6%  \nMeta 34.7%  \nMicrosoft 22.9%  \nAlphabet 22.7%  \nAmazon 18.4%  \nApple 3.1%  \nNvidia 2.8%  \nFree cash flow, prior year to most recent:  \nOracle: -$0.4bn → -$23.7bn  \nAmazon: $32.9bn → $7.7bn  \nMeta: $54.1bn → $46.1bn  \nMicrosoft: $74.1bn → $71.6bn  \nAlphabet: $72.8bn → $73.3bn  \nApple: $108.8bn → $98.8bn  \nNvidia: $60.9bn → $96.7bn  \nBefore anyone says it, yes, obviously the companies spending less keep more cash. That part isn’t interesting. Apple’s decline is buybacks and working capital, they’re spending 3% of revenue. Nvidia genuinely improved and they’re selling the equipment rather than buying it.  \nThe part I think is worth looking at is the depreciation lag. Capex to depreciation is 2.9x at Microsoft, 3.2x at Amazon, 3.9x at Meta, 4.3x at Alphabet, 7.3x at Oracle. Depreciation only starts once an asset is placed in service, so the cost of what’s being built right now mostly hasn’t reached the income statement. Current margins are being earned against a cost base that hasn’t caught up yet. When it does, it lands whether revenue follows or not.  \nMeta reports Wednesday and has guided toward $145bn of capex for 2026. Operating cash flow was $115.8bn last year. If that guide holds, free cash flow goes negative unless operating cash grows another 25%. It grew 27% last year so it’s possible, but that’s the bar.  \nNot arguing the spending is wrong. Cloud growth suggests some of it is working. But five of seven saw free cash flow fall or collapse in the most recent year, and the depreciation from this build is still ahead of them.  \nAll from the 10-K filings.",
+    "subreddit": "StockMarket",
+    "created_utc": 1785233785,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "VCX got hammered today, I would stay away until it’s close to $20-30, the Actual net asset value is closer to like $15-20",
-        "score": 1,
-        "author": "samuelj264"
+        "body": "In this timeline crime is legal and fundamentals are irrelevant the line only goes up",
+        "score": 18,
+        "author": "the_421_Rob"
       },
       {
-        "body": "If you're investing in an employer-sponsored plan, you may have access to successful actively-managed growth funds that are only available to institutional investors or retirement plans. These won't be ETFs, and your mileage may vary, but I've been happy with my returns with the UC Growth Fund and HRSIX.",
-        "score": 1,
-        "author": "GarageEven5240"
+        "body": "Burning money too fast: capital expenditures as a percentage of operating cash flow skyrocketed from 47% in fiscal year 2022 to 174% in fiscal year 2026",
+        "score": 13,
+        "author": "Ok-Knowledge3177"
       },
       {
-        "body": "funny, WARP reminds me of a mistake I made with GDX years ago - bought a \"sector ETF\" without realizing how much single-stock risk was still baked in from the top 2-3 holdings. space ETFs have the same issue right now, SpaceX/Palantir-adjacent names probably dominate NAV in most of these even when the fund holds a dozen tickers.",
-        "score": 1,
-        "author": "Content_Analysis_346"
+        "body": "that ratio is the cleanest way to see it honestly. the other half of it is capex vs depreciation, oracle is at 7.3x. so not only are they outspending operating cash, most of the cost of what they’re building hasn’t reached the income statement yet either.",
+        "score": 3,
+        "author": "ArkD-Research"
       }
     ],
-    "summary_he": "כותב הפוסט מעוניין להקצות 20% מתיק ההשקעות שלו לתעודות סל (ETFs) אקטיביות המתמקדות בחברות חדשניות וטכנולוגיות משבשות, בשל סובלנותו הגבוהה לסיכון ואופק השקעה ארוך. הוא בוחן קרנות ספציפיות בתחומי החלל, הבינה המלאכותית ושילוב בין חברות ציבוריות לפרטיות (כמו XOVR ו-NASA), ומבקש המלצות נוספות להשקעות צמיחה אגרסיביות בעלות פוטנציאל רווח גבוה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות בשרשור, המציג 6 נקודות מבט וסנטימנטים שונים מהקהילה:\n\n*   **הערכת יתר של מניית VCX:** קיימת דעה כי מניית VCX ספגה ירידות משמעותיות אך היא עדיין יקרה מדי. ההמלצה היא להתרחק מהמניה עד שהמחיר יתקרב לטווח של 20-30 דולר, שכן הערך הנכסי הנקי (NAV) האמיתי שלה מוערך ב-15-20 דולר בלבד.\n*   **יתרונות בתוכניות חיסכון דרך המעסיק:** משקיעים מציינים לטובה את הגישה לקרנות צמיחה בניהול פעיל הזמינות לעיתים רק דרך תוכניות פנסיה של מעסיקים. קרנות אלו מיועדות למשקיעים מוסדיים ולא ניתן לרכוש אותן כתעודות סל (ETFs) רגילות בשוק החופשי.\n*   **שביעות רצון מקרנות מוסדיות ספציפיות:** הובעה שביעות רצון מהתשואות של קרנות כמו UC Growth Fund ו-HRSIX, המהוות דוגמה לכלים פיננסיים מוצלחים שאינם נגישים לכלל הציבור באופן ישיר.\n*   **אזהרה מפני \"סיכון מניה בודדת\" בתעודות סל מגזריות:** קיימת ביקורת על תעודות סל נושאיות (כמו WARP או GDX), שבהן המשקיע חושב שהוא קונה פיזור מגזרי, אך בפועל הקרן חשופה מאוד לתנודות של 2-3 האחזקות הגדולות ביותר שלה.\n*   **ריכוזיות גבוהה במגזר החלל:** מצוין כי תעודות סל העוסקות בתחום החלל סובלות כרגע מבעיית ריכוזיות, כאשר חברות הקשורות ל-SpaceX או Palantir דומיננטיות מאוד בערך הנכסי של הקרן, גם אם הקרן מחזיקה בעשרות ניירות ערך שונים.\n*   **למידה מטעויות עבר בבחירת קרנות:** הקהילה מדגישה את החשיבות של בחינת האחזקות הפנימיות של קרן (NAV) ולא רק את שם המגזר שהיא מייצגת. הניסיון מלמד שחוסר תשומת לב להרכב הקרן עלול להוביל להפסדים הנובעים מחשיפה לא מתוכננת למניות ספציפיות."
-  },
-  {
-    "id": "1v8mijf",
-    "title": "Does anyone have advice or tips on how to save money?",
-    "url": "https://www.reddit.com/r/finance/comments/1v8mijf/does_anyone_have_advice_or_tips_on_how_to_save/",
-    "author": "Manny2theMaxxx",
-    "score": 1,
-    "selftext": "Struggling to save money. Wanted to see if amy of you have any tips pr tricks on how to do that. Tha k you for your time.",
-    "subreddit": "finance",
-    "created_utc": 1785209488,
-    "thumbnail": "https://external-preview.redd.it/Jxl-rplIpJMg04fOtFiQ0LQt5QcGedY3rVFFeLLAJ_8.jpeg?width=140&height=73&auto=webp&s=f530ec7859e183b56894e573eb8fbfd097f7e776",
-    "top_comments": [
-      {
-        "body": "Notice accounts and reduced spending. \n\nIf not buying the thing doesn’t cause immediate detriment you probably didn’t need it. If you want Netflix, Hulu and Prime that’s okay, just be honest about the impact. This applies to everything from weekly shops to lottery tickets. \n\nNotice accounts make it harder to simply withdraw the saved balance, meaning the hard work lasts. ",
-        "score": 1,
-        "author": "chef_26"
-      },
-      {
-        "body": "Yes. The money you spend. Look at it. Look at it before you spend it. Then stop that spending from happening. Put the money in savings instead and don’t accept the thing you were going to spend money on live without it.",
-        "score": 1,
-        "author": "Rugaru985"
-      },
-      {
-        "body": "Review your monthly income and create a budget. Stick to your budget. See where you can cut expenses. Add an extra part time job. Part of your budget is savings. Always put that into a separate account from your spending account. You can set it up to auto draft from your account weekly. ",
-        "score": 1,
-        "author": "tinymeatsnack"
-      }
-    ],
-    "summary_he": "הפוסט נכתב על ידי אדם המתקשה לחסוך כסף ומחפש עצות ודרכים לשיפור המצב. הוא פנה לקהילת הגולשים בבקשה לקבל טיפים מעשיים או \"טריקים\" שיסייעו לו להתנהל נכון יותר ולהצליח לחסוך.",
+    "summary_he": "הפוסט מנתח את הזינוק בהוצאות ההוניות (capex) של ענקיות הטכנולוגיה, תוך התמקדות באורקל שהוציאה כ-82.6% מהכנסותיה על השקעות ורשמה תזרים מזומנים חופשי שלילי של כ-23.7 מיליארד דולר. הכותב מציין כי ברוב חברות ה-Big Tech נרשמה ירידה בתזרים המזומנים, ומזהיר כי השפעת הפחת על השקעות הענק הללו טרם באה לידי ביטוי מלא בדוחות הכספיים, מה שעלול להכביד על שולי הרווח בעתיד.",
     "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון והתובנות המרכזיות מהתגובות בשרשור, המוצגים ב-6 נקודות שונות:\n\n*   **הבחנה בין צרכים לרצונות:** אחת הדרכים המרכזיות לחיסכון היא בחינה ביקורתית של הצורך ברכישה. אם אי-קנייה של מוצר מסוים אינה גורמת לנזק מיידי, כנראה שמדובר ברצון ולא בצורך חיוני, וניתן לוותר עליו.\n*   **שימוש בחשבונות עם הגבלת משיכה (Notice Accounts):** מומלץ להשתמש בחשבונות חיסכון שדורשים הודעה מראש לפני משיכת הכספים. הקושי למשוך את הכסף באופן מיידי מסייע בשמירה על החיסכון לאורך זמן ומונע פיתויים של הרגע.\n*   **מודעות ויזואלית והחלטה מודעת:** לפני ביצוע רכישה, יש \"להסתכל\" על הכסף ועל ההוצאה בעיניים. במקום להוציא אותו, יש לבחור באופן אקטיבי לעצור, לחיות ללא המוצר ולהעביר את אותו סכום בדיוק לחיסכון.\n*   **ניהול תקציב קפדני וקיצוץ הוצאות:** יש לבצע סקירה מקיפה של ההכנסות החודשיות, לבנות תקציב מסודר ולהתחייב לעמוד בו. כחלק מכך, יש לבדוק היכן ניתן לקצץ בהוצאות קיימות ולהיות כנים לגבי ההשפעה הכלכלית של הוצאות קטנות או קבועות (כמו מנויים לשירותי סטרימינג או כרטיסי הגרלה).\n*   **הפרדה ואוטומציה של החיסכון:** מומלץ לנהל את החיסכון בחשבון נפרד לחלוטין מחשבון ההוצאות השוטף. כלי יעיל לכך הוא הגדרת העברות אוטומטיות קבועות (למשל ברמה שבועית) כך שהחיסכון יתבצע ללא צורך בהתערבות ידנית בכל פעם.\n*   **הגדלת הכנסות ככלי משלים:** מעבר לחיסכון בהוצאות, הדיון מדגיש את החשיבות של הגדלת תזרים המזומנים, למשל על ידי הוספת עבודה חלקית (משרה נוספת), כדי להגדיל את הסכום שניתן להפריש לחיסכון מדי חודש.",
-    "dateString": "2026-07-28",
-    "savedAt": {
-      "_seconds": 1785221807,
-      "_nanoseconds": 136000000
-    }
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וניתוחים שונים של המשתמשים:\n\n*   **חוסר רלוונטיות של יסודות השוק:** קיימת תחושה בקהילה שהשוק פועל כיום בצורה לא רציונלית, שבה הנתונים הכלכליים הבסיסיים (fundamentals) כבר לא קובעים את מחיר המניה, והמחירים ממשיכים לעלות ללא קשר למציאות הפיננסית.\n*   **קצב שריפת מזומנים מדאיג:** משתמשים מצביעים על כך שחברת אורקל (Oracle) מוציאה כספים בקצב גבוה מדי, דבר שעלול לסכן את יציבותה הפיננסית בטווח הארוך.\n*   **זינוק חד בהוצאות הוניות (Capex):** הוצג נתון המראה כי ההוצאות ההוניות כאחוז מתזרים המזומנים התפעולי של החברה זינקו בצורה קיצונית – מ-47% בשנת 2022 ל-174% חזוי בשנת 2026. המשמעות היא שהחברה מוציאה על השקעות הרבה יותר ממה שהיא מכניסה מפעילותה השוטפת.\n*   **היחס בין השקעות לפחת:** אחד המגיבים מדגיש כי היחס בין הוצאות הוניות לפחת עומד על פי 7.3, נתון הנחשב לחריג ומעיד על היקף השקעות מאסיבי בבנייה ותשתיות שטרם \"התיישנו\" חשבונאית.\n*   **השהיה בדיווח עלויות:** קיימת הבנה בקהילה שחלק גדול מהעלויות של הפרויקטים שהחברה בונה כעת עדיין לא הגיע לדוחות הרווח וההפסד (Income Statement), מה שעלול ליצור מצג שווא של רווחיות זמנית.\n*   **ספקנות וציניות כלפי המערכת:** הלך הרוח הכללי בשרשור משלב ניתוח טכני מעמיק יחד עם ציניות לגבי \"ציר הזמן\" הנוכחי של השוק, שבו נראה שחוקי הכלכלה הרגילים הושעו."
   },
   {
-    "id": "1v9kxum",
-    "title": "Yesterday most of the market actually went up.",
-    "url": "https://www.reddit.com/r/investing/comments/1v9kxum/yesterday_most_of_the_market_actually_went_up/",
+    "id": "1v8sjh0",
+    "title": "Are bond investors getting nervous about AI spending before stock investors?",
+    "url": "https://www.reddit.com/r/investing/comments/1v8sjh0/are_bond_investors_getting_nervous_about_ai/",
+    "author": "FailOk1528",
+    "score": 42,
+    "selftext": "I’ve been reading about how much debt large tech companies are issuing to fund AI, and I’m starting to wonder if the bond market is becoming more cautious before the stock market does.\n\nStock investors still seem willing to accept huge AI spending as long as revenue keeps growing. Bond investors, however, care more about whether these projects will generate enough cash to cover interest and refinancing costs.\n\nI’m not saying companies like Microsoft or Google are at risk of failing. My concern is that higher borrowing costs could make some less profitable data-center projects no longer worth building. That could eventually hurt GPU, memory, networking and power suppliers.\n\nMaybe wider credit spreads are simply caused by the large amount of new bonds entering the market. But could they also be an early warning that returns on AI spending are lower than investors expect?",
+    "subreddit": "investing",
+    "created_utc": 1785228600,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Also if bond investors are not as concerned, that should be an indicator that some of the cap ex fears may be over-played.",
+        "score": 13,
+        "author": "very_spooky_ghost"
+      },
+      {
+        "body": "Did *you* read the post, Mr. Rude?\n\nHe’s asking if that’s true or not about the bond market.",
+        "score": 5,
+        "author": "very_spooky_ghost"
+      },
+      {
+        "body": "that's the whole universe.\n\nhttps://x.com/Alpha_Ex_LLC/status/2081866964671111553",
+        "score": 4,
+        "author": "neck_iso"
+      }
+    ],
+    "summary_he": "הפוסט דן בחשש הגובר של משקיעי האג\"ח מהחובות הכבדים שחברות טכנולוגיה נוטלות למימון תשתיות בינה מלאכותית, זאת בניגוד לאופטימיות המופגנת בשוק המניות. הכותב תוהה האם עלויות המימון העולות יהפכו פרויקטים של מרכזי נתונים לפחות רווחיים, ורואה בכך סימן אזהרה אפשרי לכך שהתשואה על ההשקעה ב-AI נמוכה מהמצופה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן ניתוח של תגובות הגולשים מהשרשור, המסוכם ל-6 נקודות המציגות דעות, תובנות וסנטימנטים קהילתיים:\n\n*   **הערכת סיכוני הוצאות הון (CapEx):** קיימת דעה בקהילה שהחששות לגבי הוצאות הון מופרזות עשויים להיות מוגזמים, במיוחד אם בוחנים את תגובת השוק מזווית רחבה יותר.\n*   **שוק האג\"ח כאינדיקטור מרכזי:** הגולשים רואים בשוק האג\"ח ובמידת הדאגה של המשקיעים בו מדד אמין לבחינת אמיתות החששות הכלכליים; חוסר דאגה מצד משקיעי האג\"ח נתפס כאות הרגעה לשוק כולו.\n*   **דינמיקה קהילתית של עימות:** הדיון כולל אלמנטים של מתח בין אישי, המשתקף בהאשמות על חוסר נימוס (\"מר רוד\") וביקורת על כך שמשתתפים אינם קוראים לעומק את תוכן הפוסט המקורי לפני שהם מגיבים.\n*   **חיפוש אחר אימות עובדתי:** אחד המניעים המרכזיים בדיון הוא הניסיון לברר האם הטענות לגבי מצב שוק האג\"ח הן נכונות מבחינה עובדתית, ולא רק השערות תיאורטיות.\n*   **הסתמכות על מקורות חיצוניים ונתונים מקיפים:** הקהילה משתמשת בקישורים חיצוניים (כמו לרשת X) כדי לספק הקשר רחב יותר, כאשר ישנה התייחסות למידע מסוים ככזה המקיף את \"כל היקום\" של הנושא הנידון.\n*   **ספקנות כלפי נרטיבים קיימים:** קיים סנטימנט המעודד הטלת ספק בנרטיב ה\"פחד\" השולט, תוך ניסיון להצליב נתונים בין סוגי משקיעים שונים (מניות מול אג\"ח) כדי לקבל תמונה מאוזנת יותר."
+  },
+  {
+    "id": "1v943te",
+    "title": "What is your monthly investment plan?",
+    "url": "https://www.reddit.com/r/investing/comments/1v943te/what_is_your_monthly_investment_plan/",
+    "author": "kingbouncer",
+    "score": 38,
+    "selftext": "I am planning on investing €500 every month \n\nMy no more than 3 different ETFs, at least for now\n\n\\\\- 250 in VUSA (low risk)\n\n\\\\- 150 in exus.eu ( diversify outside USA)\n\n\\\\- 100 in EMIM (emerging markets can be a bit risky,but why not?\n\nReasoning behind it is to keep it balanced and spread out without being to thin of a spread. \n\nDo you have a plan or do you buy a world etf and forget about it?",
+    "subreddit": "investing",
+    "created_utc": 1785257525,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Which is extreme. Emerging markets should be 5-10%",
+        "score": 26,
+        "author": "Ezekielth"
+      },
+      {
+        "body": "Thats an extreme amount of emerging markets. Why not just by one single ETF that has a market weight of the entire market?",
+        "score": 26,
+        "author": "Ezekielth"
+      },
+      {
+        "body": "VT is pretty globally diversified.",
+        "score": 12,
+        "author": "lightlylevered"
+      }
+    ],
+    "summary_he": "כותב הפוסט מתכנן להשקיע 500 אירו בכל חודש בחלוקה בין שלוש קרנות סל (ETFs) המכסות את ארה\"ב, שווקים מפותחים מחוץ לארה\"ב ושווקים מתעוררים. מטרתו היא ליצור תיק השקעות מאוזן ומגוון גיאוגרפית, והוא מבקש לדעת האם משקיעים אחרים מעדיפים פיצול דומה או השקעה פשוטה בקרן עולמית אחת.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n* **ביקורת על חשיפה גבוהה לשווקים מתעוררים:** חלק מהמגיבים רואים בהקצאה גבוהה מדי של נכסים לשווקים מתעוררים (Emerging Markets) כמהלך \"קיצוני\" ולא מאוזן.\n* **המלצה לשיעור חשיפה שמרני:** מוצע כי הנתח הראוי של שווקים מתעוררים בתיק השקעות מגוון צריך לעמוד על טווח שבין 5% ל-10% בלבד מכלל התיק.\n* **העדפה לפשטות ניהולית:** קיימת עמדה הגורסת כי במקום לנסות להרכיב את התיק מחלקים רבים, עדיף לקנות קרן סל (ETF) אחת שכוללת את כל השוק.\n* **היצמדות למשקל השוק (Market Weight):** המגיבים מציעים שחלוקת הנכסים בתיק צריכה לשקף את המשקל האמיתי של כל שוק בכלכלה העולמית, במקום לתת משקל יתר ידני למגזרים מסוימים.\n* **תמיכה בקרן VT כפתרון אידיאלי:** הקרן VT (של חברת Vanguard) מוזכרת ככלי מומלץ להשגת פיזור גלובלי רחב במוצר אחד פשוט.\n* **דגש על פיזור גלובלי רחב:** הקהילה מדגישה את החשיבות של \"פיזור עולמי\" (Global Diversification) כאסטרטגיית ליבה, תוך הבעת ספק לגבי היתרונות שבהתמקדות מוגזמת בשווקים ספציפיים."
+  },
+  {
+    "id": "1v8zn08",
+    "title": "Looking at $DECK as a strong value play",
+    "url": "https://www.reddit.com/r/investing/comments/1v8zn08/looking_at_deck_as_a_strong_value_play/",
+    "author": "LectureForsaken6782",
+    "score": 4,
+    "selftext": "Ive been going through Schwab’s list of A picks this week and $\\`DECK stood out to me. Honestly, when I first saw the ticker I gad thought \"is this black and decker?\" It turns out the are the shoemaker behind Uggs and Hoka...I never got the appeal of uggs, but i knew Hoka were a good brand of running shoes but that was about it...looking behind the A rating on Schwab, i found a company that i decided to put a little of my own money in because im pretty impressed with what I found \n\nThe market is focused on tariffs, not fundamentals \n\nSince early 2025 share price has roughly been cut in half as investors woeey sbout tariffs and margin pressure. These concerns certainly are real i think the sell-off has gone too far. \n\nThe stock trades around 13x forward p/e, we'll below their historically average of 23x. For a company still expecting to grow revenue, this stood out to me like a sore thumb (or maybe a sore toe for a shoe brand lol) \n\nHoka is growing \n\nHoka grew nearly 16% last fiscal year\n\nManagement continues to expand the brand globally\n\nThe brand is taking share in the premium athletic footwear market\n\nHoka is expected to surpass ugg as their biggest brand \n\nUgg is still a strong brand \n\nUgg grew around 8% last year demonstrating that the brand had pricing power and loyalty \n\nMargins are still good \n\nTariffs will continue to pressure Margins in FY27 but evrn with expected compression, operating margins are projected around 22% vs 16% pre pandemic \n\nThis is important because revenue is growing, Margins remain above historical levels, and the company generates significant cash flow \n\nBalance sheet looks great \n\nNo debt\n\nApprox $1.6b in cadh Purchased $1.1b in stocks last year\n\nRecently authorized an additional \\`$3.5b in buybacks \n\nManagement had tremendous flexibility to continue returning capital while investing in growth \n\nValuation looks compelling\n\n• current p/e 13x\n\n• historical p/e 23x\n\n• analysts price targets around $\\`165\n\n• DCF estimates place intrinsic value around \\`$150\n\nI acknowledge there are weaknesses like the tariffs, possible supply chain disruptions, potential consumer spending weakness and Hoka may become too big a piece of the pie. \n\nIm definitely not advocating this as a buy and hold forever stock, but these details made it compelling enough to put some money in it",
+    "subreddit": "investing",
+    "created_utc": 1785247833,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "הפוסט מנתח את מניית $DECK (החברה שמאחורי המותגים Hoka ו-Ugg) כהזדמנות השקעה אטרקטיבית (\"Value Play\"), לאחר שמחירה נחתך בכחצי בשל חששות יתר מהשפעת המכסים. הכותב מדגיש כי החברה מציגה צמיחה חזקה, שולי רווח גבוהים ומאזן כספי חסון ללא חובות, בעוד שהיא נסחרת במכפיל רווח נמוך משמעותית מהממוצע ההיסטורי שלה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1v98p1e",
+    "title": "Looking at AAOI and MRVL for the AI photonics buildout",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1v98p1e/looking_at_aaoi_and_mrvl_for_the_ai_photonics/",
+    "author": "mm_newsletter",
+    "score": 3,
+    "selftext": "AAOI and MRVL keep coming up because AI data centers need faster links between all those chips. Copper still carries plenty of the load. At higher speeds and longer distances it gets hotter and harder to use. That is where optics start to matter.\n\n\n\nAAOI is the wild one. It makes transceivers, lasers and light engines. The company manufactures most of its laser chips in Texas. Revenue went from $217.6M in 2023 to $455.7M in 2025. It still lost $38.2M last year.\n\n\n\nThe customer mix is rough. Digicomm was 53.1% of 2025 revenue. Microsoft was another 28.8%. One buyer changing plans could do real damage.\n\n\n\nMarvell is larger and covers more ground. Its latest quarter had $1.83B of data-center revenue, up 27% from a year ago. That was 76% of total revenue. It sells optics, Ethernet switches and custom XPU-related parts.\n\n\n\nSize doesn’t remove the risk. Design wins can move around. Marvell also closed the Celestial AI and XConn acquisitions in February, so there’s integration work ahead.\n\n\n\nAAOI could move harder if production ramps cleanly. One customer change could also wreck the setup.\n\n\n\nSources:\n\n[https://investors.ao-inc.com/node/16686/html](https://investors.ao-inc.com/node/16686/html)\n\n[https://investor.marvell.com/news-events/press-releases/detail/1023/marvell-technology-inc-reports-first-quarter-of-fiscal-year-2027-financial-results](https://investor.marvell.com/news-events/press-releases/detail/1023/marvell-technology-inc-reports-first-quarter-of-fiscal-year-2027-financial-results)",
+    "subreddit": "StockMarket",
+    "created_utc": 1785267147,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "הפוסט בוחן את החברות AAOI ו-MRVL כהזדמנויות השקעה בתחום התקשורת האופטית למרכזי נתונים של AI, תחום שהופך לקריטי ככל שהדרישה למהירות גדלה והשימוש בנחושת הופך למאתגר. בעוד ש-AAOI מציגה צמיחה מהירה אך סובלת מהפסדים ומתלות מסוכנת במספר לקוחות קטן, מארוול (MRVL) היא שחקנית גדולה ומבוססת יותר עם הכנסות משמעותיות, אם כי היא מתמודדת עם אתגרי מיזוג ושינויים בתכנון שבבים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1vakwym",
+    "title": "Does the Fed decision even matter if the 30-year stays above 5%?",
+    "url": "https://www.reddit.com/r/investing/comments/1vakwym/does_the_fed_decision_even_matter_if_the_30year/",
     "author": "FailOk1528",
     "score": 1,
-    "selftext": "The Dow gained 537 points and the S&P 500 finished slightly higher, while the Nasdaq fell. Coca-Cola, Sherwin-Williams and Illinois Tool Works all had strong days, but Micron, AMD and Applied Materials dropped around 8–9%.\n\nFor years, one of the biggest complaints about the market was that too much of the index depended on AI and a small number of tech companies.\n\nNow money appears to be moving into industrials, consumer names and other less-loved parts of the market while semiconductors sell off.\n\nIs this healthy market broadening, or are investors simply hiding in safer sectors before the Fed decision and Big Tech earnings?",
+    "selftext": "The Fed held rates yesterday, but the 30-year Treasury still moved to around 5.23%, the highest level since 2007.\n\nMost of the discussion I’m seeing is still about whether the Fed hikes another 25bp in September. I’m starting to wonder how much that actually matters if long-term borrowing costs are already above 5%.\n\nThat seems like a bigger issue for mortgages, REITs and heavily indebted companies than one more small Fed move.\n\nBanks are the part I’m less sure about. A steeper curve should help in theory, but higher funding costs and weaker borrowers could offset that.\n\nAm I putting too much weight on the 30-year yield here? What parts of the market would be hit hardest if it stayed above 5% for another year?",
     "subreddit": "investing",
-    "created_utc": 1785297345,
+    "created_utc": 1785390800,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "right now, money is just bouncing back and forth between tech (specifically, semiconductors and other ai-adjacent stocks) and \"safer\" traditional companies (brkb, ko, pg, pm, mo, ...) / \"safer\" tech (aapl, goog nvda).  even terrible saas stocks like intu and adbe have seen money flow into them on the days semiconductor stocks are down.\n\nthe market isn't healthy - it's just moving money around from one sector to another on a daily basis.  that's why the s&p500, dow jones, and nasdaq are effectively flat over the last month.\n\nthe tech sector has been dominated by semiconductors and other ai bubble stocks over the last year - they have become heavily overbought and now are being rightfully sold off. \n\nthere's probably no good reason for money to flow back into these stocks for a long time.",
-        "score": 24,
-        "author": "gbdgdh"
+        "body": "This may be less about one additional Fed move and more about how long elevated borrowing costs persist. Refinancing schedules, credit spreads and mortgage activity could provide a clearer signal than the next meeting alone.",
+        "score": 1,
+        "author": "ETP_Queen"
       },
       {
-        "body": "I do hope the semis and other data center Infra stocks rebound.",
-        "score": 5,
-        "author": "Jakkoby_"
+        "body": "Short-term rates matter. The long-bond market is showing that it thinks inflation will be higher for longer because the Fed isn't raising short-term rates.",
+        "score": 1,
+        "author": "Str8truth"
       },
       {
-        "body": "Definitely seeing the rotation out of SEMIs broadening. I think the cyclical B2B investments and payments are starting to hit, but it’s also just selling off the fresh euphoria. I wouldn’t be surprised to see the micron’s and AMD’s back to their highs again by end of the year. \n\nI especially still like the AMATs cause they’re where capital gets funneled. So even as the AI business case further teeters, a lot of capex has already been spent. ",
-        "score": 5,
-        "author": "Poles_Pole_Vaults"
+        "body": "Why would you buy them now when rates will be going up later this year? ",
+        "score": 1,
+        "author": "Black-Raspberry-1"
       }
     ],
-    "summary_he": "הפוסט מתאר שינוי מגמה בשוק ההון, שבו מדדי הדאו ג'ונס וה-S&P 500 עלו בזכות התחזקות מגזרי התעשייה והצריכה, בעוד שמניות הטכנולוגיה והשבבים (כמו AMD ומיקרון) רשמו ירידות חדות. המעבר של כספים מחברות ה-AI הגדולות לתחומים מסורתיים יותר מעלה את השאלה האם מדובר בהתרחבות בריאה של השוק או בחיפוש \"מקלט בטוח\" לקראת החלטת הריבית ודוחות ענקיות הטכנולוגיה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **רוטציה בשוק בין מגזרים:** הכסף בשוק אינו יוצא החוצה אלא \"מדלג\" הלוך וחזור בין מניות טכנולוגיה (בדגש על שבבים ו-AI) לבין מניות \"בטוחות\" ומסורתיות יותר (כמו ברקשייר האת'ווי, קוקה-קולה ופרוקטר אנד גמבל) או חברות טכנולוגיה יציבות (אפל וגוגל).\n*   **ספקות לגבי בריאות השוק:** השוק נתפס כלא בריא כרגע; העובדה שהמדדים המרכזיים (S&P 500, נאסד\"ק ודאו ג'ונס) נותרו ללא שינוי מהותי בחודש האחרון מעידה על כך שהכסף פשוט מחליף ידיים בין סקטורים במקום לייצר צמיחה אמיתית.\n*   **התפוצצות \"בועת ה-AI\":** קיימת תחושה שמניות השבבים והטכנולוגיה היו במצב של \"קניית יתר\" (overbought) בשנה האחרונה עקב אופוריית ה-AI, והמכירות המסיביות שרואים כעת הן תיקון מוצדק והכרחי.\n*   **פסימיות לגבי חזרת הכספים לטכנולוגיה:** יש הסבורים כי אין סיבה טובה שהכסף יחזור לזרום למניות ה-AI והשבבים בזמן הקרוב, וכי המגמה הזו עשויה להימשך תקופה ארוכה.\n*   **תקווה להתאוששות ותחזית אופטימית לסוף השנה:** בניגוד לקולות הפסימיים, ישנם משקיעים המביעים תקווה להתאוששות במניות השבבים ותשתיות הדאטה, ואף צופים שחברות כמו AMD ומיקרון יחזרו לשיאים שלהן עד סוף שנת 2024.\n*   **התמקדות בהשקעות הון קיימות (Capex):** עולה העדפה לחברות כמו Applied Materials (AMAT) המהוות יעד להשקעות הון גדולות שכבר הוקצו. הטענה היא שגם אם המודל העסקי של ה-AI יתערער, הכסף כבר הושקע בתשתיות הפיזיות הללו, מה שהופך אותן להשקעה אטרקטיבית יותר."
+    "summary_he": "הפוסט מעלה תהייה האם להחלטות הריבית של הפד יש עדיין משמעות, כאשר התשואות על אג\"ח ל-30 שנה נותרות מעל 5% ומשפיעות על עלויות המימון לטווח ארוך. הכותב מעריך כי רמות אלו פוגעות במגזר הנדל\"ן ובחברות ממונפות יותר מאשר העלאות ריבית קטנות, ותוהה אילו חלקים בשוק ייפגעו הכי קשה אם התשואות יישארו גבוהות לאורך זמן.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **התמקדות בהמשכיות ולא בנקודת זמן:** הדעה המרכזית היא שאין לייחס חשיבות יתרה להעלאת ריבית בודדת נוספת של הפד, אלא יש לבחון כמה זמן יישארו עלויות הלוואה גבוהות (Elevated borrowing costs) לאורך זמן.\n*   **אינדיקטורים חלופיים להחלטות הריבית:** קיימת הערכה כי מדדים כמו לוחות זמנים למיחזור חובות (Refinancing), מרווחי אשראי ופעילות בשוק המשכנתאות מספקים איתותים ברורים יותר על מצב הכלכלה מאשר עצם ההחלטה בפגישת הפד הבאה.\n*   **חשיבותן של הריביות לטווח קצר:** עולה הטענה כי לריביות לטווח קצר יש השפעה מכרעת על השוק, וכי הן מהוות כלי מרכזי שאין להתעלם ממנו.\n*   **איתותים משוק האג\"ח לטווח ארוך:** משתתפים מציינים כי שוק איגרות החוב לטווח ארוך משקף חשש שהאינפלציה תישאר גבוהה למשך זמן רב (\"Higher for longer\"), בעיקר בשל התחושה שהפד אינו מעלה את הריביות לטווח קצר בצורה אגרסיבית מספיק.\n*   **ספקנות לגבי תזמון השקעות (Market Timing):** בקרב הקהילה עולה השאלה מדוע לרכוש איגרות חוב כעת, כאשר קיימת ציפייה בשוק שהריביות ימשיכו לעלות בהמשך השנה, מה שיהפוך את הרכישה הנוכחית לפחות משתלמת.\n*   **הקשר בין מדיניות הפד לציפיות האינפלציה:** קיים סנטימנט המקשר ישירות בין חוסר הפעולה של הפד בריביות הקצרות לבין חוסר האמון של השוק ביכולת לרסן את האינפלציה בטווח הרחוק."
   },
   {
-    "id": "1v9aiwk",
-    "title": "22, Nervous about Risks / ETF vs Individual Stocks",
-    "url": "https://www.reddit.com/r/investing/comments/1v9aiwk/22_nervous_about_risks_etf_vs_individual_stocks/",
-    "author": "Electronic_Hearing49",
+    "id": "1vagm9w",
+    "title": "Dividend route or individual stocks?",
+    "url": "https://www.reddit.com/r/investing/comments/1vagm9w/dividend_route_or_individual_stocks/",
+    "author": "FrigginMasshole",
     "score": 1,
-    "selftext": "I’m 22 and currently have around $15k invested, mostly in VOO and QQQM. I contribute consistently and plan on holding long term.\n\nI keep hearing people say that if you want to become seriously wealthy, you need to pick individual stocks and that ETFs won’t get you there. I understand individual stocks have more upside, but I also don’t want to take unnecessary risk trying to find the “next NVIDIA” and potentially lose a large amount of money.\n\nFor people who have been investing for a long time, did you stick primarily with index funds or eventually add individual stocks? If you did add them, what percentage of your portfolio did you allocate to them?\n\nI’m not looking to get rich overnight. I’m mainly wondering whether I’m being too conservative by sticking with VOO/QQQM at my age.",
+    "selftext": "Long story short I have a vested state pension, currently working in another state with that pension, a 457 i contribute very minimal to, and a Roth. \n\nI wouldn’t say my roth is my main retirement account, but I contribute $100/mo anyways. I don’t know if I should invest in SCHD or other dividend funds, or individual stocks. If this Roth is like a side piece for my retirement what’s the best? Growth or dividend growth?\n\nAlso, please don’t mention QQQ, VTI or any of those. I already know about them lol",
     "subreddit": "investing",
-    "created_utc": 1785271300,
+    "created_utc": 1785378012,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Then you probably want to stop thinking small. Plow your profit back into your business and grow it. Grow it till you can sell it for $10M in today's dollars. Then take that money, put it into a diversified portfolio of low cost stock and index funds and retire in comfort.",
-        "score": 9,
-        "author": "VerdantPathfinder"
+        "body": "Jesus. This 1985 again? What is up with this dividend nonsense.",
+        "score": 2,
+        "author": "inailedyoursister"
       },
       {
-        "body": "You're 22. You have $15K invested. \n\nThe average S&P500 return, historically, is \\*about\\* 10%. By rule of 72, that means you'll double your investment every 7.2 years. Multiply that by 5... That's 36 years, when you'd be 58. Your money will double 5 times by the time you're 58. \n\nYour $15K will be $480K. If you didn't contribute another dime. Can you contribute another $15K next year? If so, that's another $480K at 59. Another the next year? Boom. $480K at 60. Another? $480K more at 61. You're almost to 2M at 61 based PURELY on dollars invested by the time you're 26. \n\nCompounding is amazing. Let it do the work. ",
-        "score": 7,
-        "author": "betarhoalphadelta"
+        "body": "If you refuse broad coverage index funds for some reason, look into factor investing and the difference between compensated and uncompensated types of risk.\n\nA few links to help get started:\nFactor investing starting points:\n\n* https://www.investopedia.com/terms/f/factor-investing.asp\n\n* https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/fidelity/fidelity-overview-of-factor-investing.pdf (PDF)\n\n* https://www.cbsnews.com/news/the-black-hole-of-investing/\n\n* https://www.dimensional.com/ca-en/insights/when-its-value-versus-growth-history-is-on-values-side\n\nA dividend fund wouldn't be on my list, but some people may use it for \"indirect\" exposure to some favored factors (my view is why not use a proper factor fund instead?).\n\nAnd:\n* https://www.whitecoatinvestor.com/uncompensated-risk/\n>An uncompensated risk is a risk that you can diversify against.\n\n* https://www.northerntrust.com/middle-east/insights-research/2024/wealth-management/compensated-portfolio-risk or if that doesn't work, the archive link: https://web.archive.org/web/20260107205255/https://www.northerntrust.com/middle-east/insights-research/2024/wealth-management/compensated-portfolio-risk\n>But not all risks are compensated with an expected return premium.\n\n* https://www.pwlcapital.com/is-investing-risky-yes-and-no/ (Bold mine)\n>Uncompensated risk is very different; it is the risk specific to an **individual company,** sector, or country.",
+        "score": 2,
+        "author": "Cruian"
       },
       {
-        "body": "Voo and qqq are fine\nYou can also buy some stocks to add more to your portfolio \n\nI have 30 stocks and some etfs\n\nUnless you know how to pick stocks\nFunds are your best choice \n\nTime is on your side either way",
-        "score": 7,
-        "author": "HammerDownl"
+        "body": "So you know about VTI but actively choose to ignore them. Sounds pretty dumb to me",
+        "score": 1,
+        "author": "Immediate-Run-7085"
       }
     ],
-    "summary_he": "משקיע בן 22 המחזיק בקרנות סל (VOO ו-QQQM) מתלבט אם עליו לשלב מניות בודדות בתיק ההשקעות כדי להשיג תשואות גבוהות יותר ולהגיע לעושר משמעותי. הוא חושש שהתמקדות במדדים רחבים בלבד היא אסטרטגיה שמרנית מדי לגילו, אך מצד שני הוא מעדיף להימנע מהסיכונים הכרוכים בניסיון \"לנחש\" מה תהיה המניה המנצחת הבאה.",
+    "summary_he": "הכותב מתלבט לגבי אסטרטגיית ההשקעה בחשבון ה-Roth IRA שלו, המהווה רכיב משני בחיסכון הפנסיוני הכולל שלו לצד פנסיה תקציבית. הוא שואל האם כדאי להתמקד במניות בודדות או בקרנות דיבידנדים (כמו SCHD), ותוהה האם עדיף לבחור במסלול של צמיחה או צמיחת דיבידנדים תוך הימנעות ממדדים מוכרים כמו VTI או QQQ.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ועצות מרכזיות של הקהילה:\n\n*   **חשיבה בקנה מידה גדול והשקעה בעסק:** אחת הגישות המרכזיות היא להפסיק \"לחשוב בקטן\". מומלץ להשקיע את הרווחים בחזרה בעסק כדי להצמיח אותו באופן משמעותי, במקום להסתפק ברווחים מיידיים קטנים.\n*   **אסטרטגיית יציאה (Exit) ופרישה:** המטרה המוצעת היא להגדיל את שווי העסק עד לנקודה שבה ניתן למכור אותו בסכום משמעותי (לדוגמה 10 מיליון דולר), ואז להעביר את ההון לתיק השקעות מגוון במדדים בעלי עלות נמוכה לצורך פרישה נוחה.\n*   **כוחה של הריבית דריבית:** הקהילה מדגישה את היתרון האדיר של השקעה בגיל צעיר (כמו גיל 22). בזכות אפקט הריבית דריבית, סכום ראשוני של 15,000 דולר יכול לצמוח לכמעט חצי מיליון דולר עד גיל 58, גם ללא הפקדות נוספות.\n*   **כלל ה-72 ותשואות היסטוריות:** נעשה שימוש ב\"כלל ה-72\" כדי להמחיש שבהתבסס על תשואה ממוצעת של כ-10% במדד ה-S&P 500, הכסף מכפיל את עצמו בערך כל 7.2 שנים. הבנה זו קריטית לתכנון פיננסי ארוך טווח.\n*   **חשיבות ההתמדה והפקדות מוקדמות:** הודגש כי הפקדות רציפות בשנות ה-20 המוקדמות (למשל 15,000 דולר בכל שנה למשך מספר שנים) יכולות להצטבר להון של מיליוני דולרים עד גיל 60, מה שמעיד על כך שהזמן הוא המשאב היקר ביותר של המשקיע.\n*   **בחירת אפיקי השקעה (מדדים מול מניות בודדות):** קיימת הסכמה שקרנות סל רחבות כמו VOO (מדד S&P 500) או QQQ (מדד נאסד\"ק 100) הן בחירות מצוינות. הקהילה ממליצה להיצמד לקרנות מדד אלא אם כן למשקיע יש ידע וניסיון ספציפי בבחירת מניות בודדות (Stock Picking)."
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג את מגוון הדעות והתחושות של חברי הקהילה בנוגע לאסטרטגיות השקעה:\n\n*   **התנגדות עזה להשקעה מבוססת דיבידנדים:** חלק מהמגיבים רואים באסטרטגיית הדיבידנדים גישה מיושנת שאינה רלוונטית לשוק המודרני, תוך השוואתה ל\"שטויות משנת 1985\".\n*   **עדיפות מוחלטת למדדי שוק רחבים:** קיימת הסכמה רחבה שקרנות סל העוקבות אחר מדדים רחבים (כמו VTI) הן ברירת המחדל המועדפת, וסטייה מהן נתפסת לעיתים כהחלטה לא רציונלית.\n*   **המלצה על \"השקעת פקטורים\" (Factor Investing):** עבור משקיעים שמחפשים אלטרנטיבה למדדים הרחבים, מוצע לבחון השקעה מבוססת פקטורים (כמו ערך או צמיחה) כדרך מדעית ומבוססת יותר להשגת תשואה עודפת מאשר התמקדות בדיבידנדים.\n*   **הבחנה בין סוגי סיכונים:** הדיון מדגיש את החשיבות של הבנה בין \"סיכון מתוגמל\" (סיכון שהשוק צפוי לפצות עליו בתשואה גבוהה יותר) לבין \"סיכון לא מתוגמל\".\n*   **ביקורת על חוסר פיזור (סיכון לא מתוגמל):** נטען כי התמקדות במניות בודדות, בסקטור ספציפי או במדינה אחת בלבד היא סיכון מיותר שניתן לבטל באמצעות פיזור, ולכן אין היגיון כלכלי בנשיאת סיכון זה.\n*   **תסכול כלפי בחירות השקעה \"לא יעילות\":** ניכרת נימה של זלזול וביקורת מצד הקהילה כלפי משקיעים המכירים את האופציות הפשוטות והיעילות (כמו מדדי שוק רחבים) אך בוחרים במודע באסטרטגיות שנחשבות פחות טובות או פחות יעילות מבחינת מס ותשואה."
   },
   {
-    "id": "1v97zqa",
-    "title": "IBKR after 1 month of usage",
-    "url": "https://www.reddit.com/r/investing/comments/1v97zqa/ibkr_after_1_month_of_usage/",
-    "author": "Willing-Actuator-509",
+    "id": "1vaejfl",
+    "title": "Why many people shouldn't invest in stocks/bonds.",
+    "url": "https://www.reddit.com/r/investing/comments/1vaejfl/why_many_people_shouldnt_invest_in_stocksbonds/",
+    "author": "ElijahNSRose",
     "score": 1,
-    "selftext": "This is Reddit. Not Quora. I don't have a question. I just want to share my experience with IBKR after 1 month using it in Greece. I used to be a Degiro customers the last two years and I was very satisfied with the platform. Switching to IBKR was a very difficult transition for me. I had issues understanding how the platform works. Now, a month later, that I managed to do several transactions, I'm very satisfied with the platform and especially with the desktop app. The configuration and options it gives is much better than anything else I tried so far. I would recommend it to anybody that want to deep dive to the stock market and to investing.",
+    "selftext": "To be clear, I'm not discrediting the power of compound interest in your savings, I'm saying the average consumer probably shouldn't.\n\nThe first reason is many people are young and broke and even if they have a little free money they could invest, they might have something they can spend it on now that will make them happier then the extra money later.\n\nThe second reason is the fees in investing are partially independent from account size, so the small your savings is in absolute terms the less appealing the market is.\n\nThe third reason is many consumers are better off on the opposite side of the trade: Borrowing money and paying it back as quickly as possible to get the things they need. I.E. A man might start with no house, no trade, and no car, but by the power of financing and paying more than the minimum amount every month he may retire with all the above.\n\nAnd the fourth reason is many people are better off with real-world investment. I.E. you may be a farmer and deck your farm out with better equipment over time. Or you may be a handyman and build up a big truck full of nice tools. Those things have returns hard to compute, but they can easily be better than stock returns if used well.",
     "subreddit": "investing",
-    "created_utc": 1785265643,
+    "created_utc": 1785372405,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "I had a chicken wrap. It was okay, but not spectacular. Thanks for asking!",
-        "score": 7,
-        "author": "Coral-Diver"
+        "body": "> I said not everyone should invest in stocks.\n\nOk\n\n>Advice is a noun that means an opinion, guidance, or a suggestion given to someone about what they should do or how they should act in a specific situation.\n\n\nHmmmmmmmm",
+        "score": 8,
+        "author": "dbag127"
       },
       {
-        "body": "This sub doesn't exist ONLY for questions, per the rules of the sub, and information about platforms and tools is as useful as anything else that anyone posts in a comment.",
+        "body": "In a sub full of bad advice, this is actually impressive for how bad it is!",
+        "score": 6,
+        "author": "overitallofittoo"
+      },
+      {
+        "body": "You have no idea what you are talking about.\n\nFees partially independent of account size? That stopped 20 years ago.\n\nBorrowing money? Interest rates are horrid now, especially for someone without credit.\n\n",
         "score": 5,
-        "author": "Messyfingers"
-      },
-      {
-        "body": "The good thing about IBKR is it’s easy NOT to lose money. There are no hype stuff, there is proper research/news available and easy to put stop loss, profit taking, etc. Extremely satisfied after coming from Trading212.",
-        "score": 4,
-        "author": "SuccessfulSir9611"
+        "author": "steelfork"
       }
     ],
-    "summary_he": "כותב הפוסט משתף את ניסיונו לאחר חודש של שימוש ב-IBKR, ומציין כי למרות קשיי הסתגלות ראשוניים לאחר המעבר מ-Degiro, הוא כעת מרוצה מאוד. הוא משבח במיוחד את אפליקציית המחשב ואת אפשרויות ההגדרה הרבות שהיא מציעה, וממליץ על הפלטפורמה למשקיעים המעוניינים להעמיק בשוק ההון.",
+    "summary_he": "הפוסט טוען כי השקעה בשוק ההון אינה מתאימה לכולם, במיוחד לצעירים בעלי הון מוגבל שעדיף להם לנצל את כספם לצרכים מידיים או לכיסוי חובות בתנאי מימון. במקום זאת, הכותב ממליץ להתמקד בהשקעות \"בעולם האמיתי\", כמו רכישת ציוד מקצועי או כלים לעבודה, שעשויים להניב תשואה גבוהה ומוחשית יותר מאשר מניות או אג\"ח.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, הכולל 6 נקודות מבט ורגשות שעלו בקהילה:\n\n*   **שיתוף חוויות יומיומיות ושגרתיות:** אחד המשתתפים בחר לשתף פרט אישי ולא קשור לנושא המרכזי (ארוחת טורטייה עוף), ותיאר אותה כחוויה בינונית למדי (\"בסדר, אך לא מרהיבה\").\n*   **הבהרה לגבי חוקי ומטרת הפורום:** עלתה טענה כי הקהילה אינה מיועדת אך ורק להפניית שאלות, וכי שיתוף מידע הוא חלק בלתי נפרד מהפעילות בה על פי הכללים.\n*   **חשיבות המידע על כלים ופלטפורמות:** הובעה דעה שמידע טכני על פלטפורמות עבודה וכלים דיגיטליים הוא בעל ערך רב ומועיל למשתמשים באותה מידה כמו כל תוכן אחר.\n*   **העדפת יציבות על פני \"הייפ\":** קיימת הערכה לפלטפורמות (כמו IBKR) שאינן מקדמות טרנדים חולפים או השקעות המבוססות על רעש תקשורתי, אלא מתמקדות בנתונים.\n*   **חשיבות הנגישות לכלי ניהול סיכונים:** אחד המשתמשים ציין לחיוב את הקלות שבה ניתן להשתמש בפקודות לעצירת הפסד (Stop Loss) ומימוש רווחים, מה שמסייע לשמור על הכסף.\n*   **שביעות רצון ממעבר בין שירותים:** עלה רגש של סיפוק רב מצד משתמש שעבר מפלטפורמת Trading212 ל-IBKR, תוך הדגשת היתרונות של מחקר ראוי וחדשות זמינות בפלטפורמה החדשה."
+    "comments_summary_he": "להלן סיכום הדיון והתגובות בשרשור, המציג 6 נקודות מבט וסנטימנטים בולטים בקהילה:\n\n*   **ביקורת על איכות התוכן:** הקהילה מביעה זלזול עמוק בפוסט המקורי, כאשר אחד המגיבים מציין שגם בפורום שידוע בעצות גרועות, הפוסט הזה מצליח להתעלות ברמתו הנמוכה (\"מרשים כמה שזה גרוע\").\n*   **הטלת ספק בידע המקצועי:** קיים סנטימנט חזק של חוסר אמון בכותב הפוסט. המגיבים טוענים בנחרצות כי לכותב \"אין מושג על מה הוא מדבר\" ושהוא מציג חוסר הבנה בסיסי בתחום.\n*   **הפרכת נתונים על עמלות:** המגיבים מצביעים על מידע שגוי או מיושן בפוסט המקורי; למשל, הטענה שדמי ניהול או עמלות אינם תלויים בגודל החשבון נדחית כרלוונטית לפני 20 שנה אך לא לימינו.\n*   **התנגדות למינוף והלוואות:** הקהילה מבקרת בחריפות את הרעיון של לקיחת הלוואות לצורך השקעה, במיוחד בסביבת הריבית הנוכחית שהופכת צעד כזה למסוכן ולא משתלם.\n*   **התייחסות לדירוג אשראי:** המגיבים מדגישים את הקושי המעשי של אנשים ללא היסטוריית אשראי לקבל תנאי הלוואה סבירים, נקודה שכותב הפוסט ככל הנראה התעלם ממנה.\n*   **לעג לסגנון הכתיבה וההגדרות:** חלק מהתגובות משתמשות בסרקזם כלפי הניסיון של הכותב להגדיר מונחים בסיסיים (כמו המילה \"עצה\") או לקבוע הצהרות גורפות לגבי מי צריך להשקיע במניות, מה שנתפס כהתנשאות לא מבוססת."
+  },
+  {
+    "id": "1vabxqk",
+    "title": "Double checking a co-workers investing advice",
+    "url": "https://www.reddit.com/r/investing/comments/1vabxqk/double_checking_a_coworkers_investing_advice/",
+    "author": "thrawn819",
+    "score": 1,
+    "selftext": "I'm finally at a point financially where I can start investing. I'll have $500/month to invest. My coworker, who seems to be somewhat knowledgeable, recommended putting 20% into each of the following. She said it was a good balance.\n\nFZROX\n\nFITLX\n\nFGRIX\n\nFDGFX\n\nFSGGX\n\nWould anyone be kind enough to provide insight into what her thought process is on these?\n\nThis will be for retirement. I don't have a 401k at my job. I will be getting a pension, so this would be to supplement it. 38 years old.",
+    "subreddit": "investing",
+    "created_utc": 1785365805,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Some are a little repetitive.  All you’d really need is FZROZ (a zero expense US stock index fund) and FSGGX (an ex-US “international” stock index).\n\nThe second is a sustainability fund but many of the stocks are already in FZROZ.  The other two are “growth and income” and “dividend growth” which again have most of the stocks as FZROZ except chosen for dividends.  Maybe one of those for a little less volatility but the FSGGX will likely take care of that. \n\nNow all of these are in stocks and the reason they return a lot most years is because they are riskier than bonds.  Stocks are ownership shares that depend on mostly growth of said shares with maybe some dividends that may change ..  vs bonds (or investment-grade bond funds) are loans with regular payments (interest) culminating in the return of the original investment principal.  Bondholders have seniority over stockholders so in the unlikely event a company gets liquidated bond holders get paid off first, and common stock holders are typically left with nada. ",
+        "score": 7,
+        "author": "IronyElSupremo"
+      },
+      {
+        "body": "Thank you for the response! I will definitely spend some time exploring your suggestions ",
+        "score": 2,
+        "author": "thrawn819"
+      },
+      {
+        "body": "That's true, because my logic for buying was very simple: I believed that American technology was the strongest.",
+        "score": 1,
+        "author": "WitnessReady7616"
+      }
+    ],
+    "summary_he": "בן 38 המעוניין להשקיע 500 דולר בחודש כתוספת לקצבת הפרישה שלו מבקש חוות דעת על המלצה שקיבל מעמיתה לעבודה. ההמלצה כוללת חלוקה שווה של התקציב בין חמש קרנות נאמנות שונות של חברת פידליטי (Fidelity), והוא מחפש להבין את ההיגיון האסטרטגי שעומד מאחורי תמהיל זה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, הכולל 7 נקודות מרכזיות, דעות ותובנות שעלו מהתגובות:\n\n*   **המלצה לפישוט התיק וצמצום כפילויות:** המגיב המרכזי טוען שהתיק הנוכחי כולל קרנות שחוזרות על עצמן. לדעתו, אין צורך בריבוי קרנות וניתן להסתפק בשילוב של שתי קרנות מדד מרכזיות בלבד: קרן לשוק האמריקאי (כדוגמת FZROZ ללא דמי ניהול) וקרן לשוק הבינלאומי (FSGGX).\n*   **ביקורת על קרנות נושאיות (קיימות ודיבידנדים):** נטען כי קרנות המתמקדות בקיימות (Sustainability) או בצמיחת דיבידנדים כוללות ברובן את אותן המניות שכבר קיימות במדד השוק הרחב. לפיכך, הן אינן תורמות לגיוון אמיתי אלא בעיקר חוזרות על אחזקות קיימות.\n*   **ניהול תנודתיות:** בעוד שקרנות דיבידנד נבחרות לעיתים כדי להפחית את תנודתיות התיק, המגיב מציע שחשיפה לשוק הבינלאומי (חוץ-אמריקאי) יכולה לספק מענה דומה של איזון סיכונים.\n*   **הבחנה בין מניות לאגרות חוב (אג\"ח):** הדיון מדגיש שמניות הן רכיב מסוכן יותר המבוסס על בעלות וציפייה לצמיחה, בעוד שאג\"ח הן למעשה הלוואות המעניקות תשלומים קבועים (ריבית) והחזר קרן, ולכן הן נחשבות לנכס בטוח יותר.\n*   **סדרי קדימות במקרה של פירוק חברה:** נקודה חשובה שהועלתה היא שלמחזיקי אג\"ח יש עדיפות משפטית על פני בעלי מניות. במקרה של פשיטת רגל, בעלי החוב יקבלו את כספם ראשונים, בעוד שבעלי המניות עלולים להישאר ללא כלום.\n*   **חשיפת הטיות השקעה אישיות:** אחד המשתתפים שיתף שההיגיון שהנחה אותו בבניית התיק היה פשוט ואולי מוטה – האמונה שהטכנולוגיה האמריקאית היא החזקה ביותר בעולם, מה שהוביל לריכוז השקעות בתחום זה.\n*   **דינמיקה קהילתית של למידה:** התגובות מראות על נכונות של חברי הקהילה להודות בטעויות או בחוסר ידע, להודות על עצות מקצועיות ולבחון מחדש את האסטרטגיה שלהם בעקבות פידבק מהקבוצה."
   }
 ];
