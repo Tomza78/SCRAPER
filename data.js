@@ -1,177 +1,127 @@
 window.dailyTrends = [
   {
-    "id": "1ve2t9d",
-    "title": "The U.S. just helped Japan strengthen the yen. Should U.S. investors care?",
-    "url": "https://www.reddit.com/r/investing/comments/1ve2t9d/the_us_just_helped_japan_strengthen_the_yen/",
-    "author": "FailOk1528",
-    "score": 26,
-    "selftext": "The U.S. and Japan just confirmed a coordinated intervention after the yen fell to around a 40-year low.\n\nThe yen has already moved from above 163 per dollar to roughly 155–156, and officials are saying they may intervene again.\n\nThe part I’m interested in isn’t just Japan. A stronger yen makes yen-funded carry trades more expensive. If the move continues, investors who borrowed cheap yen to buy higher-return assets elsewhere may have to reduce those positions.\n\nI don’t think one intervention automatically causes a global selloff, especially while the interest-rate gap remains wide. But coordinated U.S.–Japan action seems more meaningful than Japan intervening alone.\n\nWould you treat this as a temporary currency move, or something worth watching for U.S. tech, Treasuries and Japanese exporters?",
-    "subreddit": "investing",
-    "created_utc": 1785729960,
-    "thumbnail": "self",
+    "id": "1ve8ykw",
+    "title": "Citadel’s Scott Rubner Says the Early-Summer Excesses have Largely Been Unwound.",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1ve8ykw/citadels_scott_rubner_says_the_earlysummer/",
+    "author": "Optimal_Image5192",
+    "score": 95,
+    "selftext": "Citadel’s Rubner says the early-summer excesses have largely been unwound. \n\nRetail investors reduced risk, leverage normalized, market concentration declined, and many of the market’s largest technical headwinds have begun to fade.\n\n“As a result, we believe investors can increasingly spend less time focused on positioning and more time focused on fundamentals.\n\nPosition sizes and risk budgets are likely to rebuild gradually, supporting a lower volatility grind higher rather than the type of V-shaped recovery experienced earlier this year.”",
+    "subreddit": "StockMarket",
+    "created_utc": 1785750690,
+    "thumbnail": "https://preview.redd.it/mzw4qytmt4hh1.jpeg?width=140&height=78&auto=webp&s=473e78fc2d1fbafeaa7c46d41c91ba5cb1f49963",
     "top_comments": [
       {
-        "body": "I don't think Washington even cares about saving it. I think they care about not crashing the market **right now** right before the midterms. I legit think thats the only thing Trump cares about.",
-        "score": 16,
-        "author": "koenafyr"
+        "body": "The c\\*cks at citadel lied a few days ago about their \"fed leaks of rising rates\", just to f\\*ck the market. It is funny that now they expect anyone to believe them.",
+        "score": 122,
+        "author": "Ill-Mousse-3817"
       },
       {
-        "body": "At some point the government manipulation will stop working and there will be a crash. ",
-        "score": 15,
-        "author": "Ready-Cherry-1915"
+        "body": "Translation: people deleveraged and now we can’t make the same money, so please start leveraging again.\n\nFuck this guy. For anyone wondering he’s the head of derivatives department at citadel.",
+        "score": 53,
+        "author": "Muted_Frosting4684"
       },
       {
-        "body": "Japan does have very healthy social welfare and benefits. A robust social housing program, subsidized medical and dental care, a healthy mix of public and private education options, and one of the gold standards of public transportation. It’s also the 10th top spender for military, equal to 1.9% of its GDP. \n\nIt’s also stupidity in debt. The magic trick is that most of its debt is owned by Japan. Something like 90% of Japanese debt is owned by Japanese agencies like the Bank of Japan. ",
-        "score": 12,
-        "author": "Enough-Run-1535"
+        "body": "The stunt they pulled has impacted their credibility. I hope people not just at retail, but institutional level recognize that and stop listening/supporting this garbage fund",
+        "score": 46,
+        "author": "Optimal_Image5192"
       }
     ],
-    "summary_he": "ארה\"ב ויפן נקטו במהלך מתואם לחיזוק הין היפני לאחר שערכו צנח לשפל של ארבעה עשורים מול הדולר. התחזקות המטבע מעוררת חשש מפני פגיעה בכדאיות עסקאות ה\"קארי טרייד\" (Carry Trade), מה שעלול להוביל למכירת נכסים ולתנודתיות בשוק הטכנולוגיה ובאג\"ח הממשלתי בארה\"ב.",
+    "summary_he": "סקוט רובנר מחברת סיטאדל (Citadel) מציין כי החריגות והסיכונים העודפים שאפיינו את השוק בתחילת הקיץ התפוגגו והמינוף חזר לרמות נורמליות. להערכתו, על המשקיעים לעבור כעת להתמקדות בנתונים פונדמנטליים, שכן השוק צפוי למגמת עלייה הדרגתית ומתונה יותר במקום התאוששות חדה ומהירה.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות, הכולל 6 נקודות מבט ודעות שונות:\n\n*   **מניעים פוליטיים קצרי טווח:** קיים חשד שהממשל בוושינגטון, ובפרט הנשיא טראמפ, אינו פועל מתוך רצון אמיתי \"להציל\" את הכלכלה לטווח ארוך, אלא רק כדי למנוע קריסת שוק בטווח המיידי לפני בחירות האמצע.\n*   **מגבלות ההתערבות הממשלתית:** ישנה הערכה כי למניפולציות ממשלתיות בשוק יש \"תאריך תפוגה\"; בנקודה מסוימת הן יפסיקו להשפיע, מה שיוביל בהכרח לקריסה כלכלית.\n*   **יציבות המודל הסוציאלי היפני:** יפן נתפסת כדוגמה למדינה המצליחה לשמר רשת ביטחון חברתית חזקה, הכוללת דיור ציבורי נרחב, שירותי בריאות ורפואת שיניים מסובסדים, ומערכת תחבורה ציבורית מהמתקדמות בעולם.\n*   **השקעה ביטחונית לצד רווחה:** למרות ההשקעה ברווחה, מצוין כי יפן היא עדיין אחת מעשר המדינות בעלות ההוצאה הצבאית הגבוהה ביותר (כ-1.9% מהתמ\"ג שלה), מה שמראה על איזון בין ביטחון לצרכים אזרחיים.\n*   **\"קסם\" החוב הלאומי של יפן:** הדיון מדגיש את המבנה הייחודי של החוב היפני – בניגוד למדינות אחרות, כ-90% מהחוב של יפן מוחזק פנימית על ידי סוכנויות יפניות כמו הבנק המרכזי של יפן, מה שמאפשר לה לתפקד למרות חובות עתקיים.\n*   **פסימיות לגבי עתיד השוק:** ניכרת נימה של חוסר אמון ביכולת של המערכת הכלכלית הנוכחית להחזיק מעמד לאורך זמן ללא \"תיקון\" אלים או קריסה, בשל התערבות יתר של המדינה.",
-    "dateString": "2026-08-03",
-    "savedAt": {
-      "_seconds": 1785751124,
-      "_nanoseconds": 511000000
-    }
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit המבוסס על התגובות שסיפקת, המציג 6 נקודות מבט וסנטימנטים בולטים של הקהילה:\n\n*   **האשמות במניפולציה של השוק:** המגיבים טוענים כי חברת סיטדל (Citadel) שיקרה במכוון בנוגע ל\"הדלפות מהפדרל ריזרב\" על העלאות ריבית, וזאת במטרה לטלטל את השוק לטובתה האישית.\n*   **אובדן אמינות מוחלט:** קיים סנטימנט חזק של חוסר אמון; המשתמשים מרגישים שהחברה איבדה את הלגיטימיות שלה ומתפלאים שמישהו בכלל מצפה שהציבור יאמין להצהרותיה כעת.\n*   **מניעים נסתרים מאחורי המלצות פיננסיות:** הקהילה מפרשת את הקריאות של החברה לשוק כניסיון אינטרסנטי לעודד משקיעים לחזור לשימוש במינוף (Leverage), פשוט כי המודל העסקי של סיטדל נפגע כאשר אנשים פועלים בזהירות ומקטינים חשיפה.\n*   **עוינות כלפי הנהגת החברה:** נרשמה ביקורת חריפה ושפה בוטה המופנית באופן אישי כלפי דמויות מפתח, ובפרט כלפי ראש מחלקת הנגזרות של סיטדל, שנתפס כמי שמנסה להוליך שולל את המשקיעים.\n*   **תקווה לחרם מוסדי:** מעבר למשקיעים הפרטיים (Retail), המגיבים מביעים תקווה שגם גופים מוסדיים יזהו את הפגיעה באמינות של סיטדל ויפסיקו לתמוך או לשתף פעולה עם מה שהם מכנים \"קרן הזבל\" הזו.\n*   **תחושת כעס ותסכול מהתנהלות הקרן:** הקהילה משתמשת בשפה קשה כדי לתאר את הקרן, מה שמעיד על סנטימנט קהילתי רחב הרואה בסיטדל גוף דורסני שפועל נגד האינטרסים של המשקיע הקטן ופוגע ביושרה של השוק."
   },
   {
-    "id": "1vdlsgs",
-    "title": "401k Loan-First Home Purchase",
-    "url": "https://www.reddit.com/r/investing/comments/1vdlsgs/401k_loanfirst_home_purchase/",
-    "author": "OhNooMisterBill",
-    "score": 17,
-    "selftext": "Looking for some support/validation by people smarter than me.\n\nWife and I are purchasing a home. We do not currently have the ability to put 20% down to avoid PM and such.\n\nI am of the mindset that we can on our own put more money into additional Principle payments each month and achieve 20% equity that way. My wife (who is not as versed with finance as me, and does not have a significant 401k) is saying she thinks we should take out a 401k loan to GET to the 20% mark. I am very much against this, and here is my supporting argument:\n\n1) The money being taken out of my 401k to get to that  \n20% mark would be about $18,000, which would be shy of  \n40% of my 401k balance. That \\~$18,000 coming out would no longer be gaining market rate interest. Though I would be paying myself \"interest\" on those dollars, the rate of that paid interest is less than they would earn in the market (historically 15-20% annual returns).\n\n2) The house is not going to appreciate at the rate of which my 401k balance will. That's just a fact. The house MAY appreciate based on any work we do ourselves, and may appreciate as the market for single family houses continues growing, but as everybody knows the market is being propped up right now on toothpicks. I do not see the  \n\"housing only goes UP\" conversation being true\\* for much longer. I firmly believe there will be another housing crash in the next 5/10 years. Perhaps not to the level of 2008, but problematic enough that home values deflate from their artificial prices they're at now, which is even more reason not to invest my retirement into the home.\n\nLOOKING FOR ADVICE: either support of the two main points I have why a 401k loan will not be a good idea, or additional considerations I did not list here that are also in support of this concept. Thank you!",
+    "id": "1veaowf",
+    "title": "Is a CD the best place for a 65 year old to \"park\" his money?",
+    "url": "https://www.reddit.com/r/investing/comments/1veaowf/is_a_cd_the_best_place_for_a_65_year_old_to_park/",
+    "author": "Final-Designer-388",
+    "score": 88,
+    "selftext": "CDs are what I am comfortable with. I don't want to have the money tied up long-term which is why I have been comfortable with CDs as I can lock the rate in for 3-6 months at a time. I keep reading about bonds now. What is the typical rate return? Is that a better option for a 65 year old?",
     "subreddit": "investing",
-    "created_utc": 1785686434,
+    "created_utc": 1785756269,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Odds are if you're carrying the PMI for only but a short-term with knocking out principal over the first couple years, it's unlikely that you'll save more money doing that. Probably better off not taking the 401k loan and just paying the PMI. Without actual the house price point numbers, it's hard to say for sure but I'd find it hard to believe that it would be worthwhile to take the loan. \n\nThis is coming from someone who has taken a 401k loan for a house too in the past, so I'm not inherently against it either, but it sounds like your PMI would be very short-lived and not enough to justify the missed opportunity of the 401k loan. Average market returns are not historically 15-20% though either. No need to use misinformation to make your argument though. Even with 7-10% which is average you'd still benefit from keeping that 401k invested",
-        "score": 13,
-        "author": "Forded_Fiction24"
+        "body": "Market was hot (like now), my portfolio had doubled, optimism high, went all in, lost 70% when the bubble burst, my own dot com business slowed dramatically, so gradually had to sell remaining as needed to pay mortgage, living expenses, etc. Some of the tickers I owned went to zero and vanished.",
+        "score": 3,
+        "author": "snappydo99"
       },
       {
-        "body": "You insinuated historical averages for the market, not your 401k. Even with that clarification yea my 401k is up 19.55% for the 1Y but you're missing the point. You'd very naive to assume 15-20% returns on your 401k year after year long term. You shouldn't be calculating the future based on 15 or 20% regardless.\n\nEither way my answer is the same with 10% returns. Paying shorter term PMI, especially with the plan to pay towards principal and get it off sooner isn't going to make up for the lost opportunity cost of the $18k worth of investments continuing to make money",
+        "body": "You've posted a few times already - what you fail to acknowledge is that you are an extremely lucky BabyBoomer. You grew up at a time of the economy and stock market expanding rapidly, you now have assets to invest, and you've never truly seen a crash like 1929 (2008 was not even close - especially when you consider the bounce back in the years after).\n\nLet's see if you keep singing the same tune if your $8M gets wiped out to $800k...",
+        "score": 2,
+        "author": "MotherAd1865"
+      },
+      {
+        "body": "I never wanted to deal with the hassles of being a landlord. Also 2008 did a number on residential real estate and Covid on commercial properties ",
+        "score": 2,
+        "author": "Effyew4t5"
+      }
+    ],
+    "summary_he": "בן 65 המורגל בהפקדת כספו בפיקדונות בנקאיים קצרי טווח (CDs) שוקל לגוון את השקעותיו באמצעות איגרות חוב (אג\"ח). הוא מבקש לדעת מהן התשואות המקובלות באפיק זה והאם מדובר בחלופה טובה ובטוחה יותר עבורו.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **הסכנה שבאופטימיות יתר בזמן גאות:** אחד המשתתפים משתף בלקח כואב על כניסה \"בכל הכוח\" לשוק (All-in) כשהוא בשיאו. תחושת העושר המדומה כשהתיק מכפיל את עצמו עלולה להוביל להחלטות פזיזות שמסתיימות באובדן של 70% מהשווי כשהבועה מתפוצצת.\n*   **נזילות כפויה והפסדים ריאליים:** בעת משבר, משקיעים עלולים להיאלץ למכור את שארית החזקותיהם במחירי הפסד כדי לממן הוצאות מחיה בסיסיות, כמו תשלומי משכנתא וחשבונות, במיוחד אם מקור ההכנסה העיקרי שלהם (כמו עסק פרטי) נפגע במקביל.\n*   **סיכון המחיקה המוחלטת:** קיימת אזהרה מפני השקעה במניות ספציפיות שעלולות לאבד את כל ערכן (\"להגיע לאפס\") ולהיעלם מהשוק לגמרי בעת קריסה, בניגוד למדדים כלליים שעשויים להתאושש.\n*   **ביקורת בין-דורית על \"מזל היסטורי\":** עולה טענה כלפי דור ה\"בייבי-בומרס\" שהצלחתם הכלכלית נובעת במידה רבה מתזמון היסטורי ומזל – צמיחה אדירה של השוק והכלכלה בתקופתם – ולאו דווקא מחוכמה פיננסית יוצאת דופן.\n*   **פרופורציה היסטורית לגבי משברים:** קיימת דעה הממעיטה בחומרת המשברים המודרניים (כמו 2008) בהשוואה לשפל הגדול של 1929. הטענה היא שהתאוששות מהירה יחסית של השוק בגרפים של השנים האחרונות אינה משקפת קריסה טוטאלית וממושכת שעלולה למחוק הון של מיליונים.\n*   **הסתייגות מהשקעות נדל\"ן:** חלק מהקהילה מביע חוסר רצון להתעסק עם הטרחה הכרוכה בניהול נדל\"ן (\"להיות משכיר\"), תוך ציון העובדה שגם נדל\"ן אינו חסין – כפי שהוכח בפגיעה בנדל\"ן למגורים ב-2008 ובנדל\"ן המסחרי בתקופת הקורונה."
+  },
+  {
+    "id": "1vep41k",
+    "title": "Palantir earning exploded to 150%",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1vep41k/palantir_earning_exploded_to_150/",
+    "author": "Broke_BruceWaynee",
+    "score": 73,
+    "selftext": "Palantir’s commercial AI business delivered another quarter of staggering growth. *U.S. commercial revenue jumped* ***149% year over year*** and 28% sequentially to $764 million, while its U.S. commercial customer count increased 35% to 653.\n\nForward demand appears to be equally strong. *U.S. commercial remaining deal value* ***climbed 124%*** to $6.24 billion, while total contract value reached a quarterly record of $2.13 billion.  \nThe accelerating commercial business helps explain why **Palantir shares ripped 8% higher** following the report.\n\n**Key Numbers:**  \nRevenue: $1.935 billion vs. $1.81 billion expected  \nAdjusted EPS: $0.41 vs. $0.35 expected\n\nPalantir crushed expectations, beating revenue estimates by approximately 7% and adjusted EPS estimates by 17%.  \nGrowth accelerated dramatically, with revenue climbing 93% year over year and 18% sequentially, while adjusted EPS surged 156% year over year.",
+    "subreddit": "StockMarket",
+    "created_utc": 1785789214,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "soon as i saw everyone bearish i knew it was time to go long",
         "score": 10,
-        "author": "Forded_Fiction24"
+        "author": "sjtomcat"
       },
       {
-        "body": "Find a credit union that does mortgages without PMI. If you're eligible, Navy Federal Credit Union does this with some of all of their loans. ",
-        "score": 9,
-        "author": "jacknifetoaswan"
+        "body": "If they did, their margins would probably be lower and they wouldn't have crushed earnings this hard 😂",
+        "score": 6,
+        "author": "ga643953"
+      },
+      {
+        "body": "The problem is when revenue inevitably decelerates the stock will likely crash for years",
+        "score": 5,
+        "author": "LKB6"
       }
     ],
-    "summary_he": "הכותב ואשתו רוכשים בית ראשון ומתלבטים האם לקחת הלוואה מחשבון הפנסיה (401k) כדי להגיע ל-20% מקדמה ולהימנע מתשלום ביטוח משכנתה (PMI). הבעל מתנגד למהלך בטענה שהפסד התשואות הפוטנציאליות בשוק ההון והסיכון לירידת ערך הנדל\"ן הופכים את ההלוואה לצעד לא משתלם כלכלית לטווח הארוך.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **כדאיות תשלום ה-PMI לטווח קצר:** המגיבים טוענים שאם ביטוח המשכנתה (PMI) צפוי להתבטל תוך זמן קצר יחסית (באמצעות תשלומים מוגברים לקרן המשכנתה בשנים הראשונות), סביר להניח שלא משתלם לקחת הלוואה מחשבון ה-401k כדי להימנע ממנו.\n*   **עלות ההזדמנות של השקעות בפרישה:** קיימת הסכמה רחבה שעלות ההזדמנות – כלומר הרווח הפוטנציאלי שהכסף היה מניב אילו נשאר מושקע בבורסה – גבוהה יותר מהחיסכון שנוצר מביטול ה-PMI. שמירת הכסף (למשל 18,000 דולר) מושקע היא אסטרטגיה רווחית יותר לטווח ארוך.\n*   **ריאליות של תשואות שוק ההון:** המגיבים מבקרים את ההנחה שתשואות של 15-20% בשנה הן ברות-קיימא לאורך זמן. הם מדגישים כי תכנון פיננסי אחראי צריך להתבסס על ממוצעים היסטוריים שמרניים יותר של 7-10%, וגם בנתונים אלו, ההשקעה ב-401k עדיפה על לקיחת הלוואה.\n*   **ניסיון אישי מול המלצה אובייקטיבית:** אחד המגיבים מציין כי למרות שהוא עצמו לקח הלוואה מה-401k בעבר לצורך רכישת בית, הוא עדיין סבור שבמקרה הספציפי הזה הנתונים לא מצדיקים את הצעד, מה שמדגיש את הצורך לבחון כל מקרה לגופו.\n*   **חלופות מימון ואיגודי אשראי:** הצעה קונקרטית שעלתה היא לחפש גופי מימון חלופיים, כמו איגודי אשראי (Credit Unions), המציעים לעיתים מסלולי משכנתה ללא דרישת PMI (כמו Navy Federal), ובכך לפתור את הבעיה ללא פגיעה בחסכונות הפנסיוניים.\n*   **עדיפות להקטנת הקרן באופן ישיר:** במקום לקחת הלוואה מהפנסיה, הגישה המומלצת בקהילה היא להפנות כספים זמינים ישירות להורדת קרן המשכנתה. צעד זה מביא לביטול ה-PMI במהירות רבה יותר מבלי לוותר על פוטנציאל הצמיחה של חשבון הפרישה.",
-    "dateString": "2026-08-04",
-    "savedAt": {
-      "_seconds": 1785823267,
-      "_nanoseconds": 375000000
-    }
+    "summary_he": "חברת פאלנטיר (Palantir) הציגה דוחות כספיים חזקים במיוחד שעקפו את תחזיות האנליסטים, עם זינוק של 156% ברווח למניה וצמיחה של 93% בהכנסות הכוללות. המנוע המרכזי להצלחה היה המגזר המסחרי בארה\"ב שרשם צמיחה פנומנלית של 149%, מה שהוביל לזינוק של 8% בערך המנייה. התוצאות משקפות ביקוש שיא לפתרונות הבינה המלאכותית של החברה וגידול משמעותי בצבר ההזמנות העתידי.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **אסטרטגיית השקעה הפוכה (Contrarian):** אחד המגיבים מציין כי הוא משתמש בסנטימנט השלילי של הכלל כסימן \"קנייה\". ברגע שזיהה שכולם פסימיים (Bearish), הוא בחר לפתוח פוזיציית לונג.\n*   **ניצול \"פחד\" בשוק:** קיימת תחושה בקהילה שהלך רוח פסימי בקרב רוב המשקיעים הוא הזדמנות טובה לכניסה לשוק, שכן לעיתים קרובות השוק מגיב בצורה מוגזמת.\n*   **חשיבות שולי הרווח:** הועלתה טענה שהצלחת החברה בדוחות הכספיים נבעה מהחלטות ששמרו על שולי רווח גבוהים. אם החברה הייתה פועלת אחרת, ייתכן ששולי הרווח היו נשחקים והתוצאות היו פחות מרשימות.\n*   **ביצועים יוצאי דופן (Crushing Earnings):** ישנה התפעלות מהיכולת של החברה לעקוף את התחזיות באופן משמעותי ולהציג דוחות רווח חזקים במיוחד (\"Crushed earnings\").\n*   **חשש מהאטה בלתי נמנעת:** לצד האופטימיות מהרווחים, קיים חשש מבוסס מהרגע שבו קצב צמיחת ההכנסות יתחיל להאט (Revenue deceleration), דבר שנחשב לבלתי נמנע בטווח הארוך.\n*   **סיכון לקריסה מתמשכת:** קיימת דעה פסימית הגורסת כי המניה מתומחרת בצורה שחשופה לזעזועים; אם הצמיחה תאט, המניה עלולה לחוות קריסה חריפה שתימשך שנים, בשל הציפיות הגבוהות המגולמות בה כיום."
   },
   {
-    "id": "1vdj8ln",
-    "title": "What would you do in my situation? €60k cash, €21k invested and buying a house soon",
-    "url": "https://www.reddit.com/r/investing/comments/1vdj8ln/what_would_you_do_in_my_situation_60k_cash_21k/",
-    "author": "Sufficient-Trade9282",
-    "score": 16,
-    "selftext": "Hi,  \nI’m 35, living in France and working in Luxembourg as a software engineer in the financial sector. I make around €4,900 net per month. My income is stable, I have no debt at all, and my wife and I currently pay €980 in rent. I usually cover around two thirds of our common expenses.  \nWe are planning to buy a house this year. I don’t want to put more than €20k of my own money into the purchase, and we want to keep the total mortgage payment under roughly €1,300 per month. I would again pay around two thirds of it.  \nRight now I have €60k in the bank and around €21k invested through IBKR.  \nMy current portfolio is intentionally quite defensive. I have European, Japanese and emerging-market equities, plus US quality and US value ETFs. I also have three bond ETFs covering euro government bonds, global government bonds and inflation-linked bonds, as well as physical gold and some cash.  \nMore precisely, it’s roughly:  \n10% Europe  \n10% Japan  \n10% emerging markets excluding China  \n7.5% US quality  \n7.5% US value  \n10% euro government bonds  \n15% global government bonds  \n15% inflation-linked bonds  \n10% gold  \n5% cash  \nMy investment horizon is 25 years or more, and I would put my risk tolerance at around 6/10.  \nFor context, my investments are up about 40% since July 2024, but this return was made with a completely different portfolio and not with the current allocation above. I changed my investments several times during that period, so I don’t want to give the impression that this defensive portfolio somehow returned 40%.  \nMy main issue is that I’m very uncomfortable with current US valuations, especially big tech, AI and semiconductors. I know that avoiding or underweighting the US can also be a big risk over the long term, but I find it difficult to invest heavily in a global index when so much of it is concentrated in a handful of very expensive companies.  \nAt the same time, keeping €60k in the bank also seems like too much, especially since I only expect to use a maximum of €20k personally for the house.  \nWhat would you invest in if you were in my position? Do you think my current allocation is too defensive for someone who is 35 and investing for 25+ years?",
+    "id": "1vemnwm",
+    "title": "530(A): 5k a year up for next 18 years, for 5 million in Roth for kids 60 years from now? What am I missing?",
+    "url": "https://www.reddit.com/r/investing/comments/1vemnwm/530a_5k_a_year_up_for_next_18_years_for_5_million/",
+    "author": "Standard-Top-5942",
+    "score": 72,
+    "selftext": "If you've got excess money to invest that you don't need for 18 years and you ultimately want to give that money to your children, then...\n\n**Don't we need to give 530(A)s more credit than they're currently getting if the plan is to convert to kid's Roth IRA?**\n\nIsn't this correct:\n \n- Contribute 5k (post tax) a year from now until child is 18 \n\n- At age 18, that's about 90k in investment and 60k in returns, so about 150k\n\n- Then one of two things happen: either (A) you wait until 25 to avoid kiddie tax otherwise you'll get hit with 60k in \nextra ordinary income, which is about 20k you owe on top of the 90k you've already spent or (B) if your child isn't in school and on their own then you avoid kiddie tax right? \n\nIn either case, you avoided the tax, and they've got 150k in a Roth IRA at age 18, which is like 5 million tax free. It costs you like 100k to set up your kid for retirement. That's like one year of your savings if you're making like 250k a year as a household.\n\n**Where am i getting things wrong?** I hate everything to do with the name of these accounts, but maybe they make sense?",
     "subreddit": "investing",
-    "created_utc": 1785680214,
+    "created_utc": 1785783827,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "I would put more down on the house and allocate the rest into MSCI world. Bonds will not give you better returns than the downpayment, paying off debt is 100% risk free.",
-        "score": 14,
-        "author": "tnzgrf"
+        "body": "As a 250+ household, we do not save 150+ year. Things are expensive. Generally with that income, fixing things is expensive. Kids are expensive. Taxes are higher (property etc)",
+        "score": 5,
+        "author": "WeUsedToBeNumber10"
       },
       {
-        "body": "You don’t know the direction it goes.\n\nI called the US stock market grossly overvalued in 2018 and said it was due for a correction. Look where we are now.\n\nIt did crash during Covid, but only for brief time. I would been better off just staying in the market. When the crash comes, you often become hesitant to put money in. It’s just human psychology.\n\nUS just have some structural advantages that ensures they will just keep outperforming Europe. E.g. more natural resources, one single large market, one language, fewer regulations, more risk taking that leads to innovation, protected by two oceans, etc. \n\nEurope on the other hand don’t row in the same direction. We can’t even agree on an official language in the EU. Every country has their own self interest and that is destructive. ",
-        "score": 6,
-        "author": "TechTuna1200"
+        "body": "Most people dont make 1k per hour, and you dont need to do so to make the Trump accounts worthwhile.",
+        "score": 4,
+        "author": "mistressbitcoin"
       },
       {
-        "body": "There is more long terms risks in European stocks than US stocks, saying this as a Danish person. US will have it's bust and booms, but the it's the epicenter of capital markets and will continue to perform outperform Europe. \n\nThe EU is just not business friendly and overtime it will keep lagging behind the US. Adding on top that a lot of European industries are being decimated by Chinese companies.\n\nIf you are young you should definitely take more risks. And then have a bit enough cash for a rainy day\n\n",
-        "score": 6,
-        "author": "TechTuna1200"
+        "body": "You're implying that you'd rather have 150k in a taxable brokerage account than have the option to turn that 150k into a roth ira (for the cost of income tax on 60k of that 150k)? that would be a choice lol.",
+        "score": 4,
+        "author": "Standard-Top-5942"
       }
     ],
-    "summary_he": "בן 35 העובד כמתכנת בלוכסמבורג מתכנן לרכוש בית ומתלבט לגבי ניהול הונו, הכולל כ-60 אלף אירו במזומן ו-21 אלף אירו בתיק השקעות בעל אופי הגנתי. הוא חושש מהערכות השווי הגבוהות בשוק הטכנולוגיה האמריקאי ותוהה האם תיק הנכסים שלו שמרני מדי ביחס לאופק השקעה של מעל 25 שנה.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג שש נקודות מבט ועמדות שונות שעלו מתוך התגובות:\n\n*   **תעדוף החזר חוב על פני אג\"ח:** אחת ההמלצות המרכזיות היא להגדיל את המקדמה על הבית במקום להשקיע באג\"ח. הנימוק הוא שפירעון חוב מהווה \"תשואה של 100% ללא סיכון\", בעוד שאג\"ח לא בהכרח יניבו תשואה טובה יותר מהחיסכון בריבית על החוב.\n*   **הקושי בתזמון השוק:** משתתפים ציינו כי כמעט בלתי אפשרי לחזות את כיוון השוק. ניסיונות לחכות ל\"תיקון\" או לקריסה (כפי שחלק חזו ב-2018) עלולים להוביל להפסד של עליות משמעותיות, שכן השוק יכול להמשיך לעלות הרבה מעבר למצופה.\n*   **הפסיכולוגיה של המשקיע בזמן משבר:** גם כאשר מתרחשת קריסה בשווקים, הפסיכולוגיה האנושית גורמת לאנשים להסס ולהימנע מהשקעת כסף בדיוק ברגע שהמחירים נמוכים. לכן, עדיף להישאר מושקעים בשוק באופן עקבי מאשר לנסות להיכנס ולצאת.\n*   **יתרונות מבניים של ארה\"ב על פני אירופה:** קיימת הסכמה בדיון שלארה\"ב יש יתרונות ארוכי טווח שמבטיחים ביצועי יתר: שוק אחד גדול, שפה אחת, פחות רגולציה, משאבי טבע רבים ותרבות של לקיחת סיכונים וחדשנות.\n*   **החולשה המובנית של האיחוד האירופי:** הדיון מדגיש שאירופה אינה \"חותרת באותו כיוון\". חוסר היכולת להסכים על שפה רשמית והאינטרסים השונים של כל מדינה ומדינה פוגעים ביכולת התחרותית של היבשת אל מול ארה\"ב.\n*   **איומים חיצוניים ואסטרטגיה לצעירים:** תעשיות אירופיות רבות מאבדות מכוחן אל מול תחרות סינית אגרסיבית. לאור זאת, ההמלצה למשקיעים צעירים היא לקחת יותר סיכונים בשוק המניות (בדגש על ארה\"ב), תוך שמירה על קרן מזומנים לשעת חירום (\"Rainy day fund\").",
-    "dateString": "2026-08-04",
-    "savedAt": {
-      "_seconds": 1785823283,
-      "_nanoseconds": 561000000
-    }
-  },
-  {
-    "id": "1vdrbty",
-    "title": "Possible for individual retail investor to acquire pre-ipo private equity share?",
-    "url": "https://www.reddit.com/r/investing/comments/1vdrbty/possible_for_individual_retail_investor_to/",
-    "author": "Informal_Repair_5248",
-    "score": 11,
-    "selftext": "Hella fellas!\n\nAn individual retail investor who has been investing into publicly trading stocks. Have been into a single private equity before (all was needed was to show base pay over a certain number is all).\n\nIf one is really keen on investing into private equity of some companies (like Anthropic for example):\n\n1. Is it possible to invest right now? How and where to do so? Is it reliable?\n2. Should one if looking for companies like anthropic for long long hold - better to get into now or wait it out till it gets public?",
-    "subreddit": "investing",
-    "created_utc": 1785699418,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "In the U.S. you either have to be a partner in the business or a \"qualified investor\". A qualified investor is either someone who has net wealth beyond a certain level or is a finance industry professional. Outside of these criteria, somebody selling you an investment is doing it illegally.",
-        "score": 23,
-        "author": "DigitalArbitrage"
-      },
-      {
-        "body": "200k if single, 300k if married, and reasonably expect that to continue.\n\nOR a net worth over 1 million excluding primary residence\n\nOR a FINRA series 7, 65, or 82 license",
-        "score": 7,
-        "author": "Eric848448"
-      },
-      {
-        "body": "I wouldn’t chase a private company just because I like the product. By the time retail gets access, the valuation may already price in years of perfect execution.",
-        "score": 7,
-        "author": "Ok-Barber3419"
-      }
-    ],
-    "summary_he": "הפוסט עוסק בשאלה האם וכיצד משקיע קמעונאי יכול לרכוש מניות של חברות פרטיות לפני הנפקה (pre-IPO), תוך התמקדות בחברות כמו Anthropic. הכותב מבקש לדעת אילו פלטפורמות מאפשרות זאת והאם הן אמינות, ומתלבט אם כדאי להשקיע כעת לטווח ארוך או להמתין עד שהחברה תהפוך לציבורית.",
+    "summary_he": "הפוסט מציע אסטרטגיה להפקדת 5,000 דולר בשנה לתוכנית חיסכון (529) עבור ילדים, במטרה להמיר את הכספים בבוא העת לחשבון Roth IRA ולהגיע לחיסכון פנסיוני של מיליוני דולרים פטורים ממס. הכותב תוהה האם החישוב שלו נכון והאם הוא מפספס מגבלות חוקיות או היבטי מיסוי (כמו ה-Kiddie Tax או מגבלות הפקדה) שעלולים לשבש את התוכנית.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות בשרשור, המציג שש נקודות ועמדות מרכזיות בנושא השקעה בחברות פרטיות בארה\"ב:\n\n*   **הגבלות חוקיות על השקעה:** בארה\"ב, הגישה להשקעות בחברות פרטיות אינה פתוחה לכולם; כדי להשקיע באופן חוקי, על המשקיע להיות שותף בעסק או לענות על ההגדרה של \"משקיע כשיר\" (Qualified Investor).\n*   **איסור על מכירה למשקיעים לא מורשים:** קיימת אזהרה כי גורם המנסה למכור השקעה למי שאינו עומד בקריטריונים של משקיע כשיר (ואינו שותף), עובר על החוק.\n*   **רף הכנסה שנתי:** אחד הקריטריונים להגדרה כמשקיע כשיר הוא רמת הכנסה שנתית של לפחות 200 אלף דולר ליחיד או 300 אלף דולר לזוג נשוי, תוך ציפייה סבירה שהכנסה זו תימשך גם בעתיד.\n*   **דרישת הון עצמי:** חלופה נוספת להגדרת משקיע כשיר היא החזקה בהון עצמי נקי העולה על מיליון דולר, וזאת מבלי להחשיב את ערך בית המגורים העיקרי של המשקיע.\n*   **הסמכה מקצועית כנתיב כניסה:** לא רק עושר קובע; גם אנשי מקצוע מהתחום הפיננסי המחזיקים ברישיונות ספציפיים (כגון FINRA series 7, 65 או 82) מוכרים כמשקיעים כשירים המורשים להשקיע בחברות פרטיות.\n*   **אזהרה מפני \"תמחור יתר\" בשוק הקמעונאי:** קיימת עמדה ביקורתית הממליצה לא לרדוף אחרי חברה פרטית רק בגלל חיבה למוצר שלה. הטענה היא שעד שהשקעה כזו הופכת נגישה לציבור הרחב (Retail), הערכת השווי שלה לעיתים קרובות כבר גבוהה מדי ומגלמת בתוכה שנים של ביצועים מושלמים מראש."
-  },
-  {
-    "id": "1vdjjz5",
-    "title": "Investment portfolio tracker",
-    "url": "https://www.reddit.com/r/investing/comments/1vdjjz5/investment_portfolio_tracker/",
-    "author": "KeepTab",
-    "score": 3,
-    "selftext": "Hello people of r/investing. \n\nRecently I got annoyed with my current portfolio tracker and lack of some functionalities that I would like to have for my personal tracking. With that I began working on my own tracker that does everything that I need. \n\nAnd here’s the question, what are the functionalities within your trackers that you now can’t imagine to live without? Maybe there is something that I’m missing or there is something that would improve my quality of life in general? Thanks and have a great day!",
-    "subreddit": "investing",
-    "created_utc": 1785681009,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "כותב הפוסט החליט לפתח בעצמו כלי למעקב אחר תיק השקעות לאחר שהתאכזב מהאפשרויות הקיימות בשוק. הוא מבקש מהקהילה המלצות על פונקציות חיוניות ותכונות שמשפרות את חוויית המעקב כדי להבטיח שהכלי החדש יכלול את כל מה שדרוש למשקיעים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1ve3ver",
-    "title": "Moronic Monday - August 03, 2026 - Your Weekly Questions Thread",
-    "url": "https://www.reddit.com/r/finance/comments/1ve3ver/moronic_monday_august_03_2026_your_weekly/",
-    "author": "AutoModerator",
-    "score": 2,
-    "selftext": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n\nReplies are expected to be constructive and civil.\n\nAny questions about your *personal* finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.",
-    "subreddit": "finance",
-    "created_utc": 1785733291,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "זהו שרשור שבועי המיועד לשאלות בכל תחומי הפיננסים, כולל עזרה בשיעורי בית וייעוץ כללי בנושא קריירה. הקהילה מעודדת שיח מכבד ומזמינה כל שאלה בתחום, תוך הפניית שאלות על פיננסים אישיים או חיפוש עבודה ממוקד לפורומים ייעודיים אחרים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-08-03",
-    "savedAt": {
-      "_seconds": 1785751179,
-      "_nanoseconds": 387000000
-    }
+    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות בשרשור, הכולל 6 נקודות מבט ורגשות קהילתיים שונים:\n\n* **הכנסה גבוהה אינה ערובה לחיסכון גבוה:** קיימת טענה כי גם בקרב משקי בית המשתכרים מעל 250 אלף דולר בשנה, לא תמיד ניתן לחסוך סכומים משמעותיים (כמו 150 אלף דולר בשנה), שכן רמת ההוצאות עולה בהתאם.\n* **יוקר המחיה בקרב מעמד הביניים הגבוה:** התגובות מדגישות כי ככל שההכנסה עולה, כך גם עלויות התחזוקה של הנכסים, גידול הילדים והמיסים (בדגש על מסי מקרקעין) הופכים ליקרים ומכבידים יותר.\n* **נגישות של מכשירי השקעה:** נטען כי אין צורך להשתכר סכומים דמיוניים (כמו 1,000 דולר לשעה) כדי להפיק תועלת מחשבונות השקעה והטבות מס; אלו רלוונטיים גם עבור אנשים עם הכנסות נמוכות יותר.\n* **עדיפות לחשבונות פטורים ממס (Roth IRA):** עולה עמדה המבכרת בבירור העברת כספים לחשבונות מסוג Roth (הפטורים ממס על הרווחים) על פני החזקת הכסף בחשבון השקעות רגיל החייב במס, גם אם הדבר דורש תשלום מס מסוים בהווה.\n* **תכנון מס אסטרטגי:** חברי הקהילה דנים בכדאיות הכלכלית של תשלום מס הכנסה על חלק מהסכום כעת, כדי ליהנות מפטור ממס על רווחי הון בעתיד – בחירה שנתפסת כצעד פיננסי חכם.\n* **ביקורת על ניהול כספים:** מהתגובות עולה נימה של לעג קל כלפי מי שבוחרים להשאיר סכומים גדולים בחשבונות חייבים במס כאשר יש להם אפשרות להעבירם למסלולים מוגני מס, דבר הנתפס כוויתור לא הגיוני על הטבה כלכלית."
   },
   {
     "id": "1ve9o8d",
@@ -202,192 +152,264 @@ window.dailyTrends = [
     ],
     "summary_he": "מחקר חדש קובע כי מדינות העולם יוכלו לגבות כ-500 מיליארד דולר נוספים בכל שנה ממסים של תאגידים רב-לאומיים תחת אמנה חדשה של האו\"ם. התוכנית מתמקדת בשינוי המקום שבו משולמים המסים – בהתאם למקום הפעילות הכלכלית של החברות בפועל – וזאת מבלי להעלות את שיעורי המס הקיימים.",
     "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **יצירת שוויון מול תאגידי הענק:** חלק מהמגיבים רואים במהלך צעד חיוני ליצירת \"מגרש משחקים שווה\", שיבטל את היתרון הלא הוגן של חברות רב-לאומיות שנהנות כיום משיעורי מס אפסיים.\n*   **הקלה על מעמד הפועלים:** קיימת תקווה שהטלת מס על תאגידים תהווה חלופה להכבדת נטל המס על מעמד הפועלים, שחווה עליות מיסים מתמשכות.\n*   **ביקורת על בריחת הון:** הועלה סנטימנט שלילי כלפי המצב הנוכחי, שבו חברות ענק מפיקות רווחים בתוך האיחוד האירופי אך \"מייצאות\" את הכסף למקלטי מס מעבר לים במקום להשקיעו חזרה.\n*   **תחושת מערכת \"שבורה\":** ישנה הסכמה בקרב חלק מהגולשים שהמערכת הכלכלית הנוכחית לקויה מיסודה (Broken system) ודורשת רפורמה מבנית עמוקה כדי לתקן את העיוותים שנוצרו בה.\n*   **חשש מגלגול עלויות לצרכן:** מנגד, עלתה טענה סקפטית לפיה החברות לא יספגו את המס בעצמן, אלא פשוט יעלו מחירים ויגלגלו את הנטל הכלכלי ישירות לכיסו של הצרכן הפרטי.\n*   **ספקנות לגבי יישום בפועל:** לצד התמיכה ברעיון, נשמעת נימה של חוסר אמון או קוצר רוח לגבי השאלה האם המהלך אכן ימומש סוף סוף, או שמא מדובר בדיבורים בלבד כפי שהיה בעבר."
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **יצירת שוויון מול תאגידי הענק:** חלק מהמגיבים רואים במהלך צעד חיוני ליצירת \"מגרש משחקים שווה\", שיבטל את היתרון הלא הוגן של חברות רב-לאומיות שנהנות כיום משיעורי מס אפסיים.\n*   **הקלה על מעמד הפועלים:** קיימת תקווה שהטלת מס על תאגידים תהווה חלופה להכבדת נטל המס על מעמד הפועלים, שחווה עליות מיסים מתמשכות.\n*   **ביקורת על בריחת הון:** הועלה סנטימנט שלילי כלפי המצב הנוכחי, שבו חברות ענק מפיקות רווחים בתוך האיחוד האירופי אך \"מייצאות\" את הכסף למקלטי מס מעבר לים במקום להשקיעו חזרה.\n*   **תחושת מערכת \"שבורה\":** ישנה הסכמה בקרב חלק מהגולשים שהמערכת הכלכלית הנוכחית לקויה מיסודה (Broken system) ודורשת רפורמה מבנית עמוקה כדי לתקן את העיוותים שנוצרו בה.\n*   **חשש מגלגול עלויות לצרכן:** מנגד, עלתה טענה סקפטית לפיה החברות לא יספגו את המס בעצמן, אלא פשוט יעלו מחירים ויגלגלו את הנטל הכלכלי ישירות לכיסו של הצרכן הפרטי.\n*   **ספקנות לגבי יישום בפועל:** לצד התמיכה ברעיון, נשמעת נימה של חוסר אמון או קוצר רוח לגבי השאלה האם המהלך אכן ימומש סוף סוף, או שמא מדובר בדיבורים בלבד כפי שהיה בעבר.",
+    "dateString": "2026-08-04",
+    "savedAt": {
+      "_seconds": 1785833303,
+      "_nanoseconds": 418000000
+    }
   },
   {
-    "id": "1vf3vq0",
-    "title": "What got you to start investing?",
-    "url": "https://www.reddit.com/r/investing/comments/1vf3vq0/what_got_you_to_start_investing/",
-    "author": "Successful-Power2026",
-    "score": 1,
-    "selftext": "Everyone starts investing for a different reason.\n\nFor some it's building wealth, for others it's financial freedom, retirement, fear of inflation, or just curiosity.\n\nWhat was the event or realization that finally got you started?\n\nLooking back, do you wish you'd started earlier?",
+    "id": "1veexbc",
+    "title": "Really need help! how can a non-AI company still raise money in 2026??",
+    "url": "https://www.reddit.com/r/investing/comments/1veexbc/really_need_help_how_can_a_nonai_company_still/",
+    "author": "Amazing_Skill_6080",
+    "score": 22,
+    "selftext": "I'm honestly a little confused. All the investors I've met are asking the same questions in different formats:\n\nAre you an AI company? How are you using AI? How do you make sure one of the AI giants doesn't just build a feature and eat your entire SaaS?\n\nI'm really curious how you guys have been raising as a non-AI company, because I really hate to wrap my little SaaS in some AI wrapper and call it AI. I think it fundamentally comes down to solving a problem and finding a solution, whether that solution is AI or not. The market is killing me, and I have no idea how to find investors who would just invest in non-AI companies.",
     "subreddit": "investing",
-    "created_utc": 1785830258,
+    "created_utc": 1785767101,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Wanting to be wealthy I would say.   \nPlenty of books read, watching hours and hours of Warren Buffett videos.   \nLiving now in a country where only 3 to 8% have more than 15k invetsed in stocks with high levels of financial illiteracy, I feel so blessed. ",
-        "score": 1,
-        "author": "Fit-Contract-6114"
+        "body": "You have to be able to answer the moat question. Seriously - what's stopping a well-funded competitor from throwing something together real quick and taking your customers?\n\nAlso, AI is the hot thing right now and SaaS is ice cold on fears of the above. It's an uphill battle from the start.",
+        "score": 34,
+        "author": "Hoosier2016"
       },
       {
-        "body": "Retort: \nEveryone starts investing for the same reason.",
-        "score": 1,
-        "author": "dllemmr2"
+        "body": "Bob's Plumbing and HVAC repair, utilizing deep learning AI LLM's in order to pioneer the frontier of home air/water/sewage through tokenization and Retrieval-Augmented Generation optimization blockchain AI Agent Multimodal Prompt Engineering.",
+        "score": 18,
+        "author": "MegaWeinerFarts"
       },
       {
-        "body": "Wanting to retire early.\n\nI got even more motivated when I divorced my then wife and started to realize I was accumulating excess cash every month because I didn't have her spending it all.",
-        "score": 1,
-        "author": "TomCatInTheHouse"
+        "body": "Yeah the moat Q was around before AI. FAANG have copied and bankrupted many startups.",
+        "score": 15,
+        "author": "Ok_Solution_3325"
       }
     ],
-    "summary_he": "הפוסט פותח דיון בשאלה מה הניע את הגולשים להתחיל להשקיע, בין אם מדובר בשאיפה לעושר, חופש כלכלי או חשש מאינפלציה. הכותב מבקש מהמשתתפים לשתף את האירוע או התובנה שהובילו אותם לכך, ושואל האם בדיעבד הם מתחרטים שלא התחילו להשקיע מוקדם יותר.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מה-Reddit, המציג 6 נקודות מבט, דעות ותובנות שונות שעלו מתוך התגובות:\n\n*   **השאיפה לצבירת עושר:** מניע מרכזי ובסיסי שהוזכר הוא הרצון הפשוט להיות עשיר. השקעה נתפסת ככלי העיקרי להשגת מטרה זו לאורך זמן.\n*   **השקעה בלמידה עצמית:** חלק מהמשקיעים רואים בחינוך פיננסי חלק בלתי נפרד מהתהליך. הם מקדישים שעות רבות לקריאת ספרים ולצפייה בתכנים של מומחים (כמו וורן באפט) כדי להבין את השוק לעומק.\n*   **יתרון יחסי בסביבה של בורות פיננסית:** עלתה תחושה של \"ברכה\" או יתרון אסטרטגי בקרב משקיעים החיים במדינות שבהן רמת האוריינות הפיננסית נמוכה מאוד. הידיעה שהם שייכים לאחוז קטן באוכלוסייה שמשקיע (למשל, מדינה שבה רק 3-8% משקיעים) מעניקה להם ביטחון ומוטיבציה.\n*   **אוניברסליות של המניע הראשוני:** קיימת דעה הטוענת כי למרות הסיפורים האישיים השונים, בסופו של דבר כולם מתחילים להשקיע מאותה סיבה מהותית (ככל הנראה ביטחון כלכלי או צמיחת הון), והשוני הוא רק בנסיבות החיים.\n*   **החתירה לפרישה מוקדמת:** אחד המניעים החזקים ביותר שהוזכרו הוא הרצון לפרוש ממעגל העבודה בגיל מוקדם, מה שדוחף את המשקיע למקסם את רווחיו בהקדם האפשרי.\n*   **השפעת שינויים אישיים על תזרים המזומנים:** אירועי חיים משמעותיים, כמו גירושין, יכולים לשנות את תפיסת ההשקעה. במקרה שהוזכר, הפרידה הובילה לעודף כספי חודשי (עקב הפסקת הוצאות של בן/בת הזוג לשעבר), מה שהעלה את המודעות ליכולת לחסוך ולהשקיע בצורה אינטנסיבית יותר."
+    "summary_he": "הכותב מביע תסכול מהקושי לגייס הון עבור חברה שאינה מבוססת על בינה מלאכותית, שכן משקיעים כיום מתמקדים כמעט אך ורק בטכנולוגיית AI כתנאי סף להשקעה. הוא מחפש דרך למצוא משקיעים שעדיין מעריכים פתרון בעיות מהותי, מבלי לאלץ אותו להוסיף למוצר \"מעטפת AI\" מלאכותית רק כדי למשוך עניין.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מהתגובות:\n\n*   **שאלת ה\"חפיר\" (Moat) כקריטית להצלחה:** אחת הנקודות המרכזיות היא הצורך המכריע ביתרון תחרותי מובהק. יזם חייב להיות מסוגל לענות על השאלה: מה מונע ממתחרה בעל משאבים ומימון להעתיק את המוצר במהירות ולגזול את הלקוחות?\n*   **הניגודיות בין ה-AI ל-SaaS:** קיימת תחושה בקהילה שתחום ה-AI הוא כרגע הטרנד ה\"לוהט\" ביותר, בעוד שמודל ה-SaaS (תוכנה כשירות) הופך ל\"קפוא\" ופחות אטרקטיבי, בעיקר בשל הפחד שמוצרים אלו ניתנים להעתקה בקלות על ידי כלי בינה מלאכותית.\n*   **קשיי כניסה לשוק (\"קרב במעלה ההר\"):** התחושה הכללית היא שהתחלת מיזם חדש בתחומים אלו כיום היא משימה קשה במיוחד כבר מנקודת הזינוק, עקב הרוויה בשוק והחששות של המשקיעים.\n*   **לעג לשימוש מופרז במילות באזז (Buzzwords):** הקהילה מבטאת סרקזם כלפי הנטייה להדביק מונחים טכנולוגיים מפוצצים (כמו Blockchain, RAG, ו-Tokenization) לעסקים מסורתיים ופשוטים (כמו שירותי אינסטלציה), רק כדי להישמע רלוונטיים או מתקדמים.\n*   **האיום המתמשך מצד ענקיות הטכנולוגיה (FAANG):** מצוין כי הבעיה של העתקת רעיונות אינה חדשה לעידן ה-AI; חברות הענק תמיד נהגו להעתיק פתרונות של סטארט-אפים קטנים ולהוביל אותם לפשיטת רגל בזכות כוחן הכלכלי.\n*   **המשכיות של בעיות מבניות:** קיימת דעה שסוגיית היתרון התחרותי היא בעיה ותיקה בעולם הטכנולוגי. למרות שה-AI שינה את הכלים, הדינמיקה שבה חברות גדולות דוחקות חברות קטנות נותרה בעינה כפי שהייתה הרבה לפני פריצת הבינה המלאכותית."
   },
   {
-    "id": "1vf0x8c",
-    "title": "Forward P/E is a bad metric to use when valuing cyclical stocks.",
-    "url": "https://www.reddit.com/r/investing/comments/1vf0x8c/forward_pe_is_a_bad_metric_to_use_when_valuing/",
-    "author": "daddysgirl794",
-    "score": 1,
-    "selftext": "So you've heard that Micron (MU) has a forward P/E multiple of 4. Four! Sounds crazy undervalued, right? How is no one else seeing this, you might think? Well, it's because forward P/E multiples as they pertain to cyclicals at peak demand-supply imbalance don't really function the same as they do for the average company.\n\nNow before you start racing to type that memory and semiconductors are \"no longer cyclical\", let's entertain the possibility that they are in fact no longer cyclical. If so, a forward P/E multiple of 4 screams ridiculously undervalued. It should be double that number, even triple that! We keep hearing about how demand is stretched through 2030 or further, supply is non-existent - how could it possibly be so undervalued? Well, maybe the market is wrong, and MU will go to $2500 by next year.\n\nHowever, if memory is in fact still cyclical, and we are currently now sitting at the peak of this cycle's demand-supply imbalance, a low forward P/E multiple is actually a bad sign, and a bad metric to judge its value. Why? Because forward P/E multiples project earnings 12-24 months out, and the expectation is current short-term extreme highs are unlikely to be sustainable, making it look deceptively cheap.\n\nCase in point: in 2000, MU traded at a seemingly low forward P/E multiple, just as it is now. This low valuation occurred because earnings estimates reached an unsustainable cyclical peak just before DRAM memory chip prices collapsed, leading to a severe evaporation of earnings and a subsequent crash in the stock.\n\nIronically, MU's forward P/E multiple exploded upwards during this crash because of the dip in earnings, so investors got the higher forward P/E they had been anticipating, but at the cost of the stock crashing 90% in just 3 years.",
-    "subreddit": "investing",
-    "created_utc": 1785820303,
+    "id": "1veiai6",
+    "title": "Deadline to Submit Claims on the Tattooed Chef ($TTCF) $4.75M Settlement is Tomorrow",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1veiai6/deadline_to_submit_claims_on_the_tattooed_chef/",
+    "author": "11thestate",
+    "score": 4,
+    "selftext": "Hey guys, if you missed it, Tattooed Chef settled $4.75 million with investors over claims that it misled them about its financial condition, overstated revenue, and concealed accounting and internal control issues. The deadline to file a claim and receive payment is August 4, 2026.\n\nIn a nutshell, investors alleged that after its 2020 SPAC merger, Tattooed Chef failed to disclose serious accounting problems and weaknesses in its financial reporting. The company later revealed material control issues, restated its financial statements, and eventually filed for Chapter 11 bankruptcy.\n\nAs these disclosures came out, investors claimed they suffered significant losses and later filed a lawsuit.\n\nNow, the good news is that the company has agreed to settle for $4.75 million, and investors have until tomorrow to submit a claim.\n\nSo, if you invested in $TTCF during the class period, you can check the details and file your claim [here](https://11th.com/cases/tattooedchef-investor-settlement).\n\nAnyway, did anyone here invest in $TTCF back then? How much were your losses, if any?",
+    "subreddit": "StockMarket",
+    "created_utc": 1785774430,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "So you bought MU at $1,200 and sold at $700",
-        "score": 10,
-        "author": "SerMumble"
+        "body": "ttcf is honestly a perfect little monument to the whole 2020 spac era. overstated revenue, restated financials, then chapter 11, thats basically the entire spac boom compressed into one ticker. didnt hold it myself but ive got a couple other spac graveyard names that taught me the same lesson lol",
+        "score": 2,
+        "author": "booba2005"
       },
       {
-        "body": "Classic cyclical trap: the stock looks cheapest when earnings are closest to the peak, and most expensive when earnings are near the bottom.\n\n",
-        "score": 2,
+        "body": "https://www.tattooedchefsecuritiessettlement.com/\n\nThat’s the link I just did it today. God bless!",
+        "score": 1,
+        "author": "00decio"
+      },
+      {
+        "body": "It's still August 3rd (10:24PM EST) and it says the deadline has passed when I go to the claim form :/",
+        "score": 1,
+        "author": "hman93"
+      }
+    ],
+    "summary_he": "חברת Tattooed Chef ($TTCF) הגיעה להסדר פשרה בסך 4.75 מיליון דולר בעקבות תביעה על הטעיית משקיעים, דיווחים כוזבים והסתרת כשלים חשבונאיים שהובילו בסופו של דבר לפשיטת רגל. משקיעים שספגו הפסדים בתקופה הרלוונטית נדרשים להגיש תביעה לקבלת פיצוי עד מחר.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit אודות חברת Tattooed Chef (TTCF), המציג 6 נקודות מרכזיות, דעות ותחושות בקהילה:\n\n*   **TTCF כמשל לתקופת ה-SPAC:** החברה נתפסת כ\"אנדרטה מושלמת\" לכל עידן ה-SPAC של שנת 2020. היא מייצגת את הנסיקה וההתרסקות המהירה שאפיינה חברות רבות שהונפקו בדרך זו באותה תקופה.\n*   **דפוס של כישלון פיננסי:** המגיבים מצביעים על מסלול הדרדרות קלאסי וצפוי מראש: הצהרה על הכנסות מופרזות, הצגה מחדש של דוחות כספיים עקב טעויות (Restatement), ולבסוף הגשת בקשה לפשיטת רגל (Chapter 11).\n*   **\"בית הקברות של ה-SPACs\":** קיים רגש של הזדהות בין משקיעים שחוו הפסדים. גם מי שלא החזיק במניית TTCF ספציפית, מעיד כי למד שיעור דומה מהשקעות אחרות ב\"בתי קברות\" של חברות SPAC דומות שהכזיבו.\n*   **מיצוי זכויות משפטיות:** הקהילה משתפת באופן אקטיבי קישורים להסדרי פשרה בתביעות ניירות ערך (Securities Settlement), במטרה לסייע למשקיעים שאיבדו את כספם לנסות ולקבל פיצוי כלשהו.\n*   **תסכול טכני ובירוקרטי:** משתמשים מדווחים על קשיים בהגשת תביעות הפיצויים; למרות שהתאריך האחרון להגשה טרם חל רשמית מבחינה קלנדרית, המערכת כבר מציגה הודעה שהמועד עבר, מה שמעורר אכזבה וחוסר אונים.\n*   **תחושת סולידריות בקרב המפסידים:** למרות האובדן הכספי, ניכרת בשרשור רוח של עזרה הדדית (\"אלוהים יברך אותך\") וניסיון להפיק לקחים קולקטיביים מהבועה שהתפוצצה."
+  },
+  {
+    "id": "1veczdk",
+    "title": "Alquiler de PowerBanks",
+    "url": "https://www.reddit.com/r/business/comments/1veczdk/alquiler_de_powerbanks/",
+    "author": "AddressSilent9507",
+    "score": 2,
+    "selftext": "¿Veis viable esta idea de negocio en España?\n\nEstoy pensando en montar una red de estaciones de alquiler de powerbanks en España.\n\nLa idea consiste en comprar mis propias estaciones e instalarlas en pubs, bares de copas, discotecas y otros locales de ocio. Cuando un cliente se queda sin batería, puede alquilar un powerbank durante unas horas mediante un pago con QR (Apple Pay, Google Pay, Visa, Mastercard, etc.) y devolverlo después.\n\nYo asumiría toda la inversión inicial (compra de las estaciones), el mantenimiento, la reposición de baterías, las averías y la gestión del software. El local únicamente tendría que ceder un pequeño espacio y, a cambio, recibiría un 20-30% de los ingresos de cada alquiler, sin tener que invertir dinero ni preocuparse por la gestión.\n\nCreo que el servicio puede resultar útil porque hoy en día mucha gente depende del móvil para pagar, pedir un Uber o taxi, usar Google Maps, comunicarse por WhatsApp o enseñar entradas y billetes. Quedarse sin batería durante una noche de ocio puede ser un problema, por lo que pagar unos pocos euros por un powerbank puede compensar.\n\nDesde el punto de vista del emprendedor, me parece interesante porque, una vez instaladas las estaciones, el negocio podría escalar añadiendo más ubicaciones y generar ingresos recurrentes sin necesidad de estar vendiendo un producto continuamente.\n\n¿Veis este modelo de negocio viable o creéis que tiene algún punto débil importante que no estoy teniendo en cuenta? \n\nMe interesa cualquier opinión, especialmente si tenéis experiencia en hostelería, vending o negocios similares.",
+    "subreddit": "business",
+    "created_utc": 1785762555,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Sí, me puedo permitir comprar varias, aunque me da miedo lo gran presión fiscal que hay en España para los empresarios jaja",
+        "score": 1,
+        "author": "AddressSilent9507"
+      },
+      {
+        "body": "I think you could give it a shot - after all, the investment required for this business model isn't that high. In China, mobile power bank rental services are very common, and you can easily rent one at any restaurant or shopping mall",
+        "score": 1,
+        "author": "Neo3379"
+      }
+    ],
+    "summary_he": "הכותב מציע מודל עסקי להקמת רשת תחנות להשכרת מטענים ניידים (powerbanks) במקומות בילוי בספרד, במטרה לספק פתרון זמין לאנשים שסוללת הטלפון שלהם התרוקנה. לפי ההצעה, היזם ינהל את כל ההשקעה והתחזוקה, בעוד בעלי העסקים יקבלו אחוז מההכנסות בתמורה להקצאת שטח בלבד. מדובר במודל שואף לייצר הכנסה פסיבית וניתנת להרחבה (Scalable) על ידי מתן מענה לצורך חיוני לניווט, תשלומים ותקשורת במהלך הבילוי.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט ורגשות שונים שעלו בקהילה:\n\n*   **נכונות כלכלית ויכולת רכישה:** אחד המשתתפים מציין כי יש לו את המשאבים הכספיים הדרושים כדי לרכוש מספר יחידות של הציוד, מה שמעיד על כך שחסם הכניסה מבחינת הון עצמי אינו הבעיה המרכזית עבורו.\n*   **חשש כבד מהנטל הפיסקלי בספרד:** קיימת דאגה משמעותית מהמיסוי הגבוה והלחץ הכלכלי המופעל על יזמים בספרד. רגש זה משלב חשש מהבירוקרטיה והעלויות הנלוות לניהול עסק עצמאי במדינה.\n*   **השקעה נמוכה כגורם מעודד:** המגיבים מציינים כי המודל העסקי של השכרת מטענים ניידים אינו דורש השקעה ראשונית גבוהה במיוחד, מה שהופך את הסיכון לכדאי ואת המיזם לנגיש יותר.\n*   **הצלחה מוכחת בשווקים בינלאומיים (דגש על סין):** הקהילה מצביעה על כך שבסין השירות כבר הפך לסטנדרט נפוץ מאוד, מה שמשמש כהוכחת היתכנות (Proof of Concept) להצלחת המודל במקומות אחרים.\n*   **זיהוי מיקומים אסטרטגיים לצמיחה:** הדיון מדגיש כי השירות יעיל במיוחד בנקודות קצה כמו מסעדות ומרכזי קניות, שם הצורך של הלקוחות במטען זמין הוא הגבוה ביותר.\n*   **גישה של \"פשוט לנסות\" (Risk-taking):** לצד החששות, עולה נימה של עידוד לנקיטת יוזמה. המסר הוא שבהתחשב בעלויות הנמוכות ובביקוש הקיים, כדאי לקפוץ למים ולנסות את המיזם למרות המכשולים המערכתיים."
+  },
+  {
+    "id": "1vfsmuo",
+    "title": "Can I negotiate my business sba loan down?",
+    "url": "https://www.reddit.com/r/finance/comments/1vfsmuo/can_i_negotiate_my_business_sba_loan_down/",
+    "author": "Vickskag1000",
+    "score": 1,
+    "selftext": "I have a significant sba loan from trying to keep my business open during covid. We are currently looking at bankruptcy for the business. That will involve both me and my business partner declaring personal bankruptcy as well. As I understand it, that will mean no money for the SBA to collect, besides business assets that we can sell, which will not come close to cover it. If I can find money from family etc to pay some money ($50k vs $300+k) wouldn't they want that? Or is that gonna follow me forever no matter what? Trying to not have to declare bankruptcy.",
+    "subreddit": "finance",
+    "created_utc": 1785891524,
+    "thumbnail": "https://preview.redd.it/xjnabno9gghh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=fe5354c03473e2f42cfe089c1515eaed53c47af7",
+    "top_comments": [
+      {
+        "body": "We just have multiple food carts and other large pieces. They won't do anything to cover it besides a small slice overall ",
+        "score": 1,
+        "author": "Vickskag1000"
+      },
+      {
+        "body": "Thanks, that's the real question here. My point is, if I can negotiate down the SBA loan, and I can get bailed out, wouldn't that be better than bankruptcy? Also, I do think bankruptcy is the move but I wanna explore every option",
+        "score": 1,
+        "author": "Vickskag1000"
+      },
+      {
+        "body": "This probably isn’t the best subreddit. If you don’t have substantial personal assets you should likely just declare bankruptcy. It’s not as horrible as you might think. Get a consult with an attorney asap. Why would you want to beg for money from friends and family just to hand over to a bank and the government? Use it to get back on your feet after bankruptcy. ",
+        "score": 1,
+        "author": "moleasses"
+      }
+    ],
+    "summary_he": "הכותב שוקל להכריז על פשיטת רגל עסקית ואישית בשל חוב של מעל 300 אלף דולר להלוואת SBA שנלקחה בזמן הקורונה. הוא מנסה לברר האם ניתן להגיע להסדר חוב בסכום מופחת משמעותית כדי להימנע מהליך פשיטת הרגל ומההשלכות ארוכות הטווח שלו.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות בשרשור, המציג שש נקודות מבט ועמדות שונות של חברי הקהילה:\n\n*   **חוסר הלימה בין נכסים לחובות:** קיימת הבנה שנכסי העסק הקיימים (כמו עגלות מזון וציוד גדול אחר) הם בעלי ערך מוגבל ביחס לחוב הכולל, ומימושם יכסה רק \"פרוסה קטנה\" מההתחייבויות הכספיות.\n*   **שאיפה למשא ומתן והסדרים:** עולה השאלה האם ניתן לנהל משא ומתן על הפחתת גובה ההלוואה (במיוחד מול ה-SBA) או להשיג \"חילוץ\" (Bailout) כחלופה מועדפת על פני הכרזה על פשיטת רגל.\n*   **מיצוי אפשרויות לפני צעד קיצוני:** למרות ההכרה בכך שפשיטת רגל היא כנראה הצעד הבלתי נמנע, קיים רצון עז של בעל העסק לחקור כל נתיב אפשרי אחר לפני שהוא מוותר סופית.\n*   **שינוי התפיסה לגבי פשיטת רגל:** חברי קהילה טוענים כי פשיטת רגל אינה \"נוראית כפי שנוטים לחשוב\", במיוחד עבור מי שאין לו נכסים אישיים משמעותיים להפסיד, ומציעים לראות בה כלי לגיטימי.\n*   **הגנה על רשת הביטחון האישית:** הועלתה עצה נחרצת שלא לגייס כספים מחברים וממשפחה רק כדי להעבירם לבנקים או לממשלה. במקום זאת, מומלץ לשמור על תמיכת הקרובים כדי \"לחזור לעמוד על הרגליים\" לאחר סיום ההליכים המשפטיים.\n*   **חשיבות הייעוץ המקצועי ומיקום הדיון:** קיימת הסתייגות לגבי התאמת הפורום (Subreddit) לייעוץ בנושאים גורליים כאלה, לצד המלצה חד-משמעית לפנות לייעוץ משפטי אצל עורך דין בהקדם האפשרי."
+  },
+  {
+    "id": "1vfmcn5",
+    "title": "Kevin Warsh told Wall Street he’d be sharing less—Goldman Sachs fears a void of Fed facts will only amplify misinformation and instability",
+    "url": "https://www.reddit.com/r/finance/comments/1vfmcn5/kevin_warsh_told_wall_street_hed_be_sharing/",
+    "author": "fortune",
+    "score": 1,
+    "selftext": "Fed Chairman Kevin Warsh has been clear: The central bank has gotten too comfortable sharing its expectations for the path of monetary policy, and believes its policy decisions have been hamstrung as a result. Wall Street is now blasting its response: Dialing back communications will be tolerated, a perceived void of information will not be.\n\nThe boomerang Fed policymaker (Warsh served on the Board of Governors from 2006 to 2011 under his mentor, chairman Ben Bernanke) has been consistent in his criticism of forward guidance—the practice of publicly sharing expectations of where short-term interest rates will go.\n\nDuring a press conference following the meeting of the Federal Open Market Committee (FOMC) last week, Warsh built on his thinking. In reducing forward guidance, he said, market prices can respond to economic data “in the direction and magnitude they see fit.” This ultimately benefits the Fed, he suggested: “The central bank need not always and everywhere be the center of attention … For our part, we need to observe market reaction to developments, direct and unfiltered.”  \n  \nIf reaction is welcome, markets delivered: Long-dated bonds spiked after Warsh’s statement and remain elevated, while two-year Treasuries slumped, reflecting expectations that the Fed would not be tightening financial conditions. The response from investors wasn’t necessarily in reaction to what Warsh did or didn’t say, J.P. Morgan’s Alex Wolf told *Fortune*, it was a reflection of newfound uncertainty.  \n  \nRead more \\[paywall removed for Redditors\\]:  [https://fortune.com/2026/08/04/kevin-warsh-forward-guidance-goldman-sachs-wall-street-framework-inflation/?utm\\_source=reddit/](https://fortune.com/2026/08/04/kevin-warsh-forward-guidance-goldman-sachs-wall-street-framework-inflation/?utm_source=reddit/)",
+    "subreddit": "finance",
+    "created_utc": 1785876046,
+    "thumbnail": "https://external-preview.redd.it/REjZ_3aOVe9zChKQKLaSB0iC9bnXFroKkkHsP9L-yck.jpeg?width=140&height=70&auto=webp&s=6fb9f0144662e055bf8465534eff413595ad38ea",
+    "top_comments": [
+      {
+        "body": "Wouldn’t this actually reward companies with strong fundamentals instead of those relying on Fed guidance?",
+        "score": 1,
+        "author": "Simple-Sound4405"
+      },
+      {
+        "body": "The fed listens to how the market reacts and prices in anyways\n\nThe fed will always lag markets ",
+        "score": 1,
+        "author": "gyunikumen"
+      },
+      {
+        "body": "Headline:  \n![gif](giphy|gDPxwdP6SKFnsWDJ2u)",
+        "score": 1,
+        "author": "imdaviddunn"
+      }
+    ],
+    "summary_he": "יו\"ר הפדרל ריזרב, קווין וורש, הודיע על כוונתו לצמצם את רמת השקיפות והתחזיות המוקדמות (forward guidance) לגבי מדיניות הריבית, במטרה לאפשר לשווקים להגיב לנתונים כלכליים באופן עצמאי. מנגד, בוול סטריט מזהירים כי צמצום המידע עלול ליצור חלל של אי-ודאות שיגביר את חוסר היציבות הפיננסית ויוביל לתנודתיות חריגה בשווקים.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון בפורום רדיט, המנתח את דעות הגולשים בנוגע ליחסי הגומלין בין הפדרל ריזרב (הפד) לשוק ההון:\n\n**סיכום הדיון בנקודות:**\n\n*   **תגמול על יסודות כלכליים (Fundamentals):** עולה סברה כי שינוי במדיניות הפד עשוי להוביל למצב בריא יותר, שבו חברות בעלות מודל עסקי יציב ורווחיות אמיתית יתוגמלו, בניגוד לחברות שנשענות רק על \"כסף זול\" או על תחזיות הריבית.\n*   **הפחתת התלות בהנחיות הפד:** חלק מהמשתמשים רואים בחיוב את האפשרות שהשוק יפסיק להסתמך בצורה כה הדוקה על ה-Forward Guidance (הכוונת השוק קדימה) של הבנק המרכזי, מה שיאלץ משקיעים לבחון את הערך הריאלי של חברות.\n*   **הפד כגורם מגיב ולא מוביל (Lagging Indicator):** קיימת טענה חזקה בקהילה שהפדרל ריזרב תמיד נמצא צעד אחד מאחורי השוק; הוא מגיב לנתונים שכבר קרו ולתגובות השוק, במקום להוביל את המגמה בעצמו.\n*   **תמחור מוקדם על ידי השוק:** הגולשים מציינים כי השוק \"מתמחר\" (Prices in) את המהלכים הצפויים עוד לפני שהפד מבצע אותם בפועל, מה שהופך את החלטות הבנק המרכזי לעיתים לרלוונטיות פחות בזמן אמת.\n*   **ספקנות וציניות לגבי המצב הקיים:** השימוש באמצעים ויזואליים (כמו הגיף \"This is fine\") מעיד על תחושה בקהילה שהמצב בשווקים רעוע או מסוכן מכפי שזה נראה כלפי חוץ, וכי ההצהרות הרשמיות אינן משקפות את חומרת המצב.\n*   **דינמיקת השוק מול הרגולטור:** ניכרת הבנה בקהילה שישנו \"משחק\" מתמיד של חתול ועכבר בין תגובות המשקיעים לבין החלטות הריבית, כאשר השוק מנסה לנחש את הפד והפד מנסה להרגיע את השוק, מה שיוצר לעיתים עיוותים כלכליים."
+  },
+  {
+    "id": "1vg1431",
+    "title": "GV Electricals IPO suddenly extended after closing date!?",
+    "url": "https://www.reddit.com/r/investing/comments/1vg1431/gv_electricals_ipo_suddenly_extended_after/",
+    "author": "rajatagra",
+    "score": 1,
+    "selftext": "So I was looking for Anawil Wire on Zerodha and found that GV Electricals IPO, which closed yesterday (August 4), is open for applying till 7 August.\n\n  \nSaw something like this for the first time in IPOs... is this a glitch on my Kite app, or is this something else? And why does this happen?",
+    "subreddit": "investing",
+    "created_utc": 1785917429,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "המשתמש מציין כי מועד הסגירה של הנפקת GV Electricals הוארך במפתיע עד ה-7 באוגוסט, למרות שהיה אמור להסתיים ב-4 באוגוסט. הוא תוהה האם מדובר בתקלה טכנית באפליקציית המסחר שלו (Zerodha) או בתופעה מוכרת, ומבקש להבין מהן הסיבות להארכה כזו.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1vfxk5t",
+    "title": "Thoughts on QFLR and QB? why is ProShares QB etf not popular ?",
+    "url": "https://www.reddit.com/r/investing/comments/1vfxk5t/thoughts_on_qflr_and_qb_why_is_proshares_qb_etf/",
+    "author": "SnooRabbits9033",
+    "score": 1,
+    "selftext": "These two ETFs are not much talked about. My take on this is that these can be good ways to reduce downside risk while still riding out bull runs. I am leaning on parking my funds in QB its up 13% this yr and is much muted during down turns like the 10% pull back we just saw. My approach is not to use these kinds of funds as my core or majority of my funds but to park a small portion of my overall portfolio to manage risk.\n\nMy personal leaning is on QB, but somehow there AUM is very low just $2.8M I am curious why it has not picked up in the market. QFLR looks good but I dont like there strategy but has $b in AUM. They both are catering to risk mitigation though so I am wondering why QB has not gotten popular yet.",
+    "subreddit": "investing",
+    "created_utc": 1785905588,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "QB probably isn’t unpopular because investors overlooked it. It charges 0.87% and uses daily options to reshape Nasdaq-100 returns. Most people either want the full upside from QQQ or actual safety in cash/Treasuries; QB sits awkwardly in the middle. You still have equity risk, you give up some upside, and with only a few million in assets you also have liquidity and fund-closure concerns. I wouldn’t really call that “parking” money.",
+        "score": 1,
         "author": "Torres_Andre337"
       },
       {
-        "body": "Buffett says that the P/E ratio is just **people's future expectations**, and they are **buying in advance**. include this and  other **ratios** cannot help you predict your investment's future. However, if you understand a company, its sector, and its operations, you can see if its demand will remain strong.",
+        "body": "Buffer funds under perform there index over the long term and have high fees which also drags down long term performance. \n\nIn terms of QB it kind of fails the “do I understand how this financial product works” test. I kind of get the general idea but it seems to be getting into complex derivatives territory which is always dangerous. \n\nThese also seen to be doing to opposing actions. For example for QFLR which is a small cap buffer fund. Typically you get into small cap because you want to expose your portfolio to the priced risk of small cap stocks but then you then undercut that risk by making it a buffer fund and pay a higher fee. You’d likely be better off getting a more appropriately risky fund with lower fees and no derivatives. \n\nI view QB as worse since the nasdaq 100 is more volatile index but does not inherently contrain any priced risks. \n\nLike anything it can work out in the short term but in the long term the inherent mechanics give a high probability of under performing. ",
         "score": 1,
-        "author": "Deevog"
+        "author": "bwhite9"
       }
     ],
-    "summary_he": "הפוסט טוען כי מכפיל רווח עתידי (Forward P/E) נמוך במניות מחזוריות הוא לעיתים קרובות מדד מטעה ולא מעיד על תמחור חסר. בשיא המחזור, הרווחים הגבוהים גורמים למניה להיראות זולה באופן זמני, אך הם אינם ברי-קיימא ועלולים לבשר על קריסה קרובה במחיר המניה ברגע שהביקוש יירד והרווחים יתנדפו.",
+    "summary_he": "הפוסט עוסק בשימוש בתעודות הסל QFLR ו-QB כאמצעי לניהול סיכונים וצמצום הפסדים בעת ירידות בשוק. הכותב מעדיף להשקיע ב-QB בשל ביצועיה היציבים והתנודתיות הנמוכה שלה, ותוהה מדוע היא אינה פופולרית והיקף הנכסים המנוהלים בה (AUM) נמוך משמעותית בהשוואה ל-QFLR.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג 6 נקודות מבט וסנטימנטים מרכזיים שעלו מהתגובות:\n\n*   **הביקורת על תזמון שוק לקוי:** התגובה הראשונה מדגישה בציניות את הטעות הקלאסית של משקיעים חובבים – \"קנייה בשיא ומכירה בשפל\". היא ממחישה מקרה קיצוני של רכישת מניית MU במחיר גבוה מאוד ($1,200) ומכירתה לאחר ירידה חדה ($700), מה שמשקף סנטימנט של לעג לניהול סיכונים כושל.\n*   **מלכודת המניות המחזוריות (Cyclical Trap):** אחת הנקודות המרכזיות בדיון היא האופי המטעה של מניות במגזרים מחזוריים. הקהילה מציינת כי משקיעים נופלים לעיתים קרובות למלכודת שבה המניה נראית אטרקטיבית דווקא ברגעים הלא נכונים.\n*   **הפרדוקס של מכפיל הרווח (P/E) במחזורי עסקים:** הדיון מסביר כי במניות מחזוריות, המניה נראית \"זולה\" ביותר (מכפיל נמוך) דווקא כשהרווחים נמצאים בשיא שלהם (רגע לפני נפילה), ונראית \"יקרה\" ביותר כשהרווחים בשפל (רגע לפני זינוק).\n*   **מכפיל הרווח כשיקוף של ציפיות עתידיות:** בהתייחסות לגישת וורן באפט, נטען כי מכפיל הרווח אינו מייצג ערך נוכחי אובייקטיבי, אלא הוא למעשה \"קנייה מראש\" של הציפיות העתידיות של השוק מהחברה.\n*   **חוסר היכולת של יחסים פיננסיים לנבא את העתיד:** עולה טענה חריפה נגד הסתמכות בלעדית על יחסים פיננסיים (כמו P/E ודומיו). הקהילה גורסת כי נתונים אלו כשלעצמם אינם כלי עזר יעיל לחיזוי הביצועים העתידיים של ההשקעה.\n*   **חשיבות ההבנה המהותית של העסק (Fundamental Understanding):** כחלופה להסתמכות על מספרים יבשים, מוצע כי המפתח להצלחה הוא הבנה עמוקה של החברה, הסקטור שלה, אופן הפעולה שלה והיכולת להעריך האם הביקוש למוצריה יישאר חזק לאורך זמן."
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע לקרן QB וקרנות מסוג Buffer (קרנות המציעות הגנה מסוימת מפני ירידות תמורת הגבלת רווחים):\n\n*   **דמי ניהול גבוהים ופגיעה בתשואה:** המגיבים מציינים כי דמי הניהול בקרן QB (כ-0.87%) גבוהים מאוד. לאורך זמן, העלויות הללו, יחד עם המבנה המכני של הקרן, מובילים בסבירות גבוהה לביצועי חסר (Underperformance) לעומת מדד הייחוס.\n*   **בעיית מיצוב בשוק (\"שטח מת\"):** נטען כי הקרן נמצאת במקום בעייתי מבחינת אסטרטגיית השקעה; רוב המשקיעים מחפשים או חשיפה מלאה לעליות (כמו ב-QQQ) או ביטחון מוחלט (כמו במזומן או באג\"ח ממשלתי). QB מנסה לשלב ביניהם אך נכשלת בלספק מענה אופטימלי לאף אחת מהקבוצות.\n*   **מורכבות וחוסר שקיפות:** קיים חשש מהשימוש בנגזרים פיננסיים מורכבים ובאופציות יומיות כדי לעצב מחדש את התשואות. המגיבים טוענים כי המוצר אינו עובר את מבחן \"האם אני מבין איך זה עובד\", וכי מורכבות כזו היא לרוב מסוכנת למשקיע הפרטי.\n*   **סיכוני נזילות וסגירת הקרן:** בשל היקף נכסים נמוך (AUM) של מיליוני דולרים בודדים, עולה חשש ממשי לגבי נזילות הקרן ואף מהאפשרות שהיא תיסגר בעתיד. לכן, המגיבים לא רואים בה מקום בטוח ל\"חניית\" כספים.\n*   **סתירה אסטרטגית בקרנות Buffer:** הועלה טיעון כי קיים כשל לוגי בקרנות אלו, במיוחד בנכסים תנודתיים כמו מניות קטנות או נאסד\"ק. משקיעים נכנסים לאפיקים אלו כדי להיחשף לסיכון תמורת תשואה, אך ה-Buffer מקזז את הסיכון הזה בעלות גבוהה. עדיף למשקיע לבחור מראש בנכס פחות מסוכן עם דמי ניהול נמוכים.\n*   **סיכון מול סיכוי:** למרות ה\"הגנה\" המוצעת, המשקיע עדיין חשוף לסיכוני השוק של מניות הטכנולוגיה, אך בו בזמן הוא מוותר על חלק משמעותי מפוטנציאל העליות. המגיבים מסכמים כי האסטרטגיה עשויה לעבוד לטווח קצר, אך היא אינה יעילה למשקיעים לטווח ארוך."
   },
   {
-    "id": "1vezfi8",
-    "title": "PLTR nearly doubled revenue. Is valuation still the main bear case?",
-    "url": "https://www.reddit.com/r/investing/comments/1vezfi8/pltr_nearly_doubled_revenue_is_valuation_still/",
+    "id": "1vfwq1u",
+    "title": "AMD and SpaceX both grew fast. The market punished the cost of that growth.",
+    "url": "https://www.reddit.com/r/investing/comments/1vfwq1u/amd_and_spacex_both_grew_fast_the_market_punished/",
     "author": "FailOk1528",
     "score": 1,
-    "selftext": "PLTR just reported 93% revenue growth, with US commercial revenue up 149% and free cash flow reaching $1.22B.\n\nI don’t own the stock because the valuation has always looked ridiculous to me. But after another quarter like this, I’m not sure valuation alone is a complete bear case anymore.\n\nI still wouldn’t call it cheap. What are bears expecting to break first: growth, margins, or the multiple?",
+    "selftext": "AMD grew revenue 50%. SpaceX grew 92%. I expected at least one of them to get rewarded for numbers like that, but both stocks fell.\n\nWhat stood out wasn’t weak demand. AMD’s margin outlook barely moved, while SpaceX spent nearly $16B on AI infrastructure and still lost money.\n\nMaybe the market isn’t turning bearish on AI demand. Maybe it’s just becoming less willing to reward growth at any cost.\n\nWas this just an expectations problem, or are investors finally changing what they want to see from AI companies?",
     "subreddit": "investing",
-    "created_utc": 1785815631,
+    "created_utc": 1785902981,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "You’re kidding yourself if you think any administration would be any different.\n\nBlue state governments love Palantir too",
-        "score": 1,
-        "author": "Etherius"
+        "body": "AMD stock price went up 142% YTD while revenue grew 50%. Is the punishment in the room with us?",
+        "score": 21,
+        "author": "lovely_potato"
       },
       {
-        "body": "The bear case is that nothing actually has to “break.” Growth can stay strong and the stock can still underperform if the multiple compresses. At this valuation, even very good results may eventually stop being good enough.\n\n",
-        "score": 1,
-        "author": "Torres_Andre337"
+        "body": "SpaceX is a $1.6T company making $7.8B in quarterly revenue.",
+        "score": 10,
+        "author": "daddysgirl794"
       },
       {
-        "body": "Fascism pays under this administration. ",
-        "score": 1,
-        "author": "Imnotsureanymore8"
-      }
-    ],
-    "summary_he": "חברת Palantir דיווחה על צמיחה מרשימה של 93% בהכנסות ותזרים מזומנים חופשי גבוה, מה שמעורר ספקות לגבי הטיעון שערך המניה המנופח הוא עדיין הסיכון המרכזי. הכותב תוהה האם לאור התוצאות החזקות, ה\"דובים\" (הספקנים) מצפים לבלימה עתידית בצמיחה, בשולי הרווח או דווקא לירידה במכפילים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג שש נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **אדישות לזהות הממשל:** קיימת טענה שזהות הממשל (דמוקרטי או רפובליקני) אינה רלוונטית להצלחת החברה, וכי כל ממשל שיהיה בשלטון ימשיך להשתמש בשירותיה של פלנטיר (Palantir).\n*   **אימוץ נרחב במדינות \"כחולות\":** מצוין כי גם ממשלים מקומיים במדינות המזוהות עם המפלגה הדמוקרטית עושים שימוש נרחב בטכנולוגיה של החברה, מה שמעיד על תמיכה דו-מפלגתית פרקטית.\n*   **החשש מ\"כיווץ מכפילים\":** הטיעון הדובי (Bear case) גורס כי גם ללא \"תקלה\" בחברה, המניה עלולה לרדת אם השוק יחליט להוריד את מכפילי הרווח הגבוהים שבהם היא נסחרת כעת.\n*   **פער בין ביצועי החברה לביצועי המניה:** מועלית האפשרות שהחברה תמשיך להציג צמיחה חזקה וביצועים עסקיים טובים, אך למרות זאת המניה תציג ביצועי חסר עבור המשקיעים בשל תמחור יתר.\n*   **רף ציפיות גבוה מדי:** לאור הערכת השווי הנוכחית, קיימת תחושה שגם תוצאות כספיות \"טובות מאוד\" כבר לא יספיקו כדי לדחוף את המניה למעלה, שכן הציפיות מהחברה הפכו לקיצוניות.\n*   **ביקורת אתית ופוליטית:** סנטימנט בקהילה קושר בין רווחי החברה לבין מדיניות שלטונית שנויה במחלוקת, תוך שימוש במונחים קשים כמו \"פשיזם\" כדי לתאר את האופן שבו החברה מרוויחה תחת הממשל הנוכחי."
-  },
-  {
-    "id": "1veyuzy",
-    "title": "SGOV reinvestments stopped. Why?",
-    "url": "https://www.reddit.com/r/investing/comments/1veyuzy/sgov_reinvestments_stopped_why/",
-    "author": "sawihsiwi",
-    "score": 1,
-    "selftext": "At the start of the year I bought about $130k of SGOV, set to reinvest (via Schwab).\n\nI was receiving new lots on a monthly basis. \n\nin May I sold about $100k, leaving a balance of over $30k. Now there are no new lots listed. \n\nnot sure why this happened.  ",
-    "subreddit": "investing",
-    "created_utc": 1785813920,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Call schwab and ask.  Either you chose to no longer DRIP or they did that for you mistakenly.",
+        "body": "Ffs bro like obviously SpaceX is not going to be rewarded for growth when it's priced for earnings people will believe it will have 50 years from now, and the stock is primarily owned by low iqs who don't even know what a PE ratio is. SpaceX shareholders probably have no idea how much revenue it makes.",
         "score": 9,
-        "author": "GaylrdFocker"
-      },
-      {
-        "body": "They do, the poster you replied to is wrong.",
-        "score": 5,
-        "author": "Khantahr"
-      },
-      {
-        "body": "Schwab still doesn’t allow fractional purchases? This is how I ended up at Fidelity for my bond funds. ",
-        "score": 1,
-        "author": "WasteProfession8948"
+        "author": "pizzababa21"
       }
     ],
-    "summary_he": "הכותב מתאר מקרה שבו השקעה חוזרת אוטומטית (DRIP) בקרן SGOV הפסיקה לפעול לאחר שמכר חלק משמעותי מאחזקותיו בחשבון Schwab. למרות שנותרה לו יתרה של כ-30 אלף דולר, הוא אינו מקבל יותר יחידות חדשות מדי חודש כפי שהיה בעבר ותוהה מה הסיבה לכך.",
+    "summary_he": "הפוסט מציין שלמרות צמיחה משמעותית בהכנסות של AMD ו-SpaceX, השוק הגיב בירידות מחירים בשל עלויות הצמיחה הגבוהות. הכותב טוען כי המשקיעים כבר אינם מוכנים לתגמל \"צמיחה בכל מחיר\", ומעדיפים כעת לראות רווחיות ויעילות על פני השקעות עתק בתשתיות בינה מלאכותית.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום על בסיס התגובות שצוינו, המציג 6 נקודות מבט וסנטימנטים שונים מהקהילה:\n\n*   **המלצה על פנייה ישירה לתמיכה:** קיימת הסכמה שהדרך היעילה ביותר לפתור בעיות טכניות או בירורים לגבי הגדרות חשבון ב-Schwab היא ליצור קשר טלפוני ישיר עם שירות הלקוחות של החברה.\n*   **אי-ודאות בנוגע להגדרות הדיבידנדים (DRIP):** עולה תהייה האם הפסקת השקעת הדיבידנדים מחדש בוצעה באופן יזום על ידי המשתמש או שמדובר בטעות טכנית של המערכת.\n*   **חילוקי דעות לגבי יכולות הפלטפורמה:** ניתן לראות בלבול וסתירות בתוך הקהילה לגבי הפיצ'רים הקיימים ב-Schwab, כאשר משתמשים מתקנים זה את זה בנוגע למה שניתן או לא ניתן לבצע באתר.\n*   **ביקורת על היעדר רכישת שברי מניות (Fractional Shares):** אחד הסנטימנטים הבולטים הוא אכזבה מכך ש-Schwab עדיין לא מאפשרת רכישה של חלקי מניות, מה שנתפס כפיגור טכנולוגי מול המתחרים.\n*   **מעבר למתחרים בשל חסרונות במוצר:** חוסר בשירותים מסוימים (כמו שברי מניות) מוביל משתמשים לנטוש את Schwab לטובת פלטפורמות אחרות, דוגמת Fidelity, המציעות חוויית שימוש גמישה יותר.\n*   **העדפת פלטפורמות ספציפיות לסוגי נכסים מסוימים:** קיימת עמדה לפיה עבור ניהול קרנות אג\"ח (bond funds), פלטפורמות אחרות עדיפות על פני Schwab בשל יכולות המסחר והרכישה המדויקות יותר שהן מציעות."
+    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות, המציג שש נקודות מבט וסנטימנטים שונים בקהילה:\n\n*   **פער בין צמיחת הכנסות לערך המניה:** צוין כי מניית AMD זינקה ב-142% מתחילת השנה למרות שצמיחת ההכנסות עמדה על 50% \"בלבד\", מה שמעיד על תמחור גבוה משמעותית מהביצועים הפועל.\n*   **ספקנות לגבי \"ענישת\" חברות על ידי השוק:** הובעה עמדה צינית המטילה ספק בטענה שהשוק מעניש חברות טכנולוגיה, לאור העובדה ששווי השוק שלהן ממשיך לעלות בשיעורים חדים למרות האטה יחסית.\n*   **פער קיצוני בין שווי להכנסות ב-SpaceX:** עלתה ביקורת על הערכת השווי האסטרונומית של SpaceX (הנאמדת ב-1.6 טריליון דולר לפי המגיב) אל מול הכנסות רבעוניות נמוכות יחסית של 7.8 מיליארד דולר.\n*   **תמחור המבוסס על עתיד רחוק מאוד:** קיימת סברה שחברות מסוימות מתומחרות לפי רווחים שצפויים להגיע רק בעוד כ-50 שנה, ולא על פי פוטנציאל הצמיחה הריאלי לטווח הקרוב.\n*   **זלזול ברמה המקצועית של המשקיעים:** הובעה דעה חריפה לפיה חלק גדול מבעלי המניות (במיוחד ב-SpaceX) הם חסרי הבנה פיננסית בסיסית, ואינם מכירים מושגים כמו \"מכפיל רווח\" (P/E ratio).\n*   **התעלמות מנתונים פונדמנטליים:** נטען כי קיימת תופעה של משקיעים שקונים מניות ללא כל ידע או עניין בנתוני ההכנסות האמיתיים של החברה, אלא מתוך אמונה עיוורת או מניעים אחרים שאינם כלכליים טהורים."
   },
   {
-    "id": "1veyc1f",
-    "title": "Buying QQQ is easy. Holding through the drops is a whole different thing",
-    "url": "https://www.reddit.com/r/investing/comments/1veyc1f/buying_qqq_is_easy_holding_through_the_drops_is_a/",
-    "author": "itsjustmeventi",
+    "id": "1vfsk93",
+    "title": "After two years of Investing",
+    "url": "https://www.reddit.com/r/investing/comments/1vfsk93/after_two_years_of_investing/",
+    "author": "mmmauricioo",
     "score": 1,
-    "selftext": "I've been holding QQQ for almost four years now.\n\nI started buying during the 2022 selloff, so my average cost is still pretty good. I'm still up overall. I'm not actually losing money here.\n\nBut after this recent pullback, a huge chunk of my unrealized gains disappeared in what felt like no time. That's the part I wasn't really prepared for.\n\nPeople always say if you're holding QQQ for the long term, just ignore the noise. And logically I get it. The index has recovered from plenty of corrections before.\n\nEmotionally, though, it's different.\n\nWatching my unrealized P&L on moomoo go from green to red over a few days felt way worse than I expected, even though I'm still comfortably green overall. In some ways, it almost feels worse than being down early in the position because you've already gotten used to seeing those gains.\n\nI've always been a pretty passive investor. I buy, keep adding, and mostly ignore the day-to-day moves. I don't spend much time looking at what's driving the moves or whether this pullback is just another correction or something more meaningful. When it's going up, I feel smart. When it's dropping, I basically rely on faith.\n\nMaybe that's just part of long-term investing, but sometimes I wonder if there's a better way to handle it mentally.\n\nFor those of you who've been holding QQQ for years, what actually helps you stay calm during drawdowns?\n\nDo you just stop looking at your account, or do you actually watch certain things that help you tell the difference between a normal correction and something more serious?",
+    "selftext": "Started investing on July 7th, 2024 with about $12,000 from my savings. I'm up 38% since then at $63,000. Without the crypto I'm up 52% at $58,200.\n\nI know the average 10% a year is good and all and but I this seems a lot better, right? Just curious on everyones thoughts on the market right now, is everybody up like this? Is the whole market inflated and this is nothing? Lemme know ",
     "subreddit": "investing",
-    "created_utc": 1785812419,
+    "created_utc": 1785891322,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "you guys notice how many accounts that don't really participate in finance subs will just randomly drop a wall of AI slop and walk away? ",
-        "score": 18,
-        "author": "cdude"
+        "body": "The market has gone up 53% over the past 2 years so you are underperforming with that crypto.",
+        "score": 28,
+        "author": "Djent_Reznor1"
       },
       {
-        "body": "You’re up to 1.2% in space x and of course own a ton of Tesla. You’ll also own plenty of open ai, anthropoic, before the years end. Qqq doesn’t care about their investors and I no longer own any of it. \n\nSpace X was the top, you’re just seeing the vibrations before the real drop.",
-        "score": 2,
-        "author": "Acrobatic-Song-3151"
+        "body": "Without my poorly performing investments I'm up a crazy amount too.",
+        "score": 21,
+        "author": "donutsoft"
       },
       {
-        "body": "Four years? What drops have you experienced?",
-        "score": 2,
-        "author": "officialcrimsonchin"
+        "body": "We are in a long bull run, yes many people are up like this.",
+        "score": 7,
+        "author": "Pleasant_Proof10931"
       }
     ],
-    "summary_he": "הכותב משתף בקושי הרגשי הכרוך בהחזקת מדד ה-QQQ בזמן ירידות, ומציין שקל לקנות אך קשה הרבה יותר לצפות ברווחים שנצברו נעלמים במהירות \"על הנייר\". למרות שהוא עדיין מורווח ודוגל בהשקעה פסיבית, הוא מבקש עצות מהקהילה כיצד לשמור על קור רוח מנטלי ולהתמודד עם התנודתיות של השוק לאורך זמן.",
+    "summary_he": "המשתמש מציג רווחים משמעותיים בתיק ההשקעות שלו לאחר שנתיים, כאשר סכום התחלתי של 12,000 דולר צמח ל-63,000 דולר (תשואה של כ-38% עד 52%). הוא תוהה האם ביצועים גבוהים אלו נפוצים כיום או שהשוק כולו \"מנופח\", ומבקש את חוות דעתם של משקיעים אחרים על מצב השוק.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המוצגות, המציג נקודות מבט שונות ותחושות בולטות בקהילה:\n\n*   **תסכול מתוכן המיוצר על ידי בינה מלאכותית (AI Slop):** קיימת ביקורת כלפי חשבונות שאינם משתתפים קבועים בקהילה, אך \"מפציצים\" את הפורום בטקסטים ארוכים ודלים בתוכן שנראים כתוצר של AI, ולאחר מכן נעלמים ללא אינטראקציה נוספת.\n*   **חוסר אמון באותנטיות של משתמשים:** עולה חשד כלפי פרופילים \"מזדמנים\" בפורומים פיננסיים, מה שמעיד על תחושת שחיקה של הקהילה כלפי פוסטים שנראים מתוכנתים או חסרי הקשר אישי.\n*   **ביקורת חריפה על הרכב מדד ה-QQQ:** אחד המגיבים מביע חוסר שביעות רצון מהאופן שבו המדד מנוהל, בטענה שהוא אינו דואג לאינטרסים של המשקיעים וכולל חשיפה מוגזמת לחברות ספציפיות כמו טסלה ו-SpaceX.\n*   **חשש מחשיפת יתר כפויה לתחום ה-AI:** מובעת דעה כי משקיעים מוצאים את עצמם מחזיקים בעל כורחם בחברות כמו OpenAI ו-Anthropic דרך קרנות המדד הגדולות, מגמה שצפויה להתחזק עד סוף השנה.\n*   **תחזית פסימית (דובית) לגבי השוק:** קיימת סברה ששיא השווי של SpaceX מסמן את פסגת השוק, וכי התנודות הנוכחיות הן רק \"רעידות\" מקדימות לפני נפילה משמעותית וחדה בערך הנכסים.\n*   **פקפוק בניסיון של משקיעים חדשים:** עולה טענה ספקנית כלפי מי שמדברים על \"נפילות בשוק\" אך נמצאים בו רק תקופה קצרה (כארבע שנים), מתוך תהייה האם הם בכלל חוו משבר משמעותי שמקנה להם זכות להעריך את המצב כ\"קריסה\"."
-  },
-  {
-    "id": "1vewh37",
-    "title": "Is Europe’s aggressive climate policy building long-term economic resilience or hurting its competitiveness?",
-    "url": "https://www.reddit.com/r/investing/comments/1vewh37/is_europes_aggressive_climate_policy_building/",
-    "author": "InitialPound5069",
-    "score": 1,
-    "selftext": "Hey everyone,\n\nI’ve been spending a lot of time looking into global decarbonization frameworks, and Europe is clearly setting the global benchmark. Between the EU ETS, CBAM moving into its compliance phase, and strict vehicle emissions targets for 2035, the EU is essentially turning climate policy into its core economic policy. However, watching the real-world trade-offs play out raises an interesting debate on whether this strategy is building true resilience or creating economic friction.\n\nThe argument for long-term resilience: (a) First-mover advantage; (b) Global leverage to protect local industry from unfair competition; (c) Market certainty by creating a predictable roadmap for institutional capital.\n\nThe argument for economic risk: (a) Industrial squeeze due to high carbon and energy costs which put European manufacturers at a disadvantage against US companies and cheap Chinese manufacturing; (b) Regulatory friction since compliance overhead and strict targets risk driving capital flight and deindustrialization before green alternatives fully scale.\n\nFor anyone following carbon markets, climate tech, climate finance/investing or macro trends: Do you view Europe’s stringent stance as a masterclass in long-term economic resilience, or an over-regulated risk to short-term growth?\n\nCurious to hear how folks here view the balance between climate leadership and economic reality.",
-    "subreddit": "investing",
-    "created_utc": 1785807321,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "1. The US under Trump very much is polluting for fun.  \n2. The world is killing itself by not doing more about the climate. This is like a game of prisoner's dilemma,  except that a single winner will still lose.  Only by all doing everything together do we even stand a chance of still having a livable world. ",
-        "score": 17,
-        "author": "Sheant"
-      },
-      {
-        "body": "Most of the US growth is in tech though. Not really relevant regarding emissions (except datacenter). The US and the rest of the world will have to transition to cleaner energy as well, it's just a matter of time.",
-        "score": 15,
-        "author": "Broccoli-stem"
-      },
-      {
-        "body": "The long term view is that the current global manufacturing base is economically efficient but environmentally disastrous. In 30 years time the manufacturing base will not work if it’s too hot and there’s not enough water. CBAM is a tax on dirty production and partly a catalyst for investing in industrial transformation, which is already happening. EUTS is just the polluter pays principle in action, plenty of countries have and are establishing ETS (see Japan and their GX bonds).\n\nEuropes biggest trading parters are China and itself. CBAM is a mechanism to even out carbon pricing to encourage that production via low-carbon energy or materials happens. CBAM (in tandem with EU Taxonomy) will make producers achieve low carbon production overseas and draw in capital for low-energy transition from banks and DFIs. EU and China are already the main markets for labelled bonds (green, transition) and there is no shortage of investor appetite - this capital is directly financing cleaner supply chains. China is also constantly increasing its clean energy % so CBAM is consistent with the direction of travel for energy mix.\n\nAlso, this may be a European policy but it raises the bar for all. Big American producers (with Chinese production) will still broadly need to adapt to low carbon production and meet the highest bar (CBAM) because they will not sacrifice the European market on the basis of higher carbon taxes (which all markets will eventually impose anyway, via tariffs or ETS).\n\nAnd what is the alternative? Leave your production connected to a fossil fuel powered generator in a country with no decarbonisation plan? Those companies will not be passing buyer due diligence.",
-        "score": 14,
-        "author": "tmas34"
-      }
-    ],
-    "summary_he": "הפוסט דן במדיניות האקלים האגרסיבית של אירופה ובשאלה האם היא בונה חוסן כלכלי ארוך טווח או פוגעת בתחרותיות הגלובלית של היבשת. מצד אחד, נטען כי המדיניות מעניקה לאירופה יתרון של \"ראשוניות\" וודאות למשקיעים, אך מנגד היא מטילה עלויות אנרגיה ורגולציה כבדות שעלולות להוביל לבריחת תעשיות והון למדינות כמו ארה\"ב וסין.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המובילות בשרשור:\n\n*   **ביקורת על המדיניות האמריקאית:** הובעה עמדה חריפה כלפי ארצות הברית (במיוחד תחת ממשל טראמפ) כמי שמזהמת \"בשביל הכיף\", תוך תיאור משבר האקלים כ\"דילמת האסיר\" שבה כולם יפסידו אם לא יושג שיתוף פעולה גלובלי מלא.\n*   **הבחנה בין טכנולוגיה לתעשייה כבדה:** נטען כי מרבית הצמיחה הכלכלית של ארה\"ב מגיעה ממגזר ההייטק, שנתפס כפחות מזהם באופן יחסי (למעט סוגיית צריכת האנרגיה של מרכזי נתונים), וכי המעבר לאנרגיה נקייה הוא בלתי נמנע עבור כולם.\n*   **חוסר הקיימות של הייצור הגלובלי:** קיימת הערכה כי מודל הייצור הנוכחי, אמנם יעיל כלכלית כרגע, הוא הרסני לסביבה. נטען כי בעוד כ-30 שנה התעשייה לא תוכל לתפקד בתנאים של חום קיצוני ומחסור במים.\n*   **מנגנון ה-CBAM ככלי לשינוי:** מס הגבול על פחמן של האיחוד האירופי (CBAM) נתפס כזרז קריטי להשקעות בטרנספורמציה תעשייתית, שכן הוא מאלץ יצרנים זרים לאמץ ייצור דל-פחמן כדי להישאר תחרותיים בשוק האירופי.\n*   **הובלה פיננסית של סין ואירופה:** צוין כי האיחוד האירופי וסין הם השווקים העיקריים לאגרות חוב \"ירוקות\". קיימת תיאבון רב מצד משקיעים למימון ישיר של שרשראות אספקה נקיות יותר, וסין כבר נמצאת במגמת הגדלת אחוז האנרגיה הנקייה שלה.\n*   **הסטנדרט האירופי כסטנדרט עולמי:** קיימת סברה שחברות ענק אמריקאיות ייאלצו להתאים את עצמן לתקנים המחמירים של אירופה בכל מקרה, שכן הן לא יוותרו על השוק האירופי. בסופו של דבר, דרישות \"בדיקת נאותות\" (due diligence) של רוכשים יפסלו חברות שאין להן תוכנית דה-קרבוניזציה (הפחתת פליטות פחמן)."
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **השוואה למדדי השוק:** השוק הכללי רשם עלייה מרשימה של כ-53% בשנתיים האחרונות, ולכן כל רווח שנמוך מכך נחשב למעשה כביצוע חסר (Underperformance) ביחס לאלטרנטיבות בשוק ההון.\n*   **ביקורת על השקעות בקריפטו:** קיימת טענה שההשקעה במטבעות דיגיטליים במקרה הספציפי הזה לא הצדיקה את עצמה, שכן היא הניבה תשואה נמוכה יותר מאשר השקעה פסיבית במדדי מניות רגילים.\n*   **סרקזם כלפי \"התעלמות מהפסדים\":** אחד המגיבים משתמש בהומור ציני כדי לציין שקל מאוד להציג רווחים מרשימים אם פשוט בוחרים להתעלם מההשקעות הכושלות בתיק (\"בלי ההשקעות הגרועות שלי, גם אני ברווח מטורף\").\n*   **אופטימיות לגבי מצב השוק:** הקהילה מזהה שאנו נמצאים בתקופה של \"שוק שורי\" (Bull Run) מתמשך, מה שמסביר את העליות הרוחביות בנכסים רבים.\n*   **נרמול התשואות הגבוהות:** ישנה תחושה שרווחים משמעותיים הם לא בהכרח תוצאה של כישרון יוצא דופן של משקיע ספציפי, אלא פשוט השתקפות של המצב בשוק שבו \"רבים נמצאים במצב דומה\".\n*   **חשיבות ההקשר היחסי:** הדיון מדגיש שהצלחה בהשקעות אינה נמדדת בערך מוחלט (כמה כסף הרווחת), אלא בערך יחסי – האם הצלחת \"להכות את השוק\" או שפשוט רכבת על הגל הכללי."
   }
 ];
