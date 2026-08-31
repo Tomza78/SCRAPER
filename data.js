@@ -1,398 +1,343 @@
 window.dailyTrends = [
   {
-    "id": "1w15faz",
-    "title": "Warsh at Jackson Hole: Sticky 3.7% PCE pushes September rate hike odds to 58%. How are you positioning?",
-    "url": "https://www.reddit.com/r/investing/comments/1w15faz/warsh_at_jackson_hole_sticky_37_pce_pushes/",
-    "author": "unconventionalbook",
-    "score": 1,
-    "selftext": "Fed Chair Kevin Warsh definitely leaned hawkish at Jackson Hole today.\n\nWith core PCE still stuck at 3.7%, he basically said the Fed is backing away from giving the market \"forward guidance.\" Stocks pulled back a bit on Friday because of it, though the S&P 500 still managed to green up for the week.\n\nLooking at the CME FedWatch tool, the odds of another rate hike in September just spiked up to around 58%. It feels like any hopes for near-term rate cuts are completely off the table now, and the shift away from clear forward guidance is going to throw a lot of volatility into the mix.\n\nBreakdown on the market reaction: [International Business Times](https://www.ibtimes.com/stocks-fall-after-warsh-warns-about-inflation-sp-500-closes-winning-week-3806931)",
-    "subreddit": "investing",
-    "created_utc": 1787957322,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "It is a vote of all the governors is it not? If the board wants to raise raise, they will.",
-        "score": 5,
-        "author": "Fiveby21"
-      },
-      {
-        "body": "Are the 58% odds in the room with us now?\n\nNot a single person on wall st, the government, or the fucking internet thinks that a rate hike will occur before midterms.\n\nNO ONE.",
-        "score": 2,
-        "author": "whyyunozoidberg"
-      },
-      {
-        "body": "he won't do anything before an election",
-        "score": 1,
-        "author": "PolitzaniaKing"
-      }
-    ],
-    "summary_he": "קווין וורש נשא נאום נצי בוועידת ג'קסון הול, וציין כי האינפלציה הדביקה (3.7%) העלתה את הסיכוי להעלאת ריבית נוספת בספטמבר ל-58%. בשל ההתרחקות של הפד ממתן \"הכוונה מראש\" (forward guidance), נראה כי הורדות ריבית בטווח הקרוב אינן על הפרק והשוק צפוי להיכנס לתקופה של תנודתיות מוגברת.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בשרשור על סמך התגובות המוצגות, המפרט 6 נקודות מבט ורגשות שעלו מהקהילה:\n\n*   **מנגנון קבלת ההחלטות:** משתתף אחד מדגיש כי ההחלטה על העלאת הריבית היא דמוקרטית ופנימית של מועצת הנגידים; אם המועצה תחליט להעלות את הריבית, היא פשוט תעשה זאת מתוקף סמכותה.\n*   **ספקנות לגבי תחזיות השוק:** קיימת לעג וזלזול כלפי נתונים סטטיסטיים או הסתברויות (כמו ה-58% שהוזכרו) המנבאים העלאת ריבית, תוך הטלת ספק באמינות המודלים הללו במציאות הנוכחית.\n*   **השפעת הבחירות (Midterms):** ניכרת תמימות דעים בקרב המגיבים כי לא יבוצע שינוי בריבית לפני בחירות האמצע. הקהילה רואה בלוח הזמנים הפוליטי גורם מכריע שגובר על שיקולים כלכליים יבשים.\n*   **תחושת קונצנזוס מוחלט:** אחד המגיבים טוען בנחרצות שאין אף גורם – לא בוול סטריט, לא בממשלה ולא בקרב הציבור באינטרנט – שבאמת מאמין או מצפה להעלאת ריבית בטווח הזמן הקרוב.\n*   **חוסר אמון בעצמאות הפדרל ריזרב:** מהתגובות עולה נימה של ביקורת המרמזת כי הגוף המוניטרי מושפע משיקולים פוליטיים של ערב בחירות, ולא פועל במנותק מהאקלים הפוליטי.\n*   **ביטחון עצמי גבוה של הגולשים:** התגובות מאופיינות בנחרצות ובוודאות גבוהה (שימוש במילים כמו \"אף אחד\" ו\"שום דבר\"), מה שמעיד על סנטימנט קהילתי חזק שמרגיש שהוא מבין את \"כללי המשחק\" האמיתיים של המערכת.",
-    "dateString": "2026-08-29",
-    "savedAt": {
-      "_seconds": 1788006952,
-      "_nanoseconds": 513000000
-    }
-  },
-  {
-    "id": "1w0wcax",
-    "title": "Rate hike odds increased after Jackson Hole. Why are big tech stocks rising in response?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1w0wcax/rate_hike_odds_increased_after_jackson_hole_why/",
-    "author": "BGID_to_the_moon",
-    "score": 53,
-    "selftext": "I’ve generally worked under the assumption that rising yields and rate hikes would pressure big tech stocks. Especially now, with so many hyperscalers resorting to debt to finance their AI capex.\n\nBut hyperscalers are mostly higher today after Warsh’s speech even as the market is expecting a rate hike at September FOMC, which surprises me.\n\nWhy are big tech companies rising when much of the rest of the market (especially semiconductor companies) is falling?\n\nMy only guess is the rising rates will discourage big tech companies from borrowing further to fund AI. Reduction in ai spend might be good for big in the near term. But even this feels a bit illogical - what if big tech just continues to spend anyway?",
-    "subreddit": "StockMarket",
-    "created_utc": 1787936691,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Tech is still the best margins in the batch and more mature cashflow positive companies are better bet than new tech and low margin businesses. Look at the 2022 hiking cycle and which made it out the best and fastest financials and tech with the wide moat and margins ",
-        "score": 22,
-        "author": "dismendie"
-      },
-      {
-        "body": "At this point… I think the market WANTS the hyperscalers to scale back on capex. So higher rates might force them to do that… which means less debt and more cash. Would be bad for the pick and shovel companies. But I think most of the Mag7 could pop a bit at first. ",
-        "score": 16,
-        "author": "Micksar"
-      },
-      {
-        "body": "And those short term treasury would have paid you 12-16% over the last 3-4 years and the return of meta/netflix from their lows are like 500% each",
-        "score": 8,
-        "author": "dismendie"
-      }
-    ],
-    "summary_he": "הכותב תוהה מדוע מניות הטכנולוגיה הגדולות עולות למרות העלייה בציפיות להעלאת ריבית, מצב שבדרך כלל פוגע בחברות המסתמכות על חוב למימון השקעות. הוא מציין את הניגוד בין חוסנן של חברות הענק לבין הירידות במניות השבבים, ומשער כי השוק אולי מגיב בחיוב לאפשרות של צמצום בהוצאות על בינה מלאכותית (AI) בטווח הקצר.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה לגבי מגזר הטכנולוגיה והשוק:\n\n*   **יתרון שולי הרווח בטכנולוגיה:** קיים סנטימנט חזק שמגזר הטכנולוגיה הוא עדיין התחום הרווחי ביותר בשוק. שולי הרווח הגבוהים של חברות הטכנולוגיה הופכים אותן לאטרקטיביות יותר מכל מגזר אחר.\n*   **עדיפות לחברות בוגרות על פני סטארט-אפים:** המגיבים מדגישים כי חברות טכנולוגיה בוגרות עם תזרים מזומנים חיובי הן השקעה בטוחה וטובה יותר מאשר חברות טכנולוגיה חדשות או עסקים הפועלים עם שולי רווח נמוכים.\n*   **עמידות בזמן העלאות ריבית:** ניסיון העבר (סבב העלאות הריבית של 2022) מראה שחברות פיננסים וטכנולוגיה בעלות \"חפיר כלכלי\" (Wide Moat) ושולי רווח רחבים הן אלו ששרדו והתאוששו הכי מהר.\n*   **השפעה חיובית מפתיעה של ריבית גבוהה:** קיימת סברה שהשוק דווקא מעוניין שחברות הענק (Hyperscalers) יצמצמו בהוצאות הוניות (Capex). ריביות גבוהות עשויות לאלץ אותן לעשות זאת, מה שיוביל לפחות חוב, יותר מזומנים בקופה ועלייה פוטנציאלית בערך המניה של קבוצת ה-Mag7.\n*   **סיכון לחברות התשתית (\"Pick and Shovel\"):** בעוד שצמצום הוצאות עשוי להועיל לענקיות הטכנולוגיה, הוא נתפס כבסורה רעה עבור החברות המספקות להן את הכלים והתשתיות (חברות הציוד והשבבים), שכן ההכנסות שלהן תלויות ישירות בהוצאות של החברות הגדולות.\n*   **פוטנציאל תשואה מול ביטחון:** למרות שאג\"ח ממשלתיות לטווח קצר סיפקו תשואה בטוחה ומכובדת של 12-16% בשנים האחרונות, הקהילה מצביעה על כך שהתשואות ממניות טכנולוגיה שהתאוששו מהשפל (כמו מטא ונטפליקס עם כ-500% תשואה) הופכות את הסיכון בטכנולוגיה למשתלם הרבה יותר."
-  },
-  {
-    "id": "1w0wupk",
-    "title": "How does one quantify all the factoids regarding rising credit card default, renter default, and all these other indicators of a failing economy?",
-    "url": "https://www.reddit.com/r/investing/comments/1w0wupk/how_does_one_quantify_all_the_factoids_regarding/",
-    "author": "SunshineTradingPost",
-    "score": 1,
-    "selftext": "The more information I learn, the more severe the issue appears, and the closer it appears to “something has gotta give”….\n\nBut it never does.  \n\nIs this normal in American economy or is this a unique time?  \n\nHow can I utilize that information for something besides feeling doom n’ gloom?",
-    "subreddit": "investing",
-    "created_utc": 1787937807,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "How does someone earn a livable wage?",
-        "score": 1,
-        "author": "TheNewKnew2"
-      },
-      {
-        "body": "The official unemployment measure is bs. Real unemployment is far larger when you count everyone not employed at a livable wage",
-        "score": 1,
-        "author": "Kerbidiah"
-      },
-      {
-        "body": "“How can I utilize that information” you asked and I answered how you could use that information",
-        "score": 1,
-        "author": "Immediate-Run-7085"
-      }
-    ],
-    "summary_he": "הכותב מביע דאגה מנתונים כלכליים שליליים בארה\"ב, כמו העלייה בחדלות פירעון של כרטיסי אשראי ושכירויות, ותוהה האם המשק ניצב בפני משבר בלתי נמנע או שמדובר במצב נורמלי. הוא מבקש להבין אם המצב הנוכחי ייחודי לתקופתנו ומחפש דרכים פרקטיות להשתמש במידע הזה במקום לשקוע בייאוש ופסימיות.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות, המציג 6 נקודות מבט ותחושות שונות בקהילה:\n\n*   **הקושי בהשגת שכר מחיה:** עולה שאלה מהותית ומדאיגה לגבי היכולת הריאלית של אדם בימינו להרוויח שכר שבאמת מאפשר קיום בכבוד (\"Livable wage\").\n*   **ספקנות כלפי נתונים ממשלתיים:** קיימת תחושה של חוסר אמון במדדי האבטלה הרשמיים, אשר נתפסים כמעוותים או ככאלה שאינם משקפים את המציאות הכלכלית הקשה.\n*   **הגדרה מחדש של \"אבטלה אמיתית\":** המשתתפים טוענים כי יש להחשיב כאנשים ללא תעסוקה גם את אלו שעובדים במשרות שאינן משלמות מספיק למחיה בסיסית, מה שמגדיל משמעותית את נתוני האבטלה ה\"אמיתיים\".\n*   **הפער בין סטטיסטיקה לרווחה:** הקהילה מדגישה שעצם העובדה שאדם \"מועסק\" על הנייר אינה מעידה על מצבו הכלכלי, שכן עבודה בשכר נמוך מאוד היא סוג של כשל שוק.\n*   **הצורך ביישום פרקטי של מידע:** עולה דרישה להבין לא רק את הנתונים היבשים, אלא כיצד ניתן להשתמש במידע הזה באופן מעשי כדי לשפר את המצב האישי או התעסוקתי.\n*   **תחושת תסכול מהמערכת:** מהתגובות עולה נימה של ביקורת כלפי המבנה הכלכלי הנוכחי, שבו המדדים להצלחה (כמו שיעור אבטלה נמוך) מנותקים מהקושי היומיומי של העובדים לגמור את החודש.",
-    "dateString": "2026-08-28",
-    "savedAt": {
-      "_seconds": 1787941696,
-      "_nanoseconds": 253000000
-    }
-  },
-  {
-    "id": "1w0vydr",
-    "title": "Xiaomi shipped its own 3nm flagship SoC on Monday, the stock fell 4.14% that day, and four sessions later it is back at exactly that close",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1w0vydr/xiaomi_shipped_its_own_3nm_flagship_soc_on_monday/",
-    "author": "Ill-Sea-4603",
-    "score": 18,
-    "selftext": "On Monday 24 August Xiaomi launched the Xring O3, its own flagship phone system on chip, built on TSMC's 3nm N3P process. 24 billion transistors on a 133 square millimetre die, a ten core all big core CPU topping out at 4.35GHz, and a 16 core GPU. It is the first smartphone system on chip to support LPDDR6, at 113.8 GB/s, which is 48% more memory bandwidth than the prior generation setup. The first devices are the 18 Fold and the Pad 9 Pro Max in September.\n\nThe same day the company also announced a 6nm on device NPU to run its own model locally, a 3nm smart driving chip aimed at commercial use in 2027, and a 150W mini PC built around three of its own processors.\n\nThe tape did not care. Hong Kong closes were HK$29.02 on 21 August, then HK$27.82 on launch day, down 4.14%. Then HK$27.76, HK$28.46, HK$27.48, and HK$27.82 on 28 August. Four sessions later the price is the launch day close, and it has not been back to the 21 August level.\n\nMost of the bear case holds up. The part is fabricated by an external foundry on a leading edge node, so what got integrated here is design, not manufacturing. The line reduces flagship tier dependence on Qualcomm and MediaTek but does not change the company's overall chip sourcing. Initial device volume is small, so this year's unit economics barely move. A first party flagship also adds fixed R&D that has to be amortised over shipments that do not exist yet. I end up holding both facts at once. The silicon is real, and four sessions of tape say nothing happened.\n\nI own this inside a broader basket rather than as a single name. Xiaomi was 3.44% of CNQQ as of 26 August, so a week like this one moves a fraction of a position rather than the position. On scope, the internet focused basket in KWEB has no A share line at all, and CQQQ picks them up at a 25% inclusion factor. This one has been live only since September 2025.",
-    "subreddit": "StockMarket",
-    "created_utc": 1787935857,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "שיאומי השיקה שבב דגל עצמאי בטכנולוגיית 3 ננומטר (Xring O3) במטרה לצמצם את תלותה בספקים חיצוניים, אך מחיר המניה ירד בחדות ביום ההכרזה וטרם התאושש. למרות המפרט הטכני המרשים, השוק נותר אדיש בשל חששות מעלויות פיתוח גבוהות והיקף מכירות ראשוני מוגבל שאינו צפוי להשפיע בטווח הקצר על רווחיות החברה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-08-30",
-    "savedAt": {
-      "_seconds": 1788066050,
-      "_nanoseconds": 687000000
-    }
-  },
-  {
-    "id": "1w0p2v1",
-    "title": "Needham Says the Semiconductor Upcycle is Broadening Into Mature Node Chips",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1w0p2v1/needham_says_the_semiconductor_upcycle_is/",
-    "author": "Optimal_Image5192",
-    "score": 18,
-    "selftext": "Needham says the semi upcycle is broadening into mature-node chips, with tightening mainstream supply while memory remains the strongest driver.\n\nLatest read:\n\n\\- Global semiconductor sales momentum hit its strongest level since 1984\n\n\\- DDR5 spot prices hit repeated record highs in August\n\n\\- Wafer shipments increased QoQ across all foundries\n\n\\- Silicon MSI rose 7% YoY and 9% QoQ in Q2\n\n\\- July WFE imports rose 5% MoM across Korea, Taiwan and China\n\n\\- China WFE imports jumped 14% MoM\n\n\\- YTD WFE imports across the three regions are up 14% vs. 2025",
-    "subreddit": "StockMarket",
-    "created_utc": 1787919736,
-    "thumbnail": "https://preview.redd.it/qxw9t7ibz3mh1.jpeg?width=140&height=116&auto=webp&s=700184c418a9b4bec3ab67d97f55dd1dc8b7d328",
-    "top_comments": [
-      {
-        "body": "the korean equipment names dont really show the broadening yet, at least not in the filings. hanmi semiconductor, the hbm bonder guy, did 251bn won of revenue last quarter at a 52% operating margin. wonik ips which sells much broader tooling did 216bn at 8%, and thats down from 275bn two quarters ago. if it were broadening youd expect the second one to be catching up. could be a lag thing though, equipment revenue recognition is lumpy",
-        "score": 1,
-        "author": "John_Logics"
-      }
-    ],
-    "summary_he": "חברת Needham מציינת כי מחזור הצמיחה בתעשיית השבבים מתרחב כעת גם לשבבים בטכנולוגיות ייצור ותיקות (mature nodes), לצד ביקוש שיא לרכיבי זיכרון. המומנטום במכירות השבבים העולמיות הגיע לרמתו הגבוהה ביותר מאז 1984, עם עלייה ניכרת במשלוחי סיליקון וביבוא ציוד לייצור שבבים, במיוחד בסין.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובה בנוגע לשוק ציוד השבבים הקוריאני:\n\n* **חוסר עדות להתרחבות השוק:** על פי הדיווחים הכספיים האחרונים, עדיין לא ניתן לראות \"התרחבות\" (Broadening) של הביקוש מעבר לתחומים הספציפיים של בינה מלאכותית (AI) וזיכרון ברוחב פס גבוה (HBM).\n* **הדומיננטיות של Hanmi Semiconductor:** החברה, המתמחה במכונות בונדינג (Bonder) עבור שבבי HBM, מציגה רווחיות יוצאת דופן עם הכנסות של 251 מיליארד וון ושיעור רווח תפעולי מרשים של 52%.\n* **חולשה בציוד רחב יותר:** חברת Wonik IPS, המוכרת מגוון רחב יותר של כלי ייצור לשבבים, מציגה ביצועים חלשים משמעותית עם הכנסות של 216 מיליארד וון ושיעור רווח של 8% בלבד, נתון שנמצא במגמת ירידה.\n* **היעדר צמצום פערים:** הציפייה היא שאם השוק אכן היה מתרחב, חברות המייצרות ציוד כללי (כמו Wonik IPS) היו אמורות להתחיל לצמצם את הפער מול החברות הנהנות מבהלת ה-AI, אך הנתונים כרגע מראים שהן נותרות מאחור.\n* **אפשרות לעיכוב בזמן (Lag):** קיימת סברה כי ייתכן וההתרחבות כבר מתרחשת בשטח, אך היא טרם באה לידי ביטוי בדוחות הכספיים בשל פערי זמן בין ההזמנות לבין הדיווח על ההכנסות.\n* **אופי ההכנסות בתעשייה:** הכרה בהכנסות בתחום הציוד לתעשיית השבבים היא לרוב תנודתית ולא עקבית (\"Lumpy\"), מה שמקשה על קביעת מגמה חד-משמעית על סמך רבעון בודד או דוחות נקודתיים.",
-    "dateString": "2026-08-30",
-    "savedAt": {
-      "_seconds": 1788066064,
-      "_nanoseconds": 255000000
-    }
-  },
-  {
-    "id": "1w1curm",
-    "title": "The under/over valuation of Nvidia/AMD",
-    "url": "https://www.reddit.com/r/investing/comments/1w1curm/the_underover_valuation_of_nvidiaamd/",
-    "author": "7758258-",
-    "score": 14,
-    "selftext": "$NVDA makes $1 billion in revenue a day, that’s 365 billion a year. 62% of that is earnings, which is $226.3 billion. If you use its competitor’s, $AMD’s ttm p/e ratio of 122x, that should value Nvidia at over $27.6 trillion in market cap. Is Nvidia really that different from AMD? Maybe a little, in the sense that Nvidia is better. So either AMD is massively overvalued, or Nvidia is massively undervalued. While both can be true, at a market cap of over $5 trillion, I think Nvidia is massively undervalued. What do you think?",
-    "subreddit": "investing",
-    "created_utc": 1787978469,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "AMD's high p/e ratio is mostly attributed to their all-stock acquisition of Xilinx which is being amortized over 10 years or so",
-        "score": 7,
-        "author": "Spl00ky"
-      },
-      {
-        "body": "maybe AMD is just overvalued man",
-        "score": 7,
-        "author": "FailOk1528"
-      },
-      {
-        "body": "Come on dude people only look at surface level numbers without any context. They don't wanna hear that it kills the narratives.",
-        "score": 6,
-        "author": "benny-trill"
-      }
-    ],
-    "summary_he": "הפוסט משווה בין השווי של אנבידיה (Nvidia) לזה של AMD וטוען כי בהתבסס על מכפיל הרווח של האחרונה, אנבידיה מוערכת בחסר באופן קיצוני. לטענת הכותב, אם אנבידיה הייתה זוכה לתמחור דומה למתחרתה, שווי השוק שלה היה נוסק ל-27.6 טריליון דולר, ולכן היא עדיין מהווה השקעה אטרקטיבית.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע למניית AMD ומכפיל הרווח שלה, המציג 6 נקודות מבט וסנטימנטים שונים:\n\n*   **הסבר חשבונאי למכפיל הגבוה:** חלק מהמשתמשים טוענים כי מכפיל הרווח (P/E) הגבוה של AMD אינו מעיד על שווי בועתי, אלא נובע טכנית מרכישת חברת Xilinx. העסקה, שהתבצעה כולה במניות, כוללת הוצאות פחת (Amortization) שמתפרסות על פני כעשור ומשפיעות על השורה התחתונה.\n*   **השפעת עסקאות מיזוג ורכישה:** קיימת הבנה בקהילה שהנתונים הפיננסיים של AMD כרגע \"מעוותים\" בשל האופן שבו רכישות ענק נרשמות בדוחות הכספיים לאורך זמן.\n*   **ספקנות לגבי שווי השוק:** אל מול ההסברים הטכניים, עולה הטענה הפשוטה והישירה שייתכן שהמניה פשוט מוערכת ביתר (Overvalued) ללא קשר לנסיבות חשבונאיות כאלו ואחרות.\n*   **ביקורת על ניתוח שטחי:** נשמעה טענה כי רוב המשקיעים והצופים מהצד בוחנים רק את הנתונים היבשים והשטחיים (כמו המכפיל המופיע באתרי הפיננסים) מבלי לנסות להבין את ההקשר העמוק יותר או את \"מאחורי הקלעים\" של המספרים.\n*   **העדפת נרטיבים על פני עובדות:** בקהילה קיים סנטימנט לפיו אנשים נוטים להתעלם מהסברים מורכבים כי הם מעדיפים לדבוק בנרטיב מסוים (כמו \"המניה יקרה מדי\"). הצגת ההקשר המלא נתפסת כגורם ש\"הורס\" את הסיפור הפשוט שאנשים מספרים לעצמם.\n*   **פער בהבנה המקצועית:** הדיון משקף פער בין משקיעים המבצעים ניתוח פונדמנטלי מעמיק (המתחשב באירועים חד-פעמיים וחשבונאות) לבין הציבור הרחב שמגיב למספרים גולמיים בלבד.",
-    "dateString": "2026-08-29",
-    "savedAt": {
-      "_seconds": 1788006860,
-      "_nanoseconds": 802000000
-    }
-  },
-  {
-    "id": "1w0u1uk",
-    "title": "The Fed chair just told Jackson Hole that inflation may force his hand. He has been in the job three months and has not raised rates once.",
-    "url": "https://www.reddit.com/r/investing/comments/1w0u1uk/the_fed_chair_just_told_jackson_hole_that/",
-    "author": "SDBcop",
-    "score": 1,
-    "selftext": "Warsh gave his first Jackson Hole keynote this morning, a little over three months after replacing Powell on May 22. He said the labor market is \"consistent with full employment\" and moved the worry to prices. The Fed's preferred gauge is running 3.7% on the year and 4.1% annualized over the last six months, his own figures from the speech. Then came the line everyone is quoting: \"We must be confident that underlying inflation is moving to our objective, clearly and at sufficient speed. Otherwise, we have work to do.\"\n\nGold dropped through $4,600 within the hour and traded near $4,552 by late morning, down more than 1% on the day (Kitco, Friday, around 11 a.m. ET). September hike odds ticked back up. The tape treated the speech as a signal.\n\n**Now look at what the record actually shows**. Since he took over, the Fed has met twice and held both times. Most analysts do not expect a change at the September 15-16 meeting either (AP, Friday). Heading into the speech, futures put a September hike at roughly one chance in three and a December hike near three in four (CME FedWatch via CNBC, Thursday). He refuses to give forward guidance on principle, and part of today was spent clearing up confusion from his own July 29 press conference, where he felt the need to specify that short-term rates are the Fed's \"predominant tool.\" Three months in, the pattern is consistent: **warn hard, move markets, commit to nothing, repeat.**\n\nI am not arguing he will never hike, and the case that he does is real. By his own stated test, six-month inflation at 4.1% is not \"moving clearly at sufficient speed\" toward 2%. He called current rates non-restrictive himself, pointing at AI capex and strong consumer spending. And 54% of the goods and services the government tracks rose 3% or more over the past year, against 32% in the two decades before the pandemic. That is breadth, not a gas-price base effect. If those numbers hold, his own standard forces a hike at some point, most likely by December. **Today was a speech, not a decision.**\n\nBut zoom out to the part that outlasts one FOMC cycle. While the Fed chair debates whether to tighten, the Treasury is still buying back its own long bonds to cap yields, the intervention that followed the 30-year Treasury hitting its highest level since 2007 (AP). One branch of the government talks about fighting inflation. The other is actively managing the long end down. **Add a president who openly wants lower rates and is working to replace governors who want higher ones, and you get a chair whose bark is loud and whose leash is short. Neither of those changed this morning.**\n\nOn gold, honesty first: equities have beaten gold over most long samples I have ever looked at, and today proved hawkish words still knock the metal down a percent on contact. I hold gold miners, so price my bias accordingly. The reason we watch the metal is narrower than \"inflation bad.\" It is the fiscal-anchor stress case: deficits, a Treasury intervening in its own market, and a Fed that waits. **None of that got weaker today.** It got another data point. If he actually hikes in September while six-month inflation stays above 4%, I will be the first to write that the short-term gold trade was wrong. If he holds again, that becomes a third straight hold on top of the hottest six-month print of his tenure.\n\nHow many hawk speeches with zero hikes before the word \"hawkish\" stops moving anything?",
-    "subreddit": "investing",
-    "created_utc": 1787931638,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "He didn't get appointed to raise rates lol\n\n.... Inflation to the MOON!!!!   ",
-        "score": 2,
-        "author": "SB10Burner"
-      },
-      {
-        "body": "I am not really sure how to answer this without hurting your feelings. ",
-        "score": 2,
-        "author": "Gandalftron"
-      },
-      {
-        "body": "And you have too much faith in the system ",
-        "score": 1,
-        "author": "SDBcop"
-      }
-    ],
-    "summary_he": "יו\"ר הפדרל ריזרב החדש, וורש, נשא נאום \"ניצי\" המזהיר מפני המשך האינפלציה, אך הפוסט מדגיש את הפער בין הצהרותיו הלוחמניות לבין העובדה שטרם העלה את הריבית בפועל בשלושת חודשיו בתפקיד. הכותב טוען כי בשל לחצים פוליטיים והתערבות ממשלתית בשוק האג\"ח, אזהרותיו של היו\"ר עלולות לאבד מהשפעתן על השוק אם לא ילוו בצעדים מעשיים בקרוב.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון כפי שהוא עולה מהתגובות שפורסמו, הכולל 6 נקודות מבט וסנטימנטים שונים מהקהילה:\n\n*   **ספקנות לגבי מטרת המינויים:** קיימת טענה שהמינויים לתפקידים כלכליים בכירים אינם נועדו לטיפול אמיתי באינפלציה (כמו העלאת ריבית), אלא לשרת אג'נדות אחרות.\n*   **ציפייה לאינפלציה דוהרת:** ניכר חשש משמעותי, המלווה בציניות, מכך שהאינפלציה תמשיך לזנק ללא שליטה (\"עד הירח\"), וכי המדיניות הנוכחית לא תבלום זאת.\n*   **חוסר אמון מוחלט ב\"מערכת\":** אחד הסנטימנטים המרכזיים הוא שהמערכת הכלכלית או הממשלתית אינה פועלת לטובת הציבור, וכי מי שסומך עליה טועה בשיקול דעתו.\n*   **ביקורת על תמימות המשתמשים:** עולה טענה כי חלק מהמשתתפים בדיון מחזיקים ב\"אמונה רבה מדי\" במוסדות הרשמיים, דבר הנתפס בעיני אחרים כחוסר הבנה של המציאות.\n*   **טון מתנשא ומזלזל:** חלק מהתגובות מצביעות על דינמיקה קהילתית שבה דעות המצדדות במערכת נתקלות בזלזול, עד כדי רמיזה שהאמת כה \"כואבת\" שעדיף לא להגיד אותה כדי לא לפגוע ברגשות הכותב.\n*   **תפיסת המערכת כמוטית פוליטית:** המגיבים רומזים כי החלטות כלכליות (כמו קביעת ריבית) הן תוצאה של לחצים פוליטיים ומינויים אישיים, ולאו דווקא של צרכים מקצועיים אובייקטיביים.",
-    "dateString": "2026-08-28",
-    "savedAt": {
-      "_seconds": 1787941728,
-      "_nanoseconds": 212000000
-    }
-  },
-  {
-    "id": "1w0ygzc",
-    "title": "Starting a Business",
-    "url": "https://www.reddit.com/r/business/comments/1w0ygzc/starting_a_business/",
-    "author": "Soft_Device_2506",
-    "score": 8,
-    "selftext": "If there’s anyone who is starting a new business which would use jobber. Please reach out as I have a referral I’d love to share with someone which will give you 1 entire month free $200+ as well as myself. \n\nP.S. I can give you some more information to prepare yourself as I’ve had my business running since the beginning of the year. ",
+    "id": "1w1rdi7",
+    "title": "The cult $4.99 rotisserie chicken defying inflation (Financial Times)",
+    "url": "https://www.reddit.com/r/business/comments/1w1rdi7/the_cult_499_rotisserie_chicken_defying_inflation/",
+    "author": "GhostDogJef",
+    "score": 70,
+    "selftext": ">*\"If you raise the effing* *~~hot dog~~* *rotisserie chicken price, I will kill you. Figure it out.\"*\n\n  \nfull article text in comments",
     "subreddit": "business",
-    "created_utc": 1787941321,
+    "created_utc": 1788021797,
+    "thumbnail": "default",
+    "top_comments": [
+      {
+        "body": "**The cult $4.99 rotisserie chicken defying inflation**\n\n*Costco built its own factory to keep costs low for the famous bird. But resisting rising prices is a constant struggle*\n\n[https://www.ft.com/content/30ac3572-06a9-4718-8043-60b1dee50c40?syn-25a6b1a6=1](https://www.ft.com/content/30ac3572-06a9-4718-8043-60b1dee50c40?syn-25a6b1a6=1)\n\nAt Costco’s chicken slaughterhouse in Nebraska, some 2mn birds a week are stunned, suspended by their feet, decapitated, picked free of feathers, cleaned, chilled, boxed and trucked to stores where many become a $4.99 cult item: the retail giant’s beloved rotisserie chicken.\n\nBut its customers are hungry for more.\n\nDemand for chicken — the cheapest meat protein — is on the rise in the US. The average US resident eats 103lb (47kg) of poultry meat annually, an increase of 6lb from five years ago, even as red meat consumption declined, according to the department of agriculture.\n\nA significant portion of that meat comes home in a fragrant plastic bag warmed under lamps at a Costco warehouse store. Costco sold 157.4mn rotisserie chickens worldwide last year, almost double the number of a decade ago.\n\n“It’s $4.99 and for Costco members, that’s one fantastic deal. I don’t think you can produce it for that,” said Walt Shafer, who oversaw the construction and management of the Nebraska site before he retired from Costco this year.\n\nRoasted in ovens in the rear of the retail giant’s hundreds of cavernous stores, the birds have cost only $4.99 since 2009 even as the US retail price of chicken almost doubled. The product has become a textbook “loss leader”, buttressing the loyalty of Costco customers who pay membership fees for the right to shop there.\n\nWhen Costco increased membership fees in 2024, chief financial officer Gary Millerchip told analysts that customer complaints were subdued in part because of the goodwill generated by holding the line on chicken.\n\nThe succulent bird has an enthusiastic online following. TikTok videos of “hack” recipes concocted in the bag in which the chicken is sold regularly gain more than 1mn views.\n\nFormer CFO Richard Galanti in 2015 acknowledged that Costco was “willing to eat, if you will, $30mn, $40mn a year in gross margin by keeping it at $4.99”.\n\n“It’s all the way in the back of the store,” said Amy Smith, a protein analyst at Advanced Economic Solutions who shops at a Costco in Denver. “You’ve got to pass the clothes, the books, the snacks, the miscellaneous items, the breads, the wines. Chances are you aren’t walking out of there with just a rotisserie chicken.”\n\nOn average, the cost to produce the roughly 4.5lb bird sent to rotisserie ovens is about $3.50, accounting for current livestock feed prices, said Mark Jordan, executive director of Leap Market Analytics, a poultry consultancy. With marinade, transport and cooking costs included, “almost surely they’re a little bit underwater per bird”, Jordan said.\n\nBut Costco has devised ways to mitigate losses on rotisserie sales. One was to construct the $500mn slaughterhouse, which has reshaped a rural corner of the US Midwest since it started operations in 2019.\n\nBuilding the plant gave Costco negotiating leverage with third-party poultry suppliers, according to Shafer, who was chief operating officer at Lincoln Premium Poultry, the Costco subsidiary that runs the Nebraska chicken business.\n\n“The industry said, ‘Well, we can’t believe they would do one, and now they’ve done one. What’s to prevent them from doing another one?’” Shafer said. The company has looked into building a second Nebraska plant, but executives said that idea had been shelved for now as construction costs soared.\n\nBirds killed at the Nebraska slaughterhouse meet about a third of chicken sales at the retailer’s hundreds of US stores. Costco almost single-handedly created a more than $500mn poultry industry in a cattle state, said Brad Lubben, an agricultural policy specialist at the University of Nebraska-Lincoln.\n\n“There is some irony that an item that is a presumed loss leader at Costco is in fact a major part of the Nebraska agricultural system,” he said.\n\nRotisserie accounts for only a portion of the chicken processed in Nebraska. The plant also cuts breasts, thighs and other cuts delivered in six-pouch “saddle packs” to stores. Raw breast meat, for example, sells for $2.99 a pound, helping make up for losses on rotisserie.\n\nThe Lincoln Premium Poultry plant is also at the forefront of an automation wave sweeping an industry known for dangerous manual work. Machines scoop up birds from barn floors for delivery to the plant’s holding pens.\n\nStunned by gas in a controlled chamber, their limp bodies hang upside down from chains before being pulled through a mechanical head snipper. Robots truss a finished rotisserie bird with polyester string in five seconds, according to vendor Scott Technology.\n\nCostco’s plant in the city of Fremont, Nebraska, has about 800 production workers, 500 fewer than a typical plant of its size, said Shafer. Each rotisserie bird is handled by 20 to 24 people, said Jessica Kolterman, Lincoln’s director of corporate and external affairs.\n\nThis year, Costco became the only retailer to join meatpacking companies in backing a Trump administration proposal to allow chicken-processing lines to operate even faster, raising the speed limit by 25 per cent to 175 birds a minute.\n\nKolterman told federal regulators in an April letter that higher production line speeds were needed in part to offset the rising cost of labour. Lincoln was designed to operate at 140 birds per minute, but permission to go faster would help clear backlogs when snowstorms keep trucks from delivering live chickens, she said in an interview.\n\nOpponents of the government’s line-speed proposal claim that a faster rate worsens the risk of conditions such as carpal tunnel syndrome. Kolterman told the FT that, given Lincoln’s heavy automation, “we do not believe that it would put any of our team members in jeopardy from a health and safety standpoint”.\n\nOnce in stores, Costco keeps rotisseries under warming lights for only two hours to prevent them from drying out. To further offset losses, unsold birds are turned into chicken burritos, pot pies or noodle soup, while excess grease is sold to biofuel refiners, according to a Costco sustainability report.\n\nCostco’s decision to open the Lincoln plant was aimed at vertical integration. Far from the chicken heartland of the US South, Costco recruited about 100 farms to raise chickens under 15-year contracts. They built long barns that hold 42,000 birds each and turn over six flocks a year.\n\nFarm operators range from local families to Gallus Capital Partners, a North Carolina investment firm that calls itself “one of the largest independent owners of poultry farms in the United States”. Gallus means rooster in Latin.\n\nJody Murphey, Gallus’s managing partner, told the FT that most US growers would rather keep birds a week longer than is desired for rotisserie, to maximise breast meat. The plant enabled Costco to reduce the price premium that comes with purchasing a smaller rotisserie bird from a third party.\n\nBy constructing the plant, “they can lock in at least a percentage of their supply and they know they can count on that and they’re not having to pay up”, Murphey said.\n\nAbout 500 barns have now sprung up around eastern Nebraska and western Iowa within a 90-mile radius of the Lincoln Premium Poultry plant.\n\nRaising chickens has delivered a new income stream for farms long reliant on crops for income, while the $18.50 starting hourly pay at the plant is $3.50 above the state minimum wage. A study by the University of Nebraska estimated the plant added more than $1bn a year to the state’s economy.\n\nBut the manure and odour associated with millions of birds have led to pushback from some local residents. One group successfully sued to block barns from being constructed adjacent to a high school.\n\nMurphey declined to say how many of his barns sell to Costco. “We don’t need to do that,” he said. “There’s a lot of people that don’t like our business.”",
+        "score": 9,
+        "author": "GhostDogJef"
+      },
+      {
+        "body": "This isn’t new. Literally always been. ",
+        "score": 1,
+        "author": "wise_young_man"
+      },
+      {
+        "body": "Financial Times ironically never heard of a loss leader and thinks this chicken is profitable (or at least that's what the title implies lol)",
+        "score": 1,
+        "author": "Isaacvithurston"
+      }
+    ],
+    "summary_he": "הכתבה סוקרת את העוף הצלוי האיקוני של רשת קוסטקו, ששומר על מחיר קבוע של $4.99 כבר שנים רבות למרות האינפלציה הגבוהה. הנהלת החברה נחושה להשאיר את המחיר הנמוך ככלי שיווקי למשיכת לקוחות, תוך התייחסות למחויבות הקיצונית של המייסדים לשמור על מחירי מוצרי הדגל של הרשת.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון והניתוח של התגובות בנושא אסטרטגיית ה\"עוף ברוטציה\" (Rotisserie Chicken) של קוסטקו ב-4.99 דולר:\n\nהדיון מתמקד במאמצים האדירים של רשת קוסטקו לשמר את מחיר העוף המפורסם שלה למרות האינפלציה והעלויות המאמירות. בעוד שהכתבה מפרטת את המנגנון התפעולי המורכב, התגובות בקהילה משקפות שילוב של הערכה עסקית לצד ציניות כלפי ה\"חידוש\" שבדיווח.\n\n**נקודות מרכזיות ותובנות מהקהילה:**\n\n*   **אסטרטגיית ה-\"Loss Leader\" (מוצר הפסד):** הקהילה מדגישה כי העוף הוא דוגמה קלאסית למוצר שנמכר בהפסד במטרה למשוך לקוחות לחנות. מיקומו בחלק האחורי של המחסן מאלץ את הקונים לעבור על פני מוצרים רווחיים רבים (בגדים, יין, חטיפים), מה שמבטיח שבסופו של דבר העסקה משתלמת לרשת.\n*   **אינטגרציה אנכית ושליטה בייצור:** כדי להילחם בעלויות, קוסטקו נקטה בצעד חריג ובנתה בית מטבחיים עצמאי בנברסקה בעלות של 500 מיליון דולר. צעד זה מעניק לה כוח מיקוח מול ספקים חיצוניים ומאפשר לה לשלוט בשרשרת האספקה מאל\"ף ועד תי\"ו.\n*   **ביקורת על ה\"תגלית\" של התקשורת:** חלק מהמגיבים הביעו זלזול מסוים בכתבה של ה-Financial Times, בטענה שהאסטרטגיה הזו ידועה לכל ואינה חדשה כלל. לטענתם, העובדה שקוסטקו משתמשת בעוף כדי לשמר את נאמנות הלקוחות היא \"חדשות ישנות\".\n*   **אוטומציה וטכנולוגיה בשירות המחיר:** הדיון מעלה את חשיבות השימוש ברובוטים ובאוטומציה במפעל בנברסקה. טכנולוגיות אלו מאפשרות לקוסטקו להפעיל את המפעל עם מאות עובדים פחות מאשר במפעל סטנדרטי, ובכך לצמצם משמעותית את עלויות כוח האדם.\n*   **צמצום בזבוז ומקסום רווחים מהשאריות:** קוסטקו לא רק מוכרת את העוף כפי שהוא; עופות שלא נמכרים תוך שעתיים הופכים למרקים, פשטידות או בוריטוס, ואפילו השומן העודף נמכר לייצור דלק ביולוגי. הקהילה רואה בכך ניצול יעיל וקפדני של המשאבים כדי לצמצם הפסדים.\n*   **השפעה מקומית ומחלוקות סביבתיות:** לצד ההצלחה העסקית, עולה נקודה על ההתנגדות בקהילות המקומיות בנברסקה. הקמת מאות לולים יצרה מטרדי ריח וזיהום, מה שמוכיח שהמחיר הנמוך לצרכן מגיע לעיתים על חשבון איכות החיים של התושבים הגרים בסמוך למפעלי הייצור."
+  },
+  {
+    "id": "1w1q5ec",
+    "title": "Fortinet vs CrowdStrike after the latest earnings",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1w1q5ec/fortinet_vs_crowdstrike_after_the_latest_earnings/",
+    "author": "mm_newsletter",
+    "score": 25,
+    "selftext": "Fortinet and CrowdStrike both grew revenue 26% in their latest quarters.\n\nFortinet reported $966M in free cash flow on $2.05B of revenue. CrowdStrike reported $377M on $1.47B. Stock comp was 3.9% of revenue at Fortinet and 25.6% at CrowdStrike.\n\nAt Friday’s close, Fortinet traded around 47x forward earnings. CrowdStrike was near 155x.\n\n[Oak Research](https://preview.redd.it/fhjqjstx5cmh1.png?width=1456&format=png&auto=webp&s=0b9a19271c87ce1694bf7cafd28570d986390b0b)\n\nFortinet has more than doubled since March 3, so 47x isn’t cheap. Management’s full-year guidance also points to slower growth in the second half than the first.\n\nThe next couple of quarters should show how much of the product growth came from the firewall replacement cycle. If that fades before the software side picks up, $166 gets hard to defend.\n\nWould you pay 47x for Fortinet here, or wait to see whether the hardware bump lasts?",
+    "subreddit": "StockMarket",
+    "created_utc": 1788018875,
+    "thumbnail": "https://preview.redd.it/fhjqjstx5cmh1.png?width=140&height=65&auto=webp&s=498ba3945ee6844bd06c5b72b31320e30417c7bb",
+    "top_comments": [
+      {
+        "body": "Revenue up 26% in a quarter, stock up like 250%.... \"we will need this thing\" means \"price it like it will make infnite revenue for 300 years\" in this market, cybersecurity is just the latest story. Same as with chips, there will be fan boys defending the parabola until it comes crashing down, and when CRWD comes down it qill take even the lwasee-valued with it. Personally not touching either.",
+        "score": 2,
+        "author": "jcpopm"
+      },
+      {
+        "body": "Bro you don't know how DCF works",
+        "score": 1,
+        "author": "Charming_Deer_9540"
+      },
+      {
+        "body": "This is a great example of why revenue growth alone doesn't tell you what you're actually paying for.\n\nTwo companies can both grow revenue 26%, yet have very different free cash flow profiles, stock-based compensation, margins, and valuations. The 47x vs. 155x forward earnings gap is especially interesting because it tells us the market isn't really pricing the current quarter — it's pricing very different expectations about the future.\n\nThat doesn't automatically make Fortinet cheap or CrowdStrike expensive. The real question is what each valuation requires the company to deliver over the next several years.\n\nI think that's often the more useful way to look at high-growth stocks: not \"which company is growing faster today?\" but \"how much future success is already embedded in the price?\"\n\nA great company can still be a poor investment if the price requires near-perfect execution.",
+        "score": 1,
+        "author": "Spiritual_Plum581"
+      }
+    ],
+    "summary_he": "הפוסט משווה בין ביצועי פורטינט (Fortinet) לקראודסטרייק (CrowdStrike) ומציין כי למרות ששתיהן צמחו ב-26%, פורטינט מציגה תזרים מזומנים חזק יותר ותמחור נמוך משמעותית (מכפיל 47 לעומת 155). עם זאת, עולה השאלה האם מחיר המניה של פורטינט בר קיימא, לאור תחזיות להאטה בצמיחה וחשש שהגידול הנוכחי נשען על מחזור זמני של החלפת חומרה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מהתגובות בנוגע למניות בתחום אבטחת הסייבר (בדגש על CrowdStrike ו-Fortinet):\n\n*   **פער בין צמיחת הכנסות לעליית ערך המניה:** אחד המגיבים מצביע על חוסר הלימה קיצוני בין צמיחה של 26% בהכנסות לבין זינוק של 250% במחיר המניה. לטענתו, השוק מתמחר את החברות הללו כאילו יניבו רווחים אינסופיים למשך מאות שנים, מה שמעיד על הערכת יתר (Overvaluation).\n*   **השוואה לבועת השבבים והתנהלות של \"מעריצים\":** עולה הטענה שסייבר הפך ל\"סיפור\" התורן של השוק, בדומה למניות השבבים. קיימת ביקורת על \"מעריצים\" (Fan boys) שמגינים על המניה בלהט בזמן שהיא בגרף נסיקה פרבולי, תוך התעלמות מהסיכון לקריסה מתקרבת.\n*   **חשיבות המדדים שמעבר להכנסות:** צמיחה בהכנסות לבדה אינה מספקת כדי להבין על מה המשקיע משלם. יש לבחון פרמטרים עמוקים יותר כמו תזרים מזומנים חופשי (Free Cash Flow), שולי רווח, ותגמול מבוסס מניות (SBC), אשר משתנים משמעותית בין חברות עם שיעורי צמיחה דומים.\n*   **תמחור של \"ציפיות לעתיד\" מול \"ביצועים נוכחיים\":** הפער העצום במכפילי הרווח (למשל מכפיל 47 לעומת 155) מוסבר בכך שהשוק לא מתמחר את הרבעון הנוכחי, אלא מביע רמות שונות של אופטימיות לגבי עתיד החברה. השאלה המרכזית היא מה החברה צריכה לספק בשנים הבאות כדי להצדיק את מחירה.\n*   **הסיכון בהשקעה ב\"חברה מצוינת\" במחיר מופרז:** הועלתה נקודה חשובה לפיה גם חברה מעולה יכולה להיות השקעה גרועה אם התמחור שלה דורש \"ביצועים מושלמים\" לאורך זמן. אם מחיר המניה כבר מגלם הצלחה אדירה בעתיד, מרחב הטעות של המשקיע מצטמצם משמעותית.\n*   **השפעה רוחבית על המגזר במקרה של ירידות:** קיים חשש שכאשר מניות מובילות כמו CrowdStrike יחוו תיקון או קריסה, הן ימשכו מטה גם את המניות במגזר שמתומחרות באופן שפוי יותר, מה שמוביל חלק מהמשקיעים להצהיר שהם נמנעים מהתחום לחלוטין כרגע."
+  },
+  {
+    "id": "1w1onlx",
+    "title": "Looking for affordable wholesale fabric manufacturer/supplier",
+    "url": "https://www.reddit.com/r/business/comments/1w1onlx/looking_for_affordable_wholesale_fabric/",
+    "author": "hushhuush",
+    "score": 5,
+    "selftext": "Hey.... I’m looking for a manufacturer or supplier who sells fabrics at wholesale prices. I’m planning to start a  clothing brand and would really appreciate recommendations for reliable manufacturers who offer good-quality products at affordable prices.\n\nIf you know any manufacturers or suppliers, please let me know. And if there are any manufacturers here who are interested, please feel free to comment  so I can DM you.",
+    "subreddit": "business",
+    "created_utc": 1788015313,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "What more information is there?\n\nWhere on earth?  \nWhat market?",
+        "body": "Where about are you located? Depending on the area I might know a few.",
         "score": 1,
-        "author": "Sensitive_Net8045"
-      },
-      {
-        "body": "I'm a web developer.\nWhat can I do?",
-        "score": 1,
-        "author": "Expensive_Remote_940"
+        "author": "gwma-media"
       }
     ],
-    "summary_he": "הכותב מציע קוד הפניה (referral) לבעלי עסקים חדשים המעוניינים להשתמש בתוכנת Jobber, המעניק חודש חינם בשווי של מעל 200 דולר לשני הצדדים. בנוסף, הוא מציע לשתף מידע וטיפים מקצועיים מניסיונו האישי בניהול עסק שהקים בתחילת השנה.",
+    "summary_he": "הכותב מחפש יצרן או ספק בדים במחירי סיטונאות עבור הקמת מותג בגדים חדש. הוא מבקש המלצות לספקים אמינים המציעים שילוב של איכות טובה ומחירים נוחים, ומזמין יצרנים רלוונטיים ליצור עמו קשר ישיר.",
     "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות, דעות וסנטימנטים שונים שעלו מצד הקהילה:\n\n*   **צורך במידע בסיסי נוסף:** קיימת תחושה של חוסר בפרטים מהותיים. המגיבים מציינים כי הפוסט המקורי עמום מדי ולא ניתן לגבש דעה או לסייע ללא הרחבה משמעותית של המידע.\n*   **חשיבות ההקשר הגיאוגרפי:** אחת הנקודות המרכזיות שעלו היא השאלה \"איפה בעולם זה קורה?\". הקהילה מדגישה שהמיקום הפיזי הוא קריטי להבנת המצב ולהצעת פתרונות רלוונטיים.\n*   **חוסר בהירות לגבי המגזר העסקי:** המגיבים תוהים באיזה \"שוק\" מדובר. הסנטימנט הוא שלא ניתן להכליל ושיש צורך להבין את התחום הספציפי כדי לספק תובנות בעלות ערך.\n*   **נכונות לתרום מתוך מומחיות מקצועית:** ניכר כי בקהילה ישנם אנשי מקצוע (כמו מפתחי אתרים) שמזדהים בשמם ובמקצועם ומוכנים לתת כתף, מה שמעיד על קהילה תומכת ומכוונת עשייה.\n*   **חיפוש אחר הנחיות פעולה אופרטיביות:** מעבר לזיהוי הבעיה, המשתמשים שואלים באופן ישיר \"מה אני יכול לעשות?\". זהו ביטוי לרצון לעבור משלב הדיבורים לשלב המעשים והעזרה בפועל.\n*   **ביקורת סמויה על עמימות הפוסט:** הטון של השאלות (\"איזה עוד מידע יש?\") מרמז על סוג של תסכול מכך שהפונה לא סיפק מספיק רקע, מה שמונע מהקהילה לנהל דיון מעמיק ומקצועי."
+    "comments_summary_he": "נראה שסופקה רק תגובה אחת מהדיון. על בסיס תגובה זו והנימה העולה ממנה, להלן סיכום המבטא 6 נקודות, דעות או סנטימנטים קהילתיים המשתקפים בה:\n\n* **נכונות לסיוע מצד הקהילה:** התגובה משקפת רוח חיובית של רצון לעזור, המאפיינת קהילות שבהן המשתמשים מוכנים לחלוק מידע וניסיון אישי כדי לסייע לאחרים.\n* **חשיבות המיקום הגיאוגרפי:** עולה נקודה מרכזית לפיה הפתרונות או ההמלצות אינם גנריים, אלא תלויי מיקום באופן מובהק. ללא ידיעת האזור המדויק, קשה לספק עזרה אפקטיבית.\n* **הסתמכות על ידע מקומי (Local Knowledge):** המגיב רומז שיש ברשותו \"מומחיות מקומית\" או היכרות עם אפשרויות ספציפיות, דבר המדגיש את הערך של פנייה לחוכמת ההמונים לצורך קבלת המלצות \"מהשטח\".\n* **צורך בפרטים נוספים לדיוק המענה:** התגובה מדגישה סנטימנט קהילתי שבו המשתמשים מעדיפים לא לזרוק תשובות באוויר, אלא מבקשים הקשר (Context) כדי שהתשובה תהיה רלוונטית ומועילה.\n* **גישה מותאמת אישית:** במקום לתת רשימה ארוכה וכללית של אפשרויות, המגיב שואף לצמצם את האפשרויות לאלו שבאמת רלוונטיות לשואל, מה שמעיד על רצון ליעילות.\n* **פתיחות לדיאלוג והמשכיות:** עצם השאלה \"איפה אתה נמצא?\" מייצרת פתח לשיחה מתמשכת ומראה על מעורבות (Engagement) פעילה של חברי הקהילה בפוסט."
   },
   {
-    "id": "1w0rbu2",
-    "title": "Cost basis for SpaceX pre-IPO equity sold after IPO",
-    "url": "https://www.reddit.com/r/investing/comments/1w0rbu2/cost_basis_for_spacex_preipo_equity_sold_after_ipo/",
-    "author": "Individual-Recipe106",
-    "score": 1,
-    "selftext": "Apologies…I’ve looked, seen several different answers and still don’t understand. \n\nI worked at SpaceX before IPO and held RSUs that transitioned to Class C at IPO. Recently sold some of that equity and am trying to find cost basis for taxes. Is it the IPO price ($135) or is it based on the vested equity cost (varied because I acquired several lots at different dates). Held the RSUs for over 2 years. ",
+    "id": "1w1sfue",
+    "title": "Deferred Compensation - 10 Year Allocation",
+    "url": "https://www.reddit.com/r/investing/comments/1w1sfue/deferred_compensation_10_year_allocation/",
+    "author": "ubdumass",
+    "score": 3,
+    "selftext": "Looking to launch in 2027.   Using simple numbers, $500K 401K, $500K Brokerage, and $500K Deferred Compensation (NQDC).  $50K annual spend is covered by NQDC separation payout over next 10 years.\n\nDo I consider the full $1.5M (401K + Brokerage + NQDC) as one lump sum and assign the same 60/30/10 weighting to each asset location?  Or do I allocate a much higher cash-equivalent to NQDC since that is all coming out in next 10 years?",
     "subreddit": "investing",
-    "created_utc": 1787925449,
+    "created_utc": 1788024302,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "no that's not the cost basis. the cost basis is the grant price.",
+        "body": "Im in a very similar boat albeit with a 457.  what investment options do you have in the NQDC? can you change funds at any time?  if im thinking about handling SORR wholly and you have no option but to spend down that account first, yes Id do something like 50/50 fund in there (or closer to cash/bonds depending on what available?) and then finding ways to be tax efficent to balance the rest out to your desired allocation.  \n\ntechnically, since that counts as income, one could conveiveably  still contribute to a Roth, which opens up more complexity but possibly also more options down the road",
         "score": 1,
-        "author": "Ok-Alternative5935"
+        "author": "AKANotAValidUsername"
       },
       {
-        "body": "Adding to this, whatever your share management software is that the shares were held in (it was always eTrade for me) will always show the cost basis for any lots or sales.",
+        "body": "I’d separate two questions here: asset allocation and asset location.\n\nI would look at the $1.5M as one overall portfolio when deciding your total risk exposure, but I wouldn’t necessarily make each account individually 60/30/10.\n\nThe NQDC has a very different job from the 401(k). If it is specifically funding roughly $50K of annual spending over the next 10 years, then its effective time horizon is much shorter. The money needed in years 1–3 probably shouldn’t be taking the same market risk as money you won’t need until years 8–10 or assets in the 401(k) that may have a much longer horizon.\n\nThat suggests thinking in terms of a spending ladder rather than identical allocations across accounts: near-term spending gets more stability, while longer-horizon assets can carry more of the portfolio’s growth exposure.\n\nThe important number is still the risk allocation of the portfolio as a whole. Where you hold that risk should reflect taxes, account rules, and — most importantly — when the money will actually be needed.",
         "score": 1,
-        "author": "PTTCollin"
+        "author": "Spiritual_Plum581"
       },
       {
-        "body": "Market value when it vested. \nIf you sold them post ipo the broker should have received the cost basis from shareworks so you don't need to track it manually. ",
+        "body": "I don’t have a crystal ball, but given the 10 year timeframe, I would leave it invested as is.  At least for the time being.  Continue to monitor the market and possibly pivot when you have five years remaining.",
         "score": 1,
-        "author": "CornerOne238"
+        "author": "fn_gpsguy"
       }
     ],
-    "summary_he": "הכותב, עובד לשעבר ב-SpaceX, מבקש סיוע בחישוב בסיס המס (cost basis) עבור מניות שמכר לאחר הנפקת החברה לבורסה. הוא מתלבט האם בסיס המס נקבע לפי מחיר המניה ביום ההנפקה, או לפי שווי המניות במועדי ההבשלה (vesting) השונים של יחידות ה-RSU שקיבל בעבר.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח של תגובות הגולשים בשרשור בנושא בסיס העלות (Cost Basis) של מניות, מסוכם לעברית עם 6 נקודות מרכזיות:\n\n*   **הגדרת בסיס העלות כמחיר ההענקה:** אחד הגולשים מדגיש כי בסיס העלות אינו חישוב שרירותי, אלא הוא נקבע לפי מחיר המניה במועד שבו היא הוענקה (Grant Price).\n*   **הסתמכות על תוכנות ניהול מניות:** הקהילה מציינת כי התוכנות המשמשות לניהול המניות (כמו eTrade) הן המקור המדויק ביותר לבדיקת הנתונים, שכן הן מציגות את בסיס העלות עבור כל מנה (Lot) או מכירה בנפרד.\n*   **קביעת ערך במועד ההבשלה (Vesting):** קיימת טענה כי בסיס העלות מחושב לפי שווי השוק של המניה ברגע שהיא הופכת לנזילה ועוברת לבעלות העובד (Vesting), ולאו דווקא במועד המכירה.\n*   **סנכרון אוטומטי לאחר הנפקה (IPO):** במידה והמניות נמכרו לאחר שהחברה הפכה לציבורית, הברוקר אמור לקבל את נתוני בסיס העלות ישירות ממערכות הניהול (כגון Shareworks), מה שמקל על הדיווח.\n*   **ייתור הצורך במעקב ידני:** לאור הסנכרון בין המערכות הפיננסיות השונות, הסברה בקהילה היא שאין צורך שהמשתמש ינהל רישום ידני של העלויות, שכן המידע מועבר אוטומטית לברוקר.\n*   **חשיבות זיהוי מנות המניות:** הדיון מדגיש כי בסיס העלות עשוי להשתנות בין \"מנות\" שונות של מניות (Lots), ולכן יש לבדוק את הנתונים הספציפיים לכל מכירה בנפרד בתוך פלטפורמת הניהול.",
-    "dateString": "2026-08-28",
-    "savedAt": {
-      "_seconds": 1787927469,
-      "_nanoseconds": 805000000
-    }
-  },
-  {
-    "id": "1w0rq5h",
-    "title": "Is Jeremy Lefebvre's GVD framework a proven strategy?",
-    "url": "https://www.reddit.com/r/investing/comments/1w0rq5h/is_jeremy_lefebvres_gvd_framework_a_proven/",
-    "author": "Beneficial_Guest4742",
-    "score": 1,
-    "selftext": "I'v been reading and seeing a lot about Jeremy Lefebvre's GVD framework (Growth, Value, Dividend)  recently and it is something I started to implement in my own portfolio, as right now I'm just not as diversified as I need to be.\n\nAnyone else using this approach?\n\nAlso curious how people like the software he uses 1000xstocks for his analysis.",
-    "subreddit": "investing",
-    "created_utc": 1787926350,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I like Jeremy, he's right more than he's wrong, but if you're a new investor don't get too wrapped up in his sales pitch. Do your own research.  Also (and this goes for all YouTubers) dont buy any of their Master Class courses or software platforms. It's a rookie mistake and a complete waste of money",
-        "score": 1,
-        "author": "BAM_Spice_Weasel"
-      },
-      {
-        "body": "this loser got sue a few times for a reason. people buying his stupid shit is how he really makes money. he has alot invested. but selling to suckers is the real business. most of them are like that.  a real teacher wants to teach. a salesman wants to sell. ",
-        "score": 1,
-        "author": "stonks2rkts"
-      }
-    ],
-    "summary_he": "הפוסט דן באסטרטגיית ההשקעות GVD (צמיחה, ערך ודיבידנד) של ג'רמי לפבר ובודק האם מדובר בשיטה מוכחת. הכותב, שהחל ליישם את המודל כדי לגוון את תיק ההשקעות שלו, מבקש לשמוע חוויות ממשתמשים אחרים וחוות דעת על תוכנת הניתוח 1000xstocks שבה לפבר משתמש.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ועמדות שונות שעלו מהתגובות:\n\n*   **אמינות מקצועית מול עבר משפטי:** מצד אחד, יש המעריכים את ג'רמי וטוענים שהוא צודק ברוב המקרים, אך מנגד מצוין כי הוא נתבע מספר פעמים בעבר, דבר המטיל צל על אמינותו.\n*   **אזהרה למשקיעים מתחילים:** קיימת הסכמה שמשקיעים חדשים צריכים להיזהר ולא להיסחף אחרי ה\"פיץ' השיווקי\" (Sales pitch) של משפיענים, אלא להקפיד על ביצוע מחקר עצמאי.\n*   **התנגדות גורפת למוצרים בתשלום:** הקהילה מביעה סלידה מרכישת קורסי \"Master Class\" או פלטפורמות תוכנה מיוטיוברים, ומגדירה רכישות אלו כ\"טעות של טירונים\" ובזבוז כסף מוחלט.\n*   **מקור הרווח האמיתי:** עולה טענה שעיקר הונו של ג'רמי (ושל דומים לו) לא מגיע בהכרח מהשקעות מוצלחות, אלא ממכירת מוצרים ושירותים לקהל עוקבים נאיבי.\n*   **הבחנה בין מורה לאיש מכירות:** המגיבים מבחינים בין \"מורה אמיתי\", שמטרתו להקנות ידע, לבין \"איש מכירות\" שכל מטרתו היא למכור, כאשר ג'רמי מתויג כאיש מכירות המנצל \"פראיירים\".\n*   **ספקנות כלפי קהילת הפיננסים ביוטיוב:** הדיון משקף סנטימנט שלילי כללי כלפי יוטיוברים בתחום ההשקעות, בטענה שרובם פועלים במודל עסקי של ניצול העוקבים לצורך רווח אישי ממכירת קורסים ולא מידע מקצועי נקי.",
-    "dateString": "2026-08-28",
-    "savedAt": {
-      "_seconds": 1787927457,
-      "_nanoseconds": 202000000
-    }
-  },
-  {
-    "id": "1w0pqet",
-    "title": "What would you do with parents house sale money? UK",
-    "url": "https://www.reddit.com/r/investing/comments/1w0pqet/what_would_you_do_with_parents_house_sale_money_uk/",
-    "author": "Adept-Blacksmith-279",
-    "score": 1,
-    "selftext": "Parents are retired and have sold a house, roughly £900k to invest.  \nI’m used to investing my money for years in dividends, etfs and single stocks but would be interesting to hear what others think the best move with it would be.   \nMum thinks bonds are good, I’ve never used them.   \nHaving some income off it would be necessary.   \nWe all agree it should be safe though I do see the potential of making the most out of it by going for slightly riskier growth selections with a some of the money.\n\nI’d like to add I’m not asking for advice to go off, just if you were in my position what would you do?",
-    "subreddit": "investing",
-    "created_utc": 1787921494,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "How old are the parents? If they are 60, they should have 25+years left and bonds may be too conservative. \n\nHow much do they have in other assets? ",
-        "score": 1,
-        "author": "Blue_foot"
-      },
-      {
-        "body": "Probably a mix of cash savings or short-term gilts for a few years of expenses, high-quality bonds or gilt funds for stability and income, and a globally diversified equity ETF for long-term growth.",
-        "score": 1,
-        "author": "MarkTenBetter"
-      },
-      {
-        "body": "Define “safe.”  Cash is no volatility but highly likely to lose to inflation over time.  Equities are higher vol, but more likely to keep up.  ",
-        "score": 1,
-        "author": "Delicious-Plastic-44"
-      }
-    ],
-    "summary_he": "הורים בבריטניה שמכרו את ביתם ב-900 אלף פאונד מחפשים דרך להשקיע את הכסף כדי לייצר הכנסה שוטפת בתקופת הפרישה. בעוד שהאם מעדיפה אפיקים בטוחים כמו איגרות חוב, הכותב שוקל לשלב גם השקעות במניות וקרנות סל (ETF) כדי למקסם את פוטנציאל הצמיחה בסיכון מבוקר.",
+    "summary_he": "המשתמש מתכנן פרישה ב-2027 ומתלבט לגבי אסטרטגיית הקצאת הנכסים בתיק שבו כספי הפיצויים הנדחים (NQDC) מיועדים למימון המחיה בעשור הראשון. הוא שואל האם לנהל את כלל החשבונות כיחידה אחת עם חלוקה אחידה, או להשקיע את כספי ה-NQDC באפיקים סולידיים יותר (כמו מזומן) בשל השימוש המתוכנן בהם בטווח הקצר.",
     "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **חשיבות אופק ההשקעה:** יש להתחשב בגיל ההורים; עבור הורים בני 60, עם תוחלת חיים צפויה של 25 שנים ויותר, השקעה מסיבית באג\"ח עלולה להיחשב כשמרנית מדי ולא לנצל את טווח הזמן הארוך שעוד נותר להם.\n*   **בחינת התמונה הפיננסית המלאה:** לפני שמחליטים על אפיק השקעה, חיוני לבחון אילו נכסים נוספים קיימים ברשות ההורים כדי לקבל החלטה מושכלת ומאוזנת.\n*   **אסטרטגיית הדרגתיות בנזילות:** מומלץ לשלב מזומן או איגרות חוב ממשלתיות קצרות טווח כדי לכסות הוצאות מחיה של השנים הקרובות, מה שמבטיח שקט נפשי בטווח הקצר.\n*   **איזון בין יציבות להכנסה:** שימוש באג\"ח איכותיות או בקרנות אג\"ח ממשלתיות (Gilts) מהווה נדבך חשוב ליצירת יציבות בתיק לצד הכנסה שוטפת.\n*   **צמיחה ארוכת טווח באמצעות מניות:** כדי להבטיח את הגדלת ההון לאורך זמן, יש להקצות חלק מהתיק לקרנות סל מנייתיות בפיזור עולמי רחב.\n*   **הגדרה מחדש של המושג \"בטוח\":** המונח \"בטיחות\" הוא יחסי; בעוד שמזומן נראה בטוח בשל חוסר תנודתיות, הוא טומן בחובו סיכון גבוה לאובדן כוח קנייה מול האינפלציה. לעומת זאת, מניות תנודתיות יותר אך בעלות סיכוי גבוה יותר לשמור על ערך הכסף לאורך זמן.",
-    "dateString": "2026-08-28",
-    "savedAt": {
-      "_seconds": 1787930874,
-      "_nanoseconds": 508000000
-    }
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ועצות מרכזיות שעלו מהתגובות:\n\n*   **ראייה הוליסטית של תיק ההשקעות:** הקהילה מדגישה כי יש לבחון את סך הנכסים (במקרה זה, 1.5 מיליון דולר) כתיק אחד מאוחד לצורך קביעת רמת הסיכון הכוללת, במקום לנסות לשכפל את אותה הקצאת נכסים (למשל 60/30/10) בכל חשבון בנפרד.\n*   **הבחנה בין הקצאת נכסים למיקומם (Asset Location):** ישנה חשיבות רבה להבדל שבין *מה* מחזיקים לבין *איפה* מחזיקים זאת. חשבונות ה-NQDC (פיצוי נדחה) וה-401(k) משרתים מטרות שונות ובעלי חוקי מס שונים, ולכן המיקום של נכסים מסוכנים לעומת בטוחים צריך להיקבע לפי אופי החשבון.\n*   **אסטרטגיית \"סולם הוצאות\" (Spending Ladder):** עבור כספים המיועדים למשיכה בטווח זמן מוגדר (כמו 10 שנים), מומלץ להתאים את הסיכון לזמן המשיכה. כסף שיידרש ב-3 השנים הקרובות צריך להיות באפיקים יציבים מאוד, בעוד כסף שיידרש רק בעוד 8-10 שנים יכול להישאר באפיקי צמיחה (מניות).\n*   **ניהול סיכון \"רצף התשואות\" (SORR):** מאחר שחשבון ה-NQDC הוא הראשון שיוצא ממנו כסף, יש הצעה להחזיק בו תמהיל שמרני יותר (למשל 50/50 או נכסים דמויי מזומן/אג\"ח). זאת כדי למנוע מצב שבו ירידות שוק בתחילת תקופת המשיכה יפגעו אנושות בקרן שחייבת להיפדות.\n*   **תכנון מס עתידי ותרומות ל-Roth:** נקודה מעניינת שעלתה היא שתשלומי ה-NQDC נחשבים כהכנסה. עובדה זו עשויה לאפשר מבחינה חוקית להמשיך להפקיד כספים לחשבון Roth IRA גם לאחר הפרישה, מה שיוצר גמישות מס נוספת ואפשרויות תכנון לטווח הרחוק.\n*   **גישת ה-\"Pivot\" המאוחר:** דעה נוספת גורסת כי בטווח זמן של 10 שנים, אין צורך למהר ולבצע שינויים שמרניים כרגע. לפי גישה זו, כדאי להישאר מושקעים במסלולי צמיחה ולבצע את השינוי לכיוון נכסים בטוחים יותר רק כאשר נותרות 5 שנים לזמן היעד, בהתאם למצב השוק באותה עת."
   },
   {
-    "id": "1w2efpy",
-    "title": "Does this ratio make sense? Rev Growth/EV/Forward Revenue",
-    "url": "https://www.reddit.com/r/investing/comments/1w2efpy/does_this_ratio_make_sense_rev_growthevforward/",
-    "author": "PotatoMissionStart",
-    "score": 1,
-    "selftext": "Does it make sense to take year-over-year quarterly revenue growth and divide it by enterprise value over forward revenue?\n\nBackground: I'm evaluating software stock that got crushed during the SaaSpocalypse. Jason Lemkin showed them on a graph with EV/forward revenue on the y-axis and latest quarter revenue growth year-over-year. \n\nI'm wondering why one would bother with both ratios. Why not just combine them into a single metric and rank the stocks accordingly. If it's not appropriate, would some adjustments make it sensible?\n\nSimilarly, I see Joel Greenblatt uses two separate metrics for evaluating quality vs price, but surely there must be a way to combine them into a single ranking.   \n",
+    "id": "1w1s7hq",
+    "title": "Would moving part of my gold ETF position into XAUT make sense?",
+    "url": "https://www.reddit.com/r/investing/comments/1w1s7hq/would_moving_part_of_my_gold_etf_position_into/",
+    "author": "Choice_Employee_7739",
+    "score": 2,
+    "selftext": "I already keep some gold ETF, while most of the rest is stocks and crypto. The problem is that the two sides cannot be adjusted together. If crypto moves sharply outside regular market hours, I can only adjust my gold ETFs until the market reopens.\n\nThat's why I am considering moving part of the gold position into XAUT, where I trade cryptos. I would keep the same total gold allocation, with enough of it on the crypto side to rebalance when that part of the portfolio moves. Over the last two days, BTC and ETH moved through wider ranges than XAUT, which made the timing mismatch more noticeable.\n\nXAUT still comes with a different structure, liquidity, and platform risk. Does the ability to rebalance the hedge when crypto is actually moving justify shifting part of the position?",
     "subreddit": "investing",
-    "created_utc": 1788087264,
+    "created_utc": 1788023752,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "add on to the other commenter, please take a look at this article. there's differences in defi that leads it to be fragmented therefore creating a price differential across different crypto exchanges.\n\n  \nthere isn't a so called \"spot price\" that's universally agreed upon.\n\n  \n[https://tomespel.com/lecture-ntu-202602.html](https://tomespel.com/lecture-ntu-202602.html)",
+        "score": 1,
+        "author": "Strong-Room-9244"
+      },
+      {
+        "body": "I think the key distinction is between changing the gold allocation and changing the vehicle used to hold it.\n\nIf your total gold exposure stays the same, moving a portion from a gold ETF to XAUT could make sense operationally if the main objective is 24/7 rebalancing against crypto.\n\nBut that flexibility isn't free. XAUT introduces a different set of risks — platform/custody, liquidity, spreads, and token structure — that you don't necessarily have in the same form with a traditional gold ETF.\n\nSo I wouldn't ask only, \"Can I rebalance faster?\" I'd ask whether the benefit of being able to rebalance during those relatively rare off-hours moves is large enough to justify adding another layer of risk.\n\nPersonally, I'd view XAUT as a rebalancing tool rather than a replacement for the core gold position. Keeping the core in the more traditional vehicle and moving only the amount actually needed for 24/7 rebalancing seems like the cleaner structure.",
+        "score": 1,
+        "author": "Spiritual_Plum581"
+      }
+    ],
+    "summary_he": "הכותב שוקל להעביר חלק מאחזקות הזהב שלו מתעודות סל (ETF) מסורתיות למטבע הדיגיטלי XAUT, כדי לאפשר איזון של תיק ההשקעות מול תנודות בשוק הקריפטו גם מחוץ לשעות הפעילות של הבורסה. הוא תוהה האם היתרון שבמסחר מסביב לשעון מצדיק את הסיכונים הנלווים ל-XAUT, כגון הבדלי נזילות וסיכוני פלטפורמה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות, הכולל 6 נקודות מבט ודעות שונות:\n\n*   **פיצול בשוק ה-DeFi:** קיימת טענה כי עולם הפיננסים המבוזרים (DeFi) הוא פרגמנטרי (מפוצל), מה שיוצר פערי מחירים בין בורסות קריפטו שונות ומונע אחידות.\n*   **היעדר מחיר \"ספוט\" אוניברסלי:** בשל אופיו של השוק המבוזר, אין מחיר שוק מיידי (Spot Price) אחד שמוסכם על כולם באופן גורף, בניגוד לנכסים מסורתיים מסוימים.\n*   **הבחנה בין הקצאה למכשיר השקעה:** יש להבדיל בין החלטה על שינוי כמות הזהב בתיק (Allocation) לבין שינוי הכלי הפיננסי שבאמצעותו מחזיקים אותו (Vehicle) – למשל מעבר מקרן מחקה (ETF) למטבע דיגיטלי מגובה זהב (XAUT).\n*   **יתרון האיזון המשתנה (24/7):** המעבר לזהב בפורמט קריפטוגרפי (כמו XAUT) מאפשר לסחור ולאזן את התיק מול מטבעות קריפטו בכל שעות היממה, גם בזמנים שבהם השווקים המסורתיים סגורים.\n*   **סיכונים ייחודיים לנכסים מבוזרים:** שימוש בנכסים כמו XAUT מוסיף שכבות של סיכון שלא קיימות ב-ETF מסורתי, כגון סיכוני פלטפורמה, בעיות משמורת (Custody), פערים בין מחיר קנייה למכירה (Spreads) ומורכבות מבנית של הטוקן.\n*   **גישה אסטרטגית משולבת:** מוצע להתייחס לזהב דיגיטלי ככלי עזר טקטי לאיזון מחדש של התיק בלבד, ולא כתחליף מלא להחזקת הליבה של הזהב, אותה עדיף להשאיר בנכסים מסורתיים ויציבים יותר."
+  },
+  {
+    "id": "1w375si",
+    "title": "Daily General Discussion and Advice Thread - August 31, 2026",
+    "url": "https://www.reddit.com/r/investing/comments/1w375si/daily_general_discussion_and_advice_thread_august/",
+    "author": "AutoModerator",
+    "score": 1,
+    "selftext": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n\nPlease consider consulting our FAQ first - [https://www.reddit.com/r/investing/wiki/faq](https://www.reddit.com/r/investing/wiki/faq) And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.\n\nIf you are new to investing - please refer to Wiki - [Getting Started](https://www.reddit.com/r/investing/wiki/index/gettingstarted/)\n\nThe reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - [Reading List](https://www.reddit.com/r/investing/wiki/readinglist)\n\nThe media list in the wiki has a list of reputable podcasts and videos - [Podcasts and Videos](https://www.reddit.com/r/investing/wiki/medialist)\n\nIf your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n\n* How old are you? What country do you live in?\n* Are you employed/making income? How much?\n* What are your objectives with this money? (Buy a house? Retirement savings?)\n* What is your time horizon? Do you need this money next month? Next 20yrs?\n* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n* Any big debts (include interest rate) or expenses?\n* And any other relevant financial information will be useful to give you a proper answer.\n\nCheck the resources in the sidebar.\n\nBe aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!",
+    "subreddit": "investing",
+    "created_utc": 1788163234,
     "thumbnail": "self",
     "top_comments": [],
-    "summary_he": "הפוסט דן בשאלה האם כדאי לשלב את נתוני צמיחת ההכנסות ומכפיל השווי (EV/Forward Revenue) לכדי מדד יחיד לצורך דירוג והשוואה של מניות תוכנה. הכותב מבקש לפשט את תהליך הערכת השווי של חברות SaaS ומחפש דרך לאחד פרמטרים של צמיחה ומחיר למדד משולב אחד.",
-    "category_he": "השקעות",
+    "summary_he": "זהו שרשור יומי המיועד לשאלות כלליות, דיונים על שוק ההון וקבלת ייעוץ בסיסי מחברי הקהילה. הפוסט מפנה למקורות למידה ומפרט את הנתונים האישיים שמומלץ לספק כדי לקבל מענה רלוונטי, תוך הדגשה כי התשובות הן דעות בלבד ואינן מהוות תחליף לייעוץ מקצועי.",
+    "category_he": "פיננסים",
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1w2cmyo",
-    "title": "Moderna is up 143% in one month.",
-    "url": "https://www.reddit.com/r/investing/comments/1w2cmyo/moderna_is_up_143_in_one_month/",
-    "author": "Charming-Ad1028",
+    "id": "1w3494i",
+    "title": "ETF allocation changes due to high valuations",
+    "url": "https://www.reddit.com/r/investing/comments/1w3494i/etf_allocation_changes_due_to_high_valuations/",
+    "author": "Parking-Banana-212",
     "score": 1,
-    "selftext": "Moderna is up 143% in one month.\n\nSounds amazing.\n\nNow zoom out to 5 years.\n\nThe stock is still down 62%.\n\nSame stock.  \nSame chart.  \nCompletely different story.\n\nThis is why the time window matters so much when looking at momentum.\n\nA one-month winner can still be a long-term loser.\n\nWatch comments 👇  \n\n\n",
+    "selftext": "I've traditionally been a VOO investor, but thinking of moving a large portions of my investments into SCHD.   Reasoning is in a potential market downturn, i'd rather be in cash flow postive companies, then even voo where its dominated by ai dependent faang companies.\n\nSo in a theoritical drop of sp500 of 50%, a schd may only drop 35-40% in theory.   I still want to be in equities, but essentially moving to value driven equities.    what do you think of this thought process?",
     "subreddit": "investing",
-    "created_utc": 1788081121,
+    "created_utc": 1788153604,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "You're telling me stocks can go up AND down?!\n\nThanks for your incredibly valuable insight.",
+        "body": "> im about to fire in the next few years, so protecting against sorr is definitely on my mind\n\nThen you are past due to be de-risking and thinking of asset classes other than just equities.",
         "score": 1,
-        "author": "Funny-Wishbone7381"
+        "author": "therealjerseytom"
       },
       {
-        "body": "Big Ws in the chat for Michael Burry ",
+        "body": "In general you will always lose when trying to time the market so I would advice against doing strategic reallocations based on a potential downturn that may or may not arrive in the next 3 years. Even if by some magic you'll get your downturn timing right you'll need to do the same magic again on the upswing or you'll miss all the upside. Nobody has this magic.",
         "score": 1,
-        "author": "Funny-Wishbone7381"
+        "author": "wearelev"
       },
       {
-        "body": "Now zoom in for the 9 days since the peak - it's down 21% since the last peak after the news (19-Aug).\n\n",
+        "body": "from a psychological viewpoint, controlling drawdowns is very important, especially to me, as a skittish type.\n\nI see you are looking at retirement and thinking about SORR. it may be useful to look at a couple of books by William Bernstein: *Rational Expectations* and *The Ages of the Investor*. he discusses these ideas in a recent podcast, which you can find on YT. I think it's called \"50 years of investing wisdom\".",
         "score": 1,
-        "author": "librariancap"
+        "author": "hymie-the-robot"
       }
     ],
-    "summary_he": "הפוסט מציין כי למרות שמניית מודרנה זינקה ב-143% בחודש האחרון, במבט של חמש שנים היא עדיין נמצאת בירידה של 62%. המחבר מדגיש כי טווח הזמן קריטי בניתוח ביצועים, שכן מניה שנראית כמנצחת בטווח הקצר יכולה להיות מפסידה גדולה בטווח הארוך.",
+    "summary_he": "הכותב שוקל להעביר חלק משמעותי מהשקעותיו מקרן VOO (מדד S&P 500) לקרן SCHD המתמקדת במניות ערך ודיבידנדים, בשל חשש מהערכות שווי גבוהות ומתלות המדד במניות טכנולוגיה. הוא מאמין שחברות בעלות תזרים מזומנים חיובי יהיו עמידות יותר במקרה של ירידות בשוק, ומבקש חוות דעת על המעבר לאסטרטגיה דפנסיבית זו.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט, דעות ותחושות שונות שעלו מתוך התגובות:\n\n*   **סרקזם כלפי תובנות \"מובנות מאליהן\":** אחד המגיבים לועג בציניות לתוכן הפוסט המקורי, ומציין בנימה מזלזלת שהעובדה שמניות יכולות גם לעלות וגם לרדת היא \"תובנה יקרת ערך\", מה שמעיד על תסכול מניתוחים שטחיים בקהילה.\n*   **חגיגת ה\"ניצחון\" של מייקל ברי (Michael Burry):** ניכרת תמיכה והתלהבות כלפי המשקיע המפורסם מהסרט \"מכונת הכסף\". הקהילה רואה בירידות הנוכחיות אישור לתחזיותיו הפסימיות (דוביות) של ברי על השוק.\n*   **התמקדות בנתונים טכניים קצרי טווח:** המגיבים שמים דגש על ציר זמן ספציפי מאוד – 9 הימים שחלפו מאז ה-19 באוגוסט – כדי להדגיש את עוצמת הנפילה.\n*   **הדגשת חומרת הירידה (21%-):** קיימת התייחסות ספציפית ומדאיגה לנתון לפיו השוק איבד כחמישית מערכו בפרק זמן קצר מאוד מאז השיא האחרון, מה שמעיד על סנטימנט של פאניקה או הכרה במשבר משמעותי.\n*   **זלזול במומחים מטעם עצמם:** מעבר לסרקזם, עולה תחושה של חוסר הערכה כלפי משתמשים שמנסים להסביר את תנודות השוק לאחר מעשה, כאילו הם מחדשים דבר מה לקהל המשקיעים המנוסה.\n*   **התמקדות בנקודות מפנה (Peaks):** הקהילה בוחנת את האירועים ביחס לחדשות ספציפיות ולשיאים רגעים, תוך ניסיון להבין את הקשר בין פרסום ידיעות לבין הנפילה החדה שבאה בעקבותיהן."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג שש נקודות מבט וגישות שונות של הקהילה לגבי ניהול השקעות לקראת פרישה:\n\n*   **חשיבות הפחתת הסיכונים לקראת פרישה:** עבור מי שמתכנן פרישה מוקדמת (FIRE) בשנים הקרובות, קיימת הסכמה שזהו זמן קריטי להפחית את רמת הסיכון בתיק ההשקעות ולעבור לנכסים שהם לא רק מניות (Equities).\n*   **התמודדות עם סיכון סדר התשואות (SORR):** הקהילה מדגישה שסיכון סדר התשואות (החשש מירידות שוק בדיוק ברגע שמתחילים למשוך כספים) הוא גורם משמעותי שיש להיערך אליו מראש ולא לחכות לרגע האחרון.\n*   **הסכנה שבתזמון השוק:** קיימת דעה נחרצת נגד ניסיונות \"לתזמן את השוק\" (Market Timing). נטען כי שינוי אסטרטגיית השקעות המבוסס על תחזית למיתון ב-3 השנים הקרובות הוא לרוב מהלך שמוביל להפסדים.\n*   **הקושי הכפול בתזמון:** גם אם משקיע מצליח בדרך נס לחזות מתי השוק יירד, הוא יצטרך \"קסם\" נוסף כדי לדעת מתי להיכנס חזרה. פספוס של שלב העלייה עלול למחוק את כל הרווחים הפוטנציאליים מהמהלך.\n*   **היבטים פסיכולוגיים וסובלנות לסיכון:** לניהול הפסיכולוגי של תיק ההשקעות יש חשיבות מכרעת. עבור משקיעים בעלי אופי \"חששן\" (Skittish), היכולת לשלוט בירידות הערך (Drawdowns) חשובה יותר מאשר מקסום רווחים, כדי למנוע החלטות פזיזות בזמן משבר.\n*   **הסתמכות על ידע מקצועי וספרות:** הקהילה ממליצה להעמיק את הידע דרך מקורות חיצוניים מבוססים, כמו ספריו של ויליאם ברנשטיין (\"Rational Expectations\"), המציעים חוכמת השקעות ארוכת טווח וכלים להתמודדות עם אתגרי הגיל והפרישה."
+  },
+  {
+    "id": "1w2tx9a",
+    "title": "Question about finance media outlets",
+    "url": "https://www.reddit.com/r/investing/comments/1w2tx9a/question_about_finance_media_outlets/",
+    "author": "smltc",
+    "score": 1,
+    "selftext": "Hi all, I am trying to gather some information for a private project of mine.\n\nWhat do you expect from finance outlets?\n\nIs it:   \nA nice writing-style  \nFinancial literacy education  \nSpeed of news  \nPolitical bias  \nClear explanation of the news and the impacts\n\nOr asked differently, what are you currently reading and what would you like it to have?",
+    "subreddit": "investing",
+    "created_utc": 1788125131,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Speed matters only until the first reliable source is available. After that, I value structure more than volume. The ideal finance outlet should separate: (1) confirmed facts with primary links, (2) interpretation, (3) what is still unknown, and (4) the next filing or event that could confirm or falsify the thesis.\n\n\n\nFor earnings, I would rather see a bridge from headline revenue to organic growth, unit economics/cash flow, and one-off items than another summary of adjusted EPS plus the stock move. Political context can be useful if it is clearly labeled and tied to a measurable transmission mechanism. Corrections should also remain visible.\n\n\n\nWhat I rarely see is a follow-up calendar: “we’ll revisit when the 10-Q, customer concentration, same-store sales, or cash-flow data arrives.” That builds trust and gives readers a reason to return. Clean writing helps, but sourcing and falsifiability matter more than speed.",
+        "score": 1,
+        "author": "Arvin_ling"
+      },
+      {
+        "body": "Less fluff, pretty much anywhere outside a Bloomberg terminal you need to scroll past ten facebook level headlines like \"is Y enough to retire\", \"this couple left it all to live in Belize\", \"this is what Buffet said about pinneaples\", etc.\n\nThere are already ads, and they already link their stuff in the actual ads, so why.\nI get the need to generate content out of thin air in some indistries, but there are over 50000 listed companies in the world (plus every other investment topic), I don't get the need to rehash the same fluff topic 50 times a year.\n\n",
+        "score": 1,
+        "author": "BlueSonjo"
+      },
+      {
+        "body": "Speed and accuracy matter most to me, I'd rather wait an extra hour for correct numbers than get a hot take that's wrong.  \n  \nPolitical bias is the fastest way to lose my trust, once I catch an outlet spinning a story I stop taking their analysis seriously.",
+        "score": 1,
+        "author": "CowCool6502"
+      }
+    ],
+    "summary_he": "הכותב אוסף מידע עבור פרויקט אישי בנושא גופי תקשורת פיננסיים ומבקש להבין מה הקהל מחפש בהם. הוא שואל את הגולשים מהן הציפיות שלהם ממקורות מידע כלכליים (כמו מהירות, סגנון כתיבה או רמת הסבר) ומה חסר להם בתכנים שהם צורכים כיום.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג שש נקודות מבט ודעות מרכזיות שעלו מהתגובות בנוגע לצריכת חדשות וניתוחים פיננסיים:\n\n*   **מבנה הדיווח חשוב מהנפח:** הקהילה מעדיפה פורמט מובנה שמפריד בבירור בין ארבעה אלמנטים: עובדות מאומתות (עם קישורים למקורות ראשוניים), פרשנות, פרטים שעדיין אינם ידועים, ואירועים עתידיים שיכולים לאושש או להפריך את התחזית.\n*   **עומק ניתוח הדו\"חות:** ישנה דרישה לניתוח מעמיק יותר של דוחות כספיים. במקום להסתפק בנתוני רווח למניה (EPS) ותנודות במחיר המניה, הקוראים מעוניינים לראות נתונים על צמיחה אורגנית, תזרים מזומנים וסעיפים חד-פעמיים המשפיעים על התמונה הכוללת.\n*   **בניית אמון באמצעות המשכיות:** יצירת \"לוח שנה למעקב\" (למשל: \"נחזור לבחון את הנושא כשיפורסם הדוח הרבעוני הבא\") נתפסת כדרך מצוינת לבניית אמון עם הקורא, בניגוד לדיווחים רגעיים שנשכחים מיד.\n*   **התנגדות לתוכן \"ריק\" (Fluff) וקליקבייטים:** קיימת ביקורת חריפה על אתרי פיננסיים שממלאים את העמודים בכתבות בסגנון \"לייף סטייל\" או כותרות ממוחזרות על וורן באפט, במקום לנצל את העובדה שיש עשרות אלפי חברות ציבוריות שניתן לסקר באמת.\n*   **דיוק קודם למהירות:** בניגוד לתפיסה שחדשות חייבות להיות מיידיות, משתמשים ציינו כי הם מעדיפים להמתין שעה נוספת כדי לקבל נתונים מדויקים ומאומתים מאשר לקבל \"סקופ\" חפוז שעלול להתברר כשגוי.\n*   **אובייקטיביות והפרדה מפוליטיקה:** הטיה פוליטית נתפסת כגורם המרכזי לאובדן אמון בכלי תקשורת פיננסי. הקהילה דורשת שאם מוצג הקשר פוליטי, הוא חייב להיות מסומן בבירור וקשור למנגנונים כלכליים מדידים ולא לפרשנות אידאולוגית."
+  },
+  {
+    "id": "1w2qcxt",
+    "title": "Strategy for entering the market with large lump sum",
+    "url": "https://www.reddit.com/r/investing/comments/1w2qcxt/strategy_for_entering_the_market_with_large_lump/",
+    "author": "External-Ad4134",
+    "score": 1,
+    "selftext": "So I will have a significant lump sum of cash to invest in the next 30 days and I’m looking at strategies to deploy it. I understand the percentages of lump sum into the market vs DCA but I am very new to the idea of options/ puts and I’m not sure if I’m missing something because it almost sounds too good to be true. \n\nI’m thinking of buying (selling?) 2-3 put contracts with a strike price just below that day’s price on VOO and QQQM for 4 months. The premium for a 4 month contract with a strike just below the current price is significant. I would also sell puts at 15-20% below the current price on VOO and QQQM in case there’s a crash in the next 4 months. The premium for this would be in the 10’s of thousands of dollars just to invest money that I was going to invest anyway and at cheaper prices. Am I missing something? Is there an inherent risk I’m not accounting for? \n\nYes, I realize that if the market shoots up and the price never drops from that day on, then I would be missing out on some gains, but I’d still have the huge premium + 3.5% on the cash in a money market. It’s also hard to believe that the day I sell the puts will be the very bottom of the market, especially with the pre midterm volatility we’re going into. Even if I ended up having to pay out on all 4 puts, that would still leave me like 20-25% in cash and 75-80% of my portfolio owning VOO and QQQM at good/great prices. \n\nAgain, I’m new to options and mostly have been talking to ChatGPT for ideas, so please let me know if this is a good strategy or if there’s something I’m missing. ",
+    "subreddit": "investing",
+    "created_utc": 1788116927,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Your [submission](https://www.reddit.com/r/investing/comments/1w2qcxt/strategy_for_entering_the_market_with_large_lump/) in /r/investing was automatically removed because your account has insufficient Karma. If you are new to Reddit - you can learn more at [RedditHelp.com](https://www.reddithelp.com/hc/en-us/articles/204511829-What-is-karma-). If you have a beginner question, please ask your question in the [daily discussion](https://www.reddit.com/r/investing/about/sticky?num=1) thread. Please read the rules and guidelines for r/investing. \n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/investing) if you have any questions or concerns.*",
+        "score": 1,
+        "author": "AutoModerator"
+      },
+      {
+        "body": "Chirping? Hahaha!  \nYou're the one bitching about comments because you failed to preference your experience in your OP.  \nBtw, I remember exactly where I was when the 87 crash hit. You know when fractional pricing and the value line was a thing.   \nAnyway, did you ask another ai to find any holes in your strategy? Or are you just looking for support that you're doing the right thing?   \n  \nIt's your money. Don't fuck it up. ",
+        "score": 1,
+        "author": "ImaginaryColor1618"
+      },
+      {
+        "body": "\"in 1939\"\n\nThis is where I'm at. I have a lump sum to invest, but I'm retiring in 12 years so I can't fuck this up. I'm going to wait a few months ",
+        "score": 1,
+        "author": "BatCleanUp"
+      }
+    ],
+    "summary_he": "הכותב מתכנן להשקיע סכום כסף גדול באמצעות מכירת אופציות פוט (Put) על מדדי VOO ו-QQQM, במטרה להניב רווח מהפרמיות תוך כדי המתנה למחיר כניסה נמוך יותר לשוק. הוא מבקש להבין אם ישנם סיכונים נסתרים באסטרטגיה זו, תוך שהוא מודע לאפשרות שיפספס עליות משמעותיות במידה ומחירי המדדים יזנקו.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות, בשישה סעיפים:\n\n*   **חשיבות עמידה בכללי הקהילה וסינון תוכן:** התגובה הראשונה מדגישה את המדיניות הקפדנית של הפורום (r/investing) לגבי רמת ה\"קארמה\" הנדרשת ממשתמשים לפני פרסום פוסטים, במטרה למנוע תוכן דל ולהפנות שאלות של מתחילים לשרשורים ייעודיים.\n*   **הצורך בשקיפות לגבי ניסיון קודם:** עלתה ביקורת כלפי כותב הפוסט על כך שלא ציין את מידת הניסיון שלו בשוק ההון. נטען כי ללא הקשר זה, קשה להעריך את האסטרטגיה שלו בצורה נכונה.\n*   **הסתמכות על פרספקטיבה היסטורית:** אחד המגיבים משתמש בניסיונו האישי ממשברים עבר (כמו המפולת של 1987) כדי להדגיש את החשיבות של הבנת השוק לאורך זמן, מעבר לנתונים יבשים.\n*   **ספקנות כלפי שימוש בבינה מלאכותית (AI):** הועלתה תהייה האם האסטרטגיה גובשה או נבדקה על ידי כלי בינה מלאכותית, תוך קריאה למשקיע לחפש \"חורים\" בתוכנית שלו במקום רק לחפש אישור ותמיכה מהקהילה.\n*   **אחריות אישית וזהירות קיצונית:** הודגשה הגישה שבסופו של יום, האחריות על הכסף היא על המשקיע בלבד (\"אל תפקשש את זה\"), וכי עליו להיות מודע להשלכות של החלטותיו.\n*   **הימנעות מהשקעה חד-פעמית (Lump Sum) בעיתוי הנוכחי:** מוצגת גישה של זהירות והמתנה; משקיע הנמצא לקראת פרישה (טווח של 12 שנים) מציין שהוא מעדיף להמתין מספר חודשים לפני כניסה לשוק עם סכום גדול, בשל הפחד מטעות קריטית בעיתוי ההשקעה."
+  },
+  {
+    "id": "1w2pqds",
+    "title": "Blackstone guaranteed UC an 11.25% return on $4.5B of BREIT. The collateral behind that guarantee is now spent.",
+    "url": "https://www.reddit.com/r/investing/comments/1w2pqds/blackstone_guaranteed_uc_an_1125_return_on_45b_of/",
+    "author": "ThinkCRE",
+    "score": 1,
+    "selftext": "Rewind: January 2023. \n\nBREIT is limiting redemptions, the press is brutal, and the University of California invests $4.5 billion. In exchange, Blackstone guarantees an 11.25% minimum annualized return and pledges $1.125 billion of its own BREIT shares as the backstop.\n\nIt worked exactly as intended. It bought a marquee name, a locked-up shareholder, and a story. BREIT’s flows turned positive again.\n\nBut look at the structure. Blackstone’s obligation stops at the collateral, and the collateral is BREIT stock. The thing being protected and the thing doing the protecting are the same asset. \n\nEstimated based on July marks:\n\n\\- UC’s $4.5B is worth about $5.25B  \n\\- at 11.25% for 3.5 years, the accrual is $6.58B  \n\\- Gap: \\~$1.33B  \n\\- Collateral, with reinvested distributions: \\~$1.29B\n\nThe cushion is gone, with a year and a half until UC’s first redemption window opens in January 2028.\n\nBREIT did 11.1% over the last twelve months. It did 4.4% a year since UC invested. To actually deliver 11.25% out of the pool from here, it needs to compound at roughly 11.8%.\n\nUC still comes out fine. Blackstone capped its downside and got the outcome it paid for. The lesson isn’t that anybody got fleeced. It’s that a floor is only as deep as its collateral, and correlated collateral is barely collateral at all.\n\nAnd one more example of Blackstone playing chess while most others are playing checkers. BX got what it needed when it needed it. ",
+    "subreddit": "investing",
+    "created_utc": 1788115527,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Your post has been removed because it's a low effort post. \n\nPosts must either share investment ideas and insights or ask thoughtful questions. \n\nWe are also not a financial news monitoring subreddit so a regurgitation of a news article without context are removed, including creating duplicate posts on the same topic. \n\nAdditional guidelines can be found in the wiki here - https://www.reddit.com/r/investing/wiki/index/rules\n\nIf you have any issue with this removal, please contact the moderators via modmail. Thank you.",
+        "score": 1,
+        "author": "investing-ModTeam"
+      },
+      {
+        "body": "so the guarantee’s basically on empty collateral now",
+        "score": 1,
+        "author": "Robhoeg"
+      },
+      {
+        "body": "Claude slop. \"The thing being protected and the thing doing the protecting are the same asset.\" Claude LOVES to use the word \"thing\" in this way, this style of construction. You did a good job editing this to seem more human but you missed that one. ",
+        "score": 1,
+        "author": "CallMePyro"
+      }
+    ],
+    "summary_he": "בינואר 2023 הבטיחה בלקסטון (Blackstone) לאוניברסיטת קליפורניה תשואה שנתית של 11.25% על השקעה של 4.5 מיליארד דולר בקרן הנדל\"ן BREIT, תוך שימוש במניותיה בקרן כבטוחה. כיום, בשל ביצועי חסר של הקרן, שווי הבטוחות נוצל כמעט במלואו, מה שממחיש את הסיכון המבני בשימוש בנכס כבטוחה עבור עצמו (Correlated collateral). למרות זאת, המהלך נחשב להצלחה אסטרטגית עבור בלקסטון, שהצליחה לייצב את אמון המשקיעים ולעצור גל פדיונות בתקופה קריטית.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והתגובות בשרשור, המציג 6 נקודות מבט ורגשות שעלו בקהילה:\n\n*   **אכיפת איכות התוכן:** הנהלת הפורום מקפידה על רף גבוה ופוסלת פוסטים שנחשבים כ\"דלי מאמץ\" (low effort). הקהילה דורשת רעיונות השקעה מקוריים או שאלות מעמיקות, ולא רק ציטוט של חדשות ללא הקשר.\n*   **ביקורת על \"מעגליות\" פיננסית:** אחד המגיבים מצביע על כשל לוגי או כלכלי בתוכן המקורי, שבו הערבויות מבוססות למעשה על בטוחות \"ריקות\" שאין להן ערך ממשי בנפרד מהנכס עצמו.\n*   **זיהוי תוכן שנוצר על ידי בינה מלאכותית (AI):** קיימת רגישות גבוהה בקהילה לשימוש במודלי שפה, ובפרט ב-Claude. המשתמשים מזהים ומכנים תוכן כזה כ\"Slop\" (תוכן זול או חסר נשמה המיוצר על ידי מכונה).\n*   **ניתוח סגנון כתיבה של AI:** חברי הקהילה מפתחים מיומנות בזיהוי \"סימנים מסגירים\" של בינה מלאכותית, כמו שימוש ספציפי במבני משפטים הכוללים את המילה \"thing\" לתיאור נכסים או תהליכים.\n*   **חוסר אמון בניסיונות הסוואה:** גם כאשר משתמשים עורכים את הטקסט של ה-AI כדי לשוות לו מראה אנושי יותר, הקהילה מפגינה ספקנות ומצליחה לעלות על טעויות בניסוח שנשארו מהמקור הממוחשב.\n*   **מניעת כפילויות והצפת מידע:** מדיניות הפורום אוסרת על פרסום חוזר של ידיעות חדשותיות שכבר הופיעו, מתוך מטרה לשמור על הדיון ממוקד ולא להפוך ללוח מודעות של כותרות מהעיתונות הכלכלית."
+  },
+  {
+    "id": "1w2io53",
+    "title": "The Two Trillion Dollar Bottleneck: AI & Energy",
+    "url": "https://www.reddit.com/r/investing/comments/1w2io53/the_two_trillion_dollar_bottleneck_ai_energy/",
+    "author": "Secret_Swordfish4121",
+    "score": 1,
+    "selftext": "For a few years now the hyperscalers have been spending agressively, but it seems to me like spending this money is actually the easy part of the equation.\n\nIf we add up the contracted, not yet delivered cloud demand (Remaining Performance Obligations - RPO) of the hyperscalers (**Microsoft**, **Oracle**, **Google** and **Amazon**), we get a sum of about **$2.3 Trillion (*****We still don't know if this will ever get paid but still RPO is a better estimate than a forecast & a big portion of it is from frontier AI labs like*** ***OpenAI*** ***and*** ***Anthropic*****)**. In order to serve this massive RPO, **MSFT**, **GOOGL**, **AMZN**, and **META** are spending about **$660 Billion** a year, moving from asset-light software companies into owners of physical plants, real estate, and equipment.\n\nThe real battle for big tech isn't buying servers, but rather securing **24/7 power**. That kind of energy commitment completely breaks traditional budgeting. As JPMorgan put it, \"*money can't buy you electric power*\" when a project's start date depends on a years-long grid-connection queue. Out of these hyperscalers, Oracle is the outlier, it carries net debt of about **3x operating cash flow** (an order of magnitude above the others), and its free cash flow has gone negative. Amazon's trailing free cash flow also crossed into the red.\n\nI have to say, these companies remain among the most cash-generative business ever built, and they're funding roughly half the build from cash and the other half from debt markets. **T. Rowe's Dom Rizzo** argues the funding gap is \"*not that big*\" against balance sheets like these, and that unlike **1998** (*the dot-com bubble*) the fundamentals are still accelerating.\n\nNow the interesting part is that if we follow the money trail down the supply chain, we can see exactly who is extracting the value. It starts with the regulated utilities like **Southern**, **Duke** and **Dominion** who are accelerating capex to build grid capacity. These guys face huge regulatory hurdles and political blowback from residential ratepayers over increasing electricity bills. To go around the regulations, **NextEra** for instance is using a hybrid strategy by restarting a nuclear plant (*Duane Arnold*) for Google.\n\nBecause the public grid is too slow, big tech are chasing independent producers like **Constellation**, **Vistra**, and **Talen energy**. These companies **have 24/7 power** and they spend almost nothing to expand. Amazon and Meta are locking up deals with Vistra, Microsoft contracted to restart the *Three Mile Island* in Pennsylvania, and Google signed for small modular reactors with **Kairos**.\n\nOne layer down, we arrive to the equipment makers like **Vertiv**, **GE Vernova**, **Eaton** and **Caterpillar** which are facing an increasing days inventory outstanding (**DIO**). Usually this is looked at as **constraint** on these companies, but as the gross margins also keep on rising for some of these companies, even **hitting a record** for Vertiv and GE Vernova, this is pure **pricing power** for them.\n\nThere are so many other layers that plays into this like, cooling systems, precision HVAC, advanced packaging & foundry equipment, copper mining & refining for power grids, etc etc. that won't fit into this single post.\n\nThe takeaway is big tech is bleeding money and the wealth is pooling at the bottom with nuclear operators collecting and hardware manfucaturers hitting record margins while the the payers wait for delivery. Will investing in nuclear energy / equipment companies pay off in the next 5-10 years?",
+    "subreddit": "investing",
+    "created_utc": 1788099196,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Your post has been removed because it's a low effort post. \n\nPosts must either share investment ideas and insights or ask thoughtful questions. \n\nWe are also not a financial news monitoring subreddit so a regurgitation of a news article without context are removed, including creating duplicate posts on the same topic. \n\nAdditional guidelines can be found in the wiki here - https://www.reddit.com/r/investing/wiki/index/rules\n\nIf you have any issue with this removal, please contact the moderators via modmail. Thank you.",
+        "score": 1,
+        "author": "investing-ModTeam"
+      },
+      {
+        "body": "the same trade shows up in korea. hd hyundai electric and hyosung heavy, both transformer makers, are each around 29tn won of market cap, and ls electric trades at 84x earnings. but the margins arent uniform. sanil electric did a 37.8% operating margin last quarter while ls electric managed 11.3%. the market isnt paying for current margin there, its paying for order books nobody can see yet",
+        "score": 1,
+        "author": "John_Logics"
+      },
+      {
+        "body": "I don't use any research. I let the retail idiots believe that they can beat the markets and gamble. \n\nVT and chill.",
+        "score": 1,
+        "author": "vertigo88"
+      }
+    ],
+    "summary_he": "ענקיות הטכנולוגיה משקיעות מאות מיליארדי דולרים בתשתיות בינה מלאכותית, אך נתקלות בצוואר בקבוק קריטי באספקת חשמל רציפה שמעכב את פריסת השירותים. כתוצאה מכך, מוקד הרווחיות עובר מהחברות עצמן ליצרניות אנרגיה (בעיקר גרעינית) וליצרניות ציוד תשתית הנהנות מכוח תמחור חסר תקדים ומתשואות שיא. המעבר של חברות התוכנה להשקעה מאסיבית בנכסים פיזיים ובתחנות כוח מעצב מחדש את שרשרת הערך הכלכלית בענף הטכנולוגיה.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון והתובנות המרכזיות שעלו מתוך התגובות בשרשור, המוצגים ב-6 נקודות שונות:\n\n*   **אכיפת איכות תוכן קפדנית:** ניהול הקהילה בפורום מקפיד על רמה גבוהה של פוסטים; הודעות המוגדרות כ\"מאמץ נמוך\" (Low effort), שאינן כוללות רעיונות השקעה מעמיקים או שאלות מחושבות, מוסרות באופן מיידי.\n*   **התמקדות במגזר השנאים והתשתיות בקוריאה:** קיימת מגמת מסחר ערה סביב יצרניות שנאים וציוד חשמלי בדרום קוריאה (כמו HD Hyundai Electric ו-Hyosung Heavy), מה שמעיד על עניין גלובלי בתחום האנרגיה.\n*   **תמחור על בסיס ציפיות עתידיות:** השוק מוכן לשלם מכפילים גבוהים מאוד (למשל מכפיל רווח של 84 בחברת LS Electric), מה שמרמז שהמשקיעים מתמחרים \"ספרי הזמנות\" עתידיים שטרם נחשפו לציבור, ולא רק את הרווחים הנוכחיים.\n*   **שונות משמעותית בשולי הרווח:** למרות שמדובר באותו מגזר, קיימת חוסר אחידות ברווחיות בין החברות; לדוגמה, חברה אחת מציגה שולי רווח תפעולי של כ-38% בעוד מתחרה מציגה כ-11% בלבד.\n*   **סקפטיות כלפי משקיעים פרטיים:** עולה תחושת זלזול כלפי היכולת של משקיעים קטנים (Retail) \"להכות את השוק\" באמצעות מחקר עצמאי, תוך כינוי הניסיונות הללו כהימורים.\n*   **העדפת השקעה פסיבית (\"VT and chill\"):** קיימת גישה בקהילה המצדדת בהימנעות מוחלטת מניתוח מניות פרטניות ובחירה באסטרטגיה של השקעה במדד עולמי רחב (כמו קרן הסל VT) כדי להשיג שקט נפשי ותשואת שוק יציבה."
+  },
+  {
+    "id": "1w2fun3",
+    "title": "Suggestions of where to learn financial literacy quickly",
+    "url": "https://www.reddit.com/r/investing/comments/1w2fun3/suggestions_of_where_to_learn_financial_literacy/",
+    "author": "Adventurous-Loss4175",
+    "score": 1,
+    "selftext": "Suggestions of where I can quickly absorb info from.\n\nTo sum it up, I'm looking for where I can look to learn to make money last my lifetime. I've recently been trying to research financial literacy topics and have some ideas of what to do,  but I'm scared if they're not the best, I'm screwed. So I'm looking suggestions for more, and that I can learn semi-quickly, so please not incredibly long books or many of them. \n\nThe shit ton of details are:\n\nI just received my work comp settlement after 12 years. They were sending me checks bi-monthly though so I had some income in the meantime. It was just enough to pay bills so I was living paycheck to paycheck and I know I completely messed up by not learning financial stuff the entire time.\n\nIn my defense though, I've had sooo many other things in the meantime, and also aquired a severe TBI in the accident and my executive functioning (planning, executing tasks in order, etc) really sucks now. \n\nBut this one sum is going to have to last me for the rest of my life. And I'm trying to look at the best ways to make that happen. I'm permanently disabled and receive a small amount from SSDI rn because it was offset by what I was getting from work comp. I'm not sure what that's going to be now as it just was finalized and I uploaded the documents to ssa but idk when it'll be refigured what I'll be receiving monthly now. \n\nI have read the flow charts and did pay off my credit cards immediately. I'm not able to drive now and live in an apartment, so no car or mortgage to pay. \n\nMy credit union has 3- 5%, depending on which requirements you meet that month, in interest on up to $10,000 in checking, so I'm keeping that much in there and paying bills from that. \n\nI just opened an ABLE account, and can put, I believe it's 10,000 there and invest it with no tax liability on it, so I'm going to do that next.\n\nI was thinking of doing a CD ladder with part of it and as those mature, topping off the checking to meet 10,000 and getting another CD with the remainder. \n\nWhat I'm really stuck on is how to grow the remainder. It has to be stable because if I lose it I'm done. But also has to be more than CD or mutual fund interest so I can grow it and make this money last the rest of my life, (I'm 50). I also would like to reduce taxes draining any growth.\n\nI've looked up fee only fiduciaries for advice, but the lowest fee was $5000 for a quick session, so I'm going to attempt to figure this out myself if that's possible. \n\nSo PLEASE pass on any and all advice on places I can try to learn a ton of financial stuff quick. ",
+    "subreddit": "investing",
+    "created_utc": 1788091665,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Besides SSDI, do you receive Medicaid, SSI, SNAP, subsidized housing, or any other benefit with an asset limit? I’d get that clear before moving much of the settlement, because the right account setup may matter more right now than choosing investments.",
+        "score": 1,
+        "author": "One_More_Rep202"
+      },
+      {
+        "body": "Yes, take your time. You don't have to figure it all out at once. ",
+        "score": 1,
+        "author": "wharleeprof"
+      },
+      {
+        "body": "Honestly, the Bogleheads philosophy (low-cost index funds, buy and hold) will teach you more about actual wealth-building than most paid courses. After you nail the fundamentals, you can get weird with it if you want, but most people would be better off just understanding asset allocation and cost basis.",
+        "score": 1,
+        "author": "Linett-Chukwuemeka61"
+      }
+    ],
+    "summary_he": "הכותב, שקיבל סכום פיצויים חד-פעמי לאחר פציעה, מחפש מקורות מידע פשוטים ומהירים ללמידת אוריינות פיננסית כדי להבטיח שהכסף יספיק למחייתו למשך שארית חייו. הוא כבר נקט בצעדים ראשוניים לניהול הכסף, אך זקוק להדרכה לגבי השקעות יציבות בעלות פוטנציאל צמיחה, מבלי להסתמך על ספרים ארוכים או על ייעוץ מקצועי יקר מדי.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מהתגובות ב-Reddit:\n\n*   **בדיקת מגבלות נכסים להטבות ממשלתיות:** לפני שמבצעים השקעות, קריטי לבדוק האם המוטב מקבל קצבאות או סיוע (כמו סיוע בדיור, ביטוח בריאות ממשלתי או תלושי מזון) הכוללים מגבלת נכסים, כדי שהכסף החדש לא יבטל את הזכאות להטבות אלו.\n*   **חשיבות מבנה החשבון:** בחירת סוג החשבון הנכון שבו יופקדו הכספים עשויה להיות חשובה ודחופה יותר מאשר בחירת ניירות הערך עצמם, במיוחד עבור מי שתלוי בקצבאות.\n*   **אימוץ גישה שקולה ואיטית:** קהילת המגיבים ממליצה לא למהר לקבל החלטות גורליות. אין צורך לפתור את כל הסוגיות הפיננסיות בבת אחת, ומותר לקחת את הזמן כדי ללמוד את הנושא.\n*   **העדפת למידה עצמית על פני קורסים בתשלום:** קיימת סנטימנט חזק לפיו פילוסופיות השקעה מוכרות (כמו שיטת ה-Bogleheads) מלמדות על בניית עושר אמיתי הרבה יותר טוב מאשר רוב הקורסים הפיננסיים בתשלום.\n*   **התמקדות ביסודות ובמדדים זולים:** ההמלצה המרכזית היא להיצמד ליסודות: קרנות סל מחקות מדד בעלות נמוכה, אסטרטגיית \"קנה והחזק\", והבנה מעמיקה של הקצאת נכסים (Asset Allocation).\n*   **פשטות לפני מורכבות:** הקהילה מציעה להימנע מהשקעות \"מוזרות\" או מורכבות בתחילה; רק לאחר שליטה מלאה ביסודות הפיננסיים ניתן (אם בכלל רוצים) לבחון אפיקי השקעה פחות קונבנציונליים."
   }
 ];
