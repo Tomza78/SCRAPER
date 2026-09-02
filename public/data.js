@@ -28,38 +28,12 @@ window.dailyTrends = [
     ],
     "summary_he": "לפני 50 שנה השיקה חברת וונגארד (Vanguard), תחת הנהגתו של ג'ון בוגל, את קרן המדד הציבורית הראשונה שעקבה אחרי מדד ה-S&P 500. כיום הקרן מנהלת נכסים בשווי עצום של כ-1.67 טריליון דולר, כאשר ההשקעות הפסיביות במדדים הפכו לפופולריות ודומיננטיות יותר מניהול קרנות אקטיבי בשוק האמריקאי.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ודעות שונות שעלו מהתגובות:\n\n*   **הפנייה לקהילה ייעודית:** התגובות מפנות את הקוראים לסאב-רדיט r/Bogleheads כמרכז ידע למי שמעוניין לשמוע שוב ושוב את הטיעונים המוכרים בזכות השקעה בקרנות סל (ETFs).\n*   **הצלחתן המוכחת של קרנות המדד:** קיימת הסכמה כי קרנות המדד ממשיכות להוכיח את עצמן כהשקעה מנצחת לאורך זמן, למרות הספקות שמעלים גורמים שונים.\n*   **ביקורת על תעשיית הפיננסים:** המגיבים מצביעים על אירוניה בכך שתעשיית הפיננסים עדיין מנסה להילחם בשיטת השקעה ש\"פשוט עובדת בשקט\" עבור המשקיע הממוצע.\n*   **תיקון היסטורי לגבי ראשוניות המדדים:** בניגוד לאמונה הרווחת, ג'ון בוגל (John Bogle) לא היה הראשון שהשיק קרן מחקה S&P 500 לציבור הרחב; רקס סינקפילד (Rex Sinquefield) הקדים אותו ועשה זאת כבר ב-1973.\n*   **ביקורת על כלי תקשורת פיננסיים:** עלתה טענה נגד גופים כמו Morningstar על כך שהם \"חטאו\" באי-דיוק היסטורי והתעלמו מדמויות מפתח כמו סינקפילד, שהיה גם ממקימי Dimensional Fund Advisors.\n*   **ניפוץ ה\"מיתולוגיה\" של בוגל:** קיימת תחושה בקהילה כי דמותו של ג'ון בוגל עברה תהליך של מיתולוגיזציה, מה שגורם לעיתים לעיוות העובדות ההיסטוריות בנוגע להיווצרות עולם המדדים."
-  },
-  {
-    "id": "1w2p6rl",
-    "title": "How did you actually find the business you decided to build?",
-    "url": "https://www.reddit.com/r/business/comments/1w2p6rl/how_did_you_actually_find_the_business_you/",
-    "author": "After_Guarantee7616",
-    "score": 14,
-    "selftext": "I’ve been trying to find a new business for months but still feel completely stuck. I enjoy building brands, creating content, testing ads and seeing real sales, so I’d preferably like to create a physical product that I’d genuinely enjoy working on.\n\nPlease don’t just say “find a problem and solve it” or “I worked in the industry and saw an opportunity.” I want to understand your actual thought process. What made you notice the opportunity, why did you choose that particular product, and how did you determine why customers would buy yours instead of the existing alternatives?\n\nI’m also curious how you knew you would enjoy building the business long term. Did you already love the product category, or did it become interesting once you started developing the product and brand?\n\nI’m not asking anyone to give me an idea. I want to understand how people went from feeling completely lost to choosing a business that felt both enjoyable and capable of selling.",
-    "subreddit": "business",
-    "created_utc": 1788114313,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "For me it wasn’t about sitting down and trying to think of a business idea. I spent years working in logistics on both the brand side and the 3PL side, and over time I kept seeing the same gaps from completely different perspectives.\n\nEventually I realized I didn’t need to invent a new industry. I needed to take everything I had learned, understand what customers consistently wished was better, and build the version of a 3PL that I would of wanted to work with myself.\n\nI also think people put too much pressure on finding the perfect idea. Pay attention to what you already understand unusually well, where you have an unfair advantage, and what you could genuinely see yourself becoming obsessed with improving for the next 10 years.\n\nThe idea matters, but your ability to stay interested long enough to become great at it matter even more.",
-        "score": 1,
-        "author": "rodneygaleano"
-      },
-      {
-        "body": "This is a really good point about exposure. Ideas don't always come from lack of inspiration. Sometimes, good ideas come from experience. Listening to what people from different industries complain about seems a lot better than sitting in a room and trying to think of the next “big idea.”\n\nI also like the distinction about the problem and the solution. A problem is not a business. It can be painful, but just having a painful problem does not lead to success. It is smart to have a hypothesis of whether or not people will actually buy or use the solution.\n\n10 years in business is seriously impressive. The “proud of what I’ve built one day. why did I do this to myself the next” part sounds painfully relatable for anyone who has built something from scratch. 😄",
-        "score": 1,
-        "author": "Aurelia3444"
-      },
-      {
-        "body": "I also went through this phase. I stopped looking for a perfect idea and started with things I already enjoyed and understood. I noticed problems while shopping and checked if others had the same issue. Then I tested small ideas with simple ads before investing much money. My suggestion start small, test demand, and see what feels enjoyable to work on every day.",
-        "score": 1,
-        "author": "Healthy-Money-1920"
-      }
-    ],
-    "summary_he": "כותב הפוסט מחפש תובנות מעשיות מיזמים על התהליך המחשבתי שהוביל אותם לבחירת העסק שלהם, בדגש על פיתוח מוצרים פיזיים. הוא מעוניין להבין לעומק כיצד הם זיהו הזדמנות עסקית ממשית ומה גרם להם להאמין בייחודיות המוצר שלהם וביכולת להתמיד בתחום לטווח הארוך.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים מרכזיים של הקהילה בנוגע להקמת עסק ומציאת רעיונות יזמיים:\n\n*   **ניסיון תעסוקתי ככר פורה לרעיונות:** במקום לנסות להמציא רעיון \"מתוך הריק\", הגישה המומלצת היא להסתמך על שנים של עבודה בתחום מסוים. זיהוי פערים ובעיות חוזרות מנקודות מבט שונות בתעשייה מוכרת מאפשר להבין מה הלקוחות באמת צריכים, מבלי להמציא תעשייה חדשה מאפס.\n*   **בניית ה\"גרסה האידיאלית\" של שירות קיים:** יזמות מוצלחת לא חייבת להיות המצאה מהפכנית. לעיתים קרובות, מדובר פשוט בלקיחת שירות קיים (כמו לוגיסטיקה של צד שלישי - 3PL) ובניית הגרסה הטובה ביותר שלו – כזו שהיזם עצמו היה רוצה לעבוד איתה כלקוח או כעובד.\n*   **החשיבות של \"יתרון לא הוגן\" והתמדה:** היכולת להישאר ממוקדים וסקרנים לגבי תחום מסוים למשך עשור חשובה יותר מהרעיון עצמו. הקהילה מדגישה שכדאי לאדם להתמקד במה שהוא מבין בו בצורה יוצאת דופן (Unfair Advantage) ובמה שיש לו תשוקה אמיתית לשפר לאורך זמן.\n*   **הבחנה בין בעיה לבין עסק רווחי:** זיהוי בעיה כואבת אצל אנשים הוא צעד ראשון, אך הוא אינו מבטיח עסק. חשוב לבדוק את ההיפותזה שקיימת נכונות אמיתית של לקוחות לשלם על הפתרון המוצע, שכן לא כל בעיה מתרגמת למודל עסקי בר קיימא.\n*   **תיקוף רעיונות בכלים קטנים וזולים:** לפני שמשקיעים סכומי כסף גדולים, מומלץ לבצע בדיקות היתכנות קטנות (כמו שימוש במודעות פשוטות) כדי לבדוק את הביקוש בשוק. גישת ה\"להתחיל בקטן\" מאפשרת לראות אם העבודה היומיומית על הרעיון אכן מהנה ומספקת לפני שמתחייבים.\n*   **רכבת ההרים הרגשית של היזמות:** הקהילה משתפת בסנטימנט המוכר לכל מי שבנה משהו מאפס: התנודה הקיצונית בין תחושת גאווה עצומה על מה שנבנה ביום אחד, לבין התהייה \"למה עשיתי את זה לעצמי?\" ביום שלמחרת. זהו חלק בלתי נפרד מהחוויה היזמית."
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ודעות שונות שעלו מהתגובות:\n\n*   **הפנייה לקהילה ייעודית:** התגובות מפנות את הקוראים לסאב-רדיט r/Bogleheads כמרכז ידע למי שמעוניין לשמוע שוב ושוב את הטיעונים המוכרים בזכות השקעה בקרנות סל (ETFs).\n*   **הצלחתן המוכחת של קרנות המדד:** קיימת הסכמה כי קרנות המדד ממשיכות להוכיח את עצמן כהשקעה מנצחת לאורך זמן, למרות הספקות שמעלים גורמים שונים.\n*   **ביקורת על תעשיית הפיננסים:** המגיבים מצביעים על אירוניה בכך שתעשיית הפיננסים עדיין מנסה להילחם בשיטת השקעה ש\"פשוט עובדת בשקט\" עבור המשקיע הממוצע.\n*   **תיקון היסטורי לגבי ראשוניות המדדים:** בניגוד לאמונה הרווחת, ג'ון בוגל (John Bogle) לא היה הראשון שהשיק קרן מחקה S&P 500 לציבור הרחב; רקס סינקפילד (Rex Sinquefield) הקדים אותו ועשה זאת כבר ב-1973.\n*   **ביקורת על כלי תקשורת פיננסיים:** עלתה טענה נגד גופים כמו Morningstar על כך שהם \"חטאו\" באי-דיוק היסטורי והתעלמו מדמויות מפתח כמו סינקפילד, שהיה גם ממקימי Dimensional Fund Advisors.\n*   **ניפוץ ה\"מיתולוגיה\" של בוגל:** קיימת תחושה בקהילה כי דמותו של ג'ון בוגל עברה תהליך של מיתולוגיזציה, מה שגורם לעיתים לעיוות העובדות ההיסטוריות בנוגע להיווצרות עולם המדדים.",
+    "dateString": "2026-09-01",
+    "savedAt": {
+      "_seconds": 1788262035,
+      "_nanoseconds": 504000000
+    }
   },
   {
     "id": "1w3thiy",
@@ -90,43 +64,43 @@ window.dailyTrends = [
     ],
     "summary_he": "עסקי הפרסום של OpenAI ב-ChatGPT הגיעו לקצב הכנסות שנתי של מיליארד דולר תוך פחות מ-200 יום מהשקתם, עם יעד צמיחה של 2.5 מיליארד דולר עד 2026. ההתרחבות הגלובלית המהירה של המודל מציבה את החברה כמתחרה פוטנציאלית לדומיננטיות של גוגל ומטא בשוק הפרסום הדיגיטלי. הצלחה זו מעניקה ל-OpenAI מקור הכנסה יציב ומשמעותי לקראת הנפקתה המתוכננת בבורסה.",
     "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מרכזיות, דעות ותחושות בקהילה:\n\n*   **שאיפות צמיחה פיננסיות אגרסיביות:** OpenAI מכוונת להכנסות מפרסום בהיקף של כ-2.5 מיליארד דולר בשנת 2026 (ויש המעריכים כי היעד הזה רלוונטי כבר לשנה הנוכחית), מה שמעיד על שינוי כיוון עסקי משמעותי.\n*   **קצב צמיחה חודשי חסר תקדים:** ניתוח הנתונים מראה שאם החברה עמדה על קצב הכנסות שנתי (ARR) של מיליארד דולר באוגוסט ושואפת ל-2.5 מיליארד עד סוף השנה, מדובר בצמיחה מטאורית של כ-50% מחודש לחודש.\n*   **תחזיות ארוכות טווח מרקיעות שחקים:** הקהילה דנה בתחזיות עתידיות שואפת במיוחד, הכוללות הגעה ל-25 מיליארד דולר בהכנסות עד 2028 ויעד דמיוני כמעט של 100 מיליארד דולר עד שנת 2030.\n*   **ביקורת על אמינות המודל (\"הזיות\"):** לצד הנתונים הכלכליים, משתמשים מביעים תסכול עמוק ממקרים בהם הבינה המלאכותית מציגה טענות שקריות לחלוטין כעובדות מוגמרות.\n*   **האירוניה שבציטוט מקורות סותרים:** נקודת תורפה ספציפית שעלתה היא שהמודל לעיתים מספק קישור למקור סמכותי כדי לגבות את דבריו, אך בלחיצה על הקישור מתגלה שהמקור אומר בדיוק את ההפך ממה שה-AI טען.\n*   **השלמה עם המודל העסקי:** קיימת תחושת ודאות בקרב הגולשים (סנטימנט של \"1000%\") שזהו המודל העסקי הסופי של החברה – התבססות על פרסומות כנתיב המרכזי לייצור רווחים, בדומה לענקיות טכנולוגיה אחרות."
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מרכזיות, דעות ותחושות בקהילה:\n\n*   **שאיפות צמיחה פיננסיות אגרסיביות:** OpenAI מכוונת להכנסות מפרסום בהיקף של כ-2.5 מיליארד דולר בשנת 2026 (ויש המעריכים כי היעד הזה רלוונטי כבר לשנה הנוכחית), מה שמעיד על שינוי כיוון עסקי משמעותי.\n*   **קצב צמיחה חודשי חסר תקדים:** ניתוח הנתונים מראה שאם החברה עמדה על קצב הכנסות שנתי (ARR) של מיליארד דולר באוגוסט ושואפת ל-2.5 מיליארד עד סוף השנה, מדובר בצמיחה מטאורית של כ-50% מחודש לחודש.\n*   **תחזיות ארוכות טווח מרקיעות שחקים:** הקהילה דנה בתחזיות עתידיות שואפת במיוחד, הכוללות הגעה ל-25 מיליארד דולר בהכנסות עד 2028 ויעד דמיוני כמעט של 100 מיליארד דולר עד שנת 2030.\n*   **ביקורת על אמינות המודל (\"הזיות\"):** לצד הנתונים הכלכליים, משתמשים מביעים תסכול עמוק ממקרים בהם הבינה המלאכותית מציגה טענות שקריות לחלוטין כעובדות מוגמרות.\n*   **האירוניה שבציטוט מקורות סותרים:** נקודת תורפה ספציפית שעלתה היא שהמודל לעיתים מספק קישור למקור סמכותי כדי לגבות את דבריו, אך בלחיצה על הקישור מתגלה שהמקור אומר בדיוק את ההפך ממה שה-AI טען.\n*   **השלמה עם המודל העסקי:** קיימת תחושת ודאות בקרב הגולשים (סנטימנט של \"1000%\") שזהו המודל העסקי הסופי של החברה – התבססות על פרסומות כנתיב המרכזי לייצור רווחים, בדומה לענקיות טכנולוגיה אחרות.",
+    "dateString": "2026-09-01",
+    "savedAt": {
+      "_seconds": 1788262064,
+      "_nanoseconds": 625000000
+    }
   },
   {
-    "id": "1w2fun3",
-    "title": "Suggestions of where to learn financial literacy quickly",
-    "url": "https://www.reddit.com/r/investing/comments/1w2fun3/suggestions_of_where_to_learn_financial_literacy/",
-    "author": "Adventurous-Loss4175",
-    "score": 1,
-    "selftext": "Suggestions of where I can quickly absorb info from.\n\nTo sum it up, I'm looking for where I can look to learn to make money last my lifetime. I've recently been trying to research financial literacy topics and have some ideas of what to do,  but I'm scared if they're not the best, I'm screwed. So I'm looking suggestions for more, and that I can learn semi-quickly, so please not incredibly long books or many of them. \n\nThe shit ton of details are:\n\nI just received my work comp settlement after 12 years. They were sending me checks bi-monthly though so I had some income in the meantime. It was just enough to pay bills so I was living paycheck to paycheck and I know I completely messed up by not learning financial stuff the entire time.\n\nIn my defense though, I've had sooo many other things in the meantime, and also aquired a severe TBI in the accident and my executive functioning (planning, executing tasks in order, etc) really sucks now. \n\nBut this one sum is going to have to last me for the rest of my life. And I'm trying to look at the best ways to make that happen. I'm permanently disabled and receive a small amount from SSDI rn because it was offset by what I was getting from work comp. I'm not sure what that's going to be now as it just was finalized and I uploaded the documents to ssa but idk when it'll be refigured what I'll be receiving monthly now. \n\nI have read the flow charts and did pay off my credit cards immediately. I'm not able to drive now and live in an apartment, so no car or mortgage to pay. \n\nMy credit union has 3- 5%, depending on which requirements you meet that month, in interest on up to $10,000 in checking, so I'm keeping that much in there and paying bills from that. \n\nI just opened an ABLE account, and can put, I believe it's 10,000 there and invest it with no tax liability on it, so I'm going to do that next.\n\nI was thinking of doing a CD ladder with part of it and as those mature, topping off the checking to meet 10,000 and getting another CD with the remainder. \n\nWhat I'm really stuck on is how to grow the remainder. It has to be stable because if I lose it I'm done. But also has to be more than CD or mutual fund interest so I can grow it and make this money last the rest of my life, (I'm 50). I also would like to reduce taxes draining any growth.\n\nI've looked up fee only fiduciaries for advice, but the lowest fee was $5000 for a quick session, so I'm going to attempt to figure this out myself if that's possible. \n\nSo PLEASE pass on any and all advice on places I can try to learn a ton of financial stuff quick. ",
-    "subreddit": "investing",
-    "created_utc": 1788091665,
-    "thumbnail": "self",
+    "id": "1w3khsq",
+    "title": "ADBE lowest valuation in years",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1w3khsq/adbe_lowest_valuation_in_years/",
+    "author": "knuckles54321",
+    "score": 48,
+    "selftext": "I know they are unpopular on this site, but genuinely compelling Econs. Buybacks have grown from nearly 3bn -> 12bn during the same time. Free cash flow is great. Ai generated content is a risk, but the financial health of ADBE is exceptionally high no?",
+    "subreddit": "StockMarket",
+    "created_utc": 1788197107,
+    "thumbnail": "https://preview.redd.it/deibnkz2wqmh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=34cdbc2ee72f9cb37424aa3c95b2f9fea3ce32b6",
     "top_comments": [
       {
-        "body": "Besides SSDI, do you receive Medicaid, SSI, SNAP, subsidized housing, or any other benefit with an asset limit? I’d get that clear before moving much of the settlement, because the right account setup may matter more right now than choosing investments.",
-        "score": 1,
-        "author": "One_More_Rep202"
+        "body": "Dying company.. Assaulted by AI",
+        "score": 30,
+        "author": "rajekum512"
       },
       {
-        "body": "Yes, take your time. You don't have to figure it all out at once. ",
-        "score": 1,
-        "author": "wharleeprof"
+        "body": "Valuation is not a reliable indicator of when to buy or sell. ",
+        "score": 16,
+        "author": "thesuprememacaroni"
       },
       {
-        "body": "Honestly, the Bogleheads philosophy (low-cost index funds, buy and hold) will teach you more about actual wealth-building than most paid courses. After you nail the fundamentals, you can get weird with it if you want, but most people would be better off just understanding asset allocation and cost basis.",
-        "score": 1,
-        "author": "Linett-Chukwuemeka61"
+        "body": "Up 50% since mid June, not sure I like its space as much as slightly different spaces. Dino-stock?",
+        "score": 16,
+        "author": "Any_Carob3372"
       }
     ],
-    "summary_he": "הכותב, שקיבל סכום פיצויים חד-פעמי לאחר פציעה, מחפש מקורות מידע פשוטים ומהירים ללמידת אוריינות פיננסית כדי להבטיח שהכסף יספיק למחייתו למשך שארית חייו. הוא כבר נקט בצעדים ראשוניים לניהול הכסף, אך זקוק להדרכה לגבי השקעות יציבות בעלות פוטנציאל צמיחה, מבלי להסתמך על ספרים ארוכים או על ייעוץ מקצועי יקר מדי.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מהתגובות ב-Reddit:\n\n*   **בדיקת מגבלות נכסים להטבות ממשלתיות:** לפני שמבצעים השקעות, קריטי לבדוק האם המוטב מקבל קצבאות או סיוע (כמו סיוע בדיור, ביטוח בריאות ממשלתי או תלושי מזון) הכוללים מגבלת נכסים, כדי שהכסף החדש לא יבטל את הזכאות להטבות אלו.\n*   **חשיבות מבנה החשבון:** בחירת סוג החשבון הנכון שבו יופקדו הכספים עשויה להיות חשובה ודחופה יותר מאשר בחירת ניירות הערך עצמם, במיוחד עבור מי שתלוי בקצבאות.\n*   **אימוץ גישה שקולה ואיטית:** קהילת המגיבים ממליצה לא למהר לקבל החלטות גורליות. אין צורך לפתור את כל הסוגיות הפיננסיות בבת אחת, ומותר לקחת את הזמן כדי ללמוד את הנושא.\n*   **העדפת למידה עצמית על פני קורסים בתשלום:** קיימת סנטימנט חזק לפיו פילוסופיות השקעה מוכרות (כמו שיטת ה-Bogleheads) מלמדות על בניית עושר אמיתי הרבה יותר טוב מאשר רוב הקורסים הפיננסיים בתשלום.\n*   **התמקדות ביסודות ובמדדים זולים:** ההמלצה המרכזית היא להיצמד ליסודות: קרנות סל מחקות מדד בעלות נמוכה, אסטרטגיית \"קנה והחזק\", והבנה מעמיקה של הקצאת נכסים (Asset Allocation).\n*   **פשטות לפני מורכבות:** הקהילה מציעה להימנע מהשקעות \"מוזרות\" או מורכבות בתחילה; רק לאחר שליטה מלאה ביסודות הפיננסיים ניתן (אם בכלל רוצים) לבחון אפיקי השקעה פחות קונבנציונליים.",
-    "dateString": "2026-08-31",
-    "savedAt": {
-      "_seconds": 1788182460,
-      "_nanoseconds": 901000000
-    }
+    "summary_he": "הפוסט מציין כי מניית אדובי (ADBE) נסחרת כעת בהערכת שווי נמוכה במיוחד, למרות נתונים פיננסיים חזקים ותזרים מזומנים מצוין. הכותב מדגיש את הגידול המשמעותי ברכישת המניות העצמית של החברה וטוען כי למרות הסיכונים מצד הבינה המלאכותית (AI), בריאותה הכלכלית של אדובי נותרת גבוהה במיוחד.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מהתגובות ב-Reddit בנוגע למניית החברה:\n\n*   **איום קיומי מצד הטכנולוגיה:** קיימת תחושה חזקה שהחברה נמצאת בתהליך של דעיכה (\"חברה גוססת\") בעיקר בשל ה\"מתקפה\" של טכנולוגיית הבינה המלאכותית (AI) על המודל העסקי שלה.\n*   **ספקנות לגבי הערכות שווי:** אחד המגיבים טוען כי אין להסתמך על הערכת השווי של החברה כאינדיקטור אמין לקבלת החלטות בנוגע למועדי קנייה או מכירה של המניה.\n*   **ביצועי שוק מפתיעים לטווח קצר:** למרות הסנטימנט השלילי, מצוין כי המניה רשמה עלייה מרשימה של כ-50% מאז אמצע חודש יוני, מה שיוצר פער בין ביצועי המניה למצבה העסקי הנתפס.\n*   **חוסר אטרקטיביות של הסקטור:** עולה הסתייגות מהתחום הספציפי שבו החברה פועלת; המגיבים מציינים כי קיימים תחומים דומים או משיקים שהם מעדיפים על פני התחום הנוכחי של החברה.\n*   **תיוג כ\"מניית דינוזאור\":** הקהילה מעלה את האפשרות שמדובר ב\"מניית דינוזאור\" – מונח המתייחס לחברה מיושנת, איטית או כזו שעבר זמנה אל מול השינויים בשוק.\n*   **חשש מחוסר רלוונטיות עתידית:** השילוב בין המונח \"דינוזאור\" לבין האיום מה-AI מדגיש סנטימנט קהילתי שהחברה מתקשה להסתגל לעידן הטכנולוגי החדש ועלולה להפוך ללא רלוונטית."
   },
   {
     "id": "1w3aqbq",
@@ -157,150 +131,233 @@ window.dailyTrends = [
     ],
     "summary_he": "כותב הפוסט עומד להקים את העסק המקוון הראשון שלו ומבקש מבעלי עסקים מנוסים לחלוק תובנות ועצות שהיו נותנים לעצמם בתחילת הדרך. מטרתו היא ללמוד מניסיונם של אחרים ולצבור ידע שיסייע לו בצעדיו הראשונים כיזם מתחיל.",
     "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון והתובנות המרכזיות שעלו מתוך התגובות בשרשור, המחולקים לנקודות עיקריות:\n\n*   **מהירות על פני פרפקציוניזם:** יש להתקדם מהר ולא להתעכב בגלל הרצון להגיע לשלמות. הדגש צריך להיות על ביצוע מצוין של פעולות הליבה, אך את ההתרחבות והשכלול כדאי לשמור לשלב שבו העסק כבר עומד על הרגליים.\n*   **חשיבות קריטית לתיעוד בכתב:** למרות שצריך לעבוד עם אנשים טובים, המגיבים מדגישים כי אכזבות הן בלתי נמנעות. לכן, חובה לתעד הכל בכתב (\"הכל חייב להיות רשום\") כדי למנוע אי-הבנות ובעיות עתידיות.\n*   **הפרדה בין עסקים לחברים:** קיימת המלצה גורפת להימנע מעבודה עם חברים. הניסיון מראה שרוב האנשים שמערבים חברים בעסקיהם מאבדים בסופו של דבר את החברות, וזהו מחיר שאינו שווה את הסיכון.\n*   **אחריות אישית ומוטיבציה עצמית:** על היזם להפנים שאף אחד לא ידאג לעסק שלו כמוהו. העבודה דורשת מוכנות לימים ולילות ארוכים, והתמודדות עם \"שטויות\" בלתי פוסקות; ההבדל בין כישלון להצלחה טמון ביכולת להמשיך לנוע גם כשקשה.\n*   **האצלת סמכויות ושחרור שליטה:** מומלץ ללמוד להאציל סמכויות בשלב מוקדם ככל האפשר. לא כדאי \"להזיע על הפרטים הקטנים\" אלא לסמוך על התהליך ולשחרר משימות לאחרים כדי למנוע שחיקה.\n*   **חוסן מנטלי ושינוי תפיסת הכישלון:** הצלחה דורשת חוסן נפשי (Resilience) כדי \"לדחוף קדימה\" גם בתקופות שנראות אינסופיות. יש להתייחס למכשולים כאל שיעורים מלמדים ולא כאל כשלונות סופיים, ולשמור על גישה חיובית לאורך המסע."
+    "comments_summary_he": "להלן סיכום הדיון והתובנות המרכזיות שעלו מתוך התגובות בשרשור, המחולקים לנקודות עיקריות:\n\n*   **מהירות על פני פרפקציוניזם:** יש להתקדם מהר ולא להתעכב בגלל הרצון להגיע לשלמות. הדגש צריך להיות על ביצוע מצוין של פעולות הליבה, אך את ההתרחבות והשכלול כדאי לשמור לשלב שבו העסק כבר עומד על הרגליים.\n*   **חשיבות קריטית לתיעוד בכתב:** למרות שצריך לעבוד עם אנשים טובים, המגיבים מדגישים כי אכזבות הן בלתי נמנעות. לכן, חובה לתעד הכל בכתב (\"הכל חייב להיות רשום\") כדי למנוע אי-הבנות ובעיות עתידיות.\n*   **הפרדה בין עסקים לחברים:** קיימת המלצה גורפת להימנע מעבודה עם חברים. הניסיון מראה שרוב האנשים שמערבים חברים בעסקיהם מאבדים בסופו של דבר את החברות, וזהו מחיר שאינו שווה את הסיכון.\n*   **אחריות אישית ומוטיבציה עצמית:** על היזם להפנים שאף אחד לא ידאג לעסק שלו כמוהו. העבודה דורשת מוכנות לימים ולילות ארוכים, והתמודדות עם \"שטויות\" בלתי פוסקות; ההבדל בין כישלון להצלחה טמון ביכולת להמשיך לנוע גם כשקשה.\n*   **האצלת סמכויות ושחרור שליטה:** מומלץ ללמוד להאציל סמכויות בשלב מוקדם ככל האפשר. לא כדאי \"להזיע על הפרטים הקטנים\" אלא לסמוך על התהליך ולשחרר משימות לאחרים כדי למנוע שחיקה.\n*   **חוסן מנטלי ושינוי תפיסת הכישלון:** הצלחה דורשת חוסן נפשי (Resilience) כדי \"לדחוף קדימה\" גם בתקופות שנראות אינסופיות. יש להתייחס למכשולים כאל שיעורים מלמדים ולא כאל כשלונות סופיים, ולשמור על גישה חיובית לאורך המסע.",
+    "dateString": "2026-09-01",
+    "savedAt": {
+      "_seconds": 1788262078,
+      "_nanoseconds": 62000000
+    }
   },
   {
-    "id": "1w2ky3y",
-    "title": "Business and social activities related hobbies",
-    "url": "https://www.reddit.com/r/business/comments/1w2ky3y/business_and_social_activities_related_hobbies/",
-    "author": "Intelligent_Basil897",
-    "score": 3,
-    "selftext": "&#x200B;\n\nHello. I am a male with the age of 22 studying ACCA. I want to start up my own setup or business. But so much confused. What type of business should I start along with studies in order to fulfil the social need and optimal amount of earning. The additional point is that my father also get retired from his services. Now he also wants any activity based model that helps to get social activities related need and optimal amount of earning. Kindly viewer give your valuable suggestions on the scenario.",
-    "subreddit": "business",
-    "created_utc": 1788104640,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "סטודנט לחשבונאות בן 22 ואביו שיצא לגמלאות מחפשים רעיונות להקמת עסק שישלב מעורבות חברתית עם הכנסה נאותה. הכותב מבקש הצעות למיזמים שיתאימו ללוח הזמנים של לימודיו ובו-בזמן יספקו לאביו תעסוקה פעילה ומשמעותית לאחר הפרישה.",
-    "category_he": "עסקים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1w2io53",
-    "title": "The Two Trillion Dollar Bottleneck: AI & Energy",
-    "url": "https://www.reddit.com/r/investing/comments/1w2io53/the_two_trillion_dollar_bottleneck_ai_energy/",
-    "author": "Secret_Swordfish4121",
-    "score": 1,
-    "selftext": "For a few years now the hyperscalers have been spending agressively, but it seems to me like spending this money is actually the easy part of the equation.\n\nIf we add up the contracted, not yet delivered cloud demand (Remaining Performance Obligations - RPO) of the hyperscalers (**Microsoft**, **Oracle**, **Google** and **Amazon**), we get a sum of about **$2.3 Trillion (*****We still don't know if this will ever get paid but still RPO is a better estimate than a forecast & a big portion of it is from frontier AI labs like*** ***OpenAI*** ***and*** ***Anthropic*****)**. In order to serve this massive RPO, **MSFT**, **GOOGL**, **AMZN**, and **META** are spending about **$660 Billion** a year, moving from asset-light software companies into owners of physical plants, real estate, and equipment.\n\nThe real battle for big tech isn't buying servers, but rather securing **24/7 power**. That kind of energy commitment completely breaks traditional budgeting. As JPMorgan put it, \"*money can't buy you electric power*\" when a project's start date depends on a years-long grid-connection queue. Out of these hyperscalers, Oracle is the outlier, it carries net debt of about **3x operating cash flow** (an order of magnitude above the others), and its free cash flow has gone negative. Amazon's trailing free cash flow also crossed into the red.\n\nI have to say, these companies remain among the most cash-generative business ever built, and they're funding roughly half the build from cash and the other half from debt markets. **T. Rowe's Dom Rizzo** argues the funding gap is \"*not that big*\" against balance sheets like these, and that unlike **1998** (*the dot-com bubble*) the fundamentals are still accelerating.\n\nNow the interesting part is that if we follow the money trail down the supply chain, we can see exactly who is extracting the value. It starts with the regulated utilities like **Southern**, **Duke** and **Dominion** who are accelerating capex to build grid capacity. These guys face huge regulatory hurdles and political blowback from residential ratepayers over increasing electricity bills. To go around the regulations, **NextEra** for instance is using a hybrid strategy by restarting a nuclear plant (*Duane Arnold*) for Google.\n\nBecause the public grid is too slow, big tech are chasing independent producers like **Constellation**, **Vistra**, and **Talen energy**. These companies **have 24/7 power** and they spend almost nothing to expand. Amazon and Meta are locking up deals with Vistra, Microsoft contracted to restart the *Three Mile Island* in Pennsylvania, and Google signed for small modular reactors with **Kairos**.\n\nOne layer down, we arrive to the equipment makers like **Vertiv**, **GE Vernova**, **Eaton** and **Caterpillar** which are facing an increasing days inventory outstanding (**DIO**). Usually this is looked at as **constraint** on these companies, but as the gross margins also keep on rising for some of these companies, even **hitting a record** for Vertiv and GE Vernova, this is pure **pricing power** for them.\n\nThere are so many other layers that plays into this like, cooling systems, precision HVAC, advanced packaging & foundry equipment, copper mining & refining for power grids, etc etc. that won't fit into this single post.\n\nThe takeaway is big tech is bleeding money and the wealth is pooling at the bottom with nuclear operators collecting and hardware manfucaturers hitting record margins while the the payers wait for delivery. Will investing in nuclear energy / equipment companies pay off in the next 5-10 years?",
+    "id": "1w3jqw9",
+    "title": "Backdoor Roth IRA Strategy",
+    "url": "https://www.reddit.com/r/investing/comments/1w3jqw9/backdoor_roth_ira_strategy/",
+    "author": "kobul28",
+    "score": 4,
+    "selftext": "# Bakdoor Roth IRA Strategy\n\nI may have gotten myself into a bit of a tricky situation, without illegal consequences, however. I will state my questions, and then offer some context, followed by the current state of my accounts. Thank you in advance for any help!\n\n* How can I deposit money that I have on hand, into a Roth IRA, using the \"backdoor conversion\" while avoiding the \"pro-rata\"rule?\n* What is the best path forward to correct the fact that I contributed into my 2026 Roth IRA account, even though my MAGI will be above the income limit?\n\nA few years ago I opened a Northwestern Mutual account with a financial advisor. Long story short, I was sold some insurance products that were also investements, which turned out to be a bit of a scam in my opinion. This turned me off of NW, so as of mid 2025 I decided to leave NWM. I opened a VG account and am slowly in the process of transferring everything here. I am currently on my third professional job\n\n**With NWM I have:**\n\n1. IRA (with money that rolled over from an ESOP from job #1, I paid taxes on it when it was rolled into the IRA)\n2. Roth IRA. I deposited money into this account, as suggested by the financial advisor against my intuition, for the first three months of the 2026 year, even though I knew I would be making \\~190k in 2026)\n\n**With VG I have:**\n\n1. Roth IRA (I deposited the balance of my limit in this account for the 2025 year, since I was not maxing my contributions in the NWM account)\n2. IRA (with a 401k rollover from job #2)\n\n**Current job (job #3)**\n\n1. 401k\n2. HSA",
     "subreddit": "investing",
-    "created_utc": 1788099196,
+    "created_utc": 1788195598,
     "thumbnail": "self",
     "top_comments": [
+      {
+        "body": "Thanks so much, I really appreciate the input. I will report back once I get this all figure out! what you describe makes perfect sense. Thanks for taking the time to explain it in detail.",
+        "score": 1,
+        "author": "kobul28"
+      },
+      {
+        "body": "The best path is to do a *reverse* rollover, if your current 401k plan will allow it. Just consolidate all of your existing Trad IRA money into the 401k.\n\nThen you can recharacterize your existing Roth contributions into the empty Trad IRA, and then convert it back into Roth. ",
+        "score": 1,
+        "author": "wild_b_cat"
+      },
+      {
+        "body": "Roll your trad IRA into your current employer 401(k).  \n\nRoth IRA aren't included in pro-rata balances so they are fine where they are.\n\nIn the future DO NOT roll 401(k) into trad IRAs when changing jobs.  Just leave them or roll them into current employer's 401(k).",
+        "score": 1,
+        "author": "StatisticalMan"
+      }
+    ],
+    "summary_he": "להלן סיכום הפוסט בעברית:\n\nהכותב מבקש הנחיות לביצוע אסטרטגיית \"Backdoor Roth IRA\" תוך הימנעות ממיסוי לפי כלל ה-\"pro-rata\", זאת לאור קיומם של חשבונות IRA קודמים שנוצרו מגלגול כספי פנסיה ממעסיקים קודמים. בנוסף, הוא מחפש דרך לתקן הפקדה שגויה שביצע ישירות ל-Roth IRA עבור שנת 2026, שכן הכנסתו הצפויה חורגת מהרף המותר בחוק להפקדה ישירה.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 7 נקודות מרכזיות, דעות ותובנות קהילתיות:\n\n*   **הכרת תודה והערכה לקהילה:** ניכרת רמת הערכה גבוהה כלפי משתמשים המשקיעים זמן במתן הסברים מפורטים ומעמיקים. המשתמשים רואים במידע ערך רב ומביעים נכונות לעדכן את הקהילה בתוצאות לאחר יישום העצות.\n*   **המלצה על \"גלגול הפוך\" (Reverse Rollover):** דעה רווחת בקהילה היא שהדרך הטובה ביותר לניהול הכספים היא להעביר את יתרות ה-IRA המסורתי (Traditional IRA) חזרה לתוך תוכנית ה-401k של המעסיק הנוכחי (במידה והתוכנית מאפשרת זאת).\n*   **אסטרטגיית איחוד כספים:** מוצע לרכז את כל כספי ה-IRA המסורתיים הקיימים תחת חשבון ה-401k, וזאת במטרה \"לנקות\" ולרוקן את חשבון ה-IRA המסורתי לצורך פעולות עתידיות.\n*   **הבהרה לגבי חוקי ה-Pro-rata:** הקהילה מדגישה כי יתרות הנמצאות בחשבונות Roth IRA אינן נכללות בחישובי ה-pro-rata (כלל המיסוי היחסי), ולכן אין מניעה להשאירן במקומן ללא שינוי.\n*   **ביצוע אופטימיזציית מס (Backdoor Roth):** מוסבר תהליך טכני של סיווג מחדש (Recharacterize) של הפקדות Roth קיימות לתוך חשבון IRA מסורתי ריק, ולאחר מכן המרתן חזרה ל-Roth, כדרך להתמודד עם מגבלות הכנסה או מיסוי.\n*   **מניעה מראש בעת החלפת עבודה:** קיימת המלצה גורפת לעתיד: לא להעביר כספי 401k לחשבונות IRA מסורתיים כאשר עוזבים מקום עבודה. במקום זאת, מומלץ להשאירם בתוכנית הישנה או להעבירם ישירות ל-401k של המעסיק החדש.\n*   **חשיבות ההבנה המעמיקה:** הדיון מדגיש כי הבנת המנגנון מאחורי \"גלגולים\" (Rollovers) והמרות היא קריטית כדי להימנע מסיבוכי מס מיותרים וכי \"סדר\" בחשבונות הוא המפתח לניהול פרישה חכם."
+  },
+  {
+    "id": "1w3ler1",
+    "title": "White House drug caps hit mid-cap biotech today. Margin squeeze ahead?",
+    "url": "https://www.reddit.com/r/investing/comments/1w3ler1/white_house_drug_caps_hit_midcap_biotech_today/",
+    "author": "unconventionalbook",
+    "score": 2,
+    "selftext": "The White House is announcing a new round of voluntary drug pricing deals with nearly a dozen mid-sized biotech firms today. Mega-caps like Pfizer and Eli Lilly absorbed the initial wave of these \"most-favored-nation\" Medicaid discounts, mid-caps operate on thinner margins and have less diversified pipelines. Should we view these \"voluntary\" concessions as a structural threat to mid-tier biotech cash flows, or will tariff relief and regulatory shortcuts offset the pricing pressure?\n\nSource: [CNBC](https://www.cnbc.com/2026/08/31/trump-drug-pricing-deals.html)",
+    "subreddit": "investing",
+    "created_utc": 1788198930,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I like how the NPC slop posters have just started tagging on the word \"squeeze\" to describe whatever trade they are pushing, bereft of all meaning.",
+        "score": 3,
+        "author": "Sassy_Bandit"
+      },
       {
         "body": "Your post has been removed because it's a low effort post. \n\nPosts must either share investment ideas and insights or ask thoughtful questions. \n\nWe are also not a financial news monitoring subreddit so a regurgitation of a news article without context are removed, including creating duplicate posts on the same topic. \n\nAdditional guidelines can be found in the wiki here - https://www.reddit.com/r/investing/wiki/index/rules\n\nIf you have any issue with this removal, please contact the moderators via modmail. Thank you.",
         "score": 1,
         "author": "investing-ModTeam"
       },
       {
-        "body": "the same trade shows up in korea. hd hyundai electric and hyosung heavy, both transformer makers, are each around 29tn won of market cap, and ls electric trades at 84x earnings. but the margins arent uniform. sanil electric did a 37.8% operating margin last quarter while ls electric managed 11.3%. the market isnt paying for current margin there, its paying for order books nobody can see yet",
+        "body": "Damn silly computer, they are voluntary. \n\nIn other news? My drug prices have gone up 4 months in a row lol",
         "score": 1,
-        "author": "John_Logics"
-      },
-      {
-        "body": "I don't use any research. I let the retail idiots believe that they can beat the markets and gamble. \n\nVT and chill.",
-        "score": 1,
-        "author": "vertigo88"
+        "author": "NAh94"
       }
     ],
-    "summary_he": "ענקיות הטכנולוגיה משקיעות מאות מיליארדי דולרים בתשתיות בינה מלאכותית, אך נתקלות בצוואר בקבוק קריטי באספקת חשמל רציפה שמעכב את פריסת השירותים. כתוצאה מכך, מוקד הרווחיות עובר מהחברות עצמן ליצרניות אנרגיה (בעיקר גרעינית) וליצרניות ציוד תשתית הנהנות מכוח תמחור חסר תקדים ומתשואות שיא. המעבר של חברות התוכנה להשקעה מאסיבית בנכסים פיזיים ובתחנות כוח מעצב מחדש את שרשרת הערך הכלכלית בענף הטכנולוגיה.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון והתובנות המרכזיות שעלו מתוך התגובות בשרשור, המוצגים ב-6 נקודות שונות:\n\n*   **אכיפת איכות תוכן קפדנית:** ניהול הקהילה בפורום מקפיד על רמה גבוהה של פוסטים; הודעות המוגדרות כ\"מאמץ נמוך\" (Low effort), שאינן כוללות רעיונות השקעה מעמיקים או שאלות מחושבות, מוסרות באופן מיידי.\n*   **התמקדות במגזר השנאים והתשתיות בקוריאה:** קיימת מגמת מסחר ערה סביב יצרניות שנאים וציוד חשמלי בדרום קוריאה (כמו HD Hyundai Electric ו-Hyosung Heavy), מה שמעיד על עניין גלובלי בתחום האנרגיה.\n*   **תמחור על בסיס ציפיות עתידיות:** השוק מוכן לשלם מכפילים גבוהים מאוד (למשל מכפיל רווח של 84 בחברת LS Electric), מה שמרמז שהמשקיעים מתמחרים \"ספרי הזמנות\" עתידיים שטרם נחשפו לציבור, ולא רק את הרווחים הנוכחיים.\n*   **שונות משמעותית בשולי הרווח:** למרות שמדובר באותו מגזר, קיימת חוסר אחידות ברווחיות בין החברות; לדוגמה, חברה אחת מציגה שולי רווח תפעולי של כ-38% בעוד מתחרה מציגה כ-11% בלבד.\n*   **סקפטיות כלפי משקיעים פרטיים:** עולה תחושת זלזול כלפי היכולת של משקיעים קטנים (Retail) \"להכות את השוק\" באמצעות מחקר עצמאי, תוך כינוי הניסיונות הללו כהימורים.\n*   **העדפת השקעה פסיבית (\"VT and chill\"):** קיימת גישה בקהילה המצדדת בהימנעות מוחלטת מניתוח מניות פרטניות ובחירה באסטרטגיה של השקעה במדד עולמי רחב (כמו קרן הסל VT) כדי להשיג שקט נפשי ותשואת שוק יציבה.",
-    "dateString": "2026-08-31",
-    "savedAt": {
-      "_seconds": 1788182446,
-      "_nanoseconds": 793000000
-    }
-  },
-  {
-    "id": "1w47is3",
-    "title": "Teo Quantum Computing Stocks With Real Revenue Retail Investors Can Actually Track",
-    "url": "https://www.reddit.com/r/investing/comments/1w47is3/teo_quantum_computing_stocks_with_real_revenue/",
-    "author": "National-Dragonfly35",
-    "score": 1,
-    "selftext": "# IonQ (IONQ)\n\nIonQ is a pure play on trapped ion quantum hardware and cloud access, selling time on its quantum computers through its own platform as well as AWS Braket, Microsoft Azure Quantum, and Google Cloud. \n\n# Rigetti Computing (RGTI)\n\nRigetti Computing builds superconducting quantum computers and sells access to its Novera chips, Cepheus multi chip systems, and 84 qubit Ankaa 3 machines through quantum computing as a service on its own cloud platform. ",
-    "subreddit": "investing",
-    "created_utc": 1788257043,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "are those quantum stocks even public yet",
-        "score": 1,
-        "author": "ompaloompas"
-      },
-      {
-        "body": "my condolences, but it's your money ",
-        "score": 1,
-        "author": "saedelaerex"
-      },
-      {
-        "body": "There are nine new revenue contracts for IBM and some startups. You may want to search a bit as they are increasing.",
-        "score": 1,
-        "author": "National-Dragonfly35"
-      }
-    ],
-    "summary_he": "הפוסט מציג שתי מניות בתחום המחשוב הקוונטי המניבות הכנסות ממשיות: IonQ ו-Rigetti Computing. חברת IonQ מתמקדת בחומרת יונים כלואים הזמינה דרך ספקיות ענן מובילות, בעוד Rigetti מפתחת מערכות מוליכי-על ומספקת שירותי מחשוב קוונטי (QCaaS) בפלטפורמה משלה.",
+    "summary_he": "הבית הלבן הכריז על הסכמים חדשים להגבלת מחירי תרופות מול חברות ביוטק בגודל בינוני, מה שמעורר חשש מפגיעה משמעותית ברווחיותן בשל שולי הרווח הצרים שלהן לעומת חברות הענק. כעת עולה השאלה האם מדובר באיום מבני על תזרים המזומנים של חברות אלו, או שמא הקלות רגולטוריות והטבות במכסים יצליחו לקזז את הלחץ הכלכלי.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט ורגשות שונים בקהילה:\n\n*   **ספקנות לגבי נגישות המניות:** עולה שאלה האם חברות העוסקות במחשוב קוונטי בכלל נסחרות בבורסה כרגע, מה שמעיד על חוסר ודאות לגבי האפשרות של הקהל הרחב להשקיע בתחום באופן ישיר.\n*   **הכרה בסיכון גבוה:** השימוש בביטוי \"תנחומיי\" מרמז על כך שהקהילה רואה בהשקעה בתחום זה כמהלך מסוכן מאוד שעלול להוביל להפסדים משמעותיים.\n*   **אחריות אישית של המשקיע:** קיימת הדגשה כי בסופו של דבר, ההחלטה וההשלכות הכלכליות הן על המשקיע בלבד (\"זה הכסף שלך\"), גישה המאפיינת קהילות השקעה עצמאיות.\n*   **זיהוי צמיחה עסקית ממשית:** צוין כי ישנה התקדמות בשטח, כפי שמעידים חוזים חדשים לייצור הכנסות עבור חברת IBM וסטארט-אפים נוספים בתחום הקוונטי.\n*   **דרישה לביצוע מחקר מעמיק:** קיימת קריאה למשקיעים לא להסתמך על שמועות אלא \"לחפש קצת\" ולבצע בדיקות נאותות, שכן המידע על חוזים חדשים זמין למי שטורח לחקור.\n*   **מגמת עלייה בפעילות הכלכלית:** בקהילה מזהים כי מספר החוזים וההסכמים בתחום נמצא במגמת עלייה, מה שעשוי להצביע על הבשלת התחום מעבר למחקר תיאורטי בלבד."
+    "comments_summary_he": "להלן סיכום הדיון בתגובות מהפורום, הכולל 6 נקודות מרכזיות המבטאות את דעותיהם ותחושותיהם של חברי הקהילה:\n\n*   **זילות במונחים מקצועיים:** הבעת ביקורת על השימוש המופרז והשגוי במילה \"Squeeze\" (שורט סקוויז) ככינוי לכל עסקה שמנסים לקדם, גם כשהמונח ריק מתוכן טכני ומנותק מהמציאות.\n*   **תסכול מתכנים באיכות נמוכה:** סלידה ממשתמשים המכונים \"NPCs\" (דמויות ללא שחקן) המפרסמים פוסטים גנריים וחסרי ערך (\"Slop\"), מה שמעיד על ירידה ברמת הדיון בפורום.\n*   **אכיפה קפדנית של חוקי הקהילה:** דגש מצד מנהלי הפורום על הסרת פוסטים שאינם דורשים מאמץ (\"Low effort\"), במטרה לשמור על מרחב המיועד לחילופי רעיונות השקעה ותובנות מעמיקות בלבד.\n*   **התנגדות למיחזור חדשות:** הקהילה מבהירה שהיא אינה לוח מודעות לעדכוני חדשות יבשים; פוסטים שרק משכפלים כתבות ללא הקשר או ניתוח אישי אינם מתקבלים בברכה.\n*   **פער בין התיאוריה למציאות הכלכלית:** בעוד שהדיונים עוסקים באסטרטגיות מסחר, משתמשים חולקים את הקושי האישי מעליית המחירים בשטח, כמו מחירן של תרופות שמתייקרות באופן עקבי חודשים ברציפות.\n*   **ספקנות כלפי מערכות אוטומטיות:** גישה צינית כלפי אלגוריתמים או תהליכים ממוחשבים בשוק, תוך הטלת ספק בטענה שהם פועלים באופן \"וולונטרי\" או הגיוני עבור המשתמש הפשוט."
   },
   {
-    "id": "1w3tjy8",
-    "title": "Lump sum or DCA portfolio into the market?",
-    "url": "https://www.reddit.com/r/investing/comments/1w3tjy8/lump_sum_or_dca_portfolio_into_the_market/",
-    "author": "Enfulio",
-    "score": 1,
-    "selftext": "I have \\~$10k in a HYSA i am planning to put into the market. I am considering going lump sum  DCAing over 6 months, allocating monthly.  Curious what this sub would recommend, and also curious of your thoughts on this portfolio breakdown. I am bullish on AI in the next 6-12 months (will keep and eye and rebalance as market conditions change), and bullish on nuclear and psychedelics as a therapy over the long term (>5 years).  Any suggestions or thoughts on this portfolio - time frame is minimum 7 years before making any major adjustments.\n\n\n\n|Ticker|Category|Allocation (%)|\n|:-|:-|:-|\n|VOO|US Core|52|\n|VEA|Developed international|16|\n|EMXC|Emerging international|10|\n|SMH|AI/Semis|8|\n|NLR|Nuclear (long on this)|7|\n|PSIL|Psychadelic (long on this)|4|\n|Cash reserve|Cash|3|\n\n  \n",
+    "id": "1w3gnfh",
+    "title": "2026 Best Investments @ 25",
+    "url": "https://www.reddit.com/r/investing/comments/1w3gnfh/2026_best_investments_25/",
+    "author": "Efficient-Ask-120",
+    "score": 2,
+    "selftext": "25 M- Have a 401k and just opened a ROTH IRA.\n\n401k-  i’m in FFSDX & FNSFX \n\nWhat % should i be putting each check? I want to still have cash flow available \n\nWhat are the best investments within each?\n\nAre there other investments i should be looking into?\n\nAny advice would be awesome.\n\nThanks!",
     "subreddit": "investing",
-    "created_utc": 1788215925,
+    "created_utc": 1788189111,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Honestly, if 10k is your whole portfolio I'd stick to the VOO, VEA , and EMXC and skip all the industry specific stuff. Keep it simple and less volatile. Don't get into investing as a speculative hobby until you've developed a solid base portfolio worth worrying about. ",
+        "body": "Interesting, the more you know. \n\nThank you !",
         "score": 2,
-        "author": "Shadowrunner138"
+        "author": "Grainger407"
       },
       {
-        "body": "If one already has the money (and you do in this case), the data favors lump sum into the market immediately a majority of the time….\n\nThat’s the math portion\n\nBUT… there is an argument to be made that behaviorally, DCA can cause less regret if your initial lump sum ended up being “bad” timing.\n\nIn other words…let’s say you decided to DCA in 4 segments… that limits the mental regret that any one segment was poorly timed",
+        "body": "Which brokerages? FFSDX AND FNSFX are strictly through fidelity. ",
         "score": 2,
-        "author": "citygeek"
+        "author": "Grainger407"
       },
       {
-        "body": "It's too small to overthink this. Full 10k on voo and call it a day.",
-        "score": 1,
-        "author": "lurkerlevel-expert"
+        "body": "Do you have a normal investment account? I’d work on maxing the Roth by EOY and increasing contributions to the 401k (at minimum match the company match) \n\nAnd funnel a few bucks into the personal investment account and park it in FSKAX (or VOO) it’s a marginal difference in expense ratio…it’s just if you plan to switch brokerages you’d have to sell FSKAX where as with VOO you can just transfer it. ",
+        "score": 2,
+        "author": "Grainger407"
       }
     ],
-    "summary_he": "המשתמש מתלבט האם להשקיע סכום של כ-10,000 דולר בבת אחת (Lump sum) או בפריסה לאורך חצי שנה (DCA) בתיק המשלב מדדי שוק רחבים עם השקעות ממוקדות. התיק המוצע כולל חשיפה לבינה מלאכותית, אנרגיה גרעינית ותרופות פסיכדליות, מתוך כוונה להחזיק בהשקעה לטווח של לפחות שבע שנים. הוא מבקש חוות דעת על אסטרטגיית הכניסה ועל חלוקת הנכסים שבחר.",
+    "summary_he": "הנה סיכום של הפוסט:\n\nכותב הפוסט, בן 25, מבקש ייעוץ לגבי ניהול השקעותיו בחשבונות 401k ו-Roth IRA. הוא מתעניין באחוזי ההפרשה המומלצים מהשכר תוך שמירה על תזרים מזומנים זמין, ומחפש המלצות לאפיקי השקעה ספציפיים וכדאיים בתוך חשבונות אלו ומחוצה להם.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מרכזיות והשקפות של חברי הקהילה:\n\n*   **העדפת מדדים רחבים על פני ענפים ספציפיים:** קיימת הסכמה שעבור תיק השקעות קטן (כמו 10,000 דולר), עדיף להיצמד למדדים רחבים ומגוונים (כמו VOO, VEA, EMXC) ולהימנע מהשקעות ממוקדות בתעשיות ספציפיות שעלולות להיות תנודתיות מדי.\n*   **בניית בסיס לפני ספקולציות:** מומלץ להתייחס להשקעה כבניית תשתית יציבה ולא כאל \"תחביב ספקולטיבי\". יש להמתין עם השקעות הרפתקניות עד שנוצר בסיס נכסים משמעותי שראוי לנהל לגביו סיכונים מורכבים.\n*   **היתרון המתמטי של השקעה חד-פעמית (Lump Sum):** מבחינה סטטיסטית ועל סמך נתונים היסטוריים, ברוב המקרים עדיף להכניס את כל הסכום לשוק בבת אחת ברגע שהכסף זמין, שכן השוק נוטה לעלות לאורך זמן.\n*   **היתרון הפסיכולוגי של מיצוע השקעות (DCA):** למרות היתרון המתמטי של השקעה חד-פעמית, שיטת המיצוע (השקעת הכסף בחלקים לאורך זמן) יכולה להפחית חרטה ותחושות שליליות במקרה של תזמון שוק גרוע מיד לאחר הכניסה.\n*   **צמצום עומס מנטלי:** חלוקת ההשקעה למספר מקטעים (למשל ארבעה) עוזרת למשקיע להתמודד עם הפחד מ\"תזמון גרוע\", שכן היא מבטיחה שגם אם חלק מהכסף נכנס בשיא, שאר החלקים נכנסו בזמנים אחרים.\n*   **הימנעות מניתוח יתר (Overthinking):** בקהילה נטען כי סכום של 10,000 דולר הוא קטן מכדי להצדיק אסטרטגיות מורכבות או התלבטויות אינסופיות; העצה הרווחת היא פשוט להשקיע הכל במדד ה-S&P 500 (דרך VOO) ולסיים עם העניין בצורה פשוטה וישירה."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות בשרשור, המציג 6 נקודות מרכזיות ודעות שונות של חברי הקהילה:\n\n*   **הערכה על שיתוף ידע:** קיימת תחושת הערכה בקהילה על המידע המועיל ששותף, תוך הדגשה שלמידה מתמשכת בנושאי פיננסים היא בעלת ערך רב למשתמשים.\n*   **בלעדיות של קרנות לברוקראז' ספציפי:** צוין כי קרנות מסוימות (כדוגמת FFSDX ו-FNSFX) הן ייחודיות לפלטפורמת Fidelity, ולכן חשוב לבדוק את זמינות הקרן בהתאם לברוקראז' שבו מנהלים את החשבון.\n*   **תיעדוף חשבונות פרישה:** קיימת המלצה ברורה לפעול למקסום ההפקדות לחשבון Roth IRA עד סוף השנה הקלנדרית, ובמקביל להגדיל את ההפרשות ל-401k.\n*   **ניצול מקסימלי של הטבות מעסיק:** בקהילה מדגישים את החשיבות של הפקדה ל-401k לפחות עד לגובה ה\"מץ'\" (Match) שהמעסיק נותן, כדי לא \"לוותר\" על כסף ללא עלות.\n*   **השוואת דמי ניהול בקרנות מדד:** המשתמשים מציינים כי ההבדלים בדמי הניהול (Expense Ratio) בין קרנות מדד רחבות כמו FSKAX לבין VOO הם מזעריים, ולכן שניהם נחשבים לאפיקי השקעה טובים לחשבון השקעות אישי.\n*   **שיקולי ניידות של נכסים (Portability):** הועלתה נקודה אסטרטגית חשובה לגבי ההבדל בין קרנות נאמנות לקרנות סל (ETFs); בעוד שקרן כמו VOO ניתן להעביר בקלות מחשבון לחשבון במידה ומחליפים ברוקראז', קרן כמו FSKAX עשויה לחייב מכירה (אירוע מס) ומימוש הכסף כדי לבצע את המעבר."
   },
   {
-    "id": "1w3rpig",
-    "title": "Thoughts on Kaspi.kz - Wechat and Amazon of Kazistan",
-    "url": "https://www.reddit.com/r/investing/comments/1w3rpig/thoughts_on_kaspikz_wechat_and_amazon_of_kazistan/",
-    "author": "Relevant_Guitar_7465",
+    "id": "1w532g6",
+    "title": "Am I not supposed to feel distressed at all if I'm invested properly?",
+    "url": "https://www.reddit.com/r/investing/comments/1w532g6/am_i_not_supposed_to_feel_distressed_at_all_if_im/",
+    "author": "kryndude",
     "score": 1,
-    "selftext": "I've been looking at Kaspi on the back of a video interview done by Monish Parbai and wanted to get peoples thoughts. \n\nIt's like a wechat, but for Kazistan and also the equivalent of Amazon. \n\nThere are 3 segments: \n\n\\- Payments - they take a cut of all transactions using their network, both personal and business. \n\n\\- marketplace - kind of like amazon\n\n\\- fintech - consumer finance and loans \n\nThey have also recently brought a large share in a Turkish conpany which is kind of like the amazon of Turkey. The company is looking to also to expand payments in Turkey. \n\nAlso when I say amazon of Kazistan or Turkey - it's probably an exaggeration at this point but the easiest way to explain there business. \n\nThere is, of course, the credit and regulatory risk and also the risk that what worked in Kazistan might not work in Turkey.\n\nI'm looking at it from a long term 3-5 years as opposed to short term. ",
+    "selftext": "I'm currently all-in on semis (memory in particular) and tech and I'm down 5%. I don't mind the current loss too much because l believe it'll turn profit by next year.\n\nWhat bothers me is the fact that I bought too hastily when I knew I had time to wait for a better entry point.\n\nOnce I get out, I'm planning to diversify into world ETFs and some satellite stocks as factor tilts. I could just sell off everything and do that now, and I can see it being the rational choice. But I'm quite certain on the memory bottleneck that I also don't feel like it's a good choice to panic sell at this point.\n\nSo my question is not about my current position but whether it's normal to feel conflicted when investing. Is it a sign that I'm making irrational decision, or is it a psychological trap that I need to control myself against?",
     "subreddit": "investing",
-    "created_utc": 1788211865,
+    "created_utc": 1788332982,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Yes sure: \n\nSource: Kazakhstan Bureau of National Statistics — their official energy statistics report energy self-sufficiency at **221.1%**.\n\nhttps://stat.gov.kz/en/industries/business-statistics/stat-energy/?utm\\_source=chatgpt.com\n\n\\-> scroll a bit down on the page",
+        "body": "If you check your portfolio everyday, you’re gonna feel distressed 63% of the time. Even if your portfolio is going up, the human mind will take the red days and reck your mood.",
         "score": 1,
-        "author": "HiddenCompounding"
+        "author": "Disastrous_Rent_6500"
       },
       {
-        "body": "Source on the 221% energy sufficiency?  It's close , but not even 100% yet, with some imports from Russia. Kazakhstan is only planning to become energy independent in 2027:\nhttps://forbes.kz/articles/kazahstan-rasschityvaet-otkazatsya-ot-importa-elektroenergii-iz-rossii-e4f02e\n\nhttps://24.kz/ru/news/social/777634-kazakhstan-dostignet-polnoj-energonezavisimosti-k-2027-godu",
+        "body": "Okay, honestly I don't know anything rn. So at what point do I become qualified enough to make informed decisions about individual stocks? Do I need to understand all the technicalities of the industry, or does successful investing require a different skill set than actually working in that industry? Simply put, when can I go beyond VT and chill?",
         "score": 1,
-        "author": "EvillNooB"
+        "author": "kryndude"
       },
       {
-        "body": "Your submission has been automatically removed because the URL matches one on the /r/investing banlist due to low quality content or has been used to spam. See [here](https://www.reddit.com/r/investing/wiki/index/rules#wiki_why_are_some_media_links_banned_and_not_allowed) for more information. If you believe the article you are trying to link is high quality content please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2FInvesting) with a short message so that we may approve your submission. Please be aware that if your post can be sourced from a less sensationalist publication we will likely require you to do that.  Thank you.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/investing) if you have any questions or concerns.*",
+        "body": "You waited a pretty long time to buy in on semis if you're down 5%, a lot of those stocks are still up like 400% this year even with the dip. Not that it cant go up but still",
         "score": 1,
-        "author": "AutoModerator"
+        "author": "hoopdizzle"
       }
     ],
-    "summary_he": "הפוסט סוקר את חברת Kaspi.kz מקזחסטן, הפועלת בתחומי התשלומים, המסחר המקוון והפינטק, ובוחן את הפוטנציאל שלה כהשקעה לטווח ארוך. הכותב מדגיש את הדמיון של החברה לענקיות כמו אמזון ו-WeChat ואת התרחבותה האחרונה לשוק הטורקי, לצד סיכוני אשראי ורגולציה הנלווים לפעילותה.",
+    "summary_he": "הכותב מביע חרטה ומצוקה על תזמון הכניסה שלו להשקעה מרוכזת בתחום השבבים והטכנולוגיה, שנמצאת כרגע בהפסד של 5%. הוא תוהה האם תחושות של קונפליקט ומתח הן חלק טבעי מתהליך ההשקעה, או שהן מעידות על קבלת החלטות לא רציונלית ומלכודת פסיכולוגית שעליו ללמוד לרסן.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע למצב האנרגטי של קזחסטן, הכולל 6 נקודות מרכזיות המבטאות דעות, עובדות ותחושות בקהילה:\n\n*   **טענה לעודף אנרגטי משמעותי:** אחד המשתמשים טוען כי על פי נתוני הלשכה הלאומית לסטטיסטיקה של קזחסטן, המדינה נהנית משיעור עצמאות אנרגטית יוצא דופן העומד על 221.1%, מה שמעיד על ייצור הגבוה בהרבה מהצריכה המקומית.\n*   **ספקנות וערעור על הנתונים:** מנגד, משתמש אחר מטיל ספק בנתון הגבוה וטוען שהמדינה טרם הגיעה אפילו ל-100% עצמאות אנרגטית, תוך שהוא מסתמך על דיווחים עיתונאיים (כמו \"פורבס\" קזחסטן).\n*   **תלות אנרגטית ברוסיה:** בקהילה עולה הנקודה שקזחסטן עדיין מייבאת חשמל ואנרגיה מרוסיה, מה שמפריך, לדעת חלק מהגולשים, את הטענה לעצמאות מוחלטת בנקודת הזמן הנוכחית.\n*   **צפי לעתיד (יעד 2027):** מוצגת העמדה לפיה קזחסטן מתכננת להפסיק את התלות ביבוא מרוסיה ולהגיע לעצמאות אנרגטית מלאה רק בשנת 2027, מה שמצביע על פער בין השאיפות העתידיות למצב הקיים.\n*   **מחלוקת על מהימנות מקורות:** הדיון משקף התנגשות בין מקורות מידע – מצד אחד נתונים ממשלתיים רשמיים של המדינה, ומצד שני מקורות תקשורתיים וניתוחים כלכליים חיצוניים.\n*   **סינון ואיכות תכנים בקהילה:** תגובת המערכת האוטומטית (Bot) מדגישה את הסטנדרטים של הקהילה (r/investing), הכוללים \"רשימה שחורה\" של אתרים הנחשבים למקורות באיכות נמוכה, סנסציוניים או כאלו המשמשים להפצת ספאם, מה שמעיד על ניסיון לשמור על רמת דיון מקצועית."
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג נקודות מבט שונות על עולם ההשקעות:\n\n*   **ההשפעה הפסיכולוגית של מעקב תדיר:** בדיקת תיק ההשקעות בכל יום מובילה למצוקה נפשית ופוגעת במצב הרוח. גם כאשר התיק נמצא במגמת עלייה כללית, המוח האנושי נוטה להתמקד בימים של ירידות (\"ימים אדומים\") ולחוות אותם בצורה עוצמתית ושלילית יותר.\n*   **הקושי במעבר מהשקעה פסיבית לאקטיבית:** עולה שאלה מהותית לגבי הרגע שבו משקיע הופך ל\"כשיר\" מספיק כדי לבחור מניות בודדות. קיים ספק האם ומתי נכון לנטוש את אסטרטגיית ה-VT (מדד עולמי רחב) לטובת ניסיון להכות את השוק.\n*   **הפרדה בין מומחיות מקצועית למיומנות השקעה:** נטען כי הבנה טכנית עמוקה של תעשייה מסוימת (כמו עבודה בתוך התחום) אינה בהכרח הופכת אדם למשקיע מוצלח באותה תעשייה. מדובר בסט כישורים שונה לחלוטין שנדרש כדי לקבל החלטות השקעה מושכלות.\n*   **סכנת ה\"כניסה המאוחרת\":** קיימת ביקורת על משקיעים שנכנסים לטרנדים חמים (כמו תחום השבבים) לאחר שהם כבר רשמו עליות דרמטיות (של מאות אחוזים). במצב כזה, גם ירידה קטנה של 5% יכולה להעיד על תזמון כניסה בעייתי.\n*   **חשיבות ההקשר והפרופורציה:** ירידה בערך המניה צריכה להיבחן מול הביצועים השנתיים שלה. משקיע עשוי להרגיש מופסד בטווח הקצר, אך עליו להבין שהמניה עדיין נמצאת בשיא ביחס לתחילת השנה, מה שמרמז על תנודתיות טבעית ולאו דווקא על כישלון.\n*   **הטיית השליליות והחוסן המנטלי:** הקהילה מדגישה כי השקעה מוצלחת דורשת חוסן מנטלי ויכולת להתעלם מרעשי רקע יומיומיים, שכן הנטייה הטבעית שלנו היא \"להרוס\" לעצמנו את היום בגלל תנודות קטנות וזמניות בשוק."
+  },
+  {
+    "id": "1w4zevp",
+    "title": "Market Research for Structured Products",
+    "url": "https://www.reddit.com/r/investing/comments/1w4zevp/market_research_for_structured_products/",
+    "author": "Mobo07",
+    "score": 1,
+    "selftext": "Hey all, doing market research on structured products and how traders actually access it today and what they'd want to see better.\n\n\\~5-mins survey, no pitch. Will share the results back with anyone who fills it out so you can see how the rest of the market answered\n\nDM me if you want to chat about it directly.",
+    "subreddit": "investing",
+    "created_utc": 1788321330,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Survey link: [https://survey.critohedge.com/](https://survey.critohedge.com/)",
+        "score": 1,
+        "author": "Mobo07"
+      }
+    ],
+    "summary_he": "הכותב עורך מחקר שוק על מוצרים פיננסיים מובנים (Structured Products) במטרה להבין כיצד סוחרים משתמשים בהם ומה ניתן לשפר בחוויית המשתמש. הוא מזמין סוחרים למלא סקר קצר ומבטיח לשתף את התוצאות עם המשיבים, או לשוחח איתו ישירות בנושא בפרטי.",
+    "category_he": "השקעות",
+    "comments_summary_he": "נראה שצורפה רק תגובה אחת המכילה קישור לסקר, ללא פירוט של דעות נוספות או דיון מצד משתמשים אחרים. כדי לספק סיכום מקיף של \"לפחות 6 דעות או עמדות שונות\", נדרש טקסט נוסף מהשרשור.\n\nעם זאת, בהתבסס על המידע המועט שסופק (הקישור לסקר), להלן ניתוח של הנקודות והסנטימנטים שניתן להסיק מהקשר זה:\n\n*   **הפניה לאיסוף נתונים חיצוני:** הנקודה המרכזית היא השימוש בקהילה ככלי למחקר או לאיסוף מידע באמצעות סקר חיצוני בכתובת המקוצרת של \"critohedge\".\n*   **מיקוד בעולם הקריפטו והפיננסים:** משם הדומיין (Critohedge) ניתן להסיק כי הדיון בשרשור עוסק ככל הנראה במטבעות דיגיטליים, קרנות גידור (Hedge Funds) או ניתוח סיכונים בשוק הקריפטו.\n*   **הנעה לפעולה (CTA):** התגובה מייצגת גישה אקטיבית שבה המשתמשים מתבקשים לא רק לקרוא, אלא להשתתף באופן פעיל בעיצוב תמונת המצב של הקהילה.\n*   **חשיבות האמינות והשקיפות:** בקהילות מקוונות, ובמיוחד בתחום הפיננסי, פרסום קישור לסקר ללא הסבר נלווה עלול להעלות שאלות בקרב המשתמשים לגבי זהות הגורם שאוסף את המידע ומטרתו.\n*   **שימוש בפלטפורמה ייעודית:** הבחירה להשתמש בדומיין ייעודי לסקר (ולא בפלטפורמה גנרית כמו Google Forms) מעידה על ניסיון לשוות למחקר מראה מקצועי או ממוסד יותר.\n*   **צורך בהקשר קהילתי:** כדי לגבש דעות מגוונות (כמו ספקנות, תמיכה, או שאלות על הפרטיות), נדרשות תגובות המשתמשים לקישור זה. כרגע, הנקודה העולה היא הצורך של הקהילה במידע כמותי על חבריה.\n\n**אם תרצה להוסיף את שאר התגובות מהשרשור, אשמח לנתח אותן ולספק סיכום מפורט יותר של מגוון הדעות בקהילה.**"
+  },
+  {
+    "id": "1w4pcn5",
+    "title": "DELL earnings well ahead and guide up is large",
+    "url": "https://www.reddit.com/r/investing/comments/1w4pcn5/dell_earnings_well_ahead_and_guide_up_is_large/",
+    "author": "Always_Curious_One2",
+    "score": 1,
+    "selftext": "What a machine.    Clearly taking share and generating just huge cash flows.     Conf call just beginning but the numbers speak loudly.  Gross margin dollars up 78%.   While Opex up only 22%.  EBIT +160%    \nGuides billions ahead of street estimates.   Running a base case DCF with a 10% hurdle rate shows material equity value creation ahead.    ",
+    "subreddit": "investing",
+    "created_utc": 1788296364,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "חברת Dell הציגה דוחות כספיים חזקים במיוחד עם זינוק ברווח התפעולי ותזרים מזומנים מרשים, תוך שהיא עוקפת משמעותית את תחזיות השוק. החברה העלתה את התחזיות קדימה במיליארדי דולרים מעל הערכות האנליסטים, מה שמעיד על פוטנציאל גבוה ליצירת ערך משמעותי למשקיעים בעתיד.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1w4nl3l",
+    "title": "Tax-loss harvesting vs rebalancing into VTI before a 2028 home purchase?",
+    "url": "https://www.reddit.com/r/investing/comments/1w4nl3l/taxloss_harvesting_vs_rebalancing_into_vti_before/",
+    "author": "ExtremeFluffy",
+    "score": 1,
+    "selftext": "I have some old individual stock picks that are significant losers, plus a TSLA position with gains that roughly match those losses. All new money goes into VTI.\n\nPlanning to buy a house in 2028 and will need to sell investments then.\n\nIs it better to sell the losers and TSLA now (net roughly zero tax impact) and roll everything into VTI, or hold the losers for tax-loss harvesting when I sell VTI in 2028?\n\nAny thoughts on the tax efficiency / opportunity cost trade-off?",
+    "subreddit": "investing",
+    "created_utc": 1788293060,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "My bad I thought you were referring to dry powder. A 6 month emergency fund is standard, most people already have some variation of it.",
+        "score": 1,
+        "author": "Informal-Lime6396"
+      },
+      {
+        "body": "A prolonged bear market is a real thing that happens and a great time to buy a house.",
+        "score": 1,
+        "author": "_176_"
+      },
+      {
+        "body": "'It worked for me so I'm always right'",
+        "score": 1,
+        "author": "Imnotsureanymore8"
+      }
+    ],
+    "summary_he": "הכותב מתלבט אם למכור כעת מניות בהפסד לצד מניות טסלה ברווח כדי להעביר את כל הכספים למדד VTI, או להמתין עד לרכישת דירה מתוכננת ב-2028. השאלה המרכזית היא האם עדיף לבצע קיזוז מסים ולאזן את התיק כבר עכשיו, או לשמור את ההפסדים כדי לקזז רווחים עתידיים במועד רכישת הבית.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות, המחולק ל-6 נקודות מבט וסנטימנטים שונים:\n\n*   **הבחנה בין סוגי נזילות:** קיימת חשיבות להפרדה מושגית בין \"אבקת שריפה יבשה\" (מזומן המיועד להשקעות מזדמנות) לבין קרן חירום המיועדת למחיה.\n*   **סטנדרט קרן החירום:** קרן חירום המכסה הוצאות של כ-6 חודשים נתפסת כנורמה המקובלת והבסיסית ביותר להתנהלות פיננסית.\n*   **הנחת מוצא לגבי חיסכון:** קיימת הנחה בקהילה שלרוב האנשים כבר יש וריאציה כזו או אחרת של רשת ביטחון כלכלית, וזהו אינו מושג זר.\n*   **הכרה בתנודתיות השוק:** הדיון מדגיש כי \"שוק דובי\" (ירידות שערים) ממושך הוא תרחיש ריאלי שיש לקחת בחשבון, ולא רק תופעה חולפת או תיאורטית.\n*   **נדל\"ן כהזדמנות בשפל:** קיימת גישה הגורסת כי תקופות של ירידות בשווקים הן למעשה העיתוי האופטימלי לרכישת נכסי נדל\"ן ומגורים.\n*   **ביקורת על הטיית האישוש:** בקהילה קיימת ספקנות כלפי אנשים המציגים הצלחה אישית כחוק אוניברסלי (\"זה עבד לי, לכן אני תמיד צודק\"), תוך זלזול בצורך בסטטיסטיקה רחבה יותר או בנסיבות משתנות."
+  },
+  {
+    "id": "1w4f5yx",
+    "title": "It's a pump and dump (GPRO)!!!!!",
+    "url": "https://www.reddit.com/r/investing/comments/1w4f5yx/its_a_pump_and_dump_gpro/",
+    "author": "SirNational258",
+    "score": 1,
+    "selftext": "I've been following the news recently and one thing I've noticed is the sudden surge in trading of GPRO.\n\nObviously this is down to Markiplier announcing his significant stake in the company. But, why did he announce it? Is there really any reason for him to announce that?\n\nOr...\n\nIs it simply because he knows his \"influence\" on his community will cause a significant movement of the share price.\n\nHow much is he still holding today?\n\nThere's quite clearly a reason behind his announcement. The tin hat people would likely believe it's to cause a surge in volume in order to create exit liquidity.\n\nSeeing a stock trading almost 20x average daily volume on a company that has only around 180m shares certainly raises some questions\n\nAnyone care to weigh in?",
+    "subreddit": "investing",
+    "created_utc": 1788276284,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "OP is calling folks cringe while taking financial advice from fucking Markiplier. Holy shit.",
+        "score": 1,
+        "author": "Imnotsureanymore8"
+      },
+      {
+        "body": "wait so gpro just got hyped then dumped or what",
+        "score": 1,
+        "author": "PsychologicalShop5"
+      },
+      {
+        "body": "GPRO pulling GME + Allbirds.. this shit pumping to $12, then we'll dump",
+        "score": 1,
+        "author": "bossman-CT"
+      }
+    ],
+    "summary_he": "הפוסט מזהיר מפני תרמית \"פאמפ אנד דאמפ\" במניית GPRO, בעקבות זינוק חריג בנפח המסחר לאחר הודעתו של היוטיובר Markiplier על רכישת נתח בחברה. הכותב חושד שהיוטיובר מנצל את השפעתו על מעריציו כדי להעלות את מחיר המניה באופן מלאכותי וליצור לעצמו \"נזילות יציאה\" שתאפשר לו למכור את אחזקותיו ברווח.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות בשרשור ה-Reddit בנוגע למניית GPRO (GoPro):\n\n* **ביקורת על צביעות וגישה:** אחד המגיבים לועג לכותב הפוסט המקורי (OP) על כך שהוא מכנה אחרים \"מביכים\" (cringe), בעוד שהוא עצמו מפגין התנהגות שנתפסת כבעייתית לא פחות.\n* **זלזול במקורות המידע:** קיימת תחושת הלם וזלזול מכך שמשקיעים בקהילה מסתמכים על עצות פיננסיות שמגיעות מיוטיוברים או משפיעני רשת כמו Markiplier, במקום על ניתוחים מקצועיים.\n* **חשד למניפולציית \"הרצה והשלכה\":** עולה תהייה בקרב הגולשים האם המניה עברה תהליך של \"Pump and Dump\" – כלומר, יצירת הייפ מלאכותי כדי להקפיץ את המחיר ואז מכירה המונית שמותירה את המשקיעים המאוחרים עם הפסדים.\n* **השוואה למניות \"מים\" (Meme Stocks):** המניה מושוות למניות כמו GME (גיימסטופ) ו-Allbirds, מה שמעיד על כך שהקהילה תופסת אותה כנכס תנודתי המונע על ידי סנטימנט חברתי ולאו דווקא על ידי ערך כלכלי פנימי.\n* **יעד מחיר ספציפי ותחזית קצרה:** אחד המשתתפים צופה שהמניה תמשיך לעלות (\"תתנפח\") עד למחיר של 12 דולר, מה שמראה על ניסיון לתזמן את השיא של המהלך הנוכחי.\n* **אסטרטגיית יציאה צינית:** קיימת הסכמה או כוונה בקרב חלק מהגולשים לנצל את העלייה כדי \"להיפטר\" מהמניה (Dump) ברגע שהיא תגיע ליעד מסוים, מתוך הבנה שהעלייה אינה בת-קיימא לטווח הארוך."
   }
 ];
