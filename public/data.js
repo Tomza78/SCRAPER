@@ -1,142 +1,70 @@
 window.dailyTrends = [
   {
-    "id": "1w9rrey",
-    "title": "Sell home and invest cash into S&P while renting or live in home and sell later on?",
-    "url": "https://www.reddit.com/r/investing/comments/1w9rrey/sell_home_and_invest_cash_into_sp_while_renting/",
-    "author": "Cocktail_Guru",
-    "score": 123,
-    "selftext": "27 yo married couple no kids living in MA. Dad just gave me his house which is probably able to sell for about 600-800k or potentially more. No mortgage. \n\nDebating on moving in and just living there, or investing the proceeds while continuing to rent. We have been paying 2800 a month in rent and have a combined income of about 9k a month (plus what i make on commission bonuses which has been around 40k last year but not always guaranteed). \n\nI’m really tempted to just invest the money as it would be a massive help. But we would have to rent for around 10 years to avoid market uncertainty and my wife really doesn’t want to. I don’t want to either but i understand the difference in home appreciation and S&P return over 10 years are significant. \n\nBasically we would be able to buy a home and have a massive amount of money in savings for our kids and future, but be older when we do so, vs live in a home right now but have less money in 10 years. \n\nWhat is this subs opinion? ",
+    "id": "1wapuh5",
+    "title": "What would you guys do with $45k sitting in the bank?",
+    "url": "https://www.reddit.com/r/investing/comments/1wapuh5/what_would_you_guys_do_with_45k_sitting_in_the/",
+    "author": "introvertliving",
+    "score": 1,
+    "selftext": "I currently have about $20k invested in stocks and $45k sitting in my bank account in cash.\n\nI make around $5,200/month after tax, 401k, and health insurance. My monthly expenses are roughly $3k ($1,500 mortgage, $700 car payment, and $800 other expenses).\n\nI don’t have any big purchases coming up, so I’m starting to feel like I’m just letting this money sit there for no reason.  \nWhat would you guys do with the $45k?",
     "subreddit": "investing",
-    "created_utc": 1788786618,
+    "created_utc": 1788877437,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Take the house for sure. Build your retirement accounts and you can decide to rent later if you need more money for retirement.",
+        "body": "Borrowing money on a depreciating vehicle lol okay",
         "score": 1,
-        "author": "sparkle_and_twist"
+        "author": "East-Technology-7451"
       },
       {
-        "body": "Find out your cost basis before anything else. A gift during his lifetime means you took on his basis rather than a stepped up one, so selling now could hand you a very large capital gains bill, and living in it 2 of the next 5 years gets you the 500k married exclusion.",
+        "body": "Your post has been removed because it is a common beginner topic. We get too many of these topics every day and to prevent them from swamping the front page, we are removing main threads of this kind.\n\nWe also remove such posts because they can attract spam and bad faith comments. If you receive DM's or un-solicitated offers, please be aware that there are a lot of financial scammers on social media. \n  \nYou are welcome to repost your question in the [daily discussion thread](https://www.reddit.com/r/investing/about/sticky?num=1). \n  \nIf you have any issue with this removal, please contact the moderators via modmail. Thank you.\n\n----\n\nIf you are new to investing, you can find curated resources in the r/investing wiki for [Getting Started here](https://www.reddit.com/r/investing/wiki/index/gettingstarted/). \n\nThe reading list in the wiki and FAQ has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - [Reading List](https://www.reddit.com/r/investing/wiki/readinglist)\n\nPodcasts and videos can be found in the wiki here - [Podcasts and videos](https://www.reddit.com/r/investing/wiki/medialist)\n\nIf you know nothing about the capital markets - the Getting Started section at the SEC educational site can be a good place to start - [investor.gov](https://investor.gov) \\- there are also short 30 second videos on basics. The SEC (Securities and Exchange Commission) is a US regulator with a focus to protect US investors through regulatory oversight of the securities markets.\n\nThe FINRA education site at [FINRA Education](https://www.finra.org/investors/learn-to-invest) also contains numerous free courses and educational materials. FINRA is a not-for-profit SRO (self regulatory organization) which is self-funded by it's members which are broker-dealers. It works under the supervision of the SEC with a mandate to protect the investing public against fraud and bad practice.\n\nFor formal educational materials, several colleges and universities make their course work available for free. \n\nIf want to learn about the financial markets - an older but reasonably relevant course is [Financial Markets (2011) - Yale University](https://www.youtube.com/playlist?list=PL8FB14A2200B87185) This is the introduction to financial markets course taught by Prof. Shiller from Yale. Prof Shiller won the Nobel prize in economics in 2013.\n\nAnother relavant course from MIT is a lecture series on Finance Theory taught by Prof Andrew Lo - [Financial Theory (2008) - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW).\n\nA more current course can be found at NYU Stern School of Business by Prof Aswath Damodaran - [Corporate Finance Spring 2019](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastcfspr19.htm). Prof Damodaran offers the latest materials and webcast lectures to this class here - https://pages.stern.nyu.edu/~adamodar/New_Home_Page/corpfin.html",
         "score": 1,
-        "author": "National_Guidance197"
+        "author": "investing-ModTeam"
       },
       {
-        "body": "I would definitely keep the house! Then you can add to the market when you have extra money. The market is inflated and due for a strong correction and we just don’t know when. This Iran  war thing is going to facilitate that situation. I’m afraid.",
+        "body": "VOO and chill. Look at the YTD, 1 year, and 5 year returns on it. Since you don’t have any upcoming expected purchases, this is best ",
         "score": 1,
-        "author": "Peace-Love-303"
+        "author": "alphalegend91"
       }
     ],
-    "summary_he": "זוג צעיר שקיבל במתנה בית ללא משכנתא בשווי של כ-600-800 אלף דולר מתלבט האם לעבור לגור בו או למכור אותו ולהשקיע את הכסף בשוק ההון. הדילמה המרכזית היא בין מיקסום רווחים פוטנציאליים במדד ה-S&P 500 לטווח ארוך תוך המשך מגורים בשכירות, לבין הנוחות והיציבות המיידית של מגורים בבית בבעלותם.",
+    "summary_he": "לכותב הפוסט יש 45,000 דולר במזומן המונחים בחשבון הבנק, בנוסף לתיק השקעות והכנסה חודשית יציבה שעולה משמעותית על הוצאותיו. מאחר שאין לו רכישות גדולות מתוכננות באופק, הוא מרגיש שהכסף אינו מנוצל ומבקש המלצות כיצד להשקיע או להפעיל אותו בצורה חכמה יותר.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והתובנות המרכזיות מהתגובות בשרשור, המוצגים ב-6 נקודות שונות:\n\n*   **ביטחון פנסיוני:** מומלץ לקבל את הבית ולהחזיק בו כנכס יציב, מה שיאפשר להפנות משאבים אחרים לבניית חסכונות פרישה נוספים בראש שקט.\n*   **פוטנציאל להכנסה פסיבית:** החזקת הבית מעניקה גמישות עתידית; ניתן יהיה להשכיר אותו בשלב מאוחר יותר כדי לייצר תזרים מזומנים נוסף לתקופת הפרישה במידת הצורך.\n*   **בדיקת היבטי מס (בסיס העלות):** חשוב מאוד לבדוק מהו \"בסיס העלות\" של הנכס. אם הבית ניתן במתנה במהלך חייו של הבעלים (ולא כירושה לאחר מותם), המקבל עלול \"לרשת\" את מחיר הרכישה המקורי והנמוך, מה שיוביל לתשלום מס רווחי הון גבוה מאוד בעת המכירה.\n*   **אסטרטגיית פטור ממס:** כדי למזער את חבות המס, כדאי לשקול מגורים בנכס במשך שנתיים מתוך חמש השנים הקרובות. מהלך זה עשוי להעניק פטור ממס על רווחי הון של עד 500 אלף דולר (לזוג נשוי).\n*   **חשש מניפוח שוק ההון:** קיימת הערכה ששוק המניות נמצא כרגע במצב מנופח וצפוי לעבור תיקון משמעותי כלפי מטה, לכן עדיף להחזיק בנכס ריאלי כמו בית מאשר להשקיע את כל ההון בבורסה בבת אחת.\n*   **השפעת אירועים גיאופוליטיים:** המתיחות הביטחונית (כמו העימות מול איראן) נתפסת כגורם שעלול לערער את היציבות הכלכלית העולמית ולהוביל לירידות בשווקים, מה שמחזק את הטיעון בעד שמירת הנכס הנדל\"ני כעוגן פיננסי."
-  },
-  {
-    "id": "1w9q4vo",
-    "title": "This Week's Market Catalyst Is All On CPI",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1w9q4vo/this_weeks_market_catalyst_is_all_on_cpi/",
-    "author": "LawZestyclose1290",
-    "score": 2,
-    "selftext": "Payrolls pretty much came and went and the market barely cared. Semis still ripped, BTC poked above 82k for a bit and now we’re basically back around 80k.\n\nSo I guess it all comes down to CPI on Friday.\n\nI’m mostly watching the MoM number. Something around 0.20–0.23% feels like the annoying outcome where it’s not really hot or cold enough to settle anything, and everyone just goes back to arguing about what the Fed does next.\n\nA softer print probably keeps the cut trade alive. Hotter than expected and things could get ugly pretty fast.\n\nNot sure I want to make a big move before the print though.",
-    "subreddit": "StockMarket",
-    "created_utc": 1788782233,
-    "thumbnail": "https://preview.redd.it/7unsyypw73oh1.png?width=140&height=117&auto=webp&s=b36993608db3ee55bdb51e21b13951c3651ea341",
-    "top_comments": [
-      {
-        "body": "[More>>](https://www.moomoo.com/news/post/75894574?global_content=%7B\"promote_content\":\"11067213\",\"promote_id\":20795,\"promote_type\":43,\"sub_promote_id\":1%7D)",
-        "score": 1,
-        "author": "LawZestyclose1290"
-      }
-    ],
-    "summary_he": "השוק מתמקד השבוע בפרסום מדד המחירים לצרכן (CPI) כגורם המכריע, כאשר נתון נמוך עשוי לתמוך בהורדת ריבית ונתון גבוה מהצפוי עלול להוביל לירידות חדות. הכותב מעריך כי רמת האינפלציה החודשית תקבע את כיוון השוק, ולכן הוא מעדיף להמתין לתוצאות לפני שיבצע מהלכים משמעותיים בתיק ההשקעות.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום מקיף של הדיון בקהילת המשקיעים בעקבות הדיווח על כך שחברת \"ברקשייר האת'ווי\" של וורן באפט צמצמה משמעותית (כמעט בחצי) את אחזקותיה במניית אפל (Apple):\n\n**סיכום הדיון בקהילה:**\n\n*   **הכנה למיתון או למשבר כלכלי:** משקיעים רבים מפרשים את המהלך של באפט כאות אזהרה ברור. לדעתם, צבירת המזומנים חסרת התקדים של ברקשייר מעידה על כך שבאפט צופה מיתון מתקרב או קריסה של השוק, והוא מעדיף לשמור על נזילות גבוהה כדי לרכוש נכסים בזול כשהמחירים ירדו.\n*   **מימוש רווחים והערכת שווי גבוהה:** חלק ניכר מהמגיבים סבור כי המהלך אינו מעיד על בעיה ספציפית באפל, אלא על כך שהמניה פשוט הגיעה לערך גבוה מדי (\"Overvalued\"). באפט, הידוע כמשקיע ערך, פועל לפי העיקרון של מכירה בשיא כאשר המכפילים הופכים ללא הגיוניים לדעתו.\n*   **שיקולי מס אסטרטגיים:** עלתה הטענה שבאפט צופה העלאת מיסי חברות או מס על רווחי הון בעתיד הקרוב בארה\"ב. לפי גישה זו, הוא מעדיף לממש רווחים עכשיו תחת שיעורי המס הנוכחיים מאשר להמתין ולשלם יותר בעתיד.\n*   **אובדן אמון בנרטיב ה\"צמיחה לנצח\":** בקרב חלק מהמשקיעים שוררת אכזבה מסוימת. הם מציינים שבעבר באפט הגדיר את אפל כעסק שדומה יותר למוצר צריכה בסיסי (כמו קוקה-קולה) שאוחזים בו לטווח ארוך מאוד. המכירה המאסיבית מערערת את הביטחון של המשקיעים הקטנים שראו בו \"עוגן\" יציב במניה.\n*   **גיוון ותיקון חשיפת יתר:** חלק מהקהילה מציין כי אפל היוותה חלק עצום מתיק המניות של ברקשייר (קרוב ל-50% מהתיק הציבורי בשיאו). לטענתם, המהלך הוא פשוט ניהול סיכונים אחראי וצמצום חשיפה כדי לא להיות תלויים יתר על המידה בחברה אחת, מצליחה ככל שתהיה.\n*   **הזדמנות קנייה למשקיעים חדשים:** בניגוד לסנטימנט השלילי, ישנם משקיעים בקהילה שרואים בלחץ המכירה שנוצר בעקבות המהלך הזדמנות. לטענתם, היסודות של אפל (Apple Intelligence, שירותים, נאמנות לקוחות) נותרו חזקים, וכל ירידה במחיר המניה בחסות \"אפקט באפט\" היא הזדמנות טובה לכניסה לטווח ארוך.",
-    "dateString": "2026-09-07",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שנכתבו, הכולל 6 נקודות מבט וסנטימנטים שונים מהקהילה:\n\n*   **ביקורת על נטילת הלוואות לנכסים מתכלים:** אחד המגיבים מביע לעג וספקנות כלפי הרעיון של לקיחת הלוואה עבור רכישת רכב, בטענה שמדובר בנכס שערכו יורד במהירות (Depreciating vehicle), וזו נחשבת טעות כלכלית.\n*   **שמירה על איכות התוכן בקהילה:** מנהלי הקהילה מקפידים להסיר פוסטים העוסקים בנושאים בסיסיים שחוזרים על עצמם מדי יום, זאת כדי למנוע \"הצפה\" של העמוד הראשי ולשמור על רמת דיון גבוהה.\n*   **אזהרה מפני הונאות פיננסיות:** הקהילה מתריעה בפני משקיעים מתחילים כי פרסום שאלות בסיסיות עלול למשוך נוכלים שינסו ליצור קשר בהודעות פרטיות (DMs) עם הצעות מפוקפקות.\n*   **הכוונה למקורות למידה אקדמיים ורשמיים:** קיימת הערכה רבה ללמידה עצמית מבוססת; הקהילה ממליצה על קורסים חינמיים של אוניברסיטאות מובילות (כמו ייל, MIT ו-NYU) ועל משאבים של גופים רגולטוריים כמו ה-SEC ו-FINRA.\n*   **העדפת אסטרטגיית השקעה פסיבית (\"VOO and chill\"):** סנטימנט חזק בקהילה תומך בהשקעה פשוטה במדד ה-S&P 500 (דרך קרן הסל VOO) כחלופה הטובה ביותר עבור רוב האנשים, תוך הסתמכות על ביצועי העבר לטווח הארוך.\n*   **חשיבות אופק ההשקעה:** הדגשה כי בחירת אפיק ההשקעה צריכה להתבסס על הצרכים העתידיים; אם אין צורך במזומן בטווח הקרוב, עדיף להתמקד בנכסים עם פוטנציאל צמיחה רב-שנתי במקום להשאיר את הכסף ללא שימוש.",
+    "dateString": "2026-09-09",
     "savedAt": {
-      "_seconds": 1788782937,
-      "_nanoseconds": 154000000
+      "_seconds": 1788952020,
+      "_nanoseconds": 490000000
     }
   },
   {
-    "id": "1wa3m84",
-    "title": "Associate in Supply Chain management",
-    "url": "https://www.reddit.com/r/business/comments/1wa3m84/associate_in_supply_chain_management/",
-    "author": "FlashyRun1645",
-    "score": 7,
-    "selftext": "Hi everyone,  \nI’m(18F) a freshman in college to get my A.A in SCM.  \nI also plan to get my Bloomberg certification within the next semester.  \nIs there anything that I should do to make me stand out to other students.  \nAny certification, knowledge, connection, or experience I can collect during my years in college.  \nPlease, let me know your thoughts",
+    "id": "1waq2dm",
+    "title": "$12k sitting on my desk because they only want ACH",
+    "url": "https://www.reddit.com/r/business/comments/1waq2dm/12k_sitting_on_my_desk_because_they_only_want_ach/",
+    "author": "Certain-Spot9737",
+    "score": 28,
+    "selftext": "Need to pay for a new piece of equipment this week and the company sent over their bank details\n\nMeanwhile I’ve got a business card with enough available credit to cover the whole thing. Cash is there too, I’d just rather have the extra few weeks before it leaves me\n\nFeels like there should be a pretty simple way to put it on the card while they still get their ACH like normal",
     "subreddit": "business",
-    "created_utc": 1788813203,
+    "created_utc": 1788877943,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Thank you very much!!!  \nIt’s been not very easy finding job in the field part-time with no experience. I will look more into it, but what do you think of being a cashier at Whole Foods?",
-        "score": 1,
-        "author": "FlashyRun1645"
+        "body": "Ach is $1.25, while a card transaction costs 2.x%+. ",
+        "score": 48,
+        "author": "SashaG239"
       },
       {
-        "body": "Great foundation and smart thinking this early! Beyond certifications, what truly separates candidates is **real hands-on experience**. Pursue internships aggressively - even unpaid ones at logistics companies, warehouses, or procurement departments. Practical exposure beats academic credentials every time in supply chain hiring. Also learn basic data analysis skills - Excel, and even entry-level data tools are increasingly essential in modern supply chain roles. Join industry associations as student members for networking opportunities. Develop genuine relationships with professors who have industry connections. And document every project, internship, and skill carefully. Your early initiative already puts you ahead of most peers!",
-        "score": 1,
-        "author": "arti_prajapati"
+        "body": "They way you want it is exactly how it already is. \n\nThere is no percentage fee on checks (ACH) which is that transfer your describing. \n\nThere is a percentage fee on credit cards. Every credit card transaction is a loan. If OP uses a credit card it goes through the credit loan system whether it's paid immediately or not. ",
+        "score": 14,
+        "author": "Weak-Strawberry-5256"
       },
       {
-        "body": "Post this in r/supplychainlogistics to get answers from pros in the field.",
-        "score": 1,
-        "author": "windowbox9152"
+        "body": "If you haven't received the equipment yet, I'd be 0% surprised if delivery didn't happen. When a company sends you their bank info for ACH, just get it done. If they extended terms, you have that amount of time to get it done. \n\nDon't play the \"But my card!\" game. You probably want the rewards, and those rewards come out of the vendor's profit. As another stated, you could pay a markup for their fees (usually 3%), but your rewards will be < the fee. ",
+        "score": 14,
+        "author": "skoltroll"
       }
     ],
-    "summary_he": "סטודנטית שנה א' לניהול שרשרת אספקה (SCM) מחפשת דרכים לבלוט על פני סטודנטים אחרים ולשפר את סיכויי הקריירה שלה. היא מעוניינת בעצות לגבי הסמכות רלוונטיות (בנוסף להסמכת בלומברג שבכוונתה לעשות), דרכים ליצירת קשרים מקצועיים וצבירת ניסיון מעשי במהלך הלימודים.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מבט ודעות מרכזיות שעלו:\n\n*   **הקושי במציאת עבודה ראשונית:** קיימת תחושת תסכול לגבי הקושי למצוא משרות חלקיות בתחום הלוגיסטיקה ושרשרת האספקה עבור מי שטרם צבר ניסיון מעשי.\n*   **התלבטות לגבי עבודות מזדמנות:** עולה השאלה האם עבודה כקופאי ברשת קמעונאית (כמו Whole Foods) יכולה להוות פתרון זמני או רלוונטי כאשר לא מוצאים משרה מקצועית בתחום.\n*   **עדיפות לניסיון מעשי על פני תארים:** הקהילה מדגישה כי בתחום שרשרת האספקה, ניסיון \"מהשטח\" (Hands-on) – אפילו בסטאז' ללא תשלום, עבודה במחסנים או במחלקות רכש – נחשב ליקר ערך ומשמעותי יותר מהסמכות ותארים אקדמיים בלבד.\n*   **נחיצותן של מיומנויות ניתוח נתונים:** שליטה ב-Excel ובכלי ניתוח נתונים בסיסיים נתפסת כהכרחית וכדרישת סף למשרות מודרניות בתחום, מעבר לידע התיאורטי.\n*   **חשיבות הנטוורקינג והתיעוד:** מומלץ ליצור קשרים עם מרצים בעלי זיקה לתעשייה, להצטרף לאיגודים מקצועיים כסטודנטים, ולהקפיד לתעד כל פרויקט או מיומנות שנרכשו כדי לבנות פורטפוליו מקצועי חזק.\n*   **הכוונה לקהילות מומחים:** קיימת המלצה לפנות לפורומים ייעודיים וספציפיים יותר (כמו r/supplychainlogistics) כדי לקבל תשובות ותובנות מאנשי מקצוע מנוסים שעובדים בפועל בתחום."
-  },
-  {
-    "id": "1wady1h",
-    "title": "Business Insights | Money Explained on Instagram",
-    "url": "https://www.reddit.com/r/finance/comments/1wady1h/business_insights_money_explained_on_instagram/",
-    "author": "msmoseyrn",
-    "score": 1,
-    "selftext": "Private equity is destroying lives.",
-    "subreddit": "finance",
-    "created_utc": 1788840636,
-    "thumbnail": "default",
-    "top_comments": [],
-    "summary_he": "הפוסט דן בהשפעה השלילית של קרנות השקעה פרטיות (Private Equity) על החברה. נטען בו כי פעילותן העסקית של קרנות אלו פוגעת אנושות בחייהם של אנשים וגורמת להם נזק כבד.",
-    "category_he": "עסקים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-09-08",
-    "savedAt": {
-      "_seconds": 1788865253,
-      "_nanoseconds": 626000000
-    }
-  },
-  {
-    "id": "1wb9b0g",
-    "title": "Excess money into taxable brokerage or HYSA to max out Roth IRA next year?",
-    "url": "https://www.reddit.com/r/investing/comments/1wb9b0g/excess_money_into_taxable_brokerage_or_hysa_to/",
-    "author": "Direct-Stuff-2469",
-    "score": 1,
-    "selftext": "Looking for some opinions. I have my Roth IRA maxed for 2026.\n\nI am currently setting aside a fixed amount of money from my monthly income to go directly towards my taxable brokerage account. I have some excess money that I am left with a month after budging my spending (excluding investments I’ve budgeted).\n\nI am trying to decide whether to put this excess directly into my taxable brokerage, or put this into a HYSA in order to max my Roth IRA on Jan 1st next year.\n\nCurious to what people think.",
-    "subreddit": "investing",
-    "created_utc": 1788922031,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "you can move it? or is it ya sell it to transfer it?",
-        "score": 1,
-        "author": "forgiveangel"
-      },
-      {
-        "body": "I’d just save the Roth amount first and invest the rest, no need to make it all one bucket",
-        "score": 1,
-        "author": "FailOk1528"
-      },
-      {
-        "body": "I’d lean toward keeping enough in a HYSA for your emergency fund, then investing extra cash if you have a long enough time horizon. It really depends on when you’ll need the money.",
-        "score": 1,
-        "author": "Ok-Spell-6812"
-      }
-    ],
-    "summary_he": "הכותב מתלבט כיצד להשתמש בכסף פנוי שנותר לו לאחר שכבר הפקיד את הסכום המקסימלי ל-Roth IRA לשנה הנוכחית. הוא שואל האם כדאי להשקיע את העודפים בחשבון השקעות רגיל (Taxable Brokerage), או לחסוך אותם בחשבון חיסכון בריבית גבוהה (HYSA) כדי שיוכל למלא את המכסה של השנה הבאה כבר ב-1 בינואר.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט, דעות ותובנות קהילתיות שעלו מתוך התגובות:\n\n*   **בירור לוגיסטי לגבי ניוד נכסים:** עולה שאלה לגבי האופן הטכני של העברת הכספים – האם ניתן להעביר את ההשקעות כמות שהן (In-kind transfer) או שמא יש צורך למכור את הנכסים ולהעביר את התמורה כמזומן.\n*   **תעדוף חשבונות פטורים ממס:** קיימת המלצה לתת קדימות לחיסכון במקסימום המותר בחשבון מסוג Roth (הנהנה מהטבות מס) לפני שפונים להשקעות באפיקים אחרים.\n*   **הפרדה בין \"סלים\" פיננסיים:** ישנה גישה הגורסת כי אין צורך לרכז את כל הכספים במקום אחד; עדיף להפריד בין חסכונות המיועדים למטרות שונות במקום לנסות לנהל הכל תחת קורת גג אחת.\n*   **חשיבות קרן החירום:** בקהילה מדגישים את הצורך בשמירת סכום כסף נזיל בחשבון חיסכון בעל ריבית גבוהה (HYSA) כרשת ביטחון למקרי חירום, לפני שפונים להשקעות בשוק ההון.\n*   **השקעת הון עודף בלבד:** התפיסה היא שיש להשקיע בשוק רק את ה\"כסף המיותר\" – כלומר, סכומים שנותרו לאחר מילוי קרן החירום והוצאות מחיה הכרחיות.\n*   **הסתמכות על אופק זמן:** ההחלטה האם ואיך להשקיע תלויה באופן קריטי בטווח הזמן של המשקיע ובשאלה מתי הוא צופה שיזדקק לכסף (Time Horizon)."
+    "summary_he": "כותב הפוסט מעוניין לשלם 12,000 דולר עבור ציוד באמצעות כרטיס אשראי כדי לדחות את מועד החיוב בפועל, אך הספק מקבל העברות בנקאיות (ACH) בלבד. הוא מחפש פתרון טכני או שירות שיאפשר לו לשלם באשראי בזמן שהספק יקבל את הכסף כהעברה בנקאית רגילה.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, הכולל 6 נקודות מרכזיות המבטאות את דעות הקהילה ותובנותיה:\n\n*   **הבדלי עלויות משמעותיים:** קיימת הבחנה ברורה בין עמלת העברה בנקאית (ACH) שהיא קבועה ונמוכה מאוד (כ-$1.25), לבין עסקאות בכרטיסי אשראי שגוררות עמלה של אחוזים מהעסקה (לרוב מעל 2%), דבר שהופך את האשראי ליקר בהרבה עבור סכומים גדולים.\n*   **הגדרת כרטיס האשראי כהלוואה:** הקהילה מדגישה כי כל עסקה בכרטיס אשראי היא במהותה הלוואה. המערכת הפיננסית מתייחסת לכך כאל אשראי חוץ-בנקאי, ולכן נגבית עמלה גבוהה כדי לכסות את עלויות ה\"הלוואה\" הזו, גם אם המשתמש משלם את החוב מיידית.\n*   **הפתרון כבר קיים:** נטען כי המנגנון שהמשתמש מחפש (העברת כספים ללא עמלות אחוזיות) כבר קיים ופועל בצורה של העברות ACH/צ'קים, ואין לצפות מכרטיסי האשראי לשנות את מודל הרווח שלהם.\n*   **הטבות הכרטיס מגיעות על חשבון הספק:** קיימת ביקורת על הניסיון לצבור \"נקודות\" או \"הטבות\" (Rewards) דרך כרטיס האשראי. נקודות אלו אינן מגיעות מ\"יש מאין\", אלא נגרעות ישירות מהרווח של הספק, ולכן ספקים רבים מסרבים לקבל כרטיסים או מגלגלים את העלות על הלקוח.\n*   **מתמטיקה של הפסד:** המגיבים מציינים כי גם אם הספק מוכן לקבל אשראי בתוספת תשלום (markup) של כ-3% לכיסוי העמלות, שווי ההטבות שהלקוח יקבל מהכרטיס יהיה כמעט תמיד נמוך יותר מהעמלה שישלם, מה שהופך את העסקה ללא משתלמת כלכלית.\n*   **השלכות על לוח הזמנים והאספקה:** מועברת המלצה פרקטית – \"אל תשחקו משחקים\" עם אמצעי התשלום כשהציוד טרם הגיע. עיכוב בביצוע העברה בנקאית ישירה לפי דרישת הספק עלול להוביל לעיכובים משמעותיים באספקה, שכן הספקים מצפים לתשלום המהיר והבטוח ביותר מבחינתם."
   },
   {
     "id": "1wazbgu",
@@ -167,100 +95,12 @@ window.dailyTrends = [
     ],
     "summary_he": "הכותב מבקש המלצות ושיטות להשקעה במתכות יקרות ובסיסיות דרך אפיקים שונים, כגון מסחר בערך המתכת, מניות של חברות כרייה או קרנות סל. הוא מתעניין בקריטריונים המנחים משקיעים בבחירת הכלי המתאים ובשיקולי התזמון להקצאת כספים בכל אחד מהתחומים הללו.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנושא השקעה בזהב ובמתכות, המציג 6 נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **העדפת זהב כסחורה על פני חברות כרייה:** חלק מהמשתמשים מעדיפים השקעה ישירה במחיר הזהב (כמו דרך קרן הסל BAR) כדי להימנע מהסיכונים הכרוכים בניהול עסק. לטענתם, בחברות כרייה קיים \"אופרייד\" ניהולי והצלחת ההשקעה תלויה ביכולת החברה להפיק מספיק זהב כדי לכסות את עלויותיה, בעוד שהשקעה בסחורה עצמה נקייה יותר.\n*   **חשיבות דמי הניהול:** קיימת העדפה לקרנות סל המחקות את מחיר הזהב ומציעות דמי ניהול נמוכים (Low expense ratio), מה שמאפשר חשיפה יעילה לנכס ללא שחיקה משמעותית של הרווחים.\n*   **זהב כנכס מאזן בתיק ההשקעות:** הזהב נתפס כנכס רזרבה עולמי המוחזק על ידי מדינות, ולכן הוא משמש ככלי אפקטיבי לאיזון החזקות של אגרות חוב (Bonds) בתוך תיקי פנסיה או השקעות (כמו IRA).\n*   **ניתוח פונדמנטלי של שוק המתכות:** חלק מהמשקיעים מקבלים החלטות על בסיס בחינת היצע, ביקוש ומחירי המתכת בשוק, ומעדיפים לנהל את השקעותיהם דרך קרנות בשל הפשטות והנוחות שבניהולן לעומת החזקה ישירה או בחירת מניות ספציפיות.\n*   **אסטרטגיית צבירה הדרגתית:** במקום לנסות \"לתזמן את השוק\" ולנחש תנודות מחירים בטווח הקצר, יש המעדיפים גישה של השקעה איטית ועקבית (DCA) לאורך זמן, תוך התמקדות במגמות ארוכות טווח.\n*   **סנטימנט של סיכון גבוה (YOLO):** לצד הגישות המחושבות, קיים גם סנטימנט קהילתי של הימורים בסיכון גבוה מאוד, שבו משקיעים בוחרים להשקיע את כל הונם בנכס אחד מתוך תקווה לרווח מהיר וחד, ללא התחשבות בפיזור סיכונים."
-  },
-  {
-    "id": "1waxhr5",
-    "title": "IRA vs. Taxable Account (Keeping the money in for 20 years).",
-    "url": "https://www.reddit.com/r/investing/comments/1waxhr5/ira_vs_taxable_account_keeping_the_money_in_for/",
-    "author": "Naive_Bat8216",
-    "score": 1,
-    "selftext": "If I have 500k to invest and will not touch the money until 20 years from now, am I better off putting that money in an IRA or taxable account? No dividend stocks. In both cases, I'll buy VTI or VOO. Put the money there and forget about it until 20 years when I start making withdrawals. \n\nAm I better off with the taxable account because it will tax my gains as capital gains instead of ordinary income (and my capital gains tax will be lower)? \n\nThanks! ",
-    "subreddit": "investing",
-    "created_utc": 1788893761,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Fwiw, VTI still pays dividends, so a taxable account isn't fully tax-deferred even if you never sell. Max the Roth IRA each year if eligible and invest the remainder in taxable now; a traditional IRA only wins if the upfront deduction and your tax rate in 20 years outweigh paying ordinary-income tax on withdrawals.",
-        "score": 1,
-        "author": "DanTaude599"
-      },
-      {
-        "body": "VTI has dividends, it's pretty hard to think of an ETF that has none.",
-        "score": 1,
-        "author": "whattheheckOO"
-      },
-      {
-        "body": "If your actual question is what's the benefit of Traditional IRAs, then you need to understand that the $500k that you have in hand was more than that before taxes. So if you had instead deferred taxes by contributing it to Traditional 401k or Traditional IRA, your future balance would be higher. And if the future tax rate is the same as the tax rate that you deferred now, that balance would get taxed down to the same amount. It will come out exactly the same if the tax rates were the same. The key here is understanding taxes and what they are for your situation so that you can strategize.",
-        "score": 1,
-        "author": "cdude"
-      }
-    ],
-    "summary_he": "הפוסט משווה בין השקעת 500 אלף דולר למשך 20 שנה בחשבון פרישה (IRA) לבין חשבון השקעות ממוסה (Taxable account), תוך התמקדות במדדי VTI או VOO. המשתמש תוהה האם עדיף להשקיע בחשבון רגיל בשל שיעורי המס הנמוכים יותר על רווחי הון, לעומת מיסוי המשיכות מחשבון IRA כהכנסה רגילה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מרכזיות המבטאות את דעות הקהילה והניתוחים הפיננסיים שהועלו:\n\n* **חלוקת דיבידנדים ב-VTI:** המגיבים מדגישים כי קרן הסל VTI מחלקת דיבידנדים. המשמעות היא שחשבון השקעות רגיל (Taxable Account) אינו חסין ממס באופן מלא, שכן המשקיע יחויב במס על הדיבידנדים הללו באופן שוטף, גם אם לא ימכור את יחידות הקרן.\n* **הקושי במציאת קרנות ללא דיבידנדים:** צוין כי קשה מאוד למצוא קרנות סל (ETFs) שאינן מחלקות דיבידנדים כלל, וזוהי תופעה רווחת בשוק שצריך לקחת בחשבון בעת תכנון מס.\n* **תיעדוף חשבונות פטורים ממס (Roth IRA):** קיימת המלצה ברורה למקסם קודם כל את ההפקדות השנתיות ל-Roth IRA (למי שזכאי לכך) לפני שפונים להשקעה בחשבון חייב במס, וזאת כדי ליהנות מהיתרונות של צמיחה פטורה ממס.\n* **שיקולי כדאיות ב-IRA מסורתי:** הכדאיות של חשבון IRA מסורתי (Traditional) נמדדת ביכולת של הניכוי המיידי ממס ושיעור המס הצפוי בעתיד לגבור על עלות תשלום מס הכנסה רגיל שיוטל על המשיכות בעוד עשרות שנים.\n* **יתרון ההשקעה ב\"ברוטו\":** נקודת מבט מרכזית היא שבחשבונות דחויי מס (כמו 401k או IRA מסורתי), המשקיע יכול להשקיע סכום כסף גדול יותר מלכתחילה (כסף לפני מס), מה שמאפשר צבירת ריבית דריבית על סכום בסיס גבוה יותר בהשוואה לכסף שכבר נוכה ממנו מס.\n* **תלות בשיעורי המס העתידיים:** הקהילה מציינת שאם שיעור המס בעת המשיכה יהיה זהה לשיעור המס הנוכחי, התוצאה הסופית של ההשקעה תהיה זהה מבחינה מתמטית בין האסטרטגיות השונות. לכן, המפתח הוא אסטרטגיה המבוססת על הערכת מצב המס האישי של המשקיע בעתיד."
-  },
-  {
-    "id": "1was7k7",
-    "title": "$GRRR Gorilla Technology begins execution of Yotta Project",
-    "url": "https://www.reddit.com/r/investing/comments/1was7k7/grrr_gorilla_technology_begins_execution_of_yotta/",
-    "author": "kerplunktard",
-    "score": 1,
-    "selftext": "$GRRR Gorilla Technology Group has announced commencement of it Yotta AI infrastructure programme as the company pivots into neocloud and reaffirms guidance for 2027 of $500m \n\nYotta part 1: 5000 GPUs & 640 servers to generate $500m revenue over 5 yrs\n\nYotta part 2: deployment of 21000 GPUs representing $2.5bn revenue over 5 yrs\n\n  \n[https://investors.gorilla-technology.com/gorilla-technology-moves-yotta-ai-infrastructure-programme-into-physical-execution/](https://investors.gorilla-technology.com/gorilla-technology-moves-yotta-ai-infrastructure-programme-into-physical-execution/)\n\nThe future is starting to look very bright for Gorilla Tech, Yotta is on top of their $2.5bn deal for the NeutraDC Batam data centre in Indonesia, initial operation targeted for Q4 2026 & the Thailand Korat 200MW Campus which has the potential to net up to $16bn in revenue over 5 years\n\nInsiders own 10% of the company so are aligned with shareholders",
-    "subreddit": "investing",
-    "created_utc": 1788882667,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "the 10% is close but the 20-F splits it differently. beneficial ownership table as of 20 march has all senior management and directors as a group at 2,129,717 shares, 7.7%, and the five percent or more holders row underneath just says N/A.\n\n\n\nthe rest of it is in the paragraph above the table. RSUs that dont vest within 60 days arent counted, and those would be roughly another 3.5%. some of those vest on market capitalisation targets rather than on time.\n\n\n\nso 7.7 in that table, and about 3.5 more that partly pays out if the share price gets there. still alignment, just a different kind of it.",
-        "score": 1,
-        "author": "Weak_Alternative_168"
-      },
-      {
-        "body": "I got tricked into buying this shit a few months ago, don’t buy this crap guys 😭",
-        "score": 1,
-        "author": "Moddingspreee"
-      },
-      {
-        "body": "$500m from 5000 GPUs? AMD and NVIDIA aren’t even pulling those numbers consistently. Show me the contracts or this is just vaporware.",
-        "score": 1,
-        "author": "Senior-Community-767"
-      }
-    ],
-    "summary_he": "חברת Gorilla Technology ($GRRR) הודיעה על תחילת היישום של פרויקט Yotta בתחום תשתיות ה-AI, הכולל פריסה נרחבת של אלפי מעבדים גרפיים (GPUs) וצפוי להניב הכנסות של מיליארדי דולרים בחמש השנים הקרובות. החברה אישרה מחדש את תחזיות הצמיחה שלה לשנת 2027 וממשיכה לקדם פרויקטים אסטרטגיים נוספים במזרח הרחוק, המציבים אותה כשחקנית משמעותית בתחום ה-Neocloud.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום של הדיון ב-Reddit, המציג 6 נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **דיוק בנתוני הבעלות:** לפי ניתוח של טפסי ה-20-F (דיווח שנתי לרשות ניירות ערך), שיעור האחזקה של ההנהלה הבכירה והדירקטורים עומד על 7.7%, נתון שמתקן הערכות קודמות שדיברו על 10%.\n*   **מניות חסומות (RSUs) ותנאי הבשלה:** קיימות מניות נוספות בשווי של כ-3.5% שאינן נכללות כרגע בטבלאות הבעלות המיידית, שכן הן מותנות ביעדים עתידיים ואינן מבשילות בטווח של 60 יום.\n*   **הלימה בין ההנהלה לבעלי המניות:** צוין כי חלק מהתגמול של המנהלים מבוסס על הגעה ליעדי שווי שוק (Market Cap) ולא רק על פזם בחברה, מה שיוצר תמריץ להעלאת ערך המניה.\n*   **אזהרת משקיעים וסנטימנט שלילי:** אחד המגיבים הביע חרטה עמוקה על רכישת המניה, טען כי \"רומה\" לקנות אותה לפני מספר חודשים, והזהיר משתמשים אחרים שלא להתקרב להשקעה זו.\n*   **ספקנות לגבי תחזיות הכנסה:** הועלה ספק כבד לגבי היכולת לייצר הכנסות של 500 מיליון דולר משימוש ב-5,000 מעבדים גרפיים (GPUs) בלבד, תוך השוואה לחברות ענק כמו NVIDIA ו-AMD שלא תמיד מציגות יחס כזה.\n*   **דרישה להוכחות ומניעת \"Vaporware\":** קיימת דרישה מצד הקהילה להצגת חוזים חתומים ומוחשיים; ללא הוכחות כאלו, הפרויקט נתפס כ\"Vaporware\" (מוצר שמוכרז אך אינו קיים במציאות או אינו פונקציונלי)."
-  },
-  {
-    "id": "1wapuh5",
-    "title": "What would you guys do with $45k sitting in the bank?",
-    "url": "https://www.reddit.com/r/investing/comments/1wapuh5/what_would_you_guys_do_with_45k_sitting_in_the/",
-    "author": "introvertliving",
-    "score": 1,
-    "selftext": "I currently have about $20k invested in stocks and $45k sitting in my bank account in cash.\n\nI make around $5,200/month after tax, 401k, and health insurance. My monthly expenses are roughly $3k ($1,500 mortgage, $700 car payment, and $800 other expenses).\n\nI don’t have any big purchases coming up, so I’m starting to feel like I’m just letting this money sit there for no reason.  \nWhat would you guys do with the $45k?",
-    "subreddit": "investing",
-    "created_utc": 1788877437,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Borrowing money on a depreciating vehicle lol okay",
-        "score": 1,
-        "author": "East-Technology-7451"
-      },
-      {
-        "body": "Your post has been removed because it is a common beginner topic. We get too many of these topics every day and to prevent them from swamping the front page, we are removing main threads of this kind.\n\nWe also remove such posts because they can attract spam and bad faith comments. If you receive DM's or un-solicitated offers, please be aware that there are a lot of financial scammers on social media. \n  \nYou are welcome to repost your question in the [daily discussion thread](https://www.reddit.com/r/investing/about/sticky?num=1). \n  \nIf you have any issue with this removal, please contact the moderators via modmail. Thank you.\n\n----\n\nIf you are new to investing, you can find curated resources in the r/investing wiki for [Getting Started here](https://www.reddit.com/r/investing/wiki/index/gettingstarted/). \n\nThe reading list in the wiki and FAQ has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - [Reading List](https://www.reddit.com/r/investing/wiki/readinglist)\n\nPodcasts and videos can be found in the wiki here - [Podcasts and videos](https://www.reddit.com/r/investing/wiki/medialist)\n\nIf you know nothing about the capital markets - the Getting Started section at the SEC educational site can be a good place to start - [investor.gov](https://investor.gov) \\- there are also short 30 second videos on basics. The SEC (Securities and Exchange Commission) is a US regulator with a focus to protect US investors through regulatory oversight of the securities markets.\n\nThe FINRA education site at [FINRA Education](https://www.finra.org/investors/learn-to-invest) also contains numerous free courses and educational materials. FINRA is a not-for-profit SRO (self regulatory organization) which is self-funded by it's members which are broker-dealers. It works under the supervision of the SEC with a mandate to protect the investing public against fraud and bad practice.\n\nFor formal educational materials, several colleges and universities make their course work available for free. \n\nIf want to learn about the financial markets - an older but reasonably relevant course is [Financial Markets (2011) - Yale University](https://www.youtube.com/playlist?list=PL8FB14A2200B87185) This is the introduction to financial markets course taught by Prof. Shiller from Yale. Prof Shiller won the Nobel prize in economics in 2013.\n\nAnother relavant course from MIT is a lecture series on Finance Theory taught by Prof Andrew Lo - [Financial Theory (2008) - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW).\n\nA more current course can be found at NYU Stern School of Business by Prof Aswath Damodaran - [Corporate Finance Spring 2019](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastcfspr19.htm). Prof Damodaran offers the latest materials and webcast lectures to this class here - https://pages.stern.nyu.edu/~adamodar/New_Home_Page/corpfin.html",
-        "score": 1,
-        "author": "investing-ModTeam"
-      },
-      {
-        "body": "VOO and chill. Look at the YTD, 1 year, and 5 year returns on it. Since you don’t have any upcoming expected purchases, this is best ",
-        "score": 1,
-        "author": "alphalegend91"
-      }
-    ],
-    "summary_he": "לכותב הפוסט יש 45,000 דולר במזומן המונחים בחשבון הבנק, בנוסף לתיק השקעות והכנסה חודשית יציבה שעולה משמעותית על הוצאותיו. מאחר שאין לו רכישות גדולות מתוכננות באופק, הוא מרגיש שהכסף אינו מנוצל ומבקש המלצות כיצד להשקיע או להפעיל אותו בצורה חכמה יותר.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שנכתבו, הכולל 6 נקודות מבט וסנטימנטים שונים מהקהילה:\n\n*   **ביקורת על נטילת הלוואות לנכסים מתכלים:** אחד המגיבים מביע לעג וספקנות כלפי הרעיון של לקיחת הלוואה עבור רכישת רכב, בטענה שמדובר בנכס שערכו יורד במהירות (Depreciating vehicle), וזו נחשבת טעות כלכלית.\n*   **שמירה על איכות התוכן בקהילה:** מנהלי הקהילה מקפידים להסיר פוסטים העוסקים בנושאים בסיסיים שחוזרים על עצמם מדי יום, זאת כדי למנוע \"הצפה\" של העמוד הראשי ולשמור על רמת דיון גבוהה.\n*   **אזהרה מפני הונאות פיננסיות:** הקהילה מתריעה בפני משקיעים מתחילים כי פרסום שאלות בסיסיות עלול למשוך נוכלים שינסו ליצור קשר בהודעות פרטיות (DMs) עם הצעות מפוקפקות.\n*   **הכוונה למקורות למידה אקדמיים ורשמיים:** קיימת הערכה רבה ללמידה עצמית מבוססת; הקהילה ממליצה על קורסים חינמיים של אוניברסיטאות מובילות (כמו ייל, MIT ו-NYU) ועל משאבים של גופים רגולטוריים כמו ה-SEC ו-FINRA.\n*   **העדפת אסטרטגיית השקעה פסיבית (\"VOO and chill\"):** סנטימנט חזק בקהילה תומך בהשקעה פשוטה במדד ה-S&P 500 (דרך קרן הסל VOO) כחלופה הטובה ביותר עבור רוב האנשים, תוך הסתמכות על ביצועי העבר לטווח הארוך.\n*   **חשיבות אופק ההשקעה:** הדגשה כי בחירת אפיק ההשקעה צריכה להתבסס על הצרכים העתידיים; אם אין צורך במזומן בטווח הקרוב, עדיף להתמקד בנכסים עם פוטנציאל צמיחה רב-שנתי במקום להשאיר את הכסף ללא שימוש."
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנושא השקעה בזהב ובמתכות, המציג 6 נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **העדפת זהב כסחורה על פני חברות כרייה:** חלק מהמשתמשים מעדיפים השקעה ישירה במחיר הזהב (כמו דרך קרן הסל BAR) כדי להימנע מהסיכונים הכרוכים בניהול עסק. לטענתם, בחברות כרייה קיים \"אופרייד\" ניהולי והצלחת ההשקעה תלויה ביכולת החברה להפיק מספיק זהב כדי לכסות את עלויותיה, בעוד שהשקעה בסחורה עצמה נקייה יותר.\n*   **חשיבות דמי הניהול:** קיימת העדפה לקרנות סל המחקות את מחיר הזהב ומציעות דמי ניהול נמוכים (Low expense ratio), מה שמאפשר חשיפה יעילה לנכס ללא שחיקה משמעותית של הרווחים.\n*   **זהב כנכס מאזן בתיק ההשקעות:** הזהב נתפס כנכס רזרבה עולמי המוחזק על ידי מדינות, ולכן הוא משמש ככלי אפקטיבי לאיזון החזקות של אגרות חוב (Bonds) בתוך תיקי פנסיה או השקעות (כמו IRA).\n*   **ניתוח פונדמנטלי של שוק המתכות:** חלק מהמשקיעים מקבלים החלטות על בסיס בחינת היצע, ביקוש ומחירי המתכת בשוק, ומעדיפים לנהל את השקעותיהם דרך קרנות בשל הפשטות והנוחות שבניהולן לעומת החזקה ישירה או בחירת מניות ספציפיות.\n*   **אסטרטגיית צבירה הדרגתית:** במקום לנסות \"לתזמן את השוק\" ולנחש תנודות מחירים בטווח הקצר, יש המעדיפים גישה של השקעה איטית ועקבית (DCA) לאורך זמן, תוך התמקדות במגמות ארוכות טווח.\n*   **סנטימנט של סיכון גבוה (YOLO):** לצד הגישות המחושבות, קיים גם סנטימנט קהילתי של הימורים בסיכון גבוה מאוד, שבו משקיעים בוחרים להשקיע את כל הונם בנכס אחד מתוך תקווה לרווח מהיר וחד, ללא התחשבות בפיזור סיכונים.",
+    "dateString": "2026-09-09",
+    "savedAt": {
+      "_seconds": 1788951974,
+      "_nanoseconds": 436000000
+    }
   },
   {
     "id": "1wangzt",
@@ -291,73 +131,264 @@ window.dailyTrends = [
     ],
     "summary_he": "הכותב מציע אסטרטגיית השקעה מבוססת יעדים במקום הקצאת נכסים אוטומטית לפי גיל, לפיה יש להחזיק במניות רק את הסכום המינימלי הנדרש להשגת היעד הכלכלי (לפי צפי תשואה שמרני). רווחים עודפים מעבר למתווה המתוכנן מועברים לאג\"ח או למזומן, מה שמאפשר להפחית סיכונים בצורה מותאמת אישית ולהבטיח את היעד תוך ניצול תקופות של גאות בשוק לגידור הפסדים עתידיים.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן ניתוח וסיכום של נקודות המבט העיקריות שעלו בדיון ב-Reddit בנושא אסטרטגיות השקעה, הקצאת נכסים ותכנון פרישה:\n\n* **ביקורת על \"כלל האצבע\" המבוסס על גיל:** עלתה טענה נחרצת נגד התפיסה הרווחת בפורומים כלכליים לפיה הקצאת אגרות חוב (אג\"ח) צריכה להיקבע לפי גיל המשקיע. נטען כי בתנאי השוק הנוכחיים, אג\"ח עשויות להניב תשואה גבוהה יותר ממניות ב-10 עד 15 השנים הקרובות, ללא קשר לגילו של המשקיע.\n* **אזהרה מפני אופטימיות יתרה בנוגע לתשואות:** הקהילה מזהירה מפני הסתמכות על מודלים המניחים תשואה קבועה (כמו 8% נומינלי). הובאו דוגמאות היסטוריות (כמו התקופה שבין 1969 ל-1984) שבהן התשואה הריאלית הייתה כמעט אפסית במשך 15 שנה – פרק זמן שיכול לשבש לחלוטין תוכנית פרישה המבוססת על הנחות ליניאריות.\n* **הבחנה בין סיכון לתשואה פוטנציאלית:** הודגש כי הקשר בין סיכון לתשואה אינו מובטח. סיכון גבוה יותר משמעו \"פוטנציאל\" לתשואה גבוהה יותר, אך הוא גם טומן בחובו סכנה לקריסת התיק בנקודות זמן קריטיות. נטען כי תוכנית רצינית חייבת לקחת בחשבון את הערכות השווי של השוק ואת הזמן שנדרש להתאוששות ממשברים (כמו המשבר של 2008).\n* **הקצאת נכסים מבוססת יעדים ולא גיל:** עלתה דעה כי עדיף לקשור את תמהיל התיק להשגת יעד כספי ספציפי (\"Funded Goal\") ולטווח הזמן שנותר עד אליו, במקום להיצמד לכללים קשיחים של גיל. ככל שמתקרבים ליעד הכספי, הגיוני להעביר בהדרגה את התיק למסלול שמרני יותר (למשל מ-100% מניות ל-60/40).\n* **חשיבות המשמעת והתכנון הכתוב:** הוצע להשתמש באסטרטגיית הקצאה כתובה מראש ולא לפעול לפי דחפים רגעיים כאשר השוק נראה \"גבוה\". שימוש באיזון מחדש (Rebalancing) שנתי, במיוחד בתוך חשבונות עם הטבות מס, נחשב ליעיל וקל יותר ליישום מאשר ניסיונות לחזות את מגמות השוק.\n* **הצורך ב\"כרית ביטחון\" נזילה:** כדי להימנע מ\"תזמון שוק\" כפוי בעת ירידות, הוצע להחזיק מאגר מזומנים או אג\"ח לטווח קצר שיספיקו לכיסוי השנים הראשונות של הפרישה. גישה זו מונעת מהמשקיע את הצורך למכור מניות בהפסד בזמן קריסה בשוק (כמו ירידה של 40% במדדים)."
+    "comments_summary_he": "להלן ניתוח וסיכום של נקודות המבט העיקריות שעלו בדיון ב-Reddit בנושא אסטרטגיות השקעה, הקצאת נכסים ותכנון פרישה:\n\n* **ביקורת על \"כלל האצבע\" המבוסס על גיל:** עלתה טענה נחרצת נגד התפיסה הרווחת בפורומים כלכליים לפיה הקצאת אגרות חוב (אג\"ח) צריכה להיקבע לפי גיל המשקיע. נטען כי בתנאי השוק הנוכחיים, אג\"ח עשויות להניב תשואה גבוהה יותר ממניות ב-10 עד 15 השנים הקרובות, ללא קשר לגילו של המשקיע.\n* **אזהרה מפני אופטימיות יתרה בנוגע לתשואות:** הקהילה מזהירה מפני הסתמכות על מודלים המניחים תשואה קבועה (כמו 8% נומינלי). הובאו דוגמאות היסטוריות (כמו התקופה שבין 1969 ל-1984) שבהן התשואה הריאלית הייתה כמעט אפסית במשך 15 שנה – פרק זמן שיכול לשבש לחלוטין תוכנית פרישה המבוססת על הנחות ליניאריות.\n* **הבחנה בין סיכון לתשואה פוטנציאלית:** הודגש כי הקשר בין סיכון לתשואה אינו מובטח. סיכון גבוה יותר משמעו \"פוטנציאל\" לתשואה גבוהה יותר, אך הוא גם טומן בחובו סכנה לקריסת התיק בנקודות זמן קריטיות. נטען כי תוכנית רצינית חייבת לקחת בחשבון את הערכות השווי של השוק ואת הזמן שנדרש להתאוששות ממשברים (כמו המשבר של 2008).\n* **הקצאת נכסים מבוססת יעדים ולא גיל:** עלתה דעה כי עדיף לקשור את תמהיל התיק להשגת יעד כספי ספציפי (\"Funded Goal\") ולטווח הזמן שנותר עד אליו, במקום להיצמד לכללים קשיחים של גיל. ככל שמתקרבים ליעד הכספי, הגיוני להעביר בהדרגה את התיק למסלול שמרני יותר (למשל מ-100% מניות ל-60/40).\n* **חשיבות המשמעת והתכנון הכתוב:** הוצע להשתמש באסטרטגיית הקצאה כתובה מראש ולא לפעול לפי דחפים רגעיים כאשר השוק נראה \"גבוה\". שימוש באיזון מחדש (Rebalancing) שנתי, במיוחד בתוך חשבונות עם הטבות מס, נחשב ליעיל וקל יותר ליישום מאשר ניסיונות לחזות את מגמות השוק.\n* **הצורך ב\"כרית ביטחון\" נזילה:** כדי להימנע מ\"תזמון שוק\" כפוי בעת ירידות, הוצע להחזיק מאגר מזומנים או אג\"ח לטווח קצר שיספיקו לכיסוי השנים הראשונות של הפרישה. גישה זו מונעת מהמשקיע את הצורך למכור מניות בהפסד בזמן קריסה בשוק (כמו ירידה של 40% במדדים).",
+    "dateString": "2026-09-09",
+    "savedAt": {
+      "_seconds": 1788952039,
+      "_nanoseconds": 84000000
+    }
   },
   {
-    "id": "1wancrb",
-    "title": "YELP's Last Chance to Prove Themselves: Tomorrow the Incompetent Management will Speak",
-    "url": "https://www.reddit.com/r/investing/comments/1wancrb/yelps_last_chance_to_prove_themselves_tomorrow/",
-    "author": "EntrepreneurSea5781",
-    "score": 1,
-    "selftext": "Let's see if Yelp leadership can muster some vitality. Yelp is at Goldman’s Communacopia conference tomorrow at 3:05 PM Pacific. [Yelp’s announcement](https://finance.yahoo.com/technology/articles/yelp-participate-goldman-sachs-communacopia-200500791.html?utm_source=chatgpt.com) Last year Eric Sheridan, Goldman’s Internet analyst, interviewed Stoppelman and Schwarzbach. Tomorrow’s interviewer hasn’t been announced nor has Yelp's interviewees. Last year is worth reading because it shows how useless these softball, low-IQ/energy  events can become: Sheridan asks sub-rudimentary questions strategy, margins and capital allocation and Schwarzbach lazily answers “ROI, ROI, ROI,” talk about how pleased they are with the shrinking share count, and move on. [2025 Goldman transcript](https://www.investing.com/news/transcripts/yelp-at-goldman-sachs-conference-embracing-ai-for-growth-93CH-4232474?utm_source=chatgpt.com). He sounds like he should be on Southpark. \n\nThe problem is Schwarzbach has been giving essentially the same answer while the business and stock deteriorate. In Q1 he blamed March advertiser weakness on the Middle East conflict. [Q1 transcript](https://www.fool.com/earnings/call-transcripts/2026/05/08/yelp-yelp-q1-2026-earnings-transcript/?utm_source=chatgpt.com) At KeyBanc last month it was the “local physical economy,” inflation, labor and material costs, while RR&O was down 10% and Services was flat. [KeyBanc transcript](https://www.investing.com/news/transcripts/yelp-at-technology-leadership-forum-2026-ai-and-licensing-lift-93CH-4852597?utm_source=chatgpt.com) None of these answers are crazy individually. Taken together they are incredibly low energy: there is always another external explanation and almost no discussion of whether Yelp itself has simply executed badly. He is unaware that his egregious salary comes with high expectations. \n\nThat’s what I hope Goldman has the guts to ask tomorrow Yelp spent enormous amounts buying back stock and shrinking the float while the core ad business stalled and the remaining shares got crushed. At what point does management admit that this may be an execution problem rather than inflation, restaurants, advertisers, geopolitics or whatever happens to be happening that quarter?\n\nIf tomorrow is another half hour of AI, “disciplined capital allocation” and macro excuses, I’m not sure what the point of these investor conferences is and the board is too glassy-eyed sipping Dom to even ask if management plays a role in a company. ",
-    "subreddit": "investing",
-    "created_utc": 1788871343,
+    "id": "1wayvoh",
+    "title": "Drones have been a little quieter lately, but revenue keeps increasing",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1wayvoh/drones_have_been_a_little_quieter_lately_but/",
+    "author": "Halo-nm",
+    "score": 13,
+    "selftext": "It feels like some drone stocks (in this case ONDS) have cooled off a bit lately, so I figured it was worth taking a step back and looking at the bigger picture.\n\nOver the last several quarters, revenue has been trending sharply higher, with the latest quarter coming in much higher.\n\nObviously, revenue growth alone doesn't make a stock a winner, and there are still some pretty significant profitability/cash-flow concerns with most of these types of companies. But with the defense/drone business developments and long-term deals we've seen recently, it's definitely still worth remembering where we are heading.\n\nCurious how others are looking at ONDS and other similar drone stocks here.",
+    "subreddit": "StockMarket",
+    "created_utc": 1788896670,
+    "thumbnail": "https://preview.redd.it/j90bqd86ocoh1.png?width=140&height=116&auto=webp&s=fbae48869264f6c9696a6ce1fb1de1c2df4b73e7",
+    "top_comments": [
+      {
+        "body": "I’m looking at ONDS as a garbage meme stock with heavy repeated dilution.  With continued dilution,  I’ll have many buying opportunities at low prices if I run out of better places to invest ",
+        "score": 5,
+        "author": "AnonymousFirm"
+      },
+      {
+        "body": "Good to see Reddit has come full circle on this stock. Having been around for the last 4-5 years on it, it was an awesome ride up to $15 from around $1 but I didn’t like the fact that it became some meme-garbage. Seems like the tree has been sufficiently shaken out and the haters are back in full force. Great time to buy imo. ",
+        "score": 4,
+        "author": "PrairieDogger69"
+      },
+      {
+        "body": "I guess it’s only a “shame” if you bought at $15.  it’s just a stock.  ",
+        "score": 1,
+        "author": "AnonymousFirm"
+      }
+    ],
+    "summary_he": "למרות שהעניין במניות רחפנים כמו ONDS נחלש לאחרונה, החברות מציגות צמיחה חדה בהכנסות לאורך הרבעונים האחרונים. הכותב מציין כי על אף החששות בנוגע לרווחיות ותזרים מזומנים, חוזים ארוכי טווח בתחום הביטחוני מצביעים על פוטנציאל צמיחה עתידי במגזר.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit בנוגע למניית ONDS, הכולל 6 נקודות מבט וסנטימנטים שונים שעלו מהתגובות:\n\n*   **תיוג כ\"מניית מם\" (Meme Stock):** קיימת תפיסה בקרב חלק מהגולשים שמניית ONDS היא \"מניית זבל\" המונעת מרעש חברתי (meme-garbage) ולא מערך פונדמנטלי מוצק.\n*   **חשש מדילול מניות:** אחד הטיעונים המרכזיים נגד החברה הוא המדיניות של דילול מניות כבד וחוזר, מה שנתפס כפגיעה בערך עבור מחזיקי המניות הנוכחיים.\n*   **המתנה למחיר כניסה נמוך:** ישנם משקיעים שרואים בדילול המתמשך הזדמנות; הם מתכננים להמתין לירידות מחירים נוספות כדי לרכוש את המניה במחיר נמוך מאוד, במידה ולא ימצאו הזדמנויות השקעה טובות יותר.\n*   **ניתוח מחזוריות הסנטימנט:** חלק מהקהילה מציין שהסנטימנט סביב המניה השלים \"סיבוב מלא\" – מעלייה מטאורית (מ-1$ ל-15$) ועד למצב הנוכחי שבו השנאה למניה חזרה לשיאה.\n*   **איתות קנייה הפוך (Contrarian View):** יש המאמינים כי דווקא העובדה שה\"שונאים\" (haters) חזרו להשמיע קול ושהמשקיעים ה\"חלשים\" יצאו מהשוק (\"ניעור העץ\"), מעידה על כך שזהו זמן מצוין לקנייה.\n*   **פרספקטיבה רגשית ופיננסית:** קיימת גישה הגורסת כי אין טעם ברגשות אשם או \"בושה\" בנוגע למניה; ההפסד הוא יחסי לנקודת הכניסה (בעיקר עבור אלו שקנו בשיא של 15$), ובסופו של דבר מדובר בכלי פיננסי בלבד ולא מעבר לכך."
+  },
+  {
+    "id": "1war2p8",
+    "title": "How do you actually get your first clients when you’ve already tried everything?",
+    "url": "https://www.reddit.com/r/business/comments/1war2p8/how_do_you_actually_get_your_first_clients_when/",
+    "author": "TowerPuzzleheaded887",
+    "score": 3,
+    "selftext": "I’m curious how people approached the very beginning when they were starting from zero.\n\nI’ve spent a lot of time trying different ways to get conversations going, but the results have been pretty inconsistent. That made me wonder whether the real issue was the approach itself, or whether I was simply trying to solve the wrong problem for the wrong people.\n\nFor those who have been through this stage, what eventually made things start working for you?\n\nDid you change what you were offering, narrow your focus, rely more on introductions, or simply keep having conversations until you understood what people actually wanted?\n\nI’d be interested to hear what changed things for you.",
+    "subreddit": "business",
+    "created_utc": 1788880154,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Your post has been removed because it's a low effort post. \n\nPosts must either share investment ideas and insights or ask thoughtful questions. \n\nWe are also not a financial news monitoring subreddit so a regurgitation of a news article without context are removed, including creating duplicate posts on the same topic. \n\nAdditional guidelines can be found in the wiki here - https://www.reddit.com/r/investing/wiki/index/rules\n\nIf you have any issue with this removal, please contact the moderators via modmail. Thank you.",
+        "body": "I've seen it firsthand like once you zero in on the ones who are really suffering the conversations become way more genuine and productive",
+        "score": 1,
+        "author": "hcirodov"
+      },
+      {
+        "body": "Lol, gardeners and house managers - that's the rich rich peeps I guess...",
+        "score": 1,
+        "author": "xakypoo"
+      },
+      {
+        "body": "Small house keeping business.   \nFree consultations and leaving flyers everywhere. Then after about 5 years of gathering strong repeat customers, word of mouth was enough to keep it going when people move.  \nAlso alliances with gardeners and house managers.  ",
+        "score": 1,
+        "author": "Long_Yak_9397"
+      }
+    ],
+    "summary_he": "הפוסט עוסק באתגר של השגת לקוחות ראשונים מאפס כאשר הניסיונות המוקדמים אינם מניבים תוצאות עקביות. הכותב תוהה האם הבעיה טמונה בשיטת הפנייה או בהתאמה לקהל היעד, ומבקש מאחרים לשתף מהו השינוי הספציפי שהוביל בסופו של דבר לפריצת הדרך שלהם.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה:\n\n*   **אסטרטגיות שיווק ראשוניות:** כדי להקים עסק קטן לשירותי משק בית, יש צורך במאמץ אקטיבי בשטח הכולל מתן ייעוץ ללא תשלום והפצת פליירים בכל מקום כדי לייצר חשיפה ראשונית.\n*   **חשיבות ההתמדה וצבירת וותק:** בניית עסק יציב המבוסס על לקוחות חוזרים היא תהליך ארוך טווח; נדרשות כחמש שנים של עבודה עקבית לפני שהעסק מצליח להחזיק את עצמו באופן אורגני.\n*   **כוחו של הפרסום \"מפה לאוזן\":** הקהילה מדגישה כי המלצות של לקוחות הן המפתח להישרדות העסק לאורך זמן, במיוחד כאשר לקוחות עוברים דירה ומעבירים את השמועה הלאה.\n*   **נטוורקינג ושיתופי פעולה אסטרטגיים:** יצירת בריתות עם נותני שירות משלימים, כגון גננים ומנהלי משק בית, מהווה כלי יעיל להגעה לקהלי יעד רלוונטיים ולהרחבת המעגל העסקי.\n*   **תפיסת עושר ומעמד חברתי:** קיים סנטימנט בקהילה המזהה העסקת צוות נרחב (כמו גננים ומנהלי משק בית אישיים) כסממן מובהק לעושר קיצוני (\"העשירים באמת\"), מה שמעיד על פלח השוק שאליו שואפים עסקים מסוימים להגיע.\n*   **ערך האמפתיה והחיבור האנושי:** כאשר נותן השירות מתמקד בלקוחות שבאמת זקוקים לעזרה או חווים קושי (\"סובלים\"), נוצר קשר כנה ופרודוקטיבי יותר, מה שהופך את האינטראקציה העסקית למשמעותית ואפקטיבית יותר עבור שני הצדדים."
+  },
+  {
+    "id": "1wbys06",
+    "title": "RDDT price action has been disappointing, but the business keeps improving",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1wbys06/rddt_price_action_has_been_disappointing_but_the/",
+    "author": "Halo-nm",
+    "score": 2,
+    "selftext": "Price action has definitely been disappointing lately, but I was looking at the bigger picture and was surprised by how much RDDT has improved over the past year.\n\nRevenue, profitability, and cash flow are all moving in a much better direction, while the longer-term growth story still looks pretty interesting.\n\nThe biggest thing I'm watching is whether the continued improvement in the business eventually translates into the stock price. The concerns around U.S. user growth are fair, but I'm not convinced they're enough on their own to derail the broader story.\n\nCurious how others are looking at the disconnect between the business performance and the recent price action.",
+    "subreddit": "StockMarket",
+    "created_utc": 1788988932,
+    "thumbnail": "https://preview.redd.it/y063te7jakoh1.png?width=140&height=140&crop=1:1,smart&auto=webp&s=6924f6b3cfeaa2c137d932554eae0a312573fa7d",
+    "top_comments": [
+      {
+        "body": "If theres a 10% drop from here im back in, it does seem like its nearing matching fb w active users (need to monetize)",
+        "score": 1,
+        "author": "bexley831"
+      },
+      {
+        "body": "From my memory of the earnings report:\n\nU.S. daily users actually slipped quarter-over-quarter and declined YoY.  Even though their ARPU, average revenue per user increased substantially.\n\nThere are also major concerns about Google and AI results gating Reddit links unfavorably.",
+        "score": 1,
+        "author": "Si1verange1"
+      },
+      {
+        "body": "I don't think institutions are buying after hours lol",
+        "score": 1,
+        "author": "pab_guy"
+      }
+    ],
+    "summary_he": "למרות האכזבה ממחיר המניה של רדיט (RDDT) לאחרונה, הכותב מציין כי המדדים העסקיים של החברה, כמו הכנסות ורווחיות, מציגים שיפור משמעותי בשנה האחרונה. הוא נותר אופטימי לגבי פוטנציאל הצמיחה לטווח ארוך ותוהה מתי השיפור בביצועי החברה יתבטא סוף סוף במחיר המניה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המובילות בשרשור:\n\n*   **אסטרטגיית השקעה ומחירי כניסה:** קיים סנטימנט של המתנה לירידה בערך המניה; משקיעים מסוימים מציינים כי יחזרו להשקיע רק במידה ותתרחש ירידה של כ-10% מהמחיר הנוכחי.\n*   **פוטנציאל מול פייסבוק והצורך במונטיזציה:** בקרב הקהילה ישנה תחושה שמספר המשתמשים הפעילים של רדיט מתקרב לזה של פייסבוק, אך מודגש הצורך הקריטי של החברה לשפר את היכולת להפיק רווחים (מונטיזציה) מבסיס משתמשים זה.\n*   **מגמות מעורבות בנתוני המשתמשים:** מהדוחות הכספיים עולה תמונה מורכבת – בעוד שמספר המשתמשים היומיים בארה\"ב חווה נסיגה גם בהשוואה לרבעון הקודם וגם בהשוואה שנתית, החברה מצליחה להגדיל את בסיס המשתמשים הכולל.\n*   **שיפור ברווחיות פר משתמש (ARPU):** למרות הירידה בכמות המשתמשים בנתחים מסוימים, נרשמה עלייה משמעותית בהכנסה הממוצעת מכל משתמש, מה שמעיד על שיפור ביעילות העסקית.\n*   **חשש מהשפעת הבינה המלאכותית וגוגל:** קיימת דאגה מהותית בנוגע לעתיד התנועה לאתר; משקיעים חוששים שגוגל וכלי בינה מלאכותית (AI) יציגו את תוצאות החיפוש בצורה שתחסום או תצמצם את הגישה הישירה לקישורים מרדיט.\n*   **ספקנות לגבי זהות הקונים במסחר המאוחר:** עולה טענה המטילה ספק בכך שהעליות שנרשמו במסחר שלאחר שעות הפעילות (After Hours) נובעות מרכישות של גופים מוסדיים גדולים."
+  },
+  {
+    "id": "1wbkp1r",
+    "title": "Whats the latest AI lead research trends in finance?",
+    "url": "https://www.reddit.com/r/finance/comments/1wbkp1r/whats_the_latest_ai_lead_research_trends_in/",
+    "author": "angz18",
+    "score": 1,
+    "selftext": "Couple of years ago RAG system brought a lot of advancements to investment research in a way that it made searching and summarising information really quick.\n\nWondering what has been the latest AI concept in play?",
+    "subreddit": "finance",
+    "created_utc": 1788958235,
+    "thumbnail": "https://preview.redd.it/xgeg739brhoh1.jpeg?width=140&height=105&auto=webp&s=6063ebd74d54427aeb200be90bd5f02f681b32f6",
+    "top_comments": [
+      {
+        "body": "To accelerate research and development of traditional ML pipelines. Similar to how LLMs had rapidly changed how people approach writing code, but code is still code. ",
+        "score": 1,
+        "author": "Chuu"
+      }
+    ],
+    "summary_he": "הפוסט דן במגמות העדכניות של שימוש בבינה מלאכותית לצורך מחקר פיננסי. הכותב מציין כי בעוד שמערכות RAG שיפרו משמעותית את המהירות של חיפוש וסיכום מידע בשנים האחרונות, הוא מבקש לדעת מהם הקונספטים הטכנולוגיים החדשים ביותר שנכנסו לשימוש בתחום כיום.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון (המבוסס על התגובה שסיפקת) המציג 6 נקודות מבט וסנטימנטים מרכזיים שעלו ממנה:\n\n*   **האצת תהליכי מחקר ופיתוח (R&D):** התייחסות לכלים החדשים כאמצעי לזירוז משמעותי של שלבי הפיתוח במערכות למידת מכונה (ML) מסורתיות, מה שמאפשר הגעה לתוצאות בזמן קצר יותר.\n*   **שינוי בפרדיגמת העבודה:** קיימת הבנה שכלים מבוססי AI משנים את הדרך שבה אנשי מקצוע ניגשים למשימות תכנות ופיתוח, בדומה למהפכה שחוללו מודלי שפה גדולים (LLMs) בתחום כתיבת הקוד.\n*   **המשכיות ויציבות היסודות:** למרות השינוי בשיטות העבודה, מובע הסנטימנט ש\"קוד נשאר קוד\" – כלומר, הטכנולוגיה משנה את ה*איך*, אך היסודות והתוצרים הסופיים של עולם התכנות נותרים דומים במהותם.\n*   **ייעול של \"צנרת\" הנתונים (Pipelines):** דגש על כך שהשיפור אינו רק בכתיבת שורות קוד בודדות, אלא בייעול המערכת השלמה של למידת המכונה, מקצה לקצה.\n*   **השוואה בין עולם ה-LLM ל-ML מסורתי:** הבעת דעה שההשפעה שראינו בתחום ה-Generative AI על מתכנתים צפויה להשתכפל כעת גם עבור חוקרי נתונים ומפתחי אלגוריתמים קלאסיים.\n*   **הטכנולוגיה כזרז (Enabler) ולא כתחליף:** עולה התחושה שהכלים החדשים נועדו לתמוך במומחים ולא להחליף את הצורך בהבנה עמוקה של הקוד והמערכות, שכן המהות המקצועית נשמרת."
+  },
+  {
+    "id": "1wcf85q",
+    "title": "Big Tech can afford the AI boom. Can everyone financing it?",
+    "url": "https://www.reddit.com/r/investing/comments/1wcf85q/big_tech_can_afford_the_ai_boom_can_everyone/",
+    "author": "FailOk1528",
+    "score": 1,
+    "selftext": "AI capex has always been like: more GPUs, more data centers, more power infrastructure, and eventually more growth. But BIS is now warning that the scale of this investment could create risks for financial stability. It estimates the five biggest tech companies could spend more than $1 trillion on AI in 2025–2026, while total AI investment could reach around $4 trillion by 2030.  \n  \nI know more AI spending could still bring more productivity and revenue if it pays off. But the money isn’t coming only from Big Tech’s own cash flow anymore. Debt and private credit are part of it too, as AI projects get bigger and more expensive.   \n  \nGoogle or Microsoft can probably handle it if the returns take longer than expected. But what about the companies and investors financing all the infrastructure behind them? Could AI still be successful while some of that financing becomes a problem?  \n  \nSource: [Reuters](https://www.reuters.com/business/finance/ai-boom-poses-new-financial-stability-risks-bis-head-says-2026-09-10/)",
+    "subreddit": "investing",
+    "created_utc": 1789035869,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "הפוסט דן בסיכונים ליציבות הפיננסית העולמית עקב השקעות העתק בתחום הבינה המלאכותית, שצפויות להסתכם בטריליוני דולרים בשנים הקרובות. בעוד שענקיות הטכנולוגיה עשויות לעמוד בנטל הכלכלי, גובר החשש לגורלם של הגופים המממנים את התשתיות באמצעות חוב ואשראי פרטי, במקרה שהחזר ההשקעה יתעכב מעבר למצופה.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1wccfxi",
+    "title": "Help me find the next stock that will skyrocket 100-fold :)",
+    "url": "https://www.reddit.com/r/investing/comments/1wccfxi/help_me_find_the_next_stock_that_will_skyrocket/",
+    "author": "Mayday-272",
+    "score": 1,
+    "selftext": "Hello All,  \n   \nI have an investment account where I get dividends , approx EUR 150/quarter or so. I see this money as a \"gambling\" money, don't want to buy \"real\" papers like VOO or similar.   \nGive me some tips for small papers (under USD / EUR 2 ) where you think that it can reach USD/EUR 200 in a year or so. No problem if the tip fails, it's just a game. \n\nAI sees this post as an ask for financial advice but it is not, just collecting some ideas.\n\nThanks :) ",
+    "subreddit": "investing",
+    "created_utc": 1789026443,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "more or less to rerate. the usd 200 is less then 1% of my portfolio, so if i lose it, i don't care. but if it jumps  to e.g. x40 or x80 , then my next 2 vacations are for free ;) ",
+        "score": 1,
+        "author": "Mayday-272"
+      },
+      {
+        "body": "are you looking for actual businesses with a chance to rerate or literally just the highest volatility thing under $2?",
+        "score": 1,
+        "author": "FailOk1528"
+      },
+      {
+        "body": "I like polymarket for gambling ",
+        "score": 1,
+        "author": "khachdallak"
+      }
+    ],
+    "summary_he": "הכותב מחפש המלצות למניות \"זולות\" (מתחת ל-2 דולר) בעלות פוטנציאל צמיחה קיצוני של פי 100 בטווח של שנה. הוא מציין כי בכוונתו להשתמש בכספי דיבידנדים בסך כ-150 אירו לרבעון אותם הוא מגדיר כ\"כספי הימורים\", ומוכן לקחת סיכון גבוה להפסד מלא עבור הסיכוי לרווח יוצא דופן.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן ניתוח של הלך הרוח והדעות המרכזיות שעלו מהתגובות בשרשור, מתומצתים ל-6 נקודות בעברית:\n\n*   **סובלנות גבוהה לסיכון על סכומים קטנים:** קיימת נכונות להשקיע סכומים המהווים חלק מזערי מהתיק (פחות מ-1%) מתוך ידיעה שהכסף עשוי לרדת לטמיון, מתוך תפיסה של \"הכל או כלום\".\n*   **שאיפה לתשואות קיצוניות (Moonshots):** המשקיעים מחפשים הזדמנויות לזינוקים אדירים בערך הנכס (פי 40 או אפילו פי 80), שכן רק תשואה כזו הופכת השקעה קטנה למשמעותית.\n*   **השקעה ככלי לשיפור איכות החיים (Lifestyle Goals):** המניע להשקעה אינו רק \"מספר בתיק\", אלא תגמול מוחשי וספציפי, כמו מימון חופשות עתידיות במקרה של הצלחה.\n*   **הבחנה בין ערך עסקי לתנודתיות ריקה:** בקהילה עולה השאלה האם המטרה היא למצוא \"עסקים אמיתיים\" שיעברו הערכה מחדש (Rerating) על בסיס ביצועים, או פשוט לחפש נכסים זולים ותנודתיים (מתחת ל-2 דולר) ללא קשר לטיב העסק.\n*   **טשטוש הגבולות בין השקעה להימורים:** קיימת הכרה בכך שחלק מהפעולות הללו הן למעשה הימורים, וישנה הצעה להשתמש בפלטפורמות ייעודיות לחיזוי והימורים (כמו Polymarket) במקום בשוק המניות המסורתי.\n*   **אסטרטגיית ה-Rerate:** קיימת התמקדות במונח הפיננסי \"Rerate\" – המצב שבו השוק משנה את הדרך שבה הוא מתמחר נכס מסוים, מה שמוביל לזינוק מהיר וחד בערכו."
+  },
+  {
+    "id": "1wc9d75",
+    "title": "If you had $100k today, investing or swing trading?",
+    "url": "https://www.reddit.com/r/investing/comments/1wc9d75/if_you_had_100k_today_investing_or_swing_trading/",
+    "author": "Live_It_Fully",
+    "score": 1,
+    "selftext": "Assume this is money you don't need for years. \n\nI'm mostly investing, but allocated only 5% to swing trading tests. Tried technical analysis, but prefer fundamentals.\n\nWould you put most of it into long-term investments and basically leave it alone, or actively swing trade part of it?\n\nI'm not asking which one can theoretically make more.\n\nI'm more interested in what happens in practice once you include mistakes, time, stress, taxes, and periods where the market just doesn't cooperate.\n\nFor people who have done both with meaningful money, which one would you choose if you were starting again?\n\nI'm not looking for financial advice. Just to know what you think in general. ",
+    "subreddit": "investing",
+    "created_utc": 1789016422,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "> If you had $100k today, investing or swing trading?\n\nIf you had 100k today, would you use it to make money or lose money?",
+        "score": 1,
+        "author": "username10983"
+      },
+      {
+        "body": "Beleggen, altijd beleggen Swingtraden is nog risicovoller dan roulette bijna elke daalt waarschijnlijk en dan hoop je op een paar goede als je echt alleen winst wilt hebben beleg dan gewoon voor de lange termijn. Dat is in elk opzicht beter.",
+        "score": 1,
+        "author": "Master-Investor1"
+      },
+      {
+        "body": "Funny but also true, I guess...",
+        "score": 1,
+        "author": "Live_It_Fully"
+      }
+    ],
+    "summary_he": "הכותב מבקש לדעת האם עדיף להשקיע 100,000 דולר לטווח ארוך בגישה פסיבית או באמצעות מסחר פעיל (Swing Trading), תוך דגש על ההיבטים הפרקטיים כמו לחץ, זמן ומיסוי. הוא פונה לבעלי ניסיון בשתי השיטות כדי להבין מהי הבחירה המועדפת עליהם במבחן המציאות, מעבר לפוטנציאל הרווח התאורטי.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות בשרשור, המוצגות בנקודות:\n\n* **ספקנות לגבי מסחר סווינג (Swing Trading):** קיימת תמימות דעים בקרב המגיבים שמסחר סווינג הוא דרך כמעט ודאית להפסיד כסף, בניגוד להשקעה שנחשבת לדרך לייצר כסף.\n* **עדיפות להשקעות לטווח ארוך:** הקהילה מדגישה כי אם המטרה היא להשיג רווחים ממשיים, יש לבחור תמיד באפיק של השקעה לטווח ארוך, הנחשב לטוב יותר מכל בחינה שהיא.\n* **השוואה להימורים:** אחד המגיבים טוען כי מסחר סווינג הוא מסוכן אף יותר מרולטה בקזינו, שכן הסיכוי לירידות בערך הנכסים גבוה מאוד.\n* **הסתמכות על מזל ותקווה:** בניגוד לאסטרטגיה מובנית, מסחר סווינג מתואר כפעילות שבה רוב העסקאות כושלות, והסוחר נותר רק עם הציפייה או ה\"תקווה\" לכמה עסקאות מוצלחות שיאזנו את ההפסד.\n* **סנטימנט ציני כלפי מסחר פעיל:** התגובות משקפות גישה צינית ומזלזלת כלפי הניסיון \"להכות את השוק\" באמצעות מסחר מהיר, ורואות בו פעולה חסרת תועלת עבור רוב האנשים.\n* **הסכמה על \"האמת המרה\":** המגיבים מחזקים זה את זה בתחושה שההשוואה בין מסחר להפסד כספי היא אולי מצחיקה, אך משקפת מציאות כואבת ונכונה עבור סוחרים רבים."
+  },
+  {
+    "id": "1wc0gup",
+    "title": "Update: 10 California tax sales now published in full, free, with every parcel matched to the county assessor's own record",
+    "url": "https://www.reddit.com/r/investing/comments/1wc0gup/update_10_california_tax_sales_now_published_in/",
+    "author": "jorik_bordiur",
+    "score": 1,
+    "selftext": "Hi everyone! I'm following up on the California tax-deed project I posted about a while back: [https://www.reddit.com/r/CaliforniaRealEstate/comments/1v07lx1/i\\_read\\_all\\_1614\\_parcels\\_in\\_san\\_bernardinos\\_tax/](https://www.reddit.com/r/CaliforniaRealEstate/comments/1v07lx1/i_read_all_1614_parcels_in_san_bernardinos_tax/)\n\nWhat it does, briefly: every California tax-defaulted sale I can get a list for, published in full and free. Each parcel is matched to the county assessor's own record, so you see the opening bid next to what the county says the land is worth. Sort it, filter it, download the whole thing as a CSV. No signup, no paywall, sources named on every page.\n\nWhat's been added since last time:\n\n* 10 sales, 2,877 parcels. Los Angeles (1,252, the biggest California list this year), Kern (1,011), Fresno, Butte, Placer, El Dorado, Mariposa, Santa Cruz, San Bernardino, Riverside.\n* Post-auction results. When a sale closes I go back and record what actually sold and for how much, so a pre-sale read can be checked against what really happened instead of quietly filed away.\n* Live redemption tracking. Parcels paid off before the auction drop off the tables. Fresno has lost 53% of its list since June, so the list you read early is not the list you bid on.\n\nThree things out of the data I didn't expect:\n\n* At Butte's August auction, 13 of the 28 parcels that sold went at exactly the opening bid. Far less competition than I assumed was out there.\n* The parcels the assessor carries at almost nothing are the ones bidders fight hardest over. One valued at $4 sold for $31,236.\n* In every county I've measured, the parcels redeemed before the sale are the valuable ones. What reaches the auction is mostly what nobody thought worth rescuing.\n\nComing up: Los Angeles October 17-20, Placer October 21, El Dorado November 6, Santa Clara once they publish.\n\nlot-brief.com/sales/\n\nHappy to answer your questions and get your feedback!",
+    "subreddit": "investing",
+    "created_utc": 1788992758,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "The useful part is the parcel-level history. Matching the county record to the eventual sale price should make it easier to separate real bargains from parcels that only looked cheap on the first pass.",
+        "score": 1,
+        "author": "Hyperreal8957"
+      },
+      {
+        "body": "Petit coquille: Santa Cruz est mentionné deux fois dans la liste des comtés ajoutés.",
+        "score": 1,
+        "author": "CapitalSundae2758"
+      },
+      {
+        "body": "ust assessors tbh. Either that or there's some hidden value nobody's talking about.",
+        "score": 1,
+        "author": "Senior-Community-767"
+      }
+    ],
+    "summary_he": "הפוסט מציג עדכון לפרויקט המנגיש מידע מקיף וחינמי על מכירות פומביות של נכסים בקליפורניה עקב חובות מס. המערכת מצליבה נתונים מעשרה מחוזות עם רישומי המעריכים הרשמיים, עוקבת אחר תוצאות המכירה בזמן אמת ומאפשרת סינון והורדת נתונים ללא תשלום או הרשמה. בנוסף, הכותב משתף תובנות על דפוסי הגשת הצעות ועל כך שרוב הנכסים בעלי הערך נמדדים ונפדים על ידי בעליהם עוד לפני שהם מגיעים למכירה הפומבית.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום של הדיון המבוסס על התגובות שנכתבו, הכולל 6 נקודות, דעות ותובנות של הקהילה:\n\n*   **חשיבות ניתוח היסטוריית המגרשים:** המשתמשים רואים ערך רב בגישה לנתונים היסטוריים ברמת המגרש הבודד (parcel-level history) לצורך קבלת החלטות מושכלות.\n*   **זיהוי הזדמנויות נדל\"ן אמיתיות:** היכולת להשוות בין הרישומים הרשמיים של המחוז לבין מחיר המכירה בפועל נתפסת ככלי חיוני להפרדה בין \"מציאות\" אמיתיות לבין נכסים שנראים זולים רק במבט ראשון אך מסתירים בעיות.\n*   **ביקורת על דיוק הנתונים:** הקהילה שמה לב לפרטים קטנים והצביעה על טעויות טכניות (כמו כפילויות) ברשימות המחוזות שהוצגו, מה שמעיד על קריאה ביקורתית של המידע.\n*   **טעות ספציפית ברשימת המחוזות:** צוין כי המחוז \"סנטה קרוז\" (Santa Cruz) הופיע פעמיים ברשימת המחוזות החדשים שהתווספו, הערה המופנית לתיקון המפרסם.\n*   **תפקיד מעריכי המס (Assessors):** עלתה טענה כי המפתח להבנת התמחור טמון בעבודתם של מעריכי המס המחוזיים, או שהם אלו שמשפיעים באופן מכריע על הנתונים הגלויים.\n*   **קיומו של \"ערך נסתר\":** קיימת סברה בקהילה שישנם נכסים המחזיקים בערך נסתר שאינו בא לידי ביטוי בנתונים היבשים ושאיש אינו מדבר עליו בגלוי, מה שיוצר פער בין המחיר לערך האמיתי."
+  },
+  {
+    "id": "1wbztwk",
+    "title": "What are your preferred investing resources, especially analysts?",
+    "url": "https://www.reddit.com/r/investing/comments/1wbztwk/what_are_your_preferred_investing_resources/",
+    "author": "Lucifers-Reprieve",
+    "score": 1,
+    "selftext": "What stock/investing news resources do you feel are actually useful that do not feel like mild market manipulation?  Also do you find any buy/sell indicator analyst resources very accurate or useful, like Zacks and the like?  I'm curious of their ratings, especially when they may not fully line up with my own position on a security.",
+    "subreddit": "investing",
+    "created_utc": 1788991288,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Your post has been removed because it is a common beginner topic. We get too many of these topics every day and to prevent them from swamping the front page, we are removing main threads of this kind.\n\nWe also remove such posts because they can attract spam and bad faith comments. If you receive DM's or un-solicitated offers, please be aware that there are a lot of financial scammers on social media. \n  \nYou are welcome to repost your question in the [daily discussion thread](https://www.reddit.com/r/investing/about/sticky?num=1). \n  \nIf you have any issue with this removal, please contact the moderators via modmail. Thank you.\n\n----\n\nIf you are new to investing, you can find curated resources in the r/investing wiki for [Getting Started here](https://www.reddit.com/r/investing/wiki/index/gettingstarted/). \n\nThe reading list in the wiki and FAQ has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - [Reading List](https://www.reddit.com/r/investing/wiki/readinglist)\n\nPodcasts and videos can be found in the wiki here - [Podcasts and videos](https://www.reddit.com/r/investing/wiki/medialist)\n\nIf you know nothing about the capital markets - the Getting Started section at the SEC educational site can be a good place to start - [investor.gov](https://investor.gov) \\- there are also short 30 second videos on basics. The SEC (Securities and Exchange Commission) is a US regulator with a focus to protect US investors through regulatory oversight of the securities markets.\n\nThe FINRA education site at [FINRA Education](https://www.finra.org/investors/learn-to-invest) also contains numerous free courses and educational materials. FINRA is a not-for-profit SRO (self regulatory organization) which is self-funded by it's members which are broker-dealers. It works under the supervision of the SEC with a mandate to protect the investing public against fraud and bad practice.\n\nFor formal educational materials, several colleges and universities make their course work available for free. \n\nIf want to learn about the financial markets - an older but reasonably relevant course is [Financial Markets (2011) - Yale University](https://www.youtube.com/playlist?list=PL8FB14A2200B87185) This is the introduction to financial markets course taught by Prof. Shiller from Yale. Prof Shiller won the Nobel prize in economics in 2013.\n\nAnother relavant course from MIT is a lecture series on Finance Theory taught by Prof Andrew Lo - [Financial Theory (2008) - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW).\n\nA more current course can be found at NYU Stern School of Business by Prof Aswath Damodaran - [Corporate Finance Spring 2019](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcastcfspr19.htm). Prof Damodaran offers the latest materials and webcast lectures to this class here - https://pages.stern.nyu.edu/~adamodar/New_Home_Page/corpfin.html",
         "score": 1,
         "author": "investing-ModTeam"
       },
       {
-        "body": "Don't disagree with you and didn't intend to suggest that it's limited to the website. I should have just said, \"better website/app\" vs. product, mea culpa",
+        "body": "Earnings call transcripts are useful for tone, follow-up questions, and changes in guidance that the filing can flatten. I still compare them with the 10-Q/10-K and cash-flow statement since management commentary is selective.",
         "score": 1,
-        "author": "EntrepreneurSea5781"
+        "author": "Hyperreal8957"
       },
       {
-        "body": "I think you misjudge what the product is.  It's not the website; its the userbase.  And a 23 year old Berkley grad can't get yelp's userbase and reviews in 2 days.",
+        "body": "Honestly?\n\nClaude.\n\nNothing else comes close.",
         "score": 1,
-        "author": "90403scompany"
+        "author": "Etherius"
       }
     ],
-    "summary_he": "הכותב מבקר בחריפות את הנהלת Yelp לקראת השתתפותה בכנס משקיעים של גולדמן זאקס, וטוען כי היא מתחמקת מאחריות לדעיכת עסקי הליבה של החברה תוך האשמת גורמים חיצוניים במקום להודות בניהול כושל. הוא מביע תקווה שהפעם יישאלו שאלות קשות על הביצועים הירודים, במקום להסתפק בתירוצים שחוקים על המצב הכלכלי או בסיסמאות על רכישה עצמית של מניות.",
+    "summary_he": "הכותב מבקש המלצות למקורות מידע ואנליסטים אמינים בשוק ההון, שאינם נתפסים כמניפולטיביים. הוא מתעניין במיוחד ברמת הדיוק של אינדיקטורים ודירוגי קנייה/מכירה (כמו Zacks) ובשאלה כיצד להתייחס אליהם כאשר הם מנוגדים לניתוח האישי שלו.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והתגובות בשרשור, המציג 6 נקודות מבט, דעות ותחושות קהילתיות כפי שעלו מהטקסט:\n\n*   **אכיפת סטנדרטים גבוהים לתוכן:** ניכרת מדיניות ניהול קפדנית השוללת פוסטים \"דלי מאמץ\" (Low effort). הקהילה דורשת מהמשתתפים לספק תובנות השקעה מעמיקות או שאלות מחושבות, ולא רק לשתף מידע שטחי.\n*   **הבחנה בין חדשות לניתוח:** הקהילה מדגישה שהיא אינה לוח מודעות לחדשות פיננסיות. קיימת סלידה מ\"מחזור\" כתבות ללא הוספת הקשר או ערך מוסף אישי, וזאת כדי למנוע כפילויות ושעמום בפיד.\n*   **מהות ה\"מוצר\" בעולם הטכנולוגיה:** עולה טענה מהותית לפיה הערך האמיתי של פלטפורמות דיגיטליות (כמו Yelp) אינו טמון בקוד או באתר עצמו, אלא בקהילת המשתמשים ובתוכן שהם מייצרים (הביקורות).\n*   **מחסום כניסה ויתרון תחרותי (Moat):** קיימת סנטימנט לפיו קשה מאוד לשכפל הצלחה של פלטפורמה קיימת. גם מתכנת מוכשר וצעיר מאוניברסיטה יוקרתית (כמו ברקלי) לא יכול לשכפל בתוך ימים ספורים בסיס נתונים ואמון צרכני שנבנו במשך שנים.\n*   **תרבות דיון ותיקון עצמי:** התגובות מראות נכונות של משתמשים להודות בטעות במינוח (\"mea culpa\") ולדייק את דבריהם במהלך הדיאלוג, מה שמעיד על קהילה שמעריכה דיוק והסכמה על הגדרות.\n*   **הערכת ה\"נכסים הבלתי מוחשיים\":** הדיון מדגיש את הפער בין הממשק החיצוני (האתר או האפליקציה) לבין הנכס הליבתי של העסק. המשתמשים מבינים ששיפור טכנולוגי בלבד אינו מספיק כדי להוות תחרות למוצר שנסמך על מסה קריטית של משתמשים."
-  },
-  {
-    "id": "1wae6te",
-    "title": "September US tech stocks predictions?",
-    "url": "https://www.reddit.com/r/investing/comments/1wae6te/september_us_tech_stocks_predictions/",
-    "author": "Southern_Law1650",
-    "score": 1,
-    "selftext": "I am just seeking opinions :) not FA!\n\nAs I have some money set aside but I keep hearing September and Labour Day bearish news.  \ncan someone please elaborate what I COULD expect to see?\n\nI’m currently trying to save for a house, I may reduce 15% of my portfolio if that’s the case.\n\nThanks",
-    "subreddit": "investing",
-    "created_utc": 1788841405,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Keeping your money in high risk, unpredictable investments, is the opposite of the strategy you want if you're planning on taking your money out in the near future to buy a house. Seasonally, especially in mid term years, the stats point downward for the next 2-3 months. Make of that what you will 👀 ",
-        "score": 1,
-        "author": "Candlelight_Fant4sia"
-      },
-      {
-        "body": "What are you buying in prep for a bear market?",
-        "score": 1,
-        "author": "No_Walrus2120"
-      },
-      {
-        "body": "prioriser la bourse quand t'as besoin d'une maison c'est vraiment pas ouf",
-        "score": 1,
-        "author": "Ill-Top1670"
-      }
-    ],
-    "summary_he": "הכותב מבקש תחזיות ודעות לגבי ביצועי מניות הטכנולוגיה בארה\"ב במהלך חודש ספטמבר, זאת לאור הערכות פסימיות ששמע על שוק ההון בתקופה זו. מכיוון שהוא חוסך לרכישת בית, הוא שוקל לצמצם את תיק ההשקעות שלו ב-15% כדי להימנע מהפסדים פוטנציאליים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **ניהול סיכונים מול טווח קצר:** קיימת הסכמה שהשקעת כספים באפיקים בעלי סיכון גבוה ותנודתיות אינה אסטרטגיה נכונה עבור מי שזקוק לכסף בטווח הקרוב, במיוחד עבור רכישת דירה.\n*   **תחזית שלילית בטווח הקצר:** אחד המגיבים מצביע על נתונים סטטיסטיים ועונתיים (במיוחד בשנות בחירות אמצע בארה\"ב) המרמזים על מגמת ירידה צפויה בשוק בשלושת החודשים הקרובים.\n*   **הערכות לשוק דובי (Bear Market):** בקהילה עולה השאלה אילו נכסים או מוצרים כדאי לרכוש כהכנה לירידות שערים, מה שמעיד על סנטימנט של חיפוש הגנה (Hedging).\n*   **סדר עדיפויות כלכלי:** מודגשת הביקורת על מתן עדיפות להשקעות בבורסה כאשר קיים צורך ממשי ובסיסי ברכישת בית; לפי גישה זו, השוק אינו המקום לכסף המיועד למגורים.\n*   **הימנעות מאי-ודאות:** הדיון משקף סלידה מאי-ודאות במצבים בהם היציבות הפיננסית של הפרט עומדת על הפרק (כמו במעבר לנכס נדל\"ני).\n*   **זהירות כללית בקהילה:** ניכר כי הרוח הכללית בשרשור היא של זהירות וספקנות כלפי המשך העליות בשוק, עם דגש על אסטרטגיה שמרנית למי שמתכנן הוצאות גדולות בקרוב.",
-    "dateString": "2026-09-08",
-    "savedAt": {
-      "_seconds": 1788865274,
-      "_nanoseconds": 823000000
-    }
+    "comments_summary_he": "הנה סיכום של הנקודות המרכזיות, הדעות ותחושות הקהילה כפי שעלו מהתגובות בשרשור:\n\n*   **ניהול קהילה ומניעת הצפה:** הקהילה מקפידה על הסרת פוסטים של מתחילים העוסקים בנושאים נפוצים מדי, זאת במטרה למנוע \"הצפה\" של העמוד הראשי ושמירה על איכות הדיון. שאלות כאלו מופנות לשרשור יומי ייעודי.\n*   **אזהרה מפני הונאות:** קיים דגש חזק על ביטחון המשתמשים, עם אזהרה מפורשת מפני נוכלים פיננסיים האורבים ברשתות החברתיות ומנסים ליצור קשר בהודעות פרטיות עם משקיעים חדשים וחסרי ניסיון.\n*   **חשיבות המקורות האקדמיים והרגולטוריים:** הקהילה ממליצה על למידה מובנית דרך גופים רשמיים (כמו ה-SEC וה-FINRA) וקורסים אקדמיים חינמיים של אוניברסיטאות מובילות (Yale, MIT, NYU) כדי לבנות בסיס ידע מוצק בשוק ההון.\n*   **ערך מוסף בשיחות רווחים:** משקיעים רואים ערך רב בתמלולי שיחות רווחים (Earnings Calls), שכן הם מאפשרים להבין את \"הטון\" של ההנהלה, לשמוע שאלות המשך ולזהות שינויים בתחזיות שעלולים ללכת לאיבוד בדוחות היבשים.\n*   **גישה ביקורתית והצלבת נתונים:** קיימת סנטימנט של חשדנות בריאה כלפי דברי ההנהלה. מומלץ תמיד להצליב את דברי המנהלים בשיחות עם הדוחות הכספיים הרשמיים (כמו 10-K או 10-Q), מכיוון שהצהרות ההנהלה נוטות להיות סלקטיביות ומחמיאות.\n*   **אימוץ כלי בינה מלאכותית:** ישנה המלצה נחרצת על שימוש בבינה מלאכותית, ובפרט במודל **Claude**, ככלי עזר מוביל לניתוח והבנה של תחום ההשקעות, תוך טענה שביצועיו עולים על כל כלי אחר כיום."
   }
 ];
