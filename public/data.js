@@ -28,38 +28,12 @@ window.dailyTrends = [
     ],
     "summary_he": "ניתוח של כ-500 חברות אמריקאיות גדולות מעלה כי כ-69% מהן מניבות תשואת רווח נמוכה מזו של אגרות חוב ממשלתיות ל-10 שנים (העומדת על 5%). הנתונים מצביעים על כך שמשקיעים משלמים כיום פרמיה משמעותית עבור פוטנציאל צמיחה עתידי, ומעוררים תהייה האם ההשוואה המסורתית בין מניות לאג\"ח עדיין רלוונטית בקבלת החלטות השקעה.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המוצגות, המפרט שש נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **ספקנות כלפי \"מתזמני שוק\":** קיימת ביקורת כלפי משקיעים שמנסים לחזות קריסה בשוק ומחזיקים את כספם במזומן. נטען כי פוסטים רבים הם למעשה ניסיון להצדיק בדיעבד החלטה שנובעת מתסכול על כך שהשוק ממשיך לעלות למרות הציפיות לנפילה.\n*   **הטיית אישוש וחרדת משקיעים:** הקהילה מזהה דפוס פסיכולוגי שבו משקיעים שמרגישים חוסר ביטחון לגבי החלטותיהם (כמו הימנעות מהשוק) מחפשים ניתוחים פשטניים שיאשרו את עמדתם ויפיגו את החשש שהם טועים.\n*   **התאמה לאינפלציה בהערכת שווי:** מוצגת הטענה כי השוואה ישירה בין תשואות מניות לתשואות אג\"ח נומינליות אינה הוגנת, כיוון שצמיחה בהכנסות של חברות מפצה באופן טבעי ומהותי על האינפלציה לאורך זמן.\n*   **חשיבותן של התשואות הריאליות (TIPS):** מודגש כי המדד הנכון להשוואה מול רווחי מניות הוא תשואת האג\"ח הריאלית (למשל אג\"ח ל-10 שנים צמודות מדד - TIPS, שעומדת על כ-2.67%), ולא התשואה הנומינלית הגבוהה יותר (כ-5%).\n*   **בחינת פרמיית הסיכון:** עולה השאלה המרכזית האם הפער הקטן יחסית בין תשואת הרווח של המניות לבין התשואות הריאליות של האג\"ח הממשלתיות אכן משקף בצורה נאותה את הסיכונים הקיימים בשוק המניות כיום.\n*   **שימוש חוזר בתשתיות טכנולוגיות ל-AI:** מועלית השערה טכנולוגית ספציפית לפיה חומרה של שירותי ענן שנסגרו (כמו שירות המשחקים Stadia של גוגל) יכולה להתאים מאוד לביצוע משימות של בינה מלאכותית (AI), מה שמצביע על פוטנציאל לניצול משאבים קיימים בשוק ה-AI הצומח."
-  },
-  {
-    "id": "1wjmr2p",
-    "title": "Warren Buffett Steps Down at 96: Berkshire’s $277B Cash Pile Post-Buffet Era",
-    "url": "https://www.reddit.com/r/investing/comments/1wjmr2p/warren_buffett_steps_down_at_96_berkshires_277b/",
-    "author": "unconventionalbook",
-    "score": 137,
-    "selftext": "The historic announcement that 96-year-old Warren Buffett is stepping down as Chairman of Berkshire Hathaway, effective immediately. As U.S. stock futures tick higher on Friday morning to extend Wall Street's recovery from the Federal Reserve's recent interest rate hike, Buffet's transitioning to Chairman Emeritus while his son Howard Buffett takes the gavel, the legendary investor declared in a letter to shareholders that while \"Father Time always wins,\" the governance handoff completes a long-planned stability framework alongside CEO Greg Abel.\n\nInvestors are now parsing this monumental transition against a backdrop of broader market momentum, closely watching whether emotional pre-market selling will test Berkshire’s traditional book-value buyback floors or shift attention to the deployment strategies for the conglomerate's $277 billion cash fortress Warren Buffett's transition to Chairman Emeritus marks a historic governance handoff that locks in Berkshire Hathaway’s decentralized, post-Buffett triad structure:\n\nGreg Abel managing operations as CEO, Howard G. Buffett protecting company culture as Chairman, and Todd Combs alongside Ted Weschler overseeing the $300B+ public equity portfolio. While short-term psychological selling may cause minor compression to the historic \"Buffett Premium\" (traditionally defended by buybacks at a 1.2x Price-to-Book floor), the underlying conglomerate operates as an unassailable cash-generative monopoly. The defining challenge for this new regime centers squarely on capital allocation, as the team inherits a massive $276.9 billion cash fortress. Moving forward, institutional allocators should look for a lower hurdle rate favoring smaller bolt-on acquisitions, an aggressive public market rebalancing away from hyper-concentrated legacy stakes, and a heightened long-term probability of a corporate dividend if cash flow continues to outpace Greg Abel’s M&A deployment.\n\nWith Buffett officially stepping down as Chairman, how long do you think Greg Abel can resist institutional pressure to implement a corporate dividend before Berkshire's $277B cash fortress turns into a severe drag on ROE? Can Berkshire Hold Its Premium Now Post-Buffet Era?\n\nSource: [CNBC](https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html)\n\n\\*Title Correction: \"Post-Buffett Era\"",
-    "subreddit": "investing",
-    "created_utc": 1789728212,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Unfortunately, I think his health is pretty ailing and for him to make this move this quick after turning over the teins to Greg. I don’t like to be negative about these things, but he’s had one hell of a run. I wish him nothing but the best of health he’s been a treasure trove of knowledge, wisdom, and showing a lot of investors how to patiently invest for the long-term",
-        "score": 68,
-        "author": "Minute_Plastic_350"
-      },
-      {
-        "body": "What do you mean you think his health is failing, the MF is 96 years of age",
-        "score": 30,
-        "author": "BrianRampage"
-      },
-      {
-        "body": "96 years old… he was just a fucking kid.",
-        "score": 12,
-        "author": "very_spooky_ghost"
-      }
-    ],
-    "summary_he": "וורן באפט פורש מתפקיד יו\"ר ברקשייר האת'ווי בגיל 96 ועובר לתפקיד ייצוגי, בעוד בנו הווארד והמנכ\"ל גרג אבל יתפסו את מושכות ההנהגה. כעת, השוק בוחן כיצד הצוות החדש ינהל את עתודות המזומנים העצומות של החברה (כ-277 מיליארד דולר) והאם יופעל לחץ ליישום מדיניות של חלוקת דיבידנדים לראשונה בתולדותיה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, הכולל 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **דאגה מהדרדרות בריאותית:** קיים חשש כבד בקרב המשתמשים שמצבו הבריאותי של האישיות המדוברת (ככל הנראה צ'ארלי מאנגר או וורן באפט, בהתחשב באזכור של \"גרג\" והגיל) אינו טוב, במיוחד לאור המהירות שבה הועברו הסמכויות לידי יורשו, גרג.\n*   **הערכה לקריירה מפוארת:** המגיבים מציינים לשבח את פועלו לאורך השנים, תוך הכרה בכך שהיה לו \"מסלול מדהים\" (one hell of a run) ושהוא הותיר חותם משמעותי בעולם ההשקעות.\n*   **הכרה כמקור של חוכמה וידע:** הקהילה רואה בו \"אוצר של ידע\", מורה דרך ודמות מעוררת השראה שסיפקה תובנות עמוקות לאורך עשורים.\n*   **הערצה לאסטרטגיית השקעה לטווח ארוך:** אחד הסנטימנטים המרכזיים הוא הערכה לשיעור שהוא לימד דורות של משקיעים: כיצד להשקיע בסבלנות ועם מבט רחוק קדימה, מבלי להיכנע לתנודות רגעיות.\n*   **פרגמטיזם ופיכחון לגבי הגיל:** חלק מהמשתמשים מצביעים על כך שבגיל 96, קשיים בריאותיים הם דבר צפוי וטבעי לחלוטין, ותוהים מדוע מישהו מופתע מכך שמצבו הבריאותי עשוי להיות לקוי.\n*   **שימוש בהומור ואירוניה:** ניכר שימוש בהומור פנימי של הקהילה (או רפרנס לתרבות פופולרית), כאשר משתמשים מתייחסים אליו בבדיחות כאל \"ילד\" למרות היותו בן 96, מה שמעיד על החיבה וההערצה שחשים כלפיו למרות גילו המופלג."
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המוצגות, המפרט שש נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **ספקנות כלפי \"מתזמני שוק\":** קיימת ביקורת כלפי משקיעים שמנסים לחזות קריסה בשוק ומחזיקים את כספם במזומן. נטען כי פוסטים רבים הם למעשה ניסיון להצדיק בדיעבד החלטה שנובעת מתסכול על כך שהשוק ממשיך לעלות למרות הציפיות לנפילה.\n*   **הטיית אישוש וחרדת משקיעים:** הקהילה מזהה דפוס פסיכולוגי שבו משקיעים שמרגישים חוסר ביטחון לגבי החלטותיהם (כמו הימנעות מהשוק) מחפשים ניתוחים פשטניים שיאשרו את עמדתם ויפיגו את החשש שהם טועים.\n*   **התאמה לאינפלציה בהערכת שווי:** מוצגת הטענה כי השוואה ישירה בין תשואות מניות לתשואות אג\"ח נומינליות אינה הוגנת, כיוון שצמיחה בהכנסות של חברות מפצה באופן טבעי ומהותי על האינפלציה לאורך זמן.\n*   **חשיבותן של התשואות הריאליות (TIPS):** מודגש כי המדד הנכון להשוואה מול רווחי מניות הוא תשואת האג\"ח הריאלית (למשל אג\"ח ל-10 שנים צמודות מדד - TIPS, שעומדת על כ-2.67%), ולא התשואה הנומינלית הגבוהה יותר (כ-5%).\n*   **בחינת פרמיית הסיכון:** עולה השאלה המרכזית האם הפער הקטן יחסית בין תשואת הרווח של המניות לבין התשואות הריאליות של האג\"ח הממשלתיות אכן משקף בצורה נאותה את הסיכונים הקיימים בשוק המניות כיום.\n*   **שימוש חוזר בתשתיות טכנולוגיות ל-AI:** מועלית השערה טכנולוגית ספציפית לפיה חומרה של שירותי ענן שנסגרו (כמו שירות המשחקים Stadia של גוגל) יכולה להתאים מאוד לביצוע משימות של בינה מלאכותית (AI), מה שמצביע על פוטנציאל לניצול משאבים קיימים בשוק ה-AI הצומח.",
+    "dateString": "2026-09-19",
+    "savedAt": {
+      "_seconds": 1789814482,
+      "_nanoseconds": 137000000
+    }
   },
   {
     "id": "1wjzp25",
@@ -90,126 +64,43 @@ window.dailyTrends = [
     ],
     "summary_he": "יצרניות הרכב האמריקאיות מביעות חשש לקראת ביקורו של שי ג'ינפינג, עקב האפשרות שיושג הסכם שיאפשר כניסת רכבים חשמליים סיניים לשוק המקומי. מהלך כזה נתפס כאיום משמעותי על התעשייה האמריקאית ועל ערך המניה של טסלה בפרט.",
     "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וטיעונים שונים שעלו:\n\n*   **שאלת הסובסידיות הממשלתיות:** עולה תהייה האם ההצלחה או המודל העסקי המדובר נשענים על סובסידיות ממשלתיות רחבות היקף, בדומה לאלו שקיבלה חברת טסלה.\n*   **הדומיננטיות העולה של היצרניות הסיניות:** קיימת הערכה כי מותגים סיניים כמו BYD, Chery ו-GWM ימשיכו להגדיל את נתח השוק שלהם על חשבון המותגים המסורתיים ככל שיחלוף הזמן.\n*   **מקרה הבוחן של השוק האוסטרלי:** כדוגמה להצלחה המהירה של הסינים, מצוין כי חברת BYD הצליחה לעקוף כמעט את כל המתחרות באוסטרליה (למעט טויוטה) תוך שנתיים בלבד מאז שנכנסה לשוק.\n*   **אובדן הרלוונטיות של המותגים האמריקאיים:** מובעת ביקורת כלפי המותגים האמריקאיים, לפיה הם עלולים להישאר מאחור אם לא יתחילו להתייחס ברצינות לנושאי חדשנות ויעילות אל מול המתחרים החדשים.\n*   **נוסטלגיה לאמינות מכנית יוצאת דופן:** עולה הערכה לרכבים ישנים (כמו הונדה סיוויק משנות ה-90) שהפגינו עמידות קיצונית, לעיתים גם תחת הזנחה פושעת בתחזוקה (כמו נסיעה של אלפי קילומטרים ללא החלפת שמן).\n*   **חשיבות עלות הבעלות הכוללת:** מודגש הערך של רכבים חסכוניים הדורשים תחזוקה מינימלית בלבד (טיפולים בסיסיים וחלפים מתכלים) לאורך מאות אלפי קילומטרים, כגורם מכריע בשביעות הרצון של הבעלים."
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וטיעונים שונים שעלו:\n\n*   **שאלת הסובסידיות הממשלתיות:** עולה תהייה האם ההצלחה או המודל העסקי המדובר נשענים על סובסידיות ממשלתיות רחבות היקף, בדומה לאלו שקיבלה חברת טסלה.\n*   **הדומיננטיות העולה של היצרניות הסיניות:** קיימת הערכה כי מותגים סיניים כמו BYD, Chery ו-GWM ימשיכו להגדיל את נתח השוק שלהם על חשבון המותגים המסורתיים ככל שיחלוף הזמן.\n*   **מקרה הבוחן של השוק האוסטרלי:** כדוגמה להצלחה המהירה של הסינים, מצוין כי חברת BYD הצליחה לעקוף כמעט את כל המתחרות באוסטרליה (למעט טויוטה) תוך שנתיים בלבד מאז שנכנסה לשוק.\n*   **אובדן הרלוונטיות של המותגים האמריקאיים:** מובעת ביקורת כלפי המותגים האמריקאיים, לפיה הם עלולים להישאר מאחור אם לא יתחילו להתייחס ברצינות לנושאי חדשנות ויעילות אל מול המתחרים החדשים.\n*   **נוסטלגיה לאמינות מכנית יוצאת דופן:** עולה הערכה לרכבים ישנים (כמו הונדה סיוויק משנות ה-90) שהפגינו עמידות קיצונית, לעיתים גם תחת הזנחה פושעת בתחזוקה (כמו נסיעה של אלפי קילומטרים ללא החלפת שמן).\n*   **חשיבות עלות הבעלות הכוללת:** מודגש הערך של רכבים חסכוניים הדורשים תחזוקה מינימלית בלבד (טיפולים בסיסיים וחלפים מתכלים) לאורך מאות אלפי קילומטרים, כגורם מכריע בשביעות הרצון של הבעלים.",
+    "dateString": "2026-09-19",
+    "savedAt": {
+      "_seconds": 1789814511,
+      "_nanoseconds": 321000000
+    }
   },
   {
-    "id": "1witzo4",
-    "title": "What's with this bounce from yesterday morning, afternoon, and today?",
-    "url": "https://www.reddit.com/r/investing/comments/1witzo4/whats_with_this_bounce_from_yesterday_morning/",
-    "author": "Common-Coyote9375",
-    "score": 111,
-    "selftext": "Yesterday morning, stocks were up quiet a bit, although we were expecting Fed interest hike.   \nI was puzzled.   \nand then after the announcement, stocks went back down. (which was what I expected)\n\nAnd now, before the maket is open, the stocks just shoot up?\n\nWhats going on....?",
+    "id": "1wjq54o",
+    "title": "Will we see a downtrend similar to the 2018 and 2022 rate increase cycle?",
+    "url": "https://www.reddit.com/r/investing/comments/1wjq54o/will_we_see_a_downtrend_similar_to_the_2018_and/",
+    "author": "Naturegrapher",
+    "score": 40,
+    "selftext": "Back in 2018 and 2022 when the feds started to increase rates, the sp500 fell. In 2022, the fed increased the rates 525 bps in 15 months and the market had dropped 25%\n\nIn 2015-2018 the rates rose 225 bps but the market only fell in 2018 also compounded by the trade war. \n\nGiven both decreases, is it safe to assume the same for now?",
     "subreddit": "investing",
-    "created_utc": 1789651634,
+    "created_utc": 1789737884,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "And it will probably keep you waiting.\n\n\"Irrational longer than you can stay solvent,\" is the name of the game the market plays!",
-        "score": 7,
-        "author": "CreLoxSwag"
+        "body": "I say buy equities.\n\nEvery single investment/trading sub is full of folks predicting a crash/correction. Could they be correct? Absolutely. But the general public typically doesn't know sh\\*\\*.\n\nI was an SP500 futures trader at a firm between 2007-2012. We spent all day, every day, analyzing data, charts, and predicting trends, all utilizing software and platforms tyically not available to the retail investor. You know how many of us were predicting a market crash in 2009? Virtually none.\n\nWhen I see every member of the public predicting crash, it sets off alarm bells. \\*\n\n\\*standard caveat that once again, we don't know sh\\*\\*, and the market could go any which way. All you can do is what we all should do....figure out your comfortable portfolio allocation according to your investment timeline and risk tolerance, and stick to it.",
+        "score": 32,
+        "author": "Witty-Drama-3187"
       },
       {
-        "body": "lol... fun. I think you really need to read the thread we had again. I argued that there was going to be stagflation, not that there was going to be runaway inflation. \n\nYoY inflation is higher than it was in in the comment we were having a discussion in.\n\nGDP rate of increase is 1.5% vs the 3.3% from that conversation and declined after q3. q4 was .5% and the next were 2.1 and 1.5 -- nothing to write home about.\n\nThere is nothing about this economy that is really saying \"full steam ahead\" and consumers have less purchasing power. Not a recession. Not doing great. A bit stagnant.\n\nUnemployment is actually slightly improved at 4.1% from 4.3%, but that does not really tell the entire picture either. Prime-age labor-force participation has also fallen by about half a percentage point since the spring, equivalent to roughly 600,000 fewer participants than if the spring participation rate had held. Let's not forget that for the past several months, inflation has outpaced hourly wage growth, effectively giving the nation a wage cut. \n\nSo.... GDP growth has slowed fairly significantly since Q3 2025. Inflation has increased a fair amount. At a minimum, it is a low turnover job market where real wages have decreased. \n\nGrowth has slowed while inflation has accelerated. Kinda stagflating, at least directionally. \n\nThanks for playing.",
-        "score": 2,
-        "author": "cheddarben"
+        "body": "Damn. A lot of exuberant optimists on here down voting your reasonable premise. ",
+        "score": 17,
+        "author": "letmesplainyou"
       },
       {
-        "body": "The oligarchs are manipulating the markets.",
-        "score": 1,
-        "author": "5ongwrit3r_1954"
+        "body": "You'll get long and detailed responses about doomer conviction but what you won't get is someone posting their actual positions. Bears sounds smart while bulls make money. ",
+        "score": 12,
+        "author": "BAM_Spice_Weasel"
       }
     ],
-    "summary_he": "הכותב מביע בלבול בנוגע לתנודתיות בשוק המניות בימים האחרונים, במיוחד סביב הודעת הריבית של הפד. הוא תוהה מדוע המדדים עלו לפני ההודעה ושוב מזנקים כעת, ומחפש הסבר לתנועות הלא עקביות הללו בשוק.",
+    "summary_he": "הפוסט בוחן האם שוק המניות צפוי לחוות מגמת ירידה הדומה לנפילות שנרשמו בסבבי העלאות הריבית של 2018 ו-2022. הכותב מציין כי בעבר העלאות הריבית הובילו לירידות חדות במדד ה-S&P 500, ותוהה האם נכון להניח שהתרחיש יחזור על עצמו גם במצב הנוכחי.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שנכתבו, המציג 6 נקודות מבט ודעות שונות שעלו בקהילה:\n\n*   **חוסר הרציונליות של השוק:** קיימת אזהרה מפני ניסיון לתזמן את השוק, תוך ציטוט האמרה שהשוק יכול להישאר \"לא רציונלי\" הרבה יותר זמן מכפי שהמשקיע יכול להישאר נזיל. הציפייה היא שהמצב הנוכחי עשוי להימשך זמן רב.\n*   **חשש ממצב של סטגפלציה:** עולה טענה שהכלכלה אינה חווה רק אינפלציה \"רגילה\", אלא נעה לכיוון של סטגפלציה – שילוב מסוכן של האטה בצמיחה הכלכלית יחד עם עליית מחירים מתמשכת.\n*   **האטה משמעותית בצמיחה (GDP):** מצוין כי נתוני התמ\"ג מראים ירידה חדה בקצב הצמיחה (מ-3.3% ל-1.5%), מה שמעיד על כלכלה מדשדשת שאינה \"דוהרת קדימה\", גם אם היא עדיין לא מוגדרת רשמית כמיתון.\n*   **שחיקת השכר הריאלי:** קיימת תחושה שהצרכנים מאבדים כוח קנייה, שכן האינפלציה עוקפת את קצב עליית השכר השעתי. המגיבים רואים בכך \"קיצוץ בשכר\" בפועל עבור רוב האוכלוסייה.\n*   **ספקנות לגבי נתוני התעסוקה:** אף שנתוני האבטלה הרשמיים נראים יציבים יחסית (כ-4.1%), נטען שהם מטעים. זאת בשל ירידה בשיעור ההשתתפות בכוח העבודה בקרב גילאי העבודה העיקריים, מה שמעיד על מאות אלפי אנשים שיצאו ממעגל העבודה.\n*   **תחושת מניפולציה מצד בעלי הכוח:** מושמעת דעה ביקורתית הגורסת כי השווקים אינם פועלים באופן חופשי או טבעי, אלא נתונים למניפולציות של \"אוליגרכים\" ובעלי הון השולטים במערכת."
-  },
-  {
-    "id": "1wit8f4",
-    "title": "Everyone knows Nvidia, Google, and Amazon. How do you find all the good companies that never make the headlines?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1wit8f4/everyone_knows_nvidia_google_and_amazon_how_do/",
-    "author": "reggie_20",
-    "score": 31,
-    "selftext": "The same ten companies get talked about everywhere. But there are thousands of public companies, and plenty of them are solid businesses that people in their industry know well and the rest of us have never looked at. Think of something like Adobe. Not a secret, not tiny, just not in the news every day.\n\nI'm not asking about penny stocks or the next 100x. I'm asking how you discover the companies that are hiding in plain sight.\n\n1. How do you learn what companies even exist in an industry you don't work in?\n2. Do you start with an industry and work down to companies, or stumble on a company and work outward?\n3. What tools or sources do you use? Screeners, ETF holdings lists, 13F filings, trade publications, supplier and customer lists?\n4. Once you find an industry that looks interesting, how do you figure out who the real players are?\n\nWhat's your go-to method for finding companies you had never heard of?",
-    "subreddit": "StockMarket",
-    "created_utc": 1789649731,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I just ask on Reddit and blindly follow anybody’s advice. Statistically everyone can’t be wrong all the time, and that’s where we make our money",
-        "score": 33,
-        "author": "InterstellarReddit"
-      },
-      {
-        "body": "It’s not that hard to find companies that are profitable and growing. Pay for business journalism. Look at company financials. Notice products and services you personally like and see if you can invest in them.\n\nThe hard part is understanding a company’s value and patiently holding for the long term, even when the share price swings wildly in the short term.",
-        "score": 28,
-        "author": "ThanklessWaterHeater"
-      },
-      {
-        "body": "A really great way to do this is to get a hold of the investment prospectus for various ETFs.  You can find ones that specialize in the industries you're interested in and study the current holdings.",
-        "score": 5,
-        "author": "Kwikstep"
-      }
-    ],
-    "summary_he": "הפוסט עוסק בחיפוש אחר חברות ציבוריות יציבות ורווחיות שאינן זוכות לחשיפה תקשורתית רחבה כמו ענקיות הטכנולוגיה המוכרות. הכותב מבקש המלצות לשיטות וכלים לאיתור חברות אלו \"מתחת לרדאר\", כגון שימוש בסורקי מניות, ניתוח אחזקות של תעודות סל ובחינת שחקנים מרכזיים בתעשיות ספציפיות שאינן מוכרות לציבור הרחב.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום רדיט, המציג שש נקודות מבט וגישות שונות בנוגע לאסטרטגיות השקעה:\n\n*   **הסתמכות על \"חוכמת ההמונים\" ברשת:** קיימת גישה (לעיתים סאטירית אך רווחת) של מעקב עיוור אחר המלצות בפורומים כמו רדיט, מתוך הנחה סטטיסטית שלא ייתכן שכולם טועים כל הזמן ושיש ערך במידע קהילתי.\n*   **השקעה במה שמוכר ויומיומי:** אחת ההמלצות היא לבחון מוצרים ושירותים שאתם צורכים ואוהבים באופן אישי, ולהשתמש בזה כקצה חוט לחיפוש חזק של חברות להשקעה.\n*   **חשיבות המחקר המקצועי והפיננסי:** הדגשת הצורך בצריכת עיתונות עסקית איכותית (אפילו בתשלום) ובחינה מעמיקה של הדוחות הכספיים של חברות כדי למצוא עסקים רווחיים וצומחים.\n*   **האתגר שבהערכת שווי (Valuation):** קיימת הבחנה בין היכולת למצוא חברה טובה לבין הקושי האמיתי – הבנת הערך הכלכלי של החברה וקביעה האם מחיר המניה הנוכחי משקף את שוויה.\n*   **חוסן פסיכולוגי וסבלנות:** נקודת מבט מרכזית טוענת שהחלק הקשה ביותר בהשקעות הוא היכולת להחזיק במניה לטווח ארוך בסבלנות, מבלי להילחץ מתנודות חריפות וזמניות במחיר השוק.\n*   **למידה ממנהלי קרנות (ETFs):** שיטה מומלצת היא ללמוד את התשקיפים והחזקות של תעודות סל (ETFs) המתמחות בתעשיות ספציפיות, כדי להבין אילו מניות נבחרות על ידי המקצוענים באותם תחומים שמעניינים את המשקיע."
-  },
-  {
-    "id": "1wizr4c",
-    "title": "How are you building a defensive investment strategy without just keeping cash in a HYSA?",
-    "url": "https://www.reddit.com/r/investing/comments/1wizr4c/how_are_you_building_a_defensive_investment/",
-    "author": "realdiamond10",
-    "score": 30,
-    "selftext": "How are people here thinking about a defensive investment strategy right now without simply moving everything to cash? I am trying to balance long term investing with the reality that some parts of the market can get expensive or fragile. Do you think defensively through asset allocation, dividend quality, lower volatility stocks, bonds, cash buffers, sector exposure, or position sizing? Do any of you use AI portfolio tools or stock signals to identify risk in your holdings? I am not trying to time the market perfectly. I am trying to build a process for staying invested while reducing avoidable mistakes.",
-    "subreddit": "investing",
-    "created_utc": 1789664592,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "The thing people don't understand about these kind of economic downturns is that you can't SEE it when it's just starting. First - the difference between 4% unemployment and 8% unemployment is DISASTROUS but you won't notice it at walmart, the mall, or the movie theatre. 4% of people struggling isn't something you'll see at your favorite restaurant without a very trained eye. Add to that, in the early phases of depression/downturn like we're in now, people are covering that shortfall with credit. You can consider that household credit card debt is very high right now as evidence supporting this.\n\nSo if you think you're going to see people struggling in public, you're probably not.\n\nbut go to the salvation army and ask them if they're seeing more people. Check out a food bank and ask if 1. they're getting less donations and 2. if they have more people in need. Look at how many kids are signing up for free/reduced school lunches. \n\nIf you look at the people who have the money to go shopping and eat out, you'll never see the kind of thing that can show you just how hard it is for some.",
-        "score": 14,
-        "author": "OtisB"
-      },
-      {
-        "body": "What If I told you a lot of people lose their jobs during a bad market?",
-        "score": 10,
-        "author": "Valvador"
-      },
-      {
-        "body": "Lol, you think you are going to keep your job when the market crashes?\n\nCute.\n\nLet me guess, do you also think someone will just loan you all the money you need?\n\nJesus, this is going to be worse than we thought.",
-        "score": 4,
-        "author": "vitringur"
-      }
-    ],
-    "summary_he": "הכותב מבקש למצוא דרכים לבניית אסטרטגיית השקעה דפנסיבית השומרת על חשיפה לשוק, מבלי להסתמך רק על החזקת מזומן בחשבונות חיסכון. הוא בוחן שיטות שונות לניהול סיכונים, כגון הקצאת נכסים, בחירת מניות בעלות תנודתיות נמוכה ושימוש בכלי בינה מלאכותית לניתוח התיק. המטרה היא ליצור תהליך השקעה לטווח ארוך שממזער טעויות ומתמודד עם חוסר יציבות בשוק, מבלי לנסות לתזמן אותו באופן מושלם.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות בשרשור, המציג 6 נקודות מבט ותחושות שונות בקהילה:\n\n*   **חוסר הנראות של תחילת המיתון:** אחד הטיעונים המרכזיים הוא שמשבר כלכלי אינו \"נראה לעין\" בשלביו הראשונים. המקומות הציבוריים (קניונים, בתי קולנוע ומסעדות) ימשיכו להיראות מלאים באנשים שיש להם כסף, מה שיוצר אשליה שהמצב תקין ומסתיר את הסבל של אלו שכבר נפגעו.\n*   **הפער הקריטי בנתוני האבטלה:** המגיבים מציינים כי הבדל שנראה קטן \"על הנייר\", כמו זינוק מ-4% ל-8% אבטלה, הוא למעשה הרסני מבחינה חברתית וכלכלית, גם אם האדם הממוצע לא יבחין בכך ביומיום שלו ללא עין מקצועית.\n*   **השימוש באשראי כ\"מסכה\" למצוקה:** קיימת טענה כי חובות כרטיסי האשראי הגבוהים כיום מעידים על כך שאנשים משתמשים בהלוואות כדי לכסות על פערים בהכנסות. הדבר מאפשר להם לשמור על רמת חיים חיצונית תקינה זמנית, בעוד שמתחת לפני השטח המצב הכלכלי מחמיר.\n*   **חיפוש אינדיקטורים במקומות הנכונים:** כדי להבין את עומק המשבר, מציעים המגיבים להסתכל על ארגוני חסד, בתי תמחוי ובתי ספר (ביקוש לארוחות חינם). העלייה בביקוש לעזרה והירידה בתרומות במקומות אלו הן המדד האמיתי למצב המשק, ולא כמות האנשים בקניון.\n*   **נאיביות לגבי יציבות תעסוקתית:** בקהילה נשמעת ביקורת צינית כלפי אנשים שחשים ביטחון מופרז במקום עבודתם. נטען כי בזמן קריסת שוק, הפיטורים הם נרחבים ובלתי נמנעים, ורבים מאלו שמרגישים חסינים ימצאו את עצמם ללא עבודה.\n*   **אשליית הגישה לאשראי בזמן משבר:** המגיבים מזהירים מפני המחשבה המוטעית שניתן יהיה פשוט \"לקחת הלוואה\" כדי לשרוד את התקופה הקשה. התחושה היא שבזמן קריסה אמיתית, הגישה למזומן ולאשראי תיחסם, מה שיהפוך את המצב לחמור בהרבה ממה שהציבור צופה כרגע."
-  },
-  {
-    "id": "1wjn60z",
-    "title": "OPEX, September Weakness and the Setup Into October",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1wjn60z/opex_september_weakness_and_the_setup_into_october/",
-    "author": "Smart_Money_HQ",
-    "score": 26,
-    "selftext": "I have now trimmed almost all the SPY longs I added on Wednesday at 750 as we head into OPEX and the September risk window continues.\n\nDo not take this as an bearish call though\n\nThe flows are simply not aligned for a sustained move higher yet, and I think further weakness could be likely. That weakness, however, should provide opportunities to position for a move higher into October.\n\nLet’s start with OPEX. Today’s expiry is one of the largest on record, with more than $7 trillion in open interest and roughly $2 trillion of delta expiring. With this much positioning rolling off during triple witching, volatility is likely to be elevated.\n\nThe flows that have helped contain market moves over the past few days can disappear, leaving the market more exposed to larger swings afterward. Just to put into perspective, you can see how big this OPEX Is compared to the others in the chart below\n\nhttps://preview.redd.it/1r0uz4w0g9qh1.png?width=1080&format=png&auto=webp&s=42b95bfb1967642e11dc354dc82f0f46a3dac418\n\nA couple of weeks ago, I shared this chart showing that buybacks would provide less support heading into the second half of September. We have now entered that weaker period. This was one of the reasons I became more defensive at the start of the month and have continued to favour selling into rallies.\n\nhttps://preview.redd.it/8nn1v553g9qh1.png?width=1080&format=png&auto=webp&s=e84105a7a46a885359552136f672976232aeec45\n\nSeasonality is also not on the bullish side, as you can see from the historical performance of the S&P 500 during the second half of September.\n\nhttps://preview.redd.it/yc2fz1z3g9qh1.png?width=1080&format=png&auto=webp&s=c565a59cf5ce8395ea70445f3963071e83466c43\n\nhttps://preview.redd.it/h05rg3mig9qh1.png?width=1161&format=png&auto=webp&s=e2f2195542b6a3a09bb793d21e2d7816f10025e9\n\nAnother reason for the more defensive stance is the quarter-end rebalancing expected from funds. They currently remain overfunded in equities, increasing the potential for them to sell stocks and buy fixed income into quarter-end.\n\nhttps://preview.redd.it/f7gt74u4g9qh1.png?width=1080&format=png&auto=webp&s=d7d95a7ad683375c23e5b20fd2a90accb423175b\n\nIn addition to this we have the Trump Xi meeting on Sep 25 which is showing a modest pickup in volatility and a lot of Fed speeches\n\nhttps://preview.redd.it/qohcu417g9qh1.png?width=1075&format=png&auto=webp&s=bcbddc232da8865b800592096dccaf362782640d\n\nOn to positioning. The main level for SPY has moved from $750 to $760, so that's going to act as a magnet for today's session due to OPEX mechanics. Overall positioning has improved over the last couple of sessions, but given that it's OPEX, we need to read these levels in the context that flows are expiring. Market maker exposure and the broader positioning charts will look different on Monday.\n\nIn terms of resistance, the main level remains at $770, with some exposure also building at $775 so the daily high is likely between those two.\n\nhttps://preview.redd.it/yoeh93j9g9qh1.png?width=903&format=png&auto=webp&s=c58534037a58bbaf7e2692d220c3215daedd95a0\n\nQQQs are more or less the same with positioning showing improvement and more supportive flows. Again, note that OPEX will clear some of these. $720 is the level which will act as a magnet throughout today.\n\nhttps://preview.redd.it/hpnvd56ag9qh1.png?width=878&format=png&auto=webp&s=382c09fb44a5ddd9fa27a7447c091cb7567926d5\n\nOn to the VIX where the main level is 17 and market makers are likely to provide suportive flows at 15, where it's currently trading. So, we could se a bounce here\n\nhttps://preview.redd.it/8jjq4qwag9qh1.png?width=899&format=png&auto=webp&s=1e61733b4cacdb558362c4f5ec9cc3d2d3dda114\n\nIn terms of single stocks, I'll be adding non-leveraged exposure to core holdings and some of the AI tickers on this potential drawdown throughout the month as most of these headwins will have subsided.\n\nToday, I'll likely sit on my hands and see how the market repositions for next week",
-    "subreddit": "StockMarket",
-    "created_utc": 1789729521,
-    "thumbnail": "https://preview.redd.it/as8zga7eg9qh1.jpeg?width=140&height=74&auto=webp&s=fd178f563d0da9e71cd4d0626d89d8a67b356e90",
-    "top_comments": [
-      {
-        "body": "This is all very interesting but mostly what I see is that the 10 year is up over 5% again today, oil is up again, diesel prices just keep climbing and there is no plan. I’m not a doomer or constantly thinking a correction is coming but it’s hard not to see the blaring alarms at the moment. If you’re young and boggleheading, it’s not a big deal. If you’re reaching retirement age or have huge gains in investments, it’s not a bad time to do some trimming.",
-        "score": 3,
-        "author": "blueskies8484"
-      },
-      {
-        "body": "I wonder if there are enough foreign war years to get some data there.",
-        "score": 1,
-        "author": "findingmike"
-      }
-    ],
-    "summary_he": "הכותב מצמצם את חשיפתו למניות לקראת פקיעת אופציות גדולה במיוחד וחולשה עונתית הצפויה בסוף ספטמבר, המלווה בתנודתיות גבוהה ואיזון מחדש של תיקים בקרנות. עם זאת, הוא מדגיש כי אינו \"דובי\" לטווח הארוך, אלא מתכנן לנצל את הירידות הקרובות כדי להגדיל פוזיציות במניות ליבה ובמגזר ה-AI לקראת עליות פוטנציאליות באוקטובר.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **דאגה מעליית התשואות:** קיימת התייחסות ישירה ומודאגת לכך שתשואות איגרות החוב ל-10 שנים עלו שוב מעל לרף ה-5%, מה שנתפס כאות אזהרה משמעותי בשוק.\n*   **התייקרות משאבי האנרגיה:** המגיבים מצביעים על עלייה מתמשכת במחירי הנפט והסולר, ורואים בכך גורם לחץ כלכלי נוסף שממשיך לטפס ללא הפסקה.\n*   **תחושת היעדר הנהגה כלכלית:** עולה ביקורת על כך שלמרות \"נורות האזהרה המהבהבות\" בכלכלה, נראה כי אין תוכנית פעולה סדורה להתמודדות עם המצב מצד הגורמים הרלוונטיים.\n*   **הבחנה בין דורות של משקיעים:** קיימת הבנה שהמצב הנוכחי משפיע אחרת על קבוצות גיל שונות; עבור משקיעים צעירים הדבקים בשיטת ה-Bogleheads (השקעה פסיבית לטווח ארוך), המצב נתפס כפחות קריטי.\n*   **המלצה לזהירות למשקיעים וותיקים:** עבור אלו המתקרבים לגיל פרישה או כאלו שצברו רווחים משמעותיים, עולה הצעה אופרטיבית לבצע \"דילול\" (Trimming) של תיק ההשקעות כדי להבטיח רווחים ולהקטין סיכון.\n*   **חיפוש אחר הקשר היסטורי:** עולה סקרנות לגבי השפעתן של מלחמות זרות על השוק, תוך רצון לבחון נתונים מהעבר כדי לנסות ולחזות את מגמות השוק בזמנים של עימותים גלובליים."
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות בשרשור:\n\n* **המלצה על רכישת מניות (Equities):** המגיב המרכזי ממליץ להמשיך ולקנות מניות, למרות התחזיות הרווחות ברשת על קריסה קרבה של השוק.\n* **ספקנות כלפי חוכמת ההמונים:** עולה הטענה שהציבור הרחב בפורומי ההשקעות בדרך כלל אינו יודע להעריך נכונה את המצב, וכאשר כולם חוזים קריסה, זה דווקא מעורר נורות אזהרה לכך שהתחזית עשויה להיות שגויה (אינדיקטור הפוך).\n* **מגבלות הניתוח המקצועי:** ניסיון העבר מראה שגם סוחרים מקצועיים עם הכלים המתקדמים ביותר לא תמיד מצליחים לחזות תהפוכות משמעותיות בשוק; המגיב מציין שגם ב-2009, אנשי מקצוע לא חזו את המשבר בזמן אמת.\n* **התמקדות באסטרטגיה אישית ולא בתזמון שוק:** הגישה המומלצת היא לא לנסות לנחש לאן השוק הולך, אלא לקבוע הקצאת נכסים המתאימה לרמת הסיכון ולטווח הזמן של המשקיע ולהיצמד אליה.\n* **דינמיקה של קהילה (אופטימיות יתר):** ישנה טענה בשרשור שקיימת \"אופטימיות מופרזת\" בפורום, הגורמת למשתתפים להשתיק או לבטל (באמצעות Downvotes) דעות שמציגות הנחות יסוד זהירות או פסימיות.\n* **הפער בין רטוריקה לרווח (דובים נגד שוורים):** סנטימנט בולט בקהילה גורס כי \"דובים\" (הצופים ירידות) נשמעים חכמים ומתוחכמים יותר בניתוחים שלהם, אך בפועל \"שוורים\" (המאמינים בעליות) הם אלו שמרוויחים כסף לאורך זמן.\n* **ביקורת על חוסר שקיפות:** עולה טענה נגד אלו שמנבאים שחורות (\"Doomers\") על כך שהם מספקים הסברים ארוכים ומפורטים, אך נמנעים מלחשוף את הפוזיציות הכספיות האמיתיות שלהם בשוק."
   },
   {
     "id": "1wjrj7t",
@@ -240,59 +131,43 @@ window.dailyTrends = [
     ],
     "summary_he": "הפרופסור תורסטן הנס מסביר כי שוק ההון מושפע מ\"רפלקסיביות\", שבה ציפיות המשקיעים מעצבות את המציאות הכלכלית ויוצרות מצב שבו כל משקיע מנסה לנחש את מהלכיהם של האחרים. הוא מדגיש שבעוד שערכי היסוד (fundamentals) מניעים את השוק לטווח הארוך, מחזורי ספקולציה עלולים להימשך שנים רבות ולהפוך את \"הטווח הקצר\" לתקופה ממושכת ומאתגרת במיוחד.",
     "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ותובנות מרכזיות שעלו:\n\n*   **ההבדל בין \"רפלקסיביות\" ל\"תחרות יופי\":** הדיון מבחין בין המושג \"רפלקסיביות\" (שבו האמונה של המשקיעים משנה את המציאות עצמה) לבין \"תחרות היופי\" של קיינס (שבה המטרה היא לנחש מה יהיה ניחוש הממוצע של שאר המשתתפים). הכשל המרכזי הוא שהם \"נכשלים\" בדרכים שונות: ברפלקסיביות אתה משפיע על הדבר, ובתחרות היופי אתה יכול לצדוק לחלוטין לגבי הערך, אך עדיין להפסיד כי לא פעלת לפי דעת הרוב.\n*   **הטעות בזיהוי המשחק:** משקיעים רבים חושבים שהם פועלים לפי עקרון הרפלקסיביות (השפעה על הערך), בעוד שבפועל הם שבויים ב\"תחרות יופי\". הם מנתחים נכון את היסודות הכלכליים (Fundamentals), אך נרמסים על ידי הדינמיקה של השוק והציפיות של שאר השחקנים.\n*   **המחיר של הקדמת השוק:** אחת התובנות המרכזיות היא ש\"להיות צודק מוקדם מדי זהה ללטעות\". התיאוריה הכלכלית לא מכינה משקיעים לכך שגם אם הם זיהו נכונה שטרנד מסוים (כמו השקעות ב-AI) הוא יקר מדי או בועתי, הם עדיין יכולים להפסיד כסף במשך שנים רק כי השוק ממשיך בכיוון ההפוך.\n*   **הספק לגבי כוחה של הרפלקסיביות:** עולה שאלה ביקורתית לגבי היכולת של מושג הרפלקסיביות להסביר ספקולציות קצרות טווח שנמשכות שנים; נראה שיש פער בין התיאוריה לבין התנהגות השוק בפועל לאורך זמן.\n*   **הקושי בחישוב \"ערך הוגן\":** נטען כי גם הצעות ערך (Value Propositions) שנחשבות למושכלות הן למעשה קצרות טווח. זאת מכיוון שבלתי אפשרי לחשב באמת ערך הוגן לעתיד הרחוק, ולכן גם הניתוח ה\"חכם\" ביותר מוגבל ביכולת החיזוי שלו.\n*   **עמידות הספקולציה מול הניתוח:** מחזורי ספקולציה עשויים להימשך זמן רב יותר מאשר אורך החיים של ניתוח ערך \"חכם\". כלומר, השוק יכול להישאר \"לא רציונלי\" זמן רב יותר מכפי שהמשקיע יכול להישאר נזיל, מה שהופך את הניתוח הפונדמנטלי לבעייתי בניהול השקעות בפועל."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ותובנות מרכזיות שעלו:\n\n*   **ההבדל בין \"רפלקסיביות\" ל\"תחרות יופי\":** הדיון מבחין בין המושג \"רפלקסיביות\" (שבו האמונה של המשקיעים משנה את המציאות עצמה) לבין \"תחרות היופי\" של קיינס (שבה המטרה היא לנחש מה יהיה ניחוש הממוצע של שאר המשתתפים). הכשל המרכזי הוא שהם \"נכשלים\" בדרכים שונות: ברפלקסיביות אתה משפיע על הדבר, ובתחרות היופי אתה יכול לצדוק לחלוטין לגבי הערך, אך עדיין להפסיד כי לא פעלת לפי דעת הרוב.\n*   **הטעות בזיהוי המשחק:** משקיעים רבים חושבים שהם פועלים לפי עקרון הרפלקסיביות (השפעה על הערך), בעוד שבפועל הם שבויים ב\"תחרות יופי\". הם מנתחים נכון את היסודות הכלכליים (Fundamentals), אך נרמסים על ידי הדינמיקה של השוק והציפיות של שאר השחקנים.\n*   **המחיר של הקדמת השוק:** אחת התובנות המרכזיות היא ש\"להיות צודק מוקדם מדי זהה ללטעות\". התיאוריה הכלכלית לא מכינה משקיעים לכך שגם אם הם זיהו נכונה שטרנד מסוים (כמו השקעות ב-AI) הוא יקר מדי או בועתי, הם עדיין יכולים להפסיד כסף במשך שנים רק כי השוק ממשיך בכיוון ההפוך.\n*   **הספק לגבי כוחה של הרפלקסיביות:** עולה שאלה ביקורתית לגבי היכולת של מושג הרפלקסיביות להסביר ספקולציות קצרות טווח שנמשכות שנים; נראה שיש פער בין התיאוריה לבין התנהגות השוק בפועל לאורך זמן.\n*   **הקושי בחישוב \"ערך הוגן\":** נטען כי גם הצעות ערך (Value Propositions) שנחשבות למושכלות הן למעשה קצרות טווח. זאת מכיוון שבלתי אפשרי לחשב באמת ערך הוגן לעתיד הרחוק, ולכן גם הניתוח ה\"חכם\" ביותר מוגבל ביכולת החיזוי שלו.\n*   **עמידות הספקולציה מול הניתוח:** מחזורי ספקולציה עשויים להימשך זמן רב יותר מאשר אורך החיים של ניתוח ערך \"חכם\". כלומר, השוק יכול להישאר \"לא רציונלי\" זמן רב יותר מכפי שהמשקיע יכול להישאר נזיל, מה שהופך את הניתוח הפונדמנטלי לבעייתי בניהול השקעות בפועל.",
+    "dateString": "2026-09-19",
+    "savedAt": {
+      "_seconds": 1789814580,
+      "_nanoseconds": 543000000
+    }
   },
   {
-    "id": "1wizb8j",
-    "title": "Hornbeck Offshore completes Helix merger and returns to the NYSE as HOS. What does the combined offshore-services model change for investors?",
-    "url": "https://www.reddit.com/r/investing/comments/1wizb8j/hornbeck_offshore_completes_helix_merger_and/",
-    "author": "stewart0077",
-    "score": 6,
-    "selftext": "Hornbeck Offshore Services has completed its all-stock merger with Helix Energy Solutions Group, creating an offshore services company with roughly 85 vessels operating across the U.S. Gulf, Latin America, the North Sea, West Africa and Southeast Asia.\n\nWhat I find interesting is the combination of Hornbeck's offshore vessel fleet with Helix's subsea and energy-services assets rather than this simply being a consolidation of two similar operators.\n\nFollow offshore energy services what would you watch most closely with the combined company: fleet utilization, debt and capital spending, offshore activity levels or whether the broader service mix produces better margins through the cycle?\n\nSource: [WorkBoat](https://www.workboat.com/hornbeck-ceo-on-helix-deal-defense-growth-and-next-gen-vessels)",
-    "subreddit": "investing",
-    "created_utc": 1789663634,
-    "thumbnail": "self",
+    "id": "1wjn60z",
+    "title": "OPEX, September Weakness and the Setup Into October",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1wjn60z/opex_september_weakness_and_the_setup_into_october/",
+    "author": "Smart_Money_HQ",
+    "score": 26,
+    "selftext": "I have now trimmed almost all the SPY longs I added on Wednesday at 750 as we head into OPEX and the September risk window continues.\n\nDo not take this as an bearish call though\n\nThe flows are simply not aligned for a sustained move higher yet, and I think further weakness could be likely. That weakness, however, should provide opportunities to position for a move higher into October.\n\nLet’s start with OPEX. Today’s expiry is one of the largest on record, with more than $7 trillion in open interest and roughly $2 trillion of delta expiring. With this much positioning rolling off during triple witching, volatility is likely to be elevated.\n\nThe flows that have helped contain market moves over the past few days can disappear, leaving the market more exposed to larger swings afterward. Just to put into perspective, you can see how big this OPEX Is compared to the others in the chart below\n\nhttps://preview.redd.it/1r0uz4w0g9qh1.png?width=1080&format=png&auto=webp&s=42b95bfb1967642e11dc354dc82f0f46a3dac418\n\nA couple of weeks ago, I shared this chart showing that buybacks would provide less support heading into the second half of September. We have now entered that weaker period. This was one of the reasons I became more defensive at the start of the month and have continued to favour selling into rallies.\n\nhttps://preview.redd.it/8nn1v553g9qh1.png?width=1080&format=png&auto=webp&s=e84105a7a46a885359552136f672976232aeec45\n\nSeasonality is also not on the bullish side, as you can see from the historical performance of the S&P 500 during the second half of September.\n\nhttps://preview.redd.it/yc2fz1z3g9qh1.png?width=1080&format=png&auto=webp&s=c565a59cf5ce8395ea70445f3963071e83466c43\n\nhttps://preview.redd.it/h05rg3mig9qh1.png?width=1161&format=png&auto=webp&s=e2f2195542b6a3a09bb793d21e2d7816f10025e9\n\nAnother reason for the more defensive stance is the quarter-end rebalancing expected from funds. They currently remain overfunded in equities, increasing the potential for them to sell stocks and buy fixed income into quarter-end.\n\nhttps://preview.redd.it/f7gt74u4g9qh1.png?width=1080&format=png&auto=webp&s=d7d95a7ad683375c23e5b20fd2a90accb423175b\n\nIn addition to this we have the Trump Xi meeting on Sep 25 which is showing a modest pickup in volatility and a lot of Fed speeches\n\nhttps://preview.redd.it/qohcu417g9qh1.png?width=1075&format=png&auto=webp&s=bcbddc232da8865b800592096dccaf362782640d\n\nOn to positioning. The main level for SPY has moved from $750 to $760, so that's going to act as a magnet for today's session due to OPEX mechanics. Overall positioning has improved over the last couple of sessions, but given that it's OPEX, we need to read these levels in the context that flows are expiring. Market maker exposure and the broader positioning charts will look different on Monday.\n\nIn terms of resistance, the main level remains at $770, with some exposure also building at $775 so the daily high is likely between those two.\n\nhttps://preview.redd.it/yoeh93j9g9qh1.png?width=903&format=png&auto=webp&s=c58534037a58bbaf7e2692d220c3215daedd95a0\n\nQQQs are more or less the same with positioning showing improvement and more supportive flows. Again, note that OPEX will clear some of these. $720 is the level which will act as a magnet throughout today.\n\nhttps://preview.redd.it/hpnvd56ag9qh1.png?width=878&format=png&auto=webp&s=382c09fb44a5ddd9fa27a7447c091cb7567926d5\n\nOn to the VIX where the main level is 17 and market makers are likely to provide suportive flows at 15, where it's currently trading. So, we could se a bounce here\n\nhttps://preview.redd.it/8jjq4qwag9qh1.png?width=899&format=png&auto=webp&s=1e61733b4cacdb558362c4f5ec9cc3d2d3dda114\n\nIn terms of single stocks, I'll be adding non-leveraged exposure to core holdings and some of the AI tickers on this potential drawdown throughout the month as most of these headwins will have subsided.\n\nToday, I'll likely sit on my hands and see how the market repositions for next week",
+    "subreddit": "StockMarket",
+    "created_utc": 1789729521,
+    "thumbnail": "https://preview.redd.it/as8zga7eg9qh1.jpeg?width=140&height=74&auto=webp&s=fd178f563d0da9e71cd4d0626d89d8a67b356e90",
     "top_comments": [
       {
-        "body": "worth sorting out which company you're actually reading before any of that. the registrant is Legacy Helix. it converted from a minnesota to a delaware corporation on 1 september, took Hornbeck in as a wholly owned subsidiary, then renamed itself Hornbeck Offshore Services and picked up the HOS ticker. same CIK thats been filing since it was Cal Dive in 1996.\n\n \n\n  the pro forma exhibit in the 8-K/A calls it a reverse acquisition though, with Legacy Hornbeck the accounting acquirer of Legacy Helix, 45/55 fully diluted. so its Helix's assets that were recognized at fair value, with the excess going to goodwill. one of the pro forma notes is a decrease in depreciation off that fair value adjustment. worth knowing that before you read a margin",
+        "body": "This is all very interesting but mostly what I see is that the 10 year is up over 5% again today, oil is up again, diesel prices just keep climbing and there is no plan. I’m not a doomer or constantly thinking a correction is coming but it’s hard not to see the blaring alarms at the moment. If you’re young and boggleheading, it’s not a big deal. If you’re reaching retirement age or have huge gains in investments, it’s not a bad time to do some trimming.",
+        "score": 3,
+        "author": "blueskies8484"
+      },
+      {
+        "body": "I wonder if there are enough foreign war years to get some data there.",
         "score": 1,
-        "author": "Weak_Alternative_168"
+        "author": "findingmike"
       }
     ],
-    "summary_he": "חברת Hornbeck Offshore השלימה את מיזוגה עם Helix Energy Solutions וחזרה להיסחר בבורסת ניו יורק (NYSE), מהלך שיצר ענקית שירותי \"אוף-שור\" בעלת צי של כ-85 כלי שיט הפועלים ברחבי העולם. המיזוג ייחודי בשל השילוב בין ציי כלי השיט של הורנבק לבין שירותי התשתית התת-ימית של היליקס, מה שמעורר עניין בקרב משקיעים לגבי שיפור פוטנציאלי ברווחיות וביעילות התפעולית לאורך מחזורי השוק.",
+    "summary_he": "הכותב מצמצם את חשיפתו למניות לקראת פקיעת אופציות גדולה במיוחד וחולשה עונתית הצפויה בסוף ספטמבר, המלווה בתנודתיות גבוהה ואיזון מחדש של תיקים בקרנות. עם זאת, הוא מדגיש כי אינו \"דובי\" לטווח הארוך, אלא מתכנן לנצל את הירידות הקרובות כדי להגדיל פוזיציות במניות ליבה ובמגזר ה-AI לקראת עליות פוטנציאליות באוקטובר.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והניתוח של התגובות בנוגע למבנה התאגידי והדוחות הכספיים של חברת Hornbeck Offshore Services (HOS):\n\n*   **חשיבות זיהוי הישות המשפטית:** המגיב מדגיש כי לפני שצוללים לניתוח הנתונים, קריטי להבין איזו חברה נבדקת בפועל מבחינה רישומית, שכן המבנה התאגידי עבר שינויים משמעותיים שעלולים להטעות.\n*   **גלגולים היסטוריים ושינויי שם:** החברה הרשומה כיום היא \"Legacy Helix\", אשר שינתה את מקום התאגדותה ממינסוטה לדלאוור, רכשה את Hornbeck כחברה בת בבעלות מלאה, ולאחר מכן שינתה את שמה ל-Hornbeck Offshore Services תוך אימוץ הסימול HOS.\n*   **המשכיות רגולטורית ארוכת שנים:** למרות שינויי השם והמבנה, החברה משתמשת באותו מספר זיהוי רגולטורי (CIK) בדיווחיה ל-SEC מאז שנת 1996, אז פעלה תחת השם \"Cal Dive\".\n*   **מהות העסקה כ\"רכישה הפוכה\":** מבחינה חשבונאית (לפי דוח 8-K/A), מדובר ב\"רכישה הפוכה\" (Reverse Acquisition). המשמעות היא שחברת Hornbeck נחשבת לרוכשת החשבונאית של Helix, ביחס דילול של 45/55.\n*   **הערכת נכסים ומוניטין:** כתוצאה מהמבנה החשבונאי של העסקה, הנכסים של Helix הוכרו לפי \"שווי הוגן\" (Fair Value), כאשר העודף מעבר לשווי הנכסים נרשם במאזן כ\"מוניטין\" (Goodwill).\n*   **השפעה קריטית על ניתוח שולי הרווח:** המגיב מציין כי ההתאמה לשווי הוגן הובילה לירידה בהוצאות הפחת (Depreciation). זהו פרט חיוני להבנה נכונה של שולי הרווח של החברה, שכן ללא ידיעה זו, הנתונים הפיננסיים עלולים להיראות חיוביים יותר מכפי שהם באמת."
-  },
-  {
-    "id": "1wiru7x",
-    "title": "Is it still good to invest?",
-    "url": "https://www.reddit.com/r/investing/comments/1wiru7x/is_it_still_good_to_invest/",
-    "author": "DadiStefanoni",
-    "score": 2,
-    "selftext": "I’m 22 and I invest in mainly 2 different ETFs, which are CSPX (s&p500) and EIMI (emerging markets) as I am not a US citizen.\n\nI have more money into my bank account that I would probably like to invest. \n\nI would like to ask you all what you believe is good to invest in? Are my ETFs a good continuance for long term investing? Is there something you would change? This is not for personal learning its just to see what you guys think of the market right now.\n\nLove to know what you all think.",
-    "subreddit": "investing",
-    "created_utc": 1789645929,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "it was never good not to invest.  \nthe answer is: you shouldve started when you were born, but the next best time is now.",
-        "score": 12,
-        "author": "clonehunterz"
-      },
-      {
-        "body": "At 22, I’d be thinking less about trying to predict what the market does next and more about building a process you can stick with for the long term.\n\nS&P 500 + emerging markets gives you exposure to two important areas, but it’s worth understanding that you’re still making a fairly significant allocation decision by excluding other developed markets.\n\nThe biggest advantage you have at 22 is time. Consistently investing, staying diversified and avoiding the temptation to constantly change strategy because of short-term market moves can matter far more than finding the “perfect” ETF.\n\nWhatever you add, understand why you own it rather than buying simply because it's performing well today.",
-        "score": 4,
-        "author": "JohnWoolfittMarkets"
-      },
-      {
-        "body": "I think you're asking the right question now, but I'd still reverse the order slightly.\n\nRather than asking whether you should add a developed-markets ETF, first decide what geographic allocation you actually want for the next 30+ years.\n\nRight now CSPX + EIMI isn't simply a two-fund portfolio. It's an allocation decision: US large caps + emerging markets, with most other developed markets largely absent.\n\nThat isn't necessarily wrong. The important question is whether it's intentional.\n\nIf you want broader global exposure, then adding developed markets outside the US is one way to complete that structure. Another approach would be using a broader global fund as the core and only adding separate regional exposure where you deliberately want a tilt.\n\nBut I wouldn't add Europe, Japan or anything else simply because it looks like a \"gap\" on a map.\n\nA portfolio doesn't need to own every possible market. It needs an allocation you understand and can stick with.\n\n\\-With a 30+ year horizon, I'd write down three things before buying anything:\n\n\\-What percentage do I want in the US?\n\n\\-What percentage do I want in other developed markets?\n\n\\-What percentage do I want in emerging markets?\n\nThen choose the simplest set of funds that produces that exposure.\n\nThat also gives you something much more useful than another ETF: a target allocation you can rebalance back to for decades.",
-        "score": 2,
-        "author": "RiskBeforeReturn"
-      }
-    ],
-    "summary_he": "משקיע בן 22 המחזיק בקרנות סל על מדד ה-S&P 500 ושווקים מתעוררים מבקש לדעת האם כדאי להמשיך באסטרטגיה זו לטווח ארוך. הוא שוקל להשקיע הון נוסף שצבר ומתייעץ עם הגולשים האם כדאי להיצמד למסלול הקיים או לבצע שינויים בתיק לאור מצב השוק הנוכחי.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג נקודות מבט ושיקולים מרכזיים למשקיעים (בדגש על משקיעים צעירים):\n\n*   **חשיבות התזמון (התחלה עכשיו):** אף פעם לא היה \"זמן רע\" להשקיע. הזמן הטוב ביותר להתחיל היה ביום הלידה, אך הזמן השני בטיבו הוא ההווה. אין טעם לחכות למועד מושלם אלא פשוט להתחיל לפעול.\n*   **תהליך מול חיזוי:** בגיל צעיר (כמו 22), המטרה המרכזית צריכה להיות בניית תהליך השקעה עקבי שניתן להתמיד בו לאורך עשורים, במקום לנסות לנחש מה השוק יעשה בטווח הקצר.\n*   **מודעות להקצאה הגיאוגרפית:** תיק המבוסס על ה-S&P 500 (ארה\"ב) ושווקים מתעוררים (Emerging Markets) הוא החלטה מודעת להחסיד שווקים מפותחים אחרים (כמו אירופה ויפן). על המשקיע להבין אם החוסר הזה בתיק הוא טעות או בחירה אסטרטגית מכוונת.\n*   **יתרון הזמן והתמדה:** היתרון הגדול ביותר של משקיע צעיר הוא אופק ההשקעה הארוך. השקעה עקבית, גיוון והימנעות משינוי אסטרטגיה בגלל תנודות זמניות בשוק חשובים הרבה יותר ממציאת קרן הסל (ETF) ה\"מושלמת\".\n*   **הבנת ה\"למה\" מאחורי הנכס:** אין לרכוש נייר ערך רק בגלל שהוא מציג ביצועים טובים כרגע. על המשקיע להבין את הסיבה שהוא מחזיק בכל נכס בתיק שלו כדי שיוכל לדבוק בו גם בתקופות פחות טובות.\n*   **תכנון אסטרטגי לטווח ארוך (מודל 3 השאלות):** לפני רכישת ETF נוסף, מומלץ להגדיר מראש באחוזים: כמה מהתיק יושקע בארה\"ב, כמה בשווקים מפותחים אחרים וכמה בשווקים מתעוררים. הגדרה זו מאפשרת ליצור \"תיק יעד\" שאליו ניתן לאזן את ההשקעות לאורך עשורים."
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **דאגה מעליית התשואות:** קיימת התייחסות ישירה ומודאגת לכך שתשואות איגרות החוב ל-10 שנים עלו שוב מעל לרף ה-5%, מה שנתפס כאות אזהרה משמעותי בשוק.\n*   **התייקרות משאבי האנרגיה:** המגיבים מצביעים על עלייה מתמשכת במחירי הנפט והסולר, ורואים בכך גורם לחץ כלכלי נוסף שממשיך לטפס ללא הפסקה.\n*   **תחושת היעדר הנהגה כלכלית:** עולה ביקורת על כך שלמרות \"נורות האזהרה המהבהבות\" בכלכלה, נראה כי אין תוכנית פעולה סדורה להתמודדות עם המצב מצד הגורמים הרלוונטיים.\n*   **הבחנה בין דורות של משקיעים:** קיימת הבנה שהמצב הנוכחי משפיע אחרת על קבוצות גיל שונות; עבור משקיעים צעירים הדבקים בשיטת ה-Bogleheads (השקעה פסיבית לטווח ארוך), המצב נתפס כפחות קריטי.\n*   **המלצה לזהירות למשקיעים וותיקים:** עבור אלו המתקרבים לגיל פרישה או כאלו שצברו רווחים משמעותיים, עולה הצעה אופרטיבית לבצע \"דילול\" (Trimming) של תיק ההשקעות כדי להבטיח רווחים ולהקטין סיכון.\n*   **חיפוש אחר הקשר היסטורי:** עולה סקרנות לגבי השפעתן של מלחמות זרות על השוק, תוך רצון לבחון נתונים מהעבר כדי לנסות ולחזות את מגמות השוק בזמנים של עימותים גלובליים.",
+    "dateString": "2026-09-19",
+    "savedAt": {
+      "_seconds": 1789814565,
+      "_nanoseconds": 41000000
+    }
   },
   {
     "id": "1wk29cs",
@@ -323,7 +198,12 @@ window.dailyTrends = [
     ],
     "summary_he": "הפוסט בוחן האם הזינוק החד במניות של חברות טכנולוגיה ותיקות כמו Dell ו-HPE מוצדק לאור השתלבותן בתשתית הבינה המלאכותית (AI). הכותב תוהה האם מדובר בצמיחה ריאלית או ב\"הייפ\" מוגזם, במיוחד לאור הקושי לחזות את רווחיהן העתידיים וההתקררות שנרשמה לאחרונה במגזרים מקבילים בתחום.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות בשרשור, הכולל 6 נקודות מבט ותובנות מרכזיות של הקהילה:\n\n* **מעבר מ\"הייפ\" לערך ממשי:** קיימת הסכמה שהצמיחה של חברת דל (Dell) אינה נובעת מבועה או מ\"הייפ\" חולף, אלא מביצועים עסקיים מוצקים והתאמה של החברה לצרכי השוק הנוכחיים.\n* **התמקדות אסטרטגית בתשתיות:** החברה זוכה לשבחים על כך שביצעה שינוי כיוון מוצלח (Refocusing) והתמקדה באספקת חומרה ותשתיות טכנולוגיות, דבר שהפך אותה לרלוונטית מאוד בעידן הנוכחי.\n* **חוסן פיננסי ותזרים מזומנים:** המגיבים מציינים כי המיקוד מחדש של דל הניב תזרים מזומנים חופשי (Free Cash Flow) מסיבי, מה שמעיד על בריאות פיננסית ועל יכולת השקעה עתידית.\n* **תחזית אופטימית של השוק:** קיימת תחושה שהשוק \"מתעורר\" ומזהה את הפוטנציאל של דל, כאשר התחזיות לשנים הקרובות נראות חיוביות מאוד ומתומחרות כעת על ידי המשקיעים.\n* **חשיבות המחשוב המקומי (On-premise):** עלתה נקודה ייחודית בנוגע לחשיבות המכונות של דל להרצת תוכנות בקוד פתוח באופן עצמאי. בניגוד לתלות המוחלטת בענן, דל מספקת את החומרה הפיזית שמאפשרת פעילות עצמאית ללא צורך במרכזי נתונים חיצוניים.\n* **היעדר תרבות ה\"מם\" (Meme Stocks):** נראה כי דל (ו-HPE) אינן נתפסות כ\"מניות מם\" תנודתיות שמונעות על ידי רשתות חברתיות, בניגוד למניות טכנולוגיה אחרות כמו MU או RKLB. הדבר מעיד על תפיסה של החברה כהשקעה יציבה ורצינית יותר בקרב הקהילה."
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות בשרשור, הכולל 6 נקודות מבט ותובנות מרכזיות של הקהילה:\n\n* **מעבר מ\"הייפ\" לערך ממשי:** קיימת הסכמה שהצמיחה של חברת דל (Dell) אינה נובעת מבועה או מ\"הייפ\" חולף, אלא מביצועים עסקיים מוצקים והתאמה של החברה לצרכי השוק הנוכחיים.\n* **התמקדות אסטרטגית בתשתיות:** החברה זוכה לשבחים על כך שביצעה שינוי כיוון מוצלח (Refocusing) והתמקדה באספקת חומרה ותשתיות טכנולוגיות, דבר שהפך אותה לרלוונטית מאוד בעידן הנוכחי.\n* **חוסן פיננסי ותזרים מזומנים:** המגיבים מציינים כי המיקוד מחדש של דל הניב תזרים מזומנים חופשי (Free Cash Flow) מסיבי, מה שמעיד על בריאות פיננסית ועל יכולת השקעה עתידית.\n* **תחזית אופטימית של השוק:** קיימת תחושה שהשוק \"מתעורר\" ומזהה את הפוטנציאל של דל, כאשר התחזיות לשנים הקרובות נראות חיוביות מאוד ומתומחרות כעת על ידי המשקיעים.\n* **חשיבות המחשוב המקומי (On-premise):** עלתה נקודה ייחודית בנוגע לחשיבות המכונות של דל להרצת תוכנות בקוד פתוח באופן עצמאי. בניגוד לתלות המוחלטת בענן, דל מספקת את החומרה הפיזית שמאפשרת פעילות עצמאית ללא צורך במרכזי נתונים חיצוניים.\n* **היעדר תרבות ה\"מם\" (Meme Stocks):** נראה כי דל (ו-HPE) אינן נתפסות כ\"מניות מם\" תנודתיות שמונעות על ידי רשתות חברתיות, בניגוד למניות טכנולוגיה אחרות כמו MU או RKLB. הדבר מעיד על תפיסה של החברה כהשקעה יציבה ורצינית יותר בקרב הקהילה.",
+    "dateString": "2026-09-19",
+    "savedAt": {
+      "_seconds": 1789814632,
+      "_nanoseconds": 391000000
+    }
   },
   {
     "id": "1wk1wbg",
@@ -354,6 +234,187 @@ window.dailyTrends = [
     ],
     "summary_he": "הפוסט מתאר ירידה דרמטית ומתמשכת באופטימיות של עובדי חברת Hims לגבי עתיד העסק, שצנחה מ-65% ל-20% תוך 18 חודשים בלבד. זאת למרות נתונים חיצוניים המראים על צמיחה בכוח האדם ובתנועה באתר, בעוד שמניית החברה איבדה כשליש מערכה בתקופה זו. הכותב תוהה האם הסנטימנט השלילי בתוך החברה מקדים הרעה עתידית בתוצאות העסקיות הרשמיות.",
     "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע לחברת Hims ($HIMS), המציג 6 נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **מגמת ירידה חדה בערך המניה:** משתמשים מציינים כי המניה נמצאת במגמת ירידה מתמשכת מאז אוגוסט האחרון, ומתארים את מצבה הנוכחי של החברה כ\"נואש\" (Dire situation).\n*   **ניגוד קיצוני לביצועי העבר:** קיים לעג או תסכול מכך שהחברה, שבעבר הציגה זינוקים מרשימים של מעל 50% בחודש, איבדה את המומנטום שלה לחלוטין.\n*   **הטיה בנתוני כוח האדם:** נטען כי הסקרים או הנתונים הפנימיים של החברה מוטים, מכיוון שמצבת העובדים גדלה בכ-25% תוך שנה; רבים מהמשיבים לסקרים הנוכחיים הם עובדים חדשים שלא חוו את תקופות הצמיחה המוקדמות.\n*   **שינוי בהרכב לעומת שינוי במורל:** אחד המגיבים טוען כי השינוי בנתונים הסטטיסטיים של החברה נובע משינוי ב\"הרכב\" האנשים (Composition) ולאו דווקא משינוי אמיתי במצב הרוח או באווירה הכללית.\n*   **שינוי אסטרטגי בשיווק מוצרים:** ניכר כי החברה החלה בקידום אגרסיבי וממוקד של טיפולי טסטוסטרון (TRT) כלפי קהל הלקוחות שלה.\n*   **ניסיון פיצוי על ירידה בתחום ההרזיה:** קיימת הערכה בקהילה כי המעבר של החברה למיקוד בטסטוסטרון נועד \"לאסוף את השברים\" ולפצות על ירידה בביקושים או בהכנסות מתרופות לירידה במשקל (מבוססות GLP-1)."
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע לחברת Hims ($HIMS), המציג 6 נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **מגמת ירידה חדה בערך המניה:** משתמשים מציינים כי המניה נמצאת במגמת ירידה מתמשכת מאז אוגוסט האחרון, ומתארים את מצבה הנוכחי של החברה כ\"נואש\" (Dire situation).\n*   **ניגוד קיצוני לביצועי העבר:** קיים לעג או תסכול מכך שהחברה, שבעבר הציגה זינוקים מרשימים של מעל 50% בחודש, איבדה את המומנטום שלה לחלוטין.\n*   **הטיה בנתוני כוח האדם:** נטען כי הסקרים או הנתונים הפנימיים של החברה מוטים, מכיוון שמצבת העובדים גדלה בכ-25% תוך שנה; רבים מהמשיבים לסקרים הנוכחיים הם עובדים חדשים שלא חוו את תקופות הצמיחה המוקדמות.\n*   **שינוי בהרכב לעומת שינוי במורל:** אחד המגיבים טוען כי השינוי בנתונים הסטטיסטיים של החברה נובע משינוי ב\"הרכב\" האנשים (Composition) ולאו דווקא משינוי אמיתי במצב הרוח או באווירה הכללית.\n*   **שינוי אסטרטגי בשיווק מוצרים:** ניכר כי החברה החלה בקידום אגרסיבי וממוקד של טיפולי טסטוסטרון (TRT) כלפי קהל הלקוחות שלה.\n*   **ניסיון פיצוי על ירידה בתחום ההרזיה:** קיימת הערכה בקהילה כי המעבר של החברה למיקוד בטסטוסטרון נועד \"לאסוף את השברים\" ולפצות על ירידה בביקושים או בהכנסות מתרופות לירידה במשקל (מבוססות GLP-1).",
+    "dateString": "2026-09-19",
+    "savedAt": {
+      "_seconds": 1789814645,
+      "_nanoseconds": 536000000
+    }
+  },
+  {
+    "id": "1wk1fk8",
+    "title": "Which is the best MSCI World ex-USA UCITS ETF for non-US investor?",
+    "url": "https://www.reddit.com/r/investing/comments/1wk1fk8/which_is_the_best_msci_world_exusa_ucits_etf_for/",
+    "author": "DadiStefanoni",
+    "score": 10,
+    "selftext": "Hey everyone,\n\nI'm looking to complete my global portfolio setup with a developed ex-US allocation to pair with S&P 500 or direct US exposure. As a non-US resident/taxpayer, I’m sticking strictly to UCITS funds to avoid US estate tax traps and 30% dividend withholding.\n\nI’ve narrowed down my options for tracking the MSCI World ex USA Index, but I'm trying to decide between the main offerings:\n\n1. iShares MSCI World ex-USA UCITS ETF USD Acc (IXUA / EXUS)  \n TER: 0.15%  \n Domicile: Ireland  \n Pros: Liquidity, huge AUM, BlackRock stability.\n\n2. Xtrackers MSCI World ex USA UCITS ETF 1C (EXUS / XMWX)  \n TER: 0.15%  \n Domicile: Ireland  \n Pros: Massive fund size, physical replication, tight spreads on European exchanges.\n\n3. UBS MSCI World ex USA UCITS ETF USD Acc (WXUS / CHSI)  \n TER: 0.09%  \n Domicile: Luxembourg  \n Pros: Cheapest TER out of the three.\n\nWhich one are do you suggest for me to hold and why? Perhaps another one?\n\nAlso, is there any tax drag or treaty difference (e.g., withholding tax on Japanese/UK/Canadian dividends inside the fund) between Irish vs. Luxembourg UCITS funds for developed world equities? Is UBS's lower 0.09% TER worth picking over the liquidity and massive AUM of Xtrackers/iShares? And how has bid-ask spread and volume been for you on Interactive Brokers / European platforms?\n\nThanks",
+    "subreddit": "investing",
+    "created_utc": 1789763211,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "You have EXUS against both of them, which is worth untangling first. The iShares line and the Xtrackers line are different funds and the ticker you see depends on which exchange you are buying on.\n\nPast that, identical TER means TER is not your deciding number. Compare three-year tracking difference instead. That figure already contains securities lending income and withholding treatment, and two Irish funds on the same index can differ by more than the headline fee.",
+        "score": 3,
+        "author": "QuanTradin"
+      },
+      {
+        "body": "As investors, we are luckily very spoiled to have such great competition that different companies are investing in the same products, which drives the prices down. If you have several good choices, then you should agonize to find the optimal best, since they are so close that there doesn't have to be a best one, and you can just buy any.",
+        "score": 1,
+        "author": "Mindless_Acadia_7382"
+      }
+    ],
+    "summary_he": "הפוסט דן בבחירת קרן סל (UCITS) העוקבת אחר מדד MSCI World ex-USA כהשלמה לחשיפה לשוק האמריקאי עבור משקיעים שאינם תושבי ארה\"ב. הכותב משווה בין שלוש קרנות של iShares, Xtrackers ו-UBS, תוך התמקדות בדמי ניהול (TER), נזילות והבדלי מיסוי פוטנציאליים בין אירלנד ללוקסמבורג. הוא מבקש לדעת האם דמי הניהול הנמוכים של UBS מצדיקים בחירה בה על פני הקרנות הגדולות והנזילות יותר של המתחרות.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והתובנות המרכזיות שעלו מהתגובות ב-Reddit בתרגום לעברית:\n\n*   **הבחנה בין סדרות ובורסות:** יש להפריד בין סדרות המוצרים של חברות שונות (כמו iShares ו-Xtrackers). חשוב להבין שהסימול (Ticker) שרואה המשקיע עשוי להשתנות בהתאם לבורסה הספציפית שבה הוא סוחר, גם אם מדובר במוצר דומה.\n*   **מגבלות דמי הניהול (TER) כמדד השוואתי:** כאשר לשתי קרנות יש דמי ניהול (TER) זהים, הנתון הזה הופך ללא רלוונטי לצורך קבלת החלטה. במקרה כזה, דמי הניהול אינם יכולים להיות הגורם המכריע בבחירה בין הקרנות.\n*   **חשיבותו של \"הפרש העקיבה\" (Tracking Difference):** במקום להסתכל רק על העלות המוצהרת, מומלץ להשוות את הפרש העקיבה של הקרנות לאורך שלוש שנים. נתון זה משקף בצורה מדויקת יותר כמה הקרן הצליחה להיצמד למדד בפועל.\n*   **גורמים נסתרים המשפיעים על התשואה:** הפרש העקיבה הוא מדד חשוב כי הוא כבר מגלם בתוכו משתנים פנימיים כמו הכנסות מהשאלת ניירות ערך וטיפול בהיבטי מס (Withholding Tax). גורמים אלו יכולים ליצור הבדלים בביצועים גם בין שתי קרנות איריות שעוקבות אחר אותו מדד.\n*   **היתרון שבשוק תחרותי:** התחרות העזה בין חברות ההשקעה הגדולות נתפסת כברכה למשקיעים. התחרות מובילה להורדת מחירים (דמי ניהול) וליצירת שפע של מוצרים איכותיים שדומים מאוד זה לזה.\n*   **הימנעות מניתוח יתר (Analysis Paralysis):** כאשר קיימות מספר אופציות טובות שדומות מאוד בביצועיהן ובעלויותיהן, אין טעם להתייסר בחיפוש אחר האופציה ה\"אופטימלית\" ביותר. ההבדלים לרוב זניחים, ומוטב פשוט לבחור באחת מהן ולהתחיל להשקיע."
+  },
+  {
+    "id": "1wk1rem",
+    "title": "Ligent priced a $727M Hong Kong IPO at 28% revenue growth and its closest AI optical comp posted 182% in the same half",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1wk1rem/ligent_priced_a_727m_hong_kong_ipo_at_28_revenue/",
+    "author": "Ill-Sea-4603",
+    "score": 4,
+    "selftext": "Ligent Technologies priced its Hong Kong listing at HK$32.96 a share, raising about US$727 million ahead of a September 22 debut. Controlled by Hisense, it makes optical transceivers and chips. Roughly 70% of first half 2026 revenue came from datacom modules for AI data center interconnect. Cornerstones took about US$340 million, 47% of the base deal.\n\nThe growth line caught my attention. Ligent posted 5.39 billion yuan in the first half, up 27.7% year on year. Zhongji Innolight, the closest public comp in AI optical transceivers, reported 41.78 billion yuan, up 182%. Same product category, same buildout, one growing more than six times the rate of the other.\n\nThat gap needs context. Ligent's datacom revenue went from 25% of the total in 2023 to about 70% now, so its base was mostly telecom while Innolight was already scaling AI volumes. Different customers, different product generations, smaller revenue base. A 28% grower raising $727 million is not struggling, but that spread inside one product category is worth watching.\n\nMy exposure to this space runs through CNQQ, where Zhongji Innolight sits at about 6.4% and Eoptolink at about 2.3% of the latest published holdings, close to 8.7% combined. CQQQ scales its mainland positions down, so the same pair carries less weight there.",
+    "subreddit": "StockMarket",
+    "created_utc": 1789763960,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "the comp gap is doing a lot of work in that framing. 182% off a base that had already re-rated and 27.7% off a much larger one aren't the same measurement, so a chunk of that spread is the denominator rather than the businesses diverging.\n\nthe thing I'd want before the 22nd is the mix inside that 70% datacom line, because transceiver generations turn over fast and last half's revenue can be this half's discount bin.",
+        "score": 1,
+        "author": "QuanTradin"
+      },
+      {
+        "body": "that spread is wild, makes you wonder how much of Ligent's growth is just the telecom business finally waking up while Innolight's been sprinting from the start",
+        "score": 1,
+        "author": "SpitefulDeflation6"
+      },
+      {
+        "body": "had a buddy in semis investing who bailed on ligent because of that insane growth gap",
+        "score": 0,
+        "author": "Individual-Drop9042"
+      }
+    ],
+    "summary_he": "חברת Ligent Technologies גייסה 727 מיליון דולר בהנפקה בהונג קונג, תוך שהיא מציגה צמיחה של 28% בהכנסות לעומת צמיחה של 182% אצל המתחרה העיקרית שלה בתחום רכיבי האופטיקה ל-AI. הפער המשמעותי מוסבר במעבר המדורג של החברה מתחום הטלקום המסורתי למוצרים ממוקדי בינה מלאכותית, המהווים כעת כ-70% מפעילותה, מה שהופך אותה למקרה בוחן מעניין למעקב במגזר זה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit המנתח את הביצועים של החברות המדוברות (ככל הנראה Ligent ו-Innolight בתחום המוליכים למחצה והתקשורת), הכולל 6 נקודות מבט וסנטימנטים מהקהילה:\n\n*   **אפקט המכנה והטיית הנתונים:** אחד המגיבים טוען כי הפער באחוזי הצמיחה (182% לעומת 27.7%) מטעה מאוד. לטענתו, צמיחה גבוהה על בסיס קטן אינה מעידה בהכרח על ביצועים טובים יותר מאשר צמיחה מתונה על בסיס הכנסות גדול משמעותית, וכי חלק ניכר מהפער נובע מחישוב מתמטי ולאו דווקא מהבדל עסקי מהותי.\n*   **סיכון בהתיישנות מהירה של טכנולוגיה:** קיימת דאגה לגבי קצב התחלופה המהיר של דורות המשדרים-מקלטים (transceivers). הקהילה מציינת שטכנולוגיה שנמכרה במחיר מלא במחצית השנה הקודמת עלולה להפוך ל\"סחורה במבצע\" במחצית הנוכחית, מה שמחייב בדיקה מעמיקה של הרכב המלאי.\n*   **הצורך בפירוט פנימי של הכנסות ה-Datacom:** מושם דגש על כך שקו ה-Datacom מהווה כ-70% מהפעילות, ולכן קריטי להבין את התמהיל הפנימי שלו לפני תאריכי דיווח מפתח (כמו ה-22 לחודש). הבנת הדורות הטכנולוגיים בתוך נתון זה חשובה יותר מהמספר הכללי.\n*   **התעוררות מגזר הטלקום מול יציבות ה-Datacom:** הועלתה השערה שהצמיחה המהירה של חברת Ligent נובעת מכך שמגזר הטלקום \"התעורר\" סוף סוף לאחר תקופה ארוכה, בעוד שחברת Innolight כבר נמצאת בשיא הביצועים (\"ספרינט\") מתחילת הדרך.\n*   **חשדנות וספקנות כלפי צמיחה חריגה:** הפער הקיצוני בנתונים מעורר תהיות בקרב המשתמשים. הסנטימנט הוא שצמיחה כל כך \"פראית\" היא לעיתים סימן למשהו חריג שדורש בדיקה מעבר לפני השטח, ולא בהכרח סיבה לחגיגה.\n*   **נטישת משקיעים בשל חוסר ודאות:** מוזכר מקרה של משקיע מקצועי בתחום המוליכים למחצה שבחר \"לברוח\" מההשקעה ב-Ligent דווקא בגלל פער הצמיחה הבלתי נתפס, מה שמעיד על כך שחוסר היכולת להסביר את המספרים מרתיע חלק מהקהילה המקצועית."
+  },
+  {
+    "id": "1wjq1er",
+    "title": "What payment system to use to place a security deposit/hold?",
+    "url": "https://www.reddit.com/r/business/comments/1wjq1er/what_payment_system_to_use_to_place_a_security/",
+    "author": "mydogs22",
+    "score": 2,
+    "selftext": "I want to rent out something I made. I want to have a way to accept payments but to also either place a security deposit hold or something similar, in case the item is damaged.\n\nWhat recommended payment system allows for this? Is there an ideal way to do this?",
+    "subreddit": "business",
+    "created_utc": 1789737628,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Before choosing a payment system, it helps to separate the rental charge from the damage protection. A card authorisation hold usually expires after a provider- and network-specific period, so it may not cover a long rental. I would ask each provider for its maximum hold window, whether it can be extended, the fee if part of it is captured, and what evidence it requires in a dispute. If the rental lasts beyond that window, a clearly documented refundable deposit may be the more workable route.",
+        "score": 1,
+        "author": "TheInformantTen"
+      },
+      {
+        "body": "There are online platforms like Stripe, Toast, Square, Shopify, etc, but they all charge high fees to both you and the customer. There are other options, business trade associations give members a discount on the fees paid when processing a debit/credit card. For example the North American Association of Furniture Retailers gets members a price break through an agreement with Bank of America.  Another option- the website apartments.com offers a service to landlords where they'll process tenant's ACH rent payments for a 2.75% fee through their online portal. If you're a small landlord you could use free options like PayPal or Zelle.",
+        "score": 1,
+        "author": "vocation888"
+      },
+      {
+        "body": "I think you can also use crypto if you are into that ",
+        "score": 1,
+        "author": "Several-Ordinary-268"
+      }
+    ],
+    "summary_he": "הכותב מחפש מערכת תשלומים שתאפשר לו להשכיר פריט שיצר תוך גביית פיקדון לביטחון. הוא מעוניין בהמלצות על פלטפורמות המאפשרות ביצוע \"החזקת\" תשלום (Hold) למקרה של נזק, ושואל מהי הדרך האידיאלית לניהול התהליך.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו בתגובות ב-Reddit בנוגע למערכות תשלום עבור השכרות:\n\n*   **הפרדה בין דמי השכירות לפיקדון:** מומלץ להפריד מבחינה טכנית וחשבונאית בין התשלום על עצם ההשכרה לבין הפיקדון המיועד להגנה מפני נזקים.\n*   **מגבלות של חסימת מסגרת אשראי (Authorization Hold):** יש לקחת בחשבון שחסימת מסגרת בכרטיס אשראי פוקעת לאחר זמן מסוים (בהתאם לספק ולרשת). לכן, עבור השכרות לטווח ארוך, ייתכן שחסימת מסגרת לא תספיק ועדיף לגבות פיקדון כספי מתועד שיוחזר לשוכר בסיום העסקה.\n*   **בדיקת מדיניות הספקים:** לפני בחירת מערכת, חשוב לברר מול הספק מהו חלון הזמן המקסימלי להחזקת מסגרת אשראי, האם ניתן להאריכו, אילו עמלות נגבות בעת מימוש הפיקדון ואילו ראיות נדרשות כדי לנצח במקרה של מחלוקת (Dispute) מול הלקוח.\n*   **ביקורת על פלטפורמות פופולריות:** פלטפורמות מוכרות כמו Stripe, Square או Shopify נוחות לשימוש אך גובות עמלות גבוהות שמשפיעות הן על בעל העסק והן על הלקוח.\n*   **חיסכון דרך איגודים מקצועיים:** קיימת אפשרות להוזיל עלויות סליקה על ידי הצטרפות לאיגודים מקצועיים/מסחריים, שלעיתים קרובות משיגים לחבריהם הנחות משמעותיות בעמלות דרך הסכמים עם בנקים גדולים.\n*   **פתרונות לבעלי עסקים קטנים ונישות ספציפיות:** עבור משכירים בקנה מידה קטן, ניתן להשתמש בכלים חינמיים כמו PayPal או Zelle. כמו כן, קיימים שירותים ייעודיים לנישות (כמו apartments.com להשכרת דירות) המציעים סליקת תשלומים בעמלות קבועות.\n*   **שימוש במטבעות דיגיטליים:** עלתה האפשרות להשתמש בקריפטו כאמצעי תשלום חלופי עבור מי שמעוניין בכך ומכיר את התחום."
+  },
+  {
+    "id": "1wl56vx",
+    "title": "Banking on AI stocks to take off",
+    "url": "https://www.reddit.com/r/investing/comments/1wl56vx/banking_on_ai_stocks_to_take_off/",
+    "author": "BigBellyBelly",
+    "score": 1,
+    "selftext": "Is it me or it seems like AI stocks are the obvious winners? Imagine dropping $100K into AI stocks and waking up next year to see $1M in your account.  Am I dreaming too much? I know that’s ambitious but it can happen, right? The way things are going, it’s going to take off like crazy and we don’t want to miss the boat, do we?",
+    "subreddit": "investing",
+    "created_utc": 1789872742,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Why stop at trading, just do calls? You'd 100x instead. I only shared this advise because I know you'll pay me back 10k in the future as a sense of gratitude for this fool proof plan.",
+        "score": 1,
+        "author": "Seasawdog"
+      },
+      {
+        "body": "You have to invest. I’m holding until 2030.",
+        "score": 1,
+        "author": "Illustrious-Coat3532"
+      },
+      {
+        "body": "Even at the high price it's at?",
+        "score": 1,
+        "author": "OrderDesperate1607"
+      }
+    ],
+    "summary_he": "הכותב מביע התלהבות רבה מהשקעה במניות בינה מלאכותית (AI) ושואף להפוך סכום של 100 אלף דולר למיליון תוך שנה אחת בלבד. הפוסט משקף ציפייה לזינוק משמעותי בתחום וחשש מהחמצת ההזדמנות להרוויח בגדול מהמגמה הטכנולוגית הנוכחית.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג שש נקודות מבט ורגשות שונים שעלו מתוך התגובות:\n\n*   **המלצה למקסום רווחים באמצעות אופציות:** אחד המשתמשים מציע לא להסתפק במסחר רגיל אלא לעבור למסחר באופציות (Calls), מתוך שאיפה להגיע לרווחים של פי 100 מההשקעה המקורית.\n*   **הומור וביטחון עצמי מופרז:** קיימת נימה סרקסטית של \"ביטחון מוחלט\" בתוכנית ההשקעה, כאשר המגיב מכנה אותה \"תוכנית חסינה מכישלונות\" (fool proof) ואף מתלוצץ על כך שהוא מצפה לנתח מהרווחים העתידיים כהכרת תודה.\n*   **אסטרטגיית השקעה לטווח ארוך (HODL):** משתמש אחר מדגיש את החשיבות של השקעה ארוכת טווח, עם יעד מוגדר של החזקה בנכס עד שנת 2030, ללא קשר לתנודות בטווח הקצר.\n*   **הצורך המהותי בהשקעה:** נשמעת דעה נחרצת לפיה \"חייבים להשקיע\", מה שמעיד על סנטימנט בקהילה שרואה בישיבה על הגדר טעות.\n*   **חשש מרכישה במחירי שיא:** עולה תהייה וספקנות לגבי כדאיות הכניסה להשקעה בנקודת הזמן הנוכחית, לאור העובדה שהמחיר נתפס כגבוה מאוד (\"גם במחיר הגבוה שבו הוא נמצא עכשיו?\").\n*   **הבדלי גישות בין סיכון לזהירות:** הדיון משקף את המתח בקהילה בין הקיצוניות של הימורים על רווחים מהירים (high risk-high reward) לבין שאלות של תזמון שוק וזהירות מפני קנייה בשיא."
+  },
+  {
+    "id": "1wl329d",
+    "title": "open vs closed source models and the read through for infra",
+    "url": "https://www.reddit.com/r/investing/comments/1wl329d/open_vs_closed_source_models_and_the_read_through/",
+    "author": "OilAny787",
+    "score": 1,
+    "selftext": "There's a data point I recently just saw today and I think it's being badly misread, and the misreading matters if you're trying to work out where the AI money goes from here.\n\nVercel's AI Gateway, which routes real production traffic for a lot of developers, showed open weight models hitting about 78% of token volume on September 18, up from roughly 11% in April and 62% in late August. Closed models, the paid APIs from OpenAI, Anthropic and Google, have fallen from around 70% of that volume in June to about 22%. Vercel's CEO flagged it himself as possibly a record day for open source. The easy and popular conclusion is, open is eating the closed labs, so the labs are in trouble and value shifts down to infrastructure.\n\nI don't think that conclusion is wrong exactly, but it skips what actually matters, and the same CEO said it in the same thread. Even with open models running the majority of tokens, closed models still take the overwhelming majority of the spend. Anthropic alone was around 64% of gateway spend. A Mozilla report from mid September put open weight models at the majority of developer traffic on another big router while capturing something like 4% of model layer revenue. So the tokens went open and the dollars stayed closed. That's what happens when open models get pointed at the cheap high volume work, while the expensive reasoning that people pay for stays on the frontier APIs.\n\nThe bull case for the infra crowd, if open weights keep taking volume, the model layer commoditises, pricing power leaks out of the labs, and the margin has to land somewhere. The people running the compute and the routing in between look like the natural beneficiaries, and the total token pool is still growing fast on top of that.\n\nBut saying infra wins is too vague to trade, the margin doesn't accrue to some abstract infrastructure, it accrues to whoever owns the chokepoint, and those chokepoints are being bought up by the same incumbents the open movement was meant to route around. Stripe paid roughly 7.5 billion for OpenRouter, the main marketplace open models flow through, back in August. The hosting and tooling layer has been consolidating for a year. So the independence story and the investment story point in opposite directions, and a lot of the cheaper AI saving may just be relocating the toll booth.\n\nIf open really is repricing the industry, open weight spend share should start climbing toward its token share over the next couple of monthly gateway indices. If tokens stay near 80% while spend stays stuck in single digits into year end, then the open winning through volume thesis never becomes an earnings story, and the margin capture at the hosting layer is the actual trade.\n\nThis is one gateway and a single record day, and other trackers had open versus closed closer to 50-50 on request share earlier in the summer, so don't anchor on the exact 78%.\n\nWhat I'm trying to settle on is if open model volume dominance ever convert into open model dollars, or is usage share just permanently a different thing from where the profit pools sit? Smarter brains please drop your thoughts.",
+    "subreddit": "investing",
+    "created_utc": 1789866417,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Ironic how deleted comments still echo.",
+        "score": 1,
+        "author": "UpsetKangaroo6838"
+      },
+      {
+        "body": "token volume is a bad denominator for this, and it is biased in one specific direction. the workloads that move to open weights first are the ones that emit enormous output for very little reasoning: bulk classification, summarising, synthetic data generation. one of those jobs can outweigh a thousand hard calls on token count while being worth a tiny fraction of the revenue. so a share of tokens chart keeps climbing even in a world where nothing about the frontier's position has changed.",
+        "score": 1,
+        "author": "QuanTradin"
+      },
+      {
+        "body": "Wasn't a demand spike but more a free preview mechanic. People always want better value, seems like open weight is that solution. ",
+        "score": 1,
+        "author": "OilAny787"
+      }
+    ],
+    "summary_he": "הפוסט מציין כי מודלים בקוד פתוח תופסים נתח שוק גדל והולך של נפח השימוש (טוקנים), אך רוב ההוצאות הכספיות עדיין מופנות למודלים סגורים המשמשים למשימות מורכבות ויקרות. הכותב טוען כי אם המגמה תימשך, הרווחיות עשויה לעבור משכבת המודלים לשכבת התשתיות והאירוח, אם כי אלו עוברות קונסולידציה מהירה על ידי ענקיות הטכנולוגיה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים של הקהילה:\n\n*   **ביקורת על מדד נפח הטוקנים:** קיימת טענה כי שימוש בנפח טוקנים (Token Volume) כקנה מידה להצלחה הוא שגוי ומטעה, שכן הוא אינו משקף נאמנה את איכות העבודה או את הערך הכלכלי הנוצר.\n*   **עיוות הנתונים על ידי משימות פשוטות:** המגיבים מציינים כי משימות המייצרות פלט רב עם מעט \"חשיבה\" (כמו סיכום טקסטים או סיווג נתונים) מנפחות את כמות הטוקנים באופן מלאכותי, מה שגורם למודלים פתוחים להיראות דומיננטיים יותר מכפי שהם באמת.\n*   **ההבדל בין כמות לערך (Revenue vs. Volume):** מודגש פער משמעותי בין משימות פשוטות בנפח גבוה לבין קריאות מורכבות למודל; משימה מורכבת אחת יכולה להיות שווה ערך כלכלי רב יותר מאלפי משימות פשוטות, גם אם האחרונות מייצרות הרבה יותר טוקנים.\n*   **יציבות המודלים המובילים (Frontier Models):** נטען כי למרות העלייה בשימוש במודלים בעלי \"משקלים פתוחים\" (Open Weights), המעמד של המודלים החזקים והמתקדמים ביותר בשוק לא באמת השתנה מבחינת המשימות הקריטיות והמורכבות.\n*   **החיפוש אחר ערך כלכלי משופר:** הקהילה מזהה כי המניע העיקרי של המשתמשים הוא חיפוש אחר פתרונות זולים ויעילים יותר, ומודלים עם משקלים פתוחים נתפסים כמענה המרכזי לצורך זה.\n*   **ספקנות לגבי מקור הביקוש:** קיימת דעה שהעלייה בשימוש אינה נובעת מצמיחה אורגנית בביקוש, אלא ממנגנונים של \"תצוגה מקדימה בחינם\" (Free preview) שמשכו משתמשים לנסות את המערכות ללא התחייבות.\n*   **הערה מטא-פרשנית על השיח:** עולה נקודה אירונית לגבי האופן שבו מידע או תגובות שנמחקו בפורום עדיין מותירים חותם או \"הד\" בתוך הדיון המתפתח."
+  },
+  {
+    "id": "1wl2xts",
+    "title": "Is Copart’s Acquisition of ACV Auctions a Masterstroke or a Mistake? A Deep Dive into Growth, Supply Constraints, and Valuation",
+    "url": "https://www.reddit.com/r/investing/comments/1wl2xts/is_coparts_acquisition_of_acv_auctions_a/",
+    "author": "anmolago1",
+    "score": 1,
+    "selftext": "There were quite a few comments from my last two posts that raised concerns about Copart’s acquisition of ACV Auctions Inc. The general perception was that this was a bad decision because the company currently has a negative net profit and a large stock based compensation program. At first sight, that is a reasonable observation. However, sometimes things are different from how they appear. To understand whether this was the right move, it is necessary to examine Copart’s current business health and future prospects, and that is where I want to start, as it forms the foundation of my investment thesis.\n\n**Why did they buy ACV Auctions instead of executing aggressive stock buybacks at this price?**\n\nI started to suspect the answer when I stumbled upon the return of Jay Adair to the CEO position after just two years away. Simply looking at the timeline and the slowdown in earnings growth makes anyone suspicious that something is wrong. It doesn't take an in depth analysis to reach that conclusion. But most of the time, gut feelings and intuition are rather misleading when evaluating these situations.\n\nThe best way to make a rational decision is to model the company's growth over the coming years, so this time I ran a 5-year projection.\n\nThe growth of this business is dominated by vehicle supply, not demand. Copart sells everything that reaches its platform, boasts an extensive buyer network, and possesses decades of data analyzing consumer behavior to secure the best prices. The real bottleneck is the supply of vehicles received from insurance companies.\n\nTo understand this mechanism, I came up with the following formula:\n\n**Copart Vehicle Supply = Insured Vehicle Supply × Collision Frequency × Total Loss Frequency × Copart Market Share**\n\nThese are the variables that dictate their network intake, and analyzing them revealed the rationale behind acquiring ACV.\n\nThere has been a structural decline in collision frequency, dropping from a pre COVID level of 5.6% to 4.5% post COVID. At the same time, as inflation spiked repair costs, insurers totaled a higher percentage of damaged cars, pushing total loss frequency up from a pre-COVID average of 16.1% to a post-COVID average of 21%, eventually peaking and flattening at 23%.\n\nThis is unlikely to go much higher into the mid 20s unless we face runaway inflation.\n\nThis surge in totaled vehicles masked the underlying structural reduction in collision frequency for nearly six years, keeping total vehicle intake healthy. However, that crutch hit a wall once the volume of totaled vehicles stopped growing. As inflation cooled and total loss rates stabilized, the structural decline in collision frequency was exposed, casting a dark cloud over short to medium term growth.\n\nWhy did collision frequency decrease?\n\nThe primary drivers are the adoption of collision avoidance technology, blind spot detection systems, sensors, and cameras (now standard on almost every vehicle), alongside the shift toward remote work, which reduced miles traveled per capita, and economic factors such as high fuel prices that keep people off the road.\n\nPlugging the last 10 years of data into the equation yields a baseline growth rate of about 6% for the next five years, which is propped up by international sales. Without international markets, organic growth drops to 5.4%.\n\nTo get back to double digits, management had to act.\n\n**How do they solve it?**\n\nThe answer is as simple as increasing vehicle supply.\n\nThis is where Jay Adair is critical. Under his watch, he transformed Copart into what it is today and has proven capital allocation skills. He and his team have identified this supply bottleneck and deployed a clear strategy:\n\n1. **International expansion:** This segment is currently supporting overall growth and pushing it toward the 6% range. Growing it further is a straightforward strategy since it’s already a strong revenue engine.\n2. **The ACV acquisition:** Totaled vehicle supply may have peaked, forcing them to look elsewhere. ACV gets them straight into the wholesale vehicle market.\n3. **Scaling the core business:** This includes technology, automation, and yard expansion.\n\nThis strategy closely matches the challenges I found during my investigation. Without it, the company faces a structural growth slowdown that would be very difficult to overcome relying solely on the salvage segment.\n\n**Was ACV the right acquisition?**\n\nThis is the million dollar question, and time will tell as the transaction becomes accretive to Copart’s EPS.\n\nFrom a strategic perspective, diversifying into wholesale vehicles makes sense, and ACV is a natural fit. The synergies are evident. The systems and technology share obvious similarities that should yield early efficiencies.\n\nIn the short term, we may see a progressive reduction in ACV’s R&D expenses, a major component of their cash burn, as technology sharing between Copart and ACV kicks in. Utilizing Copart’s extensive yard network should also happen progressively, improving storage and transportation efficiency.\n\nHowever, I believe the main objective is opening Copart’s massive buyer network to ACV. More specifically, I believe management is trying to connect ACV’s vehicle supply to Copart’s global demand network rather than simply acquiring ACV’s existing buyer base.\n\nIf only 5% of Copart’s existing network engaged with ACV inventory, ACV could potentially more than double its current buyer base, which could have a significant impact on revenue.\n\nThat said, it remains to be seen whether a salvage buyer is also interested in purchasing wholesale inventory. Local businesses or international buyers utilizing cheaper labor to rebuild totaled salvage vehicles may not find it financially viable to buy higher end wholesale cars for the same purpose.\n\nThis overlap between Copart buyers and ACV inventory is one of the largest unknowns in the acquisition thesis.\n\nThis suggests that primarily the lower end of ACV’s inventory will successfully cross over into Copart’s ecosystem, leaving much of the value creation dependent on the first two benefits plus ACV’s existing dealer network.\n\n**Copart’s Valuation and Investment Strategy**\n\nI ran a 10-year model incorporating the ACV acquisition across three scenarios:\n\n* Bear case (6.4% growth)\n* Base case (7.7% growth)\n* Bull case (9.1% growth)\n\nThe bull case briefly touches double digit growth by 2029, though it is initially weighed down by low first year growth following the acquisition.\n\nUsing an 8% discount rate, my base case valuation yields an intrinsic value of $31 per share, suggesting the stock is currently trading around fair value.\n\nMy thesis hinges on Copart’s exceptional business quality and economic moat, making it a true compounder. However, looking at the opportunity cost relative to other portfolio options, I would prefer to enter at a 15% discount to fair value, putting my buy zone between $26 and $27.\n\nNormally I demand a 40%+ margin of safety, but given the fortress like quality of the business, I'd be happy entering around that range. Other investors may decide to enter at fair value for a company like Copart.\n\nWhere do you place fair value, and how much of a margin of safety do you require before initiating a position?\n\n \n\n*Disclaimer: I am not a financial advisor. This is simply my own valuation, estimates, and portfolio strategy. Please do your own research before making any investment decisions.*\n\n[Copart Research](https://stocksdeepdive.com/research?ticker=CPRT&section=Fundamentals)",
+    "subreddit": "investing",
+    "created_utc": 1789866069,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Stock based comp as a real cost is one thing these deep dives usually wave through. It is dilution on a delay, and for a company paying up for an acquisition it changes what shareholders are actually funding. A negative bottom line on its own says little, but those two together are worth the argument.",
+        "score": 1,
+        "author": "QuanTradin"
+      },
+      {
+        "body": "my buddy worked at acv before copart bought it and said growth was way ahead of projections even with supply issues",
+        "score": 1,
+        "author": "sargent010s"
+      }
+    ],
+    "summary_he": "הפוסט מנתח את רכישת ACV Auctions על ידי קופארט (Copart) כצעד אסטרטגי שנועד להתגבר על האטה בצמיחה האורגנית ועל מחסור באספקת רכבים הנובע מירידה בתדירות התאונות. המטרה היא להתרחב לשוק המכירות הסיטונאיות ולנצל את רשת הקונים הגלובלית והתשתיות של קופארט, אם כי קיימת אי-ודאות לגבי מידת החפיפה בין סוגי הקונים בשני השווקים. לסיכום, הכותב מעריך כי המניה נסחרת כעת בשווי הוגן וממתין למחיר כניסה אטרקטיבי יותר המגלם שולי ביטחון רחבים יותר.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שפורטו, הכולל 6 נקודות מרכזיות ותובנות מהקהילה:\n\n*   **התעלמות מעלויות אמיתיות בניתוחי עומק:** קיימת ביקורת על כך שניתוחים פיננסיים מעמיקים נוטים לעיתים קרובות להתעלם מ\"תגמול מבוסס מניות\" (Stock-based compensation) ולא להתייחס אליו כאל עלות תפעולית ריאלית.\n*   **השפעת הדילול בטווח הרחוק:** תגמול מבוסס מניות נתפס כגורם המדלל את ערך המניות של המשקיעים הקיימים בטווח הארוך (\"דילול בעיכוב\"), דבר שמשנה את תמונת הרווחיות.\n*   **שינוי במבנה המימון של בעלי המניות:** כאשר חברה משלמת על רכישת חברות אחרות במקביל לחלוקת מניות כפיצוי לעובדים, הדבר משנה את המהות של מה שבעלי המניות מממנים בפועל ועלול להוות נטל על ההון.\n*   **הקשר בין הפסדים לעלויות שכר:** נטען כי שורה תחתונה שלילית (הפסד נקי) אינה בהכרח גורם מרתיע כשלעצמה, אך בשילוב עם הוצאות גבוהות על תגמול במניות ורכישות, מדובר בטיעון משמעותי נגד יציבות החברה.\n*   **צמיחה חזקה מהתחזיות:** מנקודת מבט של עובדים \"מהשטח\" (עדות מכלי ראשון או מחברים), נראה כי הצמיחה של החברה בפועל עלתה באופן משמעותי על התחזיות המוקדמות.\n*   **חוסן אל מול בעיות באספקה:** הצמיחה המרשימה של החברה התרחשה למרות קשיים בשרשרת האספקה, מה שמעיד על ביקוש גבוה או מודל עסקי שמצליח להתגבר על מכשולים לוגיסטיים."
   }
 ];
