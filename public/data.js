@@ -1,67 +1,5 @@
 window.dailyTrends = [
   {
-    "id": "1wkmuw8",
-    "title": "Why is the stock market climbing ever since Walsh increased rates?",
-    "url": "https://www.reddit.com/r/investing/comments/1wkmuw8/why_is_the_stock_market_climbing_ever_since_walsh/",
-    "author": "After-Panda1384",
-    "score": 366,
-    "selftext": "My guess is because:\n\n25bps don't change a lot soon\n\nIt signals that the FED is serious about inflation\n\nIt shows that the FED is still independent \n\nWalsh said that the economy is strong (he knows better than 99% of retail investors)\n\nAnything else, or was it just a 3 day pop?",
-    "subreddit": "investing",
-    "created_utc": 1789826040,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "For investors, the bigger lesson is to avoid making decisions based on a single market event. **OngoleBulls Invest’s approach focuses on disciplined investing, diversification, mutual funds, portfolio management and long-term wealth creation based on your goals and risk profile.**",
-        "score": 1,
-        "author": "Prize_Resource_8051"
-      },
-      {
-        "body": "A rate hike doesn’t always mean the stock market will fall. 📈\n\nIf the increase was already expected, investors may have priced it in beforehand. Markets can continue climbing when corporate earnings stay strong, inflation expectations improve, or investors become more confident about the long-term economic outlook.\n\nThe key is not reacting to one event, but building a **well-diversified portfolio aligned with your goals and risk profile**.\n\nAt **OngoleBulls Invest**, we focus on disciplined investment planning, portfolio management, mutual funds and long-term wealth creation.\n\n**Don’t try to time every market move — invest with a strategy.**",
-        "score": 1,
-        "author": "Prize_Resource_8051"
-      },
-      {
-        "body": "Yes, its shocking but i believe certain liquidiies are yet to be taken on up side. Once that is taken, we will see good correction. \n\nAlso, oil is correcting and might take supprot at 101. If the support is holding. We will see oil go up to $114 and up",
-        "score": 1,
-        "author": "digieman"
-      }
-    ],
-    "summary_he": "הפוסט מנתח מדוע שוק המניות עולה למרות העלאת הריבית, ומייחס זאת לאמון המשקיעים בנחישות הפד (FED) להילחם באינפלציה ובחוסנה של הכלכלה. הכותב מציין כי העלאה מתונה נתפסת כסימן חיובי לעצמאות המוסדות הפיננסיים, ותוהה האם מדובר במגמה יציבה או בזינוק זמני בלבד.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, הכולל 6 נקודות מבט וסנטימנטים מרכזיים:\n\n*   **הימנעות מתגובות אימפולסיביות:** הגישה המרכזית המוצגת היא שמשקיעים צריכים להימנע מקבלת החלטות גורליות על סמך אירוע שוק בודד. במקום זאת, יש להתמקד בתכנון ארוך טווח ובמשמעת עצמית.\n*   **העלאת ריבית אינה גזר דין מוות לשוק:** קיימת דעה שהעלאת ריבית לא תמיד מובילה לירידות שערים. אם השוק כבר \"תמחר\" את ההעלאה מראש, או אם רווחי החברות נותרים חזקים, השוק יכול להמשיך לעלות למרות הריבית הגבוהה.\n*   **חשיבותו של תיק השקעות מגוון:** הקהילה מדגישה שניהול תיק השקעות מגוון, המותאם לרמת הסיכון וליעדים האישיים של המשקיע, הוא המפתח להתמודדות עם תנודתיות בשווקים.\n*   **ביקורת על ניסיונות \"לתזמן את השוק\":** ישנה אזהרה מפורשת נגד הניסיון לחזות ולתזמן כל תנועה קטנה בשוק. ההמלצה היא להשקיע באמצעות אסטרטגיה סדורה ולא על פי תחושות רגעיות.\n*   **ציפייה לתיקון בשוק המניות:** לצד האופטימיות, יש המאמינים כי למרות העליות הנוכחיות, השוק טרם מיצה את ה\"נזילות\" כלפי מעלה. ברגע שזה יקרה, צפוי להגיע תיקון משמעותי במחירים.\n*   **ניתוח טכני של מחירי הנפט:** קיימת התייחסות ספציפית למחירי הנפט, עם הערכה כי הנפט נמצא בתהליך תיקון. רמת המחיר של 101 דולר נתפסת כרמת תמיכה קריטית; אם היא תחזיק מעמד, המחיר עשוי לזנק חזרה לאזור ה-114 דולר ומעלה."
-  },
-  {
-    "id": "1wkpcik",
-    "title": "Money management tips please ?!",
-    "url": "https://www.reddit.com/r/investing/comments/1wkpcik/money_management_tips_please/",
-    "author": "TrickyMold48",
-    "score": 3,
-    "selftext": "Hey yall. 28m here. I have a financial question. I managed to stash out 10k. I want to put 4k-5k into something. I have a HYS & roth.. is there anything else i can do to double up? Day trading has always been risky & illiterate when it comes to stocks lol",
-    "subreddit": "investing",
-    "created_utc": 1789832223,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Keep 6 months living expenses in the HYSA. Regularly buy index funds with your income. Keep doing this for 10 years and then watch compounding start to show it's beautiful self",
-        "score": 11,
-        "author": "kinetic_honda"
-      },
-      {
-        "body": "If you haven't maxed the roth there's no point in investing in anything else yet. Basically paying taxes on everything else when you don't have to if you haven't maxed the roth.",
-        "score": 6,
-        "author": "Shadowrunner138"
-      },
-      {
-        "body": "How to double up:\n\n1. Take advantage of work place retirement options if you have them. Invest in stable index funds. Wait about 7-10 years. \n\n2. Invest in stable index funds. Wait about 7-10 years. \n\n3. Get a raise and make double what you're making now. Invest in a stable index fund. Wait about 7-10 years. ",
-        "score": 6,
-        "author": "Dogsbottombottom"
-      }
-    ],
-    "summary_he": "כותב הפוסט, בן 28 שחסך 10,000 דולר, מחפש דרכים להשקיע כמחצית מהסכום כדי להגדיל את הונו. הוא כבר משתמש בחשבון חיסכון בתשואה גבוהה וב-Roth IRA, ומבקש המלצות לאפיקים בטוחים יחסית שאינם דורשים ידע מעמיק בשוק ההון או סיכון של מסחר יומי.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון והתובנות המרכזיות שעלו מתוך התגובות בשרשור:\n\n* **יצירת \"כרית ביטחון\" פיננסית:** מומלץ להחזיק סכום השווה ל-6 חודשי הוצאות מחיה בחשבון חיסכון עם תשואה גבוהה (HYSA). זהו הבסיס ההכרחי לפני שמתחילים בהשקעות בשוק ההון.\n* **התמדה והשקעה במדדים:** האסטרטגיה המרכזית המוצעת היא רכישה קבועה ועקבית של קרנות מחקות מדד (Index Funds) לאורך זמן, במקום לנסות \"להכות את השוק\".\n* **סבלנות וכוחה של הריבית דריבית:** ההשפעה המשמעותית של ההשקעות מתחילה להראות את פירותיה (\"היופי של הריבית דריבית\") רק לאחר טווח זמן של כ-7 עד 10 שנים של השקעה רציפה.\n* **תיעדוף הטבות מס:** קיימת הסכמה שאין טעם להשקיע באפיקים חייבים במס לפני שמנצלים עד תום את תקרת ההפקדה לחשבונות פטורים ממס (כמו ה-Roth IRA בארה\"ב). תשלום מס מיותר נתפס כטעות אסטרטגית.\n* **ניצול הטבות מעסיק:** חשוב לנצל את כל אפשרויות הפרישה והחיסכון שמציע מקום העבודה. זו נחשבת לאחת הדרכים היעילות ביותר \"להכפיל\" את הכסף בטווח הרחוק.\n* **הגדלת כושר ההשתכרות כמנוף לצמיחה:** מעבר לחיסכון, אחת הדרכים המהירות ביותר להאיץ את בניית ההון היא להתמקד בקבלת העלאה בשכר. הכנסה גבוהה יותר מאפשרת להגדיל את סכומי ההשקעה החודשיים באותם מדדים יציבים."
-  },
-  {
     "id": "1wm3a8l",
     "title": "Moronic Monday - September 21, 2026 - Your Weekly Questions Thread",
     "url": "https://www.reddit.com/r/finance/comments/1wm3a8l/moronic_monday_september_21_2026_your_weekly/",
@@ -74,285 +12,316 @@ window.dailyTrends = [
     "top_comments": [],
     "summary_he": "זהו שרשור שבועי המיועד לשאלות בכל תחומי הפיננסים, כולל ייעוץ בקריירה ועזרה בשיעורי בית, בסביבה תומכת ומכבדת. המשתתפים מתבקשים לשמור על תרבות דיון, כאשר שאלות בנושאי פיננסים אישיים מופנות לפורומים ייעודיים אחרים.",
     "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-09-21",
+    "savedAt": {
+      "_seconds": 1789993914,
+      "_nanoseconds": 975000000
+    }
+  },
+  {
+    "id": "1wn4qqh",
+    "title": "Investing Research Prototype",
+    "url": "https://www.reddit.com/r/investing/comments/1wn4qqh/investing_research_prototype/",
+    "author": "modelcroissant",
+    "score": 1,
+    "selftext": "Good morning,\n\nI would like some help stress-testing an approach I have been using to validate or invalidate possible investment theses, as this is the part of investing I personally struggle to find enough time for.\n\nMy investing style includes both shorter-term and longer-term equity picking, and I have been trying to structure the DD process into several independent layers.\n\nThe first is the macro side, which tracks both market activity and the broader global environment (news, announcements, government agency releases, and various other sources) to understand how information propagates through the market.\n\nAt the same time, I independently track the equities side, mostly through market activity.\n\nOnce an interesting equity emerges that could potentially form the basis of an investment thesis, I then reconstruct the company from its filing data and market activity, creating a timeline of both the company and the security to see whether there is any divergence between what is happening in the business and what is reflected in the share price.\n\nLastly, I combine the macro world and the equities world to look for potential price divergence, assess whether there is potential beta carry-through into the equity, and whether the equity itself can generate adequate alpha on top of that beta.\n\nTo make the approach a bit less abstract, here is a sample of the kind of DD this process produces:\n\n[https://financial-lab.crescita.cc/](https://financial-lab.crescita.cc/)\n\nI would be interested to hear whether people here see any obvious flaws, blind spots, or missing pieces in this approach to DD.",
+    "subreddit": "investing",
+    "created_utc": 1790069526,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "הכותב מציג מודל רב-שכבתי למחקר השקעות (DD) המשלב ניתוח מאקרו-כלכלי, מעקב אחר נתוני שוק ודוחות כספיים, וזיהוי פערים בין ביצועי החברות למחירי המניות. מטרת התהליך היא לאתר הזדמנויות להפקת \"אלפא\", והכותב מבקש מהקהילה משוב וביקורת על פגמים או נקודות תורפה אפשריות בשיטתו.",
+    "category_he": "השקעות",
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1wm9nlj",
-    "title": "Spot oil is approaching new highs",
-    "url": "https://www.reddit.com/r/investing/comments/1wm9nlj/spot_oil_is_approaching_new_highs/",
-    "author": "deadwings13",
+    "id": "1wn3cvk",
+    "title": "I have completely fucked up by waiting until 24 to start investing.",
+    "url": "https://www.reddit.com/r/investing/comments/1wn3cvk/i_have_completely_fucked_up_by_waiting_until_24/",
+    "author": "brettb_54",
     "score": 1,
-    "selftext": "If you look at the futures price of Brent Crude oil on Tradingview it's only at about $100 right now. At its highest in March, Brent reached $119. Knowing the disruption of oil flows through the Middle East, and the months of drawdown from global inventories, it makes no sense that oil should trade below what it was in March.\n\nWhile the paper market tries to downplay the situation, the real price of physical oil is actually approaching previous highs fast. Last Tuesday Spot Brent actually reached $130, which was a $21 premium over the paper market. \n\nThis is not something to ignore. It will affect inflation, bonds, and your stock portfolio too. \n\nSource: [https://fred.stlouisfed.org/series/DCOILBRENTEU](https://fred.stlouisfed.org/series/DCOILBRENTEU)",
+    "selftext": "Title says it all honestly. I can’t believe I’ve put it off for so long. Just seeing other people’s portfolios on here who are younger than I am, combined with the skyrocketing stocks of large tech companies in the past 2 years (AMD, Nvidia, etc), makes me sick. Check out this post. Imagine if I started at 18. I’d be much further ahead than now.\n\nhttps://www.reddit.com/r/investing/comments/1fi8do3/people\\_who\\_started\\_investing\\_at\\_1720\\_yrs\\_old\\_how/?chainedPosts=t3\\_vqdgo5\n\nI guess the one good thing that’s come of this, is over the past 3 years I was able to save up enough to buy a $360k home with a 20% down payment. But imagine if I started earlier. That down payment could have been much, much bigger. \n\nI’m planning on putting $10k into something right now, and being in Canada starting a TFSA. I’m just still quite green on all this, and would appreciate some advice. I just feel like I’ve missed out on the stocks that were $20-80/share 3 years ago and are now worth $500+\n\nJust can’t get over this regret of not cluing into this earlier. Sorry about the rant. ",
     "subreddit": "investing",
-    "created_utc": 1789988677,
+    "created_utc": 1790064449,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "I think after adjusting for inflation it’d need to be over $200 a barrel these days ",
+        "body": "Oppsies then did I wait too long to start investing at 47?",
         "score": 1,
-        "author": "farmerbsd17"
-      }
-    ],
-    "summary_he": "הפוסט מדגיש את הפער הגובר בין מחירי הנפט בחוזים העתידיים לבין מחירו הפיזי (\"Spot\"), שהגיע לשיאים חדשים עקב שיבושי אספקה וירידה במלאים העולמיים. הכותב מזהיר כי עליית המחירים הריאלית משקפת את המצב בשטח טוב יותר מהשוק הפיננסי, וצפויה להשפיע באופן משמעותי על האינפלציה ועל שוקי המניות והאג\"ח.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן ניתוח של הדיון (המבוסס על התגובה שצוינה) בנוגע למחירי הנפט והשפעת האינפלציה, בצירוף 6 נקודות מרכזיות העולות מתוך הלך הרוח הקהילתי:\n\n**סיכום הדיון:**\nהדיון מתמקד בפער שבין המחיר הנומינלי (המספר היבש) של חבית נפט לבין הערך הריאלי שלה כיום, בשקלול האינפלציה המצטברת לאורך השנים. הטענה המרכזית היא ששיאי העבר נראים נמוכים רק בגלל שערך הדולר השתנה, וכי כדי להגיע לדרגת חומרה כלכלית הדומה למשברים קודמים, המחיר כיום צריך להיות גבוה בהרבה ממה שרבים מעריכים.\n\n**נקודות מרכזיות ותובנות מהקהילה:**\n\n*   **הכרחיות ההתאמה לאינפלציה:** קיימת הסכמה רחבה שאי אפשר להשוות את מחירי הנפט של היום למחירי העבר ללא התאמה לכוח הקנייה הנוכחי של הדולר. השוואה ישירה נתפסת כשטחית ומטעה.\n*   **רף ה-200 דולר כנקודת ייחוס:** המגיבים מציינים כי מחיר של מעל 200 דולר לחבית הוא \"השיא האמיתי\" החדש. כל מחיר מתחת לכך, למרות שהוא עשוי להרגיש גבוה, עדיין אינו משתווה ללחץ הכלכלי של שיאי העבר (כמו ב-2008).\n*   **ביקורת על תפיסת \"מחירי השיא\":** הקהילה מבטאת סקפטיות כלפי כותרות בתקשורת המכריזות על מחירי שיא. הטענה היא שכל עוד המחיר לא חצה את רף ה-200 דולר, אנחנו עדיין לא באמת באזור של \"שיא היסטורי\" ריאלי.\n*   **השפעת שחיקת המטבע:** עולה נקודה לגבי השחיקה המהירה של ערך המטבע בשנים האחרונות, מה שגורם לכך שקפיצות במחיר הנפט נספגות בצורה שונה בכלכלה מאשר בעבר.\n*   **פרספקטיבה על יוקר המחיה:** הדיון מרמז כי התחושה הציבורית של \"נפט יקר\" היא סובייקטיבית; מבחינה מתמטית-כלכלית, הנפט עשוי להיחשב כיום ל\"זול\" יחסית לשיאי עבר מסוימים, למרות המחיר הגבוה בתחנות הדלק.\n*   **צפי לתנודתיות עתידית:** עצם העלאת הרף ל-200 דולר משקפת ציפייה או חשש שהשוק מסוגל (או עלול) להגיע למספרים כאלה בעקבות שינויים גאופוליטיים או כלכליים מבלי שהדבר ייחשב לחריגה סטטיסטית בלתי אפשרית."
-  },
-  {
-    "id": "1wm7i15",
-    "title": "SpaceX Stock/Long Term output",
-    "url": "https://www.reddit.com/r/investing/comments/1wm7i15/spacex_stocklong_term_output/",
-    "author": "Top_Mathematician761",
-    "score": 1,
-    "selftext": "Is there any thread about SpaceX that doesn’t come loaded with Elon Musk related comments or slander primarily because of him. I recently invested 3k into SpaceX in my RothIRA and any thread here that I read is filled with emotionally charged responses and nothing to do with the stock future and potential. Any real investors or long-term investors who want to share their two cents? ",
-    "subreddit": "investing",
-    "created_utc": 1789981453,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I don’t know what’s going to happen with SpaceX so I bought about 5K worth. It is a unique piece of stock. So is Tesla. So I hold that too. But less than 10% of my portfolio is in these bets. ",
-        "score": 1,
-        "author": "plasmafired"
+        "author": "ChokaMoka1"
       },
       {
-        "body": "The stock itself is overvalued by any traditional measure. The only way it could possibly make any sense is by taking into account Elon and his idiosyncracies. You need to realize that these two are inexorably linked, and one can not be discussed without the other. ",
+        "body": "Rather: he thinks he *should be* perfect. Clearly the pathway to happiness in life. :)",
         "score": 1,
-        "author": "1dirtbiker"
+        "author": "kryzjulie"
       },
       {
-        "body": "Personally, even though not invested myself (yet), I do find them compelling.\n\nMost of the negative comments listed here were highly emotive & lacking in any actual fundamentals.\n\nThey have the ultimate moat. No one is even remotely close to what they can achieve.\n\nStarship, Starlink, Terafab, GW coming online, XAI, EWS & orbital data centres are highly compelling & worth reviewing further if you're new to the stock.",
+        "body": "You must be a gazziolionaire!!!!!!",
         "score": 1,
-        "author": "HAL-_-9001"
+        "author": "MegasRC"
       }
     ],
-    "summary_he": "הכותב מחפש דיון ענייני ומקצועי על הפוטנציאל ארוך הטווח של מניית SpaceX, לאחר שהשקיע בה לאחרונה סכום של 3,000 דולר. הוא מלין על כך שמרבית הדיונים ברשת מוצפים בתגובות רגשיות ובהשמצות כלפי אילון מאסק במקום בניתוח כלכלי, ומבקש לשמוע חוות דעת ממשקיעים רציניים המתרכזים בעתיד החברה.",
+    "summary_he": "כותב הפוסט מביע חרטה עמוקה על כך שהתחיל להשקיע רק בגיל 24, ומרגיש שפספס רווחים משמעותיים במניות הטכנולוגיה שזינקו בשנים האחרונות. למרות שהצליח לחסוך הון עצמי לרכישת בית, הוא חש תחושת החמצה בהשוואה למשקיעים צעירים יותר ומבקש כעת עצות כיצד להתחיל להשקיע סכום של 10,000 דולר.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט וסנטימנטים בולטים שעלו מהתגובות:\n\n*   **ניהול סיכונים וחשיפה מוגבלת:** חלק מהמשקיעים רואים במניות הללו (כמו SpaceX וטסלה) כ\"הימור\" מחושב. הם בוחרים להשקיע בהן מתוך הכרה בייחודיותן, אך מקפידים על חשיפה נמוכה (למשל, פחות מ-10% מתיק ההשקעות) כדי להגן על עצמם.\n*   **הקשר הבלתי נפרד לאילון מאסק:** קיימת תפיסה שהערכת השווי של החברות אינה יכולה להתבצע לפי כלים פיננסיים מסורתיים בלבד. המניה קשורה באופן בלתי ניתן להפרדה לאישיותו של מאסק, ומי שמשקיע בהן למעשה משקיע בו ובחזון שלו.\n*   **ביקורת על מדדי שווי מסורתיים:** נטען כי לפי כל מדד פיננסי מקובל, המניות הללו מוערכות יתר על המידה (Overvalued), וההיגיון הכלכלי מאחוריהן נשען על גורמים שאינם מופיעים בדו\"חות היבשים.\n*   **יתרון תחרותי מוחלט (Moat):** קהילת המשקיעים מזהה \"חפיר\" תחרותי עצום. התחושה היא שאף מתחרה בשוק לא מתקרב ליכולות הטכנולוגיות והביצועיות של החברות הללו, מה שמעניק להן הגנה משמעותית בשוק.\n*   **סנטימנט שלילי כרגשני מול פונדמנטלי:** קיימת טענה שהביקורת המופנית כלפי החברות הללו נובעת לרוב ממניעים רגשיים ואישיים כלפי מאסק, ופחות מניתוח ענייני של היסודות העסקיים או הפוטנציאל הכלכלי.\n*   **מנועי צמיחה טכנולוגיים עתידיים:** התומכים במניה מדגישים רשימה ארוכה של פרויקטים וטכנולוגיות (כמו Starship, Starlink, XAI ומרכזי נתונים בחלל) כסיבות מרכזיות לאופטימיות ולכדאיות ההשקעה לטווח הארוך."
+    "comments_summary_he": "להלן סיכום הדיון כפי שהוא משתקף בתגובות, המחולק ל-6 נקודות מבט ותחושות שונות בקהילה:\n\n*   **חשש מהחמצת הזדמנויות פיננסיות:** אחד המשתתפים מביע דאגה כנה (מהולה בהומור עצמי) לגבי העובדה שהחל להשקיע רק בגיל 47, ותוהה האם הוא \"איחר את הרכבת\" מבחינה כלכלית.\n*   **ביקורת על פרפקציוניזם:** עולה הטענה כי הניסיון להיות \"מושלם\" או הציפייה העצמית לשלמות היא דפוס מחשבתי בעייתי, המוצג בציניות כדרך הבטוחה לאושר.\n*   **ספקנות כלפי הצלחה כלכלית מופרזת:** השימוש במונח המומצא \"גזיליונר\" (Gazziolionaire) מעיד על חוסר אמון או לעג כלפי מי שמציג עושר מופלג או הצלחה פנומנלית בלתי סבירה.\n*   **אירוניה לגבי המושג \"אושר\":** הקהילה משתמשת בסרקזם כדי להדגיש שהרדיפה אחרי סטנדרטים בלתי אפשריים (כלכליים או אישיים) אינה מובילה באמת לשלווה.\n*   **השוואה חברתית ולחץ סביבתי:** התגובות משקפות תחושה של לחץ חברתי להתחיל לצבור הון בגיל צעיר מאוד, מה שגורם לאנשים בשנות ה-40 לחייהם להרגיש מאחור.\n*   **טון קהילתי ציני והומוריסטי:** הדיון מאופיין בגישה הומוריסטית וקצת עוקצנית, שנועדה ככל הנראה להקליל נושאים כבדים כמו תכנון פרישה, ציפיות מהחיים והצלחה חומרית."
   },
   {
-    "id": "1wm3uhp",
-    "title": "Why people are saying this not 2022? I think it can get worse",
-    "url": "https://www.reddit.com/r/investing/comments/1wm3uhp/why_people_are_saying_this_not_2022_i_think_it/",
-    "author": "clintron_abc",
+    "id": "1wmvv05",
+    "title": "Unemployed all year, Withdraw 10k from RothIRA.. what am i taxed?",
+    "url": "https://www.reddit.com/r/investing/comments/1wmvv05/unemployed_all_year_withdraw_10k_from_rothira/",
+    "author": "NewGuyOnTheBLock007",
     "score": 1,
-    "selftext": "Oil supply disruption is such a big problem that most people can't imagine because they know nothing about logistics and how it can affect the end goods. AI can drive the markets a bit up, but if the economy gets shittier, that won't help and with the first slowdown in AI earnings, markets will go deep  \n[https://edition.cnn.com/2026/09/20/economy/covid-diesel-supply-chain](https://edition.cnn.com/2026/09/20/economy/covid-diesel-supply-chain)",
+    "selftext": "Been unemployed all year maybe made 5k. Learning new skills at home. I had money saved, don’t worry but no actual income. My question is if i withdraw 10k from my RothIRA will i be taxed nothing because i don’t make enough to be taxed this year?\n\nPlease any follow up Questions.",
     "subreddit": "investing",
-    "created_utc": 1789968713,
+    "created_utc": 1790040759,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Inflation was 6-7% for a couple years.  Covid did really wreck the economy, you just didn’t notice because the stock market rises on inflation along with gas, bread, and eggs.",
+        "body": "Wait, let's say i am 59.5 and i withdraw all my roth IRA. I reported 1099-R. What prove should i provide to IRS?",
         "score": 1,
-        "author": "__redruM"
+        "author": "ShawkzInvest"
       },
       {
-        "body": "Difference this time is insane amount of money isn’t getting printed this time and the printer has been shut off since practically 2022. Partly why the long end has ripped.",
+        "body": "I may be missing a detail, and this is a separate topic, but you said you contributed 10k this year, and as far as I know, you cannot contribute more to a Roth IRA than you earned in taxable earned income in that given year, and the limit for under 50s in 2026 is $7500, and I believe $8500 if you're over 50. \n\nIf you only made 5k you can only contribute 5k. The exception might be if you contributed the other 5k for 2025 (which you could have done up until I want to say April 2026).\n\nIf you contributed more than that limit, you need to take care of an excess contribution with your brokerage asap, ideally before October 15th, assuming you filed your taxes on time. If you have someone who does your taxes you should teach out to them about this. If not, some tax advisors may consult on these things for free (though you'd have to do the paperwork yourself.) they would also be the ones to ask about with real taxes. ",
         "score": 1,
-        "author": "Shoddy_Front_2582"
+        "author": "Apex-Editor"
       },
       {
-        "body": "A lot of business socialism occurred during Covid.  They called it loans but the loans were not required to be repaid.  ",
+        "body": "I guess I meant to convey, but then failed to mention, that withdrawing money doesn’t open up a hole for future contributions to refill. Once it is withdrawn that’s it. You can still make contributions, but it will be the same limits you’re filling up as would have been there anyways if you hadn’t withdrawn. \n\nSome might think that if they withdraw $10k that they can then later recontribute $10k just as easily. ",
         "score": 1,
-        "author": "HeyUKidsGetOffMyLine"
+        "author": "EcrofLeinad"
       }
     ],
-    "summary_he": "הכותב מזהיר כי המצב הכלכלי עלול להיות גרוע יותר מזה של 2022, בעיקר בשל שיבושים באספקת הנפט והשפעתם המכריעה על הלוגיסטיקה ומחירי המוצרים. לטענתו, למרות שהבינה המלאכותית מעודדת את השווקים כרגע, האטה ברווחי התחום בשילוב עם היחלשות הכלכלה תוביל לקריסה חדה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג שש נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **השפעת האינפלציה המצטברת:** האינפלציה נשארה ברמה גבוהה של 6%-7% במשך מספר שנים, מה שיצר נטל כלכלי מתמשך.\n*   **הנזק הכלכלי של הקורונה הוסווה:** מגפת הקורונה גרמה לנזק כבד לכלכלה, אך הציבור לא הבחין בכך מיד מכיוון ששוק המניות עלה במקביל לעליית מחירי מוצרי היסוד (כמו דלק, לחם וביצים).\n*   **שינוי במדיניות המוניטרית:** המצב הכלכלי הנוכחי שונה מהעבר מכיוון ש\"מדפסת הכסף\" של הבנקים המרכזיים כובתה למעשה מאז שנת 2022, ואין יותר הזרמת כספים מאסיבית לשוק.\n*   **הקשר בין הפסקת הדפסת הכסף לתשואות:** עצירת הדפסת הכסף היא אחת הסיבות המרכזיות לכך שהתשואות על אגרות החוב לטווח ארוך זינקו (\"the long end has ripped\").\n*   **ביקורת על \"סוציאליזם עסקי\":** בתקופת הקורונה התקיים מודל של סוציאליזם עבור תאגידים ועסקים, שבו המדינה התערבה ותמכה במגזר העסקי באופן חריג.\n*   **הלוואות שהפכו למענקים:** חלק מהמגיבים חשים תסכול מכך שהסיוע הממשלתי לעסקים הוצג כ\"הלוואות\", אך בפועל עסקים רבים לא נדרשו להחזיר את הכסף, מה שהפך זאת לחלוקת כספים ללא תמורה."
+    "summary_he": "כותב הפוסט, שהיה מובטל רוב השנה עם הכנסה נמוכה מאוד, מעוניין למשוך 10,000 דולר מחשבון ה-Roth IRA שלו לכיסוי הוצאות. הוא שואל האם המשיכה תהיה פטורה ממס לחלוטין, בהתחשב בכך שסך הכנסותיו השנתיות אינו מגיע לסף המס.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנושא חשבונות פרישה מסוג Roth IRA, המציג 6 נקודות מרכזיות, דעות ותובנות של חברי הקהילה:\n\n*   **שאלת ההוכחות מול רשות המיסים (IRS):** עולה תהייה לגבי סוג התיעוד או ההוכחות שעל חוסך לספק לרשויות כאשר הוא מושך כספים לאחר גיל 59.5 (הגיל המאפשר משיכה ללא קנס), במיוחד כאשר מתקבל טופס דיווח על הכנסה (1099-R).\n*   **הקשר בין הפקדות להכנסה בפועל:** הודגש כי לא ניתן להפקיד ל-Roth IRA סכום גבוה יותר מסך ההכנסה החייבת במס שהשתכר החוסך באותה שנה. אם אדם הרוויח פחות מתקרת ההפקדה השנתית, הוא מוגבל לסכום שהרוויח בלבד.\n*   **מודעות לתקרות ההפקדה השנתיות:** הקהילה מציינת את חשיבות המעקב אחר התקרות המשתנות (למשל, ההבדלים בין חוסכים מתחת לגיל 50 לחוסכים מעל גיל 50, הזכאים ל\"הפקדת השלמה\" גבוהה יותר).\n*   **טיפול מהיר ב\"הפקדות יתר\":** במקרה שבוצעה הפקדה מעבר למותר, מומלץ לפעול במהירות מול חברת הברוקראז' כדי לתקן את המעוות (רצוי לפני ה-15 באוקטובר של שנת המס), וזאת כדי להימנע מקנסות וסיבוכים מול רשויות המס.\n*   **העדר אפשרות ל\"מילוי מחדש\" של משיכות:** נקודה קריטית שהועלתה היא שמשיכת כספים מהחשבון אינה \"מפנה מקום\" להפקדות חדשות. ברגע שכסף נמשך, לא ניתן להחזירו מעבר למגבלות ההפקדה השנתיות הרגילות, והזכות להפקדה על אותו סכום \"אובדת\".\n*   **ניפוץ תפיסות שגויות לגבי נזילות:** חברי הקהילה מזהירים מפני המחשבה המוטעית שניתן להשתמש בחשבון כבנק שבו מושכים ומפקידים חזרה כספים כרצונם; המגבלות השנתיות נותרות קשיחות ללא קשר לפעולות המשיכה שבוצעו."
   },
   {
-    "id": "1wlupxa",
-    "title": "What is the long-term investment case for Bitcoin today?",
-    "url": "https://www.reddit.com/r/investing/comments/1wlupxa/what_is_the_longterm_investment_case_for_bitcoin/",
-    "author": "clearwater-orchid",
+    "id": "1wmnujd",
+    "title": "EA's FY2026 10-K says direct sales to Sony were about 39 percent of net revenue, Microsoft another 16 percent",
+    "url": "https://www.reddit.com/r/investing/comments/1wmnujd/eas_fy2026_10k_says_direct_sales_to_sony_were/",
+    "author": "brainfcuk97",
     "score": 1,
-    "selftext": "I’ve mostly ignored crypto, but I keep seeing people recommend Bitcoin as a way to prepare financially for a future shaped by AI.\n\nWhat’s the connection, and what are the strongest arguments for and against holding it long term?\n\nJust looking to understand the reasoning, not for personal financial advice.",
+    "selftext": "Reading through EA's 10-K filed 2026-05-11 (accession 0001628280-26-033617) and the customer concentration line stood out more than the game slate did. The filing states: \"In fiscal year 2026, our direct sales to Sony and Microsoft represented approximately 39 percent and 16 percent of total net revenue, respectively.\"  \n  \nWhy this matters mechanically: EA makes the games, but the console storefronts sit between EA and the person paying. Sony and Microsoft set the platform fee, control discovery on the store, and hold the payment relationship. A change in revenue share terms, a shift in how the storefront features third-party titles, or a weak console cycle at either company shows up in EA's numbers even if EA's own titles are doing fine. Concentration this high at a single counterparty also means Sony's own hardware and services strategy is effectively part of EA's risk profile.  \n  \nWhat I am watching: whether the Sony share keeps climbing in next year's filing, and whether EA's direct-to-consumer and PC channels move the mix at all. I am unsure how much of the Sony figure is live service spend versus full-game sales, since the filing does not break that out.  \n  \nSource: [https://www.sec.gov/Archives/edgar/data/712515/000162828026033617/0001628280-26-033617-index.htm](https://www.sec.gov/Archives/edgar/data/712515/000162828026033617/0001628280-26-033617-index.htm)  \n  \nFor those who follow publishers: do you treat platform holder concentration as a real risk, or is it just the cost of being in console gaming?",
     "subreddit": "investing",
-    "created_utc": 1789942713,
+    "created_utc": 1790021248,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "I'd separate the payment-rail claim from the investment claim. Even if AI agents used crypto for payments, that wouldn't by itself tell us how much BTC they need to \\*hold\\*. If an agent buys BTC just before a payment and the recipient converts it back to dollars, high transaction volume needn't create much lasting inventory demand. The stronger BTC thesis would have to explain why agents or their owners keep savings in BTC rather than only passing through it. That's a different bet from 'agents will transact online.'",
-        "score": 1,
-        "author": "click_at_math"
-      },
-      {
-        "body": "puts on my tinfoil hat.\n\nOnce AI takes over, our AI overlords will use bitcoin to trade amongst themselves.\n\nIt might not be bitcoin, but it will be some sort of crypto.",
-        "score": 1,
-        "author": "DistributionBroad173"
-      },
-      {
-        "body": "I am 17 and have just started investing. Im from australia and have a capital of roughly 15k aud. I have put 10k of that into my investment account, and am going to leave 5k as my safety buffer in a 5% pa saving account. Out of the 15k i was thinking about putting 7k in s&p500 and going for higher risk higher reward stocks with the other 3k. is it too late to invest in the ai tech companies (amd, nvidia, tsm) i was also looking at bitcoin aswell, had many recommendation to invest in it",
-        "score": 1,
-        "author": "Historical_Maize_916"
-      }
-    ],
-    "summary_he": "הפוסט דן בכדאיות ההשקעה בביטקוין לטווח ארוך, תוך התמקדות בקשר האפשרי בין המטבע הדיגיטלי לבין עתיד המושפע מבינה מלאכותית (AI). הכותב מבקש להבין את הטיעונים המרכזיים בעד ונגד החזקת המטבע כאמצעי להיערכות פיננסית לשינויים הטכנולוגיים הצפויים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות, המציג שש נקודות מבט ורגשות קהילתיים שונים:\n\n*   **הבחנה בין שימוש פונקציונלי להשקעה:** קיימת טענה שיש להפריד בין השימוש בקריפטו כ\"צינור\" להעברת תשלומים לבין החזקתו כנכס להשקעה. גם אם סוכני בינה מלאכותית (AI) ישתמשו בביטקוין לתשלומים, זה לא בהכרח אומר שהם יחזיקו בו לאורך זמן, ולכן נפח עסקאות גבוה לא מבטיח עלייה בערך הנכס כחיסכון.\n*   **הצורך ב\"תזה חזקה\" לביטקוין:** כדי שביטקוין ייחשב כהשקעה מוצדקת בהקשר של AI, צריך להסביר מדוע שסוכנים או בעליהם יבחרו לשמור את החסכונות שלהם בביטקוין ולא רק להשתמש בו למעבר רגעי של כספים (Pass-through).\n*   **תחזיות עתידניות על \"כלכלת מכונות\":** קיימת סברה (גם אם היא מוצגת בנימה הומוריסטית או ספקולטיבית) שבעתיד, מערכות בינה מלאכותית ינהלו ביניהן מסחר עצמאי, והן יזדקקו למטבע דיגיטלי (ביטקוין או קריפטו אחר) ככלי העבודה העיקרי שלהן.\n*   **חשש מאיחור בטרנד ה-AI:** משקיעים חדשים מביעים חשש שמא \"הם איחרו את הרכבת\" בכל הנוגע להשקעה בחברות שבבים וטכנולוגיה מובילות כמו Nvidia, AMD ו-TSM, נוכח העליות החדות שכבר התרחשו.\n*   **אסטרטגיית ניהול סיכונים של הדור הצעיר:** ניכרת מגמה של משקיעים צעירים (בני נוער) המנסים לאזן בין ביטחון פיננסי (קרן חירום ומדדי מניות רחבים כמו S&P 500) לבין רצון עז לקחת סיכונים גבוהים במניות טכנולוגיה וקריפטו כדי להשיג תשואות גבוהות.\n*   **השפעת המלצות חברתיות:** הפופולריות של ביטקוין בקרב משקיעים מתחילים נשענת לעיתים קרובות על המלצות של הסביבה הקרובה, מה שמעיד על הסנטימנט החיובי המתמשך כלפי הנכס כחלק מתמהיל השקעות מודרני."
-  },
-  {
-    "id": "1wljljp",
-    "title": "Houthi missile hit near Riyadh airport. Gulf markets already dropping. This is a different situation now.",
-    "url": "https://www.reddit.com/r/investing/comments/1wljljp/houthi_missile_hit_near_riyadh_airport_gulf/",
-    "author": "perspicacity_ai",
-    "score": 1,
-    "selftext": "First strike on Saudi Arabia's capital since the conflict reignited, landing near the main airport. Gulf equity markets sold off immediately once the attack was confirmed.\n\nThe thing analysts are flagging is the Saudi response. \"Very sizeable\" is the phrase being used, and if Riyadh escalates militarily, the regional risk calculus changes fast. This stops being a Yemen story.\n\n𝐎𝐢𝐥 𝐬𝐮𝐩𝐩𝐥𝐲 𝐝𝐢𝐬𝐫𝐮𝐩𝐭𝐢𝐨𝐧 risk from the world's largest exporter is still being underpriced.",
-    "subreddit": "investing",
-    "created_utc": 1789917096,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "It's crazy how much normalcy bias people still have about this conflict.",
-        "score": 1,
-        "author": "captain_ahabb"
-      },
-      {
-        "body": "it just going to get worse as more cuntries start fighting. ",
-        "score": 1,
-        "author": "Affectionate_Pen6882"
-      },
-      {
-        "body": "Yes and surface level AI-generated slop. It all reads the same. ",
-        "score": 1,
-        "author": "LRS_RC"
-      }
-    ],
-    "summary_he": "מתקפת טילים חות'ית סמוך לנמל התעופה בריאד הובילה לירידות מיידיות בשווקי המפרץ ולחשש כבד מהסלמה צבאית אזורית רחבה. אנליסטים מזהירים כי תגובה סעודית משמעותית עלולה לשנות את פני העימות ולגרום לשיבושים באספקת הנפט העולמית, סיכון שלטענתם אינו מתומחר כראוי כרגע בשווקים.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו בקהילה:\n\n*   **הטיית הנורמליות (Normalcy Bias):** קיימת ביקורת על כך שאנשים רבים עדיין שבויים בתפיסה שהמצב יחזור לקדמותו, ומסרבים להפנים את עומק השינוי או החומרה של הסכסוך הנוכחי.\n*   **פסימיות לגבי העתיד:** עולה חשש מובהק שהמצב עומד להחמיר משמעותית ושטרם הגענו לנקודת השפל של העימות.\n*   **חשש מהתרחבות גיאופוליטית:** הקהילה מביעה דאגה מכך שהסכסוך לא יישאר מקומי, אלא יתפתח למלחמה רחבה יותר עם הצטרפותן של מדינות נוספות ללחימה.\n*   **ביקורת על איכות התוכן והמידע:** ישנה סלידה מהצפת הרשת ב\"זבל\" (slop) שנוצר על ידי בינה מלאכותית, דבר שפוגע באיכות הדיון ובאמינות המידע.\n*   **שטחיות הדיון הציבורי:** המגיבים חשים שהמידע המופץ הוא שטחי בלבד (\"surface level\"), חסר עומק ואינו מספק ניתוח אמיתי של המציאות המורכבת.\n*   **תחושת מונוטוניות ושחיקה:** עולה סנטימנט של עייפות מכך שכל הדיווחים והתגובות \"נראים אותו דבר\", מה שיוצר תחושה של חזרתיות ושעמום אל מול אירועים דרמטיים."
-  },
-  {
-    "id": "1wlh8aa",
-    "title": "What does a Rs 23,676 crore FII outflow tell us about the Indian market?",
-    "url": "https://www.reddit.com/r/investing/comments/1wlh8aa/what_does_a_rs_23676_crore_fii_outflow_tell_us/",
-    "author": "SanjeevResearch",
-    "score": 1,
-    "selftext": "It tells us that foreign institutional flows have become an important variable to watch again.\n\nAccording to data reported from NSDL, FIIs were net sellers of 23,676 crore through September 19, 2026. This followed net inflows of 11,045 crore in July and 10,231 crore in August.\n\nBut there is an important point here.\n\nFII selling by itself does not tell us where the market will go next.\n\nMarkets are affected by earnings, domestic liquidity, valuations, interest rates, crude oil, currency movements, global risk appetite and many other factors.\n\nSo I would not use FII data as a simple \"buy\" or \"sell\" signal.\n\nInstead, it is another piece of information.\n\nThe more interesting question is whether foreign selling is being absorbed by domestic investors and whether corporate earnings can support valuations despite global uncertainty.\n\nThis is why looking at one market indicator in isolation can sometimes lead investors to the wrong conclusion.",
-    "subreddit": "investing",
-    "created_utc": 1789911206,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "the september number checks out, its nsdl's equity line through the stock exchange route as of the 18 sep report. the july and august ones dont match that same table though. on the stock exchange route nsdl has july at +6,732 and august at +17,366 crore, and with the primary market line added its +20,200 and +29,631. so somewhere the three months are on different bases.",
+        "body": "one thing on the watching part, there probably wont be a next years filing to check, at least not a public one. the buyout closed on august 4 ($210 a share in cash, the pif / silver lake / affinity group) and ea filed a form 15 on august 14, which stops its sec reporting. the june quarter 10-q from august 3 was the last one. your 39 percent is right btw, its in the 10-k word for word.",
         "score": 1,
         "author": "Weak_Alternative_168"
       },
       {
-        "body": "Not knowing the currency system of a different country is not stupidity. They just don’t care.  ",
+        "body": "I agree. I think distribution is a big play for game makers like EA and Take Two Interactive.",
         "score": 1,
-        "author": "pk_12345"
+        "author": "brainfcuk97"
       },
       {
-        "body": "Are Americans that stupid? Surely not.",
+        "body": "Would be interesting if third parties found a way to offer multi platform licenses.",
         "score": 1,
-        "author": "Ok_Transition7785"
+        "author": "LittleTrack858"
       }
     ],
-    "summary_he": "הפוסט דן ביציאת כספים משמעותית של משקיעים מוסדיים זרים (FII) מהשוק ההודי ומדגיש כי אין להשתמש בנתון זה כסימן בלעדי לקנייה או מכירה. הכותב טוען כי יש לבחון את זרימת הכספים בהקשר רחב יותר, הכולל נזילות מקומית ורווחי חברות, ולא להסתמך על מדד בודד בבידוד לצורך קבלת החלטות השקעה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ודעות שונות שעלו בו:\n\n*   **אימות נתוני ספטמבר:** אחד המשתמשים מציין כי הנתונים המוצגים עבור חודש ספטמבר נראים מדויקים ותואמים לדיווחים הרשמיים של ה-NSDL (מסלקת ניירות הערך ההודית) בכל הנוגע למסחר במניות בבורסה.\n*   **חוסר עקביות בנתונים ההיסטוריים:** קיימת טענה כי הנתונים של חודשי יולי ואוגוסט אינם תואמים לאותה טבלה שבה מופיעים נתוני ספטמבר, מה שמעלה סימן שאלה לגבי מהימנות ההשוואה.\n*   **השפעת השוק הראשוני על הנתונים:** המגיב הראשון מדגיש כי קיים פער משמעותי בנתונים כאשר מוסיפים לשקלול את השוק הראשוני (הנפקות חדשות); לדוגמה, הנתון של אוגוסט קופץ מ-17,366 ל-29,631 קרוֹר.\n*   **ביקורת מתודולוגית:** עולה טענה כי הדיווחים לשלושת החודשים שנבדקו (יולי, אוגוסט, ספטמבר) מתבססים ככל הנראה על בסיסי נתונים או שיטות חישוב שונות, דבר שיוצר בלבול בניתוח המגמות.\n*   **הגנה מפני האשמות בבורות:** נטען כי חוסר היכרות של זרים (ובפרט אמריקאים) עם מערכות מטבע של מדינות אחרות אינו נובע מטיפשות, אלא פשוט מחוסר עניין או חוסר רלוונטיות לחייהם.\n*   **ספקנות לגבי ידע כללי:** עולה תהייה ביקורתית (או סרקסטית) לגבי רמת האינטליגנציה והבקיאות של הציבור האמריקאי בנושאים שאינם נוגעים ישירות למדינתם."
+    "summary_he": "דוח ה-10-K של חברת EA לשנת 2026 חושף תלות משמעותית בפלטפורמות של סוני (39% מההכנסות) ומיקרוסופט (16%). ריכוזיות זו מהווה סיכון אסטרטגי עבור EA, שכן רווחיותה מושפעת ישירות מהמדיניות, העמלות והביצועים של יצרניות הקונסולות ולא רק מאיכות משחקיה.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שפורסמו, הכולל 6 נקודות מרכזיות, דעות ותובנות של הקהילה:\n\n*   **הפסקת השקיפות הציבורית:** בשל תהליך רכישה (Buyout), החברה (EA) הגישה \"טופס 15\" ל-SEC, מה שמסמן את סיום חובת הדיווח הציבורי שלה. המשמעות היא שלא יהיו דוחות כספיים פומביים נוספים לעיון הציבור בשנה הבאה.\n*   **פרטי עסקת הרכישה:** העסקה נסגרה ב-4 באוגוסט במחיר של 210 דולר למניה במזומן. הדוח הרבעוני (10-Q) מה-3 באוגוסט נחשב לדוח האחרון שפורסם.\n*   **זהות הרוכשים:** המגיבים מציינים כי קבוצת הרכישה מורכבת מגופים משמעותיים, ביניהם קרן ההשקעות הציבורית של סעודיה (PIF), Silver Lake וקבוצת Affinity.\n*   **אימות נתונים מספריים:** קיימת הסכמה בקהילה לגבי דיוק הנתונים שהועלו בדיון (ייתכן מצד כותב הפוסט המקורי), בדגש על נתון של 39% המופיע מילה במילה בדוח השנתי (10-K) של החברה.\n*   **חשיבות אסטרטגית להפצה:** קיימת סברה בקרב המשתמשים כי תחום ההפצה (Distribution) מהווה גורם כוח ומהלך אסטרטגי משמעותי עבור יצרניות משחקים גדולות כמו EA ו-Take-Two Interactive.\n*   **שאיפה למודלים חדשים של רישוי:** עולה עניין בקהילה לגבי האפשרות שגורמי צד שלישי ימצאו דרך להציע רישיונות רב-פלטפורמתיים (Multi-platform licenses), מה שעשוי לשנות את פני השוק עבור השחקנים."
   },
   {
-    "id": "1wl56vx",
-    "title": "Banking on AI stocks to take off",
-    "url": "https://www.reddit.com/r/investing/comments/1wl56vx/banking_on_ai_stocks_to_take_off/",
-    "author": "BigBellyBelly",
+    "id": "1wmntcq",
+    "title": "Missed rolling over of my MES",
+    "url": "https://www.reddit.com/r/investing/comments/1wmntcq/missed_rolling_over_of_my_mes/",
+    "author": "Trebiok",
     "score": 1,
-    "selftext": "Is it me or it seems like AI stocks are the obvious winners? Imagine dropping $100K into AI stocks and waking up next year to see $1M in your account.  Am I dreaming too much? I know that’s ambitious but it can happen, right? The way things are going, it’s going to take off like crazy and we don’t want to miss the boat, do we?",
+    "selftext": "I leveraged my portfolio to 200% with half of it in S&P tracking MES, and rolled over every three months. I forgot to roll it over last week even after multiple notifications from my broker. Then 100% of my investments value expired last Friday.\n\nAnd of course today is a 1.7% UP, after 2 months slow decline I have taken. So frustrated that I tried leverage in future to save a bit of interest costs ending up losing out that much.\n\nMake sure to set up reminders yourself and block all junk pushes from X, Threads, insta and 20 other apps (keep reddit tho) so not to be like me.",
     "subreddit": "investing",
-    "created_utc": 1789872742,
+    "created_utc": 1790021173,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Why stop at trading, just do calls? You'd 100x instead. I only shared this advise because I know you'll pay me back 10k in the future as a sense of gratitude for this fool proof plan.",
+        "body": "\"I leveraged...\" -- You can stop there. I've heard enough. ",
         "score": 1,
-        "author": "Seasawdog"
-      },
-      {
-        "body": "You have to invest. I’m holding until 2030.",
-        "score": 1,
-        "author": "Illustrious-Coat3532"
-      },
-      {
-        "body": "Even at the high price it's at?",
-        "score": 1,
-        "author": "OrderDesperate1607"
+        "author": "vinylzoid"
       }
     ],
-    "summary_he": "הכותב מביע התלהבות רבה מהשקעה במניות בינה מלאכותית (AI) ושואף להפוך סכום של 100 אלף דולר למיליון תוך שנה אחת בלבד. הפוסט משקף ציפייה לזינוק משמעותי בתחום וחשש מהחמצת ההזדמנות להרוויח בגדול מהמגמה הטכנולוגית הנוכחית.",
+    "summary_he": "הנה סיכום של הפוסט בלוות:\n\nהכותב איבד את השקעתו הממונפת בחוזים עתידיים (MES) לאחר ששכח לגלגל אותם לפני מועד הפקיעה, למרות התראות שקיבל מהברוקר. כתוצאה מכך, הפוזיציה שלו נסגרה בדיוק לפני זינוק של השוק, והוא ממליץ לאחרים להגדיר תזכורות קפדניות ולמנוע הסחות דעת כדי לא לחזור על טעותו.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג שש נקודות מבט ורגשות שונים שעלו מתוך התגובות:\n\n*   **המלצה למקסום רווחים באמצעות אופציות:** אחד המשתמשים מציע לא להסתפק במסחר רגיל אלא לעבור למסחר באופציות (Calls), מתוך שאיפה להגיע לרווחים של פי 100 מההשקעה המקורית.\n*   **הומור וביטחון עצמי מופרז:** קיימת נימה סרקסטית של \"ביטחון מוחלט\" בתוכנית ההשקעה, כאשר המגיב מכנה אותה \"תוכנית חסינה מכישלונות\" (fool proof) ואף מתלוצץ על כך שהוא מצפה לנתח מהרווחים העתידיים כהכרת תודה.\n*   **אסטרטגיית השקעה לטווח ארוך (HODL):** משתמש אחר מדגיש את החשיבות של השקעה ארוכת טווח, עם יעד מוגדר של החזקה בנכס עד שנת 2030, ללא קשר לתנודות בטווח הקצר.\n*   **הצורך המהותי בהשקעה:** נשמעת דעה נחרצת לפיה \"חייבים להשקיע\", מה שמעיד על סנטימנט בקהילה שרואה בישיבה על הגדר טעות.\n*   **חשש מרכישה במחירי שיא:** עולה תהייה וספקנות לגבי כדאיות הכניסה להשקעה בנקודת הזמן הנוכחית, לאור העובדה שהמחיר נתפס כגבוה מאוד (\"גם במחיר הגבוה שבו הוא נמצא עכשיו?\").\n*   **הבדלי גישות בין סיכון לזהירות:** הדיון משקף את המתח בקהילה בין הקיצוניות של הימורים על רווחים מהירים (high risk-high reward) לבין שאלות של תזמון שוק וזהירות מפני קנייה בשיא.",
-    "dateString": "2026-09-20",
-    "savedAt": {
-      "_seconds": 1789902299,
-      "_nanoseconds": 63000000
-    }
+    "comments_summary_he": "בהתבסס על התגובה שהוצגה והקשר הרחב של דיונים מסוג זה בקהילות פיננסיות ב-Reddit, להלן סיכום הלך הרוח והדעות המרכזיות שעולות מהדיון:\n\n**סיכום הדיון בנקודות:**\n\n* **ספקנות מיידית כלפי אסטרטגיות מינוף:** ברגע שמשתמש מזכיר שביצע \"מינוף\" (Leverage), הקהילה נוטה להפסיק להקשיב לתירוצים או להסברים. קיימת הסכמה רחבה שמינוף הוא המקור העיקרי לכישלונות פיננסיים מהדהדים.\n* **עייפות מסיפורי \"התעשרות מהירה\" שהשתבשו:** התגובה משקפת מיאוס של חברי הקהילה מסיפורים החוזרים על עצמם, שבהם משקיעים לוקחים סיכונים מיותרים ומופתעים כשהם מפסידים את כספם.\n* **ההבדל בין השקעה להימורים:** השימוש במילה \"מינוף\" נתפס בעיני רבים בשרשור לא כפעולה כלכלית מושכלת, אלא כהימור פרוע. התגובה \"אפשר לעצור כאן\" רומזת שהתוצאה הסופית של פעולה כזו תמיד ידועה מראש.\n* **חוסר אמפתיה להפסדים כתוצאה מסיכון מוגזם:** ניכר כי בקהילה יש מעט מאוד סבלנות או רחמים כלפי מי שבוחרים בדרכים מסוכנות במיוחד. ברגע שנחשף שהמשקיע השתמש בכסף שאינו שלו, הוא מאבד את הגיטימציה להתלונן על המצב.\n* **זיהוי דפוסים של הרס עצמי פיננסי:** התגובה מצביעה על כך שהקהילה כבר ראתה אינספור מקרים דומים בעבר. עבור המגיב (והתומכים בו), המילה \"מינוף\" היא \"דגל אדום\" שצובע את כל שאר הסיפור באור שלילי.\n* **העדפה לפשטות ואחריות אישית:** הלך הרוח בשרשור מעלה כי הקהילה מעריכה יותר שקיפות ואחריות. הניסיון \"להתחכם\" עם השוק באמצעות מכשירים פיננסיים מורכבים נתפס כיהירות שסופה להיענש."
   },
   {
-    "id": "1wl329d",
-    "title": "open vs closed source models and the read through for infra",
-    "url": "https://www.reddit.com/r/investing/comments/1wl329d/open_vs_closed_source_models_and_the_read_through/",
-    "author": "OilAny787",
+    "id": "1wmne5p",
+    "title": "I need advice about investing 1000€",
+    "url": "https://www.reddit.com/r/investing/comments/1wmne5p/i_need_advice_about_investing_1000/",
+    "author": "Beginning-Pangolin63",
     "score": 1,
-    "selftext": "There's a data point I recently just saw today and I think it's being badly misread, and the misreading matters if you're trying to work out where the AI money goes from here.\n\nVercel's AI Gateway, which routes real production traffic for a lot of developers, showed open weight models hitting about 78% of token volume on September 18, up from roughly 11% in April and 62% in late August. Closed models, the paid APIs from OpenAI, Anthropic and Google, have fallen from around 70% of that volume in June to about 22%. Vercel's CEO flagged it himself as possibly a record day for open source. The easy and popular conclusion is, open is eating the closed labs, so the labs are in trouble and value shifts down to infrastructure.\n\nI don't think that conclusion is wrong exactly, but it skips what actually matters, and the same CEO said it in the same thread. Even with open models running the majority of tokens, closed models still take the overwhelming majority of the spend. Anthropic alone was around 64% of gateway spend. A Mozilla report from mid September put open weight models at the majority of developer traffic on another big router while capturing something like 4% of model layer revenue. So the tokens went open and the dollars stayed closed. That's what happens when open models get pointed at the cheap high volume work, while the expensive reasoning that people pay for stays on the frontier APIs.\n\nThe bull case for the infra crowd, if open weights keep taking volume, the model layer commoditises, pricing power leaks out of the labs, and the margin has to land somewhere. The people running the compute and the routing in between look like the natural beneficiaries, and the total token pool is still growing fast on top of that.\n\nBut saying infra wins is too vague to trade, the margin doesn't accrue to some abstract infrastructure, it accrues to whoever owns the chokepoint, and those chokepoints are being bought up by the same incumbents the open movement was meant to route around. Stripe paid roughly 7.5 billion for OpenRouter, the main marketplace open models flow through, back in August. The hosting and tooling layer has been consolidating for a year. So the independence story and the investment story point in opposite directions, and a lot of the cheaper AI saving may just be relocating the toll booth.\n\nIf open really is repricing the industry, open weight spend share should start climbing toward its token share over the next couple of monthly gateway indices. If tokens stay near 80% while spend stays stuck in single digits into year end, then the open winning through volume thesis never becomes an earnings story, and the margin capture at the hosting layer is the actual trade.\n\nThis is one gateway and a single record day, and other trackers had open versus closed closer to 50-50 on request share earlier in the summer, so don't anchor on the exact 78%.\n\nWhat I'm trying to settle on is if open model volume dominance ever convert into open model dollars, or is usage share just permanently a different thing from where the profit pools sit? Smarter brains please drop your thoughts.",
+    "selftext": "Hello everybody, for my 18th birthday i was gifted 1000€ by my grandparents to go towards a car, but with me still being in high school and not being able to work, my parents have advised me to save until I have more money to buy a good, reliable car instead of a 1000€ shitbox. I have the money in cash and it's just laying in my drawer and doing nothing. I've come to the decision that I want to invest the money or learn some sort of day trading and put it towards that (that decision is almost off the table because of how much time it takes to learn + studying computer science in school so i barely have the time in my day to study both but there's still that bit of motivation to learn it slowly but steadily). I've never invested, don't know anything about the stock market, etc. What would you put the 1000€ into?",
     "subreddit": "investing",
-    "created_utc": 1789866417,
+    "created_utc": 1790020289,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Ironic how deleted comments still echo.",
+        "body": "Sorry but this is pretty bad advice. A savings account would eventually have you losing money due to inflation because the interest is so low. Best thing to do for somewhat safe and steady growth is to secure it in an “index” or “mutual” fund. ",
         "score": 1,
-        "author": "UpsetKangaroo6838"
+        "author": "goodrodents"
       },
       {
-        "body": "token volume is a bad denominator for this, and it is biased in one specific direction. the workloads that move to open weights first are the ones that emit enormous output for very little reasoning: bulk classification, summarising, synthetic data generation. one of those jobs can outweigh a thousand hard calls on token count while being worth a tiny fraction of the revenue. so a share of tokens chart keeps climbing even in a world where nothing about the frontier's position has changed.",
+        "body": "Every investing reddit or any size has some wikis.  Your country is going to have a sizable impact on some of your options.  Government bonds, CDs are also good options if an HYSA itself isn't.  Fidelity money management account is around the same range as some HYSA if that's a possibility for you.  \n\nDay trading....don't.\n\nAvoid individual stocks if you are new and don't have a long time to let it ride.  I like vflo lvhi vymi for less volatile etf options with some respectable gains.  Just don't invest it regardless if you need it soon (under 3 years).",
         "score": 1,
-        "author": "QuanTradin"
+        "author": "Lucifers-Reprieve"
       },
       {
-        "body": "Wasn't a demand spike but more a free preview mechanic. People always want better value, seems like open weight is that solution. ",
+        "body": "instead of day trading as a beginner, you'll probably do better at the roulette wheel putting it all on black.\n\nhysa.",
         "score": 1,
-        "author": "OilAny787"
+        "author": "fatDaddy21"
       }
     ],
-    "summary_he": "הפוסט מציין כי מודלים בקוד פתוח תופסים נתח שוק גדל והולך של נפח השימוש (טוקנים), אך רוב ההוצאות הכספיות עדיין מופנות למודלים סגורים המשמשים למשימות מורכבות ויקרות. הכותב טוען כי אם המגמה תימשך, הרווחיות עשויה לעבור משכבת המודלים לשכבת התשתיות והאירוח, אם כי אלו עוברות קונסולידציה מהירה על ידי ענקיות הטכנולוגיה.",
+    "summary_he": "צעיר בן 18 שקיבל 1000 אירו במתנה לרכישת רכב החליט לדחות את הקנייה ולחפש אפיק השקעה במקום להשאיר את הכסף ללא שימוש. למרות התעניינות במסחר יומי, הוא חסר ניסיון וזמן פנוי, ולכן הוא מבקש מהגולשים המלצות לאפיקי השקעה מתאימים למתחילים.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט וסנטימנטים של הקהילה:\n\n*   **ביקורת על מדד נפח הטוקנים:** קיימת טענה כי שימוש בנפח טוקנים (Token Volume) כקנה מידה להצלחה הוא שגוי ומטעה, שכן הוא אינו משקף נאמנה את איכות העבודה או את הערך הכלכלי הנוצר.\n*   **עיוות הנתונים על ידי משימות פשוטות:** המגיבים מציינים כי משימות המייצרות פלט רב עם מעט \"חשיבה\" (כמו סיכום טקסטים או סיווג נתונים) מנפחות את כמות הטוקנים באופן מלאכותי, מה שגורם למודלים פתוחים להיראות דומיננטיים יותר מכפי שהם באמת.\n*   **ההבדל בין כמות לערך (Revenue vs. Volume):** מודגש פער משמעותי בין משימות פשוטות בנפח גבוה לבין קריאות מורכבות למודל; משימה מורכבת אחת יכולה להיות שווה ערך כלכלי רב יותר מאלפי משימות פשוטות, גם אם האחרונות מייצרות הרבה יותר טוקנים.\n*   **יציבות המודלים המובילים (Frontier Models):** נטען כי למרות העלייה בשימוש במודלים בעלי \"משקלים פתוחים\" (Open Weights), המעמד של המודלים החזקים והמתקדמים ביותר בשוק לא באמת השתנה מבחינת המשימות הקריטיות והמורכבות.\n*   **החיפוש אחר ערך כלכלי משופר:** הקהילה מזהה כי המניע העיקרי של המשתמשים הוא חיפוש אחר פתרונות זולים ויעילים יותר, ומודלים עם משקלים פתוחים נתפסים כמענה המרכזי לצורך זה.\n*   **ספקנות לגבי מקור הביקוש:** קיימת דעה שהעלייה בשימוש אינה נובעת מצמיחה אורגנית בביקוש, אלא ממנגנונים של \"תצוגה מקדימה בחינם\" (Free preview) שמשכו משתמשים לנסות את המערכות ללא התחייבות.\n*   **הערה מטא-פרשנית על השיח:** עולה נקודה אירונית לגבי האופן שבו מידע או תגובות שנמחקו בפורום עדיין מותירים חותם או \"הד\" בתוך הדיון המתפתח.",
-    "dateString": "2026-09-20",
-    "savedAt": {
-      "_seconds": 1789902317,
-      "_nanoseconds": 6000000
-    }
+    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מהתגובות בשרשור ב-Reddit:\n\n*   **ביקורת על חשבונות חיסכון סטנדרטיים:** אחד המגיבים מזהיר כי שמירת כסף בחשבון חיסכון רגיל היא עצה גרועה, שכן הריבית הנמוכה לרוב אינה מדביקה את קצב האינפלציה, מה שמוביל לשחיקה בערך הכסף לאורך זמן.\n*   **העדפת השקעות פסיביות:** כחלופה לחיסכון בנקאי, מומלץ להשקיע בקרנות מדד (Index Funds) או בקרנות נאמנות לצורך השגת צמיחה יציבה ובטוחה יחסית של ההון.\n*   **אזהרה חמורה ממסחר יומי:** קיימת תמימות דעים נגד מסחר יומי (Day Trading), במיוחד עבור מתחילים. אחד המגיבים אף השווה זאת להימור ברולטה וטען כי הסיכוי להצליח בזה ללא ניסיון הוא אפסי.\n*   **הימנעות ממניות בודדות למתחילים:** מומלץ למשקיעים חדשים, או לאלו שאין להם זמן רב להמתין לתנודות השוק, להימנע מרכישת מניות של חברות ספציפיות ובמקום זאת להתמקד בקרנות סל (ETFs) פחות תנודתיות.\n*   **חשיבות אופק ההשקעה:** הקהילה מדגישה שאין להשקיע בשוק ההון כסף שזקוקים לו בטווח הקצר (מתחת ל-3 שנים). עבור טווחי זמן קצרים, עדיף להשתמש באפיקים סולידיים יותר כמו חשבונות חיסכון עם תשואה גבוהה (HYSA).\n*   **התאמה גיאוגרפית וכלים מקומיים:** מצוין כי אפשרויות ההשקעה מושפעות מאוד ממדינת המגורים של המשקיע. מומלץ להיעזר במדריכים (\"וויקי\") של קהילות השקעה רלוונטיות ולבחון כלים כמו אג\"ח ממשלתי או תעודות פיקדון (CDs) בהתאם לזמינותם המקומית."
   },
   {
-    "id": "1wl2xts",
-    "title": "Is Copart’s Acquisition of ACV Auctions a Masterstroke or a Mistake? A Deep Dive into Growth, Supply Constraints, and Valuation",
-    "url": "https://www.reddit.com/r/investing/comments/1wl2xts/is_coparts_acquisition_of_acv_auctions_a/",
-    "author": "anmolago1",
+    "id": "1wmlm3s",
+    "title": "Thoughts on this TSFA Port",
+    "url": "https://www.reddit.com/r/investing/comments/1wmlm3s/thoughts_on_this_tsfa_port/",
+    "author": "Bluesparc",
     "score": 1,
-    "selftext": "There were quite a few comments from my last two posts that raised concerns about Copart’s acquisition of ACV Auctions Inc. The general perception was that this was a bad decision because the company currently has a negative net profit and a large stock based compensation program. At first sight, that is a reasonable observation. However, sometimes things are different from how they appear. To understand whether this was the right move, it is necessary to examine Copart’s current business health and future prospects, and that is where I want to start, as it forms the foundation of my investment thesis.\n\n**Why did they buy ACV Auctions instead of executing aggressive stock buybacks at this price?**\n\nI started to suspect the answer when I stumbled upon the return of Jay Adair to the CEO position after just two years away. Simply looking at the timeline and the slowdown in earnings growth makes anyone suspicious that something is wrong. It doesn't take an in depth analysis to reach that conclusion. But most of the time, gut feelings and intuition are rather misleading when evaluating these situations.\n\nThe best way to make a rational decision is to model the company's growth over the coming years, so this time I ran a 5-year projection.\n\nThe growth of this business is dominated by vehicle supply, not demand. Copart sells everything that reaches its platform, boasts an extensive buyer network, and possesses decades of data analyzing consumer behavior to secure the best prices. The real bottleneck is the supply of vehicles received from insurance companies.\n\nTo understand this mechanism, I came up with the following formula:\n\n**Copart Vehicle Supply = Insured Vehicle Supply × Collision Frequency × Total Loss Frequency × Copart Market Share**\n\nThese are the variables that dictate their network intake, and analyzing them revealed the rationale behind acquiring ACV.\n\nThere has been a structural decline in collision frequency, dropping from a pre COVID level of 5.6% to 4.5% post COVID. At the same time, as inflation spiked repair costs, insurers totaled a higher percentage of damaged cars, pushing total loss frequency up from a pre-COVID average of 16.1% to a post-COVID average of 21%, eventually peaking and flattening at 23%.\n\nThis is unlikely to go much higher into the mid 20s unless we face runaway inflation.\n\nThis surge in totaled vehicles masked the underlying structural reduction in collision frequency for nearly six years, keeping total vehicle intake healthy. However, that crutch hit a wall once the volume of totaled vehicles stopped growing. As inflation cooled and total loss rates stabilized, the structural decline in collision frequency was exposed, casting a dark cloud over short to medium term growth.\n\nWhy did collision frequency decrease?\n\nThe primary drivers are the adoption of collision avoidance technology, blind spot detection systems, sensors, and cameras (now standard on almost every vehicle), alongside the shift toward remote work, which reduced miles traveled per capita, and economic factors such as high fuel prices that keep people off the road.\n\nPlugging the last 10 years of data into the equation yields a baseline growth rate of about 6% for the next five years, which is propped up by international sales. Without international markets, organic growth drops to 5.4%.\n\nTo get back to double digits, management had to act.\n\n**How do they solve it?**\n\nThe answer is as simple as increasing vehicle supply.\n\nThis is where Jay Adair is critical. Under his watch, he transformed Copart into what it is today and has proven capital allocation skills. He and his team have identified this supply bottleneck and deployed a clear strategy:\n\n1. **International expansion:** This segment is currently supporting overall growth and pushing it toward the 6% range. Growing it further is a straightforward strategy since it’s already a strong revenue engine.\n2. **The ACV acquisition:** Totaled vehicle supply may have peaked, forcing them to look elsewhere. ACV gets them straight into the wholesale vehicle market.\n3. **Scaling the core business:** This includes technology, automation, and yard expansion.\n\nThis strategy closely matches the challenges I found during my investigation. Without it, the company faces a structural growth slowdown that would be very difficult to overcome relying solely on the salvage segment.\n\n**Was ACV the right acquisition?**\n\nThis is the million dollar question, and time will tell as the transaction becomes accretive to Copart’s EPS.\n\nFrom a strategic perspective, diversifying into wholesale vehicles makes sense, and ACV is a natural fit. The synergies are evident. The systems and technology share obvious similarities that should yield early efficiencies.\n\nIn the short term, we may see a progressive reduction in ACV’s R&D expenses, a major component of their cash burn, as technology sharing between Copart and ACV kicks in. Utilizing Copart’s extensive yard network should also happen progressively, improving storage and transportation efficiency.\n\nHowever, I believe the main objective is opening Copart’s massive buyer network to ACV. More specifically, I believe management is trying to connect ACV’s vehicle supply to Copart’s global demand network rather than simply acquiring ACV’s existing buyer base.\n\nIf only 5% of Copart’s existing network engaged with ACV inventory, ACV could potentially more than double its current buyer base, which could have a significant impact on revenue.\n\nThat said, it remains to be seen whether a salvage buyer is also interested in purchasing wholesale inventory. Local businesses or international buyers utilizing cheaper labor to rebuild totaled salvage vehicles may not find it financially viable to buy higher end wholesale cars for the same purpose.\n\nThis overlap between Copart buyers and ACV inventory is one of the largest unknowns in the acquisition thesis.\n\nThis suggests that primarily the lower end of ACV’s inventory will successfully cross over into Copart’s ecosystem, leaving much of the value creation dependent on the first two benefits plus ACV’s existing dealer network.\n\n**Copart’s Valuation and Investment Strategy**\n\nI ran a 10-year model incorporating the ACV acquisition across three scenarios:\n\n* Bear case (6.4% growth)\n* Base case (7.7% growth)\n* Bull case (9.1% growth)\n\nThe bull case briefly touches double digit growth by 2029, though it is initially weighed down by low first year growth following the acquisition.\n\nUsing an 8% discount rate, my base case valuation yields an intrinsic value of $31 per share, suggesting the stock is currently trading around fair value.\n\nMy thesis hinges on Copart’s exceptional business quality and economic moat, making it a true compounder. However, looking at the opportunity cost relative to other portfolio options, I would prefer to enter at a 15% discount to fair value, putting my buy zone between $26 and $27.\n\nNormally I demand a 40%+ margin of safety, but given the fortress like quality of the business, I'd be happy entering around that range. Other investors may decide to enter at fair value for a company like Copart.\n\nWhere do you place fair value, and how much of a margin of safety do you require before initiating a position?\n\n \n\n*Disclaimer: I am not a financial advisor. This is simply my own valuation, estimates, and portfolio strategy. Please do your own research before making any investment decisions.*\n\n[Copart Research](https://stocksdeepdive.com/research?ticker=CPRT&section=Fundamentals)",
+    "selftext": "Looking for full global diversification, not US concentrated simply because I have no real faith in the US.\n\n75% VEQT, 15%CASV, and 10% VIU to balance out the US/Canada weight a bit more. \n\n600 a month currently, will increase next year after debt pay down from college. And hopefully more in the future. \n\nWhen TFSA contributions max next year will continue same percentages into RRSP alongside my SCHD, SCHY, And VDY that I'm currently putting 400 a month into. \n\nCheers for reading",
     "subreddit": "investing",
-    "created_utc": 1789866069,
+    "created_utc": 1790016438,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Stock based comp as a real cost is one thing these deep dives usually wave through. It is dilution on a delay, and for a company paying up for an acquisition it changes what shareholders are actually funding. A negative bottom line on its own says little, but those two together are worth the argument.",
+        "body": "Late at 35 with a 25-30 year horizon is fine, you have time. But VEQT already holds \\~30% Canada and all developed markets, so that 10% VIU doesn't reduce your Canada weight at all, it just shaves the US slice a bit. The real tension is the RRSP sleeve: SCHD, SCHY and VDY are US and ex-US dividend funds, so the 'no faith in the US' thesis disappears the moment you start funding that account. Pick one, either you want global cap weight or you want a dividend tilt, because holding both means you're just paying more MERs for the same exposure.educe your Canada weight at all, it just shaves the US slice a bit. The real tension is the RRSP sleeve: SCHD, SCHY and VDY are US and ex-US dividend funds, so the 'no faith in the US' thesis disappears the moment you start funding that account. Pick one, either you want global cap weight or you want a dividend tilt, because holding both means you're just paying more MERs for the same exposure.",
         "score": 1,
-        "author": "QuanTradin"
-      },
-      {
-        "body": "my buddy worked at acv before copart bought it and said growth was way ahead of projections even with supply issues",
-        "score": 1,
-        "author": "sargent010s"
+        "author": "ProfessionalFlan5683"
       }
     ],
-    "summary_he": "הפוסט מנתח את רכישת ACV Auctions על ידי קופארט (Copart) כצעד אסטרטגי שנועד להתגבר על האטה בצמיחה האורגנית ועל מחסור באספקת רכבים הנובע מירידה בתדירות התאונות. המטרה היא להתרחב לשוק המכירות הסיטונאיות ולנצל את רשת הקונים הגלובלית והתשתיות של קופארט, אם כי קיימת אי-ודאות לגבי מידת החפיפה בין סוגי הקונים בשני השווקים. לסיכום, הכותב מעריך כי המניה נסחרת כעת בשווי הוגן וממתין למחיר כניסה אטרקטיבי יותר המגלם שולי ביטחון רחבים יותר.",
+    "summary_he": "הכותב מציג תיק השקעות (TFSA) המבוסס על פיזור עולמי רחב עם חשיפה מופחתת לשוק האמריקאי, המורכב מ-75% VEQT, 15% CASV ו-10% VIU. הוא משקיע כיום 600 דולר בחודש ומתכנן להמשיך באסטרטגיה זו גם בחשבון ה-RRSP לאחר שימצה את תקרת ההפקדה, לצד השקעותיו הקיימות בקרנות דיבידנדים.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שפורטו, הכולל 6 נקודות מרכזיות ותובנות מהקהילה:\n\n*   **התעלמות מעלויות אמיתיות בניתוחי עומק:** קיימת ביקורת על כך שניתוחים פיננסיים מעמיקים נוטים לעיתים קרובות להתעלם מ\"תגמול מבוסס מניות\" (Stock-based compensation) ולא להתייחס אליו כאל עלות תפעולית ריאלית.\n*   **השפעת הדילול בטווח הרחוק:** תגמול מבוסס מניות נתפס כגורם המדלל את ערך המניות של המשקיעים הקיימים בטווח הארוך (\"דילול בעיכוב\"), דבר שמשנה את תמונת הרווחיות.\n*   **שינוי במבנה המימון של בעלי המניות:** כאשר חברה משלמת על רכישת חברות אחרות במקביל לחלוקת מניות כפיצוי לעובדים, הדבר משנה את המהות של מה שבעלי המניות מממנים בפועל ועלול להוות נטל על ההון.\n*   **הקשר בין הפסדים לעלויות שכר:** נטען כי שורה תחתונה שלילית (הפסד נקי) אינה בהכרח גורם מרתיע כשלעצמה, אך בשילוב עם הוצאות גבוהות על תגמול במניות ורכישות, מדובר בטיעון משמעותי נגד יציבות החברה.\n*   **צמיחה חזקה מהתחזיות:** מנקודת מבט של עובדים \"מהשטח\" (עדות מכלי ראשון או מחברים), נראה כי הצמיחה של החברה בפועל עלתה באופן משמעותי על התחזיות המוקדמות.\n*   **חוסן אל מול בעיות באספקה:** הצמיחה המרשימה של החברה התרחשה למרות קשיים בשרשרת האספקה, מה שמעיד על ביקוש גבוה או מודל עסקי שמצליח להתגבר על מכשולים לוגיסטיים.",
-    "dateString": "2026-09-20",
-    "savedAt": {
-      "_seconds": 1789902333,
-      "_nanoseconds": 652000000
-    }
+    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מהתגובה, המתמקדות באסטרטגיית השקעות בשוק ההון:\n\n* **גיל ותזמון:** התחלה בגיל 35 עם אופק השקעה של 25–30 שנים נחשבת למצב סביר לחלוטין. למרות התחושה של \"איחור\", יש למשקיע מספיק זמן כדי לתת לריבית דריבית לעבוד.\n* **ניתוח הרכב קרן VEQT:** הקרן VEQT כבר כוללת בתוכה חשיפה משמעותית לקנדה (כ-30%) ולכל השווקים המפותחים. לכן, הוספת רכיבים דומים עשויה להיות מיותרת.\n* **ההשפעה של הוספת VIU:** הוספת 10% של קרן VIU לתיק שכולל VEQT לא באמת מקטינה את החשיפה לקנדה כפי שאולי נדמה, אלא בעיקר מצמצמת את הנתח המוקצה לשוק האמריקאי.\n* **סתירה באסטרטגיית \"חוסר אמון בארה\"ב\":** קיימת סתירה פנימית בגישת המשקיע: מצד אחד הוא מביע חוסר אמון בשוק האמריקאי, אך מצד שני הוא מתכנן להחזיק בקרנות דיבידנד אמריקאיות (כמו SCHD) בחשבון ה-RRSP שלו.\n* **בחירה בין גישות השקעה:** על המשקיע לבחור בגישה אחת ברורה – או השקעה פסיבית לפי משקל השוק העולמי, או הטיה (Tilt) לכיוון מניות דיבידנד. שילוב של השתיים יוצר תיק לא ממוקד.\n* **יעילות כלכלית ודמי ניהול:** החזקה כפולה של קרנות העוקבות אחרי השוק העולמי יחד עם קרנות דיבידנד מובילה לתשלום דמי ניהול (MER) מיותרים, עבור חשיפה שמהותה בסופו של דבר דומה מאוד."
+  },
+  {
+    "id": "1wmlfpb",
+    "title": "How much do you expect the market to go up when the iran war ends",
+    "url": "https://www.reddit.com/r/investing/comments/1wmlfpb/how_much_do_you_expect_the_market_to_go_up_when/",
+    "author": "Electronic_Set_222",
+    "score": 1,
+    "selftext": "This war with iran has to end sometime in the near future because the oil price increases are unsustainable and would tank the economy if dragged on and everyone knows this so when it does come to an end how much do you think the s&p500 amd nasdaq will go up? Im expecting 3-5 percent at least what do you all think?",
+    "subreddit": "investing",
+    "created_utc": 1790016059,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "> and everyone knows this\n\nIf it's widely \"known\" or general sentiment and outlook, then it's already priced in.",
+        "score": 1,
+        "author": "therealjerseytom"
+      },
+      {
+        "body": "Big oil glut is a weird way to spell EMPTIED THE STRATEGIC RESERVE.   Which is the thing you fill when there is an oil glut, not empty.",
+        "score": 1,
+        "author": "kinglallak"
+      },
+      {
+        "body": "Prefer all you want lol\n\nIf you really felt that way you wouldn't still be engaging",
+        "score": 1,
+        "author": "DownvotesHyperbole"
+      }
+    ],
+    "summary_he": "הכותב מעריך שהמתיחות מול איראן חייבת להסתיים בקרוב בשל מחירי הנפט הגבוהים שמאיימים על יציבות הכלכלה. הוא תוהה בכמה יעלו מדדי ה-S&P 500 והנאסד\"ק עם סיום העימות, ומעריך כי תירשם עלייה של לפחות 3-5 אחוזים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג שש נקודות מבט, דעות ותחושות קהילתיות שעלו מהתגובות:\n\n*   **יעילות השוק והתמחור (\"Priced In\"):** אחת הטענות המרכזיות היא שאם מידע מסוים או סנטימנט כללי מוכר לציבור הרחב, הוא כבר מגולם במחיר השוק. לפי גישה זו, אין טעם לנסות להרוויח ממידע ש\"כולם יודעים\", כי השוק כבר הגיב אליו.\n*   **ביקורת על ניהול מאגרי הנפט האסטרטגיים:** קיימת ביקורת נוקבת על המדיניות הנוכחית, בטענה שהממשל רוקן את המאגרים האסטרטגיים במקום למלא אותם. המגיב רומז כי מדובר בניהול לקוי של משאבי החירום הלאומיים.\n*   **ערעור על המונח \"עודף נפט\" (Oil Glut):** המגיבים מטילים ספק בקביעה שישנו עודף היצע בשוק. נטען כי ה\"עודף\" המדומה הוא למעשה תוצאה של ריקון מכוון של מאגרים ולא של ייצור יתר טבעי או ירידה בביקוש.\n*   **היגיון כלכלי בסיסי מול מציאות פוליטית:** מוצג טיעון לוגי לפיו מאגרים ממלאים בזמן שיש עודף היצע (כשהמחיר נמוך) ומרוקנים בזמן מחסור. התגובה מצביעה על אבסורד בכך שהפעולה שבוצעה הייתה הפוכה מההיגיון הכלכלי הזה.\n*   **ספקנות כלפי הצהרות משתמשים:** קיימת נימה של לעג כלפי משתתפים בדיון שמצהירים על רצון להפסיק את הוויכוח או חוסר עניין, אך ממשיכים להגיב ולהתעמת בפועל.\n*   **דינמיקת הדיון ברשת:** סנטימנט קהילתי המזהה חוסר עקביות בין רגשות מוצהרים לבין התנהגות בפועל (Engagement). נטען כי עצם המשך המעורבות בדיון מוכיח שלכותב אכפת מהנושא הרבה יותר ממה שהוא מוכן להודות."
+  },
+  {
+    "id": "1wml0w6",
+    "title": "Maxed out my ROTH IRA, now what? [20y/o]",
+    "url": "https://www.reddit.com/r/investing/comments/1wml0w6/maxed_out_my_roth_ira_now_what_20yo/",
+    "author": "Prestigious-Loss9513",
+    "score": 1,
+    "selftext": "Hello all, I maxed out my ROTH IRA for this year, and I have extra money to invest but I don't know how to go about it. Should I be investing in the same ETFs on my brokerage account?\n\nI'm on track to max out my ROTH for next year as well, I will be able to max it out as soon as the new year starts, and I will still have alot extra to invest then. How should I go about this?\n\nIm investing in VOO (70%), VXUS (10%), and QQQM (20) for my ROTH IRA, should I invest the same way in my brokerage? My only problem is that brokerage is taxed, and idk how that really works or if I could hold long term in my brokerage as far as ETFS.   \n  \nContext: I'm a full time college student and don't have to worry about bills since I live at home and commute. I wanna take advantage of this and invest to my full abilities. ",
+    "subreddit": "investing",
+    "created_utc": 1790015201,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I do the same. I max my Roth on January 1st.  The rest is invested in my taxable brokerage account. I hold some of the same ETFs in the brokerage, but I also like watching the charts all year and swing trading individual stocks as a means to feed the profits into the ETFs.  Mostly buy & sell well known companies that I don't mind being stuck with if they dip.\n\nYou are only taxed on your profits upon the sale of a stock. You're also taxed on dividends.",
+        "score": 1,
+        "author": "Shredded__"
+      },
+      {
+        "body": "> My only problem is that brokerage is taxed\n\nHow is that a problem? Everyone gets taxed in their taxable brokerage account. The alternative is to let inflation eat it away in a savings account or barely keep up in a HYSA.",
+        "score": 1,
+        "author": "Informal-Lime6396"
+      },
+      {
+        "body": "Time to make sure, as that's your best investment vehicle.  Id also see if you can open an HSA now even if you can't contribute to one yet (I assume you don't have a high deductible plan).",
+        "score": 1,
+        "author": "Lucifers-Reprieve"
+      }
+    ],
+    "summary_he": "סטודנט בן 20 שמיצה את תקרת ההפקדה השנתית ל-Roth IRA מבקש להתייעץ כיצד להשקיע כספים נוספים שברשותו. הוא שוקל לשכפל את הרכב המדדים שלו (VOO, VXUS ו-QQQM) בחשבון השקעות רגיל (Brokerage), אך חושש מהשלכות המס הכרוכות בניהול תיק כזה לטווח ארוך.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, הכולל 6 נקודות מבט, דעות וסנטימנטים שעלו מתוך התגובות:\n\n*   **אסטרטגיית הפקדה מוקדמת (Lump Sum):** קיימת המלצה והעדפה להפקיד את הסכום המקסימלי המותר לחשבון ה-Roth IRA כבר ב-1 בינואר, כדי למקסם את זמן השהייה של הכסף בשוק לאורך השנה.\n*   **שילוב בין השקעה פסיבית למסחר אקטיבי:** אחד המשתמשים הציג גישה המשלבת החזקת קרנות סל (ETFs) לטווח ארוך יחד עם \"מסחר סווינג\" (Swing Trading) במניות בודדות. הרווחים מהמסחר האקטיבי מנותבים בחזרה לרכישת קרנות סל נוספות.\n*   **ניהול סיכונים במניות בודדות:** בבחירת מניות למסחר אקטיבי, הקהילה מציעה להתמקד בחברות מוכרות ויציבות (\"Blue Chips\"). הנימוק הוא שאם מחיר המניה יירד והמשקיע \"ייתקע\" איתה, הוא ירגיש בנוח להחזיק בה לטווח ארוך בשל איכות החברה.\n*   **השלמה עם חובת המס:** עלתה הטענה שאין להירתע מחשבון השקעות חייב במס (Taxable Brokerage). המשתתפים מציינים כי תשלום מס על רווחים ודיבידנדים הוא חלק בלתי נפרד מהצמחת הון, וכי זו ברירה עדיפה על פני חלופות אחרות.\n*   **השקעה ככלי למלחמה באינפלציה:** הדיון מדגיש כי השקעה בשוק ההון (גם אם היא חייבת במס) עדיפה על החזקת מזומן בחשבון עו\"ש או בחיסכון רגיל. זאת מכיוון שהאינפלציה שוחקת את כוח הקנייה של הכסף, וחשבונות חיסכון בריבית גבוהה (HYSA) בקושי מצליחים להדביק את הקצב.\n*   **ניצול מכשירי השקעה עם הטבות מס נוספות:** מעבר ל-Roth IRA, הקהילה ממליצה לבחון פתיחת חשבון חיסכון לבריאות (HSA) ככלי השקעה יעיל ביותר, גם אם כרגע לא ניתן להפקיד אליו סכומים משמעותיים, בשל יתרונות המס הייחודיים שלו."
+  },
+  {
+    "id": "1wmkkh5",
+    "title": "At what point is qqqm better than voo for young investors?",
+    "url": "https://www.reddit.com/r/investing/comments/1wmkkh5/at_what_point_is_qqqm_better_than_voo_for_young/",
+    "author": "Electronic_Set_222",
+    "score": 1,
+    "selftext": "Anytime qqq is mentioned  to have beaten voo the past 15-20 years people say “past performance does not guarantee future returns” but they use that same logic for VOO when they say its averaged 10 percent for many decades.\n\nIf someone is young why not add in alot of qqq alongside with voo? After all, the companies are investing a shit ton of money in AI so why not jump on the train?\n\nThe economy is no longer about mcdonalds and home depot its about tech and AI",
+    "subreddit": "investing",
+    "created_utc": 1790014227,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I've been advocating 40/30/20/10 in SPYM, QQQM, SPMO, and SNSXX lately. I have my girlfriend in it. ",
+        "score": 1,
+        "author": "MakingMoneyIsMe"
+      },
+      {
+        "body": "Yep. I hedge with half VOO half QQQ for my Us allocation. I don’t give a damn what everyone keeps crying about a crash on here. People say it every year while the market moves up and up and up",
+        "score": 1,
+        "author": "Whole-Reserve-4773"
+      },
+      {
+        "body": "I’ve held 100% VIGIX in my 401k since 2014. I have over 10x my current salary 12 years later. ",
+        "score": 1,
+        "author": "Charliebush"
+      }
+    ],
+    "summary_he": "הפוסט בוחן האם למשקיעים צעירים עדיף להשקיע ב-QQQM על פני VOO, בטענה שהכלכלה המודרנית נשענת על טכנולוגיה ובינה מלאכותית ולא על חברות מסורתיות. הכותב מבקר את הנטייה להסתמך על תשואות העבר כדי להצדיק השקעה ב-VOO תוך פסילת הצלחת הנאסד\"ק, ומציע להגדיל את החשיפה למגזר הטכנולוגי שמוביל את השוק.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ודעות שונות שעלו מהתגובות:\n\n*   **אסטרטגיית הקצאה מפורטת ומגוונת:** אחד המשתמשים הציג מודל השקעה ספציפי של 40/30/20/10 המחולק בין ארבעה אפיקים שונים (SPYM, QQQM, SPMO, ו-SNSXX), המשלב בין מניות בלו-צ'יפ, טכנולוגיה, מניות מומנטום וקרנות כספיות.\n*   **גידור פשוט באמצעות מדדים מובילים:** קיימת העדפה לגישת \"חצי-חצי\" (50/50) בין מדד ה-S&P 500 (דרך VOO) לבין מדד הנאסד\"ק (דרך QQQ) כדרך יעילה ופשוטה לנהל את החשיפה לשוק האמריקאי.\n*   **ספקנות כלפי \"נביאי זעם\":** בקהילה קיימת נימה של זלזול כלפי האזהרות החוזרות ונשנות על קריסת שוק קרבה. המגיבים מציינים שהשוק ממשיך לעלות בהתמדה למרות התחזיות הפסימיות שנשמעות מדי שנה.\n*   **הצלחת אסטרטגיית הריכוזיות (Concentration):** אחד המגיבים העיד על הצלחה כבירה בשימוש בקרן צמיחה אחת בלבד (VIGIX) לאורך למעלה מעשור, מה שסותר לעיתים את הגישה המסורתית של פיזור רחב מדי.\n*   **התמדה לטווח ארוך ככלי לצבירת הון:** הדיון מדגיש כי דבקות באסטרטגיה לאורך זמן (למשל 12 שנים) יכולה להוביל לתוצאות מרשימות, כמו הגעה להון הגדול פי 10 מהשכר השנתי הנוכחי.\n*   **ביטחון גבוה בהמלצות אישיות:** רמת השכנוע של המשקיעים באסטרטגיה שלהם גבוהה עד כדי כך שהם מיישמים אותה לא רק על כספם שלהם, אלא גם על כספם של בני זוגם וקרוביהם."
+  },
+  {
+    "id": "1wmhpxs",
+    "title": "Why is it so hard to see the new SPMO holdings?",
+    "url": "https://www.reddit.com/r/investing/comments/1wmhpxs/why_is_it_so_hard_to_see_the_new_spmo_holdings/",
+    "author": "Successful-Tea-5733",
+    "score": 1,
+    "selftext": "Even the Invesco site is still not updated. Is there somewhere I can see what the new holdings are?\n\n  \n[https://www.invesco.com/us/en/financial-products/etfs/invesco-sp-500-momentum-etf.html#Overview](https://www.invesco.com/us/en/financial-products/etfs/invesco-sp-500-momentum-etf.html#Overview)",
+    "subreddit": "investing",
+    "created_utc": 1790008148,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Yea, surprised to see that Nvidia was removed and Apple became the top holding. but Nvidia's price was relatively flat in the past few months, so its momentum score dropped. ",
+        "score": 1,
+        "author": "Remarkable_Cat_8696"
+      },
+      {
+        "body": "Interesting that the turnover rate is also 54% in September. Over half of its holdings are replaced semi annually, it's a big change. ",
+        "score": 1,
+        "author": "Remarkable_Cat_8696"
+      },
+      {
+        "body": "Agreed. I’m here bc the new holdings were extremely hard to find, and a company like Invesco who manages billions in AUM with just SPMO, there’s really no excuse for not having this info publicly available before the start of the first trading day following the rebalance. ",
+        "score": 1,
+        "author": "Muy_Division"
+      }
+    ],
+    "summary_he": "כותב הפוסט מביע תסכול על כך שהאתר הרשמי של Invesco טרם עדכן את רשימת האחזקות החדשה של קרן הסל SPMO. הוא מבקש לדעת אם קיים מקור חלופי שבו ניתן לצפות בהרכב המעודכן של הקרן.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע לאיזון מחדש (Rebalance) של קרן הסל SPMO, הכולל 6 נקודות מרכזיות והלך רוח קהילתי:\n\n*   **שינוי בצמרת האחזקות:** בקרב הגולשים נרשמה הפתעה מכך שחברת Nvidia הוסרה מהקרן, בעוד שחברת Apple הפכה להחזקה המרכזית והגדולה ביותר בתיק.\n*   **ניתוח מבוסס מומנטום:** המגיבים הסבירו את השינוי בכך שמחיר המניה של Nvidia היה יחסית \"שטוח\" בחודשים האחרונים. מכיוון שהקרן מתבססת על מדדי מומנטום, ביצועים אלו הורידו את הדירוג שלה והובילו להוצאתה.\n*   **שיעור תחלופה גבוה:** הועלתה פליאה לגבי שיעור התחלופה הגבוה בקרן (Turnover rate), שעמד על 54% בחודש ספטמבר. המשמעות היא שיותר ממחצית מהנכסים בקרן הוחלפו בבת אחת.\n*   **דינמיות הניהול:** חברי הקהילה מציינים כי החלפה של מעל מחצית מהחזקות הקרן מדי חצי שנה היא שינוי משמעותי מאוד המעיד על אופי הניהול הדינמי והאגרסיבי של הקרן.\n*   **ביקורת על שקיפות וזמינות מידע:** נמתחה ביקורת חריפה על חברת Invesco (המנהלת את הקרן). הגולשים טענו כי קשה מאוד למצוא נתונים על האחזקות החדשות וכי אין תירוץ לכך שחברה שמנהלת מיליארדי דולרים לא מנגישה את המידע לציבור לפני תחילת יום המסחר הראשון שלאחר האיזון.\n*   **תסכול משקיעים:** עלה רגש של תסכול מצד משקיעים שנאלצו \"לצוד\" את המידע במקומות חלופיים עקב חוסר הפרסום הרשמי והמהיר מצד מנהלת הקרן, דבר שנתפס כהתנהלות לא מקצועית עבור קרן בסדר גודל כזה."
   }
 ];
