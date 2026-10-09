@@ -1,344 +1,251 @@
 window.dailyTrends = [
   {
-    "id": "1wz8k6d",
-    "title": "Nvidia stock rises to new highs as market cap closes in on $6 trillion",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1wz8k6d/nvidia_stock_rises_to_new_highs_as_market_cap/",
-    "author": "kinetic_honda",
-    "score": 651,
-    "selftext": "Nvidia has risen 28% this year, and is reaching a threshold no other company has done before. Two developments have driven this rally - a very strong revenue outlook and a $150 billion stock buyback authorization by the company. Jensen Huang has also called Nvidia \"the world's first and only growth value stock.\"",
-    "subreddit": "StockMarket",
-    "created_utc": 1791307525,
-    "thumbnail": "https://external-preview.redd.it/KqwhNpw5CYjbYBVH0effzROsUntMdEAEc4nBTJiVCaw.jpeg?width=140&height=93&auto=webp&s=477d659c7d87fd80f3932ba07fb7a6e4b214dcc2",
-    "top_comments": [
-      {
-        "body": "Now imagine you live in a country where you pay taxes on unrealized gains",
-        "score": 19,
-        "author": "Kong_Fury"
-      },
-      {
-        "body": "I'm a die hard capitalist but if you're saying we should sympathize with a millionaire (on paper) having to sell some of his shares to cover taxes on unrealized gains, you won't find it here.",
-        "score": 5,
-        "author": "Early_Grade_8387"
-      },
-      {
-        "body": "cheap for a company with 40% growth",
-        "score": 4,
-        "author": "tradingcapy"
-      }
-    ],
-    "summary_he": "מניית אנבידיה מזנקת לשיאים חדשים ומתקרבת לשווי שוק של 6 טריליון דולר, בזכות תחזית הכנסות חזקה ותוכנית רכישה עצמית של מניות בהיקף של 150 מיליארד דולר. מנכ\"ל החברה, ג'נסן הואנג, הגדיר את אנבידיה כ\"מניית הצמיחה והערך הראשונה והיחידה בעולם\".",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מן התגובות, המציג 6 נקודות מבט וסנטימנטים שונים בקהילה:\n\n*   **התנגדות למיסוי רווחים \"על הנייר\":** עולה ביקורת (לעיתים אירונית) כלפי המחשבה על מגורים במדינה המטילה מס על רווחים לא ממומשים, דבר הנתפס כנטל כלכלי בעייתי או אבסורדי.\n*   **חוסר אמפתיה כלפי העשירים:** קיימת תמימות דעים בקרב המגיבים שאין מקום לרחם על מיליונרים שנאלצים למכור חלק קטן מהחזקותיהם כדי לשלם מיסים, גם אם העושר שלהם נחשב כרגע רק \"על הנייר\".\n*   **קפיטליזם פרגמטי:** גם משתמשים המגדירים את עצמם כקפיטליסטים מושבעים סבורים כי מימוש מניות לצורך תשלומי מס הוא צעד לגיטימי ומתבקש, ואינו מהווה פגיעה בעקרונות השוק החופשי.\n*   **אופטימיות לגבי שווי החברה:** במישור הכלכלי, יש המעריכים כי מחיר המניה הנוכחי הוא \"זול\" ומהווה הזדמנות קנייה, במיוחד עבור חברה שמציגה קצב צמיחה מרשים של 40%.\n*   **התמקדות במדדי צמיחה:** קיימת תפיסה בקהילה שביצועים עסקיים חזקים (כמו צמיחה גבוהה) הם הפקטור המכריע להערכת שווי, מעבר לדיונים על מיסוי או נזילות של בעלי המניות.\n*   **הפרדה בין אידיאולוגיה למציאות:** הדיון משקף מתח בין תמיכה בשיטה הקפיטליסטית לבין הציפייה שבעלי הון יישאו באחריות פיסקאלית, תוך דחיית הניסיון להציג מכירת מניות לצרכי מס כ\"הקרבה\" או כעוול."
-  },
-  {
-    "id": "1wz2ssk",
-    "title": "Don’t time the market folk: S&P 500 rises to record high as oil and yields move lower",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1wz2ssk/dont_time_the_market_folk_sp_500_rises_to_record/",
-    "author": "Broke_BruceWaynee",
-    "score": 211,
-    "selftext": "The [S&P 500](https://www.cnbc.com/quotes/.SPX?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTEyOTM2ODksImV4cCI6MTc5MTI5Mzk4OSwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.3ByUce3wVMXs4zo3fVE78Tr-xJAM_e3-eHH0BbamzxVmDBHxNdTHCCP4kVFtNTbwIg1lf5sz8bL-yONEDwPNwM9jxKcsm6hiyDd8F-H75zL7t0W3drnKpzzUAJPPcH-AsfW1s5eVvmiv8T_pHsLhqZT2ZR8ieTCuFbt3A4NRt7671Y35u-HMXpkIqbjqsMhXJ0u9XRzP8RSZxrB9gfBriC_UY_-ybPfnAyfXnZc6xFCDZACmxVB-CQdGPSgg8nZeieZopkT4wE5A83E4iPKeEJdwH32mrBY9OInMgOLjncCTevkLCmfb85QCKY6Z8q7IMXQ2bIpPec77Dw-dLNM96A) rose to a fresh all-time intraday high on Tuesday, boosted by gains in key technology names as well as declines in oil prices and Treasury yields.  \nThe broad market index was last up 0.5%, while the [Dow Jones Industrial Average](https://www.cnbc.com/quotes/.DJI?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTEyOTM2ODksImV4cCI6MTc5MTI5Mzk4OSwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.3ByUce3wVMXs4zo3fVE78Tr-xJAM_e3-eHH0BbamzxVmDBHxNdTHCCP4kVFtNTbwIg1lf5sz8bL-yONEDwPNwM9jxKcsm6hiyDd8F-H75zL7t0W3drnKpzzUAJPPcH-AsfW1s5eVvmiv8T_pHsLhqZT2ZR8ieTCuFbt3A4NRt7671Y35u-HMXpkIqbjqsMhXJ0u9XRzP8RSZxrB9gfBriC_UY_-ybPfnAyfXnZc6xFCDZACmxVB-CQdGPSgg8nZeieZopkT4wE5A83E4iPKeEJdwH32mrBY9OInMgOLjncCTevkLCmfb85QCKY6Z8q7IMXQ2bIpPec77Dw-dLNM96A) gained 189 points, or 0.4%. The [Nasdaq Composite](https://www.cnbc.com/quotes/.IXIC?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTEyOTM2ODksImV4cCI6MTc5MTI5Mzk4OSwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.3ByUce3wVMXs4zo3fVE78Tr-xJAM_e3-eHH0BbamzxVmDBHxNdTHCCP4kVFtNTbwIg1lf5sz8bL-yONEDwPNwM9jxKcsm6hiyDd8F-H75zL7t0W3drnKpzzUAJPPcH-AsfW1s5eVvmiv8T_pHsLhqZT2ZR8ieTCuFbt3A4NRt7671Y35u-HMXpkIqbjqsMhXJ0u9XRzP8RSZxrB9gfBriC_UY_-ybPfnAyfXnZc6xFCDZACmxVB-CQdGPSgg8nZeieZopkT4wE5A83E4iPKeEJdwH32mrBY9OInMgOLjncCTevkLCmfb85QCKY6Z8q7IMXQ2bIpPec77Dw-dLNM96A) added 0.6% and also hit a new all-time high.  \nThe moves higher were bolstered by a rise in chipmakers. [Advanced Micro Devices](https://www.cnbc.com/quotes/AMD?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTEyOTM2ODksImV4cCI6MTc5MTI5Mzk4OSwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.3ByUce3wVMXs4zo3fVE78Tr-xJAM_e3-eHH0BbamzxVmDBHxNdTHCCP4kVFtNTbwIg1lf5sz8bL-yONEDwPNwM9jxKcsm6hiyDd8F-H75zL7t0W3drnKpzzUAJPPcH-AsfW1s5eVvmiv8T_pHsLhqZT2ZR8ieTCuFbt3A4NRt7671Y35u-HMXpkIqbjqsMhXJ0u9XRzP8RSZxrB9gfBriC_UY_-ybPfnAyfXnZc6xFCDZACmxVB-CQdGPSgg8nZeieZopkT4wE5A83E4iPKeEJdwH32mrBY9OInMgOLjncCTevkLCmfb85QCKY6Z8q7IMXQ2bIpPec77Dw-dLNM96A) gained 2%, while others such as [Nvidia](https://www.cnbc.com/quotes/NVDA?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTEyOTM2ODksImV4cCI6MTc5MTI5Mzk4OSwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.3ByUce3wVMXs4zo3fVE78Tr-xJAM_e3-eHH0BbamzxVmDBHxNdTHCCP4kVFtNTbwIg1lf5sz8bL-yONEDwPNwM9jxKcsm6hiyDd8F-H75zL7t0W3drnKpzzUAJPPcH-AsfW1s5eVvmiv8T_pHsLhqZT2ZR8ieTCuFbt3A4NRt7671Y35u-HMXpkIqbjqsMhXJ0u9XRzP8RSZxrB9gfBriC_UY_-ybPfnAyfXnZc6xFCDZACmxVB-CQdGPSgg8nZeieZopkT4wE5A83E4iPKeEJdwH32mrBY9OInMgOLjncCTevkLCmfb85QCKY6Z8q7IMXQ2bIpPec77Dw-dLNM96A) and [Broadcom](https://www.cnbc.com/quotes/AVGO?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTEyOTM2ODksImV4cCI6MTc5MTI5Mzk4OSwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.3ByUce3wVMXs4zo3fVE78Tr-xJAM_e3-eHH0BbamzxVmDBHxNdTHCCP4kVFtNTbwIg1lf5sz8bL-yONEDwPNwM9jxKcsm6hiyDd8F-H75zL7t0W3drnKpzzUAJPPcH-AsfW1s5eVvmiv8T_pHsLhqZT2ZR8ieTCuFbt3A4NRt7671Y35u-HMXpkIqbjqsMhXJ0u9XRzP8RSZxrB9gfBriC_UY_-ybPfnAyfXnZc6xFCDZACmxVB-CQdGPSgg8nZeieZopkT4wE5A83E4iPKeEJdwH32mrBY9OInMgOLjncCTevkLCmfb85QCKY6Z8q7IMXQ2bIpPec77Dw-dLNM96A)traded up around 1%.  \nAdditionally, the benchmark [10-year Treasury](https://www.cnbc.com/quotes/US10Y?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTEyOTM2ODksImV4cCI6MTc5MTI5Mzk4OSwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.3ByUce3wVMXs4zo3fVE78Tr-xJAM_e3-eHH0BbamzxVmDBHxNdTHCCP4kVFtNTbwIg1lf5sz8bL-yONEDwPNwM9jxKcsm6hiyDd8F-H75zL7t0W3drnKpzzUAJPPcH-AsfW1s5eVvmiv8T_pHsLhqZT2ZR8ieTCuFbt3A4NRt7671Y35u-HMXpkIqbjqsMhXJ0u9XRzP8RSZxrB9gfBriC_UY_-ybPfnAyfXnZc6xFCDZACmxVB-CQdGPSgg8nZeieZopkT4wE5A83E4iPKeEJdwH32mrBY9OInMgOLjncCTevkLCmfb85QCKY6Z8q7IMXQ2bIpPec77Dw-dLNM96A)note yield fell 5 basis points to 5.256%. The [30-year](https://www.cnbc.com/quotes/US30Y?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTEyOTM2ODksImV4cCI6MTc5MTI5Mzk4OSwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.3ByUce3wVMXs4zo3fVE78Tr-xJAM_e3-eHH0BbamzxVmDBHxNdTHCCP4kVFtNTbwIg1lf5sz8bL-yONEDwPNwM9jxKcsm6hiyDd8F-H75zL7t0W3drnKpzzUAJPPcH-AsfW1s5eVvmiv8T_pHsLhqZT2ZR8ieTCuFbt3A4NRt7671Y35u-HMXpkIqbjqsMhXJ0u9XRzP8RSZxrB9gfBriC_UY_-ybPfnAyfXnZc6xFCDZACmxVB-CQdGPSgg8nZeieZopkT4wE5A83E4iPKeEJdwH32mrBY9OInMgOLjncCTevkLCmfb85QCKY6Z8q7IMXQ2bIpPec77Dw-dLNM96A) bond yield slipped more than 3 basis points to trade at 5.625%. Both yields scaled to levels not seen since 2002 on Monday.\n\nTraders are now looking ahead to the Federal Reserve’s minutes from its September meeting due Wednesday, which could shed some light on policymakers’ move to raise rates.  \nAlongside Treasury yields, a drop in oil prices also gave equities a boost Tuesday. [Brent crude](https://www.cnbc.com/quotes/@LCO.1?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTEyOTM2ODksImV4cCI6MTc5MTI5Mzk4OSwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.3ByUce3wVMXs4zo3fVE78Tr-xJAM_e3-eHH0BbamzxVmDBHxNdTHCCP4kVFtNTbwIg1lf5sz8bL-yONEDwPNwM9jxKcsm6hiyDd8F-H75zL7t0W3drnKpzzUAJPPcH-AsfW1s5eVvmiv8T_pHsLhqZT2ZR8ieTCuFbt3A4NRt7671Y35u-HMXpkIqbjqsMhXJ0u9XRzP8RSZxrB9gfBriC_UY_-ybPfnAyfXnZc6xFCDZACmxVB-CQdGPSgg8nZeieZopkT4wE5A83E4iPKeEJdwH32mrBY9OInMgOLjncCTevkLCmfb85QCKY6Z8q7IMXQ2bIpPec77Dw-dLNM96A)traded 2% lower at around $98 per barrel. [West Texas Intermediate futures](https://www.cnbc.com/quotes/@CL.1?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTEyOTM2ODksImV4cCI6MTc5MTI5Mzk4OSwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.3ByUce3wVMXs4zo3fVE78Tr-xJAM_e3-eHH0BbamzxVmDBHxNdTHCCP4kVFtNTbwIg1lf5sz8bL-yONEDwPNwM9jxKcsm6hiyDd8F-H75zL7t0W3drnKpzzUAJPPcH-AsfW1s5eVvmiv8T_pHsLhqZT2ZR8ieTCuFbt3A4NRt7671Y35u-HMXpkIqbjqsMhXJ0u9XRzP8RSZxrB9gfBriC_UY_-ybPfnAyfXnZc6xFCDZACmxVB-CQdGPSgg8nZeieZopkT4wE5A83E4iPKeEJdwH32mrBY9OInMgOLjncCTevkLCmfb85QCKY6Z8q7IMXQ2bIpPec77Dw-dLNM96A) shed 2% to roughly $87 a barrel.   \nStocks are coming off a winning session in which the Nasdaq Composite reached an all-time high. The tech-heavy index was set to build on that record.",
-    "subreddit": "StockMarket",
-    "created_utc": 1791293792,
+    "id": "1x079eb",
+    "title": "What is the current opinion on buying Vanguard ETF International vs Small Cap vs SP 500?",
+    "url": "https://www.reddit.com/r/investing/comments/1x079eb/what_is_the_current_opinion_on_buying_vanguard/",
+    "author": "newmoneyknowledge",
+    "score": 21,
+    "selftext": "I keep seeing people talking about how they think that the SP 500 will underperform both past numbers and international or small cap funds in the next ten years. What do you guys think about which to buy? I have a very long time horizon as a 15m and I'm just curious which fund hold in my retirement accounts.",
+    "subreddit": "investing",
+    "created_utc": 1791404722,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "This shit doesn't make any sense anymore. Doesn't matter what the news is line goes up to the right. The last I heard even more oil infrastructure was blown up. \n\nSomehow a 1c adjustment means it's all fixed and we're ready to go to the moon. ",
+        "body": "Only problem with VT if you are in the U.S. is you lose the foreign tax credit.  Making VTI/VXUS superior in that area ",
         "score": 8,
-        "author": "Due_Pen_1566"
+        "author": "Aggravating-Rich-356"
       },
       {
-        "body": "It is fraught with peril, especially when we run the risk of radicalizing a large swath of the voting population. The lower half went from having a hard time affording housing and cars to struggling to shop at Wal Mart or get McDonald's. Those people are going to repeatedly vote out incumbents regardless of which party is in power, and that upheaval will lead to further destabilization. It's already happening across virtually all of the western democracies with no real sign of letting up anytime soon",
-        "score": 6,
-        "author": "MTVs_DanCortese"
+        "body": "I mean, the goal is to grow an account to millions, not 10,000…\n\nHave to think long term ",
+        "score": 5,
+        "author": "Aggravating-Rich-356"
       },
       {
-        "body": "Uh I’d say a 20+% drop in one of the most stable assets in less than 6 months is pretty significant. \n\nEspecially with dedollarization tailwinds ",
-        "score": 6,
-        "author": "Material_Key5935"
+        "body": "If you keep hearing people say the market will underperform then you are reading the news daily because they've been saying that for 40 years or as long as I've been involved.  \n\nTurn off the news",
+        "score": 5,
+        "author": "HammerDownl"
       }
     ],
-    "summary_he": "מדדי ה-S&P 500 והנאסד\"ק טיפסו לשיאי כל הזמנים, כשהם נתמכים בעליות במניות השבבים והטכנולוגיה. המגמה החיובית הושפעה גם מירידה במחירי הנפט ובתשואות איגרות החוב, בזמן שהמשקיעים ממתינים לפרסום פרוטוקולי הפדרל ריזרב בנוגע למדיניות הריבית.",
+    "summary_he": "הפוסט דן בשאלה האם כדאי להשקיע במדד ה-S&P 500 או לגוון באמצעות מניות בינלאומיות ומניות של חברות קטנות, לאור הערכות שהמדד המרכזי יציג ביצועי חסר בעשור הקרוב. הכותב, משקיע צעיר מאוד עם אופק זמן ארוך, מבקש להתייעץ אילו קרנות סל כדאי לו להחזיק בתיק הפרישה שלו לטווח הרחוק.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות בשרשור, המציג 6 נקודות מבט ורגשות מרכזיים של הקהילה:\n\n*   **חוסר היגיון וחוסר קשר בין השוק למציאות:** קיימת תחושה שהבורסה מתנהגת בצורה לא רציונלית. למרות חדשות שליליות בשטח, כמו פגיעה בתשתיות נפט, המדדים ממשיכים לעלות, מה שיוצר ניתוק מוחלט בין הכלכלה הריאלית למחירי המניות.\n*   **ספקנות כלפי פתרונות שטחיים:** הקהילה מבטאת זלזול בכך ששינויים מינוריים או \"תיקונים של סנט אחד\" נתפסים בטעות כפתרון לבעיות מבניות עמוקות, כאילו הם אלו שיגרמו לשוק \"לטוס לירח\".\n*   **הידרדרות ברמת החיים הבסיסית:** קיים חשש כבד לגבי המצב הכלכלי של השכבות החלשות. אם בעבר הקושי היה ברכישת נכסים גדולים כמו בית או רכב, כעת אנשים מתקשים להרשות לעצמם אפילו קניות בסיסיות בוולמארט או ארוחה במקדונלד'ס.\n*   **הקצנה פוליטית ואי-אמון בממסד:** המצוקה הכלכלית מובילה להקצנה של נתחים נרחבים באוכלוסייה. הבוחרים נוטים להעניש את השלטון ולהפיל ממשלות מכהנות שוב ושוב, ללא קשר לשיוך המפלגתי, בשל התסכול ממצבם הכלכלי.\n*   **חוסר יציבות גלובלי בדמוקרטיות המערביות:** המגיבים מציינים כי התופעות הללו אינן מוגבלות למדינה אחת, אלא מהוות מגמה רוחבית בכל הדמוקרטיות המערביות, מה שמוביל לערעור היציבות הכללית ללא סימני בלימה באופק.\n*   **תנודתיות בנכסים \"בטוחים\" ודה-דולריזציה:** קיימת דאגה עמוקה מהעובדה שנכסים שנחשבו ליציבים ביותר חווים ירידות דרסטיות (מעל 20%) תוך זמן קצר, וזאת על רקע חששות מהיחלשות מעמד הדולר בעולם (תהליך הדה-דולריזציה)."
+    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות בשרשור, המציג 6 נקודות מבט ותובנות מרכזיות:\n\n*   **סוגיית זיכוי המס הזר (Foreign Tax Credit):** עבור משקיעים תושבי ארה\"ב, החזקה בקרן סל עולמית אחת (כמו VT) עלולה להיות פחות יעילה מבחינת מיסוי, כיוון שהיא גורמת לאובדן האפשרות לקבל זיכוי על מס זר ששולם.\n*   **היתרון האסטרטגי בפיצול קרנות:** קיימת העדפה לשילוב של VTI (שוק אמריקאי) ו-VXUS (שוק בינלאומי ללא ארה\"ב) על פני קרן אחת כוללת, וזאת כדי למקסם את הטבות המס ולשמור על עליונות כלכלית בניהול התיק.\n*   **התמקדות ביעדים ארוכי טווח:** המשקיעים צריכים לכוון ליצירת הון משמעותי (\"מיליונים\") ולא להסתפק ברווחים קטנים או בניהול חשבונות בעלי ערך נמוך, מה שמחייב תכנון קדימה.\n*   **חשיבותה של פרספקטיבת זמן:** הלך הרוח הנכון להשקעה מוצלחת דורש חשיבה לטווח ארוך מאוד, תוך הבנה שצבירת עושר היא תהליך מתמשך ולא מהלך קצר מועד.\n*   **ביקורת על \"נביאי הזעם\" בשוק:** נבואות על ביצועי חסר של שוק המניות הן דבר שבשגרה ונשמעות כבר עשרות שנים (לפחות 40 שנה). אין להתרגש מהן שכן הן חלק בלתי נפרד מרעשי הרקע של השוק.\n*   **התעלמות מרעשי תקשורת:** מומלץ למשקיעים \"לכבות את החדשות\" ולא לצרוך דיווחים יומיים. הסנטימנט הקהילתי גורס שהחדשות הכלכליות נוטות לייצר פאניקה מיותרת שעלולה להוביל להחלטות השקעה שגויות."
   },
   {
-    "id": "1wz5qbw",
-    "title": "if you deposit money every month, how do you actually know if you're beating the S&P 500?",
-    "url": "https://www.reddit.com/r/investing/comments/1wz5qbw/if_you_deposit_money_every_month_how_do_you/",
-    "author": "Jealous_Bookkeeper20",
-    "score": 67,
-    "selftext": "Retail brokers still only show simple or money-weighted return, which makes benchmarking against the market basically useless if you deposit every paycheck. every time I deposit my total % gain drops\n\nto actually isolate portfolio performance from the timing of your cash flows you need time-weighted return (TWR), but it's not popular cause it's hard to calculate\n\nfor people who DCA monthly and hold individual picks or tilts: are you actually maintaining unitized accounting / TWR spreadsheets on the side, or did you just give up on benchmarking against the index?",
+    "id": "1wzys1u",
+    "title": "Rate my Portfolio. What would you do differently?",
+    "url": "https://www.reddit.com/r/investing/comments/1wzys1u/rate_my_portfolio_what_would_you_do_differently/",
+    "author": "Short_Steak_4937",
+    "score": 13,
+    "selftext": "I started investing a few years ago, but didn't really know what I was doing, so I was just buying things based on advice from strangers on the internet (because that's the smart way to start, right?) \n\nI only recently actually looking at what I own and I'm realizing now that I have a lot of overlap.  \nCan anyone offer advice as to your thoughts on what I have below? \n\nWhat ETF or sector(s) am I missing and should focus on next?\n\n|**51.46%**|**16.74%**|**15.18%**|**8.57%**|**4.89%**|**1.29%**|**1.88%**|\n|:-|:-|:-|:-|:-|:-|:-|\n|[SWPPX](https://finance.yahoo.com/quote/SWPPX/)|[DGRO](https://finance.yahoo.com/quote/DGRO/)|[QQQ](https://finance.yahoo.com/quote/QQQ/)|[SCHD](https://finance.yahoo.com/quote/SCHD/)|[SFENX](https://finance.yahoo.com/quote/SFENX/)|[VOX](https://finance.yahoo.com/quote/VOX/)|[SCHF](https://finance.yahoo.com/quote/SCHF/)|\n|Schwab® S&P 500 Index Fund|iShares Core Dividend Growth ETF|Invesco QQQ Trust|Schwab U.S. Dividend Equity ETF™|Schwab Fundamental Emerging Markets Equity Index Fund|Vanguard Communication Services Index Fund ETF Shares|Schwab International Equity ETF™|",
     "subreddit": "investing",
-    "created_utc": 1791300943,
+    "created_utc": 1791385223,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "This is wrong just FYI, an IRR is **money weighted** not time weighed. I don’t have a Schwab account so not sure what they’re showing, but if it’s an IRR it’s sensitive to the timing of cash flows and so by definition it is money weighted. ",
-        "score": 9,
-        "author": "MGM05"
-      },
-      {
-        "body": "Im a portfolio manager and I’m telling you IRR is money weighted. \n\nGeometrically linked returns are time weighted. \n\nYou can “focus a bit more on learning” here:  \n\nhttps://analystprep.com/cfa-level-1-exam/quantitative-methods/money-weighted-and-time-weighted-rates-of-return/\n\nIt’s one of the courses we make our graduates take.  \n\nAll the best!",
+        "body": "7/10. I would remove SCHD, and bump international % allocation.",
         "score": 6,
-        "author": "MGM05"
+        "author": "FRAB13"
       },
       {
-        "body": "I am not being pedantic, I am telling you how institutional investors present portfolio performance. Read the Global Investment Performance Standards. ",
+        "body": "I would keep it simple - an index that tracks the SP500, maybe the Qs and international and break it down 50/25/25. For most, SCHD (or comparable dividend funds) won't give a meaningful return in dividends compared to just outright going for SP500, even in 30 years. Especially if its not a huge part of your portfolio",
+        "score": 5,
+        "author": "deepRefactor"
+      },
+      {
+        "body": "The inclusion of dividend focused ETFs is tilting your portfolio towards value, nothing wrong with that if it's intentional, but value as a category has generally underperformed in the big tech era.",
         "score": 4,
-        "author": "MGM05"
+        "author": "RIP_Soulja_Slim"
       }
     ],
-    "summary_he": "הפוסט דן בקושי להשוות את ביצועי תיק ההשקעות למדד ה-S&P 500 כאשר מפקידים כסף באופן קבוע, כיוון שהברוקרים מציגים לרוב תשואה שמושפעת מעיתוי ההפקדות (MWR) ולא תשואה משוקללת בזמן (TWR). הכותב תוהה האם משקיעים המבצעים רכישות חודשיות מנהלים חישובי תשואה מורכבים באופן עצמאי כדי לבודד את ביצועי התיק, או שפשוט ויתרו על הניסיון למדוד את עצמם מול המדד.",
+    "summary_he": "הכותב מבקש חוות דעת על תיק ההשקעות שלו לאחר שהבין כי צבר נכסים עם כפילויות רבות בעקבות הסתמכות על המלצות מהאינטרנט. התיק מורכב ברובו מקרנות סל (ETFs) הממוקדות במדדי מניות אמריקאים ודיבידנדים, והוא מחפש עצות לשיפור הפיזור או לזיהוי מגזרים חסרים שכדאי להתמקד בהם.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון ב-Reddit בנושא ההבדלים בין מדדי תשואה (IRR לעומת תשואה משוקללת בזמן), המבוסס על התגובות שסיפקת:\n\n*   **מהות ה-IRR כמשוקלל כסף:** המגיבים מדגישים כי שיעור תשואה פנימי (IRR) הוא בהגדרתו מדד **משוקלל כסף** (Money-weighted) ולא משוקלל זמן. זאת בניגוד לבלבול שייתכן וקיים אצל חלק מהמשתמשים.\n*   **רגישות לתזמון תזרימי מזומנים:** ה-IRR נקבע כמשוקלל כסף משום שהוא רגיש באופן ישיר לתזמון המדויק של הפקדות ומשיכות (Cash flows), מה שמשפיע על התוצאה הסופית של המדד.\n*   **הגדרת תשואה משוקללת זמן:** לפי אנשי המקצוע בדיון, תשואות המבוססות על \"קישור גיאומטרי\" (Geometrically linked returns) הן אלו שנחשבות למדדים **משוקללי זמן** (Time-weighted).\n*   **סטנדרטים מקצועיים מוסדיים:** קיימת התייחסות לסטנדרטים בינלאומיים להצגת ביצועי השקעות (GIPS - Global Investment Performance Standards). משקיעים מוסדיים מחויבים לטרמינולוגיה הזו כדי להציג ביצועי תיקים באופן עקבי ומקצועי.\n*   **ביקורת על פלטפורמות השקעה:** אחד המגיבים מציין שייתכן וחוסר הבהירות נובע מהאופן שבו פלטפורמות מסוימות (כמו Schwab) מציגות את הנתונים, אך מדגיש שההגדרות המתמטיות/פיננסיות נותרות קבועות ללא קשר לממשק המשתמש.\n*   **חשיבות ההשכלה הפיננסית הפורמלית:** בקהילה קיימת גישה סמכותית מצד אנשי מקצוע (כמו מנהלי תיקים), המפנים למקורות לימוד רשמיים של בחינות ה-CFA (אנליסטים פיננסיים) כדי ליישב ויכוחים ולהדגיש שההבחנה בין סוגי התשואות היא חומר לימוד בסיסי למקצוענים בתחום."
+    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מתוך התגובות בשרשור, בלוויית 6 נקודות מרכזיות:\n\n* **דירוג כללי והערכת התיק:** התיק הנוכחי קיבל ציון של 7 מתוך 10, מה שמעיד על כך שהבסיס טוב אך יש מקום לשיפורים ואופטימיזציה של הרכב הנכסים.\n* **הסתייגות מקרנות דיבידנדים:** קיימת המלצה להסיר או לצמצם משמעותית את הקרן SCHD (או קרנות דיבידנד דומות), מתוך תפיסה שהן אינן תורמות ערך מוסף משמעותי לתיק.\n* **העדפת פשטות במבנה התיק:** אחד המגיבים מציע להיצמד למבנה פשוט המבוסס על מדדים רחבים: 50% במדד ה-S&P 500, 25% במדד הנאסד\"ק (QQQ) ו-25% בחשיפה בינלאומית.\n* **ספק לגבי כדאיות הדיבידנדים לטווח ארוך:** נטען כי עבור רוב המשקיעים, קרנות דיבידנד לא יניבו תשואה משמעותית יותר בהשוואה להשקעה ישירה ב-S&P 500, גם בטווח זמן ארוך של 30 שנה, במיוחד אם הן אינן מהוות חלק עצום מהפורטפוליו.\n* **זיהוי הטיה לעבר מניות \"ערך\" (Value):** הכללת קרנות המתמקדות בדיבידנדים יוצרת הטיה של התיק לסגנון השקעות \"ערך\". המגיבים מציינים כי זוהי בחירה לגיטימית רק אם היא נעשית באופן מודע ומכוון.\n* **ביצועי חסר של סקטור הערך:** עלתה נקודה ביקורתית לפיה בעידן הטכנולוגיה הנוכחי, קטגוריית הערך מציגה לרוב ביצועי חסר לעומת מניות הצמיחה והטכנולוגיה הגדולות, ולכן חשיפת יתר אליהן עלולה לפגוע בתשואת התיק."
   },
   {
-    "id": "1wz8ys0",
-    "title": "Uber to acquire ezCater for $2.3 billion dollars",
-    "url": "https://www.reddit.com/r/investing/comments/1wz8ys0/uber_to_acquire_ezcater_for_23_billion_dollars/",
-    "author": "AtozoL",
-    "score": 50,
-    "selftext": "Uber Technologies, Inc. (NYSE: UBER) and ezCater, Inc. today announced that they have entered into an agreement for Uber to acquire ezCater, a leading U.S. platform for catering and workplace meals, in an all-cash transaction valued at $2.3 billion.\n\nezCater makes it easy for any business to manage its food needs and order from over 140,000 restaurants nationwide. Its platform supports everything from meetings, events, and recurring enterprise catering needs, with tools to manage ordering and food spend and 24/7 customer support.\n\nThe acquisition will bring together ezCater’s proven catering and B2B expertise, Uber Eats’ global reach among consumers and restaurants, and Uber for Business’s deep relationships with organizations of all sizes. Restaurants will be able to grow through larger orders and new diners. Customers will be able to find and order food for a group more simply and reliably, from workplace meals, to events, and social gatherings. And couriers on Uber Eats will have attractive new opportunities to earn.\n\nezCater generated over $2.5 billion in Gross Bookings over the trailing twelve months, growing high teens year-over-year. The business is profitable on a Non-GAAP Operating Income basis, and is expected to be margin accretive. ezCater’s average order values are over $400.",
-    "subreddit": "investing",
-    "created_utc": 1791308455,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "$400+ average orders is the interesting bit here. Corporate catering seems like a very different economics game from a normal Uber Eats order.",
-        "score": 36,
-        "author": "ljugl"
-      },
-      {
-        "body": "The dollar sign already does that job, so the title reads as 2.3 billion dollars dollars. Small thing, but it's the first line of the post.",
-        "score": 13,
-        "author": "Disastrous_Buddy_557"
-      },
-      {
-        "body": "Well ya. If you are hosting a lunch meeting with 15 people in it, you’re ordering for 15.",
-        "score": 11,
-        "author": "Away_Candidate_4746"
-      }
-    ],
-    "summary_he": "חברת אובר (Uber) הודיעה על רכישת פלטפורמת הקייטרינג העסקי ezCater בעסקת מזומן בשווי 2.3 מיליארד דולר. המהלך נועד לחזק את פעילות ה-B2B של אובר ולאפשר לה להציע פתרונות מתקדמים לארוחות במקומות עבודה ואירועים, תוך ניצול רשת ההפצה הגלובלית של Uber Eats.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המובילות בשרשור:\n\n* **היקף כספי חריג:** המשתמשים מצביעים על כך שממוצע הזמנה של מעל 400 דולר הוא הנתון המעניין ביותר בסיפור, שכן הוא מעיד על עוצמת השוק המדובר.\n* **הבדלים במודל הכלכלי:** קיימת הבנה שהכלכלה של שירותי קייטרינג לחברות (Corporate Catering) שונה לחלוטין מזו של משלוחי אוכל פרטיים וסטנדרטיים (כמו Uber Eats).\n* **היגיון כמותי פשוט:** אחד המגיבים מציין שהסכומים הגבוהים אינם מפתיעים כשמתחשבים בהקשר – הזמנת ארוחת צהריים לפגישה של כ-15 משתתפים מגיעה לסכומים כאלו באופן טבעי.\n* **ביקורת על ניסוח וכתיבה:** קיימת הקפדה על פרטים טכניים, כאשר משתמש העיר על הכפילות המיותרת בכותרת הפוסט (שימוש בסימן $ לצד המילה \"dollars\"), מה שיוצר קריאה משובשת של \"2.3 מיליארד דולר דולר\".\n* **התמקדות בקהל יעד עסקי:** הדיון מדגיש שהשירות מיועד לאירוח עסקי ומפגשי עבודה, מה שמסביר את הדינמיקה השונה של ההזמנות לעומת צרכן קצה בודד.\n* **תשומת לב לפרטים הקטנים:** ניכרת בקהילה נטייה לנתח גם את התוכן העסקי וגם את אופן הצגת הנתונים, תוך שילוב של ניתוח כלכלי עם הערות על עריכה לשונית."
-  },
-  {
-    "id": "1wzhuha",
-    "title": "How are people thinking about bonds, energy, and tech right now",
-    "url": "https://www.reddit.com/r/investing/comments/1wzhuha/how_are_people_thinking_about_bonds_energy_and/",
-    "author": "Ok-Gap1970",
-    "score": 20,
-    "selftext": "I’m 31 and trying to think through how to allocate my taxable brokerage account. I already fully contribute to my retirement accounts, have a six-month emergency fund, and this account is focused on maximizing returns.\n\nI currently have about $50k in the account and add roughly $2k/month.\n\nWhat I’m most interested in is how other people are thinking about the interaction between the bond market, energy market, and tech sector right now.\n\nMy current thesis is:\n\n* Bonds look historically cheap, and I think the U.S. government has strong incentives to push bond prices up and yields down.\n* Energy prices may continue to be driven higher, probably as a way to pressure China's economy. \n* Tech, especially AI-related tech,  could see a major correction once the economics and financials become clearer. It looks similar to the railroad boom and bust. \n* If/when that tech correction happens, my plan would be to move the majority of this taxable account into tech at lower valuations.\n\nRight now, I’m positioned across government bond index funds, energy stocks, and tech infrastructure/providers/operators, but I’m still thinking through whether that mix actually makes sense.\n\nI’m less interested in generic “just buy VTI” advice and more interested in how people are analyzing these forces together. How are you thinking about bonds, energy, and tech right now, especially in terms of how movements in one market could affect the others and what the catalyst might be. ",
-    "subreddit": "investing",
-    "created_utc": 1791330210,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "\"How to best allocate for maximum returns?\" usually means \"how do I time the market?\"\n\nThe answer: don't.",
-        "score": 7,
-        "author": "CornerOne238"
-      },
-      {
-        "body": "Without energy there is no tech. Doesn’t matter if you have the greatest AI in the world if you can’t power it.  The markets are severely underestimating the energy situation right now in my opinion.  I’ve always been a massive fan of midstream energy pipelines and have been buying hand over fist since this war started",
-        "score": 4,
-        "author": "SmokeyEconomics"
-      },
-      {
-        "body": "Why do people say this when they’re on r/investing, what do you think this sub is for exactly?",
-        "score": 3,
-        "author": "Harry212001"
-      }
-    ],
-    "summary_he": "כותב הפוסט, משקיע בן 31, מבקש לנתח את השילוב בין שוקי האג\"ח, האנרגיה והטכנולוגיה כדי למקסם תשואות בתיק ההשקעות שלו. התזה שלו גורסת כי האג\"ח כרגע זולות ומחירי האנרגיה צפויים לעלות, בעוד שתחום הטכנולוגיה והבינה המלאכותית נמצא לקראת תיקון משמעותי שיאפשר לו \"להיכנס\" לשוק בנקודת שפל עתידית.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, הכולל 6 נקודות מבט ודעות מרכזיות שעלו מהתגובות:\n\n*   **אזהרה מפני תזמון השוק:** אחת הדעות המרכזיות היא שניסיונות למקסם רווחים על ידי מציאת ה\"עיתוי המושלם\" לכניסה או יציאה מהשוק הם שגויים, וההמלצה היא פשוט להימנע מכך.\n*   **הקצאת משאבים כניסיון מוסווה:** נטען כי שאלות בנושא \"הקצאה אופטימלית לרווח מקסימלי\" הן לעיתים קרובות רק דרך אחרת לשאול איך לתזמן את השוק, דבר שנחשב לאסטרטגיה בעייתית.\n*   **התלות של ענף הטכנולוגיה באנרגיה:** קיימת טענה חזקה שללא בסיס אנרגטי איתן, אין משמעות לפיתוחים טכנולוגיים. אפילו הבינה המלאכותית (AI) המתקדמת ביותר זקוקה לכוח חשמלי כדי לפעול.\n*   **הערכת חסר של תחום האנרגיה:** הבעת עמדה לפיה השוק הנוכחי ממעיט בערכו של מצב האנרגיה העולמי, מה שיוצר פער בין תמחור המניות לבין הצורך האמיתי בשטח.\n*   **הזדמנויות בתשתיות הולכה (Midstream):** סנטימנט חיובי כלפי השקעה בצינורות ותשתיות הולכת אנרגיה כנתיב אסטרטגי, במיוחד לאור השינויים הגיאופוליטיים והמלחמות בעולם.\n*   **ביקורת על מהות הפורום:** עלתה תהייה לגבי הדינמיקה בקהילה – מדוע בפורום המוקדש להשקעות (r/investing), התגובות הנפוצות ביותר הן אלו ששוללות השקעה אקטיבית או ניסיונות להכות את השוק, דבר שנתפס כסותר את מטרת הדיון."
-  },
-  {
-    "id": "1wz632e",
-    "title": "Cameco and the Westinghouse IPO",
-    "url": "https://www.reddit.com/r/investing/comments/1wz632e/cameco_and_the_westinghouse_ipo/",
-    "author": "AntiAntiDentite7",
+    "id": "1x0320t",
+    "title": "Investment Strategies on Personal vs Pretax 401k Account",
+    "url": "https://www.reddit.com/r/investing/comments/1x0320t/investment_strategies_on_personal_vs_pretax_401k/",
+    "author": "hovc",
     "score": 8,
-    "selftext": "I'll start of by saying I'm a total novice here, so if I'm an idiot I apologize. So the rumors are that Westinghouse Electric Company could IPO with a $30-$50 billion IPO as early as October of this year. This is just a rumor, but the gears are turning and seems like it'll happen sometime in the near future. Cameco owns 49% of Westinghouse of which they paid $2.1 billion for. If Westinghouse does indeed IPO for $30 billion, that would make Cameco's $2.1 billion investment turn into $14.9 billion in 3 years. A pretty damn good return on a short period of time. If this plays out as described above, would we be looking at a sharp increase in Cameco's stock price? A few months ago when the info about the possible Westinghouse IPO got out, the cameco stock jumped about 8%, but corrected down pretty quickly. At this point are we expecting the possible Westinghouse IPO to be priced in to the Cameco stock price already? It's currently trading at about $90 per share. Earlier this year, prior to any of the Westinghouse rumors, it was trading around $110-120 per share. Am I crazy for thinking there's decent potential for growth here or am I too late and this is old news that everyone's already jumped on?",
+    "selftext": "hi all, i’m currently 26 and i make \\~110k in a VHCOL city in California.\n\ncurrently I am maxing out my ROTH IRA, contributing 10% in my 401k with 6% match at 100%, and investing 300$ weekly into my individual brokerage (180$ VOO and 120$ QQQM)\n\nmy question is should I stop investing into my individual brokerage right now and max out my pre tax 401k first or should I continue the 300$ weekly investments and up my 401k contribution to 15%?\n\nMy current brokerage account has:  \n$16.3k in individual brokerage  \n$37.5k in my ROTH IRA  \n$86.9k in my PRE-TAX 401k  \nAs well I have $136,000 sitting in a HYSA potentially for a house downpayment in the future.\n\nWith the cash I was also wondering if I should add more money into individual brokerage and not let it sit?\n\nMy current spendings are $1,300 for rent (living with roommates), $1,200 monthly individual brokerage investments, and $500-600 for groceries and eating out. \n\nWould love to get to know your thoughts on my idea. ",
     "subreddit": "investing",
-    "created_utc": 1791301803,
+    "created_utc": 1791394952,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Cameco is already at a high valuation - but if the IPO is a success and they reach their revenue/profit guidance for the year - then I could see 100% upside ",
-        "score": 1,
-        "author": "FewUnderstanding2214"
+        "body": "at any age less than 59 1/2, money in a 401k is locked unless you are willing to either pay the penalty, or roll to an IRA and take other steps (like 72t).  I'm not arguing that.  But that wasn't what OP asked.  \n\nHe's looking to figure out where to put his assets based on his age / plans, not asking the basic question of when he can start pulling from them.  That's why I linked the flow chart from the personal finance subreddit.",
+        "score": 3,
+        "author": "Katarn_retcon"
       },
       {
-        "body": "Thanks! My thinking is but some shares now, sell after the IPO. I wouldn't necessarily hold it long term. I'm happy with little victories, so even another 5% bump after the IPO would be what I'm looking for. I'm still thinking that's likely",
-        "score": 1,
-        "author": "AntiAntiDentite7"
+        "body": "It depends on your goals. If you plan on needing more money for a down payment then calculate the amount you'd need and divide the savings so you can reach that goal.\n\nFor longer goals like retirement, including early retirement, you'd want to max all retirement accounts first, prioritizing pre-tax accounts.\n\nYou should spend some time lurking FIRE subs to pick up the basics.",
+        "score": 2,
+        "author": "cdude"
       },
       {
-        "body": "Firstly VERY rationale questions and logic ..  IMHO most of Westinghouse is probably priced in / known .. there is also a legislate risk of IPO NOT happening or at lower price .. in general the spin out is positive and $CCJ does make a great return .. NOW question for stock price is what will $CCJ do with money? More mines? Westinghouse was a diversification win but now ... hope this helps",
-        "score": 1,
-        "author": "Educational_Tower811"
+        "body": "https://imgur.com/personal-income-spending-flowchart-united-states-lSoUQr2\n\nDone.",
+        "score": 2,
+        "author": "rvanasty"
       }
     ],
-    "summary_he": "הפוסט דן בשמועות על הנפקה קרובה של חברת Westinghouse לפי שווי של 30-50 מיליארד דולר, ובהשפעתה הפוטנציאלית על חברת Cameco המחזיקה ב-49% ממנה. הכותב תוהה האם המהלך יוביל לזינוק משמעותי במניית Cameco או שהציפייה להנפקה כבר מגולמת במחיר השוק הנוכחי, ומבקש להתייעץ האם עדיין קיימת כאן הזדמנות צמיחה.",
+    "summary_he": "כותב הפוסט, צעיר בן 26 עם הכנסה גבוהה, מתלבט האם לתעדף את מקסום ההפרשות לקרן הפנסיה (401k) על פני המשך השקעה בחשבון מסחר עצמאי. בנוסף, הוא מבקש ייעוץ האם להשקיע חלק מהמזומן הרב שצבר בחיסכון (המיועד למקדמה לדירה) בשוק ההון במקום להשאירו בבנק, זאת במטרה לייעל את האסטרטגיה הכלכלית שלו.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע למניית Cameco ($CCJ) והנפקת Westinghouse, הכולל 6 נקודות מרכזיות המבטאות את דעות הקהילה:\n\n*   **פוטנציאל לעלייה משמעותית למרות שווי גבוה:** קיימת דעה כי על אף שחברת Cameco מוערכת כרגע בשווי שוק גבוה, שילוב של הנפקה (IPO) מוצלחת ועמידה ביעדי הרווח וההכנסות השנתיים עשוי להוביל לזינוק של 100% בערך המניה.\n*   **אסטרטגיית מסחר לטווח קצר:** חלק מהמשתמשים מעדיפים גישה של \"קנה עכשיו ומכור מיד לאחר ההנפקה\". הגישה הכללית בקרב משקיעים אלו היא לא להחזיק במניה לטווח ארוך, אלא לנצל את המומנטום של האירוע.\n*   **הסתפקות ברווחים קטנים:** בקהילה נשמעת העדפה ל\"ניצחונות קטנים\" – משקיעים מסוימים יסתפקו בעלייה של כ-5% לאחר ההנפקה כדי לצאת מהפוזיציה ברווח, מתוך אמונה שעלייה כזו היא תרחיש סביר מאוד.\n*   **הערכת שווי מגולמת (Priced in):** קיימת סברה שחלק משמעותי מהחדשות החיוביות בנוגע ל-Westinghouse כבר ידוע לשוק ומגולם במחיר הנוכחי של מניית Cameco, מה שמפחית את אלמנט ההפתעה.\n*   **סיכוני רגולציה וביצוע:** הועלה חשש מהסיכון שההנפקה לא תצא לפועל בסופו של דבר, או שהיא תתבצע במחיר נמוך מהמצופה, מה שמהווה גורם סיכון למשקיעים.\n*   **שאלת הקצאת ההון העתידית:** עולה תהייה בקהילה לגבי השימוש שתעשה Cameco בכספים שיגויסו מהמהלך – האם הם יופנו להרחבת מכרות קיימים או שמא להמשך גיוון עסקי מעבר לתחום הליבה של החברה."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1wz5dol",
-    "title": "Struggling to understand this index change",
-    "url": "https://www.reddit.com/r/investing/comments/1wz5dol/struggling_to_understand_this_index_change/",
-    "author": "DeeDee_Z",
-    "score": 6,
-    "selftext": "OK, I get the surface difference, but beyond that I'm a bit flummoxed...\n\niShares recently changed two of their ETFs, ILCB and ISCB -- read the symbol as Large Cap Blend and Small Cap Blend, where blend includes both Growth and Value.  In addition to a technical change in fund name and symbol, they also changed their **reference index**.\n\nFor the LargeCap fund, index changed from a Morningstar all-cap index to an MCSI Large/Mid index.\n\n1) What's the impact to me?  I own the same number of shares with the same value after the conversion, but now the fund excludes some small-cap stocks.  Also, the MCSI index contains only 525 stocks, not >1000.\n\n2) Might this help the fund manager itself?  For example, indexes have to be \"licensed\" from the provider; might the MCSI index be cheaper for them to use compared to the Morningstar index?  This savings could be passed along to me as a reduction in MER, but that's already pretty low...\n\n3) What else am I missing in this conversion?\n\n(Yes, I've searched.  Yes, I've tried to understand the AI summary -- and failed.)",
-    "subreddit": "investing",
-    "created_utc": 1791300126,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "1. Impact to you is nothing will change in your end.   \n2. Might this help find managers? Probably not in the way you think and it may not be cheaper  \n3. What you’re missing:\n\nIndex provider business works like this. Its perception and MSCI/S&P are at the top for equities. Other providers like FTSE, Morningstar, Russel is playing for scraps. 2 ways index is used in a portfolio. TRADING INDEX the universe of stocks it can trade or replicate and PERFORMANCE which is how manger is graded. Switching to MSCI could be a way to align their funds to other funds so it’s easier to make apples/apples comparison. Switching from MS to MSCI sounds like they are willing to eat some serious cost. \n\nI think it’s done so major consultants can go: “ishare fund is performing top decile of all comparable funds with the same performance benchmark. We recommend ishare” ",
-        "score": 2,
-        "author": "BackstrokingInDebt"
-      },
-      {
-        "body": "For the “large cap” now MLRG, probably no difference as the top holdings will pretty much be the same.  I had those in the past, and they’ve been around for awhile, probably before symbols became marketing strategy (ILCB isn’t as descriptive as MLRG, but their ISCV etf .. small cap value .. could stay the same imho).  Also Morningstar is now with rival Vanguard taking over the latter’s CRSP index. \n\nAnother change may be these new mega-IPOs Wall St loves.   MSCI includes them after 10 iirc. ",
-        "score": 2,
-        "author": "IronyElSupremo"
-      },
-      {
-        "body": "For you as a holder, not much really changes. ILCB is now MLRG and ISCB is now MSML (switched on 5 Oct). The large/mid fund now tracks the MSCI USA index, which is about 527 stocks covering roughly 85% of the US market. So you lose the long tail of smaller names and the fund ends up a bit more concentrated in the big companies, but those dropped stocks were tiny weights anyway. The fee's still 0.03%. I'd just keep an eye on tracking difference over the next year or so. If it stays tight to the new index and the fee doesn't change, there's nothing you need to do.",
-        "score": 1,
-        "author": "DefiantDoor1201"
-      }
-    ],
-    "summary_he": "iShares שינתה לאחרונה את מדדי הייחוס של שתי קרנות סל (ILCB ו-ISCB), והכותב מבקש להבין את ההשלכות של המעבר למדדי MSCI המכילים פחות מניות. הוא תוהה כיצד צמצום המגוון במדד ישפיע על השקעתו ואם המניע לשינוי הוא חיסכון בעלויות הרישוי של מנהל הקרן.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע לשינוי ספק המדדים של קרנות iShares (מ-Morningstar ל-MSCI), המציג 6 נקודות מבט וטיעונים מרכזיים:\n\n*   **השפעה מינימלית על המשקיע הפרטי:** רוב המגיבים מסכימים שעבור המחזיק הממוצע בקרן, השינוי אינו דורש פעולה אקטיבית ודבר לא באמת משתנה ביום-יום של ניהול הפורטפוליו.\n*   **סטנדרטיזציה והשוואת ביצועים:** המעבר ל-MSCI נתפס כמהלך שנועד ליישר קו עם הסטנדרט המוביל בתעשייה. הדבר מאפשר ליועצים פיננסיים להשוות את ביצועי הקרן בקלות רבה יותר (\"תפוחים לתפוחים\") מול קרנות מתחרות שמשתמשות באותם מדדי ייחוס יוקרתיים.\n*   **יוקרה מול עלות:** MSCI ו-S&P נחשבות לספקיות המדדים המובילות (\"Top Tier\"), בעוד שספקים כמו Morningstar נתפסים כמשניים בשוק המדדים. צוין כי iShares כנראה מוכנה לספוג עלויות תפעול גבוהות יותר כדי לעבור למדד של MSCI, בשל המוניטין והביקוש מצד מוסדיים.\n*   **שינוי בהרכב המניות והריכוזיות:** המעבר למדד MSCI USA משנה מעט את הרכב הנכסים – המדד מכסה כ-85% מהשוק האמריקאי (כ-527 מניות). כתוצאה מכך, הקרן מאבדת את \"הזנב הארוך\" של חברות קטנות מאוד שהיו במדד הקודם, והופכת למעט יותר ריכוזית בחברות גדולות.\n*   **הכללת הנפקות חדשות (IPOs):** הועלתה סברה כי אחד היתרונות של MSCI הוא המהירות שבה המדד כולל הנפקות ענק חדשות (Mega-IPOs) בשוק, מה שעשוי להעניק חשיפה מוקדמת יותר לחברות צומחות שזה עתה הונפקו.\n*   **היבטים טכניים ומעקב:** המגיבים ציינו את השינוי בסימולי המסחר (למשל ILCB שהפך ל-MLRG) והדגישו כי דמי הניהול נותרו נמוכים מאוד (0.03%). עם זאת, ניתנה המלצה לעקוב בשנה הקרובה אחר \"טעות העקיבה\" (Tracking Difference) כדי לוודא שהקרן מצליחה להיצמד למדד החדש ביעילות."
-  },
-  {
-    "id": "1wz4hch",
-    "title": "Roth and Traditional IRA investing strategy",
-    "url": "https://www.reddit.com/r/investing/comments/1wz4hch/roth_and_traditional_ira_investing_strategy/",
-    "author": "Frosty-Fisherman2381",
+    "id": "1x00lme",
+    "title": "Question about short term investments and Roth IRA",
+    "url": "https://www.reddit.com/r/investing/comments/1x00lme/question_about_short_term_investments_and_roth_ira/",
+    "author": "Astreum98",
     "score": 5,
-    "selftext": "I am not looking for personal investment advice, but rather I'm looking to pose a hypothetical situation as I have been researching 2x ETFs recently and have become curious who these tools may be suitable for besides obvious risk takers. \n\nLet's say we have a young person in their 20's who is starting their first IRA. The money in their Roth or Traditional IRA with be invested for 40+ years until they are eligible to withdraw. Of course the market has up and down years, but over a long term time horizon (20, 30 years) the market almost always nets positive returns. If we know this to be true, what would be the down side to investing in a leveraged 2x ETF tracking the SP500 or Nasdaq until they are about 10 years away from retirement and then beginning to scale back risk? Looking as SSO and QLD specifically. ",
+    "selftext": "Im a 19(M) and I just opened up my Roth IRA and began investing in April. \n\nIn my Roth IRA I’ve simply been investing in ETFs, but the last few weeks I’ve been eyeing an individual stock (AUR). I ended up pulling the trigger and buying around $600 worth of shares a few days ago, but my parents told me that I have to buy it in my ROTH IRA account. \n\nThis led me to thinking, why would I want an individual stock in my long term retirement account, when I see the stock as a short 5-10 year investment, that won’t be working like an ETF does over the next 45 years.  \n\nMaybe I’m not understanding something, not asking for personal advice, just curious please educate me 🙃",
     "subreddit": "investing",
-    "created_utc": 1791297998,
+    "created_utc": 1791389389,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "I think 100% 2x is too aggressive. Optimal Kelly leverage multiple for the SP500 is around 2.4x. But half-Kelly is often used when dealing with leverage because the cost of exceeding optimal leverage (due to lower returns or higher vol) is severe. 1.2-1.5x is probably OK if you can tolerate the volatility. \n\nVolatility decay is a thing but it's baked into the Kelly factor for optimal leverage. Some people act like any leverage with daily reset is going to automatically cause your expected returns to go to zero and that's just not true. \n\nIn my opinion, the bigger issue is whether you really understand your risk tolerance. It's easy to look at a long term SP500 chart and see it steadily climbing for decades without really understanding the pain involved in living through those little wiggles on the chart. People in this sub act like the sky is falling when the market goes down 5%. I've lived through a 50% SP500 drawdown (no leverage) and I decided that my drawdown tolerance was closer 35%. So when the market recovered I sold some stock funds and put some money into my home equity and bonds get closer to 0.7x SP500.",
-        "score": 1,
-        "author": "big_deal"
-      },
-      {
-        "body": "Its perfectly valid to take a diversified equity portfolio and add something like 50% SSO to make the portfolio 1.5x levered in general.\n\nYou could also just buy NTSD (1.5x 90/60 US/Ex-US)\n\nVolatility decay is widely overblown by people who dont know what theyre talking about.\n\nIf you need a cogent walkthrough, ben felix just made a video explaining the nuances of LETFs.\n\nDont take the leverage past ~1.75x on equities, beyond that point in the long run you start to see deterioration in the expectation value in monte carlo sims.",
-        "score": 1,
-        "author": "Tr_ck"
-      },
-      {
-        "body": "https://www.youtube.com/watch?v=E7pl0tqzIUQ",
-        "score": 1,
-        "author": "Tr_ck"
-      }
-    ],
-    "summary_he": "הפוסט דן באסטרטגיית השקעה היפותטית לצעירים, המציעה שימוש בתעודות סל ממונפות (פי 2) על מדדי ה-S&P 500 והנאסד\"ק בתוך חשבונות פרישה לטווח של כ-40 שנה. הכותב תוהה מהם החסרונות בגישה זו, מתוך הנחה שהשוק עולה בטווח הארוך וניתן יהיה להפחית את רמת הסיכון רק לקראת גיל הפרישה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנושא שימוש במינוף ובקרנות סל ממונפות (LETFs), הכולל 6 נקודות מרכזיות שעלו מהתגובות:\n\n*   **רמת המינוף האופטימלית:** המגיבים טוענים כי מינוף של פי 2 (2x) על מדד ה-S&P 500 הוא אגרסיבי מדי לטווח ארוך. לפי מודלים מתמטיים (כמו \"מדד קלי\"), המינוף האופטימלי עשוי להיות גבוה יותר תיאורטית, אך בפועל מומלץ להסתפק במינוף של פי 1.2 עד 1.5 כדי להימנע מהפסדים קטסטרופליים במקרה של תנודתיות חריגה.\n*   **הגזמה בנוגע ל\"שחיקת תנודתיות\" (Volatility Decay):** קיימת הסכמה בקהילה שרבים נוטים להגזים בנזק של שחיקת התנודתיות בקרנות ממונפות בעלות איפוס יומי. בעוד שהשחיקה קיימת, היא לא \"מבטלת\" אוטומטית את התשואות, והיא כבר מגולמת בחישובי המינוף האופטימליים.\n*   **גבול עליון למינוף מניות:** לפי סימולציות \"מונטה קרלו\", מומלץ שלא לעבור רמת מינוף של פי 1.75 על נכסי מניות. מעבר לנקודה זו, התשואה הצפויה בטווח הארוך מתחילה להישחק ולהידרדר משמעותית.\n*   **הפער בין תיאוריה לסובלנות לסיכון:** אחת הנקודות המרכזיות היא שקל להסתכל על גרפים היסטוריים, אך קשה מאוד להתמודד נפשית עם צניחות (Drawdowns) בזמן אמת. משקיעים רבים שחושבים שיש להם \"קיבה חזקה\" מגלים שצניחה של 35%-50% בתיק היא בלתי נסבלת עבורם, מה שמוביל למכירה בהפסד או להורדת המינוף בזמן הלא נכון.\n*   **אסטרטגיות יישום פרקטיות:** ניתן להגיע לרמת מינוף מתונה (כמו פי 1.5) על ידי שילוב של קרנות ממונפות (כמו SSO) בתוך תיק מניות מגוון, או רכישת מוצרים מובנים (כמו NTSD) המשלבים חשיפה ממונפת למניות ואג\"ח בצורה מאוזנת יותר.\n*   **חשיבות הלמידה ממקורות מוסמכים:** הקהילה מדגישה את הצורך בהבנה מעמיקה של המוצרים לפני ההשקעה, ומפנה למקורות חינוכיים (כמו הסרטונים של בן פליקס - Ben Felix) המסבירים את הניואנסים והסיכונים של קרנות ממונפות מעבר לסיסמאות השיווקיות."
-  },
-  {
-    "id": "1wz94xy",
-    "title": "When an ETF gets delisted from an exchange: what practically happens with one's holding?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1wz94xy/when_an_etf_gets_delisted_from_an_exchange_what/",
-    "author": "neodiodorus",
-    "score": 5,
-    "selftext": "Apologies for innocence as it is first time I face this situation: got a notification that one ETF I hold will be delisted from LSE in December. Options in the message are\n\n1. holding on to them and the investment platform will \"try\" to find alternative trading, or\n2. selling them prior to delisting.\n\nBoth options are riddled with quite scary ifs & maybes in the alert message - e.g. they may not be able to sell them at all after delisting but might not be able to sell even now (because there will not be a market for it as they put it in the alert)...\n\nNothing mentions automatic liquidation so it sounds like whatever I choose to do, there is the real risk of completely losing the entire holding in terms of 'real money' value that I will never see again? And anyway its value might plummet now due to the alerts about upcoming London delisting because in same manner everybody gets worried they will not be able to sell it?\n\nI would hope that for a major ETF they will find some alternative, but I am trying to avoid overreacting and certainly trying to avoid scenario where entire holding's value vanishes (?).",
-    "subreddit": "StockMarket",
-    "created_utc": 1791308847,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "don't panic, your money isn't going to vanish into thin air. an etf represents real underlying assets (NAV). if an etf gets delisted from LSE, one of two things happens:   \n1) if it trades on other exchanges (like xetra or euronext), your broker might transfer the shares there, or   \n2) if the issuer is shutting down the fund completely, they will liquidate all underlying holdings and payout the cash directly to your brokerage account based on the final NAV.   \nthe main downside is a potential tax event or bad liquidity before the closing date.",
-        "score": 7,
-        "author": "Anoncry66"
-      },
-      {
-        "body": "Are you holding it in an ISA or pension?\n\nIf so you don't have to worry about capital gains tax, so just sell it and find another small cap fund.",
-        "score": 4,
-        "author": "strolls"
-      },
-      {
-        "body": "Delisting isn't liquidation, you don't lose the money. The fund still holds the underlying stocks, the NAV doesn't evaporate just because the LSE ticker disappears. What's actually real is the spread you'll eat selling into a thin market, and your platform will almost certainly charge you a fee for the privilege. If it's an iShares or Vanguard share class they usually just merge it or move the listing, and HL or AJ Bell pay out the cash once the thing winds up. The scary wording in those alerts is written by compliance, not by anyone who knows what will happen.",
-        "score": 2,
-        "author": "Worth-Discussion6459"
-      }
-    ],
-    "summary_he": "הפוסט עוסק בחששות של משקיע בעקבות הודעה על מחיקת קרן סל (ETF) מהבורסה בלונדון והאפשרויות העומדות בפניו. הכותב מתלבט בין מכירה מיידית לבין המשך החזקה תחת אי-ודאות לגבי אפשרויות מסחר חלופיות, וחושש ממצב שבו לא יוכל לממש את השקעתו או שערכה יתאפס בשל היעדר נזילות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע למחיקת קרנות סל (ETF) מהבורסה לניירות ערך בלונדון (LSE), הכולל 6 נקודות מרכזיות והלכי רוח בקהילה:\n\n*   **הכסף לא נעלם:** הקהילה מרגיעה שאין צורך להיכנס לפאניקה; תעודת סל מייצגת נכסים ריאליים (NAV). גם אם הטיקר (סימול המניה) נמחק מהבורסה בלונדון, הערך של הנכסים שבבסיס הקרן עדיין קיים והכסף לא מתאדה.\n*   **תרחישי המשך לניהול הקרן:** במקרה של מחיקה מהבורסה, לרוב קורים אחד משני דברים: המתווך (Broker) מעביר את המניות למסחר בבורסה אחרת שבה הקרן עדיין רשומה (כמו Xetra או Euronext), או שהמנפיק סוגר את הקרן לחלוטין, מוכר את הנכסים ומחזיר את המזומן לחשבון המשקיע.\n*   **הבדל בין מחיקה לנזילות:** חשוב להבחין שמחיקה מהבורסה (Delisting) אינה זהה לפירוק או הפסד הכסף. הקרן עדיין מחזיקה במניות המקוריות, אך הקושי העיקרי עשוי להיות בעלויות המסחר (מרווחי קנייה-מכירה גבוהים) בשוק עם נזילות נמוכה לפני המחיקה.\n*   **היבטי מס וסוג החשבון:** למשקיעים המחזיקים בקרן דרך חשבונות פטורים ממס (כמו ISA או קרנות פנסיה בבריטניה), מומלץ פשוט למכור את האחזקה ולעבור לקרן דומה אחרת, שכן אין חשש מאירוע מס של רווח הון. במקרה של חשבון חייב במס, המחיקה עלולה ליצור אירוע מס לא מתוכנן.\n*   **התנהלות מנפיקים גדולים:** מצוין כי חברות ענק כמו iShares (בלאקרוק) או Vanguard לרוב לא סוגרות קרנות בפתאומיות, אלא נוטות למזג אותן עם קרנות אחרות או פשוט להזיז את הרישום לבורסה אחרת, מה שמפחית את הסיכון למשקיע הקטן.\n*   **אזהרות רגולטוריות מול מציאות:** הדיון מציין כי ההודעות המפחידות והדרמטיות שנשלחות מהברוקרים נכתבות לרוב על ידי מחלקות משפטיות (Compliance) כדי לכסות את עצמן, והן לרוב נשמעות הרבה יותר גרועות מהמצב בפועל עבור המשקיע."
-  },
-  {
-    "id": "1wzbgeu",
-    "title": "Advice for finance and ROTH",
-    "url": "https://www.reddit.com/r/investing/comments/1wzbgeu/advice_for_finance_and_roth/",
-    "author": "Pristine_Athlete_328",
-    "score": 2,
-    "selftext": "My fiancé is getting started in her investing journey. She has invested about $1500 and has seen a 11% return. She is finally seeing the power of investing. She has not maxed out her ROTH IRA this year which is $7,500. She has about $30k saved in HYSA. I want her to max out the ROTH IRA before December, so she can start to do this every year but she is cautious to take from her savings. \n\nFor those who push back on her taking too much out of her HYSA. I am in a good spot. About $200k+ invested and I have liquid cash to keep us afloat god forbid. \n\nWhat are your thoughts? Should I continue to push her or should I back off? ",
-    "subreddit": "investing",
-    "created_utc": 1791314109,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Don't push.  Explain the what and why and then let them sit on it.  You all are doing well and don't mix money until married.",
+        "body": "You can still sell in Roth, just can’t withdraw money without penalty ",
         "score": 17,
-        "author": "Free-Sailor01"
+        "author": "Immediate-Run-7085"
       },
       {
-        "body": "It’s his fiancé, all signs point to them eventually being married, while he shouldn’t push it is her money, he still has an obligation to make sure she does the correct thing financially for herself.",
-        "score": 4,
-        "author": "RiPFrozone"
+        "body": "I don't know what your parents' reasoning was and you didn't say.\n\nIf you like the diversification of ETFs, then have them in all your accounts.\n\nIf you think at some point you develop a knack for picking individual stocks, it's fine to have some in a retirement account whether your timing is 5 - 10 years or 45 years.\n\nYou just have to be right :).",
+        "score": 6,
+        "author": "DoinIt4DaShorteez"
       },
       {
-        "body": "Since finances are one of the big causes of divorce, in general make sure you are on the same page.  You both save, which is great and you don't have to invest those savings 100% the same way.  Find a balance.",
+        "body": "There is nothing wrong with trading in a Roth.  It's arguably better than in a taxable brokerage account because there is no tax bill after the sale.  But if your intention was to make a bundle on a mid term trade, then pull it out and buy a Mustang, that's a problem because it's meant to be retirement savings.  The question is whether you, as a young investor can make positive trade after positive  trade, with as much likelihood of returning 8-10% like an s&p index fund would over decades.  If you can't, then it just isn't worth the trouble.",
         "score": 4,
-        "author": "Free-Sailor01"
+        "author": "ruler_gurl"
       }
     ],
-    "summary_he": "הכותב מתלבט אם להמשיך לעודד את ארוסתו להפקיד את הסכום המקסימלי ל-Roth IRA מתוך חסכונותיה, למרות חששה להשתמש בכסף הנזיל שצברה בקרן חירום (HYSA). למרות שלכותב עצמו יש גב כלכלי איתן שיכול לספק רשת ביטחון לבני הזוג, הוא מבקש לדעת האם כדאי להמשיך ללחוץ עליה לביצוע המהלך או להרפות ולאפשר לה להתקדם בקצב שלה.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון בשרשור ה-Reddit, המציג 6 נקודות מבט ודעות שונות שעלו מתוך התגובות:\n\n*   **גישת ה\"הסבר ללא לחץ\":** מומלץ להסביר את ההיגיון והמטרות של המהלכים הכלכליים, אך לאחר מכן יש לאפשר לצד השני \"לשבת על זה\" ולקבל החלטה בזמנו החופשי ללא הפעלת לחץ חיצוני.\n*   **הפרדה כלכלית עד לחתונה:** קיימת עמדה נחרצת לפיה אין לערבב כספים או לנהל חשבונות משותפים לפני שהזוג נישא רשמית, וזאת למרות הכוונות העתידיות.\n*   **חובת הליווי והדאגה:** למרות שמדובר בכספה האישי של בת הזוג, על בן הזוג מוטלת החובה המוסרית לוודא שהיא מקבלת החלטות פיננסיות נכונות עבור עצמה, במיוחד כאשר הקשר מוביל לנישואין.\n*   **תיאום ציפיות למניעת גירושין:** מאחר שנושאים כלכליים הם גורם מרכזי לפירוק חבילה, חשוב לוודא שבני הזוג נמצאים \"על אותו דף\" מבחינת תפיסת העולם הפיננסית שלהם כבר בשלב המוקדם.\n*   **לגיטימציה לשוני בניהול השקעות:** אין הכרח ששני בני הזוג ישקיעו את חסכונותיהם בצורה זהה לחלוטין. ניתן למצוא איזון שבו כל אחד שומר על סגנון ההשקעה שלו, כל עוד שניהם מקפידים על הרגלי חיסכון.\n*   **חיזוק חיובי על המצב הקיים:** הקהילה מציינת כי עצם העובדה ששני בני הזוג כבר מצליחים לחסוך כסף היא סימן חיובי מאוד למצבם הכלכלי, ומהווה בסיס טוב לדיאלוג ביניהם."
+    "summary_he": "כותב הפוסט, צעיר בן 19, רכש מניות של חברה ספציפית לטווח של 5–10 שנים ותוהה האם נכון להחזיקן בחשבון ה-Roth IRA (חשבון פרישה) שלו כפי שהוריו הציעו. הוא מתלבט לגבי ההיגיון שבהכנסת השקעה לטווח בינוני לתוך חשבון המיועד לחיסכון פנסיוני ארוך טווח, בניגוד לקרנות סל (ETFs) המהוות את עיקר השקעותיו כרגע.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ועמדות שונות של הקהילה בנוגע למסחר בתוך חשבון פרישה מסוג Roth IRA:\n\n*   **הבחנה בין מכירה למשיכה:** ניתן לבצע פעולות מכירה של ניירות ערך בתוך חשבון ה-Roth ללא הגבלה. הקנסות והמגבלות חלים אך ורק על משיכת הכספים מהחשבון החוצה לפני הזמן, ולא על עצם המסחר בתוכו.\n*   **יתרון המיסוי על פני חשבון רגיל:** מסחר בתוך חשבון Roth נחשב לעיתים כמשתלם יותר מאשר בחשבון השקעות רגיל החייב במס, שכן אין חבות מס על רווחי הון בעת מימוש המניות בתוך החשבון.\n*   **חשיבות הפיזור (Diversification):** קיימת המלצה להחזיק בקרנות סל (ETFs) בכל סוגי החשבונות כדי לשמור על פיזור סיכונים, אלא אם כן למשקיע יש מיומנות ספציפית בבחירת מניות בודדות.\n*   **השקעה במניות בודדות כחלופה לגיטימית:** בחירת מניות ספציפיות בתוך חשבון פרישה היא אפשרות סבירה, בין אם טווח הזמן הוא קצר (5 שנים) ובין אם ארוך מאוד (45 שנים), בתנאי שהמשקיע אכן יודע \"לפגוע\" בנכסים הנכונים.\n*   **ייעוד החשבון כחיסכון ארוך טווח:** הקהילה מדגישה כי חשבון ה-Roth נועד למטרות פרישה. שימוש בו לצורך \"עשיית מכה\" מהירה כדי לממן רכישות ראוותניות בטווח הקצר (כמו רכב ספורט) נוגד את המטרה המקורית של הכלי הזה.\n*   **מבחן התשואה מול מדד ה-S&P 500:** על משקיע פעיל לשאול את עצמו האם הוא מסוגל להשיג תשואה עקבית שתעלה על ה-8-10% השנתיים הממוצעים של מדד ה-S&P 500 לאורך עשורים. אם התשובה היא שלילית, המסחר הפעיל נתפס כמאמץ שאינו משתלם."
   },
   {
-    "id": "1x0olbi",
-    "title": "$234 Billion In Student Loans Are Now In Default, And Things Are About To Get Worse",
-    "url": "https://www.reddit.com/r/finance/comments/1x0olbi/234_billion_in_student_loans_are_now_in_default/",
-    "author": "return2ozma",
+    "id": "1x1fd6u",
+    "title": "Genesis Mission Expansion: Tech giants commit $2.4B in compute to bridge AI with federal Quantum & Science research",
+    "url": "https://www.reddit.com/r/investing/comments/1x1fd6u/genesis_mission_expansion_tech_giants_commit_24b/",
+    "author": "donutloop",
     "score": 1,
-    "selftext": "\\>Nearly 20 percent of student loan borrowers are now delinquent.",
-    "subreddit": "finance",
-    "created_utc": 1791459346,
-    "thumbnail": "https://external-preview.redd.it/geJjfKC6Uu-QjFzGH5Cv9iTWAX2xG7HJ0QrbTj3cQcM.jpeg?width=140&height=78&auto=webp&s=266525ff374143c412476ca62a32a0bf95d8237e",
+    "selftext": "A new POLITICO report reveals that major tech players (NVIDIA, AMD, OpenAI, Google, Anthropic, Amazon, Micron, and Crusoe) are pledging $2.4B in compute capacity, cloud credits, and AI models to expand the White House's \"Genesis Mission\" across 14 federal science agencies.\n\nWhile headline media treats this purely as an \"AI donation,\" the broader White House update reveals the underlying engine: pairing massive classical/AI compute with next-gen quantum infrastructure including the DOE's Quantum Genesis Q competition and DOD's $350M quantum initiative.\n\n**Key Commitments:**\n\n* **NVIDIA:** $1B over 5 years (supercomputing/AI compute)\n* **AMD:** $500M\n* **OpenAI / Google / Anthropic:** $500M combined (tokens, models, cloud)\n* **Amazon, Micron, Crusoe, Armada:** $50M each\n\n**The Investor Angle:**\n\nAs federal agencies move toward hybrid **AI + Quantum workflows**:\n\n1. **Vendor Lock-In:** Seeding classical supercomputing ecosystems (NVDA/AMD architectures) directly into national labs creates a decade-long software and hardware moat for future defense/government procurement.\n2. **Quantum Simulation Bridge:** High-end AI/GPU clusters are the exact foundation needed to run quantum simulation algorithms before fault-tolerant quantum hardware reaches commercial scale.\n3. **AI & Quantum Computing Convergence:** High-end compute power is critical for quantum error correction, quantum circuit optimization, and interfacing hybrid AI-quantum compute stacks.\n\nHow are you viewing this from a long-term position in classical/quantum hybrid compute?\n\n  \nSource: [https://www.politico.com/news/2026/10/08/tech-firms-pledge-2-4-billion-in-computing-power-to-trumps-genesis-mission-01111708](https://www.politico.com/news/2026/10/08/tech-firms-pledge-2-4-billion-in-computing-power-to-trumps-genesis-mission-01111708)",
+    "subreddit": "investing",
+    "created_utc": 1791532416,
+    "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Yes, thank you for your excellent insight.  Working an entry level bank job in your own community is certainly a valuable perspective and well representative of the entire country.",
-        "score": 1,
-        "author": "Glad-Assist-6230"
+        "body": "the vendor lock-in angle is the real story here, not the donation headline. once these labs build workflows around nvidia's stack its basically impossible to rip it out without a decade of retooling. the quantum piece is interesting but still feels like 5+ years from mattering for actual revenue, right now its just a nice narrative wrapper for what's essentially a massive government compute contract",
+        "score": 2,
+        "author": "UnableRanger2242"
       },
       {
-        "body": "Stop giving kids —- yes kids —- 100% financing on any degree they want.  If you did this with bank loans and had a 20% default rate people would say hey look you’re an idiot!  —- this isn’t a crisis of non payment - it’s a crisis of lending money to kids and allowing them to study silly stuff and not have any $$$ to put down.  Imagine if we financed engineering degrees for US native residents for 110% financing and even paid kids to goto school?  Same thing for doctors….definitely not lawyers fuck them 😂\n\nSame thing for the trades like HVAC, Electrical, Plumbing …. Where are the incentives?  Stop blindly giving a kid 100% financing on student loans to study women’s studies or policial science or anthropology….like come on this is silly.  Stoped being shocked when the kids you gave $50,000 for art degrees and silly business degrees can’t and won’t pay anymore.\n\nThe sad thing is a kid the same age approaching a bank and asking for a business loan to start a local plumbing business is rejected with joy - yet the same kid walks in and asks for 100% financing on student loans with deferred payments and they say right this way son!  You wanna study Geology? Let’s go! ",
+        "body": "The quantum computing companies selected by the US gov for Mission Genesis: [https://github.com/donutloop/donutloop-genesis/blob/main/README.md#22-quantum-leadership-and-chips-act-infrastructure](https://github.com/donutloop/donutloop-genesis/blob/main/README.md#22-quantum-leadership-and-chips-act-infrastructure)",
         "score": 1,
-        "author": "Sirprophog"
+        "author": "donutloop"
       },
       {
-        "body": "Uhhhhhh yes? People would absolutely come in wondering why they are in the negative and request a printout, because there's no possible way. Every time, I would approach it as a case of possible fraud-- let's go over your transactions to see if someone was doing you wrong, so we can out in a case and get your money back. So yeah, this would absolutely happen, multiple times a day, every week, every month, for 15 years. ",
+        "body": "It’s not true! 2028 is the first target for quantum computing, so don’t misjudge the situation without reviewing the proof.\n\nSource: [https://news.fnal.gov/2026/09/doe-releases-national-quantum-computing-roadmap-following-field-wide-effort-led-by-scac-subcommittee/](https://news.fnal.gov/2026/09/doe-releases-national-quantum-computing-roadmap-following-field-wide-effort-led-by-scac-subcommittee/)\n\nI’ve been observing the field of quantum computing for over 15 years, and we’re closer than ever to achieving major breakthroughs, thanks to super intelligence and artifical intelligence.",
         "score": 1,
-        "author": "Smellanor_Rigby"
+        "author": "donutloop"
       }
     ],
-    "summary_he": "כ-20% מלווי הסטודנטים בארצות הברית נמצאים כיום בפיגור בתשלומי ההלוואות שלהם, כאשר סך החובות בחדלות פירעון הגיע לסכום עתק של 234 מיליארד דולר. המצב הכלכלי בתחום זה צפוי להחמיר בקרוב ולהעמיק את המשבר עבור מיליוני לווים נוספים.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום של נקודות המבט והלך הרוח שעלו מהתגובות בשרשור:\n\n*   **ספקנות כלפי חוויות אישיות כעדות גורפת:** אחד המגיבים מביע זלזול וציניות כלפי הניסיון להקיש ממשרה זוטרה בבנק מקומי על המצב הכלכלי או החברתי של המדינה כולה, וטוען שפרספקטיבה כזו היא מוגבלת ואינה מייצגת.\n*   **ביקורת על מדיניות הלוואות הסטודנטים:** עולה טענה מרכזית כי המשבר אינו נובע רק מאי-תשלום, אלא מהעובדה שהמערכת מאפשרת לצעירים חסרי ניסיון (\"ילדים\") לקבל מימון של 100% לכל תואר שיחפצו בו, ללא דרישה להון עצמי או בדיקת כדאיות כלכלית.\n*   **תעדוף תארים ומקצועות נדרשים:** קיימת קריאה להפסיק את המימון העיוור לתארים במדעי הרוח או באמנות, ובמקום זאת לתמרץ באופן משמעותי (אפילו מעל 100% מימון) לימודי הנדסה, רפואה ומקצועות טכניים (כמו חשמל ואינסטלציה) עבור תושבים מקומיים.\n*   **האבסורד במערכת הבנקאית:** המגיבים מצביעים על חוסר היגיון בכך שבנק עשוי לדחות בשמחה בקשה של צעיר להלוואה להקמת עסק עצמאי בתחום המלאכה (כמו אינסטלציה), אך יאשר לאותו צעיר בקלות ועם דחיית תשלומים הלוואה ענקית ללימודים בתחומים עם פוטנציאל השתכרות נמוך.\n*   **חוסר מודעות פיננסית של לקוחות:** מתוך ניסיון של עובד בנק, עולה כי לקוחות רבים שנכנסים ליתרת חובה (מינוס) נוטים להניח מיד שמדובר בהונאה או בטעות של הבנק, במקום להבין שהם פשוט הוציאו יותר כסף ממה שיש להם.\n*   **התנערות מאחריות אישית:** הקהילה מבטאת תחושה שצעירים רבים לוקחים הלוואות ענק מבלי להבין את ההשלכות ארוכות הטווח, וכאשר מגיע זמן ההחזר, הם מוצאים את עצמם חסרי אונים מול חובות שהם אינם מסוגלים (או רוצים) לשלם עבור תארים שאינם רווחיים."
+    "summary_he": "ענקיות טכנולוגיה, בהובלת NVIDIA ו-AMD, התחייבו להקצות משאבי מחשוב ובינה מלאכותית בשווי 2.4 מיליארד דולר לטובת פרויקט \"Genesis Mission\" של הממשל האמריקאי. היוזמה נועדה לקדם מחקר פדרלי המשלב בין AI למחשוב קוונטי ב-14 סוכנויות שונות, תוך ביסוס תשתיות טכנולוגיות ארוכות טווח עבור סקטור הביטחון והמדע.",
+    "category_he": "עסקים",
+    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות בשרשור, המציג שש נקודות מבט ודעות שונות בקהילה:\n\n*   **החשש מ\"נעילת ספק\" (Vendor Lock-in):** טענה מרכזית בשרשור היא שהסיפור האמיתי אינו התרומה הכספית או הכותרות על המחשוב הקוונטי, אלא הדומיננטיות של חברת Nvidia. ברגע שמעבדות מחקר בונות את זרימת העבודה שלהן על בסיס הטכנולוגיה של Nvidia, יהיה כמעט בלתי אפשרי להחליף אותה ללא עשור של תכנון מחדש.\n*   **פער בין נרטיב להכנסות:** קיימת סקפטיות לגבי הבשלות המסחרית של התחום; יש הטוענים כי המחשוב הקוונטי כרגע הוא בעיקר \"עטיפה נרטיבית\" יפה לחוזים ממשלתיים ענקיים, וכי הטכנולוגיה רחוקה לפחות 5 שנים מיצירת הכנסות משמעותיות בשוק הפרטי.\n*   **מעורבות ממשלתית אסטרטגית:** המגיבים מצביעים על חשיבותן של רשימות חברות נבחרות על ידי ממשלת ארה\"ב (כחלק מיוזמות כמו \"Mission Genesis\" ותשתית ה-CHIPS Act) כאינדיקציה למי מוביל את התחום בפועל.\n*   **מחלוקת על לוחות הזמנים:** בניגוד למפקפקים, יש המציגים עמדה אופטימית יותר המבוססת על מפות דרכים רשמיות (כמו זו של משרד האנרגיה האמריקאי - DOE), וטוענים כי שנת 2028 היא היעד הממשי הראשון לפריצות דרך משמעותיות בתחום.\n*   **תרומת הבינה המלאכותית:** קיימת תחושה בקהילה שהשילוב בין \"סופר-אינטליגנציה\" לבין בינה מלאכותית (AI) משמש כמאיץ קריטי, שמביא את המחשוב הקוונטי קרוב יותר מאי פעם להישגים טכנולוגיים ממשיים.\n*   **הסתמכות על ניסיון ארוך טווח:** חלק מהמגיבים מדגישים כי לאחר מעקב של מעל 15 שנה אחרי התחום, ניתן לראות שההתקדמות הנוכחית אינה רק \"דיבורים\", אלא מגובה בתוכניות עבודה ממשלתיות ובהתפתחויות טכנולוגיות שלא היו קיימות בעבר."
+  },
+  {
+    "id": "1x17oo8",
+    "title": "portfolio update 23M London",
+    "url": "https://www.reddit.com/r/investing/comments/1x17oo8/portfolio_update_23m_london/",
+    "author": "Long-Huckleberry-809",
+    "score": 1,
+    "selftext": "23M from London \n\n\\-Invesco Physical Gold ETC (SGLP) - £10,550.91 invested (+2.19%)  \n\\-Fermi Inc (FRMI) - £2,094.67 (-5.97%)  \n\\-Vanguard FTSE All-World ETF (VWRP) - £1,843.46 (+2.76%)  \n\\-WisdomTree Uranium and Nuclear Energy ETF (NCLP) - £1,539.04 (-11.40%)  \n\\-Kraken Robotics Inc (PNG) - £1,002.35 (+18.55%)  \n\\-HANetf Defiance Photonics ETF (LYT3) - £1,006.07 (+16.70%)  \n\\-Vanguard FTSE 100 Index Fund - £1,070 (-3.19%)  \n\\-MaxCyte Inc (MXCT) - £1,016.46 (-3.70%)  \n\\-NuScale Power Corporation (SMR) - £1,015.97 (-9.05%)  \n\\-Fidelity Global Dividend Fund - £800 (-1.25%)  \n\\-iShares MSCI World Momentum ETF (IWFM) - £596.25 (+5.33%)  \n\\-iShares Japan Equity Index Fund - £500 (+1.66%)  \n\\-Legal & General Clean Water ETF (GLGG) - £513.44 (-5.10%)  \n\\-National Grid (NG.) - £502.43 (-8.25%)  \n\\-Vanguard FTSE Developed Europe ETF (VEUA) £474.84 (-6.32%)  \n\\-London Stock Exchange Group (LSEG) - £451.32 (-6.30%)  \n\\-iShares Space Technologies ETF (STRR) - £436.45 (-6.49%)  \n\\-FSSA Greater China Growth Fund - £250 (-0.98%)  \n\\-BlackRock Continental European Income Fund £250 (-8.26%)  \n\\-Legal & General International Index Trust - £198 (+1.19%)\n\nTotal invested: £26,111.66\n\nCurrent investment value: £26,138.47\n\nOverall return: +0.10%\n\nCash sitting in the accounts: £19,190\n\nTotal portfolio value: £45,328.55\n\nThe goal is to take initial out once individual stocks double and invest it into broad market index funds holding ETFs until retirement \n\nStill early days with a lot of these holdings. Interested to hear what people think of the overall mix and whether you reckon I’m spreading things too thin.\n\nWhat would you do different ? ",
+    "subreddit": "investing",
+    "created_utc": 1791506714,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "What would I do different?\n\nLiterally everything.",
+        "score": 11,
+        "author": "Impressive-Prize-429"
+      },
+      {
+        "body": "Just Vanguard FTSE All-World ETF would be a better portfolio",
+        "score": 9,
+        "author": "Purple-Commission-24"
+      },
+      {
+        "body": "Skip all the nonsense and just put it into, at most, three broad ETFs. ",
+        "score": 7,
+        "author": "SueForPeas"
+      }
+    ],
+    "summary_he": "צעיר בן 23 מלונדון מציג תיק השקעות בשווי כולל של כ-45,000 ליש\"ט, המורכב מזהב, קרנות סל ומניות בודדות לצד יתרת מזומן משמעותית. הוא מתכנן להעביר בהדרגה את השקעותיו ממניות ספציפיות למדדי שוק רחבים לאחר שאלו יכפילו את ערכן, ומבקש חוות דעת לגבי הפיזור הרחב של נכסיו.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות בשרשור:\n\n* **שלילה מוחלטת של האסטרטגיה הקיימת:** אחת התגובות הבולטות מביעה חוסר שביעות רצון קיצוני מהרכב התיק הנוכחי, תוך טענה שיש לשנות \"ליטרלית את הכל\" בגישת ההשקעה.\n* **העדפה לקרן סל עולמית יחידה:** מוצעת חלופה ספציפית וממוקדת – השקעה בקרן Vanguard FTSE All-World ETF כפתרון מקיף שמהווה, לדעת המגיבים, תיק השקעות טוב יותר מהקיים.\n* **קריאה לפישוט וצמצום \"רעשים\":** קיימת המלצה נחרצת להפסיק להתעסק עם \"שטויות\" (nonsense) ולהתמקד בעיקר, מה שמעיד על תפיסה שהתיק המקורי מורכב או מסורבל מדי ללא לצורך.\n* **הגבלת מספר הנכסים בתיק:** הקהילה מציעה להגביל את התיק למקסימום שלוש קרנות סל רחבות, מתוך הנחה שריבוי ניירות ערך אינו תורם לביצועים ואולי אף פוגע בהם.\n* **דגש על פיזור רחב (Broad ETFs):** במקום בחירה פרטנית של מניות או סקטורים, ניכרת העדפה גורפת להשקעה במדדים רחבים המעניקים חשיפה מקסימלית לשוק.\n* **גישת \"פחות זה יותר\":** הסנטימנט הכללי העולה מהתגובות הוא שתיק השקעות פשוט, פסיבי ונטול מורכבות עדיף על פני ניהול אקטיבי או בחירות מורכבות שנראות מיותרות בעיני הקהילה."
+  },
+  {
+    "id": "1x1793n",
+    "title": "How much does your broker's data privacy policy matter when choosing a trading platform?",
+    "url": "https://www.reddit.com/r/investing/comments/1x1793n/how_much_does_your_brokers_data_privacy_policy/",
+    "author": "scarlettava2627",
+    "score": 1,
+    "selftext": "With the recent news about Webull's China ties, I've been thinking about how much most of us actually look into a broker's ownership and data policies before opening an account.\n\nMost people probably compare fees, charts, and trading features first. But knowing where your data is stored and who can access it seems worth looking into too.\n\nWhat do you guys check before trusting a broker with your personal and financial information? And would news like this make you reconsider using a platform, or would you wait for more details first?",
+    "subreddit": "investing",
+    "created_utc": 1791505409,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Everyone has my data already. I really dont see what the big deal is.",
+        "score": 2,
+        "author": "Vegetable-Cause8667"
+      },
+      {
+        "body": "I trust China with my data more than I do the USA now, so I'm fine with using Webull. Market trades are public anyway so I'm not sure what they have to gain besides a picture of my driver's license",
+        "score": 2,
+        "author": "gphie"
+      },
+      {
+        "body": "Why would I care if someone in china wants to know I gamble all my money on GameStop?",
+        "score": 2,
+        "author": "Immediate-Run-7085"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג שש נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **ניהיליזם וייאוש בנוגע לפרטיות:** קיימת תחושה של השלמה עם המצב הקיים, לפיה המידע האישי של המשתמשים כבר נמצא ממילא בידי כולם, ולכן אין טעם להתרגש או לנסות להגן עליו בשלב זה.\n*   **העדפת סין על פני ארה\"ב:** חלק מהמשתמשים מביעים חוסר אמון עמוק בממשל האמריקאי, עד כדי כך שהם מצהירים כי הם סומכים על סין עם המידע שלהם יותר מאשר על המדינה שלהם.\n*   **פומביות המסחר בשוק ההון:** עולה הטיעון כי פעולות מסחר בבורסה הן מידע ציבורי מטבען, ולכן אין לחברה סינית (או לכל גורם אחר) מה להרוויח מחשיפת הרגלי ההשקעה מעבר למה שכבר גלוי.\n*   **צמצום הסיכון למידע טכני בלבד:** קיימת תפיסה שהנזק הפוטנציאלי מוגבל רק לצילום של תעודת הזהות או רישיון הנהיגה, ושאין לגורמים זרים באמת מה לעשות עם המידע הזה מעבר לכך.\n*   **ביטול הערך העצמי של המידע:** משתמשים מבטאים זלזול בחשיבות של הנתונים שלהם, מתוך מחשבה שהרגלי ההשקעה האישיים שלהם (כמו \"הימורים\" על מניית GameStop) אינם מעניינים מספיק כדי שמישהו בסין יטרח לעקוב אחריהם.\n*   **גישה פרגמטית לשימוש בפלטפורמות:** הסנטימנט הכללי מראה נכונות להשתמש באפליקציות כמו Webull למרות זיקתן לסין, מתוך אמונה שהתועלת מהשימוש בהן עולה על הסיכונים המופשטים של העברת נתונים למדינה זרה."
+  },
+  {
+    "id": "1x15r3v",
+    "title": "SpaceX announces 800 MHz spectrum telecom purchase on eve of 120 day IPO investors unlock",
+    "url": "https://www.reddit.com/r/investing/comments/1x15r3v/spacex_announces_800_mhz_spectrum_telecom/",
+    "author": "SentenceDowntown591",
+    "score": 1,
+    "selftext": "Surprised this isn’t being talked about more. Seems this was a very calculated time to announce this spectrum purchase. IPO investors likely will benefit from the headline as many 120 day locked investors, insiders, and employees will benefit able to sell their SpaceX shares starting tomorrow.",
+    "subreddit": "investing",
+    "created_utc": 1791501209,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I mean can you blame a company for doing this? Of course you want good news the evening before a scheduled sell-off.",
+        "score": 21,
+        "author": "BenevolentCheese"
+      },
+      {
+        "body": "Yes, you can absolutely blame them for lying and purposefully tricking investors.",
+        "score": 14,
+        "author": "Simple_March_1741"
+      },
+      {
+        "body": "Musk gave the largest political donation of all time to Trump admin. Use your brain",
+        "score": 6,
+        "author": "CommercialHour6660"
+      }
+    ],
+    "summary_he": "חברת SpaceX הודיעה על רכישת תדרי תקשורת (800 MHz) בעיתוי שנראה מתוכנן היטב, ערב פקיעת תקופת החסימה של 120 יום למשקיעים ועובדים. המהלך נועד ככל הנראה להעלות את ערך המניות בדיוק ברגע שבו אותם מחזיקי עניין יורשו להתחיל למכור אותן בשוק.",
+    "category_he": "כללי",
+    "comments_summary_he": "להלן סיכום הדיון ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **הצדקת האסטרטגיה העסקית:** קיימת עמדה הגורסת כי פעולות החברה הן הגיוניות ומתבקשות מנקודת מבט עסקית; טבעי שחברה תרצה לייצר \"חדשות טובות\" כדי להעלות את ערך המניה רגע לפני מכירה מתוכננת.\n*   **גינוי מוסרי על הטעיית משקיעים:** מנגד, מושמעת ביקורת חריפה לפיה אין להשלים עם שקרים או מניפולציות מכוונות, וכי יש להטיל על החברה אחריות מלאה על הטעיית ציבור המשקיעים.\n*   **הטלת ספק ביושרה התאגידית:** הקהילה מבטאת סנטימנט של חוסר אמון, תוך הדגשה שגם אם צעד מסוים הוא רווחי, הוא עדיין יכול להיחשב כמעשה פסול ובלתי ראוי מבחינה אתית.\n*   **קשר לפוליטיקה ולאינטרסים של כוח:** עולה טענה לגבי המעורבות הפוליטית העמוקה של אילון מאסק (בהקשר לתרומות לטראמפ), מה שמרמז על כך שהתנהלות החברה אינה רק כלכלית אלא מושפעת מאג'נדות פוליטיות רחבות יותר.\n*   **קריאה לחשיבה ביקורתית וספקנות:** אחד המגיבים קורא לשאר המשתמשים \"להפעיל את המוח\", מה שמשקף סנטימנט קהילתי המעודד לא לקבל הודעות תאגידיות כפשוטן ולחפש את המניעים הנסתרים מאחוריהן.\n*   **חשדנות כלפי תזמון פרסום המידע:** הדיון מדגיש את החשד שעולה כאשר חדשות חיוביות מתפרסמות בדיוק בערב שלפני אירוע מכירה משמעותי (Sell-off), דבר הנתפס כניסיון מלאכותי לנפח את השוק."
   },
   {
     "id": "1x0oyfy",
@@ -369,7 +276,12 @@ window.dailyTrends = [
     ],
     "summary_he": "לכותב הפוסט יש 100 אלף דולר בחשבון חיסכון בריבית של 4% המשמשים כקרן חירום משפחתית בסיכון נמוך. הוא מחפש דרכים להשיג תשואה גבוהה יותר מבלי להעלות את רמת הסיכון, ושוקל בין היתר מעבר להשקעה באג\"ח ממשלתיות.",
     "category_he": "פיננסים",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט ודעות שונות שעלו בקהילה:\n\n*   **יתרון המיסוי של SGOV על פני HYSA:** קיימת הסכמה כי קרן SGOV עדיפה על חשבונות חיסכון בריבית גבוהה (HYSA) עבור משקיעים רבים, מכיוון שרוב רווחיה פטורים ממס הכנסה מדינתי ומקומי, בעוד שהריבית מ-HYSA חייבת במס מלא.\n*   **השפעת מקום המגורים על כדאיות ההשקעה:** התועלת של אפיקי השקעה פטורים ממס תלויה ישירות במיקום הגיאוגרפי של המשקיע; ככל שמס ההכנסה במדינה גבוה יותר (כמו בניו יורק או ניו ג'רזי), כך גדל היתרון הכלכלי של ניירות ערך ממשלתיים.\n*   **חוסר רלוונטיות של הטבות מס במדינות מסוימות:** עבור משקיעים המתגוררים במדינות ללא מס הכנסה מדינתי (כמו טנסי), היתרון של פטור ממס מדינתי אינו מהווה שיקול בבחירת אפיק ההשקעה, והם מתמקדים בתשואה הנומינלית בלבד.\n*   **העדפת אג\"ח ספציפיות על פני קרנות סל:** ישנם משקיעים הבוחרים לרכוש באופן ישיר איגרות חוב (למשל של אוניברסיטת פיטסבורג) כדי לנעול תשואות ספציפיות וליהנות מדירוג אשראי גבוה (A) וממחיר רכישה נמוך מהערך הנקוב.\n*   **חשיבות חישוב \"תשואה שוות-ערך למס\":** בדיון מודגש כי כדי להשוות נכון בין השקעות, יש לחשב את התשואה ברוטו שהיה צריך לקבל בהשקעה חייבת במס כדי להגיע לאותה תוצאה; במקרים מסוימים, תשואה נומינלית של כ-6% יכולה להיות שווה ליותר מ-9.6% בשל חסכון במס.\n*   **בחינת פרמטרים מורכבים של תשואה:** משקיעים בקהילה בוחנים לא רק את הריבית הנקובת (Coupon), אלא גם מדדים כמו \"תשואה לפדיון\" (YTM) ו\"תשואה למועד פקיעה מוקדם\" (YTC) כדי להעריך את הרווחיות הריאלית של איגרות החוב לאורך זמן."
+    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות, המציג 6 נקודות מבט ודעות שונות שעלו בקהילה:\n\n*   **יתרון המיסוי של SGOV על פני HYSA:** קיימת הסכמה כי קרן SGOV עדיפה על חשבונות חיסכון בריבית גבוהה (HYSA) עבור משקיעים רבים, מכיוון שרוב רווחיה פטורים ממס הכנסה מדינתי ומקומי, בעוד שהריבית מ-HYSA חייבת במס מלא.\n*   **השפעת מקום המגורים על כדאיות ההשקעה:** התועלת של אפיקי השקעה פטורים ממס תלויה ישירות במיקום הגיאוגרפי של המשקיע; ככל שמס ההכנסה במדינה גבוה יותר (כמו בניו יורק או ניו ג'רזי), כך גדל היתרון הכלכלי של ניירות ערך ממשלתיים.\n*   **חוסר רלוונטיות של הטבות מס במדינות מסוימות:** עבור משקיעים המתגוררים במדינות ללא מס הכנסה מדינתי (כמו טנסי), היתרון של פטור ממס מדינתי אינו מהווה שיקול בבחירת אפיק ההשקעה, והם מתמקדים בתשואה הנומינלית בלבד.\n*   **העדפת אג\"ח ספציפיות על פני קרנות סל:** ישנם משקיעים הבוחרים לרכוש באופן ישיר איגרות חוב (למשל של אוניברסיטת פיטסבורג) כדי לנעול תשואות ספציפיות וליהנות מדירוג אשראי גבוה (A) וממחיר רכישה נמוך מהערך הנקוב.\n*   **חשיבות חישוב \"תשואה שוות-ערך למס\":** בדיון מודגש כי כדי להשוות נכון בין השקעות, יש לחשב את התשואה ברוטו שהיה צריך לקבל בהשקעה חייבת במס כדי להגיע לאותה תוצאה; במקרים מסוימים, תשואה נומינלית של כ-6% יכולה להיות שווה ליותר מ-9.6% בשל חסכון במס.\n*   **בחינת פרמטרים מורכבים של תשואה:** משקיעים בקהילה בוחנים לא רק את הריבית הנקובת (Coupon), אלא גם מדדים כמו \"תשואה לפדיון\" (YTM) ו\"תשואה למועד פקיעה מוקדם\" (YTC) כדי להעריך את הרווחיות הריאלית של איגרות החוב לאורך זמן.",
+    "dateString": "2026-10-08",
+    "savedAt": {
+      "_seconds": 1791465273,
+      "_nanoseconds": 4000000
+    }
   },
   {
     "id": "1x0o33i",
@@ -400,7 +312,12 @@ window.dailyTrends = [
     ],
     "summary_he": "הכותב מחפש חברות ציבוריות או כאלו העומדות לפני הנפקה שמתמקדות בפיתוח \"מודלי עולם\" (world models) במקום מודלי שפה גדולים. לטענתו, מודלי שפה הם מבוי סתום בדרך לבינה מלאכותית כללית (AGI) והוא צופה \"פיצוץ\" קרוב של בועת הבינה המלאכותית הנוכחית.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות בשרשור:\n\n*   **Nvidia כשחקנית מפתח:** צוין כי חברת Nvidia היא מובילה בתחום עם מודל העולם שלה שנקרא \"Nvidia Cosmos\".\n*   **השילוב עם Omniverse:** הודגש כי מודל ה-Cosmos של Nvidia אינו עומד לבדו, אלא פועל בשילוב הדוק עם פלטפורמת ה-Omniverse של החברה (המיועדת לסימולציות ושיתוף פעולה בגרפיקה תלת-ממדית).\n*   **המענה של גוגל:** הוזכר כי גם גוגל, באמצעות מעבדת הבינה המלאכותית DeepMind, פיתחה מודל רלוונטי בשם \"Genie\" (מודל ג'נרטיבי המסוגל ליצור עולמות אינטראקטיביים).\n*   **פרספקטיבה היסטורית על מודלים:** אחד המשתתפים הזכיר שמודלים של העולם אינם מושג חדש, והפנה למודל \"גבולות לצמיחה\" (The Limits to Growth) שפורסם כבר בשנות ה-70.\n*   **ביקורת על דיוק התחזיות:** עלתה טענה כי מודלים היסטוריים סובלים מדיוק חלקי; בעוד שחלק מהתחזיות היו קרובות למציאות, אחרות (כמו התחזית שמשאבי העולם ייגמרו לפני כ-26 שנים) התבררו כשגויות.\n*   **תחזיות לעתיד הקרוב:** צוין כי מודלים מודרניים או עדכונים למודלים קלאסיים חוזים אירועים דרמטיים בעשורים הקרובים, כגון הגעה לשיא באוכלוסיית העולם ואף אפשרות לקריסה חברתית."
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות בשרשור:\n\n*   **Nvidia כשחקנית מפתח:** צוין כי חברת Nvidia היא מובילה בתחום עם מודל העולם שלה שנקרא \"Nvidia Cosmos\".\n*   **השילוב עם Omniverse:** הודגש כי מודל ה-Cosmos של Nvidia אינו עומד לבדו, אלא פועל בשילוב הדוק עם פלטפורמת ה-Omniverse של החברה (המיועדת לסימולציות ושיתוף פעולה בגרפיקה תלת-ממדית).\n*   **המענה של גוגל:** הוזכר כי גם גוגל, באמצעות מעבדת הבינה המלאכותית DeepMind, פיתחה מודל רלוונטי בשם \"Genie\" (מודל ג'נרטיבי המסוגל ליצור עולמות אינטראקטיביים).\n*   **פרספקטיבה היסטורית על מודלים:** אחד המשתתפים הזכיר שמודלים של העולם אינם מושג חדש, והפנה למודל \"גבולות לצמיחה\" (The Limits to Growth) שפורסם כבר בשנות ה-70.\n*   **ביקורת על דיוק התחזיות:** עלתה טענה כי מודלים היסטוריים סובלים מדיוק חלקי; בעוד שחלק מהתחזיות היו קרובות למציאות, אחרות (כמו התחזית שמשאבי העולם ייגמרו לפני כ-26 שנים) התבררו כשגויות.\n*   **תחזיות לעתיד הקרוב:** צוין כי מודלים מודרניים או עדכונים למודלים קלאסיים חוזים אירועים דרמטיים בעשורים הקרובים, כגון הגעה לשיא באוכלוסיית העולם ואף אפשרות לקריסה חברתית.",
+    "dateString": "2026-10-08",
+    "savedAt": {
+      "_seconds": 1791465284,
+      "_nanoseconds": 318000000
+    }
   },
   {
     "id": "1x0n1ka",
@@ -431,6 +348,42 @@ window.dailyTrends = [
     ],
     "summary_he": "כותב הפוסט החליט להשקיע את כל הונו במניית Alphabet (גוגל) לטווח של עשור, מתוך אמונה שהיא מציעה את יחס הסיכון-סיכוי הטוב ביותר בזכות מערך הפצה חסר תקדים ודומיננטיות בתחומי הבינה המלאכותית והפרסום. לטענתו, השילוב בין החוזקה של יוטיוב, ההתרחבות למגזר העסקי והפרויקטים העתידיים של החברה (כמו Waymo) הופכים אותה לבחירה עדיפה על פני השקעה במדדים או קרנות סל (ETFs).",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע למניית/חברת גוגל, המציג שש נקודות מבט ותחושות שונות שעלו מן התגובות:\n\n*   **דחיפות ליציאה:** קיים רצון עז ומיידי מצד חלק מהמשתמשים \"לברוח\" מגוגל (ייתכן שמדובר במכירת המניה או בעזיבת מקום העבודה), מה שמעיד על תחושת מיאוס או פחד מהעתיד הקרוב של החברה.\n*   **חשיפה גבוהה בתיק ההשקעות:** חלק מהמשקיעים בקהילה מחזיקים בפוזיציות גדולות מאוד במניה, כאשר היא מהווה נתח משמעותי (כ-30%) מכלל תיק ההשקעות שלהם, מה שמעיד על אמון רב (או סיכון גבוה).\n*   **אמונה בפוטנציאל מקסימלי:** ישנם משתמשים הרואים בגוגל את \"ההשקעה הטובה ביותר על פני כדור הארץ\" נכון לעת הזו, תוך הבעת ביטחון מוחלט בערך החברה.\n*   **תחזית מחיר אופטימית לטווח ארוך:** קיימת הערכה שהמניה תגיע לשווי של 1,000 דולר בטווח זמן של 5 עד 10 שנים, יעד שמשקף ציפייה לצמיחה פנומנלית לעומת מחירה הנוכחי.\n*   **תלות במצב הכלכלה העולמית:** לצד האופטימיות, עולה ההסתייגות שהצמיחה המיוחלת מותנית בכך שהכלכלה העולמית לא תחווה קריסה טוטאלית, מה שמצביע על מודעות לסיכונים מאקרו-כלכליים.\n*   **קיטוב קיצוני בקהילה:** הדיון משקף פער אדיר בין שתי קצוות – מצד אחד משתמשים שמרגישים צורך דחוף להיפטר מהנכס, ומצד שני כאלו שרואים בו את עתיד עולם ההשקעות."
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנוגע למניית/חברת גוגל, המציג שש נקודות מבט ותחושות שונות שעלו מן התגובות:\n\n*   **דחיפות ליציאה:** קיים רצון עז ומיידי מצד חלק מהמשתמשים \"לברוח\" מגוגל (ייתכן שמדובר במכירת המניה או בעזיבת מקום העבודה), מה שמעיד על תחושת מיאוס או פחד מהעתיד הקרוב של החברה.\n*   **חשיפה גבוהה בתיק ההשקעות:** חלק מהמשקיעים בקהילה מחזיקים בפוזיציות גדולות מאוד במניה, כאשר היא מהווה נתח משמעותי (כ-30%) מכלל תיק ההשקעות שלהם, מה שמעיד על אמון רב (או סיכון גבוה).\n*   **אמונה בפוטנציאל מקסימלי:** ישנם משתמשים הרואים בגוגל את \"ההשקעה הטובה ביותר על פני כדור הארץ\" נכון לעת הזו, תוך הבעת ביטחון מוחלט בערך החברה.\n*   **תחזית מחיר אופטימית לטווח ארוך:** קיימת הערכה שהמניה תגיע לשווי של 1,000 דולר בטווח זמן של 5 עד 10 שנים, יעד שמשקף ציפייה לצמיחה פנומנלית לעומת מחירה הנוכחי.\n*   **תלות במצב הכלכלה העולמית:** לצד האופטימיות, עולה ההסתייגות שהצמיחה המיוחלת מותנית בכך שהכלכלה העולמית לא תחווה קריסה טוטאלית, מה שמצביע על מודעות לסיכונים מאקרו-כלכליים.\n*   **קיטוב קיצוני בקהילה:** הדיון משקף פער אדיר בין שתי קצוות – מצד אחד משתמשים שמרגישים צורך דחוף להיפטר מהנכס, ומצד שני כאלו שרואים בו את עתיד עולם ההשקעות.",
+    "dateString": "2026-10-08",
+    "savedAt": {
+      "_seconds": 1791465298,
+      "_nanoseconds": 336000000
+    }
+  },
+  {
+    "id": "1x0mwqi",
+    "title": "The investor with 66% annual returns ended up 4× poorer than the one with 22%. Housel's point about time, with an Indian example.",
+    "url": "https://www.reddit.com/r/investing/comments/1x0mwqi/the_investor_with_66_annual_returns_ended_up_4/",
+    "author": "iktisab",
+    "score": 1,
+    "selftext": "From Morgan Housel, The Psychology of Money (2020):\n\n\n\n\\- Jim Simons compounded at 66% a year since 1988. Net worth at the time of writing: $21B.\n\n\\- Warren Buffett compounded at roughly 22%. Net worth: $84.5B.\n\n\\- Buffett started serious investing at 10; Simons found his stride at 50.\n\n\\- $81.5B of Buffett's $84.5B came after his mid-60s (about 96%).\n\n\\- Housel's thought experiment: had Buffett started at 30 with $25,000 and stopped at 60, same 22%, he'd have about $11.9M.\n\n\n\nIndian illustration (my calculation, assumes 12% a year, before tax and inflation):\n\n₹5,000/month from 25 to 60 → ₹2.76 crore (₹21 lakh invested)\n\n₹5,000/month from 35 to 60 → ₹85 lakh (₹15 lakh invested)\n\n\n\nTen years of delay costs about ₹1.9 crore. Not a forecast, just the arithmetic of compounding.",
+    "subreddit": "investing",
+    "created_utc": 1791453460,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "What a shitpost.\n\n4x poorer. Yeah. Poor, poor billionaire. What ever will he do with $20 billion. Can he even afford to buy more than 10 megayachts per year? :(\n\nAnd also wow. 66% annual returns are worse than 22% if you don’t hold it for as long. Color me surprised.\n\nWhat a dumb, dumb clickbait post.",
+        "score": 5,
+        "author": "CalebVanPoneisen"
+      },
+      {
+        "body": "Your post has been removed because it's a low effort post. \n\nPosts must either share investment ideas and insights or ask thoughtful questions. \n\nAdditional guidelines can be found in the wiki here - https://www.reddit.com/r/investing/wiki/index/rules\n\nIf you have any issue with this removal, please contact the moderators via modmail. Thank you.",
+        "score": 1,
+        "author": "investing-ModTeam"
+      },
+      {
+        "body": "The striking part for me is that almost all of Buffett's wealth arrived after 65, which makes simply staying invested for decades matter more than chasing a higher annual return.",
+        "score": 1,
+        "author": "rudolf_de_Leeuw"
+      }
+    ],
+    "summary_he": "הפוסט מדגיש כי הזמן הוא המרכיב הקריטי ביותר בצבירת הון, לעיתים אף יותר משיעור התשואה השנתי. באמצעות השוואה בין וורן באפט לג'ים סימונס ודוגמאות מספריות נוספות, מוסבר כי התחלה מוקדמת והתמדה לאורך עשורים הן המפתח להצלחה כלכלית יוצאת דופן בזכות כוחה של הריבית דריבית.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג שש נקודות מבט ותחושות קהילתיות שונות שעלו מן התגובות:\n\n*   **ביקורת על איכות התוכן:** חלק מהמשתמשים הגדירו את הפוסט המקורי כ\"קליקבייט\" (Clickbait) וכפוסט באיכות נמוכה מאוד (\"Shitpost\"), שאינו תורם לדיון מקצועי.\n*   **לעג להגדרת עושר:** עלתה נימה סרקסטית כלפי הניסיון להציג מיליארדר כ\"עני\" או כמי שחווה הפסד משמעותי, כאשר גם לאחר \"הפסד\" תיאורטי הוא נותר עם הון עתק של כ-20 מיליארד דולר שמאפשר רכישת סופר-יאכטות רבות.\n*   **הפרכת השוואות מתמטיות פשטניות:** המגיבים ציינו כי השוואה בין אחוזי תשואה גבוהים לטווח קצר (66%) לבין תשואה נמוכה יותר לטווח ארוך (22%) היא חסרת משמעות ללא התחשבות בגורם הזמן, וכי הצגת הנתונים בפוסט הייתה מטעה מבחינה לוגית.\n*   **אכיפת סטנדרטים קהילתיים:** מנהלי הפורום הסירו את הפוסט בטענה ל\"חוסר מאמץ\" (Low effort), תוך הדגשה כי הקהילה מצפה לשיתוף של רעיונות השקעה מעמיקים, תובנות או שאלות מעוררות מחשבה ולא רק נתונים יבשים או פרובוקטיביים.\n*   **חשיבותו המכרעת של אפקט הריבית דריבית:** אחת הנקודות המרכזיות שעלו היא העובדה שמרבית הונו של וורן באפט נצבר דווקא לאחר גיל 65. נתון זה מדגיש שהזמן שבו הכסף מושקע בשוק חשוב יותר מאשר הניסיון להשיג תשואה גבוהה בפרק זמן קצר.\n*   **עדיפות ההתמדה על פני רדיפה אחרי תשואות:** הסנטימנט בקהילה מצביע על כך שהישארות בשוק (Staying invested) לאורך עשורים היא אסטרטגיה עדיפה ומשמעותית יותר מאשר \"מרדף\" (Chasing) אחרי אחוזי תשואה שנתיים גבוהים ובלתי יציבים."
   }
 ];
