@@ -1,311 +1,316 @@
 window.dailyTrends = [
   {
-    "id": "1x6kfvn",
-    "title": "Only one bubble in the last 200 years had higher market concentration than AI today.",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1x6kfvn/only_one_bubble_in_the_last_200_years_had_higher/",
-    "author": "Anoncry66",
-    "score": 893,
-    "selftext": "My last post on concentration made a lot of bulls angry here. they argued that spy's job is to ride winners, and big tech wins. \n\nif that's the bull thesis, you better love this chart from j.p. morgan.\n\nright now, 49% of the s&p 500 index is tied directly to \"AI-Related Stocks\".  J.P. Morgan defines this as the 'Magnificent 7' plus another 34 stocks directy linked to the AI buildout. \n\nWe have officially surpassed the peak dot-com TMT concentration (41%) and are approaching levels unseen since the 1880s railroad mania. \n\nthis implies that if just that one narrative stumbles, the entire market unravells with zero breadth to catch the fall. the bulls keep saying there is \"no reason to worry.\" if this chart doesn't give you pause, what metric would? are you betting against 200 years of history that this time, it really is different?",
-    "subreddit": "StockMarket",
-    "created_utc": 1792067680,
-    "thumbnail": "https://preview.redd.it/g7e6xow8lmvh1.png?width=140&height=104&auto=webp&s=953fb0878a3e0b971bac8d0550477105c67e707c",
+    "id": "1x7px5f",
+    "title": "Quick question about company acquisition and stock.",
+    "url": "https://www.reddit.com/r/investing/comments/1x7px5f/quick_question_about_company_acquisition_and_stock/",
+    "author": "but_i_dont_reddit",
+    "score": 8,
+    "selftext": "Hey all! I'd appreciate any insight or advice on the stock I own for a company that is being acquired. Company is being purchased by PE so it will be going private, they announced the cash price per share.\n\nCurrently trading about 2% below that purchase price.\n\nDoes it make sense to just carry it to the end and collect the purchase price or is there any advantage to unloading it before?\n\nCan't imagine there's any reason someone would buy it at or above that purchase price but wasn't sure if there is something else I'm missing.\n\nThanks!",
+    "subreddit": "investing",
+    "created_utc": 1792179738,
+    "thumbnail": "self",
     "top_comments": [
       {
-        "body": "I call BS. Go ahead. Downvote me if you wish, but this is true:\n\nOf the handful of famous historical concentration episodes chosen for this BofA chart, only the 1880s railroad episode had a higher concentration than Bianco's broadly defined 41-stock AI basket does now.\n\nWhat do you think happens to Apple, Microsoft, and Amazon if AI craters? Do they fall? Sure. Do they go away? No.\n\nI call BS.\n\n",
+        "body": "\\> or is there any advantage to unloading it before?\n\nThis usually depends on when the purchase would close.  If it was a year from now, you could sell and get 3.75% from t-bills for the year rather than that 2% difference.  In good times you would want to sell because investing in something else would likely get you better than that 2% difference (and of course if the deal falls through the price could tank).  These aren't particularly good times tho.\n\nOn other hand, if it closes next month, getting 2% for a month would be pretty good.\n\nI'd sell right away myself, but  if it is going to close after Jan 1st, you might want to decide based on whether you want the capital gain this year or next.",
         "score": 6,
-        "author": "ilovesaintpaul"
+        "author": "SnS2500"
       },
       {
-        "body": "Hmm, idk how your going to get the ROI back from the investment from what your showing.\n\nAI doesn't have a moat.",
-        "score": 3,
-        "author": "00raiser01"
-      },
-      {
-        "body": "Boomers and silent gen don’t even know how to google.. most relies on their kids to help them around tech 😂 ",
-        "score": 3,
-        "author": "DonkeyDucksMod"
-      }
-    ],
-    "summary_he": "הפוסט מציין כי ריכוזיות השוק במניות הקשורות לבינה מלאכותית הגיעה ל-49% ממדד ה-S&P 500, ובכך עקפה את שיא בועת הדוט-קום והגיעה לרמות שלא נראו מאז \"טירוף מסילות הרכבת\" של סוף המאה ה-19. הכותב מזהיר כי תלות כה גבוהה בנרטיב ה-AI בלבד משאירה את השוק כולו חשוף ופגיע לקריסה במידה והמגמה תיחלש.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וסנטימנטים שונים שעלו מתוך התגובות:\n\n*   **ספקנות כלפי השוואות היסטוריות:** אחד המגיבים טוען כי הניסיון להשוות את הריכוזיות הנוכחית של מניות ה-AI למשברים היסטוריים הוא מוגזם. לטענתו, פרט למקרה של חברות הרכבת בשנות ה-80 של המאה ה-19, המצב הנוכחי אינו קיצוני כפי שמנסים לצייר אותו בגרפים פיננסיים.\n*   **חוסנן של ענקיות הטכנולוגיה:** קיימת דעה כי חברות הענק (אפל, מיקרוסופט ואמזון) חזקות מספיק כדי לשרוד גם אם בועת ה-AI תתפוצץ. גם אם שווין ירד, הן לא ייעלמו מהשוק בשל הגיוון והבסיס העסקי הרחב שלהן.\n*   **סימני שאלה סביב החזר השקעה (ROI):** מועלה ספק בנוגע ליכולת של חברות להפיק רווחים ממשיים ששיצדיקו את ההשקעות העצומות בטכנולוגיית ה-AI. המגיב תוהה כיצד המודלים העסקיים המוצגים יניבו תשואה ריאלית.\n*   **היעדר \"חפיר\" עסקי (Moat):** אחת הביקורות המרכזיות היא שלטכנולוגיית ה-AI אין יתרון תחרותי חסין (Moat). המשמעות היא שקשה לחברות לבצר את מעמדן ולמנוע ממתחרים לשכפל את הישגיהן, מה שמעמיד בסימן שאלה את הרווחיות לטווח ארוך.\n*   **פער דורי באימוץ טכנולוגיה:** עולה טענה סרקסטיות לגבי דורות מבוגרים (בייבי-בומרס ודור ה-Silent), לפיה הם מתקשים אפילו בפעולות בסיסיות כמו חיפוש בגוגל ונשענים על ילדיהם. נקודה זו מרמזת על פער בין ה\"הייפ\" הטכנולוגי לבין היכולת של חלק גדול מהאוכלוסייה להשתמש בו בפועל.\n*   **זלזול בנרטיב הבהלה:** ניכר סנטימנט של התנגדות לניתוחים כלכליים \"מפחידים\". חלק מהקהילה רואה בתחזיות הקודרות על ריכוזיות השוק כטענות חסרות בסיס (\"BS\") ובוחר להפגין ביטחון אל מול המבקרים.",
-    "dateString": "2026-10-16",
-    "savedAt": {
-      "_seconds": 1792148844,
-      "_nanoseconds": 288000000
-    }
-  },
-  {
-    "id": "1x6kmqw",
-    "title": "Wholesale prices jump in a wild 6.3% rally, biggest gain since 2022 when inflation ran almost 10%",
-    "url": "https://www.reddit.com/r/investing/comments/1x6kmqw/wholesale_prices_jump_in_a_wild_63_rally_biggest/",
-    "author": "Gaius__Of__The_Julii",
-    "score": 535,
-    "selftext": "September’s producer price index came in much hotter than economists forecasted on Thursday, underscoring the continued inflationary pressure from energy amid the U.S. war with Iran.\n\nThe measure of underylying inflation pressures climbed 1.3% in September and 6.3% on an annual basis, marking its largest 12-month advance since late 2022, according to data released by the Bureau of Labor Statistics.\n\nEconomists polled by Dow Jones forecasted an advance of 0.6% on the month and 5.5% annually.",
-    "subreddit": "investing",
-    "created_utc": 1792068232,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "oh .25% definitely does a thing, its going to wipe out 1000s of small business when they have to refinance at a higher rate while also dealing with the same inflation.",
-        "score": 9,
-        "author": "BigBossShadow"
-      },
-      {
-        "body": "Some do, but tax withholdings aren't relevant to this topic.\n\nHere's where the jobs report comes from, how they're amended, and why they'd be very difficult to rig.\n\n[https://www.npr.org/2025/08/06/1256812323/bureau-of-labor-statistics-revisions-explained](https://www.npr.org/2025/08/06/1256812323/bureau-of-labor-statistics-revisions-explained)",
-        "score": 7,
-        "author": "robot_ankles"
-      },
-      {
-        "body": "Doesn't it take let ten years to build a nuke plant?",
-        "score": 6,
-        "author": "ducksaws"
-      }
-    ],
-    "summary_he": "מדד המחירים ליצרן בארה\"ב רשם בספטמבר עלייה שנתית חדה של 6.3%, הנתון הגבוה ביותר מאז סוף 2022. הזינוק עקף משמעותית את תחזיות הכלכלנים ומשקף לחצים אינפלציוניים מתמשכים, הנובעים בעיקר מעלייה במחירי האנרגיה.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות, המציג 6 נקודות מבט ודעות שונות:\n\n* **השפעת שינויי ריבית קטנים:** גם עלייה מתונה בריבית (כמו 0.25%) נתפסת כבעלת השפעה משמעותית על הכלכלה, ולא כשינוי זניח.\n* **סיכון הישרדותי לעסקים קטנים:** קיים חשש כבד שאלפי עסקים קטנים יקרסו כאשר ייאלצו למחזר הלוואות בריבית גבוהה יותר מזו שהורגלו אליה.\n* **השפעת האינפלציה המשולבת:** העסקים מתמודדים עם \"מכה כפולה\" – גם עלויות מימון גבוהות יותר בשל הריבית וגם עלויות תפעול מאמירות בשל האינפלציה המתמשכת.\n* **מהימנות נתוני התעסוקה:** ישנו דגש על כך שדוחות התעסוקה הממשלתיים (כמו אלו של ה-BLS) מבוססים על מתודולוגיה מורכבת שקשה מאוד להטות או \"לזייף\" לצרכים פוליטיים.\n* **הבחנה בין נתונים כלכליים:** הועברה ביקורת על הנטייה לערבב נושאים שאינם רלוונטיים ישירות לנתוני תעסוקה, כמו למשל ניכויי מס במקור, שאינם משקפים בהכרח את תמונת המצב הנדונה.\n* **ספקנות לגבי פתרונות אנרגיה ארוכי טווח:** הועלתה תהייה לגבי היתכנות של פרויקטים גרעיניים כפתרון למשברים נוכחיים, לאור העובדה שזמן ההקמה של תחנת כוח גרעינית הוא ממושך מאוד (כעשר שנים).",
-    "dateString": "2026-10-16",
-    "savedAt": {
-      "_seconds": 1792148869,
-      "_nanoseconds": 157000000
-    }
-  },
-  {
-    "id": "1x73eur",
-    "title": "Investors dump data centre bonds as AI borrowers face ‘Darwin moment’",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1x73eur/investors_dump_data_centre_bonds_as_ai_borrowers/",
-    "author": "No_Way_6258",
-    "score": 118,
-    "selftext": "Investors worry that the revenues from AI will not support the enormous debt of data centres.\n\n\nInvestors are adumping debt issued by neoclouds, such as Nvidia-backed CoreWeave which buys 8% of NVIDIA's chips.\n\nOpenAI’s decision to delay its ipo and a slowdown in Anthropic’s q3 sales growth highlights a multitrillion-dollar gap between infrastructure spending and the revenues needed to finance it.\n\n\n\n\n* The price of debt issued by Blue Owl and Meta-backed spv Beignet Investor to fund the Hyperion project has slipped to a under 92c on the dollar.\n* bonds backing two Hut 8-developed projects have fallen to about 94 and 92 cents on the dollar. \n* Bonds for the Blackstone-owned QTS dc in Georgia and leased to Microsoft have slipped below 88 cents on the dollar.\n* Neocloud providers have been hit even harder. Bonds issued by CoreWeave have sunk below 80 cents on the dollar.",
-    "subreddit": "StockMarket",
-    "created_utc": 1792114243,
-    "thumbnail": "https://external-preview.redd.it/zEPeR4zvOUvNKsKljVRuo0sk-EpzVofZjtykkZyMIKw.jpeg?width=140&height=78&auto=webp&s=93714395eb81473ee9a8adffc1c31c92c96d0b8b",
-    "top_comments": [
-      {
-        "body": "This may be nothing.\n\nThis may be the first house in Miami that wouldn’t sell in late 2007.",
-        "score": 19,
-        "author": "Tri-Solaris"
-      },
-      {
-        "body": "Not everyone.  The wealthy made $$$ and know when you pull out before the retail public is left with garbage tickers. \n\nMeta and MSFT and Google will just shrug this off. ",
-        "score": 16,
-        "author": "RetirementGoals"
-      },
-      {
-        "body": "Gartner said AI dc owners need to generate revenues of $8.5tn by the end of 2030 to cover their capital and financing costs and generate healthy returns on those investments. But it forecast that consumer and corporate spending on AI services that would flow to data centre providers would reach “no more than $3.6tn”.",
-        "score": 15,
-        "author": "No_Way_6258"
-      }
-    ],
-    "summary_he": "משקיעים מוכרים אג\"ח של מרכזי נתונים המיועדים לבינה מלאכותית (AI), בשל חשש גובר שההכנסות מהתחום לא יספיקו לכיסוי החובות העצומים ששימשו להקמתם. צניחת מחירי האג\"ח של חברות כמו CoreWeave ופרויקטים המגובים על ידי ענקיות טכנולוגיה מדגישה את הפער המתרחב בין ההשקעה האדירה בתשתיות לבין הרווחיות הממשית בשטח.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות, המציג 6 נקודות מבט וסנטימנטים שונים בקהילה:\n\n* **השוואה למשבר הנדל\"ן של 2007:** קיים חשש שהמצב הנוכחי הוא \"הסנונית הראשונה\" המבשרת על קריסה רחבה, בדומה לבתים הראשונים במיאמי שלא הצליחו להימכר רגע לפני התפוצצות בועת הסאב-פריים.\n* **הפער בין המשקיעים המתוחכמים לציבור הרחב:** ישנה תחושה שהמשקיעים העשירים כבר הפיקו רווחים ויודעים מתי לצאת מהשוק בזמן, בעוד שציבור המשקיעים הקטן (\"Retail\") צפוי להישאר עם מניות חסרות ערך כשהבועה תתפוצץ.\n* **חוסנן של ענקיות הטכנולוגיה:** למרות התנודתיות, קיימת סברה שחברות הענק (כמו מטא, מיקרוסופט וגוגל) חזקות מספיק כדי \"לנער מעליהן\" את המשבר ולהמשיך הלאה ללא פגע משמעותי.\n* **פער כלכלי עצום בתחום ה-AI:** נתוני חברת גרטנר מצביעים על חוסר הלימה כלכלי - בעלי מרכזי נתונים של בינה מלאכותית זקוקים להכנסות של 8.5 טריליון דולר כדי להצדיק את ההשקעה, אך התחזיות צופות הכנסות של 3.6 טריליון דולר בלבד.\n* **ספק לגבי החזר השקעה (ROI):** עולה ספק מהותי לגבי היכולת של שירותי AI לייצר מספיק הכנסות מהלקוחות (פרטיים ותאגידים) כדי לכסות את עלויות המימון והתשתית הגבוהות של הטכנולוגיה.\n* **תחושת אי-ודאות ודריכות:** הקהילה חלוקה בין המחשבה שמדובר באירוע חולף וזניח (\"This may be nothing\") לבין ההבנה שאנו נמצאים בנקודת הכרעה קריטית בשוק הטכנולוגיה.",
-    "dateString": "2026-10-16",
-    "savedAt": {
-      "_seconds": 1792148911,
-      "_nanoseconds": 629000000
-    }
-  },
-  {
-    "id": "1x711lt",
-    "title": "The 30 Year Treasury Yield Could Be Signaling a Much Bigger Shift in the Bond Market",
-    "url": "https://www.reddit.com/r/investing/comments/1x711lt/the_30_year_treasury_yield_could_be_signaling_a/",
-    "author": "Worried-Share7679",
-    "score": 52,
-    "selftext": "&#x200B;\n\nThe long-term trend in Treasury yields appears to be turning increasingly bullish, with the 30year yield potentially heading toward 8% over the coming years. As the chart shows, yields have broken out of a multi decade downward channel and are now pushing above a key resistance level that held for years.\n\nA short-term pullback toward 5.25% is still possible, but it may not change the bigger picture. If this breakout holds, it could signal a structural shift toward higher long t borrowing costs, driven by persistent inflation, rising government debt, and investors demanding greater compensation for holding long-term bonds.\n\nThe Federal Reserve cold also face a difficult challenge trying to keep borrowing costs contained if market forces continue pushing yields higher.\n\n**Whyy this matters for the stock market** A sustained rise in long-term Treasury yields could put pressure on stock valuations, particularly high-growth technology stocks like those n the Nasdaq, as higher bond yields make future corporate earnings less valuable n today's dollars. It could also increase mortgage rates, raise borrowing costs 4 businesses and consumers, n put additional pressure on the broader economy.\n\nTha key takeaway is that even if yields experience a temporary pullback, the long-term technical picture suggests the risk of significantly higher borrowing costs remains on the table. A move toward 8% wold be a major development for financial markets, although this remains a technical projection rather than a guaranteed outcome.\n\nhttps://ibb.co/SDszFQC1",
-    "subreddit": "investing",
-    "created_utc": 1792107422,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I'm going to need a strong argument to take technical analysis serious in considering where bond yields are going. \n\nThe most important factors influencing rates will be:\n\n1) the level of deficit spending by governments around the world \n\n2) The strength of the macro economy \n\nWay way down the list) Rate trends over the past 4 decades",
-        "score": 36,
-        "author": "wadamday"
-      },
-      {
-        "body": "Bond prices recovered after 2 super hot inflation reports. Smart money is moving to bonds. I think we're headed for recession. ",
-        "score": 22,
-        "author": "legedu"
-      },
-      {
-        "body": "Technical analysis is BS for both stocks and bonds",
-        "score": 14,
-        "author": "nooeh"
-      }
-    ],
-    "summary_he": "התשואות על איגרות חוב ל-30 שנה בארה\"ב פרצו מגמת ירידה של עשרות שנים ועלולות לטפס עד ל-8% עקב אינפלציה מתמשכת וחוב ממשלתי גובר. שינוי מבני זה מסמן מעבר לסביבת עלויות לווה גבוהות לטווח ארוך, מה שעלול להפעיל לחץ על שוק המניות (במיוחד במגזר הטכנולוגיה) ולהכביד על הכלכלה הכללית.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה בעברית:\n\n*   **ספקנות כלפי ניתוח טכני באג\"ח:** קיימת דעה נחרצת המטילה ספק ביכולת של ניתוח טכני (Technical Analysis) לחזות לאן פניהן של תשואות האג\"ח, כאשר חלק מהמשתמשים זקוקים לטיעונים כבדי משקל כדי להתייחס לשיטה זו ברצינות בתחום זה.\n*   **מרכזיות הגירעון הממשלתי:** רמת ההוצאה הגירעונית של ממשלות ברחבי העולם נתפסת כגורם המשפיע ביותר על שיעורי הריבית, הרבה מעבר לכלים ניתוחיים אחרים.\n*   **חשיבות המקרו-כלכלה:** חוזקה של הכלכלה המקרו-כלכלית נחשב למשתנה קריטי ומכריע בקביעת כיוון הריביות, והוא מדורג גבוה מאוד בסדר העדיפויות של המשקיעים בבואם לנתח את השוק.\n*   **זלזול במגמות היסטוריות ארוכות טווח:** נטען כי למגמות הריבית ב-40 השנים האחרונות יש חשיבות משנית וזניחה יחסית בהשוואה לנתונים כלכליים עכשוויים וגירעונות ממשלתיים.\n*   **תנועת \"הכסף החכם\" והתאוששות האג\"ח:** נצפתה התאוששות במחירי האג\"ח למרות נתוני אינפלציה גבוהים (\"חמים\"), מה שמוביל לסברה שמשקיעים מתוחכמים (Smart Money) מעבירים כספים לאג\"ח כהכנה לשינוי בשוק.\n*   **חשש ממיתון קרב:** קיים סנטימנט בקהילה שהכלכלה פונה לכיוון של מיתון, מה שמסביר את העניין המחודש באג\"ח כמקלט אפשרי או כאינדיקטור להאטה.\n*   **שלילה מוחלטת של הניתוח הטכני ככלל:** קיימת עמדה קיצונית הגורסת כי ניתוח טכני הוא חסר ערך לחלוטין (\"BS\"), לא רק עבור שוק האג\"ח אלא גם עבור שוק המניות.",
-    "dateString": "2026-10-16",
-    "savedAt": {
-      "_seconds": 1792148944,
-      "_nanoseconds": 757000000
-    }
-  },
-  {
-    "id": "1x73wod",
-    "title": "Coreweave buys 8% of NVIDIA chips, and NVIDIA backs Coreweave. Now Coreweave is having trouble, how about NVIDIA's revenue?",
-    "url": "https://www.reddit.com/r/investing/comments/1x73wod/coreweave_buys_8_of_nvidia_chips_and_nvidia_backs/",
-    "author": "No_Way_6258",
-    "score": 24,
-    "selftext": "Beyond CoreWeave, several major NVIDIA-backed \"neoclouds\" and GPU cloud providers including Lambda Labs, Nebius, Crusoe Energy, and IREN are facing severe market scrutiny, growing massive debt pressure, or slow AI revenue growth.\n\n  \nWhat happens to NVIDIA and all the other ai hardware companies like the ones in South Korea ",
-    "subreddit": "investing",
-    "created_utc": 1792115737,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Yeah it’s recognized when earned. Not when the deal is signed. lol Reddit",
-        "score": 48,
-        "author": "raxreddit"
-      },
-      {
-        "body": "Revenue should be recognized when it is earned - goods received or services rendered.  ",
-        "score": 36,
-        "author": "Groovyhip_69"
-      },
-      {
-        "body": "I think it’s fair to be skeptical of neoclouds. But do you have any idea how many people the world over are clamoring for NVIDIA chips? Like Coreweave could go under and I don’t think it means a ton for Nvidia. Like it won’t be great but to think the kingpin of AI is going to ride or fall with a neocloud like this is crazy.",
-        "score": 24,
-        "author": "Electrical_Regret537"
-      }
-    ],
-    "summary_he": "הפוסט דן בקשיים הכלכליים ובצמיחה האיטית של ספקי ענן ושותפים מרכזיים של אנבידיה, כמו Coreweave ו-Lambda Labs. בעקבות זאת, עולה החשש לגבי ההשפעה האפשרית על הכנסותיה של אנבידיה ועל עתידן של חברות חומרה נוספות בתחום ה-AI, כולל יצרניות השבבים מדרום קוריאה.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בתגובות שפורטו, המציג 6 נקודות מבט, דעות ותחושות בקהילה:\n\n*   **עקרון ההכרה בהכנסה:** קיימת הסכמה שהכרה בהכנסה צריכה להתבצע רק כאשר היא \"מורווחת\" (earned) בפועל, ולא במועד החתימה על העסקה.\n*   **הגדרת ביצוע חשבונאי:** מודגש כי מבחינה עסקית, הכנסה נרשמת רק כאשר סחורות התקבלו או כאשר שירותים סופקו הלכה למעשה.\n*   **ביקורת על חוסר הבנה פיננסית ברשת:** אחת התגובות מביעה זלזול מסוים ברמת הידע הכללי של משתמשי רדיט בנושאי חשבונאות, ומרמזת שהקהילה נוטה לפרש לא נכון דוחות כספיים.\n*   **ספקנות כלפי ספקי ענן חדשים (\"Neoclouds\"):** קיימת עמדה הגורסת כי זה לגיטימי ואף מתבקש להטיל ספק ביציבותן ובמודל העסקי של חברות ענן חדשות (כמו Coreweave).\n*   **הביקוש האדיר לשבבי NVIDIA:** מצוין כי הביקוש העולמי למוצרי NVIDIA הוא כה גבוה וחסר תקדים, עד שקשה להפריז בחשיבותו.\n*   **חסינותה של NVIDIA מול לקוחות בודדים:** הקהילה סבורה ש-NVIDIA היא ה\"ציר המרכזי\" (Kingpin) של עולם ה-AI, ולכן גם אם ספקית ענן כזו או אחרת תקרוס, הדבר לא יערער את יציבותה של NVIDIA בשל התור הארוך של לקוחות הממתינים לשבבים שלה.",
-    "dateString": "2026-10-16",
-    "savedAt": {
-      "_seconds": 1792148960,
-      "_nanoseconds": 438000000
-    }
-  },
-  {
-    "id": "1x6ju6t",
-    "title": "Q4 Bull Case Holds, Bonds Push Back Against Hot CPI, TSMC Reinforces AI Demand",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1x6ju6t/q4_bull_case_holds_bonds_push_back_against_hot/",
-    "author": "Smart_Money_HQ",
-    "score": 17,
-    "selftext": "If you missed yesterday's second post about the hotter-than-expected CPI report - headline inflation was broadly in line with our expectations at 3.7% YoY, but the call for softer core inflation was wrong, with core coming in at 2.6%. Not an encouraging report, and the October Fed decision certainly won't be easy, but I still don't think it fundamentally changes the macro outlook. The market also appears to be coming around to the interpretation we discussed yesterday, with October rate hike odds now back below 30%.\n\nThe important distinction is that CPI doesn't translate directly into PCE, which is what the Fed actually targets and much of yesterday's core surprise came from shelter and used cars, and neither carries through to PCE in quite the same way.\n\nShelter has a much smaller weight in PCE, while the inflation it measures also tends to lag actual changes in market rents. There is also the broader issue that higher rates increase financing costs for developers and can worsen the housing supply constraints contributing to inflation in the first place so hiking is unlikely to solve this.\n\nToday's PPI release will be important, mainly the medical services components that feed into PCE. I do remain cautious, especially around energy, as gasoline also feeds into PPI and represents a share of final demand. Still, a hotter CPI reading doesn't automatically mean we'll get an equally hot PCE print.\n\nAnother thing i wanted to share is that the diffusion of CPI inflation, calculated using an approach similar to Kevin Warsh's preferred PCE diffusion measure, continues to decline.\n\nBasically, inflationary pressure is becoming less widespread, even if some individual components remain elevated.\n\nhttps://i.redd.it/68a3d3gofmvh1.png\n\nThe bond market is also starting to support our view that the initial reaction was overdone, with the 2-year Treasury yield already moving back below its pre-CPI levels. That doesn't mean inflation is no longer a concern, but it does suggest the market is reconsidering how much yesterday's report really changes the Fed's near-term path.\n\nhttps://i.redd.it/vzijbpbpfmvh1.png\n\nMoving to equities, I remain constructive going into Q4, and so far the market is behaving more or less in line with seasonal tendencies. We discussed on Monday that some choppiness was likely, particularly with the macro uncertainty and earnings season getting underway, and that's broadly what we've seen.\n\nThis is important given the sell-off across AI and semiconductor name as between ASML yesterday and TSMC today, we're seeing little evidence of a slowdown in underlying demand. So, to me, the recent weakness looks much more like a cost-of-capital and valuation adjustment than a deterioration in the AI investment cycle itself.\n\nhttps://i.redd.it/nu8f9q0tfmvh1.png\n\nWe also got the Anthropic financials I mentioned yesterday, and I'd describe them as good, although perhaps not good enough to completely change sentiment on their own. The company reportedly grew Q3 revenue by around 45% to $16.8 billion and told potential investors it was cash-flow positive for the quarter. Given the roughly $500 billion in long-term compute commitments this is v important and provides better visibility into the demand in AVGO, GOOGL and AMZN.\n\nWhat I also find encouraging is that despite everything going on, from macro uncertainty to geopolitical headlines, investors appear to be rotating between winners and losers rather than indiscriminately reducing equity exposure. With this said earnings will ultimately be the real test.\n\nAnd there's another interesting divergence here. Since the end of June, forward earnings expectations have continued to move higher, particularly across semiconductors, memory and AI infrastructure, while valuation multiples have actually compressed.\n\nhttps://i.redd.it/ebbgmiztfmvh1.png\n\nhttps://i.redd.it/3gedwjgufmvh1.png\n\nBasically, we're seeing earnings expectations improve while investors are paying less for those earnings. This meansthat part of the correction has been driven by multiple compression and not deteriorating fundamentals.\n\nCorporate guidance also remains strong, which is arguably more important than backward-looking earnings beats at this stage. As long as companies continue to deliver and maintain their forward outlooks, I see little reason to abandon the constructive Q4 thesis. That doesn't mean we won't get further volatility, but I continue to view the weakness as an opportunity\n\nBullish options flow is becoming increasingly noticeable across semiconductors and high-beta stocks, which is encouraging. Keep in mind that tomorrow is OPEX, and we often see trend reversals as positioning gets cleared. The key market maker exposure level is currently around 770 on SPY, which could act as a magnet for price. However, today's PPI is the more immediate catalyst, with options pricing in a move of roughly 6 points, so expect some volatility around the release.\n\nIn terms of positioning, we're definitely not out of the woods yet, but volumes have shifted toward neutral, and I suspect we'll remain in this environment until PPI provides some clarity on the next direction.\n\nhttps://i.redd.it/r3bhncbvfmvh1.png\n\nhttps://i.redd.it/4xvhuqrvfmvh1.png\n\nOn the Qs, the key level to watch is $720, where market maker positioning could help support a bounce. A break below that level, however, could see price action deteriorate further, potentially opening the door for a move toward $700. where the market stablises.\n\nOn SOXX, market positioning is similarly bearish to what we saw a couple of months ago when the ETF tested $480. Premarket, we're approaching a test of the $500 level, but needs to be noted is that volumes are starting to pick up around $480. Below that, market maker exposure drops off considerably, increasing the risk of further downside. So, similarly to the Qs, we could see SOXX stabilise around these levels\n\nhttps://i.redd.it/mztgdyowfmvh1.png\n\n",
-    "subreddit": "StockMarket",
-    "created_utc": 1792065884,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I'm not reading all that, but your title. AI demand is the issue, all the capex spend and no revenue, yet. I would not be surprised to see a lot of AI positions be unwound from now to wait and see.",
-        "score": 5,
-        "author": "Emergency_Dish_1213"
-      }
-    ],
-    "summary_he": "למרות נתוני אינפלציה (CPI) גבוהים מהצפוי, הכותב שומר על תחזית אופטימית לרבעון הרביעי ומעריך כי השוק הגזים בתגובתו הראשונית וכי הנתונים אינם משנים מהותית את התחזית המקרו-כלכלית. הוא מדגיש כי הביקוש בתחומי השבבים והבינה המלאכותית נותר איתן, ורואה בירידות האחרונות הזדמנות קנייה הנובעת מהתאמת שווי שוק ולא מהרעה ביסודות הכלכליים של החברות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון (על בסיס התגובה המובילה) בנושא מצב שוק הבינה המלאכותית (AI) וההשקעות בו, המציג 6 נקודות מבט וסנטימנטים שונים:\n\n*   **פער בין השקעה להכנסות:** קיימת ביקורת על כך שחברות מוציאות סכומי עתק על תשתיות וציוד (Capex), אך נכון לעכשיו, ההשקעות הללו טרם תורגמו להכנסות משמעותיות בשטח.\n*   **ספקנות לגבי יציבות המשרות בתחום:** המגיב צופה גל של \"פירוק\" או צמצום משרות בתחום ה-AI, מתוך הערכה שהגיוסים המסיביים היו מוקדמים מדי או מבוססים על ציפיות לא ריאליות.\n*   **מעבר לאסטרטגיית \"המתנה\":** נראה כי השוק עובר ממצב של ריצה מטורפת קדימה לעמדת \"נחיה ונראה\" (Wait and see), שבה חברות יעצרו לבחון את הרווחיות האמיתית לפני שימשיכו להשקיע.\n*   **שאלת הביקוש האמיתי:** עולה טענה כי הבעיה המרכזית אינה הטכנולוגיה עצמה, אלא שאלת הביקוש הממשי בשוק למוצרי AI, שייתכן ואינו גבוה כפי שחשבו בתחילה.\n*   **תרבות הדיון ברשת (TL;DR):** התגובה משקפת סנטימנט קהילתי שבו משתמשים מגיבים לעיתים רק על בסיס כותרות או נושאים כלליים מבלי להתעמק בפרטי הפוסט המלא, מה שמעיד על קוצר רוח או רוויה מהנושא.\n*   **חשש מבועת השקעות:** הנימה הכללית מבטאת חשש מפני התפוצצות \"בועת ה-AI\" כתוצאה מחוסר איזון כלכלי בין ההוצאות לפוטנציאל הרווח המיידי.",
-    "dateString": "2026-10-16",
-    "savedAt": {
-      "_seconds": 1792148975,
-      "_nanoseconds": 126000000
-    }
-  },
-  {
-    "id": "1x6vc5f",
-    "title": "VFQY as an alternative to VOO's tech overweighting?",
-    "url": "https://www.reddit.com/r/investing/comments/1x6vc5f/vfqy_as_an_alternative_to_voos_tech_overweighting/",
-    "author": "GrandRare1634",
-    "score": 5,
-    "selftext": "I've been looking into what my options are in defensive investments and touched on the normal consumer staples, healthcare, real estate, etc. but then as I started reading into quality stocks (basically solid, consistent financials, low debt, and performance), I see that Vanguard offers [VFQY](https://investor.vanguard.com/investment-products/etfs/profile/vfqy#portfolio-composition) which appears to have a similar, just less tech-heavy composition than VOO.\n\n|Sectors[^(5)](https://investor.vanguard.com/investment-products/etfs/profile/vfqy#disclosures) |VFQY|Benchmark|\\+/- Weight|\n|:-|:-|:-|:-|\n|Basic Materials|4.00%|1.60%|2.40%|\n|Consumer Discretionary|20.60%|11.70%|8.90%|\n|Consumer Staples|4.00%|3.30%|0.70%|\n|Energy|3.30%|3.60%|\\-0.30%|\n|Financials|13.20%|9.80%|3.40%|\n|Health Care|10.00%|9.50%|0.50%|\n|Industrials|22.70%|11.40%|11.30%|\n|Technology|20.50%|42.70%|\\-22.20%|\n|Telecommunications|1.70%|2.20%|\\-0.50%|\n\n  \nIt's traded leading/lagging VOO in the last few years, and sure, the expense ratio is \\~4x as much, but what am I missing about why to or not to invest in it? This seems like a more reasonable, diversified allocation of sectors than VOO currently is, no?",
-    "subreddit": "investing",
-    "created_utc": 1792093035,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "So you want to pay more in expense ratio, and get worse returns? Knock yourself out",
-        "score": 7,
-        "author": "Immediate-Run-7085"
-      },
-      {
-        "body": "If we're really in an AI bubble, wouldn't reducing exposure to tech would be a good thing?",
+        "body": "They reported early 2027. So as someone pointed out, not a good return on risk. I could sell and get bonds that return the same, or better, without the risk.\n\nAs someone else pointed out, I may do this just so the tax event happens this year. Now gotta go see if there's anything to tax loss harvest to offset it.",
         "score": 2,
-        "author": "kurai-tsuki"
+        "author": "but_i_dont_reddit"
       },
       {
-        "body": "Why do you say tech is overweight? You just want everything to be equal for no reason? They already nerfed tech putting Google and Meta in communications.",
+        "body": ">there any advantage to unloading it before?\n\nThere is always the chance the deal will fall through ; now even if there is no chance the deal fall through there is still the time value of money\n\nIf the deal closes  in 6 months well it wouldn't make sense for the stock to trade at exactly the buy out price. Who would buy the stock and hold it for 6 months for zero return? No one because you could also just put money into a money market account and get some return over 6 months\n\nIn general the stock will sort of act as a bond at this point , a bond that matures in 6 months at $X price\n\nSo the price will slowly rise to as the buy out date approaches just due to the time value of money; there also may be a wider spread if the market thinks there is a chance the deal will not go through",
         "score": 2,
-        "author": "cosmic_backlash"
+        "author": "SirGlass"
       }
     ],
-    "summary_he": "הכותב בוחן את קרן הסל VFQY כחלופה ל-VOO, במטרה להפחית את החשיפה הדומיננטית של מדד ה-S&P 500 למגזר הטכנולוגיה. הקרן מתמקדת במניות \"איכות\" בעלות איתנות פיננסית ומציעה פיזור סקטוריאלי מאוזן יותר, אך כרוכה בדמי ניהול גבוהים פי ארבעה. הפוסט מבקש לברר האם היתרון שבגיוון מצדיק את העלות הנוספת והאם קיימים חסרונות שהכותב החמיץ.",
+    "summary_he": "המשתמש מחזיק במניות של חברה שעומדת להירכש על ידי קרן השקעות ולהפוך לפרטית תמורת מחיר מזומן קבוע מראש. הוא מתלבט האם למכור את המניות כעת, כשהן נסחרות במחיר הנמוך בכ-2% ממחיר הרכישה, או להמתין להשלמת העסקה כדי לקבל את מלוא הסכום. מטרת הפוסט היא להבין אם ישנם יתרונות או שיקולים נוספים למכירה מוקדמת שהוא אינו מודע אליהם.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות המובילות, המציג נקודות מבט שונות של חברי הקהילה:\n\n*   **חשש מעלויות גבוהות וביצועים נמוכים:** אחד המגיבים מזהיר מפני המהלך המוצע, בטענה שהוא יוביל לתשלום דמי ניהול (Expense Ratio) גבוהים יותר ובו בזמן יניב תשואות נמוכות יותר מהשוק, מה שהופך את ההשקעה לפחות משתלמת.\n*   **התגוננות מפני \"בועת AI\":** הועלתה נקודת מבט המצדיקה את צמצום החשיפה לטכנולוגיה; אם השוק נמצא כרגע בבועת בינה מלאכותית, הרי שהקטנת משקל המגזר בתיק היא אסטרטגיה הגיונית לניהול סיכונים.\n*   **ערעור על הגדרת \"משקל היתר\":** קיימת ביקורת על ההנחה שהטכנולוגיה תופסת נפח גדול מדי בתיק. מגיב אחד תהה מדוע יש צורך לשאוף לאיזון שווה בין המגזרים אם אין לכך סיבה כלכלית מהותית.\n*   **השפעת שינויי סיווג המגזרים (GICS):** צוין כי חברות ענק כמו גוגל (Alphabet) ומטא כבר אינן מסווגות רשמית תחת מגזר הטכנולוגיה אלא תחת מגזר התקשורת. מהלך זה כבר \"החליש\" (Nerfed) את הדומיננטיות הרשמית של מגזר הטכנולוגיה במדדים.\n*   **ספקנות כלפי אסטרטגיית משקל שווה:** הובעה הסתייגות מהרצון \"להשוות הכל\" ללא הצדקה, תוך רמיזה שחשיפת יתר למגזרים מסוימים עשויה להיות מוצדקת על בסיס ביצועיהם.\n*   **סנטימנט של זלזול בשינוי האסטרטגיה:** חלק מהקהילה מגיב בציניות לניסיון להתרחק מהטכנולוגיה, מתוך תפיסה שהיצמדות למדדים המקובלים היא הדרך הנכונה ביותר וכל ניסיון \"להתחכם\" יעלה למשקיע ביוקר.",
-    "dateString": "2026-10-16",
-    "savedAt": {
-      "_seconds": 1792149019,
-      "_nanoseconds": 237000000
-    }
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit, המציג 6 נקודות מבט ושיקולים מרכזיים בנוגע לשאלה האם למכור מניה לפני השלמת עסקת רכישה (Buyout):\n\n*   **עלות הזדמנות מול תשואה בטוחה:** אחד השיקולים המרכזיים הוא השוואת ה\"מרווח\" שנותר במניה (ההפרש בין המחיר הנוכחי למחיר הרכישה) לאפיקי השקעה אחרים. אם ניתן לקבל תשואה גבוהה יותר באפיקים בטוחים כמו אגרות חוב ממשלתיות (T-bills), עדיף למכור את המניה ולהשקיע את הכסף בהם.\n*   **ניהול סיכוני עסקה:** תמיד קיים סיכון שהעסקה תתבטל ברגע האחרון. במקרה כזה, מחיר המניה צפוי לצנוח משמעותית (\"Tank\"). מכירה מוקדמת מאפשרת \"לנעול\" את הרווח ולנטרל את הסיכון שהעסקה לא תצא לפועל.\n*   **יחס תשואה-סיכון בטווח ארוך:** כאשר מועד השלמת העסקה רחוק מאוד (למשל, תחילת 2027), ההחזקה במניה נתפסת כהשקעה לא משתלמת. בפרק זמן כזה, הסיכון שהעסקה תתקל בקשיים אינו מצדיק את התשואה המוגבלת שניתן להפיק ממנה.\n*   **שיקולי מס ותזמון רווחים:** המועד שבו בוחרים למכור את המניה (לפני או אחרי ה-1 בינואר) משפיע על שנת המס שבה יוכרו רווחי ההון. משקיעים עשויים למכור כעת כדי לרשום את הרווח בשנה הנוכחית או להמתין כדי לדחות את תשלום המס לשנה הבאה.\n*   **קיזוז הפסדים (Tax Loss Harvesting):** מכירה מוקדמת של המניה ברווח יכולה להיות מהלך אסטרטגי אם למשקיע יש הפסדים אחרים בתיק שאותם הוא יכול לקזז מול הרווח הזה, ובכך להקטין את חבות המס הכוללת שלו.\n*   **התנהגות המניה כ\"אגרת חוב\":** מרגע שהוכרזה עסקת רכישה, המניה מתחילה להתנהג כמו אגרת חוב עם מועד פירעון. מחירה יעלה בהדרגה לכיוון מחיר הרכישה ככל שמועד הסגירה יתקרב (בשל ערך הזמן של הכסף), אך היא תמיד תיסחר בנחה מסוימת המשקפת את רמת הסיכון שהעסקה לא תושלם."
   },
   {
-    "id": "1x6s0aq",
-    "title": "Should I move money from a wealth management service to my personal investing accounts?",
-    "url": "https://www.reddit.com/r/investing/comments/1x6s0aq/should_i_move_money_from_a_wealth_management/",
-    "author": "Flynerz",
-    "score": 5,
-    "selftext": "So when I was a child, my parents put money aside for me after selling our first house. This money has since been in a wealth management service. Now that I am older and have started to get into investing, is it recommended that I take this money out and invest it myself in lower risk ETF's? I don't really understand it all too much, but I'd imagine that the fee's tied with the wealth management service would be far higher than managing it myself. \n\n  \nAny advice would be helpful!",
+    "id": "1x7k1xb",
+    "title": "Tech ETFs for the Long Run??",
+    "url": "https://www.reddit.com/r/investing/comments/1x7k1xb/tech_etfs_for_the_long_run/",
+    "author": "Significant-Banana62",
+    "score": 3,
+    "selftext": "For those who have been investing for a while, I’m curious how you think the tech sector will look over the next 10–20 years compared to the broader market. I’ve been looking into different ETFs and find VGT interesting, especially given how much technology has grown over the past few years. At the same time, I wonder whether that level of growth is sustainable long term.  \nWhat other ETFs do you find interesting for long term investing, particularly ones focused on growth or sectors you think have potential over the next couple of decades? I’d be interested to hear what people are watching and why.",
     "subreddit": "investing",
-    "created_utc": 1792085466,
+    "created_utc": 1792166336,
     "thumbnail": "self",
     "top_comments": [],
-    "summary_he": "הכותב מתלבט אם להעביר כספים שנחסכו עבורו בילדותו משירות ניהול עושר לחשבון השקעות אישי בניהולו. הוא מעוניין להשקיע בעצמו בקרנות סל (ETFs) בעלות סיכון נמוך, בעיקר כדי להימנע מדמי הניהול הגבוהים של השירות המקצועי. המטרה שלו היא להבין אם צעד כזה מומלץ עבור מי שרק מתחיל את דרכו בעולם ההשקעות.",
+    "summary_he": "הכותב מתעניין בעתיד מגזר הטכנולוגיה בטווח הארוך (10–20 שנה) ותוהה האם הצמיחה המרשימה של השנים האחרונות בת-קיימא. הוא מבקש המלצות על תעודות סל (ETFs) ממוקדות צמיחה, כמו VGT, או על מגזרים אחרים בעלי פוטנציאל משמעותי לעשורים הקרובים.",
     "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-10-16",
-    "savedAt": {
-      "_seconds": 1792149024,
-      "_nanoseconds": 622000000
-    }
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1x6r4x2",
-    "title": "nontraded BDCs are paying out roughly half of redemption requests. how much do you trust the NAV?",
-    "url": "https://www.reddit.com/r/investing/comments/1x6r4x2/nontraded_bdcs_are_paying_out_roughly_half_of/",
-    "author": "Altinvfinance",
-    "score": 4,
-    "selftext": "fitch had q3 redemption requests at 13 of the 15 perpetual nontraded BDCs averaging 9.8% of shares, against the usual 5% quarterly cap. so if you asked out, you got roughly half. at the same time Cox Capital's tender for BCRED was $20.65 a share against an aug 31 NAV of $23.60, about 12.5% under, and in july they were bidding around 25% under NAV on HLEND.\n\ni get that a tender buyer wants a discount for liquidity, and Cox says its prices track where the public BDCs trade. but if the fund says 23.60 and the only cash bid outside the fund is 20.65, at some point the gate is part of the price. for people who hold these or compare them against the listed BDCs, which number do you actually use?",
-    "subreddit": "investing",
-    "created_utc": 1792083543,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I treat that NAV as a mark on the loans, not as a price I could actually exit at. When requests are running near 9.8% against a 5% cap, the queue itself is information — the holders closest to these funds want out at NAV, which makes that tender bid feel like the more honest reality check to me.",
-        "score": 1,
-        "author": "gulfstream-intel"
-      },
-      {
-        "body": "I think the 12.5% gap between the 23.60 NAV and the 20.65 tender is the more honest number for anyone who actually wants out. NAV is the manager's mark on loans that rarely trade, while the tender is a real cash bid. Fitch showing 9.8% redemption requests against a 5% cap means the gate is doing the pricing work. If the loans were truly worth 23.60, I'd expect a buyer to pay closer to that. My rough rule would be to treat NAV as the optimistic case and the tender price as the stress case, and compare both to where listed BDCs like ARCC trade versus their own NAV.",
-        "score": 1,
-        "author": "akishore"
-      },
-      {
-        "body": "Read the fine print. 5% redemption is norm.\n\nMaybe also watch \"The big short\" and understand why funds limit redemptions.",
-        "score": 1,
-        "author": "CornerOne238"
-      }
-    ],
-    "summary_he": "הפוסט דן בבעיית הנזילות בקרנות BDC לא נסחרות, שבהן בקשות הפדיון חורגות מהמגבלה הרבעונית והמשקיעים מקבלים בפועל רק כחצי מכספם. המחבר מצביע על פער משמעותי בין שווי הנכסים הנקי (NAV) הרשמי לבין הצעות רכישה בשוק המשני הנמוכות ב-12.5%-25%, ותוהה האם ניתן לסמוך על ה-NAV המוצהר כאשר הנזילות כה מוגבלת.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וסנטימנטים מרכזיים שעלו מהתגובות:\n\n*   **הסתייגות משווי הנכסים המוצהר (NAV):** חברי הקהילה רואים ב-NAV (שווי נכסי נקי) הערכה חשבונאית אופטימית של מנהלי הקרן על הלוואות שאינן נסחרות לעיתים קרובות, ולא כמחיר שניתן באמת לקבל בעת יציאה מההשקעה.\n*   **הצעת הרכש (Tender) כמדד למציאות:** הפער של כ-12.5% בין ה-NAV למחיר הצעת הרכש נתפס כ\"בדיקת מציאות\" כנה יותר. בעוד שה-NAV הוא מספר תיאורטי, הצעת הרכש מייצגת מחיר מזומן אמיתי בשוק תחת לחץ.\n*   **ניתוח תור הפדיונות כמידע קריטי:** העובדה שבקשות הפדיון עומדות על 9.8% בעוד המגבלה (Cap) היא 5% בלבד, מעידה על כך שהמשקיעים הקרובים ביותר לקרן \"רוצים החוצה\". התור עצמו נתפס כמידע משמעותי על חוסר האמון בנכס.\n*   **תפקידן של מגבלות הפדיון (Gates):** נטען כי המגבלות על משיכת הכספים הן אלו שמתחזקות באופן מלאכותי את המחיר. אם הנכסים היו שווים באמת את מחיר ה-NAV, קונים היו מוכנים לשלם מחיר קרוב לכך ולא לדרוש הנחה משמעותית.\n*   **השוואה למדדים ציבוריים (BDC):** מוצעת שיטת עבודה לפיה יש להתייחס ל-NAV כמקרה האופטימי ולמחיר הצעת הרכש כמקרה הקיצון (Stress case), תוך השוואה לביצועים של חברות פיתוח עסקי ציבוריות (כמו ARCC) הנסחרות בבורסה.\n*   **הבנת המנגנון בתעשייה:** חלק מהמגיבים מדגישים כי מגבלת פדיון של 5% היא נורמה סטנדרטית בקרנות כאלו. ישנה התייחסות לסרט \"מכונת הכסף\" (The Big Short) כדוגמה המחישה מדוע קרנות מגבילות פדיונות כדי למנוע קריסה והנזלה כפויה של נכסים."
-  },
-  {
-    "id": "1x76tut",
-    "title": "Monstrosity aside, how good was Jeffrey Epstein in finance?",
-    "url": "https://www.reddit.com/r/finance/comments/1x76tut/monstrosity_aside_how_good_was_jeffrey_epstein_in/",
-    "author": "Doctorazy",
+    "id": "1x8a6fu",
+    "title": "Can anyone tell me how much I’ll get back from my shares after the buyout?",
+    "url": "https://www.reddit.com/r/finance/comments/1x8a6fu/can_anyone_tell_me_how_much_ill_get_back_from_my/",
+    "author": "CrabbyGoose",
     "score": 1,
-    "selftext": "Was he innately talented or a very sociable and like-able one amongst his peers?",
+    "selftext": "My company is being bought and we are all losing our shares, this is my life savings (or my first attempt at it) and I need to know how much I’ll end up with.\n\nIssue is I run 3 save as you earns and have one BAYE also.\n\nBuyout rate is £7.15\n\nIf anyone can make sense of it id appreciate the help",
     "subreddit": "finance",
-    "created_utc": 1792125057,
-    "thumbnail": "https://preview.redd.it/6xnjmy9wbrvh1.jpeg?width=140&height=78&auto=webp&s=eace1023fc1db9efffe88f5ed5a0f64000b4d0cf",
+    "created_utc": 1792243451,
+    "thumbnail": "https://preview.redd.it/5qr7l3wx31wh1.jpg?width=140&height=140&crop=1%3A1%2Csmart&auto=webp&s=a22d2470e9c42a9d978384ec81a6827516cb1c9a",
+    "top_comments": [
+      {
+        "body": "As for the options, they have a 'strike price' or 'exercise price' which as far as I can make out is £3.92 (5862÷1497). Your profit is the excess value over this amount. On these options, that will be £3.23 each (7.15−3.92). \n\nRight now the 'potential gain' line you see is calculated using the lower £6.83 current value (6.83-3.92)*1497 ≈ 4,368.\n\nEdit: I see you paid £1,880 for these options so your true profit (gain) so far also had to subtract that out.",
+        "score": 1,
+        "author": "snakkerdudaniel"
+      }
+    ],
+    "summary_he": "הכותב מבקש עזרה בחישוב הסכום שיקבל עבור המניות שברשותו בעקבות רכישת החברה שבה הוא עובד, המהוות את עיקר חסכונותיו. הוא מחזיק במספר תוכניות הטבה לעובדים (SAYE ו-BAYE) ומעוניין להבין כמה כסף יקבל בפועל לפי מחיר רכישה של 7.15 ליש\"ט למניה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והניתוח של הנקודות המרכזיות שעלו מהתגובות, בעברית:\n\n*   **חישוב מחיר המימוש (Strike Price):** המגיב מנתח את הנתונים ומסביר כיצד להסיק את מחיר המימוש מתוך סך הנתונים (במקרה זה, £3.92 ליחידה), דבר החיוני להבנת נקודת האיזון של ההשקעה.\n*   **מדידת הרווח ליחידה בודדת:** הדיון מפרק את הרווח הגולמי לכל אופציה, ומדגיש כי הרווח הוא ההפרש שבין הערך הנוכחי בשוק (£7.15) לבין מחיר המימוש (£3.92), מה שיוצר רווח של £3.23 לכל יחידה.\n*   **הסבר על פערים בתצוגת הרווח באפליקציות מסחר:** המגיב מסביר מדוע שורת ה\"רווח הפוטנציאלי\" שהמשתמש רואה עשויה להיות נמוכה יותר מהחישוב הידני; זאת משום שהמערכת משתמשת לעיתים בערך שוק נמוך יותר או מעודכן פחות (במקרה זה £6.83) לצורך חישוב הערכות זהירות.\n*   **הבחנה בין רווח \"על הנייר\" לרווח נקי (True Profit):** קיימת הדגשה חשובה על כך שעליית ערך הנכס אינה הרווח הסופי. כדי להבין מהו \"הרווח האמיתי\", יש להחסיר מהסכום שהתקבל את עלות הרכישה הראשונית של האופציות (הפרמיה ששולמה).\n*   **חשיבות המעקב אחר עלויות הרכישה:** המגיב מציין כי המשתמש שילם £1,880 עבור הזכות להחזיק באופציות הללו, וזוהי הוצאה שחייבת להיכלל במאזן הכולל כדי לא לייצר מצג שווא של רווח גבוה מדי.\n*   **סנטימנט של הדרכה ופישוט פיננסי:** הקהילה מפגינה נכונות לעזור למשקיעים מתחילים להבין מושגים מורכבים. במקום רק לתת שורה תחתונה, המגיב מפרק את המתמטיקה שמאחורי האופציות כדי להעניק למשתמש כלים לניתוח עצמאי של השקעותיו בעתיד."
+  },
+  {
+    "id": "1x8zzp4",
+    "title": "Bitcoin Analysis, Momentum, and Four-Year Conjecture (2030)",
+    "url": "https://www.reddit.com/r/investing/comments/1x8zzp4/bitcoin_analysis_momentum_and_fouryear_conjecture/",
+    "author": "securityguardnard",
+    "score": 1,
+    "selftext": "[](https://www.reddit.com/r/wallstreetbets/?f=flair_name%3A%22Discussion%22)\n\n# Bitcoin analysis as of Oct 18, 2026\n\nBitcoin is trading at about **$81,700**, roughly 35% below its all-time high of about $126,000 (Oct 6, 2025).\n\n|Window|Start price|Change to today|High|Low|\n|:-|:-|:-|:-|:-|\n||\n||||||\n|Since inception (Oct 2009)|\\~$0.001\\*|\\~+8.2 billion %|\\~$126,000|\\~$0|\n|10 years (Oct 2016)|\\~$640\\*|\\~+12,700% (\\~62%/yr)|\\~$126,000|\\~$600\\*|\n|5 years (Oct 2021)|\\~$61,500\\*|\\~+33% (\\~6%/yr)|\\~$126,000|\\~$15,500\\*|\n|1 year (Oct 2025)|\\~$108,000|**-24.5%**|\\~$110,000\\*|\\~$57,800|\n|6 months (Apr 2026)|\\~$75,500\\*|**+8%**|\\~$87,250|\\~$57,800|\n|3 months (Jul 18)|\\~$64,800|**+26%**|\\~$87,250|\\~$62,800|\n|1 month (Sep 18)|\\~$80,000\\*|**\\~+2%**|\\~$87,250|\\~$80,300|\n|1 week (Oct 11)|\\~$83,000|**-1.6%**|\\~$84,100|\\~$80,700|\n|Today|\\~$81,400|**\\~+0.2%**|\\~$81,960|\\~$80,655|\n\n# What drove each window\n\n* **Since inception:** Bitcoin went from a tenth of a cent to six figures. The big steps were the 2011, 2013, 2017, 2021 and 2025 cycle peaks, each followed by a crash of 50% to 93%. Spot ETFs were approved in 2024.\n* **10 years:** This window includes most of the early-cycle gains. The growth rate has faded as the asset has grown.\n* **5 years:** You’d be up about 33%, or roughly 6% a year, even though the price is far above the 2021 low. The 2021 peak (\\~$69k) was followed by a 2022 crash and then the 2025 high.\n* **1 year:** The decline reflects the post-peak correction. A Feb 2026 selloff took the price to about $63,000, with drivers cited including the U.S.–Iran crisis and money rotating from Bitcoin ETFs into AI stocks. The low came in June at about $57,800, when the price fell about 18% in the month and the Fear & Greed Index hit “Extreme Fear” (15).\n* **6 months:** The price rose from about $75,000 to a peak near $83,000 in May. It then dropped to the June low and recovered sharply.\n* **3 months:** This is the rebound. August gained about 25% and September about 8%, and sentiment moved from fear toward greed.\n* **1 month:** September’s rally topped out around $86,600 on Sep 21, after the Fed raised rates to 3.75–4.00% on Sep 16, and the price has chopped sideways since. Headwinds include August CPI at 3.4%, Brent crude near $103, and the failed CLARITY Act Senate vote.\n* **1 week:** The price slipped about 3% in the first part of the week. A weak September jobs report (+29k) briefly lifted it, but spot ETFs saw about $681 million in net outflows over Oct 5–9, and about $1 billion in profit-taking was reported around Oct 8.\n* **Today:** Very thin weekend trading, with about 657 BTC of volume on Kraken. Nothing is moving the price until US ETF flow data and futures markets reopen Monday. Upcoming catalysts are the FOMC decision on Oct 28 and Deribit options expiry on Oct 30.\n\n# Summary\n\nThe longer trend is still strongly up, but returns have been shrinking cycle after cycle. The 1-year picture is negative because the price is still recovering from the October 2025 peak. Over the past 3 to 6 months it has rebounded about 26% from the summer lows and is now stuck in a range of roughly $80,000 to $87,000. Short-term direction depends on the Fed, inflation and oil, and ETF flows. Some analysts say Bitcoin has exited its bear market, citing a move back above its 365-day moving average. Others point out that the all-time high is still far away, and none of this is a forecast. This is analysis, not financial advice.\n\n# My Guess\n\n**It will be $165,000 for a Bitcoin in 4 years (2030).**\n\n",
+    "subreddit": "investing",
+    "created_utc": 1792319660,
+    "thumbnail": "self",
     "top_comments": [],
-    "summary_he": "הפוסט דן ביכולותיו המקצועיות של ג'פרי אפשטיין בתחום הפיננסים, במנותק ממעשיו הפליליים. הכותב תוהה האם הצלחתו נבעה מכישרון פיננסי מולד, או שמא היא התבססה בעיקר על כישוריו החברתיים ועל היותו דמות כריזמטית ומקושרת בקרב עמיתיו.",
+    "summary_he": "הפוסט מנתח את מצב הביטקוין באוקטובר 2026, המצוי במגמת התאוששות סביב מחיר של 81,700 דולר לאחר שצנח משיא של 126,000 דולר בשנה הקודמת. בעוד שהתנודתיות בטווח הקצר מושפעת מנתוני אינפלציה, ריבית וזרימת כספים בקרנות סל (ETF), המגמה ארוכת הטווח נותרת חיובית למרות ירידה בשיעורי הצמיחה בין המחזורים. הכותב מסכם בתחזית אופטימית לפיה מחיר המטבע עשוי להגיע ל-165,000 דולר עד שנת 2030.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1x8vsug",
+    "title": "Tech equipment and software investment is 5.1% of GDP, above its 2000 level",
+    "url": "https://www.reddit.com/r/investing/comments/1x8vsug/tech_equipment_and_software_investment_is_51_of/",
+    "author": "dagilisek",
+    "score": 1,
+    "selftext": "BEA has private fixed investment in information processing equipment and software at $1.646 billion a yr in the 2nd qtr, which is 5.05% of GDP. In the 4th qtr of 2000 it was 4.46% but it passed that level in the 2nd qtr of 2025 and has gone up every qtr since.\n\nThe mix is different; hardware is 2.57% of GDP now against 2.91% back then and software is 2.49% against 1.55%.\n\nWhether the companies spending it are profitable is a separate question from how much of the economy it is. By this measure it's already a bigger bet than 2000, whatever the earnings are.",
+    "subreddit": "investing",
+    "created_utc": 1792303927,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "ההשקעה בציוד טכנולוגי ובתוכנה הגיעה לשיא של 5.1% מהתוצר (GDP), נתון הגבוה מהרמות שנרשמו בשנת 2000 בשיא בועת הדוט-קום. בעוד שההשקעה בחומרה ירדה מעט ביחס לעבר, ההשקעה בתוכנה צמחה משמעותית ומהווה כעת נתח מרכזי מההוצאה, מה שמעיד על הימור כלכלי רחב היקף על המגזר הטכנולוגי.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1x8rtgh",
+    "title": "Federal Reserve October and December meetings",
+    "url": "https://www.reddit.com/r/investing/comments/1x8rtgh/federal_reserve_october_and_december_meetings/",
+    "author": "Background-Day-4957",
+    "score": 1,
+    "selftext": "Rate hikes\n\nSo, if the FOMC avoids a rate hike in October before the midterm elections to avoid being political, will they make it up with a 50 basis point hike, instead of 25, in December?  Assuming inflation is still running above target. Any thoughts? 🤔 ",
+    "subreddit": "investing",
+    "created_utc": 1792290352,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "The dirty secret is that the Fed doesn't play \"makeup math.\" They aren't going to skip a hike just to slap down an extra 25 basis points in December like a parent settling a score. Ironically, altering rate decisions just to skirt the midterms would scream political interference—the exact accusation Powell spends every single press conference sweating to avoid.\n\nThe unglamorous reality is that the FOMC cares about terminal rates and bond market plumbing, not exit polls. If they pause, it’s because credit spreads blew out or repo liquidity dried up. If they hit the market with 50 bps, it’s because core data refused to die. Stop trying to game DC political calendars and just watch the 2-year Treasury—it always fronts the Fed’s actual hand anyway.",
+        "score": 12,
+        "author": "Necessary-File-7064"
+      },
+      {
+        "body": "ha, \"won't open the Strait of Hormuz\" is a perfect way to put it, i'm stealing that\n\n  \nthe idea that the fed would crank it to 50 just because they waited a month feels like revenge hiking, not policy. if core inflation is already cooling a bit they'd just be smashing the economy for theater\n\n  \nmarkets would see a 50bp in december as a panic move anyway, like they realized they were behind the curve. i think they'd rather do 25 and then another 25 early next year if they have to, keeps the narrative calm\n\n  \nbut who knows, my investment strategy is basically leaving my 401k alone and hoping for the best",
+        "score": 3,
+        "author": "TowelFluid8010"
+      },
+      {
+        "body": "I'm hopeful they do their job and deliver a hike this month.",
+        "score": 2,
+        "author": "Celcius_87"
+      }
+    ],
+    "summary_he": "הפוסט דן בשאלה האם הפדרל ריזרב יימנע מהעלאת ריבית באוקטובר כדי לשמור על ניטרליות פוליטית לקראת בחירות האמצע בארה\"ב. הכותב תוהה האם במקרה כזה תתבצע העלאה משמעותית יותר של 50 נקודות בסיס בדצמבר כדי לפצות על כך, בהנחה שהאינפלציה תיוותר גבוהה מהיעד.",
+    "category_he": "כלכלה",
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות בשרשור, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה:\n\n*   **ניתוק מהזירה הפוליטית:** הקהילה מדגישה כי הפדרל ריזרב (הפד) אינו מקבל החלטות על בסיס לוח הזמנים הפוליטי או בחירות האמצע. נטען כי שינוי שיעורי הריבית רק כדי להימנע מהשפעה פוליטית ייחשב כשלעצמו כהתערבות פוליטית – דבר שיו\"ר הפד, ג'רום פאואל, מתאמץ מאוד להימנע ממנו.\n*   **התמקדות במדדים טכניים וריאליים:** בניגוד לפרשנויות פוליטיות, נטען כי הגורמים האמיתיים שמשפיעים על החלטות ה-FOMC הם נתונים יבשים כמו נזילות בשוק הריפו (Repo), מרווחי אשראי ושיעורי הריבית הסופיים (Terminal rates).\n*   **התנגדות ל\"ריבית כעונש\" או פיצוי:** הועלתה הסברה שהפד לא מבצע \"מתמטיקה של פיצוי\". כלומר, הוא לא יעלה את הריבית ב-50 נקודות בסיס בבת אחת רק כדי \"לפצות\" על חודש שבו הוא לא העלה ריבית. מהלך כזה נתפס כפעולה תיאטרלית שעלולה לרסק את הכלכלה ללא צורך.\n*   **חשש משידור פאניקה לשווקים:** קיימת דעה שהעלאה חדה של 50 נקודות בסיס בדצמבר תתפרש על ידי המשקיעים כצעד של פאניקה. השוק עלול להסיק מכך שהפד מבין שהוא \"נרדם בשמירה\" ואיבד את השליטה על האינפלציה, ולכן עדיפה העלאה מתונה של 25 נקודות כדי לשמור על נרטיב רגוע.\n*   **האג\"ח לשנתיים כמנבא העיקרי:** אחד המגיבים מציע להפסיק לנסות \"לנחש\" את המהלכים של וושינגטון ופשוט לעקוב אחרי התשואות של איגרות החוב הממשלתיות לשנתיים, שכן הן משקפות את הצעדים העתידיים של הפד בצורה המדויקת ביותר.\n*   **שאיפה לנחישות אל מול אסטרטגיה פסיבית:** בעוד שחלק מהגולשים מביעים תקווה שהפד פשוט \"יעשה את העבודה שלו\" ויעלה את הריבית כבר החודש כדי לרסן את המצב, אחרים מודים שהאסטרטגיה שלהם היא פשוט להתעלם מהרעש, להשאיר את קרנות הפנסיה (401k) ללא שינוי ולקוות לטוב."
+  },
+  {
+    "id": "1x8q1yt",
+    "title": "The AI selloff isn’t about demand, it’s about the cost of money and if the biggest spenders can afford to build.",
+    "url": "https://www.reddit.com/r/investing/comments/1x8q1yt/the_ai_selloff_isnt_about_demand_its_about_the/",
+    "author": "OilAny787",
+    "score": 1,
+    "selftext": "I’ve seen a lot of bubble finally popping takes this weekend and I don’t think they’re reading the week right, so I want to lay out what I think actually happened.\n\nThe chip index fell 11.4% last week, its worst since April 2025. But look at where the damage started, September CPI came in at 3.7% against 3.6% expected, the Fed already hiked in September, and the 10 year touched 5.36% the week before, a 24 year high. In that environment the first things to break were the companies funding AI infrastructure with debt rather than operating cash flow. CoreWeave has over $51B of debt and obligations, and its 2031 bonds went above 15%. Goldman has AI related high yield spreads above 350bp, and data centre debt specifically above 400bp, against roughly 250bp for comparable non AI credit. \n\nThe popular bear case deserves a fair hearing, the IMF flagged roughly $650B of debt tied to $1.4T of AI revenue commitments, much of it circular, where backers fund the companies that then commit to buy from them. If rates stay above 5%, a lot of projects that penciled out at 4% stop working. That’s a legitimate reason to de rate the whole complex.\n\nWhere I disagree is the indiscriminate selling, Ciena and Coherent each fell 26% on the week. Micron fell 15% while trading on about 12x trailing earnings, against Marvell near 78x. The selloff treated cash generating suppliers the same way it treated the leveraged buyers of their products. Those are different risks, and I think the market will separate them once it gets one clean data point.\n\nThat data point is Meta on Wednesday, revenue is guided at $61-64B and consensus sits around $63.3B, so revenue probably isn’t the story. The story is that Meta’s Q2 free cash flow fell to $784 million, from $10.6B in Q3 last year, as capex ran at about $51B through the first half. 2026 capex is guided at $130-145B, and the Street has 2027 somewhere around $185-195B.\n\nIf Meta guides 2027 capex above $200B without Q3 free cash flow recovering meaningfully, the debt funded names have another leg down and the suppliers follow. If cash flow rebounds and the 2027 number lands near consensus, I expect the cash funded part of the trade to recover first, while the neoclouds stay broken until rates come down.\n\nThe thing I’m genuinely unsure about is the Fed, hike odds for the late October meeting are only around 15% now, but another hot energy driven print in November changes everything above.\n\nMeta isn't the only one reporting next week, the stack is full with SPCX, TSLA, IBM, BE, IBM and many more providing read throughs for my book.",
+    "subreddit": "investing",
+    "created_utc": 1792284832,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "הפוסט טוען כי הירידות האחרונות במניות הבינה המלאכותית (AI) אינן נובעות מירידה בביקוש, אלא מהריבית הגבוהה ומעלויות המימון הכבדות המעיקות על חברות המסתמכות על חוב. לדעת הכותב, השוק מעניש כרגע ללא הבחנה הן את הספקיות הרווחיות והן את החברות הממונפות, כאשר דוחות \"מטא\" הקרובים יהיו אירוע מפתח שיקבע אם המשקיעים יחזרו להבדיל ביניהן על פי תזרים המזומנים שלהן.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1x8orcn",
+    "title": "I kept overriding my own exits, so I took myself out of execution",
+    "url": "https://www.reddit.com/r/investing/comments/1x8orcn/i_kept_overriding_my_own_exits_so_i_took_myself/",
+    "author": "MSR8",
+    "score": 1,
+    "selftext": "I spent weeks backtesting a strategy with a hard stop. Then a single red candle appeared, I told myself \"this time is different,\" and manually closed the trade. I knew exactly what I was doing and did it anyway.\n\nTo fix this, I completely removed myself from execution. My own alerts now fire directly to the broker, and the equities side runs on Kronos Trading: a fully automated strategy that's non-custodial and executes straight inside my personal Alpaca account.\n\nThe urge to manually close early hasn't disappeared. Good code doesn't erase human psychology, but automation stops me from acting on it and ruining my edge.\n\n",
+    "subreddit": "investing",
+    "created_utc": 1792280947,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Very blatant ad. Can admins delete this?",
+        "score": 7,
+        "author": "LaPulgaAtomica87"
+      },
+      {
+        "body": "This is investing not day trading ",
+        "score": 2,
+        "author": "FewUnderstanding2214"
+      },
+      {
+        "body": "Ads get smarter every year, this one dressed up like a therapy session\n\n  \nAlpaca is legit for retail automation but the other platform name drop make the whole post feel like a scripted testimonial. Real traders don't talk like that",
+        "score": 2,
+        "author": "Alone_Perception_241"
+      }
+    ],
+    "summary_he": "הסוחר החליט לעבור למסחר אוטומטי לחלוטין לאחר שהתקשה להיצמד לכללי האסטרטגיה שלו ונטה לסגור עסקאות ידנית בשל דחפים רגשיים. למרות שהדחף להתערב עדיין קיים, האוטומציה מונעת ממנו לפעול על פי רגש ובכך היא שומרת על היתרון הסטטיסטי של האסטרטגיה שלו לאורך זמן.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ורגשות שונים שעלו מצד הגולשים:\n\n* **זיהוי הפוסט כתוכן שיווקי:** קיימת הסכמה רחבה בקרב המגיבים שמדובר בפרסומת בוטה ולא בפוסט תמים, עד כדי דרישה מהמנהלים להתערב ולמחוק אותו.\n* **תחכום בשיטות השיווק:** אחד הגולשים מציין כי פרסומות הופכות למתוחכמות יותר עם השנים, ובמקרה זה הפרסומת \"מתחפשת\" לשיחה אישית או לפורמט של מפגש טיפולי כדי לעורר אמון.\n* **הבחנה מקצועית בין סוגי מסחר:** עלתה טענה כי התוכן המוצג עוסק ב\"השקעות\" ולא ב\"מסחר יומי\" (Day Trading), מה שמעיד על חוסר דיוק מקצועי של כותב הפוסט המקורי.\n* **הכרה באיכות של פלטפורמות מסוימות:** למרות הביקורת על הפוסט, הגולשים מציינים לחיוב את Alpaca כפלטפורמה לגיטימית ואמינה עבור אוטומציה של מסחר קמעונאי.\n* **חשדנות כלפי \"ניים-דרופינג\" (Name Dropping):** אזכור שמות של פלטפורמות ספציפיות לצד Alpaca עורר תחושה שמדובר בטקסט מוזמן ומתוסרט (\"Testimonial\") ולא בהמלצה כנה של משתמש.\n* **חוסר אותנטיות בשפה:** הקהילה חשה שהסגנון והניסוח של הפוסט אינם תואמים את האופן שבו סוחרים אמיתיים מדברים ביומיום, מה שמחזק את התחושה שמדובר בתוכן מזויף."
+  },
+  {
+    "id": "1x8my82",
+    "title": "Parking uninvested cash in low yield (HYSA/T-Bills/CDs) until making strategy decisions",
+    "url": "https://www.reddit.com/r/investing/comments/1x8my82/parking_uninvested_cash_in_low_yield/",
+    "author": "interpreterdotcourt",
+    "score": 1,
+    "selftext": "Wondering what a reasonable time frame is to have cash sitting in fixed income cash type accounts. My interpretation of fixed income accounts is HYSAs, CDs, T Bills. If the cash is a more significant amount, what would be an unreasonably long time frame to keep it in such account types that really only barely stay ahead of inflation? ",
+    "subreddit": "investing",
+    "created_utc": 1792275760,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "As long as you need while making decisions.   \nJust actually make the decision at some point. ",
+        "score": 6,
+        "author": "WhileNotLurking"
+      },
+      {
+        "body": "I have RobinHood Gold, where I can just park unused funds at 3.6%. \n\nBut time in the market beats TIMING the market. \n\nThats true 95% of the time, but in this era of Trumpanomics I think I’ll wait. ",
+        "score": 5,
+        "author": "bear_Prune8771"
+      },
+      {
+        "body": "I've been accumulating sgov when I take profits for about 7 months ",
+        "score": 4,
+        "author": "jvaritek33c"
+      }
+    ],
+    "summary_he": "הפוסט עוסק בשאלה מהו פרק הזמן הסביר להחזקת סכומי כסף משמעותיים באפיקים סולידיים בעלי תשואה נמוכה (כמו פקדונות או אג\"ח) בזמן קבלת החלטות על אסטרטגיית השקעה. הכותב תוהה מתי שהייה כזו הופכת ללא כדאית, שכן אפיקים אלו בקושי מצליחים לגבור על האינפלציה ולשמור על ערך הכסף.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות בשרשור, המוצג ב-6 נקודות מרכזיות בעברית:\n\n*   **חשיבות ההחלטיות:** ניתן לקחת את הזמן הנדרש כדי לשקול צעדים ולקבל החלטות מושכלות, אך הנקודה הקריטית היא להגיע להחלטה סופית ולבצע אותה, במקום להישאר במצב של חוסר מעש מתמשך.\n*   **ניצול ריבית על מזומן:** קיימת העדפה להחנות כספים שאינם מושקעים בחשבונות המניבים ריבית (כמו Robinhood Gold המציע 3.6%), כדי שהכסף ימשיך לעבוד גם כשהוא \"על הקווים\".\n*   **הקונפליקט מול חוקי ההשקעה המסורתיים:** המגיבים מכירים בכלל האצבע המפורסם ש\"זמן בשוק עדיף על ניסיון לתזמן את השוק\" (Time in the market beats timing the market), אך מציינים שקשה ליישם זאת בכל מצב.\n*   **השפעת האקלים הפוליטי-כלכלי:** קיימת תחושה שבעידן הנוכחי (המתואר כ-\"Trumpanomics\"), חוסר הוודאות הכלכלי מצדיק המתנה מחוץ לשוק, גם אם זה נוגד את אסטרטגיות ההשקעה הרגילות.\n*   **אסטרטגיית גידור באמצעות אג\"ח קצר מועד:** נעשה שימוש אקטיבי בקרנות כספיות או בתעודות סל כמו SGOV (אג\"ח ממשלתי לטווח קצר מאוד) ככלי לשמירה על רווחים וצבירת מזומנים נזילים בסיכון נמוך.\n*   **התמדה בניהול רווחים:** ישנה עדות לאסטרטגיה ארוכת טווח של מימוש רווחים והעברתם לאפיקים בטוחים באופן עקבי (כפי שצוין לאורך תקופה של 7 חודשים), במקום להמר עליהם מחדש בשוק תנודתי."
+  },
+  {
+    "id": "1x8cca2",
+    "title": "Everyone's Worried About AI Running Out of Power. What Happens If It Runs Out of Insurance?",
+    "url": "https://www.reddit.com/r/investing/comments/1x8cca2/everyones_worried_about_ai_running_out_of_power/",
+    "author": "theruthlessinvestor",
+    "score": 1,
+    "selftext": "Insurers are writing generative AI exclusions into policies right as companies are getting ready to give AI systems more autonomy.\n\nHere's what I could verify. In January 2026, ISO, the group behind the standard general liability forms, made three generative AI exclusion endorsements available to carriers. Chubb, Berkshire Hathaway, Travelers, W.R. Berkley and AIG have filed to adopt them or something similar. One review of state filings found 2,369 generative AI exclusion records across 49 states. Berkley seems to have gone furthest, with an absolute AI exclusion for its D&O, E&O and fiduciary liability products. The ISO forms themselves are for general liability.\n\nWhat I can't tell you is how many renewals have actually dropped AI coverage. The filings show the exclusions exist and carriers can use them, not how often they do.\n\nThe correlation problem is the part I find most interesting. Insurers deal with correlated risk all the time, including hurricanes and cyberattacks. But can they measure and cap AI exposure across their policyholders? If hundreds of customers run on the same underlying model, one failure could set off a lot of claims at once, and there's very little history to price it with.\n\nThe scale is early too. In October 2025, the Financial Times reported, citing people familiar with the matter, that OpenAI had about $300 million of coverage for emerging AI risks, a small fraction of what its lawsuits could cost. Those are unnamed sources, and the coverage concerns the labs' own legal exposure, not enterprise deployments.\n\nCompanies don't need insurance to deploy AI. They can keep the risk, push vendors for indemnities, or limit what the system can do on its own. I haven't found a case of a company shelving an AI deployment because it couldn't get coverage.\n\nStill, insurers are preparing to limit their exposure just as businesses are preparing to give AI systems greater responsibility.\n\nIf businesses end up keeping more of the liability themselves, does that change how much autonomy they're willing to give these systems, and how much they're willing to pay for them?",
+    "subreddit": "investing",
+    "created_utc": 1792249186,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "חברות הביטוח החלו להחריג בינה מלאכותית יוצרת (Generative AI) מפוליסות האחריות שלהן, בשל הקושי לאמוד את הסיכונים ואת הפוטנציאל לתביעות ענק הנובעות מהסתמכות על מודלים דומים. מגמה זו מתרחשת דווקא כשארגונים מעניקים למערכות AI יותר אוטונומיה, מה שעלול להשאיר את החברות חשופות משפטית ולהשפיע על קצב אימוץ הטכנולוגיה והשימוש בה.",
     "category_he": "פיננסים",
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1x8c8k4",
+    "title": "The Stock Market Is Cracking Beneath the Surface. Is a Crash Waiting to Happen?",
+    "url": "https://www.reddit.com/r/investing/comments/1x8c8k4/the_stock_market_is_cracking_beneath_the_surface/",
+    "author": "Top-Classroom3984",
+    "score": 1,
+    "selftext": "**I don’t think people realize what’s happening! 84% of S&P 500 stocks are at least 10% below their all-time highs, 41% are down more than 30%, and 17% down more than 50%.** \n\n**We are in a recession already. I’ll get comments that markets are near all time highs. That’s the point! Most stocks are down! A few are holding everything else up. The markets are not healthy nor sustainable and something has to give, soon.** ",
+    "subreddit": "investing",
+    "created_utc": 1792248924,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "\"I've been trading for 7 years.\"\n\nWow, you've seen it all, old timer. ",
+        "score": 6,
+        "author": "BatCleanUp"
+      },
+      {
+        "body": "I must have missed that part in Econ.",
+        "score": 2,
+        "author": "Glitchy_Boss_Fight"
+      },
+      {
+        "body": "Those are two of some of the most respected financial websites….\n\nYou’re proving my point. A few stocks are propping everything up…",
+        "score": 2,
+        "author": "Top-Classroom3984"
+      }
+    ],
+    "summary_he": "הפוסט מתריע על חוסר יציבות בשוק ההון וטוען כי למרות שהמדדים קרובים לשיא, רוב המניות במדד ה-S&P 500 חוו ירידות שערים חדות. לטענת הכותב, מספר מצומצם של מניות גדולות \"מחזיק\" את השוק כולו ומסווה מיתון קיים ומצב שאינו בר-קיימא.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן ניתוח של הדיון בפורום, המסוכם ל-6 נקודות מרכזיות המציגות את דעות המשתמשים והלכי הרוח בקהילה:\n\n*   **ספקנות כלפי ותק וניסיון:** הציון של \"7 שנות ניסיון במסחר\" זוכה לתגובה צינית (\"זקן השבט\"), מה שמעיד על תרבות קהילתית שאינה מתרשמת בקלות מניסיון של פחות מעשור, או לחלופין, נוטה ללעוג להצהרות על מומחיות עצמית.\n*   **הפער בין האקדמיה למציאות:** האמירה \"כנראה פספסתי את החלק הזה בלימודי כלכלה\" מצביעה על תחושת ניתוק בין התאוריות הכלכליות הקלאסיות לבין ההתנהלות המעשית (והלעיתים לא הגיונית) של השוק כיום.\n*   **דיון על אמינות מקורות מידע:** קיימת התייחסות לאתרים פיננסיים \"מכובדים\". מצד אחד, הם נתפסים כאוטוריטה, אך מצד שני, המשתמשים בוחנים את המידע המוצג בהם בעין ביקורתית כדי לתמוך בטיעונים שלהם.\n*   **ריכוזיות השוק וחשש מיציבות:** עולה טענה מהותית לפיה השוק אינו משקף צמיחה רוחבית, אלא נשען על מספר מצומצם מאוד של מניות חזקות (\"מניות בודדות מחזיקות את הכל\"), מה שמרמז על פגיעות של המדדים הכלליים.\n*   **שימוש בנתונים לחיזוק נרטיב פסימי:** המשתתפים בדיון משתמשים בדיווחים מהמדיה הממסדית דווקא כדי להוכיח שהמצב בשוק בעייתי (\"אתה מוכיח את הטענה שלי\"), ולא כדי להפגין אופטימיות.\n*   **סגנון תקשורת עוקצני:** הדיון מאופיין בטון ישיר וסרקסטי, המקובל בקהילות פיננסיות ברשת, שבו המשתמשים מאתגרים זה את זה ואת הנחות היסוד של השוק באופן קבוע."
+  },
+  {
+    "id": "1x8amnf",
+    "title": "Help me understand Direct Indexing",
+    "url": "https://www.reddit.com/r/investing/comments/1x8amnf/help_me_understand_direct_indexing/",
+    "author": "CuriousCat511",
+    "score": 1,
+    "selftext": "OK, so I get the basic premise that you sell stocks that are down to create capital losses.  It's the reinvestment that I don't understand.\n\nYou can't buy \"substantially identical\" stocks or it would trigger a wash sale.  So what do you buy? \n\nThen, what happens when you repeat those transactions hundreds or thousands of times? It seems like the portfolio would no longer reflect the index that you started with.\n\nAt this point, doesn't it just become an actively managed fund?  And hasn't research proven that actively managed funds typically underperform passive funds?",
+    "subreddit": "investing",
+    "created_utc": 1792244706,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "You can have actively managed fund SMAs. You can also have an index SMA. \n\nImagine you own an S&P SMA. Let's also say you already own 1MM of MSFT stock. So number 1, direct indexing is also about screen outs so you screen MSFT out of your SMA as you don't need more.\n\nThen to your question let's say there's a correction in NVDA, GOOGL, AAPL, and say AMZN.\n\n1. Sell those positions at a loss.\n\n2. Buy an ETF that has the loss positions at a decent weighting so portfolio direction exposure is roughly the same.\n\n3. Wait 31 days.\n\n4. Sell the ETF, and re buy the individual positions. \n\n\nSigned,\nCFP in the industry with years of SMA experience. But it's actually not just the SMA, you need a tax overlay stack that also runs on top of it. That's the steps above plus multiple other tax strategies.",
+        "score": 4,
+        "author": "TheOpeningBell"
+      },
+      {
+        "body": "Exactly. Don't do it. Schwab often recommends this to their clients - there are tons of posts about it. \n\nIt's fine for the first few years when you have losses. Eventually, you've sold all those losses and have only gains left and you're stuck with a horrendously messy portfolio of 100s of companies (that can't all possibly be good investments) and you have to sell everything and incur a massive tax bill to reallocate.\n\n[https://www.reddit.com/r/Bogleheads/comments/1uww2f3/direct\\_indexing\\_nightmare/](https://www.reddit.com/r/Bogleheads/comments/1uww2f3/direct_indexing_nightmare/)",
+        "score": 2,
+        "author": "Speedy719"
+      },
+      {
+        "body": "Well if you want to replicate the S&P500 you do not have to own all the stocks\n\nIf you hold 250 stocks in the S&P500 chances are you can pretty accurately replicate the returns pretty accurately as long as you hold a good cross section of the index\n\nAlso you can switch between like stocks, like you can hold exxon for oil or energy exposure , if there is losses you can sell exxon and buy conoco.\n\n\n\nHowever yes ; at some point you will have drift, your direct index may not exactly match the returns of the actual index\n\nMaybe you outperform maybe you underperform . However the theory is the tax savings make up for the drift away from the index\n\nHowever that being said I really am not a huge proponent of direct indexing , like sure if you have 10 billion dollars setting up a family office and paying a manager a few million a year to direct index might actually be cheaper than buying VOO\n\nIf you have 1 million , I am not convinced its a benefit , index funds like VOO are very tax efficient anyway ; the only way I see its beneficial is if you have large stock holdings with huge capital gains, like you are a META employee and have 1 million of meta stock that is almost all capital gains , and you want to diversify and buy into the index\n\nWell if you can somewhat offset your selling of meta stock with losses from direct indexing it might make sense, for the average investor I do not think it does",
+        "score": 2,
+        "author": "SirGlass"
+      }
+    ],
+    "summary_he": "הכותב מבקש להבין כיצד פועלת אסטרטגיית ה-Direct Indexing, ובפרט כיצד ניתן להשקיע מחדש לאחר מכירה בהפסד (Tax-loss harvesting) מבלי להפר את כללי ה-wash sale. הוא חושש שהחלפת המניות התכופה תוביל לסטייה מהמדד המקורי ותהפוך את התיק למנוהל באופן אקטיבי, דבר שלרוב מוביל לתשואות חסר בהשוואה למדדים פסיביים.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנושא ניהול מדדים ישיר (Direct Indexing) וחשבונות מנוהלים בנפרד (SMAs), המציג 6 נקודות מבט ודעות מרכזיות שעלו מהתגובות:\n\n*   **יכולת סינון והתאמה אישית (Screening):** אחד היתרונות המרכזיים בניהול מדד ישיר הוא האפשרות להחריג מניות ספציפיות מהתיק. לדוגמה, אם למשקיע כבר יש אחזקה משמעותית במניית מיקרוסופט (MSFT) ממקור אחר, הוא יכול להגדיר למנהל התיק \"לסנן\" אותה החוצה ולא לרכוש אותה בתוך ה-SMA כדי להימנע מחשיפת יתר.\n*   **אסטרטגיית \"קצירת הפסדי מס\" (Tax-Loss Harvesting):** מומחים בתחום מתארים תהליך שבו מוכרים פוזיציות שנמצאות בהפסד כדי לקזז חבות מס, רוכשים תעודת סל (ETF) דומה באופן זמני כדי לשמור על חשיפה לשוק (תוך עקיפת חוקי ה-Wash Sale), ולאחר 31 יום חוזרים למניות המקוריות. תהליך זה דורש מערכת טכנולוגית לניהול מס (\"Tax Overlay\") כדי להיות יעיל באמת.\n*   **החשש מ\"תיק מבולגן\" בטווח הארוך:** קיימת ביקורת חריפה על כך שהשיטה נראית טובה רק בשנים הראשונות. המבקרים טוענים שלאחר שהפסדי המס מנוצלים, המשקיע נשאר עם מאות מניות שונות שחלקן ברווחים גבוהים, מה שיוצר תיק \"מבולגן\" שקשה מאוד לצאת ממנו מבלי לשלם חשבון מס עתק על רווחי הון.\n*   **שכפול המדד ללא בעלות מלאה:** לא חייבים להחזיק בכל 500 המניות של ה-S&P 500 כדי לשכפל את ביצועיו. ניתן להגיע לתוצאות דומות מאוד על ידי החזקה של כ-250 מניות המייצגות חתך רוחב טוב של השוק, או על ידי החלפת מניות דומות (למשל, מכירת אקסון וקניית קונוקו-פיליפס למתן חשיפה למגזר האנרגיה).\n*   **שאלת הכדאיות הכלכלית (עלות מול תועלת):** ישנה טענה כי עבור משקיע ממוצע (אפילו עם מיליון דולר), קרנות מדד רגילות (כמו VOO) הן יעילות מספיק ופשוטות יותר. ניהול מדד ישיר עשוי להשתלם בעיקר לשתי קבוצות: משקיעים אמידים מאוד (Wealthy/Family Office) או כאלו שיש להם \"פוזיציה מרוכזת\" (למשל עובדי מטא עם מניות בשווי מיליונים) שרוצים לגוון את התיק תוך קיזוז רווחים מהמכירה.\n*   **סיכון לסטייה מהמדד (Tracking Error):** ניהול ישיר עלול להוביל לכך שהתיק יניב ביצועי חסר או ביצועי יתר לעומת המדד המקורי עליו הוא מתבסס. למרות שהתיאוריה גורסת שהחיסכון במס אמור לפצות על הסטייה הזו, אין ערובה לכך שהתשואה הסופית תהיה עדיפה על החזקה פשוטה במדד."
+  },
+  {
+    "id": "1x889mg",
+    "title": "AI trade is dying. High growth sectors 5 years investment horizon.",
+    "url": "https://www.reddit.com/r/investing/comments/1x889mg/ai_trade_is_dying_high_growth_sectors_5_years/",
+    "author": "McOmghall",
+    "score": 1,
+    "selftext": "I would like to know your opinion on the following thesis and consequences, and if you have any alternative ones. I am looking to allocate cash during the next year and would love to know your opinion.\n\nMy investment **premise** is the following: the AI hype is gonna die down in the following months, causing relocation of capital into other sectors. \n\n**In that scenario,** capital is relocating to other sectors. AI basically sucked the life of every industry in the planet and that's reversing right now. The question is what is needed right now?\n\n**1) Military:** Even thought the biggest growth spurt of the sector has gone through, current geopolitical uncertainty is not going to go away in the next 10 years. Countries are rearming and investing in new military technologies, which pushes investment into electronics and manufacturing.  European defense specifically will grow inmensely during the next few years decoupling from the US (this is the best-case scenario, but uncertain). Specific metals and minerals are highly in demand for weapon production. **Sectors:** **heavy industry, manufacturing, mining, electronics.**\n\n**2) Energy:** We're living under an oil shock, that is not going to improve in the short term, if anything it's gonna get worse before it gets better. Every country is looking at their dependence on oil and reassesing positions. Non-oil producing countries will move to nuclear and renewables, coal might be coming back from the dead. **Sectors:** **heavy industry, mining, renewable energy, nuclear.**\n\n**3) Deglobalization:** As a consequence of all of the above, inter-block capital flows are going to stall. That includes cultural capital. Domestic entertainment industries outside of the US are gonna flourish and niche products that don't look at US cultural trends and develop domestically are gonna be in demand. **Sectors: video games, cinema, publishing (non-US).**\n\n**The future of AI**: Semiconductors, infrastructure, and AI monolyths that can do everything are dying. AGI is not less than 20 years away. The long term prognosis for AI is hyperscalers serving general chatbots that can do ok helping with most tasks with minor players around them serving orchestrators, tools, agents for specific things and niche chatbots (f.e. Claude for programmers, Suno for musicians and so on). \n\nAI will become a tool like spreadsheets, or audio workstations, or forklifts. It's not gonna be a fact of life everyone has to deal with and it's not gonna demolish the job market. The investment thesis for Anthropic at $2T is that it will replace most software engineers on earth: that is nonsense.\n\n",
+    "subreddit": "investing",
+    "created_utc": 1792237688,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I really don’t think AI trade is dying",
+        "score": 16,
+        "author": "Fabster_3000"
+      },
+      {
+        "body": "Is it? It’s only gone down a bit",
+        "score": 10,
+        "author": "FewUnderstanding2214"
+      },
+      {
+        "body": "You are so wrong we have barely scratched the surface of agentic commerce which will become prevalent in all aspects of life ",
+        "score": 5,
+        "author": "nicbrit93"
+      }
+    ],
+    "summary_he": "הכותב טוען כי שיא ההייפ סביב הבינה המלאכותית חלף, וצופה מעבר של הון למגזרי הביטחון, האנרגיה והתעשיות המקומיות (כחלק מתהליך דה-גלובליזציה) בחמש השנים הקרובות. לגישתו, ה-AI תהפוך לכלי עבודה משלים וסטנדרטי בלבד, ולא תשנה את שוק העבודה מן היסוד או תגיע ליכולות אנושיות (AGI) בעתיד הקרוב.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנושא עתיד המסחר בתחום ה-AI, המבוסס על תגובות הגולשים:\n\n* **הכחשת דעיכת המגמה:** קיימת הסכמה בקרב המגיבים כי המסחר בתחום ה-AI רחוק מלהסתיים, בניגוד לטענות על \"מות\" התחום.\n* **פרשנות לירידות בשוק:** הירידות האחרונות נתפסות כתנודה קלה וטבעית בלבד (\"Down a bit\") ולא כקריסה או כשינוי כיוון אסטרטגי.\n* **אנחנו רק בתחילת הדרך:** קיימת תחושה חזקה שהטכנולוגיה הנוכחית היא רק קצה הקרחון, ושרק התחלנו \"לגרד את פני השטח\" של הפוטנציאל האמיתי.\n* **עליית ה\"מסחר הסוכנותי\" (Agentic Commerce):** המגיבים צופים מעבר למודלים שבהם סוכני AI אוטונומיים ינהלו אינטראקציות מסחריות, שלב שנתפס כמהפכה הבאה בתחום.\n* **חדירה לכל תחומי החיים:** קיימת הערכה כי ה-AI יהפוך לחלק בלתי נפרד ושכיח בכל היבטי החיים, ולא יישאר מוגבל לסקטורים טכנולוגיים צרים בלבד.\n* **ביקורת חריפה על הספקנים:** בקהילה קיימת נימה של זלזול כלפי מי שטוען שהתחום מיצה את עצמו, תוך הדגשה שהטוענים כך טועים באופן מהותי בנוגע לעתיד לבוא."
   },
   {
     "id": "1x86lh3",
@@ -336,83 +341,11 @@ window.dailyTrends = [
     ],
     "summary_he": "הכותב משתף כי הפסיד 80 אלף דולר בתוך שלושה ימים בעקבות ירידות חדות בשוק ההון, שפגעו הן במניות יציבות והן במניות צמיחה. הוא מביע חשש לגבי משך זמן ההתאוששות ושואל האם המשק בדרך למיתון, בעודו נמנע ממכירת המניות ומבדיקת תיק ההשקעות שלו.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ותובנות שונות שעלו מצד הגולשים:\n\n* **שמירה על רזרבות מזומנים:** אחד הגולשים ממליץ לא להשקיע את כל הכסף בבת אחת, אלא לשמור עתודות כספיות (Reserve) בצד כדי להיות מוכנים לצעדים הבאים.\n* **אסטרטגיית \"קנייה בירידה\" (Buy the Dip):** קיימת המלצה מפורשת להמתין לתיקון או לירידה זמנית בשוק כדי לנצל את ההזדמנות ולרכוש נכסים נוספים במחירים נמוכים יותר.\n* **שביעות רצון מביצועי השוק השנתיים:** ישנה טענה כי השנה הנוכחית היא שנה יוצאת מן הכלל בשווקים, המאופיינת במגמת עלייה עקבית כמעט ללא ירידות משמעותיות עד כה.\n* **ביקורת על ציפיות לא ריאליות של משקיעים:** עולה תמיהה כלפי משקיעים שמתלוננים על התשואות שלהם בשוק שנמצא בעלייה, תוך רמיזה שהציפיות שלהם לתשואות גבוהות אף יותר אינן מחוברות למציאות.\n* **הפתעה מיציבות השוק לנוכח חוסר יציבות עולמי:** מובעת פליאה על כך שהשוק מצליח להישאר \"ירוק\" ויציב למרות כל השיבושים והאירועים המערערים המתרחשים כרגע בעולם.\n* **המלצה לניתוק פסיכולוגי מהתיק:** מומלץ למשקיעים להתרחק מהמעקב היומיומי אחרי מצב ההחזקות שלהם, מתוך הבנה שהמצב לא צפוי להשתפר משמעותית עד שהעולם יחזור למסלול של נורמליזציה."
-  },
-  {
-    "id": "1x869mk",
-    "title": "How to face big expenses that are not \"emergencies\" in a potential market crash?",
-    "url": "https://www.reddit.com/r/investing/comments/1x869mk/how_to_face_big_expenses_that_are_not_emergencies/",
-    "author": "NatSpaghettiAgency",
-    "score": 1,
-    "selftext": "I'm a young person and here the general advice is to have a 12 months emergency fund and the rest mainly in stocks.\n\nSince I'm young still, I may need to buy a house and renovate it, a car or other big expenses that are not \"emergencies\" so it's not recommended to take from it. In case of a recession, where would I take money from?\n\nI know my portfolio sucks and I'm losing a lot of opportunities but my NW is $140k and only $20k is in stocks (ETFs) albeit I plan to reach at least 40k in the upcoming future. The rest is in money market ETFs and medium term bonds. The things is that I'm very uncertain about my future and what I want to do. Thank you.",
-    "subreddit": "investing",
-    "created_utc": 1792230546,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Young with 140k net worth ? You are doing great. The ratio of investments over NW will increase over time. At first you mostly create the emergency fund and cover the house initial costs with defensive funds.",
-        "score": 4,
-        "author": "Only_Statistician_21"
-      },
-      {
-        "body": "Buy a used car, get ur ETFs up, when you have enough to buy a house just with ur ETFs, buy it with mortgage, whatever ur mortgage % rate is, can't outrun the etfs annual growth and compounding over a long period of time, essentially your money still making a profit while some bank's money at use",
-        "score": 2,
-        "author": "Academic_End_3828"
-      },
-      {
-        "body": "If the stock market is down you typically want to be taking from cash - money market - bonds before taking from stock funds. If you have a plan to buy car and house within next 5 years it makes sense to have the deposit money in low volatility investments. You probably have too much outside the stock market but that depends on how much you think you will need within next 5 years.",
-        "score": 2,
-        "author": "Appropriate_Nebula67"
-      }
-    ],
-    "summary_he": "כותב הפוסט מתלבט כיצד להיערך להוצאות גדולות ומתוכננות (כמו רכישת בית או רכב) שאינן נחשבות למקרי חירום, במיוחד בתרחיש של מיתון או ירידות בשוק ההון. בשל אי-ודאות לגבי תוכניותיו העתידיות, הוא שומר כעת על תיק השקעות שמרני המורכב ברובו מאג\"ח וקרנות כספיות, למרות החשש מהחמצת רווחים פוטנציאליים במניות.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות בשרשור, המוצגות בעברית:\n\n* **חיזוק חיובי והערכת מצב:** הון עצמי של 140 אלף דולר בגיל צעיר נחשב להישג משמעותי ומרשים. הקהילה מציינת כי בתחילת הדרך טבעי שהון רב יופנה לקרנות חירום ולהוצאות ראשוניות על דיור, אך עם הזמן היחס לטובת השקעות בשוק ההון יגדל.\n* **אסטרטגיית רכישת רכב:** מומלץ להסתפק ברכישת רכב משומש במקום חדש. חיסכון זה מאפשר להפנות סכומים גדולים יותר להשקעה בקרנות סל (ETFs) המניבות רווחים לאורך זמן.\n* **מינוף וניהול חוב מול השקעה:** כדאי להמשיך להשקיע בקרנות סל גם כאשר יש מספיק כסף לקניית בית. הטענה היא שצמיחת השוק והריבית דריבית לטווח ארוך בדרך כלל יעלו על הריבית של המשכנתה, כך שמשתלם יותר להשתמש בכסף של הבנק בזמן שהכסף הפרטי ממשיך לייצר רווחים.\n* **התאמת רמת הסיכון לטווח קצר:** אם מתוכננת רכישה גדולה (כמו בית או רכב) בטווח של חמש השנים הקרובות, מומלץ להחזיק את כספי הפיקדון באפיקי השקעה בעלי תנודתיות נמוכה כדי להגן על הקרן.\n* **סדר משיכת כספים בתנאי שוק משתנים:** במצב שבו שוק המניות נמצא בירידה, האסטרטגיה המועדפת היא להשתמש קודם כל במזומן, בקרנות כספיות או באג\"ח, וזאת כדי להימנע ממכירת מניות בהפסד.\n* **איזון תיק ההשקעות:** קיים חשש מהחזקת כמות גדולה מדי של מזומן מחוץ לשוק ההון. המגיבים מדגישים כי היחס בין מזומן להשקעות צריך להיקבע על פי הצרכים הפיננסיים הצפויים בחמש השנים הקרובות – אם אין צורך מיידי בכסף, עדיף שהוא יהיה מושקע."
-  },
-  {
-    "id": "1x85bo5",
-    "title": "The situation with neoclouds (CoreWeave etc)",
-    "url": "https://www.reddit.com/r/investing/comments/1x85bo5/the_situation_with_neoclouds_coreweave_etc/",
-    "author": "ozthinker",
-    "score": 1,
-    "selftext": "This situation reminds me of shipping companies. Many shippers are just lessors, they lease ships from another company that bought the ships with huge debts, but these purchases were only made with negotiated customer on fixed lease term 5 to10 years contract. This is similar business model like neoclouds. \n\nOnce the contract is up, the spot shipping rate is usually crap and does not generate enough to pay the residual debt used to fund the initial build, while the 5 yearly surveying cost increases. A lot of these shipping companies are huge shareholder value destroyers, so naturally most had shifted to Asia for the lowest cost base. \n\nThe past few days are obvious forced liquidations due to players with highly concentrated and levered positions in AI and tech. The market including much of tech and AI stocks will recover, but don't count on the same with neoclouds because their business model is flawed. Decades of the same business model employed by shipping companies has proven this beyond any reasonable doubt. \n\nYou might say it's different because ships are much easier to build than GPUs. Don't count on the hidden risk in plain sight. NVDA is not going to have a forever monopoly. There are Google's TPU etc and we have not seen yet new powerful GPUs from China. This is exactly how things panned out for shippers. Every new generation of ships are much more cost effective than the previous, so older ships that have contracts ended would fail to attract the best contract rates not contract length.\n\nAI will survive, and gets even bigger than ever. Businesses with flawed business models will go through cycles of ups and downs but mostly downs, and destroying shareholder value in that process. They will still be there, like the yesteryear's shipping companies that are no longer the talk of the town, doing important work that the world requires.",
-    "subreddit": "investing",
-    "created_utc": 1792226921,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Hyperbolic pricing drops?  A consumer 5090 32GB is 3x the MSRP it was at launch, and is about to be canned entirely as they want to use GB202 for more profitable lines.  An RTX pro 6000 is now 14k, up from 8k(?).\n\nAnd then there is this: https://www.datacenterdynamics.com/en/news/aws-has-never-retired-an-nvidia-a100-server-ceo-matt-garman-claims/\n\nDemand for GPU infra is at an all time high.  I’m not sure previous depreciation patterns factor into it right now.",
-        "score": 4,
-        "author": "cmpxchg8b"
-      },
-      {
-        "body": "Spot on thesis. Neoclouds aren’t a tech play; they’re a leverage-funded asset leasing play masquerading as software high-margin businesses.\n\nThe structural decay rate is even faster here than in shipping**.**  \nShips depreciate linearly over 20 years; GPUs face hyperbolic pricing drops every 18–24 months as new architectures roll out.  \nInstead of cheap maritime financing, neoclouds are paying 10–11%+ private credit rates on hardware that loses 50%+ of its rental pricing power the moment the next-gen chip ships.  \nThe current 3–5 year pre-let contracts hide the underlying risk. When those expire, older clusters will hit a spot market constrained by custom in-house silicon (TPUs, Trainium) and hyperscale capacity.\n\nJust like legacy ship lessors, the underlying compute infrastructure will survive and power the world, but the capital structures will get wiped out. Value migrates down to chip IP and up to software applications leaving pure-play GPU lessors holding the debt graveyard.",
-        "score": 1,
-        "author": "SlowInterest3000"
-      },
-      {
-        "body": "the shipping analogy is spot on. people see these fat fixed contracts and think the good times last forever but when that lease rolls off the floor drops out. seen it happen with container ships in 2015-2016, rates collapsed and half those companies were basically zombies after that\n\n  \nwhat worries me more is the depreciation curve on these gpu clusters. a ship lasts 25 years even if the rates suck. a H100 cluster in 5 years will be worth peanuts when the next gen is 4x more efficient. at least with ships you can scrap them for steel\n\n  \nthe forced liquidation part is what gets me though. market was pricing these like SaaS companies when they're really more like commodity infrastructure plays with enormous capex. the leverage just magnifies everything on the way down",
-        "score": 0,
-        "author": "Kooky_Ad_6599"
-      }
-    ],
-    "summary_he": "הפוסט משווה בין המודל העסקי של חברות \"ניאו-קלאוד\" (כמו CoreWeave) לענף הספנות, וטוען כי הן מסתמכות על מינוף גבוה וחוזים קצובים שעלולים להתברר כלא רווחיים בטווח הארוך. הכותב מזהיר כי התקדמות טכנולוגית מהירה תהפוך את החומרה הישנה לנטל כלכלי, ובדומה לחברות ספנות בעבר, חברות אלו צפויות להשמיד ערך לבעלי המניות למרות הצמיחה הכללית בתחום הבינה המלאכותית.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג נקודות מבט שונות על שוק תשתיות ה-GPU והסיכונים הכלכליים הנלווים אליו:\n\n**סיכום הדיון:**\n\n*   **ביקוש שיא אל מול ירידת ערך:** קיימת מחלוקת לגבי קצב ירידת הערך של המעבדים. בעוד שחלק טוענים לירידת מחירים דרסטית, אחרים מצביעים על כך שהביקוש לתשתיות GPU נמצא בשיא של כל הזמנים. כראיה לכך, מצוין כי מחירי כרטיסים מקצועיים (כמו ה-RTX 6000) זינקו משמעותית, וחברות ענק כמו AWS טרם הוציאו מהשירות שרתים מדורות קודמים (A100).\n*   **מודל עסקי מתחזה:** חברות הענן החדשות (\"Neoclouds\") אינן נתפסות כחברות טכנולוגיה אמיתיות, אלא כחברות להחכרת נכסים (Asset Leasing) הממומנות במינוף גבוה. הן \"מתחפשות\" לחברות תוכנה עם שולי רווח גבוהים, אך בפועל הן נשענות על מודל כלכלי של השכרת חומרה.\n*   **השוואה לתעשיית הספנות:** הדיון משווה את שוק ה-GPU לענף השילוח הימי. בשני המקרים מדובר בחוזים קבועים ושמנים שיוצרים אשליה של יציבות, אך כשהחוזה מסתיים, המחירים עלולים לקרוס (\"הרצפה נשמטת\"). עם זאת, מצוין ש-GPU פגיע בהרבה מאונייה: לאונייה יש אורך חיים של 25 שנה וערך כגרוטאות מתכת, בעוד ששרת GPU עלול להפוך לחסר ערך תוך 5 שנים בשל חוסר יעילות מול דורות חדשים.\n*   **סיכוני מינוף וריבית:** חברות אלו נוטלות חובות בריבית גבוהה (מעל 10%) כדי לרכוש חומרה שמאבדת כ-50% מכוח התמחור שלה ברגע שיוצא שבב מהדור הבא. החוזים הקיימים ל-3 עד 5 שנים מסתירים כרגע את הסיכון המבני של ירידת הערך המהירה.\n*   **איום הסיליקון הייעודי:** בעתיד, אשכולות GPU ישנים ייאלצו להתחרות בשוק מול שבבים ייעודיים שפיתחו ענקיות הטכנולוגיה לעצמן (כמו ה-TPU של גוגל או ה-Trainium של אמזון). תחרות זו צפויה לדחוק את המעבדים הסטנדרטיים הישנים אל מחוץ לרלוונטיות הכלכלית.\n*   **תמחור שגוי של השוק:** קיימת ביקורת על כך שהשוק תמחר את החברות הללו לפי מכפילים של חברות תוכנה (SaaS), בעוד שבפועל מדובר בחברות תשתית עם הוצאות הון (CapEx) אדירות. המינוף הפיננסי הגבוה עלול להוביל לקריסת המבנה ההון של אותן חברות, גם אם הטכנולוגיה עצמה תמשיך לשרת את העולם."
-  },
-  {
-    "id": "1x84z3i",
-    "title": "The AI Capex Bottleneck: How GPU debt financing models interact with sticky inflation and higher-for-longer rates",
-    "url": "https://www.reddit.com/r/investing/comments/1x84z3i/the_ai_capex_bottleneck_how_gpu_debt_financing/",
-    "author": "magebrotv",
-    "score": 1,
-    "selftext": "While public attention remains fixed on hyperscaler software margins, a structural vulnerability is emerging in the private credit backing specialized data center buildouts.\n\nConsider the specialized cloud provider model (e.g., CoreWeave):\n\n* **Asset Base:** Massive purchases of high-cost enterprise GPUs, financed largely via debt obligations (accumulating roughly $50B in liabilities across the sector).\n* **Revenue Stream:** Long-term compute leases to tier-1 enterprise customers.\n* **The Disconnect:** Even with strong contract backlogs, refinancing variable and maturing debt in a 5%+ benchmark rate environment creates an acute spread compression.\n\nFollowing hotter inflation prints this week, credit markets pushed yields on this debt toward distressed levels, widening default risk spreads significantly. When an anchor infrastructure borrower faces sudden credit repricing, the liquidation pressure spreads to suppliers (foundries, packaging, chipmakers) and broad passive index exposure.\n\nGartner previously projected that up to 80% of independent AI compute providers may struggle to survive independently by 2030 due to capital intensity and hardware depreciation schedules.\n\nAre you viewing this week's pullback as an overreaction to routine credit noise, or an early indicator that capex expansion must decelerate to match sustainable debt yields?",
-    "subreddit": "investing",
-    "created_utc": 1792225535,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "הפוסט מצביע על פגיעות מבנית במודל המימון של תשתיות בינה מלאכותית, המבוסס על צבירת חובות כבדים לרכישת מעבדים גרפיים (GPUs). השילוב בין אינפלציה גבוהה לריבית מתמשכת מקשה על מיחזור החובות של ספקי מחשוב ענן מיוחדים, מה שעלול להוביל להאטה כפויה בהשקעות ההון (Capex) ולסיכון ליציבותם של יצרני השבבים והשוק כולו.",
-    "category_he": "פיננסים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט ותובנות שונות שעלו מצד הגולשים:\n\n* **שמירה על רזרבות מזומנים:** אחד הגולשים ממליץ לא להשקיע את כל הכסף בבת אחת, אלא לשמור עתודות כספיות (Reserve) בצד כדי להיות מוכנים לצעדים הבאים.\n* **אסטרטגיית \"קנייה בירידה\" (Buy the Dip):** קיימת המלצה מפורשת להמתין לתיקון או לירידה זמנית בשוק כדי לנצל את ההזדמנות ולרכוש נכסים נוספים במחירים נמוכים יותר.\n* **שביעות רצון מביצועי השוק השנתיים:** ישנה טענה כי השנה הנוכחית היא שנה יוצאת מן הכלל בשווקים, המאופיינת במגמת עלייה עקבית כמעט ללא ירידות משמעותיות עד כה.\n* **ביקורת על ציפיות לא ריאליות של משקיעים:** עולה תמיהה כלפי משקיעים שמתלוננים על התשואות שלהם בשוק שנמצא בעלייה, תוך רמיזה שהציפיות שלהם לתשואות גבוהות אף יותר אינן מחוברות למציאות.\n* **הפתעה מיציבות השוק לנוכח חוסר יציבות עולמי:** מובעת פליאה על כך שהשוק מצליח להישאר \"ירוק\" ויציב למרות כל השיבושים והאירועים המערערים המתרחשים כרגע בעולם.\n* **המלצה לניתוק פסיכולוגי מהתיק:** מומלץ למשקיעים להתרחק מהמעקב היומיומי אחרי מצב ההחזקות שלהם, מתוך הבנה שהמצב לא צפוי להשתפר משמעותית עד שהעולם יחזור למסלול של נורמליזציה.",
+    "dateString": "2026-10-17",
+    "savedAt": {
+      "_seconds": 1792232835,
+      "_nanoseconds": 501000000
+    }
   }
 ];
