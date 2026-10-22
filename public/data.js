@@ -1,95 +1,23 @@
 window.dailyTrends = [
   {
-    "id": "1xa5qng",
-    "title": "Soft commodities are waking up and El Niño isn't even at its peak yet",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xa5qng/soft_commodities_are_waking_up_and_el_niño_isnt/",
-    "author": "Anoncry66",
-    "score": 238,
-    "selftext": "check out the charts for sugar, wheat, cocoa, and beans\n\nforecasts say 2027 is going to be brutal weather-wise, logistics through the panama canal are constrained, and supply deficits are starting to pile up. chasing chocolate stocks right now is a trap, way too late.\n\nhow are you guys playing the supply side squeeze? looking at fertilizer, equipment makers, or ignoring agricultural markets entirely? what's on your watchlist?",
-    "subreddit": "StockMarket",
-    "created_utc": 1792436467,
-    "thumbnail": "https://preview.redd.it/l67zk5wu0hwh1.png?width=140&height=70&auto=webp&s=beb6b0eb107233163edfaa913fbd48312731b070",
-    "top_comments": [
-      {
-        "body": "1/3 of the world's fertilizer comes.via Strait of Hormuz, which has inconveniently been blockaded.  So yeah, its not just those 4 that are going up.\n\n(Not to mention, the price of fertilizer also gets jacked up from diesel)",
-        "score": 64,
-        "author": "BeachAndBuds"
-      },
-      {
-        "body": "Gourd futures are traded behind the Wendy’s dumpster from midnight to 6 AM ",
-        "score": 57,
-        "author": "MomentSpecialist2020"
-      },
-      {
-        "body": "Fun fact, the price of diesel also effects the price of diesel, as it takes diesel to deliver diesel",
-        "score": 46,
-        "author": "chrs_89"
-      }
-    ],
-    "summary_he": "מחירי הסחורות החקלאיות (כמו סוכר, חיטה וקקאו) נמצאים במגמת עלייה חדה בשל פגעי מזג האוויר ושיבושים לוגיסטיים בתעלת פנמה. הכותב מזהיר כי רכישת מניות שוקולד כעת היא \"מלכודת\" מאוחרת מדי, ומבקש המלצות להשקעה חלופית במגזר, למשל דרך יצרניות דשנים וציוד חקלאי.",
-    "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון בפורום, הכולל 6 נקודות מבט, דעות ותחושות שעלו מהתגובות:\n\n*   **חשיבותו האסטרטגית של מצר הורמוז:** אחד המגיבים מדגיש כי המצור על מצר הורמוז מהווה פגיעה קריטית בכלכלה העולמית, שכן כשליש מאספקת הדשנים בעולם עוברת דרכו.\n*   **השפעה רוחבית על מחירי מוצרים:** קיימת הבנה בקהילה שהתייקרות המחירים אינה מוגבלת למספר מצומצם של סחורות; חסימת נתיבי סחר מובילה לגל עליות מחירים נרחב בהרבה ממה שנראה לעין בתחילה.\n*   **הקשר הישיר בין אנרגיה לחקלאות:** הדיון מצביע על התלות של מחירי הדשן במחירי הסולר (דיזל). עלייה במחירי הדלק גוררת אוטומטית התייקרות של הדשנים, מה שמשפיע בסופו של דבר על מחירי המזון.\n*   **הומור קהילתי וסאטירה על מסחר:** בתגובה המשלבת הומור פנימי (האופייני לקהילות כמו WallStreetBets), מוזכר מסחר \"בחוזים עתידיים על דלועים\" מאחורי פח אשפה של רשת וונדי'ס. זהו ביטוי לציניות של הגולשים כלפי שוק ההון וכלפי הניסיונות להרוויח מספקולציות בזמן משברים.\n*   **לוגיקת המחירים המעגלית של הדלק:** אחד המשתתפים מציין בציניות \"עובדה מעניינת\" – מחיר הסולר משפיע על מחיר הסולר עצמו. זאת משום שנדרש סולר כדי להוביל ולספק את הסולר לתחנות, מה שיוצר לולאת התייקרות שמזינה את עצמה.\n*   **תחושת שבריריות של שרשרת האספקה:** מן התגובות עולה תחושה של מודעות לכך שהמערכת הכלכלית העולמית פגיעה מאוד, וששיבוש בנקודה גיאוגרפית אחת או עלייה במשאב בסיסי אחד יוצרים אפקט דומינו שמשפיע על היבטים רבים בחיים."
-  },
-  {
-    "id": "1xadc2f",
-    "title": "Advice looking to buy equipment seller owes money to bank",
-    "url": "https://www.reddit.com/r/business/comments/1xadc2f/advice_looking_to_buy_equipment_seller_owes_money/",
-    "author": "Unlucky_Skirt8310",
-    "score": 5,
-    "selftext": "Hey guys I’m looking to buy a piece of equipment with attachement around 25k but the issue is the machine isn’t owned by him yet. It’s financed under Wells Fargo showed me the statement and is under the company LLC. \n\nFirst the machine was a low price and basically new only 50 hours on it so I had to check it out. He said he is retiring. But anyways. I did the full verification check he owned the machine since new it’s on his fbbuisness page. \n\n1) Issue is how do I make this clean to avoid complications and be able to get proof of purchase from the bank or a release lien once paid in full. The only thing Wells Fargo told me is I’m able to get a receipt the release takes a couple days to arrive. \n\n2) besides a release from from myself and a bill of sale what else can I do to protect myself as these machines don’t have a title. \n\n3) I called bobcat and they said it’s not stolen or issues with it as they verified vin number. \n\n4) I was hoping Wells Fargo can be able to take cash payment to pay the loan off but since it was from a 3rd party institution “Wells Fargo fincial” it has to be a wire. \n\nThoughts? Also any advice would be appreciated. ",
-    "subreddit": "business",
-    "created_utc": 1792454730,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Yeah the machine I’ll be picking up first thing. I just want to make sure there isn’t any repo going on or ownership issues. But thank you for the advice I really appreciate it! ",
-        "score": 2,
-        "author": "Unlucky_Skirt8310"
-      },
-      {
-        "body": "the wire part is tricky but at least you got a paper trail from wells fargo, i would only do it if the payment goes direct to them and not through the seller",
-        "score": 2,
-        "author": "Alone_Perception_241"
-      },
-      {
-        "body": "did you check for a UCC filing with your state's secretary of state?",
-        "score": 1,
-        "author": "Hairy_Community_3891"
-      }
-    ],
-    "summary_he": "כותב הפוסט מבקש ייעוץ לגבי רכישת ציוד בשווי 25,000 דולר שעדיין משועבד לבנק, ומביע חשש לגבי אופן הסרת השעבוד (Lien) לאחר התשלום. מכיוון שמדובר במכונה ללא מסמכי בעלות רשמיים (Title), הוא מחפש דרכים להגן על עצמו משפטית ולוודא שהעברת הכספים לבנק תביא לשחרור מלא של הנכס ללא סיבוכים.",
-    "category_he": "עסקים",
-    "comments_summary_he": "להלן סיכום הדיון בפורום העוסק ברכישת מכונה ובהיבטים המשפטיים והפיננסיים הנלווים לכך:\n\n* **חשש מבעיות בעלות ועיקולים:** הקונה מביע דאגה מרכזית מכך שלמכונה עשויים להיות \"זנבות\" משפטיים, כגון הליכי עיקול (Repo) או מחלוקות על זהות הבעלים החוקיים, ומתכנן לוודא זאת לפני האיסוף.\n* **חשיבות התיעוד הבנקאי:** קיימת הסכמה כי יצירת \"נתיב נייר\" (Paper trail) מתועד מול הבנק (במקרה זה וולס פארגו) היא קריטית להגנה על הקונה בעסקה כזו.\n* **זהירות בהעברות בנקאיות:** המגיבים מציינים כי ביצוע העברה בנקאית (Wire transfer) הוא שלב רגיש ומורכב (\"Tricky\"), הדורש משנה זהירות כדי לא לאבד את הכסף.\n* **תשלום ישירות לנושה ולא למוכר:** הועלתה המלצה אסטרטגית חשובה: לבצע את התשלום ישירות לבנק המחזיק בחוב ולא למוכר עצמו, וזאת כדי להבטיח שהשעבוד על המכונה יוסר בוודאות.\n* **בדיקת רישומים רשמיים (UCC):** מומלץ לבצע בדיקה אקטיבית ברישומי ה-UCC (קובץ המעיד על שעבוד נכסים) אצל מזכיר המדינה, כדי לוודא שאין לצד ג' זכויות במכונה.\n* **הערכת עצות הקהילה:** ניכר כי הקונה מסתמך על חוכמת ההמונים ומביע תודה על העצות המעשיות שניתנו לו כדי להימנע מנוכלויות או מטעויות פיננסיות יקרות."
-  },
-  {
-    "id": "1xam6t5",
-    "title": "US fed agencies banning DeepSeek shows Washington is terrified of cheap Chinese AI hurting Big Tech margins",
-    "url": "https://www.reddit.com/r/finance/comments/1xam6t5/us_fed_agencies_banning_deepseek_shows_washington/",
-    "author": "Anoncry66",
+    "id": "1xb3wmp",
+    "title": "Netflix stock sinks after announcing Q3 earnings, Q4 revenue forecast falls short of estimates",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xb3wmp/netflix_stock_sinks_after_announcing_q3_earnings/",
+    "author": "kinetic_honda",
     "score": 1,
-    "selftext": "The US just ordered civilian agencies to strip out DeepSeek and any tools built on top of it.\n\nWhile everyone is talking about data privacy, the economic angle is way more interesting. US tech monopolies built their business model around high costs — massive data centers, huge energy use, and expensive subscriptions. DeepSeek proved you can build capable AI for way less money.\n\nBy banning low-cost competition, is the government just forcing the public sector to overpay for domestic tech? How does this play out for enterprise software costs long-term?",
-    "subreddit": "finance",
-    "created_utc": 1792483325,
-    "thumbnail": "https://external-preview.redd.it/UDaS-N7JTBWnS-Tir_4OQ15nZLoAFClLqegBTUlvdTc.jpeg?width=140&height=78&auto=webp&s=c60cae142278fc5bf77bed6309c22d460389cd9a",
-    "top_comments": [],
-    "summary_he": "האיסור שהטיל הממשל האמריקאי על שימוש ב-DeepSeek נתפס בפוסט כמהלך שנועד להגן על רווחי ענקיות הטכנולוגיה האמריקאיות מפני תחרות סינית זולה ויעילה. הכותב טוען כי מעבר לחשש מפרטיות מידע, הצעד עלול לכפות על המגזר הציבורי לשלם מחירים מופקעים על טכנולוגיה מקומית ולבלום את הוזלת שירותי הבינה המלאכותית בטווח הארוך.",
-    "category_he": "כלכלה",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1xb9cbf",
-    "title": "ARK Buys $4.1M in OKLO, Sells $5.4M in PLTR",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xb9cbf/ark_buys_41m_in_oklo_sells_54m_in_pltr/",
-    "author": "C130J_Darkstar",
-    "score": 1,
-    "selftext": "ARK Invest purchased 150,998 shares of Oklo (OKLO), worth approximately $4.11 million, on October 20. The purchase comes as OKLO has faced significant selling pressure in recent months. Cathie Wood’s continued investment is worth watching as Oklo advances its nuclear energy projects and positions itself to supply power to the growing AI and data center industry.",
+    "selftext": "Netflix (NFLX) stock fell 5% in after-hours trading on Tuesday as the streaming giant's Q4 revenue outlook came in below Wall Street estimates, signaling slower growth.\n\nThe company posted revenue of $12.87 billion in its fiscal third quarter, in line with analyst estimates. Earnings per share came in at $0.87, topping estimates of $0.82.\n\nFourth-quarter outlook for the company's topline, though, came in at $13.44 billion, short of the consensus analyst expectation of $13.51 billion.",
     "subreddit": "StockMarket",
-    "created_utc": 1792544032,
-    "thumbnail": "default",
+    "created_utc": 1792529669,
+    "thumbnail": "https://external-preview.redd.it/jVum1YuHi-uRz-DhYIDLOdcsEEzaVYbJztQ70Pgjpjc.jpeg?width=140&height=78&auto=webp&s=cae57145eaa42a1a8d25b26eeb0f6df67eb452c1",
     "top_comments": [],
-    "summary_he": "קרן ARK של קתי ווד רכשה מניות של חברת האנרגיה הגרעינית אוקלו (Oklo) בשווי של כ-4.1 מיליון דולר, ובמקביל מכרה מניות פלנטיר (Palantir) בשווי 5.4 מיליון דולר. למרות ירידות במניית אוקלו לאחרונה, ARK ממשיכה להשקיע בה בשל הפוטנציאל שלה לספק אנרגיה למרכזי נתונים ולתעשיית הבינה המלאכותית הצומחת.",
+    "summary_he": "מניית נטפליקס ירדה ב-5% לאחר שהחברה פרסמה תחזית הכנסות לרבעון הרביעי שהייתה נמוכה מהערכות האנליסטים. למרות שתוצאות הרבעון השלישי הציגו רווח למניה גבוה מהצפוי, התחזית המאכזבת להמשך השנה מעוררת חשש מהאטה בקצב הצמיחה של ענקית הסטרימינג.",
     "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-10-21",
+    "savedAt": {
+      "_seconds": 1792582378,
+      "_nanoseconds": 29000000
+    }
   },
   {
     "id": "1xb57jh",
@@ -104,37 +32,12 @@ window.dailyTrends = [
     "top_comments": [],
     "summary_he": "אילון מאסק הודיע כי טסלה ו-SpaceX הקימו ועדות של דירקטורים עצמאיים לבחינת מיזוג אפשרי, במטרה להדק את שיתוף הפעולה בתחומי הבינה המלאכותית והטכנולוגיה. מאסק עצמו אינו מעורב בדיונים בשל ניגוד עניינים, והדגיש כי המהלך דורש את אישורם של 50% מכלל בעלי המניות בטסלה כדי לצאת לפועל.",
     "category_he": "עסקים",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1xb3wmp",
-    "title": "Netflix stock sinks after announcing Q3 earnings, Q4 revenue forecast falls short of estimates",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xb3wmp/netflix_stock_sinks_after_announcing_q3_earnings/",
-    "author": "kinetic_honda",
-    "score": 1,
-    "selftext": "Netflix (NFLX) stock fell 5% in after-hours trading on Tuesday as the streaming giant's Q4 revenue outlook came in below Wall Street estimates, signaling slower growth.\n\nThe company posted revenue of $12.87 billion in its fiscal third quarter, in line with analyst estimates. Earnings per share came in at $0.87, topping estimates of $0.82.\n\nFourth-quarter outlook for the company's topline, though, came in at $13.44 billion, short of the consensus analyst expectation of $13.51 billion.",
-    "subreddit": "StockMarket",
-    "created_utc": 1792529669,
-    "thumbnail": "https://external-preview.redd.it/jVum1YuHi-uRz-DhYIDLOdcsEEzaVYbJztQ70Pgjpjc.jpeg?width=140&height=78&auto=webp&s=cae57145eaa42a1a8d25b26eeb0f6df67eb452c1",
-    "top_comments": [],
-    "summary_he": "מניית נטפליקס ירדה ב-5% לאחר שהחברה פרסמה תחזית הכנסות לרבעון הרביעי שהייתה נמוכה מהערכות האנליסטים. למרות שתוצאות הרבעון השלישי הציגו רווח למניה גבוה מהצפוי, התחזית המאכזבת להמשך השנה מעוררת חשש מהאטה בקצב הצמיחה של ענקית הסטרימינג.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1xazxrh",
-    "title": "What’s driving the AI trade TODAY and all that matters to the AI trade for TOMORROW",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xazxrh/whats_driving_the_ai_trade_today_and_all_that/",
-    "author": "Tallwhitedude123",
-    "score": 1,
-    "selftext": "So I’ve been doing tons of research the past few days to figure out what exactly is going on in the AI trade. There are many factors at play the BIGGEST is a report from Gartner that says based on their research that the AI revenue pie will not be big enough for all the AI players of today to survive by 2030. What this means is that since last week investors have been scrutinizing the AI companies with the weakest balance sheets, weakest business models and punishing them the most. Also, since AI revenues will come in light this means AI CapEx estimates for 2028 and beyond will have to be slashed significantly. This hurt semis and hardware stocks. Now some of yall might be wondering, “Who is Gartner and why should I care?” Gartner has a long successful track record as an IT research firm and their research has generally been directionally correct while sometimes even understating things. So basically, whatever Gartner says in their AI report is likely to actually end up slightly worse because that’s their track record. What this means is that AI revenues will come in even lighter than Gartners estimates.\n\nNow Gartners report hinges on ONE THING: REAL INTEREST RATES. Basically real interest rates is all that matters. If real interest rates are below 1% AI CapEx is spent at maximum amount no matter what AI revenues are because money is cheap resulting in AI stocks RIPPING HIGHER. Is real interest rates are at 1.5% or higher? Gartners report comes into play and becomes reality resulting in multiple compression in AI stocks. \n\nWhat is my base case? Real interest rates must stay low for one reason: the US government debt. The US government simply can’t afford high rates without it causing a debt spiral. For this reason real rates will stay low and AI stocks soar.",
-    "subreddit": "StockMarket",
-    "created_utc": 1792520612,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "דו\"ח של חברת גרטנר מעורר חשש כי הכנסות תחום ה-AI לא יספיקו לכל החברות הפועלות בו כיום, מה שמוביל לצמצום השקעות וללחץ על מניות חלשות. עם זאת, הכותב טוען כי גורם המפתח הוא הריבית הריאלית, וצופה שמניות ה-AI ימשיכו לעלות מכיוון שהממשל האמריקאי ייאלץ להשאיר את הריבית נמוכה כדי לנהל את חובו.",
-    "category_he": "השקעות",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-10-21",
+    "savedAt": {
+      "_seconds": 1792582370,
+      "_nanoseconds": 670000000
+    }
   },
   {
     "id": "1xawa2r",
@@ -149,7 +52,74 @@ window.dailyTrends = [
     "top_comments": [],
     "summary_he": "הפוסט עוסק בירידת מחירי הנפט בעקבות תקוות לדיפלומטיה במזרח התיכון, אך הכותב מביע סקפטיות ותוהה כמה זמן יוכלו הצרכנים לשאת מחירים שנותרו גבוהים. בנוסף, מודגשת ההסלמה בתקיפות על ספינות במצר הורמוז והמעורבות הצבאית האמריקאית הנרחבת באזור, תוך חשש מהשלכות כלכליות חמורות.",
     "category_he": "כלכלה",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-10-21",
+    "savedAt": {
+      "_seconds": 1792582394,
+      "_nanoseconds": 59000000
+    }
+  },
+  {
+    "id": "1xask5x",
+    "title": "Limiting my 401k contribution to employer matched level only",
+    "url": "https://www.reddit.com/r/investing/comments/1xask5x/limiting_my_401k_contribution_to_employer_matched/",
+    "author": "Forsaken-Mark-1898",
+    "score": 82,
+    "selftext": "Good Morning all,\n\nI have a little under 2 yrs until I \"retire\" at 59.5 and my question is in regards to 401k contributions.  My company matches 50% of the first 8% that I contribute. I currently contribute 17% but I'm thinking about dropping that to 8% and then using the 9% increase in my paycheck to build up my CASH reserve.\n\nI keep my CASH reserve in SGOV via a Fidelity Brokerage account.  Currently I have 155K in that brokerage account with 50% in SGOV and 50% in VTI.  Id like to have 200K in the brokerage when I retire and plan on using that as my hedge against SoRR.  I have another 1.3M split across IRAs and ROTHs.  \n  \nAs of right now, I am making more per year in my accounts than I do from my paycheck.  Because of that, I feel okay about reducing my 401k contributions and instead, funneling it to SGOV. When I do retire, I will reduce my VTI position to 20% and put the \"new cash\" into SGOV as well. \n\nMy AGI is smack dab in the middle of the 22% brackets so reducing my pre-tax contributions wont affect my bracket at all.  \n\nHas anyone else followed this type of path and reduced 401k contributions as you neared retirement? Any thoughts or lessons learned I should be aware of?",
+    "subreddit": "investing",
+    "created_utc": 1792503903,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Because it incentivizes people to put a greater % into their 401k.",
+        "score": 7,
+        "author": "Bob_A_Ganoosh"
+      },
+      {
+        "body": "Yeah, it sucks they miss out on those employer contributions, but they aren't going to be eating cat food in retirement.",
+        "score": 6,
+        "author": "Bob_A_Ganoosh"
+      },
+      {
+        "body": "Cash reserve and 401k aren't mutually exclusive. Contributions should at least go to Roth. Contributions can come out at any time and are separated from earnings, so are great for controlling MAGI",
+        "score": 3,
+        "author": "charleswj"
+      }
+    ],
+    "summary_he": "הכותב, שנמצא כשנתיים לפני פרישה בגיל 59.5, שוקל להפחית את הפרשותיו ל-401k למינימום הנדרש לקבלת הטבת המעסיק בלבד (8%). המטרה היא להפנות את יתרת השכר להגדלת עתודות המזומן בחשבון השקעות נזיל, כהגנה מפני תנודתיות בשוק בתחילת תקופת הפרישה (SoRR). הוא מבקש להתייעץ עם אחרים שנקטו בגישה דומה של העדפת נזילות על פני מקסום חיסכון פנסיוני לקראת סיום העבודה.",
+    "category_he": "פיננסים",
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות בשרשור:\n\n* **תמריץ לחיסכון מוגבר:** המנגנון של תוכניות ה-401k (במיוחד עם השתתפות מעסיק) מעודד אנשים להפריש אחוז גבוה יותר מהכנסתם לטובת חיסכון ארוך טווח.\n* **ההפסד שבאי-ניצול הטבות מעסיק:** קיים קונצנזוס שאיבוד הפרשות המעסיק הוא דבר שלילי ומהווה החמצה של \"כסף חינם\" עבור העובד.\n* **פרופורציה לגבי המצב בפרישה:** למרות החיסרון שבאי-קבלת הפרשות המעסיק, נטען כי המצב הכלכלי של החוסכים בפרישה לא יהיה בהכרח קטסטרופלי (מטאפורת \"אכילת מזון לחתולים\"), כלומר החיסכון העצמי עדיין משמעותי.\n* **שילוב בין נזילות לחיסכון:** הודגש כי החזקת עתודות מזומן (Cash reserve) והשקעה ב-401k אינן מוציאות זו את זו; ניתן לנהל אסטרטגיה המשלבת את שניהם במקביל.\n* **עדיפות למסלול Roth בשל גמישות:** הועלתה המלצה להעדיף הפקדות למסלול Roth, מכיוון שניתן למשוך את קרן ההפקדות בכל עת ללא תלות ברווחים, מה שמעניק ביטחון ונזילות גבוהה יותר.\n* **כלי לניהול ותכנון מס:** השימוש בחשבונות אלו מצוין ככלי אסטרטגי לשליטה ב-MAGI (הכנסה גולמית מותאמת), מה שמאפשר תכנון מס חכם יותר והטבות כלכליות נלוות."
+  },
+  {
+    "id": "1xb35r3",
+    "title": "SGOV yield change due to Fed action on 9/16",
+    "url": "https://www.reddit.com/r/investing/comments/1xb35r3/sgov_yield_change_due_to_fed_action_on_916/",
+    "author": "RU9901",
+    "score": 78,
+    "selftext": "The Fed raised rates 25 basis points (0.25 percentage points) on 9/16.\n\nSGOV has gone up 10 basis points in one month; between 9/16 (3.64%) and 10/16 (3.74%). It's SEC Yield is still sitting at 3.74% on 10/20.\n\nIs there any further increase expected – due to the Fed action in September? Or has SGOV capped out at 3.74%?",
+    "subreddit": "investing",
+    "created_utc": 1792527874,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": ">and 10/16 (3.74%). It's SEC Yield is still sitting at 3.74% on 10/20.\n\nBecause it's not updated everyday.  SEC Yield as of Oct 16, 2026 3.74%  There hasn't been a 30 day yield calculated for any day since the 16th, but it doesn't mean it's only paying 3.74 right now.\n\nAs the bonds with a lower yield mature they purchase new bonds with a higher yield and the 30day yield will increase.",
+        "score": 54,
+        "author": "GaylrdFocker"
+      },
+      {
+        "body": "SGOV has a system of rolling treasuries over short duration and they roll off/add new every month. \n\nThey use multiple durations, but the longest is 12 weeks. \n\nSo in effect, a Fed rate increase or decrease will create adjustments once a month for three months in SGOV.  \n\nThose adjustments won't be equal each month, the exact changes will depend on the mix of durations but there will be a mix of 4 week in there as well. So I would expect the largest adjustment in the first month following a rate change, and then two subsequent smaller ones.  ",
+        "score": 24,
+        "author": "neogeomasta"
+      },
+      {
+        "body": "Waiting here as well, as SGOV’s dividend has effectively become part of my income, as the principal I have invested in it can never or will never be used for its original intent: to buy a home.\n\nI could reinvest those dividends, I know.  But now, with cost of living annihilating my pay raise this year, I’m back to square one.",
+        "score": 16,
+        "author": "082426grateful"
+      }
+    ],
+    "summary_he": "הפוסט דן בהשפעת העלאת הריבית של הפד ב-0.25% בספטמבר על התשואה של קרן הסל SGOV. הכותב מציין כי התשואה עלתה ל-3.74% ותוהה האם צפויות עליות נוספות בעקבות מהלך זה או שהתשואה הגיעה לשיאה.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות השונות שעלו מתוך התגובות בשרשור בנוגע לקרן SGOV (קרן סל של אג\"ח ממשלתיות לטווח קצר):\n\n*   **תדירות עדכון נתוני התשואה:** הנתון של תשואת ה-SEC (SEC Yield) אינו מתעדכן מדי יום. משקיעים צריכים להבין שהתשואה המוצגת משקפת חישוב ממוצע של 30 הימים האחרונים, ולכן היא עשויה להיראות נמוכה יותר מהריבית הריאלית שמשולמת בפועל ברגע נתון.\n*   **מנגנון רענון התיק:** התשואה של הקרן עולה בהדרגה ככל שאיגרות חוב ישנות בעלות תשואה נמוכה מגיעות לפדיון (Maturing). במקומן, הקרן רוכשת איגרות חוב חדשות עם תשואות גבוהות יותר, מה שדוחף את התשואה הכוללת של הקרן כלפי מעלה לאורך זמן.\n*   **אסטרטגיית גלגול נכסים:** קרן SGOV מנהלת מערכת של \"גלגול\" (Rolling) אג\"ח ממשלתיות לטווחים קצרים מאוד, כאשר משך הזמן המקסימלי של הניירות בתיק הוא 12 שבועות. תחלופת הנכסים הזו מתבצעת באופן חודשי.\n*   **השפעת החלטות הריבית של הפד:** שינויים בריבית הפדרלית בארה\"ב משתקפים בקרן בתהליך הדרגתי שנמשך כ-3 חודשים. ההתאמה המשמעותית ביותר קורה בדרך כלל בחודש הראשון לאחר שינוי הריבית (בשל רכיבי אג\"ח ל-4 שבועות), ולאחריו מגיעות שתי התאמות קטנות יותר.\n*   **שינוי ביעדי השקעה עקב תנאי השוק:** ניכר סנטימנט של ייאוש מצד משקיעים מסוימים לגבי מטרות מסורתיות כמו קניית דירה. הון שהיה מיועד במקור לרכישת נכס נשאר בקרן SGOV כהשקעה קבועה, מתוך הבנה שהמטרה המקורית הפכה לבלתי ניתנת להשגה בנסיבות הנוכחיות.\n*   **הדיבידנד ככלי להישרדות כלכלית:** עבור חלק מהקהילה, הדיבידנדים מהקרן הפכו לחלק בלתי נפרד מההכנסה החודשית השוטפת. בשל עליית יוקר המחיה ששחקה את עליות השכר, משקיעים נאלצים להשתמש ברווחים למחיה במקום להשקיע אותם מחדש (DRIP), מה שמחזיר אותם לנקודת ההתחלה מבחינת צבירת הון."
   },
   {
     "id": "1xatjzv",
@@ -170,7 +140,94 @@ window.dailyTrends = [
     ],
     "summary_he": "שווי הפעילות של חברת Oklo (בנטרול יתרות המזומנים שלה) צנח ב-91% בשנה האחרונה, מ-24.4 מיליארד דולר לכ-2 מיליארד דולר בלבד. הפוסט טוען כי ייתכן שהשוק הפך לפסימי מדי לגבי סיכוני המסחור של אנרגיה גרעינית ומתעלם מהפוטנציאל של החברה, במיוחד לאור העובדה שמחירי היעד של האנליסטים עדיין גבוהים משמעותית ממחיר המניה הנוכחי.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות בשרשור, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה:\n\n*   **חשיבות המדדים הנכונים:** בקרב הקהילה ישנה הערכה לניתוח פיננסי מעמיק, כאשר נטען כי \"שווי שוק מותאם למזומן\" (Cash-adjusted market cap) הוא כלי הניתוח הנכון והרלוונטי ביותר עבור חברות שעדיין אין להן הכנסות (Pre-revenue).\n*   **השקעה בעתיד ולא בהווה:** המגיבים מציינים כי השקעה בחברות בשלב זה היא למעשה תשלום על ה\"צנרת\" (Pipeline) של הפרויקטים העתידיים, ולא על ביצועים נוכחיים.\n*   **ביקורת על שווי מבוסס \"הייפ\":** קיימת הסכמה שהתמחור הקודם של החברה (171 דולר למניה או שווי של 24 מיליארד דולר) לא היה רציונלי ונבע מהתלהבות יתר (\"Pure hype\") ולא מערך אמיתי.\n*   **שאלת התמחור הנוכחי:** לאחר הצניחה בשווי השוק ל-2 מיליארד דולר, עולה שאלה בקרב המשקיעים האם המחיר הנוכחי הפך ל\"זול מדי\" בהתחשב בפוטנציאל הטכנולוגי של כורי האנרגיה של החברה.\n*   **חשש מקצב שריפת המזומנים:** עולה נקודה מהותית של חוסר ודאות לגבי כמות המזומנים שהחברה תיאלץ \"לשרוף\" עד שתצליח להפוך לתפעולית ולהקים תחנת כוח פעילה, דבר שמקשה על הערכת השווי.\n*   **סיכוני ביצוע בתחום הגרעין:** הקהילה מדגישה שבתחום האנרגיה הגרעינית קיים \"סיכון ביצוע\" (Execution risk) משמעותי מאוד, ואין להקל בו ראש כשבוחנים את סיכויי ההצלחה של החברה."
+    "comments_summary_he": "להלן סיכום הדיון כפי שעלה מהתגובות בשרשור, המציג 6 נקודות מבט וסנטימנטים שונים של הקהילה:\n\n*   **חשיבות המדדים הנכונים:** בקרב הקהילה ישנה הערכה לניתוח פיננסי מעמיק, כאשר נטען כי \"שווי שוק מותאם למזומן\" (Cash-adjusted market cap) הוא כלי הניתוח הנכון והרלוונטי ביותר עבור חברות שעדיין אין להן הכנסות (Pre-revenue).\n*   **השקעה בעתיד ולא בהווה:** המגיבים מציינים כי השקעה בחברות בשלב זה היא למעשה תשלום על ה\"צנרת\" (Pipeline) של הפרויקטים העתידיים, ולא על ביצועים נוכחיים.\n*   **ביקורת על שווי מבוסס \"הייפ\":** קיימת הסכמה שהתמחור הקודם של החברה (171 דולר למניה או שווי של 24 מיליארד דולר) לא היה רציונלי ונבע מהתלהבות יתר (\"Pure hype\") ולא מערך אמיתי.\n*   **שאלת התמחור הנוכחי:** לאחר הצניחה בשווי השוק ל-2 מיליארד דולר, עולה שאלה בקרב המשקיעים האם המחיר הנוכחי הפך ל\"זול מדי\" בהתחשב בפוטנציאל הטכנולוגי של כורי האנרגיה של החברה.\n*   **חשש מקצב שריפת המזומנים:** עולה נקודה מהותית של חוסר ודאות לגבי כמות המזומנים שהחברה תיאלץ \"לשרוף\" עד שתצליח להפוך לתפעולית ולהקים תחנת כוח פעילה, דבר שמקשה על הערכת השווי.\n*   **סיכוני ביצוע בתחום הגרעין:** הקהילה מדגישה שבתחום האנרגיה הגרעינית קיים \"סיכון ביצוע\" (Execution risk) משמעותי מאוד, ואין להקל בו ראש כשבוחנים את סיכויי ההצלחה של החברה.",
+    "dateString": "2026-10-21",
+    "savedAt": {
+      "_seconds": 1792582409,
+      "_nanoseconds": 842000000
+    }
+  },
+  {
+    "id": "1xawgc5",
+    "title": "How Has Your Life Changed Since You Started Investing?",
+    "url": "https://www.reddit.com/r/investing/comments/1xawgc5/how_has_your_life_changed_since_you_started/",
+    "author": "Formal_Reference_371",
+    "score": 28,
+    "selftext": "Hey everyone, I’m really curious about how your life has changed since you started investing\n\nIf you’re a conservative investor, has investing made you feel more confident about your future and more optimistic about what lies ahead?\n\nAnd if you’re someone who invests in high-risk individual stocks, how does your life change with your gains or losses? Do you experience sudden excitement or disappointment? Do market swings affect your mood, or do you stay pretty unfazed?\n\nWhat were your original goals when you started investing? Were you looking for steady, consistent returns, or were you hoping to use investing to move up to a whole new level financially and eventually live without having to worry about what you spend?\n\nHow many people have found that reality doesn't quite match their expectations? And how many have actually reached their goals, achieved financial freedom, and then moved all their money into more conservative investments, enjoying a slower pace of life and spending their days doing the things they truly want to do?",
+    "subreddit": "investing",
+    "created_utc": 1792512910,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I bought my first stock in 1977, it cost me $75 commission to buy and a $75 commission to sell.\n\nI started my only IRA in 1983 with $2000.  I invested in the wrong thing not once, but twice.  Eventually, I put it into VFIAX.\n\n1987 I taught myself how to read balance sheets, income statements, cash flow, and earnings reports.\n\n1987 I taught myself how to analyze for mutual funds.\n\n1988 I learned that Whole Life Insurance is not an investment.  We surrendered our whole life policies and bought 30 year term life policies and invested the cost difference of Whole Life - Term Life into a mutual fund.\n\n1988 we sent in $3000 to a mutual fund via snail mail, and setup $100 a month investment.  This investment returned 15% a year from 1988 through 2001, from 2002 - 2023 it mirrored the S&P 500, since then the original Fund Manager who started the fund has since retired and left the fund in the hands of nitwits.  I told my spouse that when Robert retired I was selling it.  I sold half in January 2026, the other half I will sell in January of 2027.\n\nI started my first 401k in 1991.\n\nIn 1991, I selected $3,000,000 as the number we needed to retire.\n\nI learned that Bond funds, Growth and Income Funds, Balanced Funds, and TDF funds were very conservative investments, so any fund in our 401ks that owned bonds was terminated and I went 100% S&P 500 Index, my spouse went 85% S&P 500 Index, 10% small cap, and 5% international.\n\nI started our first Dividend Reinvestment Plan in 1991.\n\nI was a sort of day trader from 2003 - 2008.  I would wager $600,000 a day at my peak, on margin.  $600,000 was a scary number to me.  I made money trading from 2003 through 2008.  My peak year for Form 8949 was 17 pages, if you do taxes you know.\n\nI was short the market in 2007, but I held my shorts too long, and I got burned once the market turned in 2009.\n\nI did not go through a margin call, but I did lose money.\n\nI learned do not do margin.\n\nI learned do not do options.\n\nI learned I am better at being a buy and holder.\n\nSince 2009 I just buy and hold with some profit taking here and there.\n\n2018 our term life policies expired and we are now self insured.\n\nWe retired December 2023.\n\nIn retirement we have seven income streams, 401k\\*2, IRA\\*2, Social Security\\*2, and dividends.  We both claimed SS at age 62.\n\nWe were lifetime 22% tax brackets while working and buying houses, cars, having kids, and putting kids through college.\n\nIn retirement we moved up into the 24% bracket.  We are worried that RMDs might push us into the 32% bracket.\n\nWe are still nearly 100% equities.  We rode through the crashes of 1987, 2002, 2008, correction of 2018, and the crash of 2022.\n\nI am getting a bit more conservative as I am adding to my dividend holdings and not trying to shoot for the moon anymore.\n\nWe make more in dividend income than I make from my SS income, but not both of our SS income.  Working on that though.\n\nWe reached our goals.",
+        "score": 6,
+        "author": "DistributionBroad173"
+      },
+      {
+        "body": "Maybe it's not there anymore\n.. maybe you were hacked 6 weeks ago.",
+        "score": 4,
+        "author": "Key_Lifeguard_8659"
+      },
+      {
+        "body": "Indeed! And I’m in a position to pay it off today (well, tomorrow since the bank is closed now lol) but with a low three percent interest rate, I’m choosing to invest the money for a bigger payoff for now. \n\nWhen the calculus changes, I’ll pay it off.",
+        "score": 3,
+        "author": "dope-a-meanie"
+      }
+    ],
+    "summary_he": "הפוסט מזמין משקיעים לשתף כיצד ההשקעה השפיעה על חייהם ועל מצבם הרגשי, תוך השוואה בין גישות שמרניות המקנות ביטחון לבין השקעות בסיכון גבוה הגורמות לתנודות במצבי הרוח. הכותב בוחן האם היעדים הכלכליים המקוריים הושגו, והאם המציאות אכן תואמת את הציפיות לחופש כלכלי ולאורח חיים נינוח יותר.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מתוך התגובות בשרשור, המציגות פרספקטיבות שונות על השקעות, ניהול סיכונים ותכנון פרישה:\n\n*   **אבולוציה של אסטרטגיית השקעה ארוכת טווח:** אחד המגיבים מציג ניסיון של כמעט חמישה עשורים, החל מהתקופה שבה עמלות הקנייה והמכירה היו גבוהות מאוד ($75 לעסקה בשנות ה-70) ועד למעבר לניהול עצמי מבוסס ניתוח דוחות כספיים ומדדי S&P 500. הנקודה המרכזית היא הלמידה המתמדת והיכולת לתקן טעויות לאורך הדרך.\n*   **העדפת ביטוח חיים טהור על פני פוליסות משולבות חיסכון:** קיימת הסכמה (מבוססת ניסיון) שביטוח חיים מסוג \"Whole Life\" אינו מהווה השקעה טובה. האסטרטגיה המומלצת בקהילה היא רכישת ביטוח חיים למקרה מוות בלבד (Term Life) והשקעת ההפרש בעלויות ישירות בשוק ההון דרך קרנות נאמנות או מדדים.\n*   **הסיכונים שבמינוף ומסחר פעיל:** מתוך התנסות במסחר יומי ובשימוש במנוף (Margin) ובאופציות, עולה מסקנה נחרצת ששיטות אלו מסוכנות מדי עבור המשקיע הממוצע. הניסיון מלמד שאסטרטגיית \"קנה והחזק\" (Buy and Hold) יציבה ורווחית יותר לאורך זמן, גם לאחר התנסות בהפסדים משמעותיים בתקופות משבר (כמו 2008).\n*   **אגרסיביות בהקצאת נכסים:** קיימת דעה התומכת בהישארות בחשיפה מקסימלית למניות (כמעט 100%) גם בגיל פרישה, תוך הימנעות מקרנות אג\"ח או קרנות שמרניות (\"Target Date Funds\") בשלבי הצבירה, מתוך מטרה למקסם את צמיחת ההון למרות התנודתיות בשוק.\n*   **תכנון מס בפרישה ומלכודת ה-RMD:** נקודת מבט ייחודית נוגעת לחשש שמדרגת המס בפרישה תהיה גבוהה יותר מאשר בתקופת העבודה. זאת בשל ריבוי מקורות הכנסה (קצבאות, דיבידנדים וביטוח לאומי) וחובת משיכת כספים מקרנות פנסיה (RMDs), שעלולה לדחוף את הפורש למדרגות מס גבוהות באופן לא צפוי.\n*   **ניהול חוב מול השקעה (החזר הלוואה לעומת תשואה):** עולה סנטימנט לפיו אין למהר לפרוע חובות כאשר הריבית עליהם נמוכה (לדוגמה 3%). המשקיעים מעדיפים להשאיר את הכסף מושקע בשוק כדי להשיג תשואה גבוהה יותר מהריבית על החוב, ולפרוע אותו רק כאשר הנתונים הכלכליים (ה\"קלקולוס\") משתנים.\n*   **סקפטיות לגבי אבטחה וניהול קרנות:** לצד סיפורי ההצלחה, קיימים קולות המזהירים מפני שאננות – בין אם זה חשש מפריצות לחשבונות (Hacking) ובין אם זו ירידה באיכות ניהול הקרנות לאחר פרישת מנהלי קרנות מיתולוגיים, מה שמחייב ערנות ומעבר בין אפיקי השקעה."
+  },
+  {
+    "id": "1xazxrh",
+    "title": "What’s driving the AI trade TODAY and all that matters to the AI trade for TOMORROW",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xazxrh/whats_driving_the_ai_trade_today_and_all_that/",
+    "author": "Tallwhitedude123",
+    "score": 1,
+    "selftext": "So I’ve been doing tons of research the past few days to figure out what exactly is going on in the AI trade. There are many factors at play the BIGGEST is a report from Gartner that says based on their research that the AI revenue pie will not be big enough for all the AI players of today to survive by 2030. What this means is that since last week investors have been scrutinizing the AI companies with the weakest balance sheets, weakest business models and punishing them the most. Also, since AI revenues will come in light this means AI CapEx estimates for 2028 and beyond will have to be slashed significantly. This hurt semis and hardware stocks. Now some of yall might be wondering, “Who is Gartner and why should I care?” Gartner has a long successful track record as an IT research firm and their research has generally been directionally correct while sometimes even understating things. So basically, whatever Gartner says in their AI report is likely to actually end up slightly worse because that’s their track record. What this means is that AI revenues will come in even lighter than Gartners estimates.\n\nNow Gartners report hinges on ONE THING: REAL INTEREST RATES. Basically real interest rates is all that matters. If real interest rates are below 1% AI CapEx is spent at maximum amount no matter what AI revenues are because money is cheap resulting in AI stocks RIPPING HIGHER. Is real interest rates are at 1.5% or higher? Gartners report comes into play and becomes reality resulting in multiple compression in AI stocks. \n\nWhat is my base case? Real interest rates must stay low for one reason: the US government debt. The US government simply can’t afford high rates without it causing a debt spiral. For this reason real rates will stay low and AI stocks soar.",
+    "subreddit": "StockMarket",
+    "created_utc": 1792520612,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "דו\"ח של חברת גרטנר מעורר חשש כי הכנסות תחום ה-AI לא יספיקו לכל החברות הפועלות בו כיום, מה שמוביל לצמצום השקעות וללחץ על מניות חלשות. עם זאת, הכותב טוען כי גורם המפתח הוא הריבית הריאלית, וצופה שמניות ה-AI ימשיכו לעלות מכיוון שהממשל האמריקאי ייאלץ להשאיר את הריבית נמוכה כדי לנהל את חובו.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-10-21",
+    "savedAt": {
+      "_seconds": 1792582386,
+      "_nanoseconds": 210000000
+    }
+  },
+  {
+    "id": "1xc6dcx",
+    "title": "Investing for Dying (Estate Planning)",
+    "url": "https://www.reddit.com/r/investing/comments/1xc6dcx/investing_for_dying_estate_planning/",
+    "author": "Penguin_Life_Now",
+    "score": 7,
+    "selftext": "We see a LOT of talk about investment for retiring, but one thing we don't see on here is investment for estate and inheritance planning,  which is something I am trying to help my elderly mother with.  I am not looking for specific personal advice, just for general concepts, I have tried asking in other sub reddits, only to be swarmed with replies about how people should not leave money to their children, etc.\n\nHere is the situation, my 87 year old mother has ample government pension income to support her lifestyle, plus IRA, cash in money market account, and she owns a sizable amount of land that she inherited 20+ years ago, which will again step up when she passes away.  She may soon be getting another $55,000 - $90,000 per year of dividend like income that can't be DRIP reinvested that needs to go somewhere.  She wants to reinvest it to let it grow for potential children (well child now)  and grand children's inheritance  She is in good health, but is 87.\n\nThe concern here is maximizing income to the family, allowing for basis step up, etc. in a hold until death ETF so as to avoid capital gains tax, etc.  The other concern is the chance of dying during a market correction, which would result in a basis step down.  This is the part that does not get talked about online, the best investment strategy that takes into account the actuarial side of things, the fact that she is in good health now, and that most older people go through some sort of decline before dying, etc.  All of this differs from the common topic of market correction happening at time of retirement, since retirement date can be planned for, and death date has to be estimated using available data, which realistically is a 6 year average time horizon, and 90% chance in under 12 years.",
+    "subreddit": "investing",
+    "created_utc": 1792635378,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "There has been some of that going on too, but much of it is is contradictory positions also, so at least here is a place to get other variations on thoughts on the issues.",
+        "score": 3,
+        "author": "Penguin_Life_Now"
+      },
+      {
+        "body": "You need to talk with some financial planners and trust lawyers. It's not a question that Reddit can really help you with. The situation is too personalized and the amount is too big to be asking randoms online.\n\nSeriously it sounds like you've got a multimillion dollar estate and you want to ask 20 year olds with like maybe $50k portfolios. It doesn't make sense.\n\nThe best chance on Reddit is maybe some of the financial independence and wealthy subreds, but not the general investing subred.",
+        "score": 3,
+        "author": "VoidMageZero"
+      },
+      {
+        "body": "Yeah, its that ideally bit, that is the issue,  but you talk to 3 of them and you get 3 radically different answers with none of them really going into the details of the planning.",
+        "score": 2,
+        "author": "Penguin_Life_Now"
+      }
+    ],
+    "summary_he": "הפוסט דן באסטרטגיות השקעה המיועדות לתכנון ירושה והעברת הון בין-דורית, במקום המיקוד המקובל בחיסכון לצורכי פרישה. הכותב מחפש דרכים למקסם את נכסי אמו בת ה-87 עבור יורשיה, תוך התחשבות בשיקולי מס ובסיכון של תנודות בשוק ההון בהתאם לתוחלת החיים המשוערת.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בתגובות מהשרשור ב-Reddit, הכולל 6 נקודות מבט ודעות שונות שהועלו:\n\n* **ערכן של דעות מגוונות:** אחת הגישות בשרשור גורסת כי היתרון המרכזי ב-Reddit הוא האפשרות לקבל מגוון רחב של דעות ונקודות מבט שונות על אותו נושא, גם אם המידע לעיתים סותר או מבלבל.\n* **הצורך בייעוץ מקצועי ומוסמך:** הועברה ביקורת נוקבת על עצם הפנייה לקהל הרחב בנושאים מורכבים; נטען כי במקרה של הון משמעותי, יש לפנות אך ורק לאנשי מקצוע כמו מתכננים פיננסיים ועורכי דין המתמחים בנאמנויות.\n* **חוסר התאמה דמוגרפי בפורום:** קיימת טענה כי המשיב הממוצע בפורום השקעות כללי הוא צעיר (בשנות ה-20 לחייו) עם תיק השקעות קטן יחסית, ולכן אין לו את הניסיון או הכלים לייעץ לאדם המנהל עיזבון של מיליוני דולרים.\n* **התאמה אישית של הבעיה:** הודגש כי מצבים פיננסיים מסוימים הם \"אישיים מדי\" ומורכבים מכדי שזרים באינטרנט יוכלו לספק להם פתרון רלוונטי או אחראי.\n* **בחירת קהילת היעד הנכונה:** הועלתה הצעה שאם בכל זאת בוחרים להתייעץ ב-Reddit, כדאי לעשות זאת בתתי-פורומים (Subreddits) ספציפיים המיועדים לעצמאות כלכלית או לאנשים בעלי הון גבוה, ולא בפורום השקעות כללי.\n* **ספקנות כלפי מומחים:** מנגד, עלתה טענה המבטאת חוסר אמון מסוים באנשי מקצוע; צוין כי לעיתים פנייה למספר מומחים מניבה תשובות שונות לחלוטין וחסרות פירוט, מה שמקשה על קבלת החלטה מושכלת גם בערוצים הרשמיים."
   },
   {
     "id": "1xaq4of",
@@ -201,42 +258,103 @@ window.dailyTrends = [
     ],
     "summary_he": "מגזר האנרגיה הגרעינית וקרנות הסל בתחום חוו ירידות שערים חדות בשנה האחרונה לאחר תקופה של צמיחה מהירה מדי, אך הכותב סבור כי הפוטנציאל ארוך הטווח נותר גבוה. לדעתו, הגרעין הוא פתרון הכרחי לעתיד בזכות הביקוש הגובר לחשמל והמגבלות של מקורות אנרגיה מתחדשים או מזהמים אחרים.",
     "category_he": "השקעות",
-    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג נקודות מבט שונות של הקהילה בנוגע להשקעה באנרגיה גרעינית:\n\n*   **הפרדה בין פוטנציאל התעשייה למחיר המניה:** קיימת הבחנה ברורה בין הנחיצות של אנרגיה גרעינית לטווח ארוך לבין התנודתיות במניות. ירידות חדות במחירים עשויות לנבוע מהתפוגגות של \"הייפ\" רגעאי ולאו דווקא משינוי ביסודות הכלכליים של התחום.\n*   **השפעת ענף הבינה המלאכותית (AI):** הצורך הגובר של מרכזי נתונים של AI באספקת חשמל קבועה, יציבה ודלת-פחמן מהווה מנוע צמיחה משמעותי ותומך במודל העסקי של האנרגיה הגרעינית לטווח הארוך.\n*   **בעיית התזמון וההכנסות:** פרויקטים גרעיניים, ובמיוחד כורים קטנים (SMR), סובלים מלוחות זמנים ארוכים מאוד. עוברות שנים רבות מרגע חתימת החוזה ועד שהחברה רואה הכנסות בפועל, מה שיוצר סיכון למשקיעים שמצפים לרווח מהיר.\n*   **איטיות התהליכים בהשוואה לאנרגיות מתחדשות:** בניגוד לאנרגיה סולארית שניתן להקים תוך שנה, הקמת כור גרעיני דורשת מעל עשור (גם תחת רגולציה מקלה). עובדה זו הופכת את קצב הצמיחה של התשואה על ההשקעה לנמוך יחסית לאפשרויות אחרות בשוק.\n*   **אסטרטגיית השקעה זהירה:** קיימת המלצה להתמקד בחברות שכבר מחזיקות בתחנות כוח פעילות ומניבות רווחים, ולא להסתמך רק על חברות שכל עתידן מבוסס על פיתוח טכנולוגיות כורים עתידיות שטרם הוכחו כלכלית.\n*   **סיכון לאסון קטסטרופלי:** למרות הפוטנציאל, קיים חשש תמידי מפני אירוע בטיחותי חריג (כמו ב\"אי שלושת המילין\"). אסון כזה עלול להוביל לקריסה של התעשייה כולה ולעצירת השקעות למשך עשרות שנים.\n*   **מכשולים פיננסיים ועלויות מימון:** פרויקטים של אנרגיה גרעינית הם יקרים להפליא למימון. בסביבת הריבית הנוכחית, גיוס חוב לצורך הקמת כורים הופך לנטל כבד שמעיב על הכדאיות הכלכלית של המיזמים."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג נקודות מבט שונות של הקהילה בנוגע להשקעה באנרגיה גרעינית:\n\n*   **הפרדה בין פוטנציאל התעשייה למחיר המניה:** קיימת הבחנה ברורה בין הנחיצות של אנרגיה גרעינית לטווח ארוך לבין התנודתיות במניות. ירידות חדות במחירים עשויות לנבוע מהתפוגגות של \"הייפ\" רגעאי ולאו דווקא משינוי ביסודות הכלכליים של התחום.\n*   **השפעת ענף הבינה המלאכותית (AI):** הצורך הגובר של מרכזי נתונים של AI באספקת חשמל קבועה, יציבה ודלת-פחמן מהווה מנוע צמיחה משמעותי ותומך במודל העסקי של האנרגיה הגרעינית לטווח הארוך.\n*   **בעיית התזמון וההכנסות:** פרויקטים גרעיניים, ובמיוחד כורים קטנים (SMR), סובלים מלוחות זמנים ארוכים מאוד. עוברות שנים רבות מרגע חתימת החוזה ועד שהחברה רואה הכנסות בפועל, מה שיוצר סיכון למשקיעים שמצפים לרווח מהיר.\n*   **איטיות התהליכים בהשוואה לאנרגיות מתחדשות:** בניגוד לאנרגיה סולארית שניתן להקים תוך שנה, הקמת כור גרעיני דורשת מעל עשור (גם תחת רגולציה מקלה). עובדה זו הופכת את קצב הצמיחה של התשואה על ההשקעה לנמוך יחסית לאפשרויות אחרות בשוק.\n*   **אסטרטגיית השקעה זהירה:** קיימת המלצה להתמקד בחברות שכבר מחזיקות בתחנות כוח פעילות ומניבות רווחים, ולא להסתמך רק על חברות שכל עתידן מבוסס על פיתוח טכנולוגיות כורים עתידיות שטרם הוכחו כלכלית.\n*   **סיכון לאסון קטסטרופלי:** למרות הפוטנציאל, קיים חשש תמידי מפני אירוע בטיחותי חריג (כמו ב\"אי שלושת המילין\"). אסון כזה עלול להוביל לקריסה של התעשייה כולה ולעצירת השקעות למשך עשרות שנים.\n*   **מכשולים פיננסיים ועלויות מימון:** פרויקטים של אנרגיה גרעינית הם יקרים להפליא למימון. בסביבת הריבית הנוכחית, גיוס חוב לצורך הקמת כורים הופך לנטל כבד שמעיב על הכדאיות הכלכלית של המיזמים.",
+    "dateString": "2026-10-21",
+    "savedAt": {
+      "_seconds": 1792582428,
+      "_nanoseconds": 73000000
+    }
   },
   {
-    "id": "1xaovqi",
-    "title": "A Positioning Reset Beneath a Resilient Market",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xaovqi/a_positioning_reset_beneath_a_resilient_market/",
-    "author": "Smart_Money_HQ",
-    "score": 1,
-    "selftext": "The past few weeks have given markets plenty of reasons to sell off, yet SPY is still trading just 2% below its all-time high. One interesting development I wanted to highlight is what happened during Friday's OPEX, particularly in the VIX, where we saw a rather outsized move relative to the SPX.\n\nMuch of this came down to market maker positioning and what appears to have been a negative gamma feedback loop - as the VIX moved higher, the delta of call positions that had been building since last month increased, forcing market makers who were short those calls to buy more VIX futures to hedge their exposure, further amplifying the move. For context, the VIX typically moves around five times as much as the SPX in percentage terms, yet on Friday that ratio reached roughly 20x.\n\nWe can see a significant compression across the VIX term structure at the front end which supports that the spike was s driven by short-term hedging mechanics and is supportive for equities\n\nhttps://i.redd.it/5jcn6851qlwh1.png\n\nThe next two weeks will be very important as earnings season picks up. and while only about 14% of S&P 500 companies are reporting this week, we have both META and TSLA on Wednesday. The focus will likely be on META and what management has to say about AI spending and monetisation, while TSLA will be interesting given the growing speculation around a potential merger with SpaceX.\n\nSpeaking of SpaceX, the company confirmed its earnings for today after the market close, which is rather unusual given the relatively short notice.\n\nWhether the timing is an attempt to stabilise sentiment around the AI trade is anyone's guess, but it certainly makes today's report one to watch\n\nBelow is what the options market is currently pricing for the earnings moves compared with the historical median moves over the past eight quarters. Do note that for SPCX, we're using the August 4 report, as that is the only post-IPO earnings reaction we have.\n\nhttps://i.redd.it/ug6ow70bqlwh1.png\n\nTurning to positioning, there isn't much support coming from CTAs at current levels. Systematic flows are likely to remain skewed towards selling, with the next meaningful positioning threshold sitting roughly 3% below the market, around SPY $740. In other words, we shouldn't expect CTAs to provide much of a cushion if we see further weakness in the near term.\n\nhttps://i.redd.it/ebnrbgzdqlwh1.png\n\nThe positive here is that corporate buybacks are starting to pick up again as we're looking at a record year for buybacks, and with companies gradually exiting their blackout periods, these flows should become an important source of support as we move into November.\n\nhttps://i.redd.it/sde91mneqlwh1.png\n\nhttps://i.redd.it/udaj8bkhqlwh1.png\n\nAnother thing worth noting is the massive deleveraging we saw across hedge funds last week. Whether someone got caught on the wrong side of the trade and triggered broader risk reductions is difficult to say, and I won't speculate on who, but the dynamics resemble some of the forced unwinds we've seen further amplified by market maker hedging.\n\nHedge fund net leverage has fallen to 43.7%, whichs the largest weekly decline since Liberation Day in April 2025 and the fourth-largest weekly decline over the past five years.\n\nThis is important because while forced deleveraging puts pressure on equities in the short term, it also creates room for positioning to rebuild. This means that high-beta names could reverse quite quickly if earnings come in better than expected and funds start putting risk back on. That doesn't mean the selling is necessarily over, but the positioning is becoming  less crowded.\n\nhttps://i.redd.it/bw7mlntlqlwh1.png\n\nI also wanted to share an interesting finding from Bank of America's latest fund manager survey - investors indicated that a 10-year Treasury yield of roughly 5.9 -6% would be enough to trigger a more meaningful rotation out of equities and into bonds. Given where yields are currently trading, there is still some room before funds switch from sector rotation to equity risk-off\n\nhttps://i.redd.it/c7n1nesmqlwh1.png\n\nWhile we're on bonds, besides earnings, keep an eye on Wednesday's $13 billion 20-year Treasury auction as thiswill be a test of demand given the ongoing concerns around fiscal deficits and the amount of debt the Treasury needs to finance. As you can see from the chart, the 20-year yield is trading around 5.5%, even slightly above the 30-year, suggesting investors are demanding a premium to hold this part of the curve. The positive here is that duration has recovered from the early October selloff, bond volatility has started to ease, and trading conditions have become more orderly. So this is certainly more favourable than it was a couple of weeks ago, although the structural concerns haven't gone anywhere. What I'll be watching is whether the auction attracts solid demand without a meaningful tail, as a weak result could quickly put pressure back on long-end yields and, by extension, equities.\n\nhttps://i.redd.it/s30iyuhnqlwh1.png\n\nFinally, with reports of another potential escalation in the Middle East, I wanted to comment on oil markets. Traders are increasingly treating the disruption around the Strait of Hormuz as a more persistent problem rather than a temporary geopolitical shock. Brent futures for December 2027 are still trading close to $90 per barrel, so the risk premium remains priced into the market well beyond the immediate conflict while the equity market is holding up\n\nhttps://i.redd.it/w277ax4oqlwh1.png\n\nComing back to SPY, now that OPEX has passed, the index has stabilised around the $760–765 area, with Friday's session testing the lower end of that range, broadly in line with what we expected. The question now is whether improving earnings and the return of buyback flows will be enough to offset the remaining systematic selling pressure. With positioning having been reduced so aggressively, the setup for a recovery is certainly there, but we still need earnings to deliver.\n\nFor now, trading is likely to remain choppy with the options market pricing in a move of about 13 points which brings the lower end near the $750-55 level. Vol regime is negative so moves are going to be sharp while bellow $775. Immediate resistance is $770 while support is at $760. Volumes are neutral\n\nhttps://i.redd.it/6suff3voqlwh1.png\n\nIn terms of volume, QQQ is starting to catch a bid, although options positioning remains heavily skewed towards puts. The nearest support sits around $710, where market maker hedging could provide some buying support. Worth noting that the options market is pricing in a move of roughly 13–14 points, which would bring us closer to the $700 level on the downside. I expect that to be a much stronger support area, esp given the positioning around it.\n\nhttps://i.redd.it/6ctigpopqlwh1.png\n\nSOXX continues to chop around the $500 level, although we're starting to see volumes pick up around $480 and $470. This suggests we could see another leg lower towards those levels before the market finds support and resumes higher.\n\nhttps://i.redd.it/r3jtz5cqqlwh1.png\n\nhttps://i.redd.it/vgrekqqqqlwh1.png\n\n**TL;DR:** Markets remain resilient despite the recent volatility, with SPY just 2% below ATH. Friday's VIX spike appears largely driven by market maker hedging rather than a fundamental shift in sentiment.; aggressive hedge fund deleveraging has reduced crowded positioning, creating room for a recovery if earnings deliver. CTA flows remain a headwind, but returning corporate buybacks should provide support into November. META, TSLA and SPCX earnings, alongside Wednesday's 20-year Treasury auction, will be catalysts. For now, expect choppy trading, with SPY support at $760, resistance at $770 and sharper moves likely below $775. The setup for a recovery is improving, but earnings need to confirm it.",
-    "subreddit": "StockMarket",
-    "created_utc": 1792493337,
-    "thumbnail": "https://preview.redd.it/mw6miukuqlwh1.jpeg?width=140&height=128&auto=webp&s=52fa10cc6a574fb881afc6dc959cbbe9a6c01c4b",
+    "id": "1xazdn1",
+    "title": "My research on Masterworks (a fractional art investing platform), what it reveals, and my resulting opinion",
+    "url": "https://www.reddit.com/r/investing/comments/1xazdn1/my_research_on_masterworks_a_fractional_art/",
+    "author": "Aggressive-Ice5775",
+    "score": 6,
+    "selftext": "Link to pdf upload of substack post: [https://smallpdf.com/file#s=cf23b052-226b-4606-a781-df20f15aad0f](https://smallpdf.com/file#s=cf23b052-226b-4606-a781-df20f15aad0f)  \n  \n  \nTLDR;\n\nMasterworks is an art investment platform that sells fractional shares in individual artworks through Regulation A offerings. It buys a piece of art, registers the offering with the SEC, and sells shares in $20 increments to retail investors on its platform who are paid if and when the artwork is again sold to a third party. It currently holds roughly 500 artworks in its portfolio. The platform has accrued a portfolio in the range of $1 billion across various artists and markets art as an asset class that outperforms equities.\n\n...Masterworks’ offerings are not a worthwhile investment. The platform is incentivized to generate revenue from share issuance and management fees rather than from portfolio performance, provides no visibility into whether individual works are being actively marketed, and holds a portfolio unlikely to produce returns exceeding accessible alternatives on a risk-adjusted basis\n\nThis was a hobby piece, but discussion and questions are obviously welcome. Thanks for reading!",
+    "subreddit": "investing",
+    "created_utc": 1792519393,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "If you want to buy art . . . just buy art.",
+        "score": 12,
+        "author": "wwb_99"
+      },
+      {
+        "body": "Can I interest you in an art timeshare? \n\nYou can gaze at it on the second Monday of the firs week of September, and I get it the rest of the year.",
+        "score": 7,
+        "author": "Valvador"
+      },
+      {
+        "body": "It's about as sound an investment as the old Brewdog 'Equity for Punks' scheme that was basically you paying a lot of money for a membership card and a theoretical promise that you'd get something back in future. \n\nAnything that advertises as heavily as they did screams scam. It's just nonsense pseudo investing which by pretty much any measure will be far, far worse than just putting your money in an index fund. ",
+        "score": 6,
+        "author": "Due-Freedom-5968"
+      }
+    ],
+    "summary_he": "הפוסט מנתח את פלטפורמת Masterworks, המאפשרת למשקיעים קטנים לרכוש שברי מניות של יצירות אמנות יוקרתיות, ומגיע למסקנה שמדובר בהשקעה שאינה מומלצת. הכותב טוען כי מודל הרווח של החברה מתעדף גביית עמלות ודמי ניהול על פני השאת רווחים למשקיעים, וכי חוסר השקיפות והסיכון הגבוה הופכים את התשואות הצפויות לפחות משתלמות בהשוואה לחלופות השקעה אחרות.",
+    "category_he": "השקעות",
+    "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט וסנטימנטים מרכזיים שעלו מתוך התגובות:\n\n*   **העדפת בעלות ישירה ופשוטה:** אחת הדעות המרכזיות היא שאם אדם מעוניין באמנות, עדיף לו פשוט לרכוש יצירת אמנות פיזית באופן ישיר, מבלי להסתבך במנגנוני השקעה מורכבים (\"פשוט תקנו אמנות\").\n*   **לעג למודל הבעלות החלקית:** הקהילה משווה בציניות את המודל ל\"יחידות נופש\" (Timeshare), תוך הדגשה שהמשקיע כמעט ולא זוכה ליהנות מהנכס או לצפות בו, בעוד שגורם אחר מחזיק בו רוב הזמן.\n*   **השוואה למיזמי עבר כושלים:** הדיון משווה את ההשקעה למיזמים כמו 'Equity for Punks' של חברת Brewdog – מודלים שבהם המשקיע משלם סכום נכבד ומקבל בתמורה בעיקר \"כרטיס חבר\" והבטחות תיאורטיות לרווח עתידי שספק אם יתממש.\n*   **פרסום אגרסיבי כסימן אזהרה:** קיימת תמימות דעים כי שיווק מאסיבי ואגרסיבי הוא \"נורת אזהרה\" (Red Flag). המגיבים טוענים כי מוצרים שזקוקים לפרסום כה נרחב לרוב מתבררים כהונאה או כהשקעות גרועות.\n*   **ביקורת על \"פסאודו-השקעות\":** המגיבים מגדירים את המודל כהשקעת דמה חסרת משמעות כלכלית אמיתית, שנועדה למשוך אנשים למסלול שאינו מבוסס על ערך פונדומנטלי.\n*   **העדפת אפיקים מסורתיים:** בשורה התחתונה, הקהילה גורסת כי כמעט בכל קנה מידה, השקעה בקרנות מחקות מדד (Index Funds) עדיפה ובטוחה בהרבה על פני הרפתקאות פיננסיות מסוג זה בתחום האמנות."
+  },
+  {
+    "id": "1xatlhh",
+    "title": "Best Money Market ETF or Similar for Roth IRA",
+    "url": "https://www.reddit.com/r/investing/comments/1xatlhh/best_money_market_etf_or_similar_for_roth_ira/",
+    "author": "CuriousCat511",
+    "score": 3,
+    "selftext": "I lump sum my annual Roth IRA contributions, but like to DCA the investment purchases.  What's the highest yielding no-risk etf for keeping the cash in the Roth IRA until it's invested in my core holdings?\n\nI prefer ETFs over mutual funds because I want to sell and buy immediately, rather than waiting for a mutual fund to execute at end of day.\n\nI'm seeing BOXX at \\~4% yield, but ironically the tax benefits are lost because it's a Roth account.  Anything higher than 4% with no downside risk?\n\nDoes JPST or NEAR have too much risk?",
+    "subreddit": "investing",
+    "created_utc": 1792506432,
+    "thumbnail": "self",
     "top_comments": [],
-    "summary_he": "השוק מפגין חוסן למרות התנודתיות האחרונה, כאשר הפחתת מינוף אגרסיבית מצד קרנות גידור והתאמות טכניות במדד ה-VIX פינו מקום להתאוששות פוטנציאלית. דוחות הרווח של ענקיות הטכנולוגיה (כמו META ו-TSLA) וחזרת הרכישות העצמיות של חברות (buybacks) יהיו גורמי מפתח בשבועות הקרובים, בעוד שהמסחר צפוי להישאר תנודתי בטווח הקצר סביב רמות התמיכה המרכזיות.",
+    "summary_he": "הכותב מחפש המלצה לקרן סל (ETF) דמוית מזומן עם תשואה גבוהה וסיכון אפסי עבור כספים המופקדים בחשבון Roth IRA לפני השקעתם בנכסי הליבה. הוא מעדיף קרנות סל על פני קרנות נאמנות בשל היכולת לסחור בהן באופן מיידי, ושואל לגבי כדאיותן של קרנות כגון BOXX, JPST או NEAR.",
     "category_he": "השקעות",
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1xanl8v",
-    "title": "Centrus Energy (LEU) buys its centrifuge casing supplier to support its own enrichment expansion",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xanl8v/centrus_energy_leu_buys_its_centrifuge_casing/",
-    "author": "ohdonpier",
-    "score": 1,
-    "selftext": "Centrus Energy disclosed on 19 October 2026 in an 8-K that on 16 October it signed and closed the purchase of 100% of Westerman Holdings, LLC from the Westerman Employee Stock Ownership Trust for approximately $116 million. Roughly $95 million was cash and about $21 million was Centrus Class A stock. Westerman, founded in 1909, employs about 400 people across four facilities in Ohio, Oklahoma and Wyoming and was already supplying Centrus with centrifuge casings and other major centrifuge components. It also makes nuclear-grade products such as uranium hexafluoride cylinders plus upstream and midstream oil and gas equipment. The company is now a wholly owned subsidiary that keeps its name. Centrus says the deal supports its previously announced multi-billion-dollar expansion of uranium enrichment capacity, should lower project costs through an integrated supply chain, and is expected to be accretive to adjusted earnings per share in the first year.\n\nSource:  \n[https://www.sec.gov/Archives/edgar/data/1065059/0001628280-26-066212-index.htm](https://www.sec.gov/Archives/edgar/data/1065059/0001628280-26-066212-index.htm)\n\n\n\nWhat I think this implies:\n\nCentrus Energy (LEU) now owns the shop that fabricates the casings and major components for the centrifuges it needs to add enrichment capacity. That input was previously coming from an independent, employee-owned third party, so the build rate for the expansion is no longer limited by whatever share of capacity that outside supplier chose to allocate.\n\nAnyone else that would have needed the same qualified nuclear-grade fabrication or uranium hexafluoride cylinders from those four plants loses access to that capacity, which is now directed at Centrus's own multi-billion-dollar enrichment build.\n\nThe next quarterly report is the first place to look for confirmation, since it must include Westerman in the accounts and would show any update to the stated cost or schedule of the enrichment expansion. Later reports would show whether Westerman-built components are actually feeding the build rate.\n\nIf later filings show the enrichment expansion schedule unchanged or slipping even with the fabricator in-house, or if the plants stay mostly committed to the oil and gas and industrial work the release describes, then this is mainly an earnings-accretive industrial purchase rather than relief of a capacity bottleneck for the enrichment project.",
-    "subreddit": "StockMarket",
-    "created_utc": 1792488715,
+    "id": "1xax8k6",
+    "title": "Thinking of starting a new business",
+    "url": "https://www.reddit.com/r/business/comments/1xax8k6/thinking_of_starting_a_new_business/",
+    "author": "Kanberino",
+    "score": 3,
+    "selftext": "Hello - I am thinking of starting a new clothing business and have been quoted 27 pounds per item for Jeans and 11 pounds per item for tshirts. I have asked many manufacturers and this is the lowest deal I have gotten. How would you start this business? I only have about 4k to spend. ",
+    "subreddit": "business",
+    "created_utc": 1792514669,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Vertical integration at the exact point of constraint, that's about as clean a signal as you get in this sector. The ESOP angle makes it feel less like a hostile squeeze and more like they bought their way past a bottleneck nobody else was going to solve for them",
+        "body": "This. \n\nFashion without a clear niche is easy to lose your 4k just in marketing budget alone before you have brought any product.",
+        "score": 3,
+        "author": "Epic_Karma"
+      },
+      {
+        "body": "But do you have enough people willing to buy your product that covers all your costs and overhead? \n\nI'm going to keep this stupid simple, but some economics here:\n\nYou start with 4k pounds. \n\nYou buy 50 shirts at 11 pounds= £550\n\nThen you have BOL costs, duties and VAT. I have no clue what rates are and won't pretend to know or act like I understand. I'm going to make up a number: it costs you an additional £500.\n\nYou're now up to 1,100 in your costs. It's going to cost you shipping, say you get 50 customers, and your shipping is 3 per person. Your costs are now 1,250.\n\nOh wait, packaging! You can't just slap a label on a shirt and drop it in the mail box. 1 per package. \n\nYour costs are now 1,300. Eh, but the crown wants it's tax on sales (no idea if sales tax is a thing there, from the US). I'll say it's 5% so you must pass that onto the customer, not all revenue will be yours. \n\nNow here's where most starting off entrepreneurs mess up: you need to pay yourself. What is your time worth? Let's say you sink in about 1 hour per shirt and you pay yourself £20/hr. You need to add in an additional 20 in cost per shirt. Aha, but you need to make a profit to pay your overhead, marketing and more product. That 4k won't magically multiply itself. \n\nLet's say you target a markup of 60%.\n\n1,300 ÷ 50 = 26. + 20 = 46 ×.6 = 27.6+46 = 73.6. you also need to collect 5% of that in sales tax. 73.6×.05 = 3.68.\n\nYou are charging £77.28 per shirt. No &@#$ way am I paying that for a shirt. Does your niche add enough consumer value that you can get more than your current customer base to pay that for a shirt? \n\nNow, you release it, and you get knocked off by a powerhouse manufacturer in India (where your copyright claims won't go anywhere) that can sell the same shirt for £12.\n\nYou're automatically done. \n\nJust think about the economics and the value you're adding to the market before you attempt to waste your money.",
+        "score": 2,
+        "author": "LanceStratus"
+      },
+      {
+        "body": "If you start another business else where that blows uo in revenue & making you popular or famous. Then you introduce your clothing brand.  \nClothing brand as an initial start up is risky with just 4k.",
         "score": 1,
-        "author": "ExcellentWeariness"
+        "author": "Ethans_on_Saturn"
       }
     ],
-    "summary_he": "חברת סנטרוס אנרג'י (Centrus Energy) רכשה את ספקית הרכיבים Westerman Holdings תמורת כ-116 מיליון דולר, במטרה לאבטח את שרשרת האספקה שלה להרחבת מערך העשרת האורניום. המהלך נועד להוזיל עלויות ולייעל את הייצור באמצעות אינטגרציה אנכית, תוך הבטחת גישה בלעדית לרכיבים קריטיים הדרושים לבניית צנטריפוגות חדשות.",
+    "summary_he": "כותב הפוסט מעוניין להקים עסק ביגוד חדש לאחר שקיבל הצעות מחיר לייצור ג'ינסים ב-27 פאונד וחולצות ב-11 פאונד ליחידה. עם תקציב מוגבל של כ-4,000 פאונד בלבד, הוא מבקש עצות מהקהילה לגבי הדרך הנכונה ביותר להתחיל ולנהל את המיזם.",
     "category_he": "עסקים",
-    "comments_summary_he": "להלן ניתוח של נקודות המבט והלכי הרוח העולים מהתגובה, כפי שהתבקש:\n\n**סיכום הדיון (6 נקודות מרכזיות):**\n\n*   **אינטגרציה אנכית אסטרטגית:** המהלך נתפס כפעולה מבריקה של אינטגרציה אנכית, הממוקמת בדיוק בנקודת התורפה (צוואר הבקבוק) של תהליך הייצור או האספקה.\n*   **איתות שוק ברור:** הכותב מדגיש כי מדובר באחד האיתותים החיוביים והנקיים ביותר שניתן לקבל במגזר העסקי הזה, מה שמעיד על ביטחון בחוזקה של החברה.\n*   **היבט ה-ESOP (תוכנית בעלות עובדים):** שילוב העובדים בבעלות הופך את המהלך לידידותי יותר מבחינה תדמיתית; זה גורם לרכישה להיראות פחות כפעולה כוחנית ויותר כשותפות אסטרטגית.\n*   **פתרון עצמי לחסמים:** הקהילה מזהה שהחברה בחרה \"לקנות את דרכה\" אל מחוץ לבעיה, במקום לחכות לגורם חיצוני שיפתור עבורה את צוואר הבקבוק – מה שמעיד על תושייה ניהולית.\n*   **הימנעות מתפיסה של \"השתלטות עוינת\":** בזכות המבנה הייחודי של העסקה, היא אינה נתפסת כ\"סחיטה\" (Squeeze) של השוק או כפעולה אגרסיבית כלפי מתחרים, אלא כצעד עסקי לוגי ומתבקש.\n*   **חוסר ברירה בשוק:** קיימת הבנה שאף גורם אחר בתעשייה לא היה פותר את הבעיה עבור החברה, ולכן המהלך נתפס כהכרחי להישרדות וצמיחה ארוכת טווח."
+    "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט וטיעונים מרכזיים בנוגע להקמת מותג אופנה בתקציב של 4,000 ליש\"ט:\n\n*   **חשיבות הנישה והשיווק:** ללא נישה ברורה וממוקדת, קיים סיכון גבוה לאבד את כל התקציב (4,000 ליש\"ט) על הוצאות שיווק בלבד, עוד לפני שהמוצר הראשון בכלל מגיע למדפים או ללקוח.\n*   **העלויות הנסתרות של הייצור:** מעבר לעלות הייצור הבסיסית של הבגד, יזמים חייבים לקחת בחשבון שורה ארוכה של עלויות נוספות: דמי משלוח (BOL), מכס, מע\"מ, חומרי אריזה ותשלומי מיסים למדינה. אלו מצטברים לסכומים משמעותיים שמשנים את התמונה הכלכלית.\n*   **תמחור זמן העבודה של היזם:** אחת הטעויות הנפוצות של יזמים מתחילים היא \"שכיחת\" השכר העצמי. הדיון מדגיש כי יש לתמחר את שעות העבודה המושקעות בכל פריט (למשל, שעת עבודה לכל חולצה) כחלק מעלות המוצר, כדי להבטיח שהעסק באמת רווחי ולא רק \"מגלגל\" כסף.\n*   **מבחן המחיר הסופי לצרכן:** לאחר חישוב כל העלויות (ייצור, שילוח, עבודה ורווח מבוקש), מחיר המוצר עלול לזנק לרמות גבוהות מאוד (לדוגמה, מעל 70 ליש\"ט לחולצה). על היזם לשאול את עצמו בכנות האם הערך המוסף של המותג באמת מצדיק מחיר כזה בעיני הלקוח.\n*   **איום ההעתקות והתחרות הגלובלית:** מותגים קטנים פגיעים מאוד ליצרני ענק ממדינות כמו הודו, שיכולים להעתיק את העיצוב ולמכור מוצר דומה במחיר נמוך משמעותית (למשל ב-12 ליש\"ט), מה שיכול להוביל לקריסה מהירה של המותג המקורי.\n*   **אסטרטגיית חדירה חלופית לשוק:** הצעה קהילתית גורסת כי הקמת מותג בגדים כעסק ראשון היא סיכון גבוה מדי. עדיף קודם לבנות מותג אישי, לצבור קהל עוקבים או להצליח בעסק אחר שמייצר הכנסות ופרסום, ורק אז להשתמש במוניטין הקיים כדי להשיק קו אופנה."
+  },
+  {
+    "id": "1xc9861",
+    "title": "Shifting from brokerage to 401K - best strategy?",
+    "url": "https://www.reddit.com/r/investing/comments/1xc9861/shifting_from_brokerage_to_401k_best_strategy/",
+    "author": "SoulArraySound",
+    "score": 2,
+    "selftext": "Hey everyone\n\nI’m not too sure the title describes this very well. \n\nI currently have about $17000 in a brokerage and if I sold everything right now, I wouldn’t have much capital gains tax, if any. I also have around $10000 in losses from last year and can take the maximum allowed claim for losses on my taxes for the next few years unless gains wipe that out. \n\nI make about $5000 every two weeks before taxes. \n\nWould it be a good strategy to do the following:\n\nUp my contribution to 100% of my pay check or whatever the max is\n\nSell my stocks in my brokerage effectively using that for bills and living expenses in lieu of my pay check\n\nThis would do two things:\n\nShift my stocks/investments to tax free growth\n\nReduce my taxable income\n\nAm I wrong here? Any other pros/cons? Is this possible/legal? Any rules I should be aware of such as wash sales?",
+    "subreddit": "investing",
+    "created_utc": 1792644215,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "כותב הפוסט שוקל להגדיל את הפרשותיו ל-401k למקסימום האפשרי על חשבון משכורתו, ובמקביל למכור מניות מחשבון השקעות רגיל כדי לממן את הוצאות המחיה השוטפות. מטרת האסטרטגיה היא להעביר נכסים לחיסכון המעניק הטבות מס ולצמצם את הכנסתו החייבת, והוא מבקש לבחון את הכדאיות, החוקיות והשלכות המס של המהלך.",
+    "category_he": "השקעות",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   }
 ];
