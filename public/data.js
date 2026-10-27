@@ -1,86 +1,29 @@
 window.dailyTrends = [
   {
-    "id": "1xdf8re",
-    "title": "Why Wall Street has fallen out of love with Netflix: ‘It ran out of planet’",
-    "url": "https://www.reddit.com/r/business/comments/1xdf8re/why_wall_street_has_fallen_out_of_love_with/",
-    "author": "TheObserverUK",
-    "score": 422,
-    "selftext": "The all-conquering streamer was valued like a ‘miracle company’. Now its shares have fallen despite a rise in revenue\n\n# ",
-    "subreddit": "business",
-    "created_utc": 1792764875,
-    "thumbnail": "https://external-preview.redd.it/ct2XVeM-OX3f4bcrLpfp-YkCB6Qf3QA-P6m46RX4h9s.jpeg?width=140&height=93&auto=webp&s=2db49c76684cd9a7ced9a33e4e7fad4b8a158465",
-    "top_comments": [
-      {
-        "body": "No surprise here. Every media company discovering “hey we can make our own streaming service, we don’t have to use Netflix” always meant that Netflix’s time in the sun was limited. ",
-        "score": 90,
-        "author": "Party_Estimate_6397"
-      },
-      {
-        "body": "It was always limited b/c Wall Street only cares about growth and it's impossible to have unlimited growth in anything.",
-        "score": 58,
-        "author": "ElGranQuesoRojo"
-      },
-      {
-        "body": "It is mental how many people actually believe this. There are plenty of older well established companies that don't really grow anymore and focus on repaying money back to investors be it in dividends or stock buybacks. We usually call them mature companies. And there are A TON of publicly traded mature companies. Netflix was just not priced as one, it had high P/E and P/S because of a lot of priced in growth. The growth ran out and as the result is a correction and this melodramatic tittle. People really have absolutely no fucking idea about economics and publicly traded companies and it is so infuriating.",
-        "score": 47,
-        "author": "Comfortable_Sir_6104"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xdc1r5",
-    "title": "Deleveraging, Forced Selling and the Setup for a Rebound",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xdc1r5/deleveraging_forced_selling_and_the_setup_for_a/",
-    "author": "Smart_Money_HQ",
-    "score": 69,
-    "selftext": "Yesterday's session was dominated by another deterioration in risk sentiment which triggered a selloff led by tech and semis taking the biggest hit.\n\nI think we're also starting to see a more emotional market, where positioning, headlines and short-term price action are increasingly driving decisions rather than underlying fundamentals. That's not to say the geopolitical risks aren't real, but the reaction in parts of the AI trade is becoming disconnected from what companies are actually reporting.\n\nThat said, I underestimated the extent of yesterday's selling. We correctly anticipated higher volatility, and SPY traded into our 765–760 support zone, but the selling went further than I expected. QQQ broke through 710 and headed towards our main support at 700, while SOXX lost 500 and pushed five points below 480. It's currently consolidating around that level in premarket.\n\nI also want to show you how extreme the extent of the deleveraging taking place underneath the surface is.\n\nAcording to Goldman Sachs, yesterday was the first time since the COVID selloff that the long/short, systematic and multi-strategy hedge funds it tracks all lost more than 1% in a single session.\n\nhttps://i.redd.it/dp33b334i7xh1.png\n\nSOXX also had its worst daily performance since the Situational Awareness unwind.\n\nhttps://i.redd.it/yuf3t9v4i7xh1.png\n\nMorgan Stanley's crowded long/short pairs had their worst session since 2021, around the time of the GameStop squeeze and Melvin Capital got taken out . That's also fairly telling of how violent the unwind has become as it was almost entirely by a one-sided collapse of the longs. Said simply, they were forced to sell\n\nhttps://i.redd.it/ox3qhsl5i7xh1.png\n\nLooking at the broader picture, SPY remains choppy but is still trading more or less in line with its historical seasonal performance, as you can see from the chart below we;ve been tracking for a while\n\nhttps://i.redd.it/2o8oldk6i7xh1.png\n\nThe damage is v visible in crowded institutional positions asGoldman's Hedge Fund VIP basket underperformed the S&P 500 by 2.6% yesterday, and its 75-day rate of change from the peak at the end of Q2 is now the worst since the weeks following the Lehman Brothers bust.\n\nhttps://i.redd.it/opbtzu97i7xh1.png\n\nJefferies also sent out an interesting note late yesterday, pointing out that its desk had been a net seller of more than $1 billion in technology stocks on seven of the past ten sessions. Looking at the rolling 20-day flows, this is now one of the more aggressive periods of net selling in technology we've seen in recent years.\n\nhttps://i.redd.it/kssh5ct8i7xh1.png\n\nDespite how dire things might look on social media, the equity put/call ratio is sitting at just 0.52, which is hardly indicative of widespread fear. So while some parts of the market are experiencing stress, we're not seeing the same level of panic reflected across all sentiment indicators.\n\nhttps://i.redd.it/2jdcsxg9i7xh1.png\n\nNow that we've put the selloff into perspective, I want to make an important distinction between what's happening in markets and what's happening in the underlying AI industry.\n\nI still don't think this is the end of the AI trade. In fact, a correction of this magnitude could ultimately make the investment cycle healthier.\n\nLower valuations, tighter credit conditions and more scrutiny around returns on AI infrastructure spending could help prevent the boom from collapsing under its own weight. Rather than having an enormous amount of investment concentrated into a relatively short period, a more disciplined approach could stretch the cycle over several years while reducing some of the inflationary pressure from the spending surge.\n\nAnd importantly, the underlying demand picture hasn't deteriorated nearly as much as the price action would suggest.\n\nComing back to positioning, the amount of deleveraging we've seen, combined with the buildup in leveraged short exposure, is increasingly creating the conditions for a move higher. The decline in Treasury yields is also worth notin as the 10-year is moving below 5% and the 30-year is normalising.\n\nGiven the extremes of the recent moves, I think we should start seeing some mean reversion over the next few sessions. If breadth continues to firm, there's even potential for a fairly aggressive short squeeze given that the shorts are becoming crowded.\n\nThat doesn't mean I'm rushing to call a bottom as positioning remains cautious, geopolitical risks haven't disappeared\n\nFor SPY, the main support I'm watching has shifted towards 750, where we're also starting to see volumes build if 760 falls.\n\nhttps://i.redd.it/e44rp0bai7xh1.png\n\nhttps://i.redd.it/dlxxh6vai7xh1.png\n\nFor QQQ, positioning is approaching extremely negative territory, and I think a move towards 700 is increasingly likely. That remains my main level, where I would expect a more aggressive bounce given the extent of the recent selling. It's also the setup I'm most interested in trading, provided the price action confirms it.\n\nhttps://i.redd.it/jmt5y1jbi7xh1.png\n\nFor SOXX, support has now moved towards 470. and as I said earlier, yesterday's selling exceeded my expectations and stopped out my position targeting a bounce from 480. That's one trade I got wrong, and I'm not particularly eager to jump straight back in. We're now seeing additional exposure build around 450, so I would rather sit on my hands when it comes to speculative semiconductor trades and see how positioning develops, especially if we get another leg lower.\n\nhttps://i.redd.it/6nthzclci7xh1.png\n\nFor VIX, we reached the 20 resistance level identified in yesterday's options flows. VIX call volumes have since normalised, although overall positioning remains elevated and volatility risks haven't disappeared.\n\nhttps://i.redd.it/hstw3ledi7xh1.png\n\nTL;DR: Yesterday's selloff went further than I expected, especially in semiconductors, but the underlying AI demand picture hasn't deteriorated nearly as much as price action suggests. We're seeing an aggressive unwind in crowded institutional positions, with some hedge fund strategies recording their worst session since COVID. The selling could continue, but increasingly negative positioning, stabilising breadth and lower Treasury yields are creating the conditions for a sharp rebound. I'm not calling a bottom yet. SPY 750, QQQ 700 and SOXX 470 are the main levels I'm watching, with QQQ a potential bounce. The AI thesis remains intact",
+    "id": "1xfda72",
+    "title": "There's gonna be a bloodbath of Neocloud on Monday",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xfda72/theres_gonna_be_a_bloodbath_of_neocloud_on_monday/",
+    "author": "Boring-Test5522",
+    "score": 1556,
+    "selftext": "I don't know what Musk is trying to do, but it looks like he's pouring gasoline on the neoclouds' debt problem. My theory is that he's trying to bankrupt his competitors, especially neoclouds and overleveraged hyperscalers like Oracle & OpenAI, so he can swoop in and buy up their assets for pennies on the dollar.",
     "subreddit": "StockMarket",
-    "created_utc": 1792756809,
-    "thumbnail": "self",
+    "created_utc": 1792961013,
+    "thumbnail": "https://preview.redd.it/bcycb2lzcoxh1.jpeg?width=140&height=140&crop=1%3A1%2Csmart&auto=webp&s=a5cb926aaa5546c80bb47d1b8cff43b1b8f115d6",
     "top_comments": [
       {
-        "body": "Tldr buy and hold broad indexes long term",
-        "score": 30,
-        "author": "dissentmemo"
+        "body": "\"Elon's \"debt\" is to shareholders, and a \"default\" happens by falling stock price\"\n\nWhat? Read the post again: Elon raised $40B in debt. From lenders. That's debt. ",
+        "score": 3,
+        "author": "NeitherEntry6125"
       },
       {
-        "body": "Man, that's a lot of words and pictures ",
-        "score": 22,
-        "author": "kugelblitz_100"
+        "body": "Do you have any website with this info directly from Tesla? Because I couldn't find anything directly from Tesla about this all I could find was when they started doing it with just a few robotaxis. ",
+        "score": 3,
+        "author": "cvc4455"
       },
       {
-        "body": "I think it's the opposite, AI and tech has been valued and traded on emotions mainly. The fundamentals (Which are bleak) are starting to be factored in finally. ",
-        "score": 14,
-        "author": "HomerDoakQuarlesIII"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xdex80",
-    "title": "Tango's chemo-free PRMT5 plus RAS doublet posts 82% response in pretreated MTAP-deleted pancreatic cancer and heads to front-line Phase 3",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xdex80/tangos_chemofree_prmt5_plus_ras_doublet_posts_82/",
-    "author": "ohdonpier",
-    "score": 9,
-    "selftext": "Tango Therapeutics presented Phase 1/2 data at the ESMO congress in Madrid today for vopimetostat, a PRMT5 inhibitor selective for tumours that have lost the MTAP gene, given with Revolution Medicines' RAS inhibitor daraxonrasib. In 22 evaluable previously treated patients with MTAP-deleted RAS-mutant pancreatic cancer, 82% had a tumour response, disease control was 100%, and 88% were progression-free at nine months. No chemotherapy was used. At the 200 mg dose there were no dose-limiting toxicities.\n\nSource:  \n[https://www.statnews.com/2026/10/23/esmo-2026-trial-results-tango-therapeutics-vopimetostat-revolution-medicines-rasonque/?utm\\_campaign=rss](https://www.statnews.com/2026/10/23/esmo-2026-trial-results-tango-therapeutics-vopimetostat-revolution-medicines-rasonque/?utm_campaign=rss)\n\nWhat I think this implies:\n\nThis is a catalyst for Tango Therapeutics (TNGX). Vopimetostat is their agent and they are taking the exact combination into a global randomised Phase 3 against standard-of-care chemotherapy in front-line MTAP-deleted pancreatic cancer, with dual primary endpoints of response rate and progression-free survival, starting in the first half of 2027.\n\nIt also expands the commercial opportunity for Revolution Medicines (RVMD). Daraxonrasib is the other half of the doublet and is currently approved only in previously treated disease, so the front-line trial would reach an untreated population it does not cover today.\n\nBristol Myers Squibb (BMY) is already running a randomised Phase 2/3 of its own PRMT5 inhibitor with chemotherapy in the same untreated MTAP-deleted pancreatic cancer population, so a competing chemo-free regimen is adverse for that programme. Amgen (AMGN) develops a PRMT5 inhibitor aimed at the same MTAP-deleted tumours and is studying it with daraxonrasib, so the same competitive pressure applies.\n\nThe front-line path does not open if the tolerability problems seen at the higher dose appear at 200 mg once a larger, less heavily pretreated population is enrolled, or if Tango cannot secure the daraxonrasib supply needed for the trial.",
-    "subreddit": "StockMarket",
-    "created_utc": 1792764153,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Stocks and the market aside, it's always refreshing to hear that progress is being made to tackle something that affects so many people around the world.",
+        "body": "Yeah I hear you, I’m getting confused as well, seems like anthropic IPO is pushing it down today and concerns over US DAU even though they aren’t reporting on it anymore. I’m going to hold this one no matter how volatile it gets because all the renewed licensing deals are coming over the next 2-6 months and I want to be in the stock when those are announced. I also really like using Reddit and like investing in stocks that myself and friends and family use a lot. Cheers ",
         "score": 2,
-        "author": "RiskBiscuit"
-      },
-      {
-        "body": "100% disease control and 88% progression-free at 9 months is the kind of data that makes oncologists sit up straight. Pancreatic cancer's been a graveyard for targeted combos so seeing those numbers without chemo is pretty remarkable.\n\n  \nTNGX has been on my watchlist since their ASCO poster but I wasn't expecting a direct leap to front-line Phase 3. That's a bold move with only 22 patients in the dataset.",
-        "score": 1,
-        "author": "AlwaysNoiseless"
+        "author": "tdogger88"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -88,30 +31,30 @@ window.dailyTrends = [
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xdhbpq",
-    "title": "Traditional to Roth conversion - does this make sense to pursue?",
-    "url": "https://www.reddit.com/r/investing/comments/1xdhbpq/traditional_to_roth_conversion_does_this_make/",
-    "author": "DKord",
-    "score": 5,
-    "selftext": "I recently moved a couple retirement accounts I set up (but never really contributed much to) at TRowe and were invested in mutual funds to Fidelity. They were a small Roth IRA and traditional IRA. The traditional was mainly rollover money from 401k's from a previous employer and is around $50k. The Roth is around $12k. \n\nThis is *not* my main retirement account, that's currently a 401k I'm putting 10% into + a 6% employer match. I estimate I'm 12-15 years from when I'd like to retire.\n\nMy wife has considerably more invested (from an inheritance) and we also have a house. She also stands to (probably) inherit more, including property. My parents on the other hand are a little more \"blue collar\"...We are looking to move in the next five years and start downsizing as we are both in our early 50's. We still have two kids in college which we are paying for out of pocket so to avoid student loans (which I realize directly impacts the total amount we can be actively saving for our own retirements)...\n\nAnyway, does it make sense to explore converting my current traditional into a Roth IRA? Since I've moved into Fidelity several months ago it's being just getting beaten up as the market - depending on the investment (ETFs) I'm currently down anyway from 5% to 9%, so does that mean I'd be taking a capital loss and therefore avoid a big tax penalty?",
+    "id": "1xfwwbo",
+    "title": "BREAKING: Anthropic publicly files IPO prospectus",
+    "url": "https://www.reddit.com/r/investing/comments/1xfwwbo/breaking_anthropic_publicly_files_ipo_prospectus/",
+    "author": "btcnized",
+    "score": 890,
+    "selftext": "[https://finance.yahoo.com/technology/article/anthropic-publicly-files-ipo-prospectus-noting-strong-revenue-growth-and-massive-spending-131807138.html](https://finance.yahoo.com/technology/article/anthropic-publicly-files-ipo-prospectus-noting-strong-revenue-growth-and-massive-spending-131807138.html)",
     "subreddit": "investing",
-    "created_utc": 1792769623,
+    "created_utc": 1793021493,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "There are no capital losses on 401k accounts. You will pay ordinary income on the converted amount. ",
-        "score": 9,
-        "author": "Immediate-Run-7085"
+        "body": "Corporate user here, I like talking out of my bum too",
+        "score": 5,
+        "author": "OneBug01"
       },
       {
-        "body": "there is no such thing as a capital loss inside an IRA. the irs literally does not care if your ETFs are down 9%. if u convert that 50k, they just add 50k to your taxable income for the year. please dont accidentally nuke your tax bracket while paying cash for two tuitions just cause your portfolio is seeing some red right now",
-        "score": 3,
-        "author": "Natural-Map-8311"
+        "body": "I had an interaction with someone on here who avoided all trch stocks for the last decade and a half. At a certain point, doing that level of self sabotage should prompt you to give your money to someone else to manage.",
+        "score": 5,
+        "author": "xyzqwa"
       },
       {
-        "body": "Worth noting that with two kids still in college, your income this year may affect which tax bracket the conversion lands in, so it might be worth modeling a partial conversion rather than the whole $50k at once.",
-        "score": 3,
-        "author": "rudolf_de_Leeuw"
+        "body": "I’m more of a TV on the Radio kinda fellow",
+        "score": 4,
+        "author": "Smarq"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -119,20 +62,30 @@ window.dailyTrends = [
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xex8a5",
-    "title": "Anthropic’s Pitch to Investors Starts With Taking Their Jobs",
-    "url": "https://www.reddit.com/r/finance/comments/1xex8a5/anthropics_pitch_to_investors_starts_with_taking/",
-    "author": "bloomberg",
-    "score": 1,
-    "selftext": "*The AI company warns its technology could threaten jobs and even humanity. For investors, those risks create a strange reason to buy in.*",
-    "subreddit": "finance",
-    "created_utc": 1792917929,
-    "thumbnail": "https://external-preview.redd.it/03EM-7_h6rt5XuA2fVls_6xc1bKGggGIfacRpcFBXKY.jpeg?width=140&height=93&auto=webp&s=a48a3ea75d90904d850f1f810ca1da139ad20734",
+    "id": "1xg1o4j",
+    "title": "Microsoft offers voluntary buyouts to 60,000 employees",
+    "url": "https://www.reddit.com/r/investing/comments/1xg1o4j/microsoft_offers_voluntary_buyouts_to_60000/",
+    "author": "btcnized",
+    "score": 840,
+    "selftext": "Holy shit, that is around 1/4 of their global workforce, pretty significant\n\n[https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html?\\_\\_source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard](https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard)\n\n",
+    "subreddit": "investing",
+    "created_utc": 1793032059,
+    "thumbnail": "self",
     "top_comments": [
       {
-        "body": "*Tom Orlik, Michael Deng, and Dongmiao Zhang for Bloomberg News*  \n  \nYou have to hand it to the AI companies: The pitch is original. A September report from Anthropic said AI could take US unemployment close to 12%. That same month, a scientist working for the company said a rogue AI agent might bring about the extinction of the human race. And the company’s own prospectus reportedly agrees.  \n  \n*Buy our IPO: We will use the funds to take your job and maybe kill you* doesn’t immediately sound like an attractive offer. In a strange way, though, it has a perverse appeal. Smart investors understand the importance of hedging against risk. If you can’t beat our new AI overlords, why not join them? Maybe use the profits to build a bunker.  \n  \nAll of which raises a lot of questions. Among them: Do the valuations make sense? Anthropic, whose initial public offering is anticipated later this year, is reportedly targeting $2 trillion, which would make it one of the 10 most valuable companies in the world, on par with Taiwan chip champion TSMC and Elon Musk’s SpaceX.  \n  \nBut that’s just the start. What level of return justifies investing in a technology that threatens Depression-level unemployment? How about in a technology that threatens human extinction? Shifting the focus from the heart to the brain: Will today’s sky-high profit forecasts hold if, given all the risks, governments decide to take a heavier hand?  \n  \n🎁 Gift Link: [The full essay is also available to read here.](https://www.bloomberg.com/news/articles/2026-10-23/anthropic-ipo-why-a-2-trillion-valuation-faces-major-risks?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mjc2Njg3MCwiZXhwIjoxNzkzMzcxNjcwLCJhcnRpY2xlSWQiOiJUTkNPV0FLSVVQVEQwMCIsImJjb25uZWN0SWQiOiJEMzU0MUJFQjhBQUY0QkUwQkFBOUQzNkI3QjlCRjI4OCJ9.ImzxMqCnK31rDevy0RASF9-_MeqFPjGgiu92VK62nMs&utm_source=reddit&utm_medium=social&utm_content=business&utm_campaign=giftlink)",
-        "score": 1,
-        "author": "bloomberg"
+        "body": "My last company, the managers would talk to people they knew were retiring soon (like within the next 1-2 years) and see if they wanted to volunteer for the layoff. The employee would then get a nice severance and get to retire early",
+        "score": 7,
+        "author": "Mindless_Ad5714"
+      },
+      {
+        "body": "meh, consulting can be fun. some people just like doing stuff. just because you don’t understand their mindset doesn’t mean you need to disqualify them from having it. ",
+        "score": 7,
+        "author": "Mrgluer"
+      },
+      {
+        "body": "Relax mi amigo. This person is working 15-20 hours per week. They have plenty of time to spend with people they love. Some people get important meaning from the work they do.",
+        "score": 5,
+        "author": "SubterraneanAlien"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -140,50 +93,247 @@ window.dailyTrends = [
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xeypyn",
-    "title": "Is there an instrument that combines the safety of bonds with at least some possibility of upside?",
-    "url": "https://www.reddit.com/r/investing/comments/1xeypyn/is_there_an_instrument_that_combines_the_safety/",
-    "author": "hezwat",
-    "score": 1,
-    "selftext": "It's quite difficult to know if we are in a bubble or simply a period of large growth.  I've seen p/e above a thousand on NASDAQ. That kind of screams \"bubble\". However, it's undeniable that there is large growth as well.  Is there any instrument that combines the safety of bonds with at least some possibility of upside, so that if the growth turns out to be real then there is a benefit?",
-    "subreddit": "investing",
-    "created_utc": 1792923415,
-    "thumbnail": "self",
-    "top_comments": [],
+    "id": "1xg00ux",
+    "title": "Anthropic's Latest Earnings Statement",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xg00ux/anthropics_latest_earnings_statement/",
+    "author": "beerion",
+    "score": 555,
+    "selftext": "Doesn't look as bad as you'd think. Excluding the accounting charges, they had an operating loss of $693 million for the first six months of the year. \n\nOn a cash flow basis, I would imagine they're in the green or at least pretty close.\n\nOne thing that i still want to look into is where their marketing budget. I recently got \"credits\" on my Claude account for $100 in api compute. I'm curious if that's subtractive from revenue or if they count that $100 as revenue and offset it by placing $100 in expenses in the SG&A line item. This would be one thing to look out for in regards to inflating revenue.",
+    "subreddit": "StockMarket",
+    "created_utc": 1793028559,
+    "thumbnail": "https://preview.redd.it/xzcd0w2hytxh1.png?width=140&height=88&auto=webp&s=75c13981d8e086985c35a1c9f1cbff20a1426f4a",
+    "top_comments": [
+      {
+        "body": "The real issue here is that the S1 doesn't include employee stock options. A lot of my ex coworkers are making 8 million+  at anthropics IPO valuation and they only joined in the last year. The shareholders will eat that dillution as options vest and then employees sell. ",
+        "score": 4,
+        "author": "ninijacob"
+      },
+      {
+        "body": "Have you looked at who is in charge?",
+        "score": 2,
+        "author": "wlievens"
+      },
+      {
+        "body": "It’s the opposite. Revenue is growing faster than opex. ",
+        "score": 2,
+        "author": "Puzzleheaded_Fold466"
+      }
+    ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xewhu8",
-    "title": "Daily General Discussion and Advice Thread - October 25, 2026",
-    "url": "https://www.reddit.com/r/investing/comments/1xewhu8/daily_general_discussion_and_advice_thread/",
+    "id": "1xg3ih3",
+    "title": "Anthropic will pay up to $120.5B for SpaceX's AI Compute",
+    "url": "https://www.reddit.com/r/investing/comments/1xg3ih3/anthropic_will_pay_up_to_1205b_for_spacexs_ai/",
+    "author": "btcnized",
+    "score": 217,
+    "selftext": "These numbers are bonkers... Where the f\\*\\*\\* is money even coming from at this point? These contracts are getting signed as if they are in millions, not billions. \n\nRoughly \\~$3 billion for rented compute, one company to another.\n\n[https://teslanorth.com/2026/10/26/anthropic-s1-spacex-120b-compute/](https://teslanorth.com/2026/10/26/anthropic-s1-spacex-120b-compute/)",
+    "subreddit": "investing",
+    "created_utc": 1793036065,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": " I will pay \"up to\" 10000 billion. In reality my spend will probably be closer to about $3.50 though.",
+        "score": 83,
+        "author": "GuyWhoSaysYouManiac"
+      },
+      {
+        "body": "Heat dissipation in a vacuum is not efficient. Convection and conduction don’t work so all the energy has to be transferred through radiation. Which needs specialized radiators and is slow.\n\nSure there are cost savings but those pale in comparison to the costs of R&D and actually getting all the equipment into SPACE.",
+        "score": 68,
+        "author": "be_easy_1602"
+      },
+      {
+        "body": "That is not the only bill they are paying for compute as well. They do pay big money to Amazon/Alphabet and even Microsoft to an extent. Plus any deals with neo clouds. \n\n  \nfrom AI\n\n**Key Major Provider Allocations (through the 2030s):**\n\n* **SpaceX:** Up to **$120.5 billion** allocated for Nvidia GPU compute access through 2029.\n* **Broadcom:** **$161.2 billion** for Tensor Processing Unit (TPU) compute capacity over a five-year agreement.\n* **Google Cloud:** **$114.5 billion** committed for cloud compute between 2026 and 2033.\n* **Amazon Web Services (AWS):** **$110 billion** committed for cloud compute between 2026 and 2036.\n* **Nscale & Lambda:** Roughly **$44.6 billion** (Nscale) and **$41.3 billion** (Lambda) for Nvidia GPU access through the early-to-mid 2030s.\n* **Microsoft:** Approximately **$44.9 billion** committed between 2026 and 2033.",
+        "score": 40,
+        "author": "shawman123"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xf331w",
+    "title": "S&P Stagnation And Other Recession Indicators.",
+    "url": "https://www.reddit.com/r/investing/comments/1xf331w/sp_stagnation_and_other_recession_indicators/",
+    "author": "zero_cool_protege",
+    "score": 181,
+    "selftext": "The S&P500 index has been stagnant for about a quarter now. During that same time we have seen an uptick in inflation caused by Trumps war with Iran. Now, crude oil prices have hit $117 a barrel with no end in sight. \n\nBond yields have made borrowing harder.\n\nAll this is happening as investors are beginning to get cold feet about AI related CapEx, as we hear stories about data centers not getting complete and processing chips sitting in warehouses. \n\nConsumer spending remains high, but it’s hard to tell if/when the market will turn around. ",
+    "subreddit": "investing",
+    "created_utc": 1792936754,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Yes, but if you believe the market has gone down that becomes a definite buying opportunity.\n\n\"be fearful when others are greedy, and be greedy only when others are fearful\" --  W. Buffet.",
+        "score": 10,
+        "author": "sjbuggs"
+      },
+      {
+        "body": "Again.  More guessing.\n\nI think it will either go up, or down, or stay the same.",
+        "score": 7,
+        "author": "SBNShovelSlayer"
+      },
+      {
+        "body": "No, the SP500 is up 28% since 11/5/2024, not 70%.  ",
+        "score": 5,
+        "author": "crossdefaults"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xg9fui",
+    "title": "I love Anthropic's products, BUT I think their S1 is a far scarier than people let on.",
+    "url": "https://www.reddit.com/r/investing/comments/1xg9fui/i_love_anthropics_products_but_i_think_their_s1/",
+    "author": "Josiahhenryus",
+    "score": 131,
+    "selftext": "Before I get into my analysis, let me just say that I use Claude every day and really like Anthropic's products. But I think they are making a pretty large error with their IPO, trying to slide some things by without you noticing.\n\n\n\nWhen you only look at the top 25 pages of the S-1, everything pretty much looks pretty good: Revenues up from $1.16B in H1 2025 to $16.3B in H1 2026. Q2 2026 GAAP operating profit was $1.03B. They have $131.7B in cash and near-cash equivalents. But if you look at the accounting mechanics, the accounting treatments, the working capital loops, and particularly footnote 9, you start to see that the structure of Anthropic is poised to be that of a high margin software company, while the balance sheet looks more like a highly leveraged utility.\n\n\n\nHere are some red flags I found:\n\nTraining costs are number uno, there is no gross margin line item anywhere in the S-1. If you open virtually any SaaS S-1 you will see the revenue line, and directly below that COGs or Gross Profit line, then operating expenses. Anthropic has chosen to remove the gross margin line. They have taken their cost of goods sold (customer inference & computing power) and model training cost and put them into a single line aggregate expense called \"Compute and infrastructure,\" which came to $8.95B in H1 2026.\n\n\n\nThey only have two reasons for doing so:\n\nOne either the company has absolutely dreadful marginal profitability per unit provided (not too profitable at the service level) or the multi-billion dollar training campaigns that go on nearly all the time (AI Labs are continuously training the next model; model development doesn't stop) are essential recurring capex rather than optional discretionary R&D spend.\n\n\n\nConvertible Notes Subsidy:\n\nSo take a look at the bottom of the income statement. There's a large amount of losses in Q2 2026 for changes in the fair value of the convertible notes amounting to $72.4B. Most of the wall street crowd will just brush it off as a non-cash accounting item, as the valuation of notes had gone up by a considerable amount in their last private funding rounds. But if you take a deeper look at those tens of billions of dollars of losses in the form of convertible notes issued by the company between 2023 and 2025 were entirely and soley to cover the enormous training compute costs, which were paid for by the company in the form of cheap equity shares to Google and Amazon (the cloud providers). So I hypothesize that Anthropic is subsidizing their training expense, as part of notes to the Cloud providers Google and Amazon, to shift the Billions of dolllars from top line COGs, into liabilities. But I don't think this is the only thing they are doing with creative accounting to spruce up the numbers, I'll cover that in a second.\n\n\n\nOff-Balance Sheet Tsunami:\n\nThe $587 billion take-or-pay obligation trap (Footnote 9 of S-1): Total off balance sheet liabilites were up to nearly 6x what they were a year earlier, reaching $587B by the end of Q2 2026\n\n\n\nLets break the numbers down a bit to see where we are:\n\n\n\n* $265.6B in irrevocable minimum fixed purchase agreements (which includes at least $114.5B to Google Cloud through 2033 and $110B to AWS through 2036); around 80% of that is non-discretionary.\n\n\n\n* Uncommeced leases, under ASC 842 the leases can be deferred indefinitely until the date of official occupancy, so this category of leases alone make up about $321.4B of off balance sheet liabilites, even though they represent a real liability to the company.\n\n\n\n* Broadcom 9% debt loop, of that, it contains $161.2B of Broadcom TPU leases which are 5 years out (around 2030,2031) that were funded with $42B 9% loan facility\n\n\n\nSo how does this like affect the S-1:\n\nWhenever the company uses those loans to make lease payments they are treated as financing activities rather than operating expenses which allows the company to present the cash-flow are relatively clean, presenting the image that Anthropic is profitable or has decent margins. Typically, if you are leasing out infrastructure, it would be a variable cost as most companies do that scales as usage scales, but in Anthropics case they have effectively turned a variable cost into a fixed cost floor that is irrevocable. They have locked themselves into an exponential growth plan without room for any hitches. They are now forced to produce a spike in revenue before 2027-2030 to service the uncommenced leases, take-or-pay commitments, and regular operations.\n\n\n\nSo now we see the company is using liabilities as a way to shift expenses but they are doing something weird with revenue too:\n\nNotice the weirdness of the balance sheet: revenues go up steadily, so do their current liabilities, seemingly in lockstep. After I traced the path of the funds, you realize that they are creating a self-looping cycle involving Google/AWS: 48%. of the revenue came through the AWS marketplaces and Google Vertex AI Platform (up from 11% in 2023). Gross vs Net revenue inflation: when a customer pays Anthropic for service via the AWS or Google cloud marketplaces, they are recognizing the full amount as gross revenue (which inflates their sales multiples). The commission paid to the marketplace owner (around 20-27%) is then essentially shifted into the sales and marketing expense line at 19% of all revenue.\n\n\n\nWorking capital vice effect: 58% of the company's accounts receivable are still in the hands of AWS/Google. The other side of it is that current liabilities and accruals have risen so dramatically that they owe a massive amount to their marketplace owners. They are borrowing picks and shovels to mine for gold at Amazon/Google, sell the gold back to them via the marketplaces, have Amazone/Google hold on to 58% of the receivables from the customers, and book the 255 net margin from the marketplaces as gross revenue.\n\n\n\nMy Conclusion:\n\nThe point I am trying to convey is the fact that Private investors and hyperscalers have reached maximum asset concentrations. They have entered massive commitments with cloud providers in order to fuel hypergrowth necessary for inflating valuations. And now those same agreements are chaining them to a death-trap treadmill without an exit strategy. Even with unstable public markets and enterprise cutbacks looming, this offering seems more like a desperate liquidity release than a fundraising exercise. And if revenue growth breaks the form needed to service Anthropic's or any large AI startup's liabilities, the broader market is in trouble.\n\n",
+    "subreddit": "investing",
+    "created_utc": 1793049285,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "It's crazy how we have arrived at a point in society where if you write more than a paragraph analyzing something people automatically assume it's AI. People now can't fathom that a human can have critical thinking skills, can do research, and analyze a topic... Wait until people find out that we once had to type, or even worse hand write, pages for reports or research papers.",
+        "score": 81,
+        "author": "ThePla9ue"
+      },
+      {
+        "body": "But I get it, long paragraph or text, “it’s AI”",
+        "score": 63,
+        "author": "Josiahhenryus"
+      },
+      {
+        "body": "You were so close to getting it. That is because Anthropic is not software, or at least it is not like a software business. It is not a 0 marginal cost business and we have to figure out how to value it. ",
+        "score": 47,
+        "author": "bearintheshower"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xg17sr",
+    "title": "Studying finance has shown me that I probably can't beat the market and index funds are likely the better option.",
+    "url": "https://www.reddit.com/r/investing/comments/1xg17sr/studying_finance_has_shown_me_that_i_probably/",
+    "author": "MathDude95",
+    "score": 109,
+    "selftext": "(Disclaimer: I hold 100% VTSAX in my Roth IRA and taxable brokerage account)\n\nFor one of my college finance projects, we're using StockTrak, where we were given $1 million in fake money to invest while meeting certain trading requirements. We're about two months into the project, and despite all the time I've put into it, I'm sitting just slightly below the S&P 500's return. I've been spending several hours a day reading financial statements, calculating intrinsic values, researching companies, keeping up with financial news, looking for undervalued stocks, and even trying day trading. All that work just to make nearly the same return as buying an index fund and doing nothing.\n\nObviously, two months isn't enough time to prove I can't beat the market, but it's been a pretty humbling experience. I could've just put the entire $1 million into an S&P 500 index fund on day one (not allowed in the project) and spent the next two months doing literally anything else. Instead, I've spent countless hours analyzing companies, second-guessing my decisions, and stressing over market movements, all for a nearly identical result. And that's without even considering taxes, trading costs, or the possibility that my strategy could underperform by a much larger margin over time.\n\nThe funny thing is that studying finance hasn't turned me into some incredibly successful investor making huge returns (like I maybe hoped). If anything, it's made me realize just how difficult it is to consistently outperform the market, even when you put a ridiculous amount of time into it. At this point, I'm starting to appreciate the simplicity of buying low-cost index funds, continuing to invest, and getting on with my life. After all this time studying investments, my biggest takeaway is that I might be better off accepting average market returns instead of spending my life trying to beat them.\n\nTL;DR: Trading individual stocks in a finance project has taught me that I can't beat the market and index funds would've provided me the same return with significantly less stress and time investment. ",
+    "subreddit": "investing",
+    "created_utc": 1793031096,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "One semester is not a sufficient sample size of time, nor is it long enough to see a typical investment thesis play out to your advantage.\n\nWithin one semester, you are closer to a trader, not an investor.",
+        "score": 50,
+        "author": "15pH"
+      },
+      {
+        "body": "You didn't need the class to tell you that, you're just smarter than most for actually listening to what the data's screaming at you.",
+        "score": 37,
+        "author": "ElegantlyAmazing"
+      },
+      {
+        "body": "I think most of us realize this eventually. Just be glad you learned it with fake money and not your own real money. ",
+        "score": 21,
+        "author": "wean1169"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xfwr0n",
+    "title": "Anthropic files for IPO",
+    "url": "https://www.reddit.com/r/business/comments/1xfwr0n/anthropic_files_for_ipo/",
+    "author": "RealSlyck",
+    "score": 86,
+    "selftext": "AI bubble clearly bursting… 😂 ",
+    "subreddit": "business",
+    "created_utc": 1793021138,
+    "thumbnail": "https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=140&height=73&auto=webp&s=ef84df043ac6dc501abaca5b70b6c3987732c86b",
+    "top_comments": [
+      {
+        "body": "Awe. The circular funding not enough? Gotta include everyone else’s money in your bubble? ",
+        "score": 54,
+        "author": "OG_LiLi"
+      },
+      {
+        "body": "The sooner we pop this bubble, the sooner we can heal.",
+        "score": 14,
+        "author": "TheGruenTransfer"
+      },
+      {
+        "body": "Having $120 Billion in losses over the past 2 quarters would usually make this the worst investment ever",
+        "score": 13,
+        "author": "tapioca_slaughter"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xfyagw",
+    "title": "Big Week for the Market’s Next Move",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xfyagw/big_week_for_the_markets_next_move/",
+    "author": "Smart_Money_HQ",
+    "score": 24,
+    "selftext": "Today is likely to be a quiet start to the week, but the calendar gets much busier from here, with almost 40% of the S&P 500 reporting earnings, PCE and the Fed decision, so the quite is likely to last so mych. As you can see vol will be elevated as we go into the week\n\nhttps://i.redd.it/91doevuuctxh1.png\n\nSo far, with 24% of companies having reported Q3 results, 83% have beaten EPS expectations and 66% have beaten revenue estimates and nine sectors are showing higher earnings than expected at the end of September, helped by positive surprises and upward revisions.\n\nTh divergence here is that earnings expectations have continued to rise while valuations have compressed and since the end of June, forward 12-month EPS estimates for memory have increased by 25%, while forward P/E multiples have fallen by 34%.\n\nAI infratructure has seen the same 25% increase in earnings expectations, alongside a 22% decline in multiples and for the S&P 500, earnings estimates have risen by 10%, while its multiple has fallen by 6%.\n\nSo basically, we are paying considerably less for earnings that analysts now expect to be considerably higher, which helps us assess how much of this selloff reflects deteriorating fundamentals.\n\nFor Big Tech this week, one of the main things I’ll be watching is free cash flow revisions as positive revisions would give the market some relief that the pressure on cash generation is starting to stabilise, even as AI spending remains high.\n\n Fed decision is this week and with a hold widely expected, the focus will be on Warsh’s tone and presser. Markets are pricing rates considerably above the Fed’s own projections beyond this year, so a hawkish outlook is already priced in. If Warsh gives the markets a reason to unwind some of those expectations, that could bring yields down and support equities\n\nhttps://i.redd.it/e5d155uwctxh1.png\n\nPCE is also due this week, so there will be plenty for markets to react to beyond earnings but I'll cover that prior to the relase.\n\nOn price action, my base case is that we are closer to the end of this adjustment, with conditions starting to improve over the next week or so and momentum gradually rebuilding. The S&P 500’s 100-day moving average is the immediate test and holding that area and rebuilding from it would fit this view. A sustained break below it would open another leg lower.\n\nThe semiconductor valuation charts also deserve attention as the forward P/E comparison across SMH, SOXX and the S&P 500 shows how sharply the sector has repriced, even as earnings expectations have moved higher as we mentioned. I am seeing high-conviction options flow in some AI names but we are still..\n\nhttps://i.redd.it/kq1yjizxctxh1.png\n\nA Deutsche Bank report I read over the weekend puts the recent weakness into perspective as Mega-cap growth and tech have underperformed the rest of the S&P 500 by 12 percentage points over the past two weeks. Tech’s relative performance is now well into the lower half of its long-term trend channel, although it has yet to reach the bottom the market is starting to normalise.\n\nhttps://i.redd.it/ryhu2coyctxh1.png\n\nMargin debt has also turned down from its recent peak, adding support to the leverage unwind thesis and while it does not tell us exactly when the selling ends, but it fits the broader picture of investors reducing exposure.\n\nhttps://i.redd.it/a8deprnzctxh1.png\n\nNomura’s data shows how aggressive that adjustment has been. Its long/short monitor recorded 124 pair-trade stop-outs, including six moves exceeding five standard deviations. Such a deviation is extmrely rare.. You can see the pressure extending across equities, bonds, commodities and currencies.\n\nhttps://i.redd.it/xz0r6fc0dtxh1.png\n\nBasicaly, many funds were positioned in the same profitable trades and once those trades started reversing, losses forced managers to cut exposure, creating more selling and triggering further stop-outs.\n\nThis again helps explain why we are seeing such aggressive moves without an equivalent deterioration in earnings expectations. Forced selling can push prices well beyond what changes in fundamentals justify and that creates opportunities in areas where the earnings outlook continues to strengthen.\n\nSPY positioning remains defensive, with sentiment still negative and put exposure building around 755, which could be tested, while 750 remains the main support. While I remain constructive and believe we should be getting close to a bottom, another leg lower cannot be ruled out, particularly as 760 has lost some of its previous supportive market maker positioning. The level is holding for now, but we likely need a positive catalyst from earnings or an improvement in the geopolitical backdrop to sustain a move higher towards the 770 resistance. Volumes remain skewed towards puts\n\nhttps://i.redd.it/84r5dp81dtxh1.png\n\nhttps://i.redd.it/uzpwcmk1dtxh1.png\n\nThe Qs look similar in terms of positioning with 710 being the immediate resistance, but what's interesitng is that call volumes are starting to pick up. I hold a small speculative long from around 701 and have trimmed and set SL to BE.\n\nhttps://i.redd.it/dmlqvvn2dtxh1.png\n\nhttps://i.redd.it/s5un2l13dtxh1.png\n\nOn the SOXX, the main support has moved to 450 bellow which exposure drops off, so if we get there I intend to take advantage.\n\nhttps://i.redd.it/mzwdt084dtxh1.png\n\nTL;DR: Big week ahead, with almost 40% of the S&P 500 reporting, the Fed and PCE likely to drive volatility. Earnings expectations continue to rise while valuations compress, supporting my view that forced deleveraging is driving much of this selloff. I remain constructive and think we’re approaching a bottom, but defensive positioning leaves room for another leg lower before momentum rebuilds. SPY 755–750 is the downside area, with 770 resistance. QQQ needs to reclaim 710, while SOXX 450 is the support I’m watching for an opportunity to add unless we see more signs of a rebound.",
+    "subreddit": "StockMarket",
+    "created_utc": 1793024724,
+    "thumbnail": "https://preview.redd.it/hrvpey6uctxh1.jpeg?width=140&height=126&auto=webp&s=e48657d9dd2b2db3f2c05f17c7ee441062b901c4",
+    "top_comments": [
+      {
+        "body": "Markets has been flat lately but it's a new week let see what could be come",
+        "score": 2,
+        "author": "Agreeable_Catch_4230"
+      },
+      {
+        "body": "Der SMH notiert heute zumindest einen Tiefpunkt. Vielleicht ist der Boden erreicht an der 200 Tage Linie. ",
+        "score": 2,
+        "author": "Interesting-Fold5744"
+      },
+      {
+        "body": "adding *unless* there's a rebound?",
+        "score": 2,
+        "author": "NormandyLS"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xfqo30",
+    "title": "Daily General Discussion and Advice Thread - October 26, 2026",
+    "url": "https://www.reddit.com/r/investing/comments/1xfqo30/daily_general_discussion_and_advice_thread/",
     "author": "AutoModerator",
-    "score": 1,
+    "score": 9,
     "selftext": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n\nPlease consider consulting our FAQ first - [https://www.reddit.com/r/investing/wiki/faq](https://www.reddit.com/r/investing/wiki/faq) And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.\n\nIf you are new to investing - please refer to Wiki - [Getting Started](https://www.reddit.com/r/investing/wiki/index/gettingstarted/)\n\nThe reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - [Reading List](https://www.reddit.com/r/investing/wiki/readinglist)\n\nThe media list in the wiki has a list of reputable podcasts and videos - [Podcasts and Videos](https://www.reddit.com/r/investing/wiki/medialist)\n\nIf your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n\n* How old are you? What country do you live in?\n* Are you employed/making income? How much?\n* What are your objectives with this money? (Buy a house? Retirement savings?)\n* What is your time horizon? Do you need this money next month? Next 20yrs?\n* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n* Any big debts (include interest rate) or expenses?\n* And any other relevant financial information will be useful to give you a proper answer.\n\nCheck the resources in the sidebar.\n\nBe aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!",
     "subreddit": "investing",
-    "created_utc": 1792915237,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1xeraf9",
-    "title": "Wednesday’s hyperscaler capex guides are a seesaw, bad for the spenders, potentially great for chips.",
-    "url": "https://www.reddit.com/r/investing/comments/1xeraf9/wednesdays_hyperscaler_capex_guides_are_a_seesaw/",
-    "author": "OilAny787",
-    "score": 1,
-    "selftext": "Most of the coverage I’ve read frames 28 October as a Fed day with some earnings attached. I don't think the FED has much impact on equities, prediction markets and OIS pricing have a hold at 3.75 to 4% north of 90%, and PIMCO’s base case is a hold with a tightening bias and the next hike in December. Unless the statement surprises, that’s mostly priced. The capex commentary from Microsoft and Google, followed by Amazon on Thursday is the watch.\n\nIn my view, this matters more than usual because of the semiconductors that are currently in a drawdown. SOX fell about 11.4% in the week to 16 October, and Reuters put the cumulative loss at around $2 trillion in market value, driven by rate hike bets and concerns about the cost of the AI build. Then Thursday’s session saw all 30 index members finish red, even after all that, the index is still up roughly 57% for the year, so this is a correction inside a huge run rather than a collapse.\n\nHyperscaler capex is essentially the revenue line for the AI chip supply chain, Microsoft has already guided fiscal Q1 capex above $50 billion and roughly $175 billion for calendar 2026, and management has said demand still exceeds available supply. Combined 2026 guidance across the big four sits around $730 billion, and Goldman has 2027 approaching $1.14 trillion. If Microsoft, Google and Amazon hold or raise those numbers this week, the chip selloff has priced in a slowdown that isn’t showing up in the order book.\n\nBull case for chips is that the spenders and the suppliers sit on opposite ends of the same number. Meta beat last week and still fell nearly 7% because the market punished the spending, but every dollar Meta spends lands on someone else’s income statement. Retail seems to see it this way too, with tech funds pulling in $10.7 billion during the worst week of the drawdown.\n\nBear case is still very very active, the Fed is hiking, not cutting, and a December move would lift discount rates on the most richly valued names. IDC is forecasting a 13% drop in smartphone volumes this year from the memory supply shock, which hits a part of the chip complex that has nothing to do with data centres. The funding picture is also getting less comfortable, with Goldman estimating more than a third of 2027 hyperscaler capex will be debt funded. At some point the spenders balance sheets become the constraint rather than demand.\n\nIf at least two of the three raise or reaffirm higher spend this week, I expect the SOX to outperform the Nasdaq 100 from Wednesday’s close through Friday 6 November. If they guide flat or hint at a digestion year in 2027, I’m wrong and the chip correction has further to run.\n\nFor those who own both sides which I assume is many, which do you think breaks first.\n\nThe hyperscalers appetite for capex, or the market’s patience with the hyperscalers?",
-    "subreddit": "investing",
-    "created_utc": 1792897310,
+    "created_utc": 1793001619,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "The Fed is short for \"Federal Reserve\", not an acronym, and doesn't need to be set in all-caps. Initialisms which may be appropriate depending on the context include \"FRS\" for \"Federal Reserve System\" or \"FOMC\" for \"Federal Open Market Committee\".\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/investing) if you have any questions or concerns.*",
+        "body": "Rule of thumb I use: insider selling has a dozen boring reasons (taxes, houses, diversification), insider buying has one. Clusters of open-market buys (code P) from several insiders are the signal worth your time.",
         "score": 1,
-        "author": "AutoModerator"
+        "author": "Perple_Coffee"
+      },
+      {
+        "body": "# Microsoft offering buyouts to 60,000 workers.",
+        "score": 1,
+        "author": "Sportcup3"
+      },
+      {
+        "body": "Is donating sperms to short iren a bad idea because I'm out of money to add and jts going up",
+        "score": 1,
+        "author": "Sofi_put_man"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -191,108 +341,117 @@ window.dailyTrends = [
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xepj3v",
-    "title": "The stock market is only UP ~55% of the days, why is everyone's suggestions/Portfolios 1 Directional?",
-    "url": "https://www.reddit.com/r/investing/comments/1xepj3v/the_stock_market_is_only_up_55_of_the_days_why_is/",
-    "author": "New-Specialist-2594",
-    "score": 1,
-    "selftext": "I don't know when I joined here, but consistently when someone asks 'What should I add to this Portfolio' i.e OP has VGT & SMH, etc..., everyones says you need more Diversification, add some Int'l or Total market exposure, maybe some Bonds, small caps. That's fine to diversify but as the title says Market is only up 55% of the days, 45% Down. So your Port will be same.\n\nAdding Un-correlated funds and casual re-balancing are the key to higher Total Return and a lower Drawdown,\n\nDamn, I thought I could post a Correlation chart and Backtests pics to show, but guess this forum in still in the Ancient times.\n\nFind uncorrelated funds to what you hold and the Math will/could astound you. The 'Market' is not that hard to beat.  Since can't post pics guess gonna find yourself, Managed Futures, Commodities(not Gold/silver), uncorrelated Sector funds, etc... \n\nGL All.....\n\n",
-    "subreddit": "investing",
-    "created_utc": 1792891868,
+    "id": "1xfqr8s",
+    "title": "bahrain's GFH just tripled its money on the guys who wire america's data centers",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xfqr8s/bahrains_gfh_just_tripled_its_money_on_the_guys/",
+    "author": "SearchSideofPE",
+    "score": 9,
+    "selftext": "everyone's fighting over AI chips and meanwhile a bahraini bank quietly 3x'd on the electrical guys. GFH sold out of Saber Power Investments on oct 21, which bundled a PE stake in US-based Saber Power Services (they build, test and maintain the electrical systems for utilities, data centers, factories, renewables and battery storage) with a pot of liquid investments for yield. the whole package returned 3x+ over a \"short holding period,\" roughly $173.5M cash back to investors after fees. GFH had a 15% co-invest alongside Schroders Capital, and Greenbelt Capital Partners led the deal. clean exit in a year when nobody's getting exits. picks and shovels baby, fun times ahead boys\n\n[source: GFH announcement on Zawya](https://www.zawya.com/en/press-release/companies-news/gfh-announces-3x-successful-exit-from-saber-power-investments-1813441)",
+    "subreddit": "StockMarket",
+    "created_utc": 1793001932,
     "thumbnail": "self",
-    "top_comments": [],
+    "top_comments": [
+      {
+        "body": "while everyone’s hyperventilating over gpus this is the real trade nobody talks about. the guys actually wiring the racks and keeping the cooling from melting down are the ones printing. 3x in a “short holding period” when deal flow is basically frozen everywhere else is wild",
+        "score": 2,
+        "author": "lewdounce_5830"
+      },
+      {
+        "body": "so does that mean we can invenst in a specific stock here?",
+        "score": 1,
+        "author": "Smetomatik"
+      }
+    ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xen6uv",
-    "title": "Oil price, debt, Capex spending, simultaneous headwinds.",
-    "url": "https://www.reddit.com/r/investing/comments/1xen6uv/oil_price_debt_capex_spending_simultaneous/",
-    "author": "Background-Day-4957",
-    "score": 1,
-    "selftext": "Brent closed at $117 on Friday. Investors are becoming more wary about debt, Capex spending, and ROI in AI\n\nInvestors are becoming more cautious of the market with simultaneous oil supply shock, price of gas and diesel rising with consumer price flow  through, doubts about AI debt, capex spending and ROI. The setup is a boxing match between these headwinds versus post midterm bull cycle. Who will win?",
-    "subreddit": "investing",
-    "created_utc": 1792885046,
+    "id": "1xfosqv",
+    "title": "Moronic Monday - October 26, 2026 - Your Weekly Questions Thread",
+    "url": "https://www.reddit.com/r/finance/comments/1xfosqv/moronic_monday_october_26_2026_your_weekly/",
+    "author": "AutoModerator",
+    "score": 8,
+    "selftext": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n\nReplies are expected to be constructive and civil.\n\nAny questions about your *personal* finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.",
+    "subreddit": "finance",
+    "created_utc": 1792994443,
     "thumbnail": "self",
-    "top_comments": [],
+    "top_comments": [
+      {
+        "body": "Is it normal to feel totally lost in the first few months of an analyst role or is it just me",
+        "score": 3,
+        "author": "jlast12"
+      },
+      {
+        "body": "Quick one, is WACC something people actually use in real life or is it mostly a  classroom thing?",
+        "score": 1,
+        "author": "Charlie4587"
+      },
+      {
+        "body": "My partner’s company keeps delaying the 401k match deposit, sometimes it shows up 3 months late, other times it’s just a partial amount. Is this something the DOL would actually care about or is it more of a “complain to HR and hope for the best” situation",
+        "score": 1,
+        "author": "SeparateDemeanor"
+      }
+    ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xeip2b",
-    "title": "How is this not the top? I have listed everything (hand typed)",
-    "url": "https://www.reddit.com/r/investing/comments/1xeip2b/how_is_this_not_the_top_i_have_listed_everything/",
-    "author": "madhav-sharma",
-    "score": 1,
-    "selftext": "\\- Fed increased fed funds rate.\n\n\\- Longer duration bonds also spiked up.\n\n\\- OpenAI lowering the valuation target from 1.4T to 1.2T\n\n\\- Anthropic lowering valuation from 2T to 1.5T\n\n\\- Coreweave unsecured debt interest is 16% (CDS default chances 50%)\n\n\\- Anthropic and OpenAI IPOs delayed\n\n\\- White house/Trump pictured with all tech leaders (very top-like action)\n\n\\- Ramp token spending flat for last 2 months (companies want to increase budgets, but not blindly waste money)\n\n\\- Oil prices are higher as well\n\n\\- Deficit spending, interest on the debt all going up because all rates are going up.\n\nI mean with all of this. Is it possible for markets to keep going up.\n\nIf it is, won't we climb a wall of worry, that can lead to a sustained rally and consolidation. ",
+    "id": "1xfj066",
+    "title": "Spcx vs telecoms( T, TMUS, VZ)",
+    "url": "https://www.reddit.com/r/investing/comments/1xfj066/spcx_vs_telecoms_t_tmus_vz/",
+    "author": "Abcstocks",
+    "score": 7,
+    "selftext": "Can SPCX replace telecom or be the biggest telecom, does spcx have money to invest in AI data centers  and expand telecom? Will it go to debt markets for financing telecom expansion or issue new stock to raise cash for telecom    \nInvestment? How many years will it take for spcx to replicate the current terrestrial network of telecom towers , if they lease telecom towers how would that be different than existing telecom in terms of margin?",
     "subreddit": "investing",
-    "created_utc": 1792872955,
+    "created_utc": 1792976079,
     "thumbnail": "self",
-    "top_comments": [],
+    "top_comments": [
+      {
+        "body": "For mid-QoQ content, it can handle the basics.\n\nFor low latency? No\n\nFor high bandwidth? No\n\n\nThese are the areas where ISPs need to really step up their game, big time.\n\nThey can offer gigabit or more and crush Starlink's max rates.\n\nThey can offer uncapped data at better prices than Starlink.\n\nThey can offer sub-10ms latency, which is great for VOIP, live media/performer colabs, and of course gaming.\n\nThey can offer bog standard access at rock bottom prices, and crush the lowest that Starlink can go.",
+        "score": 19,
+        "author": "RuleSafe6767"
+      },
+      {
+        "body": "if you're a gamer, the higher bandwidths help with download speeds of the initial installation package",
+        "score": 5,
+        "author": "geomaster"
+      },
+      {
+        "body": "And also, quite importantly, they can offer an alternative consumer product not tied to Musk. ",
+        "score": 5,
+        "author": "etom21"
+      }
+    ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xeidt0",
-    "title": "AI tech investing strategy",
-    "url": "https://www.reddit.com/r/investing/comments/1xeidt0/ai_tech_investing_strategy/",
-    "author": "Party-Ad4144",
-    "score": 1,
-    "selftext": "Every time I try to post an investment question it gets deleted but I thought I would try another one. I've been shocked by the tech roller coaster ride lately and started talking to AI about it. This is the strategy it came up with for me.  I hope this one doesn't get deleted because this is something I've been really wanting to look into more for a while.  I do as much reading as I can. But AI can process a whole lot more information about the market than I can. I still read AIs key references on information before making important decisions. But AI is definitely helpful in providing me the sources.\n\nI'm not seeking financial advice. I'm just wondering if others have tried AI, how it's worked out for them and if there are other questions I should ask AI or other variables to add into the analysis.\n\nThis is the AI plan for the next 3 months: \n\nYes, you will spend a total of $200 each week under normal market conditions, but you do not put the full $200 into a single stock. You split it up to spread your risk.\r\n\nHere is exactly what you do every Tuesday morning around 10:00 AM EST:\r\n\n1. The Standard Weekly Routine (Your $200 Split)\r\n\nIf the market is moving normally and nothing has crashed or panicked over the last week, you log into your brokerage account and buy $40 worth of each of your 5 choices:\r\n\n•\t$40 into SOXX (Broad ETF)\r\n\n•\t$40 into XSD (Equal-weight ETF)\r\n\n•\t$40 into ASML (Lithography monopoly)\r\n\n•\t$40 into MU (Memory bottleneck)\r\n\n•\t$40 into LRCX (Fab equipment)\r\n\n•\tTotal spent that week = $200\r\n\n2. The \"Panic Drop\" Exception (When to spend more)\r\n\nThis is where your $600 cash reserve comes into play. If I send you an alert on Monday morning saying that one of your individual stocks (like Micron - MU) has plunged more than 5% over the week, you strike:\r\n\n1.\tBuy your standard $40 of MU using your weekly budget.\r\n\n2.\tTake an extra $40 from your $600 cash reserve and buy more MU.\r\n\n3.\tBuy your normal $40 shares for the other 4 assets.\r\n\n4.\tTotal spent that week = $240 (You bought the crash at a heavy discount).\r\n\n3. Your Immediate Next Steps\r\n\n•\tKeep $600 separate: Put $600 into a safe cash sweep or money market fund inside your brokerage account. Leave it there for emergencies.\r\n\n•\tWait for Monday: Look out for my first weekly update on Monday morning to see if any of your stocks are currently sitting in the \"Panic Drop\" zone.\r\n\n•\tExecute Tuesday: Set a calendar reminder for Tuesday at 10:00 AM EST to log in and make your first set of buys.\r\n\nDoes your brokerage account support fractional shares (allowing you to buy exactly $40 of a stock rather than buying a full whole share)?\r\n\nIf you aren't sure, let me know which broker you use and I can tell you how to set up these exact dollar-amount orders!\r\n\n\r\n\nIt will monitor for:\n\n·        Trailing 7-day price performance to flag if any asset hit the **-5% Panic Trigger (Scenario B)**.\n\n·        Forward P/E compression crossing **15% below historical 5-year averages**.\n\n·        SEC Form 4 filings for **Cluster Insider Buying** (multiple executives buying in a 7-day window).\n\n·        **Major tier-one analyst rating revisions** and structural price target overhauls.\n\nPlease don't be ugly in your responses.  However, constructive criticism is most definitely welcome and appreciated. I'm a novice investor so I don't have any formal training in finance. ",
-    "subreddit": "investing",
-    "created_utc": 1792872165,
+    "id": "1xgcxkt",
+    "title": "Western Digital FQ1 2027: revenue up 55%, guidance points to 66-72% growth next quarter",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xgcxkt/western_digital_fq1_2027_revenue_up_55_guidance/",
+    "author": "Alpha_Stock_BigBull",
+    "score": 7,
+    "selftext": "FQ1 2027 Key Numbers:\n\nRevenue: $4.38B, up 55% YoY and 17% QoQ, vs about $4.14-4.16B expected\n\nGross margin: 57.8%, vs 43.9% a year ago\n\nOperating margin: about 49%\n\nEPS: $4.63, up about 161% YoY, vs about $4.08 expected\n\nOperating cash flow: $1.60B\n\nFree cash flow: $1.38B\n\nQuarterly dividend raised 17% to $0.175 per share\n\nThe company also repurchased stock in the quarter\n\nSegments and volumes\n\nCloud: $3.9B, 88% of revenue, up 54% YoY\n\nClient: $320M, 7% of revenue, up 119% YoY\n\nExabytes shipped: 248, up 22% YoY and 8% QoQ\n\nAverage revenue per terabyte: about $17.67, up 28% YoY\n\nGross profit per terabyte: about $10.22 vs $6.01 a year ago, since cost per terabyte fell\n\nManagement said demand for high-capacity drives is broadening beyond hyperscalers to neo-cloud providers and AI frontier labs, and the new EPMR drive platform has begun ramping\n\nGuidance (FQ2 2027)\n\nRevenue: about $5.1B, up 66-72% YoY\n\nGross margin: 60-61% non-GAAP\n\nEPS: $5.80 ± $0.20\n\nMarket reaction\n\nThe stock fell after the report despite the beat, following a selloff before earnings\n\nTakeaways\n\nGrowth is about 22% volume and 28% price, so this quarter is as much a pricing story as a demand story. Storage supply is tight, and pricing power is what's lifting margins.\n\nMargins moving from about 44% to 58% in a year is a huge reset, and guidance points to 60%+.\n\nHDD is historically cyclical, so the key question is how long supply stays tight and whether pricing holds as capacity comes online.\n\nCloud is 88% of revenue, so a few hyperscalers drive results. Broadening to neo-cloud and AI labs reduces that dependence.\n\nA falling stock on a beat suggests expectations were already high. \n\nThings to watch:\n\n Q2 guide ($5.1B and 60%+ margin), price per terabyte, and any capacity expansion commentary.",
+    "subreddit": "StockMarket",
+    "created_utc": 1793057930,
     "thumbnail": "self",
-    "top_comments": [],
+    "top_comments": [
+      {
+        "body": "stock ran up hard into the print so the beat was already priced in, classic sell the news. margins at 58% and guiding to 60+ is still wild though, that pricing power on the drive side is doing heavy lifting",
+        "score": 2,
+        "author": "AgreeableCovering_6"
+      },
+      {
+        "body": "when I'm only priced out of the HDD market by 100%, I'll sell my WDC",
+        "score": 1,
+        "author": "Witne55"
+      }
+    ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1xefc8x",
-    "title": "Accidentally sold 500k QQQ instead of 50k",
-    "url": "https://www.reddit.com/r/investing/comments/1xefc8x/accidentally_sold_500k_qqq_instead_of_50k/",
-    "author": "MasterpieceOver7197",
-    "score": 1,
-    "selftext": "Hi all,  \nWith my stupidity and probably will get sh\\*t on, I accidentally sold 500k QQQ on Fidelity instead of 50K, I called Fidelity and they can’t reassign the lot, what should I do? Pay off 5.5% interest rate investment condo? Or 2.65% 30 years fix resident house or invest back to QQQ?",
-    "subreddit": "investing",
-    "created_utc": 1792864848,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1xedq4d",
-    "title": "Amazon is spending $220 BILLION on AI… and still can't keep up with demand.",
-    "url": "https://www.reddit.com/r/investing/comments/1xedq4d/amazon_is_spending_220_billion_on_ai_and_still/",
-    "author": "Designer-League9544",
-    "score": 1,
-    "selftext": "Saw this yesterday and thought it was pretty interesting.\n\nAmazon CEO Andy Jassy says AWS's major cloud capacity is largely booked through 2027, with a good chunk of 2028 already committed.\n\nAnd this is a company planning to spend around $220 billion this year.\n\nObviously, having customers lined up is great, but $220 billion is an absolutely ridiculous amount of money to invest.\n\nI suppose the big question is whether all this AI demand eventually translates into the profits investors are expecting.\n\nAmazon reports earnings on October 29, so that'll be interesting to watch.\n\nAnyone here holding $AMZN? Are you confident in all this spending, or starting to think these tech companies are getting a bit carried away?",
-    "subreddit": "investing",
-    "created_utc": 1792860962,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1xec7qy",
-    "title": "Brent at $117 and the SPR has nothing left to give if this gets worse",
-    "url": "https://www.reddit.com/r/investing/comments/1xec7qy/brent_at_117_and_the_spr_has_nothing_left_to_give/",
-    "author": "perspicacity_ai",
-    "score": 1,
-    "selftext": "Brent crude closed at $117.10 after Houthi strikes hit Saudi energy infrastructure and Trump told a rally crowd the US may run another operation against Iran. The State Department then issued diplomatic departure orders across the Middle East, which tends to move oil faster than any analyst price target.\n\nThe Strategic Petroleum Reserve is at its lowest level since 1982 and got tapped again this week just to keep a single Louisiana refinery supplied. Every past oil spike had the SPR as a release valve. With the buffer this thin, any fresh supply disruption feeds straight into the price with nothing to slow it.\n\nAirlines are the most exposed if $115 holds another two weeks, given fuel is their single biggest cost line. Which signal are you treating as the cleaner read on whether this reaches $120, the next Houthi strike or further diplomatic departures from the region?",
-    "subreddit": "investing",
-    "created_utc": 1792857330,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   }
 ];
