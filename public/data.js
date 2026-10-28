@@ -1,34 +1,39 @@
 window.dailyTrends = [
   {
-    "id": "1xfda72",
-    "title": "There's gonna be a bloodbath of Neocloud on Monday",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xfda72/theres_gonna_be_a_bloodbath_of_neocloud_on_monday/",
-    "author": "Boring-Test5522",
-    "score": 1556,
-    "selftext": "I don't know what Musk is trying to do, but it looks like he's pouring gasoline on the neoclouds' debt problem. My theory is that he's trying to bankrupt his competitors, especially neoclouds and overleveraged hyperscalers like Oracle & OpenAI, so he can swoop in and buy up their assets for pennies on the dollar.",
-    "subreddit": "StockMarket",
-    "created_utc": 1792961013,
-    "thumbnail": "https://preview.redd.it/bcycb2lzcoxh1.jpeg?width=140&height=140&crop=1%3A1%2Csmart&auto=webp&s=a5cb926aaa5546c80bb47d1b8cff43b1b8f115d6",
+    "id": "1xg1o4j",
+    "title": "Microsoft offers voluntary buyouts to 60,000 employees",
+    "url": "https://www.reddit.com/r/investing/comments/1xg1o4j/microsoft_offers_voluntary_buyouts_to_60000/",
+    "author": "btcnized",
+    "score": 840,
+    "selftext": "Holy shit, that is around 1/4 of their global workforce, pretty significant\n\n[https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html?\\_\\_source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard](https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard)\n\n",
+    "subreddit": "investing",
+    "created_utc": 1793032059,
+    "thumbnail": "self",
     "top_comments": [
       {
-        "body": "\"Elon's \"debt\" is to shareholders, and a \"default\" happens by falling stock price\"\n\nWhat? Read the post again: Elon raised $40B in debt. From lenders. That's debt. ",
-        "score": 3,
-        "author": "NeitherEntry6125"
+        "body": "My last company, the managers would talk to people they knew were retiring soon (like within the next 1-2 years) and see if they wanted to volunteer for the layoff. The employee would then get a nice severance and get to retire early",
+        "score": 7,
+        "author": "Mindless_Ad5714"
       },
       {
-        "body": "Do you have any website with this info directly from Tesla? Because I couldn't find anything directly from Tesla about this all I could find was when they started doing it with just a few robotaxis. ",
-        "score": 3,
-        "author": "cvc4455"
+        "body": "meh, consulting can be fun. some people just like doing stuff. just because you don’t understand their mindset doesn’t mean you need to disqualify them from having it. ",
+        "score": 7,
+        "author": "Mrgluer"
       },
       {
-        "body": "Yeah I hear you, I’m getting confused as well, seems like anthropic IPO is pushing it down today and concerns over US DAU even though they aren’t reporting on it anymore. I’m going to hold this one no matter how volatile it gets because all the renewed licensing deals are coming over the next 2-6 months and I want to be in the stock when those are announced. I also really like using Reddit and like investing in stocks that myself and friends and family use a lot. Cheers ",
-        "score": 2,
-        "author": "tdogger88"
+        "body": "Relax mi amigo. This person is working 15-20 hours per week. They have plenty of time to spend with people they love. Some people get important meaning from the work they do.",
+        "score": 5,
+        "author": "SubterraneanAlien"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-10-27",
+    "savedAt": {
+      "_seconds": 1793102077,
+      "_nanoseconds": 260000000
+    }
   },
   {
     "id": "1xfwwbo",
@@ -59,33 +64,38 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-10-27",
+    "savedAt": {
+      "_seconds": 1793102076,
+      "_nanoseconds": 272000000
+    }
   },
   {
-    "id": "1xg1o4j",
-    "title": "Microsoft offers voluntary buyouts to 60,000 employees",
-    "url": "https://www.reddit.com/r/investing/comments/1xg1o4j/microsoft_offers_voluntary_buyouts_to_60000/",
-    "author": "btcnized",
-    "score": 840,
-    "selftext": "Holy shit, that is around 1/4 of their global workforce, pretty significant\n\n[https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html?\\_\\_source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard](https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard)\n\n",
-    "subreddit": "investing",
-    "created_utc": 1793032059,
+    "id": "1xgvfl7",
+    "title": "Workers paid $189B more in income taxes this year. Corporations paid $71B less.",
+    "url": "https://www.reddit.com/r/business/comments/1xgvfl7/workers_paid_189b_more_in_income_taxes_this_year/",
+    "author": "ForgotTheTackWeld",
+    "score": 936,
+    "selftext": "DHS paid 4 times the value for two detention centers.- Isn't this a waste of our tax Money? ",
+    "subreddit": "business",
+    "created_utc": 1793114533,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "My last company, the managers would talk to people they knew were retiring soon (like within the next 1-2 years) and see if they wanted to volunteer for the layoff. The employee would then get a nice severance and get to retire early",
-        "score": 7,
-        "author": "Mindless_Ad5714"
+        "body": "It's true. \n\nhttps://www.cbo.gov/publication/61953\n\n2025 income tax: 2,656 billions  \n2025 Corp income tax: 452 billions\n\nhttps://www.cbo.gov/publication/61185\n\n2024 income tax: 2,426 billions  \n2024 Corp income tax: 530 billions",
+        "score": 20,
+        "author": "LubbockGuy95"
       },
       {
-        "body": "meh, consulting can be fun. some people just like doing stuff. just because you don’t understand their mindset doesn’t mean you need to disqualify them from having it. ",
+        "body": "What does this have to do with the massive corporate tax cuts from Rethuglicans?",
         "score": 7,
-        "author": "Mrgluer"
+        "author": "CommercialHour6660"
       },
       {
-        "body": "Relax mi amigo. This person is working 15-20 hours per week. They have plenty of time to spend with people they love. Some people get important meaning from the work they do.",
-        "score": 5,
-        "author": "SubterraneanAlien"
+        "body": "ICE has a larger budget that the Marines",
+        "score": 6,
+        "author": "Namika"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -121,7 +131,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-10-27",
+    "savedAt": {
+      "_seconds": 1793102078,
+      "_nanoseconds": 64000000
+    }
   },
   {
     "id": "1xg3ih3",
@@ -152,38 +167,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xf331w",
-    "title": "S&P Stagnation And Other Recession Indicators.",
-    "url": "https://www.reddit.com/r/investing/comments/1xf331w/sp_stagnation_and_other_recession_indicators/",
-    "author": "zero_cool_protege",
-    "score": 181,
-    "selftext": "The S&P500 index has been stagnant for about a quarter now. During that same time we have seen an uptick in inflation caused by Trumps war with Iran. Now, crude oil prices have hit $117 a barrel with no end in sight. \n\nBond yields have made borrowing harder.\n\nAll this is happening as investors are beginning to get cold feet about AI related CapEx, as we hear stories about data centers not getting complete and processing chips sitting in warehouses. \n\nConsumer spending remains high, but it’s hard to tell if/when the market will turn around. ",
-    "subreddit": "investing",
-    "created_utc": 1792936754,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Yes, but if you believe the market has gone down that becomes a definite buying opportunity.\n\n\"be fearful when others are greedy, and be greedy only when others are fearful\" --  W. Buffet.",
-        "score": 10,
-        "author": "sjbuggs"
-      },
-      {
-        "body": "Again.  More guessing.\n\nI think it will either go up, or down, or stay the same.",
-        "score": 7,
-        "author": "SBNShovelSlayer"
-      },
-      {
-        "body": "No, the SP500 is up 28% since 11/5/2024, not 70%.  ",
-        "score": 5,
-        "author": "crossdefaults"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-10-27",
+    "savedAt": {
+      "_seconds": 1793102078,
+      "_nanoseconds": 807000000
+    }
   },
   {
     "id": "1xg9fui",
@@ -214,7 +203,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-10-27",
+    "savedAt": {
+      "_seconds": 1793102080,
+      "_nanoseconds": 259000000
+    }
   },
   {
     "id": "1xg17sr",
@@ -245,7 +239,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-10-27",
+    "savedAt": {
+      "_seconds": 1793102080,
+      "_nanoseconds": 971000000
+    }
   },
   {
     "id": "1xfwr0n",
@@ -272,6 +271,104 @@ window.dailyTrends = [
         "body": "Having $120 Billion in losses over the past 2 quarters would usually make this the worst investment ever",
         "score": 13,
         "author": "tapioca_slaughter"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-10-27",
+    "savedAt": {
+      "_seconds": 1793102081,
+      "_nanoseconds": 684000000
+    }
+  },
+  {
+    "id": "1xgmwda",
+    "title": "Microsoft beat estimates 8 qtrs straight and fell the next day 5 times",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xgmwda/microsoft_beat_estimates_8_qtrs_straight_and_fell/",
+    "author": "dagilisek",
+    "score": 60,
+    "selftext": "I'm staying out Microsoft until the reaction is in on Thursday and the reason is each of the last 8 reports beat the adjusted estimate but the stock only rose the next day after 3. The biggest beat which was about 10% in Oct 2025, fell 3% and the smallest, about 2% in Jan 2025, fell 6%. July was the only one that rose more than 10% so I would rather see the reaction than guess it. \n\nIs anyone else waiting or are you in before the print?",
+    "subreddit": "StockMarket",
+    "created_utc": 1793089554,
+    "thumbnail": "https://preview.redd.it/o02woxauzyxh1.png?width=140&height=140&crop=1%3A1%2Csmart&auto=webp&s=a71cb7b21465e0d202dbd8b4751a88be9b9c8303",
+    "top_comments": [
+      {
+        "body": "Gamestop has an even more impressive strike and still falls. 🤷",
+        "score": 19,
+        "author": "Inside_Service2856"
+      },
+      {
+        "body": "I mean, it is at ATH, so it is possible that it goes down after the earnings. It is normal",
+        "score": 9,
+        "author": "wthja"
+      },
+      {
+        "body": "This just in: Stocks move up and down.",
+        "score": 4,
+        "author": "TheRealGreenArrow420"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xgt2gv",
+    "title": "The Capital Gains Surprise",
+    "url": "https://www.reddit.com/r/investing/comments/1xgt2gv/the_capital_gains_surprise/",
+    "author": "Quiet-Day392",
+    "score": 35,
+    "selftext": "For the last couple years my basket of mutual funds have done a lot of portfolio churning. This has generated unpredictable taxable income. It happens in December and I don’t see it until the 1099’s are issued. It results in thousands of dollars in unexpected taxes.\n\nMy response has been to take all the gains to a cash account. This prevents the MF’s from reinvesting them and gives me a cash cushion to pay the taxes.\n\nHow are others handling this? Any other recommended strategies? The big churners are also the ones with the highest yields.",
+    "subreddit": "investing",
+    "created_utc": 1793109005,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "It is what my accountant says. \n\n\"Owing all this money is not a bad problem\".\n\nI tell him to STFU. We laugh. But I still cry inside.",
+        "score": 4,
+        "author": "AdeptnessLive4966"
+      },
+      {
+        "body": "The \"low effort\" part mostly applies to submissions. It's just not practical for the mods to police every single comment here.",
+        "score": 3,
+        "author": "TrashBandicook"
+      },
+      {
+        "body": "I have stuff I invest on my own, but I'm pretty happy with my own broad market indexes. It really doesn't bother me what or how people invest. Plenty of Bogleheaders started out stock picking and decided over time it wasn't worth their time and effort for a good chunk of their portfolio.",
+        "score": 3,
+        "author": "TrashBandicook"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xgu11k",
+    "title": "In 1983 the Louisiana show 'Folks' covered the Black owned Banking industry within the state. Liberty Bank, the first financial institution covered in that night's episode has since risen to become one of the leading Black banks in America - with assets in excess of $1.13 billion as of 2026...",
+    "url": "https://www.reddit.com/r/finance/comments/1xgu11k/in_1983_the_louisiana_show_folks_covered_the/",
+    "author": "TheMahagonyDefender",
+    "score": 32,
+    "selftext": "The Centuries Old History Of Black American Banks: [https://www.kansascityfed.org/about-us/let-us-put-our-money-together-founding-americas-first-black-banks/](https://www.kansascityfed.org/about-us/let-us-put-our-money-together-founding-americas-first-black-banks/)\n\nLiberty Bank & Trust Co. Today: [https://youtu.be/DP6YhIVvOj8](https://youtu.be/DP6YhIVvOj8)\n\nThe National Bankers Association: [https://youtu.be/bsO1E-b2Rwk](https://youtu.be/bsO1E-b2Rwk)",
+    "subreddit": "finance",
+    "created_utc": 1793111273,
+    "thumbnail": "https://external-preview.redd.it/Y3M0dHlkdTFzMHloMbuZDSoMpRjwGbSHyiX9A54-s93uW0XutnNd7gChknhT.png?width=140&height=105&format=jpg&auto=webp&s=f09357ccbde12142c47bfecdc05f3d2e0ff84f7a",
+    "top_comments": [
+      {
+        "body": "Not to take anything away from the story - but $1b in assets is nothing from the perspective of a bank.  A single branch of our local community bank has $1 billion in assets.",
+        "score": 18,
+        "author": "rya794"
+      },
+      {
+        "body": "Television absent of screaming at your face. My gosh. How wonderful. Easy to listen to. Interesting. \n\nI miss the past. ",
+        "score": 3,
+        "author": "Gambit6x"
+      },
+      {
+        "body": "That was founded in 1871 with a major merge in the year 2000. \n Liberty Bank specifically was founded in 1972. ",
+        "score": 1,
+        "author": "TheMahagonyDefender"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -307,121 +404,53 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-10-27",
+    "savedAt": {
+      "_seconds": 1793102082,
+      "_nanoseconds": 422000000
+    }
   },
   {
-    "id": "1xfqo30",
-    "title": "Daily General Discussion and Advice Thread - October 26, 2026",
-    "url": "https://www.reddit.com/r/investing/comments/1xfqo30/daily_general_discussion_and_advice_thread/",
-    "author": "AutoModerator",
-    "score": 9,
-    "selftext": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n\nPlease consider consulting our FAQ first - [https://www.reddit.com/r/investing/wiki/faq](https://www.reddit.com/r/investing/wiki/faq) And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.\n\nIf you are new to investing - please refer to Wiki - [Getting Started](https://www.reddit.com/r/investing/wiki/index/gettingstarted/)\n\nThe reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - [Reading List](https://www.reddit.com/r/investing/wiki/readinglist)\n\nThe media list in the wiki has a list of reputable podcasts and videos - [Podcasts and Videos](https://www.reddit.com/r/investing/wiki/medialist)\n\nIf your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n\n* How old are you? What country do you live in?\n* Are you employed/making income? How much?\n* What are your objectives with this money? (Buy a house? Retirement savings?)\n* What is your time horizon? Do you need this money next month? Next 20yrs?\n* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n* Any big debts (include interest rate) or expenses?\n* And any other relevant financial information will be useful to give you a proper answer.\n\nCheck the resources in the sidebar.\n\nBe aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!",
-    "subreddit": "investing",
-    "created_utc": 1793001619,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Rule of thumb I use: insider selling has a dozen boring reasons (taxes, houses, diversification), insider buying has one. Clusters of open-market buys (code P) from several insiders are the signal worth your time.",
-        "score": 1,
-        "author": "Perple_Coffee"
-      },
-      {
-        "body": "# Microsoft offering buyouts to 60,000 workers.",
-        "score": 1,
-        "author": "Sportcup3"
-      },
-      {
-        "body": "Is donating sperms to short iren a bad idea because I'm out of money to add and jts going up",
-        "score": 1,
-        "author": "Sofi_put_man"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xfqr8s",
-    "title": "bahrain's GFH just tripled its money on the guys who wire america's data centers",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xfqr8s/bahrains_gfh_just_tripled_its_money_on_the_guys/",
-    "author": "SearchSideofPE",
-    "score": 9,
-    "selftext": "everyone's fighting over AI chips and meanwhile a bahraini bank quietly 3x'd on the electrical guys. GFH sold out of Saber Power Investments on oct 21, which bundled a PE stake in US-based Saber Power Services (they build, test and maintain the electrical systems for utilities, data centers, factories, renewables and battery storage) with a pot of liquid investments for yield. the whole package returned 3x+ over a \"short holding period,\" roughly $173.5M cash back to investors after fees. GFH had a 15% co-invest alongside Schroders Capital, and Greenbelt Capital Partners led the deal. clean exit in a year when nobody's getting exits. picks and shovels baby, fun times ahead boys\n\n[source: GFH announcement on Zawya](https://www.zawya.com/en/press-release/companies-news/gfh-announces-3x-successful-exit-from-saber-power-investments-1813441)",
+    "id": "1xgubwg",
+    "title": "SMR Sector Starts Seeing Share Buybacks as Valuations Reset",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xgubwg/smr_sector_starts_seeing_share_buybacks_as/",
+    "author": "C130J_Darkstar",
+    "score": 29,
+    "selftext": "Terrestrial Energy recently announced a share repurchase program of up to $25 million, adding an interesting development to the advanced nuclear sector as valuations across the industry have come down significantly.\n\nThe program raises an interesting question about how emerging nuclear companies view their valuations and capital allocation opportunities. While these businesses require substantial capital to bring their reactor designs to commercial deployment, repurchasing shares can be attractive when management believes the market price is below the company's intrinsic value.\n\nOf course, a buyback authorization doesn't guarantee the full amount will be spent, and the timing of Terrestrial Energy's program may also be relevant given the potential for shares held by early investors to become eligible for sale.\n\nIt will be interesting to see whether other companies in the SMR space consider similar programs as valuations reset. Oklo, for example, has billions in cash but also significant capital requirements ahead as it works toward commercial deployment.",
     "subreddit": "StockMarket",
-    "created_utc": 1793001932,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "while everyone’s hyperventilating over gpus this is the real trade nobody talks about. the guys actually wiring the racks and keeping the cooling from melting down are the ones printing. 3x in a “short holding period” when deal flow is basically frozen everywhere else is wild",
-        "score": 2,
-        "author": "lewdounce_5830"
-      },
-      {
-        "body": "so does that mean we can invenst in a specific stock here?",
-        "score": 1,
-        "author": "Smetomatik"
-      }
-    ],
+    "created_utc": 1793111986,
+    "thumbnail": "https://external-preview.redd.it/QDAi_F7ZlorHFIQo0corT4kg2yym3wo23p8E7FnZSeI.jpeg?width=140&height=73&auto=webp&s=49113a098e73a89766d521e1ecfa6fbdd103ef83",
+    "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1xfosqv",
-    "title": "Moronic Monday - October 26, 2026 - Your Weekly Questions Thread",
-    "url": "https://www.reddit.com/r/finance/comments/1xfosqv/moronic_monday_october_26_2026_your_weekly/",
-    "author": "AutoModerator",
-    "score": 8,
-    "selftext": "This is your safe place for questions on financial careers, homework problems and finance in general. No question in the finance domain is unwelcome.\n\nReplies are expected to be constructive and civil.\n\nAny questions about your *personal* finances belong in r/PersonalFinance, and career-seekers are encouraged to also visit r/FinancialCareers.",
-    "subreddit": "finance",
-    "created_utc": 1792994443,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Is it normal to feel totally lost in the first few months of an analyst role or is it just me",
-        "score": 3,
-        "author": "jlast12"
-      },
-      {
-        "body": "Quick one, is WACC something people actually use in real life or is it mostly a  classroom thing?",
-        "score": 1,
-        "author": "Charlie4587"
-      },
-      {
-        "body": "My partner’s company keeps delaying the 401k match deposit, sometimes it shows up 3 months late, other times it’s just a partial amount. Is this something the DOL would actually care about or is it more of a “complain to HR and hope for the best” situation",
-        "score": 1,
-        "author": "SeparateDemeanor"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xfj066",
-    "title": "Spcx vs telecoms( T, TMUS, VZ)",
-    "url": "https://www.reddit.com/r/investing/comments/1xfj066/spcx_vs_telecoms_t_tmus_vz/",
-    "author": "Abcstocks",
-    "score": 7,
-    "selftext": "Can SPCX replace telecom or be the biggest telecom, does spcx have money to invest in AI data centers  and expand telecom? Will it go to debt markets for financing telecom expansion or issue new stock to raise cash for telecom    \nInvestment? How many years will it take for spcx to replicate the current terrestrial network of telecom towers , if they lease telecom towers how would that be different than existing telecom in terms of margin?",
+    "id": "1xgw83f",
+    "title": "I have the option for Mega Backdoor Roth though my company, but unsure if I should take advantage",
+    "url": "https://www.reddit.com/r/investing/comments/1xgw83f/i_have_the_option_for_mega_backdoor_roth_though/",
+    "author": "Immediate_Fee_1841",
+    "score": 21,
+    "selftext": "Hello,\n\nMy wife and I both work at the same company and have an arbitrary but not set in stone plan to retire at 50.  I am not the most savvy investor when  it comes to strategy for this, so I am looking for some advice.  \n\nRight now we both max out our 401k contributions with a 9% match from the company.  We also have a Roth which we backdoor to max it out each year.  We also have some individual stocks and invest our HSA.  Lastly, we have recently started an Individual IRA as my understanding is this will help bridge the gap from 50 to 59 and a half. \n\nI was told that the Mega Backdoor option is offered to my through my company, and it was suggested I take advantage.  If I have just enough money to contribute to my other investments currently, I am wondering if there some money from, lets say, my individual IRA or stocks that I should look to instead contribute to the Mega Backdoor if I am wanting to retire early, or if should I continue to focus on the individual IRA.  My understanding is we are on a pretty good trajectory to have enough money in the later retirement years, and the challenge will be having enough money to actually retire early.  \n\nAnyone else have the option for Mega Backdoor, and are you using it? ",
     "subreddit": "investing",
-    "created_utc": 1792976079,
+    "created_utc": 1793116287,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "For mid-QoQ content, it can handle the basics.\n\nFor low latency? No\n\nFor high bandwidth? No\n\n\nThese are the areas where ISPs need to really step up their game, big time.\n\nThey can offer gigabit or more and crush Starlink's max rates.\n\nThey can offer uncapped data at better prices than Starlink.\n\nThey can offer sub-10ms latency, which is great for VOIP, live media/performer colabs, and of course gaming.\n\nThey can offer bog standard access at rock bottom prices, and crush the lowest that Starlink can go.",
-        "score": 19,
-        "author": "RuleSafe6767"
+        "body": "if you're already maxing the 401k and the regular backdoor roth you're in a pretty good spot. the mega backdoor is basically a way to stuff way more into your roth space, which is nice because it grows tax free and you can pull contributions out early without penalty if you structure it right\n\n  \nfor your early retirement goal that's pretty useful. individual ira is cool but the mega backdoor gives you the roth benefits without the income limits and you can get a lot more in each year. might be worth dialing back the individual stocks a bit to fund it if the match and everything else is already covered",
+        "score": 13,
+        "author": "KeenlyCrazy"
       },
       {
-        "body": "if you're a gamer, the higher bandwidths help with download speeds of the initial installation package",
-        "score": 5,
-        "author": "geomaster"
+        "body": "Short answer: yes, the megabackdoor is better than a taxable brokerage account. \n\nSome of your post is confusing, but yeah, you're probably on a GREAT trajectory unless you started yesterday. \n\nWRT \"bridging the gap\", all of the retirement funds can be accessed early. [https://www.madfientist.com/how-to-access-retirement-funds-early/](https://www.madfientist.com/how-to-access-retirement-funds-early/)\n\nSpecifically about the MBDR, the contribution portion can be withdrawn early, similar to Roth IRA (does require rolling into a Roth IRA first). ",
+        "score": 7,
+        "author": "Sprig3"
       },
       {
-        "body": "And also, quite importantly, they can offer an alternative consumer product not tied to Musk. ",
+        "body": "> Right now we both max out our 401k contributions with a 9% match from the company. We also have a Roth which we backdoor to max it out each year. We also have some individual stocks and invest our HSA. Lastly, we have recently started an Individual IRA as my understanding is this will help bridge the gap from 50 to 59 and a half.\n\nThis needs clarification because some things here don't sound right.\n\n\"We also have a Roth.\" A Roth *what*? Roth IRA? There's such a thing as Roth 401k contributions (which effectively is what the mega backdoor approach is doing).\n\nIf by \"individual IRA\" you mean \"traditional IRA\" - I don't think this is what you want to be doing, for several reasons:\n\n* It's not the choice for bridging the gap between 50 and 59.5\n* It makes your backdoor Roth IRA less viable\n* If your income level is high now, you're effectively double taxed here\n\nIf by \"individual IRA\" you meant individual *taxable brokerage* that is a completely different story, and yes - that is what you can use to bridge the gap from 50 to 59.5.\n\nThe mega backdoor Roth 401k thing can have a time and a place, and yes I do contribute a small amount to it, but it's not necessarily helping you for the early retirement plan.",
         "score": 5,
-        "author": "etom21"
+        "author": "therealjerseytom"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -452,6 +481,11 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-10-27",
+    "savedAt": {
+      "_seconds": 1793102086,
+      "_nanoseconds": 15000000
+    }
   }
 ];
