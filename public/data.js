@@ -1,39 +1,34 @@
 window.dailyTrends = [
   {
-    "id": "1xgvfl7",
-    "title": "Workers paid $189B more in income taxes this year. Corporations paid $71B less.",
-    "url": "https://www.reddit.com/r/business/comments/1xgvfl7/workers_paid_189b_more_in_income_taxes_this_year/",
-    "author": "ForgotTheTackWeld",
-    "score": 936,
-    "selftext": "DHS paid 4 times the value for two detention centers.- Isn't this a waste of our tax Money? ",
-    "subreddit": "business",
-    "created_utc": 1793114533,
-    "thumbnail": "self",
+    "id": "1xiktw3",
+    "title": "Alphabet (Google), is having one of the wildest days in its history",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xiktw3/alphabet_google_is_having_one_of_the_wildest_days/",
+    "author": "Anoncry66",
+    "score": 2188,
+    "selftext": "1. The stock is down -13%, on track for its worst day since its 2004 IPO. The previous record was -11.7% in September 2008.  \n  \n2. Around $450 billion in market value has been wiped out.  \n  \n3. It is the first time Alphabet has ever fallen more than -10% after an earnings report.  \n  \n4. Free cash flow was negative for a second straight quarter, which had never happened before in its history as a public company.",
+    "subreddit": "StockMarket",
+    "created_utc": 1793282504,
+    "thumbnail": "https://preview.redd.it/97tr8okjxeyh1.png?width=140&height=67&auto=webp&s=e3b182cc85947b97a0d15c7efce85458e5078010",
     "top_comments": [
       {
-        "body": "It's true. \n\nhttps://www.cbo.gov/publication/61953\n\n2025 income tax: 2,656 billions  \n2025 Corp income tax: 452 billions\n\nhttps://www.cbo.gov/publication/61185\n\n2024 income tax: 2,426 billions  \n2024 Corp income tax: 530 billions",
-        "score": 20,
-        "author": "LubbockGuy95"
+        "body": "His entire comment was \"I agree with you but I'm also smarter than you because hurr durr\" ",
+        "score": 2,
+        "author": "Extra_Pizza9075"
       },
       {
-        "body": "What does this have to do with the massive corporate tax cuts from Rethuglicans?",
-        "score": 7,
-        "author": "CommercialHour6660"
+        "body": "buy the dip if you can cuz google runs marathons not sprints like most newer companies",
+        "score": 2,
+        "author": "cakepiex"
       },
       {
-        "body": "ICE has a larger budget that the Marines",
-        "score": 6,
-        "author": "Namika"
+        "body": "Quantum computing won't make money.\n\nThey also won't increase their share of Google search users.",
+        "score": 2,
+        "author": "Koreus_C"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-10-28",
-    "savedAt": {
-      "_seconds": 1793190668,
-      "_nanoseconds": 921000000
-    }
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
     "id": "1xhotkl",
@@ -64,7 +59,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-10-29",
+    "savedAt": {
+      "_seconds": 1793277714,
+      "_nanoseconds": 703000000
+    }
   },
   {
     "id": "1xhzutp",
@@ -95,33 +95,69 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-10-29",
+    "savedAt": {
+      "_seconds": 1793277715,
+      "_nanoseconds": 356000000
+    }
   },
   {
-    "id": "1xhlcgh",
-    "title": "SoFi was around $16 five years ago and still around $16 going into this week.",
-    "url": "https://www.reddit.com/r/investing/comments/1xhlcgh/sofi_was_around_16_five_years_ago_and_still/",
-    "author": "AlphaYou_net",
-    "score": 202,
-    "selftext": "SoFi was in the $15-ish range around 5y ago, back in dec'21  \n  \nIt's $16 going into this week. Q3 results have been awesome with revenue soaring 44% to $1.4B and EPS beating estimates, finally forced the stock over $16.\n\n**Total Revenue grew by \\~362% in the last 5y.**   \n  \nSoFi brought in **$1.09 billion** in full-year 2021.   \n  \nBy EOY 2026, management expects full-year  net revenue to hit **$5 billion**\n\n5 years of nothing and now everyone’s talking about it again.   \n  \nwatching the company get way bigger while your number doesn’t move has been brutal.",
+    "id": "1xj1fyh",
+    "title": "Another GOOGL buying opportunity",
+    "url": "https://www.reddit.com/r/investing/comments/1xj1fyh/another_googl_buying_opportunity/",
+    "author": "OkKitchen7114",
+    "score": 313,
+    "selftext": "The last time it was down 8% in May 2025, I bought a bunch, and it’s doubled since then (including the collapse today). \n\nI get it- Numbers came in slightly lower than expected. Free cash flow was negative due to huge capex spending. But this is a future (or current?) blue chip company. \n\nAt a 32% discount to its all-time high, it’s a great buying opportunity. I bought some today and may buy more tomorrow.",
     "subreddit": "investing",
-    "created_utc": 1793186484,
+    "created_utc": 1793321148,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "5 years ago: 66 million shares outstanding vs. 1.2 billion today.\n\nWould I hire Anthony Noto? Hahaha.",
-        "score": 33,
-        "author": "Civil-Plate1206"
+        "body": "WSB told me to buy AMD at $1.74 back in 2016 and now I own a million dollar home because of them lol, it’s not the same sub anymore but they definitely have some good tips in there.\n\nI also increased my goog holdings back last year at 180 due to this sub calling it a buy.",
+        "score": 5,
+        "author": "We_The_Worst"
       },
       {
-        "body": "The stock market is literally the mechanism to raise money and I know that people think it's all buybacks and number go up and then it's all surprise picachu face when it gets used for its intended purpose. \n\nI got a lick off of 6 haven't touched since. Probably rather buy a bank preferred. ",
-        "score": 18,
-        "author": "Certain-Statement-95"
+        "body": "I'm not a trader, generally I buy and hold for as long as it makes sense. It seemed like a good time to take profit, I was up a lot and the current market reminds me a lot of 1999. I've made plenty of money over the last few years but if we have another lost decade I'm working until I'm 70. I'm close enough to retirement that it seemed like a good time to get defensive.",
+        "score": 5,
+        "author": "Somnifor"
       },
       {
-        "body": "https://www.macrotrends.net/stocks/charts/SOFI/sofi-technologies/market-cap\n\nMarket cap has basically doubled in 5 years.",
-        "score": 15,
-        "author": "moneys5"
+        "body": "When OpenAI and Anthropic are losing shitloads of money on every subscriber, is having fewer subscribers at this point actually a negative?",
+        "score": 4,
+        "author": "SpeedflyChris"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xihkim",
+    "title": "The $17B Mega-Merger: DoorDash Acquires Instacart",
+    "url": "https://www.reddit.com/r/investing/comments/1xihkim/the_17b_megamerger_doordash_acquires_instacart/",
+    "author": "unconventionalbook",
+    "score": 266,
+    "selftext": "DoorDash’s massive $17 billion acquisition of Instacart marks a historic consolidation wave in the gig economy, creating an undisputed powerhouse in food, grocery, and retail logistics. \n\nFrom an investment perspective, this mega-deal alters the landscape for the consumer staples and discretionary retail sectors, significantly shifting the valuation metrics for competitors like Uber Eats and Grubhub. Wall Street will be hyper-focusing on the regulatory and antitrust hurdles this tie-up faces, alongside the immediate impact on both DASH and CART share prices as the market prices in the long-term margin expansions, logistical synergies, and reduced customer acquisition costs. Whether this integration successfully drives profitability amid persistent gig-worker labor pressures or degrades capital efficiency depends entirely on how the street views the hefty premium paid in a high-rate corporate environment. How are you positioning your portfolio?\n\n  \nSource: [Bloomberg](https://www.bloomberg.com/news/articles/2026-10-29/doordash-to-buy-instacart-in-17-billion-deal)",
+    "subreddit": "investing",
+    "created_utc": 1793273922,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "> The airline business sucks because there are too many players\n\nIt sucks for many structural reasons and it wouldn't be some cash cow even if it was a monopoly/duopoly",
+        "score": 4,
+        "author": "sentry_chad"
+      },
+      {
+        "body": "> People do this gigs to basically scrape by\n\nSo what you're saying is these gigs are awesome because they help people scrape by when they need work\n\nThat's what all of the economic/bank stats show. Most people do this short term to smooth income until they move on",
+        "score": 4,
+        "author": "sentry_chad"
+      },
+      {
+        "body": "Headline shocked me, thought DD was tiny compared to Instacart.",
+        "score": 4,
+        "author": "here_now_be"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -157,7 +193,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-10-29",
+    "savedAt": {
+      "_seconds": 1793277716,
+      "_nanoseconds": 582000000
+    }
   },
   {
     "id": "1xi1tre",
@@ -188,33 +229,38 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-10-29",
+    "savedAt": {
+      "_seconds": 1793277717,
+      "_nanoseconds": 199000000
+    }
   },
   {
-    "id": "1xhjswf",
-    "title": "HSBC says investors are shifting funds from France to UK",
-    "url": "https://www.reddit.com/r/investing/comments/1xhjswf/hsbc_says_investors_are_shifting_funds_from/",
-    "author": "FlappyBored",
-    "score": 89,
-    "selftext": "https://finance.yahoo.com/markets/world-indices/articles/hsbc-says-investors-shifting-funds-094416822.html\n\n\\>The broker recently cut France to \"underweight,\" citing a worsening fiscal backdrop, weaker economic forecasts and deteriorating analyst expectations, according to a Sept. 23 report.\n\nMore bad news for France while the UK economy seems to be growing stronger and much more resilient and increasing growth. ",
+    "id": "1xiz19z",
+    "title": "67% Returns according to Trump",
+    "url": "https://www.reddit.com/r/investing/comments/1xiz19z/67_returns_according_to_trump/",
+    "author": "Fugoola",
+    "score": 162,
+    "selftext": "I was listening to a trump speech this morning while I was traveling and he mentioned that everyone is averaging about 67% profit in their 401ks this year because of his policies. I don't know who everyone is that he was talking about but I certainly didn't see it. Just wondering if others made 67% because of his policies.",
     "subreddit": "investing",
-    "created_utc": 1793181313,
+    "created_utc": 1793314789,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "makes sense with the fiscal mess over there, nobody wants to park cash where the rules might change on a whim",
-        "score": 45,
-        "author": "invinciblelester403"
+        "body": "When he says \"we\", he means himself and his friends. And yes, they are making a lot of money.",
+        "score": 8,
+        "author": "The_Real_Ghost"
       },
       {
-        "body": "No it isn't? Farages party isn't even polling top two.",
-        "score": 15,
-        "author": "FlappyBored"
+        "body": "Do you understand what 401ks are for? It’s basic financial literacy.\n\nStocks = Higher risk and volatility. Higher returns.\n\nBonds = Lower risk and volatility. Lower returns.\n\nYou spend your entire life saving for retirement. That’s your income until you die. When you are about to retire, you want your portfolio to be conservative so you aren’t wiped out by a financial crisis.\n\nI’d rather retire allocated to bonds and “survive” a 1% downturn than to YOLO and see my retirement funds vanish by 30% due to a bubble bursting.",
+        "score": 8,
+        "author": "take_care_a_ya_shooz"
       },
       {
-        "body": "UK borrowing is declining while also having some of the highest growth in the G7.\n\n[https://www.wsj.com/world/uk/uk-government-on-track-to-cut-borrowing-ahead-of-budget-361f51ee](https://www.wsj.com/world/uk/uk-government-on-track-to-cut-borrowing-ahead-of-budget-361f51ee)\n\nUK is seen as a ‘bright spot’ on debt by the IMF.\n\n[https://news.sky.com/video/uk-seen-as-a-bright-spot-on-debt-13599123](https://news.sky.com/video/uk-seen-as-a-bright-spot-on-debt-13599123)\n\nUK is in a much more secure position and on a much better trajectory which is why funds are moving there from places like France.\n\n‘Reddit’ also doesn’t ban you for anything. You get banned for posting a lot of racist comments though or spamming riot videos unrelated subs like when people where spamming random videos in interestingasfuck or damnthatsintereting",
-        "score": 13,
-        "author": "FlappyBored"
+        "body": "When he says \"we\" maybe he's got a mouse in his pocket.",
+        "score": 3,
+        "author": "Karma-is-inevitable"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -222,30 +268,30 @@ window.dailyTrends = [
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xhkog2",
-    "title": "Meta, Amazon and Alphabet each spent more on capex than operating cash flow in their latest reported qtr",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xhkog2/meta_amazon_and_alphabet_each_spent_more_on_capex/",
-    "author": "dagilisek",
-    "score": 76,
-    "selftext": "This is the operating cash flow against spending on property and equipment, the latest qtr each one reported. Meta, Amazon and Alphabet all spent more than they brought in. Microsoft is the only one of the 4 that covered it and by a lot.\n\nThe second chart shows how fast it happened, Alphabet's capex went from about half its operating cash flow to more than all of it in 2 qtrs and Meta's went from about 60% to just over 100%.\n\n\"They can afford it\" only works if you count cash they already had or new financing because operations didn't cover it, which means the build out pays off only if revenue catches up. Alphabet and Microsoft report tonight and Amazon tomorrow so these will move.",
+    "id": "1xig6yf",
+    "title": "Alphabet drops ~10% after hours on AI spending and negative free cash flow, while Microsoft rises on 48% Azure growth",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xig6yf/alphabet_drops_10_after_hours_on_ai_spending_and/",
+    "author": "Holywizy",
+    "score": 156,
+    "selftext": "Big split in Big Tech earnings last night:\n\nAlphabet (Google)\n\n\\- Revenue $127.6B (+25%), Google Cloud $30.7B (+103%)\n\n\\- But missed on both revenue and earnings, its first double miss in nearly 4 years (per CNBC)\n\n\\- Free cash flow: -$9.07B from AI data center spending\n\n\\- Kept 2026 capex at $195B-$205B and expects a big increase in 2027\n\n\\- Shares down roughly 8-10% after hours\n\nMicrosoft\n\n\\- Revenue $92.3B (+19%), beat estimates\n\n\\- Azure +48%, above its own guidance\n\n\\- Capex \\~$45.2B, slightly under some forecasts\n\n\\- Shares up roughly 2.5-5% after hours\n\nSame AI race, opposite reactions: Microsoft showed the spending paying off, Alphabet showed how big the bill is getting.\n\nFull breakdown: https://holywizy.com/blog/alphabet-falls-microsoft-rises-earnings-ai-spending-xbox-q3-2026/\n\nNot financial advice. Is AI capex getting out of hand?",
     "subreddit": "StockMarket",
-    "created_utc": 1793184362,
-    "thumbnail": "https://preview.redd.it/u4j8o7zqt6yh1.png?width=140&height=69&auto=webp&s=e4728ff2a44bf810dd7343acdefdb957698c206f",
+    "created_utc": 1793269534,
+    "thumbnail": "self",
     "top_comments": [
       {
-        "body": "My biggest takeaway is that these companies are massive enough that they're able to fund this absurd capex from their operating cash flow. ",
-        "score": 47,
-        "author": "No_Cell6708"
+        "body": "Google: hordes mountains of cash, plowing profits for years, building a huge field of capital to harvest.\n\nInvesters: love that, can't wait to see what you do next.\n\nGoogle: harvests the field just a little bit, still plenty of field, can easily regrow.\n\nInvesters: you stupid donkey.",
+        "score": 73,
+        "author": "Smellfuzz"
       },
       {
-        "body": "They're basically building out infrastructure like it's a land grab and hoping the demand catches up",
-        "score": 16,
-        "author": "safelycommonfutility"
+        "body": "GOOG trading like a meme stock. Never saw this coming",
+        "score": 32,
+        "author": "FewCompetition1347"
       },
       {
-        "body": "It is mind boggling. Amazon could sustain this level of investment for decades. ",
-        "score": 13,
-        "author": "stephenmario"
+        "body": "A ~10% after-hours swing on a company that size is wild. Shows how jumpy everyone is about AI spending right now.",
+        "score": 31,
+        "author": "Holywizy"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -253,30 +299,61 @@ window.dailyTrends = [
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xhgry2",
-    "title": "Brazilian stock market probably overreacted to election results",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xhgry2/brazilian_stock_market_probably_overreacted_to/",
-    "author": "Prudent-Corgi3793",
-    "score": 59,
-    "selftext": "This month in international markets saw significant volatility in Brazilian equities. EWZ, which tracks the MSCI Brazil GRTR USD index, surged +12.5% at the beginning of the month, as it priced in the probability of a Flavio Bolsonaro win after a strong showing in round one of the Brazilian elections. However, when the dust had settled, Lula unexpectedly came from behind, and the EWZ gave back all its gains and then some, with a -18.4% drop on Monday.\n\nI wanted to figure out the investors viewed Bolsonaro as so much more market friendly. Curiously, I found that the Brazilian stock market did extremely well during Lula's two prior terms and the third current term and was slightly negative during the presidency of Jair Bolsonaro, the father of losing candidate Flavio Bolsonaro. In Brazil, the presidential terms are four years long and align neatly with the calendar year. This makes it really easy to track returns using the [MSCI Brazil](https://www.msci.com/indexes/index/907600), which would be the gold standard anyway. All returns are gross returns using USD currency:\n\n|Term|Start|End|Total Return|CAGR|\n|:-|:-|:-|:-|:-|\n|Lula 1|2003|2006|\\+571.85%|\\+61.10%|\n|Lula 2|2007|2010|\\+93.14%|\\+17.86%|\n|Bolsonaro|2019|2022|(-2.47%)|(-0.62%)|\n|Lula 3|2023|10/27/26|\\+56.63%|\\+12.45%|\n|Lula, Total|\\--|\\--|\\+1932.44%|\\+29.01%|\n\nI certainly would not have expected the less market friendly candidate to outperform his counterpart (presumably with similar policies as his son) by such a drastic margin, even after eating that monster -18.4% single day drop this week. However, to be fair, Lula 1 was an incredible time for emerging markets, one which likely could not be reproduced again. And Bolsonaro's presidency coincided with the pandemic, which could have hampered returns.\n\nTo control for this, I compared the MSCI Brazil against several other benchmarks to which the country belongs. ACWI includes all countries, ACWI ex-USA is the international market excluding the USA, and emerging markets are the MSCI emerging markets. Additionally, while Brazil does not belong to the MSCI USA, MSCI World (a misnomer which means developed markets including USA), and MSCI World ex-USA (developed markets excluding USA), these are included for comparison. Brazil has trounced all of these benchmarks under Lula's presidency and badly lagged all of them under Jair Bolsonaro.\n\n|Index|Lula, Total|Lula, CAGR|Bolsonaro, Total|Bolsonaro, CAGR|\n|:-|:-|:-|:-|:-|\n|[MSCI Brazil](https://www.msci.com/indexes/index/907600)|\\+1932.44%|\\+29.01%|(-2.47%)|(-0.62%)|\n|[MSCI ACWI](https://www.msci.com/indexes/index/892400)|\\+324.38%|\\+13.00%|\\+45.23%|\\+9.78%|\n|[MSCI ACWI ex-USA](https://www.msci.com/indexes/index/899901)|\\+375.95%|\\+14.10%|\\+24.09%|\\+5.55%|\n|[MSCI Emerging Markets](https://www.msci.com/indexes/index/106062)|\\+618.13%|\\+18.14%|\\+15.49%|\\+3.67%|\n|[MSCI USA](https://www.msci.com/indexes/index/984000)|\\+262.78%|\\+11.51%|\\+63.39%|\\+13.07%|\n|[MSCI World](https://www.msci.com/indexes/index/990100)|\\+299.54%|\\+12.43%|\\+50.56%|\\+10.78%|\n|[MSCI World ex-USA](https://www.msci.com/indexes/index/991000)|\\+321.97%|\\+12.95%|\\+29.83%|\\+6.75%|",
-    "subreddit": "StockMarket",
-    "created_utc": 1793169573,
+    "id": "1xiw00z",
+    "title": "Wouldn’t the economy be worse if everyone invested their disposable income?",
+    "url": "https://www.reddit.com/r/investing/comments/1xiw00z/wouldnt_the_economy_be_worse_if_everyone_invested/",
+    "author": "theanatar",
+    "score": 143,
+    "selftext": "A question to anyone in finance or anyone that has an opinion on the matter.   \nWe hear online that one of the best things you can do is “invest” your money in the stock market. But hypothetically if everyone invested their disposable income (everything left after mortgages, bill, etc), wouldn’t that make the economy worse because no one is spending money buying the products produced by the companies in the stock market?  \nSo the only reason the advice of putting your money in the stock market works is because only a small minority of the population do it and everyone else just spend their money on buying the products and services.   \nA follow up question is, wouldn’t then the economy be  in a better place if instead of putting your money in the stock market, you just open up your own business?  \nAny articles or books on the subject are welcome 🙂",
+    "subreddit": "investing",
+    "created_utc": 1793307451,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Markets love pricing in a narrative then getting smacked by actual data.",
-        "score": 26,
-        "author": "condemnedlifeline55"
+        "body": "I'm pretty sure you're comparing households in the US to individual adults in China.\n\nAccording to the UBS global wealth report, the numbers are:\n\nUS avg $696K, US median $69K\n\nCN avg $76K, CN median $27K\n\nSo less than 3x for China, vs 10x for the US.\n\nIn developed countries 3x appears typical (Norway, Portugal, Australia and Ireland are all examples of \\~3x countries) while the US at 10x has by far the highest avg:median ratio in the developed world.\n\nETA:   Chinese median income is about $5000 while the US's is around $65K for full time workers and $50K for all individuals aged 15+ with earnings.    So Chinese average wealth is about 5x their income, while the US's is, pathetically, about 1x.   Which shows the much higher Chinese savings rate.",
+        "score": 11,
+        "author": "flatirony"
       },
       {
-        "body": "absolutely. Lula is a centrist, not far-lefist.\n",
-        "score": 23,
-        "author": "interloper76"
-      },
-      {
-        "body": "Ill take the one that isnt affiliated with the criminal rapist Trump",
+        "body": "I heard that the % they earn from each transaction already pays for a lot of your rewards anyway.",
         "score": 7,
-        "author": "batmansoundtrack"
+        "author": "LionRivr"
+      },
+      {
+        "body": "No. Today’s investor is tomorrow’s spender. In aggregate there would be more wealth in society. The stuff being consumed might be different though.",
+        "score": 5,
+        "author": "hockeyschtick"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xixgia",
+    "title": "Amazon Q3: AWS grew 39% (fastest in ~5 years) but the stock is down ~6-7% after hours. Cash flow is the problem",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xixgia/amazon_q3_aws_grew_39_fastest_in_5_years_but_the/",
+    "author": "Holywizy",
+    "score": 118,
+    "selftext": "amazon reported after the close and the reaction is a good example of where the market's head is at right now.\n\nthe good:\n\n\\- revenue $201.9B, up 12%\n\n\\- AWS $46B, up 39%, its fastest growth in almost 5 years\n\n\\- AWS backlog of $578B in contracted future revenue, more than double a year ago\n\n\\- operating income $28.1B vs $17.4B a year ago\n\n\\- Q4 guidance $240B to $247B in revenue\n\nthe bad:\n\n\\- EPS $1.89 vs \\~$1.97 expected\n\n\\- free cash flow over the last 12 months was -$42.4B, compared with +$14.8B a year ago\n\n\\- \\~$220B of capex this year and jassy says they'll spend \"meaningfully more\" in 2027\n\nstock closed down \\~4% today and is down roughly another 6-7% after hours.\n\ncaterpillar did the same thing earlier today: beat on earnings ($7.20 adj EPS, revenue up 17% to $20.7B), record backlog, and the stock still dropped hard because it only kept its full-year outlook.\n\nso the AI demand is clearly real, AWS is accelerating, but investors only seem to care about the bill right now. are you buying the dip on AMZN or waiting to see if the capex actually pays off?\n\nfull breakdown with all the numbers: https://holywizy.com/blog/amazon-q3-2026-earnings-aws-39-percent-stock-falls-ai-spending-caterpillar/",
+    "subreddit": "StockMarket",
+    "created_utc": 1793310899,
+    "thumbnail": "https://preview.redd.it/8cluplg0ahyh1.jpeg?width=140&height=73&auto=webp&s=e3196d33a0eaca28570f5587501083c3752e318d",
+    "top_comments": [
+      {
+        "body": "market pricing in the capex like its already wasted money, wild how a 39% aws print gets shrugged off",
+        "score": 63,
+        "author": "AdventurousDiver80"
+      },
+      {
+        "body": "Market has always looked short-term 6-12 months forward, because institutional investors are measured on annual basis. They don’t have permanent capital as we do. The capital they have depends on client trust and confidence. So they have to think about inflow and outflow to the fund. They can’t sit and weather it out for 1-3 years as we retailers can.",
+        "score": 34,
+        "author": "TechTuna1200"
+      },
+      {
+        "body": "Lower guidance, miss on topline and bottomline miss. Entire world is not just running on data center demand. ",
+        "score": 28,
+        "author": "Technical-Machine-90"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -312,6 +389,73 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-10-29",
+    "savedAt": {
+      "_seconds": 1793277720,
+      "_nanoseconds": 435000000
+    }
+  },
+  {
+    "id": "1xilcbi",
+    "title": "Did anyone notice Kevin Warsh used the term ‘super intelligence’ in the FOMC presser? Has the Fed clearly lost independence?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xilcbi/did_anyone_notice_kevin_warsh_used_the_term_super/",
+    "author": "BGID_to_the_moon",
+    "score": 64,
+    "selftext": "Maybe I’m reading too much into things, but I found it extremely odd that Kevin Warsh avoided using the term ‘artificial intelligence’ yesterday, instead opting for Trump’s preferred term ‘super intelligence’. It’s just such a useless and inane thing to do.\n\nWhile addressing questions over elevated inflation and the fed’s complete inability to keep it in check, Warsh had the awareness to make sure he stayed compliant with Trump’s entirely pointless whim. Trump’s demand is only even required for executive branch agencies. Is he not clearly in the potus’s pocket?\n\nOn top of that, when asked why the fed didn’t hike at yesterday’s FOMC meeting after cpi hit multi year highs, he had no answer. Rambled on for 10 minutes without ever explaining why hikes weren’t needed after a massive surge in inflation (with zero sign of it letting up).\n\nI wanted to give Warsh the benefit of the doubt based on his hawkish history, but I’m really not so sure he’s serving the public or serving the potus. I know Warsh is only one fomc vote, but I’m expecting him to use any excuse possible to guide the fed in the direction of rate cuts/avoiding hikes going forward.",
+    "subreddit": "StockMarket",
+    "created_utc": 1793283658,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Next week we’ll know if the House and Congress are able to neuter Trump, so that maybe public officials can stop being afraid of him. Not everyone can be JPow. In any case, sit back and watch the show",
+        "score": 45,
+        "author": "stuntondeezh0es"
+      },
+      {
+        "body": "Directly, congress has a lot of power over the executive. Part of what gives the executive branch carte blanche right now is that congress has shown that they have no interest in enforcing that power, which will change if dems retake both bodies. \n\nIndirectly, a major blow out in deep red areas like predicted puts huge warning lights up for Republicans as to how bad the direction they've been moving is bad for them electorally. They would be much more willing to reign in Trump if they knew they can't just count on his support to win elections instead of doing their jobs. ",
+        "score": 12,
+        "author": "Automatic-Ocelot3957"
+      },
+      {
+        "body": "I don't see how a change in Congress will affect trump..he does what he wants, and he has scotus.",
+        "score": 9,
+        "author": "dissentmemo"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xitswy",
+    "title": "Technical Analysis: STAY CLAM",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xitswy/technical_analysis_stay_clam/",
+    "author": "JordanBelfortJounior",
+    "score": 60,
+    "selftext": "TOUGH day to be a GOOGLE shareholder.\n\nAs a shareholder, I hope Sundar has a bit of a pit in his stomach today and it brings about a revelation. \n\nJust curious what the populus thinks needs to happen to invoke bullish momentum aside from the obvious growth. I hope that the Google execs have some sort of vision that the market it unable to see right now. Sundar really didn't give much on the call. \n\nObviously, results need to be extraordinary to get bullish. Considering a fairly promising report was followed by a 14% landslide.\n\nUs retail traders are small fish in a pond full of pension funds, hedge fund capital, etc. I can't imagine that these big players are not demanding answers from GOOGLE execs.  ",
+    "subreddit": "StockMarket",
+    "created_utc": 1793302495,
+    "thumbnail": "https://preview.redd.it/nccpkjqdigyh1.png?width=140&height=88&auto=webp&s=1fad744f4f5b82b3e877a650010ce77cc7ac6f85",
+    "top_comments": [
+      {
+        "body": ">Us retail traders are small fish\n\nthey should stay clam I guess /s",
+        "score": 11,
+        "author": "Dull_Cucumber_3908"
+      },
+      {
+        "body": "Just have to buy the dip, and hope it doesn't dip further. ",
+        "score": 8,
+        "author": "Ambitious-Money5181"
+      },
+      {
+        "body": "How insightful.  Thank you, Mr. Buffet ",
+        "score": 6,
+        "author": "AnonymousFirm"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
@@ -343,140 +487,11 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xhmnq8",
-    "title": "Investors paid about 62x revenue for Anthropic in March 2025 and about 21x in May 2026. Is $1.5T+ at IPO fair?",
-    "url": "https://www.reddit.com/r/investing/comments/1xhmnq8/investors_paid_about_62x_revenue_for_anthropic_in/",
-    "author": "Lonely-Telephone-190",
-    "score": 38,
-    "selftext": "Been reading up on the Anthropic IPO. I took each funding round’s valuation and divided it by the revenue run-rate they had reported just before it:\n\nSeries E (Mar 2025): $61.5B on $1B, about 62x\n\nSeries F (Sep 2025): $183B on $5B, about 37x\n\nSeries G (Feb 2026): $380B on $14B, about 27x\n\nSeries H (May 2026): $965B on $47B, about 21x\n\nThe number keeps dropping because revenue grew faster than the price. Run-rate hit $65B in July, and Q3 revenue was about $16.8B, up 45% from Q2. People are talking about $1.5T to $2T+ at IPO.\n\nWhat bugs me is that growth is slowing and the founders keep 50.1% of the votes, so regular shareholders won’t have much say. Not advice, just curious what you all think.",
-    "subreddit": "investing",
-    "created_utc": 1793190380,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Fundamentally I think the risk is this becomes a low margin, competitive commodity business. Its very unlike past tech, like software, in that there is no lock in or network effects, and huge input costs. The counter to this is the current US gov has no limits to the degree they will interfere in the market to prop up this bubble up as long as possible, so regulatory capture, bailouts, nationalization could actually be considerations. Hard to have confidence, lots of unknowns.",
-        "score": 83,
-        "author": "Illustrious-Lime-878"
-      },
-      {
-        "body": "\"Agentic workflows\" are just text files and traditional databases than can easily be swapped over. Often its as easy as just changing the inference URl and API key. And if its not... ask ai to do it... one if the biggest use cases of the tech itself is to eat technical moats.",
-        "score": 25,
-        "author": "Illustrious-Lime-878"
-      },
-      {
-        "body": "The last part is what scares me the most: any ability to create a competitive moat seems tied to a very favorable government to AI. The US government swings wildly, and if one party determines an anti-AI agenda is particularly popular, well let me tell you my experience dealing with South American stocks swinging 20% off of election results.",
-        "score": 19,
-        "author": "Cav829"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xhzrsh",
-    "title": "Contradictory Statements from Kevin Warsh",
-    "url": "https://www.reddit.com/r/investing/comments/1xhzrsh/contradictory_statements_from_kevin_warsh/",
-    "author": "Background-Day-4957",
-    "score": 35,
-    "selftext": "FOMC held rates steady today.  Fed Chairman Kevin Warsh said inflation is still running too hot and above target, yet the FOMC still held rates steady by vote 10-2.  He also said the decision wasn't politically motivated.  Yeah right.  We all knew the FOMC was going to hold rate steady right before the midterm despite inflation running \"too hot\" and \"above target\" for too long.  Don't need to lie to us.",
-    "subreddit": "investing",
-    "created_utc": 1793219755,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "The Fed is totally committed to bringing inflation down to their 2% target.  Soon, they will spring into action!\n\nAny decade now.",
-        "score": 19,
-        "author": "RealMcGonzo"
-      },
-      {
-        "body": "market doesn’t believe the hawkish talk either, look at how bonds are trading. they’re calling his bluff hard",
-        "score": 9,
-        "author": "fumbling_artisan"
-      },
-      {
-        "body": "trump has been demanding powell for lower rate.  why would it be any different with warsh?",
-        "score": 8,
-        "author": "Bush_Trimmer"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xgt2gv",
-    "title": "The Capital Gains Surprise",
-    "url": "https://www.reddit.com/r/investing/comments/1xgt2gv/the_capital_gains_surprise/",
-    "author": "Quiet-Day392",
-    "score": 35,
-    "selftext": "For the last couple years my basket of mutual funds have done a lot of portfolio churning. This has generated unpredictable taxable income. It happens in December and I don’t see it until the 1099’s are issued. It results in thousands of dollars in unexpected taxes.\n\nMy response has been to take all the gains to a cash account. This prevents the MF’s from reinvesting them and gives me a cash cushion to pay the taxes.\n\nHow are others handling this? Any other recommended strategies? The big churners are also the ones with the highest yields.",
-    "subreddit": "investing",
-    "created_utc": 1793109005,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "It is what my accountant says. \n\n\"Owing all this money is not a bad problem\".\n\nI tell him to STFU. We laugh. But I still cry inside.",
-        "score": 4,
-        "author": "AdeptnessLive4966"
-      },
-      {
-        "body": "The \"low effort\" part mostly applies to submissions. It's just not practical for the mods to police every single comment here.",
-        "score": 3,
-        "author": "TrashBandicook"
-      },
-      {
-        "body": "I have stuff I invest on my own, but I'm pretty happy with my own broad market indexes. It really doesn't bother me what or how people invest. Plenty of Bogleheaders started out stock picking and decided over time it wasn't worth their time and effort for a good chunk of their portfolio.",
-        "score": 3,
-        "author": "TrashBandicook"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-10-28",
+    "dateString": "2026-10-29",
     "savedAt": {
-      "_seconds": 1793190671,
-      "_nanoseconds": 628000000
-    }
-  },
-  {
-    "id": "1xgu11k",
-    "title": "In 1983 the Louisiana show 'Folks' covered the Black owned Banking industry within the state. Liberty Bank, the first financial institution covered in that night's episode has since risen to become one of the leading Black banks in America - with assets in excess of $1.13 billion as of 2026...",
-    "url": "https://www.reddit.com/r/finance/comments/1xgu11k/in_1983_the_louisiana_show_folks_covered_the/",
-    "author": "TheMahagonyDefender",
-    "score": 32,
-    "selftext": "The Centuries Old History Of Black American Banks: [https://www.kansascityfed.org/about-us/let-us-put-our-money-together-founding-americas-first-black-banks/](https://www.kansascityfed.org/about-us/let-us-put-our-money-together-founding-americas-first-black-banks/)\n\nLiberty Bank & Trust Co. Today: [https://youtu.be/DP6YhIVvOj8](https://youtu.be/DP6YhIVvOj8)\n\nThe National Bankers Association: [https://youtu.be/bsO1E-b2Rwk](https://youtu.be/bsO1E-b2Rwk)",
-    "subreddit": "finance",
-    "created_utc": 1793111273,
-    "thumbnail": "https://external-preview.redd.it/Y3M0dHlkdTFzMHloMbuZDSoMpRjwGbSHyiX9A54-s93uW0XutnNd7gChknhT.png?width=140&height=105&format=jpg&auto=webp&s=f09357ccbde12142c47bfecdc05f3d2e0ff84f7a",
-    "top_comments": [
-      {
-        "body": "Not to take anything away from the story - but $1b in assets is nothing from the perspective of a bank.  A single branch of our local community bank has $1 billion in assets.",
-        "score": 18,
-        "author": "rya794"
-      },
-      {
-        "body": "Television absent of screaming at your face. My gosh. How wonderful. Easy to listen to. Interesting. \n\nI miss the past. ",
-        "score": 3,
-        "author": "Gambit6x"
-      },
-      {
-        "body": "That was founded in 1871 with a major merge in the year 2000. \n Liberty Bank specifically was founded in 1972. ",
-        "score": 1,
-        "author": "TheMahagonyDefender"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-10-28",
-    "savedAt": {
-      "_seconds": 1793190672,
-      "_nanoseconds": 363000000
+      "_seconds": 1793277721,
+      "_nanoseconds": 238000000
     }
   }
 ];
