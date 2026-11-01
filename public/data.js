@@ -28,78 +28,11 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xiktw3",
-    "title": "Alphabet (Google), is having one of the wildest days in its history",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xiktw3/alphabet_google_is_having_one_of_the_wildest_days/",
-    "author": "Anoncry66",
-    "score": 2188,
-    "selftext": "1. The stock is down -13%, on track for its worst day since its 2004 IPO. The previous record was -11.7% in September 2008.  \n  \n2. Around $450 billion in market value has been wiped out.  \n  \n3. It is the first time Alphabet has ever fallen more than -10% after an earnings report.  \n  \n4. Free cash flow was negative for a second straight quarter, which had never happened before in its history as a public company.",
-    "subreddit": "StockMarket",
-    "created_utc": 1793282504,
-    "thumbnail": "https://preview.redd.it/97tr8okjxeyh1.png?width=140&height=67&auto=webp&s=e3b182cc85947b97a0d15c7efce85458e5078010",
-    "top_comments": [
-      {
-        "body": "His entire comment was \"I agree with you but I'm also smarter than you because hurr durr\" ",
-        "score": 2,
-        "author": "Extra_Pizza9075"
-      },
-      {
-        "body": "buy the dip if you can cuz google runs marathons not sprints like most newer companies",
-        "score": 2,
-        "author": "cakepiex"
-      },
-      {
-        "body": "Quantum computing won't make money.\n\nThey also won't increase their share of Google search users.",
-        "score": 2,
-        "author": "Koreus_C"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-10-30",
+    "dateString": "2026-10-31",
     "savedAt": {
-      "_seconds": 1793363599,
-      "_nanoseconds": 139000000
-    }
-  },
-  {
-    "id": "1xj1fyh",
-    "title": "Another GOOGL buying opportunity",
-    "url": "https://www.reddit.com/r/investing/comments/1xj1fyh/another_googl_buying_opportunity/",
-    "author": "OkKitchen7114",
-    "score": 313,
-    "selftext": "The last time it was down 8% in May 2025, I bought a bunch, and it’s doubled since then (including the collapse today). \n\nI get it- Numbers came in slightly lower than expected. Free cash flow was negative due to huge capex spending. But this is a future (or current?) blue chip company. \n\nAt a 32% discount to its all-time high, it’s a great buying opportunity. I bought some today and may buy more tomorrow.",
-    "subreddit": "investing",
-    "created_utc": 1793321148,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "WSB told me to buy AMD at $1.74 back in 2016 and now I own a million dollar home because of them lol, it’s not the same sub anymore but they definitely have some good tips in there.\n\nI also increased my goog holdings back last year at 180 due to this sub calling it a buy.",
-        "score": 5,
-        "author": "We_The_Worst"
-      },
-      {
-        "body": "I'm not a trader, generally I buy and hold for as long as it makes sense. It seemed like a good time to take profit, I was up a lot and the current market reminds me a lot of 1999. I've made plenty of money over the last few years but if we have another lost decade I'm working until I'm 70. I'm close enough to retirement that it seemed like a good time to get defensive.",
-        "score": 5,
-        "author": "Somnifor"
-      },
-      {
-        "body": "When OpenAI and Anthropic are losing shitloads of money on every subscriber, is having fewer subscribers at this point actually a negative?",
-        "score": 4,
-        "author": "SpeedflyChris"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-10-30",
-    "savedAt": {
-      "_seconds": 1793363600,
-      "_nanoseconds": 592000000
+      "_seconds": 1793447994,
+      "_nanoseconds": 189000000
     }
   },
   {
@@ -131,7 +64,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-10-31",
+    "savedAt": {
+      "_seconds": 1793447995,
+      "_nanoseconds": 601000000
+    }
   },
   {
     "id": "1xjpxvr",
@@ -162,279 +100,11 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xiz19z",
-    "title": "67% Returns according to Trump",
-    "url": "https://www.reddit.com/r/investing/comments/1xiz19z/67_returns_according_to_trump/",
-    "author": "Fugoola",
-    "score": 162,
-    "selftext": "I was listening to a trump speech this morning while I was traveling and he mentioned that everyone is averaging about 67% profit in their 401ks this year because of his policies. I don't know who everyone is that he was talking about but I certainly didn't see it. Just wondering if others made 67% because of his policies.",
-    "subreddit": "investing",
-    "created_utc": 1793314789,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "When he says \"we\", he means himself and his friends. And yes, they are making a lot of money.",
-        "score": 8,
-        "author": "The_Real_Ghost"
-      },
-      {
-        "body": "Do you understand what 401ks are for? It’s basic financial literacy.\n\nStocks = Higher risk and volatility. Higher returns.\n\nBonds = Lower risk and volatility. Lower returns.\n\nYou spend your entire life saving for retirement. That’s your income until you die. When you are about to retire, you want your portfolio to be conservative so you aren’t wiped out by a financial crisis.\n\nI’d rather retire allocated to bonds and “survive” a 1% downturn than to YOLO and see my retirement funds vanish by 30% due to a bubble bursting.",
-        "score": 8,
-        "author": "take_care_a_ya_shooz"
-      },
-      {
-        "body": "When he says \"we\" maybe he's got a mouse in his pocket.",
-        "score": 3,
-        "author": "Karma-is-inevitable"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-10-30",
+    "dateString": "2026-10-31",
     "savedAt": {
-      "_seconds": 1793363602,
-      "_nanoseconds": 314000000
-    }
-  },
-  {
-    "id": "1xjbfdg",
-    "title": "Buying the dip on individual stocks or adding to index funds: what's your approach to this pullback?",
-    "url": "https://www.reddit.com/r/investing/comments/1xjbfdg/buying_the_dip_on_individual_stocks_or_adding_to/",
-    "author": "mikelane76",
-    "score": 297,
-    "selftext": "Are people catching the dips here and picking up some GOOGL, AMZN, CAT, MU, NOW, SYK etc.? Or is it time to bump up portfolio index fund holdings instead?\n\nCurious what everyone's doing with the recent pullback. Are you drip-feeding in slowly, waiting for things to settle, or sticking with the index and ignoring the noise?",
-    "subreddit": "investing",
-    "created_utc": 1793355095,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "A stock is only truly on sale if its price falls more than its expected earnings. If earnings fall faster than the stock price, you're actually paying more for every dollar the company is expected to earn.",
-        "score": 40,
-        "author": "National-Ad8416"
-      },
-      {
-        "body": "Ok nerd. I was making a basic point, not trying to attract the pedants. Simmer down and go read a thriller.",
-        "score": 12,
-        "author": "National-Ad8416"
-      },
-      {
-        "body": "I can tell you this, you can be 100% right about a set of individual stocks and *still* get fucked over by the market during a serious downturn.  The panic overwhelms any sort of objective buy case for the stock.\n\nWhen the AI bubble pops, which it will, *even though* AI itself is valuable, I expect it to absolutely *hammer* every tech stock on the planet, regardless of it's actual exposure, or value.\n\nDon't try and catch the falling knife.  Rebalance according to plan, and get on with your life.",
-        "score": 12,
-        "author": "alpacaMyToothbrush"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xiw00z",
-    "title": "Wouldn’t the economy be worse if everyone invested their disposable income?",
-    "url": "https://www.reddit.com/r/investing/comments/1xiw00z/wouldnt_the_economy_be_worse_if_everyone_invested/",
-    "author": "theanatar",
-    "score": 143,
-    "selftext": "A question to anyone in finance or anyone that has an opinion on the matter.   \nWe hear online that one of the best things you can do is “invest” your money in the stock market. But hypothetically if everyone invested their disposable income (everything left after mortgages, bill, etc), wouldn’t that make the economy worse because no one is spending money buying the products produced by the companies in the stock market?  \nSo the only reason the advice of putting your money in the stock market works is because only a small minority of the population do it and everyone else just spend their money on buying the products and services.   \nA follow up question is, wouldn’t then the economy be  in a better place if instead of putting your money in the stock market, you just open up your own business?  \nAny articles or books on the subject are welcome 🙂",
-    "subreddit": "investing",
-    "created_utc": 1793307451,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I'm pretty sure you're comparing households in the US to individual adults in China.\n\nAccording to the UBS global wealth report, the numbers are:\n\nUS avg $696K, US median $69K\n\nCN avg $76K, CN median $27K\n\nSo less than 3x for China, vs 10x for the US.\n\nIn developed countries 3x appears typical (Norway, Portugal, Australia and Ireland are all examples of \\~3x countries) while the US at 10x has by far the highest avg:median ratio in the developed world.\n\nETA:   Chinese median income is about $5000 while the US's is around $65K for full time workers and $50K for all individuals aged 15+ with earnings.    So Chinese average wealth is about 5x their income, while the US's is, pathetically, about 1x.   Which shows the much higher Chinese savings rate.",
-        "score": 11,
-        "author": "flatirony"
-      },
-      {
-        "body": "I heard that the % they earn from each transaction already pays for a lot of your rewards anyway.",
-        "score": 7,
-        "author": "LionRivr"
-      },
-      {
-        "body": "No. Today’s investor is tomorrow’s spender. In aggregate there would be more wealth in society. The stuff being consumed might be different though.",
-        "score": 5,
-        "author": "hockeyschtick"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-10-30",
-    "savedAt": {
-      "_seconds": 1793363603,
-      "_nanoseconds": 647000000
-    }
-  },
-  {
-    "id": "1xixgia",
-    "title": "Amazon Q3: AWS grew 39% (fastest in ~5 years) but the stock is down ~6-7% after hours. Cash flow is the problem",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xixgia/amazon_q3_aws_grew_39_fastest_in_5_years_but_the/",
-    "author": "Holywizy",
-    "score": 118,
-    "selftext": "amazon reported after the close and the reaction is a good example of where the market's head is at right now.\n\nthe good:\n\n\\- revenue $201.9B, up 12%\n\n\\- AWS $46B, up 39%, its fastest growth in almost 5 years\n\n\\- AWS backlog of $578B in contracted future revenue, more than double a year ago\n\n\\- operating income $28.1B vs $17.4B a year ago\n\n\\- Q4 guidance $240B to $247B in revenue\n\nthe bad:\n\n\\- EPS $1.89 vs \\~$1.97 expected\n\n\\- free cash flow over the last 12 months was -$42.4B, compared with +$14.8B a year ago\n\n\\- \\~$220B of capex this year and jassy says they'll spend \"meaningfully more\" in 2027\n\nstock closed down \\~4% today and is down roughly another 6-7% after hours.\n\ncaterpillar did the same thing earlier today: beat on earnings ($7.20 adj EPS, revenue up 17% to $20.7B), record backlog, and the stock still dropped hard because it only kept its full-year outlook.\n\nso the AI demand is clearly real, AWS is accelerating, but investors only seem to care about the bill right now. are you buying the dip on AMZN or waiting to see if the capex actually pays off?\n\nfull breakdown with all the numbers: https://holywizy.com/blog/amazon-q3-2026-earnings-aws-39-percent-stock-falls-ai-spending-caterpillar/",
-    "subreddit": "StockMarket",
-    "created_utc": 1793310899,
-    "thumbnail": "https://preview.redd.it/8cluplg0ahyh1.jpeg?width=140&height=73&auto=webp&s=e3196d33a0eaca28570f5587501083c3752e318d",
-    "top_comments": [
-      {
-        "body": "market pricing in the capex like its already wasted money, wild how a 39% aws print gets shrugged off",
-        "score": 63,
-        "author": "AdventurousDiver80"
-      },
-      {
-        "body": "Market has always looked short-term 6-12 months forward, because institutional investors are measured on annual basis. They don’t have permanent capital as we do. The capital they have depends on client trust and confidence. So they have to think about inflow and outflow to the fund. They can’t sit and weather it out for 1-3 years as we retailers can.",
-        "score": 34,
-        "author": "TechTuna1200"
-      },
-      {
-        "body": "Lower guidance, miss on topline and bottomline miss. Entire world is not just running on data center demand. ",
-        "score": 28,
-        "author": "Technical-Machine-90"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-10-30",
-    "savedAt": {
-      "_seconds": 1793363604,
-      "_nanoseconds": 353000000
-    }
-  },
-  {
-    "id": "1xjmyql",
-    "title": "The Devil on Wall Street",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xjmyql/the_devil_on_wall_street/",
-    "author": "dr9gonfly",
-    "score": 88,
-    "selftext": "Bottom is in.\n\nThe Devil on Wall Street\n\n“Buy!” he boldly cries,\n\nWhile fortunes bleed before our eyes.\n\nA numbskull crowned with false prestige,\n\nWho bends the market to his greed.\n\nLook into his eyes, and tell me true.\n\nIs there a soul still looking through?\n\nA hollow stare, a vacant grin,\n\nA man whose darkness dwells within.\n\nOnce a man, now a shadow cast,\n\nA fading ghost of a life long past.\n\nAn empty shell in a tailored suit,\n\nWith nothing human at the root.\n\nDoes evil wear a human face?\n\nDoes greed consume all left of grace?\n\nOr did he strike a deal below,\n\nAnd trade his soul for stocks to flow?\n\nHe pulls the strings, he twists the trade,\n\nWhile fortunes rise and dreams decay.\n\nThe candles flicker, the red lines fall,\n\nAnd he stands grinning above it all.\n\nSo heed the silence behind his eyes,\n\nWhere something dark and nameless lies.\n\nFor when a man sells his soul for gold,\n\nHe gains the world and loses his own.",
-    "subreddit": "StockMarket",
-    "created_utc": 1793384111,
-    "thumbnail": "https://preview.redd.it/nmia2tnpbnyh1.jpeg?width=140&height=140&crop=1%3A1%2Csmart&auto=webp&s=4482e47960c0fe15804a08ca4751e6f267845571",
-    "top_comments": [
-      {
-        "body": "Check out when he went on the daily show and got ripped by John Stewart when he get caught ",
-        "score": 13,
-        "author": "k21k21k21"
-      },
-      {
-        "body": "Jim Cramer recommended AOL over Amazon around the time of the bubble bursting.  Cost my dad the family fortune. \n\nMy dad is sn idiot though.",
-        "score": 7,
-        "author": "Micronto65bymay"
-      },
-      {
-        "body": "The class clown with 8 houses and got where he is from stock manipulation. Back in the day he and mafia adjacent types constantly engaged in pump and dump fraud. Look up Steinhardt Jr.'s first hedge fund, Steinhardt Partners, and the Genovese Mafia family, Ivan Boesky, Marc Rich, and Marty Peretz. Peretz co founded TheStreet with Cramer back in his Cramer & Co days. \n\nHere's an interview from his hedge fund days from my notes:\n\nJim Cramer Gave an Interview in 2006 on how the Hedge Funds Manipulate the Markets\n\n[https://www.reuters.com/article/cramer-interview-](https://www.reuters.com/article/cramer-interview-) idUKN2036292620070320 (link now deleted from their accessible archive)\n\n\"What's important when you're in that hedge fund mode, is to not do anything remotely truthful. Because the truth is so against your view, that it's important to create a new view, to create a fiction.\"\n\n\"Then you call the (Wall Street) Journal and get the bozo reporter in Research in Motion and you would feed that (rival) Palm's got a killer it's going to give away. These are all the things you must do on a day like today, and if you're not doing it, maybe you shouldn't be in the game.\"\n\n\"It might cost me $15 million or $20 million to knock RIM down but it would be fabulous because it would beleaguer all the moron longs who are also keying on Research in Motion.\"\n\n\"A lot of times when I was short at my hedge fund ... meaning I needed (a stock) down, I would create a level of activity beforehand that could drive the futures. It's a fun game and it's a lucrative game.\"\n\n\"Who cares about the fundamentals? The great thing about the market is that it has nothing to do with the actual stocks.\"\n\n\\- Jim Cramer, hedge fund manager from 1987-2001, Dec 2006\n\nDealbook NY Times Article on Cramer's Interview. Investopedia Article: Short and Distort Bear Market  \nStock Manipulation",
-        "score": 5,
-        "author": "MirthandMystery"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xitswy",
-    "title": "Technical Analysis: STAY CLAM",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xitswy/technical_analysis_stay_clam/",
-    "author": "JordanBelfortJounior",
-    "score": 60,
-    "selftext": "TOUGH day to be a GOOGLE shareholder.\n\nAs a shareholder, I hope Sundar has a bit of a pit in his stomach today and it brings about a revelation. \n\nJust curious what the populus thinks needs to happen to invoke bullish momentum aside from the obvious growth. I hope that the Google execs have some sort of vision that the market it unable to see right now. Sundar really didn't give much on the call. \n\nObviously, results need to be extraordinary to get bullish. Considering a fairly promising report was followed by a 14% landslide.\n\nUs retail traders are small fish in a pond full of pension funds, hedge fund capital, etc. I can't imagine that these big players are not demanding answers from GOOGLE execs.  ",
-    "subreddit": "StockMarket",
-    "created_utc": 1793302495,
-    "thumbnail": "https://preview.redd.it/nccpkjqdigyh1.png?width=140&height=88&auto=webp&s=1fad744f4f5b82b3e877a650010ce77cc7ac6f85",
-    "top_comments": [
-      {
-        "body": ">Us retail traders are small fish\n\nthey should stay clam I guess /s",
-        "score": 11,
-        "author": "Dull_Cucumber_3908"
-      },
-      {
-        "body": "Just have to buy the dip, and hope it doesn't dip further. ",
-        "score": 8,
-        "author": "Ambitious-Money5181"
-      },
-      {
-        "body": "How insightful.  Thank you, Mr. Buffet ",
-        "score": 6,
-        "author": "AnonymousFirm"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-10-30",
-    "savedAt": {
-      "_seconds": 1793363605,
-      "_nanoseconds": 816000000
-    }
-  },
-  {
-    "id": "1xjguq7",
-    "title": "Why? Make it Make Sense",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xjguq7/why_make_it_make_sense/",
-    "author": "NapLvr",
-    "score": 75,
-    "selftext": "Why would or does Bitcoin price drop every time there’s a hack? If anything it’s the institutions that’s hacked that should be dropping in value.. not Bitcoin. Because the stolen bitcoin still keeps its value.. it’s not like the hackers or thieves are going to burn the bitcoin.. \n\nIt’s like robbing a US bank and then seeing the value of dollar drop immediately..\n\nExplain it to me like a 2 year old.. Makes no sense!",
-    "subreddit": "StockMarket",
-    "created_utc": 1793370430,
-    "thumbnail": "https://preview.redd.it/cdq59h517myh1.jpeg?width=140&height=44&auto=webp&s=61d95bb4a57c688844137961d6fd82bca67bd64b",
-    "top_comments": [
-      {
-        "body": "In addition to that, the hackers are probably eager to offload what was taken into something less obviously traceable quickly and at a discount.",
-        "score": 21,
-        "author": "merketa"
-      },
-      {
-        "body": "Putting aside that stocks and Bitcoin are very different assets (stock values are tied to the perceived value of an underlying enterprise whereas Bitcoin's value is tied to the perceived value of Bitcoin), wouldn't the better analogy be that someone hacks into Fidelity and somehow steals your registered shares? I'm not sure how that would work with stocks because they'd still be registered to you.",
-        "score": 17,
-        "author": "DealerHumble1103"
-      },
-      {
-        "body": "If i steal 6.3b of something, and by doing so the price plummets, I haven't stolen 6.3b. Unless it was immediately converted into some other form of currency or asset.\n\nTherein lies the problem, the other currency or asset is more stable and therefore more valuable. Crypto is a con.",
-        "score": 14,
-        "author": "Away-Activity-469"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xilcbi",
-    "title": "Did anyone notice Kevin Warsh used the term ‘super intelligence’ in the FOMC presser? Has the Fed clearly lost independence?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xilcbi/did_anyone_notice_kevin_warsh_used_the_term_super/",
-    "author": "BGID_to_the_moon",
-    "score": 64,
-    "selftext": "Maybe I’m reading too much into things, but I found it extremely odd that Kevin Warsh avoided using the term ‘artificial intelligence’ yesterday, instead opting for Trump’s preferred term ‘super intelligence’. It’s just such a useless and inane thing to do.\n\nWhile addressing questions over elevated inflation and the fed’s complete inability to keep it in check, Warsh had the awareness to make sure he stayed compliant with Trump’s entirely pointless whim. Trump’s demand is only even required for executive branch agencies. Is he not clearly in the potus’s pocket?\n\nOn top of that, when asked why the fed didn’t hike at yesterday’s FOMC meeting after cpi hit multi year highs, he had no answer. Rambled on for 10 minutes without ever explaining why hikes weren’t needed after a massive surge in inflation (with zero sign of it letting up).\n\nI wanted to give Warsh the benefit of the doubt based on his hawkish history, but I’m really not so sure he’s serving the public or serving the potus. I know Warsh is only one fomc vote, but I’m expecting him to use any excuse possible to guide the fed in the direction of rate cuts/avoiding hikes going forward.",
-    "subreddit": "StockMarket",
-    "created_utc": 1793283658,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Next week we’ll know if the House and Congress are able to neuter Trump, so that maybe public officials can stop being afraid of him. Not everyone can be JPow. In any case, sit back and watch the show",
-        "score": 45,
-        "author": "stuntondeezh0es"
-      },
-      {
-        "body": "Directly, congress has a lot of power over the executive. Part of what gives the executive branch carte blanche right now is that congress has shown that they have no interest in enforcing that power, which will change if dems retake both bodies. \n\nIndirectly, a major blow out in deep red areas like predicted puts huge warning lights up for Republicans as to how bad the direction they've been moving is bad for them electorally. They would be much more willing to reign in Trump if they knew they can't just count on his support to win elections instead of doing their jobs. ",
-        "score": 12,
-        "author": "Automatic-Ocelot3957"
-      },
-      {
-        "body": "I don't see how a change in Congress will affect trump..he does what he wants, and he has scotus.",
-        "score": 9,
-        "author": "dissentmemo"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-10-30",
-    "savedAt": {
-      "_seconds": 1793363605,
-      "_nanoseconds": 186000000
+      "_seconds": 1793447996,
+      "_nanoseconds": 323000000
     }
   },
   {
@@ -466,6 +136,78 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-10-31",
+    "savedAt": {
+      "_seconds": 1793447999,
+      "_nanoseconds": 925000000
+    }
+  },
+  {
+    "id": "1xjmyql",
+    "title": "The Devil on Wall Street",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xjmyql/the_devil_on_wall_street/",
+    "author": "dr9gonfly",
+    "score": 88,
+    "selftext": "Bottom is in.\n\nThe Devil on Wall Street\n\n“Buy!” he boldly cries,\n\nWhile fortunes bleed before our eyes.\n\nA numbskull crowned with false prestige,\n\nWho bends the market to his greed.\n\nLook into his eyes, and tell me true.\n\nIs there a soul still looking through?\n\nA hollow stare, a vacant grin,\n\nA man whose darkness dwells within.\n\nOnce a man, now a shadow cast,\n\nA fading ghost of a life long past.\n\nAn empty shell in a tailored suit,\n\nWith nothing human at the root.\n\nDoes evil wear a human face?\n\nDoes greed consume all left of grace?\n\nOr did he strike a deal below,\n\nAnd trade his soul for stocks to flow?\n\nHe pulls the strings, he twists the trade,\n\nWhile fortunes rise and dreams decay.\n\nThe candles flicker, the red lines fall,\n\nAnd he stands grinning above it all.\n\nSo heed the silence behind his eyes,\n\nWhere something dark and nameless lies.\n\nFor when a man sells his soul for gold,\n\nHe gains the world and loses his own.",
+    "subreddit": "StockMarket",
+    "created_utc": 1793384111,
+    "thumbnail": "https://preview.redd.it/nmia2tnpbnyh1.jpeg?width=140&height=140&crop=1%3A1%2Csmart&auto=webp&s=4482e47960c0fe15804a08ca4751e6f267845571",
+    "top_comments": [
+      {
+        "body": "Check out when he went on the daily show and got ripped by John Stewart when he get caught ",
+        "score": 13,
+        "author": "k21k21k21"
+      },
+      {
+        "body": "Jim Cramer recommended AOL over Amazon around the time of the bubble bursting.  Cost my dad the family fortune. \n\nMy dad is sn idiot though.",
+        "score": 7,
+        "author": "Micronto65bymay"
+      },
+      {
+        "body": "The class clown with 8 houses and got where he is from stock manipulation. Back in the day he and mafia adjacent types constantly engaged in pump and dump fraud. Look up Steinhardt Jr.'s first hedge fund, Steinhardt Partners, and the Genovese Mafia family, Ivan Boesky, Marc Rich, and Marty Peretz. Peretz co founded TheStreet with Cramer back in his Cramer & Co days. \n\nHere's an interview from his hedge fund days from my notes:\n\nJim Cramer Gave an Interview in 2006 on how the Hedge Funds Manipulate the Markets\n\n[https://www.reuters.com/article/cramer-interview-](https://www.reuters.com/article/cramer-interview-) idUKN2036292620070320 (link now deleted from their accessible archive)\n\n\"What's important when you're in that hedge fund mode, is to not do anything remotely truthful. Because the truth is so against your view, that it's important to create a new view, to create a fiction.\"\n\n\"Then you call the (Wall Street) Journal and get the bozo reporter in Research in Motion and you would feed that (rival) Palm's got a killer it's going to give away. These are all the things you must do on a day like today, and if you're not doing it, maybe you shouldn't be in the game.\"\n\n\"It might cost me $15 million or $20 million to knock RIM down but it would be fabulous because it would beleaguer all the moron longs who are also keying on Research in Motion.\"\n\n\"A lot of times when I was short at my hedge fund ... meaning I needed (a stock) down, I would create a level of activity beforehand that could drive the futures. It's a fun game and it's a lucrative game.\"\n\n\"Who cares about the fundamentals? The great thing about the market is that it has nothing to do with the actual stocks.\"\n\n\\- Jim Cramer, hedge fund manager from 1987-2001, Dec 2006\n\nDealbook NY Times Article on Cramer's Interview. Investopedia Article: Short and Distort Bear Market  \nStock Manipulation",
+        "score": 5,
+        "author": "MirthandMystery"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-10-31",
+    "savedAt": {
+      "_seconds": 1793447998,
+      "_nanoseconds": 198000000
+    }
+  },
+  {
+    "id": "1xkjs1p",
+    "title": "Why do people always talk about the stock market drops in numeric terms and not percentages?",
+    "url": "https://www.reddit.com/r/investing/comments/1xkjs1p/why_do_people_always_talk_about_the_stock_market/",
+    "author": "Narrow_Crazy1954",
+    "score": 146,
+    "selftext": "Every time there is a big drop, it says “1 Trillion wiped from market, most in history” but it is not even a 2% drop. Or it will say “700 points from the dow dropped, most in history” but also not even a 2% drop. these markets have seen over 2% drops throughout history and multiple times in one year at some points… \n\n“points” or market cap will almost always increase long term for a market that has people investing into it every friday, has billionaire wealth stored in it, and is tied to the economic output of the country. so why isn’t it discussed in percentages instead of “points” or “market cap” that will forever have a new “biggest drop of all time”???",
+    "subreddit": "investing",
+    "created_utc": 1793476631,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "You watch the nightly news recently? 10 minutes of weather (There’s a flood, tornado, drought, heatwave, snow, and/or hurricane happening across the US) \n\nA single engine plane crashed or two commercial came within a thousand feet of each other \n\nA celebrity (or the closest thing they could find to a celebrity) either died or got arrested.\n\nThen here’s some puppies or babies doing some shit at the end. Goodnight everyone ",
+        "score": 19,
+        "author": "Delicious-Status9043"
+      },
+      {
+        "body": "Same reason whenever there is a disaster it's always the biggest in history in dollar terms.\n\nLike no shit. We have more more valuable things and the dollar is worth less.",
+        "score": 13,
+        "author": "Vennomite"
+      },
+      {
+        "body": "Yep, and \"index XYZ had the biggest jump/fall of all time, XXX points\" lets us have a new world record every few years even if it's a 2026 fall of 2.8% vs a 2008 fall of 10% like you said.",
+        "score": 4,
+        "author": "XA36"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
@@ -493,6 +235,254 @@ window.dailyTrends = [
         "body": "Your title seems to imply the Nasdaq is under the 200 SMA, and it isn't. It actually had a decent bounce up before even touching it.\n\n  \nYour Google argument makes no sense because it's Gemini that is killing their own search revenue, all they need to do is monetize Gemini which they haven't done yet. No argument against the free cash flow issue, it's definitely a problem.\n\n  \nIntel's main issue is memory prices, where you decided that their \"chips are obsolete\" I don't know. That doesn't even make sense. They are a fab. They create chips. What are you even talking about, lol? Their entire issue is memory pricing causing demand destruction on the consumer side, nothing to do with AI.\n\n  \nSanDisk I follow very little, but again, the argument that \"hyperscalers are cutting hardware orders\" has absolutely no basis in reality. In fact, every single hyperscaler that has reported has suggested significant increases in capex next year.\n\n  \nIt's definitely a bubble, 100%. Whether it is over now or not remains unclear. But at least use arguments that are based in reality, don't just make shit up.",
         "score": 11,
         "author": "jcpopm"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-10-31",
+    "savedAt": {
+      "_seconds": 1793448000,
+      "_nanoseconds": 589000000
+    }
+  },
+  {
+    "id": "1xjw9xg",
+    "title": "OpenAI just cut it's latest funding round target by $10B and slashed the valuation to 1.25T",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xjw9xg/openai_just_cut_its_latest_funding_round_target/",
+    "author": "Lord___Rictor",
+    "score": 83,
+    "selftext": "I just don't see the purpose of openAI and Anthropic existing. They're competing with Amazon Microsoft Meta and Google that have cash coming in from legacy businesses. \n\nThese two enormous AI companies simply should not exist. Human stupidity has no limits and this is the biggest boondoggle in history. They don't have any moat, it doesn't make any sense at all. \n\nThe best moat in AI is to have money coming in so you can keep building more. \n\nThis is the WeWork debacle all over again but on a enormous scale. They don't have any choice but to force these turds through onto the public market.",
+    "subreddit": "StockMarket",
+    "created_utc": 1793406934,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "They never will. If they could do you think they would keep hyping it up every month with dumb stories like how AI went rogue and hacked x thing when it was just a scripted test designed that way. They need to keep the fantasy alive because they know it's not real.",
+        "score": 19,
+        "author": "RipComfortable7989"
+      },
+      {
+        "body": "and if they reach AGI they just created a model that can recursively self improve and make their business obsolete. \n\nfrontier AI model companies do not have a successful business model in the long term, and probably not in the short term either. Open weight models are right behind them.",
+        "score": 12,
+        "author": "SafeMargins"
+      },
+      {
+        "body": "\"it all hinges on reaching the singularity\"\n\nStatements like this are not indicative of a sound (or sane) economy ",
+        "score": 8,
+        "author": "moodytenure"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xjguq7",
+    "title": "Why? Make it Make Sense",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xjguq7/why_make_it_make_sense/",
+    "author": "NapLvr",
+    "score": 75,
+    "selftext": "Why would or does Bitcoin price drop every time there’s a hack? If anything it’s the institutions that’s hacked that should be dropping in value.. not Bitcoin. Because the stolen bitcoin still keeps its value.. it’s not like the hackers or thieves are going to burn the bitcoin.. \n\nIt’s like robbing a US bank and then seeing the value of dollar drop immediately..\n\nExplain it to me like a 2 year old.. Makes no sense!",
+    "subreddit": "StockMarket",
+    "created_utc": 1793370430,
+    "thumbnail": "https://preview.redd.it/cdq59h517myh1.jpeg?width=140&height=44&auto=webp&s=61d95bb4a57c688844137961d6fd82bca67bd64b",
+    "top_comments": [
+      {
+        "body": "In addition to that, the hackers are probably eager to offload what was taken into something less obviously traceable quickly and at a discount.",
+        "score": 21,
+        "author": "merketa"
+      },
+      {
+        "body": "Putting aside that stocks and Bitcoin are very different assets (stock values are tied to the perceived value of an underlying enterprise whereas Bitcoin's value is tied to the perceived value of Bitcoin), wouldn't the better analogy be that someone hacks into Fidelity and somehow steals your registered shares? I'm not sure how that would work with stocks because they'd still be registered to you.",
+        "score": 17,
+        "author": "DealerHumble1103"
+      },
+      {
+        "body": "If i steal 6.3b of something, and by doing so the price plummets, I haven't stolen 6.3b. Unless it was immediately converted into some other form of currency or asset.\n\nTherein lies the problem, the other currency or asset is more stable and therefore more valuable. Crypto is a con.",
+        "score": 14,
+        "author": "Away-Activity-469"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-10-31",
+    "savedAt": {
+      "_seconds": 1793447999,
+      "_nanoseconds": 56000000
+    }
+  },
+  {
+    "id": "1xkpaqz",
+    "title": "RDDT beat its revenue guide by $25M and still fell 29%. The user numbers explain it",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xkpaqz/rddt_beat_its_revenue_guide_by_25m_and_still_fell/",
+    "author": "EquiblesAI",
+    "score": 57,
+    "selftext": "I forecast Reddit's Q3 before the October 29 report and then checked the model line by line against what they filed. Revenue was not the problem:\n\n- Revenue was $895.0M, $25M above the top of the guide. My model had $900.6M, consensus $875.0M (26 analysts).\n- US revenue per user was $13.82, up 53% from a year earlier. Pricing carried the quarter.\n- EPS was $1.40 against my $1.41.\n\nThe miss was users. US daily active uniques fell to 50.7M from 53.2M in Q2, and logged-out US users, the ones who arrive from search, fell 4% year over year to 27.3M. International grew 24% to 79.6M, but management said some of that came from extra marketing to make up for lost search traffic, and guided total users down by a low double-digit percentage in Q4.\n\nThe stock closed Oct 30 at $91.73, down 29.2%, its worst session since the March 2024 listing.\n\nDo you think pricing can keep outrunning the user decline, or does Q4 show the limit?\n\nData: Reddit's Q3 8-K, shareholder letter and daily prices, processed by Equibles. Not financial advice.",
+    "subreddit": "StockMarket",
+    "created_utc": 1793491817,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "No but the petty power is the most important part of their lives. \n\nI got banned for saying \"ew\" on the pics subreddit.  I presume it was because of their being an African American in the photo, I was being a racist, or that's what was told when I emailed the mod🙄🫪",
+        "score": 11,
+        "author": "Impressive-Gas6909"
+      },
+      {
+        "body": "Bots didn't matter for Twitters MAU, why should they matter for Reddit?  What killed Twitter before Musk was advertisers pulling out. \n\nBefore Musk, Twitter had about 15-20% bot activity estimated by independent sources. Musk said it was higher.   Reddit says it's about the same. ",
+        "score": 8,
+        "author": "m0viestar"
+      },
+      {
+        "body": "I use Reddit less because the mods are so annoying. All city and state subs and groupthink echo chambers and not worth visiting anymore. Reddit did it to itself ",
+        "score": 4,
+        "author": "Minimum-Crow674"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xkeccl",
+    "title": "Do you think there will be a notable price movement after the midterms(4th of nov)?",
+    "url": "https://www.reddit.com/r/investing/comments/1xkeccl/do_you_think_there_will_be_a_notable_price/",
+    "author": "Tonka-Jahari-Pizza",
+    "score": 41,
+    "selftext": "I have seen some posts saying that stocks historically usually rip over 6 month after midterms. Do you think we might experience this at 4th of November?\n\nI really hope we get a good junp the next 2 weeks from the midterms and i think apple and nvda earnings should help on that",
+    "subreddit": "investing",
+    "created_utc": 1793463484,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "One complication is possible renewed military action in Iran once midterms are over. ",
+        "score": 90,
+        "author": "UCFSam"
+      },
+      {
+        "body": "It might.\n\nThen again, it might not.\n\nHope this helps.",
+        "score": 51,
+        "author": "HaiKarate"
+      },
+      {
+        "body": "I think this is the big one. I think it’s pretty widely expected that the midterms will be moderate to large pickups for dems and that’s likely priced in. But we’ve moved several new  carriers and other assets to the mid east and I could certainly see things becoming hot again with further issues with oil etc",
+        "score": 26,
+        "author": "ninjagorilla"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xk42gr",
+    "title": "Reducing my tech exposure, stock recommendations?",
+    "url": "https://www.reddit.com/r/investing/comments/1xk42gr/reducing_my_tech_exposure_stock_recommendations/",
+    "author": "Individual-Tip1511",
+    "score": 29,
+    "selftext": "&#x200B;\n\nA large part of my portfolio is currently in the IT sector, and I’m looking to diversify into other sectors (healthcare, financials, industrials, consumer staples, etc.).\n\nWhat individual stocks would you recommend for long-term investing? Preferably companies that don’t pay dividends.\n\nThanks!",
+    "subreddit": "investing",
+    "created_utc": 1793432338,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I thank ppl like OP who diversify into Healthcare and other staples at times like these. Gives me a chance to buy their tech stocks while seeing my defensives go up in value, finally. ",
+        "score": 23,
+        "author": "GroundbreakingAd1223"
+      },
+      {
+        "body": "Healthcare, financials, real estate, costumer staples, discretionary, are all up like 10-15% since start of October. The rotation already happened OP! ",
+        "score": 17,
+        "author": "Got_Engineers"
+      },
+      {
+        "body": "How do you know it’s already low ? \n\nPast performance? 😜 ",
+        "score": 13,
+        "author": "-ReasonableDoubt"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xjvq3u",
+    "title": "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens",
+    "url": "https://www.reddit.com/r/finance/comments/1xjvq3u/wall_street_drops_to_its_worst_day_since_june/",
+    "author": "Raw_Rain",
+    "score": 27,
+    "selftext": "   The latest market sell-off is pretty interesting, especially when you look at what’s happening with the major technology companies. The S&P 500 dropped 1.8%, the Nasdaq fell 2.9%, and the Dow lost 572 points. That’s a pretty significant move, particularly with AI-related stocks taking much of the pressure.\n\n   I also think there’s a bigger issue here. The technology sector has been carrying a tremendous amount of weight in the overall market. When a handful of major companies start struggling, the impact reaches much further than just their individual stock prices.",
+    "subreddit": "finance",
+    "created_utc": 1793405440,
+    "thumbnail": "default",
+    "top_comments": [
+      {
+        "body": "Yea, every drop has resulted in a V shaped rally. The headlines will be so easy. Just take the election results and say the market thinks this is bullish lol. Easiest market to invest in.",
+        "score": 3,
+        "author": "ensui67"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xjfshi",
+    "title": "Intel beat its guide on every line, then fell ~24% overnight. The 8-K's guidance table explains it: Q4 gross margin 44.1% → 38%, EPS $0.52 → $0.25",
+    "url": "https://www.reddit.com/r/investing/comments/1xjfshi/intel_beat_its_guide_on_every_line_then_fell_24/",
+    "author": "filingdelta",
+    "score": 16,
+    "selftext": "Intel reported Q3 after the close on 10/29. On its own guide, it was a clean beat: revenue $16.5bn (guide $15.8–16.8bn), non-GAAP gross margin 44.1% (guide 42%), non-GAAP EPS $0.52 (guide $0.38). Data center revenue grew 78%. The stock went from a $92.07 close to about $70.19 overnight.\n\nThe reason is the Q4 guidance table. Quarter over quarter, from Q3 actual to Q4 guide:\n\n\\- Revenue: $16.5bn to $15.0–16.0bn (midpoint about 6% lower)\n\n\\- Non-GAAP gross margin: 44.1% to 38.0%\n\n\\- Non-GAAP EPS: $0.52 to $0.25\n\n\\- GAAP EPS: $0.60 to $0.10\n\nWhere the split shows up in the segment table:\n\n\\- Data Center and AI: $7.3bn, up 78% year over year and up from $6.3bn in Q2.\n\n\\- Client Computing (PCs), still the bigger unit: $8.1bn, down 5% year over year and down from $8.9bn in Q2. In Q2 it was growing 13%. The CFO says the PC slowdown continues \"at least through the first half of next year.\"\n\nThe release doesn't explain the 6-point margin drop. The one new hint is in the risk factors, which now mention \"current industry-wide substrate and memory shortages.\" The 10-Q isn't out yet, so that's the first thing I'd look for when it is.\n\nOther things in the 8-K the headline doesn't cover:\n\n\\- Share count. Intel completed a $23bn public equity offering. Shares outstanding went from 4,994m at the end of 2025 to 5,310m. Weighted basic shares in Q3 were up 16% from a year ago. Non-GAAP EPS still more than doubled, so profit outgrew dilution this quarter. At $0.25 guided for Q4, it won't.\n\n\\- GAAP profit. GAAP net income ($3.3bn) was higher than non-GAAP ($2.8bn) because of a $1.0bn non-cash gain on \"Escrowed Shares.\" Over nine months the same item is a $12.6bn loss, which is why Intel shows a nine-month net loss of $11.6bn.\n\n\\- Cash. Cash and short-term investments rose to $54.0bn from $37.4bn, mostly from the offering plus $13bn of new term debt ($9bn repaid). Over nine months Intel also paid out $14.4bn in \"partner distributions\" to its co-investment partners, against $5.0bn of contributions. The release doesn't say what that was for.\n\n\\- Capex. Gross capex was $4.2bn in Q3 vs $3.0bn a year ago; adjusted free cash flow was $1.6bn.\n\nHow I'd frame it: the quarter was genuinely good, and the data center number is the best in years. But Q4 guidance says PC weakness and lower margins outweigh it next quarter, and there are 16% more shares to spread earnings over. The question is whether 38% gross margin is a one-quarter cost spike or the new level while PCs are soft.\n\nFor holders: what would you need to see in the 10-Q or in Q4 to stay in? I'm watching gross margin against 38%, and whether DCAI keeps growing quarter over quarter while client falls.",
+    "subreddit": "investing",
+    "created_utc": 1793367923,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "The explosion at a factory in Israel, which they say will impact their revenues, is also pertinent here.\n\nhttps://www.silicon.co.uk/cloud/datacenter/intel-israel-explosion-632121",
+        "score": 27,
+        "author": "ThanklessWaterHeater"
+      },
+      {
+        "body": "Intel has gotten cash infusion (bailouts) by both Nvidia and the US government.  Their stock in the last year reflected those handouts.  \n\nBut, that doesn't change the fact they are still struggling to maintain market share against AMD, their GPU products suck, and they have shown little to no innovation in the last 15 years in the CPU market.  Intel CPUs back in the late 90 and early 2000s use to have massive leaps every new release.  Now its single digit percentage increases year over year in performance.",
+        "score": 15,
+        "author": "Im_Still_Here12"
+      },
+      {
+        "body": "Do you have any reading material on the CPU innovation being very weak comparatively? curious",
+        "score": 8,
+        "author": "Mindfulbones"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xjvp2l",
+    "title": "Fed Model & the Equity Risk Premium",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xjvp2l/fed_model_the_equity_risk_premium/",
+    "author": "beerion",
+    "score": 12,
+    "selftext": "I've done a bunch of work looking at yield spreads and forward long term returns (*this particular data set looks at forward 10-year returns*). \n\nThis is the latest reading that takes a modified Fed Model (using inverse CAPE ratio against the 10-year treasury yield) to estimate forward excess returns - which can be used as an implied equity risk premium (iERP). This data set is built using data from 1940 onward (I've also looked at 1900 and-on. The trend is still intact, just a little noisier - but I think that using the data post creation of the SEC and other regulatory bodies is more appropriate). \n\n***All signs point to stocks underperforming bonds through 2036*** \\- this is obviously just a forecast, and there's a decent amount of scatter, but the trend seems pretty strong. \n\nSome caveats. Some of the big outliers to the upside are:\n\n* The 1988-92 period which was the lead-in to the dot-com bubble - if you extended the timeline a couple of years, those obviously get pulled down towards trendline. \n* The furthest points to the left, below the trend line were 1999 and 2000 which were hit with the double whammy of the dot-com bust and the GFC...I think this series of events happening in such close succession is kind of an outlier. \n\nOther notable observations:\n\n* March and April 2020 (bottom of covid) was the best reading in the historical set (off the charts to the right). \n* Only 1998-2000 were worse than today's reading. \n\nThere's a bunch of other factors that I've looked at. Things like M2 money supply and abrupt changes to the corporate tax rate (a la TCJA in 2018) can impact the readings. I think I can also show a link between the spread reading and go-forward stock/bond correlations.\n\nI was thinking about putting together a series of charts and a write-up. Let me know if you guys are interested. \n\n",
+    "subreddit": "StockMarket",
+    "created_utc": 1793405357,
+    "thumbnail": "https://preview.redd.it/3ed21woqyoyh1.png?width=140&height=140&crop=1%3A1%2Csmart&auto=webp&s=b41bf01db0c1c291e45a71074866db0693587ef5",
+    "top_comments": [
+      {
+        "body": "Yeah, I'd like to test that. But I don't know of a dataset that has that data going back very far. ",
+        "score": 3,
+        "author": "beerion"
+      },
+      {
+        "body": "curious if you've tried it with shareholder yield instead of earnings yield. what actually reaches holders is dividends plus buybacks minus new share issuance, and the issuance part has been pretty big in tech lately.",
+        "score": 3,
+        "author": "General_Patient4904"
+      },
+      {
+        "body": "I can’t read graphs but the line only goes up so I’m taking out leverage to buy stocks.\n\n/s",
+        "score": 3,
+        "author": "MDInvesting"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
