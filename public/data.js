@@ -1,5 +1,36 @@
 window.dailyTrends = [
   {
+    "id": "1xm901d",
+    "title": "US$700Bn wiped out in 2.5 hours",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xm901d/us700bn_wiped_out_in_25_hours/",
+    "author": "An_Unorthodox_Soul",
+    "score": 11714,
+    "selftext": "Major corrections underway as the stock market continues to be painful for AI & Tech stocks. Whether this would lead to an ultimate popping of this supposed bubble or not remains to be seen, but as of now - it's most likely just a correction and regular dip and not the beginning of any major stock market crash or popping of an AI bubble",
+    "subreddit": "StockMarket",
+    "created_utc": 1793652395,
+    "thumbnail": "https://preview.redd.it/k34tnnfgh9zh1.jpeg?width=140&height=72&auto=webp&s=b13e3a696e60b90488bc49485f0ce0a8e7255bad",
+    "top_comments": [
+      {
+        "body": "\"it's most likely just a correction and regular dip\" - reminds me of what people were saying in the early phases of 2008.",
+        "score": 1,
+        "author": "dillanthumous"
+      },
+      {
+        "body": "If the bubble does pop, would that be the end of data centers?",
+        "score": 1,
+        "author": "StrongAsMeat"
+      },
+      {
+        "body": "It's just some numbers really. And the YTD numbers still look fine for many companies... for now.",
+        "score": 1,
+        "author": "Horizontalgewerbe"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
     "id": "1xlegdw",
     "title": "Big Tech free cash flow is expected to crater in 2026-27, then explode. Do you buy the 2030 estimates?",
     "url": "https://www.reddit.com/r/StockMarket/comments/1xlegdw/big_tech_free_cash_flow_is_expected_to_crater_in/",
@@ -28,79 +59,105 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-02",
+    "savedAt": {
+      "_seconds": 1793632852,
+      "_nanoseconds": 987000000
+    }
+  },
+  {
+    "id": "1xmi9dp",
+    "title": "Breaking: US Reportedly strikes Iran’s Qeshm Island",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xmi9dp/breaking_us_reportedly_strikes_irans_qeshm_island/",
+    "author": "Equivalent-Ice-7274",
+    "score": 284,
+    "selftext": "U.S. reportedly strikes Iran's Qeshm Island as Vance seeks ‘settlement’   \nThe U.S. reportedly carried out strikes against Iran on Monday. America attacked Iran’s Qeshm Island, U.S. officials told The Wall Street Journal, which added that Washington has been carrying out “limited strikes” against the country in recent weeks. The military campaign against Iran has been kept quiet on purpose so as not to signal any intention of major combat escalation, the report said, quoting an unnamed official.\n\nhttps://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html?\\_\\_source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
+    "subreddit": "StockMarket",
+    "created_utc": 1793676417,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "It's unbelievable that we're waging a months long war with Iran with no congressional approval because 🤷",
+        "score": 58,
+        "author": "JHam67"
+      },
+      {
+        "body": "I don’t want a break, I and sane people want an end. ",
+        "score": 54,
+        "author": "Reddituser183"
+      },
+      {
+        "body": "Didnt you hear? The president has just announced that he has kept MORE promises than he even made! Amazing, can you believe that?! More promises kept than made. No other president has been able to do that. ",
+        "score": 51,
+        "author": "silent_fartface"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xkjs1p",
-    "title": "Why do people always talk about the stock market drops in numeric terms and not percentages?",
-    "url": "https://www.reddit.com/r/investing/comments/1xkjs1p/why_do_people_always_talk_about_the_stock_market/",
-    "author": "Narrow_Crazy1954",
-    "score": 146,
-    "selftext": "Every time there is a big drop, it says “1 Trillion wiped from market, most in history” but it is not even a 2% drop. Or it will say “700 points from the dow dropped, most in history” but also not even a 2% drop. these markets have seen over 2% drops throughout history and multiple times in one year at some points… \n\n“points” or market cap will almost always increase long term for a market that has people investing into it every friday, has billionaire wealth stored in it, and is tied to the economic output of the country. so why isn’t it discussed in percentages instead of “points” or “market cap” that will forever have a new “biggest drop of all time”???",
+    "id": "1xlwa3j",
+    "title": "Reddit beat its guide and grew revenue 53%, then had its worst day ever (−29%). The 10-Q shows why: US daily users fell 5% in one quarter, all of it logged-out (search) visitors",
+    "url": "https://www.reddit.com/r/investing/comments/1xlwa3j/reddit_beat_its_guide_and_grew_revenue_53_then/",
+    "author": "filingdelta",
+    "score": 260,
+    "selftext": "Reddit reported Q3 after the close on 10/29. Against its own guide it beat again: revenue $895m (guide $860–870m), up 53% year over year; adjusted EBITDA $402m (guide $385–395m); net income $283m. The stock went from $129.60 to $91.73 on 10/30, down 29%.\n\nThe release headline says \"Logged-in DAUq and App DAUq … grew quarter-over-quarter in the US and RoW.\" The 10-Q, filed the next day, has the rest of the user chart. US daily active uniques, in millions:\n\n\\- Q3'25: 51.6 total (23.1 logged-in, 28.5 logged-out)\n\n\\- Q2'26: 53.2 total (23.1 logged-in, 30.1 logged-out)\n\n\\- Q3'26: 50.7 total (23.4 logged-in, 27.3 logged-out)\n\nSo US DAUq fell 5% from Q2 and 2% from a year ago. Logged-in users did grow, by 0.3m. Logged-out users fell by 2.8m in one quarter. The 10-Q says visitors from search engines are \"generally not logged in,\" and explains the flat global number this way: marketing gains were \"offset predominantly by third-party search engine changes.\"\n\nOther things in the 10-Q the headline doesn't cover:\n\n\\- Reddit said in its 10-K it would stop reporting logged-in vs logged-out DAUq starting this quarter. It reversed that, citing \"increased volatility in referral traffic\" as search engines add AI summaries.\n\n\\- US logged-in DAUq has been roughly flat for six quarters: 23.0m in Q1'25, 23.4m now. Global DAUq growth (+12% year over year) is coming from outside the US (+24%), and the 10-Q says it was \"driven by our marketing investments.\" Sales and marketing expense was $209m, up 63% from $129m.\n\n\\- Revenue kept growing because of pricing, not audience. Ad prices were up about 34% year over year and impressions about 15%. US revenue per daily user was $13.82 vs $9.04 a year ago.\n\nThe Q4 guide: revenue $1,000–1,030m, about +40% vs $726m in Q4'25 at the midpoint. Growth has gone 69% (Q1), 61% (Q2), 53% (Q3). Reddit usually beats the top of its range: the Q3 guide midpoint implied about 48% growth and it printed 53%.\n\nHow I'd frame it: the business is monetizing better than ever, but the US audience it monetizes shrank this quarter, and the part that shrank is the one Reddit doesn't control. Pricing can carry revenue past flat users for a while. The question is how long, if US logged-out keeps falling and US logged-in stays near 23m.\n\nWhat I'm watching in Q4: whether US logged-out DAUq (27.3m) stops falling, whether US logged-in (23.4m) finally grows, and whether ad pricing growth (+34%) holds as Q4 laps a strong quarter.\n\nFor holders: what would you need to see next quarter to stay in?",
     "subreddit": "investing",
-    "created_utc": 1793476631,
+    "created_utc": 1793623729,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "You watch the nightly news recently? 10 minutes of weather (There’s a flood, tornado, drought, heatwave, snow, and/or hurricane happening across the US) \n\nA single engine plane crashed or two commercial came within a thousand feet of each other \n\nA celebrity (or the closest thing they could find to a celebrity) either died or got arrested.\n\nThen here’s some puppies or babies doing some shit at the end. Goodnight everyone ",
-        "score": 19,
-        "author": "Delicious-Status9043"
+        "body": "It doesn't matter because the people who buy the ads can track sales conversions from the ads so it doesn't matter if 99% of the users are bots, the sales conversions would be the same and provide the same value as they are before knowing that 99% of users are bots.\n\nThat is unless the bots are buying things.",
+        "score": 8,
+        "author": "Kanolie"
       },
       {
-        "body": "Same reason whenever there is a disaster it's always the biggest in history in dollar terms.\n\nLike no shit. We have more more valuable things and the dollar is worth less.",
-        "score": 13,
-        "author": "Vennomite"
+        "body": "If you think bots only make up a small amount of users on Reddit then I've got some magic beans I'd like to sell you",
+        "score": 8,
+        "author": "infinitycurvature"
       },
       {
-        "body": "Yep, and \"index XYZ had the biggest jump/fall of all time, XXX points\" lets us have a new world record every few years even if it's a 2026 fall of 2.8% vs a 2008 fall of 10% like you said.",
-        "score": 4,
-        "author": "XA36"
+        "body": "that was like 2-3 weeks ago, no way they are reporting on those numbers",
+        "score": 7,
+        "author": "NotEnoughHoes"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-01",
-    "savedAt": {
-      "_seconds": 1793538028,
-      "_nanoseconds": 149000000
-    }
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xkpaqz",
-    "title": "RDDT beat its revenue guide by $25M and still fell 29%. The user numbers explain it",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xkpaqz/rddt_beat_its_revenue_guide_by_25m_and_still_fell/",
-    "author": "EquiblesAI",
-    "score": 57,
-    "selftext": "I forecast Reddit's Q3 before the October 29 report and then checked the model line by line against what they filed. Revenue was not the problem:\n\n- Revenue was $895.0M, $25M above the top of the guide. My model had $900.6M, consensus $875.0M (26 analysts).\n- US revenue per user was $13.82, up 53% from a year earlier. Pricing carried the quarter.\n- EPS was $1.40 against my $1.41.\n\nThe miss was users. US daily active uniques fell to 50.7M from 53.2M in Q2, and logged-out US users, the ones who arrive from search, fell 4% year over year to 27.3M. International grew 24% to 79.6M, but management said some of that came from extra marketing to make up for lost search traffic, and guided total users down by a low double-digit percentage in Q4.\n\nThe stock closed Oct 30 at $91.73, down 29.2%, its worst session since the March 2024 listing.\n\nDo you think pricing can keep outrunning the user decline, or does Q4 show the limit?\n\nData: Reddit's Q3 8-K, shareholder letter and daily prices, processed by Equibles. Not financial advice.",
+    "id": "1xmaat9",
+    "title": "Apple beats in John Ternus's first quarter as CEO: $114.48B revenue, $2.10 EPS, iPhone $57.58B",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xmaat9/apple_beats_in_john_ternuss_first_quarter_as_ceo/",
+    "author": "Holywizy",
+    "score": 171,
+    "selftext": "Apple just reported fiscal Q4 2026, the first quarter with John Ternus as CEO after Tim Cook stepped down in September.\n\nThe numbers vs estimates (LSEG, via CNBC):\n\n\\- Revenue: $114.48B vs $113.39B expected, up about 12% from $102.5B a year ago. Apple had guided 9% to 11%.\n\n\\- EPS: $2.10 vs $1.99 expected, up from $1.85.\n\n\\- iPhone: $57.58B vs $56.54B expected, with only about 8 days of iPhone 18 Pro sales in the quarter.\n\n\\- iPad came in short of estimates.\n\nThe foldable iPhone Duo launched Oct 23, after the quarter ended, so it isn't in these numbers at all.\n\nThe stock closed at $338.32 (down 1.83%) and was trading around $335 after hours, roughly 1% lower, after swinging between small gains and losses. Apple went into this report at its highest P/E since 2007 with a market cap near $5T, and last quarter it also beat but fell on a weak forecast.\n\nSo the real test is the 5pm ET call: December-quarter guidance, how much memory chip costs hit margins, and China.\n\nDo you think a clean beat is enough at this valuation, or is it all about the holiday guidance?\n\nFull breakdown: https://holywizy.com/blog/apple-q4-2026-earnings-beat-iphone-57-billion-ternus-first-report/",
     "subreddit": "StockMarket",
-    "created_utc": 1793491817,
-    "thumbnail": "self",
+    "created_utc": 1793655374,
+    "thumbnail": "https://preview.redd.it/gw21uf9bq9zh1.jpeg?width=140&height=73&auto=webp&s=98969384bbdc83ce9211c7190ad273c0b583fa9e",
     "top_comments": [
       {
-        "body": "No but the petty power is the most important part of their lives. \n\nI got banned for saying \"ew\" on the pics subreddit.  I presume it was because of their being an African American in the photo, I was being a racist, or that's what was told when I emailed the mod🙄🫪",
-        "score": 11,
-        "author": "Impressive-Gas6909"
+        "body": "Watch it open sub 330 😂, very little movement so far, guessing people waiting on the guidance still.",
+        "score": 27,
+        "author": "GreenRatJuice"
       },
       {
-        "body": "Bots didn't matter for Twitters MAU, why should they matter for Reddit?  What killed Twitter before Musk was advertisers pulling out. \n\nBefore Musk, Twitter had about 15-20% bot activity estimated by independent sources. Musk said it was higher.   Reddit says it's about the same. ",
-        "score": 8,
-        "author": "m0viestar"
+        "body": "Not Good enough. \n\nCommence massive sell off \n\nS/ but don’t expect a big run up. ",
+        "score": 12,
+        "author": "toxichaste12"
       },
       {
-        "body": "I use Reddit less because the mods are so annoying. All city and state subs and groupthink echo chambers and not worth visiting anymore. Reddit did it to itself ",
-        "score": 4,
-        "author": "Minimum-Crow674"
+        "body": "Are we ignoring that 5c of the 10c EPS beat was solely due to a tariff refund?",
+        "score": 7,
+        "author": "Sterben27"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-01",
-    "savedAt": {
-      "_seconds": 1793538030,
-      "_nanoseconds": 70000000
-    }
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
     "id": "1xl4a8w",
@@ -127,6 +184,114 @@ window.dailyTrends = [
         "body": "That article is all over the place. I work in industrial decarbonization and everyone agrees marine will be hard, if not the hardest. NG is a potent GHG but only if it’s vented to the atmosphere unburned. NG is far better from an emissions perspective than bunker/diesel used today. Ammonia is a hydrogen carrier that could be used but it’s quite toxic and corrosive. Plus burned NH3 increases reactive nitrogen and aerosol emissions globally (read: bad for air quality and health). I’ve seen some promising new work in ammonia fuel cells that make power without combustion. \n\nBOAT is a general shipping ETF that has exposure to all the categories you’re looking for. I own a bunch of tanker, bulk, and container companies and those profits usually come back to the share holders in dividends. The rates have been wild recently. ",
         "score": 29,
         "author": "crazydr13"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-02",
+    "savedAt": {
+      "_seconds": 1793632854,
+      "_nanoseconds": 160000000
+    }
+  },
+  {
+    "id": "1xlg7eu",
+    "title": "Why did $NOW get hated all of a sudden?",
+    "url": "https://www.reddit.com/r/investing/comments/1xlg7eu/why_did_now_get_hated_all_of_a_sudden/",
+    "author": "No-Sea-5276",
+    "score": 47,
+    "selftext": "Can someone explain to me in plain English why $NOW got hammered as much as losing $50B, roughly 1/3 of its market cap, in 1 day?\n\nYes, it’s a double miss for EPS and FCF in Q3 and $NOW lowered its cRPO guidance for Q4.\n\nBut it increased its FCF margin to 36% for 2026 and reduced its capex. While still growing cRPO 21% YoY and FCF 20% YoY.\n\nI don’t get how this business was loved by many people (if not almost everyone) for a few months (especially after partnering with NVIDIA and other hyperscalers) and now it’s hated and the stock drops 30% in 1 trading day.\n\nIs Mr. Market overreacting (once) again?",
+    "subreddit": "investing",
+    "created_utc": 1793571582,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Uncle Baby Billy, Matrix edition. ",
+        "score": 19,
+        "author": "Peripatetictyl"
+      },
+      {
+        "body": "They do suck.  I use Claude and api to make a better bot with SNOW",
+        "score": 15,
+        "author": "brownhotdogwater"
+      },
+      {
+        "body": "That’s true but understanding the market’s valuation is important. There’s a big difference between “I don’t think SPCX will disrupt this market like everyone seems to think” vs “I’m going to bet the opposite of what the graph is doing today.”",
+        "score": 13,
+        "author": "TipsyPeanuts"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-02",
+    "savedAt": {
+      "_seconds": 1793632856,
+      "_nanoseconds": 778000000
+    }
+  },
+  {
+    "id": "1xlssyn",
+    "title": "OPay cancels $304 million IPO after $19 pricing, shares never traded",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xlssyn/opay_cancels_304_million_ipo_after_19_pricing/",
+    "author": "Hopeful-Swimming7555",
+    "score": 37,
+    "selftext": "OPay made it to the NYSE opening bell, but never to its first trade. The SoftBank-backed fintech priced 16 million American depositary shares at $19 each before cancelling the offering following a regulatory inquiry in an undisclosed foreign jurisdiction.\n\nPre-opening indications had dropped to $16.25–$16.75, roughly 12%–14.5% below the offer price. Those were preliminary quotes, not executed trades, so this wasn’t a first-day stock decline.\n\nThe cancellation also leaves a separate investment of up to $200 million from a Standard Bank affiliate unresolved, since it depended on the IPO closing.\n\nOPay says operations continue normally, but hasn’t identified the regulator or explained the inquiry. They’d already priced the IPO and rung the bell. What came up at the last minute that stopped the whole thing?\n\nSource:  \n1. [https://www.ebc.com/forex/opay-ipo-cancelled-after-19-pricing](https://www.ebc.com/forex/opay-ipo-cancelled-after-19-pricing)  \n2. [https://www.reuters.com/legal/transactional/softbank-backed-opay-raises-304-million-us-ipo-2026-10-30/](https://www.reuters.com/legal/transactional/softbank-backed-opay-raises-304-million-us-ipo-2026-10-30/)",
+    "subreddit": "StockMarket",
+    "created_utc": 1793612083,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "regulatory inquiry from unnamed jurisdiction right after pricing but before trading starts is basically worst case scenario for a fintech IPO. someone found something serious enough to pull the plug at literally the last minute\n\n  \nthe pre-open indications dropping to 16-something already showed weak demand but that alone wouldnt kill a 304M raise. whatever the regulator flagged must be pretty bad",
+        "score": 19,
+        "author": "RaspyFertilization"
+      },
+      {
+        "body": "Definitely not.. They rang the bell and still had to pull the IPO. Would help if they actually said what the regulatory inquiry was about.",
+        "score": 5,
+        "author": "Hopeful-Swimming7555"
+      },
+      {
+        "body": "If a material issue surfaces in that window, like a regulatory inquiry, the deal can't close on the existing disclosure without legal risk for the company and the underwriters. The usual options are to amend the filing and reprice, or withdraw. Withdrawing is the cleaner choice when the facts aren't known yet, which fits OPay not naming the regulator. The weak pre-open indications probably made that decision easier. At $16.25–$16.75, underwriters would have been supporting a stock trading 12%–14.5% under the offer price on day one. The $200 million Standard Bank investment is the detail to watch. If it is renegotiated rather than cancelled, the inquiry is likely manageable. If it lapses, the problem is bigger than timing.",
+        "score": 4,
+        "author": "Wonderful-Ad-6633"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-02",
+    "savedAt": {
+      "_seconds": 1793632858,
+      "_nanoseconds": 3000000
+    }
+  },
+  {
+    "id": "1xlw1ut",
+    "title": "Since 1970, the S&P 500 has averaged +14.1% in the 6 months after a midterm vs +5.7% in non-midterm years (BlackRock/Bloomberg)",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xlw1ut/since_1970_the_sp_500_has_averaged_141_in_the_6/",
+    "author": "ryanmcraver",
+    "score": 70,
+    "selftext": "Chart is from BlackRock using Bloomberg data through Aug 13, 2026. It averages S&P 500 total return across the 14 midterms since 1970 (1970 to 2022), indexed to election day, versus the same calendar window in non-midterm years. Two things stand out to me. First, the average midterm path dipped heading into election day, then outran non-midterm years by a wide margin over the next \\~126 trading days. Second, it's still only 14 data points, and averages hide some ugly individual years. My read is the \"rally\" is mostly event risk clearing rather than anything about who wins. Curious whether people think this time is different, given where valuations and rates are.\n\nhttps://i.redd.it/o4s7uua827zh1.jpeg\n\n",
+    "subreddit": "StockMarket",
+    "created_utc": 1793623072,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Yea this chart has been circulated too much and there is no way that this midterm year is going to be positive given the amount of times I’ve heard this",
+        "score": 78,
+        "author": "cclickssss"
+      },
+      {
+        "body": "Yeah, the amount of times this has been posted looks like a lot of coping but who knows... We will see ",
+        "score": 26,
+        "author": "IfailAtSchool"
+      },
+      {
+        "body": "Showing this as a spread rather than a line chart would be far more meaningful.",
+        "score": 11,
+        "author": "therealjerseytom"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -162,105 +327,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xkeccl",
-    "title": "Do you think there will be a notable price movement after the midterms(4th of nov)?",
-    "url": "https://www.reddit.com/r/investing/comments/1xkeccl/do_you_think_there_will_be_a_notable_price/",
-    "author": "Tonka-Jahari-Pizza",
-    "score": 41,
-    "selftext": "I have seen some posts saying that stocks historically usually rip over 6 month after midterms. Do you think we might experience this at 4th of November?\n\nI really hope we get a good junp the next 2 weeks from the midterms and i think apple and nvda earnings should help on that",
-    "subreddit": "investing",
-    "created_utc": 1793463484,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "One complication is possible renewed military action in Iran once midterms are over. ",
-        "score": 90,
-        "author": "UCFSam"
-      },
-      {
-        "body": "It might.\n\nThen again, it might not.\n\nHope this helps.",
-        "score": 51,
-        "author": "HaiKarate"
-      },
-      {
-        "body": "I think this is the big one. I think it’s pretty widely expected that the midterms will be moderate to large pickups for dems and that’s likely priced in. But we’ve moved several new  carriers and other assets to the mid east and I could certainly see things becoming hot again with further issues with oil etc",
-        "score": 26,
-        "author": "ninjagorilla"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-01",
+    "dateString": "2026-11-02",
     "savedAt": {
-      "_seconds": 1793538030,
-      "_nanoseconds": 795000000
+      "_seconds": 1793632854,
+      "_nanoseconds": 831000000
     }
-  },
-  {
-    "id": "1xkyweq",
-    "title": "SPY rose after each of the last 5 midterms but the 2 weakest followed up yrs",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xkyweq/spy_rose_after_each_of_the_last_5_midterms_but/",
-    "author": "dagilisek",
-    "score": 49,
-    "selftext": "I keep seeing the post-midterm bounce quoted like a sure thing so I looked at how it actually played out. SPY was higher a yr after each of the last 5 midterms.\n\nWhat stood out was where those years started. The 2 weakest (2010 and 2014) came after yrs that were already up (about +6% and +9% going in). The big one (2022) came after a -20% yr. The S&P 500 shows the same pattern back to the 50s, and the 3 weakest of all 18 came in up too.\n\nSPY is up about 11% this yr so to me the bounce looks more like a recovery from a bad yr than a calendar effect and I'm not counting on it the same way this time. If part of the reason you're buying this pullback is the midterm bounce, then that's the bit I would double check.",
-    "subreddit": "StockMarket",
-    "created_utc": 1793525705,
-    "thumbnail": "https://preview.redd.it/m6ekmq8q0zyh1.png?width=140&height=92&auto=webp&s=416007104c4fec6a143b2e17ce95beaa63ba52be",
-    "top_comments": [
-      {
-        "body": "The bounce usually follows after a correction, it hasn’t corrected ",
-        "score": 34,
-        "author": "One_Talk_3410"
-      },
-      {
-        "body": "People like to ignore nuance with dumbass stats like post midterm pumps *for most presidents*.\n\nAll these delusional people ignore the fact that after Trumps last midterms SPY dropped 15% in 2 months until January where it bottomed.\n\nBut no, that doesn’t fit the clown perma bull narrative. Also just ignore the fact that he’s repeatedly said he’s going to bomb Iran right after the midterms are done. I’m sure it will work out well.",
-        "score": 22,
-        "author": "Wowmuchrya"
-      },
-      {
-        "body": "5 samples is statistical irrelevant. Someone has skipped the Introductory Statistics class",
-        "score": 12,
-        "author": "Boring-Test5522"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xlg7eu",
-    "title": "Why did $NOW get hated all of a sudden?",
-    "url": "https://www.reddit.com/r/investing/comments/1xlg7eu/why_did_now_get_hated_all_of_a_sudden/",
-    "author": "No-Sea-5276",
-    "score": 47,
-    "selftext": "Can someone explain to me in plain English why $NOW got hammered as much as losing $50B, roughly 1/3 of its market cap, in 1 day?\n\nYes, it’s a double miss for EPS and FCF in Q3 and $NOW lowered its cRPO guidance for Q4.\n\nBut it increased its FCF margin to 36% for 2026 and reduced its capex. While still growing cRPO 21% YoY and FCF 20% YoY.\n\nI don’t get how this business was loved by many people (if not almost everyone) for a few months (especially after partnering with NVIDIA and other hyperscalers) and now it’s hated and the stock drops 30% in 1 trading day.\n\nIs Mr. Market overreacting (once) again?",
-    "subreddit": "investing",
-    "created_utc": 1793571582,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Uncle Baby Billy, Matrix edition. ",
-        "score": 19,
-        "author": "Peripatetictyl"
-      },
-      {
-        "body": "They do suck.  I use Claude and api to make a better bot with SNOW",
-        "score": 15,
-        "author": "brownhotdogwater"
-      },
-      {
-        "body": "That’s true but understanding the market’s valuation is important. There’s a big difference between “I don’t think SPCX will disrupt this market like everyone seems to think” vs “I’m going to bet the opposite of what the graph is doing today.”",
-        "score": 13,
-        "author": "TipsyPeanuts"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
     "id": "1xlb4zb",
@@ -286,33 +358,38 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-02",
+    "savedAt": {
+      "_seconds": 1793632857,
+      "_nanoseconds": 413000000
+    }
   },
   {
-    "id": "1xlssyn",
-    "title": "OPay cancels $304 million IPO after $19 pricing, shares never traded",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xlssyn/opay_cancels_304_million_ipo_after_19_pricing/",
-    "author": "Hopeful-Swimming7555",
-    "score": 37,
-    "selftext": "OPay made it to the NYSE opening bell, but never to its first trade. The SoftBank-backed fintech priced 16 million American depositary shares at $19 each before cancelling the offering following a regulatory inquiry in an undisclosed foreign jurisdiction.\n\nPre-opening indications had dropped to $16.25–$16.75, roughly 12%–14.5% below the offer price. Those were preliminary quotes, not executed trades, so this wasn’t a first-day stock decline.\n\nThe cancellation also leaves a separate investment of up to $200 million from a Standard Bank affiliate unresolved, since it depended on the IPO closing.\n\nOPay says operations continue normally, but hasn’t identified the regulator or explained the inquiry. They’d already priced the IPO and rung the bell. What came up at the last minute that stopped the whole thing?\n\nSource:  \n1. [https://www.ebc.com/forex/opay-ipo-cancelled-after-19-pricing](https://www.ebc.com/forex/opay-ipo-cancelled-after-19-pricing)  \n2. [https://www.reuters.com/legal/transactional/softbank-backed-opay-raises-304-million-us-ipo-2026-10-30/](https://www.reuters.com/legal/transactional/softbank-backed-opay-raises-304-million-us-ipo-2026-10-30/)",
-    "subreddit": "StockMarket",
-    "created_utc": 1793612083,
+    "id": "1xlylh9",
+    "title": "Anthropic's IPO: Can unprecedented revenue growth outrun 'irresponsibly large' investment?",
+    "url": "https://www.reddit.com/r/investing/comments/1xlylh9/anthropics_ipo_can_unprecedented_revenue_growth/",
+    "author": "condemnedofafish",
+    "score": 27,
+    "selftext": "[Based on this review of Anthropic's S1](https://leonlins.com/writing/anthropic_ipo), looks like the bull vs bear case is:\n\n1. How long do you extrapolate high, unprecedented revenue growth rates and customer retention rates? Do open models and current usage restriction trends become a large enough headwind to dent the bull case? \n2. Do you wait for more of their planned capex spend to hit financials to better understand the impact? Will wall street care about this, or is it already factored in to expectations? The company is already soft guiding towards much greater cash burn, will this actually be a surprise?\n3. Their channel fee take rates seem to be getting worse, even as they get more revenue from channel partners (hyperscalers). Is this an issue?\n\nSeems expensive at IPO valuation but what could change your mind?",
+    "subreddit": "investing",
+    "created_utc": 1793629557,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "regulatory inquiry from unnamed jurisdiction right after pricing but before trading starts is basically worst case scenario for a fintech IPO. someone found something serious enough to pull the plug at literally the last minute\n\n  \nthe pre-open indications dropping to 16-something already showed weak demand but that alone wouldnt kill a 304M raise. whatever the regulator flagged must be pretty bad",
-        "score": 19,
-        "author": "RaspyFertilization"
+        "body": "Is it irresponsible spending when the revenue growth looks like this with an operating margin?",
+        "score": 9,
+        "author": "JustBrowsinAndVibin"
       },
       {
-        "body": "Definitely not.. They rang the bell and still had to pull the IPO. Would help if they actually said what the regulatory inquiry was about.",
-        "score": 5,
-        "author": "Hopeful-Swimming7555"
+        "body": "As a developer, Claude code has drastically improved my productivity. I have to correct it on certain things, but I have the experience to often spot issues. I can let it run in the background, while I focus on other things, and it’s greatly reduced my mental load so I’m not completely drained from working through difficult issues in the logic of my code.\n\nThis of course doesn’t translate to every field, but the productivity gains are immense in my work. ",
+        "score": 7,
+        "author": "electric_seesaw"
       },
       {
-        "body": "If a material issue surfaces in that window, like a regulatory inquiry, the deal can't close on the existing disclosure without legal risk for the company and the underwriters. The usual options are to amend the filing and reprice, or withdraw. Withdrawing is the cleaner choice when the facts aren't known yet, which fits OPay not naming the regulator. The weak pre-open indications probably made that decision easier. At $16.25–$16.75, underwriters would have been supporting a stock trading 12%–14.5% under the offer price on day one. The $200 million Standard Bank investment is the detail to watch. If it is renegotiated rather than cancelled, the inquiry is likely manageable. If it lapses, the problem is bigger than timing.",
-        "score": 4,
-        "author": "Wonderful-Ad-6633"
+        "body": "Look like he's coming in around the rumoured IPO valuation, so not that attractive of a price for either bull/bear scenario \n\n> I will keep an open mind and wait for Anthropic to be priced for its IPO, and if it is priced well above my estimate of $1.48 trillion, I will sit out the frenzy",
+        "score": 7,
+        "author": "condemnedofafish"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -320,19 +397,35 @@ window.dailyTrends = [
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xknimr",
-    "title": "Spain’s Economy, overview.",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xknimr/spains_economy_overview/",
-    "author": "Separate_Baker7280",
-    "score": 26,
-    "selftext": "🇪🇸 EWP **(iShares MSCI Spain ETF**) offers an interesting opportunity to study Spain’s equity market following its significant 2026 equities rally. \n\nSpain is outperforming many European economies on growth, helped by domestic demand and job creation. The main concern is whether expensive energy and persistent inflation squeeze households, business costs and company profits. For **EWP**, that’s a mixed backdrop: resilient growth can support earnings, while inflation and interest-rate uncertainty can weigh on its large bank and utility holdings. \n\nEWP has reached 2007 high’s of $63.0/Share. Do you expect Spain’s equity bull to keep on running or will winter be coming? ",
-    "subreddit": "StockMarket",
-    "created_utc": 1793486689,
+    "id": "1xm0ndr",
+    "title": "Too late to enter Energy or Healthcare?",
+    "url": "https://www.reddit.com/r/investing/comments/1xm0ndr/too_late_to_enter_energy_or_healthcare/",
+    "author": "brian-augustin",
+    "score": 15,
+    "selftext": "I was in energy the beginning of the year, switched to tech (bad idea) now seeing healthcare and energy run, is it too late to enter these sectors? \n\n  \n[https://imgur.com/4NCbJGE](https://imgur.com/4NCbJGE)\n\n[https://imgur.com/8g6B1Ae](https://imgur.com/8g6B1Ae)",
+    "subreddit": "investing",
+    "created_utc": 1793634253,
     "thumbnail": "self",
-    "top_comments": [],
+    "top_comments": [
+      {
+        "body": "Too late? As in do we think this is the top, right now? Better to just buy and hold the broad market rather than try to chase trends like this anyway ",
+        "score": 17,
+        "author": "leaning_on_a_wheel"
+      },
+      {
+        "body": "fair, guessing which sector is the top is mostly a coin flip. op already switched once and regretted it, so jumping again after a big run kind of feels like repeating the same move",
+        "score": 9,
+        "author": "BuyTheDipWeekly"
+      },
+      {
+        "body": "If you invested in the broad tech sector before April, you made 20% basically, more than the broad market. After that the tech sector was volatile but more or less flat.\n\nIf you did lose significant money, it's due to specific unlucky market timing or investing in specific stocks that did under perform. And the teaching isn't necessarily that you did select the wrong sector.",
+        "score": 3,
+        "author": "nicolas_06"
+      }
+    ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
     "id": "1xlituk",
@@ -363,7 +456,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-02",
+    "savedAt": {
+      "_seconds": 1793632859,
+      "_nanoseconds": 52000000
+    }
   },
   {
     "id": "1xl9mm3",
@@ -394,68 +492,11 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xl7ldv",
-    "title": "🇨🇳 Cash Rich Chinese Companies",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xl7ldv/cash_rich_chinese_companies/",
-    "author": "Separate_Baker7280",
-    "score": 12,
-    "selftext": " A company with substantial net cash can offer downside protection and flexibility, but cash creates shareholder value only when the business can preserve it and management uses it well. The opportunity is to buy a sound operating business at a price that gives little or no credit for its surplus cash, while keeping an eye on whether that cash will be returned or invested productively. \n\nOver time doing some DD, I’ve noticed that a few Chinese companies have substantial amounts of cash deposits on their balance sheets. I hesitant in investing in China due to past experiences. Not so Gooda, but I always find it fascinating on how much cash these companies have. Do you think this is a good sign and whether you’ll take a plunge into these companies? What are your thoughts and perspectives. Thank you. \n\nTicker Examples, MOMO, TUYA, ATHM, YMM ",
-    "subreddit": "StockMarket",
-    "created_utc": 1793550998,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "cash hoards in china always make me pause. half the time it's real, half the time it's just numbers on a screen until you try to pull it out of the country. the discount's there for a reason, market's not stupid about that risk\n\n  \nwhat's the capex story on these though? cash sitting idle is just inflation bait if management's not putting it to work",
-        "score": 5,
-        "author": "coarse_discord"
-      },
-      {
-        "body": "Because a lot of them are really well managed, successful businesses, and it's not limited to the tickers you shared.\n\nThat being said, before you invest in Chinese stocks, know a few things:\n\n1. They are volatile. If you can't stomach wild price fluctuations without losing sleep, don't go anywhere near them. On the bright side, it makes options expensive and covered calls can generate a lot of money.\n2. Redditors will downvote any conversation/comment about them. If you're one to take the opinion of the mob as gospel, you're going to have a hard time.\n3. The Chinese government has made it clear that the well-being of its people comes first, and CEOs cannot purchase lawmaking for their personal interest, which to Americans, in their infinite wisdom, is the true and only definition of capitalism. Some industries are more at risk than others. For instance, the Chinese government thought education should not be for profit a few years back, and that wiped out a whole class of assets. China's education is world class for a reason, but that matters little for investors outside the country.\n4. Because of all this, PE ratios are typically lower.",
-        "score": 3,
-        "author": "lOo_ol"
-      },
-      {
-        "body": "payout history only proves cash got out back then. a buyback can be funded from offshore cash or new debt and say nothing about what's trapped onshore.",
-        "score": 1,
-        "author": "shravanrevanna"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xl6doe",
-    "title": "Will AI Agents Break the Business Models of Amazon and JPMorgan?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xl6doe/will_ai_agents_break_the_business_models_of/",
-    "author": "Illustrious_Lie_954",
-    "score": 9,
-    "selftext": "JPMorgan is restricting external AI agents from directly accessing retail banking accounts, while Amazon has blocked Meta’s Muse from shopping on its platform. Both companies cite security and customer-protection concerns, but I think there is a larger strategic issue here.\n\nAI agents could change how consumers shop and manage money. Instead of visiting multiple websites, comparing products manually or searching for better savings rates, users could delegate those tasks to an agent that evaluates alternatives and acts on their instructions. That could threaten businesses whose competitive advantage depends partly on controlling customer attention, product discovery or the switching process. Amazon could lose some influence over shopping searches and advertising, while banks could face more pressure if customers can easily compare rates and move money between providers.\n\nStill, the security concerns are real. An AI agent needs clear permissions, identity verification and safeguards against fraud or unintended transactions. The challenge is building those protections without allowing incumbent platforms to unfairly limit customer choice.\n\nThere is an interesting contradiction: companies are restricting some external agents while developing their own AI tools. This makes me wonder whether the real battle is about security alone, or about who owns the customer relationship and captures the economics of AI-driven transactions.",
-    "subreddit": "StockMarket",
-    "created_utc": 1793548125,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Regardless of whether or not it impacts their moat, allowing some fuckass company like Meta to let agents hit their APIs doesn’t do anything to benefit either of these companies, and instead opens them up to a ton of risk to dealing with credit card chargebacks, data breaches, angry customers, etc. \n\nI don’t really understand the value proposition for any company being asked to provide MCP access to peoples agents in general ",
-        "score": 16,
-        "author": "ManagementFluid2206"
-      },
-      {
-        "body": "Could see this going the same way as every other intermediary play, the platforms build moats around their own agents and claim it's about security while quietly making sure the customer never leaves their ecosystem",
-        "score": 11,
-        "author": "handyfrequency90"
-      },
-      {
-        "body": "Honestly Amazon has the most to lose here, because the ad business only works if shoppers actually see the shelf. An agent that skips the search page is a nightmare for that. The bank side feels more like a negotiation over who gets to bill whom.",
-        "score": 10,
-        "author": "Equireason"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-02",
+    "savedAt": {
+      "_seconds": 1793632859,
+      "_nanoseconds": 628000000
+    }
   }
 ];
