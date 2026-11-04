@@ -28,42 +28,11 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xlegdw",
-    "title": "Big Tech free cash flow is expected to crater in 2026-27, then explode. Do you buy the 2030 estimates?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xlegdw/big_tech_free_cash_flow_is_expected_to_crater_in/",
-    "author": "ryanmcraver",
-    "score": 266,
-    "selftext": "FT chart (S&P Capital IQ historicals, Bloomberg consensus) of combined free cash flow for Alphabet, Meta, Microsoft and Amazon. Reading the chart roughly: it peaked around $230B in 2024, falls under $100B in 2026-27 as AI capex peaks (Amazon dips negative), then consensus has it passing $400B in 2029 and topping $600B by 2030.\n\n  \nThat's a huge bet on AI monetizing through ads, cloud and commerce. What has to go right for 2029-30 to actually happen, and which of the four is most at risk if it doesn't?",
-    "subreddit": "StockMarket",
-    "created_utc": 1793567194,
-    "thumbnail": "https://preview.redd.it/qdgn7x53g2zh1.jpeg?width=140&height=95&auto=webp&s=d5ee87612040fcbaa0d6066f7cf03c286c9855e5",
-    "top_comments": [
-      {
-        "body": "Sort of. Banks create credit which creates jobs, business, etc. However, in this context everything is ultimately tied to two startups losing very large sums of money making the economy a house of cards. ",
-        "score": 18,
-        "author": "Shapen361"
-      },
-      {
-        "body": "Unless the economy pivots even harder to serving the rich with services, with everyone out of a job there will be no customers when everyone's out of a job.\n\nMaybe we all need to get into yacht-building?",
-        "score": 10,
-        "author": "creepy_doll"
-      },
-      {
-        "body": "Probably but the new tech will be a higher premium number for hardware and software. ",
-        "score": 5,
-        "author": "Pah-Pah-Pah"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-02",
+    "dateString": "2026-11-03",
     "savedAt": {
-      "_seconds": 1793632852,
-      "_nanoseconds": 987000000
+      "_seconds": 1793714213,
+      "_nanoseconds": 867000000
     }
   },
   {
@@ -95,38 +64,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xlwa3j",
-    "title": "Reddit beat its guide and grew revenue 53%, then had its worst day ever (−29%). The 10-Q shows why: US daily users fell 5% in one quarter, all of it logged-out (search) visitors",
-    "url": "https://www.reddit.com/r/investing/comments/1xlwa3j/reddit_beat_its_guide_and_grew_revenue_53_then/",
-    "author": "filingdelta",
-    "score": 260,
-    "selftext": "Reddit reported Q3 after the close on 10/29. Against its own guide it beat again: revenue $895m (guide $860–870m), up 53% year over year; adjusted EBITDA $402m (guide $385–395m); net income $283m. The stock went from $129.60 to $91.73 on 10/30, down 29%.\n\nThe release headline says \"Logged-in DAUq and App DAUq … grew quarter-over-quarter in the US and RoW.\" The 10-Q, filed the next day, has the rest of the user chart. US daily active uniques, in millions:\n\n\\- Q3'25: 51.6 total (23.1 logged-in, 28.5 logged-out)\n\n\\- Q2'26: 53.2 total (23.1 logged-in, 30.1 logged-out)\n\n\\- Q3'26: 50.7 total (23.4 logged-in, 27.3 logged-out)\n\nSo US DAUq fell 5% from Q2 and 2% from a year ago. Logged-in users did grow, by 0.3m. Logged-out users fell by 2.8m in one quarter. The 10-Q says visitors from search engines are \"generally not logged in,\" and explains the flat global number this way: marketing gains were \"offset predominantly by third-party search engine changes.\"\n\nOther things in the 10-Q the headline doesn't cover:\n\n\\- Reddit said in its 10-K it would stop reporting logged-in vs logged-out DAUq starting this quarter. It reversed that, citing \"increased volatility in referral traffic\" as search engines add AI summaries.\n\n\\- US logged-in DAUq has been roughly flat for six quarters: 23.0m in Q1'25, 23.4m now. Global DAUq growth (+12% year over year) is coming from outside the US (+24%), and the 10-Q says it was \"driven by our marketing investments.\" Sales and marketing expense was $209m, up 63% from $129m.\n\n\\- Revenue kept growing because of pricing, not audience. Ad prices were up about 34% year over year and impressions about 15%. US revenue per daily user was $13.82 vs $9.04 a year ago.\n\nThe Q4 guide: revenue $1,000–1,030m, about +40% vs $726m in Q4'25 at the midpoint. Growth has gone 69% (Q1), 61% (Q2), 53% (Q3). Reddit usually beats the top of its range: the Q3 guide midpoint implied about 48% growth and it printed 53%.\n\nHow I'd frame it: the business is monetizing better than ever, but the US audience it monetizes shrank this quarter, and the part that shrank is the one Reddit doesn't control. Pricing can carry revenue past flat users for a while. The question is how long, if US logged-out keeps falling and US logged-in stays near 23m.\n\nWhat I'm watching in Q4: whether US logged-out DAUq (27.3m) stops falling, whether US logged-in (23.4m) finally grows, and whether ad pricing growth (+34%) holds as Q4 laps a strong quarter.\n\nFor holders: what would you need to see next quarter to stay in?",
-    "subreddit": "investing",
-    "created_utc": 1793623729,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "It doesn't matter because the people who buy the ads can track sales conversions from the ads so it doesn't matter if 99% of the users are bots, the sales conversions would be the same and provide the same value as they are before knowing that 99% of users are bots.\n\nThat is unless the bots are buying things.",
-        "score": 8,
-        "author": "Kanolie"
-      },
-      {
-        "body": "If you think bots only make up a small amount of users on Reddit then I've got some magic beans I'd like to sell you",
-        "score": 8,
-        "author": "infinitycurvature"
-      },
-      {
-        "body": "that was like 2-3 weeks ago, no way they are reporting on those numbers",
-        "score": 7,
-        "author": "NotEnoughHoes"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-03",
+    "savedAt": {
+      "_seconds": 1793714214,
+      "_nanoseconds": 934000000
+    }
   },
   {
     "id": "1xmaat9",
@@ -157,141 +100,69 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-03",
+    "savedAt": {
+      "_seconds": 1793714216,
+      "_nanoseconds": 422000000
+    }
   },
   {
-    "id": "1xl4a8w",
-    "title": "The shipping industry has amassed $3 Trillion in cash",
-    "url": "https://www.reddit.com/r/investing/comments/1xl4a8w/the_shipping_industry_has_amassed_3_trillion_in/",
-    "author": "Maritimewarp",
-    "score": 111,
-    "selftext": "The global shipping industry has amassed over 3 Trillion dollars in case over the last five years, according to leading maritime economist Martin Stopford.\n\nThis is from the freight spike coming out of COVID lockdowns, then the US-Russia energy shock, and then this year’s US-Iran war oil supply shock and diesel crunch, in which oil tankers on the Persian Gulf-Far East route are earning $1.3 million PER DAY.\n\nThis dwarfs the cash reserves of the Magnificent 7 tech firms, where the holder of the largest cash reserves is Microsoft with $111.26 billion.\n\nHow can investors best gain exposure to this sector? Is it too late and buying into the top in tanker segment?\n\nIs there like a broader sector index covering tankers, container shipping and dry bulk all together?\n\nLastly are these gargantuan profits made on the back of wars going to be in the sights of governments via a windfall levy or tax?\n\nhttps://www.tradewindsnews.com/opinion/-3trn-question-can-shipping-transform-itself-from-a-climate-laggard-to-a-leader-/2-1-2063906",
+    "id": "1xnfjmf",
+    "title": "Midterms reduce uncertainty",
+    "url": "https://www.reddit.com/r/investing/comments/1xnfjmf/midterms_reduce_uncertainty/",
+    "author": "Creative_Pen7789",
+    "score": 149,
+    "selftext": "There’s a lot of doom and gloom in this sub right now  but historically the midterms have yielded good returns and as the article points out, GDP is expected to grow at a healthy rate into 2027. \n\nIf lawmakers can put forth a sustainable long term deficit reduction plan the bond market can start to relax some and lower bond yields. \n\nhttps://am.jpmorgan.com/us/en/asset-management/institutional/insights/market-insights/market-updates/on-the-minds-of-investors/how-do-markets-perform-post-midterms/",
     "subreddit": "investing",
-    "created_utc": 1793542922,
+    "created_utc": 1793768511,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "in case\" in your first sentence should be \"in cash\". Also the $3T figure is for the whole industry, so comparing it to Microsoft's balance sheet is a bit apples to oranges.",
-        "score": 106,
-        "author": "Realistic_March2756"
+        "body": "Historically democrats have a better track record overall of deficit reduction although I won’t try and litigate that especially since DJT is still in office. In terms of reduction of uncertainty, it’s very unlikely that Trump can pass any broad spending bills in his last years in office. That alone is small victory. ",
+        "score": 117,
+        "author": "Creative_Pen7789"
       },
       {
-        "body": "\"Is it too late to buy into the industry that benefitted the most from a war started in March?\"\n\nYes",
-        "score": 76,
-        "author": "AeneasKurtz"
+        "body": ">If lawmakers can put forth a sustainable long term deficit reduction plan\n\nAnd what makes you think that they have any interest in doing that?",
+        "score": 113,
+        "author": "_unfortuN8"
       },
       {
-        "body": "That article is all over the place. I work in industrial decarbonization and everyone agrees marine will be hard, if not the hardest. NG is a potent GHG but only if it’s vented to the atmosphere unburned. NG is far better from an emissions perspective than bunker/diesel used today. Ammonia is a hydrogen carrier that could be used but it’s quite toxic and corrosive. Plus burned NH3 increases reactive nitrogen and aerosol emissions globally (read: bad for air quality and health). I’ve seen some promising new work in ammonia fuel cells that make power without combustion. \n\nBOAT is a general shipping ETF that has exposure to all the categories you’re looking for. I own a bunch of tanker, bulk, and container companies and those profits usually come back to the share holders in dividends. The rates have been wild recently. ",
-        "score": 29,
-        "author": "crazydr13"
+        "body": "repealing the Trump tax cuts seems like an easy start; revenue collection is so weak after the Bush/Trump tax cuts for minimal gain so it’s low hanging fruit to address a lot of problems",
+        "score": 45,
+        "author": "Xihl"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-02",
-    "savedAt": {
-      "_seconds": 1793632854,
-      "_nanoseconds": 160000000
-    }
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xlg7eu",
-    "title": "Why did $NOW get hated all of a sudden?",
-    "url": "https://www.reddit.com/r/investing/comments/1xlg7eu/why_did_now_get_hated_all_of_a_sudden/",
-    "author": "No-Sea-5276",
-    "score": 47,
-    "selftext": "Can someone explain to me in plain English why $NOW got hammered as much as losing $50B, roughly 1/3 of its market cap, in 1 day?\n\nYes, it’s a double miss for EPS and FCF in Q3 and $NOW lowered its cRPO guidance for Q4.\n\nBut it increased its FCF margin to 36% for 2026 and reduced its capex. While still growing cRPO 21% YoY and FCF 20% YoY.\n\nI don’t get how this business was loved by many people (if not almost everyone) for a few months (especially after partnering with NVIDIA and other hyperscalers) and now it’s hated and the stock drops 30% in 1 trading day.\n\nIs Mr. Market overreacting (once) again?",
-    "subreddit": "investing",
-    "created_utc": 1793571582,
-    "thumbnail": "self",
+    "id": "1xmtqny",
+    "title": "The S&P 500 has been higher a year after all 19 midterms since 1950. Today is number 20",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xmtqny/the_sp_500_has_been_higher_a_year_after_all_19/",
+    "author": "TalVal_Research",
+    "score": 140,
+    "selftext": "With the vote today, here's the S&P 500's record in the 12 months after every midterm since 1950:\n\n\n\n\\- 19 up, 0 down\n\n\\- average gain: about 15%\n\n\\- best: +33% after 1954\n\n\\- worst: +1.1% after 1986, with Black Monday inside that window\n\n\n\nThe short-term pattern is similar: the index rose in 18 of those 19 years from five sessions before the vote to three after. This year those five sessions are already -1.7%.\n\n\n\nTwo things before anyone treats it as a law. Go back to 1874 and it's 32 of 38, so all six misses came before 1950. And this one starts from a weaker spot than most, with a basket of 13 big AI stocks down about 25% in five weeks.\n\n\n\nThe record is about the calendar, not about who wins.\n\n\n\nNo position.",
+    "subreddit": "StockMarket",
+    "created_utc": 1793714569,
+    "thumbnail": "https://preview.redd.it/2hdob0camezh1.png?width=140&height=140&crop=1%3A1%2Csmart&auto=webp&s=a0f3975063296a8327c96ab9813b54fa091ea125",
     "top_comments": [
       {
-        "body": "Uncle Baby Billy, Matrix edition. ",
-        "score": 19,
-        "author": "Peripatetictyl"
+        "body": "The problem is the market averaged a 14% decline leading up to the midterms during the same period. And we were up big. ",
+        "score": 102,
+        "author": "Boring_Clothes5233"
       },
       {
-        "body": "They do suck.  I use Claude and api to make a better bot with SNOW",
+        "body": "This one is unique. Namely, I don't trust Trump to obey the Constitution after he loses one or both houses. There will be a lot of attempts to do things unilaterally, and that causes uncertainty that negates the midterm effect that you're seeing historically.",
+        "score": 46,
+        "author": "AffordableDelousing"
+      },
+      {
+        "body": "fair point, and the usual dip is even deeper: about 17-18% peak to trough in midterm years. this year's worst was \\~9% (jan to march) and the s&p is still +10% ytd. so this one has less of a hole to bounce out of",
         "score": 15,
-        "author": "brownhotdogwater"
-      },
-      {
-        "body": "That’s true but understanding the market’s valuation is important. There’s a big difference between “I don’t think SPCX will disrupt this market like everyone seems to think” vs “I’m going to bet the opposite of what the graph is doing today.”",
-        "score": 13,
-        "author": "TipsyPeanuts"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-02",
-    "savedAt": {
-      "_seconds": 1793632856,
-      "_nanoseconds": 778000000
-    }
-  },
-  {
-    "id": "1xlssyn",
-    "title": "OPay cancels $304 million IPO after $19 pricing, shares never traded",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xlssyn/opay_cancels_304_million_ipo_after_19_pricing/",
-    "author": "Hopeful-Swimming7555",
-    "score": 37,
-    "selftext": "OPay made it to the NYSE opening bell, but never to its first trade. The SoftBank-backed fintech priced 16 million American depositary shares at $19 each before cancelling the offering following a regulatory inquiry in an undisclosed foreign jurisdiction.\n\nPre-opening indications had dropped to $16.25–$16.75, roughly 12%–14.5% below the offer price. Those were preliminary quotes, not executed trades, so this wasn’t a first-day stock decline.\n\nThe cancellation also leaves a separate investment of up to $200 million from a Standard Bank affiliate unresolved, since it depended on the IPO closing.\n\nOPay says operations continue normally, but hasn’t identified the regulator or explained the inquiry. They’d already priced the IPO and rung the bell. What came up at the last minute that stopped the whole thing?\n\nSource:  \n1. [https://www.ebc.com/forex/opay-ipo-cancelled-after-19-pricing](https://www.ebc.com/forex/opay-ipo-cancelled-after-19-pricing)  \n2. [https://www.reuters.com/legal/transactional/softbank-backed-opay-raises-304-million-us-ipo-2026-10-30/](https://www.reuters.com/legal/transactional/softbank-backed-opay-raises-304-million-us-ipo-2026-10-30/)",
-    "subreddit": "StockMarket",
-    "created_utc": 1793612083,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "regulatory inquiry from unnamed jurisdiction right after pricing but before trading starts is basically worst case scenario for a fintech IPO. someone found something serious enough to pull the plug at literally the last minute\n\n  \nthe pre-open indications dropping to 16-something already showed weak demand but that alone wouldnt kill a 304M raise. whatever the regulator flagged must be pretty bad",
-        "score": 19,
-        "author": "RaspyFertilization"
-      },
-      {
-        "body": "Definitely not.. They rang the bell and still had to pull the IPO. Would help if they actually said what the regulatory inquiry was about.",
-        "score": 5,
-        "author": "Hopeful-Swimming7555"
-      },
-      {
-        "body": "If a material issue surfaces in that window, like a regulatory inquiry, the deal can't close on the existing disclosure without legal risk for the company and the underwriters. The usual options are to amend the filing and reprice, or withdraw. Withdrawing is the cleaner choice when the facts aren't known yet, which fits OPay not naming the regulator. The weak pre-open indications probably made that decision easier. At $16.25–$16.75, underwriters would have been supporting a stock trading 12%–14.5% under the offer price on day one. The $200 million Standard Bank investment is the detail to watch. If it is renegotiated rather than cancelled, the inquiry is likely manageable. If it lapses, the problem is bigger than timing.",
-        "score": 4,
-        "author": "Wonderful-Ad-6633"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-02",
-    "savedAt": {
-      "_seconds": 1793632858,
-      "_nanoseconds": 3000000
-    }
-  },
-  {
-    "id": "1xlw1ut",
-    "title": "Since 1970, the S&P 500 has averaged +14.1% in the 6 months after a midterm vs +5.7% in non-midterm years (BlackRock/Bloomberg)",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xlw1ut/since_1970_the_sp_500_has_averaged_141_in_the_6/",
-    "author": "ryanmcraver",
-    "score": 70,
-    "selftext": "Chart is from BlackRock using Bloomberg data through Aug 13, 2026. It averages S&P 500 total return across the 14 midterms since 1970 (1970 to 2022), indexed to election day, versus the same calendar window in non-midterm years. Two things stand out to me. First, the average midterm path dipped heading into election day, then outran non-midterm years by a wide margin over the next \\~126 trading days. Second, it's still only 14 data points, and averages hide some ugly individual years. My read is the \"rally\" is mostly event risk clearing rather than anything about who wins. Curious whether people think this time is different, given where valuations and rates are.\n\nhttps://i.redd.it/o4s7uua827zh1.jpeg\n\n",
-    "subreddit": "StockMarket",
-    "created_utc": 1793623072,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Yea this chart has been circulated too much and there is no way that this midterm year is going to be positive given the amount of times I’ve heard this",
-        "score": 78,
-        "author": "cclickssss"
-      },
-      {
-        "body": "Yeah, the amount of times this has been posted looks like a lot of coping but who knows... We will see ",
-        "score": 26,
-        "author": "IfailAtSchool"
-      },
-      {
-        "body": "Showing this as a spread rather than a line chart would be far more meaningful.",
-        "score": 11,
-        "author": "therealjerseytom"
+        "author": "TalVal_Research"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -299,71 +170,128 @@ window.dailyTrends = [
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xl56w5",
-    "title": "US National Debt: 75% Domestic",
-    "url": "https://www.reddit.com/r/investing/comments/1xl56w5/us_national_debt_75_domestic/",
-    "author": "Shoddy_Ad7511",
-    "score": 58,
-    "selftext": "75-78% of the USA national debt is domestic. So that is about $30 trillion in domestic debt and $10 trillion in foreign debt.\n\nThe USA GDP is about $32 trillion. That is much larger than the $10 trillion in foreign debt.\n\nDomestic debt includes federal trust funds (like Social Security), the Federal Reserve, state and local governments, banks, pension funds, and American individual investors.\n\nSo what does this even mean? Is the fact that close to 80% of the debt is foreign make it less bad?\n\nFor example my uncle holds hundreds of thousands in treasury bills and bonds. He gets paid interest from the US government. \n\nHas the whole national debt issue been overstated? ",
+    "id": "1xmyxx1",
+    "title": "Artificial Intelligence start up Anthropic IPO is scheduled for November 16,",
+    "url": "https://www.reddit.com/r/investing/comments/1xmyxx1/artificial_intelligence_start_up_anthropic_ipo_is/",
+    "author": "mikelane76",
+    "score": 85,
+    "selftext": "What are Investors thoughts on the upcoming IPO for Anthropic, is it expected to be over priced or fair value.\n\nAs a frequent user of Artificial intelligence modes I have my concerns, in relation to consistent reliability. Although it does warn its capable of mistakes, some of them can leave tasks in a fairly raw state at times.\n\nIs the common concensus mass enthusiasm, caution or borderline skepticism ??🤔",
     "subreddit": "investing",
-    "created_utc": 1793545241,
+    "created_utc": 1793726303,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "I'm 30k in debt, 10k to credit card companies, and the other 20k in child support. I keep trying to explain to my kids how it's not that bad if I default, but they just don't understand economics. /s",
-        "score": 19,
-        "author": "Alchohol_Influencer"
+        "body": "Pump means nothing. Long term value is what matters to your average retail investor and neither of them have it. Space X has been a terrible investment for anyone who didn't buy on the IPO date and dump it almost immediately. That's not investing, that's gambling, unless you have insider information, which is a crime. Most people here expect Anthropic to follow a similar pattern since the fundamentals don't match the absolutely insane IPO valuation.",
+        "score": 12,
+        "author": "SheriffBartholomew"
       },
       {
-        "body": "It means Social Security, for people my age, is a ponzi and we're going to get rug-pulled after paying in for our entire working careers. \n\nThat money, properly invested, instead of embezzled and diverted by government thugs, could have provided many Gen-Xers with a comfortable retirement.",
-        "score": 14,
-        "author": "Dr_Zoonotikstein"
+        "body": "Growing very quickly so far. \n\nHowever I don't know how much room to growth outside a 2x-4x  there is.\n\nAlso, some customers, like Revolut, have started switching to offline open weights models",
+        "score": 6,
+        "author": "RadiantReason2063"
       },
       {
-        "body": "It's not as simple as that. \n\nThere's no \"we\" here. The government might owe it to US investors, US banks or the Fed itself. But I do not give a fuck that it's my/foreign government, I want my loan repaid. So there's no us here.\n\nThe point you're talking about is that it's dollar denominated and the government can work in tandem with the Fed and print their way into repaying it. But that has hugely painful implications in itself.\n\nThere's no painless way out of this.",
-        "score": 10,
-        "author": "goodyear_1678"
+        "body": "Both Reddit and SpaceX had huge negative sentiment on reddit leading up to IPO.\n\nThey pumped 48% and 67% respectively. \n\nIf there is high enough subscription to the IPO, i think it might be opportunistic to catch a 30% pump then get out.",
+        "score": 6,
+        "author": "beIIe-and-sebastian"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-02",
-    "savedAt": {
-      "_seconds": 1793632854,
-      "_nanoseconds": 831000000
-    }
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xlb4zb",
-    "title": "The Market Isn’t Buying Skydance’s Balance-Sheet Math",
-    "url": "https://www.reddit.com/r/finance/comments/1xlb4zb/the_market_isnt_buying_skydances_balancesheet_math/",
-    "author": "OverPotato2322",
+    "id": "1xnfhb4",
+    "title": "Cheers to a change in Washington, but WATCH OUT for the falling knife in the markets",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xnfhb4/cheers_to_a_change_in_washington_but_watch_out/",
+    "author": "FinTecGeek",
+    "score": 69,
+    "selftext": "First, I think for many of us we need to take a moment to celebrate this election result. Whether you're truly a Democrat through and through or you are just looking for a rebuke or change to what we've seen, it's a promising (and frankly surprising) election result.\n\nHOWEVER, this Congress has been given a mandate by the people who elected it, and part of that mandate is to head off AI datacenter expansion and regulate AI in a more invasive and burdensome way. AKA, this is going to hurt growth in the AI and hyper-scaling space. I expect we see a fall of many hundreds of points tomorrow in all of the major indices. From a policy perspective, AI and hyper-scaling is not performing well with the American people, and they are sending hundreds of new lawmakers who believe that it is part of their mandate to get government much more involved in that area, even if that means doing some harm to the growth we have been seeing before any good is done here.\n\nThe problem, if this comes to fruition, will show up almost immediately in the credit markets. No one is going to write a 10 year note at these valuations if they believe the business model is about to come under intense intervention by the federal government. Trump (especially in his second term) tends to stick a finger up to see what way the wind blows, and move in that direction as soon as he can. I.e., Trump is not going to be the thing that stands in the way of legislative packages that hinder or slow down growth in AI or hyper-scaling.\n\nI would tell people to be patient, to take another look at their holdings and decide if everything in your portfolio still makes sense given what the largest issues and mandate of the US lawmaking body of 2026 happens to be. In the same way that you don't want to get into the business of \"fighting the Fed\" you also do not want to get into the business of fighting reality. NVDA, who is the most promising asset in the AI space today, sits at a 25x P/E. Fresh positions in the space that are priced much higher than that probably need to be re-evaluated.",
+    "subreddit": "StockMarket",
+    "created_utc": 1793768329,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Biden’s presidency felt like the most predictable market ever, I’ll take boring normalcy over a circus any day.",
+        "score": 7,
+        "author": "TournamentCarrot0"
+      },
+      {
+        "body": "Nah. Trump has tied himself to the Republican name inextricably. For 10 years he's been the face of the Republican party; responsible for everything and nothing.\n\nVoters know who made their lives worse over those 10 years, and today's results are the evidence of that.\n\nThis is 2 years of Dems putting the brakes on Trump's insanity, and then likely 2 years of full Dem control after it.",
+        "score": 6,
+        "author": "Medium_Cod6579"
+      },
+      {
+        "body": "As much as AI has been a talking point, it was on the lower end of things that voters were prioritizing as their main issue, the top 2 being cost of living/affordability and Corruption in government as per exit polling.",
+        "score": 6,
+        "author": "Crater_Animator"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xmza76",
+    "title": "Updated Mega Cap Tech: 10 Years of Operating Income",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xmza76/updated_mega_cap_tech_10_years_of_operating_income/",
+    "author": "Prudent-Corgi3793",
     "score": 46,
-    "selftext": "[Non-Paywall](https://unwall.app/www.wsj.com/finance/the-market-isnt-buying-skydances-balance-sheet-math-11705c2c)",
-    "subreddit": "finance",
-    "created_utc": 1793559249,
+    "selftext": "We have are now through the thick of big tech earnings season, with Alphabet, Microsoft, Amazon, and Apple reporting last week and Meta and Tesla the week prior. While the first five continued to demonstrate impressive year-over-year growth rates, the sentiment has shifted considerably, with the market responding with punishing pullbacks. While specific reasons were different for each company, in general, the market is in a risk-off mode and wants to see indisputable evidence of ROI on their massive capex.\n\nBecause so many of these tech companies--particularly Alphabet, but also Amazon, Nvidia, and Microsoft--are heavily invested in the likes of Anthropic, SpaceX, and Intel, GAAP net income results in severe distortions. In prior quarters, these were extremely favorable tailwinds that make Alphabet and Amazon seem much cheaper than they actually are; this quarter saw the opposite effect. In recent quarters, I have preferred to use operating income instead, as it is not subject to such distortions.\n\nIn my prior post, I showed [four-year graphs](https://www.reddit.com/r/StockMarket/comments/1wugead/mega_cap_tech_earnings_season_update_4_years_into/) of operating income for these companies, plus semiconductor leaders Nvidia, Broadcom, and Micron, which have yet to report this quarter. This corresponded to the start of the AI revolution, set off by the release of ChatGPT on November 30, 2022.\n\nAdditionally, I zoom out to show ten-year graphs of the same companies, which capture downturns from the COVID pandemic of 2020 and the tech sell off of 2022. (For the record, Nvidia, Broadcom, and Micron are set to report on Nov 17, Dec 9, and Dec 23, respectively. Analysts project $68.9 billion for Nvidia, $23.4 billion for Broadcom, and $46.4 billion for Micron for the upcoming quarter, not shown in this graph.)",
+    "subreddit": "StockMarket",
+    "created_utc": 1793727032,
+    "thumbnail": "https://preview.redd.it/e5i5pxx1nfzh1.png?width=140&height=113&auto=webp&s=1b72c8e7bc8a9772589fc9ddd15709a62da2ba89",
+    "top_comments": [
+      {
+        "body": "Tesla fanboys need to take notes from MRVL LITE merge",
+        "score": 18,
+        "author": "Scary-Oven8260"
+      },
+      {
+        "body": "Apple is the most overvalued of the big tech. They haven't innovated in at least ten years. Why is it priced like everybody will own five iPhones? ",
+        "score": 16,
+        "author": "piponwa"
+      },
+      {
+        "body": "I always live this image. Tesla is such bullshit lmao",
+        "score": 11,
+        "author": "RiskBiscuit"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xn26yh",
+    "title": "White House Manufacturing Renaissance Report Highlights Oklo as One of America’s Largest Energy Investments",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xn26yh/white_house_manufacturing_renaissance_report/",
+    "author": "C130J_Darkstar",
+    "score": 41,
+    "selftext": "The White House just released its American Manufacturing Renaissance Report, and Oklo is specifically highlighted in the Energy and Grid Equipment section.\n\nOn page 24, the report identifies Oklo, LIS Technologies, and T1 Energy as the companies behind the largest investments in the sector.\n\nThe report also highlights 71 energy and grid equipment projects totaling $13.7 billion, driven by rising electricity demand, aging infrastructure, and the push to expand domestic manufacturing.\n\nFor a company working to commercialize advanced nuclear reactors, domestic manufacturing capacity and supply chain investment will be critical to scaling deployment.",
+    "subreddit": "StockMarket",
+    "created_utc": 1793733289,
     "thumbnail": "default",
     "top_comments": [
       {
-        "body": "Good. Guess they should spin off into separate companies. ",
+        "body": "Just 10 more dollars off and we are at IPO price",
         "score": 3,
-        "author": "xeoron"
+        "author": "Happy_Emu_2986"
       },
       {
-        "body": "There is usually a level of smoke and mirrors around M&A work. Although the initial deal usually looks good, there is always a question on whether the new revenue streams are sustainable and the entity manageable.",
+        "body": "I follow the sector closely and that seems relatively outdated – they set a world record by going from greenfield to reactor criticality in 11 months with Groves, and are pouring concrete at Aurora-INL today.",
         "score": 2,
-        "author": "hughk"
+        "author": "C130J_Darkstar"
+      },
+      {
+        "body": "Agreed. They had $3B cash as of July, potentially as high as $4B now depending on 9/11 ATM usage and expenses.",
+        "score": 1,
+        "author": "C130J_Darkstar"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-02",
-    "savedAt": {
-      "_seconds": 1793632857,
-      "_nanoseconds": 413000000
-    }
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
     "id": "1xlylh9",
@@ -394,7 +322,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-03",
+    "savedAt": {
+      "_seconds": 1793714218,
+      "_nanoseconds": 987000000
+    }
   },
   {
     "id": "1xm0ndr",
@@ -425,78 +358,135 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-03",
+    "savedAt": {
+      "_seconds": 1793714219,
+      "_nanoseconds": 718000000
+    }
+  },
+  {
+    "id": "1xm03yu",
+    "title": "Marvell to buy Lumentum in all-stock deal, a massive bet on AI connectivity",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xm03yu/marvell_to_buy_lumentum_in_allstock_deal_a/",
+    "author": "TorukMaktoM",
+    "score": 16,
+    "selftext": "Marvell Technology on Monday said it will buy optical components maker Lumentum to address growing connectivity demands from the artificial intelligence infrastructure buildout.\n\n“AI infrastructure is undergoing a fundamental architectural shift toward optical connectivity, creating an opportunity that comes along once in a generation,” said Marvell Chairman and CEO Matt Murphy in a release. “The companies that move first and help define this transition will set the standard for decades to come.”\n\nSince the tie-up is a fixed ratio deal with no cash, the value will depend on the price of Marvell shares. The company said the transaction has an implied enterprise value of $115 billion for Lumentum, in a release.\n\nThrough the acquisition, Marvell said it can combine electrical and optical technologies to meet accelerating and shifting AI connectivity demands across regions and systems. Companies are increasingly relying on optical connections to piece together chips used to run and train large language models.\n\nLumentum shareholders will receive 4.5 Marvell shares for each Lumentum share under the agreement. The deal is expected to close during the first half of 2028.\n\nMarvell’s takeover marks one of the most significant bets on AI in 2026 and comes despite recent concerns over the long-term sustainability of infrastructure spending.\n\nThis isn’t the company’s first bet on AI growth. This year, the company closed a multibillion-dollar deal for Celestial AI, a startup focused on optical interconnectivity technology.\n\nMarvell has seen its market value more than triple over the last three years, buoyed by unrelenting AI enthusiasm. Lumentum’s stock has more than doubled in 2026 alone.",
+    "subreddit": "StockMarket",
+    "created_utc": 1793633056,
+    "thumbnail": "https://external-preview.redd.it/v9kgUXTM2LAqkjVuxYpmp8wNIzTNx4YwV7IxiKFT28M.jpeg?width=140&height=78&auto=webp&s=7c6c4c73f98460908d1f49397f036914c547d033",
+    "top_comments": [
+      {
+        "body": "This is the weirdest acquistion I've ever seen. \n\nLumentum's share price is now tied to Marvell's stock price (every Lumentum share is now 4.5 shares of Marvell).\n\nMarvell is paying a premium and basically buys Lumentum at over $1100.\n\nMarvell needs to dilute to buy Lumentum, so the market sells off Marvell.\n\nMarvel is nowhere close to the $250/share the acquisition price indicates.\n\nSo both stocks are going down and the premium now doesn't exist?",
+        "score": 6,
+        "author": "ga643953"
+      },
+      {
+        "body": "Definitely a punch yourself in the dick kind of purchase. ",
+        "score": 4,
+        "author": "jcpopm"
+      },
+      {
+        "body": "So they want to become Broadcom.",
+        "score": 2,
+        "author": "Fun-Astronomer5311"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xlituk",
-    "title": "SCHG vs. VGT vs. QQQM. Which one?",
-    "url": "https://www.reddit.com/r/investing/comments/1xlituk/schg_vs_vgt_vs_qqqm_which_one/",
-    "author": "ReasonableCold357",
-    "score": 12,
-    "selftext": "I have been heavily investing into SCHG for a few years now, but as I continue to gain more money I am afraid of leaving a lot on the table. For some context I am 28 and have plenty of time to continue investing. I’m just trying to maximize. I know that none of them are losing bets. Thank you!",
+    "id": "1xn64wo",
+    "title": "$DUOL Q3 highlights - Accelerating growth in DAUs and MAUs !",
+    "url": "https://www.reddit.com/r/investing/comments/1xn64wo/duol_q3_highlights_accelerating_growth_in_daus/",
+    "author": "No-Sea-5276",
+    "score": 13,
+    "selftext": "$DUOL just released its Q3 earnings and they are good AND improving !\n\nHere are the users metrics:\n\n\\- DAUs: 64.9M (Est. 63.49M); +29% YoY (up from +23% YoY in Q2)  \n\\- MAUs: 153.1M (Est. 148.53M); +13% YoY\n\nTheir goal is to reach 100M DAUs in 2028 ! At this growth rate they will achieve this milestone around Q2 2028 !\n\nThey also raised guidance for Q4:\n\n\\- Revenue: $322M (Est. $314M)\n\nA very good quarter for DUOL ! Good job !",
     "subreddit": "investing",
-    "created_utc": 1793578669,
+    "created_utc": 1793742190,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "SCHG is the safer choice, but if the tech boom continues VGT.",
-        "score": 7,
-        "author": "InvestingNerd2020"
+        "body": "Good quarter for sure. Daily users kept growing and the stock still lost \\~75% from its 2025 high going into this report, brutal to hold. Personally I count SBC as a real cost, and it was 37% of FCF last year.",
+        "score": 1,
+        "author": "JHgrandgerard"
       },
       {
-        "body": "You've been in SCHG for years and now you're scared of the ticker, not the strategy. SCHG and QQQM are 0.97 correlated and SCHG charges 0.04% against 0.15%, so switching there buys you nothing but a tax bill. VGT is the only real question, and that's just asking whether you want a tech sector fund instead of a large growth fund. At 28 the thing you're leaving on the table is contribution rate, not three basis points of overlap.",
-        "score": 4,
-        "author": "HairyTeacher2565"
+        "body": "I don’t think that they will be focused on paid subscribers’ growth until they reach 100M DAUs (or around that).  \nTheir main goal is to keep DAUs growth around 25/30% YoY quarter after quarter and then bookings will normally come.",
+        "score": 1,
+        "author": "No-Sea-5276"
       },
       {
-        "body": "My SCHD is also booming this year",
-        "score": 3,
-        "author": "Realistic_Support185"
+        "body": "The subscription change in the [shareholder letter](https://www.sec.gov/Archives/edgar/data/1562088/000162828026069474/q3fy26duolingo9-30x26share.htm) caught my eye too. They're moving Video Call into Super and retiring Max. That could make Super an easier sell to free users. Paid subscribers grew 14% versus 29% for daily users this quarter, so I'd watch whether the better Super package starts closing that gap over the next few quarters.",
+        "score": 1,
+        "author": "Fun-Ad4758"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-02",
-    "savedAt": {
-      "_seconds": 1793632859,
-      "_nanoseconds": 52000000
-    }
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xl9mm3",
-    "title": "Is the tech sector a safe long term bet (2 decades plus)?",
-    "url": "https://www.reddit.com/r/investing/comments/1xl9mm3/is_the_tech_sector_a_safe_long_term_bet_2_decades/",
-    "author": "Faithful_Husband",
-    "score": 12,
-    "selftext": "Even if the absurd growth in the sector doesn't continue at the levels seen in recent years, I would think 1: as long as AI integrates into society the way people think it will and 2: people continue to have disposable income then tech will always be a safe bet.\n\nHowever if global market conditions change due to forces such as climate change, then energy and agricultural sectors may see more growth than tech in the future.\n\nI'm also interested in the healthcare sector. AI stands to change a lot about how healthcare is approached, at least in biotech. If AGI or society-wide integration of AI never happens, I believe healthcare stands the most to gain from the research and development of AI. Though, on the other hand, I worry if macroeconomic conditions may force a much larger percentage of the population into being uninsured than many are projecting. Which may limit the returns of these great technological strides in this sector.",
+    "id": "1xn16rw",
+    "title": "How to divest efficiently from concentrated position",
+    "url": "https://www.reddit.com/r/investing/comments/1xn16rw/how_to_divest_efficiently_from_concentrated/",
+    "author": "phovendor54",
+    "score": 13,
+    "selftext": "I have a single company holding across multiple accounts including taxable brokerage and post tax, Roth. In some cases it is very much appreciated in value. In others less so. If I’m looking to divest out slowly to mitigate capital gains and move towards more broadly diversified index funds, how best to go about this?",
     "subreddit": "investing",
-    "created_utc": 1793555704,
+    "created_utc": 1793731132,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Pretty much. VOO already has a good mix of tech, healthcare and energy, so you get all three without having to pick. I'd just add a little extra to whichever sector I believe in most.",
-        "score": 15,
-        "author": "ca-ishajaiswal"
+        "body": "Capital gains are capped at 15% or 20%. As long as you don’t hit the 20% threshold, it doesn’t matter. There are no taxes in Roth ",
+        "score": 6,
+        "author": "Immediate-Run-7085"
       },
       {
-        "body": "Funny thing is, these sectors aren't really competing. AI needs a crazy amount of electricity, so if AI grows, energy grows with it. And people cut almost every other expense before they cut healthcare. I wouldn't try to pick one for 20 years. I'd spread across all three and let them carry each other.",
-        "score": 15,
-        "author": "ca-ishajaiswal"
+        "body": "If it's a significant amount, it's best to consult with a tax professional. \n\nBut if you don't have any other stocks you could, in theory, tax-loss harvest, you are kinda stuck with the tax bill. ",
+        "score": 5,
+        "author": "James161324"
       },
       {
-        "body": "Sometimes stocks go up, sometimes stocks go down.\n\nNothing about sector or thematic equity investing is safe. There is exponential volatility with higher concentrations of holdings.\n\nIf you're trying to recklessly predict the future with the flimsy ideas you are writting about, you're going to be dissappointed. Do not put all your eggs in one basket and have a healthy broad market core for your portfolio.",
-        "score": 7,
-        "author": "SerMumble"
+        "body": "The point is that it's the same total tax burden if say you had $250k in unrealized long-term capital gains, and sold it all in one year, versus splitting it across 5 years. \n\nSo for that reason you really don't need to do things slowly, unless, as the other guy noted, you get up to like $500k+ and you get to the 20% LTCG rate.",
+        "score": 3,
+        "author": "therealjerseytom"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-02",
-    "savedAt": {
-      "_seconds": 1793632859,
-      "_nanoseconds": 628000000
-    }
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xm52o3",
+    "title": "\"Apple runs up into earnings, then gets sold\" has been a coin flip for 4 yrs",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xm52o3/apple_runs_up_into_earnings_then_gets_sold_has/",
+    "author": "dagilisek",
+    "score": 13,
+    "selftext": "Apple reports tonight, so I looked at the last 16 reports, Oct 2022 to Jul 2026. It ran up in the 5 days before 10 of them, and after those 10 it was up the next day 5 times and down 5. Overall it's been 7 up and 9 down with a typical move around 2.5%.\n\nSo neither selling before nor holding through has had much of an edge. What do you do with Apple on earnings night?",
+    "subreddit": "StockMarket",
+    "created_utc": 1793643810,
+    "thumbnail": "https://preview.redd.it/j1ya3raxr8zh1.png?width=140&height=60&auto=webp&s=ffa176a5f4f43472f5493f39dc3eeb5a623af053",
+    "top_comments": [
+      {
+        "body": "Markets treating earnings like a roulette spin, the chart just confirms nobody actually knows which way it'll crack.",
+        "score": 5,
+        "author": "IntriguedRetailer1"
+      },
+      {
+        "body": "What I do is buy and hold long term investments and slow increase positions when I can.",
+        "score": 4,
+        "author": "AnonymousFirm"
+      },
+      {
+        "body": "Only the price move, report day close to next day close. I didn't split it by beat or miss or look at guidance so I can't say what drove the up or down days.",
+        "score": 1,
+        "author": "dagilisek"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   }
 ];
