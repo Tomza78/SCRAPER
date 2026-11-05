@@ -1,113 +1,5 @@
 window.dailyTrends = [
   {
-    "id": "1xm901d",
-    "title": "US$700Bn wiped out in 2.5 hours",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xm901d/us700bn_wiped_out_in_25_hours/",
-    "author": "An_Unorthodox_Soul",
-    "score": 11714,
-    "selftext": "Major corrections underway as the stock market continues to be painful for AI & Tech stocks. Whether this would lead to an ultimate popping of this supposed bubble or not remains to be seen, but as of now - it's most likely just a correction and regular dip and not the beginning of any major stock market crash or popping of an AI bubble",
-    "subreddit": "StockMarket",
-    "created_utc": 1793652395,
-    "thumbnail": "https://preview.redd.it/k34tnnfgh9zh1.jpeg?width=140&height=72&auto=webp&s=b13e3a696e60b90488bc49485f0ce0a8e7255bad",
-    "top_comments": [
-      {
-        "body": "\"it's most likely just a correction and regular dip\" - reminds me of what people were saying in the early phases of 2008.",
-        "score": 1,
-        "author": "dillanthumous"
-      },
-      {
-        "body": "If the bubble does pop, would that be the end of data centers?",
-        "score": 1,
-        "author": "StrongAsMeat"
-      },
-      {
-        "body": "It's just some numbers really. And the YTD numbers still look fine for many companies... for now.",
-        "score": 1,
-        "author": "Horizontalgewerbe"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-03",
-    "savedAt": {
-      "_seconds": 1793714213,
-      "_nanoseconds": 867000000
-    }
-  },
-  {
-    "id": "1xmi9dp",
-    "title": "Breaking: US Reportedly strikes Iran’s Qeshm Island",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xmi9dp/breaking_us_reportedly_strikes_irans_qeshm_island/",
-    "author": "Equivalent-Ice-7274",
-    "score": 284,
-    "selftext": "U.S. reportedly strikes Iran's Qeshm Island as Vance seeks ‘settlement’   \nThe U.S. reportedly carried out strikes against Iran on Monday. America attacked Iran’s Qeshm Island, U.S. officials told The Wall Street Journal, which added that Washington has been carrying out “limited strikes” against the country in recent weeks. The military campaign against Iran has been kept quiet on purpose so as not to signal any intention of major combat escalation, the report said, quoting an unnamed official.\n\nhttps://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html?\\_\\_source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",
-    "subreddit": "StockMarket",
-    "created_utc": 1793676417,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "It's unbelievable that we're waging a months long war with Iran with no congressional approval because 🤷",
-        "score": 58,
-        "author": "JHam67"
-      },
-      {
-        "body": "I don’t want a break, I and sane people want an end. ",
-        "score": 54,
-        "author": "Reddituser183"
-      },
-      {
-        "body": "Didnt you hear? The president has just announced that he has kept MORE promises than he even made! Amazing, can you believe that?! More promises kept than made. No other president has been able to do that. ",
-        "score": 51,
-        "author": "silent_fartface"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-03",
-    "savedAt": {
-      "_seconds": 1793714214,
-      "_nanoseconds": 934000000
-    }
-  },
-  {
-    "id": "1xmaat9",
-    "title": "Apple beats in John Ternus's first quarter as CEO: $114.48B revenue, $2.10 EPS, iPhone $57.58B",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xmaat9/apple_beats_in_john_ternuss_first_quarter_as_ceo/",
-    "author": "Holywizy",
-    "score": 171,
-    "selftext": "Apple just reported fiscal Q4 2026, the first quarter with John Ternus as CEO after Tim Cook stepped down in September.\n\nThe numbers vs estimates (LSEG, via CNBC):\n\n\\- Revenue: $114.48B vs $113.39B expected, up about 12% from $102.5B a year ago. Apple had guided 9% to 11%.\n\n\\- EPS: $2.10 vs $1.99 expected, up from $1.85.\n\n\\- iPhone: $57.58B vs $56.54B expected, with only about 8 days of iPhone 18 Pro sales in the quarter.\n\n\\- iPad came in short of estimates.\n\nThe foldable iPhone Duo launched Oct 23, after the quarter ended, so it isn't in these numbers at all.\n\nThe stock closed at $338.32 (down 1.83%) and was trading around $335 after hours, roughly 1% lower, after swinging between small gains and losses. Apple went into this report at its highest P/E since 2007 with a market cap near $5T, and last quarter it also beat but fell on a weak forecast.\n\nSo the real test is the 5pm ET call: December-quarter guidance, how much memory chip costs hit margins, and China.\n\nDo you think a clean beat is enough at this valuation, or is it all about the holiday guidance?\n\nFull breakdown: https://holywizy.com/blog/apple-q4-2026-earnings-beat-iphone-57-billion-ternus-first-report/",
-    "subreddit": "StockMarket",
-    "created_utc": 1793655374,
-    "thumbnail": "https://preview.redd.it/gw21uf9bq9zh1.jpeg?width=140&height=73&auto=webp&s=98969384bbdc83ce9211c7190ad273c0b583fa9e",
-    "top_comments": [
-      {
-        "body": "Watch it open sub 330 😂, very little movement so far, guessing people waiting on the guidance still.",
-        "score": 27,
-        "author": "GreenRatJuice"
-      },
-      {
-        "body": "Not Good enough. \n\nCommence massive sell off \n\nS/ but don’t expect a big run up. ",
-        "score": 12,
-        "author": "toxichaste12"
-      },
-      {
-        "body": "Are we ignoring that 5c of the 10c EPS beat was solely due to a tariff refund?",
-        "score": 7,
-        "author": "Sterben27"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-03",
-    "savedAt": {
-      "_seconds": 1793714216,
-      "_nanoseconds": 422000000
-    }
-  },
-  {
     "id": "1xnfjmf",
     "title": "Midterms reduce uncertainty",
     "url": "https://www.reddit.com/r/investing/comments/1xnfjmf/midterms_reduce_uncertainty/",
@@ -136,38 +28,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xmtqny",
-    "title": "The S&P 500 has been higher a year after all 19 midterms since 1950. Today is number 20",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xmtqny/the_sp_500_has_been_higher_a_year_after_all_19/",
-    "author": "TalVal_Research",
-    "score": 140,
-    "selftext": "With the vote today, here's the S&P 500's record in the 12 months after every midterm since 1950:\n\n\n\n\\- 19 up, 0 down\n\n\\- average gain: about 15%\n\n\\- best: +33% after 1954\n\n\\- worst: +1.1% after 1986, with Black Monday inside that window\n\n\n\nThe short-term pattern is similar: the index rose in 18 of those 19 years from five sessions before the vote to three after. This year those five sessions are already -1.7%.\n\n\n\nTwo things before anyone treats it as a law. Go back to 1874 and it's 32 of 38, so all six misses came before 1950. And this one starts from a weaker spot than most, with a basket of 13 big AI stocks down about 25% in five weeks.\n\n\n\nThe record is about the calendar, not about who wins.\n\n\n\nNo position.",
-    "subreddit": "StockMarket",
-    "created_utc": 1793714569,
-    "thumbnail": "https://preview.redd.it/2hdob0camezh1.png?width=140&height=140&crop=1%3A1%2Csmart&auto=webp&s=a0f3975063296a8327c96ab9813b54fa091ea125",
-    "top_comments": [
-      {
-        "body": "The problem is the market averaged a 14% decline leading up to the midterms during the same period. And we were up big. ",
-        "score": 102,
-        "author": "Boring_Clothes5233"
-      },
-      {
-        "body": "This one is unique. Namely, I don't trust Trump to obey the Constitution after he loses one or both houses. There will be a lot of attempts to do things unilaterally, and that causes uncertainty that negates the midterm effect that you're seeing historically.",
-        "score": 46,
-        "author": "AffordableDelousing"
-      },
-      {
-        "body": "fair point, and the usual dip is even deeper: about 17-18% peak to trough in midterm years. this year's worst was \\~9% (jan to march) and the s&p is still +10% ytd. so this one has less of a hole to bounce out of",
-        "score": 15,
-        "author": "TalVal_Research"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-04",
+    "savedAt": {
+      "_seconds": 1793801357,
+      "_nanoseconds": 28000000
+    }
   },
   {
     "id": "1xmyxx1",
@@ -198,7 +64,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-04",
+    "savedAt": {
+      "_seconds": 1793801358,
+      "_nanoseconds": 286000000
+    }
   },
   {
     "id": "1xnfhb4",
@@ -225,6 +96,42 @@ window.dailyTrends = [
         "body": "As much as AI has been a talking point, it was on the lower end of things that voters were prioritizing as their main issue, the top 2 being cost of living/affordability and Corruption in government as per exit polling.",
         "score": 6,
         "author": "Crater_Animator"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-04",
+    "savedAt": {
+      "_seconds": 1793801359,
+      "_nanoseconds": 94000000
+    }
+  },
+  {
+    "id": "1xnzxr4",
+    "title": "I'm not sure Google cutting AI spendings would make the stock a better buy",
+    "url": "https://www.reddit.com/r/investing/comments/1xnzxr4/im_not_sure_google_cutting_ai_spendings_would/",
+    "author": "Ok_Look1742",
+    "score": 77,
+    "selftext": "Right off the bat! I'm not convinced cutting AI spending would make me more bullish on Google because it would only help cash flow but wouldn't remove the threat to Search. What I'm trying to separate is spending that adds a new source of profit from spending needed to keep the existing business competitive. Then I saw this [breakdown](https://ramp.com/leading-indicators/nightmare-on-wall-street) from Ramp which points to weaker monetization in AI Overviews which is where the investment case gets harder for me. If more searches become AI answers that earn less and cost more to serve then Google could retain its users while making less money from them.\n\nMy concern is that waiting for capex to fall assumes too much about what comes after since lower spending would improve free cash flow without necessarily fixing weaker Search margins. The bull case I'd take more seriously is cheaper inference closing that gap and Cloud generating enough additional profit to justify the buildout. Until then I'd want to value GOOGL with lower Search margins and continued infrastructure spending rather than assume both recover.",
+    "subreddit": "investing",
+    "created_utc": 1793826410,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Spend too much: upset investors\n\nDon’t spend enough: become irrelevant \n\nPick one",
+        "score": 79,
+        "author": "seeyam14"
+      },
+      {
+        "body": "Third option is keep spending and accept a lower multiple until the returns justify it. The company can make the right call without the stock going up.",
+        "score": 19,
+        "author": "Wonderful_Depth1055"
+      },
+      {
+        "body": "AI answers are just searches. AI isn't an alternative to search. It can't search innately. Never has. It doesn't have an index. It just runs a search behind the scenes and then summarizes roughly the first page of results.  I'm not convinced there is a threat to search, beyond Google simply not prioritizing search such that the product has become worse - which definitely appears to be the case across the Google portfolio.",
+        "score": 13,
+        "author": "Notwerk"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -260,7 +167,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-04",
+    "savedAt": {
+      "_seconds": 1793801359,
+      "_nanoseconds": 646000000
+    }
   },
   {
     "id": "1xn26yh",
@@ -291,105 +203,69 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-04",
+    "savedAt": {
+      "_seconds": 1793801360,
+      "_nanoseconds": 188000000
+    }
+  },
+  {
+    "id": "1xnnv5z",
+    "title": "Wall Street Rallies After Democratic Midterm Victory Why Are Markets Betting on Political Gridlock?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xnnv5z/wall_street_rallies_after_democratic_midterm/",
+    "author": "Illustrious_Lie_954",
+    "score": 47,
+    "selftext": "&#x200B;\n\nThe US stock market's reaction to the midterm election results is an interesting reminder that markets don't necessarily reward political victories themselves. Sometimes, they reward the reduction of uncertainty.\n\nFollowing the Democrats' decisive victories in both the House and Senate, US stock futures staged a sharp rebound. Dow futures jumped more than 800 points, while S&P 500 futures gained around 1% and Nasdaq-100 futures advanced 0.5%. The initial overnight weakness quickly turned into a broad recovery after President Donald Trump indicated that he was willing to accept the results and work with Democrats.\n\nBut what exactly are investors celebrating?\n\n1. Political gridlock could reduce policy uncertainty\n\nOne of the biggest takeaways is that Wall Street appears comfortable with a divided government. With Democrats controlling Congress, Trump's ability to push through additional policy changes could face greater resistance.\n\nMarkets generally prefer predictability. Sudden changes in tariffs, taxation, regulation and government spending can make it difficult for companies to plan capital expenditure and investors to estimate future earnings.\n\nThis doesn't necessarily mean divided government is always good for the economy. However, fewer major policy surprises can sometimes create a more stable investment environment.\n\n2. The AI infrastructure trade faces a new challenge\n\nNot every sector benefited from the election outcome.\n\nThe prospect of tighter restrictions on data centres, particularly in Texas, created fresh concerns for companies exposed to the AI infrastructure boom. Oracle and CoreWeave came under pressure as investors reassessed the regulatory outlook. This is worth watching because the AI investment cycle depends heavily on enormous capital expenditure in data centres, electricity infrastructure, semiconductor capacity and cooling systems. If regulatory restrictions delay data-centre construction, companies could face higher costs, slower project execution and potentially weaker returns on invested capital.\n\nThe broader question is whether the AI infrastructure boom can maintain its momentum if local governments become more cautious about energy consumption, land use and environmental impact.\n\n3. Healthcare and renewable energy stocks gain attention\n\nHealthcare companies and solar-related stocks also moved higher following the results. UnitedHealth, Molina Healthcare and Centene advanced, while the Invesco Solar ETF recorded a significant gain.\n\nThis suggests investors are already positioning for potential changes in healthcare and energy policy.\n\nHowever, political expectations can move share prices faster than actual earnings. The real test will be whether policy changes translate into stronger revenues, improved margins and sustainable cash flows.\n\n4. Oil prices could become an important macroeconomic factor\n\nAnother interesting development is the possibility that a change in political dynamics could encourage progress towards resolving the Middle East conflict. WTI crude was down around 1% in the reported session. If geopolitical tensions ease and oil prices decline sustainably, it could provide some relief to inflation and potentially give the Federal Reserve more room to manage monetary policy.\n\nBut this remains a possibility, not a certainty. Oil prices will continue to depend on actual developments in the region, global supply and demand, and OPEC+ decisions.\n\nInvestment takeaway\n\nI think the most important signal from this rally is the market's preference for policy stability over political dominance.\n\nBut investors should be careful about treating one strong futures session as confirmation of a new bull-market trend. The underlying fundamentals still matter: corporate earnings, Treasury yields, inflation, energy prices and the sustainability of AI-related capital expenditure.\n\nThere may also be an interesting sector rotation developing. Traditional consumer and financial stocks could benefit from greater policy visibility, while AI infrastructure companies may face a more complicated regulatory environment.\n\n1. Is Wall Street genuinely bullish on a divided government, or is this simply a short-term relief rally after political uncertainty?\n\n2. Could tighter data-centre regulations become a serious headwind for the AI investment cycle?\n\n3. If oil prices decline and inflation moderates, could this become a positive catalyst for equities and the Federal Reserve's rate outlook?\n\nI'd be particularly interested in hearing how investors are positioning their portfolios following these developments. Are you looking at this as a buying opportunity, or waiting for the policy and earnings picture to become clearer?",
+    "subreddit": "StockMarket",
+    "created_utc": 1793797968,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "AI slop aside, Trump is a volatile child. Markets like predictable. ",
+        "score": 51,
+        "author": "ResponsibleWater1697"
+      },
+      {
+        "body": "Have you all seen DJT, spacex and Tesla 😂 ",
+        "score": 17,
+        "author": "cunextu"
+      },
+      {
+        "body": "Elon? Fiduciary duty? Did you laugh while writing this?",
+        "score": 12,
+        "author": "netcoder"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xlylh9",
-    "title": "Anthropic's IPO: Can unprecedented revenue growth outrun 'irresponsibly large' investment?",
-    "url": "https://www.reddit.com/r/investing/comments/1xlylh9/anthropics_ipo_can_unprecedented_revenue_growth/",
-    "author": "condemnedofafish",
-    "score": 27,
-    "selftext": "[Based on this review of Anthropic's S1](https://leonlins.com/writing/anthropic_ipo), looks like the bull vs bear case is:\n\n1. How long do you extrapolate high, unprecedented revenue growth rates and customer retention rates? Do open models and current usage restriction trends become a large enough headwind to dent the bull case? \n2. Do you wait for more of their planned capex spend to hit financials to better understand the impact? Will wall street care about this, or is it already factored in to expectations? The company is already soft guiding towards much greater cash burn, will this actually be a surprise?\n3. Their channel fee take rates seem to be getting worse, even as they get more revenue from channel partners (hyperscalers). Is this an issue?\n\nSeems expensive at IPO valuation but what could change your mind?",
+    "id": "1xnrx5m",
+    "title": "I would like some help as a new guy",
+    "url": "https://www.reddit.com/r/investing/comments/1xnrx5m/i_would_like_some_help_as_a_new_guy/",
+    "author": "manskin21",
+    "score": 21,
+    "selftext": "I work for a large company that manages my retirement. This includes 401k matching, and stock options. I have a decent amount in retirement at 32yo. I am being gifted 10k. What can or should I do with it to be a bit risky but not something I have to go back and look at alot? Treat me like a 5th grader please.",
     "subreddit": "investing",
-    "created_utc": 1793629557,
+    "created_utc": 1793808050,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Is it irresponsible spending when the revenue growth looks like this with an operating margin?",
-        "score": 9,
-        "author": "JustBrowsinAndVibin"
+        "body": "Put the 10k in context for us. How much do you have in 401(k) and Roth IRA?",
+        "score": 5,
+        "author": "Oh_he_steal"
       },
       {
-        "body": "As a developer, Claude code has drastically improved my productivity. I have to correct it on certain things, but I have the experience to often spot issues. I can let it run in the background, while I focus on other things, and it’s greatly reduced my mental load so I’m not completely drained from working through difficult issues in the logic of my code.\n\nThis of course doesn’t translate to every field, but the productivity gains are immense in my work. ",
-        "score": 7,
-        "author": "electric_seesaw"
-      },
-      {
-        "body": "Look like he's coming in around the rumoured IPO valuation, so not that attractive of a price for either bull/bear scenario \n\n> I will keep an open mind and wait for Anthropic to be priced for its IPO, and if it is priced well above my estimate of $1.48 trillion, I will sit out the frenzy",
-        "score": 7,
-        "author": "condemnedofafish"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-03",
-    "savedAt": {
-      "_seconds": 1793714218,
-      "_nanoseconds": 987000000
-    }
-  },
-  {
-    "id": "1xm0ndr",
-    "title": "Too late to enter Energy or Healthcare?",
-    "url": "https://www.reddit.com/r/investing/comments/1xm0ndr/too_late_to_enter_energy_or_healthcare/",
-    "author": "brian-augustin",
-    "score": 15,
-    "selftext": "I was in energy the beginning of the year, switched to tech (bad idea) now seeing healthcare and energy run, is it too late to enter these sectors? \n\n  \n[https://imgur.com/4NCbJGE](https://imgur.com/4NCbJGE)\n\n[https://imgur.com/8g6B1Ae](https://imgur.com/8g6B1Ae)",
-    "subreddit": "investing",
-    "created_utc": 1793634253,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Too late? As in do we think this is the top, right now? Better to just buy and hold the broad market rather than try to chase trends like this anyway ",
-        "score": 17,
-        "author": "leaning_on_a_wheel"
-      },
-      {
-        "body": "fair, guessing which sector is the top is mostly a coin flip. op already switched once and regretted it, so jumping again after a big run kind of feels like repeating the same move",
-        "score": 9,
-        "author": "BuyTheDipWeekly"
-      },
-      {
-        "body": "If you invested in the broad tech sector before April, you made 20% basically, more than the broad market. After that the tech sector was volatile but more or less flat.\n\nIf you did lose significant money, it's due to specific unlucky market timing or investing in specific stocks that did under perform. And the teaching isn't necessarily that you did select the wrong sector.",
-        "score": 3,
-        "author": "nicolas_06"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-03",
-    "savedAt": {
-      "_seconds": 1793714219,
-      "_nanoseconds": 718000000
-    }
-  },
-  {
-    "id": "1xm03yu",
-    "title": "Marvell to buy Lumentum in all-stock deal, a massive bet on AI connectivity",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xm03yu/marvell_to_buy_lumentum_in_allstock_deal_a/",
-    "author": "TorukMaktoM",
-    "score": 16,
-    "selftext": "Marvell Technology on Monday said it will buy optical components maker Lumentum to address growing connectivity demands from the artificial intelligence infrastructure buildout.\n\n“AI infrastructure is undergoing a fundamental architectural shift toward optical connectivity, creating an opportunity that comes along once in a generation,” said Marvell Chairman and CEO Matt Murphy in a release. “The companies that move first and help define this transition will set the standard for decades to come.”\n\nSince the tie-up is a fixed ratio deal with no cash, the value will depend on the price of Marvell shares. The company said the transaction has an implied enterprise value of $115 billion for Lumentum, in a release.\n\nThrough the acquisition, Marvell said it can combine electrical and optical technologies to meet accelerating and shifting AI connectivity demands across regions and systems. Companies are increasingly relying on optical connections to piece together chips used to run and train large language models.\n\nLumentum shareholders will receive 4.5 Marvell shares for each Lumentum share under the agreement. The deal is expected to close during the first half of 2028.\n\nMarvell’s takeover marks one of the most significant bets on AI in 2026 and comes despite recent concerns over the long-term sustainability of infrastructure spending.\n\nThis isn’t the company’s first bet on AI growth. This year, the company closed a multibillion-dollar deal for Celestial AI, a startup focused on optical interconnectivity technology.\n\nMarvell has seen its market value more than triple over the last three years, buoyed by unrelenting AI enthusiasm. Lumentum’s stock has more than doubled in 2026 alone.",
-    "subreddit": "StockMarket",
-    "created_utc": 1793633056,
-    "thumbnail": "https://external-preview.redd.it/v9kgUXTM2LAqkjVuxYpmp8wNIzTNx4YwV7IxiKFT28M.jpeg?width=140&height=78&auto=webp&s=7c6c4c73f98460908d1f49397f036914c547d033",
-    "top_comments": [
-      {
-        "body": "This is the weirdest acquistion I've ever seen. \n\nLumentum's share price is now tied to Marvell's stock price (every Lumentum share is now 4.5 shares of Marvell).\n\nMarvell is paying a premium and basically buys Lumentum at over $1100.\n\nMarvell needs to dilute to buy Lumentum, so the market sells off Marvell.\n\nMarvel is nowhere close to the $250/share the acquisition price indicates.\n\nSo both stocks are going down and the premium now doesn't exist?",
-        "score": 6,
-        "author": "ga643953"
-      },
-      {
-        "body": "Definitely a punch yourself in the dick kind of purchase. ",
+        "body": "Honestly.  Take it all into a HSA and then figure out your needs.\n\nEveryone saying invest in your 401k or a Roth is wrong if you don’t have an emergency fund",
         "score": 4,
-        "author": "jcpopm"
+        "author": "CoatAlternative1771"
       },
       {
-        "body": "So they want to become Broadcom.",
-        "score": 2,
-        "author": "Fun-Astronomer5311"
+        "body": "That would help if I knew what I was doing. Most of it invests back into the stock of the company and most people that retire from the company retire wealthy",
+        "score": 3,
+        "author": "manskin21"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -425,6 +301,42 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-04",
+    "savedAt": {
+      "_seconds": 1793801361,
+      "_nanoseconds": 628000000
+    }
+  },
+  {
+    "id": "1xnnft6",
+    "title": "Supermicro quadrupled revenue to $19.9bn and earned $1.6bn last quarter. Cash from operations was still negative (−$434m), and the full-year guide implies smaller quarters in the second half",
+    "url": "https://www.reddit.com/r/investing/comments/1xnnft6/supermicro_quadrupled_revenue_to_199bn_and_earned/",
+    "author": "filingdelta",
+    "score": 15,
+    "selftext": "Supermicro (SMCI) reported its September quarter (Q1 of fiscal 2027) on 11/3. The headline numbers are huge:\n\n\\- Revenue $19.9bn, vs $5.0bn a year ago and $11.1bn last quarter\n\n\\- Net income $1.59bn, vs $168m a year ago\n\n\\- Original guide in August was $14.5–15.5bn. On 10/20 they pre-announced $18.5–19.5bn. Actual came in above that too.\n\nWhat the release doesn't put up front is the cash flow statement. Operating cash flow was −$434m on $1.59bn of net income. Two lines explain it:\n\n\\- Accounts receivable up $3.56bn (to $9.69bn from $6.13bn in June)\n\n\\- Inventory up $2.48bn (to $15.05bn from $12.90bn)\n\nWhat kept it from being much worse: deferred revenue, which is mostly customers paying ahead, rose $3.05bn. Current deferred revenue went from $1.58bn to $4.33bn in one quarter. Without that, operating cash flow would have been roughly −$3.5bn.\n\nTo be fair to the company, this looks like growth eating cash rather than collection problems. Receivables were about 44 days of sales vs about 50 last quarter, and inventory turned faster too. But it means the record profit didn't turn into cash. Cash fell to $6.90bn from $7.52bn, against $8.6bn of bank debt and convertible notes.\n\nThe guidance is the other thing worth reading closely:\n\n\\- Q2 (December quarter): $19.5–21.5bn, so roughly flat with Q1 at the midpoint ($20.5bn)\n\n\\- Full fiscal year 2027: $72–82bn\n\nQ1 actual plus the Q2 midpoint is about $40.5bn. At the $77bn full-year midpoint, that leaves about $36.6bn for the second half, or about $18.3bn a quarter, below the $19.9bn just reported. Even at the top of both ranges, the second half averages about $20.3bn a quarter, flat with Q2. So the guide doesn't assume growth continues past December.\n\nMargins also came down from last quarter: gross margin 12.7% vs 17.5% in the June quarter (which was unusually high; it was 9.9% the quarter before). On 10/20 the company attributed Q1 margin to customer and product mix.\n\nHow I'd frame it: demand isn't the question this quarter, it's how much of each dollar of revenue Supermicro has to finance before it gets paid, and whether the second half really is flat. The 10-Q (not filed yet) should show customer concentration and the backlog detail.\n\nWhat I'm watching:\n\n\\- Operating cash flow turning positive as Q1 receivables are collected\n\n\\- Deferred revenue: does it keep rising (more prepaid orders) or start to fall as orders ship?\n\n\\- Whether the full-year range moves up or down at the December quarter\n\nFor holders: what would you need to see in the 10-Q?\n\nNote: the release says its figures are preliminary and may change before the 10-Q.\n\nNot investment advice.",
+    "subreddit": "investing",
+    "created_utc": 1793796774,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "how quickly accounting fraud is forgotten",
+        "score": 5,
+        "author": "Acceptable_Action_10"
+      },
+      {
+        "body": "SMCI has never been a good business ",
+        "score": 4,
+        "author": "Disastrous_Rent_6500"
+      },
+      {
+        "body": "the margin line is the other half of it. gross margin was 12.7% vs 17.5% the quarter before, so revenue almost doubled but net income only went from 1.18b to 1.59b. and the Q2 EPS guide of 1.59 to 1.83 is basically flat with the 1.75 they just did",
+        "score": 3,
+        "author": "Insighthread"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
@@ -456,33 +368,126 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-04",
+    "savedAt": {
+      "_seconds": 1793801362,
+      "_nanoseconds": 115000000
+    }
+  },
+  {
+    "id": "1xnmkjp",
+    "title": "VOO and hold - how do you DCA?",
+    "url": "https://www.reddit.com/r/investing/comments/1xnmkjp/voo_and_hold_how_do_you_dca/",
+    "author": "Chickenchoker2000",
+    "score": 14,
+    "selftext": "When buying VOO, and trying to regularly add to your holding, how are you purchasing?\n\nWith VOO around $694USD, how much are you purchasing each time you add?  \n\nI see some people stating that they add VOO each month, but at that price per share, and with many brokerages charging a trade fee (even if it is modest), are you buying a full 100 block or fractions?\n\nIt just seems difficult to purchase just a single share per month (at least with my brokerage in Canada), where you are charged extra if you don’t buy a full block and there is a per transaction fee. \n\nJust wondering if it is because of the platform that people are using or it’s something else. ",
+    "subreddit": "investing",
+    "created_utc": 1793794100,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Small correction, but DCA means a fixed dollar amount each time, not a fixed number of shares. Also a 100-share block of VOO at $694 works out to about $69,400, so I doubt that's the threshold your brokerage has in mind.",
+        "score": 33,
+        "author": "Maleficent_Deer_1113"
+      },
+      {
+        "body": "Yea maybe switch brokerage. I don't think Fidelity charges extra for fractional share buying.",
+        "score": 12,
+        "author": "b1gb0n312"
+      },
+      {
+        "body": "> are you buying a full 100 block or fractions?\n\nBuying stocks in blocks of 100 shares at a time hasn't been commonplace in retail investing for decades, dude. Likewise with trading fees. \n\nIf your brokerage doesn't have fractional share investing, just buy what you can when you can. \n\nOr if you really want you can find ETFs that track the same index at a lower price per share, like SPYM.",
+        "score": 11,
+        "author": "therealjerseytom"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xm52o3",
-    "title": "\"Apple runs up into earnings, then gets sold\" has been a coin flip for 4 yrs",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xm52o3/apple_runs_up_into_earnings_then_gets_sold_has/",
-    "author": "dagilisek",
-    "score": 13,
-    "selftext": "Apple reports tonight, so I looked at the last 16 reports, Oct 2022 to Jul 2026. It ran up in the 5 days before 10 of them, and after those 10 it was up the next day 5 times and down 5. Overall it's been 7 up and 9 down with a typical move around 2.5%.\n\nSo neither selling before nor holding through has had much of an edge. What do you do with Apple on earnings night?",
+    "id": "1xn1k0s",
+    "title": "Mega Cap Tech & Valuation Ratios",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xn1k0s/mega_cap_tech_valuation_ratios/",
+    "author": "beerion",
+    "score": 12,
+    "selftext": "I saw [This Post](https://www.reddit.com/r/StockMarket/comments/1xmza76/updated_mega_cap_tech_10_years_of_operating_income/) and thought it might be useful to see the overlay of P/E (dashed) and P/NOPAT (solid) on these charts. \n\nThings that jump out:\n\n* Alphabet's equity gains contribution really shows up in the gap between P/E and P/NOPAT lines. \n* Amazon's P-to-whatever ratios were pretty crazy the last decade. It's no surprise that it's been one of the laggards among the group. \n* Tesla is the obvious winner in that regard, though. Valuations are undefeated when they get 'that' crazy. \n* The hardware names are getting super cheap. The question now is: are the earnings at a cycle top? \n\n",
     "subreddit": "StockMarket",
-    "created_utc": 1793643810,
-    "thumbnail": "https://preview.redd.it/j1ya3raxr8zh1.png?width=140&height=60&auto=webp&s=ffa176a5f4f43472f5493f39dc3eeb5a623af053",
+    "created_utc": 1793731932,
+    "thumbnail": "https://preview.redd.it/y4e7o7px0gzh1.png?width=140&height=136&auto=webp&s=1a49c7f845070ddb0a4c1e91eae873e0bd9bc3d0",
     "top_comments": [
       {
-        "body": "Markets treating earnings like a roulette spin, the chart just confirms nobody actually knows which way it'll crack.",
-        "score": 5,
-        "author": "IntriguedRetailer1"
+        "body": "Out of curiosity, now make the bar chart part display Operating cash flow - maintenance capex then give me EV/(OCF-maintenance capex). \n\nI'm not sure how you'll determine maintenance capex but I believe in you. Good luck. If you give up I'll settle for just OCF. ",
+        "score": 6,
+        "author": "No_Cell6708"
       },
       {
-        "body": "What I do is buy and hold long term investments and slow increase positions when I can.",
-        "score": 4,
-        "author": "AnonymousFirm"
+        "body": "That's fair. I think that looking at OCF for any one single period has the potential to be misleading but I'm interested in the trends over different timeframes. I wouldn't say GEV is comparable to big tech here, but changes in unearned revenue have been fairly consistent since Q4 2025 so it might be interesting to look into on a different scale. That company has only been profitable for a couple years. When it comes to big tech, I care significantly more about how much cash they're pulling in than I do about accounting earnings. ",
+        "score": 3,
+        "author": "No_Cell6708"
       },
       {
-        "body": "Only the price move, report day close to next day close. I didn't split it by beat or miss or look at guidance so I can't say what drove the up or down days.",
+        "body": "on the cycle top question, the thing i'd watch for the hardware names is inventory and receivables vs revenue in the 10-qs. when those start growing faster than sales it's often the first hint earnings are near a peak, way before the p/e looks expensive.",
+        "score": 2,
+        "author": "General_Patient4904"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xnr29s",
+    "title": "AMD Q3 2026: record $13.4B revenue, data center nearly doubles, and a $17B Q4 guide",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xnr29s/amd_q3_2026_record_134b_revenue_data_center/",
+    "author": "Alpha_Stock_BigBull",
+    "score": 11,
+    "selftext": "Q3 2026 key numbers:\n\nRevenue: $13.38B, up 45% YoY and 16% QoQ, vs about $13.06-13.09B expected and above the top of AMD's own guide\n\nEPS: $2.09, up 74% YoY, vs about $1.94-1.95 expected\n\nGross margin: 56%\n\nOperating income: $3.9B, up 75% YoY, a margin of 29%\n\nNet income: $3.5B\n\nSegments\n\nData Center: $8.55B, up 97% YoY and 27% QoQ, now 64% of revenue, with operating income of $2.9B at a 34% margin vs 25% a year ago\n\nDrivers: record EPYC server CPUs and the first MI450-series Instinct GPU shipments, with Helios rack-scale systems ramping\n\nNamed customers: Meta, Microsoft and OpenAI\n\nClient (PCs): $2.9B, up 7% YoY but down 4% QoQ\n\nEmbedded: $1.1B, up 29%\n\nGaming: $773M, down 40%, now under 6% of revenue\n\nGuidance\n\nQ4 revenue: about $17B at the midpoint, roughly 66% YoY growth and 27% sequential growth, vs about $16.15B expected\n\nQ4 non-GAAP gross margin: about 55%\n\n2027: management expects revenue growth of more than 80% and server revenue to double\n\nAMD is planning for a double-digit drop in PC shipments in 2027\n\nMarket reaction\n\nThe stock rose 5-8% after hours, then pared gains as election results came in\n\nIt's up about 129% year to date and had sold off in recent days on AI-overspending fears\n\nNeoclouds like CoreWeave and Nebius rallied alongside it\n\nTakeaways\n\nAMD is now an AI infrastructure company. Data Center is nearly two-thirds of sales and the highest-margin segment, and the rest is shrinking or flat.\n\nOperating leverage is strong. EPS grew 74% on 45% revenue growth, and data center margin expanded 9 points.\n\nThe 2027 guide of over 80% growth is the most aggressive number here. It depends on MI450 and Helios ramps and on customers like OpenAI, so execution and customer concentration are the risks.\n\nThe warrant charge shows what AMD pays to win AI customers. Those warrants dilute shareholders if exercised.\n\nThe PC and gaming weakness is a reminder that the memory shortages are hurting consumer hardware, as in Intel's results.\n\nThe stock rose when Intel and Seagate fell after their reports, because AMD's guide beat expectations by about 5%.",
+    "subreddit": "StockMarket",
+    "created_utc": 1793806024,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "The data center margin is what stands out to me, going from 25% to 34% while revenue nearly doubled, so the MI450 ramp is adding real profit and not just volume. The flip side is that the 2027 guide assumes a double digit drop in PC shipments, so with client already down 4% sequentially, almost all of that growth has to come from MI450 and Helios landing on schedule.",
         "score": 1,
-        "author": "dagilisek"
+        "author": "rudolf_de_Leeuw"
+      },
+      {
+        "body": "Companies sell to demand and that is news? AMD didn’t switch business models it found another buyer. If data centers die tomorrow they’ll sell to their current markets in consumer and business markets.",
+        "score": 1,
+        "author": "Odd-Attention8454"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xntq5g",
+    "title": "Brutal day for VST - is it a buy here?",
+    "url": "https://www.reddit.com/r/investing/comments/1xntq5g/brutal_day_for_vst_is_it_a_buy_here/",
+    "author": "Chuque",
+    "score": 7,
+    "selftext": "With the dems winning, there is more anticipated regulation around data centers and energy prices, but I believe the demand is still more than enough for VST to keep growing earnings steadily. Forward PE is 12 now. Both democrat and republican congress members hold this stock. I'm buying the dip.",
+    "subreddit": "investing",
+    "created_utc": 1793812169,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "For all the distaste of AI and data centers, I think it's more of an issue of regulation. I think we're likely to see regulations that tap the brakes, maybe some data center plans get cancelled because they ill-suited to their location, that's fine and good. But I don't think it'll be a catastrophe for the industry. We didn't see sausages disappear just because The Jungle made people aware of how shitty the meat packing industry was for example. I'd think it's just a dip, but it might not be near bottom.",
+        "score": 13,
+        "author": "Messyfingers"
+      },
+      {
+        "body": "Agreed it could go lower. But IMO 2 years from now it's definitely higher than where we are now",
+        "score": 5,
+        "author": "Chuque"
+      },
+      {
+        "body": "Regulation trims excess, not demand. Likely a dip, not a bust.",
+        "score": 3,
+        "author": "OkPenalty102"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
