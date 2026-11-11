@@ -28,120 +28,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xrbjp6",
-    "title": "Jensen Huang just admitted to an affair with a suspected Chinese spy. 9 days before earnings.",
-    "url": "https://www.reddit.com/r/investing/comments/1xrbjp6/jensen_huang_just_admitted_to_an_affair_with_a/",
-    "author": "gilli3hunna",
-    "score": 760,
-    "selftext": "So this just dropped. Jensen sent a letter to Nvidia staff admitting he was unfaithful to his wife. The woman is someone US intelligence reportedly believes was working for China’s Ministry of State Security.\n\nWhat we actually know:\n\n* The affair is confirmed. He admitted it himself\n* The spy part is **not** confirmed. It comes from US intelligence, China says it’s nonsense\n* Nvidia’s board is launching an independent investigation with outside counsel\n* The board says it has no reason to believe any company or national security secrets were leaked, and still backs Jensen\n\nNow the timing is brutal. Earnings are Nov 17. The stock is already down \\~22% from its October high after 5 straight red weeks, and it’s still a $4.5T company that half the market basically depends on. Bitcoin also wicked from 75.8k to 73.4k in about 20 min tonight. Probably not related, but the vibe is risk-off.\n\nMy take: the affair alone doesn’t move a $4.5T company. The investigation does. If anything comes out that touches export controls or China, that’s a real problem. If it’s clean, this is a headline everyone forgets by earnings.\n\nAre you buying the dip Monday or staying away until the 17th?",
-    "subreddit": "investing",
-    "created_utc": 1794178338,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "He didn’t write shit. The AI did.\n\n/s",
-        "score": 6,
-        "author": "wonmean"
-      },
-      {
-        "body": "there's no mechanism for ousting jensen as CEO. their company literally does not have one. the only way jensen is leaving is if he feels embarrassed enough to resign, which I doubt he will considering the company is also a nepo nest. his kids work in executive positions at nvidia and each rake 500k or more in annual earnings.",
-        "score": 5,
-        "author": "topdangle"
-      },
-      {
-        "body": "Like that stopped anyone in the last 5 years in this country",
-        "score": 4,
-        "author": "terrany1"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xrfm6p",
-    "title": "Why is Elon/SpaceX even interested in becoming a telecom carrier?",
-    "url": "https://www.reddit.com/r/investing/comments/1xrfm6p/why_is_elonspacex_even_interested_in_becoming_a/",
-    "author": "SentenceDowntown591",
-    "score": 265,
-    "selftext": "Doesn’t make much sense, specifically based on the valuation of the big 3 telecom companies. The margins the telecom sector receives would only decrease with a 4th competitor, unless they expect huge increases in telecom consumers. Analysts  are literally on TV cracking jokes that SpaceX could just buy each of these telecom giants outright multiple times over. \n\nTo me this means at least one of the following has to be true:\n\n1) Elon is making a poor decision trying to enter a market with not much upside   \n2) The big 3 telecom companies are MASSIVELY undervalued.  \n3) SpaceX is MASSIVELY overvalued.  \n4) Enormous amounts of telecom growth/expansion is anticipated for the sector as a whole.\n\nThoughts?",
-    "subreddit": "investing",
-    "created_utc": 1794190064,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Wow you really don't give up do you? The secretary to my surgeon David Vass (City Hospital) tried to phone me to get contact info for my English GP, but the connection was so bad she gave up.",
-        "score": 3,
-        "author": "Appropriate_Nebula67"
-      },
-      {
-        "body": "His big bets are on AI driven robots that need to talk to the mothership. He needs to cover the proverbial last mile in some cases, launching it as a telecom network and selling to other people who need this both pay for the project and let you perfect it while you are working on your robots.",
-        "score": 2,
-        "author": "wwb_99"
-      },
-      {
-        "body": "You think at&t and verizon are more trustworthy?",
-        "score": 2,
-        "author": "ShitMcClit"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xrri0x",
-    "title": "I am not really surprised.. Were you?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xrri0x/i_am_not_really_surprised_were_you/",
-    "author": "NapLvr",
-    "score": 1,
-    "selftext": "Everyone has appeared shocked about this, when the news broke out.. and for some reason I couldn’t find myself surprised at all.\n\nI mean not that I think the spy-allegations or story is true, but the mere fact that this CEO has spent the better part of AI boom years hyping up the market and the industry.\n\nHe has been playing the good guy and angel of the AI era.. Making all kinds of venture acquisitions..  \nAnd that alone would make a kindergartner have doubts on how clean he is. \n\nWhats actually funny is, a year ago I read a fictional novel that basically depicted what’s happening now: American CEO of a mega AI company held under Chinese secretive control due to the CEO’s sexual ties with a Chinese installed spy. \n\nExcept this novel isn’t something from The Simpsons. ",
-    "subreddit": "StockMarket",
-    "created_utc": 1794230483,
-    "thumbnail": "https://preview.redd.it/omf3ogre8l0i1.jpeg?width=140&height=42&auto=webp&s=bda500672ef9faa5a3b537949fbd9db1dab3e066",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-09",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-10",
     "savedAt": {
-      "_seconds": 1794239305,
-      "_nanoseconds": 700000000
+      "_seconds": 1794321617,
+      "_nanoseconds": 195000000
     }
-  },
-  {
-    "id": "1xse63u",
-    "title": "Anthropic Retracts Filing That Showed IPO Target, Reuters Says",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xse63u/anthropic_retracts_filing_that_showed_ipo_target/",
-    "author": "confused_boner",
-    "score": 75,
-    "selftext": "[**Anthropic Retracts Filing That Showed IPO Target, Reuters Says**](https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says?utm_source=website&utm_medium=share&utm_campaign=copy)\n\nBy Rachel Metz November 9, 2026 at 7:43 PM CST Updated on November 9, 2026 at 10:24 PM CST Save Translate Listen 1:24 • November 9, 2026 at 7:43 PM CST Updated on November 9, 2026 at 10:24 PM CST\n\n[https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says?utm\\_source=website&utm\\_medium=share&utm\\_campaign=copy](https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says?utm_source=website&utm_medium=share&utm_campaign=copy)\n\nAnthropic PBC sent out and retracted a filing that appeared to show it was aiming to raise as much as $69.3 billion ⁠through an initial public offering, Reuters said.\n\nThe artificial ​intelligence lab first sent bankers a copy of a filing that indicated a sale of about 867 ​million shares in a price ‌range ⁠of $70 to $80 per share, but then followed up with an email saying that those ​details were inaccurate, Reuters said.\n\nAn Anthropic spokesperson declined to comment.\n\nThe retracted filing was an updated prospectus sent by Anthropic’s outside counsel in Canada, The Information reported, citing people it didn’t identify. The counsel later told the banks that some of the details were inaccurate and it would update the filing later, it said.\n\nThe AI lab is preparing to list its shares while markets digest the potential fallout from the US midterm elections and volatility surges for tech stocks, with trillions of dollars of value wiped out in a single day.\n\nPotential investors were weighing valuations of $1.1 trillion to $1.3 trillion for the creator of the Claude chatbot, down from an estimated fair value of as high as $2 trillion in early October, Bloomberg News reported.\n\nThe Democratic sweep of Congress is spurring renewed scrutiny over the pace of data-center expansion on top of fears about rising debt levels and safety concerns in the AI sector.\n\n(Updates with report on source of filing in fourth paragraph.)",
-    "subreddit": "StockMarket",
-    "created_utc": 1794286697,
-    "thumbnail": "https://external-preview.redd.it/Z5NgIboK2hy1UtZz4qNHb7x5ysXSKFugvwWQraoYV2s.jpeg?width=140&height=93&auto=webp&s=0912709c64e42cb5a49e0c2216f961a30038d795",
-    "top_comments": [
-      {
-        "body": "They saw one Green Day and then immediately wants to increase the ipo number ",
-        "score": 23,
-        "author": "Scary-Oven8260"
-      },
-      {
-        "body": "No, I think the old numbers were based on the $2T target which they will still probably have to lower",
-        "score": 6,
-        "author": "hawkeye224"
-      },
-      {
-        "body": "[**Anthropic Retracts Filing That Showed IPO Target, Reuters Says**](https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says?utm_source=website&utm_medium=share&utm_campaign=copy)\n\nBy Rachel Metz November 9, 2026 at 7:43 PM CST Updated on November 9, 2026 at 10:24 PM CST Save Translate Listen 1:24 • November 9, 2026 at 7:43 PM CST Updated on November 9, 2026 at 10:24 PM CST\n\n[https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says?utm\\_source=website&utm\\_medium=share&utm\\_campaign=copy](https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says?utm_source=website&utm_medium=share&utm_campaign=copy)\n\nAnthropic PBC sent out and retracted a filing that appeared to show it was aiming to raise as much as $69.3 billion ⁠through an initial public offering, Reuters said.\n\nThe artificial ​intelligence lab first sent bankers a copy of a filing that indicated a sale of about 867 ​million shares in a price ‌range ⁠of $70 to $80 per share, but then followed up with an email saying that those ​details were inaccurate, Reuters said.\n\nAn Anthropic spokesperson declined to comment.\n\nThe retracted filing was an updated prospectus sent by Anthropic’s outside counsel in Canada, The Information reported, citing people it didn’t identify. The counsel later told the banks that some of the details were inaccurate and it would update the filing later, it said.\n\nThe AI lab is preparing to list its shares while markets digest the potential fallout from the US midterm elections and volatility surges for tech stocks, with trillions of dollars of value wiped out in a single day.\n\nPotential investors were weighing valuations of $1.1 trillion to $1.3 trillion for the creator of the Claude chatbot, down from an estimated fair value of as high as $2 trillion in early October, Bloomberg News reported.\n\nThe Democratic sweep of Congress is spurring renewed scrutiny over the pace of data-center expansion on top of fears about rising debt levels and safety concerns in the AI sector.\n\n(Updates with report on source of filing in fourth paragraph.)",
-        "score": 4,
-        "author": "confused_boner"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
     "id": "1xsl42m",
@@ -172,48 +64,38 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-10",
+    "savedAt": {
+      "_seconds": 1794321620,
+      "_nanoseconds": 612000000
+    }
   },
   {
-    "id": "1xrshcm",
-    "title": "Alleged Chinese spy linked to Nvidia chief pitched AI chips deals to investors",
-    "url": "https://www.reddit.com/r/business/comments/1xrshcm/alleged_chinese_spy_linked_to_nvidia_chief/",
-    "author": "financialtimes",
-    "score": 31,
-    "selftext": "FT Exclusive: The woman at the centre of the Nvidia spying scandal pitched an AI chips deal to China-based investors, touting her ability to secure the US company’s coveted GPUs and her commercial relationship with Chinese tech giant Alibaba. \n\nIn early 2025, Alice Huang and her business partner Kang Wei sought investment for a south-east Asia data centre project worth several hundred million dollars, according to two investors pitched on the deal. The pair said they had “no problem securing GPUs” as a key pillar of the deal and cited Alibaba as a client of the project, according to one investor present. \n\nUnder current US export controls, it is legal for Chinese companies to lease data centre capacity outside the country. But Chinese ownership of these data centre assets, mostly advanced Nvidia GPUs, is not allowed.\n\nRead more [here. ](https://www.ft.com/content/5d8c1e1d-6ce0-4eb4-9f5c-722fa5c4841d?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f&syn-25a6b1a6=1)",
-    "subreddit": "business",
-    "created_utc": 1794233066,
-    "thumbnail": "https://external-preview.redd.it/ZlTPoOocv7dozHQ9e3HVpbXa0ZSeXl1o22Kjmu20BLY.jpeg?width=140&height=78&auto=webp&s=c39919e9d90c13f462256c241f91894b6d5a2b28",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1xrp3ik",
-    "title": "Atlassian grew revenue 24% last quarter, guided about 13.75% for the full year, and fell 13% on Friday. The guidance math says more than half of the slowdown comes from Data Center, the product line it stops supporting in 2029",
-    "url": "https://www.reddit.com/r/investing/comments/1xrp3ik/atlassian_grew_revenue_24_last_quarter_guided/",
-    "author": "filingdelta",
-    "score": 24,
-    "selftext": "Atlassian (TEAM) reported its fiscal Q1 (July–September) on Thursday. Revenue grew 24% to $1,772m, Cloud revenue grew 30.5%, and GAAP operating margin turned positive at 10.7%. Full-year guidance went up, from about 13% to about 13.75% revenue growth. The stock closed down about 13% on Friday (third-party data).\n\nThe reason most coverage gave is the slowdown in the guidance. I wanted to see where that slowdown actually comes from. All figures below are from the 10-Q, the 10-K and the company's Q1 shareholder letter.\n\n1. The guide implies about 11% growth for the rest of the year.\n\nFiscal 2026 revenue was $6,572m. 13.75% growth means about $7,476m for fiscal 2027. Q1 was already $1,772m, so the remaining three quarters need about $5,704m, against $5,140m in the same three quarters last year. That's about 11% growth, after 24% in Q1.\n\n2. Most of the drop is Data Center, and the company says why.\n\nData Center is Atlassian's self-managed product. In September 2025 it announced the end of life: no new Data Center customers from March 2026, no new licenses or expansions for existing customers from March 2028, and support ends in March 2029.\n\nData Center revenue by quarter:\n\n\\- Sept 2025: $373m\n\n\\- Dec 2025: $436m\n\n\\- Mar 2026: $561m (+44% year over year, the last quarter before new-customer sales stopped)\n\n\\- Jun 2026: $462m\n\n\\- Sept 2026: $391m\n\nThe shareholder letter says the end-of-life announcement pulled customer purchases forward and caused a higher share of Data Center contract value to be recognized upfront as term-license revenue in fiscal 2026. It guides Data Center revenue down about 16% for fiscal 2027. With Q1 at $391m, that implies about −21% for the remaining three quarters.\n\n3. How the slowdown splits.\n\nFrom Q1's 24% to the implied 11% is about 13 points. Data Center went from contributing about +1 point of growth in Q1 to about −6 points in the rest of the year. That swing is about 7 of the 13 points. The other 5–6 points are Cloud and Marketplace slowing, from about 22 points of growth in Q1 to about 17.\n\n4. The part that isn't timing.\n\nThe company points to Subscription ARR as the measure that strips out the revenue-recognition timing. That's still guided to slow, from 22.5% now to about 18.5% by the end of the fiscal year.\n\nCloud is guided at about 26% for the year after 30.5% in Q1, which implies about 25% for the rest of the year. The letter says migrations from Data Center will contribute mid-to-high single digits of Cloud growth in fiscal 2027. So Cloud growth from customers who were not already paying for Data Center is closer to the high teens. The letter also expects the first half to grow faster than the second half, partly because the DX acquisition, which closed in the December 2025 quarter, starts showing up in the comparison.\n\n5. Margins had the same timing effect.\n\nThe letter says the Data Center timing lifted fiscal 2026 non-GAAP operating margin by about 4 points. It guides 25.5% for fiscal 2027 and says that also absorbs about 3 points from shifting pay from stock to cash.\n\nHow I'd frame Friday: about 13.75% headline growth understates the Cloud business, because last year's Data Center rush is in the comparison. But it's not all accounting. ARR and Cloud are both guided to slow, and part of Cloud's growth is customers moving over from a product that's being shut down, a source that runs out by 2029.\n\nWhat I'd watch in the next report (Q2, quarter ending December):\n\n\\- Revenue against the $1,825–1,835m guide (about 15–16% growth)\n\n\\- Data Center against the guided −14%\n\n\\- Cloud against the guided 27%, and how much the company attributes to migrations\n\n\\- Subscription ARR, against the 18.5% year-end guide\n\n\\- Current RPO, which grew 28% this quarter\n\nFor people who follow TEAM or other software names going through the same shift: which of these would you watch first, and is the migration contribution something you'd strip out when comparing Cloud growth with peers?\n\nNot investment advice.",
+    "id": "1xslvx7",
+    "title": "Why is SpaceX winding down the Falcon 9 program and getting nothing in return?",
+    "url": "https://www.reddit.com/r/investing/comments/1xslvx7/why_is_spacex_winding_down_the_falcon_9_program/",
+    "author": "Yupperroo",
+    "score": 381,
+    "selftext": "I'm at a loss to understand why SpaceX doesn't continue to sell Falcon 9 launches into 2029 and beyond. There is crazy demand for that vehicle and there doesn't seem to be capacity/availability on Star Ship for commercial launches. At a minimum SpaceX could sell Falcon 9 as there is no doubt huge interest in using that vehicle by an endless line of customers. Ending Falcon 9 is a gift to Rocket Lab, Blue Origin, ULA and others. There is a rational that SpaceX wants to put engineering resources toward other projects, but how much engineering is needed on a system that is already matured? ",
     "subreddit": "investing",
-    "created_utc": 1794223034,
+    "created_utc": 1794314433,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "I would never invest in Atlassian outside of buying an index etf because every tech person I've ever met (including myself) absolutely hates it and would hop to another product in a heartbeat if they could.",
-        "score": 11,
-        "author": "Parking_Reputation17"
+        "body": "The link is from last month lol\n\nNow Tesla has more robotaxis than waymo in Texas (1300+)",
+        "score": 5,
+        "author": "smadhuv"
       },
       {
-        "body": "I'd strip out stock comp before the migrations. I take it out of operating cash flow on every company. Here it was $1.6B against $1.35B last year, so nothing's left. Days like Friday rattle me less once I've seen that number",
-        "score": 4,
-        "author": "JHgrandgerard"
-      },
-      {
-        "body": "Fair, and no filing can measure how much the people using a product like it. What the numbers can show is whether the companies paying for it leave, and so far they mostly haven't: Cloud revenue grew 30.5% last quarter and subscription ARR 22.5%. Part of that could be pricing rather than more users, so it says more about switching costs than about how happy anyone is.\n\nThe real test is Data Center. Those customers have to move somewhere before support ends in 2029, which is the one moment where switching to another product is easiest. How many of them land in Atlassian Cloud versus somewhere else will say more than any survey.",
+        "body": "Also, rockets (or rather rocket programs - Falcon is such) have rather large fixed costs. They need whole infrastructure which must be maintained as you explained well. If the yearly cost of that maintenance is subdivided into, say 150 launches, it's a minority fraction of a single launch cost. But cut the number of flights several-fold and your fixed costs now dominate. So you get thinner margins and less net profit. So it's now less economical to keep the program on. And if you raised prices to maintain economical margins, you get even less business.\n\nAnd then, you have those experienced people working on the old less and less profitable program while they'd produce more value working on the new thing.",
         "score": 2,
-        "author": "filingdelta"
+        "author": "sebaska"
+      },
+      {
+        "body": "Opportunity cost is it.  Every dollar put into Falcon is will double.  Every dollar put into Starship, Starlink, Starmind is expected to 10x.  \n\nGovernment and contract launches are quickly becoming a rounding error. BO will only fight for these launch contracts for a little longer before they also realize higher returns from launching their own products. The other companies will either follow suite or die trying. ",
+        "score": 2,
+        "author": "Then-Secretary-9166"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -221,56 +103,66 @@ window.dailyTrends = [
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xsk3a7",
-    "title": "Sunglasses, superyachts and lawsuits: inside the toxic battle for the Ray-Ban empire",
-    "url": "https://www.reddit.com/r/business/comments/1xsk3a7/sunglasses_superyachts_and_lawsuits_inside_the/",
-    "author": "TheObserverUK",
-    "score": 17,
-    "selftext": "Leonardo Maria Del Vecchio’s acrimonious bid to buy his siblings out of EssilorLuxottica is a scenario his late father tried hard to avoid, and offers a cautionary tale for family firms",
-    "subreddit": "business",
-    "created_utc": 1794308575,
-    "thumbnail": "https://external-preview.redd.it/DK69xZs12py_b7hTTiF9DLbwdZH5vYPT2REUJ5eMWe0.jpeg?width=140&height=93&auto=webp&s=fab9f36cd6c07dbe3cdaadcd6f6a80c84193a40a",
+    "id": "1xse63u",
+    "title": "Anthropic Retracts Filing That Showed IPO Target, Reuters Says",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xse63u/anthropic_retracts_filing_that_showed_ipo_target/",
+    "author": "confused_boner",
+    "score": 75,
+    "selftext": "[**Anthropic Retracts Filing That Showed IPO Target, Reuters Says**](https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says?utm_source=website&utm_medium=share&utm_campaign=copy)\n\nBy Rachel Metz November 9, 2026 at 7:43 PM CST Updated on November 9, 2026 at 10:24 PM CST Save Translate Listen 1:24 • November 9, 2026 at 7:43 PM CST Updated on November 9, 2026 at 10:24 PM CST\n\n[https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says?utm\\_source=website&utm\\_medium=share&utm\\_campaign=copy](https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says?utm_source=website&utm_medium=share&utm_campaign=copy)\n\nAnthropic PBC sent out and retracted a filing that appeared to show it was aiming to raise as much as $69.3 billion ⁠through an initial public offering, Reuters said.\n\nThe artificial ​intelligence lab first sent bankers a copy of a filing that indicated a sale of about 867 ​million shares in a price ‌range ⁠of $70 to $80 per share, but then followed up with an email saying that those ​details were inaccurate, Reuters said.\n\nAn Anthropic spokesperson declined to comment.\n\nThe retracted filing was an updated prospectus sent by Anthropic’s outside counsel in Canada, The Information reported, citing people it didn’t identify. The counsel later told the banks that some of the details were inaccurate and it would update the filing later, it said.\n\nThe AI lab is preparing to list its shares while markets digest the potential fallout from the US midterm elections and volatility surges for tech stocks, with trillions of dollars of value wiped out in a single day.\n\nPotential investors were weighing valuations of $1.1 trillion to $1.3 trillion for the creator of the Claude chatbot, down from an estimated fair value of as high as $2 trillion in early October, Bloomberg News reported.\n\nThe Democratic sweep of Congress is spurring renewed scrutiny over the pace of data-center expansion on top of fears about rising debt levels and safety concerns in the AI sector.\n\n(Updates with report on source of filing in fourth paragraph.)",
+    "subreddit": "StockMarket",
+    "created_utc": 1794286697,
+    "thumbnail": "https://external-preview.redd.it/Z5NgIboK2hy1UtZz4qNHb7x5ysXSKFugvwWQraoYV2s.jpeg?width=140&height=93&auto=webp&s=0912709c64e42cb5a49e0c2216f961a30038d795",
     "top_comments": [
       {
-        "body": "The Ray-Ban brand sunglasses worn by Marilyn Monroe, James Dean and Audrey Hepburn is at the centre of a toxic family feud that makes the fictional siblings of TV drama *Succession* look like a happy well-adjusted family.\n\nLeonardo Maria Del Vecchio, the controversial 31-year-old son of the Ray-Ban maker’s late founder, is battling for control of an empire which spans not just sunglasses but also property, finance and influence over some of Italy’s most powerful institutions.\n\nHis challenge is, this is the exact scenario his father Leonardo Del Vecchio wanted to avoid. Del Vecchio’s strategy for the survival of his business empire was simple: not letting his children run it. When he died in 2022 he divided his fortune equally among his eight heirs, while cementing control in the hands of loyal executives whom they could replace only with unanimous agreement.\n\nFour years later, the family has been embroiled in a [poisonous power struggle](https://observer.co.uk/news/business/article/rival-ray-ban-heirs-fight-to-put-each-other-in-the-shade) with feuding siblings, a mother torn between two sons and criss-crossing law suits.\n\nArmed with a multibillion-euro financing proposal, the younger Del Vecchio has been trying to buy out his siblings, triggering a bitter struggle within one of Italy’s richest families.\n\nThe stakes extend beyond the family fortune, built on EssilorLuxottica, the world’s largest eyewear company, which makes Ray-Ban, Oakley and Persol and dominates the global market for designer frames.\n\nThrough its Luxembourg-based holding company, Delfin, the family also holds influential stakes in Italian finance. It has helped drive a campaign by billionaires to shake up the country’s banking establishment, backing the creation of a new banking powerhouse and pushing for a more ambitious strategy at insurer Generali, Italy’s biggest institutional investor.\n\nNow the struggle over control raises questions about the future of those ambitions.\n\n[https://observer.co.uk/news/business/article/sunglasses-superyachts-and-lawsuits-inside-the-toxic-battle-for-the-ray-ban-empire](https://observer.co.uk/news/business/article/sunglasses-superyachts-and-lawsuits-inside-the-toxic-battle-for-the-ray-ban-empire)",
-        "score": 2,
-        "author": "TheObserverUK"
+        "body": "They saw one Green Day and then immediately wants to increase the ipo number ",
+        "score": 23,
+        "author": "Scary-Oven8260"
       },
       {
-        "body": "Who the fuck cares? \n\nA tiny bit of metal and cheap plastics for several hundred bucks. And their suckling on the teat of Meta? Fuck them.",
-        "score": 1,
-        "author": "CrabIndividual6691"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xsetp5",
-    "title": "Educational Investment Resources for Beginners",
-    "url": "https://www.reddit.com/r/investing/comments/1xsetp5/educational_investment_resources_for_beginners/",
-    "author": "Alternative_Bet_4351",
-    "score": 12,
-    "selftext": "Hello!  New to this sub.  I’m looking for advice. I just started investing with Fidelity where my 401k is. I want to start learning more about purchasing stocks and investing. \n\nMy main concern is that there’s an overwhelming amount of information and opinions on investing.  Could anyone recommend a guide, book, YouTube series, or podcast that I can dig into to learn about investing?  \n\nNOTE: I’m NOT searching for resources from someone who’s just wealthy or just popular, I’m searching for resources that are known for being educational and breakdown the process and decision-making behind investing. \n\nThanks!!",
-    "subreddit": "investing",
-    "created_utc": 1794288857,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "The absolute best place to start for a new investor is *The Little Book of Common Sense Investing* by John C. Bogle.",
+        "body": "No, I think the old numbers were based on the $2T target which they will still probably have to lower",
         "score": 6,
-        "author": "CapitalistCabal"
+        "author": "hawkeye224"
       },
       {
-        "body": "Both TLBOCSI as well as The Simple Path To Wealth were life changing for me. Cured me from my delusion that I could pick winning individual stocks. Now I'm assured of getting the market return with low cost broad based index funds.",
+        "body": "[**Anthropic Retracts Filing That Showed IPO Target, Reuters Says**](https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says?utm_source=website&utm_medium=share&utm_campaign=copy)\n\nBy Rachel Metz November 9, 2026 at 7:43 PM CST Updated on November 9, 2026 at 10:24 PM CST Save Translate Listen 1:24 • November 9, 2026 at 7:43 PM CST Updated on November 9, 2026 at 10:24 PM CST\n\n[https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says?utm\\_source=website&utm\\_medium=share&utm\\_campaign=copy](https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says?utm_source=website&utm_medium=share&utm_campaign=copy)\n\nAnthropic PBC sent out and retracted a filing that appeared to show it was aiming to raise as much as $69.3 billion ⁠through an initial public offering, Reuters said.\n\nThe artificial ​intelligence lab first sent bankers a copy of a filing that indicated a sale of about 867 ​million shares in a price ‌range ⁠of $70 to $80 per share, but then followed up with an email saying that those ​details were inaccurate, Reuters said.\n\nAn Anthropic spokesperson declined to comment.\n\nThe retracted filing was an updated prospectus sent by Anthropic’s outside counsel in Canada, The Information reported, citing people it didn’t identify. The counsel later told the banks that some of the details were inaccurate and it would update the filing later, it said.\n\nThe AI lab is preparing to list its shares while markets digest the potential fallout from the US midterm elections and volatility surges for tech stocks, with trillions of dollars of value wiped out in a single day.\n\nPotential investors were weighing valuations of $1.1 trillion to $1.3 trillion for the creator of the Claude chatbot, down from an estimated fair value of as high as $2 trillion in early October, Bloomberg News reported.\n\nThe Democratic sweep of Congress is spurring renewed scrutiny over the pace of data-center expansion on top of fears about rising debt levels and safety concerns in the AI sector.\n\n(Updates with report on source of filing in fourth paragraph.)",
+        "score": 4,
+        "author": "confused_boner"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-10",
+    "savedAt": {
+      "_seconds": 1794321619,
+      "_nanoseconds": 952000000
+    }
+  },
+  {
+    "id": "1xss5gl",
+    "title": "Inflation Remains Hot in October and Strengthens Case for Another Fed Rate Hike",
+    "url": "https://www.reddit.com/r/finance/comments/1xss5gl/inflation_remains_hot_in_october_and_strengthens/",
+    "author": "realtordotcom",
+    "score": 74,
+    "selftext": "Inflation accelerated faster than anticipated in October, driven by surging costs for [housing](https://www.realtor.com/news/trends/housing-market-buyers-pull-back-sellers-october-2026-report/) and food, which will bolster the case for another [Federal Reserve](https://www.federalreserve.gov/) interest rate hike next month.\n\n  \nOn a monthly basis, overall prices rose 0.4% from September, according to the Consumer Price Index (CPI) data released by the [U.S. Bureau of Labor Statistics](https://www.bls.gov/cpi/) (BLS) Tuesday. That's down from the 0.6% monthly increase recorded in September but higher than the 0.2% gain forecasted by economists.\n\n  \nRead more: [https://www.realtor.com/news/trends/cpi-inflation-prices-mortgage-rates-october-2026/](https://www.realtor.com/news/trends/cpi-inflation-prices-mortgage-rates-october-2026/)",
+    "subreddit": "finance",
+    "created_utc": 1794329835,
+    "thumbnail": "default",
+    "top_comments": [
+      {
+        "body": "If only we knew how to lower inflation,they have tried nothing and are all out of ideas!",
         "score": 3,
-        "author": "Fenderstratguy"
+        "author": "jason_abacabb"
       },
       {
-        "body": "r/bogleheads read the wiki and there is a great forum on the BH website",
+        "body": "the Prediction Markets numbers jumped instantly after the read.... [https://predictionmarketspicks.com/articles/october-2026-cpi-fed-half-point-hike-odds-polymarket-us](https://predictionmarketspicks.com/articles/october-2026-cpi-fed-half-point-hike-odds-polymarket-us)\n\n",
+        "score": 3,
+        "author": "Best_Ant_5023"
+      },
+      {
+        "body": "I take issue with the use of the word \"Another\" here. We should have had a steady stream of rate hikes and we aren't seeing that from the Fed. I am doubtful they will do it.",
         "score": 2,
-        "author": "TruckTires"
+        "author": "findingmike"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -301,27 +193,74 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-10",
+    "savedAt": {
+      "_seconds": 1794321623,
+      "_nanoseconds": 883000000
+    }
+  },
+  {
+    "id": "1xtdrpb",
+    "title": "Anthropic valuation raised to 1.5t again",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xtdrpb/anthropic_valuation_raised_to_15t_again/",
+    "author": "Background-Way9698",
+    "score": 65,
+    "selftext": "Just last week the valuation was decreased but now it has increased again. What caused this sudden increase? \n\nHere's gift article\n\nAnthropic bankers prepare to increase IPO valuation to $1.5tn or more -\n\n https://giftarticle.ft.com/giftarticle/actions/redeem/739800bd-5421-425d-82c8-f23578f59553 via @FT",
+    "subreddit": "StockMarket",
+    "created_utc": 1794390550,
+    "thumbnail": "https://preview.redd.it/wj6hjpbdgy0i1.jpeg?width=140&height=140&crop=1%3A1%2Csmart&auto=webp&s=a89fe0353c134e4abc204bd0ee67d679d25ad144",
+    "top_comments": [
+      {
+        "body": "This will all end well in ~~1929~~ 2029\n\n\nThe 100 year cycle is real",
+        "score": 32,
+        "author": "_Viva_La_Revolucion_"
+      },
+      {
+        "body": "**The bagholding banks caused it.**\n\nThe banks are full of bags.\n\nJust like they are with SpaceX and spam everywhere how their revenue will be infinite and the stock will be all the money of the planet.",
+        "score": 25,
+        "author": "EpicOfBrave"
+      },
+      {
+        "body": "Shits about to crash the already fragile market",
+        "score": 23,
+        "author": "Select_Season7735"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xrs1sz",
-    "title": "Inflation Ahead, Earnings and Positioning",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xrs1sz/inflation_ahead_earnings_and_positioning/",
-    "author": "Smart_Money_HQ",
-    "score": 1,
-    "selftext": "This week the focus will be on inflation, with CPI on Tuesday and PPI on Friday.\n\nWhile we wait for Nvidia later this month, Cisco, Applied Materials, CoreWeave and NBIS will report. CoreWeave was hit v hard in the sell-off, with concerns around the company adding to fears that the AI trade is slowing so there will be a lot of scrutiny there.\n\nhttps://i.redd.it/m8ro4l1lcl0i1.png\n\nIn terms of inflation long-run inflation expectations have continued to ease and are now at their lowest level since June and CPI is expected to peak at 3.8% this quarter, while monthly payroll growth slows to around 60,000. Recession odds stand at 20%.\n\nhttps://i.redd.it/ykhu03plcl0i1.png\n\nThe forecast is for the Fed to hike to 4.25% in December, with rates peaking near 4.34% in Q1 2027 before falling below 4% by 2028.\n\nThe 2-year Treasury yield is trading at 4.49%, below the 4.67% forecast. The bond market appears to be betting that the hikes will be short-lived.\n\nHistorically, one hike followed by a long pause, even with inflation remaining above 3% into mid-2027, has been a constructive environment for markets.\n\nEarnings and valuations\n\nQ3 earnings season is nearly over, with 88% of the S&P 500 having reported and so far, 84% have beaten EPS estimates, above the one-year average of 82%, the five-year average of 78% and the 10-year average of 77%.\n\nEPS growth and net margins remain strong, while earnings growth has also been broadening, as you can see from the chart bellow .\n\nhttps://i.redd.it/xewh13kncl0i1.png\n\nWhat’s also worth noting is that Information Technology’s forward P/E is well below its five- and 10-year averages after the sell-off and supports the thesis that the driver behind price action was not fundamental\n\nhttps://i.redd.it/hqr32xoocl0i1.png\n\nStrong earnings growth and rising forward estimates continue to show that this remains an earnings-led bull market and meanwhile, tech relative to the S&P 500 is sitting near a multiyear trendline which is suggesting the recent weakness in tech may be nearing an end.\n\nhttps://i.redd.it/y6vtefdpcl0i1.png\n\nOne final ting on valuations - consumer Staples is trading at a 34% premium to the S&P 500, the highest in the past 10 years and well above its average premium of 6% - this means the safety trade has become expensive, leaving it vulnerable if investors rotate back into more cyclical sectors.\n\nhttps://i.redd.it/aelq964qcl0i1.png\n\nOn to positioning - in mega-cap growth and large-cap tech has fallen to the 7th percentile, below Liberation Day levels and with investors this underexposed, it may not take much to spark a chase higher.\n\nhttps://i.redd.it/xu5m2trqcl0i1.png\n\nThe market may also have seen the worst of the systematic selling as in the base case, buying from volatility-control funds reloading is expected to offset further CTA selling.\n\nhttps://i.redd.it/1fuuswfrcl0i1.png\n\nPositioning in the options market however remains skewed to puts despite the rebound materialising ; The main level for today is 730 and 725 and this zone needs to hold for momentum to start building. What has me more defensive today is that volumes are picking up on puts in premarket on 730 and 725'750 is the main target to the upside. Volatility regime remains negative while bellow 760.\n\nQQQ is v similar with 650 main the main support, 670 first target to the upside while volumes are looking much better, but it will have to start gaining momentum above 660 for a more sustained move higher\n\nOn the SOXX, I've closed the swing trade as I want to see how it reacts around 140- 145; support is at 120",
-    "subreddit": "StockMarket",
-    "created_utc": 1794231973,
+    "id": "1xt1pow",
+    "title": "NVIDIA bullish or bearish?",
+    "url": "https://www.reddit.com/r/investing/comments/1xt1pow/nvidia_bullish_or_bearish/",
+    "author": "gilli3hunna",
+    "score": 51,
+    "selftext": "Are we still bearish on this AI thing or? NVDA earnings next week is it going to dump or pump? I want to start buying shares with leverage beacuse i think this so called “AI Bubble” people are calling it is just a correction and almost over but idk i mean NVDA down 30% from ATH MU about 40% GOOGL about 30% i mean is it over for AI stocks or is this just a correction in the market? I also see alot of people talking about that AI stocks were at a overvalued price and we also learned from the Dot-com bubble that we were right about the tech but wrong about the price. \n\nIdk any comments on this?",
+    "subreddit": "investing",
+    "created_utc": 1794352247,
     "thumbnail": "self",
-    "top_comments": [],
+    "top_comments": [
+      {
+        "body": "This is a matter of treason however lol",
+        "score": 3,
+        "author": "cloudnine538"
+      },
+      {
+        "body": "Bearish for now until after the investigation since they may have to correct earnings down by approximately 20%… we will see below $160  before it gets better! Don’t try catching a falling knife😉",
+        "score": 3,
+        "author": "NefariousnessOdd862"
+      },
+      {
+        "body": "If Nvidia gives good earnings in a few days, yes I believe NvidiA might have very well bottomed these days and might rip back up fast. Just look at daily movement of AMD for example",
+        "score": 2,
+        "author": "DotaWemps"
+      }
+    ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-09",
-    "savedAt": {
-      "_seconds": 1794239305,
-      "_nanoseconds": 139000000
-    }
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
     "id": "1xsfqgq",
@@ -348,6 +287,78 @@ window.dailyTrends = [
         "body": "the neutron line is in the 9 Nov 8-K: first launch \"no earlier than 2027\". if the drop is about neutron, that's the sentence people are reacting to. revenue wasn't the problem. $268M, and the q4 guide is $270-290M. the thing i'd watch is whether the 16 neutron missions in backlog keep their timing, because that's where the story is now.",
         "score": 2,
         "author": "nethan365b"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-10",
+    "savedAt": {
+      "_seconds": 1794321624,
+      "_nanoseconds": 731000000
+    }
+  },
+  {
+    "id": "1xsetp5",
+    "title": "Educational Investment Resources for Beginners",
+    "url": "https://www.reddit.com/r/investing/comments/1xsetp5/educational_investment_resources_for_beginners/",
+    "author": "Alternative_Bet_4351",
+    "score": 12,
+    "selftext": "Hello!  New to this sub.  I’m looking for advice. I just started investing with Fidelity where my 401k is. I want to start learning more about purchasing stocks and investing. \n\nMy main concern is that there’s an overwhelming amount of information and opinions on investing.  Could anyone recommend a guide, book, YouTube series, or podcast that I can dig into to learn about investing?  \n\nNOTE: I’m NOT searching for resources from someone who’s just wealthy or just popular, I’m searching for resources that are known for being educational and breakdown the process and decision-making behind investing. \n\nThanks!!",
+    "subreddit": "investing",
+    "created_utc": 1794288857,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "The absolute best place to start for a new investor is *The Little Book of Common Sense Investing* by John C. Bogle.",
+        "score": 6,
+        "author": "CapitalistCabal"
+      },
+      {
+        "body": "Both TLBOCSI as well as The Simple Path To Wealth were life changing for me. Cured me from my delusion that I could pick winning individual stocks. Now I'm assured of getting the market return with low cost broad based index funds.",
+        "score": 3,
+        "author": "Fenderstratguy"
+      },
+      {
+        "body": "r/bogleheads read the wiki and there is a great forum on the BH website",
+        "score": 2,
+        "author": "TruckTires"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-10",
+    "savedAt": {
+      "_seconds": 1794321623,
+      "_nanoseconds": 219000000
+    }
+  },
+  {
+    "id": "1xtbal9",
+    "title": "Gov. rejects aligning financial services rules with EU, torpedoing case for rejoin",
+    "url": "https://www.reddit.com/r/finance/comments/1xtbal9/gov_rejects_aligning_financial_services_rules/",
+    "author": "TurboSardine",
+    "score": 17,
+    "selftext": "Story on Bloomberg: https://www.bloomberg.com/news/articles/2026-11-10/burnham-rejects-eu-financial-rules-showing-brexit-reset-s-limits?srnd=undefined",
+    "subreddit": "finance",
+    "created_utc": 1794381105,
+    "thumbnail": "default",
+    "top_comments": [
+      {
+        "body": "Ha! Canada will do this before you ",
+        "score": 8,
+        "author": "SuperRonnie2"
+      },
+      {
+        "body": "Great for Russian money launderers who mainly go through London to wash the blood off their cash. ",
+        "score": 5,
+        "author": "Djungeltrumman"
+      },
+      {
+        "body": "Well, guess they need another decade of misery before they kick out the parasitic bankers.",
+        "score": 4,
+        "author": "Pietes"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -383,21 +394,78 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-10",
+    "savedAt": {
+      "_seconds": 1794321626,
+      "_nanoseconds": 205000000
+    }
+  },
+  {
+    "id": "1xsr190",
+    "title": "Different stock markets events",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xsr190/different_stock_markets_events/",
+    "author": "NationalRepublic2431",
+    "score": 9,
+    "selftext": "In June we have seen the kospi index crasehs down approximately 40 % . Although the reason was there the leveraged ETF. Then in China we saw this type in ai companies stock primarily due to the fact that investors now somehow become so intelligent that they realise that their investment are not making promise returns. Then now in USA we saw just after the mid term the fall in stock prices for ai companies on the notion that democrats will ressist the data centre wave also the nvidea controversy. But what I wanted is to ask a question wasn't the investor or the herd mentality didn't just gained knowledge from the initial crash. Though Korea was into semi conductor the latter two are of ai type. ",
+    "subreddit": "StockMarket",
+    "created_utc": 1794327348,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I don't think investors failed to learn from previous market crashes. It's more that market sentiment keeps influencing their decisions. Korea faced leverage risks, China struggled with profit expectations, and the US is dealing with concerns about AI returns and policy. At the end of the day, people get carried away when prices rise and only start thinking about risks when the market falls. Markets change, but human greed and fear never really do.",
+        "score": 1,
+        "author": "AvavaMoriii"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xrqkig",
-    "title": "Aluminium Supply Faces Growing Competition for Power",
-    "url": "https://www.reddit.com/r/investing/comments/1xrqkig/aluminium_supply_faces_growing_competition_for/",
-    "author": "New_Instance_851",
-    "score": 7,
-    "selftext": "Google plans to invest $15 billion in Malaysia over 2027 and 2028, with the spending going towards data center campuses and clean energy related. Two days before that announcement, Malaysia's deputy prime minister said Chinese investors were interested in building an aluminium plant in Sarawak, together with a green-energy facility to supply it. For anyone forecasting aluminium production, the proposed power plant deserves as much attention as the smelter. \n\nGoogle's new campuses in Selangor and Negeri Sembilan are one the other side of the South China Sea from Sarawak. They use different power systems, so these projects are not biding for the same electricity today. But both announcements point to a constraint that it is becoming harder to leave out of an investment model: a large industrial project needs a workable electricity supply long before it produces revenue. \n\nTo see how much this could matter for aluminium, start with the supply forecasts. In October, StoneX forecasts a global surplus of 1.15 million tonnes in 2027. S&P Global Energy CERA analysts expected a deficit of 179,000 tonnes. The difference is roughly 1.33 million tonnes, with Indonesian expansion and the recovery of Gulf production among the important supply variables.\n\nFor me, China makes those overseas assumptions particularly important. Its 45-million-tonne ceiling on approved aluminium capacity limits the scope for another large wave of domestic smelter construction. It is not a hard cap on annual metal output: technical improvements can lift production above nameplate capacity. Even allowing for that flexibility, stronger margins cannot summon a new Chinese supply reposes as readily as they once did. More of the adjustment has to come from plants elsewhere, from higher utilisation or from changes in demand. \n\nA November 5 research note republished by Sina illustrates the scale of the overseas expansion being modelled. It projected 2.28 million tonnes of additional output from new overseas projects in 2027, plus 1.17 million tonnes from the recovery of Middle Eastern production. Those are distinct sources of supply, adding to 3.45 million tonnes in that particular forecast. They have neither a consensus estimate not tonnes already delivered. Restoring an existing plant and commissioning a new smelter carry different risks, and an electricity constraint will not affect every project in the same way.\n\nThe gap between the market forecasts should discourage confidence in a single balance-sheet number. Demand assumptions matter, of course. So does the interval between a company announcing a smelter and that smelter producing saleable metal. A plant Scheduled to start late in the year contributes every differently from one operating at full capacity in January. A power connection that arrives late can move those tonnes into a different forecast year altogether. \n\nTo get a feel for the scale, let’s do the electricity arithmetic. A hypothetical one-gigawatt electrical load running at 90% utilisation consumes 7.884 terawatt-hours a year. At an illustrative smelting intensity of 13.5 megawatt-hours per tonne, which is enough energy to make about 584,000 tonnes of aluminium. The calculation measures scale, not displaced production. It assumes a load drawing electricity, not a gigawatt of renewable generating capacity, and says nothing about whether the power could actually be transferred between users. At the same smelting intensity, a $10-per-megawatt-hour increase in electricity costs adds $135 to the cost of a tonne of metal.\n\nThe US aluminum Association puts the commercial problem plainly: a globally competitive smelter needs electricity around $40 per megawatt-hour under a contract lasting 10 to 20 years, while technology companies have committed prices above $115 to power AI facilities. These are the association’s illustrative US comparisons, not universal prices available to every producer or data center. Still, they explain why a utility’s negotiating position matters to shareholders. When both industries seek supply from the same constrained system, a new computing customer can change the terms available to a smelter negotiating its next power agreement. A producer protected by a favorable long-term contract faces different exposure than one approaching renewal, even if they sell metal at the same price.\n\nMalaysia is already weighing how much new computing load it can accommodate. On October 28, its investment minister told Parliament that 24 new data center applications were awaiting decisions while the government assessed electricity availability for 117 approved projects. Google says it will cover its direct grid-connection costs and help bring more than one gigawatt of additional clean generating capacity onto the national grid.\n\nThe investment could ease the constraint. Its value to an around-the-clock consumer will depend on the generation mix, the network and the supply available when output falls. A gigawatt of installed capacity does not guaranteei a gigawatt at every hour. Smelter economics requires an answer to the second question.\n\nThen there is the question of where the computing investment goes. American politics adds another influence, although the chronology rules out a simple explanation for Google's Malaysian plans. Democrats won the US midterms and were projected to control both chambers of Congress. New York had already paused certain environmental permits for new hyperscale facilities, and a federal moratorium had been proposed in the House. A proposal in Congress remains a proposal; it should not be counted as an operating restriction across the country. For a developer choosing its next site, however, an uncertain permit date has a cost. An overseas location with a credible date for connecting the power becomes more attractive at the margin. That can affect future capital allocation without requiring the closure of a single existing American campus. \n\nGoogle broke ground on its earlier $2 billion Malaysian data center and could project in 2024. Its Elmina campus was already operating by the latest announcement. The company has separately committed $40 billion to Texas through 2027. Those commitments offer little support for treating the Malaysian expansion as money pulled out of as the US after the election. \n\nThere are customers abroad as well as construction opportunities. Microsoft's Indonesian cloud region, opened in 2025, serves demand for local data storage and faster responses. The planned one-gigawatt Stargate cluster in Abu Dhabi belongs to an agreement that also envisages Emirati investment in US infrastructure. Capital moves in both directions. The relevant change for aluminium is that more locations may have another large industry seeking electricity, land with grid access and electrical equipment.\n\nFor a concrete example of what an established connection can be worth, look at Hawesville, Kentucky. Century Aluminum curtailed its smelter there in 2022 after electricity prices rose. In February 2026, it sold the site to a TeraWulf affiliate for $200 million in cash and a 6.8% interest in the entity planning a computing campus. The buyer highlighted high-voltage transmission lines, an energized substation and access to the regional grid.\n\nThe smelter had been idle for years. This was not AI forcing an operating aluminium plant off the grid, and it cannot establish a valuation for every other smelter site. It does show that electrical infrastructure can retain a buyer after metal production has ceased. For Century's shareholders, the proceeds and equity interest differ in character from smelting earnings. For the wider industry, the transaction illustrates the alternative use now available for some assets. \n\nAlcoa offers a more recent example. In the third quarter of 2026, it signed definitive agreements to sell portions of its Massena East site for data-center development. Its October 15 results disclosure put potential cash proceeds up to $315 million, tied to the buyer’s development of approved capacity. The sale still had conditions to clear up, including permitting and regulatory approvals, and much of the potential payment depended on later development. For investors, the eventual proceeds therefore depend on more than signing the agreement. As at Hawesville, the distinction between a site’s redevelopment value and recurring aluminium earnings matters.\n\nThat brings me back to the proposed aluminium capacity. I would not assume that every project is equally exposed. In North Kalimantan, the company behind the KAI smelter signed a seven-year lease for generating equipment on June 30. The agreement does not guarantee delivery, commissioning or output, but it gives a supply analyst more to work with than a target year in an investor presentation.\n\nCaptive generation and industrial-park power arrangements can also protect Indonesian projects from direct competition with a data center. A generator dedicated to a smelter cannot necessarily switch its output to a computing campus. network connections, fuel supply, regulation and contractual commitments determine whether that alternative exists. The more defensible risk is often to the next expansion or power contract: another customer may raise the return required on new generation, compete for a connection or absorb equipment that has yet to be ordered. Evidence of those pressures should change a supply forecast. An AI investment announcement by itself should not. \n\nPress Metal's Sarawak smelters have long-term electricity agreements with the state utility. The company has also warned that advanced computing is tightening power availability in several markets. For an incumbent, greater competition for electricity can increase the relative value of arrangements secured earlier. The protection still depends on the contract's pricing provisions, duration and reliability of delivery. \n\nEquipment can be a constraint even where enough generation is planned. The IEA found that procurement of a large power transformer could take up for four years. A smelter and a a data center need not share a grid to encounter the same stretched equipment suppliers. That gives investors a reason to examine deliver commitments alongside electricity contracts. It does not prove a delay at a particular smelter, much less establish how much Southeast Asian capacity will be displaced by AI. \n\nBack in China, there is a nearer-term way to test this supply argument. A November 5 market commentary published by SMM cited domestic aluminium ingot social inventories of 547,000 tonnes on November 2. This is a snapshot of ingot inventories in the domestic social-stock series, rather than a measure of all aluminium stocks. I would watch whether stocks build as new output arrives. Persistent accumulation would weaken the case for tightness even if power remains difficult to secure; a failure to rebuild inventories would make commissioning dates abroad more consequential.\n\nThese developments leave me somewhat more constructive on aluminium than a straightforward reading of the surplus forecast would suggest. China's capacity policy limits one familiar route to supply growth, white the overseas response depends on power, equipment and commissioning schedules that remain project-specific. Existing production with dependable, competitive electricity looks better placed than proposed capacity still negotiating its supply. Higher replacement costs and a slower supply response can support those operating assets without requiring AI to shut dhow a single working smelter. \n\nThere is no automatic route from that advantage to an attractive stock. A premium valuation can absorb it before an investor buys. Debt, capital spending, other input costs and the expiry of a favourable power agreement can all alter returns to shareholders. I would want to see the contract dates and cash-flow consequences before paying more to a producer on this basis. \n\nThe supply outlook could also turn out better than the cautious view allows. Indonesian projects may ramp up on time, Gulf output may recover faster, and a new generation and transmission may serve both industries. Weak demand could leave the aluminium market in surplus even with delayed supply. AI investment alone is not enough to make a metal-price call.\n\nSo how would I build the supply forecast? For now, I would keep projects supported by credible power and equipment arrangements in it, with allowances for commissioning and ramp-up. I would be less willing to assign full output to a proposed smelter whose connection or major equipment remains unsecured. The evidence worth watching is specific: a revised first-metal date, a disclosed change in electricity costs, or a named connection reassigned to a computing project. Timely commissioning and sustained production would argue the other way.\n\nPage 141 of an Indonesian financial filing may tell an aluminium investor more about next year’s supply than another headline about AI spending. A signed equipment lease is only one step towards producing metal. It is still a better starting point than an announced capacity figure. ",
-    "subreddit": "investing",
-    "created_utc": 1794227786,
+    "id": "1xs47m3",
+    "title": "NVDA at about 19x earnings ahead of November 17",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xs47m3/nvda_at_about_19x_earnings_ahead_of_november_17/",
+    "author": "mm_newsletter",
+    "score": 9,
+    "selftext": "Nvidia was around $179 Monday afternoon. That’s roughly 19 times the consensus adjusted earnings estimate for FY2027, which ends in January. That valuation has my attention. \n\nLast quarter, revenue reached $96.2B, up 106% from a year earlier. Data Center brought in $89B. The business is still growing ridiculously fast. \n\nMemory costs are taking a bigger bite though. Management expects gross margins to fall from 75% in Q2 to 71–72% in Q4, then recover to 72–73% in FY2028 as price increases kick in. They laid that out in August, so the lower margins should already be part of the earnings forecasts. \n\nSunday’s board announcement adds uncertainty. An independent investigation will examine reports that the CEO was targeted by foreign intelligence. The board says it has no reason to think company secrets or national security were compromised and still backs his leadership. \n\nEarnings are November 17 after the close. I’m interested in whether they stick with that margin outlook. Another cut would change how I look at the earnings estimate.",
+    "subreddit": "StockMarket",
+    "created_utc": 1794259413,
     "thumbnail": "self",
     "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1xsi4h6",
+    "title": "Daily General Discussion and Advice Thread - November 10, 2026",
+    "url": "https://www.reddit.com/r/investing/comments/1xsi4h6/daily_general_discussion_and_advice_thread/",
+    "author": "AutoModerator",
+    "score": 7,
+    "selftext": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n\nPlease consider consulting our FAQ first - [https://www.reddit.com/r/investing/wiki/faq](https://www.reddit.com/r/investing/wiki/faq) And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.\n\nIf you are new to investing - please refer to Wiki - [Getting Started](https://www.reddit.com/r/investing/wiki/index/gettingstarted/)\n\nThe reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - [Reading List](https://www.reddit.com/r/investing/wiki/readinglist)\n\nThe media list in the wiki has a list of reputable podcasts and videos - [Podcasts and Videos](https://www.reddit.com/r/investing/wiki/medialist)\n\nIf your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n\n* How old are you? What country do you live in?\n* Are you employed/making income? How much?\n* What are your objectives with this money? (Buy a house? Retirement savings?)\n* What is your time horizon? Do you need this money next month? Next 20yrs?\n* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n* Any big debts (include interest rate) or expenses?\n* And any other relevant financial information will be useful to give you a proper answer.\n\nCheck the resources in the sidebar.\n\nBe aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!",
+    "subreddit": "investing",
+    "created_utc": 1794301223,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "The distribution is a taxable event assuming that you hold the fund in a taxable account. \nIf the fund price drops due to the distribution and you reinvest that does not negate the taxable event.",
+        "score": 1,
+        "author": "greytoc"
+      },
+      {
+        "body": "Sorry for the basic questions - in past my CG have been so small it was a non issue.  Im in the US.\n\nIf Im expecting $56k in capital gain distribution in a few weeks from T Rowe (not by selling any of my shares) is it accurate that after the record date / distribution the share price drops so my account balance stays the same if I choose reinvestment?\n\nSo say I have $100k on 12/14.  Record date is 12/15.  I reinvest. On 12/16 I still have $100k (assuming no market changes right?)\n\nI have a $51k unrealized gain for this mutual fund and normally my cap gains in Dec are $10k.  Not $56k!\n\nThis has completely screwed up my magi for ACA subsidy.\n\nI was already planning to try to reduce my mutual fund holdings for fear of this one day but had not figured out best way.\n\nSo is it accurate to say if I wait to sell my shares until after record date in Dec I pay tax on the $56k capital gain and then also on the $53k unrealized gain when I sell my actual shares?\n\nSo in that case Id be better off selling my shares now at a $53k unrealized gain and avoiding the capital gain distribution of $56k?\n\nIts only on “paper” right? Its not like my balance goes up by $56k on record date right?\n\nIf not, what am I missing?\n\nBtw - invested in this way long before I knew ETF existed.  Had not been an issue until now.  Had actually beeb useful to ensure magi was high enough. \n\nI also posted in the new to investing but not sure either place is correct",
+        "score": 1,
+        "author": "Comfortable_Two6272"
+      },
+      {
+        "body": "core CPI came in at 0.3% today vs 0.2 expected, headline 0.4. thats right at waller’s line for considering a 50bp hike in december. the funny thing is credit barely flinched through last week’s chip selloff, Moody’s Baa spread was 1.56% on friday which is near the low end of the last 2 years. if spreads start moving after this print that’s the thing I’d watch, more than the nasdaq",
+        "score": 1,
+        "author": "ravenmaster_arthur"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   }
 ];
