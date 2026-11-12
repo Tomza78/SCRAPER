@@ -1,206 +1,5 @@
 window.dailyTrends = [
   {
-    "id": "1xs09zz",
-    "title": "Name a better investor than Jensen Huang's wife.",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xs09zz/name_a_better_investor_than_jensen_huangs_wife/",
-    "author": "Anoncry66",
-    "score": 2331,
-    "selftext": "$NVDA bull case just dropped !  \n  \nThe affair rally:\n\n$AMZN has added $2 trillion to its market cap since Bezos cheated on his wife in 2019\n\n$MSFT has added $2 trillion to its market cap since Bill Gates cheated in 2021.                                             ",
-    "subreddit": "StockMarket",
-    "created_utc": 1794250581,
-    "thumbnail": "https://preview.redd.it/0v7ph4atvm0i1.jpeg?width=140&height=68&auto=webp&s=050e3b1e2ceffde6470eb6578b86c1e53448cd4e",
-    "top_comments": [
-      {
-        "body": "Probably dozens of Chinese spies at nvidia ",
-        "score": 3,
-        "author": "Angry_beaver_1867"
-      },
-      {
-        "body": "We all know what happens when canada gets involved in international conflicts.  It isnt pretty.",
-        "score": 3,
-        "author": "peekdasneaks"
-      },
-      {
-        "body": "Keep my husbands penis out your fucking mouth. - Jensens Wife… probably. ",
-        "score": 2,
-        "author": "GreyFox_1337"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-10",
-    "savedAt": {
-      "_seconds": 1794321617,
-      "_nanoseconds": 195000000
-    }
-  },
-  {
-    "id": "1xsl42m",
-    "title": "My theory: Jensen and some powerful people have been making side deals with China, and the government knew",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xsl42m/my_theory_jensen_and_some_powerful_people_have/",
-    "author": "Educational_Duty_821",
-    "score": 63,
-    "selftext": "This is my theory. I have no proof, and none of what follows the facts section has been shown by any reporting\n\nEveryone wants Nvidia's chips and China's legally locked out. That's the perfect setup for someone to get rich in the middle. Scarcity plus demand like that means whoever can get chips to buyers gets stinking rich. I think Jensen and a group of powerful people around him could have been doing side deals with China, and I don't think it's that hard. A CEO this well connected to politicians has the access, the relationships, and the cover. Who exactly is stopping them ?  \nI also think the government has known about this for about a year and chose not to act, because the people who'd have to act are the ones he's close to. The money doesn't disappear with a ban. It just goes to whoever's positioned to move the product.  \nAgain: no proof, and the reporting says officials don't believe Jensen knew about her intel work. I'm asking why a year of investigation led to a paused probe and no action.  \nAm I connecting dots that aren't there, or does this smell off to you too?",
-    "subreddit": "StockMarket",
-    "created_utc": 1794312079,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "If that happens, nvidia falls 30%",
-        "score": 9,
-        "author": "thefoodiedentist"
-      },
-      {
-        "body": "All of this could have been avoided if the government would have told him. One of our citizens was being targeted by a Chines Spy and the government decided not to tell him. That is what I'm hearing. ",
-        "score": 9,
-        "author": "CaptainKoolAidOhyeah"
-      },
-      {
-        "body": "He created nvidia.  He made it a 4t company.  Hes the face of the company.  It would be like losing steve jobs.   Also, i think both he and some executives knowingly sold chips to china.",
-        "score": 7,
-        "author": "thefoodiedentist"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-10",
-    "savedAt": {
-      "_seconds": 1794321620,
-      "_nanoseconds": 612000000
-    }
-  },
-  {
-    "id": "1xslvx7",
-    "title": "Why is SpaceX winding down the Falcon 9 program and getting nothing in return?",
-    "url": "https://www.reddit.com/r/investing/comments/1xslvx7/why_is_spacex_winding_down_the_falcon_9_program/",
-    "author": "Yupperroo",
-    "score": 381,
-    "selftext": "I'm at a loss to understand why SpaceX doesn't continue to sell Falcon 9 launches into 2029 and beyond. There is crazy demand for that vehicle and there doesn't seem to be capacity/availability on Star Ship for commercial launches. At a minimum SpaceX could sell Falcon 9 as there is no doubt huge interest in using that vehicle by an endless line of customers. Ending Falcon 9 is a gift to Rocket Lab, Blue Origin, ULA and others. There is a rational that SpaceX wants to put engineering resources toward other projects, but how much engineering is needed on a system that is already matured? ",
-    "subreddit": "investing",
-    "created_utc": 1794314433,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "The link is from last month lol\n\nNow Tesla has more robotaxis than waymo in Texas (1300+)",
-        "score": 5,
-        "author": "smadhuv"
-      },
-      {
-        "body": "Also, rockets (or rather rocket programs - Falcon is such) have rather large fixed costs. They need whole infrastructure which must be maintained as you explained well. If the yearly cost of that maintenance is subdivided into, say 150 launches, it's a minority fraction of a single launch cost. But cut the number of flights several-fold and your fixed costs now dominate. So you get thinner margins and less net profit. So it's now less economical to keep the program on. And if you raised prices to maintain economical margins, you get even less business.\n\nAnd then, you have those experienced people working on the old less and less profitable program while they'd produce more value working on the new thing.",
-        "score": 2,
-        "author": "sebaska"
-      },
-      {
-        "body": "Opportunity cost is it.  Every dollar put into Falcon is will double.  Every dollar put into Starship, Starlink, Starmind is expected to 10x.  \n\nGovernment and contract launches are quickly becoming a rounding error. BO will only fight for these launch contracts for a little longer before they also realize higher returns from launching their own products. The other companies will either follow suite or die trying. ",
-        "score": 2,
-        "author": "Then-Secretary-9166"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xse63u",
-    "title": "Anthropic Retracts Filing That Showed IPO Target, Reuters Says",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xse63u/anthropic_retracts_filing_that_showed_ipo_target/",
-    "author": "confused_boner",
-    "score": 75,
-    "selftext": "[**Anthropic Retracts Filing That Showed IPO Target, Reuters Says**](https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says?utm_source=website&utm_medium=share&utm_campaign=copy)\n\nBy Rachel Metz November 9, 2026 at 7:43 PM CST Updated on November 9, 2026 at 10:24 PM CST Save Translate Listen 1:24 • November 9, 2026 at 7:43 PM CST Updated on November 9, 2026 at 10:24 PM CST\n\n[https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says?utm\\_source=website&utm\\_medium=share&utm\\_campaign=copy](https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says?utm_source=website&utm_medium=share&utm_campaign=copy)\n\nAnthropic PBC sent out and retracted a filing that appeared to show it was aiming to raise as much as $69.3 billion ⁠through an initial public offering, Reuters said.\n\nThe artificial ​intelligence lab first sent bankers a copy of a filing that indicated a sale of about 867 ​million shares in a price ‌range ⁠of $70 to $80 per share, but then followed up with an email saying that those ​details were inaccurate, Reuters said.\n\nAn Anthropic spokesperson declined to comment.\n\nThe retracted filing was an updated prospectus sent by Anthropic’s outside counsel in Canada, The Information reported, citing people it didn’t identify. The counsel later told the banks that some of the details were inaccurate and it would update the filing later, it said.\n\nThe AI lab is preparing to list its shares while markets digest the potential fallout from the US midterm elections and volatility surges for tech stocks, with trillions of dollars of value wiped out in a single day.\n\nPotential investors were weighing valuations of $1.1 trillion to $1.3 trillion for the creator of the Claude chatbot, down from an estimated fair value of as high as $2 trillion in early October, Bloomberg News reported.\n\nThe Democratic sweep of Congress is spurring renewed scrutiny over the pace of data-center expansion on top of fears about rising debt levels and safety concerns in the AI sector.\n\n(Updates with report on source of filing in fourth paragraph.)",
-    "subreddit": "StockMarket",
-    "created_utc": 1794286697,
-    "thumbnail": "https://external-preview.redd.it/Z5NgIboK2hy1UtZz4qNHb7x5ysXSKFugvwWQraoYV2s.jpeg?width=140&height=93&auto=webp&s=0912709c64e42cb5a49e0c2216f961a30038d795",
-    "top_comments": [
-      {
-        "body": "They saw one Green Day and then immediately wants to increase the ipo number ",
-        "score": 23,
-        "author": "Scary-Oven8260"
-      },
-      {
-        "body": "No, I think the old numbers were based on the $2T target which they will still probably have to lower",
-        "score": 6,
-        "author": "hawkeye224"
-      },
-      {
-        "body": "[**Anthropic Retracts Filing That Showed IPO Target, Reuters Says**](https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says?utm_source=website&utm_medium=share&utm_campaign=copy)\n\nBy Rachel Metz November 9, 2026 at 7:43 PM CST Updated on November 9, 2026 at 10:24 PM CST Save Translate Listen 1:24 • November 9, 2026 at 7:43 PM CST Updated on November 9, 2026 at 10:24 PM CST\n\n[https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says?utm\\_source=website&utm\\_medium=share&utm\\_campaign=copy](https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says?utm_source=website&utm_medium=share&utm_campaign=copy)\n\nAnthropic PBC sent out and retracted a filing that appeared to show it was aiming to raise as much as $69.3 billion ⁠through an initial public offering, Reuters said.\n\nThe artificial ​intelligence lab first sent bankers a copy of a filing that indicated a sale of about 867 ​million shares in a price ‌range ⁠of $70 to $80 per share, but then followed up with an email saying that those ​details were inaccurate, Reuters said.\n\nAn Anthropic spokesperson declined to comment.\n\nThe retracted filing was an updated prospectus sent by Anthropic’s outside counsel in Canada, The Information reported, citing people it didn’t identify. The counsel later told the banks that some of the details were inaccurate and it would update the filing later, it said.\n\nThe AI lab is preparing to list its shares while markets digest the potential fallout from the US midterm elections and volatility surges for tech stocks, with trillions of dollars of value wiped out in a single day.\n\nPotential investors were weighing valuations of $1.1 trillion to $1.3 trillion for the creator of the Claude chatbot, down from an estimated fair value of as high as $2 trillion in early October, Bloomberg News reported.\n\nThe Democratic sweep of Congress is spurring renewed scrutiny over the pace of data-center expansion on top of fears about rising debt levels and safety concerns in the AI sector.\n\n(Updates with report on source of filing in fourth paragraph.)",
-        "score": 4,
-        "author": "confused_boner"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-10",
-    "savedAt": {
-      "_seconds": 1794321619,
-      "_nanoseconds": 952000000
-    }
-  },
-  {
-    "id": "1xss5gl",
-    "title": "Inflation Remains Hot in October and Strengthens Case for Another Fed Rate Hike",
-    "url": "https://www.reddit.com/r/finance/comments/1xss5gl/inflation_remains_hot_in_october_and_strengthens/",
-    "author": "realtordotcom",
-    "score": 74,
-    "selftext": "Inflation accelerated faster than anticipated in October, driven by surging costs for [housing](https://www.realtor.com/news/trends/housing-market-buyers-pull-back-sellers-october-2026-report/) and food, which will bolster the case for another [Federal Reserve](https://www.federalreserve.gov/) interest rate hike next month.\n\n  \nOn a monthly basis, overall prices rose 0.4% from September, according to the Consumer Price Index (CPI) data released by the [U.S. Bureau of Labor Statistics](https://www.bls.gov/cpi/) (BLS) Tuesday. That's down from the 0.6% monthly increase recorded in September but higher than the 0.2% gain forecasted by economists.\n\n  \nRead more: [https://www.realtor.com/news/trends/cpi-inflation-prices-mortgage-rates-october-2026/](https://www.realtor.com/news/trends/cpi-inflation-prices-mortgage-rates-october-2026/)",
-    "subreddit": "finance",
-    "created_utc": 1794329835,
-    "thumbnail": "default",
-    "top_comments": [
-      {
-        "body": "If only we knew how to lower inflation,they have tried nothing and are all out of ideas!",
-        "score": 3,
-        "author": "jason_abacabb"
-      },
-      {
-        "body": "the Prediction Markets numbers jumped instantly after the read.... [https://predictionmarketspicks.com/articles/october-2026-cpi-fed-half-point-hike-odds-polymarket-us](https://predictionmarketspicks.com/articles/october-2026-cpi-fed-half-point-hike-odds-polymarket-us)\n\n",
-        "score": 3,
-        "author": "Best_Ant_5023"
-      },
-      {
-        "body": "I take issue with the use of the word \"Another\" here. We should have had a steady stream of rate hikes and we aren't seeing that from the Fed. I am doubtful they will do it.",
-        "score": 2,
-        "author": "findingmike"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xskrr9",
-    "title": "Anthropic sets price range of $70 to $78 in upcoming IPO as AI lab marches towards Nasdaq",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xskrr9/anthropic_sets_price_range_of_70_to_78_in/",
-    "author": "TACO_Orange_3098",
-    "score": 11,
-    "selftext": "Word is trading starts next Thursday 11-19-2026 .....\n\n* Anthropic said it will offer 825 million shares in its upcoming IPO at a price range between $70 to $78 per share.\n* Should the offering take place in mid-November as expected, it will come roughly five months after SpaceX’s record IPO.\n* Anthropic has filed to trade on the Nasdaq under ticker symbol “ANT.”\n\n\n\nFor the nine months ended Sept. 30, Anthropic said it generated $33.24 billion in revenue up roughly 1,200% from the same period last year. It reported a $104 billion net loss during the nine-month period, though most of that was due to the change in fair value of convertible notes and derivative liabilities. Anthropic lost $25.1 billion over the same stretch in 2025, the filing said.\n\n“Our aim is to help humankind chart a safe course through this technological evolution, open new frontiers of discovery, and bring forth an age of miracles,” Anthropic’s co-founders wrote in the prospectus. “Everyone who owns our stock, whether an institution or an individual, becomes part of that effort. We hope you will share our ambition to see it though.”  \n\n\n  \n",
-    "subreddit": "StockMarket",
-    "created_utc": 1794310979,
-    "thumbnail": "https://external-preview.redd.it/YAXfmLee7xaLk0oM5MNe6DqmdvwiAEP3Xx0nmD_Q2LY.jpeg?width=140&height=78&auto=webp&s=455ceeed5411af7d1fc886fa4a1d98630c3e62fd",
-    "top_comments": [
-      {
-        "body": "Experienced IPO & Capital Management Genius we have here",
-        "score": 2,
-        "author": "TraditionalGas1770"
-      },
-      {
-        "body": "Pricing it lower and then market pushing the price higher is the better strategy here. If they price it at 1 trillion and it gets pushed to 1.5 trillion the day of the IPO as the liquidity is low, that’ll be a better showing than pricing at $2 trillion and closing lower.",
-        "score": 1,
-        "author": "advancedBison2"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-10",
-    "savedAt": {
-      "_seconds": 1794321623,
-      "_nanoseconds": 883000000
-    }
-  },
-  {
     "id": "1xtdrpb",
     "title": "Anthropic valuation raised to 1.5t again",
     "url": "https://www.reddit.com/r/StockMarket/comments/1xtdrpb/anthropic_valuation_raised_to_15t_again/",
@@ -229,177 +28,27 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xt1pow",
-    "title": "NVIDIA bullish or bearish?",
-    "url": "https://www.reddit.com/r/investing/comments/1xt1pow/nvidia_bullish_or_bearish/",
-    "author": "gilli3hunna",
-    "score": 51,
-    "selftext": "Are we still bearish on this AI thing or? NVDA earnings next week is it going to dump or pump? I want to start buying shares with leverage beacuse i think this so called “AI Bubble” people are calling it is just a correction and almost over but idk i mean NVDA down 30% from ATH MU about 40% GOOGL about 30% i mean is it over for AI stocks or is this just a correction in the market? I also see alot of people talking about that AI stocks were at a overvalued price and we also learned from the Dot-com bubble that we were right about the tech but wrong about the price. \n\nIdk any comments on this?",
-    "subreddit": "investing",
-    "created_utc": 1794352247,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "This is a matter of treason however lol",
-        "score": 3,
-        "author": "cloudnine538"
-      },
-      {
-        "body": "Bearish for now until after the investigation since they may have to correct earnings down by approximately 20%… we will see below $160  before it gets better! Don’t try catching a falling knife😉",
-        "score": 3,
-        "author": "NefariousnessOdd862"
-      },
-      {
-        "body": "If Nvidia gives good earnings in a few days, yes I believe NvidiA might have very well bottomed these days and might rip back up fast. Just look at daily movement of AMD for example",
-        "score": 2,
-        "author": "DotaWemps"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xsfqgq",
-    "title": "RKLB Stock Tumbles Over 8% Overnight as Neutron Delays Overshadow Record Revenue, but Analyst Sees Rocket Lab's Solar, Connectivity Advantage",
-    "url": "https://www.reddit.com/r/investing/comments/1xsfqgq/rklb_stock_tumbles_over_8_overnight_as_neutron/",
-    "author": "TITS925",
-    "score": 9,
-    "selftext": "$RKLB CEO Peter Beck, during the company’s third-quarter earnings call on Monday, reiterated the potential defense applications for orbital data centers, backing Rocket Lab’s efforts to develop the technology.\n\n**Peter Beck Outlines ‘Bullish’ Sentiment on Defense Data Centers**\n\nDuring the earnings call, Beck was asked for his views on developing orbital compute. “I would say that we’ve always been bullish, certainly on defense-based orbital data centers,” he said, but acknowledged that there was some “skepticism” about data centers in space as a whole.\n\n“We certainly weren’t going to cut off any opportunities for ourselves, hence the reasons why we developed and brought to market the new silicon cell for orbital data centers,” the CEO said.\n\nHe also pointed to Rocket Lab’s more than $515 million in Neutron launch contracts announced Monday. The contracts cover eight missions across five constellation operators, including Starcloud, which booked one dedicated Neutron launch for 2029. Starcloud aims to develop and deploy data centers in space, the company said.\n\nNotably, Neutron’s first launch is now targeted for no earlier than 2027. Rocket Lab said it identified a manufacturing process issue in October that caused voids in portions of a composite propellant tank dome, prompting it to refine the process and manufacture a replacement component.\n\n**Beck Touts ‘Major Technological Advancements’**\n\nHowever, the CEO outlined the need for breakthroughs to make the technology economically feasible. “I think there needs to be some major technological advances to unlock the economics,” he said.\n\nDuring the earnings call, Beck said deploying “smaller data centers or data centers of a smaller scale in orbit” was “completely doable,” backing the technology for “secure comms” or defense applications.\n\n“I think that it will definitely happen. But the moving all data centers off Earth into space, I think there’s a few challenges to solve there,” Beck said.",
-    "subreddit": "investing",
-    "created_utc": 1794292015,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Orbital data centers DO NOT MAKE SENSE\n\n1.\t⁠Weight of launch adds cost that isn’t outweighed by power gains  \n2 you can’t easily do maintenance on an asset that has a short shelf life (5-7 year chips)  \n2.\t⁠Heat transference is all fucked and doesn’t remotely work. It’s actually impossible with our current technology to dump anything close to the amounts of heat those things generate  \n3.\t⁠Radiation will play havoc with the electronics without proper shielding which adds cost  \n4.\t⁠Data transmission back is less cost effective\n\nThere are huge scientific problems and huge financial problems with it. It makes absolutely no sense vs a terrestrial data center and isn’t a thing that’s going to happen. It’s a thing musk says to try to prop up the valuation do the company",
-        "score": 3,
-        "author": "ninjagorilla"
-      },
-      {
-        "body": "Books will be written about this crazy investing era.",
-        "score": 2,
-        "author": "ambientocclusion"
-      },
-      {
-        "body": "the neutron line is in the 9 Nov 8-K: first launch \"no earlier than 2027\". if the drop is about neutron, that's the sentence people are reacting to. revenue wasn't the problem. $268M, and the q4 guide is $270-290M. the thing i'd watch is whether the 16 neutron missions in backlog keep their timing, because that's where the story is now.",
-        "score": 2,
-        "author": "nethan365b"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-10",
+    "dateString": "2026-11-11",
     "savedAt": {
-      "_seconds": 1794321624,
-      "_nanoseconds": 731000000
+      "_seconds": 1794405346,
+      "_nanoseconds": 519000000
     }
   },
   {
-    "id": "1xsetp5",
-    "title": "Educational Investment Resources for Beginners",
-    "url": "https://www.reddit.com/r/investing/comments/1xsetp5/educational_investment_resources_for_beginners/",
-    "author": "Alternative_Bet_4351",
-    "score": 12,
-    "selftext": "Hello!  New to this sub.  I’m looking for advice. I just started investing with Fidelity where my 401k is. I want to start learning more about purchasing stocks and investing. \n\nMy main concern is that there’s an overwhelming amount of information and opinions on investing.  Could anyone recommend a guide, book, YouTube series, or podcast that I can dig into to learn about investing?  \n\nNOTE: I’m NOT searching for resources from someone who’s just wealthy or just popular, I’m searching for resources that are known for being educational and breakdown the process and decision-making behind investing. \n\nThanks!!",
-    "subreddit": "investing",
-    "created_utc": 1794288857,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "The absolute best place to start for a new investor is *The Little Book of Common Sense Investing* by John C. Bogle.",
-        "score": 6,
-        "author": "CapitalistCabal"
-      },
-      {
-        "body": "Both TLBOCSI as well as The Simple Path To Wealth were life changing for me. Cured me from my delusion that I could pick winning individual stocks. Now I'm assured of getting the market return with low cost broad based index funds.",
-        "score": 3,
-        "author": "Fenderstratguy"
-      },
-      {
-        "body": "r/bogleheads read the wiki and there is a great forum on the BH website",
-        "score": 2,
-        "author": "TruckTires"
-      }
-    ],
+    "id": "1xtjayk",
+    "title": "Nasdaq surges as CoreWeave leads tech rebound",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xtjayk/nasdaq_surges_as_coreweave_leads_tech_rebound/",
+    "author": "TorukMaktoM",
+    "score": 113,
+    "selftext": "Stocks rose Wednesday morning, boosted by sharp gains in CoreWeave and a rebound in Nvidia following back-to-back losing sessions for the chipmaker.\n\nNeocloud stock CoreWeave rallied 13% after the company reported third-quarter revenue that beat analyst expectations. CoreWeave also lifted its operating income and revenue guidance for 2026.",
+    "subreddit": "StockMarket",
+    "created_utc": 1794407708,
+    "thumbnail": "https://external-preview.redd.it/koUVeWiqYd_QLqi9qXvHWuQ56Rr3P5n8rBHFyYQxbto.jpeg?width=140&height=78&auto=webp&s=576e4255498af40d59f174ac6d966268cf36c1fb",
+    "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-10",
-    "savedAt": {
-      "_seconds": 1794321623,
-      "_nanoseconds": 219000000
-    }
-  },
-  {
-    "id": "1xtbal9",
-    "title": "Gov. rejects aligning financial services rules with EU, torpedoing case for rejoin",
-    "url": "https://www.reddit.com/r/finance/comments/1xtbal9/gov_rejects_aligning_financial_services_rules/",
-    "author": "TurboSardine",
-    "score": 17,
-    "selftext": "Story on Bloomberg: https://www.bloomberg.com/news/articles/2026-11-10/burnham-rejects-eu-financial-rules-showing-brexit-reset-s-limits?srnd=undefined",
-    "subreddit": "finance",
-    "created_utc": 1794381105,
-    "thumbnail": "default",
-    "top_comments": [
-      {
-        "body": "Ha! Canada will do this before you ",
-        "score": 8,
-        "author": "SuperRonnie2"
-      },
-      {
-        "body": "Great for Russian money launderers who mainly go through London to wash the blood off their cash. ",
-        "score": 5,
-        "author": "Djungeltrumman"
-      },
-      {
-        "body": "Well, guess they need another decade of misery before they kick out the parasitic bankers.",
-        "score": 4,
-        "author": "Pietes"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xs82hh",
-    "title": "35 m. Give me critique and feedback on my portfolio and situation. Trying to fine tune.",
-    "url": "https://www.reddit.com/r/investing/comments/1xs82hh/35_m_give_me_critique_and_feedback_on_my/",
-    "author": "Renevatio5",
-    "score": 9,
-    "selftext": "I want people to give me feedback or critique my portfolio to be sure I’m doing the best I can. Don’t just say “Increase your income” please, unless you’re hiring  it’s not exactly helpful, I know I’ve been trying but it’s a bad market. I don’t make much money so I want to be sure I’m giving myself the best chance at wealth and good returns over the long haul so I don’t have to live like a beggar in retirement. Here are the details\n\n35 male waiter in Oregon making 30k, I can put about 10% of my take home pay into my Roth IRA. I have a very high risk tolerance and want to be aggressive.\n\n$15,000 emergency fund in VUSXX  \n$31,456 in a Roth IRA  \n\\- 30% VXUS total international  \n\\- 60% VTI total US  \n\\- 10% VUG large cap growth  \n\\- I put extra petty cash into VT when I can but I don’t treat that as a regular contribution.\n\nShould I change my allocation? Add more growth potential? Does it make sense as an aggressive portfolio at my age or should I change the things around or add any funds? I’m trying to take advantage of a long time horizon and maximize my returns without too much uncompensated risk.",
-    "subreddit": "investing",
-    "created_utc": 1794268825,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "With making $30k and still having $15k as emergency fund is incredible.\n\nWith making $30k and still having high risk tolerance being 35 years old is foolish. Your problem is income, not investments",
-        "score": 20,
-        "author": "Immediate-Run-7085"
-      },
-      {
-        "body": "Vti and vxus are solid. I prefer schg to vug but they're similar enough it's just preference.\n\nYou seem to have solid investment picks. I'd worry more about progressing the salary than the investment selection. You've done a good job on that side. ",
-        "score": 8,
-        "author": "perf1620"
-      },
-      {
-        "body": "Your about as aggressive as you can be with 100% equities. There is no magic formula beyond earning more money which is the advice you didn't ask for.",
-        "score": 7,
-        "author": "AlexanderNigma"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-10",
-    "savedAt": {
-      "_seconds": 1794321626,
-      "_nanoseconds": 205000000
-    }
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
     "id": "1xsr190",
@@ -420,17 +69,53 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-11",
+    "savedAt": {
+      "_seconds": 1794405349,
+      "_nanoseconds": 950000000
+    }
+  },
+  {
+    "id": "1xtfz1n",
+    "title": "Daily General Discussion and Advice Thread - November 11, 2026",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xtfz1n/daily_general_discussion_and_advice_thread/",
+    "author": "AutoModerator",
+    "score": 4,
+    "selftext": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n\n​\n\nIf your question is \"I have $10,000, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n\n* How old are you? What country do you live in?\n* Are you employed/making income? How much?\n* What are your objectives with this money? (Buy a house? Retirement savings?)\n* What is your time horizon? Do you need this money next month? Next 20yrs?\n* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n* Any big debts (include interest rate) or expenses?\n* And any other relevant financial information will be useful to give you a proper answer. .\n\nBe aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!",
+    "subreddit": "StockMarket",
+    "created_utc": 1794398453,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "If you asked this question on Tuesday and I saw this, I would have told you the buy the Neoclouds/Tech. I had the exact same amount and invested it on Tuesday. Just buy what you comfortable with",
+        "score": 2,
+        "author": "Disastrous_Rent_6500"
+      },
+      {
+        "body": "I have 1k to invest today. I could comfortably lose this but let's try to maximise. What's your best advice?",
+        "score": 2,
+        "author": "hexferro"
+      },
+      {
+        "body": "Neat fact from the SPY options market today: the price of downside protection dropped sharply in one session. On the Nov 27 expiry, 25-delta puts went from about 21% implied vol yesterday to about 16% today, while calls barely moved. The VIX curve also flipped back to its normal upward slope (VIX9D 16.6, VIX 17.9, VIX3M 19.7). In plain terms: options traders stopped paying up for crash insurance, even though SPY moved about 30% annualized over the last 10 days. Calm pricing, not-so-calm recent tape.",
+        "score": 1,
+        "author": "GammaFlowSPY"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xs47m3",
-    "title": "NVDA at about 19x earnings ahead of November 17",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xs47m3/nvda_at_about_19x_earnings_ahead_of_november_17/",
-    "author": "mm_newsletter",
-    "score": 9,
-    "selftext": "Nvidia was around $179 Monday afternoon. That’s roughly 19 times the consensus adjusted earnings estimate for FY2027, which ends in January. That valuation has my attention. \n\nLast quarter, revenue reached $96.2B, up 106% from a year earlier. Data Center brought in $89B. The business is still growing ridiculously fast. \n\nMemory costs are taking a bigger bite though. Management expects gross margins to fall from 75% in Q2 to 71–72% in Q4, then recover to 72–73% in FY2028 as price increases kick in. They laid that out in August, so the lower margins should already be part of the earnings forecasts. \n\nSunday’s board announcement adds uncertainty. An independent investigation will examine reports that the CEO was targeted by foreign intelligence. The board says it has no reason to think company secrets or national security were compromised and still backs his leadership. \n\nEarnings are November 17 after the close. I’m interested in whether they stick with that margin outlook. Another cut would change how I look at the earnings estimate.",
+    "id": "1xuazfi",
+    "title": "Daily General Discussion and Advice Thread - November 12, 2026",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xuazfi/daily_general_discussion_and_advice_thread/",
+    "author": "AutoModerator",
+    "score": 2,
+    "selftext": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n\n​\n\nIf your question is \"I have $10,000, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n\n* How old are you? What country do you live in?\n* Are you employed/making income? How much?\n* What are your objectives with this money? (Buy a house? Retirement savings?)\n* What is your time horizon? Do you need this money next month? Next 20yrs?\n* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n* Any big debts (include interest rate) or expenses?\n* And any other relevant financial information will be useful to give you a proper answer. .\n\nBe aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!",
     "subreddit": "StockMarket",
-    "created_utc": 1794259413,
+    "created_utc": 1794484895,
     "thumbnail": "self",
     "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -438,30 +123,152 @@ window.dailyTrends = [
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1xsi4h6",
-    "title": "Daily General Discussion and Advice Thread - November 10, 2026",
-    "url": "https://www.reddit.com/r/investing/comments/1xsi4h6/daily_general_discussion_and_advice_thread/",
-    "author": "AutoModerator",
-    "score": 7,
-    "selftext": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n\nPlease consider consulting our FAQ first - [https://www.reddit.com/r/investing/wiki/faq](https://www.reddit.com/r/investing/wiki/faq) And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.\n\nIf you are new to investing - please refer to Wiki - [Getting Started](https://www.reddit.com/r/investing/wiki/index/gettingstarted/)\n\nThe reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - [Reading List](https://www.reddit.com/r/investing/wiki/readinglist)\n\nThe media list in the wiki has a list of reputable podcasts and videos - [Podcasts and Videos](https://www.reddit.com/r/investing/wiki/medialist)\n\nIf your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n\n* How old are you? What country do you live in?\n* Are you employed/making income? How much?\n* What are your objectives with this money? (Buy a house? Retirement savings?)\n* What is your time horizon? Do you need this money next month? Next 20yrs?\n* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n* Any big debts (include interest rate) or expenses?\n* And any other relevant financial information will be useful to give you a proper answer.\n\nCheck the resources in the sidebar.\n\nBe aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!",
-    "subreddit": "investing",
-    "created_utc": 1794301223,
+    "id": "1xudvjw",
+    "title": "In one month, healthcare stocks rose 11% and tech fell 11%. The S&P 500 fell 2%",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xudvjw/in_one_month_healthcare_stocks_rose_11_and_tech/",
+    "author": "TalVal_Research",
+    "score": 1,
+    "selftext": "From the October 13 close to Wednesday's, using the sector ETFs:\n\n\n\n\\- Health care (XLV) +11.4%\n\n\\- Consumer staples (XLP) +8.6%\n\n\\- S&P 500 (SPY) -2.3%\n\n\\- Technology (XLK) -11.2%\n\n\n\nThe three biggest holdings in XLV over the same month: Eli Lilly +23.2%, Johnson & Johnson +12.8%, AbbVie +7.5%.\n\n\n\nIt isn't only Lilly, though Lilly is about a sixth of the ETF. Of the 80 US healthcare stocks I track, 82% closed Wednesday above their 50-day average. In tech it's 35%.\n\n\n\nThe trading moved with it. Over the past month tech was 44% of the dollars traded across the \\~685 US stocks I track, down from about 50% in the six months before.\n\n\n\nAnyone here actually moved money from tech into healthcare this month?\n\n\n\nNo position.",
+    "subreddit": "StockMarket",
+    "created_utc": 1794492968,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1xudiic",
+    "title": "🙄🤦🏻‍♂️ The overreaction is real. Where’s the common sense?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xudiic/the_overreaction_is_real_wheres_the_common_sense/",
+    "author": "NapLvr",
+    "score": 1,
+    "selftext": "Second affair? Third affair, possibly?\n\nLike seriously, Jensen has been with his partner since his younger years. Do people actually think that at some point, infidelity isn't a possibility?\n\nIt's literally human nature.\n\nAt times, I don't understand or believe that people actually have common sense, because if they did, they wouldn't be overreacting to this Jensen affair dilemma.  \nThe NVIDIA board must be delusional to think that a human being like a CEO is somehow immune to affairs.\n\nA one human’s personal actions is about to significantly affect vast majority of technology market.\n\nAnd this shouldn’t be the case or happening if common sense reasoning is applied.\n\nMaybe next they should put contract stipulations like:\n\n“A person who has been married for over 3 years cannot be a CEO.”\n\nOr...\n\n“A CEO cannot have more than 3 affairs.”",
+    "subreddit": "StockMarket",
+    "created_utc": 1794492075,
+    "thumbnail": "https://preview.redd.it/wi4pfoa9u61i1.jpeg?width=140&height=41&auto=webp&s=157db9ff5d341dbb31693d76a41214db1f8cd068",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1xudhxu",
+    "title": "Jensen's Wang is Out of Control!",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xudhxu/jensens_wang_is_out_of_control/",
+    "author": "fathermaxie",
+    "score": 1,
+    "selftext": "Two scandals in one week and Nvidia is busting so hard. It is impacting the whole market! How much lower can the stock go? Will there be a third allegation this week? Jensen needs to reel it in soon or AI could tank even further for no good reason. @ $150 its a no brainer buy no matter how this comes out!",
+    "subreddit": "StockMarket",
+    "created_utc": 1794492044,
+    "thumbnail": "https://external-preview.redd.it/8-tkKTDOeuypqMVS7u5eLqC0T3H6OYYHT_yWz3XNXDE.jpeg?width=140&height=78&auto=webp&s=de7b8f1a15042996fa84e92b218abb49628b1912",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1xucp16",
+    "title": "Each rebound since Oct 6 has topped out loser than the one before it",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xucp16/each_rebound_since_oct_6_has_topped_out_loser/",
+    "author": "dagilisek",
+    "score": 1,
+    "selftext": "SPY closed at 779.09 on Oct 6 and since then it has had 4 rebounds and they peaked at 773.09, 772.31, 766.81 and 759.81 yesterday. Wednesday's 1.3% jump is being called a recovery but SPY is still 2.5% under the Oct 6 close, and it has been making lower highs for 5 weeks.\n\nRebounds are normal in a pullback but a rebound that can't clear the last one's high is how this one has looked so far.",
+    "subreddit": "StockMarket",
+    "created_utc": 1794489920,
+    "thumbnail": "https://preview.redd.it/0jpl05iun61i1.png?width=140&height=92&auto=webp&s=dafdc576d30b61fee30c23827f3bdfd1841344d1",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1xtxa0h",
+    "title": "Those who were invested and or involved in the stock market in 07 just before collapse do you see any parallels and signs with our current market and what's to come?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xtxa0h/those_who_were_invested_and_or_involved_in_the/",
+    "author": "wishihadaps42",
+    "score": 0,
+    "selftext": "I'm a lamen but even I'm starting notice things are looking very similar. Stock all time highs, economy sort of doing well (not for regular people but for companies, rich etc) a lot of high debt across people and companies, oil up and war going on. Was surprised to read that oil was high in 07 just before everything imploded. Things feel like they are going to pop up soon and some sort of catalyst or surprise is coming. I thought the oil prices would have set it off but the party kept going, the data center and tech stocks keep going up with no decline, as of yet. Mid terms in us were surprise for most, still no change. Nvidia dipping hard but I doubt that will be a spark to break things. Michael Burry famous short seller was shorting housing and is doing same now with Nvidia and tech as far as I know.\n\n  \nCurious with those who are older and have experience in the market if things look like business as usual?\n\n  \nFun fact gta 4 was supposed to come out as the market was collapsing but had been delayed into 08 at least we got gta6 during the fall this time. ☃️",
+    "subreddit": "StockMarket",
+    "created_utc": 1794440160,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "The distribution is a taxable event assuming that you hold the fund in a taxable account. \nIf the fund price drops due to the distribution and you reinvest that does not negate the taxable event.",
-        "score": 1,
-        "author": "greytoc"
+        "body": "You're going to have to ask some strippers, not investors",
+        "score": 33,
+        "author": "stilloriginal"
       },
       {
-        "body": "Sorry for the basic questions - in past my CG have been so small it was a non issue.  Im in the US.\n\nIf Im expecting $56k in capital gain distribution in a few weeks from T Rowe (not by selling any of my shares) is it accurate that after the record date / distribution the share price drops so my account balance stays the same if I choose reinvestment?\n\nSo say I have $100k on 12/14.  Record date is 12/15.  I reinvest. On 12/16 I still have $100k (assuming no market changes right?)\n\nI have a $51k unrealized gain for this mutual fund and normally my cap gains in Dec are $10k.  Not $56k!\n\nThis has completely screwed up my magi for ACA subsidy.\n\nI was already planning to try to reduce my mutual fund holdings for fear of this one day but had not figured out best way.\n\nSo is it accurate to say if I wait to sell my shares until after record date in Dec I pay tax on the $56k capital gain and then also on the $53k unrealized gain when I sell my actual shares?\n\nSo in that case Id be better off selling my shares now at a $53k unrealized gain and avoiding the capital gain distribution of $56k?\n\nIts only on “paper” right? Its not like my balance goes up by $56k on record date right?\n\nIf not, what am I missing?\n\nBtw - invested in this way long before I knew ETF existed.  Had not been an issue until now.  Had actually beeb useful to ensure magi was high enough. \n\nI also posted in the new to investing but not sure either place is correct",
-        "score": 1,
-        "author": "Comfortable_Two6272"
+        "body": "> Curious with those who are older and have experience in the market if things look like business as usual?\n\nPotential for major market downturns, for any reason or out of the blue, *is* business as usual.\n\nSo on that basis, sure.",
+        "score": 29,
+        "author": "therealjerseytom"
       },
       {
-        "body": "core CPI came in at 0.3% today vs 0.2 expected, headline 0.4. thats right at waller’s line for considering a 50bp hike in december. the funny thing is credit barely flinched through last week’s chip selloff, Moody’s Baa spread was 1.56% on friday which is near the low end of the last 2 years. if spreads start moving after this print that’s the thing I’d watch, more than the nasdaq",
-        "score": 1,
-        "author": "ravenmaster_arthur"
+        "body": "If you are young buy the dips if you can otherwise it's impossible to time the market so ride it out. I have done it many times and retired 10 years before my retirement age and have doubled my net worth since I retired. Long term investing wins everytime. Think where you will be in 10 or 20 years not tomorrow.",
+        "score": 20,
+        "author": "RabbitGullible8722"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xtdq6b",
+    "title": "The next leg will be UP AND HIGHER in the AI trade",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xtdq6b/the_next_leg_will_be_up_and_higher_in_the_ai_trade/",
+    "author": "Tallwhitedude123",
+    "score": 0,
+    "selftext": "I said this last week and no, I was not selling. Actually I added to GEV yesterday on the big dip from the SoftBank news. I said last week that the Democrat victory doesn’t mean the end of AI data centers being built not because I’m a genius but based on extensive research as well as common sense. The democrats are talking about SLOWING the build through tougher permitting NOT stopping it. There were already major bottlenecks in power limiting the speed of the AI data center build so I’m not exactly sure how much the democrats actually change here but I’m guessing not nearly as much as the algos priced in last week.\n\nLast week was a GIFT and yes, only stupid people sold. Also, something else I’ve been saying and continue to say, WE HAVE NOT SEEN A BUBBLE YET but I’ll let you know when it happens. Here’s a hint: look for PEs well over 100 and closer to 200. \n\nJust remember this and you’ll be ok: the AI trade is VERY HIGH BETA. It’s like riding the biggest, baddest bull at the rodeo without getting bucked off. Many won’t be able to do it but if you can hold on then the big prize awaits at the end! Just don’t stay on too long or you’ll get the horns!",
+    "subreddit": "StockMarket",
+    "created_utc": 1794390375,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Lmao i was gonna comment the same thing. Damn",
+        "score": 6,
+        "author": "A-Money-Lover"
+      },
+      {
+        "body": "We don’t know that stricter permitting will even have a greater effect slowing AI data center projects than the actual main power bottlenecks that already exist limiting how many AI data centers can be built. \n\nSo last weeks sell off was basically a buying opportunity ",
+        "score": 2,
+        "author": "Tallwhitedude123"
+      },
+      {
+        "body": "I was just buying the dip as much as I can. Dips always happen before a rally ",
+        "score": 2,
+        "author": "Disastrous_Rent_6500"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xssni0",
+    "title": "The average retail investor has been conditioned into long term thinking in relation to the stock market. This is a serious risk.",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xssni0/the_average_retail_investor_has_been_conditioned/",
+    "author": "Gaius__Of__The_Julii",
+    "score": 0,
+    "selftext": "Most folks are here will tell you it's a strength and a good mentality to have as an investor. \n\nI'm saying it has become a real risk. You will be the last to react to any significant change that is occurring which will have long term implications.\n\nAI and Debt burden each represent a significant long term shift to the market outlook. \n\nEach are short term bullish but long term bearish.\n\nAI\nBig Tech is transitioning from high-margin, asset-light software models into capital-intensive utilities burdened by massive energy demands, rapid hardware depreciation, and heavy capex. This creates a severe ROI disconnect as cash deployment outpaces organic AI software revenue, eroding free cash flow. Long term, extreme white-collar automation risks weakening the primary engine of a consumer-led economy (70% of US GDP), ultimately undermining the very aggregate demand and earnings power required to sustain corporate valuations.\n\nDEBT\nAs trillions in sovereign and corporate debt roll over at higher interest rates, compounding interest expenses and endless debt supply force long-term bond yields higher. This permanently raises the baseline cost of capital (WACC) across the economy, compressing equity valuation multiples ($P/E$). Over time, rising debt service consumes a growing share of revenues and tax dollars, diminishing economic output and creating structural fiscal stagnation.",
+    "subreddit": "StockMarket",
+    "created_utc": 1794330943,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "The average redditor seems to think that timing the market is a very easy and trivial thing to do. This is a serious risk. ",
+        "score": 39,
+        "author": "kinetic_honda"
+      },
+      {
+        "body": "People adopt long-term thinking in order to tune out garbage like this post.",
+        "score": 16,
+        "author": "1-Dollar-Doge-Coins"
+      },
+      {
+        "body": "The average retail investor is always going to be the last one to know.  This is exactly why they shouldn’t time the market and should use long term strategies.  ",
+        "score": 9,
+        "author": "ResponsiblePumpkin60"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
