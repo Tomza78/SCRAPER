@@ -28,7 +28,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-13",
+    "savedAt": {
+      "_seconds": 1794579736,
+      "_nanoseconds": 293000000
+    }
   },
   {
     "id": "1xucp16",
@@ -51,55 +56,35 @@ window.dailyTrends = [
     }
   },
   {
-    "id": "1xu0y3i",
-    "title": "Has anyone else noticed a major decline in customer service across businesses lately?",
-    "url": "https://www.reddit.com/r/business/comments/1xu0y3i/has_anyone_else_noticed_a_major_decline_in/",
-    "author": "CombinationEasy6896",
-    "score": 199,
-    "selftext": "It feels like companies are increasingly unwilling to accommodate customers, employees seem completely unmotivated or miserable, and even the simplest situations turn into unnecessary confrontations. I've experienced bad situations with Southwest and Kohl's this week. It honestly feels like businesses have stopped caring about customer satisfaction altogether. Is this just me, or has customer service genuinely gone downhill?",
-    "subreddit": "business",
-    "created_utc": 1794450396,
-    "thumbnail": "self",
+    "id": "1xvimdr",
+    "title": "Retail investors have been buying the NVDA dip in enormous numbers",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xvimdr/retail_investors_have_been_buying_the_nvda_dip_in/",
+    "author": "Zipski577",
+    "score": 264,
+    "selftext": "Multiple contributors on CNBC today have reported that their retail clients have been buying the dip in NVDA stock in large volume since its initial dip after the US midterm election Blue Wave reaction.\n\nRobinhood data confirms this as there has been massive net buying amongst its users over the last several weeks.\n\nWith several unknowns and negative headlines and new information coming out almost daily, many of these buys are already sitting at notable unrealized losses. Research studies have shown that retail flow can be a notable contrarian signal and that strong retail buying + institutional selling is usually followed by relative underperformance.\n\nThoughts? Are u buying the dip?",
+    "subreddit": "StockMarket",
+    "created_utc": 1794601337,
+    "thumbnail": "https://preview.redd.it/y6jewoe5vf1i1.jpeg?width=140&height=134&auto=webp&s=f33a38371c171bae12a4d28e0f3d40a0a15fa705",
     "top_comments": [
       {
-        "body": "Yup. Everyone is miserable, overworked, undertrained, under-supported, and fed up.\n\nIt’s a vicious circle- consumers are more difficult and nasty because the service is bad, but the workers are out of \\*\\*\\*\\*s to give (or overextended and therefore unable to provide the promised results).\n\nThen we add more layoffs into the fail-mix, massive attrition causing lost institutional knowledge and process, and it’s a recipe for disaster.\n\nEVERYTHING is enshittified, everything takes longer, you won’t get what you need unless you stay on top of things 5x the amount you used to have to by advocating for yourself (and likely have to get into confrontations to come out ahead), and companies have adopted a hostility mentality which treats customers with disdain and as an obstacle to their profits. \n\nThey build shittier products and then fight like hell against warranty support or customer service policies, knowing if they make it hard enough, people will give up. This has also caused massive burn out with front line employees who have bear the warranted (if not misdirected) wrath of the angry end user who is irate about the new policies or approaches. \n\nStandards have dropped to a level of “meh, this is good enough” while the prices for that declining service/experience costs double what it used to.\n\nI’ve noticed it increase precipitously the last two years. We’re on the path to some big problems. I have never seen the general public I interact with on a daily basis seem so collective frazzled, angry, worn out, impatient, or defeated.\n\nThis is not sustainable.",
-        "score": 21,
-        "author": "Minnesota_Nice1"
+        "body": "Tesla is the textbook retail stock and that thing has had more tard strength than any other stock",
+        "score": 16,
+        "author": "OKMiddleOwl"
       },
       {
-        "body": "It’s a mix of businesses trying to squeeze every dollar out of a situation and/or retain it, and the belief that your hopes and dreams will never amount to anything while working for a menial customer service job. \n\n“I’m making minimum wage and I can’t move up. What’s the point? What’s the point of life?”\n\nMeanwhile back in the day a man selling appliances in sears could support his family and his mortgage with a car while his wife stayed home.” ",
-        "score": 12,
-        "author": "usernumber18452"
+        "body": "And you certainly ain't Huang. ",
+        "score": 14,
+        "author": "CloudyHero"
       },
       {
-        "body": "Truth. I still take pride in what I do. But I recognize that whatever company I'm working for will drop me at the blink of an eye. Three layoffs in three years at three different companies has taught me a lesson.\n\n\"At will\" sucks.",
-        "score": 9,
-        "author": "yangstyle"
+        "body": "He knew what he was doing. She’s not a spy. She’s his contact and go between or  intermediary.",
+        "score": 5,
+        "author": "herefromyoutube"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xtjayk",
-    "title": "Nasdaq surges as CoreWeave leads tech rebound",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xtjayk/nasdaq_surges_as_coreweave_leads_tech_rebound/",
-    "author": "TorukMaktoM",
-    "score": 113,
-    "selftext": "Stocks rose Wednesday morning, boosted by sharp gains in CoreWeave and a rebound in Nvidia following back-to-back losing sessions for the chipmaker.\n\nNeocloud stock CoreWeave rallied 13% after the company reported third-quarter revenue that beat analyst expectations. CoreWeave also lifted its operating income and revenue guidance for 2026.",
-    "subreddit": "StockMarket",
-    "created_utc": 1794407708,
-    "thumbnail": "https://external-preview.redd.it/koUVeWiqYd_QLqi9qXvHWuQ56Rr3P5n8rBHFyYQxbto.jpeg?width=140&height=78&auto=webp&s=576e4255498af40d59f174ac6d966268cf36c1fb",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-12",
-    "savedAt": {
-      "_seconds": 1794495394,
-      "_nanoseconds": 696000000
-    }
   },
   {
     "id": "1xudhxu",
@@ -120,6 +105,37 @@ window.dailyTrends = [
       "_seconds": 1794495398,
       "_nanoseconds": 234000000
     }
+  },
+  {
+    "id": "1xviqia",
+    "title": "While many Americans resist, China embraces AI data center boom",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xviqia/while_many_americans_resist_china_embraces_ai/",
+    "author": "ThirdHuman",
+    "score": 102,
+    "selftext": "Now that data centers are moving outside the US to places like China, how does that impact the current leading US AI companies?  Bullish or bearish?\n\nLabor is cheaper outside of the US so this trend might strengthen the companies who invest in China more in the long-run even if it’ll be annoying for these companies in the short run. \n\nI think it also suggests that non-US companies in this space are much more appealing since the ability to navigate locations like China will be far more in-demand. ",
+    "subreddit": "StockMarket",
+    "created_utc": 1794601617,
+    "thumbnail": "https://external-preview.redd.it/lQBSZ9gPDMiiEzNuN9o4sjjuFI9kxtyhcS_tguOsdgw.png?width=140&height=73&auto=webp&s=6ecb687f12f2ac552d47005bd1c41377fc9b242e",
+    "top_comments": [
+      {
+        "body": "China has less than a tenth of the US data center count. ",
+        "score": 25,
+        "author": "HomerDoakQuarlesIII"
+      },
+      {
+        "body": "that wasn't what you were saying at all. ",
+        "score": 20,
+        "author": "just-joseph"
+      },
+      {
+        "body": "The United States has lost the capacity for large interstate infrastructure programs. They've delegated it all to local governments with limited budgets and unlimited capacity for obstruction.\n\nIf the US built the interstate highway system today, the roads would all be curved due to local political lobbying, and wouldn't connect in obvious places because of more political lobbying.",
+        "score": 11,
+        "author": "DirectionMurky5526"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
     "id": "1xudvjw",
@@ -154,7 +170,12 @@ window.dailyTrends = [
     "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-11-13",
+    "savedAt": {
+      "_seconds": 1794579738,
+      "_nanoseconds": 766000000
+    }
   },
   {
     "id": "1xue67f",
@@ -166,6 +187,26 @@ window.dailyTrends = [
     "subreddit": "business",
     "created_utc": 1794493682,
     "thumbnail": "default",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-11-13",
+    "savedAt": {
+      "_seconds": 1794579739,
+      "_nanoseconds": 362000000
+    }
+  },
+  {
+    "id": "1xvficl",
+    "title": "Saudi PIF put $5B+ into LIV Golf, and the unsecured creditors are getting a $2M tip jar",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xvficl/saudi_pif_put_5b_into_liv_golf_and_the_unsecured/",
+    "author": "SearchSideofPE",
+    "score": 8,
+    "selftext": "fun times ahead boys. LIV Golf filed a chapter 11 wind-down plan in NJ on Nov 10, a few days after BC Partners' credit arm walked away from its $300M \"LIV 2.0\" rescue because not enough players signed on.\n\nPIF has put in more than $5B since 2022. it's a secured creditor, so it gets paid first. the plan sets aside $2M (funded by PIF) for 100M+ in unsecured claims from players, contractors and vendors. that's under two cents on the dollar. BC Partners even tried late on to buy PIF's $50M bankruptcy loan to keep a successor league going, and the liquidation went ahead anyway.\n\nthe biggest sports swing any gulf sovereign fund has taken, the thing that blew up pro golf, ends in a US bankruptcy court with a PE firm walking away. meanwhile PIF and Silver Lake are reportedly talking about taking Unity private at ~$25B, so the checkbook is clearly still open\n\nsources: The Undrafted on the wind-down plan, Reuters via Gulf Times on BC Partners' bid for PIF's loan",
+    "subreddit": "StockMarket",
+    "created_utc": 1794594210,
+    "thumbnail": "self",
     "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
@@ -184,57 +225,33 @@ window.dailyTrends = [
     "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1xub6sk",
-    "title": "Has anyone done any of the finance modules yet from Mercor?",
-    "url": "https://www.reddit.com/r/finance/comments/1xub6sk/has_anyone_done_any_of_the_finance_modules_yet/",
-    "author": "youtaii",
-    "score": 3,
-    "selftext": "curious if this is worthwhile with others from a financial background?",
-    "subreddit": "finance",
-    "created_utc": 1794485532,
-    "thumbnail": "https://external-preview.redd.it/Z6LzW_yQdXW0CpCerqRfOqOtb4aygs9Jf83Er4BoEFQ.png?width=140&height=73&auto=webp&s=2e59d3594447599570a0198be9662f521dccd4b9",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1xuazfi",
-    "title": "Daily General Discussion and Advice Thread - November 12, 2026",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xuazfi/daily_general_discussion_and_advice_thread/",
-    "author": "AutoModerator",
-    "score": 2,
-    "selftext": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n\n​\n\nIf your question is \"I have $10,000, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n\n* How old are you? What country do you live in?\n* Are you employed/making income? How much?\n* What are your objectives with this money? (Buy a house? Retirement savings?)\n* What is your time horizon? Do you need this money next month? Next 20yrs?\n* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n* Any big debts (include interest rate) or expenses?\n* And any other relevant financial information will be useful to give you a proper answer. .\n\nBe aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!",
-    "subreddit": "StockMarket",
-    "created_utc": 1794484895,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-12",
+    "dateString": "2026-11-13",
     "savedAt": {
-      "_seconds": 1794495396,
-      "_nanoseconds": 471000000
+      "_seconds": 1794579740,
+      "_nanoseconds": 652000000
     }
   },
   {
-    "id": "1xuyk7d",
-    "title": "What do you guys think of finance long form content like this?",
-    "url": "https://www.reddit.com/r/finance/comments/1xuyk7d/what_do_you_guys_think_of_finance_long_form/",
-    "author": "InvestigatorCalm3640",
-    "score": 1,
-    "selftext": "I'm trying to incorporate my finance career preparation game and blog, and this is what I was able to make.\n\nIs it way too sloppy?",
-    "subreddit": "finance",
-    "created_utc": 1794544628,
-    "thumbnail": "https://external-preview.redd.it/MDEzYzJtNGI1YjFpMU9FPrOF0XcoSCoktbyqW28hjjnz2a_b5iFJBx7Ld7Ei.png?width=140&height=78&format=jpg&auto=webp&s=46711192ea3c995ee81061a8fb97bb791cd322a6",
-    "top_comments": [],
+    "id": "1xvfsat",
+    "title": "Does the cost case for sodium-ion batteries weaken after the roughly 57% drop in lithium carbonate futures since May?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xvfsat/does_the_cost_case_for_sodiumion_batteries_weaken/",
+    "author": "Altruistic_Recipe932",
+    "score": 5,
+    "selftext": "I pulled closes from the Guangzhou Futures Exchange for the lithium carbonate main contract, the most actively traded contract at the time: 205,260 yuan per ton on May 12, the month's highest close. By November 9 it sat at 87,480 yuan per ton. That's about 57% lower, derived from those two futures closes, not spot.\n\nIn a November 5 press release, Wood Mackenzie expects cell-level cost parity among market leaders between sodium-ion and LFP (lithium iron phosphate, a lithium-ion chemistry) by the end of 2026. Its report puts module and system-level parity, where cells get packaging and controls added, after 2030. Contemporary Amperex Technology (CATL) has a shorter timeline: National Business Daily reported on June 9 that Lin Jiubiao, CTO of CATL's domestic energy storage solutions business, said CATL's complete sodium-ion storage system would match LFP on cost in 2027. Both are system-level dates, but one is a research firm's industry-wide assessment, the other a company target reported by a newspaper.\n\nSodium-ion's raw material cost edge over LFP looks weaker than in May, and CATL's 2027 system target seems more exposed, being the nearer date. How much raw material prices alone matter isn't clear.\n\nWood Mackenzie puts the global average upfront capital at 229 dollars per kWh for sodium-ion and 200 for LFP; those are capital figures, not cell prices. Over a 20-year project life, though, it says sodium-ion delivers 21% lower total cost of ownership. China's finance ministry, customs and tax authorities announced in July a 2% consumption tax on lithium-ion batteries from September 1. Sodium-ion batteries are exempt through the end of 2028, as long as they meet national standards.\n\nAt least 1 GWh of CATL's sodium-ion shipments by the end of 2026, the target Wood Mackenzie cited, is what I look for. Has the slide in lithium prices shifted which of these timelines you find more credible?\n\nRoughly 5.41% of CNQQ's net assets were in CATL's Shenzhen-listed A shares as of the November 10 holdings date on the issuer's site. That makes CATL the fund's third-largest holding. CQQQ measures itself against the FTSE China Incl A 25% Technology Capped Index.",
+    "subreddit": "StockMarket",
+    "created_utc": 1794594834,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "tbh the lithium drop helps LFP more than it hurts sodium's story, since sodium's bigger pitch is cold weather performance and not being tied to lithium price swings. i'd trust the wood mac timeline more, and the tax exemption through 2028 probably matters more for CATL's 2027 target than raw material costs do.",
+        "score": 1,
+        "author": "thesisgoat"
+      }
+    ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
     "id": "1xv62n2",
@@ -249,52 +266,67 @@ window.dailyTrends = [
     "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-11-13",
+    "savedAt": {
+      "_seconds": 1794579742,
+      "_nanoseconds": 560000000
+    }
   },
   {
-    "id": "1xujg28",
-    "title": "My strategy was not the problem but entry was!",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xujg28/my_strategy_was_not_the_problem_but_entry_was/",
-    "author": "Pitiful-Associate932",
-    "score": 1,
-    "selftext": "Yes, you heard it right. I finally found different issues with my strategy and gave solutions to all of them. I would like to document them all so I don't forget anything. Well, I was trading hourly timeframe but after the candle would close, I would wait for a pullback but not crossing that candle high/low but I was very fixed with it, like if market comes back in that fixed pips range, my entry will activate and this cost me a lot of missed trades especially I did some backtesting too which showed the same isssues. Also I had to shift to 30 mins timeframe instead of hourly because that hourly move is a lot and that hourly candle I look for don't even form like even in several days in a row and the market moves the entire rally without me because I don't see that what I look for.\n\nThese two changes will me, finally I had a winning trade after losing all the moves and not knowing what I'm doing. Also reduced my risk for now.\n\nAm I going the right way?",
+    "id": "1xva3ve",
+    "title": "MOD jumps after Bloomberg reports Samsung is in talks to buy Modine",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xva3ve/mod_jumps_after_bloomberg_reports_samsung_is_in/",
+    "author": "Fonsietrader",
+    "score": 3,
+    "selftext": "Modine was around $137.82 as of 9:58 a.m. ET, up about 30% from Thursday's close of $106.10, after Bloomberg reported that Samsung is in talks to acquire the company. The stock opened at $142.05, ran to a morning high of $146.50, and has since traded as low as $135.02. Volume is already above 2.6 million shares, versus a three-month average of about 1.6 million.\n\nBloomberg, citing people familiar with the matter, said the two sides are discussing a transaction that could come together in the coming weeks. No price or other terms have been announced, no final decision has been made, and the report itself notes the talks could still fall apart or that another suitor could emerge. Both Samsung and Modine declined to comment, so this is still an unconfirmed report, not a signed deal.\n\nThe rumor is landing on a data-center cooling business that has been growing quickly. In the fiscal second quarter ended September 30, Modine's Data Centers segment did $439.7 million of sales, up 95% from $225.0 million a year earlier, driven by hyperscale customers in North America. That growth came with a cost: segment gross margin compressed 470 basis points to 19.7% on higher material, component and tariff costs, and the shares had fallen about 15% since the November 3 report.\n\nFrom a tape perspective, $146.50 is the morning high the stock would need to reclaim, and $135.02 is today's low after it undercut the $138 opening-range wick. Next Wednesday, November 18, Modine hosts its Analyst and Investor Day, where management is scheduled to update the multi-year growth strategy and financial targets following the Performance Technologies spin-off. That event is on the calendar either way, whether these talks turn into a deal or they fade.\n\nDo you read this as the market starting to price a takeover premium, or as a gap that still has to prove itself into the November 18 investor day if the talks stall?",
     "subreddit": "StockMarket",
-    "created_utc": 1794505686,
+    "created_utc": 1794582046,
     "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1xuwn5u",
-    "title": "The Jensen Files - Part 1 [Lab Wars Spinoff]",
-    "url": "https://www.reddit.com/r/finance/comments/1xuwn5u/the_jensen_files_part_1_lab_wars_spinoff/",
-    "author": "Educational_Wash_448",
-    "score": 0,
-    "selftext": "I made an ai animated show a while ago called Lab Wars and this one is a spinoff of that. Lab Wars was an anthology series exploring different news and drama within the ai industry. Even this show is fictionalized to a certain extent although based on rumors and news. I'm thinking this will be a three part series. Let me know what you guys think and if you want me to cover any characters or stories in the next parts, feel free to reply below, happy to take any feedback or thoughts in this process!\n\nIf you wanna watch my other lab wars episodes, check em out here:  \n[https://www.youtube.com/watch?v=RLg328MjfeQ&list=PLTHJpfZjycn0](https://www.youtube.com/watch?v=RLg328MjfeQ&list=PLTHJpfZjycn0)\n\nI also make all my shows using [fringe.film](https://fringe.film/)",
-    "subreddit": "finance",
-    "created_utc": 1794538698,
-    "thumbnail": "https://external-preview.redd.it/NmFwbTF3YzZuYTFpMXbmY01GKAq_7knniW9-lcxoMTK0V7bTMBfGVqtMlBK4.png?width=140&height=78&format=jpg&auto=webp&s=2f4f12f7871f491878294fdee09029ae604d235f",
     "top_comments": [
       {
-        "body": "Ironic that his GPUs are being used to mock him.",
-        "score": 6,
-        "author": "Positive_Picture7003"
-      },
-      {
-        "body": "The voices are too similar although the animation style is refreshingly sharp",
-        "score": 3,
-        "author": "SomeCallMeRoars"
-      },
-      {
-        "body": "Bro there is sooooo much AI generated meme mockery going on. \n\nI’m convinced this is all a big ploy to sell more chips…",
-        "score": 2,
-        "author": "SuperRonnie2"
+        "body": "Fair, it's still well below the May highs, though part of that gap is the Performance Technologies spin-off, so it's not a clean comparison. The bigger question for me is whether a Samsung bid would value the data center business on the growth (+95%) or on the margins that compressed last quarter. Nov 18 should help answer that.",
+        "score": 1,
+        "author": "Fonsietrader"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xuyk7d",
+    "title": "What do you guys think of finance long form content like this?",
+    "url": "https://www.reddit.com/r/finance/comments/1xuyk7d/what_do_you_guys_think_of_finance_long_form/",
+    "author": "InvestigatorCalm3640",
+    "score": 1,
+    "selftext": "I'm trying to incorporate my finance career preparation game and blog, and this is what I was able to make.\n\nIs it way too sloppy?",
+    "subreddit": "finance",
+    "created_utc": 1794544628,
+    "thumbnail": "https://external-preview.redd.it/MDEzYzJtNGI1YjFpMU9FPrOF0XcoSCoktbyqW28hjjnz2a_b5iFJBx7Ld7Ei.png?width=140&height=78&format=jpg&auto=webp&s=46711192ea3c995ee81061a8fb97bb791cd322a6",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-11-13",
+    "savedAt": {
+      "_seconds": 1794579741,
+      "_nanoseconds": 994000000
+    }
+  },
+  {
+    "id": "1xw0rar",
+    "title": "Daily General Discussion and Advice Thread - November 14, 2026",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xw0rar/daily_general_discussion_and_advice_thread/",
+    "author": "AutoModerator",
+    "score": 1,
+    "selftext": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n\n​\n\nIf your question is \"I have $10,000, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n\n* How old are you? What country do you live in?\n* Are you employed/making income? How much?\n* What are your objectives with this money? (Buy a house? Retirement savings?)\n* What is your time horizon? Do you need this money next month? Next 20yrs?\n* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n* Any big debts (include interest rate) or expenses?\n* And any other relevant financial information will be useful to give you a proper answer. .\n\nBe aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!",
+    "subreddit": "StockMarket",
+    "created_utc": 1794657687,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   }
 ];
