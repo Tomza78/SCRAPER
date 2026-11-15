@@ -1,61 +1,5 @@
 window.dailyTrends = [
   {
-    "id": "1xuku6o",
-    "title": "The Bigger Issue:  NVDA Cover Up",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xuku6o/the_bigger_issue_nvda_cover_up/",
-    "author": "ProcedureHopeful2944",
-    "score": 958,
-    "selftext": "The real issue with this scandal is not Jensen‘s Wang or infidelity, or even his dishonesty and lack of trustworthiness now that he’s out.\n\nThe bigger issue is what’s to come with the investigation of the cover-up by Trump admin and other US officials involved.\n\nThink Watergate: breaking into the hotel was the crime, but it paled in comparison to the aftermath of the cover-up that followed, leading to Nixon’s resignation.\n\nRemember the US-China summit in May? Let’s revisit that trip to China with Trump‘s envoy of tycoons in tow.\n\nWhat was the deal with them leaving Jensen behind but then picking him up last minute in Alaska to bring him along for the ride? Odd\n\nThen look at media coverage during the summit. He was mostly sidelined, which was weird to see for the godfather and leader of the AI Revolution.\n\nThis whole affair and the possible national security risk connected to it has been known for a while by high-level government officials. \n\nIt’s been covered up out of the risk of crashing the stock market before midterms.\n",
-    "subreddit": "StockMarket",
-    "created_utc": 1794508757,
-    "thumbnail": "https://preview.redd.it/9vfvu73v781i1.jpeg?width=140&height=78&auto=webp&s=c4cf16ec81a3d043071cf49cbe471a378897471f",
-    "top_comments": [
-      {
-        "body": "This market is primed for a big ol’ correction and everyone knows it.\n\nThe affair thing is an excuse, and it will dominate the news cycle for as long as these stocks drop.\n\nOnce you understand this, you tend to see it on every one of these drops; they happen for all kinds of reasons, but the story ends up being whatever’s in the news at the time.",
-        "score": 14,
-        "author": "pseudonominom"
-      },
-      {
-        "body": "I think its worse than that. \n\nThere's been very credible evidence that NVidia has been skirting export controls on GPUs shipped to China. \n\nMy theory is that the importance of NVidia to the AI industry shielded him for a bit, they don't want to have to shut NVidia down (or break them up or even risk a slow down the pace of AI growth). Any action they took on NVIDIA if they charged them publicly for illegally selling GPUs to China would interupt AI growth\n\nGetting rid of Jenson is a way to slap NVIDIA.  Affairs are less disruptive that a massive public scandal that could have serious repercussions for NVIDIA and the AI industry.\n\nJensons affairs seem a way to nip a more serious scandal in the bud. \n\nNVIDIA is too big too fail at the moment.",
-        "score": 12,
-        "author": "cacheMiOutside"
-      },
-      {
-        "body": "I've wondered at times if some companies aren't stockpiling components just to stop their competitors from obtaining them. ",
-        "score": 7,
-        "author": "-polarityinversion-"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-13",
-    "savedAt": {
-      "_seconds": 1794579736,
-      "_nanoseconds": 293000000
-    }
-  },
-  {
-    "id": "1xucp16",
-    "title": "Each rebound since Oct 6 has topped out loser than the one before it",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xucp16/each_rebound_since_oct_6_has_topped_out_loser/",
-    "author": "dagilisek",
-    "score": 1,
-    "selftext": "SPY closed at 779.09 on Oct 6 and since then it has had 4 rebounds and they peaked at 773.09, 772.31, 766.81 and 759.81 yesterday. Wednesday's 1.3% jump is being called a recovery but SPY is still 2.5% under the Oct 6 close, and it has been making lower highs for 5 weeks.\n\nRebounds are normal in a pullback but a rebound that can't clear the last one's high is how this one has looked so far.",
-    "subreddit": "StockMarket",
-    "created_utc": 1794489920,
-    "thumbnail": "https://preview.redd.it/0jpl05iun61i1.png?width=140&height=92&auto=webp&s=dafdc576d30b61fee30c23827f3bdfd1841344d1",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-12",
-    "savedAt": {
-      "_seconds": 1794495398,
-      "_nanoseconds": 820000000
-    }
-  },
-  {
     "id": "1xvimdr",
     "title": "Retail investors have been buying the NVDA dip in enormous numbers",
     "url": "https://www.reddit.com/r/StockMarket/comments/1xvimdr/retail_investors_have_been_buying_the_nvda_dip_in/",
@@ -84,27 +28,74 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-14",
+    "savedAt": {
+      "_seconds": 1794662293,
+      "_nanoseconds": 189000000
+    }
+  },
+  {
+    "id": "1xw8xpo",
+    "title": "Jensen Huang's Possible Return: Is Nvidia's Board Facing Pressure From Investors?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xw8xpo/jensen_huangs_possible_return_is_nvidias_board/",
+    "author": "Illustrious_Lie_954",
+    "score": 405,
+    "selftext": "&#x200B;\n\nThe debate around Jensen Huang's departure from Nvidia is taking a new turn. Two prominent investors, Brad Gerstner of Altimeter Capital and Gavin Baker of Atreides Management, have urged Nvidia's board not to rush into appointing a permanent CEO. Their letter asks the board to keep every option open, including the possibility of Huang returning. What makes this interesting is that the discussion goes beyond personal controversy. Huang spent 33 years building Nvidia into one of the most strategically important companies in the AI industry. His technical vision, relationships with major customers and long-term investment decisions have been central to its growth. Replacing that kind of leadership is not simply a matter of finding another experienced executive.\n\nThere is also a distinction between the investors' letter and the public petition demanding his immediate reinstatement. The investors are primarily calling for a measured succession process, while the petition puts stronger pressure on the board to bring Huang back. Employee and shareholder support is significant, but public signatures alone cannot determine corporate governance decisions.\n\nFor investors, the biggest concern is uncertainty. Nvidia's technology ecosystem, CUDA platform, customer relationships and engineering capabilities remain valuable, but leadership continuity matters when a company operates at this scale. Colette Kress has extensive financial and operational experience as CFO, although leading Nvidia through a major strategic transition would be a different challenge.\n\nThe upcoming earnings report on November 17 will be particularly important. Investors will be watching revenue guidance, margins, AI demand and management's ability to reassure the market that its product roadmap remains intact. Nvidia's long-term value should not depend entirely on one individual, but dismissing Huang's strategic contribution would also be a mistake. The board needs to balance accountability, succession planning and shareholder interests without making a rushed decision.\n\nShould Nvidia prioritise leadership continuity by considering Huang's return, or use this moment to prove that the institution is stronger than its founder?",
+    "subreddit": "StockMarket",
+    "created_utc": 1794679452,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "You can say what you want about Jensen but he handled the trump administration well ",
+        "score": 4,
+        "author": "SHalls17"
+      },
+      {
+        "body": "Everyone’s accusing the board of jumping the gun, which is crazy to me. \n\nMaybe Jenson should have acted responsibly and with integrity, given he’s running a $4Tr company with over 40,000+ employees, and tentacles in every facet of AI. \n\nAnd to the “he made a mistake” crowd, having multiple affairs isn’t a mistake, that’s a lifestyle. ",
+        "score": 2,
+        "author": "riffs_"
+      },
+      {
+        "body": "I'm not a lawyer so hey maybe I'm totally off base. Wouldn't the board be liable for not removing a CEO who was actually committing treason? Even if she wasn't a spy it's pretty obvious that he was helping get chips into China. \n\nAlso he violated company policy by sleeping with subordinates, again something with legal repurcuasions.\n\nIf I were a board member I'd rank my legal liability over any responsibility to shareholders. ",
+        "score": 2,
+        "author": "ronin_cse"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xudhxu",
-    "title": "Jensen's Wang is Out of Control!",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xudhxu/jensens_wang_is_out_of_control/",
-    "author": "fathermaxie",
-    "score": 1,
-    "selftext": "Two scandals in one week and Nvidia is busting so hard. It is impacting the whole market! How much lower can the stock go? Will there be a third allegation this week? Jensen needs to reel it in soon or AI could tank even further for no good reason. @ $150 its a no brainer buy no matter how this comes out!",
-    "subreddit": "StockMarket",
-    "created_utc": 1794492044,
-    "thumbnail": "https://external-preview.redd.it/8-tkKTDOeuypqMVS7u5eLqC0T3H6OYYHT_yWz3XNXDE.jpeg?width=140&height=78&auto=webp&s=de7b8f1a15042996fa84e92b218abb49628b1912",
-    "top_comments": [],
+    "id": "1xw4o4d",
+    "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
+    "url": "https://www.reddit.com/r/investing/comments/1xw4o4d/berkshire_breaks_out_to_record_high_with/",
+    "author": "foodie_2598",
+    "score": 317,
+    "selftext": "CNBC reports that Berkshire Hathaway has reached a record high, with its fourth-quarter rally hitting 19%.  \nFor those holding or following Berkshire, what do you think is driving the rally? Does its current valuation still offer an attractive entry point for long-term investors?  \n[CNBC article](https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html)⁠",
+    "subreddit": "investing",
+    "created_utc": 1794668988,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "They won’t buy AI companies when the bubble pops. They’ll pick up utilities that overextended to service data centers. Even though Buffet is sidelined, the rule of thumb there is still “buy only companies where you understand the product”.",
+        "score": 57,
+        "author": "SharpHawkeye"
+      },
+      {
+        "body": "Well yeah, if you get in before the rush to safety, you’re gonna have a good time",
+        "score": 19,
+        "author": "lurksAtDogs"
+      },
+      {
+        "body": "cash.\n\nI like that Abel invested in GOOGL, but I am not keen on buying of the home builders.   He is buying during a home building lull though, maybe the plan is to sell them when there is a housing boom.\n\nWould I buy at this price point?  Nope.\n\nWe own BRKB since its 50 for 1 split in January 2010, we bought after the split.  Been to a few of the Capitalist Conventions in Omaha.  None of the goods sold in the market are at a discount.\n\nI think they use to mail us tickets when I received the annual report, but now you have to request them.  I used to save the annual reports, Warren's letters, lanyards, and tickets but I threw them all away this year.  It was time to de-clutter.  We always had four tickets.\n\nFun fact, I lived in Omaha.  My Mom's best friend was Warren's neighbor.  My Mom and her and two other women played bridge all the time, since i was in elementary school, I had to go.  Another Mom brought her daughter who was one year older than me and we played games.\n\nEach woman would host the game on a weekly basis.\n\nAt least one time, 1966 or so, the group was short one, so they invited Warren over to play bridge and I met him.  I can claim I met Warren before the world knew who he was.  I had no idea who or what he was, he was just some adult playing bridge with Mom.  He was not the richest man in Omaha at that time either.\n\nAs a kid I also played with the kids of the family that owned Nebraska Furniture Mart and kids of the family that owned Borsheim's, which are both Berkshire Hathaway holdings.",
+        "score": 17,
+        "author": "DistributionBroad173"
+      }
+    ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-12",
-    "savedAt": {
-      "_seconds": 1794495398,
-      "_nanoseconds": 234000000
-    }
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
     "id": "1xviqia",
@@ -135,67 +126,74 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-14",
+    "savedAt": {
+      "_seconds": 1794662294,
+      "_nanoseconds": 130000000
+    }
+  },
+  {
+    "id": "1xvnc0o",
+    "title": "Any long term individual stock holders ?",
+    "url": "https://www.reddit.com/r/investing/comments/1xvnc0o/any_long_term_individual_stock_holders/",
+    "author": "Normal-Doc123",
+    "score": 99,
+    "selftext": "I know that index funds are suitable stock to have when looking at 20-30 years horizon. But I am curious if there is anybody who has held an individual stock for more than 10 years. What has been your experience like and do you think that your stock would have grown more if you had invested it in an index fund instead of individual stock ?",
+    "subreddit": "investing",
+    "created_utc": 1794612997,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Oh hey, me too! I like to think of us as the old guard. ",
+        "score": 4,
+        "author": "The-Magic-Sword"
+      },
+      {
+        "body": "Ive held Apple for 10+ years and GOOG for 6. AAPL is my best performing stock but I have more GOOG. \n\nI know I need to diversify but it’s hard when they’ve done so well. ",
+        "score": 2,
+        "author": "emt139"
+      },
+      {
+        "body": "Some of my best returns were large stocks. Microsoft, Raytheon, Lowe's, Autozone, McDonalds, General Dynamics. All over 1000% gains plus dividends over 10-20 years.",
+        "score": 1,
+        "author": "ChaosReignsNow"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xudvjw",
-    "title": "In one month, healthcare stocks rose 11% and tech fell 11%. The S&P 500 fell 2%",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xudvjw/in_one_month_healthcare_stocks_rose_11_and_tech/",
-    "author": "TalVal_Research",
-    "score": 1,
-    "selftext": "From the October 13 close to Wednesday's, using the sector ETFs:\n\n\n\n\\- Health care (XLV) +11.4%\n\n\\- Consumer staples (XLP) +8.6%\n\n\\- S&P 500 (SPY) -2.3%\n\n\\- Technology (XLK) -11.2%\n\n\n\nThe three biggest holdings in XLV over the same month: Eli Lilly +23.2%, Johnson & Johnson +12.8%, AbbVie +7.5%.\n\n\n\nIt isn't only Lilly, though Lilly is about a sixth of the ETF. Of the 80 US healthcare stocks I track, 82% closed Wednesday above their 50-day average. In tech it's 35%.\n\n\n\nThe trading moved with it. Over the past month tech was 44% of the dollars traded across the \\~685 US stocks I track, down from about 50% in the six months before.\n\n\n\nAnyone here actually moved money from tech into healthcare this month?\n\n\n\nNo position.",
+    "id": "1xwpbxi",
+    "title": "How circular financing works",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xwpbxi/how_circular_financing_works/",
+    "author": "Physical_Humor_205",
+    "score": 31,
+    "selftext": "With all the drama going on with Jensen Huang (and Nvidia), circular financing peaked my interest. Here’s the ELI5 version of what I learned, based on my research today.\n\n**Let’s use three businesses involved in circular financing for simplicity:**  \nNvidia sells ovens (its AI chips).  \nMicrosoft rents out kitchens  (its Azure cloud).  \nAnthropic makes cookies (its Claude AI products).\n\n**Here’s the money loop**  \nNvidia and Microsoft invest money in Anthropic, receiving a piece of its business.  \nAnthropic uses some of its money to rent Microsoft’s kitchen.  \nMicrosoft buys Nvidia’s ovens to equip the kitchen.\n\nSo, some money the companies invest can come back to them as sales. That’s the basic pattern behind their partnership, although the actual agreements are more complicated (There’s at least 20 companies involved in AI circular financing).\n\n**Why do they do this?**  \nAnthropic can grow faster. Microsoft gets a big paying customer. Nvidia sells more equipment. Microsoft and Nvidia also own a piece of Anthropic that could become more valuable.\n\n**What’s the Risk?**  \nSelling lots of ovens and renting lots of kitchens doesn’t necessarily mean people are buying enough cookies.  \nIf customers buy enough cookies, the business can eventually support itself.  \nBut if Anthropic keeps needing money from the oven seller and kitchen owner just to pay its bills, the arrangement becomes fragile. If that funding stops, all three businesses could get hurt.\n\n**The big question is whether paying AI customers will eventually generate enough money to justify all the expensive computing infrastructure being built.**",
     "subreddit": "StockMarket",
-    "created_utc": 1794492968,
+    "created_utc": 1794727404,
     "thumbnail": "self",
-    "top_comments": [],
+    "top_comments": [
+      {
+        "body": "Nvidia was essentially loaning money to companies so they could buy their chips. I wonder how much of their earnings were actual cash and not some weird debt owed by an SPV they set up. There is very little money being earned by AI compared to the investment and debt, I don't think it will take much to make the whole AI ecosystem fall over. It will be interesting to see what comes out of Nvidia because it is the perfect opportunity to come clean on any shadiness that was happening.",
+        "score": 21,
+        "author": "boofles1"
+      },
+      {
+        "body": "It's worse than that.\n\nI believe Nvidia has funded startups like coreweave with enormous loans to buy Nvidia chips and guaranteed loans from other companies while also guaranteeing demand for the product.\n\nSo coreweave gets the cash from nvidia to buy chips, then if they can't sell the compute then Nvidia buys that too.\n\nSo assume they sell a chip for $1.00 with $0.75 margin. Nvidia declare $0.75 margin to the world.\n\nBut let's assume coreweave can't find enough customers. Nvidia ends up buying a large portion of the compute... Maybe $0.30 worth over the lifetime of the chip.\n\nSo Nvidia is now down to $0.45 of their original margin.\n\nExcept let's assume coreweave now fails due to the huge debt pile despite Nvidia guarantees on much of its demand.... So they can't pay back the original loan. So that $1.00 is never repaid. \n\nNvidia has now made -$0.30 margin, where it had originally declared +$0.75 margin.\n\nThat's what scares me.",
+        "score": 9,
+        "author": "andy4015"
+      },
+      {
+        "body": "Except Enron had paying customers and actual demand",
+        "score": 6,
+        "author": "Minimum_Hamster3252"
+      }
+    ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-12",
-    "savedAt": {
-      "_seconds": 1794495397,
-      "_nanoseconds": 111000000
-    }
-  },
-  {
-    "id": "1xugo9h",
-    "title": "Oklo and Centrus Sign Definitive HALEU Supply Agreements for Up to Five Aurora Powerhouses",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xugo9h/oklo_and_centrus_sign_definitive_haleu_supply/",
-    "author": "C130J_Darkstar",
-    "score": 9,
-    "selftext": "Oklo and Centrus have signed multiple definitive, multi-year agreements securing enough HALEU fuel to support up to five Aurora powerhouses for multiple years.\n\nFuel deliveries from Centrus’ American Centrifuge Plant in Piketon, Ohio, are scheduled to begin in 2029. The agreements formalize the letter of intent announced in June.\n\nA particularly important detail is that the fuel procurement is supported by Meta’s prepayment for future power production. This connects Meta’s committed energy demand directly to fuel procurement and the advancement of Oklo’s planned 1.2 GW Ohio campus.\n\nThe agreements also provide fuel for future Aurora deployments and eventual refueling of the Aurora-INL powerhouse.\n\nFor Centrus, the prepayments help support its domestic enrichment capacity expansion. The company now has $5.4 billion in customer contracts and commitments for LEU and HALEU from its new capacity.",
-    "subreddit": "StockMarket",
-    "created_utc": 1794499527,
-    "thumbnail": "https://external-preview.redd.it/gynHEQTwjQb3BzDsYIFAx3Mb3tvjFoG_4YEy6aNg5Zs.jpeg?width=140&height=70&auto=webp&s=73b41f7e741d619b368f084e1e762425c4933227",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-13",
-    "savedAt": {
-      "_seconds": 1794579738,
-      "_nanoseconds": 766000000
-    }
-  },
-  {
-    "id": "1xue67f",
-    "title": "Jensen Huang resigns as Nvidia chief executive",
-    "url": "https://www.reddit.com/r/business/comments/1xue67f/jensen_huang_resigns_as_nvidia_chief_executive/",
-    "author": "financialtimes",
-    "score": 9,
-    "selftext": "Nvidia chief executive Jensen Huang has resigned following revelations that he had two extramarital affairs, plunging the chipmaker at the heart of the global AI boom into crisis.\n\nTap the link for live updates.\n\nFT social media team",
-    "subreddit": "business",
-    "created_utc": 1794493682,
-    "thumbnail": "default",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-13",
-    "savedAt": {
-      "_seconds": 1794579739,
-      "_nanoseconds": 362000000
-    }
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
     "id": "1xvficl",
@@ -210,27 +208,141 @@ window.dailyTrends = [
     "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-11-14",
+    "savedAt": {
+      "_seconds": 1794662295,
+      "_nanoseconds": 945000000
+    }
   },
   {
-    "id": "1xun1qw",
-    "title": "Skild AI reportedly valued above $14B vs Agility's $2.5B pre-money Nasdaq listing",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xun1qw/skild_ai_reportedly_valued_above_14b_vs_agilitys/",
-    "author": "Tricky-Guide-3421",
-    "score": 5,
-    "selftext": "General AI models are outscoring dedicated robot policies on sim benchmarks. Whether that holds in the real world decides if the $14B brain premium survives. GPT-6 Astra outperformed all 40 public RoboDojo policies zero-shot (arXiv 2609.24170), and Anthropic's harness puts Fable 5.2 at 64.9%. But Astra's real-robot trial was halted after hardware damage. LingBot-VLA 2.0 (Apache-2.0) reportedly runs on 20 robot platforms across 17 different manufacturers. The general model plans, but physical control still needs a robot-trained model. If you're long general AI collapsing this vertical, what's your catalyst?\n\n",
+    "id": "1xvlfdd",
+    "title": "Need help understanding  the plummeting of clean energies",
+    "url": "https://www.reddit.com/r/investing/comments/1xvlfdd/need_help_understanding_the_plummeting_of_clean/",
+    "author": "MagicLucas",
+    "score": 16,
+    "selftext": "Hey guys, I'm a newbie investor. I'm in my 20s and have been investing around ten thousand over the course of two years. Mostly at random. Making a mixture of good and bad decisions along the way.\n\nMy largest investment, unfortunately, turned out to be a bad one. I invested in one ETF focused on clean energies by Invesco [https://www.invesco.com/uk/en/financial-products/etfs/invesco-global-clean-energy-ucits-etf-acc.html](https://www.invesco.com/uk/en/financial-products/etfs/invesco-global-clean-energy-ucits-etf-acc.html) \n\nI accidentally invested near (what I ignored to be) an all time-high of this ETF. I am today sitting at a hefty -27%. The bigger problem, however, is that I cannot make sense of this massive decrease, and that's where I would like some senior members of the sub to step in and give me pointers.\n\nWith the world poised to need more energy than ever, and fossil duels drying out, shouldn't the clean energy sector be thriving in the coming years and a safe \"future bet\"? How can the drastic -30% decrease be explained for an ETF instead of an individual stock, over merely 6 months?\n\n  \nI'm not asking for advice, but rather for a more informed opinion to understand the serious decrease of the sector and its long term prospects.",
+    "subreddit": "investing",
+    "created_utc": 1794608036,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Your submission was automatically removed because it looks like your post is better served as a comment in daily discussion thread which can be found [here](https://www.reddit.com/r/investing/about/sticky?num=1). Please also take a moment to review the [r/investing rules](https://www.reddit.com/r/investing/wiki/index/rules) if you have not yet done so. I am a bot and sometimes not the smartest so if you feel your comment was removed in error please message the moderators.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/investing) if you have any questions or concerns.*",
+        "score": 1,
+        "author": "AutoModerator"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xwg0lw",
+    "title": "Investment thesis for trading week 11/16 - 11/20",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xwg0lw/investment_thesis_for_trading_week_1116_1120/",
+    "author": "Chart-trader",
+    "score": 14,
+    "selftext": "&#x200B;\n\nAfter all the negativity the weeks before, US Indices were finally able to rally this week.\n\nAfter all a counter rally was not surprising and anything other than a rally would have been very bearish from a simple chart perspective.\n\nLast week I suggested that any rally attempt has to be sold into though because the NDX 100 made a major reversal signal in monthly charts.\n\nBut did the rally possibly negate that overall bearish view?\n\nIt depends:\n\nSemis (SOXX) so far only retested the neck of the M pattern and closed below.\n\nNDX 100 also managed to close below 200 day average again on Friday depsite a monster recovery\n\nA strong US Dollar and the weakness in c r y p t o (my favorite liquidity and risk on indicator) suggests we are far from out of the woods.\n\nI would say that because of seasonality (best 2 weeks of the year are ahead of us) we could stabilize here.\n\nThat still does not change my overall cautious stance however.\n\nWhat does this mean for the portfolios now?\n\nI repeat myself I am not good at shorting and selling everything is never the right answer. My portfolios are always at least 60% invested in the S&P 500.\n\nIt always hurts to see the value of a portfolio drop but as long as there is enough cash available when a potential buying opportunity arises everything will be fine.\n\nShort term portfolios continue to only be invested in the S&P 500 (60%), TLT (bonds 20%) and KWEB (25%). KWEB lost 8% last week alone and TLT lost 3% while the S&P 500 rallied.\n\nShort term portfolio is therefore only up 11.1% YTD vs. S&P 500 at 10.2% YTD. A more accurate international benchmark is up 9.4% YTD.\n\nLong term portfolios continue to be in a defensive stance with a 60% allocation for the S&P 500 and 25% Cash/Bonds. Rest is c r y p t o, KWEB and semis.\n\nLong term accounts are up 8.4% YTD despite the high cash/bond allocation. A traditional 60/40 portfolio would be up 5.3%.\n\nWe are now at a critical juncture at major US indices and bulls and bears will have to duke it out. No trades are planned for next week until the picture is clearer. It could go either way.\n\nHave a great weekend!",
     "subreddit": "StockMarket",
-    "created_utc": 1794513631,
-    "thumbnail": "https://preview.redd.it/9ca93dnam81i1.png?width=140&height=87&auto=webp&s=8fae6f58e728ba7c8dcbae0b41943d3706b428ce",
+    "created_utc": 1794697706,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Investment thesis: stock market can either go up or down. Thank you for your attention to this matter 🫡",
+        "score": 14,
+        "author": "DatsMaPurse_IDKU"
+      },
+      {
+        "body": "Did you consider sideways tho? ",
+        "score": 2,
+        "author": "James_the_bull_"
+      },
+      {
+        "body": "Quick check on the short-term allocation: 60/20/25 adds up to 105%, so is that a bit of margin or just a typo? Either way, long bonds as the defensive leg work well if growth cools, but if the strong dollar is coming from sticky inflation, duration can fall together with equities instead of hedging them.",
+        "score": 1,
+        "author": "rudolf_de_Leeuw"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xwkgbo",
+    "title": "Inflation isn't going away. Here's what that means for interest rates.",
+    "url": "https://www.reddit.com/r/finance/comments/1xwkgbo/inflation_isnt_going_away_heres_what_that_means/",
+    "author": "Raw_Rain",
+    "score": 13,
+    "selftext": "Inflation is becoming a growing concern for financial markets, and expectations surrounding Federal Reserve policy are shifting.\n\nAccording to a November 13 report from CBS News, economists at Bank of America Global Research and TD Securities are anticipating three consecutive 25-basis-point interest rate increases in December, January, and March.\n\nOctober’s Consumer Price Index increased 0.4%, exceeding expectations and marking the third consecutive month of hotter-than-anticipated inflation.",
+    "subreddit": "finance",
+    "created_utc": 1794710904,
+    "thumbnail": "https://external-preview.redd.it/H8JOsz7WgnclycOJ7NMUh-xWu1QJ1dlxL0oopBDAzPk.jpeg?width=140&height=73&auto=webp&s=af2ded907d29d3614bbc2118c79bcd34511edcf3",
     "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-13",
-    "savedAt": {
-      "_seconds": 1794579740,
-      "_nanoseconds": 652000000
-    }
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1xvrdet",
+    "title": "Could Japan’s monetary policy trigger a major U.S. market crash? How concerned should we be?",
+    "url": "https://www.reddit.com/r/investing/comments/1xvrdet/could_japans_monetary_policy_trigger_a_major_us/",
+    "author": "Ok_Recording5675",
+    "score": 11,
+    "selftext": "I’ve been reading about Japan’s monetary policy changes and their potential implications for the U.S. economy, and I’m curious what everyone thinks.\n\nHere’s what’s happening:\n\n\\* The Bank of Japan is moving away from decades of ultra-low interest rates, potentially triggering an unwinding of the yen carry trade.\n\n\\* The yen has weakened to around ¥160 per dollar, while Japanese 10-year government bond yields have risen to approximately 2.8%.\n\n\\* Japan’s Nikkei entered bear-market territory on November 6, falling more than 20% from its June peak.\n\n\\* Japan holds approximately $1.07 trillion in U.S. Treasuries, making it one of America’s largest foreign creditors.\n\n\\* U.S. Treasury Secretary Scott Bessent has already supported coordinated currency intervention and advocated expanding the Fed’s FIMA facility to help foreign central banks access dollar liquidity without selling Treasuries.\n\nMy fear is what happens if Japan continues raising interest rates and Japanese investors begin pulling significant amounts of capital out of U.S. markets.\n\nCould this trigger a chain reaction involving Treasury selloffs, higher U.S. borrowing costs, an unwinding of leveraged positions, and broader liquidity problems?\n\nI’m especially concerned about how this could work with the already elevated U.S. debt levels, AI-related stock valuations, and vulnerabilities in private credit markets.\n\nHow serious is this risk? Could Japan’s monetary tightening realistically trigger a major U.S. market crash or recession, or are these concerns being exaggerated?\n\nAnd if a large-scale unwinding does happen, does the Fed have sufficient tools to contain the damage, or could we be looking at something resembling a systemic financial crisis?\n\nCurious to hear everyone’s thoughts, especially from people who understand international bond markets and monetary policy.",
+    "subreddit": "investing",
+    "created_utc": 1794624694,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Long story short , yes. The Japanese strategy of giving away money and funding the rest of the worlds economy is going to have major consequences ",
+        "score": 21,
+        "author": "djscuba1012"
+      },
+      {
+        "body": "Why is your writing style so different now?",
+        "score": 6,
+        "author": "therealjerseytom"
+      },
+      {
+        "body": "Worth separating the two channels here. The leveraged carry positions are the fast risk, and August 2024 showed how quickly that unwind hits crowded high multiple tech, while a large part of Japan's Treasury holdings is official reserves, and selling those has tended to go hand in hand with yen support rather than a disorderly dump.",
+        "score": 2,
+        "author": "rudolf_de_Leeuw"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xvjuh7",
+    "title": "Costco stock take profits or hold?",
+    "url": "https://www.reddit.com/r/investing/comments/1xvjuh7/costco_stock_take_profits_or_hold/",
+    "author": "Icy_Cheesecake5121",
+    "score": 11,
+    "selftext": "Since Costco is above 1100 now is it a good idea to dump most of it?  PE is still super high but the business obviously makes stable income and has insane renewal rate.  I don't think there would be any super surprise for earnings since its just a normal business at this point opening couple stores a year.",
+    "subreddit": "investing",
+    "created_utc": 1794604206,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Dividend is priced in at this point. Stock will drop by $30/share on ex date ",
+        "score": 12,
+        "author": "AhsokaFan0"
+      },
+      {
+        "body": "Its costco, its going right back up afterwards. Record memberships and pulling in more this year than ever due to fuel costs alone.",
+        "score": 7,
+        "author": "Wharebadjer"
+      },
+      {
+        "body": "Wait for the dividend first if you have a reasonable amount of shares",
+        "score": 6,
+        "author": "Wharebadjer"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
     "id": "1xvfsat",
@@ -251,27 +363,33 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-14",
+    "savedAt": {
+      "_seconds": 1794662296,
+      "_nanoseconds": 768000000
+    }
   },
   {
-    "id": "1xv62n2",
-    "title": "Daily General Discussion and Advice Thread - November 13, 2026",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xv62n2/daily_general_discussion_and_advice_thread/",
-    "author": "AutoModerator",
-    "score": 1,
-    "selftext": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n\n​\n\nIf your question is \"I have $10,000, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n\n* How old are you? What country do you live in?\n* Are you employed/making income? How much?\n* What are your objectives with this money? (Buy a house? Retirement savings?)\n* What is your time horizon? Do you need this money next month? Next 20yrs?\n* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n* Any big debts (include interest rate) or expenses?\n* And any other relevant financial information will be useful to give you a proper answer. .\n\nBe aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!",
+    "id": "1xwazt0",
+    "title": "Pop Mart's offline sales in Greater China slipped modestly in the third quarter while online sales fell about half",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xwazt0/pop_marts_offline_sales_in_greater_china_slipped/",
+    "author": "CodDifficult1339",
+    "score": 8,
+    "selftext": "Offline sales at Pop Mart's Greater China segment were down 5% to 10% year over year in the third quarter. Online channels in the same segment fell 45% to 50%. Both come from the business update filed with the Hong Kong exchange on October 27, which gives only ranges, no revenue amounts, no profit and no margins, is unaudited and based on the board's preliminary review of management accounts.\n\nThe declines were steeper overseas, with Americas revenue down 70% to 75%. Asia-Pacific, the rest of Asia and Oceania outside that China segment, fell 65% to 70%. The slide overseas was already showing in the first-half interim results, where Asia-Pacific revenue dropped 9.7% and Americas revenue dropped 16.5%. In that same first half, Greater China online revenue was still growing at 62.7%.\n\nI multiplied the ranges in this update and the year-ago one to estimate a two-year view; these are my own figures from two unaudited filings. Third-quarter overall revenue was about 1.7 to 1.9 times the same quarter two years earlier. Greater China was about 2.0 to 2.2 times. Only Asia-Pacific fell below the same quarter two years earlier, at roughly 0.81 to 0.96 times.\n\nIn the first-half results, THE MONSTERS, the brand behind the Labubu character, saw revenue fall 7.5% while another brand called Twinkle Twinkle grew 580.6%. A drop of at most a tenth in offline looks like stores are holding, and the question is whether other brands can fill the share THE MONSTERS gave up in the first half. I'll read THE MONSTERS' share of revenue in the full-year results to see how much other brands picked up. Where would you check first for early signs of physical retail weakening?\n\nAccording to the fund's November 10 holdings sheet, Pop Mart's Hong Kong shares account for about 0.41% of net assets in CNQQ. KWEB's CSI index weights each Chinese internet company by its free float market capitalization.",
     "subreddit": "StockMarket",
-    "created_utc": 1794571313,
+    "created_utc": 1794684427,
     "thumbnail": "self",
-    "top_comments": [],
+    "top_comments": [
+      {
+        "body": "They literally just sell beanie babies lmao",
+        "score": 4,
+        "author": "IllGene2373"
+      }
+    ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-13",
-    "savedAt": {
-      "_seconds": 1794579742,
-      "_nanoseconds": 560000000
-    }
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
     "id": "1xva3ve",
@@ -292,41 +410,11 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xuyk7d",
-    "title": "What do you guys think of finance long form content like this?",
-    "url": "https://www.reddit.com/r/finance/comments/1xuyk7d/what_do_you_guys_think_of_finance_long_form/",
-    "author": "InvestigatorCalm3640",
-    "score": 1,
-    "selftext": "I'm trying to incorporate my finance career preparation game and blog, and this is what I was able to make.\n\nIs it way too sloppy?",
-    "subreddit": "finance",
-    "created_utc": 1794544628,
-    "thumbnail": "https://external-preview.redd.it/MDEzYzJtNGI1YjFpMU9FPrOF0XcoSCoktbyqW28hjjnz2a_b5iFJBx7Ld7Ei.png?width=140&height=78&format=jpg&auto=webp&s=46711192ea3c995ee81061a8fb97bb791cd322a6",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-13",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-14",
     "savedAt": {
-      "_seconds": 1794579741,
-      "_nanoseconds": 994000000
+      "_seconds": 1794662297,
+      "_nanoseconds": 590000000
     }
-  },
-  {
-    "id": "1xw0rar",
-    "title": "Daily General Discussion and Advice Thread - November 14, 2026",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xw0rar/daily_general_discussion_and_advice_thread/",
-    "author": "AutoModerator",
-    "score": 1,
-    "selftext": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n\n​\n\nIf your question is \"I have $10,000, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n\n* How old are you? What country do you live in?\n* Are you employed/making income? How much?\n* What are your objectives with this money? (Buy a house? Retirement savings?)\n* What is your time horizon? Do you need this money next month? Next 20yrs?\n* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n* Any big debts (include interest rate) or expenses?\n* And any other relevant financial information will be useful to give you a proper answer. .\n\nBe aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!",
-    "subreddit": "StockMarket",
-    "created_utc": 1794657687,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   }
 ];
