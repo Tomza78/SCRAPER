@@ -28,7 +28,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-17",
+    "savedAt": {
+      "_seconds": 1794930430,
+      "_nanoseconds": 147000000
+    }
   },
   {
     "id": "1xxuagk",
@@ -59,69 +64,38 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xx3iuq",
-    "title": "Bessent Urges Nvidia to Pick Outsider as Next CEO",
-    "url": "https://www.reddit.com/r/investing/comments/1xx3iuq/bessent_urges_nvidia_to_pick_outsider_as_next_ceo/",
-    "author": "foodie_2598",
-    "score": 165,
-    "selftext": "Treasury Secretary Scott Bessent urged Nvidia’s board to choose an outsider as its next CEO, according to The Wall Street Journal. His comments raise questions about leadership continuity and how a change at the top could affect the company’s strategy.  \nFor NVDA investors, would an outside CEO help restore confidence, or would losing institutional knowledge create more uncertainty? Does this change your long-term investment thesis?  \nSource: [The Wall Street Journal](https://www.wsj.com/tech/ai/bessent-urges-nvidia-to-pick-outsider-as-next-ceo-f9d21a83)⁠",
-    "subreddit": "investing",
-    "created_utc": 1794768918,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "It’s his fault the FAA was down!",
-        "score": 8,
-        "author": "-CynicRoot-"
-      },
-      {
-        "body": "Say what you want, neither Rubio nor Bessent are dummies. They're sharks and they are out for blood. I don't know what's going on behind the scenes... I can only speculate",
-        "score": 7,
-        "author": "CuriousAIVillager"
-      },
-      {
-        "body": "To be slightly consipratorial, the way I think this played out was:\n\n1. US suspects Nvidia is dealing to China still\n\n2. US investigates, also finds affairs\n\n3. US tells Nvidia board \"knock it off or we'll go public with all this\"\n\n4. Nvidia doesn't knock it off\n\n5. US goes public with an affair-a-day\n\n6. Board _still_ doesn't completely get the message. US tells Nvidia it's going to start personally investigating the board.\n\n7. Jensen steps down\n\nLike you can see why the US Government might think they are a bit incompetent.",
-        "score": 7,
-        "author": "grensley"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-16",
+    "dateString": "2026-11-17",
     "savedAt": {
-      "_seconds": 1794842655,
-      "_nanoseconds": 743000000
+      "_seconds": 1794930430,
+      "_nanoseconds": 862000000
     }
   },
   {
-    "id": "1xxy6sn",
-    "title": "Fed's Warsh sees risk of stock bust if AI boom disappoints",
-    "url": "https://www.reddit.com/r/investing/comments/1xxy6sn/feds_warsh_sees_risk_of_stock_bust_if_ai_boom/",
+    "id": "1xyraab",
+    "title": "Legendary investor Druckenmiller moves to cash: \"we're in capital preservation\"",
+    "url": "https://www.reddit.com/r/investing/comments/1xyraab/legendary_investor_druckenmiller_moves_to_cash/",
     "author": "Far_Watercress5133",
-    "score": 57,
-    "selftext": "[https://www.axios.com/2026/11/16/fed-warsh-ai-boom-stocks](https://www.axios.com/2026/11/16/fed-warsh-ai-boom-stocks)  \n\"...Or SI could disappoint. After significant capital investment and stock market gains, expected returns could turn down and equity valuations could fall, leading to an economic slowdown and a more notable rise in unemployment. In time, the economy would recover, but without the productivity gains.\"",
+    "score": 256,
+    "selftext": "[https://tomorrowxsummit.com/](https://tomorrowxsummit.com/)\n\nDRUCKENMILLER: WE'RE NOW SHORT COPPER. THE FED IS NOT CUTTING, THEY'RE HIKING\n\n\\*DRUCKENMILLER: WE'RE NOT LONG EQUITIES. WE'RE NOT SHORT EQUITIES. I WOULDN'T DARE GO SHORT\n\n\\*DRUCKENMILLER: I CAN'T REMEMBER A PERIOD WHERE I HAD LESS CLARITY ON WHERE WE'RE GONNA BE IN 12 MONTHS\n\n\\*DRUCKENMILLER: WE'RE IN CAPITAL PRESERVATION, TRYING TO NOT LOSE MONEY AS OPPOSED TO MAKE MONEY",
     "subreddit": "investing",
-    "created_utc": 1794856264,
+    "created_utc": 1794938158,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Did we need Warsh to tell us this?",
-        "score": 52,
-        "author": "HumanFromTexas"
+        "body": "Most of us understand when people say cash they mean money markets or short term treasuries and not piles of physical money. Especially a hedge fund manager",
+        "score": 69,
+        "author": "Badmoodsbear"
       },
       {
-        "body": "Crazy that people started using \"SI\" just because some random guy told them to ",
-        "score": 47,
-        "author": "captain_ahabb"
+        "body": ">20 things that all synergized, e.g. the AI euphoria, etc.\n\nthis made me laugh",
+        "score": 25,
+        "author": "drivingaddictionchan"
       },
       {
-        "body": "it's an excellent filter though",
-        "score": 26,
-        "author": "snek-jazz"
+        "body": "Druckenmiller has publicly been saying to get out of the stock market since 2016. He said in 2020 that it is the worst time to hold stocks he's ever seen in his career. In 2022 he said we were due for a hard landing and the stock market would be flat for a decade. In 2023 he said that SVB was the \"tip of the iceberg\" and corporate profits would drop 25%. What he says and what he does are very different things. If you didn't know that, you really shouldn't be posting his stuff.",
+        "score": 20,
+        "author": "_176_"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -157,114 +131,11 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xwzgaa",
-    "title": "A 5.5% ten-year is the trigger. Fifty-year City veteran walks through exactly which market seizes first.",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xwzgaa/a_55_tenyear_is_the_trigger_fiftyyear_city/",
-    "author": "-Authorised-",
-    "score": 46,
-    "selftext": "Alasdair Macleod, in the City since 1970 and an LSE member for nearly five decades, laid out a fairly specific crash mechanism this week. Posting the plumbing rather than the doom, because the plumbing is checkable.\n\nThe trigger (52:02). He puts it at roughly 5.5% on the US ten-year, and adds that given how unstable equities already are it may not take even that. His stated route to those yields is Middle East supply disruption feeding through diesel, kerosene and ship bunker fuel into inflation, with the Fed trapped because business is heading into a slump at the same time.\n\nWhere it actually breaks (27:23). The US repo market, around 12.5 trillion. Repo runs on Treasuries as collateral and leans heavily on off-the-run issues, the older and less liquid ones. In a bond selloff prime brokers stop making markets in off-the-runs, and the repo market seizes. His precedent is March 2020, when the Fed had to stand in with up to half a trillion of purchases plus about 200 billion of agency debt just to keep off-the-runs marketable (28:53).\n\nWhat gets liquidated into that (30:13). Broker loans at roughly 1.4 to 1.5 trillion, hedge fund securities positions a little under 2.5 trillion, so over 3 trillion of leverage unwinding into a market that has stopped bidding. He also flags that a lot of the data centre and semiconductor financing has been done in a hurry and is badly secured, and that this is what the banks and central banks are actually watching.\n\nThe exit problem (32:08). Foreigners hold roughly 25 trillion of US equities. His line: \"they probably might not even get five out.\" You own foreign equities because you think they are going up, and the moment you stop thinking that you leave, into a market of sellers and no bids.\n\nHe thinks this is potentially bigger than 1929 to 1932 (32:51). The difference he draws is that the 1920s US economy was production-based and this one is financialised, so what gets destroyed is the financial market itself rather than output.\n\nAsked for the single number to watch between now and year end, his answer was bond yields.\n\nFull interview found on the @acequisition youtube channel",
-    "subreddit": "StockMarket",
-    "created_utc": 1794759391,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "What you might see this time around are successful attempts to hide it.",
-        "score": 15,
-        "author": "b00c"
-      },
-      {
-        "body": "I'd definitely keep an eye on bond yields, but I wouldn't treat 5.5% as some magic crash number. A lot depends on how quickly yields rise and whether liquidity actually dries up.",
-        "score": 9,
-        "author": "Cool_Kinky"
-      },
-      {
-        "body": "watch for money printing.  \n\nhttps://khanna.house.gov/media/press-releases/rep-khanna-introduces-illegal-war-refund-act\n\na stimulus sounds nice but it’s only meant to keep afloat corporate america.",
-        "score": 6,
-        "author": "Outrageous-You-4259"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-16",
+    "dateString": "2026-11-17",
     "savedAt": {
-      "_seconds": 1794842657,
-      "_nanoseconds": 403000000
-    }
-  },
-  {
-    "id": "1xxmbou",
-    "title": "Stanford looked at 38 CEO scandals. The median stock reaction was about -1%. Nvidia fell 13% last week.",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xxmbou/stanford_looked_at_38_ceo_scandals_the_median/",
-    "author": "eToroTeam",
-    "score": 12,
-    "selftext": "Nvidia reports tomorrow, and most of the coverage is about Huang. The research on how markets react to CEO scandals is less dramatic than the headlines.\n\nA Stanford GSB study of 38 public CEO controversies between 2000 and 2015 found an average three-day market-adjusted drop of 3.1%. The median was 1.1%, and in 11 cases the stock went up. In 58% of cases the CEO eventually left. When the exit was announced, the median reaction was roughly flat.\n\nThat’s a different picture from last week’s 13% drop, which suggests the scandal alone doesn’t explain it. The bigger question may be succession, and the precedents point the same way. Intel took over seven months to name a permanent CEO after Krzanich left in 2018. McDonald’s and Nestlé named replacements the same day. BP took four months. None of those companies had a founder who personally handled the relationships with governments, hyperscalers and AI labs.\n\nA separate study of 187 forced CEO exits in the S&P 1500 (Farah and Li, 2003-2012) found that removing a CEO with strong prior performance was followed by worse reactions and worse results than removing an underperformer.\n\nSo tomorrow’s call may be less about the quarter than about whether management can make the leadership gap look temporary. A clear timeline for naming a permanent CEO would probably say more than the revenue beat.",
-    "subreddit": "StockMarket",
-    "created_utc": 1794825958,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "But Jensen is not your traditional CEO. **He is AI Jesus.** His presence alone MOVES markets.",
-        "score": 12,
-        "author": "timtact0e"
-      },
-      {
-        "body": "Trump sold on October 8th. Go figure ",
-        "score": 7,
-        "author": "conh3"
-      },
-      {
-        "body": "Other good for nothing CEOs play golf, Jensen doesn't.\n\n",
-        "score": 2,
-        "author": "OldUncle1979"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-16",
-    "savedAt": {
-      "_seconds": 1794842659,
-      "_nanoseconds": 836000000
-    }
-  },
-  {
-    "id": "1xx4ulj",
-    "title": "First time buying index funds in a non-retirement account. Things to consider?",
-    "url": "https://www.reddit.com/r/investing/comments/1xx4ulj/first_time_buying_index_funds_in_a_nonretirement/",
-    "author": "MusingsAndMind",
-    "score": 31,
-    "selftext": "I've only ever bought index funds in my retirement accounts.\n\nMy regular brokerage I just used for individual stock picks and got crushed. Recently found out you can buy index funds in a regular account, which I was not aware of, so I started doing that.\n\nThat said, I don't know what I'm doing. What do I need to consider? Retirement is clear because it just sits there for decades. For regular brokerage I am unclear on what I need to prepare for as I've only ever lost money in individual stock picks in that account.",
-    "subreddit": "investing",
-    "created_utc": 1794772094,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": ">Relax, taxes are only a thing if you sell\n\nDividends.  Specifically nonqualified dividends, if you're a US investor.\n\nOP should be mindful and avoid funds that make frequent/large distributes.",
-        "score": 10,
-        "author": "nuxenolith"
-      },
-      {
-        "body": ">Do you really think the 500 largest companies in the US are going to stop growing earnings for more than 2-3 years? \n\nLost decades can and do happen in equity markets.  Insinuating otherwise to an undisciplined investor is highly irresponsible and could spell disaster for them.\n\nOP needs to be prepared for the possibility that their portfolio could be underwater for 10 years and not panic sell at the bottom.",
-        "score": 10,
-        "author": "nuxenolith"
-      },
-      {
-        "body": "If it crashes, don't sell, continue buying. Simple as. ",
-        "score": 5,
-        "author": "b1gb0n312"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-16",
-    "savedAt": {
-      "_seconds": 1794842658,
-      "_nanoseconds": 128000000
+      "_seconds": 1794930432,
+      "_nanoseconds": 76000000
     }
   },
   {
@@ -292,6 +163,109 @@ window.dailyTrends = [
         "body": "I'd watch the inflows less than the drawdown behavior. Payroll buying is steady, but what hurts in a job-loss scenario is people pausing contributions and hardship withdrawals hitting right when prices are already falling. I've seen flows keep a market up for a long time, they just don't set the floor on their own.",
         "score": 4,
         "author": "Fonsietrader"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-17",
+    "savedAt": {
+      "_seconds": 1794930433,
+      "_nanoseconds": 9000000
+    }
+  },
+  {
+    "id": "1xym80p",
+    "title": "Dow slides weighed by Home Depot; Nasdaq is flat ahead of Nvidia earnings",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xym80p/dow_slides_weighed_by_home_depot_nasdaq_is_flat/",
+    "author": "TorukMaktoM",
+    "score": 95,
+    "selftext": "Stocks were mixed early Tuesday morning, as the Dow Jones Industrial Average struggled following the release of new corporate earnings reports, while chipmakers kept the Nasdaq Composite along the flatline. Investors also awaited Nvidia’s quarterly release.\n\nThe Dow fell 330 points. The Nasdaq was little changed, while the S&P 500 slipped 0.2%.\n\nSemiconductor names rose following a CNBC report that Anthropic would price its IPO above the current range of $70 to $78. Marvell Technology and Arm Holdings traded 2% and 1% higher, respectively. Broadcom also climbed 1%.\n\nHome Depot dropped nearly 2% after the retailer announced a new CEO would take over next week, weighing on the Dow. That overshadowed better-than-expected quarterly results.\n\nThose moves come as investors brace for Nvidia’s quarterly report, due Tuesday after the bell.",
+    "subreddit": "StockMarket",
+    "created_utc": 1794926650,
+    "thumbnail": "https://external-preview.redd.it/Voo4iMgB9cR2QmZ4Coccl11MNnZeonyd6FCGsz2rhBU.jpeg?width=140&height=78&auto=webp&s=a2f12f3ac1213c8d20ac1487d3b134eb97067025",
+    "top_comments": [
+      {
+        "body": "Just make Robert Pattinson NVIDIA CEO at this point. ",
+        "score": 10,
+        "author": "TopicTalk8950"
+      },
+      {
+        "body": "Nvidia down 24% this month, yet the market is still waiting for one earnings report. Diversification is apparently just owning different stocks that all depend on the same report. 🫠",
+        "score": 7,
+        "author": "EUIJEONGsRegime"
+      },
+      {
+        "body": "Retail sales was only a tenth above consensus, so I wouldn’t read too much into it by itself; the real event risk is NVDA after the bell. I’m watching today’s high/low as the near-term lines in the sand and would keep size small enough that a gap through either level doesn’t wreck the plan.",
+        "score": 7,
+        "author": "Dashing777"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xxy6sn",
+    "title": "Fed's Warsh sees risk of stock bust if AI boom disappoints",
+    "url": "https://www.reddit.com/r/investing/comments/1xxy6sn/feds_warsh_sees_risk_of_stock_bust_if_ai_boom/",
+    "author": "Far_Watercress5133",
+    "score": 57,
+    "selftext": "[https://www.axios.com/2026/11/16/fed-warsh-ai-boom-stocks](https://www.axios.com/2026/11/16/fed-warsh-ai-boom-stocks)  \n\"...Or SI could disappoint. After significant capital investment and stock market gains, expected returns could turn down and equity valuations could fall, leading to an economic slowdown and a more notable rise in unemployment. In time, the economy would recover, but without the productivity gains.\"",
+    "subreddit": "investing",
+    "created_utc": 1794856264,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Did we need Warsh to tell us this?",
+        "score": 52,
+        "author": "HumanFromTexas"
+      },
+      {
+        "body": "Crazy that people started using \"SI\" just because some random guy told them to ",
+        "score": 47,
+        "author": "captain_ahabb"
+      },
+      {
+        "body": "it's an excellent filter though",
+        "score": 26,
+        "author": "snek-jazz"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-17",
+    "savedAt": {
+      "_seconds": 1794930431,
+      "_nanoseconds": 557000000
+    }
+  },
+  {
+    "id": "1xz9eob",
+    "title": "Nvidia just added $111 billion of supply commitments in one quarter, mostly for memory. What is that actually locking in?",
+    "url": "https://www.reddit.com/r/investing/comments/1xz9eob/nvidia_just_added_111_billion_of_supply/",
+    "author": "cynic_and_wild",
+    "score": 61,
+    "selftext": "The revenue number is the one getting all the attention. Nvidia did $115.8 billion in the quarter ended October 25, up 103% from a year ago. It also guided the current quarter to $130 billion, plus or minus 3%, and said that number assumes no data-center compute sales to China.\n\nThe figure I keep looking at is further down, in the CFO commentary. Supply and capacity commitments went from $279 billion last quarter to $390 billion. Nvidia said the jump is primarily from buying memory years ahead.\n\nThat's $111 billion of new commitments in a single quarter. Of the $390 billion, $203 billion is dated for fiscal 2028. Only $69 billion is for the rest of this fiscal year.\n\nI can read that two ways. Either demand is solid enough that Nvidia is comfortable booking memory this far out, or memory is the part of the stack it really doesn't want to run short of.\n\nCloud contracts and data-center leases that haven't started yet also rose, to $102 billion from $74 billion. Some of those leases can run as long as 20 years.\n\nIf memory is really what drove the increase, does this tell you more about Nvidia's demand, or about how tight memory stays into 2028?\n\nSources:\nNVIDIA Q3 FY27 press release: https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027\nNVIDIA Q3 FY27 CFO commentary (official PDF): https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q327/Q3FY27-CFO-Commentary.pdf",
+    "subreddit": "investing",
+    "created_utc": 1794987904,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "And still, copper is down 3% overnight. Perhaps data center construction isn't as sure as it seems",
+        "score": 30,
+        "author": "8yba8sgq"
+      },
+      {
+        "body": "J'ai cette impression que les professionnels et particulier scrutent la moindre petite faille sur le domaine de la Tech en spéculant une grande chute à venir. Je trouve les mouvements disproportionnés par rapport à des fondamentaux solides sur un domaine toujours en plein essor et mutation. Je pense qu'il y a beaucoup de bruit et d'interprétations hâtives ",
+        "score": 16,
+        "author": "Panache_fr"
+      },
+      {
+        "body": "Peut-être que si tout à chacun opter pour la traduction automatique proposée par Reddit qui fait très bien l’affaire, nous n'aurions pas un rabat-joie venant faire un commentaire...impertinent. ",
+        "score": 12,
+        "author": "Panache_fr"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -327,58 +301,74 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-17",
+    "savedAt": {
+      "_seconds": 1794930433,
+      "_nanoseconds": 487000000
+    }
   },
   {
-    "id": "1xx63zp",
-    "title": "Do supervoting and non voting shares fundamentally undermine the value investing concept?",
-    "url": "https://www.reddit.com/r/investing/comments/1xx63zp/do_supervoting_and_non_voting_shares/",
-    "author": "Synaps4",
-    "score": 11,
-    "selftext": "Value investing depends on company stock prices converging to the calculable value of the business (its assets and future income stream).\n\nHowever, my understanding is that the key mechanism ensuring prices converge is the ability to buy the company if you buy 51% of the outstanding shares. If the company stock gets cheap enough, you buy it and you have purchased its future income stream for yourself.\n\nSupervoting and non voting shares make buying the company impossible, no matter how far off from the calculated value the stock price gets and this means non voting stocks are fundamentally speculation. \n\nA stock that craters is not a good buy...no matter how cheap...no matter how profitable... if it has no mechanism to ever come back up except for greater fool theory.\n\nSo, do you think value investors should specifically avoid companies where voting control of the company cant be bought?",
+    "id": "1xyixb9",
+    "title": "Berkshire's only new stock last quarter: Bending Spoons, owner of AOL, Evernote and Vimeo",
+    "url": "https://www.reddit.com/r/investing/comments/1xyixb9/berkshires_only_new_stock_last_quarter_bending/",
+    "author": "TalVal_Research",
+    "score": 44,
+    "selftext": "The 13F Berkshire filed last night has one name that wasn't there in June: 20.7 million shares of Bending Spoons, worth $689 million on September 30.\n\n\n\nThat's the $600 million it put into the July IPO at $29 a share. In October it agreed to buy 10 million more at $33, under the previous close of $37.86, for about 4% of the company. The stock jumped 41% that day. Monday it closed at $40.98.\n\n\n\nBending Spoons buys well-known apps and restructures them. Evernote, WeTransfer and Vimeo all went through deep layoffs after it took over.\n\n\n\nThe rest of the filing looks more like Berkshire: Lennar nearly doubled, Delta up 12%, Bank of America cut 6%, Capital One cut 62%.\n\n\n\nIs an app roll-up a Berkshire business, or is the portfolio changing under Greg Abel?\n\n\n\nNo position.",
     "subreddit": "investing",
-    "created_utc": 1794775145,
+    "created_utc": 1794917686,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Control isn't cash flow—until the controlling holders decide it is.",
-        "score": 3,
-        "author": "Aggressive_Bee2213"
+        "body": "Honestly with Warren Buffett and Charlie Munger leaving, I'm not sure I would consider Berkshire to necessarily be a better stock picker than any other private equity or activist investment firm.",
+        "score": 36,
+        "author": "Affectionate-Panic-1"
       },
       {
-        "body": "I don’t think you need to avoid them all together, but you certainly have to keep this in mind. There are a lot of companies where only small percentage (5-25%) of the company is available to markets while the rest is held privately, nothing specifically “bad” about this but generally these companies trade at a discount to “true value” because of the added risk that a single person/entity controls the company. The economic value and control of a corporation can be split and this is not contradictory in any way to the idea of value investment just need to understand the true value of what you are actually investing in and price accordingly. ",
-        "score": 3,
-        "author": "ax_lab"
+        "body": "i'm less worried about who picked it than what the model actually is. Buying tired apps, cutting hard, and milking the cash flow can work for a while, but thats a very different business than owning See's or BNSF. If Abel keeps doing deals like this, Berkshire starts looking like a roll-up shop with a great balance sheet, not a collection of forever businesses.",
+        "score": 10,
+        "author": "MrMarketsDiary"
       },
       {
-        "body": "Fair worry, but the 51% mechanic never really applied to you: nobody buying a few hundred shares of a mid cap was going to trigger a buyout by owning control. My rule is just to look up the share structure before buying, Meta or Ford style dual class where founders hold the Class B, and treat your stake as something you can only sell to someone else, never control.",
-        "score": 2,
-        "author": "DesperateNorth2307"
+        "body": "I haven't considered buffett a better picker for 15 years",
+        "score": 10,
+        "author": "cosmic_backlash"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-16",
-    "savedAt": {
-      "_seconds": 1794842660,
-      "_nanoseconds": 321000000
-    }
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xxyct5",
-    "title": "US Moves to Curb China’s Remote Access to Nvidia’s AI Chips",
-    "url": "https://www.reddit.com/r/investing/comments/1xxyct5/us_moves_to_curb_chinas_remote_access_to_nvidias/",
-    "author": "confused_boner",
-    "score": 18,
-    "selftext": "Title: US Moves to Curb China’s Remote Access to Nvidia’s AI Chips\n\nAuthor: Maggie Eastland and Magan Crane\n\nPublished: 2026-11-16\n\nSource Link: [https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips](https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips)\n\n\n\n\\---\n\n\n\nTakeaways by Bloomberg\n\n\\- The Trump administration issued an interim rule requiring data center operators in several countries to obtain a US government license before exporting advanced AI chips from American manufacturers to customers in those countries.\n\n\\- The measure aims to restrict China and other US adversaries from accessing offshore computing power that uses American-designed processors through remote computing arrangements involving data centers in third countries.\n\n\\- The rule is designed to ensure that existing restrictions on access to sensitive American technology cannot be circumvented through remote computing arrangements involving data centers in third countries, according to the Commerce Department.\n\n\n\n\\---\n\n\n\nThe Trump administration moved to limit several countries from providing Chinese companies remote access to advanced artificial intelligence chips and servers, following increased scrutiny over its handling of curbs on semiconductor exports after an alleged espionage scandal involving Nvidia Corp.\n\n\n\nAn interim rule issued by the Commerce Department on Monday would require data center operators in Singapore, Malaysia, Thailand, Indonesia and Brazil to obtain a US government license before exporting advanced AI chips from Nvidia and other American manufacturers to customers in those countries. The measure seeks to restrict China and other US adversaries from accessing offshore computing power that uses American-designed processors.\n\n\n\n“The rule is designed to ensure that existing restrictions on access to sensitive American technology cannot be circumvented through remote computing arrangements involving data centers in third countries,” the department said Monday in a statement.\n\n\n\nNvidia shares fell as much as 2.9%, while the Philadelphia Semiconductor Index dropped as much as 5.5%.\n\n\n\nSpokespeople for Singapore, Malaysia, Indonesia and Thailand didn’t immediately respond to requests for comment outside normal business hours. Representatives for Nvidia and the Brazilian government also didn’t immediately respond.\n\n\n\nThe draft rule was released days after Jensen Huang’s resignation as Nvidia’s CEO following his admission to an affair with Alice Huang, a former executive at Singapore-based Megaspeed International whom the US suspects of being a Chinese spy. Megaspeed has been under US investigation for possible export control violations. The company has denied any wrongdoing, while Alice Huang is now in China.\n\n\n\nCommerce announced its decision as President Donald Trump and other senior administration officials were preparing to travel to Asia for a series of regional summits where the issue of US export controls on advanced technology will be on the table. Restricting access to cutting-edge AI chips risks angering regional partners as well as the government in Beijing, which has bristled in the past at US export curbs.\n\n\n\nSoutheast Asia has emerged as a data center hub, with demand from Chinese AI developers like Alibaba Group Holding Ltd. and Bytedance Ltd. helping to drive the infrastructure buildout. Malaysia and Thailand have been the hot spots, while Indonesia’s data center market is in earlier stages of development. Singapore, meanwhile, isn’t known so much as a major host of data centers, but has been suspected of being used as a destination for servers that were rerouted to mainland China.\n\n\n\nThe US also suspects a key company behind Thailand’s national AI effort of helping to smuggle billions of dollars worth of servers containing advanced Nvidia chips to China, Bloomberg reported in May.\n\n\n\nAmerican depositary receipts for Alibaba were down nearly 2.8% in New York trading on Monday.\n\n\n\nIn Brazil, officials are seeking to expand the data center industry and achieve what the government calls “digital sovereignty” in technology and AI, while attracting investment from both US and Chinese technology giants. TikTok owner ByteDance is investing billions of dollars in a data center project in northeastern Brazil, a region rich in renewable power and home to South America’s largest hub of high-speed fiber-optic cables.\n\n\n\nNvidia has posted a surge in revenue from Southeast Asia in recent years, although it changed its accounting methodology last year in a way that makes it more difficult to ascertain such sales precisely. The company’s Singapore revenue soared to about $24 billion in fiscal 2025, nearly four times the previous year, and roughly 18% of its total. At that time, Nvidia reported geographic sales based on billing location for its customer.\n\n\n\n\n\n\\### The Future of AI Without Jensen Huang\n\n\n\nThe company changed that methodology last year to report geographic sales based on the headquarters location of its direct customer. The result is that US revenue hit 69% in fiscal 2026, up from 47%, while Singapore revenue became so negligible it was lumped into another category.\n\n\n\nSince Trump’s return to office in early 2025, Huang had spearheaded efforts in Washington to fend off attempts to tighten export restrictions on his company’s prized AI chips. The former Nvidia chief forged a close relationship with the president and used his clout to cajole the administration into allowing sales to China of one of the company’s older-generation AI processors.\n\n\n\nIn the wake of Huang’s departure, efforts on Capitol Hill to pass export control legislation are gaining steam, while US lawmakers are demanding answers from both the chipmaker and the administration.\n\n\n\nTreasury Secretary Scott Bessent has said he wants to know whether Nvidia intentionally ignored warning signs that shell companies, many of them in Singapore, may have been funneling chips to China. Bessent has signaled he wants to shift the focus from the departed CEO’s personal “foibles” to the legal and national-security aspects surrounding the company.\n\n\n\nBessent has also pointed a finger at Commerce Secretary Howard Lutnick in recent days for failing to do enough to enforce existing curbs. “As I said, many other departments were pushing for this, and Commerce had the pen,” the Treasury chief said on Fox News’ Sunday Morning Futures.\n\n\n\nOn Monday, ahead of his departure for Asia, Trump expressed confidence in Lutnick despite the fallout from the Nvidia scandal. Trump said he had no plans to replace the Commerce chief and said Lutnick may have slowed his agency’s work on export controls to avoid antagonizing China during delicate trade negotiations.\n\n\n\n“We’re having a very good relationship with China right now, and I understand both sides of it,” Trump said.\n\n\n\nBoth Lutnick and Bessent were expected to fly with Trump aboard Air Force One to the Philippines and China for his summit meetings, according to the White House. Trump’s advisers have previously said he retained confidence in Lutnick.\n\n\n\nThe Commerce Department’s announcement on Monday said the rule was “written by and at the direction” of the Treasury Department and the National Security Council, suggesting that pressure from officials outside Commerce played a significant role in its release. The licenses are subject to approval on a case-by-case basis.\n\n\n\nNoting that advanced cloud computing has made it increasingly possible to access US AI computing systems remotely, the department said the new measure is intended to align with existing rules on physical access to the technology.\n\n\n\nLast week, Axios reported that Trump had authorized a new crackdown on companies suspected of diverting advanced AI chips to China, but that Lutnick delayed acting on the directive. Separately, Trump said on Monday that Jensen Huang had not put national security at risk.\n\n\n\nThe rule also includes a carveout for US-headquartered companies operating in the new list of countries, allowing them to continue shipping AI chips there without a license. It also exempts shipments to data centers used as commercial recommender systems for online retailers or social media companies.\n\n\n\nThe draft rule posted Monday says the new requirements will take effect once it is posted in the federal register. As of 9 a.m. Monday, it has not been posted.",
-    "subreddit": "investing",
-    "created_utc": 1794856655,
+    "id": "1xz6344",
+    "title": "Nvidia FQ3 2027: revenue more than doubles to $115.8B, Q4 guide of $130B, and a reported CEO change",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xz6344/nvidia_fq3_2027_revenue_more_than_doubles_to/",
+    "author": "Alpha_Stock_BigBull",
+    "score": 31,
+    "selftext": "FQ3 2027 Key Numbers:\n\nRevenue: $115.8B, up 103% YoY and 20% QoQ, vs about $108.7-109.1B expected\n\nData Center revenue: $107.6B, up 110% YoY\n\nEdge computing revenue: $8.2B, up 42% YoY\n\nGross margin: 74.8%, vs 75.0% last quarter\n\nOperating income: $77.5B, up 115% YoY\n\nNet income: $65.3B, up 105%\n\nEPS: $2.70, up 108% from $1.30, vs about $2.48-2.50 expected\n\nFree cash flow: about $48.3B\n\nShareholder returns: a record $28.1B ($22B buybacks and $6B dividends)\n\nBoard added $150B to the buyback authorization\n\nSixth straight quarter of beating on both revenue and EPS\n\nProducts and demand\n\nVera Rubin NVL72 racks began shipping, which the company calls its fastest product ramp ever, alongside continued Blackwell Ultra demand\n\nCPU revenue is expected to more than double in fiscal 2028\n\nManagement raised its fiscal 2028 revenue growth outlook to about 75%\n\nGuidance (FQ4)\n\nRevenue: $130B ± 3%, up 12% QoQ, excluding any China data center compute revenue\n\nGross margin: 71-72%, a step down as the Vera Rubin ramp adds cost\n\nMarket reaction\n\nThe stock rose about 2.4% after hours, after a small decline in regular trading\n\nTakeaways\n\nThe scale is hard to overstate. Revenue is double last year's, quarterly net income is $65B, and free cash flow is $48B.\n\nThe guide assumes zero China data center revenue, so any China reopening would be upside.\n\nCapital return is large, with $150B added to buybacks and a plan to use the expanded authorization by the end of fiscal 2028.\n\nThe unconfirmed CEO transition and board investigation is the biggest unknown. If confirmed, it matters more than any single quarter's numbers.\n\nThe read-through for the rest of the chain is positive: AMD, Marvell, Micron, SK hynix, Sandisk and TSMC all benefit from this demand.",
+    "subreddit": "StockMarket",
+    "created_utc": 1794976339,
     "thumbnail": "self",
-    "top_comments": [],
+    "top_comments": [
+      {
+        "body": "PE of 10 on a stock that is giving a outlook of 75% growth. ",
+        "score": 23,
+        "author": "Dutcheconomist2"
+      },
+      {
+        "body": "The stock is heavily undervalued right now. The risk seems to be worth the potential reward.",
+        "score": 15,
+        "author": "DatsMaPurse_IDKU"
+      },
+      {
+        "body": "$500K in net profit per minute in Q3.",
+        "score": 9,
+        "author": "norcalnatv"
+      }
+    ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
     "id": "1xxu0ew",
@@ -393,7 +383,12 @@ window.dailyTrends = [
     "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-11-17",
+    "savedAt": {
+      "_seconds": 1794930434,
+      "_nanoseconds": 512000000
+    }
   },
   {
     "id": "1xy9e0b",
@@ -414,33 +409,58 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-17",
+    "savedAt": {
+      "_seconds": 1794930435,
+      "_nanoseconds": 16000000
+    }
   },
   {
-    "id": "1xxmb1f",
-    "title": "Investing in the infrastructure behind AI, what are the most promising opportunities?",
-    "url": "https://www.reddit.com/r/investing/comments/1xxmb1f/investing_in_the_infrastructure_behind_ai_what/",
-    "author": "Cuandoelsolcae",
-    "score": 14,
-    "selftext": "Data centres require enormous amounts of electricity, cooling systems, copper, specialised materials, semiconductors, transformers, networking equipment and much more.\n\nI'm wondering which companies or sectors could benefit the most from this massive infrastructure expansion over the next 5–10 years.\n\nAre there any less obvious opportunities worth looking into? For example, companies involved in power generation, electrical grids, liquid cooling, copper production, advanced materials, data centre construction or semiconductor supply chains?\n\nI'd also be interested in hearing about specific stocks or ETFs that give exposure to these industries.\n\nWhat do you think are the most promising areas, and where do you see the biggest opportunities that the market might still be overlooking?",
+    "id": "1xxyct5",
+    "title": "US Moves to Curb China’s Remote Access to Nvidia’s AI Chips",
+    "url": "https://www.reddit.com/r/investing/comments/1xxyct5/us_moves_to_curb_chinas_remote_access_to_nvidias/",
+    "author": "confused_boner",
+    "score": 18,
+    "selftext": "Title: US Moves to Curb China’s Remote Access to Nvidia’s AI Chips\n\nAuthor: Maggie Eastland and Magan Crane\n\nPublished: 2026-11-16\n\nSource Link: [https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips](https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips)\n\n\n\n\\---\n\n\n\nTakeaways by Bloomberg\n\n\\- The Trump administration issued an interim rule requiring data center operators in several countries to obtain a US government license before exporting advanced AI chips from American manufacturers to customers in those countries.\n\n\\- The measure aims to restrict China and other US adversaries from accessing offshore computing power that uses American-designed processors through remote computing arrangements involving data centers in third countries.\n\n\\- The rule is designed to ensure that existing restrictions on access to sensitive American technology cannot be circumvented through remote computing arrangements involving data centers in third countries, according to the Commerce Department.\n\n\n\n\\---\n\n\n\nThe Trump administration moved to limit several countries from providing Chinese companies remote access to advanced artificial intelligence chips and servers, following increased scrutiny over its handling of curbs on semiconductor exports after an alleged espionage scandal involving Nvidia Corp.\n\n\n\nAn interim rule issued by the Commerce Department on Monday would require data center operators in Singapore, Malaysia, Thailand, Indonesia and Brazil to obtain a US government license before exporting advanced AI chips from Nvidia and other American manufacturers to customers in those countries. The measure seeks to restrict China and other US adversaries from accessing offshore computing power that uses American-designed processors.\n\n\n\n“The rule is designed to ensure that existing restrictions on access to sensitive American technology cannot be circumvented through remote computing arrangements involving data centers in third countries,” the department said Monday in a statement.\n\n\n\nNvidia shares fell as much as 2.9%, while the Philadelphia Semiconductor Index dropped as much as 5.5%.\n\n\n\nSpokespeople for Singapore, Malaysia, Indonesia and Thailand didn’t immediately respond to requests for comment outside normal business hours. Representatives for Nvidia and the Brazilian government also didn’t immediately respond.\n\n\n\nThe draft rule was released days after Jensen Huang’s resignation as Nvidia’s CEO following his admission to an affair with Alice Huang, a former executive at Singapore-based Megaspeed International whom the US suspects of being a Chinese spy. Megaspeed has been under US investigation for possible export control violations. The company has denied any wrongdoing, while Alice Huang is now in China.\n\n\n\nCommerce announced its decision as President Donald Trump and other senior administration officials were preparing to travel to Asia for a series of regional summits where the issue of US export controls on advanced technology will be on the table. Restricting access to cutting-edge AI chips risks angering regional partners as well as the government in Beijing, which has bristled in the past at US export curbs.\n\n\n\nSoutheast Asia has emerged as a data center hub, with demand from Chinese AI developers like Alibaba Group Holding Ltd. and Bytedance Ltd. helping to drive the infrastructure buildout. Malaysia and Thailand have been the hot spots, while Indonesia’s data center market is in earlier stages of development. Singapore, meanwhile, isn’t known so much as a major host of data centers, but has been suspected of being used as a destination for servers that were rerouted to mainland China.\n\n\n\nThe US also suspects a key company behind Thailand’s national AI effort of helping to smuggle billions of dollars worth of servers containing advanced Nvidia chips to China, Bloomberg reported in May.\n\n\n\nAmerican depositary receipts for Alibaba were down nearly 2.8% in New York trading on Monday.\n\n\n\nIn Brazil, officials are seeking to expand the data center industry and achieve what the government calls “digital sovereignty” in technology and AI, while attracting investment from both US and Chinese technology giants. TikTok owner ByteDance is investing billions of dollars in a data center project in northeastern Brazil, a region rich in renewable power and home to South America’s largest hub of high-speed fiber-optic cables.\n\n\n\nNvidia has posted a surge in revenue from Southeast Asia in recent years, although it changed its accounting methodology last year in a way that makes it more difficult to ascertain such sales precisely. The company’s Singapore revenue soared to about $24 billion in fiscal 2025, nearly four times the previous year, and roughly 18% of its total. At that time, Nvidia reported geographic sales based on billing location for its customer.\n\n\n\n\n\n\\### The Future of AI Without Jensen Huang\n\n\n\nThe company changed that methodology last year to report geographic sales based on the headquarters location of its direct customer. The result is that US revenue hit 69% in fiscal 2026, up from 47%, while Singapore revenue became so negligible it was lumped into another category.\n\n\n\nSince Trump’s return to office in early 2025, Huang had spearheaded efforts in Washington to fend off attempts to tighten export restrictions on his company’s prized AI chips. The former Nvidia chief forged a close relationship with the president and used his clout to cajole the administration into allowing sales to China of one of the company’s older-generation AI processors.\n\n\n\nIn the wake of Huang’s departure, efforts on Capitol Hill to pass export control legislation are gaining steam, while US lawmakers are demanding answers from both the chipmaker and the administration.\n\n\n\nTreasury Secretary Scott Bessent has said he wants to know whether Nvidia intentionally ignored warning signs that shell companies, many of them in Singapore, may have been funneling chips to China. Bessent has signaled he wants to shift the focus from the departed CEO’s personal “foibles” to the legal and national-security aspects surrounding the company.\n\n\n\nBessent has also pointed a finger at Commerce Secretary Howard Lutnick in recent days for failing to do enough to enforce existing curbs. “As I said, many other departments were pushing for this, and Commerce had the pen,” the Treasury chief said on Fox News’ Sunday Morning Futures.\n\n\n\nOn Monday, ahead of his departure for Asia, Trump expressed confidence in Lutnick despite the fallout from the Nvidia scandal. Trump said he had no plans to replace the Commerce chief and said Lutnick may have slowed his agency’s work on export controls to avoid antagonizing China during delicate trade negotiations.\n\n\n\n“We’re having a very good relationship with China right now, and I understand both sides of it,” Trump said.\n\n\n\nBoth Lutnick and Bessent were expected to fly with Trump aboard Air Force One to the Philippines and China for his summit meetings, according to the White House. Trump’s advisers have previously said he retained confidence in Lutnick.\n\n\n\nThe Commerce Department’s announcement on Monday said the rule was “written by and at the direction” of the Treasury Department and the National Security Council, suggesting that pressure from officials outside Commerce played a significant role in its release. The licenses are subject to approval on a case-by-case basis.\n\n\n\nNoting that advanced cloud computing has made it increasingly possible to access US AI computing systems remotely, the department said the new measure is intended to align with existing rules on physical access to the technology.\n\n\n\nLast week, Axios reported that Trump had authorized a new crackdown on companies suspected of diverting advanced AI chips to China, but that Lutnick delayed acting on the directive. Separately, Trump said on Monday that Jensen Huang had not put national security at risk.\n\n\n\nThe rule also includes a carveout for US-headquartered companies operating in the new list of countries, allowing them to continue shipping AI chips there without a license. It also exempts shipments to data centers used as commercial recommender systems for online retailers or social media companies.\n\n\n\nThe draft rule posted Monday says the new requirements will take effect once it is posted in the federal register. As of 9 a.m. Monday, it has not been posted.",
     "subreddit": "investing",
-    "created_utc": 1794825888,
+    "created_utc": 1794856655,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-11-17",
+    "savedAt": {
+      "_seconds": 1794930434,
+      "_nanoseconds": 72000000
+    }
+  },
+  {
+    "id": "1xy0cgh",
+    "title": "Swamping by hyperscalers?",
+    "url": "https://www.reddit.com/r/investing/comments/1xy0cgh/swamping_by_hyperscalers/",
+    "author": "This-Function-2648",
+    "score": 9,
+    "selftext": "I wanted to explore different views of the narrative: AI build out is a strategic move by hyperscalers using their balance sheet as a way to swamp commoditised semi products like CPU, GPU etc. Preventing access by other companies, most likely SaaS enterprises.\n\nMy view is that they are buying time and forcing integration into their own ecosystem by creating a big entrance cost (data centre buildouts).",
+    "subreddit": "investing",
+    "created_utc": 1794861047,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Every name on that list is the consensus AI infrastructure trade at this point, transformers and copper especially. Overlooked by whom, and by what measure? What multiple are you putting on these before you'd call them cheap?",
-        "score": 8,
-        "author": "507393"
+        "body": "If the goal was preventing access, why is renting out GPU capacity to anyone with a card the entire AWS/Azure business model? What would count as evidence against your thesis here?",
+        "score": 4,
+        "author": "Wise_Management_1161"
       },
       {
-        "body": "3 years ago, the promising opportunities were 3 years ago.",
-        "score": 6,
-        "author": "Fuckaliscious_1984"
-      },
-      {
-        "body": "Brkb. Eqp needs to travel by rail and ships to get here.\n\nVpu is extremely defensive due to how tightly regulated it is",
+        "body": "honestly the custom chips look like the bigger lock-in to me. google rents TPUs to anthropic and amazon built trainium clusters for them. once your models are tuned for that hardware, switching clouds gets painful fast.",
         "score": 3,
-        "author": "HoneyBadger552"
+        "author": "GuyGotThis"
+      },
+      {
+        "body": "Fair worry, but SaaS companies were never going to build data centres of their own, they rent compute from the same three or four players anyway. The lock-in that matters is in the contracts, so read the lease and power purchase commitments buried in the 10-Ks instead of the capex headlines.",
+        "score": 3,
+        "author": "Mobile_Signature4229"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
