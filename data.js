@@ -1,77 +1,5 @@
 window.dailyTrends = [
   {
-    "id": "1xxwnqv",
-    "title": "U.S. debt now equals the whole economy and tax cuts since 2001 added over $10 trillion",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xxwnqv/us_debt_now_equals_the_whole_economy_and_tax_cuts/",
-    "author": "TorukMaktoM",
-    "score": 652,
-    "selftext": "Clocking in at $32 trillion, this debt-to-GDP ratio of 100% would likely raise alarms for other countries. But it attracted relatively little attention in an election season dominated by concerns over the economy and the cost of living.\n\nDebt has grown to these levels because over the past 25 years, the federal government has been spending more than it collects in taxes. Even as the U.S. economy grew, lawmakers have cut taxes repeatedly, sometimes with bipartisan support, instead of paying down debt.\n\nThe series of tax cuts since 2001 has added over $10 trillion to the debt, according to an analysis of Congressional Budget Office data by the Center for American Progress. In fact, without these series of cuts, the debt-to-GDP ratio would be decreasing, the study found.\n\nThe debate over taxation often falls along partisan lines, with arguments focusing on which income groups are affected or the potential impact on economic growth. But as a public policy scholar, I believe that important context is often overlooked. Under conditions of strong gross domestic product growth and low debt, tax cuts may have a relatively benign fiscal impact. But today, because debt as a share of GDP is so much higher, and interest rates are steeper, the cost of adding new debt is much greater than 15 or 20 years ago, whether through additional spending or through tax cuts.\n\nI believe Democrats will have to wrestle with this math as they try to advance a policy agenda focused on affordability that minimizes the risk of further borrowing.\n\nIt’s all relative\n\nProponents of fiscal austerity argue that lower spending should accompany tax cuts so that debt doesn’t rise.\n\nU.S. federal spending, however, has remained relatively flat outside of emergencies like the 2009 recovery package and COVID-19 stimulus funds even as GDP has risen.\n\nAt the same time, each round of tax cuts over the past quarter century has actually gotten smaller over time if they’re assessed as a share of GDP, as a study by the Tax Foundation, a nonpartisan think tank, noted.\n\nPresident Ronald Reagan’s 1981 tax cuts were the most expensive in history, reducing annual federal revenue on average by 2.9% of GDP, according to the Tax Foundation’s analysis. The next two biggest cuts occurred in 1945 and 1948, when the government rolled back the wartime hikes that helped pay for World War II. President Barack Obama’s 2012 legislation, extending most of the temporary tax cuts passed under President George W. Bush, comes in fourth at 1.8% of GDP, while cuts passed under President Lyndon Johnson in 1964 rank fifth.\n\nComing in sixth place at 1.2% of GDP: President Donald Trump’s sweeping policy and tax legislation in 2025, which made permanent most of his 2017 tax cuts.\n\nCostly extensions\n\nWhile the Trump cuts amounted to a relatively small share of GDP, they had a much larger effect on the national debt due in part to the higher cost of borrowing. The original 2017 legislation was projected to increase public debt from 91.2% to 97.1% of GDP by 2027, with an overall 10-year cost of $1.5 trillion. That was based on the assumption the cuts would expire after 2025.\n\nBut just like the earlier round of Bush tax cuts, Congress was loathe to let those provisions lapse. In 2025, the narrow Republican majority pushed through Trump’s legislation that extended or made permanent the 2017 cuts.\n\nThe Congressional Budget Office, the independent government scorekeeper of legislation, estimated that the 2025 bill would add another $3.4 trillion over 10 years. And it projected that increasing deficits would push debt to 116% of GDP by the end of 2034.\n\nWhy deficits and economic growth matter so much.\n\nA basic calculation explains when debt stays stable, and when it does not.\n\nIf a government runs a “primary” budget surplus – that is, excluding interest payments – and economic growth is higher than the interest rate on government bonds, debt remains stable. The problem for the U.S. is that budget deficits have been growing faster than the economy, while interest payments on government debt are rising as well.\n\nThis math explains why the trajectory of economic growth is so important in understanding the impact of tax cuts. When taxes were cut after World War II, the economy was booming, the U.S. carried little debt, and reducing taxes didn’t further add to it. By contrast, government spending ballooned under Reagan, thanks in large part to defense outlays. Combined with lower tax revenue due to tax cuts, the national debt tripled during Reagan’s time in office.\n\nIn 2000, the economy was surging again. That was the last time the U.S. took in more tax revenue than it spent and began paying down the debt. President George W. Bush cited this surplus to justify his first round of major tax cuts in 2001, which also drew support from some Democrats.\n\nIt remains to be seen how much leverage the results of the midterms will grant Democratic lawmakers in the next two years as they try to enact legislation under Trump. But I believe lawmakers of all stripes will have to confront the hard choices that the U.S. national debt imposes on policy directions going ahead, thanks to a long series of decisions made over the past quarter century.\n\n",
-    "subreddit": "StockMarket",
-    "created_utc": 1794852840,
-    "thumbnail": "https://external-preview.redd.it/qyFvqqEuVe1-eiSMX9dr2FEkfqthfeKuUoODQ-HRRCU.jpeg?width=140&height=70&auto=webp&s=10716497449635ea10498f3a3b56e34dbb26c84d",
-    "top_comments": [
-      {
-        "body": "meanwhile trump added billions to his wealth ",
-        "score": 19,
-        "author": "Aggravating_Law_1335"
-      },
-      {
-        "body": "But for a nation, tax revenue is its income. So cutting taxes is cutting income essentially.  For example, if you can just afford your mortgage, insurance, groceries, and utilities at $100k a year, cutting your income to $60k a year is probably going to result in you racking up debt. ",
-        "score": 8,
-        "author": "jimmib234"
-      },
-      {
-        "body": "Right but social security started there was 14 workers paying for 1 retiree but that number is 2. ",
-        "score": 7,
-        "author": "Specialist-Garbage94"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-17",
-    "savedAt": {
-      "_seconds": 1794930430,
-      "_nanoseconds": 147000000
-    }
-  },
-  {
-    "id": "1xxuagk",
-    "title": "Former SEC chair Gary Gensler warns AI bubble is likely to cause recession before 2028 election",
-    "url": "https://www.reddit.com/r/investing/comments/1xxuagk/former_sec_chair_gary_gensler_warns_ai_bubble_is/",
-    "author": "ColorMonochrome",
-    "score": 311,
-    "selftext": "https://qz.com/gensler-ai-bubble-recession-warning-2028-election-111626\n\n> \"It's already a bubble,\" Gensler said, according to CNN. He led the SEC from 2021 until 2025 and is now a professor at MIT.\n\n> Gensler pointed to the money flowing into AI infrastructure, which totals $800 billion a year by some estimates, according to CNN. \"The Big Tech companies are spending five times more in 2026 than they were just three years ago,\" he said.\n\n> “History tells us that when you have a new technology and a significant investment ... you come to a point where it plateaus. It retrenches,” Gensler said. “The only question is if it’s a soft recession or something more dramatic.” He cited railroads, 1920s electricity and the 1990s internet as earlier technologies that suffered steep declines once their infrastructure had been built on expectations of future revenue.\n\n> He also raised concerns about how the spending is financed, pointing to circular deals and intricate off-balance-sheet structures that make the true scale of exposure hard to see. \"I think history will show that they loaned too much money, too fast,\" he said.\n\nGensler named neoclouds, which lease supercomputing capacity to AI developers, as the likely first casualties. \"The major companies will survive. It's these neocloud companies where we're going to see some breakage and bankruptcies,\" he said.",
-    "subreddit": "investing",
-    "created_utc": 1794847576,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Expanding on this: so many companies, particularly in the SaaS space, are telling their employees to capitalize on AI. To make use of it, to make products that show AI-native features, that if they let the moment pass that they’ll “fall behind.” And now the bills are coming due for the AI use and they’re trying to reconcile the token costs with the fact revenues are not going up. The part they’re not getting is that their customer is the average consumer, who is being hurt by the real economy and exploding borrowing costs (AI companies are not only sucking up water, electricity, and jobs, they also take up all the investment capital). And their continued use of AI only helps kill their customer base more.\n\nThere’s this c-suite psychosis where the ones who aren’t in the circular financing bubble think they alone will somehow capitalize on being a third party wrapper to Ai models. If you’re not producing GPUs, you’re not going to profit off AI. Anything you build with it is derivative and other people have the same tools to copy you in a day. You can’t get ahead. ",
-        "score": 22,
-        "author": "21Rollie"
-      },
-      {
-        "body": "I worked at a company that encouraged EVERYONE to AI EVERYTHING then balked at the 6-figure bill that came later followed by directions to reduce spend, reliance, etc. \n\nTruly no leaders with their eye on the ball",
-        "score": 11,
-        "author": "HVGC-member"
-      },
-      {
-        "body": "its not even overvaluation. Its fake accounting.\n\nNVIDIA lending a company 50b to buy 50b of chips from themselves, which they then record as 50b in profit. thats 150b in GDP numbers. 0 in reality",
-        "score": 7,
-        "author": "BigBossShadow"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-17",
-    "savedAt": {
-      "_seconds": 1794930430,
-      "_nanoseconds": 862000000
-    }
-  },
-  {
     "id": "1xyraab",
     "title": "Legendary investor Druckenmiller moves to cash: \"we're in capital preservation\"",
     "url": "https://www.reddit.com/r/investing/comments/1xyraab/legendary_investor_druckenmiller_moves_to_cash/",
@@ -100,145 +28,11 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xxu88j",
-    "title": "Trump Says Selling Less Advanced Chips to China is Good, Jensen going back \"not a bad idea\"",
-    "url": "https://www.reddit.com/r/investing/comments/1xxu88j/trump_says_selling_less_advanced_chips_to_china/",
-    "author": "44seconds",
-    "score": 51,
-    "selftext": "Selling less advanced (not Blackwell) chips to China is a \"good thing not a bad thing\": [https://youtu.be/ImmRXuoLjbw?t=487](https://youtu.be/ImmRXuoLjbw?t=487)\n\nSays Jensen going back \"not a bad idea\": [https://youtu.be/ImmRXuoLjbw?t=506](https://youtu.be/ImmRXuoLjbw?t=506)",
-    "subreddit": "investing",
-    "created_utc": 1794847431,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Trump owns nvda stock doesn't he?",
-        "score": 63,
-        "author": "Numerous-Stand-1841"
-      },
-      {
-        "body": "Apparently Trump dumped his nvidia position back in august actually.... \n\nHe prob baught the dip though, it sure sounds like it. ",
-        "score": 28,
-        "author": "No-Contribution1070"
-      },
-      {
-        "body": "$4 gas is the new normal  \nDiesel is still over $6.  \nPrices are still high...  \n\nAnd we're worried about Nvidia.\n\nGot it :-|",
-        "score": 16,
-        "author": "vijay_the_messanger"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-17",
+    "dateString": "2026-11-18",
     "savedAt": {
-      "_seconds": 1794930432,
-      "_nanoseconds": 76000000
-    }
-  },
-  {
-    "id": "1xyjbaq",
-    "title": "How much of the stock market's upward momentum is being driven by passive investing through 401(k)s and retirement accounts?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xyjbaq/how_much_of_the_stock_markets_upward_momentum_is/",
-    "author": "SillyAlternative420",
-    "score": 22,
-    "selftext": "I've been thinking about how much of the stock market's consistent upward momentum is dependent on automatic, recurring investments from millions of Americans contributing to their 401(k)s, pensions, and other retirement accounts every paycheck. \n\nRegardless of valuations, economic conditions, or market sentiment, billions of dollars continue flowing into index funds simply because people are employed and contributing.\n\nBut what happens if AI, automation, and broader economic pressures lead to widespread, sustained job losses? Would a significant reduction in these automatic inflows remove a major source of structural buying pressure that has helped support equity prices? And if unemployment rises alongside increased retirement withdrawals, could that create a feedback loop where declining inflows, forced selling, and falling asset prices reinforce one another?\n\nI'm curious how much of the market's long-term upward trajectory is actually dependent on continued employment growth and passive investment inflows versus fundamentals like earnings growth and productivity. Are we underestimating how vulnerable the market could be if the steady flow of retirement contributions begins to slow or reverse?",
-    "subreddit": "StockMarket",
-    "created_utc": 1794918876,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Mike Green has been talking about this exact thing for years. Basically, passive flows don't care about valuations at all, they just buy blindly every payday.\n\nThe real issue isn't just job losses slowing down the buying, it's demographics. As more boomers retire and hit required minimum distributions, they become forced sellers at the exact same time fewer workers are putting money in. If unemployment spikes on top of that, yeah, that bid disappears pretty quick",
-        "score": 28,
-        "author": "laceyswildestside"
-      },
-      {
-        "body": "In theory the fund managers should be driving the decision making on what to buy, even if it's usually just indexes. It's the timing (every paycheck) that they really can't control, not that timing should stop anyone from investing especially a retirement account.\n\nBut yes the whole thing has kind of always irked me. A lot of people say to put money into retirement/index funds and don't think about it. The thing is they are not wrong, that has been the most stable way to generate wealth going back for many decades, several times my own lifespan. But \"thing that people blindly throw money into without critical thinking\" describes every investment bubble in history, except this. Will time make fools of us all?",
-        "score": 4,
-        "author": "Zienth"
-      },
-      {
-        "body": "I'd watch the inflows less than the drawdown behavior. Payroll buying is steady, but what hurts in a job-loss scenario is people pausing contributions and hardship withdrawals hitting right when prices are already falling. I've seen flows keep a market up for a long time, they just don't set the floor on their own.",
-        "score": 4,
-        "author": "Fonsietrader"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-17",
-    "savedAt": {
-      "_seconds": 1794930433,
-      "_nanoseconds": 9000000
-    }
-  },
-  {
-    "id": "1xym80p",
-    "title": "Dow slides weighed by Home Depot; Nasdaq is flat ahead of Nvidia earnings",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xym80p/dow_slides_weighed_by_home_depot_nasdaq_is_flat/",
-    "author": "TorukMaktoM",
-    "score": 95,
-    "selftext": "Stocks were mixed early Tuesday morning, as the Dow Jones Industrial Average struggled following the release of new corporate earnings reports, while chipmakers kept the Nasdaq Composite along the flatline. Investors also awaited Nvidia’s quarterly release.\n\nThe Dow fell 330 points. The Nasdaq was little changed, while the S&P 500 slipped 0.2%.\n\nSemiconductor names rose following a CNBC report that Anthropic would price its IPO above the current range of $70 to $78. Marvell Technology and Arm Holdings traded 2% and 1% higher, respectively. Broadcom also climbed 1%.\n\nHome Depot dropped nearly 2% after the retailer announced a new CEO would take over next week, weighing on the Dow. That overshadowed better-than-expected quarterly results.\n\nThose moves come as investors brace for Nvidia’s quarterly report, due Tuesday after the bell.",
-    "subreddit": "StockMarket",
-    "created_utc": 1794926650,
-    "thumbnail": "https://external-preview.redd.it/Voo4iMgB9cR2QmZ4Coccl11MNnZeonyd6FCGsz2rhBU.jpeg?width=140&height=78&auto=webp&s=a2f12f3ac1213c8d20ac1487d3b134eb97067025",
-    "top_comments": [
-      {
-        "body": "Just make Robert Pattinson NVIDIA CEO at this point. ",
-        "score": 10,
-        "author": "TopicTalk8950"
-      },
-      {
-        "body": "Nvidia down 24% this month, yet the market is still waiting for one earnings report. Diversification is apparently just owning different stocks that all depend on the same report. 🫠",
-        "score": 7,
-        "author": "EUIJEONGsRegime"
-      },
-      {
-        "body": "Retail sales was only a tenth above consensus, so I wouldn’t read too much into it by itself; the real event risk is NVDA after the bell. I’m watching today’s high/low as the near-term lines in the sand and would keep size small enough that a gap through either level doesn’t wreck the plan.",
-        "score": 7,
-        "author": "Dashing777"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xxy6sn",
-    "title": "Fed's Warsh sees risk of stock bust if AI boom disappoints",
-    "url": "https://www.reddit.com/r/investing/comments/1xxy6sn/feds_warsh_sees_risk_of_stock_bust_if_ai_boom/",
-    "author": "Far_Watercress5133",
-    "score": 57,
-    "selftext": "[https://www.axios.com/2026/11/16/fed-warsh-ai-boom-stocks](https://www.axios.com/2026/11/16/fed-warsh-ai-boom-stocks)  \n\"...Or SI could disappoint. After significant capital investment and stock market gains, expected returns could turn down and equity valuations could fall, leading to an economic slowdown and a more notable rise in unemployment. In time, the economy would recover, but without the productivity gains.\"",
-    "subreddit": "investing",
-    "created_utc": 1794856264,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Did we need Warsh to tell us this?",
-        "score": 52,
-        "author": "HumanFromTexas"
-      },
-      {
-        "body": "Crazy that people started using \"SI\" just because some random guy told them to ",
-        "score": 47,
-        "author": "captain_ahabb"
-      },
-      {
-        "body": "it's an excellent filter though",
-        "score": 26,
-        "author": "snek-jazz"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-17",
-    "savedAt": {
-      "_seconds": 1794930431,
-      "_nanoseconds": 557000000
+      "_seconds": 1795015633,
+      "_nanoseconds": 194000000
     }
   },
   {
@@ -270,74 +64,89 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xye9vb",
-    "title": "Financial Times : Greece becomes unlikely haven for European investors",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xye9vb/financial_times_greece_becomes_unlikely_haven_for/",
-    "author": "Aegeansunset12",
-    "score": 21,
-    "selftext": "Between mass protests, unpredictable elections and unsustainable debt piles, there aren’t many safe havens for investors in Europe at the moment. One market, though, has become an unlikely bastion of stability: Greece.  \nGreek markets have been on an odyssey over the past decade and a half. In 2013, the country was the first to lose “developed market” status in the estimation of a host of equity index providers, but in September it was upgraded by Stoxx, S&P Dow Jones Indices and FTSE Russell, and it will complete the sweep when MSCI indices are rejigged next May.   \nAt its low point in 2013, there were just two companies left in MSCI’s Greece index, with a combined market value of less than €3bn. Since then the index’s market capitalisation has grown more than 20-fold. While countries like the UK fret about losing companies to the US, New York-listed shipping groups have been adding Athens listings in hopes of boosting their valuations.\n\nThe question for investors is whether Greece has gains still to come; the status upgrade may not be entirely beneficial. The country would represent a smaller share of MSCI’s “developed” Europe indices than it makes up in the “emerging” indices. And in turn, those Europe indices are used as the underlying reference for a smaller mountain of invested capital, according to Morningstar data.  \nThat said, new active investors are likely to pitch up. The emerging market index is dominated by Taiwanese, Korean and Chinese tech stocks. It’s unlikely that investors chasing the AI trade are much focused on Greece, with its greater weighting of banks, utilities, telecoms and gambling groups. Once reclassified as “developed”, it will be less of an anomaly given its resemblance to its Mediterranean neighbours — Spain in particular.  \nSince banks make up more than half of the index, the biggest threats to the Greek market are the same as those threatening the broader economy. Inflation in October hit 5.7 per cent, its highest level since 2023, and GDP growth is expected to slow over the next few years. Still, as one of the only countries in Europe expected to report a budget surplus this year, the IMF has said it is “well positioned to cope with external shocks”.  \nAlpha Bank, one of the country’s largest lenders, is already part-owned by Italy’s UniCredit, which started building a stake in 2023. The chief executive of CrediaBank also said earlier this month that it could be an acquisition target. Credia is a challenger to Greece’s big four banks, but even its largest rivals are small by continental standards and could look tempting to foreign lenders looking to gee up growth and burnish their transcontinental aspirations.  \nFor many years, investors gave Greece a wide berth. In the not-too-distant future, thanks to a combination of investment reclassification and foreign M&A, even European investors cautious about the country’s prospects might not have a choice about owning a slice.",
-    "subreddit": "StockMarket",
-    "created_utc": 1794900754,
-    "thumbnail": "https://preview.redd.it/qq1wnwtgl42i1.jpeg?width=140&height=140&crop=1%3A1%2Csmart&auto=webp&s=807170501095681ec38dc7dd62bc81041d0a5f50",
-    "top_comments": [
-      {
-        "body": "That's why its a failed state and young people are running to any other country because its a country that was sold to rich billionaires by the typical neoliberals who love to sell everything to billionaires",
-        "score": 29,
-        "author": "Ash-2449"
-      },
-      {
-        "body": "Bro they are busy paying debt. What are you on about. ",
-        "score": 7,
-        "author": "Psilonemo"
-      },
-      {
-        "body": "This is a total rubbish article data pulled out if the \"fridge\" outdated (2023) and  describing pretty much the same situation that UK is living for the last 10 y. Greece is growing on faster rate than the average EU markets (2.1 vs UK 0.7) and is lowering the debts by paying in advance and unemployment is falling. All good then ? NO has still a lot of issues but at least is working towards the right direction. An important historic detail that these so called journalists ommitted Greece since the constitution of the modern state (1821) always Repayed all the debts. (Uk defaulted in 1934). ",
-        "score": 4,
-        "author": "Matricola70"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-17",
+    "dateString": "2026-11-18",
     "savedAt": {
-      "_seconds": 1794930433,
-      "_nanoseconds": 487000000
+      "_seconds": 1795015634,
+      "_nanoseconds": 711000000
     }
   },
   {
-    "id": "1xyixb9",
-    "title": "Berkshire's only new stock last quarter: Bending Spoons, owner of AOL, Evernote and Vimeo",
-    "url": "https://www.reddit.com/r/investing/comments/1xyixb9/berkshires_only_new_stock_last_quarter_bending/",
-    "author": "TalVal_Research",
-    "score": 44,
-    "selftext": "The 13F Berkshire filed last night has one name that wasn't there in June: 20.7 million shares of Bending Spoons, worth $689 million on September 30.\n\n\n\nThat's the $600 million it put into the July IPO at $29 a share. In October it agreed to buy 10 million more at $33, under the previous close of $37.86, for about 4% of the company. The stock jumped 41% that day. Monday it closed at $40.98.\n\n\n\nBending Spoons buys well-known apps and restructures them. Evernote, WeTransfer and Vimeo all went through deep layoffs after it took over.\n\n\n\nThe rest of the filing looks more like Berkshire: Lennar nearly doubled, Delta up 12%, Bank of America cut 6%, Capital One cut 62%.\n\n\n\nIs an app roll-up a Berkshire business, or is the portfolio changing under Greg Abel?\n\n\n\nNo position.",
-    "subreddit": "investing",
-    "created_utc": 1794917686,
+    "id": "1xzumka",
+    "title": "Anthropic broke SpaceX IPO record- &81 Billions raised",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xzumka/anthropic_broke_spacex_ipo_record_81_billions/",
+    "author": "Broke_BruceWaynee",
+    "score": 209,
+    "selftext": "[Anthropic](https://www.cnbc.com/quotes/ANT?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) priced its IPO at $83 per share on Wednesday, above the expected range, setting the stage for the Claude creator’s eagerly awaited Nasdaq listing and a historic moment for the [artificial intelligence](https://www.cnbc.com/id/107230561?view=franchise&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) industry.  \nThe company, along with insiders, upsized the offering, selling about 980 million shares. That brings the amount raised to $81.3 billion, surpassing SpaceX, which held a record IPO in June. [Elon Musk’s](https://www.cnbc.com/id/100987750?view=franchise&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) company raised $75 billion initially and a total of $85.7 billion after underwriters exercised their overallotment.\n\nAnthropic’s market cap will depend on total shares outstanding, but the share price would put the valuation above the $1.4 trillion that Anthropic was previously targeting. The stock is expected to begin trading on the Nasdaq on Thursday under the ticker symbol “ANT.”   \nThe listing is a major test for the AI industry, which has experienced a set of recent shocks, including a dramatic backlash that was felt at the polls in the midterm elections and last week’s [ouster](https://www.cnbc.com/id/108432640?view=franchise&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) of [Nvidia](https://www.cnbc.com/quotes/NVDA?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) CEO [Jensen Huang](https://www.cnbc.com/id/108432640?view=franchise&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA). The market was [already jittery](https://www.cnbc.com/id/108485998?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) on concerns that rising interest rates will make debt unaffordable for many data center developers and neoclouds.   \nAfter [publicly unveiling](https://www.cnbc.com/id/108353937?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) its prospectus in October, Anthropic updated the document last week with an [expected price range](https://www.cnbc.com/id/108546848?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) between $70 and $78 per share.  The company had been planning to sell 825 million shares.   \nTech’s biggest companies have significant exposure to Anthropic, as an investor, partner or customer. [Amazon](https://www.cnbc.com/quotes/AMZN?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) and [Google](https://www.cnbc.com/quotes/GOOGL?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) both own stakes valued at over $100 billion, and a group of tech companies, including Google, [Microsoft](https://www.cnbc.com/quotes/MSFT?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA), Nvidia and [Advanced Micro Devices](https://www.cnbc.com/quotes/AMD?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) agreed to collectively invest $26 billion at the IPO price. Anthropic, meanwhile, is a buyer of costly systems from Nvidia, Google, Amazon and AMD.",
+    "subreddit": "StockMarket",
+    "created_utc": 1795045632,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Honestly with Warren Buffett and Charlie Munger leaving, I'm not sure I would consider Berkshire to necessarily be a better stock picker than any other private equity or activist investment firm.",
-        "score": 36,
-        "author": "Affectionate-Panic-1"
+        "body": "Nobody thats buying is holding.\n\nEven professional wealth managers are saying clients are all inning with full intention of flipping everything on the first day.\n\nYou’re guaranteed money similar to SpaceX on the pop at open if you get in at ipo price. Past that it’s anyones guess, but it most likely plummets after the first week and especially after the first lockup.\n\nSpaceX can barely even hold its ipo price and can’t even get back to its first bid/ask sale price.",
+        "score": 61,
+        "author": "Wowmuchrya"
       },
       {
-        "body": "i'm less worried about who picked it than what the model actually is. Buying tired apps, cutting hard, and milking the cash flow can work for a while, but thats a very different business than owning See's or BNSF. If Abel keeps doing deals like this, Berkshire starts looking like a roll-up shop with a great balance sheet, not a collection of forever businesses.",
-        "score": 10,
-        "author": "MrMarketsDiary"
+        "body": "This entire IPO is exit liquidity for early investors off the backs of retail investors. You might be able to buy when they open and sell before the end of next week and make a profit, but this thing is absolutely going to crater along with the currently collapsing bubble.\n\nY’all are marks if you believe otherwise when every single fundamental points to a garbage company. It’s all hype and nothing else.",
+        "score": 29,
+        "author": "Main-Eagle-26"
       },
       {
-        "body": "I haven't considered buffett a better picker for 15 years",
-        "score": 10,
-        "author": "cosmic_backlash"
+        "body": "> The headlines tell me to buy\n\nThis is great for selling on the IPO pump",
+        "score": 25,
+        "author": "D_crane"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xzr3ex",
+    "title": "Operating Incomes for Mega Cap Tech (Updated)",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xzr3ex/operating_incomes_for_mega_cap_tech_updated/",
+    "author": "Prudent-Corgi3793",
+    "score": 73,
+    "selftext": "After a flurry of earnings reports to close the month of October, we did not expect much from Big Tech until Nvidia reported yesterday on November 17. Once again, it was a fantastic triple beat on the top line, bottom line, and Q4 guidance. Of course, as I have said in previous posts, because so many of these tech companies in other companies like Anthropic, SpaceX, and Intel, GAAP net income results in severe distortions, I have preferred to use operating income instead, which are not subject to such distortions. Here, Nvidia beat estimates with $77.6 billion in quarterly operating income, compared to $68.9 billion expected. (I am using Compustat `oiadpq`, which excludes special items.)\n\nOf course, much has happened since the end of October. The market has been shaken by fears around capex spending in the wake of a wave election, followed by the sudden resignation of Nvidia CEO Jensen Huang. Most of these big tech companies are trading at rarely seen bargain bin valuations, clearly indicating that the market does not believe that their future cash flows are sustainable and that a pop is imminent. Sometimes, the market is right: in March 2000, dotcom darling Cisco crashed even though its earnings continued to grow for another four quarters before plummeting. However, it should be note that as of March 2000, CSCO traded at a trailing PE of 220 and a forward PE of 130, not comparable to any of the mega cap names but Tesla today.\n\nThe remainder of the earning season concludes with Broadcom and Micron are set to report on Dec 9 and Dec 23, respectively. Analysts project $23.4 billion for Broadcom and $46.4 billion for Micron for the upcoming quarter, not shown in this graph. Will their results even matter with sentiment at all time lows?",
+    "subreddit": "StockMarket",
+    "created_utc": 1795036560,
+    "thumbnail": "https://preview.redd.it/c5lmdchwsf2i1.png?width=140&height=113&auto=webp&s=f6ac35e7dabd5a143f7d4689835292ef0006a395",
+    "top_comments": [
+      {
+        "body": "One of these things does not belong w the others 🤡",
+        "score": 56,
+        "author": "ucce11o"
+      },
+      {
+        "body": "That one runs on Hopiums not Earnings.",
+        "score": 14,
+        "author": "Ultraeasymoney"
+      },
+      {
+        "body": "Man i dont like Nvidia as a company and im a nvidia investor buying the dip to profit from this absurdity, im getting out permanently when the stock evnetually hits ATH again, might take 3 years, im fine with it, ",
+        "score": 11,
+        "author": "ThatUndeadLegacy"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y03swl",
+    "title": "AI is becoming a cybersecurity threat faster than companies can adapt.",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y03swl/ai_is_becoming_a_cybersecurity_threat_faster_than/",
+    "author": "Smart_Money_HQ",
+    "score": 64,
+    "selftext": "  \nThe average time between vulnerability disclosure and exploitation has fallen from roughly 30 days to just 11 days.  \n  \nThe annualized rate of observed zero-day exploitation has roughly doubled.  \n  \nEstimated cyber incidents have massively increased following the release of GLM-5.3.  \n  \nGLM-5.3 is an open-weight AI model developed by China's [**Z.ai**](https://www.linkedin.com/safety/go/?url=http%3A%2F%2FZ%2Eai&urlhash=uux1&mt=Rz_UaomS0VybGkIPFPbhC8UMe-v_nlMCUDwR_SlBkwqwHdtt8CTw-9CE9Jn4xBbMfx95aliD8pE9aeYVsIqxjdxLHWmP7JAkoVNAWiS-VxfEWo8tYQ0UFXsYIuK6FgIUUvUjZeZQ6HPpQJApMp297hZRTTNuTMyeK2PC_T5HSm6rSqu6ZN3CMOzIN2uVkNZGmkGdTJ3X44Zne1uSSZ5l6RNId-Q6eQ&isSdui=true), with a focus in identifying and exploiting software vulnerabilities, which scored 84.5% on the CyberGym benchmark and more than doubled the previous versions performance on exploitation benchmarks.  \n  \nBeing open-weight means that these capabilities are now accessible to a much, much wider audience and as these AI-driven threats accelerate, we could see upward earnings revisions and a repricing of cybersecurity stocks \n\nAI labs will also monetize as they continue to push the boundaries of these models, amplify the cybersecurity risks in the process, and then sell the solutions to the very problems they helped create.",
+    "subreddit": "StockMarket",
+    "created_utc": 1795074748,
+    "thumbnail": "https://preview.redd.it/7euvq5w2yi2i1.jpeg?width=140&height=112&auto=webp&s=e29269e0fbbb795c684107f5e78b056cc4f3e706",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
     "id": "1xz6344",
@@ -368,99 +177,244 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xxu0ew",
-    "title": "Is market-cap weighting really the best long-term investment strategy?",
-    "url": "https://www.reddit.com/r/investing/comments/1xxu0ew/is_marketcap_weighting_really_the_best_longterm/",
-    "author": "Helpful-Staff9562",
-    "score": 17,
-    "selftext": "I've always been a believer in broad diversification and keeping investing simple. Something like VT, which invests in the global equity market according to market-cap weights, seems like a very sensible long-term approach.\n\nHowever, is it necessarily the best approach?\n\nOn one hand, market-cap weighting is simple, low-cost and eliminates the need to predict which countries, sectors or companies will outperform.\n\nOn the other hand, certain factors (value, quality, momentum, profitability and small-cap) have historically delivered higher returns over certain periods, sometimes with lower volatility. Could incorporating some factor exposure improve long-term results without sacrificing too much diversification?\n\nI'm not interested in sector bets or market timing. I'd rather have a diversified portfolio that I can stick with for decades without constantly second-guessing my decisions.\n\nFor context, let's assume someone is in the wealth accumulation phase, has a long investment horizon and prioritises portfolio growth.\n\nA few questions:\n\n\\- What are the main pros and cons of market-cap weighting?\n\n\\- Does adding factor tilts make sense, or is it unnecessary complexity?\n\n\\- Can you potentially improve risk-adjusted returns without compromising diversification?\n\nInterested in hearing different perspectives and experiences.",
-    "subreddit": "investing",
-    "created_utc": 1794846941,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-17",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-18",
     "savedAt": {
-      "_seconds": 1794930434,
-      "_nanoseconds": 512000000
+      "_seconds": 1795015635,
+      "_nanoseconds": 881000000
     }
   },
   {
-    "id": "1xy9e0b",
-    "title": "Cerebras cites $26.1 billion of remaining work. The 10-Q schedules only 33% of it as revenue in two years",
-    "url": "https://www.reddit.com/r/investing/comments/1xy9e0b/cerebras_cites_261_billion_of_remaining_work_the/",
-    "author": "filingdelta",
-    "score": 16,
-    "selftext": "Cerebras cited $26.1 billion of remaining contracted work as of September 30, 2026, along with record third-quarter revenue of $210.8 million. The $26.1 billion is work under contract that has not been delivered yet. A number that large only becomes revenue if the capacity actually gets delivered.\n\nThe earnings release gives the total. The 10-Q gives the timetable. The company expects about 33% of that $26.1 billion as revenue over the 24 months ending September 30, 2028. The rest is scheduled later. That is not unusual for a business that delivers AI infrastructure over years, and it is a schedule for recognizing revenue, not a timetable for collecting cash. The filing says the timing can change if delivery timing changes.\n\nA significant amount of the $26.1 billion is tied to Cerebras's agreement with OpenAI. As of September 30, the company had delivered less capacity to OpenAI than the agreement called for. Those delivery figures don't account for delays the contract may excuse. Cerebras expects the delays may continue through a portion of 2027. Service credits started accruing as of October 1, 2026, also without adjusting for delays the contract may excuse. Those credits would reduce later monthly fees.\n\nOn its current forecasts, the company expects the portion that could be terminated in 2026 to be less than 5% of the capacity committed under the OpenAI agreement. That is not capacity already cancelled, and it is not 5% of the $26.1 billion.\n\nThis is not a buy or sell call. If you hold CBRS because of the $26.1 billion, how much more delay in OpenAI capacity would it take for you to rethink that?",
+    "id": "1xzgcdd",
+    "title": "Waller wants a 50 bps hike while Bloomberg is tracking November CPI at -0.1% MoM",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xzgcdd/waller_wants_a_50_bps_hike_while_bloomberg_is/",
+    "author": "Smart_Money_HQ",
+    "score": 56,
+    "selftext": "Waller came out today arguing that the Fed may need to hike by 50 bps in December while CPI is likely to be negative MOM...\n\nWith Treasury yields already elevated and financial conditions tightening, there is a growing risk of the Fed overtightening based on backward-looking data.\n\nA 25 bps hike in December remains my base case, but I think the market could be overestimating how much tightening will ultimately be needed in 2027.",
+    "subreddit": "StockMarket",
+    "created_utc": 1795011516,
+    "thumbnail": "https://preview.redd.it/2jz6hisaqd2i1.png?width=140&height=70&auto=webp&s=4f1b4bd9b96454d8e5e4e1d12442b9e8fd8659d9",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1xznldf",
+    "title": "Are Investors too Bearish?",
+    "url": "https://www.reddit.com/r/investing/comments/1xznldf/are_investors_too_bearish/",
+    "author": "BabyDontHerdMe_NoMo",
+    "score": 36,
+    "selftext": "Before you even read.  \n  \nPause. Look at a post a made 2 months ago, this provides some context and feeds into the question!   \n  \n[https://www.reddit.com/r/investing/comments/1wjpuj6/are\\_investors\\_too\\_bullish/](https://www.reddit.com/r/investing/comments/1wjpuj6/are_investors_too_bullish/)\n\nI mentioned how WM, BRKB, and PG were being overlooked.   \n  \nThese companies share prices since I made the post:\n\n* PG: +17% \n* WM: +15%\n* BRKB: +18%\n\nBut now I feel like people are panic selling. NVDA growth 103% year-over-year, MSFT is free-cash flow positive, and Micron is already backlogged for a lot of their inventory for FY 27.\n\nI don't blame people for hedging. I mean it's the reason why I made the \"Are Investors too Bullish?\" post a couple of months ago.\n\nI highlighted BRKB, T-Bills and WM for this reason. But I am starting to slowly buy back into the memory and hyperscalers again when prices are this cheap (like dirt cheap).\n\nWhat are people doing? Still bearish and hedging or are people taking advantage of these discounts?",
     "subreddit": "investing",
-    "created_utc": 1794884571,
+    "created_utc": 1795028374,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Good catch pulling the timetable from the 10-Q; the release alone hides it.\n\nTo your question, I’d frame delay in value rather than size. It costs twice: money that arrives later is worth less today, and the service credits cut the fees on what does get delivered. So the number I’d watch is the share due in the next 24 months, not the $26.1 billion. If that 33% shrinks in the next 10-Q while the total holds, the delay is showing up before anyone announces it, and that would be my point to rethink.\n\nThe other thing is the termination window. Under 5% is only the 2026 estimate, and it’s of the OpenAI capacity, not the backlog. If the delays run through 2027, I’d look for whether a 2027 figure appears and how big it is.",
-        "score": 1,
-        "author": "qualuation"
+        "body": "When people are afraid the world is ending they hoard toilet paper, the stock of the company that makes the toilet paper, and the stock of the company that sold them the toilet paper.\n\nSo, yes.",
+        "score": 50,
+        "author": "jcpopm"
+      },
+      {
+        "body": "I didn't sell anything. I'm buying the same things with my income that I was buying before. Congrats to you on making a good call 2 months ago but I would encourage you to not get too far ahead of your skis. \n\nLike, Jim Cramer has gotten a lot of grief for bad stock picks through the years, but he 100% nailed NVDA and got in early. The old \"broken clock is right twice a day\" can apply if you're not careful.",
+        "score": 27,
+        "author": "Successful-Tea-5733"
+      },
+      {
+        "body": "I rolled almost all of my individual non ai stocks into ai infrastructure stocks over the last 1-2 weeks.\n\nAfter last nights Nvidia call I’m leaning into Neoclouds even harder. Particularly NBIS because of their work with Nvidia and lack of debt in comparison to CRWV who I also like, just not as much\n\nNeoclouds will almost certainly outperform the  markets in 2027 and 2028 due to their absurdly low valuations given their growth and prospects for further growth",
+        "score": 19,
+        "author": "Crew_1996"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-17",
-    "savedAt": {
-      "_seconds": 1794930435,
-      "_nanoseconds": 16000000
-    }
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xxyct5",
-    "title": "US Moves to Curb China’s Remote Access to Nvidia’s AI Chips",
-    "url": "https://www.reddit.com/r/investing/comments/1xxyct5/us_moves_to_curb_chinas_remote_access_to_nvidias/",
-    "author": "confused_boner",
-    "score": 18,
-    "selftext": "Title: US Moves to Curb China’s Remote Access to Nvidia’s AI Chips\n\nAuthor: Maggie Eastland and Magan Crane\n\nPublished: 2026-11-16\n\nSource Link: [https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips](https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips)\n\n\n\n\\---\n\n\n\nTakeaways by Bloomberg\n\n\\- The Trump administration issued an interim rule requiring data center operators in several countries to obtain a US government license before exporting advanced AI chips from American manufacturers to customers in those countries.\n\n\\- The measure aims to restrict China and other US adversaries from accessing offshore computing power that uses American-designed processors through remote computing arrangements involving data centers in third countries.\n\n\\- The rule is designed to ensure that existing restrictions on access to sensitive American technology cannot be circumvented through remote computing arrangements involving data centers in third countries, according to the Commerce Department.\n\n\n\n\\---\n\n\n\nThe Trump administration moved to limit several countries from providing Chinese companies remote access to advanced artificial intelligence chips and servers, following increased scrutiny over its handling of curbs on semiconductor exports after an alleged espionage scandal involving Nvidia Corp.\n\n\n\nAn interim rule issued by the Commerce Department on Monday would require data center operators in Singapore, Malaysia, Thailand, Indonesia and Brazil to obtain a US government license before exporting advanced AI chips from Nvidia and other American manufacturers to customers in those countries. The measure seeks to restrict China and other US adversaries from accessing offshore computing power that uses American-designed processors.\n\n\n\n“The rule is designed to ensure that existing restrictions on access to sensitive American technology cannot be circumvented through remote computing arrangements involving data centers in third countries,” the department said Monday in a statement.\n\n\n\nNvidia shares fell as much as 2.9%, while the Philadelphia Semiconductor Index dropped as much as 5.5%.\n\n\n\nSpokespeople for Singapore, Malaysia, Indonesia and Thailand didn’t immediately respond to requests for comment outside normal business hours. Representatives for Nvidia and the Brazilian government also didn’t immediately respond.\n\n\n\nThe draft rule was released days after Jensen Huang’s resignation as Nvidia’s CEO following his admission to an affair with Alice Huang, a former executive at Singapore-based Megaspeed International whom the US suspects of being a Chinese spy. Megaspeed has been under US investigation for possible export control violations. The company has denied any wrongdoing, while Alice Huang is now in China.\n\n\n\nCommerce announced its decision as President Donald Trump and other senior administration officials were preparing to travel to Asia for a series of regional summits where the issue of US export controls on advanced technology will be on the table. Restricting access to cutting-edge AI chips risks angering regional partners as well as the government in Beijing, which has bristled in the past at US export curbs.\n\n\n\nSoutheast Asia has emerged as a data center hub, with demand from Chinese AI developers like Alibaba Group Holding Ltd. and Bytedance Ltd. helping to drive the infrastructure buildout. Malaysia and Thailand have been the hot spots, while Indonesia’s data center market is in earlier stages of development. Singapore, meanwhile, isn’t known so much as a major host of data centers, but has been suspected of being used as a destination for servers that were rerouted to mainland China.\n\n\n\nThe US also suspects a key company behind Thailand’s national AI effort of helping to smuggle billions of dollars worth of servers containing advanced Nvidia chips to China, Bloomberg reported in May.\n\n\n\nAmerican depositary receipts for Alibaba were down nearly 2.8% in New York trading on Monday.\n\n\n\nIn Brazil, officials are seeking to expand the data center industry and achieve what the government calls “digital sovereignty” in technology and AI, while attracting investment from both US and Chinese technology giants. TikTok owner ByteDance is investing billions of dollars in a data center project in northeastern Brazil, a region rich in renewable power and home to South America’s largest hub of high-speed fiber-optic cables.\n\n\n\nNvidia has posted a surge in revenue from Southeast Asia in recent years, although it changed its accounting methodology last year in a way that makes it more difficult to ascertain such sales precisely. The company’s Singapore revenue soared to about $24 billion in fiscal 2025, nearly four times the previous year, and roughly 18% of its total. At that time, Nvidia reported geographic sales based on billing location for its customer.\n\n\n\n\n\n\\### The Future of AI Without Jensen Huang\n\n\n\nThe company changed that methodology last year to report geographic sales based on the headquarters location of its direct customer. The result is that US revenue hit 69% in fiscal 2026, up from 47%, while Singapore revenue became so negligible it was lumped into another category.\n\n\n\nSince Trump’s return to office in early 2025, Huang had spearheaded efforts in Washington to fend off attempts to tighten export restrictions on his company’s prized AI chips. The former Nvidia chief forged a close relationship with the president and used his clout to cajole the administration into allowing sales to China of one of the company’s older-generation AI processors.\n\n\n\nIn the wake of Huang’s departure, efforts on Capitol Hill to pass export control legislation are gaining steam, while US lawmakers are demanding answers from both the chipmaker and the administration.\n\n\n\nTreasury Secretary Scott Bessent has said he wants to know whether Nvidia intentionally ignored warning signs that shell companies, many of them in Singapore, may have been funneling chips to China. Bessent has signaled he wants to shift the focus from the departed CEO’s personal “foibles” to the legal and national-security aspects surrounding the company.\n\n\n\nBessent has also pointed a finger at Commerce Secretary Howard Lutnick in recent days for failing to do enough to enforce existing curbs. “As I said, many other departments were pushing for this, and Commerce had the pen,” the Treasury chief said on Fox News’ Sunday Morning Futures.\n\n\n\nOn Monday, ahead of his departure for Asia, Trump expressed confidence in Lutnick despite the fallout from the Nvidia scandal. Trump said he had no plans to replace the Commerce chief and said Lutnick may have slowed his agency’s work on export controls to avoid antagonizing China during delicate trade negotiations.\n\n\n\n“We’re having a very good relationship with China right now, and I understand both sides of it,” Trump said.\n\n\n\nBoth Lutnick and Bessent were expected to fly with Trump aboard Air Force One to the Philippines and China for his summit meetings, according to the White House. Trump’s advisers have previously said he retained confidence in Lutnick.\n\n\n\nThe Commerce Department’s announcement on Monday said the rule was “written by and at the direction” of the Treasury Department and the National Security Council, suggesting that pressure from officials outside Commerce played a significant role in its release. The licenses are subject to approval on a case-by-case basis.\n\n\n\nNoting that advanced cloud computing has made it increasingly possible to access US AI computing systems remotely, the department said the new measure is intended to align with existing rules on physical access to the technology.\n\n\n\nLast week, Axios reported that Trump had authorized a new crackdown on companies suspected of diverting advanced AI chips to China, but that Lutnick delayed acting on the directive. Separately, Trump said on Monday that Jensen Huang had not put national security at risk.\n\n\n\nThe rule also includes a carveout for US-headquartered companies operating in the new list of countries, allowing them to continue shipping AI chips there without a license. It also exempts shipments to data centers used as commercial recommender systems for online retailers or social media companies.\n\n\n\nThe draft rule posted Monday says the new requirements will take effect once it is posted in the federal register. As of 9 a.m. Monday, it has not been posted.",
+    "id": "1xzvtk8",
+    "title": "SGOV yield change - 2 months after 9/16 Fed action",
+    "url": "https://www.reddit.com/r/investing/comments/1xzvtk8/sgov_yield_change_2_months_after_916_fed_action/",
+    "author": "RU9901",
+    "score": 35,
+    "selftext": "Last month I had [this post](https://www.reddit.com/r/investing/s/q7ApsCrqui) asking about SGOV one month after the Fed raised rates on 9/16.\n\nNow two months in, SGOV SEC Yield has been on the increase, thusly:\n\n9/16: 3.64%\n\n10/16: 3.74%\n\n11/18: 3.88%\n\n[https://yieldfinder.app/money\\_markets](https://yieldfinder.app/money_markets)\n\nNow with the Fed's talking about another rate hike in December I guess we could expect more of the same trajectory from SGOV going forward.\n\n",
     "subreddit": "investing",
-    "created_utc": 1794856655,
+    "created_utc": 1795048861,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Hey guys, fire is hot. \n\nIs this post needed? Sgov is tied exclusively to fed rates",
+        "score": 58,
+        "author": "Immediate-Run-7085"
+      },
+      {
+        "body": "That gradual rise is what I would expect, because SGOV holds Treasury bills that mature in 0 to 3 months. When short term rates move, the fund only picks up the new rate as old bills mature and new ones are bought, so the 30 day yield climbs over weeks instead of jumping in one day. Your numbers show that too, up 24 basis points from 3.64 to 3.88 percent over two months.",
+        "score": 17,
+        "author": "Beneficial-Welder974"
+      },
+      {
+        "body": "Fire good. Warms my buns. Yield good. Covers my buns.",
+        "score": 11,
+        "author": "MNCPA"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xywdd4",
+    "title": "Event-driven trading/investing, e.g. conflict in Iran, the current cyber attacks",
+    "url": "https://www.reddit.com/r/investing/comments/1xywdd4/eventdriven_tradinginvesting_eg_conflict_in_iran/",
+    "author": "bejammin075",
+    "score": 12,
+    "selftext": "I used to be a Boglehead 3-funder for many years, but over the past year or so I've changed to being a more active investor, dividing my money into many different uncorrelated sectors & assets. During this transition, I researched to find a large number of sectors that historically performed well. At one point my plan was to buy and hold a set list of about 12 sectors/assets, with occasional passive rebalancing. The backtesting showed a higher return than the S&P 500 over 40 years, with much less severe drawdowns.  \n  \nI had ruled out the energy (oil & gas) sector because historically that sector didn't perform as well as the other sectors on my list (6% CAGR vs 11-17% CAGR). But then the war in Iran happened and I started to change my mind. I bought a somewhat oversized position in energy (FSENX) and that's been one of the best investments I've made this year.  \n  \nIt seemed like a no-brainer: US invades the Middle-East, buy an oil & gas fund.  \n  \nThis started to open my eyes to event-driven trading/investing. In the past few months, there was reporting about AI hacking, like the Hugging Face incident and others. I became aware of cyber security ETFs like HACK and CIBR. By the time I looked at those, they were off to a big bull run and I didn't want to jump in at the top, so I kept my eye on them, waiting for a pullback. The pullback seems to have arrived, and then all these weird incidents started happening. We had Microsoft Outlook out, and the airlines grounded. When the 3rd thing happened, the banking failures, I realized we are probably under an ongoing nationwide cyber attack. I looked at the cyber security ETFs and they had pulled back nicely along with this big tech slide. With my eyes now more open for opportunities like this, I pulled the trigger and bought some.  \n  \nIt seemed like a no-brainer: US is under a nationwide cyber attack, buy a cyber security fund.",
+    "subreddit": "investing",
+    "created_utc": 1794949878,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Ha. Good luck. How'd you manage to forget everything learned as a boglehead?",
+        "score": 13,
+        "author": "dissentmemo"
+      },
+      {
+        "body": "you got lucky out of the gate, and are now preparing to dig your own grave based on selective glances in the rearview mirror. you think no one else has your unique insights, turns down these easy opportunities?",
+        "score": 6,
+        "author": "hymie-the-robot"
+      },
+      {
+        "body": "Bogleheads forget geopolitics on purpose; that's the whole strategy.",
+        "score": 3,
+        "author": "Competitive-Pin3757"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xyoinf",
+    "title": "WHY are GERMANS so good at audio?",
+    "url": "https://www.reddit.com/r/business/comments/1xyoinf/why_are_germans_so_good_at_audio/",
+    "author": "ExotiquePlayboy",
+    "score": 9,
+    "selftext": "I’ve been using Sennheiser microphones for the longest time\n\nI remember buying a Sennheiser MKE 600, I was in Wonderland. The audio was so crisp compared to my Rode mic which is trash.\n\nI also bought Behringer mics and for the price no one can compete with them in the budget zone. Not to mention their audio interfaces are excellent quality.\n\nI bought a new Mercedes Benz this year. Obviously I’ve had other cars before the Burmeister speakers in the Benz are RIDICULOUS. Insane levels of bass. \n\nHow did Germany become so good in this industry? ",
+    "subreddit": "business",
+    "created_utc": 1794931958,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "This. Look at their trains. They refuse to run them until they find the best way to run them. ",
+        "score": 20,
+        "author": "ReacherNMN"
+      },
+      {
+        "body": "Germans are rigidly dedicated to perfection in everything they make. It's a mindset of: If it's not the best you can make, why make it? ",
+        "score": 14,
+        "author": "Spiritual-Price6278"
+      },
+      {
+        "body": "Even better.. they find the best way while delaying them.",
+        "score": 12,
+        "author": "Maybe_An_Idiot"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xz7lfx",
+    "title": "Private Fund Giants Battle Inertia in €10 Trillion EU Asset Hunt",
+    "url": "https://www.reddit.com/r/investing/comments/1xz7lfx/private_fund_giants_battle_inertia_in_10_trillion/",
+    "author": "confused_boner",
+    "score": 8,
+    "selftext": "Title: Private Fund Giants Battle Inertia in €10 Trillion EU Asset Hunt\n\nAuthor: Leonard Kehnscherper, Frances Schwartzkopff, and Esteban Duarte\n\nPublished: 2026-11-18\n\nSource Link: [https://www.bloomberg.com/news/articles/2026-11-18/private-fund-giants-target-80-billion-from-eu-insurance-regulatory-revamp](https://www.bloomberg.com/news/articles/2026-11-18/private-fund-giants-target-80-billion-from-eu-insurance-regulatory-revamp)\n\n\n\n\\---\n\n\n\nThe world’s biggest private capital firms are stepping up their hunt for a larger chunk of the European Union’s €10 trillion ($11 trillion) insurance asset pile - and settling in for a long pursuit.\n\n\n\nA regulatory revamp kicks in on Jan. 30 which includes lower capital charges on complex securitized assets, and stands to unlock billions in extra funding for critical EU priorities including digital sovereignty, defense and decarbonization. The changes give the likes of Blackstone Inc., Apollo Global Management Inc. and Pimco a target of as much as €80 billion from next year, as they seek to offer European insurers ways to invest their freshly unfettered cash.\n\n\n\nPolicymakers including former European Central Bank President Mario Draghi have long urged the EU to loosen its regulations in this area to bring them closer to Wall Street. But critically, the memory of the role that opaque mortgage securities played in the 2008 financial crisis has made regulators highly cautious - and that approach has bedded in with institutional investors too.\n\n\n\nEven as the European economy risks falling further behind China and the US, investment firms are warning of built-in conservatism among many insurers. Bureaucracy, regulatory skepticism and the fierce competition for cash from the credit-hungry US economy are also threatening to slow down Europe’s shift into alternative asset classes.\n\n\n\n“Insurance companies, institutional investors, they are no speed boats,” said Fabian Gerlich, head of insurance and public pensions coverage for Germany at Deutsche Asset Management in Frankfurt. “Requirements for investor due diligence, transparency and data collection as well as documentation are vast and can prove a hurdle to onboard securitization as a new asset class.”\n\n\n\nChanges to insurance rules known as Solvency II could immediately free up the €80 billion of regulatory capital based on insurers’ existing holdings, according to S&P Global Ratings.\n\n\n\nSome of the rule changes won’t directly affect Europe’s largest insurers such as Allianz SE, AXA SA and Generali, who are allowed to use internal models to calculate their capital charges. Still, the vast majority of European insurers stand to benefit.\n\n\n\nA parallel package will overhaul the rules around securitization - the creation of tradeable assets out of credit and the ownership of company stakes. Among the changes, banks will face lower capital requirements on their exposures to securitizations.\n\n\n\nThe reforms are part of a long effort stretching back to Europe’s debt crisis in the 2010s to revive the market, and the realization that the region had scant capacity to leverage credit and funnel funds to the economy outside of the constrained banking system.\n\n\n\nUntil now, proponents argue that savings have been excessively tied up in an outdated system of risk management that makes asset owners shun higher yielding private and alternative investments.\n\n\n\nThey include Oliver Wyman’s former vice chair - and now Apollo partner - Huw van Steenis who argues that Solvency II made long-term infrastructure projects and packages of small-business loans economically unattractive for insurers. Former Bank of France governor Christian Noyer, meanwhile, said in a 2024 report that Europe had retained excessive prudential penalties calibrated to practices that were no longer relevant.\n\n\n\n“We’re seeing growing interest in securitized assets as insurers assess the opportunities created by Solvency II reform, with collateralized loan obligations and private investment-grade credit among the clearest beneficiaries,” said Dan Leiter, who oversees Blackstone’s credit and insurance business outside the US. “Some insurers will move more quickly than others, and a slower adoption can be healthy for market dynamics.”\n\n\n\nNo one expects insurers to rotate even a small slice of their portfolio overnight. They will still need to approve new mandates, build expertise and ensure that less-liquid investments match the cash flows of their liabilities.\n\n\n\nFrom next year, capital requirements for some investments in private equity and senior structured credit are set to fall sharply, in certain cases by more than half.\n\n\n\nEasier rules for long-term equity investments will allow more holdings to qualify for a 22% capital charge, compared with 39% for ordinary listed shares and 49% for most private-equity and other unlisted investments. In theory, that steers more insurer money toward companies, private equity and venture-capital funds, infrastructure and energy-transition projects.\n\n\n\n“The Solvency II amendments are definitely a big shift, as European insurers haven’t been able to invest as much in long-dated equities and investment-grade structured credit in the past as they would have liked to,” said Ed Collinge, head of insurance solutions at CVC Capital Partners Plc.\n\n\n\nThe changes are already part of CVC’s regular discussions with insurers across Europe, he said. “They’re now working out whether it’s something they want, and the answer is generally yes.”\n\n\n\nLower charges on high-quality securitizations could make insurers bigger buyers of packaged mortgages, consumer credit and company loans. Banks could then transfer some of that risk, free up space on their balance sheets and extend more credit to households and businesses. Insurers, in turn, would gain access to a broader pool of income-producing investments.\n\n\n\nPolicymakers have reached a preliminary agreement to cut risk-weighted floors - an indicator of the capital that banks need to set aside to cover unexpected losses - on the senior portions of certain securitizations to 5% from 10%, Bloomberg News reported last month.\n\n\n\nEurope had almost €1.3 trillion of securitizations outstanding, including collateralized loan obligations, at the end of June, according to the Association for Financial Markets in Europe. While that represented growth of 2.7% over a year, the market remains a fraction of its US equivalent.\n\n\n\nYet doubt over valuations in private credit and buyout firms remains elevated, raising the risk of broader financial turbulence ahead. Parts of Europe’s regulatory machinery are warning that, as a result of the reforms, capital could be lacking when the next crisis hits.\n\n\n\nThe European Insurance and Occupational Pensions Authority has said that the Solvency II capital relief risks eroding the system’s buffers. The insurance watchdog will be paying attention to how firms use the benefit, and whether that’s aligned with the broad strategic goals, according to Petra Hielkema, chair of the organization. The ECB has voiced similar concerns.\n\n\n\n“The reality is that once these changes take effect, the impact on solvency ratios may appear small, but there will be less actual capital in the system backing that number up in today’s environment of interconnected risks and high uncertainties,” Hielkema said in response to questions. “The capital relief is not intended to simply fund payouts for shareholders and managers.”\n\n\n\nA central irony of Europe’s efforts to boost securitization is that the most immediate beneficiaries might not be in the old continent at all. Booming US debt markets, driven by the immense capital needs of the AI build-out, are churning out opportunities for higher-yield investment at a faster rate than any European market.\n\n\n\nUS players such as Nuveen, one of the world’s largest asset managers with $2.6 trillion under management, are pointing Europe’s insurers further west.\n\n\n\n“The US provides scale where allocations can happen in the near term as the European market looks to recover lost ground,” Nuveen said in marketing materials published this year.\n\n\n\nThe presence of a giant market competing for capital may focus European minds as the regulatory changes bed in. The differences between the way that European insurance firms invest with their US peers is stark, according to Laila Kollmorgen, global head of CLO tranche investments at MetLife Investment Management.\n\n\n\nKollmorgen notes that CLOs make up 15% of US life insurance companies’ investment book while securitizations of all types make up less than 1% of EU insurers’ investment books.\n\n\n\nThat means that while still conservative, the chance for growth from such a low base is significant.\n\n\n\n“The solvency regime really was the only regime in the world that did not include securitizations and very specifically CLOs,” she said in an interview. “Solvency II for European CLOs is going to have a huge, huge impact.”",
+    "subreddit": "investing",
+    "created_utc": 1794981265,
     "thumbnail": "self",
     "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-17",
-    "savedAt": {
-      "_seconds": 1794930434,
-      "_nanoseconds": 72000000
-    }
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1xy0cgh",
-    "title": "Swamping by hyperscalers?",
-    "url": "https://www.reddit.com/r/investing/comments/1xy0cgh/swamping_by_hyperscalers/",
-    "author": "This-Function-2648",
-    "score": 9,
-    "selftext": "I wanted to explore different views of the narrative: AI build out is a strategic move by hyperscalers using their balance sheet as a way to swamp commoditised semi products like CPU, GPU etc. Preventing access by other companies, most likely SaaS enterprises.\n\nMy view is that they are buying time and forcing integration into their own ecosystem by creating a big entrance cost (data centre buildouts).",
+    "id": "1y0624l",
+    "title": "Is ANT's $81B IPO pulling money out of other AI stocks?",
+    "url": "https://www.reddit.com/r/investing/comments/1y0624l/is_ants_81b_ipo_pulling_money_out_of_other_ai/",
+    "author": "supplykatusa",
+    "score": 7,
+    "selftext": "Anthropic [priced its IPO at $83](https://www.anthropic.com/news/anthropic-prices-initial-public-offering) above its original range, and increased the offering to 980M shares. At that price, about $79.4B goes to ANT before fees and about $2B goes to existing holders who sold shares. WE know who gets PAID. Im curious what buyers had to sell, if anything, to come up with the cash.\n\nsay a fund already has as much in AI stocks as it wants. To add ANT, it might sell some of the chip or cloud stocks it arleady owns, even if its view on those companies hasn't changed. A fund with spare cash could buy ANT and leave its other holdings alone. The same IPO order can come from either fund.\n\nBy 2AM EST, [Nasdaq 100 futures were up about 2% and S&P 500 futures were up 1.1%](https://au.investing.com/news/stock-market-news/wall-street-futures-climb-ahead-of-anthropics-15-trillion-mega-ipo-4781958). Seeing tech lead before ANT had even traded made me less sure about the selling story. Some funds could still have sold earlier in the week. Id watch whether chip and cloud stocks lag the broader market as a group and whether that lasts beyond the 1st seesion. One stock having a bad day teels me pretty much nothing.\n\nIndex inclusion comes later. if ANT joins the [Nasdaq 100](https://indexes.nasdaq.com/docs/Methodology_NDX.pdf), funds like QQQ would adjust their holdings to match. that gives us a date to watch. The [S&P 500 ](https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-us-indices.pdf)requires at least a year of trading before IPO can be consdiered, but who knows fast entry can happen.\n\nAI stocks were already under pressure heading into this IPO. what would tell you ANT added to the selling?",
     "subreddit": "investing",
-    "created_utc": 1794861047,
+    "created_utc": 1795083809,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "If the goal was preventing access, why is renting out GPU capacity to anyone with a card the entire AWS/Azure business model? What would count as evidence against your thesis here?",
-        "score": 4,
-        "author": "Wise_Management_1161"
+        "body": "100%, everything had been going down because people were repositioning liquidity ready for it. \n\nNow everything is going up because selling pressure stopped, IPO today.\n\nWatch the exit liquidity pump back into the oversold stocks from today.\n\nIf you weren't going to buy ANT, you should be buying everything else today,  yesterday.",
+        "score": 15,
+        "author": "Emergency_Dish_1213"
       },
       {
-        "body": "honestly the custom chips look like the bigger lock-in to me. google rents TPUs to anthropic and amazon built trainium clusters for them. once your models are tuned for that hardware, switching clouds gets painful fast.",
-        "score": 3,
-        "author": "GuyGotThis"
+        "body": "Same here. Just keep in mind a 13F is one snapshot on the last day of the quarter. It won't show who bought and sold in between.",
+        "score": 1,
+        "author": "JHgrandgerard"
       },
       {
-        "body": "Fair worry, but SaaS companies were never going to build data centres of their own, they rent compute from the same three or four players anyway. The lock-in that matters is in the contracts, so read the lease and power purchase commitments buried in the 10-Ks instead of the capex headlines.",
-        "score": 3,
-        "author": "Mobile_Signature4229"
+        "body": "Could be. Nvidia's own filings show more cash going out upfront well before he left, though. It put $6.5B into prepaid and other assets from February to July. I'd wait for the supply note in the next 10-Q before blaming the CEO change. Losing your nerve over one headline is how people sell a good business and buy it back higher.",
+        "score": 1,
+        "author": "JHgrandgerard"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1xzaj6c",
+    "title": "Daily General Discussion and Advice Thread - November 18, 2026",
+    "url": "https://www.reddit.com/r/investing/comments/1xzaj6c/daily_general_discussion_and_advice_thread/",
+    "author": "AutoModerator",
+    "score": 7,
+    "selftext": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n\nPlease consider consulting our FAQ first - [https://www.reddit.com/r/investing/wiki/faq](https://www.reddit.com/r/investing/wiki/faq) And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.\n\nIf you are new to investing - please refer to Wiki - [Getting Started](https://www.reddit.com/r/investing/wiki/index/gettingstarted/)\n\nThe reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - [Reading List](https://www.reddit.com/r/investing/wiki/readinglist)\n\nThe media list in the wiki has a list of reputable podcasts and videos - [Podcasts and Videos](https://www.reddit.com/r/investing/wiki/medialist)\n\nIf your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n\n* How old are you? What country do you live in?\n* Are you employed/making income? How much?\n* What are your objectives with this money? (Buy a house? Retirement savings?)\n* What is your time horizon? Do you need this money next month? Next 20yrs?\n* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n* Any big debts (include interest rate) or expenses?\n* And any other relevant financial information will be useful to give you a proper answer.\n\nCheck the resources in the sidebar.\n\nBe aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!",
+    "subreddit": "investing",
+    "created_utc": 1794992411,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "What did you tell this advisor that your investment goals were?  How about risk tolerance?  Timeframe?\n\nHow often did you meet with the guy in the last 10 years -- has he been advising you on autopilot for 10 years?\n\nAnd for the record, if you are absolutely, positively, 100% opposed to \\*losing\\* even a dime compared to your benchmark, to the point where you are willing to give up any possibility of \\*exceeding\\* that benchmark ... that is a **Conservative** risk profile, a **risk-avoidance** profile, not *Aggressive* like some people seem to think it is.",
+        "score": 1,
+        "author": "DeeDee_Z"
+      },
+      {
+        "body": "Judge investments based on 5 years, not 1.  Any 1 year can be bad, and 3/10 years are typically flat or negative.  It's those 7/10 years that produce nice gains.",
+        "score": 1,
+        "author": "InvestingNerd2020"
+      },
+      {
+        "body": "So we back at this time again huh?  everyone trying to sound smart calling the next AI bubble, next market crash and next black monday, pointing out all the global economic issues like oil  and saying that it all makes sense \n\nWhy now it all matters and sounds smart but a month ago when someone was shorting you would call him dumb and tell him that stock market is not economy ? \n\nNow you just sound smart because it goes down and it matches the narrative. But when it will go green very soon you all will be crying saying but but the economy is bad why is it going up !!\n\nNo crying in the casino and for sure it's not a bear market yet and no bubble ain't popping very soon. ",
+        "score": 1,
+        "author": "sadguy__"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y04t5n",
+    "title": "Daily General Discussion and Advice Thread - November 19, 2026",
+    "url": "https://www.reddit.com/r/investing/comments/1y04t5n/daily_general_discussion_and_advice_thread/",
+    "author": "AutoModerator",
+    "score": 5,
+    "selftext": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n\nPlease consider consulting our FAQ first - [https://www.reddit.com/r/investing/wiki/faq](https://www.reddit.com/r/investing/wiki/faq) And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.\n\nIf you are new to investing - please refer to Wiki - [Getting Started](https://www.reddit.com/r/investing/wiki/index/gettingstarted/)\n\nThe reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - [Reading List](https://www.reddit.com/r/investing/wiki/readinglist)\n\nThe media list in the wiki has a list of reputable podcasts and videos - [Podcasts and Videos](https://www.reddit.com/r/investing/wiki/medialist)\n\nIf your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n\n* How old are you? What country do you live in?\n* Are you employed/making income? How much?\n* What are your objectives with this money? (Buy a house? Retirement savings?)\n* What is your time horizon? Do you need this money next month? Next 20yrs?\n* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n* Any big debts (include interest rate) or expenses?\n* And any other relevant financial information will be useful to give you a proper answer.\n\nCheck the resources in the sidebar.\n\nBe aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!",
+    "subreddit": "investing",
+    "created_utc": 1795078841,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Why are there no Anthropic threads? Are they getting removed?",
+        "score": 1,
+        "author": "asdafari14"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
