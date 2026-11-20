@@ -1,75 +1,18 @@
 window.dailyTrends = [
   {
-    "id": "1xyraab",
-    "title": "Legendary investor Druckenmiller moves to cash: \"we're in capital preservation\"",
-    "url": "https://www.reddit.com/r/investing/comments/1xyraab/legendary_investor_druckenmiller_moves_to_cash/",
-    "author": "Far_Watercress5133",
-    "score": 256,
-    "selftext": "[https://tomorrowxsummit.com/](https://tomorrowxsummit.com/)\n\nDRUCKENMILLER: WE'RE NOW SHORT COPPER. THE FED IS NOT CUTTING, THEY'RE HIKING\n\n\\*DRUCKENMILLER: WE'RE NOT LONG EQUITIES. WE'RE NOT SHORT EQUITIES. I WOULDN'T DARE GO SHORT\n\n\\*DRUCKENMILLER: I CAN'T REMEMBER A PERIOD WHERE I HAD LESS CLARITY ON WHERE WE'RE GONNA BE IN 12 MONTHS\n\n\\*DRUCKENMILLER: WE'RE IN CAPITAL PRESERVATION, TRYING TO NOT LOSE MONEY AS OPPOSED TO MAKE MONEY",
-    "subreddit": "investing",
-    "created_utc": 1794938158,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Most of us understand when people say cash they mean money markets or short term treasuries and not piles of physical money. Especially a hedge fund manager",
-        "score": 69,
-        "author": "Badmoodsbear"
-      },
-      {
-        "body": ">20 things that all synergized, e.g. the AI euphoria, etc.\n\nthis made me laugh",
-        "score": 25,
-        "author": "drivingaddictionchan"
-      },
-      {
-        "body": "Druckenmiller has publicly been saying to get out of the stock market since 2016. He said in 2020 that it is the worst time to hold stocks he's ever seen in his career. In 2022 he said we were due for a hard landing and the stock market would be flat for a decade. In 2023 he said that SVB was the \"tip of the iceberg\" and corporate profits would drop 25%. What he says and what he does are very different things. If you didn't know that, you really shouldn't be posting his stuff.",
-        "score": 20,
-        "author": "_176_"
-      }
-    ],
+    "id": "1y0r5pr",
+    "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y0r5pr/softbank_plunges_over_16_as_ai_selloff_hits_asian/",
+    "author": "TorukMaktoM",
+    "score": 360,
+    "selftext": "SoftBank tumbled in early Friday amid a broader-sell off in Asian technology stocks. SoftBank is one of the biggest backers of OpenAI, Anthropic’s rival, having invested a total of $64.6 billion in the ChatGPT maker.\n\nJapanese semiconductor stocks declined sharply, dragging the Nikkei 225 lower.\n\nSouth Korean chipmakers also fell, extending losses across the region.",
+    "subreddit": "StockMarket",
+    "created_utc": 1795139455,
+    "thumbnail": "https://external-preview.redd.it/4McxrwFBmmPVQHwn4VE6sFfr6jxvudLg58cLP2yvS8U.jpeg?width=140&height=78&auto=webp&s=059cb99479bdfbb67219eadda114c3b16b1b67a1",
+    "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-18",
-    "savedAt": {
-      "_seconds": 1795015633,
-      "_nanoseconds": 194000000
-    }
-  },
-  {
-    "id": "1xz9eob",
-    "title": "Nvidia just added $111 billion of supply commitments in one quarter, mostly for memory. What is that actually locking in?",
-    "url": "https://www.reddit.com/r/investing/comments/1xz9eob/nvidia_just_added_111_billion_of_supply/",
-    "author": "cynic_and_wild",
-    "score": 61,
-    "selftext": "The revenue number is the one getting all the attention. Nvidia did $115.8 billion in the quarter ended October 25, up 103% from a year ago. It also guided the current quarter to $130 billion, plus or minus 3%, and said that number assumes no data-center compute sales to China.\n\nThe figure I keep looking at is further down, in the CFO commentary. Supply and capacity commitments went from $279 billion last quarter to $390 billion. Nvidia said the jump is primarily from buying memory years ahead.\n\nThat's $111 billion of new commitments in a single quarter. Of the $390 billion, $203 billion is dated for fiscal 2028. Only $69 billion is for the rest of this fiscal year.\n\nI can read that two ways. Either demand is solid enough that Nvidia is comfortable booking memory this far out, or memory is the part of the stack it really doesn't want to run short of.\n\nCloud contracts and data-center leases that haven't started yet also rose, to $102 billion from $74 billion. Some of those leases can run as long as 20 years.\n\nIf memory is really what drove the increase, does this tell you more about Nvidia's demand, or about how tight memory stays into 2028?\n\nSources:\nNVIDIA Q3 FY27 press release: https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027\nNVIDIA Q3 FY27 CFO commentary (official PDF): https://s201.q4cdn.com/141608511/files/doc_financials/2027/Q327/Q3FY27-CFO-Commentary.pdf",
-    "subreddit": "investing",
-    "created_utc": 1794987904,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "And still, copper is down 3% overnight. Perhaps data center construction isn't as sure as it seems",
-        "score": 30,
-        "author": "8yba8sgq"
-      },
-      {
-        "body": "J'ai cette impression que les professionnels et particulier scrutent la moindre petite faille sur le domaine de la Tech en spéculant une grande chute à venir. Je trouve les mouvements disproportionnés par rapport à des fondamentaux solides sur un domaine toujours en plein essor et mutation. Je pense qu'il y a beaucoup de bruit et d'interprétations hâtives ",
-        "score": 16,
-        "author": "Panache_fr"
-      },
-      {
-        "body": "Peut-être que si tout à chacun opter pour la traduction automatique proposée par Reddit qui fait très bien l’affaire, nous n'aurions pas un rabat-joie venant faire un commentaire...impertinent. ",
-        "score": 12,
-        "author": "Panache_fr"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-18",
-    "savedAt": {
-      "_seconds": 1795015634,
-      "_nanoseconds": 711000000
-    }
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
     "id": "1xzumka",
@@ -96,6 +39,93 @@ window.dailyTrends = [
         "body": "> The headlines tell me to buy\n\nThis is great for selling on the IPO pump",
         "score": 25,
         "author": "D_crane"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-19",
+    "savedAt": {
+      "_seconds": 1795102356,
+      "_nanoseconds": 101000000
+    }
+  },
+  {
+    "id": "1y0d7vl",
+    "title": "AMD stock crashes -13% in 30 minutes after another Chinese chip scandal",
+    "url": "https://www.reddit.com/r/finance/comments/1y0d7vl/amd_stock_crashes_13_in_30_minutes_after_another/",
+    "author": "tc0843",
+    "score": 156,
+    "selftext": "AMD stock crashes -13% in 30 minutes after Hunterbrook Media accuses the company of illegally selling chips to China. Hunterbrook Capital also disclosed a short position in AMD.",
+    "subreddit": "finance",
+    "created_utc": 1795104562,
+    "thumbnail": "default",
+    "top_comments": [
+      {
+        "body": "I dare them to make up some stories about Lisa. Go on. Make it **unbelievable**",
+        "score": 66,
+        "author": "Public_Okra1636"
+      },
+      {
+        "body": "Accusations aren’t facts. And the same people who are making these accusations are also shorting the stock? Everything is just fake news now.",
+        "score": 35,
+        "author": "Metaldivinity"
+      },
+      {
+        "body": "Or... hear me out, AMD has made even more financing promises than NVDA with less cash, and investors are getting nervous about those. ",
+        "score": 5,
+        "author": "Ciappatos"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y03swl",
+    "title": "AI is becoming a cybersecurity threat faster than companies can adapt.",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y03swl/ai_is_becoming_a_cybersecurity_threat_faster_than/",
+    "author": "Smart_Money_HQ",
+    "score": 64,
+    "selftext": "  \nThe average time between vulnerability disclosure and exploitation has fallen from roughly 30 days to just 11 days.  \n  \nThe annualized rate of observed zero-day exploitation has roughly doubled.  \n  \nEstimated cyber incidents have massively increased following the release of GLM-5.3.  \n  \nGLM-5.3 is an open-weight AI model developed by China's [**Z.ai**](https://www.linkedin.com/safety/go/?url=http%3A%2F%2FZ%2Eai&urlhash=uux1&mt=Rz_UaomS0VybGkIPFPbhC8UMe-v_nlMCUDwR_SlBkwqwHdtt8CTw-9CE9Jn4xBbMfx95aliD8pE9aeYVsIqxjdxLHWmP7JAkoVNAWiS-VxfEWo8tYQ0UFXsYIuK6FgIUUvUjZeZQ6HPpQJApMp297hZRTTNuTMyeK2PC_T5HSm6rSqu6ZN3CMOzIN2uVkNZGmkGdTJ3X44Zne1uSSZ5l6RNId-Q6eQ&isSdui=true), with a focus in identifying and exploiting software vulnerabilities, which scored 84.5% on the CyberGym benchmark and more than doubled the previous versions performance on exploitation benchmarks.  \n  \nBeing open-weight means that these capabilities are now accessible to a much, much wider audience and as these AI-driven threats accelerate, we could see upward earnings revisions and a repricing of cybersecurity stocks \n\nAI labs will also monetize as they continue to push the boundaries of these models, amplify the cybersecurity risks in the process, and then sell the solutions to the very problems they helped create.",
+    "subreddit": "StockMarket",
+    "created_utc": 1795074748,
+    "thumbnail": "https://preview.redd.it/7euvq5w2yi2i1.jpeg?width=140&height=112&auto=webp&s=e29269e0fbbb795c684107f5e78b056cc4f3e706",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-11-19",
+    "savedAt": {
+      "_seconds": 1795102357,
+      "_nanoseconds": 74000000
+    }
+  },
+  {
+    "id": "1y0nk20",
+    "title": "Me vs. S&P",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y0nk20/me_vs_sp/",
+    "author": "Vegetable-Cause8667",
+    "score": 80,
+    "selftext": "How one day turns from “wish I was more into the S&P” to “Thankfully I’m not as much into S&P.” \n\nI don’t consistently beat the S&P, but I almost *never* do as poorly on a down day. I don’t have any judgement against people who blindly invest in the S&P 500, but certainly if you are investing in 500 companies like that, some of them are going to be poorly run, or part of failing sectors. Personally this is a bad investing principle and fundamental, even if historically it has worked out for many people.",
+    "subreddit": "StockMarket",
+    "created_utc": 1795129308,
+    "thumbnail": "https://preview.redd.it/558nw2w2hn2i1.jpeg?width=140&height=88&auto=webp&s=d1eef6121dae547cd691f4cc143f782782f39c6b",
+    "top_comments": [
+      {
+        "body": "Ok now show us the past 5 years",
+        "score": 96,
+        "author": "Djent_Reznor1"
+      },
+      {
+        "body": "Freak the fuck out and panic sell everything right now. It’s fucking over.",
+        "score": 40,
+        "author": "BeginningDramatic116"
+      },
+      {
+        "body": "Let’s see Paul Allen’s chart comparison. ",
+        "score": 18,
+        "author": "Peripatetictyl"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -131,192 +161,38 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1y03swl",
-    "title": "AI is becoming a cybersecurity threat faster than companies can adapt.",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y03swl/ai_is_becoming_a_cybersecurity_threat_faster_than/",
-    "author": "Smart_Money_HQ",
-    "score": 64,
-    "selftext": "  \nThe average time between vulnerability disclosure and exploitation has fallen from roughly 30 days to just 11 days.  \n  \nThe annualized rate of observed zero-day exploitation has roughly doubled.  \n  \nEstimated cyber incidents have massively increased following the release of GLM-5.3.  \n  \nGLM-5.3 is an open-weight AI model developed by China's [**Z.ai**](https://www.linkedin.com/safety/go/?url=http%3A%2F%2FZ%2Eai&urlhash=uux1&mt=Rz_UaomS0VybGkIPFPbhC8UMe-v_nlMCUDwR_SlBkwqwHdtt8CTw-9CE9Jn4xBbMfx95aliD8pE9aeYVsIqxjdxLHWmP7JAkoVNAWiS-VxfEWo8tYQ0UFXsYIuK6FgIUUvUjZeZQ6HPpQJApMp297hZRTTNuTMyeK2PC_T5HSm6rSqu6ZN3CMOzIN2uVkNZGmkGdTJ3X44Zne1uSSZ5l6RNId-Q6eQ&isSdui=true), with a focus in identifying and exploiting software vulnerabilities, which scored 84.5% on the CyberGym benchmark and more than doubled the previous versions performance on exploitation benchmarks.  \n  \nBeing open-weight means that these capabilities are now accessible to a much, much wider audience and as these AI-driven threats accelerate, we could see upward earnings revisions and a repricing of cybersecurity stocks \n\nAI labs will also monetize as they continue to push the boundaries of these models, amplify the cybersecurity risks in the process, and then sell the solutions to the very problems they helped create.",
-    "subreddit": "StockMarket",
-    "created_utc": 1795074748,
-    "thumbnail": "https://preview.redd.it/7euvq5w2yi2i1.jpeg?width=140&height=112&auto=webp&s=e29269e0fbbb795c684107f5e78b056cc4f3e706",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1xz6344",
-    "title": "Nvidia FQ3 2027: revenue more than doubles to $115.8B, Q4 guide of $130B, and a reported CEO change",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xz6344/nvidia_fq3_2027_revenue_more_than_doubles_to/",
-    "author": "Alpha_Stock_BigBull",
-    "score": 31,
-    "selftext": "FQ3 2027 Key Numbers:\n\nRevenue: $115.8B, up 103% YoY and 20% QoQ, vs about $108.7-109.1B expected\n\nData Center revenue: $107.6B, up 110% YoY\n\nEdge computing revenue: $8.2B, up 42% YoY\n\nGross margin: 74.8%, vs 75.0% last quarter\n\nOperating income: $77.5B, up 115% YoY\n\nNet income: $65.3B, up 105%\n\nEPS: $2.70, up 108% from $1.30, vs about $2.48-2.50 expected\n\nFree cash flow: about $48.3B\n\nShareholder returns: a record $28.1B ($22B buybacks and $6B dividends)\n\nBoard added $150B to the buyback authorization\n\nSixth straight quarter of beating on both revenue and EPS\n\nProducts and demand\n\nVera Rubin NVL72 racks began shipping, which the company calls its fastest product ramp ever, alongside continued Blackwell Ultra demand\n\nCPU revenue is expected to more than double in fiscal 2028\n\nManagement raised its fiscal 2028 revenue growth outlook to about 75%\n\nGuidance (FQ4)\n\nRevenue: $130B ± 3%, up 12% QoQ, excluding any China data center compute revenue\n\nGross margin: 71-72%, a step down as the Vera Rubin ramp adds cost\n\nMarket reaction\n\nThe stock rose about 2.4% after hours, after a small decline in regular trading\n\nTakeaways\n\nThe scale is hard to overstate. Revenue is double last year's, quarterly net income is $65B, and free cash flow is $48B.\n\nThe guide assumes zero China data center revenue, so any China reopening would be upside.\n\nCapital return is large, with $150B added to buybacks and a plan to use the expanded authorization by the end of fiscal 2028.\n\nThe unconfirmed CEO transition and board investigation is the biggest unknown. If confirmed, it matters more than any single quarter's numbers.\n\nThe read-through for the rest of the chain is positive: AMD, Marvell, Micron, SK hynix, Sandisk and TSMC all benefit from this demand.",
-    "subreddit": "StockMarket",
-    "created_utc": 1794976339,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "PE of 10 on a stock that is giving a outlook of 75% growth. ",
-        "score": 23,
-        "author": "Dutcheconomist2"
-      },
-      {
-        "body": "The stock is heavily undervalued right now. The risk seems to be worth the potential reward.",
-        "score": 15,
-        "author": "DatsMaPurse_IDKU"
-      },
-      {
-        "body": "$500K in net profit per minute in Q3.",
-        "score": 9,
-        "author": "norcalnatv"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-18",
+    "dateString": "2026-11-19",
     "savedAt": {
-      "_seconds": 1795015635,
-      "_nanoseconds": 881000000
+      "_seconds": 1795102356,
+      "_nanoseconds": 632000000
     }
   },
   {
-    "id": "1xzgcdd",
-    "title": "Waller wants a 50 bps hike while Bloomberg is tracking November CPI at -0.1% MoM",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xzgcdd/waller_wants_a_50_bps_hike_while_bloomberg_is/",
-    "author": "Smart_Money_HQ",
-    "score": 56,
-    "selftext": "Waller came out today arguing that the Fed may need to hike by 50 bps in December while CPI is likely to be negative MOM...\n\nWith Treasury yields already elevated and financial conditions tightening, there is a growing risk of the Fed overtightening based on backward-looking data.\n\nA 25 bps hike in December remains my base case, but I think the market could be overestimating how much tightening will ultimately be needed in 2027.",
+    "id": "1y0ahuy",
+    "title": "The Dow \"plunged\" 561 points on Nov 18 and the Nasdaq closed green. One stock did most of it",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y0ahuy/the_dow_plunged_561_points_on_nov_18_and_the/",
+    "author": "dagilisek",
+    "score": 66,
+    "selftext": "You look at Yahoo on Nov 18 and it says the Dow plunges 560 points. Scroll down and the Nasdaq closed green.\n\nThat was one stock. UnitedHealth fell 10%, and the Dow doesn't care how big a company is, only what one share costs. UnitedHealth was a $390 stock the day before so it counted for more than Apple at $352. It's 30 stocks sorted by price tag and we still treat it like the weather report for the whole economy.\n\nIt should be a footnote, not the headline number.",
     "subreddit": "StockMarket",
-    "created_utc": 1795011516,
-    "thumbnail": "https://preview.redd.it/2jz6hisaqd2i1.png?width=140&height=70&auto=webp&s=4f1b4bd9b96454d8e5e4e1d12442b9e8fd8659d9",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1xznldf",
-    "title": "Are Investors too Bearish?",
-    "url": "https://www.reddit.com/r/investing/comments/1xznldf/are_investors_too_bearish/",
-    "author": "BabyDontHerdMe_NoMo",
-    "score": 36,
-    "selftext": "Before you even read.  \n  \nPause. Look at a post a made 2 months ago, this provides some context and feeds into the question!   \n  \n[https://www.reddit.com/r/investing/comments/1wjpuj6/are\\_investors\\_too\\_bullish/](https://www.reddit.com/r/investing/comments/1wjpuj6/are_investors_too_bullish/)\n\nI mentioned how WM, BRKB, and PG were being overlooked.   \n  \nThese companies share prices since I made the post:\n\n* PG: +17% \n* WM: +15%\n* BRKB: +18%\n\nBut now I feel like people are panic selling. NVDA growth 103% year-over-year, MSFT is free-cash flow positive, and Micron is already backlogged for a lot of their inventory for FY 27.\n\nI don't blame people for hedging. I mean it's the reason why I made the \"Are Investors too Bullish?\" post a couple of months ago.\n\nI highlighted BRKB, T-Bills and WM for this reason. But I am starting to slowly buy back into the memory and hyperscalers again when prices are this cheap (like dirt cheap).\n\nWhat are people doing? Still bearish and hedging or are people taking advantage of these discounts?",
-    "subreddit": "investing",
-    "created_utc": 1795028374,
-    "thumbnail": "self",
+    "created_utc": 1795097971,
+    "thumbnail": "https://preview.redd.it/12zr6x6wvk2i1.png?width=140&height=114&auto=webp&s=d85983106acfadd96cadfe7c8199ede195013ebf",
     "top_comments": [
       {
-        "body": "When people are afraid the world is ending they hoard toilet paper, the stock of the company that makes the toilet paper, and the stock of the company that sold them the toilet paper.\n\nSo, yes.",
-        "score": 50,
-        "author": "jcpopm"
+        "body": "Why are we saying \"plunged\" for 1% fluctuations? What word do we use when it falls 10% in a day? ",
+        "score": 54,
+        "author": "Paperback_Chef"
       },
       {
-        "body": "I didn't sell anything. I'm buying the same things with my income that I was buying before. Congrats to you on making a good call 2 months ago but I would encourage you to not get too far ahead of your skis. \n\nLike, Jim Cramer has gotten a lot of grief for bad stock picks through the years, but he 100% nailed NVDA and got in early. The old \"broken clock is right twice a day\" can apply if you're not careful.",
-        "score": 27,
-        "author": "Successful-Tea-5733"
-      },
-      {
-        "body": "I rolled almost all of my individual non ai stocks into ai infrastructure stocks over the last 1-2 weeks.\n\nAfter last nights Nvidia call I’m leaning into Neoclouds even harder. Particularly NBIS because of their work with Nvidia and lack of debt in comparison to CRWV who I also like, just not as much\n\nNeoclouds will almost certainly outperform the  markets in 2027 and 2028 due to their absurdly low valuations given their growth and prospects for further growth",
-        "score": 19,
-        "author": "Crew_1996"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xzvtk8",
-    "title": "SGOV yield change - 2 months after 9/16 Fed action",
-    "url": "https://www.reddit.com/r/investing/comments/1xzvtk8/sgov_yield_change_2_months_after_916_fed_action/",
-    "author": "RU9901",
-    "score": 35,
-    "selftext": "Last month I had [this post](https://www.reddit.com/r/investing/s/q7ApsCrqui) asking about SGOV one month after the Fed raised rates on 9/16.\n\nNow two months in, SGOV SEC Yield has been on the increase, thusly:\n\n9/16: 3.64%\n\n10/16: 3.74%\n\n11/18: 3.88%\n\n[https://yieldfinder.app/money\\_markets](https://yieldfinder.app/money_markets)\n\nNow with the Fed's talking about another rate hike in December I guess we could expect more of the same trajectory from SGOV going forward.\n\n",
-    "subreddit": "investing",
-    "created_utc": 1795048861,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Hey guys, fire is hot. \n\nIs this post needed? Sgov is tied exclusively to fed rates",
-        "score": 58,
-        "author": "Immediate-Run-7085"
-      },
-      {
-        "body": "That gradual rise is what I would expect, because SGOV holds Treasury bills that mature in 0 to 3 months. When short term rates move, the fund only picks up the new rate as old bills mature and new ones are bought, so the 30 day yield climbs over weeks instead of jumping in one day. Your numbers show that too, up 24 basis points from 3.64 to 3.88 percent over two months.",
-        "score": 17,
-        "author": "Beneficial-Welder974"
-      },
-      {
-        "body": "Fire good. Warms my buns. Yield good. Covers my buns.",
-        "score": 11,
-        "author": "MNCPA"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xywdd4",
-    "title": "Event-driven trading/investing, e.g. conflict in Iran, the current cyber attacks",
-    "url": "https://www.reddit.com/r/investing/comments/1xywdd4/eventdriven_tradinginvesting_eg_conflict_in_iran/",
-    "author": "bejammin075",
-    "score": 12,
-    "selftext": "I used to be a Boglehead 3-funder for many years, but over the past year or so I've changed to being a more active investor, dividing my money into many different uncorrelated sectors & assets. During this transition, I researched to find a large number of sectors that historically performed well. At one point my plan was to buy and hold a set list of about 12 sectors/assets, with occasional passive rebalancing. The backtesting showed a higher return than the S&P 500 over 40 years, with much less severe drawdowns.  \n  \nI had ruled out the energy (oil & gas) sector because historically that sector didn't perform as well as the other sectors on my list (6% CAGR vs 11-17% CAGR). But then the war in Iran happened and I started to change my mind. I bought a somewhat oversized position in energy (FSENX) and that's been one of the best investments I've made this year.  \n  \nIt seemed like a no-brainer: US invades the Middle-East, buy an oil & gas fund.  \n  \nThis started to open my eyes to event-driven trading/investing. In the past few months, there was reporting about AI hacking, like the Hugging Face incident and others. I became aware of cyber security ETFs like HACK and CIBR. By the time I looked at those, they were off to a big bull run and I didn't want to jump in at the top, so I kept my eye on them, waiting for a pullback. The pullback seems to have arrived, and then all these weird incidents started happening. We had Microsoft Outlook out, and the airlines grounded. When the 3rd thing happened, the banking failures, I realized we are probably under an ongoing nationwide cyber attack. I looked at the cyber security ETFs and they had pulled back nicely along with this big tech slide. With my eyes now more open for opportunities like this, I pulled the trigger and bought some.  \n  \nIt seemed like a no-brainer: US is under a nationwide cyber attack, buy a cyber security fund.",
-    "subreddit": "investing",
-    "created_utc": 1794949878,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Ha. Good luck. How'd you manage to forget everything learned as a boglehead?",
-        "score": 13,
-        "author": "dissentmemo"
-      },
-      {
-        "body": "you got lucky out of the gate, and are now preparing to dig your own grave based on selective glances in the rearview mirror. you think no one else has your unique insights, turns down these easy opportunities?",
-        "score": 6,
-        "author": "hymie-the-robot"
-      },
-      {
-        "body": "Bogleheads forget geopolitics on purpose; that's the whole strategy.",
-        "score": 3,
-        "author": "Competitive-Pin3757"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xyoinf",
-    "title": "WHY are GERMANS so good at audio?",
-    "url": "https://www.reddit.com/r/business/comments/1xyoinf/why_are_germans_so_good_at_audio/",
-    "author": "ExotiquePlayboy",
-    "score": 9,
-    "selftext": "I’ve been using Sennheiser microphones for the longest time\n\nI remember buying a Sennheiser MKE 600, I was in Wonderland. The audio was so crisp compared to my Rode mic which is trash.\n\nI also bought Behringer mics and for the price no one can compete with them in the budget zone. Not to mention their audio interfaces are excellent quality.\n\nI bought a new Mercedes Benz this year. Obviously I’ve had other cars before the Burmeister speakers in the Benz are RIDICULOUS. Insane levels of bass. \n\nHow did Germany become so good in this industry? ",
-    "subreddit": "business",
-    "created_utc": 1794931958,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "This. Look at their trains. They refuse to run them until they find the best way to run them. ",
-        "score": 20,
-        "author": "ReacherNMN"
-      },
-      {
-        "body": "Germans are rigidly dedicated to perfection in everything they make. It's a mindset of: If it's not the best you can make, why make it? ",
+        "body": "Meh, I don't really pay much attention to the DJIA. It's too narrow of an index. Sure it's 30 large blue chips that have been around a long time, but it's still too narrow for me to pay much mind to. I don't really consider it a great barometer for the entire market or economy anymore. (I agree with the OP's premise)",
         "score": 14,
-        "author": "Spiritual-Price6278"
+        "author": "Coral-Diver"
       },
       {
-        "body": "Even better.. they find the best way while delaying them.",
+        "body": "The Dow is literally price weighted, so it does get overly affected by the higher priced stocks in the index. Shouldn’t be used as a relevant market index these days anyways.",
         "score": 12,
-        "author": "Maybe_An_Idiot"
+        "author": "Last-Register-934"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -324,14 +200,29 @@ window.dailyTrends = [
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1xz7lfx",
-    "title": "Private Fund Giants Battle Inertia in €10 Trillion EU Asset Hunt",
-    "url": "https://www.reddit.com/r/investing/comments/1xz7lfx/private_fund_giants_battle_inertia_in_10_trillion/",
-    "author": "confused_boner",
-    "score": 8,
-    "selftext": "Title: Private Fund Giants Battle Inertia in €10 Trillion EU Asset Hunt\n\nAuthor: Leonard Kehnscherper, Frances Schwartzkopff, and Esteban Duarte\n\nPublished: 2026-11-18\n\nSource Link: [https://www.bloomberg.com/news/articles/2026-11-18/private-fund-giants-target-80-billion-from-eu-insurance-regulatory-revamp](https://www.bloomberg.com/news/articles/2026-11-18/private-fund-giants-target-80-billion-from-eu-insurance-regulatory-revamp)\n\n\n\n\\---\n\n\n\nThe world’s biggest private capital firms are stepping up their hunt for a larger chunk of the European Union’s €10 trillion ($11 trillion) insurance asset pile - and settling in for a long pursuit.\n\n\n\nA regulatory revamp kicks in on Jan. 30 which includes lower capital charges on complex securitized assets, and stands to unlock billions in extra funding for critical EU priorities including digital sovereignty, defense and decarbonization. The changes give the likes of Blackstone Inc., Apollo Global Management Inc. and Pimco a target of as much as €80 billion from next year, as they seek to offer European insurers ways to invest their freshly unfettered cash.\n\n\n\nPolicymakers including former European Central Bank President Mario Draghi have long urged the EU to loosen its regulations in this area to bring them closer to Wall Street. But critically, the memory of the role that opaque mortgage securities played in the 2008 financial crisis has made regulators highly cautious - and that approach has bedded in with institutional investors too.\n\n\n\nEven as the European economy risks falling further behind China and the US, investment firms are warning of built-in conservatism among many insurers. Bureaucracy, regulatory skepticism and the fierce competition for cash from the credit-hungry US economy are also threatening to slow down Europe’s shift into alternative asset classes.\n\n\n\n“Insurance companies, institutional investors, they are no speed boats,” said Fabian Gerlich, head of insurance and public pensions coverage for Germany at Deutsche Asset Management in Frankfurt. “Requirements for investor due diligence, transparency and data collection as well as documentation are vast and can prove a hurdle to onboard securitization as a new asset class.”\n\n\n\nChanges to insurance rules known as Solvency II could immediately free up the €80 billion of regulatory capital based on insurers’ existing holdings, according to S&P Global Ratings.\n\n\n\nSome of the rule changes won’t directly affect Europe’s largest insurers such as Allianz SE, AXA SA and Generali, who are allowed to use internal models to calculate their capital charges. Still, the vast majority of European insurers stand to benefit.\n\n\n\nA parallel package will overhaul the rules around securitization - the creation of tradeable assets out of credit and the ownership of company stakes. Among the changes, banks will face lower capital requirements on their exposures to securitizations.\n\n\n\nThe reforms are part of a long effort stretching back to Europe’s debt crisis in the 2010s to revive the market, and the realization that the region had scant capacity to leverage credit and funnel funds to the economy outside of the constrained banking system.\n\n\n\nUntil now, proponents argue that savings have been excessively tied up in an outdated system of risk management that makes asset owners shun higher yielding private and alternative investments.\n\n\n\nThey include Oliver Wyman’s former vice chair - and now Apollo partner - Huw van Steenis who argues that Solvency II made long-term infrastructure projects and packages of small-business loans economically unattractive for insurers. Former Bank of France governor Christian Noyer, meanwhile, said in a 2024 report that Europe had retained excessive prudential penalties calibrated to practices that were no longer relevant.\n\n\n\n“We’re seeing growing interest in securitized assets as insurers assess the opportunities created by Solvency II reform, with collateralized loan obligations and private investment-grade credit among the clearest beneficiaries,” said Dan Leiter, who oversees Blackstone’s credit and insurance business outside the US. “Some insurers will move more quickly than others, and a slower adoption can be healthy for market dynamics.”\n\n\n\nNo one expects insurers to rotate even a small slice of their portfolio overnight. They will still need to approve new mandates, build expertise and ensure that less-liquid investments match the cash flows of their liabilities.\n\n\n\nFrom next year, capital requirements for some investments in private equity and senior structured credit are set to fall sharply, in certain cases by more than half.\n\n\n\nEasier rules for long-term equity investments will allow more holdings to qualify for a 22% capital charge, compared with 39% for ordinary listed shares and 49% for most private-equity and other unlisted investments. In theory, that steers more insurer money toward companies, private equity and venture-capital funds, infrastructure and energy-transition projects.\n\n\n\n“The Solvency II amendments are definitely a big shift, as European insurers haven’t been able to invest as much in long-dated equities and investment-grade structured credit in the past as they would have liked to,” said Ed Collinge, head of insurance solutions at CVC Capital Partners Plc.\n\n\n\nThe changes are already part of CVC’s regular discussions with insurers across Europe, he said. “They’re now working out whether it’s something they want, and the answer is generally yes.”\n\n\n\nLower charges on high-quality securitizations could make insurers bigger buyers of packaged mortgages, consumer credit and company loans. Banks could then transfer some of that risk, free up space on their balance sheets and extend more credit to households and businesses. Insurers, in turn, would gain access to a broader pool of income-producing investments.\n\n\n\nPolicymakers have reached a preliminary agreement to cut risk-weighted floors - an indicator of the capital that banks need to set aside to cover unexpected losses - on the senior portions of certain securitizations to 5% from 10%, Bloomberg News reported last month.\n\n\n\nEurope had almost €1.3 trillion of securitizations outstanding, including collateralized loan obligations, at the end of June, according to the Association for Financial Markets in Europe. While that represented growth of 2.7% over a year, the market remains a fraction of its US equivalent.\n\n\n\nYet doubt over valuations in private credit and buyout firms remains elevated, raising the risk of broader financial turbulence ahead. Parts of Europe’s regulatory machinery are warning that, as a result of the reforms, capital could be lacking when the next crisis hits.\n\n\n\nThe European Insurance and Occupational Pensions Authority has said that the Solvency II capital relief risks eroding the system’s buffers. The insurance watchdog will be paying attention to how firms use the benefit, and whether that’s aligned with the broad strategic goals, according to Petra Hielkema, chair of the organization. The ECB has voiced similar concerns.\n\n\n\n“The reality is that once these changes take effect, the impact on solvency ratios may appear small, but there will be less actual capital in the system backing that number up in today’s environment of interconnected risks and high uncertainties,” Hielkema said in response to questions. “The capital relief is not intended to simply fund payouts for shareholders and managers.”\n\n\n\nA central irony of Europe’s efforts to boost securitization is that the most immediate beneficiaries might not be in the old continent at all. Booming US debt markets, driven by the immense capital needs of the AI build-out, are churning out opportunities for higher-yield investment at a faster rate than any European market.\n\n\n\nUS players such as Nuveen, one of the world’s largest asset managers with $2.6 trillion under management, are pointing Europe’s insurers further west.\n\n\n\n“The US provides scale where allocations can happen in the near term as the European market looks to recover lost ground,” Nuveen said in marketing materials published this year.\n\n\n\nThe presence of a giant market competing for capital may focus European minds as the regulatory changes bed in. The differences between the way that European insurance firms invest with their US peers is stark, according to Laila Kollmorgen, global head of CLO tranche investments at MetLife Investment Management.\n\n\n\nKollmorgen notes that CLOs make up 15% of US life insurance companies’ investment book while securitizations of all types make up less than 1% of EU insurers’ investment books.\n\n\n\nThat means that while still conservative, the chance for growth from such a low base is significant.\n\n\n\n“The solvency regime really was the only regime in the world that did not include securitizations and very specifically CLOs,” she said in an interview. “Solvency II for European CLOs is going to have a huge, huge impact.”",
-    "subreddit": "investing",
-    "created_utc": 1794981265,
+    "id": "1y0i5pq",
+    "title": "Bloom Energy ($BE) Crash Course",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y0i5pq/bloom_energy_be_crash_course/",
+    "author": "beerion",
+    "score": 15,
+    "selftext": "This is a continuation of a series that I started earlier this week with [ASTS](https://www.reddit.com/r/StockMarket/comments/1xylcj6/asts_crash_course/). \n\nI thought this would be a fun way to expose new companies to the group and spur discussion. \n\nToday's company is Bloom Energy ($BE). They make fuel cells for power generation - and have recently gotten a lot of buzz as they've become a data center power provider. \n\nThis is their first year profitable, and they currently trade at 100x earnings. So growth expectations currently carry the valuation. \n\nThis is meant to be a very high, 10,000 ft view of the business, financials, and events over the past few years. Anything that I'm missing? \n\n***What company/ticker should I do next?*** My plan is to post a couple of companies a week. ",
+    "subreddit": "StockMarket",
+    "created_utc": 1795115926,
+    "thumbnail": "https://preview.redd.it/uhzld6svam2i1.png?width=140&height=140&crop=1%3A1%2Csmart&auto=webp&s=c02789345b3476e2c018ae6d7f5d24f06fc7ca3c",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1y07nwy",
+    "title": "Daily General Discussion and Advice Thread - November 19, 2026",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y07nwy/daily_general_discussion_and_advice_thread/",
+    "author": "AutoModerator",
+    "score": 4,
+    "selftext": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n\n​\n\nIf your question is \"I have $10,000, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n\n* How old are you? What country do you live in?\n* Are you employed/making income? How much?\n* What are your objectives with this money? (Buy a house? Retirement savings?)\n* What is your time horizon? Do you need this money next month? Next 20yrs?\n* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n* Any big debts (include interest rate) or expenses?\n* And any other relevant financial information will be useful to give you a proper answer. .\n\nBe aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!",
+    "subreddit": "StockMarket",
+    "created_utc": 1795089678,
     "thumbnail": "self",
     "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -339,82 +230,105 @@ window.dailyTrends = [
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1y0624l",
-    "title": "Is ANT's $81B IPO pulling money out of other AI stocks?",
-    "url": "https://www.reddit.com/r/investing/comments/1y0624l/is_ants_81b_ipo_pulling_money_out_of_other_ai/",
-    "author": "supplykatusa",
-    "score": 7,
-    "selftext": "Anthropic [priced its IPO at $83](https://www.anthropic.com/news/anthropic-prices-initial-public-offering) above its original range, and increased the offering to 980M shares. At that price, about $79.4B goes to ANT before fees and about $2B goes to existing holders who sold shares. WE know who gets PAID. Im curious what buyers had to sell, if anything, to come up with the cash.\n\nsay a fund already has as much in AI stocks as it wants. To add ANT, it might sell some of the chip or cloud stocks it arleady owns, even if its view on those companies hasn't changed. A fund with spare cash could buy ANT and leave its other holdings alone. The same IPO order can come from either fund.\n\nBy 2AM EST, [Nasdaq 100 futures were up about 2% and S&P 500 futures were up 1.1%](https://au.investing.com/news/stock-market-news/wall-street-futures-climb-ahead-of-anthropics-15-trillion-mega-ipo-4781958). Seeing tech lead before ANT had even traded made me less sure about the selling story. Some funds could still have sold earlier in the week. Id watch whether chip and cloud stocks lag the broader market as a group and whether that lasts beyond the 1st seesion. One stock having a bad day teels me pretty much nothing.\n\nIndex inclusion comes later. if ANT joins the [Nasdaq 100](https://indexes.nasdaq.com/docs/Methodology_NDX.pdf), funds like QQQ would adjust their holdings to match. that gives us a date to watch. The [S&P 500 ](https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-us-indices.pdf)requires at least a year of trading before IPO can be consdiered, but who knows fast entry can happen.\n\nAI stocks were already under pressure heading into this IPO. what would tell you ANT added to the selling?",
-    "subreddit": "investing",
-    "created_utc": 1795083809,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "100%, everything had been going down because people were repositioning liquidity ready for it. \n\nNow everything is going up because selling pressure stopped, IPO today.\n\nWatch the exit liquidity pump back into the oversold stocks from today.\n\nIf you weren't going to buy ANT, you should be buying everything else today,  yesterday.",
-        "score": 15,
-        "author": "Emergency_Dish_1213"
-      },
-      {
-        "body": "Same here. Just keep in mind a 13F is one snapshot on the last day of the quarter. It won't show who bought and sold in between.",
-        "score": 1,
-        "author": "JHgrandgerard"
-      },
-      {
-        "body": "Could be. Nvidia's own filings show more cash going out upfront well before he left, though. It put $6.5B into prepaid and other assets from February to July. I'd wait for the supply note in the next 10-Q before blaming the CEO change. Losing your nerve over one headline is how people sell a good business and buy it back higher.",
-        "score": 1,
-        "author": "JHgrandgerard"
-      }
-    ],
+    "id": "1xzu2u8",
+    "title": "THE BUFFETT AND MUNGER MINDSET: Alex W. Morris, author of Buffett and Munger Unscripted",
+    "url": "https://www.reddit.com/r/finance/comments/1xzu2u8/the_buffett_and_munger_mindset_alex_w_morris/",
+    "author": "No-Pride-8979",
+    "score": 3,
+    "selftext": "Host William Cooper talks with Alex Morris, author of Buffett and Munger Unscripted, and editor of The Buffett and Munger Mindset. Alex shares his experience compiling three decades of Berkshire Hathaway shareholder meeting insights, his writing process, and the making of his Amazon best-book winner Unscripted.\n\nThe episode explores core themes—value investing, long-term thinking, avoiding big mistakes, and navigating market volatility—plus Alex’s popular substack newsletter, The Science of Hitting, and practical advice for investors and readers who want to apply Buffett and Munger’s mindset.",
+    "subreddit": "finance",
+    "created_utc": 1795044177,
+    "thumbnail": "https://external-preview.redd.it/7zDljYRu7HqdVJbgYbdpMDXNM36z8K-AKkm7biwlUUE.jpeg?width=140&height=140&auto=webp&s=50c56372acdd75e65dbf434f759ea925553428b6",
+    "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1xzaj6c",
-    "title": "Daily General Discussion and Advice Thread - November 18, 2026",
-    "url": "https://www.reddit.com/r/investing/comments/1xzaj6c/daily_general_discussion_and_advice_thread/",
+    "id": "1y11pff",
+    "title": "Daily General Discussion and Advice Thread - November 20, 2026",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y11pff/daily_general_discussion_and_advice_thread/",
     "author": "AutoModerator",
-    "score": 7,
-    "selftext": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n\nPlease consider consulting our FAQ first - [https://www.reddit.com/r/investing/wiki/faq](https://www.reddit.com/r/investing/wiki/faq) And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.\n\nIf you are new to investing - please refer to Wiki - [Getting Started](https://www.reddit.com/r/investing/wiki/index/gettingstarted/)\n\nThe reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - [Reading List](https://www.reddit.com/r/investing/wiki/readinglist)\n\nThe media list in the wiki has a list of reputable podcasts and videos - [Podcasts and Videos](https://www.reddit.com/r/investing/wiki/medialist)\n\nIf your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n\n* How old are you? What country do you live in?\n* Are you employed/making income? How much?\n* What are your objectives with this money? (Buy a house? Retirement savings?)\n* What is your time horizon? Do you need this money next month? Next 20yrs?\n* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n* Any big debts (include interest rate) or expenses?\n* And any other relevant financial information will be useful to give you a proper answer.\n\nCheck the resources in the sidebar.\n\nBe aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!",
-    "subreddit": "investing",
-    "created_utc": 1794992411,
+    "score": 3,
+    "selftext": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n\n​\n\nIf your question is \"I have $10,000, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n\n* How old are you? What country do you live in?\n* Are you employed/making income? How much?\n* What are your objectives with this money? (Buy a house? Retirement savings?)\n* What is your time horizon? Do you need this money next month? Next 20yrs?\n* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n* Any big debts (include interest rate) or expenses?\n* And any other relevant financial information will be useful to give you a proper answer. .\n\nBe aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!",
+    "subreddit": "StockMarket",
+    "created_utc": 1795176095,
     "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "What did you tell this advisor that your investment goals were?  How about risk tolerance?  Timeframe?\n\nHow often did you meet with the guy in the last 10 years -- has he been advising you on autopilot for 10 years?\n\nAnd for the record, if you are absolutely, positively, 100% opposed to \\*losing\\* even a dime compared to your benchmark, to the point where you are willing to give up any possibility of \\*exceeding\\* that benchmark ... that is a **Conservative** risk profile, a **risk-avoidance** profile, not *Aggressive* like some people seem to think it is.",
-        "score": 1,
-        "author": "DeeDee_Z"
-      },
-      {
-        "body": "Judge investments based on 5 years, not 1.  Any 1 year can be bad, and 3/10 years are typically flat or negative.  It's those 7/10 years that produce nice gains.",
-        "score": 1,
-        "author": "InvestingNerd2020"
-      },
-      {
-        "body": "So we back at this time again huh?  everyone trying to sound smart calling the next AI bubble, next market crash and next black monday, pointing out all the global economic issues like oil  and saying that it all makes sense \n\nWhy now it all matters and sounds smart but a month ago when someone was shorting you would call him dumb and tell him that stock market is not economy ? \n\nNow you just sound smart because it goes down and it matches the narrative. But when it will go green very soon you all will be crying saying but but the economy is bad why is it going up !!\n\nNo crying in the casino and for sure it's not a bear market yet and no bubble ain't popping very soon. ",
-        "score": 1,
-        "author": "sadguy__"
-      }
-    ],
+    "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1y04t5n",
-    "title": "Daily General Discussion and Advice Thread - November 19, 2026",
-    "url": "https://www.reddit.com/r/investing/comments/1y04t5n/daily_general_discussion_and_advice_thread/",
-    "author": "AutoModerator",
-    "score": 5,
-    "selftext": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n\nPlease consider consulting our FAQ first - [https://www.reddit.com/r/investing/wiki/faq](https://www.reddit.com/r/investing/wiki/faq) And our [side bar](https://www.reddit.com/r/investing/about/sidebar) also has useful resources.\n\nIf you are new to investing - please refer to Wiki - [Getting Started](https://www.reddit.com/r/investing/wiki/index/gettingstarted/)\n\nThe reading list in the wiki has a list of books ranging from light reading to advanced topics depending on your knowledge level. Link here - [Reading List](https://www.reddit.com/r/investing/wiki/readinglist)\n\nThe media list in the wiki has a list of reputable podcasts and videos - [Podcasts and Videos](https://www.reddit.com/r/investing/wiki/medialist)\n\nIf your question is \"I have $XXXXXXX, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n\n* How old are you? What country do you live in?\n* Are you employed/making income? How much?\n* What are your objectives with this money? (Buy a house? Retirement savings?)\n* What is your time horizon? Do you need this money next month? Next 20yrs?\n* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n* Any big debts (include interest rate) or expenses?\n* And any other relevant financial information will be useful to give you a proper answer.\n\nCheck the resources in the sidebar.\n\nBe aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!",
-    "subreddit": "investing",
-    "created_utc": 1795078841,
+    "id": "1xzhmsy",
+    "title": "3D Systems DDD short interest seems to have declined dramatically over the last days according to ortex.com ahead of catalysts CEO announcement and maybe huge orders",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xzhmsy/3d_systems_ddd_short_interest_seems_to_have/",
+    "author": "DrJanOliverS",
+    "score": 3,
+    "selftext": "Look at [ortex.com](http://ortex.com) stock lending data of DDD.\n\nI think that its capital structure change must have been made to attract the next ceo who can start with a strong balance sheet with less interest expense and more equity to get huge long term contracts. I expect both new ceo as well as big contract win over the next weeks. I am strongly invested again.",
+    "subreddit": "StockMarket",
+    "created_utc": 1795014758,
+    "thumbnail": "https://preview.redd.it/wlu8uc2g0e2i1.jpeg?width=140&height=87&auto=webp&s=874cf2afd975a3e1dd604d158a60094fd5b77488",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1y1502m",
+    "title": "If you bought Take-Two because you're hyped for GTA VI, you bought the top. Red Dead 2 did the same thing",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y1502m/if_you_bought_taketwo_because_youre_hyped_for_gta/",
+    "author": "dagilisek",
+    "score": 1,
+    "selftext": "Take-Two went up 6% the day before GTA VI came out and fell almost 4% on launch day. It's about 10% below where it closed on Nov 11. Red Dead 2 did the same in 2018; up big the day before launch, red on launch day, down 7% the Monday after.\n\nBeing excited for the game and owning the stock are 2 different bets. The stock was already priced for a great launch before anyone played it so the people buying the hype are the ones who got the worst of it. Long term holders are fine, obviously.\n\nThe left chart is 2018 and the right one is now. The 2018 launch day candle is green because it opened lower and closed above its open, but it still finished under the day before.",
+    "subreddit": "StockMarket",
+    "created_utc": 1795185244,
+    "thumbnail": "https://preview.redd.it/gguczsrd3s2i1.png?width=140&height=54&auto=webp&s=ae8052d2d3059a234cd7378af1f59b940c4a74fd",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1y12yij",
+    "title": "Tech equities bubble is so obvious, and it may spread into the debt markets",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y12yij/tech_equities_bubble_is_so_obvious_and_it_may/",
+    "author": "Distinct-Swim5550",
+    "score": 1,
+    "selftext": "So the stock market just assigned $1.3 trillion value to a company with $0.03 trillion revenues and negative cash flow. If I was large owner of Anthropic's shares, I would not sell (because it would crash the price),I would use these shares as a collateral to raise (up to $1 trillion) debt, and that is how I cash out. Easier than growing the business 100500 times to justify that marketcap. SpaceX/Tesla ($3.2 trillion MCap combined) would follow (if not already).\n\nAm I being pathetic and not seeing the bright future Anthropic and SpaceX/Tesla are going into in the forceable future (5 years or so), or this market heading for the big badaboom.\n\nEDIT: Before arguing about Anthropic's cash flow, explain this note from their S-1: \"The increase in operating cash flow \\[in 9m 2026\\] was primarily driven by an improvement in net loss adjusted for non-cash items, partially offset by a lower benefit from changes in working capital, primarily reflecting the timing of payments to vendors and cash receipts from customers.\"",
+    "subreddit": "StockMarket",
+    "created_utc": 1795179866,
     "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1xzuem9",
+    "title": "Q3 2026 Comp Sales Results Thus Far - How will Walmart do?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xzuem9/q3_2026_comp_sales_results_thus_far_how_will/",
+    "author": "ryanmcraver",
+    "score": 1,
+    "selftext": "Heading into Walmart earnings Thursday, comps so far run from Ralph Lauren +10.0% and Costco +7.3% down to Albertsons -0.8% and Sprouts -0.9%. Grocers are flat to negative...Walmart has to show it's taking that share. Source: company earnings releases $WMT $COST $TGT",
+    "subreddit": "StockMarket",
+    "created_utc": 1795045037,
+    "thumbnail": "https://preview.redd.it/dqhf294eig2i1.jpeg?width=140&height=98&auto=webp&s=947275b3349016d30d5754f22611286965aa46f9",
     "top_comments": [
       {
-        "body": "Why are there no Anthropic threads? Are they getting removed?",
+        "body": "The split in that table is the interesting part — the grocers are flat to down while the general merch and home names are still posting low single digits, which reads like share shifting to the bigger boxes rather than the consumer suddenly spending more. For Walmart the comp number alone will not tell the story. I would watch whether the growth is coming from more trips or a bigger ticket, since a ticket-driven comp is mostly price, and whether e-commerce and membership are still growing faster than the stores. If Walmart posts a solid comp but the margin guide softens, that is the tariff and grocery deflation squeeze showing up, not a demand problem.",
         "score": 1,
-        "author": "asdafari14"
+        "author": "TickerWorth"
+      },
+      {
+        "body": "good chart.. terrible sector but bounce has been real",
+        "score": 1,
+        "author": "Apprehensive_Two1528"
+      },
+      {
+        "body": "Staples bubble, tech is extreme value",
+        "score": 1,
+        "author": "Pinheadlarrry27"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
