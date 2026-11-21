@@ -1,5 +1,67 @@
 window.dailyTrends = [
   {
+    "id": "1y0mp3v",
+    "title": "My dad is mad at me for investing in the stock market after this recent crash",
+    "url": "https://www.reddit.com/r/investing/comments/1y0mp3v/my_dad_is_mad_at_me_for_investing_in_the_stock/",
+    "author": "NailPsychological527",
+    "score": 1073,
+    "selftext": "Im 30 and The past year i lump summed around 100k in VOO and it was my first time putting money in the market because my dad has always hated and avoided investing in stocks after he lost money in the 2008 market crash and now he keeps telling me he told me so and that i shouldve listened to him, i tried explaining its normal for the market to go down and he dosent understand. He also scared my older brothers into never investing in stocks and hes ruining their future retirement with his bad advice what do i do",
+    "subreddit": "investing",
+    "created_utc": 1795127044,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "\\> kids aren’t always a choice\n\nYou have to be honest with yourself at least. 100% is a choice.\n\nHaving a car payment is a choice too just like having credit card debt is.\n\nFinancial freedom means making tough decisions.\n\nI’m also not saying to not have a family. Only pointing out there are decisions when it comes to being financially independent that make it harder and having kids when you’re not financially ready is one of them.",
+        "score": 3,
+        "author": "MGTakeDown"
+      },
+      {
+        "body": "This.\n\nI have never asked about or given advice to my children about their monetary assets.  \nThey are (seemingly) smart kids ...hopefully they know where to find 'good advice' and 'guidance'.",
+        "score": 2,
+        "author": "sleeper_54"
+      },
+      {
+        "body": "i've been investing since 2022, still haven't experienced a recession. but even i don't understand how people are even slightly concerned with the current sell-off. this is just a market doing normal market things.",
+        "score": 2,
+        "author": "g-unit2"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y181y5",
+    "title": "VT now down 8% over the past month 😬",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y181y5/vt_now_down_8_over_the_past_month/",
+    "author": "robby_arctor",
+    "score": 591,
+    "selftext": "I started putting my savings into investments this year and wanted to stay conservative. I almost entirely hold \"safe\" index funds/ETFs like VT, and now I've lost money 😂.\n\nI understand these drops have precedent and the whole point is to buy safe stocks and hold, but damn y'all, I would have more money today if I just let it sit in my checking account.\n\nWake me up when Redvember ends 😭",
+    "subreddit": "StockMarket",
+    "created_utc": 1795192597,
+    "thumbnail": "https://preview.redd.it/eidhxdq9ps2i1.jpeg?width=140&height=140&crop=1%3A1%2Csmart&auto=webp&s=7960818814a582dcaf736c1b8805a9b905021d83",
+    "top_comments": [
+      {
+        "body": "Time to leverage even further: Sell my **liver** and keep the other one... /s",
+        "score": 9,
+        "author": "FakeRickHarrison"
+      },
+      {
+        "body": "Good plan! Oh. Wait. No. DON’T.",
+        "score": 4,
+        "author": "Metals4J"
+      },
+      {
+        "body": "So same, sold my house. Put that and new job signing bonuses into VT at basically the peak 😭 ",
+        "score": 4,
+        "author": "Gunntar"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
     "id": "1y0r5pr",
     "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
     "url": "https://www.reddit.com/r/StockMarket/comments/1y0r5pr/softbank_plunges_over_16_as_ai_selloff_hits_asian/",
@@ -12,43 +74,135 @@ window.dailyTrends = [
     "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-11-20",
+    "savedAt": {
+      "_seconds": 1795187527,
+      "_nanoseconds": 281000000
+    }
   },
   {
-    "id": "1xzumka",
-    "title": "Anthropic broke SpaceX IPO record- &81 Billions raised",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xzumka/anthropic_broke_spacex_ipo_record_81_billions/",
-    "author": "Broke_BruceWaynee",
-    "score": 209,
-    "selftext": "[Anthropic](https://www.cnbc.com/quotes/ANT?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) priced its IPO at $83 per share on Wednesday, above the expected range, setting the stage for the Claude creator’s eagerly awaited Nasdaq listing and a historic moment for the [artificial intelligence](https://www.cnbc.com/id/107230561?view=franchise&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) industry.  \nThe company, along with insiders, upsized the offering, selling about 980 million shares. That brings the amount raised to $81.3 billion, surpassing SpaceX, which held a record IPO in June. [Elon Musk’s](https://www.cnbc.com/id/100987750?view=franchise&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) company raised $75 billion initially and a total of $85.7 billion after underwriters exercised their overallotment.\n\nAnthropic’s market cap will depend on total shares outstanding, but the share price would put the valuation above the $1.4 trillion that Anthropic was previously targeting. The stock is expected to begin trading on the Nasdaq on Thursday under the ticker symbol “ANT.”   \nThe listing is a major test for the AI industry, which has experienced a set of recent shocks, including a dramatic backlash that was felt at the polls in the midterm elections and last week’s [ouster](https://www.cnbc.com/id/108432640?view=franchise&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) of [Nvidia](https://www.cnbc.com/quotes/NVDA?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) CEO [Jensen Huang](https://www.cnbc.com/id/108432640?view=franchise&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA). The market was [already jittery](https://www.cnbc.com/id/108485998?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) on concerns that rising interest rates will make debt unaffordable for many data center developers and neoclouds.   \nAfter [publicly unveiling](https://www.cnbc.com/id/108353937?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) its prospectus in October, Anthropic updated the document last week with an [expected price range](https://www.cnbc.com/id/108546848?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) between $70 and $78 per share.  The company had been planning to sell 825 million shares.   \nTech’s biggest companies have significant exposure to Anthropic, as an investor, partner or customer. [Amazon](https://www.cnbc.com/quotes/AMZN?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) and [Google](https://www.cnbc.com/quotes/GOOGL?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) both own stakes valued at over $100 billion, and a group of tech companies, including Google, [Microsoft](https://www.cnbc.com/quotes/MSFT?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA), Nvidia and [Advanced Micro Devices](https://www.cnbc.com/quotes/AMD?view=story&accessToken=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EifQ.eyJzdWIiOiIxMjY4MDk4OCIsImF1ZCI6WyJjbmJjIl0sImlzX3JlZ2lzdGVyZWRfdXNlciI6InRydWUiLCJzY29wZSI6InVzZXJzOnJlYWRfd3JpdGUiLCJjbGllbnQiOiIyMDQiLCJleHRlcm5hbF9pZCI6IjEyNjgwOTg4IiwiYXBwX2FjY2VzcyI6WyJGUkVFIl0sImNpZCI6IjE3OTAxNzkyMDgwNDMiLCJpYXQiOjE3OTUwNDQ5MDgsImV4cCI6MTc5NTA0NTIwOCwiaXNzIjoiaHR0cHM6Ly9yZWdpc3Rlcm5nLmNuYmMuY29tL2FwaSJ9.DtJGfGsBQNwVIMv-pTL1ZQI4XjkMnS3UJiMjV1fYsCs4qfmo5lv5xPUXJVGvIMlulk_19MC8HaoTRONQh3ickZhu-VB0fMhY-blpPQWGig865B3mBss2VvSOerCK4jW-RhgN0-s0-aps9WXO_kLMUruKGUZpyehg4O9SzD1H248R80wcZ-rwL3dgGu35nDL1x8F8Zzx7Ou2DPOStMWtq25WtYrq8EIKiIostIIyMPSLYou34VohqzviMUvmCduTpKMVfcAoIT9u-1JRPLLuoyo39MtwzhWKDr9EXLGaQ4-7uA8RPZorY8bYb0Gwp2TQZI6fjqhwMr2Hgj-MjstfXyA) agreed to collectively invest $26 billion at the IPO price. Anthropic, meanwhile, is a buyer of costly systems from Nvidia, Google, Amazon and AMD.",
+    "id": "1y1eyq3",
+    "title": "Just 10 Companies Accounted for $1.6 Trillion of Market Cap Lost Today as the AI Rally Unravels",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y1eyq3/just_10_companies_accounted_for_16_trillion_of/",
+    "author": "highschoolhero24",
+    "score": 470,
+    "selftext": "The SMH finished the day at $400.06, down 10.60% on the day. The 11/5 and 11/20 are the two worst single day performances for the SMH since March 2020 and marks the first time in the history of the SMH etf that it has closed 10% down from the open twice in a single month. \n\nThe VIX closed at a 52-week high of 31.83.\n\nGold, Silver & Bitcoin have not provided any safety as each of those assets closed at 52-week lows today as well. \n\nIs this the end of the AI Bubble or is another V-Bottom on the horizon? \n\n**The market has been higher in the 18-months following a midterm election 20 out of the last 20 times in history.**  \n   \nWill that record finally be broken or do you think the S&P 500 will be back above 7,500 before May 2028?\n\n*\"Be fearful when others are greedy, and greedy when others are fearful.” -Warren Buffett*",
     "subreddit": "StockMarket",
-    "created_utc": 1795045632,
-    "thumbnail": "self",
+    "created_utc": 1795209027,
+    "thumbnail": "https://preview.redd.it/5zxqkoi42u2i1.jpeg?width=140&height=90&auto=webp&s=a52e66241add997fffd7013354a2a23a5d9179f6",
     "top_comments": [
       {
-        "body": "Nobody thats buying is holding.\n\nEven professional wealth managers are saying clients are all inning with full intention of flipping everything on the first day.\n\nYou’re guaranteed money similar to SpaceX on the pop at open if you get in at ipo price. Past that it’s anyones guess, but it most likely plummets after the first week and especially after the first lockup.\n\nSpaceX can barely even hold its ipo price and can’t even get back to its first bid/ask sale price.",
-        "score": 61,
-        "author": "Wowmuchrya"
+        "body": "Time to get off the internet, gramps, we don't fucking care.",
+        "score": 19,
+        "author": "Intellectual-Hamster"
       },
       {
-        "body": "This entire IPO is exit liquidity for early investors off the backs of retail investors. You might be able to buy when they open and sell before the end of next week and make a profit, but this thing is absolutely going to crater along with the currently collapsing bubble.\n\nY’all are marks if you believe otherwise when every single fundamental points to a garbage company. It’s all hype and nothing else.",
-        "score": 29,
-        "author": "Main-Eagle-26"
+        "body": "Grandpa, this piece of shit stock is headed to $90 no matter if you like it or not",
+        "score": 4,
+        "author": "Strange_Duck568"
       },
       {
-        "body": "> The headlines tell me to buy\n\nThis is great for selling on the IPO pump",
-        "score": 25,
-        "author": "D_crane"
+        "body": "A 5.5% and 5.6% downward move in the same month in tech is not normal. Even with rotations this is just a fast rush. On top of that other sectors have days where they are bleeding too.",
+        "score": 4,
+        "author": "AVGunner"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-19",
-    "savedAt": {
-      "_seconds": 1795102356,
-      "_nanoseconds": 101000000
-    }
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y137w6",
+    "title": "What is everyone buying during this pullback?",
+    "url": "https://www.reddit.com/r/investing/comments/1y137w6/what_is_everyone_buying_during_this_pullback/",
+    "author": "AtozoL",
+    "score": 330,
+    "selftext": "So the S&P 500 is 9% from its ATH, as of writing this post during the premarket.  \nThe Nasdaq is around 17%, and the Dow Jones around 10%.\n\nPullbacks like these are great opportunities to buy great companies at cheap prices.\n\nI am buying Uber, Oscar health, Meta, Mercadolibre, Booking and Qxo.\n\n\n\nUber - Buying as long as it stays below 70$, intrinsic value is 90-105$\n\nOscar Health - Buying below 25$, Intrinsic value 40-50$\n\nMeta - Buying below 600$, Intrinsic value 800-850$\n\nMercadolibre - Buying below 1600$. It's much more difficult calculating an intrinsic value since their operating margins have been declining for some time now due to a lot of investments back into the business, so my intrinsic value range is quite big, but my conservative fair value is around 2000$, so 1355$ as of yestarday's close feels like a bargain.\n\nQxo - More a speculative company only because it is so difficult to calculate a fair value on it due to a lot of acqusitions and lots of noise in their financial statements. But even so, 11b market cap for this company that owns topbuild feels pretty fair to me, so I am buying just a bit below 12$.\n\nEveryone share what is on your shopping list, what price are you waiting for to pull the trigger, and maybe add a fair value for each company your buying.",
+    "subreddit": "investing",
+    "created_utc": 1795180612,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1y1jvyc",
+    "title": "Ed Zitron, who called the bubble very vocally with detailed analysis, is now speaking on CNBC with further concerns after hours",
+    "url": "https://www.reddit.com/r/investing/comments/1y1jvyc/ed_zitron_who_called_the_bubble_very_vocally_with/",
+    "author": "Lord___Rictor",
+    "score": 277,
+    "selftext": "https://x.com/edzitron/status/2123923174140035410/video/1\n\nBiggest concern at this point is how does OpenAI even stay afloat now? There's no way they can IPO, money's gonna be tight, and they represent 50% of all compute demand. \n\nAnthropic may have actually won, even though their stock has declined significantly. By at least getting to market, they've secured their money in terms of 200 billion war chest.\n\nThe Nvidia problem will only accelerate as there's rumors of open fraud and other forms of abuse. Investigation now open and ongoing.",
+    "subreddit": "investing",
+    "created_utc": 1795222352,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Respectfully, you don’t understand the claim you’re making and are way too comfortable accepting at face value the claims these frontier labs are making in these domains, especially when you admittedly are not domain-familiar in mathematics. And especially in a moment when the people making those claims stand to make a lot of money off of your and others' general belief in / lack of healthy skepticism for them.\n\nHere’s a brief statement from Alpoge, the Anthropic math researcher who announced this claimed proof. Keep in mind: he's on Anthropic's payroll. They pay him to do this.\n\n[https://alpo.ge/remark.pdf](https://alpo.ge/remark.pdf)\n\nEven as a mathematics layperson (I am too) I think you should be able to spot some things in this document that would give a reasonable person cause for healthy skepticism.\n\nSome snippets:\n\n>“This puts us in the rather extraordinary situation this age has made possible, in which I am presenting the world with a complete argument before having mastered a massive neighbourhood around its mathematics.”\n\nHe plainly admits he is not a subject matter expert in multiple domains of the mathematics needed to formulate and assess the proof he’s proposing (one which he nevertheless proposes to understand and stand behind at some high conceptual level).\n\n>The parts in which my vague intuition worked out due to Claude’s technical mastery are of course less familiar to me today, and probably I’ll have to edit some of these descriptions on reflection. The parts in which Claude is the expert and not me I am sort of paraphrasing a \"slop\" summary, which might make zero sense, and I apologize, though the Lean should suffice to clarify everything. I’m just too inexpert in the relevant stuff at the moment, I hope the reader sees the breadth of this argument!\n\n... Then when he lays out the broad conceptual strokes of the supposed proof in a numbered list, in a footnote on one of them, he volunteers that the natural language representation of any given of these steps that he offers might be \"slop\" that \"makes zero sense.\" He evidently doesn't even know whether many of these broad strokes are semantically sensible. Seems like a red flag to me ...\n\nAnd then there's this gem:\n\n>The precise timing is horrible. If I could have, I’d have finished this all much earlier ... This problem has been the sacred object in mathematics for me since my childhood, and I am very touchy about the treatment of great intellectual goals, though seriously imperfect. Our leadership and the few trusted mathematicians I consulted hold extremely similar views on the right things to do in these circumstances (it is occasionally possible for physicists and mathematicians to agree. . . ), and I am clearly unilaterally responsible for feeling I just could not live if I waited even longer. There is an obvious cynical view, to do with the timing, but it is false, and I am pleased that I am in circumstances where it is obviously false.\n\nWhere he basically says, \"the optics of publishing this now definitely make me look like I chose this moment to pump Anthropic's IPO (and everyone I trust told me I should wait), but of course that's not what this is. Because trust me bro\" (he does not elaborate at all on why this is obvious).\n\nStepping back though I would suggest you learn more about the scientific process, how peer review works in serious academic circles, and why standards like it exist even when what appears to be strong circumstantial evidence for a given hypothesis becomes available. That will put you in a better position to understand the credibility of the claims Anthropic and OpenAI have made in this space. Try to understand also that Anthropic has a vested financial interest – especially in this particular case, in this particular moment, within days of their IPO – in you believing and sharing with others exactly what you did in this thread (\"Anthropic just solved X major problem in maths.\")\n\nWe largely have yet to see how these proofs will bear out as serious results in the field, including the announcements that are now several months old, and peer review and formal verification standards exist in serious empirical domains for a reason. They may prove to be serious results! But we do not know that *now,* and we should not give these companies or this technology credit for it before we have serious, independent confirmation of their validity. Extraordinary claims, extraordinary evidence, and all that.",
+        "score": 2,
+        "author": "largeanguishmodel"
+      },
+      {
+        "body": "No one is subsidizing the cost of most of the stupid shit AI is used for. \n\nMaybe there are some industries that will find more affordable ways to use it but most of AI usage is taking mundane work and turning it into useless boiler plate slop.\n\nThe idea of it being nearly the size and scope people have claimed it will be looks like its not gonna happen. \n\nEd is more right than most people criticizing him",
+        "score": 2,
+        "author": "iliveonramen"
+      },
+      {
+        "body": "No, he did not predict Jensen is sex animal and Nvidia was selling chips to China. \n\nHe was wrong about everything he said, moved timeline every time his predictions failed. Market falls of reasons nobody predicted, that's why it falls. \n\nIf zitron knew, he'd be rich right? Burry knew and he got rich. That's the diff",
+        "score": 2,
+        "author": "GlokzDNB"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y179ig",
+    "title": "Family mad about stock picks",
+    "url": "https://www.reddit.com/r/investing/comments/1y179ig/family_mad_about_stock_picks/",
+    "author": "Humble_Meat_2219",
+    "score": 264,
+    "selftext": "Earlier this year my family asked me for investment advice. I advised index funds such as QQQM. They were happy during the year as it grew. This latest downturn as wiped out their gains and they sold. They are now blaming me for losing money. Anyone been in this situation? I never told them to sell and im not going to cover any losses they had. My grandma left me an angry voicemail about it.",
+    "subreddit": "investing",
+    "created_utc": 1795190714,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "You are in way too deep. A fucking meeting? In that meeting tell them that they are ultimately the ones responsible for their investment decisions and inform them that you will no longer be giving them investment advice.",
+        "score": 4,
+        "author": "Nolpppapa"
+      },
+      {
+        "body": ">you need to ~~advise for their position~~ keep your mouth shut.\n\nFIFY\n\n",
+        "score": 3,
+        "author": "KrishnaChick"
+      },
+      {
+        "body": "This dude has a literal clown for a father. I can't stop laughing",
+        "score": 3,
+        "author": "FastJuice3729"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y1fjl7",
+    "title": "Isn't this a great sign of markets getting back to realistic levels?",
+    "url": "https://www.reddit.com/r/investing/comments/1y1fjl7/isnt_this_a_great_sign_of_markets_getting_back_to/",
+    "author": "cal_in_mit",
+    "score": 241,
+    "selftext": "Lots of delusion in the ongoing upward trend, as everyone agrees, since AI and DCs started swinging/swapping funny money among themselves, and drive \"virtual\" gains, isn't what's going on right now an amazingly positive sign of markets getting  their long overdue reality check? I think that the sooner this happens, maybe (hopefully?) to even further drops, the better for long term, and some of our cash set aside since months ago could be put back to use, vs HYSAs or just buying Euros???",
+    "subreddit": "investing",
+    "created_utc": 1795210534,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
     "id": "1y0d7vl",
@@ -79,26 +233,11 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1y03swl",
-    "title": "AI is becoming a cybersecurity threat faster than companies can adapt.",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y03swl/ai_is_becoming_a_cybersecurity_threat_faster_than/",
-    "author": "Smart_Money_HQ",
-    "score": 64,
-    "selftext": "  \nThe average time between vulnerability disclosure and exploitation has fallen from roughly 30 days to just 11 days.  \n  \nThe annualized rate of observed zero-day exploitation has roughly doubled.  \n  \nEstimated cyber incidents have massively increased following the release of GLM-5.3.  \n  \nGLM-5.3 is an open-weight AI model developed by China's [**Z.ai**](https://www.linkedin.com/safety/go/?url=http%3A%2F%2FZ%2Eai&urlhash=uux1&mt=Rz_UaomS0VybGkIPFPbhC8UMe-v_nlMCUDwR_SlBkwqwHdtt8CTw-9CE9Jn4xBbMfx95aliD8pE9aeYVsIqxjdxLHWmP7JAkoVNAWiS-VxfEWo8tYQ0UFXsYIuK6FgIUUvUjZeZQ6HPpQJApMp297hZRTTNuTMyeK2PC_T5HSm6rSqu6ZN3CMOzIN2uVkNZGmkGdTJ3X44Zne1uSSZ5l6RNId-Q6eQ&isSdui=true), with a focus in identifying and exploiting software vulnerabilities, which scored 84.5% on the CyberGym benchmark and more than doubled the previous versions performance on exploitation benchmarks.  \n  \nBeing open-weight means that these capabilities are now accessible to a much, much wider audience and as these AI-driven threats accelerate, we could see upward earnings revisions and a repricing of cybersecurity stocks \n\nAI labs will also monetize as they continue to push the boundaries of these models, amplify the cybersecurity risks in the process, and then sell the solutions to the very problems they helped create.",
-    "subreddit": "StockMarket",
-    "created_utc": 1795074748,
-    "thumbnail": "https://preview.redd.it/7euvq5w2yi2i1.jpeg?width=140&height=112&auto=webp&s=e29269e0fbbb795c684107f5e78b056cc4f3e706",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-19",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-20",
     "savedAt": {
-      "_seconds": 1795102357,
-      "_nanoseconds": 74000000
+      "_seconds": 1795187528,
+      "_nanoseconds": 485000000
     }
   },
   {
@@ -130,149 +269,43 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1xzr3ex",
-    "title": "Operating Incomes for Mega Cap Tech (Updated)",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xzr3ex/operating_incomes_for_mega_cap_tech_updated/",
-    "author": "Prudent-Corgi3793",
-    "score": 73,
-    "selftext": "After a flurry of earnings reports to close the month of October, we did not expect much from Big Tech until Nvidia reported yesterday on November 17. Once again, it was a fantastic triple beat on the top line, bottom line, and Q4 guidance. Of course, as I have said in previous posts, because so many of these tech companies in other companies like Anthropic, SpaceX, and Intel, GAAP net income results in severe distortions, I have preferred to use operating income instead, which are not subject to such distortions. Here, Nvidia beat estimates with $77.6 billion in quarterly operating income, compared to $68.9 billion expected. (I am using Compustat `oiadpq`, which excludes special items.)\n\nOf course, much has happened since the end of October. The market has been shaken by fears around capex spending in the wake of a wave election, followed by the sudden resignation of Nvidia CEO Jensen Huang. Most of these big tech companies are trading at rarely seen bargain bin valuations, clearly indicating that the market does not believe that their future cash flows are sustainable and that a pop is imminent. Sometimes, the market is right: in March 2000, dotcom darling Cisco crashed even though its earnings continued to grow for another four quarters before plummeting. However, it should be note that as of March 2000, CSCO traded at a trailing PE of 220 and a forward PE of 130, not comparable to any of the mega cap names but Tesla today.\n\nThe remainder of the earning season concludes with Broadcom and Micron are set to report on Dec 9 and Dec 23, respectively. Analysts project $23.4 billion for Broadcom and $46.4 billion for Micron for the upcoming quarter, not shown in this graph. Will their results even matter with sentiment at all time lows?",
-    "subreddit": "StockMarket",
-    "created_utc": 1795036560,
-    "thumbnail": "https://preview.redd.it/c5lmdchwsf2i1.png?width=140&height=113&auto=webp&s=f6ac35e7dabd5a143f7d4689835292ef0006a395",
-    "top_comments": [
-      {
-        "body": "One of these things does not belong w the others 🤡",
-        "score": 56,
-        "author": "ucce11o"
-      },
-      {
-        "body": "That one runs on Hopiums not Earnings.",
-        "score": 14,
-        "author": "Ultraeasymoney"
-      },
-      {
-        "body": "Man i dont like Nvidia as a company and im a nvidia investor buying the dip to profit from this absurdity, im getting out permanently when the stock evnetually hits ATH again, might take 3 years, im fine with it, ",
-        "score": 11,
-        "author": "ThatUndeadLegacy"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-19",
+    "dateString": "2026-11-20",
     "savedAt": {
-      "_seconds": 1795102356,
-      "_nanoseconds": 632000000
+      "_seconds": 1795187529,
+      "_nanoseconds": 413000000
     }
   },
   {
-    "id": "1y0ahuy",
-    "title": "The Dow \"plunged\" 561 points on Nov 18 and the Nasdaq closed green. One stock did most of it",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y0ahuy/the_dow_plunged_561_points_on_nov_18_and_the/",
-    "author": "dagilisek",
-    "score": 66,
-    "selftext": "You look at Yahoo on Nov 18 and it says the Dow plunges 560 points. Scroll down and the Nasdaq closed green.\n\nThat was one stock. UnitedHealth fell 10%, and the Dow doesn't care how big a company is, only what one share costs. UnitedHealth was a $390 stock the day before so it counted for more than Apple at $352. It's 30 stocks sorted by price tag and we still treat it like the weather report for the whole economy.\n\nIt should be a footnote, not the headline number.",
-    "subreddit": "StockMarket",
-    "created_utc": 1795097971,
-    "thumbnail": "https://preview.redd.it/12zr6x6wvk2i1.png?width=140&height=114&auto=webp&s=d85983106acfadd96cadfe7c8199ede195013ebf",
+    "id": "1y0cj9o",
+    "title": "Why is nobody talking about Bond Yields. Federal Housing Bonds 10Y term are 6.3%",
+    "url": "https://www.reddit.com/r/investing/comments/1y0cj9o/why_is_nobody_talking_about_bond_yields_federal/",
+    "author": "f00dl3",
+    "score": 92,
+    "selftext": "CUSIP 3133EWS50.\n\n  \nFederal Farm Cr Bks Bond - 6.3% yield expires 10/27/2036. \n\n  \nWhy is nobody talking about how bond yields are insane right now - like - I get this IPO today is a big thing, but if like every other IPO this tanks in 2 days, AI is going to collapse and Bonds are going to be just ... huge.\n\n  \nThis is a generational opportunity here. ",
+    "subreddit": "investing",
+    "created_utc": 1795102994,
+    "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Why are we saying \"plunged\" for 1% fluctuations? What word do we use when it falls 10% in a day? ",
-        "score": 54,
-        "author": "Paperback_Chef"
+        "body": "Because they’re callable in a short duration of time.",
+        "score": 75,
+        "author": "ManufacturerAdept428"
       },
       {
-        "body": "Meh, I don't really pay much attention to the DJIA. It's too narrow of an index. Sure it's 30 large blue chips that have been around a long time, but it's still too narrow for me to pay much mind to. I don't really consider it a great barometer for the entire market or economy anymore. (I agree with the OP's premise)",
-        "score": 14,
-        "author": "Coral-Diver"
+        "body": "That 6.3 percent is the coupon, not what you lock in for 10 years. These Farm Credit bonds are callable, and the first call is in January, so you get 6.3 percent for a couple of months and then the money comes back at par to reinvest at whatever the rate is then. A 10-year Treasury is paying about 4 percent, so the extra 2.3 points is mostly the call risk and the fact it is an agency bond, not a Treasury. Fine as a short parking spot, not a 10-year 6.3 percent deal.",
+        "score": 51,
+        "author": "TickerWorth"
       },
       {
-        "body": "The Dow is literally price weighted, so it does get overly affected by the higher priced stocks in the index. Shouldn’t be used as a relevant market index these days anyways.",
-        "score": 12,
-        "author": "Last-Register-934"
+        "body": "A short duration safe haven that also crashes 23% when the Fed hiked rates in 2022? ",
+        "score": 22,
+        "author": "_176_"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1y0i5pq",
-    "title": "Bloom Energy ($BE) Crash Course",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y0i5pq/bloom_energy_be_crash_course/",
-    "author": "beerion",
-    "score": 15,
-    "selftext": "This is a continuation of a series that I started earlier this week with [ASTS](https://www.reddit.com/r/StockMarket/comments/1xylcj6/asts_crash_course/). \n\nI thought this would be a fun way to expose new companies to the group and spur discussion. \n\nToday's company is Bloom Energy ($BE). They make fuel cells for power generation - and have recently gotten a lot of buzz as they've become a data center power provider. \n\nThis is their first year profitable, and they currently trade at 100x earnings. So growth expectations currently carry the valuation. \n\nThis is meant to be a very high, 10,000 ft view of the business, financials, and events over the past few years. Anything that I'm missing? \n\n***What company/ticker should I do next?*** My plan is to post a couple of companies a week. ",
-    "subreddit": "StockMarket",
-    "created_utc": 1795115926,
-    "thumbnail": "https://preview.redd.it/uhzld6svam2i1.png?width=140&height=140&crop=1%3A1%2Csmart&auto=webp&s=c02789345b3476e2c018ae6d7f5d24f06fc7ca3c",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1y07nwy",
-    "title": "Daily General Discussion and Advice Thread - November 19, 2026",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y07nwy/daily_general_discussion_and_advice_thread/",
-    "author": "AutoModerator",
-    "score": 4,
-    "selftext": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n\n​\n\nIf your question is \"I have $10,000, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n\n* How old are you? What country do you live in?\n* Are you employed/making income? How much?\n* What are your objectives with this money? (Buy a house? Retirement savings?)\n* What is your time horizon? Do you need this money next month? Next 20yrs?\n* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n* Any big debts (include interest rate) or expenses?\n* And any other relevant financial information will be useful to give you a proper answer. .\n\nBe aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!",
-    "subreddit": "StockMarket",
-    "created_utc": 1795089678,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1xzu2u8",
-    "title": "THE BUFFETT AND MUNGER MINDSET: Alex W. Morris, author of Buffett and Munger Unscripted",
-    "url": "https://www.reddit.com/r/finance/comments/1xzu2u8/the_buffett_and_munger_mindset_alex_w_morris/",
-    "author": "No-Pride-8979",
-    "score": 3,
-    "selftext": "Host William Cooper talks with Alex Morris, author of Buffett and Munger Unscripted, and editor of The Buffett and Munger Mindset. Alex shares his experience compiling three decades of Berkshire Hathaway shareholder meeting insights, his writing process, and the making of his Amazon best-book winner Unscripted.\n\nThe episode explores core themes—value investing, long-term thinking, avoiding big mistakes, and navigating market volatility—plus Alex’s popular substack newsletter, The Science of Hitting, and practical advice for investors and readers who want to apply Buffett and Munger’s mindset.",
-    "subreddit": "finance",
-    "created_utc": 1795044177,
-    "thumbnail": "https://external-preview.redd.it/7zDljYRu7HqdVJbgYbdpMDXNM36z8K-AKkm7biwlUUE.jpeg?width=140&height=140&auto=webp&s=50c56372acdd75e65dbf434f759ea925553428b6",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1y11pff",
-    "title": "Daily General Discussion and Advice Thread - November 20, 2026",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y11pff/daily_general_discussion_and_advice_thread/",
-    "author": "AutoModerator",
-    "score": 3,
-    "selftext": "Have a general question? Want to offer some commentary on markets? Maybe you would just like to throw out a neat fact that doesn't warrant a self post? Feel free to post here!\n\n​\n\nIf your question is \"I have $10,000, what do I do?\" or other \"advice for my personal situation\" questions, you should include relevant information, such as the following:\n\n* How old are you? What country do you live in?\n* Are you employed/making income? How much?\n* What are your objectives with this money? (Buy a house? Retirement savings?)\n* What is your time horizon? Do you need this money next month? Next 20yrs?\n* What is your risk tolerance? (Do you mind risking it at blackjack or do you need to know its 100% safe?)\n* What are you current holdings? (Do you already have exposure to specific funds and sectors? Any other assets?)\n* Any big debts (include interest rate) or expenses?\n* And any other relevant financial information will be useful to give you a proper answer. .\n\nBe aware that these answers are just opinions of Redditors and should be used as a starting point for your research. You should strongly consider seeing a registered investment adviser if you need professional support before making any financial decisions!",
-    "subreddit": "StockMarket",
-    "created_utc": 1795176095,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1xzhmsy",
-    "title": "3D Systems DDD short interest seems to have declined dramatically over the last days according to ortex.com ahead of catalysts CEO announcement and maybe huge orders",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xzhmsy/3d_systems_ddd_short_interest_seems_to_have/",
-    "author": "DrJanOliverS",
-    "score": 3,
-    "selftext": "Look at [ortex.com](http://ortex.com) stock lending data of DDD.\n\nI think that its capital structure change must have been made to attract the next ceo who can start with a strong balance sheet with less interest expense and more equity to get huge long term contracts. I expect both new ceo as well as big contract win over the next weeks. I am strongly invested again.",
-    "subreddit": "StockMarket",
-    "created_utc": 1795014758,
-    "thumbnail": "https://preview.redd.it/wlu8uc2g0e2i1.jpeg?width=140&height=87&auto=webp&s=874cf2afd975a3e1dd604d158a60094fd5b77488",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
     "id": "1y1502m",
@@ -287,52 +320,88 @@ window.dailyTrends = [
     "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-11-20",
+    "savedAt": {
+      "_seconds": 1795187533,
+      "_nanoseconds": 817000000
+    }
   },
   {
-    "id": "1y12yij",
-    "title": "Tech equities bubble is so obvious, and it may spread into the debt markets",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y12yij/tech_equities_bubble_is_so_obvious_and_it_may/",
-    "author": "Distinct-Swim5550",
-    "score": 1,
-    "selftext": "So the stock market just assigned $1.3 trillion value to a company with $0.03 trillion revenues and negative cash flow. If I was large owner of Anthropic's shares, I would not sell (because it would crash the price),I would use these shares as a collateral to raise (up to $1 trillion) debt, and that is how I cash out. Easier than growing the business 100500 times to justify that marketcap. SpaceX/Tesla ($3.2 trillion MCap combined) would follow (if not already).\n\nAm I being pathetic and not seeing the bright future Anthropic and SpaceX/Tesla are going into in the forceable future (5 years or so), or this market heading for the big badaboom.\n\nEDIT: Before arguing about Anthropic's cash flow, explain this note from their S-1: \"The increase in operating cash flow \\[in 9m 2026\\] was primarily driven by an improvement in net loss adjusted for non-cash items, partially offset by a lower benefit from changes in working capital, primarily reflecting the timing of payments to vendors and cash receipts from customers.\"",
-    "subreddit": "StockMarket",
-    "created_utc": 1795179866,
+    "id": "1y0g6u0",
+    "title": "VOO and chill , need help with the chill part. I invested a substantial amount of money on 10-6-26. Which was apparently the peak of the ai bubble",
+    "url": "https://www.reddit.com/r/investing/comments/1y0g6u0/voo_and_chill_need_help_with_the_chill_part_i/",
+    "author": "RandomGamer5280",
+    "score": 61,
+    "selftext": "I invested a substantial amount of wealth into VOO on 10-6-26. Let’s call it 500k-1mil. Don’t need the money till I retire in 20 years, but it still hurts knowing I apparently bought the peak of the ai bubble.\n\nThis will be much easier after a few years when hopefully the portfolio is in the green enough that red times don’t hurt as bad, but it really stings right now, knowing I timed the entry of a retirement/investment strategy so bad. How does everyone mentally deal with red times? ",
+    "subreddit": "investing",
+    "created_utc": 1795111274,
     "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1xzuem9",
-    "title": "Q3 2026 Comp Sales Results Thus Far - How will Walmart do?",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1xzuem9/q3_2026_comp_sales_results_thus_far_how_will/",
-    "author": "ryanmcraver",
-    "score": 1,
-    "selftext": "Heading into Walmart earnings Thursday, comps so far run from Ralph Lauren +10.0% and Costco +7.3% down to Albertsons -0.8% and Sprouts -0.9%. Grocers are flat to negative...Walmart has to show it's taking that share. Source: company earnings releases $WMT $COST $TGT",
-    "subreddit": "StockMarket",
-    "created_utc": 1795045037,
-    "thumbnail": "https://preview.redd.it/dqhf294eig2i1.jpeg?width=140&height=98&auto=webp&s=947275b3349016d30d5754f22611286965aa46f9",
     "top_comments": [
       {
-        "body": "The split in that table is the interesting part — the grocers are flat to down while the general merch and home names are still posting low single digits, which reads like share shifting to the bigger boxes rather than the consumer suddenly spending more. For Walmart the comp number alone will not tell the story. I would watch whether the growth is coming from more trips or a bigger ticket, since a ticket-driven comp is mostly price, and whether e-commerce and membership are still growing faster than the stores. If Walmart posts a solid comp but the margin guide softens, that is the tariff and grocery deflation squeeze showing up, not a demand problem.",
-        "score": 1,
-        "author": "TickerWorth"
+        "body": "Most people don't know what they are getting into. Everyone has a plan until they are punched in the mouth.",
+        "score": 5,
+        "author": "Apprehensive_Elk2608"
       },
       {
-        "body": "good chart.. terrible sector but bounce has been real",
-        "score": 1,
-        "author": "Apprehensive_Two1528"
+        "body": "DCA it in is hindsight. It could have easily went up. His option now is turn it to a money manager, or I would just DCA in contributions every week at this point. He is in good shape with 20 years to go. He just doesnt realize it. Put as much as he can in when its down! And chill whem it gets to ATH. Hes not as bad as he thinks",
+        "score": 3,
+        "author": "SpeedyFab"
       },
       {
-        "body": "Staples bubble, tech is extreme value",
-        "score": 1,
-        "author": "Pinheadlarrry27"
+        "body": "Ya when he said 20 years im like ok log off your fine lol",
+        "score": 2,
+        "author": "JoJackthewonderskunk"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y1jtw9",
+    "title": "Nvidia invests in OpenAI, OpenAI buys Nvidia chips, Nvidia guarantees OpenAI's $105B data center lease. Is the AI boom just a closed loop?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y1jtw9/nvidia_invests_in_openai_openai_buys_nvidia_chips/",
+    "author": "boringpretty",
+    "score": 61,
+    "selftext": "Been staring at this all week and I can't unsee it.\n\nHere's what's actually on the record.\n\nNvidia put $30B into OpenAI's funding round this year. OpenAI committed to run Nvidia's next gen chips. In August, Nvidia agreed to guarantee up to $105B of lease payments on an Ohio data center where OpenAI is the tenant. If OpenAI can't pay, Nvidia covers the gap. That's in their SEC filing.\n\nNvidia and Microsoft also pledged up to $10B and $5B to Anthropic. Anthropic committed to buy $30B of Azure compute, running on Nvidia hardware.\n\nThe IMF says circular financing between AI companies is now a little over $1 trillion, and about two thirds of it is debt. The WSJ reported Nvidia pushed more of these deals this year to soak up extra TSMC wafers and keep GPU prices high. That's a report, not a finding, and Nvidia has said the OpenAI deal isn't circular financing.\n\nThen this week hit.\n\nNvidia lost $669B in market cap in six sessions through Thursday, then closed down about 14% Friday at around $126. The S&P just logged its seventh red day in a row and is now about 12% off the Oct 6 high. That's a correction. The Nasdaq closed down about 5% Friday and wiped out its 2026 gains. Anthropic priced at $83, closed day one at $97.17, and finished Friday back around $89. CoreWeave fell 6% and Nebius 9% on Thursday alone.\n\n**My theory (speculation, not fact, tell me where it breaks):**\n\nWhat if a real chunk of \"AI demand\" over the last year was the same dollars going around the loop? Supplier invests in customer, customer buys supplier's chips, supplier books revenue, both valuations go up, lenders lend against those valuations. Works great while new money keeps coming in.\n\nThe second anyone in the loop slows down (a CEO exit, tighter credit, an IPO that pops and fades), everything priced off that demand gets repriced at once. That would explain why it's not just Nvidia bleeding. It's memory, neoclouds, anything with AI in the pitch deck.\n\nTo be fair, the other side is real. Nvidia is still hugely profitable. Microsoft, Google and Amazon have deep pockets. Micron says memory supply stays tight into 2027. Lucent and Cisco did vendor financing in 2000 and the internet still happened. A lot of the companies that financed it just didn't make it.\n\nSo, honest question: is this the AI loop unwinding and we're early in a 2000 style reset, or is it a CEO scandal plus fear, and the buy the dip crowd gets paid again?\n\nBubble or boom? Give me your best argument either way.\n\n(Not financial advice. No positions, no links.)",
+    "subreddit": "StockMarket",
+    "created_utc": 1795222186,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Shoot even Hank green on YouTube has a video about it 1 year ago. ",
+        "score": 15,
+        "author": "ariphron"
+      },
+      {
+        "body": "This is circular financing and why I question whether any of these AI companies actually make any money from a source outside of their little circle.  ",
+        "score": 14,
+        "author": "SomeSamples"
+      },
+      {
+        "body": "Its been circular financing for at least a few years which is what Burry was trying to warn everyone about. I just dont think WallStreet was expecting this war with Iran to persist almost the whole year>higher energy prices>fed raising rates etc. If it wasn't for that I think they could have kept the game going on longer. But it did and now the house of cards is going to fall. This will be 07-08 all over again. Smh",
+        "score": 10,
+        "author": "mrginger1987"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y17yno",
+    "title": "Current State of the Market",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y17yno/current_state_of_the_market/",
+    "author": "IgnoreThisThread",
+    "score": 47,
+    "selftext": "https://i.redd.it/palog5m2js2i1.png\n\nNote: Numbers have probably gotten worse since I pulled the data.\n\nWas checking the how far the NDX was from all time highs and I saw that we're like 2.5% away from entering bear market territory. Which is crazy since all time high was only a month ago and google says bear markets are on average 9-14 months. Google also says that the median drop in bear markets is 33% which would bring us down to March 2026.\n\nDecided to look at S&P 500 and the equal weights to see how bad everything is. I'm surprised that Apple is doing so well compared to everything considering how everyone was dog piling on them for not having AI before.\n\n  \n",
+    "subreddit": "StockMarket",
+    "created_utc": 1795192387,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   }
 ];
