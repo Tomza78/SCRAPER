@@ -1,29 +1,29 @@
 window.dailyTrends = [
   {
-    "id": "1y0mp3v",
-    "title": "My dad is mad at me for investing in the stock market after this recent crash",
-    "url": "https://www.reddit.com/r/investing/comments/1y0mp3v/my_dad_is_mad_at_me_for_investing_in_the_stock/",
-    "author": "NailPsychological527",
-    "score": 1073,
-    "selftext": "Im 30 and The past year i lump summed around 100k in VOO and it was my first time putting money in the market because my dad has always hated and avoided investing in stocks after he lost money in the 2008 market crash and now he keeps telling me he told me so and that i shouldve listened to him, i tried explaining its normal for the market to go down and he dosent understand. He also scared my older brothers into never investing in stocks and hes ruining their future retirement with his bad advice what do i do",
+    "id": "1y1su5g",
+    "title": "This is healthy as a long term investor",
+    "url": "https://www.reddit.com/r/investing/comments/1y1su5g/this_is_healthy_as_a_long_term_investor/",
+    "author": "Typical-Condition353",
+    "score": 904,
+    "selftext": "I have been investing for over 30 years.  To sum it up, the market takes 2 steps forward then 1 step back.  A 10%+ correction has happened 14 times in those 30 years.   We go from exuberance to doom and gloom and back to exuberance.  The drops are fast (usually weeks to months).  The climbs are slower (usually months to years).  You double your money in the S&P 500 every 6-12 years.  The market is now fairly valued again (forward PE of 17).  If you have time (10+ years) invest in the S&P 500 or whole market ETF.  What we are seeing is pretty typical and no need to panic.  If you need the money in the next 2-3 years then you shouldn’t be investing it.",
     "subreddit": "investing",
-    "created_utc": 1795127044,
+    "created_utc": 1795252625,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "\\> kids aren’t always a choice\n\nYou have to be honest with yourself at least. 100% is a choice.\n\nHaving a car payment is a choice too just like having credit card debt is.\n\nFinancial freedom means making tough decisions.\n\nI’m also not saying to not have a family. Only pointing out there are decisions when it comes to being financially independent that make it harder and having kids when you’re not financially ready is one of them.",
-        "score": 3,
-        "author": "MGTakeDown"
+        "body": "I mentioned this in another sub or post earlier today. I put 20% of my weekly check on auto invest into 80% vti, 15% vsux, and 5% qqqm. A little bit less than 1% of my portfolio is speculative stocks which is the equivalent of buying a scratch off ticket in my opinion. If they run i'm happy, if they flop it didn't make me go broke. People are doomed out on reddit because they put all their eggs on NVDA or other tech stocks. ",
+        "score": 9,
+        "author": "wolfblitzen84"
       },
       {
-        "body": "This.\n\nI have never asked about or given advice to my children about their monetary assets.  \nThey are (seemingly) smart kids ...hopefully they know where to find 'good advice' and 'guidance'.",
-        "score": 2,
-        "author": "sleeper_54"
+        "body": "i dont think anyone is really diversified against the big companies though. If one of the big 7 fall its taking many other companies down with it. the entire market is really overpriced in general right now,",
+        "score": 5,
+        "author": "ghost_operative"
       },
       {
-        "body": "i've been investing since 2022, still haven't experienced a recession. but even i don't understand how people are even slightly concerned with the current sell-off. this is just a market doing normal market things.",
-        "score": 2,
-        "author": "g-unit2"
+        "body": "> Many had 50% plus in 2-4 stocks- NVIDIA, Micron, AMD\n\nI have a chunk of money in AMD; I still consider it a tremendously successful investment as my entry point was $9. The issue is that people got caught in the hype cycle and bought at nosebleed valuations. I remember the .com bubble when I was a teen investing my college savings and thinking \"who the hell is buying at these prices?\". Feels like the same thing.\n\nPersonally, I'd like to see some contagion into the real estate markets so the ridiculous assessed value of my relatives' and parents' houses go down and the repairs won't be priced at stratospheric levels while simultaneously having poor workmanship.",
+        "score": 4,
+        "author": "Not_FinancialAdvice"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -59,26 +59,11 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1y0r5pr",
-    "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y0r5pr/softbank_plunges_over_16_as_ai_selloff_hits_asian/",
-    "author": "TorukMaktoM",
-    "score": 360,
-    "selftext": "SoftBank tumbled in early Friday amid a broader-sell off in Asian technology stocks. SoftBank is one of the biggest backers of OpenAI, Anthropic’s rival, having invested a total of $64.6 billion in the ChatGPT maker.\n\nJapanese semiconductor stocks declined sharply, dragging the Nikkei 225 lower.\n\nSouth Korean chipmakers also fell, extending losses across the region.",
-    "subreddit": "StockMarket",
-    "created_utc": 1795139455,
-    "thumbnail": "https://external-preview.redd.it/4McxrwFBmmPVQHwn4VE6sFfr6jxvudLg58cLP2yvS8U.jpeg?width=140&height=78&auto=webp&s=059cb99479bdfbb67219eadda114c3b16b1b67a1",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-20",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-21",
     "savedAt": {
-      "_seconds": 1795187527,
-      "_nanoseconds": 281000000
+      "_seconds": 1795271326,
+      "_nanoseconds": 245000000
     }
   },
   {
@@ -110,22 +95,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1y137w6",
-    "title": "What is everyone buying during this pullback?",
-    "url": "https://www.reddit.com/r/investing/comments/1y137w6/what_is_everyone_buying_during_this_pullback/",
-    "author": "AtozoL",
-    "score": 330,
-    "selftext": "So the S&P 500 is 9% from its ATH, as of writing this post during the premarket.  \nThe Nasdaq is around 17%, and the Dow Jones around 10%.\n\nPullbacks like these are great opportunities to buy great companies at cheap prices.\n\nI am buying Uber, Oscar health, Meta, Mercadolibre, Booking and Qxo.\n\n\n\nUber - Buying as long as it stays below 70$, intrinsic value is 90-105$\n\nOscar Health - Buying below 25$, Intrinsic value 40-50$\n\nMeta - Buying below 600$, Intrinsic value 800-850$\n\nMercadolibre - Buying below 1600$. It's much more difficult calculating an intrinsic value since their operating margins have been declining for some time now due to a lot of investments back into the business, so my intrinsic value range is quite big, but my conservative fair value is around 2000$, so 1355$ as of yestarday's close feels like a bargain.\n\nQxo - More a speculative company only because it is so difficult to calculate a fair value on it due to a lot of acqusitions and lots of noise in their financial statements. But even so, 11b market cap for this company that owns topbuild feels pretty fair to me, so I am buying just a bit below 12$.\n\nEveryone share what is on your shopping list, what price are you waiting for to pull the trigger, and maybe add a fair value for each company your buying.",
-    "subreddit": "investing",
-    "created_utc": 1795180612,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-21",
+    "savedAt": {
+      "_seconds": 1795271326,
+      "_nanoseconds": 869000000
+    }
   },
   {
     "id": "1y1jvyc",
@@ -156,7 +131,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-21",
+    "savedAt": {
+      "_seconds": 1795271327,
+      "_nanoseconds": 838000000
+    }
   },
   {
     "id": "1y179ig",
@@ -187,7 +167,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-21",
+    "savedAt": {
+      "_seconds": 1795271328,
+      "_nanoseconds": 302000000
+    }
   },
   {
     "id": "1y1fjl7",
@@ -202,161 +187,12 @@ window.dailyTrends = [
     "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
-  },
-  {
-    "id": "1y0d7vl",
-    "title": "AMD stock crashes -13% in 30 minutes after another Chinese chip scandal",
-    "url": "https://www.reddit.com/r/finance/comments/1y0d7vl/amd_stock_crashes_13_in_30_minutes_after_another/",
-    "author": "tc0843",
-    "score": 156,
-    "selftext": "AMD stock crashes -13% in 30 minutes after Hunterbrook Media accuses the company of illegally selling chips to China. Hunterbrook Capital also disclosed a short position in AMD.",
-    "subreddit": "finance",
-    "created_utc": 1795104562,
-    "thumbnail": "default",
-    "top_comments": [
-      {
-        "body": "I dare them to make up some stories about Lisa. Go on. Make it **unbelievable**",
-        "score": 66,
-        "author": "Public_Okra1636"
-      },
-      {
-        "body": "Accusations aren’t facts. And the same people who are making these accusations are also shorting the stock? Everything is just fake news now.",
-        "score": 35,
-        "author": "Metaldivinity"
-      },
-      {
-        "body": "Or... hear me out, AMD has made even more financing promises than NVDA with less cash, and investors are getting nervous about those. ",
-        "score": 5,
-        "author": "Ciappatos"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-20",
-    "savedAt": {
-      "_seconds": 1795187528,
-      "_nanoseconds": 485000000
-    }
-  },
-  {
-    "id": "1y0nk20",
-    "title": "Me vs. S&P",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y0nk20/me_vs_sp/",
-    "author": "Vegetable-Cause8667",
-    "score": 80,
-    "selftext": "How one day turns from “wish I was more into the S&P” to “Thankfully I’m not as much into S&P.” \n\nI don’t consistently beat the S&P, but I almost *never* do as poorly on a down day. I don’t have any judgement against people who blindly invest in the S&P 500, but certainly if you are investing in 500 companies like that, some of them are going to be poorly run, or part of failing sectors. Personally this is a bad investing principle and fundamental, even if historically it has worked out for many people.",
-    "subreddit": "StockMarket",
-    "created_utc": 1795129308,
-    "thumbnail": "https://preview.redd.it/558nw2w2hn2i1.jpeg?width=140&height=88&auto=webp&s=d1eef6121dae547cd691f4cc143f782782f39c6b",
-    "top_comments": [
-      {
-        "body": "Ok now show us the past 5 years",
-        "score": 96,
-        "author": "Djent_Reznor1"
-      },
-      {
-        "body": "Freak the fuck out and panic sell everything right now. It’s fucking over.",
-        "score": 40,
-        "author": "BeginningDramatic116"
-      },
-      {
-        "body": "Let’s see Paul Allen’s chart comparison. ",
-        "score": 18,
-        "author": "Peripatetictyl"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-20",
-    "savedAt": {
-      "_seconds": 1795187529,
-      "_nanoseconds": 413000000
-    }
-  },
-  {
-    "id": "1y0cj9o",
-    "title": "Why is nobody talking about Bond Yields. Federal Housing Bonds 10Y term are 6.3%",
-    "url": "https://www.reddit.com/r/investing/comments/1y0cj9o/why_is_nobody_talking_about_bond_yields_federal/",
-    "author": "f00dl3",
-    "score": 92,
-    "selftext": "CUSIP 3133EWS50.\n\n  \nFederal Farm Cr Bks Bond - 6.3% yield expires 10/27/2036. \n\n  \nWhy is nobody talking about how bond yields are insane right now - like - I get this IPO today is a big thing, but if like every other IPO this tanks in 2 days, AI is going to collapse and Bonds are going to be just ... huge.\n\n  \nThis is a generational opportunity here. ",
-    "subreddit": "investing",
-    "created_utc": 1795102994,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Because they’re callable in a short duration of time.",
-        "score": 75,
-        "author": "ManufacturerAdept428"
-      },
-      {
-        "body": "That 6.3 percent is the coupon, not what you lock in for 10 years. These Farm Credit bonds are callable, and the first call is in January, so you get 6.3 percent for a couple of months and then the money comes back at par to reinvest at whatever the rate is then. A 10-year Treasury is paying about 4 percent, so the extra 2.3 points is mostly the call risk and the fact it is an agency bond, not a Treasury. Fine as a short parking spot, not a 10-year 6.3 percent deal.",
-        "score": 51,
-        "author": "TickerWorth"
-      },
-      {
-        "body": "A short duration safe haven that also crashes 23% when the Fed hiked rates in 2022? ",
-        "score": 22,
-        "author": "_176_"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1y1502m",
-    "title": "If you bought Take-Two because you're hyped for GTA VI, you bought the top. Red Dead 2 did the same thing",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y1502m/if_you_bought_taketwo_because_youre_hyped_for_gta/",
-    "author": "dagilisek",
-    "score": 1,
-    "selftext": "Take-Two went up 6% the day before GTA VI came out and fell almost 4% on launch day. It's about 10% below where it closed on Nov 11. Red Dead 2 did the same in 2018; up big the day before launch, red on launch day, down 7% the Monday after.\n\nBeing excited for the game and owning the stock are 2 different bets. The stock was already priced for a great launch before anyone played it so the people buying the hype are the ones who got the worst of it. Long term holders are fine, obviously.\n\nThe left chart is 2018 and the right one is now. The 2018 launch day candle is green because it opened lower and closed above its open, but it still finished under the day before.",
-    "subreddit": "StockMarket",
-    "created_utc": 1795185244,
-    "thumbnail": "https://preview.redd.it/gguczsrd3s2i1.png?width=140&height=54&auto=webp&s=ae8052d2d3059a234cd7378af1f59b940c4a74fd",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
     "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-20",
+    "dateString": "2026-11-21",
     "savedAt": {
-      "_seconds": 1795187533,
-      "_nanoseconds": 817000000
+      "_seconds": 1795271328,
+      "_nanoseconds": 733000000
     }
-  },
-  {
-    "id": "1y0g6u0",
-    "title": "VOO and chill , need help with the chill part. I invested a substantial amount of money on 10-6-26. Which was apparently the peak of the ai bubble",
-    "url": "https://www.reddit.com/r/investing/comments/1y0g6u0/voo_and_chill_need_help_with_the_chill_part_i/",
-    "author": "RandomGamer5280",
-    "score": 61,
-    "selftext": "I invested a substantial amount of wealth into VOO on 10-6-26. Let’s call it 500k-1mil. Don’t need the money till I retire in 20 years, but it still hurts knowing I apparently bought the peak of the ai bubble.\n\nThis will be much easier after a few years when hopefully the portfolio is in the green enough that red times don’t hurt as bad, but it really stings right now, knowing I timed the entry of a retirement/investment strategy so bad. How does everyone mentally deal with red times? ",
-    "subreddit": "investing",
-    "created_utc": 1795111274,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Most people don't know what they are getting into. Everyone has a plan until they are punched in the mouth.",
-        "score": 5,
-        "author": "Apprehensive_Elk2608"
-      },
-      {
-        "body": "DCA it in is hindsight. It could have easily went up. His option now is turn it to a money manager, or I would just DCA in contributions every week at this point. He is in good shape with 20 years to go. He just doesnt realize it. Put as much as he can in when its down! And chill whem it gets to ATH. Hes not as bad as he thinks",
-        "score": 3,
-        "author": "SpeedyFab"
-      },
-      {
-        "body": "Ya when he said 20 years im like ok log off your fine lol",
-        "score": 2,
-        "author": "JoJackthewonderskunk"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
     "id": "1y1jtw9",
@@ -387,21 +223,248 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-21",
+    "savedAt": {
+      "_seconds": 1795271330,
+      "_nanoseconds": 582000000
+    }
   },
   {
-    "id": "1y17yno",
-    "title": "Current State of the Market",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y17yno/current_state_of_the_market/",
-    "author": "IgnoreThisThread",
-    "score": 47,
-    "selftext": "https://i.redd.it/palog5m2js2i1.png\n\nNote: Numbers have probably gotten worse since I pulled the data.\n\nWas checking the how far the NDX was from all time highs and I saw that we're like 2.5% away from entering bear market territory. Which is crazy since all time high was only a month ago and google says bear markets are on average 9-14 months. Google also says that the median drop in bear markets is 33% which would bring us down to March 2026.\n\nDecided to look at S&P 500 and the equal weights to see how bad everything is. I'm surprised that Apple is doing so well compared to everything considering how everyone was dog piling on them for not having AI before.\n\n  \n",
+    "id": "1y1502m",
+    "title": "If you bought Take-Two because you're hyped for GTA VI, you bought the top. Red Dead 2 did the same thing",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y1502m/if_you_bought_taketwo_because_youre_hyped_for_gta/",
+    "author": "dagilisek",
+    "score": 1,
+    "selftext": "Take-Two went up 6% the day before GTA VI came out and fell almost 4% on launch day. It's about 10% below where it closed on Nov 11. Red Dead 2 did the same in 2018; up big the day before launch, red on launch day, down 7% the Monday after.\n\nBeing excited for the game and owning the stock are 2 different bets. The stock was already priced for a great launch before anyone played it so the people buying the hype are the ones who got the worst of it. Long term holders are fine, obviously.\n\nThe left chart is 2018 and the right one is now. The 2018 launch day candle is green because it opened lower and closed above its open, but it still finished under the day before.",
     "subreddit": "StockMarket",
-    "created_utc": 1795192387,
-    "thumbnail": "self",
+    "created_utc": 1795185244,
+    "thumbnail": "https://preview.redd.it/gguczsrd3s2i1.png?width=140&height=54&auto=webp&s=ae8052d2d3059a234cd7378af1f59b940c4a74fd",
     "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-11-20",
+    "savedAt": {
+      "_seconds": 1795187533,
+      "_nanoseconds": 817000000
+    }
+  },
+  {
+    "id": "1y22a2u",
+    "title": "Will Berkshire capitalize on the correction?",
+    "url": "https://www.reddit.com/r/investing/comments/1y22a2u/will_berkshire_capitalize_on_the_correction/",
+    "author": "popphilosophy",
+    "score": 91,
+    "selftext": "My theory on BRK for a while has been that when the market correction happens they’ll be able to swoop in with their $350B cash pile and score some real sweet deals on fundamentally sound companies (including tech companies). But now with the new CEO I’m not sure they’ll have the discipline to pull this off like they did in 2008. I see stock buybacks, Google investment at peak prices, and most recently buying a home construction company. As a shareholder I’d like to see them be patient. Hopefully my nerves are unfounded though. Now is the time for some hero ball.",
+    "subreddit": "investing",
+    "created_utc": 1795281628,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "10% is the market \n\nThere are PLENTY of solid companies down 30% from their highs right now",
+        "score": 81,
+        "author": "Ok_Function2282"
+      },
+      {
+        "body": "From their highs doesn't mean it's a discount. ",
+        "score": 66,
+        "author": "trickyvinny"
+      },
+      {
+        "body": "Buffet has made plenty of bad investments, including more recently, Paramount, Kraft Heinz and the airlines, plus not investing during the covid slump.\n\nThey only invested around $40b into Alphabet, so far, so it is not like they are betting the farm.\n\nI am not going to judge any investment over a 3 month time frame.  I will give them 3, 5 and 10 years and then judge. BRK-B makes up a material amount of my portfolio.",
+        "score": 17,
+        "author": "3rd_in_line"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y1nuzu",
+    "title": "Relief Rally This Monday",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y1nuzu/relief_rally_this_monday/",
+    "author": "Diet_Water",
+    "score": 82,
+    "selftext": "Be careful chasing Monday's relief rally. Market makers know retail will see Friday's bloodbath as a \"buy the dip\" opportunity. After the Nasdaq plunged 5.3% Friday and lost roughly 10% this week, an early green open could spark FOMO before another afternoon selloff. The S&P 500 and Dow are now in correction territory, Nvidia sank 14% Friday, and even Anthropic's blockbuster IPO failed to restore confidence. Investors are questioning AI valuations, AI infrastructure outlays, and whether profits can ever justify the costs. Polymarket priced a 44% chance of the AI bubble bursting by year-end. That's speculative sentiment, not a reliable forecast. Don't mistake a dead-cat bounce for the bottom.",
+    "subreddit": "StockMarket",
+    "created_utc": 1795234778,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "But are there a lot of examples where those great stocks with low PEs, like Nvidia, never recover in the short term? Haven't seen lots passing by.\nCisco was much more overpriced than Nvidia.",
+        "score": 4,
+        "author": "Electrical-Value-673"
+      },
+      {
+        "body": "I think it's planning to become rational soon.  I think the Anthropic IPO was the last chance to grab big money from investors and was the end of the hype runway. \n\nI think we are very close to that point where the AI hope has to turn into demands for real profitability (hence the rationality).  I think finance people are going to start speaking sanely again and we're all going to feel like we've been taking crazy pills listening to the opposite for the last few years.",
+        "score": 3,
+        "author": "SidewaysFancyPrance"
+      },
+      {
+        "body": "While I bought some NVDA you do realize that their earnings rose very quickly over the past 3 years and they can drop just as quickly if the data center boom turns the other way.",
+        "score": 3,
+        "author": "SpongEWorTHiebOb"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y2bryq",
+    "title": "Will the Fed come to the rescue as the stock market enters correction territory?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y2bryq/will_the_fed_come_to_the_rescue_as_the_stock/",
+    "author": "Living-Ambition-3352",
+    "score": 80,
+    "selftext": "The S&P 500 dropped 3.7% on friday and is now more than 10% below its october peak, also the Nasdaq fell over 5% wiping out its gains for the year.A selloff this sharp would get investors talking about potential Fed rate cuts but this time the situation looks different.Inflation is still a problem and the Fed doesn’t have much room to ease monetary policy just because stocks are falling.What’s interesting is that Kalshi’s December Fed market is still pricing a 90% probability of another 25 basis point rate hike despite everything happening in equities . At what point does a stock market correction become serious enough to change the Fed’s priorities?",
+    "subreddit": "StockMarket",
+    "created_utc": 1795307153,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "We are and they have. Trump's goons are just turning a blind eye.",
+        "score": 5,
+        "author": "CountOnBeingAwesome"
+      },
+      {
+        "body": "Yeah, this is true. Or at best it's low on the prior list. The fed's job is to control the economy,,not the stock market.",
+        "score": 5,
+        "author": "ApathysLastKiss_"
+      },
+      {
+        "body": "I'm so sick of \"investors\" crying for intervention for their portfolios while hiding behind shit like this when tangible moves are pointed out. Inequality has been awful for decades, the government needs to give a fuck besides keeping the stock market up. Interest rates AND average people support can happen at the same time, look at the New Deal.",
+        "score": 5,
+        "author": "Imaginary_Sugar_3138"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y20hoh",
+    "title": "Even those that were early to the party can leave holding the bag...... A lesson from the 1997 \"early\" investors",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y20hoh/even_those_that_were_early_to_the_party_can_leave/",
+    "author": "Zipski577",
+    "score": 66,
+    "selftext": "This chart represents a strong lesson for today's Al/ Semi/memory investors. I've seen a lot of ppl reacting differently to the recent crash in these stocks.. many have become baggies while others are playing it cool because their unrealized investment return is still green or they are \"still up big.\"\n\nIt seems that right now, a lot of people think they're  \n\"safe\" because they have a low cost basis. So did plenty of people who bought the Nasdaq in 1997-they were sitting on huge gains before the dot-com crash. Some still ended up waiting 5+ years just to get back to breakeven, and late-1999 buyers waited 15 years.\n\nRemember, cost basis doesn't protect you from a major drawdown if you don't take profits!!! Even those that once felt like geniuses with 400%+ unrealized gains for some, eventually felt like stooges when it all disappeared and they themselves became bag holders for years to come.  \nBulls make money, bears make money, pigs get slaughtered!\n\nOP: https://www.reddit.com/r/StockMarket/s/9dq5QcnH7R",
+    "subreddit": "StockMarket",
+    "created_utc": 1795277091,
+    "thumbnail": "https://preview.redd.it/oo61vajioz2i1.jpeg?width=140&height=78&auto=webp&s=824bb8720e5a9952c9eba061b9a1e4f119f06df3",
+    "top_comments": [
+      {
+        "body": "This is about as obvious as water is wet, not some words of wisdom few know of.\n\nCost basis needs to be $0 otherwise it doesn't matter what sector you're in. Have you seen how SOFI is maintaining 40%+ growth and is still down massively YTD even after the management proved they aren't really cyclical?\n\nThe takeaway should be: be in the right sector at the right time, otherwise you end up a bagholder.\n\n",
+        "score": 21,
+        "author": "ga643953"
+      },
+      {
+        "body": "Its all about the patience... Sometimes not.",
+        "score": 6,
+        "author": "Living-Ambition-3352"
+      },
+      {
+        "body": "Most people don't invest one lump sum and stop. You're allowed to buy during drawdowns.",
+        "score": 4,
+        "author": "Environmental_Park_6"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y1r0gf",
+    "title": "$50k ready to invest - lump sum now, or DCA over a few months?",
+    "url": "https://www.reddit.com/r/investing/comments/1y1r0gf/50k_ready_to_invest_lump_sum_now_or_dca_over_a/",
+    "author": "Roahard",
+    "score": 58,
+    "selftext": "I'm an international investor sitting on about $50,000 USD that I want to put into the US market (mostly looking at broad index funds like VOO or Irish-domiciled equivalents like VWRA for tax efficiency.\n\nI know statistically lump sum usually beats DCA, and with the market pulling back recently, waiting around for \"clarity\" feels like trying to time the market.\n\nAt the same time, putting $50k in all at once while things are volatile is pretty nerve-wracking. Watching $50k drop another 10% right after buying would hurt psychologically, even though my time horizon is 15+ years.\n\nFor those who have invested a large sum during a shaky market:\n\nDid you go 100% in on Day 1, or split it over 3-6 months just to sleep at night?",
+    "subreddit": "investing",
+    "created_utc": 1795245631,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "I've dropped many knives that did in fact have handles. ",
+        "score": 21,
+        "author": "Fmarulezkd"
+      },
+      {
+        "body": "you may be minimizing losses now, but you also lose out on a ton of growth with that strategy",
+        "score": 11,
+        "author": "dgr0317"
+      },
+      {
+        "body": "You would drop less of them if you still had all your fingers 😁",
+        "score": 9,
+        "author": "nameless_pattern"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y1gyix",
+    "title": "This is why I keep buying and continue to DCA.",
+    "url": "https://www.reddit.com/r/investing/comments/1y1gyix/this_is_why_i_keep_buying_and_continue_to_dca/",
+    "author": "FixRevolutionary8719",
+    "score": 57,
+    "selftext": "&#x200B;\n\nI’m not going to pretend I know where the market is headed tomorrow, next week, or even next month. Nobody really does.\n\nBut I do think periods like this are a good reminder of why having a long-term investment strategy matters.\n\nI invest primarily in broad-market ETFs like VTI and VXUS. I’m not trying to pick the next Nvidia, time the bottom, or predict which company will outperform the market. I'm buying a piece of the domestic and international markets and letting time do its thing.\n\nWhen the market is green, I buy. When the market is red, I buy. When headlines are screaming recession, crashes, and fear, I stick to the same plan.\n\nThat's the beauty of dollar-cost averaging. You don't need to know where the bottom is. You just need consistency, patience, and a portfolio you're comfortable holding through uncomfortable periods.\n\nCould the market fall another 10%, 20%, or even more? Absolutely. That's why diversification, an emergency fund, and investing within your risk tolerance matter.\n\nBut if your investment horizon is 20–30 years, today's prices are just another part of that journey.\n\nI'm not celebrating anyone losing money, and I'm certainly not suggesting people invest money they need in the short term. But I do think it's worth remembering that market downturns are part of investing, not a reason to abandon a sound strategy.\n\nDon't invest based on emotions. Don't chase the highs. Don't panic at the lows. Have a plan, keep contributing, and give compounding time to work.\n\nJust one investor's perspective. Stay the course.",
+    "subreddit": "investing",
+    "created_utc": 1795214239,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "That was always my mantra.  \nI set it and forget it. Served me well during my 35+ career. Now in my 50s, laid off this year and made the plan and decision to “retire” because the market was high and I had enough,  \nIt is difficult to see the balance drop when I am relying on that for my income starting in January.   \nMy income plan was built around several income streams and I can afford a drop.. it is just hard to see it drop below what I wanted it ti be.  \nI have always been a huge saver so the mindset of taking withdrawals next year was hard enough, seeing it drop before I start withdrawals is unsettling.  \nI will be okay I know intelligently, emotionally is a different story.",
+        "score": 17,
+        "author": "Happyretired3081"
+      },
+      {
+        "body": "Answer the question instead of deflecting lol",
+        "score": 13,
+        "author": "dk00111"
+      },
+      {
+        "body": "How long has that cash been sitting around trying to time the market?",
+        "score": 9,
+        "author": "dk00111"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y1v2cu",
+    "title": "VIX just touched 40 and Nasdaq is officially in a bear market. Are you buying this or waiting for the other shoe to drop?",
+    "url": "https://www.reddit.com/r/investing/comments/1y1v2cu/vix_just_touched_40_and_nasdaq_is_officially_in_a/",
+    "author": "Swimming_Baby6242",
+    "score": 49,
+    "selftext": "Total bloodbath today. VIX wicked above 40 intraday and tech is officially down 20%+ from highs.\n\nI'm sitting on some cash right now debating whether to start throwing it at the market or sit on my hands so I don't catch a falling knife. Decided to look up the last three times we got this exact setup (VIX over 40 + Nasdaq in a bear market). The outcomes couldn't be more different:\n\n* **April 2025 (Tariff freakout):** Pure policy shock. VIX ripped past 40, Nasdaq tanked into a bear market, but the fear peaked almost immediately. We got a clean V-shaped bounce and within six months we were ripping to new all-time highs. Anyone who panic sold got left in the dust.\n* **March 2020 (Covid):** Complete liquidity meltdown. VIX went to the 80s and tech got crushed in like three weeks. Then the Fed dropped infinite QE, and it took literally three months to wipe out all the losses. Followed by that insane 70%+ rally.\n* **September 2008 (Lehman):** The nightmare script. Lehman went under, VIX crossed 40, Nasdaq was deep in the red. A lot of people thought that was the bottom, but the market ended up bleeding *another* 30%+ over the next five months. The actual bottom didn't hit until March 2009.\n\nThe historical stat everyone likes to quote is that over the past 36 years, buying when VIX hits 40 has an 83% win rate over a 1-year horizon.\n\nSounds great on paper, but the catch is that VIX 40 marks peak *panic*, not necessarily the actual bottom. If this is just a liquidity/policy scare, it’s basically free money long-term. But if something is actually broken under the hood, you're about to sit through a nasty second leg down.\n\nWhich script do you think we're running this time? 2025, 2020, or are we in for a long grind like 2008?",
+    "subreddit": "investing",
+    "created_utc": 1795261107,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "There is another script to consider.  \nNasdaq dropped 40% in 2000, but the VIX never hit your panic level of 40+.",
+        "score": 38,
+        "author": "Foreign-Key3689"
+      },
+      {
+        "body": "I think there’s a difference here between the bounces of the past 10 years. The deterioration is based on secular business outlooks and the credit cycle, not some black swan event or condition that can be reversed at the whim of Donald Trump. ",
+        "score": 21,
+        "author": "Captain-overpants"
+      },
+      {
+        "body": "Normally 20% down in the NDX and high 30s in the VIX should be a no-brainer buy.\n\nI almost pulled the trigger near the end of the day Friday, but I would have liked to have seen some sort of indication of lots of margin calls were contributing, which usually finishes around 2:30pm and then you get some life.\n\nAnd that didn't happen.  And it just kept dying all the way into the close.\n\nI also don't like that none of the actual CEOs of JP Morgan, BoA, or Wells Fargo ever came out and stated that their outages were due to patches although I do think it's a plausible explanation.\n\nI don't mind giving it a few days to see what happens.\n\nBut there's definitely some overhangs that aren't going away next week.",
+        "score": 16,
+        "author": "DoinIt4DaShorteez"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   }
 ];
