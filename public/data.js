@@ -1,87 +1,5 @@
 window.dailyTrends = [
   {
-    "id": "1y3j30o",
-    "title": "Nvidia just reinstated Jensen Huang 12 days after he \"resigned.\" Is this the most chaotic board in mega-cap history?",
-    "url": "https://www.reddit.com/r/investing/comments/1y3j30o/nvidia_just_reinstated_jensen_huang_12_days_after/",
-    "author": "gilli3hunna",
-    "score": 1587,
-    "selftext": "So let me get this straight.\n\nNov 12 Jensen \"voluntarily resigns\" over some code of conduct thing, and there's also this whole investigation about whether a foreign intelligence effort targeted him. Colette Kress becomes interim CEO and the stock dumps.\n\nLast Tuesday on the earnings call the board literally says they do not intend to reinstate him. Same day Jensen goes on X saying he'd be honored to come back.\n\n6 days later the board votes unanimously to bring him back. CEO, president, board seat, everything, effective immediately. They say the US government told them he's not a national security risk, so we're good apparently?\n\nAnd now NVDA is up 25% premarket lmao\n\nHonestly this is the clearest example of key man risk I've ever seen. The market basically just told you a big chunk of a \\~$3T+ company is one guy in a leather jacket.\n\nBut the board looks terrible here. You don't go from \"we're not bringing him back\" to unanimous yes in under a week unless someone was leaning on you hard. And he still has closed-door hearings with House committees on Dec 1 and 2, so I'm not convinced this is fully over.\n\nAnyone actually buying this pop or are you waiting until after the hearings?",
-    "subreddit": "investing",
-    "created_utc": 1795442699,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-23",
-    "savedAt": {
-      "_seconds": 1795456152,
-      "_nanoseconds": 608000000
-    }
-  },
-  {
-    "id": "1y3kyxh",
-    "title": "Just a reminder Jensen Huang donated over 25 million to the White House Ballroom. Trumps calling for him to be reinstated is insider trading at its finest. Disgusting.",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y3kyxh/just_a_reminder_jensen_huang_donated_over_25/",
-    "author": "TheGrandCannoli",
-    "score": 3708,
-    "selftext": "Other things of note:\n\n\\-Donated over 25 Mill to the ballroom\n\n\\-Went to a 1 Mill a plate dinner at Mar-a-lago\n\n\\-Cut the US government in on 15% of revenue with their new processors\n\n\\-People actually pay over 100k a month for truthsocial faster access\n\nThe fact people are celebrating a mysterious 30% price increase screams that this is insider trading, and corruption at its most obvious. They are throwing it in our face at this point. The stock market is once again a fucking joke, and a free money making revenue for those in power. I hate this so much. Worst part is, there will be another distraction tomorrow, another war, another bombing, another CEO scandal, and everyone will act like this is business as usual. ",
-    "subreddit": "StockMarket",
-    "created_utc": 1795447188,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Trump has like $70m in Nvidia stock... The guy really is just doing whatever it takes to pad his accounts. Nothing else matters.",
-        "score": 3,
-        "author": "whackwarrens"
-      },
-      {
-        "body": "Agreed. He would have returned eventually even without Trump intervening tbh",
-        "score": 2,
-        "author": "KorribanGaming"
-      },
-      {
-        "body": "It was sarcasm, but yes, you can subscribe to pre-release of Trump's tweets for 100k/month. https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading\n\nYou people live under the rock",
-        "score": 2,
-        "author": "actirasty1"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1y3mxrf",
-    "title": "The markets are Broken and you should be worried",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y3mxrf/the_markets_are_broken_and_you_should_be_worried/",
-    "author": "Amalekk",
-    "score": 2384,
-    "selftext": "You might be celebrating the pump this morning but ,  if you step back a little and consider the facts , this is not how healthy markets behave.\n\nA $4 trillion company should not be able to move 32% in a single day , is this a meme coin?\n\nwhats stopping it from tanking 60% in a single session on a different day?",
-    "subreddit": "StockMarket",
-    "created_utc": 1795451764,
-    "thumbnail": "https://preview.redd.it/3l07en7c3e3i1.png?width=140&height=96&auto=webp&s=bfafe9528a05521162f0717a0f79a5da6f4b61d1",
-    "top_comments": [
-      {
-        "body": "Got a friend that runs an escape room with a leaderboard.\n\nAll the high scores are pre-2020.\n\nHe had to simplify a lot of the challenges because people couldn't solve them any more, mainly the problems that required multi people coordination or multi-step reasoning.\n\n2020 definitely knocked the average IQ down by 5-10 points.",
-        "score": 8,
-        "author": "Disposable110"
-      },
-      {
-        "body": "Also a finance major,  the entire markets cooked nothing is related to the fundamentals everything is vibes feels and memes,  \n\nHuge profits to be made off listening to the wackos like Trump, elon, Jensen.   It’s so stupid.   \n\nTariffs,   Puts \n\nNo tariffs calls\n\nNvidia affair puts\nNvidia fire Jensen puts\nNvidia hire Jensen calls \n\nLike fuck this.  ",
-        "score": 4,
-        "author": "Iceisgestapo222"
-      },
-      {
-        "body": "Decency and intelligence are totally separate things, which is my entire point.\n\nArguably GWB was very easily manipulated and in some ways not the brightest president.  But he at least was civil.  He had some boundaries he respected.",
-        "score": 3,
-        "author": "Life_Climate5717"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
     "id": "1y47ick",
     "title": "Michael Burry cut 75% of his Nvidia puts and bought calls right before Monday's +31.48% jump",
     "url": "https://www.reddit.com/r/investing/comments/1y47ick/michael_burry_cut_75_of_his_nvidia_puts_and/",
@@ -110,169 +28,11 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1y3jqez",
-    "title": "Jensen Huang is back as Nvidia CEO, and the stock is up about 31% premarket",
-    "url": "https://www.reddit.com/r/investing/comments/1y3jqez/jensen_huang_is_back_as_nvidia_ceo_and_the_stock/",
-    "author": "DukascopyBank",
-    "score": 212,
-    "selftext": "Talk about a U-turn. Just six days after Nvidia's board said it had no intention of reinstating him, Jensen Huang is back as CEO, effective immediately.\n\n**What we know:**\n\n* **It was a unanimous board vote.** The board said it was satisfied with Huang's candour and leadership.\n* **The board took input from senior US government officials** and concluded that his return doesn't pose a national security risk.\n* **Harvey Jones stays on as chair,** and Colette Kress goes back to being CFO after her stint as interim CEO.\n* **The board's independent investigation will continue,** despite his return.\n\nThe stock is up about 31% premarket, after falling 14% on Friday and almost 23% last week. Even after today's jump, it's still well below its October record.\n\nSo is this the end of Nvidia's leadership crisis, or does an ongoing investigation and an SEC review of its accounting keep a cloud over the stock?",
-    "subreddit": "investing",
-    "created_utc": 1795444260,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-23",
-    "savedAt": {
-      "_seconds": 1795456154,
-      "_nanoseconds": 877000000
-    }
-  },
-  {
-    "id": "1y3l8x5",
-    "title": "Admin insiders get Jensen fired. POTUS rehires Jensen. Resolved a self-initiated crisis. Market down big, then up. Starting to be a pattern.",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y3l8x5/admin_insiders_get_jensen_fired_potus_rehires/",
-    "author": "BGID_to_the_moon",
-    "score": 373,
-    "selftext": "The process of self initiating a crisis and then resolving said crisis is starting to be a regular occurrence with this administration.\n\nRemember 2025's unprompted tariff crisis? Trump forces heavy global tariffs, dumping indexes as much as 25%. Then takes his foot of the pedal and claims credit for the resulting market rally.\n\nThen we get the 2026 war, causing oil prices and inflation to surge. Trump now has the navy actively facilitating oil transit through the middle east. Markets dump over 10% in March, then head back up.\n\nAnd now Trump's admin (Marco Rubio) leak unsubstantiated rumors about Jensen to the media, resulting in Jensen's removal as CEO. With NVDA 45% off ATH, Trump steps in amid the chaos and forces Jensen's rehiring.\n\nEvery single significant crisis we've experienced in the past 2 years that has led to significant market corrections was self-initiated. And then subsequently self-resolved afterwards. All in plain sight for the public.",
-    "subreddit": "StockMarket",
-    "created_utc": 1795447828,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "It's now called a \"Trump and dump.\"",
-        "score": 108,
-        "author": "NoSwordfish6949"
-      },
-      {
-        "body": "\"Starting to be a pattern\"\n\nStarting?!",
-        "score": 76,
-        "author": "KarmaliteNone"
-      },
-      {
-        "body": "Jenson's $25M donation to the ballroom is paying off!",
-        "score": 74,
-        "author": "jgengr"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1y35ccb",
-    "title": "S&P 500 futures rebound sharply to rise 2%, kick-starting shortened week after tech rout",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y35ccb/sp_500_futures_rebound_sharply_to_rise_2/",
-    "author": "TorukMaktoM",
-    "score": 311,
-    "selftext": "U.S. equity futures bounced on Sunday, as a shortened week on Wall Street got underway after all three major averages ended Friday in correction territory.\n\nFutures tied to the Dow Jones Industrial Average gained 673 points, or 1.4%. S&P 500 futures added 2.03%, and Nasdaq-100 futures rose 2.76%.\n\nIn Asia, South Korea’s Kospi fell 2.34% in early trading, with heavyweights Samsung Electronics and SK Hynix down about 3% and 2%, respectively. Australia’s S&P/ASX 200 was 0.11% down.\n\nHong Kong’s Hang Seng Index futures were last at 22,238 compared to the index’s last close of 22,410.8. Japan’s markets were closed for a public holiday.",
-    "subreddit": "StockMarket",
-    "created_utc": 1795396566,
-    "thumbnail": "https://external-preview.redd.it/mDPqVZmY0NMHhS4iRZkxCs_NP82-_E8XN1knWir_Vhk.jpeg?width=140&height=78&auto=webp&s=453bebfcc3e579d5b57034f4b2de6ecedcb73d1f",
-    "top_comments": [
-      {
-        "body": "Let me get out during this dead cat bounce",
-        "score": 51,
-        "author": "Fit_Context_6064"
-      },
-      {
-        "body": "These wild swings are nauseating tbh. Erodes trust in investing as a retail investor ",
-        "score": 26,
-        "author": "musafir6"
-      },
-      {
-        "body": "No they arent. Future almost always need to be read at roughly 2-3 AM EST. These early jumps mean absolutely 0",
-        "score": 21,
-        "author": "Borealisamis"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-23",
+    "dateString": "2026-11-24",
     "savedAt": {
-      "_seconds": 1795456153,
-      "_nanoseconds": 423000000
-    }
-  },
-  {
-    "id": "1y33a0c",
-    "title": "If I invested about 160-200k in the s&p 500 by the time Im 35 (28 now), wouldnt that essentially be enough to retire on at age 65?",
-    "url": "https://www.reddit.com/r/investing/comments/1y33a0c/if_i_invested_about_160200k_in_the_sp_500_by_the/",
-    "author": "Technical_Step4410",
-    "score": 240,
-    "selftext": "Im in my late 20s and Im late to the game. I’ve spent so much time worrying about needing to put 20k away per year for the rest of my life once I get a high paying job in my 30s, but when I check the math, I think this fear is largely unwarranted? \n\nLast I checked, if the s&p 500 continues as it has, then on average, my 160-200k by my mid 30s should already be enough to cover a modest retirement, so long as a recession doesnt happen by then.\n\nIm not planning on stopping my investing after that, but I see so many posts on retirement investing subreddits where people are worried about being behind, and people continue to comment that they need to overcompensate. Maybe it’s because most people want to retire in their early to mid 50s, live a very comfortable lifestyle, and maybe it’s also because people hate the jobs they work, but are paid well. \n\nI feel like people are wasting a lot of  \nTime worrying so much about it after they have saved a big chunk in their twenties, 30s and 40s and invest some moving forward. ",
-    "subreddit": "investing",
-    "created_utc": 1795390659,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I got 3.5% this year and  that was above average at my employer. Sigh ",
-        "score": 9,
-        "author": "PopcornSurgeon"
-      },
-      {
-        "body": "Right! I get about 4-5% raise each year I I consider myself lucky",
-        "score": 9,
-        "author": "afnj"
-      },
-      {
-        "body": "Yes. 7% would be about the inflation adjusted return you could expect based on historical averages.\n\n200k over 30 years becomes 1.5 million. At a 4% withdrawal that is 60k. Since we used inflation adjusted returns, that 60k is in today’s money as well. Obviously by then the numbers are bigger but the purchasing power would be equivalent.",
-        "score": 7,
-        "author": "TheCozyRuneFox"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-23",
-    "savedAt": {
-      "_seconds": 1795456154,
-      "_nanoseconds": 436000000
-    }
-  },
-  {
-    "id": "1y3j20g",
-    "title": "Jensen iz back",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y3j20g/jensen_iz_back/",
-    "author": "Plane-Try-6522",
-    "score": 154,
-    "selftext": "The AI god papa is back.\n\nThis is breaking news! The board has decided \"enough is enough\". Scared money don't make money.\n\nCongress must go!\n\n[Nvidia](https://www.cnbc.com/quotes/NVDA/) on Monday announced [Jensen Huang](https://www.cnbc.com/jensen-huang/) has been reinstated as CEO, effective immediately, sending shares of the chipmaker soaring more than 26%.",
-    "subreddit": "StockMarket",
-    "created_utc": 1795442628,
-    "thumbnail": "https://preview.redd.it/f8wm4ev8cd3i1.png?width=140&height=12&auto=webp&s=0937e9f7fca3082fdb30d90567ebc8bd3ce89aef",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-23",
-    "savedAt": {
-      "_seconds": 1795456155,
-      "_nanoseconds": 881000000
-    }
-  },
-  {
-    "id": "1y3j70w",
-    "title": "So Jensen Huang is Back ?",
-    "url": "https://www.reddit.com/r/investing/comments/1y3j70w/so_jensen_huang_is_back/",
-    "author": "misterkhanna",
-    "score": 49,
-    "selftext": "Woke up to see Nvidia skyrocket 27% from 133 to 159 levels and the only thing I am wondering is what politico technology gimmick is this which these top level executives and politicians play with us to make Billions ?\n\nAny chances that he might be fired again?\n\nThere's got to be some shame right ? A man just admitted infidelity with a Chinese spy and a bunch of tech outages follow and we are just going to forget this because Chips and D\\*\\*ks go hand in hand ?",
-    "subreddit": "investing",
-    "created_utc": 1795442985,
-    "thumbnail": "self",
-    "top_comments": [],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-23",
-    "savedAt": {
-      "_seconds": 1795456157,
-      "_nanoseconds": 434000000
+      "_seconds": 1795540908,
+      "_nanoseconds": 872000000
     }
   },
   {
@@ -304,53 +64,53 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-24",
+    "savedAt": {
+      "_seconds": 1795540911,
+      "_nanoseconds": 291000000
+    }
   },
   {
-    "id": "1y38lzc",
-    "title": "Relief Rally to SPX 7300, then 6300 bottom, then bubble continues to new ATH",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y38lzc/relief_rally_to_spx_7300_then_6300_bottom_then/",
-    "author": "Trademetry",
-    "score": 46,
-    "selftext": "Summary for those with ADD: correction not over. relief rally begins. then next legs down. bottom 6300spx and below. AI bubble not over. from bottom bull wakes up. bubble is not bursting without spx seeing 10k. \n\nI called for the regime change market correction from the top before the election, though on Reddit I officially posted a bit later here when the SPX was around 7600 and called for a soft floor at 6900: [https://www.reddit.com/r/StockMarket/comments/1xwyroi/regime\\_change\\_stock\\_market\\_flush\\_coming/](https://www.reddit.com/r/StockMarket/comments/1xwyroi/regime_change_stock_market_flush_coming/) The post was immediately downvoted, yet it played out exactly as I called, and the soft floor of 6900 was reached on Friday. If this also gets downvoted, I find another subreddit. \n\nWe are going to see a relief rally that can take the SPX back above 7300 for an attempt to reclaim 7400. A Thanksgiving week relief rally that can last until early December. December has a lot of headwinds. The Fed is raising rates, and then around OpEx, the BOJ is also raising rates. So the next floor is 6300. The BOJ raising rates always unwinds the yen carry trade, and usually speculative stocks and tech/semi stocks get wrecked around that time. I wrote a big piece on the yen carry trade when I did my projection for this year, and it's more or less playing out perfectly.\n\nJapan is set to raise 25 bps. Their last 25 bps hike dates were as follows: Aug 2024, Jan 2025, Dec 2025, June 2026, Oct 2026, and now again they are set to raise in Dec 2026. The yen carry trade can unwind leading up to it, during it, and a few weeks after, and other events will fuel it to form a bottom. I don't know what more negative news will come, but after some positive news starting this week into early December, I would expect bad news again.\n\nAnthropic options begin trading on Monday. Good news is definitely going to be AI-related during the relief rally. I would expect Anthropic to trade in triple digits again next week, and suckers will line up to buy instead of waiting to buy at a 50% discount within 3 months.\n\nIf we get a re-taste of 2018, the relief rally will last into early December, followed by two more weeks of vertical drops to bottom around Christmas, just like in the 2018 midterm Trump year where we had similar election results. Trump will likely tell the public when to buy because he will know the Fed and Treasury are ready to step in to save the market and so that he can brag later about how great he is... wait for him to say buy.\n\nThe hard floor of 6900 was reached on Friday, and Trump's press conference on Friday gave no signal to buy... in fact, it was the opposite, and there is more pain to come after the relief rally. I am hoping the relief rally gets done within 10 days and we bottom later in December rather than having an elongated relief rally into year-end to set up for another Q1 bottom. Regardless, the next floor is 6300, which is pretty much a given in the next leg down. However, the exact bottom may be somewhere between 6100 and 5800. I am not sure if 5800 will happen during regular trading hours, but if it does, it would be a quick tag and bounce.\n\nIn my opinion, the time to go shopping is when the SPX is below 6300 and the window might be small. You may not get the best entry because around that time stocks may see final big drops, but you can average down because they will come back... assuming you don't buy retail traps... buy the correct names for the next cycle. The reason for that bottom is because it's that price area near the 2024 election gap, which is also the same as the May gap. A new regime means a hard reset back to the old level before starting the next cycle. \n\nThe AI bubble is not over. After this bottom, we will see the final bull phase, which will be epic before the real bubble bursts. It's absurd to think the bubble would burst before the OpenAI IPO... it's absurd to think the bubble will burst after they have already committed billions for data centers and already dug ground, and it's absurd to think the bubble will burst while we are still in the midst of an AI race against China... they will do whatever needs to be done (print more money) to keep the engine going. Talking heads will call for a recession, a bubble burst, and peak fear, but it's not over. The SPX will see 10k before the bubble bursts. This is just some babble, but I will write a proper piece for the 2027 outlook and next best buys near year-end properly. Thank you for the attention to this matter.",
+    "id": "1y4nx93",
+    "title": "BlackRock has lost almost $2T since their last filing",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y4nx93/blackrock_has_lost_almost_2t_since_their_last/",
+    "author": "GloriousLebron",
+    "score": 328,
+    "selftext": "**$6.79 Trillion Then vs. $4.97 Trillion Today**\n\nOne of the most striking figures in the filing is the difference between the reported value at quarter-end and the value using today's prices.\n\n|Metric|Value|\n|:-|:-|\n|Q3 2026 reported value|$6.79T|\n|Value at today's prices|$4.97T|\n|Difference|\\-$1.82T|\n|Change since quarter-end|\\-7.7%|\n|Previous quarter, Q2 2026|$6.73T|\n\nThe reported value increased by approximately 0.9% compared with Q2 2026, but the current market value of those holdings has fallen significantly since September 30.\n\n",
     "subreddit": "StockMarket",
-    "created_utc": 1795406682,
-    "thumbnail": "self",
+    "created_utc": 1795552171,
+    "thumbnail": "https://preview.redd.it/5eybumuhdm3i1.png?width=140&height=101&auto=webp&s=14dbd4ebc4ce2e70690146529705d3f55d9087ec",
     "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
-    "dateString": "2026-11-23",
-    "savedAt": {
-      "_seconds": 1795456158,
-      "_nanoseconds": 375000000
-    }
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   },
   {
-    "id": "1y3l33r",
-    "title": "Is ethical investing even possible anymore?",
-    "url": "https://www.reddit.com/r/investing/comments/1y3l33r/is_ethical_investing_even_possible_anymore/",
-    "author": "TheSuppishOne",
-    "score": 84,
-    "selftext": "Honestly the blatant and brazen market manipulation as of late (NVIDIA right now is just the enormous tip of the iceberg) has really put a horrid taste in my mouth and I'd like to know if there's any way around it.  I want to figure out if it's possible to invest without entirely compromising moral integrity.  Another example was the whole thing about Spacex's IPO and everybody knew it was going to be overvalued yet anybody in the broad market funds like VT and whatever else we were \"forced\" to buy-in and then bear the burden of the collapse that next week (it's still significantly lower than its IPO price).\n\n  \nI'm just done.  I'm tired of the evil.  I want funds and companies that are actually run altruistically and may not skyrocket to the same insane degrees and PE/valuations, but I can actually sleep at night feeling like I'm not partially funding malevolent narcissists and shadow government activities.  Anybody know of truly good companies?",
+    "id": "1y55zm3",
+    "title": "Nasdaq-100 has in the premarket now erased the bounce from returning Nvidia CEO Jensen. -WSJ",
+    "url": "https://www.reddit.com/r/investing/comments/1y55zm3/nasdaq100_has_in_the_premarket_now_erased_the/",
+    "author": "Lord___Rictor",
+    "score": 231,
+    "selftext": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026?st=dwo2Yr\n\nNo man can stem the avalanche. \n\nJensen's return didn't fix anything. If anything, it's worsening the problem by far. Investigations are going to continue. People feel they can see open corruption and government meddling in company affairs. \n\nThe CEO return reeks of desperation to continue the bubble. \n\nThoughts?",
     "subreddit": "investing",
-    "created_utc": 1795447466,
+    "created_utc": 1795609201,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Idiots always say things like this when anyone has anything critical to say about the market. They can’t fathom that people actually have a conscience and morals instead of just playing the market…",
-        "score": 9,
-        "author": "slinkysmooth"
+        "body": "Thousands of new baggies have been born",
+        "score": 25,
+        "author": "SvanteArrheniusAMA"
       },
       {
-        "body": "You can argue that Adam Smith, John Locke, Karl Marx, Jesus, me and other were wrong and \"rating seeking doesn't mean what they thought it does\", if you want.\n\nMy point is that since the start of everything regarding passive income from charging rent/tax, interest rates and shareholding the ownership of a business where one does not work in the business' production itseld and not live in the community where the business cause impact (such as ambiental impact), there have always been thinkers, fields of knowledge and studies as well as and individuals who considered it all unethical.",
-        "score": 3,
-        "author": "YourFuture2000"
+        "body": "Without good returns?!?   Nah, there are returns, and this is before all these companies hike their prices. \n\nThe AI playbook is identical to the cloud playbook. \n\nBuild at a loss, as fast as you can, bleed to be first then hike prices on mass adoption. ",
+        "score": 10,
+        "author": "DefiantDonut7"
       },
       {
-        "body": "I mean Nvidia’s CEO cheating on his wife is probably one of the milder things the elites have done\n\nPlenty of Epstein Islanders are walking free and I’m sure we’re all invested into their companies unknowingly",
-        "score": 3,
-        "author": "Hoyle33"
+        "body": "Pre-Thanksgiving .....all the big dogs are on vacation now so volatility is more common on low volumes.",
+        "score": 10,
+        "author": "PolitzaniaKing"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -358,40 +118,35 @@ window.dailyTrends = [
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1y35s69",
-    "title": "I am financially illiterate and meeting with a financial advisor in a couple weeks.",
-    "url": "https://www.reddit.com/r/investing/comments/1y35s69/i_am_financially_illiterate_and_meeting_with_a/",
-    "author": "KlutzyHyena6193",
-    "score": 57,
-    "selftext": "I’m a little on the older side to be starting now but I have $5000 to invest. I have spoken to the man before and he suggests an index fund. Like I said I really do t know much and am going to crash course in the mean time, but I just see everywhere that the stock market is an AI bubble and completely irrational. Are there real alternatives I might want to ask about that I am unaware of?",
+    "id": "1y4pv8c",
+    "title": "Huang Apologizes to Nvidia Staff, Says He’s in Daily Therapy",
+    "url": "https://www.reddit.com/r/investing/comments/1y4pv8c/huang_apologizes_to_nvidia_staff_says_hes_in/",
+    "author": "confused_boner",
+    "score": 217,
+    "selftext": "Title: Huang Apologizes to Nvidia Staff, Says He’s in Daily Therapy\n\nAuthor: Ian King, Edward Ludlow, and Riley Griffin\n\nPublished: 2026-11-24\n\nSource Link: [https://www.bloomberg.com/news/articles/2026-11-24/nvidia-s-huang-to-host-all-hands-meeting-a-day-after-his-return](https://www.bloomberg.com/news/articles/2026-11-24/nvidia-s-huang-to-host-all-hands-meeting-a-day-after-his-return)\n\n\n\n\\---\n\n\n\nJensen Huang struck a somber tone a day after his reinstatement as Nvidia Corp.’s chief executive officer, apologizing to employees during an all-hands meeting and sharing that he’d been in daily therapy to address the behavior that led to his brief ouster from the top job.\n\n\n\nIn his remarks on Tuesday, according to people familiar with the matter, Huang insisted that he wasn’t reinstated because he’s a “tech bro” who’s above the law. He emphasized that the company’s board would hold him to account going forward, said the people, who asked not to be identified describing the content of a private internal meeting.\n\n\n\nSpeaking at the company’s Santa Clara, California-headquarters, Huang told staff that he had let them down and that it was the “hardest company meeting” he’d ever done, the people said. He acknowledged violating Nvidia’s code of conduct and said that he was grateful to have a second chance to lead the company he co-founded three decades ago.\n\n\n\nThe harder meeting was with his wife, he said, according to the people. He said he was in therapy daily, the people added.\n\n\n\nThe co-founder of the world’s largest chipmaker spoke to employees less than a week after a similar all-hands gathering went ahead without him as the company prepared at that moment to find a successor. Huang had just been forced out as CEO following revelations he’d had an affair with a subordinate and another with an alleged Chinese spy.\n\n\n\nHuang was reinstated by the Nvidia board on Monday in a stunning reversal after President Donald Trump intervened on the chip magnate’s behalf. Huang said that board members didn’t bring him back because the highest-levels of government wanted them to do so. The board evaluated the facts and were assured that there was no threat to national security, he told his audience.\n\n\n\nTrump loves Nvidia, Huang said, according to the people. “He is my president,” he added. “I am in service of making our president - our country - successful.” He added that Nvidia is apolitical and would do the same for whoever the next president is.\n\n\n\nShortly before Huang addressed employees, US Attorney General Todd Blanche told reporters in Washington that Nvidia was a “good corporate citizen” but declined to answer questions about whether the Justice Department is scrutinizing the circumstances that led to Huang’s temporary exit as CEO.\n\n\n\n“Obviously, if Nvidia was the target or was subject to some criminal investigation or they were obstructing or thwarting our investigation, then that wouldn’t be the message that the president is saying to the American people,” Blanche said.\n\n\n\nTrump’s decision to intrude in the company’s internal business has drawn objections in Washington from lawmakers in both parties. Republican Senator Dave McCormick warned in a Bloomberg Television interview on Tuesday that the president’s intervention could create a “slippery slope” in corporate governance.\n\n\n\nHuang’s sudden reinstatement by the board on Monday came as a surprise to most of Nvidia’s senior leaders, who had used last week’s event to show confidence in the company’s ability to thrive without him.\n\n\n\nAt the all-hands meeting, Huang thanked Nvidia Chief Financial Officer Colette Kress for leading the company during the nearly two-week period that he was gone as CEO, said the people.\n\n\n\nHuang told staff he doesn’t like traditional succession planning, according to the people. He doesn’t want executives fighting to position themselves for the top job. Instead, he said he wants to keep the group of leaders at the same level, focused on their areas expertise.\n\n\n\nVideos shared by employees on Monday showed Huang returning to the company’s headquarters to applause and cheers from staff. In a brief address in one of the building’s entrance lobbies, he told staff he “will do a better job.”\n\n\n\nAfter rallying almost 31% on the day of his comeback, Nvidia shares were down nearly 6% in Tuesday trading. The company’s valuation is down close to $2 trillion from its peak in October.\n\n\n\nAt Tuesday’s meeting, Huang didn’t take employee questions, the people said.",
     "subreddit": "investing",
-    "created_utc": 1795397942,
+    "created_utc": 1795556891,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "advisor gonna tell him the same thing as chatgpt then take a cut",
-        "score": 30,
-        "author": "xxwww"
+        "body": "Therapy is the standard cover-your-ass method to signal that \"things will definitely be different this time\".",
+        "score": 35,
+        "author": "ZealousGoblin"
       },
       {
-        "body": "Yes. Because investing in easy. Here you go: buy VT. The end.",
-        "score": 11,
-        "author": "UpDown"
+        "body": "Lol there's no way this fucking guy is in therapy every day.",
+        "score": 16,
+        "author": "Khantahr"
       },
       {
-        "body": "Not worth the time to bill the cut on $5k",
-        "score": 9,
-        "author": "kitethrulife"
+        "body": "Famously never held accountable and totally healthy Jimmy Hoffa",
+        "score": 6,
+        "author": "SlapNuts007"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-23",
-    "savedAt": {
-      "_seconds": 1795456156,
-      "_nanoseconds": 534000000
-    }
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
     "id": "1y4b2l7",
@@ -422,6 +177,242 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-24",
+    "savedAt": {
+      "_seconds": 1795540913,
+      "_nanoseconds": 53000000
+    }
+  },
+  {
+    "id": "1y568k2",
+    "title": "America has turned to state-directed capitalism as it chases temporary gains in the financial markets.",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y568k2/america_has_turned_to_statedirected_capitalism_as/",
+    "author": "Lord___Rictor",
+    "score": 195,
+    "selftext": "Amazing how many top US government officials were involved in this situation, from the president and vice president on down. Corrupt and bizarre to say the least. \n\nNvidia's board said Monday when it reinstated him that its investigation into Huang's behavior for which it retained law firm Wachtell Lipton, would continue. At the same time, the board noted that it had been assured at \"senior levels of the United States government\" that Huang's return didn't pose a national security threat.\n\nDirector of National Intelligence Jay Clayton was among the officials who spoke with Nvidia board members prior to Huang's reinstatement and advised them to continue the internal investigation, people familiar with those discussions said. One of the people said Clayton didn't take a position on whether Huang should be reinstated but advised continuing the probe for the purposes of good corporate governance and to establish a shared set of facts.",
+    "subreddit": "StockMarket",
+    "created_utc": 1795609994,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "State-directed capitalism is literally communism. “Centrally managed”",
+        "score": 35,
+        "author": "SophonParticle"
+      },
+      {
+        "body": "Aber Biden war doch der Kommunist.... was ist Trump dann ? Stalin?",
+        "score": 13,
+        "author": "javamo2"
+      },
+      {
+        "body": "It's literally not. Communism requires socialism, which isn't currently happening.\n\nState directed capitalism is what it says on the box, and is roughly China's current state.",
+        "score": 11,
+        "author": "throwawayPzaFm"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y4dvqc",
+    "title": "New sweeping tariffs on China to be announced this week",
+    "url": "https://www.reddit.com/r/investing/comments/1y4dvqc/new_sweeping_tariffs_on_china_to_be_announced/",
+    "author": "Zealousideal-Row6302",
+    "score": 125,
+    "selftext": "[https://www.investing.com/news/stock-market-news/white-house-prepares-sweeping-new-tariffs-on-china-eu-and-dozens-of-nations-5048285](https://www.investing.com/news/stock-market-news/white-house-prepares-sweeping-new-tariffs-on-china-eu-and-dozens-of-nations-5048285)",
+    "subreddit": "investing",
+    "created_utc": 1795528538,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Knowing the formula isn't enough, you also need to know the timing of each step, and that's where the fat orange fuck wins.",
+        "score": 23,
+        "author": "Khantahr"
+      },
+      {
+        "body": "a public display of the iq level of the avg republican .   so if china starts doing suicide bomb attacks the US should do same .\n\nno wonder the majority of republicans states are leeching money from the rest of us . ",
+        "score": 14,
+        "author": "whitephantomzx"
+      },
+      {
+        "body": "China pays for the tariffs of course, that's what I heard",
+        "score": 10,
+        "author": "b1gb0n312"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y4ydyd",
+    "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y4ydyd/softbank_drops_15_as_wall_street_ai_selloff/",
+    "author": "TorukMaktoM",
+    "score": 84,
+    "selftext": "Asian technology stocks tumbled Wednesday, led by a rout in Japanese semiconductor stocks, as renewed concerns over the artificial intelligence trade rattles investors following an overnight sell-off on Wall Street. Japanese semiconductor stocks tied to the global AI supply chain were among the hardest hit. Advantest a supplier of chip-testing equipment to Nvidia, plunged 13%. Tokyo Electron which supplies chipmaking equipment to Nvidia’s manufacturing partner TSMC, slumped 12.82%.\n\nTechnology-focused investor SoftBank Group shed 15%, while semiconductor inspection equipment maker Lasertec lost 11.23%. Other Japanese chip stocks also came under heavy selling pressure, with Disco Corporation falling 9.41% and Renesas Electronics losing 9%.",
+    "subreddit": "StockMarket",
+    "created_utc": 1795581524,
+    "thumbnail": "https://external-preview.redd.it/m4Mzm0DuWm-6PbHXhknF9lEQqX1fl64cm-AtuwJLdFs.jpeg?width=140&height=78&auto=webp&s=4815f7ff461e6da260d6addffb1a7a93d1771b6e",
+    "top_comments": [
+      {
+        "body": "Dang\n\nIf only the president calling the board of nvidia worked on the rest of the world the way it works on the average low to mid income Robinhood having podcast bro that made a few thousand on tesla, nvidia, and palantir \n\nDamn",
+        "score": 11,
+        "author": "ktaktb"
+      },
+      {
+        "body": "I am Taiwanese, and I am currently laughing at the wealthy individuals and high earners who used leverage to speculate in the stock market. I am also mocking Taiwan’s Central Bank for its persistent refusal to raise interest rates—a stance that has fueled a culture of borrowing to invest in stocks while completely ignoring the fact that the general public is struggling with inflation. These people are now facing forced liquidation and default.",
+        "score": 8,
+        "author": "tang-tw"
+      },
+      {
+        "body": "Rolf Bulk, an analyst at The Futurum Group, said the renewed sell-off largely reflects lingering concerns over the sustainability of AI spending beyond 2027, with Huang’s return doing little to fundamentally alter the outlook. “There are still concerns on the sustainability of AI demand, ability of the sector to finance the build-out, and questions around power supply,” Bulk said, adding that Japanese chip equipment makers were particularly vulnerable to a potential slowdown in AI infrastructure spending, given the highly cyclical nature of their business. Spending on wafer fabrication equipment could decline materially if AI demand slows from 2028 onward, Bulk said. South Korean memory chipmakers, by contrast, could be relatively insulated due to supply shortages. The country’s memory chip giants Samsung Electronics and SK Hynix, however, plunged more than 8%. The two are key suppliers of the high-bandwidth memory chips used in AI accelerators. Other South Korean technology stocks also traded lower, with LG Innotek shedding 5%. While the memory industry is also cyclical, Bulk expects shortages to intensify over the next two years, making a return to equilibrium between supply and demand in 2028 unlikely.\n\nIn Taiwan, shares TSMC tumbled 7%, while Hon Hai Precision Industry plunged 8.6%. Electronic components maker Foxconn Technology shed 4.93%.",
+        "score": 3,
+        "author": "TorukMaktoM"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y49i4s",
+    "title": "Gold’s biggest crashes in history and time to recover...",
+    "url": "https://www.reddit.com/r/investing/comments/1y49i4s/golds_biggest_crashes_in_history_and_time_to/",
+    "author": "FifthWaveThinker",
+    "score": 77,
+    "selftext": "1974:    Crashed 48%, took 3.6 years to recover.\n\n1980: Crashed 70%, took 29 years to recover.\n\n2008:  Crashed 33%, took 1 year to recover.\n\n2011:    Crashed 45%, took 9 years to recover.\n\n2020:  Crashed 22%, took 0.5 years to recover.\n\n2022:  Crashed 21%, took just over 1 year to recover.\n\n2026:  Crashed 37%, recovery time…???\n\n This time, how long do you think it will take?",
+    "subreddit": "investing",
+    "created_utc": 1795514575,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1y585p9",
+    "title": "Inflation in October comes in above expectations as the Fed continues to fail at half their job for six years straight",
+    "url": "https://www.reddit.com/r/investing/comments/1y585p9/inflation_in_october_comes_in_above_expectations/",
+    "author": "Lord___Rictor",
+    "score": 53,
+    "selftext": "The personal consumption expenditures price index rose by a seasonally adjusted 3.8% annual rate in October, nearly twice the Federal Reserve’s target.\n\nExcluding food and energy, so-called core PCE was 3.3%, the Commerce Department reported Wednesday.\n\nThe headline number was in line with the Dow Jones consensus estimate, while core PCE was 0.1 percentage point above the forecast.\n\nOf course, they're really not failing, they've been goosing asset prices for years to the benefit of the wealthy.",
+    "subreddit": "investing",
+    "created_utc": 1795615494,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "They would have actually been successful if not for a government starting wars and putting on tariffs. Tough to balance that volatility. ",
+        "score": 61,
+        "author": "mattw08"
+      },
+      {
+        "body": "In fairness to the Fed, it’s difficult to win when your two goals are opposed to each other, as theirs are. They’ve picked keeping employment up over reigning in inflation, but the cracks are growing regardless",
+        "score": 21,
+        "author": "Qtipsrus"
+      },
+      {
+        "body": "Remember the dream of that soft landing before the great negotiator started his reign. ",
+        "score": 12,
+        "author": "slumdungo"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y4eopr",
+    "title": "This sell-off and volatility feels like late 2018.",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y4eopr/this_selloff_and_volatility_feels_like_late_2018/",
+    "author": "mapoftasmania",
+    "score": 47,
+    "selftext": "Key Drivers of the Late-2018 Selloff\n\n* **Federal Reserve Rate Hikes:** The Fed raised interest rates four times in 2018 and signaled continued tightening, sparking fears that higher borrowing costs would slow the economy. \n* **U.S.-China Trade War:** Escalating tariffs and trade disputes weighed on business confidence, supply chains, and global growth expectations. \n* **Slowing Growth and Peaking Earnings:** Investors grew concerned that global economic growth was cooling, housing activity was stalling, and corporate profit growth had peaked after the boost from tax cuts. \n* **Plunging Oil Prices and Tech Weakness:** Crude oil tumbled sharply in late 2018 amid oversupply worries, while major technology stocks faced regulatory scrutiny and valuation pressure. \n* **Political and Market Friction:** Uncertainty around Brexit, European politics, a late-year U.S. government shutdown threat, and algorithmic selling amplified the drop in December. \n\nThe concerns sound familiar don't they? Just different reasons for some. And the VIX is behaving exactly like it did back then. The sell-off lasted until mid-Dec and the Fed decision, then we had a massive bull market for the next 15 months until COVID wrecked everything. The bull market was simply because investors concerns turned out to be over-blown. The under-lying economy was strong enough to withstand the rate rises. Thoughts?",
+    "subreddit": "StockMarket",
+    "created_utc": 1795530595,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "So should we expect a man made crisis that necessitates government flooding economy with more cash? ",
+        "score": 15,
+        "author": "Great-Guidance-6371"
+      },
+      {
+        "body": "Valuations are/were not abnormally inflated in this cycle. ",
+        "score": 9,
+        "author": "Ecstatic-Score2844"
+      },
+      {
+        "body": "The difference from late 2018 is the starting point. That selloff began from high but not extreme valuations and it ended when the Fed pivoted. This one starts with valuation and leverage at records, so the same percentage drop does more damage on the way down. The vol pattern rhymes. The balance sheet underneath does not.",
+        "score": 9,
+        "author": "sneakoo"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y58fwx",
+    "title": "Cooked?",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y58fwx/cooked/",
+    "author": "JordanBelfortJounior",
+    "score": 42,
+    "selftext": "Got roasted in a post yesterday. Caveat being that I'm more of a swing trader and luckily still around 30% green on the year, although my heart goes out to all those being discipline and holding stocks only to go massively red on the year. \n\nThis is the current situation, like many others, getting absolutely drilled. The portfolio doesn't suggest this but im actually more of an AI skeptic than most. I'd like to have you guys scrutinize the portfolio.\n\n  \nMy highest conviction would probably be GOOGL and ASML. Lowest would be AMD and NFLX. \n\nWhat would you trim and add?",
+    "subreddit": "StockMarket",
+    "created_utc": 1795616235,
+    "thumbnail": "https://preview.redd.it/a4dachvknr3i1.png?width=140&height=140&crop=1%3A1%2Csmart&auto=webp&s=1ead6d8c8ff360ff338cfcfdc0fa53b7227a0be2",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+  },
+  {
+    "id": "1y4cfiu",
+    "title": "All 11 of Nvidia's biggest 1-day gains before Nov 23 were higher a month later",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y4cfiu/all_11_of_nvidias_biggest_1day_gains_before_nov/",
+    "author": "dagilisek",
+    "score": 39,
+    "selftext": "Nov 23 was Nvidia's biggest one-day gain in 10yrs, 31.5%. The 11 biggest before it were all higher 20 trading days later, anywhere from 2.7% to 31.9% so fading this one means going against 10yrs of the stock's own history. The only thing different this time is the investigation into Huang and the company's own filing says it will run to its conclusion.\n\nI think the history wins. The investigation is the only argument for fading it and nobody knows how it ends.",
+    "subreddit": "StockMarket",
+    "created_utc": 1795524438,
+    "thumbnail": "https://preview.redd.it/rv7ams004k3i1.png?width=140&height=76&auto=webp&s=ec10a79a798836e60a794fd1d48e562697505704",
+    "top_comments": [
+      {
+        "body": "well christmas might be good\n\nor\n\nbad",
+        "score": 37,
+        "author": "Kinu4U"
+      },
+      {
+        "body": "Yes let’s just ignore the affairs and the SEC investigations. Anyone who didn’t sell yesterday is in for a rude awakening.",
+        "score": 19,
+        "author": "fizzyknickers69"
+      },
+      {
+        "body": "Traditional chinese writing reads right to left. Chart reads right to left. Chinese spy confirmed. Freak out and sell everything",
+        "score": 7,
+        "author": "lizzzardcat"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y4r3kv",
+    "title": "Quant Funds Are Having a Hard Time Keeping Up With This Market",
+    "url": "https://www.reddit.com/r/investing/comments/1y4r3kv/quant_funds_are_having_a_hard_time_keeping_up/",
+    "author": "confused_boner",
+    "score": 36,
+    "selftext": "Title: Quant Funds Are Having a Hard Time Keeping Up With This Market\n\nAuthor: Natalia Kniazhevich\n\nPublished: 2026-11-24\n\nSource Link: [https://www.bloomberg.com/news/articles/2026-11-24/quant-funds-are-having-a-hard-time-keeping-up-with-this-market](https://www.bloomberg.com/news/articles/2026-11-24/quant-funds-are-having-a-hard-time-keeping-up-with-this-market)\n\n\n\n\\---\n\n\n\nTakeaways by Bloomberg\n\n\\- The models tracked by systematic funds have yet to signal that it’s time to ease up on selling, according to estimates compiled by Goldman Sachs Group Inc.’s trading desk.\n\n\\- CTAs are expected to unload $68 billion worth of global equities in the next five days, on par with the five days through Friday when stocks clocked their worst week since the Covid-19 pandemic.\n\n\\- Elevated volatility is weighing on volatility-control funds, which have shed about $400 billion of stocks since mid-October, potentially adding another source of selling pressure.\n\n\n\n\\---\n\n\n\nThe stock market narrative is shifting so quickly, even the so-called fast money can’t keep up.\n\n\n\nThe models these systematic funds track have yet to signal that it’s time to ease up on selling, estimates compiled by Goldman Sachs Group Inc.’s trading desk show, even as the moods in equities have improved since last week following a surprise return of Jensen Huang to the helm of Nvidia Corp.\n\n\n\nOnce commodity-trading advisors, which take their cues from price trends rather than fundamentals, start selling, an ensuing feedback loop tends to drive stock exposure lower until certain thresholds are met. CTAs are expected to unload $68 billion worth of global equities in the next five days, the estimates show, on par with the five days through Friday when stocks clocked their worst week since the Covid-19 pandemic.\n\n\n\nThe neck-breaking price swings in global stocks are becoming too hard to stomach even for the highly liquid, highly tactical group known for making bold moves. And signs of more persistent selling in the group threaten to undermine the stock market’s rebound attempt and exacerbate volatility.\n\n\n\n“With the Nasdaq 100 seeing moves of 3% to 6% over each of the past four days, usually in different directions, it makes it almost impossible for fast money managers to keep up,” said Matt Maley, chief market strategist at Miller Tabak + Co.\n\n\n\nA relief rally in global stocks on Monday gave way to renewed worries around the durability of the AI trade the next day, pushing the S&P 500 and Nasdaq 100 on track for their worst November since the global financial crisis. CTAs are short both indexes, with positioning sitting in the bottom-fourth percentile of readings going back a year ago, data compiled by Barclays Plc show.\n\n\n\n“For most strategies, higher volatility simply means lower risk deployment, and ultimately we have seen that,” Alex Altmann, global head of equities tactical strategies at Barclays, said by email. “CTA positioning is short equities because that is what the prevailing trend has been for the past month, but the notional is not large because that trend is arguably still nascent and extremely volatile.”\n\n\n\nTo some, the skepticism could be seen as welcome news if it prevents the market from bouncing back up too quickly. Defensive positioning among the so-called rules-based funds can help set the stage for a rebound, as it happened in March.\n\n\n\nTiming the recovery is easier said than done, but at least for CTAs, certain signposts exist. Goldman traders said that 7,560, 7,527 and 7,117 are the key S&P 500 levels for short-, medium- and long-term trend signals, respectively. The 500-member gauge fell 0.5% to 7,201.09 on Tuesday, widening its decline from last month’s record to 7.9%.\n\n\n\nRead: Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Floated\n\n\n\nElevated volatility is also weighing on another group of systematic investors: volatility-control funds. These strategies typically reduce their stock exposure as price swings widen, potentially adding another source of selling pressure. Vol-control funds have shed about $400 billion of stocks since mid-October, clocking the largest - and fastest - reduction since President Donald Trump imposed global tariffs in 2025.\n\n\n\nA measure of 30-day realized volatility in the S&P 500 has risen for seven consecutive weeks to the highest level since May 2025. The Cboe Volatility Index, which measures implied volatility, closed near 26.6 after spiking above 35 last week.\n\n\n\n“Arguably this offers a much ‘cleaner slate’ for risk to be rebuilt within these strategies simply by virtue of the fact that exposure levels to stocks are that much lower,” Altmann said.",
+    "subreddit": "investing",
+    "created_utc": 1795560003,
+    "thumbnail": "self",
+    "top_comments": [],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   }
 ];
