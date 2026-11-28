@@ -28,79 +28,105 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-27",
+    "savedAt": {
+      "_seconds": 1795796833,
+      "_nanoseconds": 276000000
+    }
+  },
+  {
+    "id": "1y6wwtm",
+    "title": "Exclusive: Banks look to dump AI debt",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y6wwtm/exclusive_banks_look_to_dump_ai_debt/",
+    "author": "Cool_Contest4905",
+    "score": 406,
+    "selftext": "From the article: “Banks are increasingly shopping around their AI portfolios as they look to offload some of their exposure to AI-related debt. Banks including Citi and JPMorgan are marketing portfolios of loans, people familiar with the deals tell me, to manage risk or, in some cases, ready themselves to take on even more.    \nIn some instances, banks are pitching structures that would keep the loans on their balance sheets while shifting the risk of losses to investors. That financial engineering tool, known as synthetic risk transfer, has been a popular way for banks to move risk off their books while maintaining close relationships with the corporate borrowers”. \n\n“…it’s notable that banks lending into the buildout are joining hyperscalers in trying to push AI obligations off their books. There’s been so much AI-related debt issuance, it’s crowded out Treasurys and some investors are starting to feel tapped out. Others say they are offloading risk so they can lend more, not to pull back. But either way, the risk isn’t so much disappearing as moving somewhere harder to see”.",
+    "subreddit": "StockMarket",
+    "created_utc": 1795795620,
+    "thumbnail": "https://external-preview.redd.it/5LYLyvPXPmCpD1Btxcfx2VyQHAiL94gcCJEiuD2hvK4.jpeg?width=140&height=73&auto=webp&s=060afb9192b65f0eceb02144978f15b303a5d8a3",
+    "top_comments": [
+      {
+        "body": "Why should there be?\n\nWhy do we bail any companies that aren't relied on by the public?\n\nHad GM, Chrysler gone under in 2008 we'd have been far better off.\n\nLook what they did to their work force anyways.",
+        "score": 9,
+        "author": "Fine-Inflation-2140"
+      },
+      {
+        "body": "Because we privatize gains, but socialize losses, then lie and call it “capitalism”.",
+        "score": 8,
+        "author": "Lurkingandsearching"
+      },
+      {
+        "body": "> Not even something like “anonymous sources within several top banks”?\n\nThat is exactly what the article says here:\n\n> Banks including Citi and JPMorgan are marketing portfolios of loans, people familiar with the deals tell me\n\nAnd anonymous sources is the best you will get considering these deals are not public information",
+        "score": 6,
+        "author": "DashingDino"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1y5gjjx",
-    "title": "Nvidia at Risk of Rating Cut by S&P Over Governance Concerns",
-    "url": "https://www.reddit.com/r/investing/comments/1y5gjjx/nvidia_at_risk_of_rating_cut_by_sp_over/",
-    "author": "confused_boner",
-    "score": 151,
-    "selftext": "Title: Nvidia at Risk of Rating Cut by S&P Over Governance Concerns\n\nAuthor: Davide Barbuscia\n\nPublished: 2026-11-25\n\nSource Link: [https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries](https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries)\n\n\n\n\\---\n\n\n\nS&P Global Ratings is looking at cutting Nvidia Corp.’s credit by one notch, citing concerns over the company’s management and governance following the departure, and then the return, of Chief Executive Officer Jensen Huang.\n\n\n\nThe rating agency said it may cut Nvidia’s AA rating, the third-highest level, after a 90-day review, known putting the company on CreditWatch with negative implications.\n\n\n\n“We expect the potential downgrade to be limited to one notch, unless investigations or disclosures lead us to believe NVIDIA’s reputation or future business prospects have been harmed,” it said in a statement on Wednesday.Title: Nvidia at Risk of Rating Cut by S&P Over Governance Concerns\n\nAuthor: Davide Barbuscia\n\nPublished: 2026-11-25\n\nSource Link: [https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries](https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries)\n\n\n\n\\---\n\n\n\nS&P Global Ratings is looking at cutting Nvidia Corp.’s credit by one notch, citing concerns over the company’s management and governance following the departure, and then the return, of Chief Executive Officer Jensen Huang.\n\n\n\nThe rating agency said it may cut Nvidia’s AA rating, the third-highest level, after a 90-day review, known putting the company on CreditWatch with negative implications.\n\n\n\n“We expect the potential downgrade to be limited to one notch, unless investigations or disclosures lead us to believe NVIDIA’s reputation or future business prospects have been harmed,” it said in a statement on Wednesday.",
+    "id": "1y6wcfg",
+    "title": "Not good for Jensen Huang and Nvidia",
+    "url": "https://www.reddit.com/r/investing/comments/1y6wcfg/not_good_for_jensen_huang_and_nvidia/",
+    "author": "Background-Day-4957",
+    "score": 284,
+    "selftext": "A pair of Chinese firms installed Nvidia Corp.'s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surrounding the US chipmaker.\n\nhttps://finance.yahoo.com/technology/articles/nvidia-blackwell-chips-turn-china-114546617.html?fbclid=IwZnRzaAV2hGhleHRuA2FlbQIxMQBwZG9mBWZkaWQWUTCgysCJ\\_-evTCx553uFJ1P2Nfy7tXNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR\\_ovaUg\\_gpP7Yw2BvZnxEBpIdsdf4Ci7WqeIEP3Gx1Pc\\_wzzyd8bE9Iyfb7Gw\\_aem\\_gO7BKK\\_0yTp3yW\\_JQxeADA&guccounter=1",
     "subreddit": "investing",
-    "created_utc": 1795635286,
+    "created_utc": 1795794210,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "A one-notch downgrade wouldn't be the end of the world for Nvidia, but the governance concerns are worth watching. The last thing investors need is more uncertainty around management.",
-        "score": 62,
-        "author": "RalphKiel"
+        "body": "No this is why “know your customer” rules exist in export control.  Nvidia has a duty to know who the end user is, how they will use them, and where they are actually going.  They can’t just say “we didn’t know”, because they are supposed to know, and if they can’t verify, who, what and where of the transaction then they are not supposed to sell.",
+        "score": 10,
+        "author": "discostu52"
       },
       {
-        "body": "Lmao to the AI bot comments in here.",
-        "score": 14,
-        "author": "divulgingwords"
+        "body": "I would generally agree if these were consumer grade products, but a Blackwell is 10s of thousands each.",
+        "score": 7,
+        "author": "discostu52"
       },
       {
-        "body": "You don't think sketchy management and governance could create problems down the road?  Ie create a risk... ",
-        "score": 14,
-        "author": "myfotos"
+        "body": "Ah, the \"oopsie daisy\" defence.",
+        "score": 3,
+        "author": "574859434F4E56455254"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-26",
-    "savedAt": {
-      "_seconds": 1795711294,
-      "_nanoseconds": 196000000
-    }
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1y5n2kx",
-    "title": "Looking at 120 years of market history, why have recovery times gotten so much shorter?",
-    "url": "https://www.reddit.com/r/investing/comments/1y5n2kx/looking_at_120_years_of_market_history_why_have/",
-    "author": "Creative_Pen7789",
-    "score": 70,
-    "selftext": "I came across an interesting historical chart of the Dow Jones Industrial Average from 1896 to 2016. What caught my attention wasn't just the magnitude of the crashes, but the amount of time it took the market to recover.\n\nThe chart highlights four major recovery periods:\n\n* 19 years around the early 1900s.\n* 25 years following the 1929 crash and Great Depression.\n* 16 years following the market stagnation of the late 1960s and 1970s.\n* 6 years following the 2000–2002 dot-com crash.\n\nThe trend is pretty remarkable. Recovery periods that once took decades have become considerably shorter.\n\nIt must have taken an incredible amount of faith to stay invested through some of these periods. Imagine putting your savings into the market and waiting 25 years just to recover your losses. I wonder how many ordinary investors actually managed to stay invested through that entire period.\n\nBut I also think it's important to consider how fundamentally different investing was back then.\n\nFor much of the early 20th century, investing was much more centered around individual stock picking. Diversification through investment trusts and mutual funds did exist, but it wasn't nearly as accessible or commonplace as it is today. Index funds for individual investors didn't arrive until 1976.\n\nToday, someone can open a brokerage account and instantly own thousands of companies through a low-cost index fund. We also have:\n\n* 401(k)s and automatic payroll contributions.\n* Low-cost index funds and ETFs.\n* Globally diversified portfolios.\n* Algorithmic and high-frequency trading.\n* Instant access to financial information and markets.\n\nInvesting has gone from something that often required considerable capital, research, and active management to something virtually anyone can participate in with a few dollars.\n\nI wonder how much these structural changes have contributed to shorter recovery periods, and whether today's investors are actually better equipped to withstand prolonged downturns.\n\nA few questions I'd be interested in discussing:\n\n1. How much of the reduction in recovery times is attributable to changes in the economy and financial markets versus changes in how people invest?\n2. Did the widespread adoption of diversified mutual funds, index funds, and retirement accounts fundamentally change how investors behave during crashes?\n3. Would an average investor in 1929 have had a realistic chance of surviving a 25-year recovery, particularly if they held individual stocks rather than a diversified portfolio?\n4. Are today's investors better equipped to handle another prolonged bear market, or has instant access to our portfolios and the ability to trade at any moment made us more susceptible to panic selling?\n5. Could we realistically see another 16–25 year recovery period, or have structural changes in investing made that less likely?\n\nIt's easy to look at a historical chart and say \"just stay invested.\" But I suspect that living through some of these periods was an entirely different experience. And I wonder whether today's investors truly appreciate how much the investing landscape has changed.",
+    "id": "1y71cne",
+    "title": "Does anyone really lives from the 4% rule?",
+    "url": "https://www.reddit.com/r/investing/comments/1y71cne/does_anyone_really_lives_from_the_4_rule/",
+    "author": "TioDardi",
+    "score": 161,
+    "selftext": "Hey there, been investing since 6 years now and I always wonder if anyone is living of the 4% rule or if the grind continues even then you have achieved your financial goals.\n\nI don’t really know what to expect 10+ years from now or even what to do with 500-1M when I finish.\n\nAny advice ?",
     "subreddit": "investing",
-    "created_utc": 1795652325,
+    "created_utc": 1795806539,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "May be investing has become more a lot more accessible the last few decades. Due to lack of education and readily-available resources, back then, people might have been more likely to panic sell if the markets went down. Now, \"buy the dip\" and \"buy low, sell high\" has become a more common mantra",
+        "body": "Die with Zero is a simplistic slogan to sell a book. Practically speaking, you don’t know when you’ll die so you plan for 100. You die at 85 and leave money for heirs. The idea is to get people comfortable spending a little more. My mom wants to go on a long cruise but they’ve been savers all their life. I’ve shown them they can spend an obscene amount but it’s hard to change at 80. ",
         "score": 7,
-        "author": "AccelerationFinish"
+        "author": "RabbitContrarian"
       },
       {
-        "body": "Possibly, but if that aging population is withdrawing to spend on goods and services, the value of those companies would go up, theoretically. ",
-        "score": 5,
-        "author": "Disastrous-Wonder153"
+        "body": "8% is insanely aggressive. Have you ever stimulated that through a legitimate downturn?",
+        "score": 6,
+        "author": "Shoter95"
       },
       {
-        "body": "It's a well established term of art",
+        "body": "Huh? Plenty of people use the 4% rule to set a target retirement number. So they’re effectively “using it” until they retire ",
         "score": 5,
-        "author": "rhetoricalimperative"
+        "author": "mzinz"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-26",
-    "savedAt": {
-      "_seconds": 1795711295,
-      "_nanoseconds": 252000000
-    }
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
     "id": "1y6f156",
@@ -131,147 +157,38 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1y5j9bl",
-    "title": "Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y5j9bl/dow_closes_higher_wednesday_wiping_out_1100point/",
-    "author": "TorukMaktoM",
-    "score": 52,
-    "selftext": "The Dow Jones Industrial Average erased an 1,100-point plunge on Wednesday as Wall Street tried to recover from steep declines led by artificial intelligence-linked stocks.\n\nThe blue-chip Dow advanced 164.25 points, or 0.33%, to end at 50,182.95. The Nasdaq Composite, however, fell 0.62% to 23,585.80, while the S&P 500 shed 0.25% to close at 7,182.78.\n\nStocks came well off their lows as the session went on. The blue-chip Dow lost more than 1,100 points, or 2.2% at its low of the day. The tech-heavy Nasdaq was down 4.6%, and the broad market S&P 500 shed 3.2% at their respective lows.",
-    "subreddit": "StockMarket",
-    "created_utc": 1795641937,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "The Nasdaq went from down 4.6% to almost flat in one session. That kind of intraday reversal usually means big buyers were waiting for a dip. Doesn't mean the selling is over though, we've seen plenty of strong rebounds followed by lower lows.",
-        "score": 48,
-        "author": "SuccessfulAnything35"
-      },
-      {
-        "body": "It's this just all HFT options at open and close?\n\nThis doesn't make sense for swings like this to continue every day.\n\nThis isn't normal.",
-        "score": 16,
-        "author": "Srnkanator"
-      },
-      {
-        "body": "Brother what exactly about the past 2 years has been normal??  At this stage, this is normal ",
-        "score": 10,
-        "author": "parsleymelon"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-    "dateString": "2026-11-26",
+    "dateString": "2026-11-27",
     "savedAt": {
-      "_seconds": 1795711295,
-      "_nanoseconds": 719000000
+      "_seconds": 1795796834,
+      "_nanoseconds": 785000000
     }
   },
   {
-    "id": "1y5ui0n",
-    "title": "How are you allocating for steady growth?",
-    "url": "https://www.reddit.com/r/investing/comments/1y5ui0n/how_are_you_allocating_for_steady_growth/",
-    "author": "YK5Djvx2Mh",
-    "score": 48,
-    "selftext": "Traditionally it's recommended to just put your money into the S&P and let it ride, or to balance with bonds for stability. With the S&P being so largely affected by volatile tech stocks, where is everyone putting their money for growth? Before the Nvidia scandal, it was nearly 9% of the S&P. That doesn't seem well balanced to me. Am I wrong?",
-    "subreddit": "investing",
-    "created_utc": 1795676032,
+    "id": "1y70uwi",
+    "title": "Nvidia CEO and ethics",
+    "url": "https://www.reddit.com/r/business/comments/1y70uwi/nvidia_ceo_and_ethics/",
+    "author": "jsnxander",
+    "score": 58,
+    "selftext": "I think the best thing about the reinstatement is that I'll never have to sit through another business ethics webinar. All I need to do is focus on the bottom line and I can do anything I want. I remember when I was in business school discussing situational ethics. What a load! The next time my daughter asks if she should pass a faulty product that may injure buyers ill proudly say, \"All good if the over/under is is that your options will increase in value. Not your problem what happens to people that use your product.\" \n\nFreedom. I call it freedom. ",
+    "subreddit": "business",
+    "created_utc": 1795805312,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Panic sell to lock in the loss then buy it back the next day to trigger a wash sale and avoid tax-loss harvesting",
-        "score": 15,
-        "author": "ice_up_s0n"
+        "body": "Took me a second to catch the sarcasm, but you're right, and it's a little scary how many people would say that with a straight face.\n\nEven if it feels like ethics and morals are slipping everywhere, that's exactly when it matters to stay a leader. I run a small business, and nobody forcing you to do the right thing just means it's on you to do it anyway. Rules come and go. Your name stays on the work.\n\nIf we cut a corner and somebody gets hurt, \"it helped the bottom line\" won't mean anything to that family, or to me.",
+        "score": 27,
+        "author": "weird-ali"
       },
       {
-        "body": "That's the beauty of index investing: you don't have to pick the winning sector or stock. Whatever becomes the most valuable companies, whether biotech, robotics, space or something we haven't named yet, takes the biggest share of the index automatically.\n\nYour concern is fair, though. A cap-weighted index means you hold more of whatever is biggest, so a few tech giants can dominate. That's a real trade-off, not a flaw you can ignore. If it bothers you, look at equal-weight or global funds as an alternative.\n\nThe simple rule many people follow is to keep investing regularly and let the rest of life take up your attention. NFA, just a general view.",
-        "score": 14,
-        "author": "LorenzInAsia"
+        "body": "The difference is Jensen single handedly brought a trillion dollars of value to the company by being rehired.\n\nThe rules don't apply to him. \n\nYou are not worth a trillion dollars. The rules will still apply to you.",
+        "score": 24,
+        "author": "Namika"
       },
       {
-        "body": "It's 12 years old now, but Jack Bogle actually addressed differently weighted index funds in [an interview](https://www.fool.com/investing/mutual-funds/2014/03/15/does-cap-weighting-produce-a-flawed-index.aspx) and it still seems relevant:\n\n>**Tom Gardner:** If we take the concept of \"too big to succeed\" and apply it to a capitalization-weighted index fund, isn't that a bad idea? ... Aren't we buying the largest companies and the most successful companies, which should have the smallest future market opportunity, and underweighting the small, potentially upstart, disruptive future Vanguards?\n\n>**Jack Bogle:** Well, you're saying that the cap-weighting indexes give you a flawed index, in effect. I guess my first comment would be, since such an index beats the heck out of money managers, what kind of trouble would we be in if there were a perfect index? ... Now, will a value-weighted index do better? Will a dividend-weighted index do better? Probably it will do better some of the time. I do not believe it will do better in the long run. That remains to be seen. But when you think about it, if \"fundamental indexing,\" — whatever that means exactly, but a weighting by some corporation data, rather than by market price — still owns essentially all the stocks that the S&P 500 owns, with just somewhat different weights; not huge, but somewhat different weights. They may do better, they may do worse. But if they continue to do better, what will happen? Everybody will take their money out of the market-weighted index and put it into the value-weighted index, and then the opportunity will vanish. That's the way the markets work.",
-        "score": 11,
-        "author": "CoughCoughCool"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1y5qme5",
-    "title": "SoftBank Credit Risk Tops 500 Basis Points as AI Worries Mount",
-    "url": "https://www.reddit.com/r/investing/comments/1y5qme5/softbank_credit_risk_tops_500_basis_points_as_ai/",
-    "author": "confused_boner",
-    "score": 26,
-    "selftext": "Title: SoftBank Credit Risk Tops 500 Basis Points as AI Worries Mount\n\nAuthor: Takahiko Hyuga\n\nPublished: 2026-11-26\n\nSource Link: [https://www.bloomberg.com/news/articles/2026-11-26/softbank-credit-risk-tops-500-basis-points-as-ai-worries-mount](https://www.bloomberg.com/news/articles/2026-11-26/softbank-credit-risk-tops-500-basis-points-as-ai-worries-mount)\n\n\n\n\\---\n\n\n\nSoftBank Group Corp.’s credit risk surged above 500 basis points for the first time in about four years, raising the prospect of even higher funding costs as the company presses ahead with massive investments in artificial intelligence.\n\n\n\nSoftBank’s five-year credit-default swap rose to 516 basis points as of 6:30 a.m. in Tokyo, the highest since October 2022, according to data compiled by Bloomberg. The spread on a dollar bond it sold in September with a 9.75% coupon, the highest ever for one of its dollar notes, has widened about 40% since issuance to about 644 basis points.\n\n\n\nThe deterioration comes as the AI stock trade reverses, raising questions about the future valuation of OpenAI, in which SoftBank has invested $64.6 billion, and its ability to recoup that investment. Wider bond spreads could also make future issuance and refinancing more expensive.\n\n\n\n“The broadening of the AI business isn’t going to change, but monetization will take longer,” said Masahito Sugawara, a senior strategist at Daiwa Securities Co. For AI firms relying on future cash flows to repay debt, delays in monetization could complicate refinancing and “lead investors to demand wider spreads,” he said.\n\n\n\nSoftBank’s financial burden is already growing. Finance costs in the July-September quarter rose 2.6 times from a year earlier to ¥461.9 billion ($2.9 billion). It raised about ¥9 trillion during the quarter.\n\n\n\nS&P Global Ratings said this month that key metrics were approaching the tolerance limits for its rating on SoftBank. It estimated the loan-to-value ratio has risen above 30%, approaching its 35% threshold for considering a downgrade.\n\n\n\nAnthropic PBC shares fell below their initial public offering price less than four sessions after their record-setting debut. OpenAI has ruled out an IPO this year, adding uncertainty over the eventual valuation and monetization of SoftBank’s massive investment.",
-    "subreddit": "investing",
-    "created_utc": 1795663196,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "SoftBank failing and then that leading to a liquidity crisis in Japan would be a serious way for the AI bubble to burst. \n\nRecessions only happen because safe assets become unsafe (see US houses and some EU debt). Japan is at 250% debt to GDP. If all that turns risky then that is a big problem. ",
-        "score": 2,
-        "author": "PuffyPanda200"
-      },
-      {
-        "body": "The part that worries me more is the interest bill. In one quarter, finance costs came in at 2.6 times what they were a year earlier. On my checks SoftBank Group already fails on debt, return on capital and cash. So paying that bill leans on what OpenAI is worth to the next buyer. If the debt check fails, it doesn't make it into my portfolio. A holding company built on borrowed money can lose 70% when that value gets questioned. Not flinching through that is something you train for years before you need it.",
-        "score": 2,
-        "author": "JHgrandgerard"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1y5gcf4",
-    "title": "A consortium led by U.S. billionaire Todd Boehly's investment firm, Eldridge, to acquire the international energy assets of sanctioned Russian oil company Lukoil",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y5gcf4/a_consortium_led_by_us_billionaire_todd_boehlys/",
-    "author": "bemeandnotyou",
-    "score": 22,
-    "selftext": "Retail investors who held frozen Lukoil shares through U.S. depositary banks (ADRs) or Western investment funds are set to recover roughly 30 cents on the dollar**.** \n\nUS billionaire Todd Boehly is leading a consortium to acquire the vast portfolio of international energy assets belonging to Russia’s second-largest oil producer, his investment firm Eldridge announced Wednesday.\n\nEldridge said in a [statement](https://www.businesswire.com/news/home/20261125144720/en/American-Led-Consortium-Announces-Agreement-to-Acquire-LUKOIL-Internationals-Global-Energy-Portfolio) that the consortium, which includes the U.S. International Development Finance Corporation, had agreed to buy Lukoil International from its sanctioned Russian parent. The sale price was not disclosed, but the deal will result in the US government receiving an equity stake in Lukoil via the DFC.\n\nThe deal will “secure critical global energy assets under American and allied ownership,” the statement added.     Lukoil’s upstream operations span 11 countries and currently produce around 350,000 barrels of oil equivalent a day. The portfolio includes oil and gas fields; three refineries in Europe; 2,000 retail gas stations across 16 countries in Europe, North America and Central Asia; and an international trading business.\n\nLukoil’s overseas portfolio of assets will be acquired via a share swap, with restricted shares in its Russian parent and other Russian companies exchanged for Lukoil International’s equity. This “avoids any direct cash payment to Russia under the transaction,” Eldridge said.\n\nOther investment partners include UAE-based Catena Investment Holding and US investment bank Xtellus Partners. The transaction is subject to conditional approval from the US Treasury Department’s Office of Foreign Assets Control. \n\nAnother deal struck to benefit the Avg American, right? right? \n\n\n\n\n\n  \n",
-    "subreddit": "StockMarket",
-    "created_utc": 1795634808,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "Recovering 30 cents on the dollar is pretty rough for retail holders. Hard to call that a win when the biggest benefit seems to be going to the buyers.",
-        "score": 4,
-        "author": "RalphKiel"
-      },
-      {
-        "body": "Can’t imagine this deal was done with retail bag holders considered anything except collateral damage. This sale is a gift to donors",
-        "score": 2,
-        "author": "paddenice"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1y5xind",
-    "title": "Biggest winners of UN move to make profit shifting obsolete oppose it",
-    "url": "https://www.reddit.com/r/finance/comments/1y5xind/biggest_winners_of_un_move_to_make_profit/",
-    "author": "what_the_mark",
-    "score": 18,
-    "selftext": "Countries will recover $394 billion in tax a year from multinational corporations currently shifting profit into tax haven under a UN tax convention text geared to make profit shifting obsolete, a new study reports.\n\nThe $394 billion would be enough for governments to cut down four-fifths of the global rise in household energy bills seen since 2021, turning back the clock on energy bills to before the US-Israel war on Iran and Russia’s invasion of Ukraine.\n\nThe findings come just days before the biggest winners of making profit shifting obsolete – the UK and EU – are expected to maintain their opposition to the changes at the UN.",
-    "subreddit": "finance",
-    "created_utc": 1795687165,
-    "thumbnail": "https://external-preview.redd.it/iE520ubDMc1GnEVLpyNGqZgVEpx5BbEJExwQ1NaZgOo.jpeg?width=140&height=85&auto=webp&s=cdcd03b3b150eaeecd162e9acd7cc9e3a9c655a7",
-    "top_comments": [
-      {
-        "body": "Us(trump) stiwll oppose this of course.",
-        "score": 1,
-        "author": "Antagonist007"
-      },
-      {
-        "body": "It’s also enough for 262 billion hot dogs from Costco, but I’m sure it won’t go towards that either. ",
-        "score": 1,
-        "author": "Hefty-Inevitable-660"
+        "body": "A man asks a woman, \"Would you sleep with me for a trillion dollars?\"\n\nShe thinks about it and says, \"Yes, I would.\"\n\nHe asks, \"How about for ten dollars?\"\n\nOffended, she replies, \"What do you think I am?\"\n\nHe says, \"We've already established what you are—now we're just negotiating the price.\"",
+        "score": 16,
+        "author": "BluePrintSpec"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -302,7 +219,12 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-27",
+    "savedAt": {
+      "_seconds": 1795796837,
+      "_nanoseconds": 876000000
+    }
   },
   {
     "id": "1y6mmc9",
@@ -333,6 +255,135 @@ window.dailyTrends = [
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+    "dateString": "2026-11-27",
+    "savedAt": {
+      "_seconds": 1795796838,
+      "_nanoseconds": 432000000
+    }
+  },
+  {
+    "id": "1y6me65",
+    "title": "Nomura says AI server revenue jumps from $364B to $886B in 1 year, then grows only 24% the year after",
+    "url": "https://www.reddit.com/r/investing/comments/1y6me65/nomura_says_ai_server_revenue_jumps_from_364b_to/",
+    "author": "AlphaYou_net",
+    "score": 26,
+    "selftext": "Nomura's new forecast for global AI server revenue:   \n  \n$364B in 2026 (+90%), $886B in 2027 (+143%), then $1.1T in 2028, which is +24%, so even the bull case has growth falling off a cliff in 2028.\n\nThink Dell, HPE, Super Micro, the guys selling the boxes.   \n  \nIf the bank making the bullish call already pencils growth dropping from 143% to 24%, those names get priced on 2028 long before 2027 shows up in their results.",
+    "subreddit": "investing",
+    "created_utc": 1795761371,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": ">growth falling off a cliff in 2028\n\nWhen I was a junior analyst we would always make fun of the journalists who never understood the concept of a base effect.",
+        "score": 28,
+        "author": "mindaro_sienna"
+      },
+      {
+        "body": "I wish my salary grew only 24% per year",
+        "score": 18,
+        "author": "Boskim0n0"
+      },
+      {
+        "body": "Well yeah no growth is sustainable as a linear pattern. I don’t think anyone was dumb enough to price those companies based on forever 100%+ growth for the next 20 years. The question is more how much more money is added every year, and here we’re going from a record year of $500bn to $200bn yoy. If 2029 is $50bn or negative, then there is a real big issue. ",
+        "score": 6,
+        "author": "shannister"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y6tnry",
+    "title": "The Fed cut 3 times in late 2025. A December hike would undo two",
+    "url": "https://www.reddit.com/r/investing/comments/1y6tnry/the_fed_cut_3_times_in_late_2025_a_december_hike/",
+    "author": "TalVal_Research",
+    "score": 24,
+    "selftext": "The Fed cut three times in late 2025, to 3.50-3.75%. This September it hiked for the first time since 2023, to 3.75-4.00%.\n\n\n\nWednesday's PCE report put October inflation at 3.8%, or 3.3% without food and energy. After it, CME FedWatch priced a December hike at about 97%. That would take the rate back to 4.00-4.25%, where it was after the first 2025 cut.\n\n\n\nOne camp says the 2025 cuts came too early. The other says hiking into a stock market sell-off is the bigger mistake.\n\n\n\nWhich one was the mistake?\n\n\n\nNo position.",
+    "subreddit": "investing",
+    "created_utc": 1795787216,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "Meh, Fed is going to hike into a recession like they always do.\n\nAnd Trump gets to point at the democrats. And idiots will believe it. \n\nThe stock market is just giving things a little push towards a recession, but really this action is all driven by yields. ",
+        "score": 23,
+        "author": "PlanetCosmoX"
+      },
+      {
+        "body": "They should hike 50 bps in December ",
+        "score": 9,
+        "author": "Celcius_87"
+      },
+      {
+        "body": "on the recession part, q3 gdp was revised up to 4.3% on wednesday. on yields, the 10-year was 4.85% on wednesday, down from 5.31% on october 5, so long rates have been falling while the fed hikes",
+        "score": 6,
+        "author": "TalVal_Research"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y7hl1e",
+    "title": "situational awareness just put out its q3 letter and the core pitch is kinda crazy",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y7hl1e/situational_awareness_just_put_out_its_q3_letter/",
+    "author": "AlphaYou_net",
+    "score": 24,
+    "selftext": "situational awareness just put out its q3 letter and the core pitch is kinda crazy: it's way too easy to be accidentally long agi and short asi.\n\nthe idea is everyone's piling into today's ai winners assuming smart tools just juice their margins. but once models blow past human intelligence, all that skilled talent, management, and the organizational moat stops mattering.   \n  \nhe thinks 400+ s&p 500 companies end up worth almost nothing, calling out microsoft, apple, eli lilly, and even tesla as exposed.\n\nhe says the market is pricing 2027 for sluggish progress while he sees 3 years of gains in 1, and literally says either him or the market looks dumb in a year.\n\ntalking this right after losing 65% in a quarter and getting margin called is damn funny tho.\n\nstill, the argument bugs me.   \n  \nhalf the \"safe\" blue chips in our portfolios are priced for ai helping them, not making them obsolete.   \n  \nanyone buying this shit?",
+    "subreddit": "StockMarket",
+    "created_utc": 1795856206,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "He seems like a gambler who's lost most of his money, and is going to try increasingly risky strategies to get it back.   \n  \nHigh-risk high-reward is quite a stupid way to invest.",
+        "score": 32,
+        "author": "Particular-Boss-2184"
+      },
+      {
+        "body": "He also says gold is going to lose all its value because of asteroid mining. ",
+        "score": 10,
+        "author": "Cav829"
+      },
+      {
+        "body": "His clients are SV execs who all live and breathe this pipe dream, so it’s like preaching to the choir.\n\nIf he goes small in statement they withdraw their funds, so naturally he goes bonkers Elon-style",
+        "score": 9,
+        "author": "TradingTennish"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
+    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+  },
+  {
+    "id": "1y6tbno",
+    "title": "I checked if the biggest winners of the last 6 months keep going up. US stocks since 2017",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y6tbno/i_checked_if_the_biggest_winners_of_the_last_6/",
+    "author": "MomentumHunter45",
+    "score": 24,
+    "selftext": "A lot of people buy whatever went up the most in the last few months. I wanted to see if that works.  \nEach month I take all US stocks above $5 that trade at least $5M a day, that's around 2,100 stocks. I buy the top 10% by the last 6 months return, equal parts, and redo it next month. Stocks that got delisted are in the data too.  \nFrom Jan 2017 to Sep 2026, $10,000 in the winners became about $30,700. All 2,100 stocks in equal parts became $24,100.  \nThe winners did better, but with 0.2% a month for trading costs they ended at $24,300, about the same as all stocks. Just holding SPY with dividends made about $40,000, more than both.  \nThe extra came mostly from a few rockets like GME in Jan 2021. If I count every month above +100% as just +100%, the winners are only a little ahead of all stocks. The typical winner stock was flat the next month, the typical stock was up about 0.6%.  \nI also tried the classic version, 12 months without the last one. That one starts in Jul 2017. It did better, about the same as SPY before costs, behind it after costs. To be fair, these years were very good for big tech, and SPY is heavy in big tech.",
+    "subreddit": "StockMarket",
+    "created_utc": 1795786249,
+    "thumbnail": "self",
+    "top_comments": [
+      {
+        "body": "No, no taxes in it. They would make it even worse. You rebuy every month, so in a normal taxable account almost all gains are short term. SPY you just hold. In an IRA this part doesn't matter.",
+        "score": 2,
+        "author": "MomentumHunter45"
+      },
+      {
+        "body": "Cool test. Looks like most of the edge came from a handful of rockets like GME, and that's rough to stick with in real life. You'd sit through a lot of meh months waiting on the one that pays.\n\nWhat's it look like with the top 2 or 3 winners pulled out?",
+        "score": 1,
+        "author": "OpeningBellDesk"
+      },
+      {
+        "body": "nice that you kept the delisted names in, most people skip that and the results look way better than they should. one thing i'd check is equal weight vs SPY being cap weighted, a lot of the gap the last few years is just the mega caps running, so testing the winners cap weighted might close it some. the cost part is the real lesson tho, 0.2% a month turning a win into a tie is what happens to most strategies once you add real fills",
+        "score": 1,
+        "author": "TheDeltaGhost8"
+      }
+    ],
+    "summary_he": "תקציר לא זמין (שגיאת AI)",
+    "category_he": "כללי",
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
@@ -348,28 +399,38 @@ window.dailyTrends = [
     "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה.",
+    "dateString": "2026-11-27",
+    "savedAt": {
+      "_seconds": 1795796838,
+      "_nanoseconds": 926000000
+    }
   },
   {
-    "id": "1y684v4",
-    "title": "Tencent swung from net cash to net debt in the third quarter, its capital expenditure line at about 81.4 billion yuan",
-    "url": "https://www.reddit.com/r/StockMarket/comments/1y684v4/tencent_swung_from_net_cash_to_net_debt_in_the/",
-    "author": "CodDifficult1339",
-    "score": 10,
-    "selftext": "Tencent moved from net cash to about 13.7 billion yuan of net debt by the end of September, and the third-quarter filing listed about 81.4 billion yuan on the capital expenditure line. At the end of June it had net cash of about 58.2 billion yuan; in the unaudited results posted November 18, Tencent said the shift came primarily from large compute procurement. The quarter's AI bill landed on the balance sheet.\n\nNon-IFRS operating profit, Tencent's adjusted measure adding share-based compensation and other items back to IFRS operating profit, fell 6% from a year earlier to about 68.1 billion yuan. Stripping out what it calls new AI products, mainly Hy, Yuanbao, CodeBuddy, WorkBuddy and Xiaowei, Tencent reports non-IFRS operating profit up 8% to about 83.3 billion yuan. That 8% is measured against a same-basis year-earlier figure whose amount Tencent didn't publish. I lined the two up and subtracted, getting a third-quarter gap of about 15.2 billion yuan, roughly how much new AI products reduced non-IFRS operating profit by Tencent's own split.\n\nFree cash flow in the third quarter was negative 69.1 billion yuan. Tencent says compute procurement prepayments sat inside operating cash flow; excluding them, free cash flow would have been positive 16.9 billion yuan.\n\nThe capex line a year earlier was about 13.0 billion yuan. I compared the cash paid for capital expenditure in the quarter, 65.1 billion yuan, with the capex line; my arithmetic gave about 80%, and the filing doesn't reconcile the two.\n\nAt the end of September, excluding subsidiaries, Tencent's stakes in listed investees carried a fair value of about 505.4 billion yuan, with unlisted stakes at a book value of about 397.2 billion yuan. The number to watch in Tencent's next quarterly filing is the gap between those two profit measures. Are you counting the new AI products' drag when you read Tencent's profit?\n\nAs listed by the issuer for November 24, Tencent's Hong Kong shares stood at about 10.35% of CNQQ. Besides Hong Kong stocks, the fund also holds Shanghai and Shenzhen A shares. KWEB tracks an index of Chinese internet companies traded on exchanges outside mainland China.",
+    "id": "1y7ai42",
+    "title": "Investment thesis for trading week 11/30 - 12/4",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y7ai42/investment_thesis_for_trading_week_1130_124/",
+    "author": "Chart-trader",
+    "score": 13,
+    "selftext": "Happy Thanksgiving week!\n\nThere is a lesson for almost every market situation. This week's lesson was: Missing out on the best 5 days every trading year costs about 40% of performance over a 20 year period.\n\nThat's why one should always be at least 60% invested in equities no matter what the fundamental, geopolitical or chart picture looks like because nobody can consistently predict how markets react!\n\nWe had quite the sell off up until last week (as outlined in last week's investment thesis).\n\nDespite longterm charts suggesting that we could roll over for quite some time, equities hardly ever fall in one straight line and sharp rallies should be expected.\n\nLast week I suggested that the VIX of 40 plus crazy high put/call ratios and the Fear and Greed index could allow for a possible dead cat bounce. Therefore I had bought QQQ on Friday.\n\nMonday came along and short sellers got squeezed a little bit too hard IMO. Therefore I trimmed a little before buying hand over fist again the following days when another wave of sellers tried to push prices down. Put/Call ratios remained elevated giving me more confidence in buying more again mid week.\n\nNDX 100 now formed a tradeable short term double bottom (Friday and Wednesday) that can keep going for a few weeks.\n\nWe could rise 5-10% from here without negating the overarching sell signal.\n\nThe S&P 500 (SPY) could even reach $762 without negating the overarching sell signal based on charts.\n\nWhat does this mean for the portfolios now?\n\nLong term portfolios remain in a defensive stance with a 60% allocation for the S&P 500, 5% semis and 35% Cash/Bonds. \n\nShort term portfolios are always positioned more aggressively especially after sell offs like the ones we just had. SPY (63%), TLT (10%), QQQ (49%), Semis (17%) and Chinese tech once again (11%). That adds up to 150%.\n\nThere is hope now that a year end rally can still happen but V shaped recoveries are not that common and I am not 100% certain the NDX 100 double bottom will be enough.\n\nHave a great rest of the weekend and a great trading week!",
     "subreddit": "StockMarket",
-    "created_utc": 1795717461,
+    "created_utc": 1795831978,
     "thumbnail": "self",
     "top_comments": [
       {
-        "body": "Happy I exited my china positions last year",
+        "body": "One has to play both sides.\nYes overall there is a chance the house of cards will fall but on a short term basis there are always opportunities.",
         "score": 2,
-        "author": "Inaccurate93"
+        "author": "Chart-trader"
       },
       {
-        "body": "I use Tencent's apps almost every day, but I honestly haven't found much reason to use their AI features yet. Maybe that'll change as they improve.",
+        "body": "I mean, yea i did?  whole thesis is stocks could go up or down (or stay the same). lol…\n\nwhich, is pretty solid advice tbh.  no shade",
         "score": 1,
-        "author": "LethargicRush"
+        "author": "JoeDirtTrenchCoat"
+      },
+      {
+        "body": "Yeah man. This is the entire edge.\nYou called it.",
+        "score": 1,
+        "author": "Chart-trader"
       }
     ],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -377,65 +438,18 @@ window.dailyTrends = [
     "comments_summary_he": "סיכום תגובות לא זמין כרגע."
   },
   {
-    "id": "1y5jlmp",
-    "title": "Disney at new 4 1/2 year highs - breaking out",
-    "url": "https://www.reddit.com/r/investing/comments/1y5jlmp/disney_at_new_4_12_year_highs_breaking_out/",
-    "author": "lasereyekiwi",
-    "score": 9,
-    "selftext": "Following its turnaround in Fundamentals (streaming now generating large profits, cord cutting has slowed, broadcast & ESPN stabilised, parks & cruises continuing its history of prolonged sustained growth, merchandising continues being a cash cow) - Disney has now climbed to a share price not seen since April 2022. \n\nThe stock has also been surging as a safe haven amongst the recent tech carnage, with its low forward earnings multiple, solid growth, large buyback program & dividend, and the prospect of more cost cutting to juice profits. On a longer term basis it's also now apparent it will be able to lower film & TV production costs significantly on its large IP tentpoles with the use of much cheaper AI generation tech in place of expensive CGI work.",
-    "subreddit": "investing",
-    "created_utc": 1795642850,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "I’m at $145 too!\n\nOnly 14% to go… 😬",
-        "score": 5,
-        "author": "NorthEastNobility"
-      },
-      {
-        "body": "This. Just got back from Disney trip. It was absolutely packed with everyone head to toe in Disney merchandise. Zero sign of economic weakness. ",
-        "score": 4,
-        "author": "CarminSanDiego"
-      },
-      {
-        "body": "imagine if they had not tanked star wars value",
-        "score": 2,
-        "author": "GameMusic"
-      }
-    ],
+    "id": "1y6xxvs",
+    "title": "Amazon fell 8.7% going into Black Friday while Walmart, Target and Home Depot rose",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1y6xxvs/amazon_fell_87_going_into_black_friday_while/",
+    "author": "dagilisek",
+    "score": 13,
+    "selftext": "The window is the Nov 18 close to the Nov 25 close, Home Depot rose 7%, Target 3.8%, Walmart 3.6% and Best Buy 2.3%. Amazon fell 8.7%.\n\nAmazon doesn't trade like a retailer anymore, it trades on AWS and AI spending so Black Friday sales numbers barely matter for the stock.\n\nEvery store-based retailer on the chart went up and the biggest online one fell 8%, that's not what it looks like when the market is trading Black Friday.",
+    "subreddit": "StockMarket",
+    "created_utc": 1795798167,
+    "thumbnail": "https://preview.redd.it/o3xem0sxp64i1.png?width=140&height=91&auto=webp&s=c78bafdec843b4dad8f4f54f3d6b424eaf7a963e",
+    "top_comments": [],
     "summary_he": "תקציר לא זמין (שגיאת AI)",
     "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-  },
-  {
-    "id": "1y5cwo3",
-    "title": "Is Microsoft Still a Good Buy in This Macro Environment?",
-    "url": "https://www.reddit.com/r/investing/comments/1y5cwo3/is_microsoft_still_a_good_buy_in_this_macro/",
-    "author": "FantasticAd180",
-    "score": 9,
-    "selftext": "Hi everyone! I've noticed there are a lot of smart and  nice people here, so I thought I'd ask for your opinions.\n\nI'm trying to figure out if MSFT is a good buy right now or if I'm overlooking some risks, especially given the current macro situation. I honestly don't think the war is going to end anytime soon, and I'm also worried about interest rates potentially going higher and how that could affect Microsoft.\n\nI was thinking about getting in around $465, but I'm still on the fence.\n\nI used to be a trader, so I still pay attention to technical indicators. Mine isn't showing any institutional buying today, and the downtrend still seems to be in place. So I'm hesitant to jump in just yet. Maybe I'm wrong, though. It's really hard to predict where the bottom is.\n\nI do think MSFT is a great company to hold long term, but its CapEx makes me a little nervous. How vulnerable is the company if the macro situation gets worse?\n\nI'd love to hear what you guys think.\n\nThanks!",
-    "subreddit": "investing",
-    "created_utc": 1795626842,
-    "thumbnail": "self",
-    "top_comments": [
-      {
-        "body": "The business is strong enough to handle rates and the war. The real question is whether all that AI spending pays off.",
-        "score": 15,
-        "author": "SuccessfulAnything35"
-      },
-      {
-        "body": "Yes, definitely. But is it better than GOOGL or AMZN? I own all three but would only be adding to the latter two right now. Again, purely on valuation.",
-        "score": 5,
-        "author": "jcpopm"
-      },
-      {
-        "body": "I started a year ago with $10K in my account and managed to grow it to $26K over the year. I know I got lucky at times, and the market was more bullish back then, but I also gained a lot of experience managing that capital.  \n  \nRight now, I'm in a drawdown because my fair value estimates didn't play out as I expected and the market turned down. I realized that one of my biggest knowledge gaps is that I've never really studied macro. So I want to get smarter and learn more. Not because I want to become a long-term investor, but because I want to understand where the market might be heading, what the risks are, and what's driving it. I'm still a trader, but I want to understand more than just price action.  \n  \nMy approach used to be a mix of investing and trading, but looking back, all the money I actually made came from swing trades. I want to become a more informed trader, especially since I'm not working with a large amount of capital right now.  \n  \nI've already spent a lot of time learning to manage my emotions, and the more experience I gain, the more I realize how much there is to learn. I know I would never have bought NVIDIA at $200–230. But with the current discount, I'm starting to reconsider it. Still, I can't bring myself to buy because I see a downtrend, and what I've been reading about NVIDIA lately doesn't make me very confident either. Maybe I'm wrong, but being wrong is part of the learning process too.  \n  \nI'm also on Reddit because I enjoy having conversations about stocks. It can be a little lonely when you don't have friends to discuss these things with. But this sub feels different. I've noticed a lot of smart and interesting people here. That doesn't mean I'm going to blindly follow anyone's recommendations, of course, but I enjoy hearing different perspectives, checking the information, and forming my own opinions.  \n  \nI'm also planning to write my first trading bot. I just want to experiment and see how it goes. Why not?  \n  \nI've also been thinking about funds. My original plan was to put more capital into funds while keeping some money aside for my own trading. gthtdtlb",
-        "score": 4,
-        "author": "FantasticAd180"
-      }
-    ],
-    "summary_he": "תקציר לא זמין (שגיאת AI)",
-    "category_he": "כללי",
-    "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    "comments_summary_he": "אין תגובות משמעותיות למיזם זה."
   }
 ];
